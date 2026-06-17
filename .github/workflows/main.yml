@@ -1,0 +1,46 @@
+name: Sync Quest Icons
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  SYNC_MODE: git
+  ICON_DIR: icons
+  MAX_WORKERS: "10"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout icons repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install --no-cache-dir -r requirements.txt
+
+      - name: Sync icons from MetaMetadata
+        run: python sync_icons.py --mode git --no-upload
+        env:
+          METADATA_DIR: .cache/metmetadata
+
+      - name: Commit and push icons
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add icons/
+          if git diff --staged --quiet; then
+            echo "No icon changes"
+          else
+            git commit -m "Sync quest icons $(date -u +%Y-%m-%d)"
+            git push
+          fi
