@@ -133,14 +133,22 @@ def url_hash(url: str) -> str:
 # MetaMetadata 数据获取
 # ---------------------------------------------------------------------------
 
-def git_sparse_clone(repo_url: str, target_dir: Path, sparse_paths: List[str]) -> None:
-    """稀疏克隆 MetaMetadata，只拉取需要的目录。"""
-    if target_dir.exists():
+def git_sparse_clone(repo_url: str, target_dir: Path, sparse_dirs: List[str]) -> None:
+    """稀疏克隆 MetaMetadata，只拉取指定目录。
+
+    注意: git sparse-checkout (cone 模式) 只支持目录，不能混单个 .json 文件。
+    图标同步只需 data/common，其中已包含合并后的 icon/landscape 等字段。
+    """
+    dirs = [p.rstrip("/") for p in sparse_dirs if not p.endswith(".json")]
+    if not dirs:
+        raise ValueError("sparse_dirs 至少需要一个目录路径")
+
+    if target_dir.exists() and (target_dir / ".git").exists():
         log.info("更新已有 MetaMetadata 克隆: %s", target_dir)
         subprocess.run(["git", "-C", str(target_dir), "pull", "--ff-only"], check=True)
         return
 
-    log.info("稀疏克隆 MetaMetadata -> %s", target_dir)
+    log.info("稀疏克隆 MetaMetadata -> %s (dirs: %s)", target_dir, dirs)
     target_dir.parent.mkdir(parents=True, exist_ok=True)
     subprocess.run(
         [
@@ -150,7 +158,7 @@ def git_sparse_clone(repo_url: str, target_dir: Path, sparse_paths: List[str]) -
         check=True,
     )
     subprocess.run(
-        ["git", "-C", str(target_dir), "sparse-checkout", "set", *sparse_paths],
+        ["git", "-C", str(target_dir), "sparse-checkout", "set", *dirs],
         check=True,
     )
 
@@ -512,7 +520,7 @@ def main() -> int:
         git_sparse_clone(
             args.metadata_repo,
             metadata_dir,
-            ["data/common", "data/known_oculus_apps.json", "data/known_sidequest_apps.json"],
+            ["data/common"],
         )
         icons = collect_icons_from_local(metadata_dir)
     elif args.mode == "local":
