@@ -94,4 +94,69 @@ location /icons/ {
 | 扫描 5 个 data 子目录 | 只用 `data/common`（已合并最佳字段） |
 | 本地跑完手动上传 | 支持 SFTP / 复制到 web 目录 / GitHub 托管 |
 
-`data/common` 已包含 icon/landscape/square 等字段，无需再扫 oculus/oculusdb 等原始 JSON。
+## 评论同步（sync_reviews.py）
+
+自动拉取 Meta Quest 商店**公开评论**，**无需** `reviews.5698452.xyz` 密钥。
+
+### 原理
+
+| 步骤 | 来源 |
+|------|------|
+| 包名 → App ID | MetaMetadata `oculus_public` / QLoader / OculusDB |
+| 评论内容 | Meta 官方 `ocapi/graphql`（公开 persisted query，无 OAuth） |
+
+yaas-nightly 使用的 `reviews.5698452.xyz` 现已返回 **403**，本工具改走 Meta 商店同款 GraphQL。
+
+### 本地测试
+
+```bash
+pip install requests
+
+# 单应用测试（推荐先跑）
+python sync_reviews.py --package com.beatgames.beatsaber
+
+# 拉取 100 条评论
+python sync_reviews.py --package com.beatgames.beatsaber --max-reviews 100
+
+# 拉取全部评论（Beat Saber 约 9000+ 条，耗时长）
+python sync_reviews.py --package com.beatgames.beatsaber --max-reviews 0
+
+# 按最新排序
+python sync_reviews.py --package com.beatgames.beatsaber --sort newest --max-reviews 50
+
+# 批量（每个应用默认最多 100 条）
+python sync_reviews.py --max-apps 10 --max-reviews 100
+```
+
+输出：
+
+```
+reviews/
+  com.beatgames.beatsaber.json
+  manifest.json
+```
+
+JSON 字段与 yaas 类似：`reviews[]`、`rating_average`、`review_helpful_count`、`developer_response` 等。
+
+### GitHub Actions
+
+仓库内已有 `.github/workflows/sync-reviews.yml`，可手动 Run workflow 或等定时任务。
+
+调用示例：
+
+```
+https://raw.githubusercontent.com/cgapk123/quest-icons-sync/main/reviews/com.beatgames.beatsaber.json
+```
+
+### 限制说明
+
+| 参数 | 默认 | 说明 |
+|------|------|------|
+| `--page-size` | 20 | 每次 API 请求条数 |
+| `--max-reviews` | 0 | 每应用上限，0=全部 |
+| `--sort` | helpful | `helpful` 最有帮助 / `newest` 最新 |
+
+- 全量拉取（如 Beat Saber 9000+ 条）耗时长，建议批量任务设 `--max-reviews 100`
+- 请控制 `--max-apps` 和 `--delay`，避免 Meta 限流
+- [OculusDB API](https://oculusdb.rui2015.me/api/docs) 无评论正文
+

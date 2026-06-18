@@ -1,0 +1,10 @@
+icons/
+reviews/
+.cache/
+_debug_reviews_raw.txt
+__pycache__/
+yaas-nightly/
+test_*.py
+debug_*.py
+find_*.py
+extract_*.py
