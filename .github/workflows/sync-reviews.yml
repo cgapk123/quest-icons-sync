@@ -36,7 +36,19 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f reviews/
+          # 防止 .gitignore 误忽略 reviews/（历史版本曾写入该规则）
+          sed -i '/^reviews\/?$/d' .gitignore 2>/dev/null || true
+          if [ ! -d reviews ]; then
+            echo "No reviews directory"
+            exit 0
+          fi
+          shopt -s nullglob
+          files=(reviews/*.json)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No review json files to commit"
+            exit 0
+          fi
+          git add -f "${files[@]}"
           if git diff --staged --quiet; then
             echo "No review changes"
             exit 0
