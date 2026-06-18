@@ -148,10 +148,14 @@ JSON 字段与 yaas 类似：`reviews[]`、`rating_average`、`review_helpful_co
 |----------|-----|------|
 | `FROM_ICONS` | 1 | 只同步 `icons/` 里已有图标的应用 |
 | `ONLY_MISSING` | 1 | 跳过已有 JSON，每次追平新应用 |
-| `MAX_APPS` | 300 | 每轮最多新同步 300 个应用 |
+| `MAX_APPS` | 150 | 每轮最多新同步 150 个应用 |
 | `MAX_REVIEWS` | 100 | 每个应用最多 100 条评论 |
+| `MAX_WORKERS` | 1 | 串行请求，避免 Meta 429 |
+| `META_MIN_INTERVAL` | 1.5 | 两次 GraphQL 请求最小间隔（秒） |
+| `HTTP_RETRIES` | 10 | 429/5xx 自动退避重试 |
+| `RETRY_COOLDOWN` | 120 | 批次失败后整轮冷却再重试 |
 
-因此 **评论 JSON 数量会远少于图标**：图标一次全量同步约 2 万个；评论受 Meta API 速率限制，每轮只新增约 300 个应用的 JSON，需多轮 run 才能追平。
+因此 **评论 JSON 数量会远少于图标**：图标一次全量同步约 2 万个；评论受 Meta API 速率限制，每轮只新增约 150 个应用的 JSON，需多轮 run 才能追平。
 
 调用示例：
 
@@ -171,6 +175,7 @@ https://raw.githubusercontent.com/cgapk123/quest-icons-sync/main/reviews/com.bea
 | `--sort` | helpful | `helpful` 最有帮助 / `newest` 最新 |
 
 - 全量拉取（如 Beat Saber 9000+ 条）耗时长，建议批量任务设 `--max-reviews 100`
-- 请控制 `--max-apps` 和 `--delay`，避免 Meta 限流
+- Meta 会返回 **429 Too Many Requests**，脚本已内置全局限速 + 指数退避；请勿把 `MAX_WORKERS` 设大于 1
+- 请控制 `--max-apps` 和 `--meta-min-interval`，避免 Meta 限流
 - [OculusDB API](https://oculusdb.rui2015.me/api/docs) 无评论正文
 

@@ -1,60 +1,63 @@
-name: Sync Quest Reviews
-
-on:
-  schedule:
-    - cron: "0 4 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-env:
-  REVIEWS_DIR: reviews
-  ICON_DIR: icons
-  REVIEW_PAGE_SIZE: "20"
-  MAX_REVIEWS: "100"
-  REVIEW_SORT: helpful
-  REQUEST_DELAY: "0.3"
-  MAX_APPS: "300"
-  MAX_WORKERS: "3"
-  ONLY_MISSING: "1"
-  FROM_ICONS: "1"
-
-jobs:
-  sync-reviews:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - run: pip install --no-cache-dir requests
-
-      - name: Sync reviews (batch sample)
-        run: python sync_reviews.py
-
-      - name: Commit reviews
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          # 防止 .gitignore 误忽略 reviews/（历史版本曾写入该规则）
-          sed -i '/^reviews\/?$/d' .gitignore 2>/dev/null || true
-          if [ ! -d reviews ]; then
-            echo "No reviews directory"
-            exit 0
-          fi
-          shopt -s nullglob
-          files=(reviews/*.json)
-          if [ ${#files[@]} -eq 0 ]; then
-            echo "No review json files to commit"
-            exit 0
-          fi
-          git add -f "${files[@]}"
-          if git diff --staged --quiet; then
-            echo "No review changes"
-            exit 0
-          fi
-          git commit -m "Sync quest reviews $(date -u +%Y-%m-%d)"
-          git push
+name: Sync Quest Reviews
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  REVIEWS_DIR: reviews
+  ICON_DIR: icons
+  REVIEW_PAGE_SIZE: "20"
+  MAX_REVIEWS: "100"
+  REVIEW_SORT: helpful
+  REQUEST_DELAY: "1.0"
+  META_MIN_INTERVAL: "1.5"
+  HTTP_RETRIES: "10"
+  RETRY_FAILED: "1"
+  RETRY_COOLDOWN: "120"
+  MAX_APPS: "150"
+  MAX_WORKERS: "1"
+  ONLY_MISSING: "1"
+  FROM_ICONS: "1"
+
+jobs:
+  sync-reviews:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install --no-cache-dir requests
+
+      - name: Sync reviews (batch sample)
+        run: python sync_reviews.py
+
+      - name: Commit reviews
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          sed -i '/^reviews\/?$/d' .gitignore 2>/dev/null || true
+          if [ ! -d reviews ]; then
+            echo "No reviews directory"
+            exit 0
+          fi
+          shopt -s nullglob
+          files=(reviews/*.json)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No review json files to commit"
+            exit 0
+          fi
+          git add -f "${files[@]}"
+          if git diff --staged --quiet; then
+            echo "No review changes"
+            exit 0
+          fi
+          git commit -m "Sync quest reviews $(date -u +%Y-%m-%d)"
+          git push

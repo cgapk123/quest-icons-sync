@@ -12,8 +12,10 @@ import argparse
 import json
 import logging
 import os
+import random
 import re
 import sys
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, asdict
@@ -58,7 +60,62 @@ session.mount("http://", adapter)
 session.mount("https://", adapter)
 session.headers.update({"User-Agent": "QuestReviewsSync/1.0"})
 
-stats = {"fetched": 0, "skipped": 0, "failed": 0, "no_id": 0}
+stats = {"fetched": 0, "skipped": 0, "failed": 0, "no_id": 0, "retried": 0, "rate_limited": 0}
+
+
+class MetaRateLimiter:
+    """全进程共享的 Meta API 限速器（线程安全）。"""
+
+    def __init__(self, min_interval: float):
+        self._base_interval = min_interval
+        self._min_interval = min_interval
+        self._lock = threading.Lock()
+        self._last_at = 0.0
+        self._cooldown_until = 0.0
+
+    def wait(self) -> None:
+        with self._lock:
+            now = time.monotonic()
+            if now < self._cooldown_until:
+                sleep_for = self._cooldown_until - now
+            else:
+                sleep_for = max(0.0, self._min_interval - (now - self._last_at))
+        if sleep_for > 0:
+            time.sleep(sleep_for)
+        with self._lock:
+            self._last_at = time.monotonic()
+
+    def penalize(self, seconds: float) -> None:
+        with self._lock:
+            until = time.monotonic() + seconds
+            self._cooldown_until = max(self._cooldown_until, until)
+            self._min_interval = min(max(self._base_interval, self._min_interval * 1.25), 8.0)
+        stats["rate_limited"] += 1
+        log.warning("Meta 限流冷却 %.1fs，请求间隔 -> %.2fs", seconds, self._min_interval)
+
+    def on_success(self) -> None:
+        with self._lock:
+            if self._min_interval > self._base_interval:
+                self._min_interval = max(
+                    self._base_interval,
+                    self._min_interval * 0.97,
+                )
+
+
+_rate_limiter: Optional["MetaRateLimiter"] = None
+
+
+def get_rate_limiter() -> MetaRateLimiter:
+    global _rate_limiter
+    if _rate_limiter is None:
+        interval = float(os.environ.get("META_MIN_INTERVAL", "1.2"))
+        _rate_limiter = MetaRateLimiter(interval)
+    return _rate_limiter
+
+
+def init_rate_limiter(min_interval: float) -> None:
+    global _rate_limiter
+    _rate_limiter = MetaRateLimiter(min_interval)
 
 
 @dataclass
@@ -277,11 +334,26 @@ def _deep_merge(a: dict, b: dict) -> dict:
     return out
 
 
+def _parse_retry_after(resp: requests.Response) -> float:
+    raw = resp.headers.get("Retry-After")
+    if not raw:
+        return 0.0
+    try:
+        return max(float(raw), 1.0)
+    except ValueError:
+        return 60.0
+
+
 def _post_meta_graphql(
     doc_id: str,
     variables: dict,
     friendly_name: str,
+    *,
+    max_retries: Optional[int] = None,
 ) -> str:
+    if max_retries is None:
+        max_retries = int(os.environ.get("HTTP_RETRIES", "8"))
+
     data = {
         "lsd": "AVqMsnyvi0U",
         "doc_id": doc_id,
@@ -294,9 +366,57 @@ def _post_meta_graphql(
         "Accept": "*/*",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
     }
-    r = session.post(META_OCAPI, data=data, headers=headers, timeout=60)
-    r.raise_for_status()
-    return r.text
+    limiter = get_rate_limiter()
+    last_exc: Optional[Exception] = None
+
+    for attempt in range(max_retries):
+        limiter.wait()
+        try:
+            r = session.post(META_OCAPI, data=data, headers=headers, timeout=60)
+        except requests.RequestException as exc:
+            last_exc = exc
+            wait = min(2 ** attempt, 30) + random.uniform(0, 1)
+            log.warning(
+                "Meta 网络错误 (%d/%d): %s，%.1fs 后重试",
+                attempt + 1, max_retries, exc, wait,
+            )
+            time.sleep(wait)
+            continue
+
+        if r.status_code == 429:
+            wait = max(_parse_retry_after(r), 5 * (2 ** min(attempt, 4)))
+            wait += random.uniform(0, 2)
+            limiter.penalize(wait)
+            time.sleep(wait)
+            last_exc = requests.HTTPError(f"429 Too Many Requests", response=r)
+            continue
+
+        if r.status_code in (502, 503, 504):
+            wait = min(2 ** attempt, 30) + random.uniform(0, 1)
+            log.warning(
+                "Meta %d (%d/%d)，%.1fs 后重试",
+                r.status_code, attempt + 1, max_retries, wait,
+            )
+            time.sleep(wait)
+            last_exc = requests.HTTPError(f"{r.status_code} Server Error", response=r)
+            continue
+
+        try:
+            r.raise_for_status()
+        except requests.HTTPError as exc:
+            last_exc = exc
+            if attempt + 1 >= max_retries:
+                raise
+            wait = min(2 ** attempt, 15) + random.uniform(0, 1)
+            time.sleep(wait)
+            continue
+
+        limiter.on_success()
+        return r.text
+
+    if last_exc:
+        raise last_exc
+    raise RuntimeError("Meta GraphQL 请求重试耗尽")
 
 
 def parse_pagination_response(text: str) -> Optional[dict]:
@@ -543,6 +663,7 @@ def sync_one_app(
     max_reviews: int,
     sort: str,
     request_delay: float,
+    record_failure: bool = True,
 ) -> bool:
     out_file = out_dir / f"{safe_name(app.package_name)}.json"
     if not force and out_file.exists():
@@ -581,7 +702,8 @@ def sync_one_app(
         return True
     except Exception as exc:
         log.warning("评论拉取失败 %s (%s): %s", app.package_name, app.app_id, exc)
-        stats["failed"] += 1
+        if record_failure:
+            stats["failed"] += 1
         return False
 
 
@@ -614,7 +736,7 @@ def parse_args() -> argparse.Namespace:
         default=os.environ.get("REVIEW_SORT", DEFAULT_SORT),
         help="helpful=最有帮助 | newest=最新",
     )
-    p.add_argument("--max-workers", type=int, default=int(os.environ.get("MAX_WORKERS", "4")))
+    p.add_argument("--max-workers", type=int, default=int(os.environ.get("MAX_WORKERS", "1")))
     p.add_argument("--max-apps", type=int, default=int(os.environ.get("MAX_APPS", "0")), help="0=不限制")
     p.add_argument(
         "--only-missing", action="store_true",
@@ -642,7 +764,30 @@ def parse_args() -> argparse.Namespace:
         "--page-doc-id",
         default=os.environ.get("REVIEW_PAGE_DOC_ID", DEFAULT_REVIEW_PAGE_DOC_ID),
     )
-    p.add_argument("--delay", type=float, default=float(os.environ.get("REQUEST_DELAY", "0.3")))
+    p.add_argument("--delay", type=float, default=float(os.environ.get("REQUEST_DELAY", "1.0")))
+    p.add_argument(
+        "--meta-min-interval", type=float,
+        default=float(os.environ.get("META_MIN_INTERVAL", "1.2")),
+        help="任意两次 Meta GraphQL 请求的最小间隔（秒）",
+    )
+    p.add_argument(
+        "--http-retries", type=int,
+        default=int(os.environ.get("HTTP_RETRIES", "8")),
+        help="429/5xx 最大重试次数",
+    )
+    p.add_argument(
+        "--retry-failed", action="store_true",
+        default=os.environ.get("RETRY_FAILED", "1").lower() in ("1", "true", "yes"),
+        help="批次结束后对失败应用再试一轮",
+    )
+    p.add_argument(
+        "--no-retry-failed", action="store_false", dest="retry_failed",
+    )
+    p.add_argument(
+        "--retry-cooldown", type=float,
+        default=float(os.environ.get("RETRY_COOLDOWN", "90")),
+        help="失败重试前的冷却时间（秒）",
+    )
     return p.parse_args()
 
 
@@ -654,6 +799,9 @@ def _resolve_max_reviews(args: argparse.Namespace) -> int:
 
 def main() -> int:
     args = parse_args()
+    os.environ["HTTP_RETRIES"] = str(args.http_retries)
+    init_rate_limiter(args.meta_min_interval)
+
     out_dir = Path(args.reviews_dir)
     manifest_path = out_dir / DEFAULT_MANIFEST
     manifest = load_manifest(manifest_path)
@@ -723,24 +871,53 @@ def main() -> int:
         log.info("没有待同步的应用（可能已全部完成）")
         return 0
 
-    log.info("本批次同步 %d 个应用（请控制速率，Meta 可能限流）", len(apps))
+    log.info("本批次同步 %d 个应用（workers=%d, meta间隔=%.2fs）", len(apps), args.max_workers, args.meta_min_interval)
 
-    def worker(app: AppRef) -> None:
-        time.sleep(args.delay)
-        sync_one_app(app, out_dir, manifest, force=args.force, **sync_kwargs)
+    failed_apps: List[AppRef] = []
+    failed_lock = threading.Lock()
 
-    with ThreadPoolExecutor(max_workers=args.max_workers) as pool:
-        futures = [pool.submit(worker, app) for app in apps]
-        for i, fut in enumerate(as_completed(futures), 1):
-            fut.result()
-            if i % 50 == 0:
+    def process_app(app: AppRef) -> None:
+        ok = sync_one_app(app, out_dir, manifest, force=args.force, **sync_kwargs)
+        if not ok:
+            with failed_lock:
+                failed_apps.append(app)
+
+    if args.max_workers <= 1:
+        for i, app in enumerate(apps, 1):
+            process_app(app)
+            if i % 25 == 0:
                 save_manifest(manifest_path, manifest)
                 log.info("进度 %d/%d", i, len(apps))
+    else:
+        with ThreadPoolExecutor(max_workers=args.max_workers) as pool:
+            futures = [pool.submit(process_app, app) for app in apps]
+            for i, fut in enumerate(as_completed(futures), 1):
+                fut.result()
+                if i % 25 == 0:
+                    save_manifest(manifest_path, manifest)
+                    log.info("进度 %d/%d", i, len(apps))
+
+    if failed_apps and args.retry_failed:
+        log.info(
+            "失败 %d 个，冷却 %.0fs 后重试一轮（Meta 429 恢复）",
+            len(failed_apps), args.retry_cooldown,
+        )
+        time.sleep(args.retry_cooldown)
+        retry_list = list(failed_apps)
+        for app in retry_list:
+            stats["retried"] += 1
+            if sync_one_app(
+                app, out_dir, manifest, force=args.force,
+                record_failure=False, **sync_kwargs,
+            ):
+                stats["failed"] -= 1
+                log.info("重试成功 %s", app.package_name)
 
     save_manifest(manifest_path, manifest)
     log.info(
-        "完成 | 新增/更新 %d | 跳过 %d | 失败 %d",
+        "完成 | 新增/更新 %d | 跳过 %d | 失败 %d | 重试 %d | 限流 %d",
         stats["fetched"], stats["skipped"], stats["failed"],
+        stats["retried"], stats["rate_limited"],
     )
     return 0 if stats["failed"] == 0 or stats["fetched"] > 0 else 1
 
