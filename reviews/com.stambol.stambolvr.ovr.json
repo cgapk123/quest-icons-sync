@@ -1,0 +1,57 @@
+{
+  "app_id": "1333194773387958",
+  "name": "Stambol VR",
+  "rating_average": 4.125,
+  "rating_count": 32,
+  "review_count": null,
+  "reviews": [
+    {
+      "id": "703382123149751",
+      "score": 5,
+      "review_title": "Pretty cool",
+      "review_description": "Would be nice if you could go out on the balcony...",
+      "date": 1482065918,
+      "review_helpful_count": 3,
+      "author_display_name": "Steadymethods",
+      "author_alias": "Steadymethods",
+      "developer_response": null
+    },
+    {
+      "id": "632626136920273",
+      "score": 4,
+      "review_title": "Beautiful",
+      "review_description": "This is a beautiful creation. The watermark that is literally everywhere kind of takes away from the magic but it's a free piece of art so can't complain!",
+      "date": 1480125458,
+      "review_helpful_count": 3,
+      "author_display_name": "ZealousEllis",
+      "author_alias": "ZealousEllis",
+      "developer_response": {
+        "body": "Thank you very much for the feedback. Next version will have less watermarks.",
+        "date": 1481075984
+      }
+    },
+    {
+      "id": "553758534822233",
+      "score": 5,
+      "review_title": "Wow!",
+      "review_description": "I can't believe these are all CG.",
+      "date": 1477627709,
+      "review_helpful_count": 24,
+      "author_display_name": "hasandogu",
+      "author_alias": "hasandogu",
+      "developer_response": {
+        "body": "We're glad you liked it.",
+        "date": 1481076014
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-18T05:07:14Z",
+  "package_name": "com.stambol.stambolvr.ovr",
+  "id_source": "known"
+}

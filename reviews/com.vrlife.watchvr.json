@@ -1,0 +1,104 @@
+{
+  "app_id": "1588092357883622",
+  "name": "Watch VR",
+  "rating_average": 3.1282051282051,
+  "rating_count": 39,
+  "review_count": null,
+  "reviews": [
+    {
+      "id": "1199824310125477",
+      "score": 5,
+      "review_title": "",
+      "review_description": "I love it",
+      "date": 1486325069,
+      "review_helpful_count": 2,
+      "author_display_name": "niyong",
+      "author_alias": "niyong",
+      "developer_response": {
+        "body": "Thanks! :)",
+        "date": 1486386673
+      }
+    },
+    {
+      "id": "1728342627496176",
+      "score": 2,
+      "review_title": "",
+      "review_description": "Needs alot more content",
+      "date": 1487206220,
+      "review_helpful_count": 1,
+      "author_display_name": "Eddie0803",
+      "author_alias": "Eddie0803",
+      "developer_response": {
+        "body": "Hi Eddie! Yes, we are working on upload more content regularly. Stay tuned!",
+        "date": 1487669302
+      }
+    },
+    {
+      "id": "1672586429704382",
+      "score": 5,
+      "review_title": "Thank you",
+      "review_description": "..",
+      "date": 1492631474,
+      "review_helpful_count": 0,
+      "author_display_name": "petofalvi",
+      "author_alias": "petofalvi",
+      "developer_response": null
+    },
+    {
+      "id": "1403845176411566",
+      "score": 2,
+      "review_title": "Minimal Content",
+      "review_description": "The content is very minimal and the quality isn't that good. Maybe a little more time to build up a collection.",
+      "date": 1515174364,
+      "review_helpful_count": 5,
+      "author_display_name": "Interplain197",
+      "author_alias": "Interplain197",
+      "developer_response": null
+    },
+    {
+      "id": "1399994536686208",
+      "score": 3,
+      "review_title": "Not horrible",
+      "review_description": "Could not getting the quality upp so ether stupid or do not exist but works well.",
+      "date": 1485863719,
+      "review_helpful_count": 49,
+      "author_display_name": "Alexanderlille2",
+      "author_alias": "Alexanderlille2",
+      "developer_response": {
+        "body": "Hi Alexander, Do you have any suggestion in oder to improve?\nThanks!",
+        "date": 1486386656
+      }
+    },
+    {
+      "id": "834437226714035",
+      "score": 1,
+      "review_title": "Yet another small video library",
+      "review_description": "Just low quality 2D 360 videos. Don't call it virtual reality unless it's 3D. This app doesn't contain 3D videos, only mono 360. And they're low quality. Go to YouTube and you'll find better videos.",
+      "date": 1492292041,
+      "review_helpful_count": 5,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": null
+    },
+    {
+      "id": "525426803254314",
+      "score": 2,
+      "review_title": "Not able to install",
+      "review_description": "Not able to install",
+      "date": 1722696624,
+      "review_helpful_count": 0,
+      "author_display_name": "Sanjeev_Thakur",
+      "author_alias": "Sanjeev_Thakur",
+      "developer_response": null
+    }
+  ],
+  "total": 7,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-18T05:07:24Z",
+  "package_name": "com.vrlife.watchvr",
+  "id_source": "known"
+}

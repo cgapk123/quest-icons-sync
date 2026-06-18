@@ -1,0 +1,76 @@
+{
+  "app_id": "1165889830098769",
+  "name": "World Traveler VR",
+  "rating_average": 2.5,
+  "rating_count": 14,
+  "review_count": null,
+  "reviews": [
+    {
+      "id": "1658753634435808",
+      "score": 4,
+      "review_title": "Fun if u like seeing places. Needs audio",
+      "review_description": "This is a fun little app at a cheap price. It's like a more fun way to see 360 photos of cool places.\nIt pulls in photo spheres from Google maps and hides clues in the pics. So far very easy but only did a few levels and there are many more.  \nI'd like some audio ideally to bring the scenes to life, eg people chatting, city or water noises if applicable. Then would rate 5 stars. Thanks",
+      "date": 1476546608,
+      "review_helpful_count": 10,
+      "author_display_name": "Stormjewel",
+      "author_alias": "Stormjewel",
+      "developer_response": {
+        "body": "Thank you for your feedback! The latest update included a lot of audio and sound effects!",
+        "date": 1486725637
+      }
+    },
+    {
+      "id": "916346721801092",
+      "score": 1,
+      "review_title": "Google street poor images !!!",
+      "review_description": "Poor images from Google street but the world map infography is ok",
+      "date": 1488330358,
+      "review_helpful_count": 0,
+      "author_display_name": "boisse44",
+      "author_alias": "boisse44",
+      "developer_response": null
+    },
+    {
+      "id": "160858941354196",
+      "score": 1,
+      "review_title": "Not a good geoguessing game",
+      "review_description": "I got this game because I thought a good geoguessing game would be fun in VR, but this only has 8 really obvious levels and the hint pins system is confusing. This feels more like an educational game for kids in elementary school, but still kind of confusing UI.",
+      "date": 1515117526,
+      "review_helpful_count": 8,
+      "author_display_name": "eric.niederman",
+      "author_alias": "eric.niederman",
+      "developer_response": null
+    },
+    {
+      "id": "112530740472040",
+      "score": 3,
+      "review_title": "Great",
+      "review_description": "Works great, looks great but was a bit too short.",
+      "date": 1590297341,
+      "review_helpful_count": 9,
+      "author_display_name": "ti.cassidy",
+      "author_alias": "ti.cassidy",
+      "developer_response": null
+    },
+    {
+      "id": "110832670445776",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "The 360 experience is perfect! Really good for geography freaks",
+      "date": 1578594642,
+      "review_helpful_count": 9,
+      "author_display_name": "RickyTheNewf",
+      "author_alias": "RickyTheNewf",
+      "developer_response": null
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-18T05:08:17Z",
+  "package_name": "com.NemesysGames.WhereAmIVR",
+  "id_source": "known"
+}
