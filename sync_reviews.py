@@ -137,6 +137,7 @@ def load_oculusdb_package_map() -> Dict[str, str]:
 
 def load_apps_from_known(raw_base: str) -> List[AppRef]:
     apps: List[AppRef] = []
+    seen: set[str] = set()
     for rel in ("data/known_oculus_apps.json", "data/known_sidequest_apps.json"):
         data = fetch_json(f"{raw_base.rstrip('/')}/{rel}")
         if not isinstance(data, list):
@@ -144,9 +145,51 @@ def load_apps_from_known(raw_base: str) -> List[AppRef]:
         for item in data:
             pkg = item.get("packageName")
             app_id = item.get("id")
-            if pkg and app_id:
+            if pkg and app_id and pkg not in seen:
+                seen.add(pkg)
                 apps.append(AppRef(pkg, str(app_id), item.get("appName", ""), "known"))
     return apps
+
+
+def load_apps_from_icons(icons_dir: Path, known_apps: List[AppRef]) -> List[AppRef]:
+    """仅同步仓库里已有图标的应用（与 icons/ 目录对齐）。"""
+    if not icons_dir.is_dir():
+        log.warning("图标目录不存在: %s", icons_dir)
+        return known_apps
+    packages = sorted(p.stem for p in icons_dir.glob("*.jpg"))
+    by_pkg = {a.package_name: a for a in known_apps}
+    apps = [by_pkg[p] for p in packages if p in by_pkg]
+    missing = len(packages) - len(apps)
+    log.info(
+        "按 icons/ 过滤: %d 个包名, 匹配 known 列表 %d 个, 未匹配 %d 个",
+        len(packages), len(apps), missing,
+    )
+    return apps
+
+
+def select_apps_for_batch(
+    apps: List[AppRef],
+    out_dir: Path,
+    *,
+    max_apps: int,
+    only_missing: bool,
+    force: bool,
+) -> List[AppRef]:
+    """选取本批次要同步的应用。默认跳过已有 JSON，逐批追平全库。"""
+    if force or not only_missing:
+        selected = apps
+    else:
+        selected = [
+            app for app in apps
+            if not (out_dir / f"{safe_name(app.package_name)}.json").exists()
+        ]
+        log.info(
+            "待同步 %d / 总计 %d 个应用（已有 JSON 的跳过）",
+            len(selected), len(apps),
+        )
+    if max_apps > 0:
+        selected = selected[:max_apps]
+    return selected
 
 
 def resolve_app_ref(package: str, raw_base: str, odb_map: Dict[str, str]) -> Optional[AppRef]:
@@ -573,6 +616,25 @@ def parse_args() -> argparse.Namespace:
     )
     p.add_argument("--max-workers", type=int, default=int(os.environ.get("MAX_WORKERS", "4")))
     p.add_argument("--max-apps", type=int, default=int(os.environ.get("MAX_APPS", "0")), help="0=不限制")
+    p.add_argument(
+        "--only-missing", action="store_true",
+        default=os.environ.get("ONLY_MISSING", "").lower() in ("1", "true", "yes"),
+        help="仅同步尚无 JSON 的应用（逐批追平，默认 CI 开启）",
+    )
+    p.add_argument(
+        "--no-only-missing", action="store_false", dest="only_missing",
+        help="关闭 only-missing，按列表前 N 个处理（可能大量 skip）",
+    )
+    p.add_argument(
+        "--from-icons", action="store_true",
+        default=os.environ.get("FROM_ICONS", "").lower() in ("1", "true", "yes"),
+        help="仅处理 icons/ 里已有图标的包名",
+    )
+    p.add_argument(
+        "--icons-dir",
+        default=os.environ.get("ICON_DIR", "icons"),
+        help="配合 --from-icons 使用",
+    )
     p.add_argument("--force", action="store_true")
     p.add_argument("--hmd-type", default=os.environ.get("HMD_TYPE", DEFAULT_HMD_TYPE))
     p.add_argument("--doc-id", default=os.environ.get("REVIEW_DOC_ID", DEFAULT_REVIEW_DOC_ID))
@@ -648,10 +710,20 @@ def main() -> int:
         log.error("未能加载 known_oculus_apps / known_sidequest_apps")
         return 1
 
-    if args.max_apps > 0:
-        apps = apps[: args.max_apps]
+    if args.from_icons:
+        apps = load_apps_from_icons(Path(args.icons_dir), apps)
 
-    log.info("批量同步 %d 个应用（请控制速率，Meta 可能限流）", len(apps))
+    apps = select_apps_for_batch(
+        apps, out_dir,
+        max_apps=args.max_apps,
+        only_missing=args.only_missing,
+        force=args.force,
+    )
+    if not apps:
+        log.info("没有待同步的应用（可能已全部完成）")
+        return 0
+
+    log.info("本批次同步 %d 个应用（请控制速率，Meta 可能限流）", len(apps))
 
     def worker(app: AppRef) -> None:
         time.sleep(args.delay)

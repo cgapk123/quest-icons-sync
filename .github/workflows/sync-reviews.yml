@@ -10,12 +10,15 @@ permissions:
 
 env:
   REVIEWS_DIR: reviews
+  ICON_DIR: icons
   REVIEW_PAGE_SIZE: "20"
   MAX_REVIEWS: "100"
   REVIEW_SORT: helpful
-  REQUEST_DELAY: "0.5"
-  MAX_APPS: "50"
-  MAX_WORKERS: "2"
+  REQUEST_DELAY: "0.3"
+  MAX_APPS: "300"
+  MAX_WORKERS: "3"
+  ONLY_MISSING: "1"
+  FROM_ICONS: "1"
 
 jobs:
   sync-reviews:

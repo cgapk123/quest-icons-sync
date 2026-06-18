@@ -142,6 +142,17 @@ JSON 字段与 yaas 类似：`reviews[]`、`rating_average`、`review_helpful_co
 
 仓库内已有 `.github/workflows/sync-reviews.yml`，可手动 Run workflow 或等定时任务。
 
+默认定时任务配置：
+
+| 环境变量 | 值 | 说明 |
+|----------|-----|------|
+| `FROM_ICONS` | 1 | 只同步 `icons/` 里已有图标的应用 |
+| `ONLY_MISSING` | 1 | 跳过已有 JSON，每次追平新应用 |
+| `MAX_APPS` | 300 | 每轮最多新同步 300 个应用 |
+| `MAX_REVIEWS` | 100 | 每个应用最多 100 条评论 |
+
+因此 **评论 JSON 数量会远少于图标**：图标一次全量同步约 2 万个；评论受 Meta API 速率限制，每轮只新增约 300 个应用的 JSON，需多轮 run 才能追平。
+
 调用示例：
 
 ```
@@ -153,7 +164,10 @@ https://raw.githubusercontent.com/cgapk123/quest-icons-sync/main/reviews/com.bea
 | 参数 | 默认 | 说明 |
 |------|------|------|
 | `--page-size` | 20 | 每次 API 请求条数 |
-| `--max-reviews` | 0 | 每应用上限，0=全部 |
+| `--max-reviews` | 0 | 每应用评论上限，0=全部 |
+| `--max-apps` | 0 | 每轮处理应用数，0=不限制 |
+| `--only-missing` | CI 默认开 | 只拉尚无 JSON 的应用 |
+| `--from-icons` | CI 默认开 | 与 `icons/` 目录对齐 |
 | `--sort` | helpful | `helpful` 最有帮助 / `newest` 最新 |
 
 - 全量拉取（如 Beat Saber 9000+ 条）耗时长，建议批量任务设 `--max-reviews 100`
