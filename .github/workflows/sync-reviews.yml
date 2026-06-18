@@ -1,63 +1,95 @@
-name: Sync Quest Reviews
-
-on:
-  schedule:
-    - cron: "0 4 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-env:
-  REVIEWS_DIR: reviews
-  ICON_DIR: icons
-  REVIEW_PAGE_SIZE: "20"
-  MAX_REVIEWS: "100"
-  REVIEW_SORT: helpful
-  REQUEST_DELAY: "1.0"
-  META_MIN_INTERVAL: "1.5"
-  HTTP_RETRIES: "10"
-  RETRY_FAILED: "1"
-  RETRY_COOLDOWN: "120"
-  MAX_APPS: "150"
-  MAX_WORKERS: "1"
-  ONLY_MISSING: "1"
-  FROM_ICONS: "1"
-
-jobs:
-  sync-reviews:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - run: pip install --no-cache-dir requests
-
-      - name: Sync reviews (batch sample)
-        run: python sync_reviews.py
-
-      - name: Commit reviews
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          sed -i '/^reviews\/?$/d' .gitignore 2>/dev/null || true
-          if [ ! -d reviews ]; then
-            echo "No reviews directory"
-            exit 0
-          fi
-          shopt -s nullglob
-          files=(reviews/*.json)
-          if [ ${#files[@]} -eq 0 ]; then
-            echo "No review json files to commit"
-            exit 0
-          fi
-          git add -f "${files[@]}"
-          if git diff --staged --quiet; then
-            echo "No review changes"
-            exit 0
-          fi
-          git commit -m "Sync quest reviews $(date -u +%Y-%m-%d)"
-          git push
+name: Sync Quest Reviews
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+    inputs:
+      chain_depth:
+        description: "Auto-chain depth (internal, do not set manually)"
+        required: false
+        default: "0"
+
+# 同一时刻只跑一个实例，完成后可自动链式触发下一轮
+concurrency:
+  group: sync-reviews
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+env:
+  REVIEWS_DIR: reviews
+  ICON_DIR: icons
+  REVIEW_PAGE_SIZE: "20"
+  MAX_REVIEWS: "100"
+  REVIEW_SORT: helpful
+  REQUEST_DELAY: "1.0"
+  META_MIN_INTERVAL: "1.5"
+  HTTP_RETRIES: "10"
+  RETRY_FAILED: "1"
+  RETRY_COOLDOWN: "120"
+  MAX_APPS: "150"
+  MAX_WORKERS: "1"
+  ONLY_MISSING: "1"
+  FROM_ICONS: "1"
+  AUTO_CONTINUE: "1"
+  MAX_AUTO_CHAIN: "200"
+
+jobs:
+  sync-reviews:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install --no-cache-dir requests
+
+      - name: Sync reviews (batch)
+        id: sync
+        run: python sync_reviews.py
+
+      - name: Commit reviews
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          sed -i '/^reviews\/?$/d' .gitignore 2>/dev/null || true
+          if [ ! -d reviews ]; then
+            echo "No reviews directory"
+            exit 0
+          fi
+          shopt -s nullglob
+          files=(reviews/*.json)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No review json files to commit"
+            exit 0
+          fi
+          git add -f "${files[@]}"
+          if git diff --staged --quiet; then
+            echo "No review changes"
+            exit 0
+          fi
+          git commit -m "Sync quest reviews $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Auto-trigger next batch
+        if: |
+          env.AUTO_CONTINUE == '1' &&
+          steps.sync.outputs.pending != '' &&
+          steps.sync.outputs.pending != '0' &&
+          steps.sync.outputs.processed != '' &&
+          steps.sync.outputs.processed != '0' &&
+          fromJSON(steps.sync.outputs.pending) > 0 &&
+          fromJSON(steps.sync.outputs.processed) > 0 &&
+          fromJSON(github.event.inputs.chain_depth || '0') < fromJSON(env.MAX_AUTO_CHAIN)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CHAIN_DEPTH: ${{ github.event.inputs.chain_depth || '0' }}
+        run: |
+          NEXT=$((CHAIN_DEPTH + 1))
+          echo "剩余 ${{ steps.sync.outputs.pending }} 个应用，自动触发第 ${NEXT} 链式批次..."
+          gh workflow run sync-reviews.yml --ref main -f "chain_depth=${NEXT}"

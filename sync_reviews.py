@@ -346,6 +346,21 @@ def load_apps_from_icons(icons_dir: Path, known_apps: List[AppRef]) -> List[AppR
     return apps
 
 
+def filter_pending_apps(
+    apps: List[AppRef],
+    out_dir: Path,
+    *,
+    only_missing: bool,
+    force: bool,
+) -> List[AppRef]:
+    if force or not only_missing:
+        return apps
+    return [
+        app for app in apps
+        if not (out_dir / f"{safe_name(app.package_name)}.json").exists()
+    ]
+
+
 def select_apps_for_batch(
     apps: List[AppRef],
     out_dir: Path,
@@ -353,22 +368,37 @@ def select_apps_for_batch(
     max_apps: int,
     only_missing: bool,
     force: bool,
+    log_pending: bool = True,
 ) -> List[AppRef]:
     """选取本批次要同步的应用。默认跳过已有 JSON，逐批追平全库。"""
-    if force or not only_missing:
-        selected = apps
-    else:
-        selected = [
-            app for app in apps
-            if not (out_dir / f"{safe_name(app.package_name)}.json").exists()
-        ]
+    pending = filter_pending_apps(apps, out_dir, only_missing=only_missing, force=force)
+    if log_pending and only_missing and not force:
         log.info(
             "待同步 %d / 总计 %d 个应用（已有 JSON 的跳过）",
-            len(selected), len(apps),
+            len(pending), len(apps),
         )
+    selected = pending if (only_missing and not force) else apps
     if max_apps > 0:
         selected = selected[:max_apps]
     return selected
+
+
+def resolve_batch_app_pool(args: argparse.Namespace) -> List[AppRef]:
+    apps = load_apps_from_known(args.metadata_raw)
+    if not apps:
+        return []
+    if args.from_icons:
+        apps = load_apps_from_icons(Path(args.icons_dir), apps)
+    return apps
+
+
+def emit_github_output(**kwargs: Any) -> None:
+    path = os.environ.get("GITHUB_OUTPUT")
+    if not path:
+        return
+    with open(path, "a", encoding="utf-8") as f:
+        for key, value in kwargs.items():
+            f.write(f"{key}={value}\n")
 
 
 def resolve_app_ref(package: str, raw_base: str, odb_map: Dict[str, str]) -> Optional[AppRef]:
@@ -998,6 +1028,10 @@ def parse_args() -> argparse.Namespace:
         default=float(os.environ.get("RETRY_COOLDOWN", "90")),
         help="失败重试前的冷却时间（秒）",
     )
+    p.add_argument(
+        "--count-pending", action="store_true",
+        help="仅输出待同步应用数量（供 CI 判断是否继续）",
+    )
     return p.parse_args()
 
 
@@ -1035,6 +1069,19 @@ def main() -> int:
         request_delay=args.delay,
     )
 
+    app_pool = resolve_batch_app_pool(args)
+    if not app_pool and not args.package:
+        log.error("未能加载 known_oculus_apps / known_sidequest_apps")
+        return 1
+
+    if args.count_pending:
+        pending = len(filter_pending_apps(
+            app_pool, out_dir, only_missing=args.only_missing, force=args.force,
+        ))
+        print(pending)
+        log.info("待同步应用: %d / %d", pending, len(app_pool))
+        return 0
+
     # 单包测试模式
     if args.package:
         app_id = args.app_id
@@ -1063,22 +1110,15 @@ def main() -> int:
         return 0 if ok else 1
 
     # 批量：从 MetaMetadata known 列表
-    apps = load_apps_from_known(args.metadata_raw)
-    if not apps:
-        log.error("未能加载 known_oculus_apps / known_sidequest_apps")
-        return 1
-
-    if args.from_icons:
-        apps = load_apps_from_icons(Path(args.icons_dir), apps)
-
     apps = select_apps_for_batch(
-        apps, out_dir,
+        app_pool, out_dir,
         max_apps=args.max_apps,
         only_missing=args.only_missing,
         force=args.force,
     )
     if not apps:
         log.info("没有待同步的应用（可能已全部完成）")
+        emit_github_output(pending=0, processed=0)
         return 0
 
     log.info("本批次同步 %d 个应用（workers=%d, meta间隔=%.2fs）", len(apps), args.max_workers, args.meta_min_interval)
@@ -1124,14 +1164,18 @@ def main() -> int:
                 log.info("重试成功 %s", app.package_name)
 
     save_manifest(manifest_path, manifest)
+    processed = stats["fetched"] + stats["no_reviews"] + stats["unavailable"]
+    remaining = len(filter_pending_apps(
+        app_pool, out_dir, only_missing=args.only_missing, force=args.force,
+    ))
     log.info(
         "完成 | 有评论 %d | 无评论 %d | 不可用 %d | 跳过 %d | 失败 %d | 重试 %d | 限流 %d",
         stats["fetched"], stats["no_reviews"], stats["unavailable"],
         stats["skipped"], stats["failed"], stats["retried"], stats["rate_limited"],
     )
-    return 0 if stats["failed"] == 0 or (
-        stats["fetched"] + stats["no_reviews"] + stats["unavailable"] > 0
-    ) else 1
+    log.info("本批处理 %d 个 | 剩余待同步 %d / %d", processed, remaining, len(app_pool))
+    emit_github_output(pending=remaining, processed=processed)
+    return 0 if stats["failed"] == 0 or processed > 0 else 1
 
 
 if __name__ == "__main__":

@@ -158,14 +158,36 @@ JSON 字段与 yaas 类似：`reviews[]`、`rating_average`、`review_helpful_co
 |----------|-----|------|
 | `FROM_ICONS` | 1 | 只同步 `icons/` 里已有图标的应用 |
 | `ONLY_MISSING` | 1 | 跳过已有 JSON，每次追平新应用 |
-| `MAX_APPS` | 150 | 每轮最多新同步 150 个应用 |
+| `MAX_APPS` | 150 | **每轮**最多新同步 150 个应用 |
+| `AUTO_CONTINUE` | 1 | 本轮完成后若仍有待同步，**自动触发下一轮** workflow |
+| `MAX_AUTO_CHAIN` | 200 | 单次链式最多连续 200 轮（约 3 万应用），防止无限循环 |
+
+### 剩余 2 万个应用要不要手动点？
+
+**不需要。** 机制如下：
+
+1. 每天 UTC 04:00 定时任务启动第 1 轮（150 个）
+2. 提交到 GitHub 后，若 `剩余待同步 > 0`，workflow **自动再次触发**自己
+3. 一轮接一轮，直到全部完成或达到 `MAX_AUTO_CHAIN`
+
+日志示例：
+
+```
+本批处理 150 个 | 剩余待同步 19948 / 20199
+Auto-trigger next batch → 剩余 19948 个应用，自动触发第 2 链式批次...
+```
+
+也可在 Actions 里 **手动 Run workflow 一次**，同样会自动链式跑完（受 `MAX_AUTO_CHAIN` 限制）。想加速可把 `MAX_APPS` 调到 `200`（注意 Meta 429 限流）。
+
+| 环境变量 | 值 | 说明 |
+|----------|-----|------|
 | `MAX_REVIEWS` | 100 | 每个应用最多 100 条评论 |
 | `MAX_WORKERS` | 1 | 串行请求，避免 Meta 429 |
 | `META_MIN_INTERVAL` | 1.5 | 两次 GraphQL 请求最小间隔（秒） |
 | `HTTP_RETRIES` | 10 | 429/5xx 自动退避重试 |
 | `RETRY_COOLDOWN` | 120 | 批次失败后整轮冷却再重试 |
 
-因此 **评论 JSON 数量会远少于图标**：图标一次全量同步约 2 万个；评论受 Meta API 速率限制，每轮只新增约 150 个应用的 JSON，需多轮 run 才能追平。
+因此 **评论 JSON 数量会远少于图标**：图标一次全量同步约 2 万个；评论受 Meta API 速率限制，每轮 150 个，靠 **AUTO_CONTINUE 链式触发** 自动追平。
 
 调用示例：
 
