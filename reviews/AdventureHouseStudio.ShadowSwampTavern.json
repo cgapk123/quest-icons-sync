@@ -1,0 +1,40 @@
+{
+  "app_id": "4511574088957413",
+  "name": "Shadow Swamp Tavern Demo",
+  "rating_average": 3.8333333333333,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "590299185794858",
+      "score": 4,
+      "review_title": "Decent",
+      "review_description": "Gives you like an hour or two of entertainment. No updates.",
+      "date": 1656672507,
+      "review_helpful_count": 0,
+      "author_display_name": "SpoonBubbler",
+      "author_alias": "SpoonBubbler",
+      "developer_response": null
+    },
+    {
+      "id": "178962508145637",
+      "score": 3,
+      "review_title": "Can't get rid of bandits",
+      "review_description": "And too many customers at once",
+      "date": 1671133229,
+      "review_helpful_count": 1,
+      "author_display_name": "Krys1978",
+      "author_alias": "Krys1978",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-18T05:16:50Z",
+  "package_name": "AdventureHouseStudio.ShadowSwampTavern",
+  "id_source": "known"
+}
