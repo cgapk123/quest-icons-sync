@@ -60,7 +60,30 @@ session.mount("http://", adapter)
 session.mount("https://", adapter)
 session.headers.update({"User-Agent": "QuestReviewsSync/1.0"})
 
-stats = {"fetched": 0, "skipped": 0, "failed": 0, "no_id": 0, "retried": 0, "rate_limited": 0}
+stats = {
+    "fetched": 0, "skipped": 0, "failed": 0, "no_id": 0,
+    "retried": 0, "rate_limited": 0, "no_reviews": 0, "unavailable": 0,
+}
+
+STATUS_OK = "ok"
+STATUS_NO_REVIEWS = "no_reviews"
+STATUS_UNAVAILABLE = "unavailable"
+
+_UNAVAILABLE_HINTS = (
+    "not found", "not_found", "invalid", "unavailable", "does not exist",
+    "cannot find", "no longer available", "removed from", "delisted",
+    "deprecated", "entity not found", "application_not_found", "app_not_found",
+    "must not be null", "non-null value",
+)
+_TRANSIENT_HINTS = ("rate limit", "too many", "timeout", "temporarily", "503", "502")
+
+
+class AppUnavailableError(Exception):
+    """应用已下架、不存在或 Meta 商店无此条目。"""
+
+
+class TransientReviewError(Exception):
+    """网络/限流等可重试错误。"""
 
 
 class MetaRateLimiter:
@@ -118,6 +141,89 @@ def init_rate_limiter(min_interval: float) -> None:
     _rate_limiter = MetaRateLimiter(min_interval)
 
 
+def _graphql_error_blob(errors: Any) -> str:
+    try:
+        return json.dumps(errors, ensure_ascii=False).lower()
+    except Exception:
+        return str(errors).lower()
+
+
+def classify_graphql_errors(errors: Any) -> str:
+    blob = _graphql_error_blob(errors)
+    if any(h in blob for h in _UNAVAILABLE_HINTS):
+        return STATUS_UNAVAILABLE
+    if any(h in blob for h in _TRANSIENT_HINTS):
+        return "transient"
+    return "error"
+
+
+def _node_is_null(data: dict) -> bool:
+    if not isinstance(data, dict):
+        return False
+    for key in ("node", "app_store_item"):
+        if key in data and data[key] is None:
+            return True
+    return False
+
+
+def _coerce_int(value: Any) -> Optional[int]:
+    if value is None:
+        return None
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return None
+
+
+def build_review_payload(
+    app_id: str,
+    *,
+    status: str,
+    status_message: Optional[str] = None,
+    package_name: Optional[str] = None,
+    id_source: Optional[str] = None,
+    name: Optional[str] = None,
+    rating_average: Optional[float] = None,
+    rating_count: Optional[int] = None,
+    review_count: Optional[int] = None,
+    reviews: Optional[List[dict]] = None,
+    sort: Optional[str] = None,
+    ordering: Optional[List[str]] = None,
+    pages_fetched: int = 0,
+) -> dict:
+    review_list = reviews or []
+    return {
+        "app_id": app_id,
+        "package_name": package_name,
+        "id_source": id_source,
+        "status": status,
+        "status_message": status_message,
+        "name": name,
+        "rating_average": rating_average,
+        "rating_count": rating_count,
+        "review_count": review_count,
+        "reviews": review_list,
+        "total": len(review_list),
+        "sort": sort,
+        "ordering": ordering,
+        "pages_fetched": pages_fetched,
+        "fetched_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+    }
+
+
+def _manifest_entry(result: dict, sort: str) -> dict:
+    return {
+        "app_id": result.get("app_id"),
+        "status": result.get("status", STATUS_OK),
+        "review_count": result.get("total", 0),
+        "store_review_count": result.get("review_count"),
+        "rating_average": result.get("rating_average"),
+        "sort": sort,
+        "pages_fetched": result.get("pages_fetched"),
+        "updated_at": result.get("fetched_at"),
+    }
+
+
 @dataclass
 class AppRef:
     package_name: str
@@ -137,6 +243,22 @@ class Review:
     author_display_name: Optional[str]
     author_alias: Optional[str]
     developer_response: Optional[dict]
+
+
+def save_review_result(
+    app: AppRef,
+    out_dir: Path,
+    manifest: dict,
+    result: dict,
+    sort: str,
+    stat_key: str = "fetched",
+) -> None:
+    out_file = out_dir / f"{safe_name(app.package_name)}.json"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    with open(out_file, "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+    manifest[app.package_name] = _manifest_entry(result, sort)
+    stats[stat_key] += 1
 
 
 # ---------------------------------------------------------------------------
@@ -415,23 +537,30 @@ def _post_meta_graphql(
         return r.text
 
     if last_exc:
+        if isinstance(last_exc, requests.HTTPError) and last_exc.response is not None:
+            if last_exc.response.status_code == 429:
+                raise TransientReviewError("Meta 429 Too Many Requests") from last_exc
         raise last_exc
-    raise RuntimeError("Meta GraphQL 请求重试耗尽")
+    raise TransientReviewError("Meta GraphQL 请求重试耗尽")
 
 
-def parse_pagination_response(text: str) -> Optional[dict]:
-    """解析 MDCAppStoreV2ParityAppPDPReviewListQuery 响应（通常为单行 JSON）。"""
+def parse_pagination_response(text: str) -> tuple[Optional[dict], dict]:
+    """返回 (node, raw_payload)。"""
     text = text.strip()
     if not text:
-        return None
+        return None, {}
     try:
         payload = json.loads(text.splitlines()[0])
     except json.JSONDecodeError:
         payload = parse_meta_json(text)
-    node = (payload.get("data") or {}).get("node")
+    data = payload.get("data") or {}
+    if _node_is_null(data):
+        return None, payload
+    node = data.get("node")
     if isinstance(node, dict) and "user_reviews2" in node:
-        return node
-    return _find_node_with_reviews(payload.get("data", {}))
+        return node, payload
+    found = _find_node_with_reviews(data)
+    return found, payload
 
 
 def parse_review_edges(edges: List[dict]) -> List[dict]:
@@ -488,9 +617,18 @@ def fetch_reviews_page(
         variables,
         "MDCAppStoreV2ParityAppPDPReviewListQuery",
     )
-    node = parse_pagination_response(text)
+    node, payload = parse_pagination_response(text)
     if not node:
-        raise RuntimeError("分页响应中未找到 user_reviews2")
+        errors = payload.get("errors") or []
+        if errors:
+            kind = classify_graphql_errors(errors)
+            if kind == STATUS_UNAVAILABLE:
+                raise AppUnavailableError(_graphql_error_blob(errors)[:240])
+            if kind == "transient":
+                raise TransientReviewError(_graphql_error_blob(errors)[:240])
+        if _node_is_null(payload.get("data") or {}):
+            raise AppUnavailableError("商店分页 node 为空，应用可能已下架")
+        raise AppUnavailableError("分页响应中未找到 user_reviews2")
 
     ur = node.get("user_reviews2") or {}
     edges = ur.get("edges") or []
@@ -525,18 +663,42 @@ def fetch_rating_summary(
         "MDCAppStoreAppPDPBelowFoldRootQuery",
     )
     payload = parse_meta_json(text)
-    if "errors" in payload and not payload.get("data"):
-        raise RuntimeError(json.dumps(payload["errors"], ensure_ascii=False)[:500])
-    node = _find_node_with_reviews(payload.get("data", {}))
-    if not node and isinstance(payload.get("data"), dict):
-        node = payload["data"].get("app_store_item")
+    errors = payload.get("errors") or []
+    data = payload.get("data") or {}
+
+    if errors:
+        kind = classify_graphql_errors(errors)
+        if kind == STATUS_UNAVAILABLE or _node_is_null(data):
+            raise AppUnavailableError(_graphql_error_blob(errors)[:240])
+        if kind == "transient":
+            raise TransientReviewError(_graphql_error_blob(errors)[:240])
+        if not data:
+            raise RuntimeError(_graphql_error_blob(errors)[:500])
+
+    if _node_is_null(data):
+        raise AppUnavailableError("商店摘要 node 为空，应用可能已下架")
+
+    node = _find_node_with_reviews(data)
+    if not node and isinstance(data, dict):
+        node = data.get("app_store_item")
     if not node:
-        return {}
+        return {
+            "available": False,
+            "name": None,
+            "rating_average": None,
+            "rating_count": None,
+            "review_count": None,
+        }
+
+    store_review_count = _coerce_int(
+        node.get("quality_review_count") or node.get("quality_rating_count")
+    )
     return {
+        "available": True,
         "name": node.get("display_name"),
         "rating_average": node.get("quality_rating_score") or node.get("quality_rating_aggregate"),
-        "rating_count": node.get("quality_rating_count"),
-        "review_count": node.get("quality_review_count"),
+        "rating_count": _coerce_int(node.get("quality_rating_count")),
+        "review_count": store_review_count,
     }
 
 
@@ -554,6 +716,25 @@ def fetch_reviews_meta(
     ordering = SORT_TO_ORDERING.get(sort.lower(), SORT_TO_ORDERING[DEFAULT_SORT])
 
     summary = fetch_rating_summary(app_id, hmd_type=hmd_type, doc_id=doc_id)
+
+    if summary.get("available") is False:
+        raise AppUnavailableError("商店无此应用条目")
+
+    store_review_count = summary.get("review_count")
+    if store_review_count == 0:
+        return build_review_payload(
+            app_id,
+            status=STATUS_NO_REVIEWS,
+            status_message="商店评论数为 0",
+            name=summary.get("name"),
+            rating_average=summary.get("rating_average"),
+            rating_count=summary.get("rating_count"),
+            review_count=0,
+            reviews=[],
+            sort=sort,
+            ordering=ordering,
+            pages_fetched=0,
+        )
 
     all_reviews: List[dict] = []
     cursor: Optional[str] = None
@@ -598,19 +779,21 @@ def fetch_reviews_meta(
             break
         time.sleep(request_delay)
 
-    return {
-        "app_id": app_id,
-        "name": last_node.get("display_name") or summary.get("name"),
-        "rating_average": summary.get("rating_average"),
-        "rating_count": summary.get("rating_count"),
-        "review_count": last_node.get("quality_review_count") or summary.get("review_count"),
-        "reviews": all_reviews,
-        "total": len(all_reviews),
-        "sort": sort,
-        "ordering": ordering,
-        "pages_fetched": page_num,
-        "fetched_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-    }
+    status = STATUS_OK if all_reviews else STATUS_NO_REVIEWS
+    message = None if all_reviews else "未能拉取到评论正文"
+    return build_review_payload(
+        app_id,
+        status=status,
+        status_message=message,
+        name=last_node.get("display_name") or summary.get("name"),
+        rating_average=summary.get("rating_average"),
+        rating_count=summary.get("rating_count"),
+        review_count=last_node.get("quality_review_count") or summary.get("review_count"),
+        reviews=all_reviews,
+        sort=sort,
+        ordering=ordering,
+        pages_fetched=page_num,
+    )
 
 
 def _find_node_with_reviews(obj: Any) -> Optional[dict]:
@@ -685,21 +868,48 @@ def sync_one_app(
         result["app_id"] = app.app_id
         result["id_source"] = app.source
 
-        out_dir.mkdir(parents=True, exist_ok=True)
-        with open(out_file, "w", encoding="utf-8") as f:
-            json.dump(result, f, ensure_ascii=False, indent=2)
-
-        manifest[app.package_name] = {
-            "app_id": app.app_id,
-            "review_count": result.get("total", 0),
-            "store_review_count": result.get("review_count"),
-            "rating_average": result.get("rating_average"),
-            "sort": sort,
-            "pages_fetched": result.get("pages_fetched"),
-            "updated_at": result.get("fetched_at"),
-        }
-        stats["fetched"] += 1
+        status = result.get("status", STATUS_OK)
+        if status == STATUS_NO_REVIEWS:
+            log.info("无评论 %s (%s)", app.package_name, app.app_id)
+            save_review_result(app, out_dir, manifest, result, sort, stat_key="no_reviews")
+        else:
+            save_review_result(app, out_dir, manifest, result, sort, stat_key="fetched")
         return True
+
+    except AppUnavailableError as exc:
+        log.info("不可用/已下架 %s (%s): %s", app.package_name, app.app_id, exc)
+        result = build_review_payload(
+            app.app_id,
+            status=STATUS_UNAVAILABLE,
+            status_message=str(exc)[:500],
+            package_name=app.package_name,
+            id_source=app.source,
+            name=app.name or None,
+            reviews=[],
+            sort=sort,
+            ordering=SORT_TO_ORDERING.get(sort.lower(), SORT_TO_ORDERING[DEFAULT_SORT]),
+            pages_fetched=0,
+        )
+        save_review_result(app, out_dir, manifest, result, sort, stat_key="unavailable")
+        return True
+
+    except TransientReviewError as exc:
+        log.warning("临时失败 %s (%s): %s", app.package_name, app.app_id, exc)
+        if record_failure:
+            stats["failed"] += 1
+        return False
+
+    except requests.HTTPError as exc:
+        if exc.response is not None and exc.response.status_code == 429:
+            log.warning("限流失败 %s (%s): %s", app.package_name, app.app_id, exc)
+            if record_failure:
+                stats["failed"] += 1
+            return False
+        log.warning("HTTP 失败 %s (%s): %s", app.package_name, app.app_id, exc)
+        if record_failure:
+            stats["failed"] += 1
+        return False
+
     except Exception as exc:
         log.warning("评论拉取失败 %s (%s): %s", app.package_name, app.app_id, exc)
         if record_failure:
@@ -844,11 +1054,11 @@ def main() -> int:
             with open(out_dir / f"{safe_name(args.package)}.json", encoding="utf-8") as f:
                 preview = json.load(f)
             log.info(
-                "评论: %d 条 | 商店总数: %s | 评分: %s | 页数: %s",
+                "状态: %s | 评论: %d 条 | 商店总数: %s | 评分: %s",
+                preview.get("status", STATUS_OK),
                 len(preview.get("reviews", [])),
                 preview.get("review_count"),
                 preview.get("rating_average"),
-                preview.get("pages_fetched"),
             )
         return 0 if ok else 1
 
@@ -915,11 +1125,13 @@ def main() -> int:
 
     save_manifest(manifest_path, manifest)
     log.info(
-        "完成 | 新增/更新 %d | 跳过 %d | 失败 %d | 重试 %d | 限流 %d",
-        stats["fetched"], stats["skipped"], stats["failed"],
-        stats["retried"], stats["rate_limited"],
+        "完成 | 有评论 %d | 无评论 %d | 不可用 %d | 跳过 %d | 失败 %d | 重试 %d | 限流 %d",
+        stats["fetched"], stats["no_reviews"], stats["unavailable"],
+        stats["skipped"], stats["failed"], stats["retried"], stats["rate_limited"],
     )
-    return 0 if stats["failed"] == 0 or stats["fetched"] > 0 else 1
+    return 0 if stats["failed"] == 0 or (
+        stats["fetched"] + stats["no_reviews"] + stats["unavailable"] > 0
+    ) else 1
 
 
 if __name__ == "__main__":

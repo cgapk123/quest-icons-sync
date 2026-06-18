@@ -138,6 +138,16 @@ reviews/
 
 JSON 字段与 yaas 类似：`reviews[]`、`rating_average`、`review_helpful_count`、`developer_response` 等。
 
+每个 JSON 还包含 `status` 字段：
+
+| status | 含义 |
+|--------|------|
+| `ok` | 正常拉取到评论 |
+| `no_reviews` | 应用在商店但评论数为 0（跳过重复分页请求） |
+| `unavailable` | 已下架 / 无效 App ID / 商店无条目 |
+
+`no_reviews` 与 `unavailable` 也会写入 JSON 并记入 `manifest.json`，后续 `ONLY_MISSING` 批次会自动跳过，不会反复失败或重试。
+
 ### GitHub Actions
 
 仓库内已有 `.github/workflows/sync-reviews.yml`，可手动 Run workflow 或等定时任务。
