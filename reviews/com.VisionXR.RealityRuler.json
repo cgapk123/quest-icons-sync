@@ -1,0 +1,238 @@
+{
+  "app_id": "6709992609064585",
+  "package_name": "com.VisionXR.RealityRuler",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Reality Ruler",
+  "rating_average": 3.88,
+  "rating_count": 25,
+  "review_count": 16,
+  "reviews": [
+    {
+      "id": "1079832278537410",
+      "score": 4,
+      "review_title": "Graat app",
+      "review_description": "Great app but would be alot better if internet connection was not required.",
+      "date": 1774254272,
+      "review_helpful_count": 1,
+      "author_display_name": "alexanderism30",
+      "author_alias": "alexanderism30",
+      "developer_response": {
+        "body": "Updated Reply!!\nThanks for the Review, Internet connect is made optional now, please check",
+        "date": 1776427762
+      }
+    },
+    {
+      "id": "903727612352005",
+      "score": 5,
+      "review_title": "Very handy",
+      "review_description": "I'm considering the upgraded the pro pack. the rulers and angle measurements are quite handy!",
+      "date": 1767883495,
+      "review_helpful_count": 0,
+      "author_display_name": "Toastar42",
+      "author_alias": "Toastar42",
+      "developer_response": {
+        "body": "We appreciate the great feedback! It’s awesome to hear that the measurement tools are helpful. Let us know if you have any questions about the features in the Pro Pack!",
+        "date": 1768069902
+      }
+    },
+    {
+      "id": "2377291799358051",
+      "score": 1,
+      "review_title": "Almost unbelievable",
+      "review_description": "This is amazing! Holly cow it's a game changer! I can use this for so many things!!!!!\n\nWait... how do you save? How do export?\n\nI never had an app go from a 10 to a zero so fast.\n\nWhat's the point?\n\nTo almost be amazing?\n\nTo almost be useful?\n\nSigh...",
+      "date": 1762968496,
+      "review_helpful_count": 2,
+      "author_display_name": "soulmagic",
+      "author_alias": "soulmagic",
+      "developer_response": {
+        "body": "Thank you so much for the enthusiastic feedback and for taking the time to share your thoughts!\n\nJust to clarify — Reality Ruler already saves all your measured objects automatically.\nYou can find them anytime in the Measurements panel inside the app.\n\nAs for exporting your measurements, that feature is already under development and will be added in our next update. \n\nWe truly appreciate your support and suggestions — they help us make Reality Ruler even better. 🙏",
+        "date": 1763013850
+      }
+    },
+    {
+      "id": "851343708055918",
+      "score": 4,
+      "review_title": "Apparently it is impossible to scan room",
+      "review_description": "I manually set walls and now I can't rescan the room, no matter what. The home screen is missing the \"scan room\" button.\n\nEdit: I discovered that it is possible to reset the room throughout quest settings, but it is not explained at all in the app, that wrongfully invites you to scan again the room with a non-existent button in the menu.",
+      "date": 1759704816,
+      "review_helpful_count": 5,
+      "author_display_name": "danielemang0",
+      "author_alias": "danielemang0",
+      "developer_response": {
+        "body": "Thank you for pointing this out! 🙏 You’re absolutely right — the missing Scan Room button was an oversight on our part. At the moment, the only way to reset the room is through Quest system settings, which isn’t clearly explained in the app.\n\nWe’re already fixing this and will reintroduce the option to rescan directly from the home screen in our next update (coming next week ✅). Along with this fix, we’re also adding a few new features to make the overall experience smoother and more flexible.\n\nWe appreciate your feedback — it really helps us improve Reality Ruler! 🚀",
+        "date": 1759815005
+      }
+    },
+    {
+      "id": "766436083211015",
+      "score": 3,
+      "review_title": "Nice app, but...",
+      "review_description": "I do not find a way to measure a new room. It says in the \"Home\" menue, but nothing works here... I could not delete the old room or add another one... maybe someone has a hint!",
+      "date": 1753958994,
+      "review_helpful_count": 3,
+      "author_display_name": "Syrell",
+      "author_alias": "Syrell",
+      "developer_response": {
+        "body": "Thank you for your feedback and for highlighting your experience with Reality Ruler. We appreciate your patience and understanding regarding the current limitation with measuring multiple rooms.\n\nAs a solution, before launching the app, you can scan multiple rooms in your Meta Quest settings. This allows you to measure different rooms consecutively.\n\nWe understand the importance of multi-room support directly within the app and are pleased to inform you that this feature will be included in our upcoming update, scheduled within the next two weeks. This update will enable users to seamlessly measure multiple rooms directly through the app interface.\n\nWe appreciate your continued support and look forward to bringing you an enhanced experience with Reality Ruler.\n\nBest regards,\nVision XR",
+        "date": 1753967488
+      }
+    },
+    {
+      "id": "689986900857187",
+      "score": 4,
+      "review_title": "Exceptionally well built, good accuracy!",
+      "review_description": "Good accuracy given it's in mixed reality, desperately needs a few things:\n\nA: To be collaborated with and built in to the app \"Visual Scale\". Probably a no go but a boy can dream\n\nB: DESPERATELY needs a SNAP TO feature! Consider adding a special section for a point called a snap-point & snap-line where the users ray casts or controller snaps to a point/line if it gets within a certain distance of said point (then provide a toggle switch to turn snapping on and off) - this would make setting up grid lines for things like laying out pendant lights on a job site much more intuitive and has real commercial value! (should also have things like forced 90 degree triangles etc that expand and contract along the opposite/adjacent) \n\nC: for imperial offer a unit option that does them by fractions (ie displays 5-5/8\" instead of a decimal point displayed)\n\nD: laser level, which basically acts as an ultra thin rectangle to the ceiling and floor of the space (this is actually already doable using the cuboid function but isn't nearly as clean, it should ideally be parallel to the walls detected in the space & this is a humongous missed opportunity on the part of Meta's own layout app. \n\nE: color swatcher of 6 standard colors as well as the color dials for measurements so they can be consistently colored  from measurement to measurement based on grouping.\n\nGreat app! I'm already blown away by its real world applications. Let me know if you'd like some real in field bug testing & videos done I'd be happy to do it for free as a beta tester!",
+      "date": 1746068234,
+      "review_helpful_count": 6,
+      "author_display_name": "avidblur",
+      "author_alias": "avidblur",
+      "developer_response": {
+        "body": "Thank you so much for your detailed and thoughtful review!\n\nWe really appreciate your feedback and are glad you're enjoying Reality Ruler. You've shared some fantastic suggestions — especially the snap-to feature, laser level alignment, and imperial fractions display — all of which have great potential to improve the app's usability and professional value. We're taking notes on each point and will explore how we can incorporate them into future updates.\n\nWe’d love to have you as a beta tester! Your in-field experience and insights would be incredibly helpful. We’ll reach out soon with details.\n\nThanks again for your support!",
+        "date": 1746163955
+      }
+    },
+    {
+      "id": "781477674377821",
+      "score": 1,
+      "review_title": "Buggy need refund",
+      "review_description": "I bought the in-game feature to measure the volume of a hexagon prism, and the line did not follow where my hands went. And it only allowed me to draw out awkward shaped triangles. This did not help me at all. I would like a refund please.",
+      "date": 1754582959,
+      "review_helpful_count": 0,
+      "author_display_name": "Killer_Marz",
+      "author_alias": "Killer_Marz",
+      "developer_response": {
+        "body": "Dear Killer_Marz,\n\nThank you for sharing your feedback regarding Reality Ruler. We're sorry to hear about the inconvenience you experienced with measuring the volume of a hexagon prism. We understand your frustration and would like to assist you further.\n\nRegarding the issue you encountered, we have thoroughly tested the feature for measuring hexagonal volumes, including adjusting the number of sides in the UI and using hand or controller gestures to create and drag the prism upwards. Our tests have shown that the feature is functioning correctly.\n\nTo ensure you can make full use of Reality Ruler, we recommend checking the following steps:\n\nEnsure your environment is well-lit and suitable for accurate room detection.\n\nReview the tutorial provided to familiarize yourself with the features and controls.\n\nIf you require additional assistance or have further questions, please feel free to reach out to us directly at visionxr.opc@gmail.com.\n\nIf you still prefer a refund, please contact us directly via email, and we will process it promptly. We value your feedback and are committed to providing you with a positive experience using Reality Ruler.\n\nThank you for your understanding and patience.\n\nBest regards,\n\nVisionXR Team",
+        "date": 1754634203
+      }
+    },
+    {
+      "id": "24387144167597221",
+      "score": 3,
+      "review_title": "Needs more improvements",
+      "review_description": "This needs an option for left-handed users.\nOther than that, it's very cool and useful.\n\nBut it definitely needs a few more of its edges rounded.\n\nIt can be tough to measure objects, as you can't influence the height of the endpoint of a line.\nSo it can jump up and down, based on what the camera sees.\nthat makes you measure a diagonal, when you try to measure a straight edge of an object like a bed.\n\nAlso, it constantly shows your boundaries when you get near, even though you're always in passthrough when using it. \nThe boundaries shouldn't even be active.\n\nBut the actual measuring is still really precise and easy, when it works.\nIt just currently only works perfectly on empty surfaces, inside your boundaries.\n\nAlready great for a free app, and a great way to measure rooms and objects.",
+      "date": 1703571491,
+      "review_helpful_count": 5,
+      "author_display_name": "AdventureZombie",
+      "author_alias": "AdventureZombie",
+      "developer_response": {
+        "body": "Hi Thanks for the review.We have updated the app. Now you can switch hands as well.",
+        "date": 1705510262
+      }
+    },
+    {
+      "id": "322090323902969",
+      "score": 5,
+      "review_title": "Best Utility App in Oculus Mixed Reality",
+      "review_description": "I have tried to measure the recent purchased standing table which is 2.5 feet height and width is 2ft, When I cross verified the lengths with the App, height is 2.49 ft and width is 1.99ft which is very close to actuals. Absolutely realistic App.  \nI have not tried all the functionalities yet, but till now it is the best app in pass through mode.\nfabulous job by the developers, keep it up...",
+      "date": 1699793099,
+      "review_helpful_count": 5,
+      "author_display_name": "Shivaji1205",
+      "author_alias": "Shivaji1205",
+      "developer_response": null
+    },
+    {
+      "id": "356509066838401",
+      "score": 5,
+      "review_title": "Almost a contractors Perfect app",
+      "review_description": "I'm a contractor who has to find square on large area and this app can almost do it! Only needs more precise angle and 90° square option. If it had those 2 things, I would pay for app. Still beautiful though. Thank you!",
+      "date": 1700046511,
+      "review_helpful_count": 4,
+      "author_display_name": "tommy42er",
+      "author_alias": "tommy42er",
+      "developer_response": {
+        "body": "Hi solstice42, Thanks for the review we will add these features along with few others tools in next update.",
+        "date": 1700076339
+      }
+    },
+    {
+      "id": "123514280849260",
+      "score": 5,
+      "review_title": "Best MR app",
+      "review_description": "\"Absolutely blown away by this app.Calculating lengths, areas, angles, or volumes, everything is so intuitive and precise. If you've ever wondered about the dimensions of objects around you or needed a quick way to gauge spaces, this app is a must-have.",
+      "date": 1695369453,
+      "review_helpful_count": 4,
+      "author_display_name": "Vikky14891",
+      "author_alias": "Vikky14891",
+      "developer_response": null
+    },
+    {
+      "id": "1146275206393183",
+      "score": 5,
+      "review_title": "Very Functional",
+      "review_description": "It's a welcome added functionality to the HMD. \nNeed's a lot of UI polishing but it's intuitive enough right now, and the tutorial helps if you get lost.",
+      "date": 1713534531,
+      "review_helpful_count": 0,
+      "author_display_name": "Potato0_0",
+      "author_alias": "Potato0_0",
+      "developer_response": {
+        "body": "Thanks for your review, We will improve UI in the next update",
+        "date": 1713855350
+      }
+    },
+    {
+      "id": "726560102950216",
+      "score": 4,
+      "review_title": "Needs one more feature to be perfect",
+      "review_description": "I downloaded this app to measure how long an Ethernet cable would have to be to connect my PC to my router. This app allowed me to measure the distance of every step in routing the cable. However after drawing the run with the line tool I couldn't find a way to automatically add the lengths together so I had to wander round with my calculator to manually add the lengths of the lines together. I can see to ways to do this better 1. An overview of already drawn lines in the menu that shows the sum of all lengths or preferably 2 a compound line tool that allows you too draw a series of straight lines and give you the total distance of all of them. \nAlso to use the app to its full potential I had to disable the headset boundary however this is something that is due to the way meta designed the boundary system and no fault of the devs.",
+      "date": 1712067096,
+      "review_helpful_count": 2,
+      "author_display_name": "KiwiHuman",
+      "author_alias": "KiwiHuman",
+      "developer_response": {
+        "body": "Hi Kiwi, Thanks for the review. We will surely add a compound line feature in the next update.",
+        "date": 1712125697
+      }
+    },
+    {
+      "id": "432224579968875",
+      "score": 3,
+      "review_title": "Great so far but needs refinement",
+      "review_description": "Hi\nI find this app very interesting and has good potential. There some annoying issues that could be resolved\n1.  Selecting the function that is required uses the 'red ball' to make a selection. This does not always work and I find I have to hit the function several times with the 'red ball' before it is selected. Would it not be better to be able to use the top joysticks on the controller to select and make a function active.\n\n2. If I want to undo my last action again I have to use the 'red ball' to make the undo selection . Would it not be better to use one of the controller buttons as a dedicated undo /redo function.\n\n3. when scanning spaces it appears the system cannot cope with sloping ceilings or sloping floors. is there a way around this?\n\n4. I have found out that I can create several spaces to overcome the problem of the limited safe space size. I have managed to go around the outside of my house and scan the exterior but I cannot create one large safe pass through space. I could however create several spaces and then just walk between them as I measured my exterior walls.\n\n5. it would be useful to be able to remove furniture scans to leave an empty room for simply getting the areas and dimensions of a room.\n\nthanks for your hard work so far",
+      "date": 1724608971,
+      "review_helpful_count": 3,
+      "author_display_name": "triumph2023",
+      "author_alias": "triumph2023",
+      "developer_response": {
+        "body": "Hello,\n\nThankyou for the review.\n\nWe would fix issue1,issue 2 and 3 in next update.\n\nFor problem 5 you can go to SaveAndLoadPanel >> Scanned Objects and hide the undesired objects.\n\nAs of now there is no solution for issue 4 . May be in future updates when oculus removes boundary we would do it.",
+        "date": 1724687473
+      }
+    },
+    {
+      "id": "414926791695861",
+      "score": 3,
+      "review_title": "Promising but it has a long way to go",
+      "review_description": "Every time I start it, it shows me all the walls, cabinets and furniture in the room. It would be nice to be able to delete everything. I went to the tutorial again and looked in the Room Objects and the Save Objects but both were empty. Yet all the walls and furniture are still showing in the room. Also it is unclear how to select items or which button to use on the menu items to select them. Lots of promise here but but it is rough to select things and there are too many measurements of things in my front room that I would like to delete",
+      "date": 1722669555,
+      "review_helpful_count": 1,
+      "author_display_name": "gruesnest",
+      "author_alias": "gruesnest",
+      "developer_response": {
+        "body": "Hello,Thank you for the feedback.We will fix the issue in the next update.\nTo solve your issue go to Oculus Settings > Physical Space > Space setup >  Manage your spaces . You can create new space there.",
+        "date": 1722688990
+      }
+    },
+    {
+      "id": "171979279334116",
+      "score": 5,
+      "review_title": "Fantastic",
+      "review_description": "Simple and incredible accurate. Especially useful for complicated measurements like angle measurement or longer distances.",
+      "date": 1701017832,
+      "review_helpful_count": 1,
+      "author_display_name": "Zahlter",
+      "author_alias": "Zahlter",
+      "developer_response": {
+        "body": "Thanks for the review...",
+        "date": 1701149873
+      }
+    }
+  ],
+  "total": 16,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:49:46Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "7927113357307783",
+  "package_name": "com.WaZhai.WaZhaiProject",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "RunFitFantasy",
+  "rating_average": 3,
+  "rating_count": 9,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "866385938962644",
+      "score": 5,
+      "review_title": "5 Star",
+      "review_description": "Fun and exciting.",
+      "date": 1728871232,
+      "review_helpful_count": 4,
+      "author_display_name": "Wrath_Of_Heaven",
+      "author_alias": "Wrath_Of_Heaven",
+      "developer_response": null
+    },
+    {
+      "id": "492884170566348",
+      "score": 3,
+      "review_title": "Response is limited",
+      "review_description": "The messages kept moving, making it difficult to read.  Not a strong response to connecting to things. I enjoy feeling when I've interacted with things.  I realise I also prefer more realistic locations.",
+      "date": 1730405374,
+      "review_helpful_count": 1,
+      "author_display_name": "Funloving",
+      "author_alias": "Funloving",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:56:18Z"
+}

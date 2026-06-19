@@ -1,0 +1,34 @@
+{
+  "app_id": "8685800541517208",
+  "package_name": "com.Vthere.TheMysteriousCaseoftheStolenArtefact",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Mysterious Case of the Stolen Artefact",
+  "rating_average": 2.5,
+  "rating_count": 4,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "582508921604436",
+      "score": 1,
+      "review_title": "Doesn’t load properly",
+      "review_description": "There’s a huge bug in this. The start menu appears far too far away from where you can reach it to press start",
+      "date": 1738072177,
+      "review_helpful_count": 2,
+      "author_display_name": "Gemini8",
+      "author_alias": "Gemini8",
+      "developer_response": {
+        "body": "Hi Gemini8. Thank you for your feedback and appreciate you sharing your experience. Just an update that we manage to replicate and view the issue that is causing the bug you are experiencing, due to the start location being mis-aligned. We're looking to crush this bug and send an update soonest! Just to share a work-around is to reset your view in-game by pressing and holding the Oculus button. Thank you once again!",
+        "date": 1740651179
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:54:13Z"
+}
