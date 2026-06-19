@@ -1,0 +1,59 @@
+{
+  "app_id": "4405707952806774",
+  "package_name": "com.TargyLLC.VRDodgeGame",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Chromarun",
+  "rating_average": 3.25,
+  "rating_count": 8,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "6732759366800594",
+      "score": 1,
+      "review_title": "Instructions unclear",
+      "review_description": "I'm stuck in the first room of the instructions. So to turn right, look right, got it. But how do you go up and down? Instructions are not very clear.",
+      "date": 1697303242,
+      "review_helpful_count": 0,
+      "author_display_name": "aceofquest",
+      "author_alias": "aceofquest",
+      "developer_response": {
+        "body": "Hi Ace, only your head will interact with the environment.  \n\nTherefore, in order to go up and down you will be required to stand up to go up and squat down to go down.\n\nhttps://www.youtube.com/shorts/HZvXDrfxZwA\nIn the video, the user is squatting down in order to dodge the red blocks.\n\nHope this helps!\n-Nate",
+        "date": 1697608215
+      }
+    },
+    {
+      "id": "267693972506116",
+      "score": 5,
+      "review_title": "The best game on Meta (no exaggeration)",
+      "review_description": "I bought a Quest 2 almost 3 yrs ago and since that time I've accrued almost 200 games. I own many AAA titles of all genres. I also have many free games that are currently in development. Although I sometimes go months in between sessions of Chromarun...I'm pretty sure I have more fun with it than any other game available on Meta.\n\nIt's beautifully abstract, immersive, addictive, and provides a unique workout that I can't achieve elsewhere in VR - or in real life, for that matter.\n\nA couple requests for devs: \n\n1) level select option in story mode would be awesome! Currently, I can only play the highest level that I haven't yet completed, but I'm not able to play any of the prior levels that I've already unlocked and completed. Adding this feature - and of course, a full unlock on all levels once story mode is complete - would be amazing and round out the game nicely in terms of replayability.\n\n2) on the higher levels, it seems that the obstacles speed setting doesn't work for some obstacles. In particular, the narrow channels that move left to right and diagonally forward don't seem to respond to obstacles speed adjustments. Yes, I know I'm probably crap at this game, but slowing things down is the only way I was able to pass certain levels...\n\nThis game is simply the most fun I've had on the Quest. I would love to see a sequel, expanded version or DLC in the near future. Thank you for making Chromarun.",
+      "date": 1725249955,
+      "review_helpful_count": 2,
+      "author_display_name": "QUACKBIRTH",
+      "author_alias": "QUACKBIRTH",
+      "developer_response": {
+        "body": "Hey QuackBirth, thank you so much for this review!  This really does mean a lot, and we are glad that this game has been enjoyable.  We do have plans of releasing some free DLC and potentially open sourcing the game in the future, but the people who work on this have just been busy with other work and stuff unfortunately.\n\nI'll address the issues that you had.\n\n1) There is a level select in story mode.  To provide incentive for the user to beat the game, we added a level select (and also we give rankings for each level based on your time).  We are planning in the next update though to make the level select available at the beginning like it always should have been.  Unfortunately, this was a mistake on our part.\n\n2) Yes, it is pretty much just those narrow channels.  We will definitely fix that in the next update.  I also think we made the game too challenging overall, so don't worry you're not crap haha.\n\nI am not sure when the next update is, but at best sometime before the new year and at worst, it could be a year from now.  We really do want to get back into it though :)\n\nHere is a video which should allow you to get access to the level select in addition to getting rid of collision: https://youtu.be/Z2M2iyMOrFs.  Enjoy!\n\nAgain, thanks for the review, it certainly means a lot!\n-Nate",
+        "date": 1734609622
+      }
+    },
+    {
+      "id": "105583028692138",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Fun gameplay and keeps you active just needs more polish",
+      "date": 1642365826,
+      "review_helpful_count": 4,
+      "author_display_name": "LunjJisheng",
+      "author_alias": "LunjJisheng",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:41:28Z"
+}

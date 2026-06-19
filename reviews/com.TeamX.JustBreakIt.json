@@ -1,0 +1,56 @@
+{
+  "app_id": "26834703722810932",
+  "package_name": "com.TeamX.JustBreakIt",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Crush Lab",
+  "rating_average": 3.8,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "2946402625514645",
+      "score": 2,
+      "review_title": "Something's gone a bit wrong",
+      "review_description": "Hey there devs, very keen to keep the game as looks great but presently it's not working at all properly on MQ3 v72 (512GB). Text disappears quickly in UI, some colours are translucent which I don't think are supposed to be, and in teh main game and tutorial etc I can't see my hands/guns etc. Also not clear because of all this how to start a sitting game, a mixed reality game etc. I have reinstalled to no change. Would much rather keep than refund, so help! Thanks...\n\nUPDATE: If you can find the mixed reality switch (a struggle as is) then things seem fine, but it's not working correctly in full immersion mode at all - see above. Seems likely the latest level update upset things a few days ago...?\n\nUPDATE 2: 28/1/25 I sent the email/video clips of UI and in-game issues. MR game mode seems fine, all issues are in menus (before mixed reality selected) or full immersion game made...",
+      "date": 1738082265,
+      "review_helpful_count": 2,
+      "author_display_name": "Wormachine",
+      "author_alias": "Wormachine",
+      "developer_response": {
+        "body": "Thank you for your review. We are very sorry that the display bug of the game has brought you a bad experience. Since version 1.3 is a major update, we have re-adjusted the graphics rendering pipeline. We tested MQ3 v71, so we speculate that there may be some changes in v72 that cause the game to display abnormally. We will fix the bug as soon as possible.\n\nIf you could provide a more detailed description it would be easier for us to solve this problem.\nIf convenient, you can record the game video and send it to our support email.\ntwo_men_and_a_cat@foxmail.com \n\nThank you again for your feedback and helping us make the game better and better.",
+        "date": 1737873544
+      }
+    },
+    {
+      "id": "448785441661261",
+      "score": 5,
+      "review_title": "TOTALLY RECOMMENDED",
+      "review_description": "Ooo! Great game. For low price，you can play a physics-based music game. It is very fun. I am currently playing on hard mode and I've played it for an hour before I knew it. The physical destruction of breaking glass is particularly satisfying, and not only that, the spatial audio is also excellent. Totally recommended, especially if you're looking for an app to kill time.",
+      "date": 1734444171,
+      "review_helpful_count": 2,
+      "author_display_name": "jay437328",
+      "author_alias": "jay437328",
+      "developer_response": null
+    },
+    {
+      "id": "583321661151390",
+      "score": 5,
+      "review_title": "Stress reliever game",
+      "review_description": "This is a stress reliever game for me. When I feel stressed out, I turn on this game. I see the sound of breaking glass as a way to release frustration. Not that I break glass sometimes. However, I did have the idea but didn't follow through with it and make my idea a reality. Each level is an exciting challenge. Overall it's a good game and definitely worth a try.",
+      "date": 1735306424,
+      "review_helpful_count": 1,
+      "author_display_name": "BradLynchLikeXR",
+      "author_alias": "BradLynchLikeXR",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:43:02Z"
+}

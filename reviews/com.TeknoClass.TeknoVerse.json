@@ -1,0 +1,56 @@
+{
+  "app_id": "9805857556154840",
+  "package_name": "com.TeknoClass.TeknoVerse",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "TeknoVerse",
+  "rating_average": 4.6666666666667,
+  "rating_count": 6,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "707433331984142",
+      "score": 5,
+      "review_title": "",
+      "review_description": "This is a great application that truly supports the educational process in a meaningful way. It offers an interactive learning experience that makes it easier to understand complex topics through engaging and immersive content. Using Virtual Reality adds a new dimension to how information is delivered and absorbed, especially in subjects that benefit from visualization and hands-on interaction.",
+      "date": 1748624507,
+      "review_helpful_count": 0,
+      "author_display_name": "Mkady",
+      "author_alias": "Mkady",
+      "developer_response": null
+    },
+    {
+      "id": "1260324978541492",
+      "score": 3,
+      "review_title": "No English option",
+      "review_description": "Can’t really use this app because it is all in Arabic. No mention of this on store page.",
+      "date": 1728335710,
+      "review_helpful_count": 0,
+      "author_display_name": "JohnIsInVR",
+      "author_alias": "JohnIsInVR",
+      "developer_response": {
+        "body": "Hello\nthank you for being interrested in our app\nEnglish is available and you can switch to English from the upper right or left of the welcome screen",
+        "date": 1748624106
+      }
+    },
+    {
+      "id": "276406235257361",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Amazing Platform for VR Educational \nI have been testing a lot of Virtual Reality for education and this TeknoVerse is one of my best platform that i have been tested. I really recommend you to try this platform out, you'll certainly be a big fun to it!",
+      "date": 1695589207,
+      "review_helpful_count": 2,
+      "author_display_name": "karim.sheetos.2022",
+      "author_alias": "karim.sheetos.2022",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:44:05Z"
+}

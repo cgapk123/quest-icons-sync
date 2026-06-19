@@ -1,0 +1,53 @@
+{
+  "app_id": "24013494131665029",
+  "package_name": "com.Thaumaworks.Bubbles",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Bubbles!",
+  "rating_average": 4.6666666666667,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1246609970648804",
+      "score": 5,
+      "review_title": "Neat! Fun? More...",
+      "review_description": "Keep updating this app! You know you want to. This is a great start and so much possibility, what a good start.  I hope the Dev has the time and passion to keep expanding on this initial idea. That other reviewer (serpe.massimo) had a bunch of ideas that were stellar. Good luck and happy developing and learning.",
+      "date": 1768446302,
+      "review_helpful_count": 0,
+      "author_display_name": "ZiggyDaMoe",
+      "author_alias": "ZiggyDaMoe",
+      "developer_response": null
+    },
+    {
+      "id": "1488331132528103",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Update:\nIdea:\n\nSince dynamic occlusion is already implemented, could you experiment with something that no one has tried yet?\n\nYou could generate collisions where, if the bubbles collide with the dynamic occlusion and detect that the object colliding with them is moving (so it can only be an arm, a leg, or the player’s body), this would mean that the bubbles would not only bounce off walls, but also off the player’s body and their own arms or legs—instead of only interacting with the hands.\nSomething that has never been seen before!\n\nIt would be something different, something no one has attempted yet, but I think it could be programmed!\n\nUsing dynamic occlusion to generate collisions on the player’s body (on the player’s real body, not on an avatar overlaid on the real body).\n\nAlso, it would be nice to be able to blow near the bubbles (using microphone access) and see the bubbles fly away.\n\nDo you have a Discord channel where suggestions can be shared?\n\n\n-------------\n\n\nThis little game costs only 1€ and is worth trying for the novelty.\n\nIt is not a real game at the moment, but it is nice to see the bubbles around the room, the dynamic occlusion and the collisions on all the objects in the room make it technically valid.\nIt can certainly be fun for a child to try.\n\nMy suggestion would be to also include the possibility for the user to blow on the bubble and make it move with their breathing.\n\nYou could also consider how funny it would be if the bubble was squeezed between the two hands and it popped.\nBut I realize that it is also fun to see it flatten like that and not pop.\n\nMaybe it could pop if you hold it for more than 4 or 5 seconds squeezed between the two hands? To hear a nice explosion sound? Puff! I think that would be the best, so you keep the fun of seeing it squeezed between the hands but you also have the possibility of making it explode.\n\nAnother thing you could add is another type of bubbles besides these: the fluorescent bubbles, similar but with a clearly visible fluorescence when the bubbles get close to the walls or touch the floor: both on the walls and on the objects in the room and on the floor there will be a slight halo of fluorescence limited to the diameter of the bubble or a little more. (I have already seen this beautiful light effect in another game in development, a beautiful effect!)\n\nit's also nice to see how the bubbles now move around the room as if they're being pushed by air currents\n\np.s. i just had another idea right now: do you remember the slingshot with hand tracking in the game waltz of the wizard? it's really fun the idea of ​​making the horns gesture with your hands and this is used as a slingshot, and then we could shoot bubbles and make them explode just for fun!",
+      "date": 1767551164,
+      "review_helpful_count": 4,
+      "author_display_name": "serpe.massimo",
+      "author_alias": "serpe.massimo",
+      "developer_response": null
+    },
+    {
+      "id": "685140898018975",
+      "score": 4,
+      "review_title": "Bubble boxing!",
+      "review_description": "Got this to add some variety to my boxing mechanics by pivoting around the room and punching random bubbles at different heights. Initially did it out of boredom but glad I did!",
+      "date": 1751591944,
+      "review_helpful_count": 1,
+      "author_display_name": "jake.735111",
+      "author_alias": "jake.735111",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:47:35Z"
+}
