@@ -1,0 +1,59 @@
+{
+  "app_id": "6662595590441174",
+  "package_name": "com.ShopR.ShopR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "ShopR",
+  "rating_average": 3.75,
+  "rating_count": 12,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "635826348971836",
+      "score": 5,
+      "review_title": "Cool idea",
+      "review_description": "I think if you made it were you could make you own shop for money and depending on how big that is how much they would pay.",
+      "date": 1737411803,
+      "review_helpful_count": 16,
+      "author_display_name": "Bradenboy99",
+      "author_alias": "Bradenboy99",
+      "developer_response": {
+        "body": "Thanks for the review. \n\nWe have just launched a SDK that allows any creator/seller to plug in their own showroom on ShopR.",
+        "date": 1738166721
+      }
+    },
+    {
+      "id": "527533803785098",
+      "score": 1,
+      "review_title": "Own virtual space",
+      "review_description": "It advertised being able to have your own store or spaces for creators but don’t see where or how we can plug in our on show room",
+      "date": 1739436888,
+      "review_helpful_count": 3,
+      "author_display_name": "TrillWill",
+      "author_alias": "TrillWill",
+      "developer_response": {
+        "body": "Thanks for your review. \n\nWe do have a SDK for you to upload your showroom and a separate web portal for you to manage orders and inventory. If you are interested in selling with us, you will have to start the process here https://www.shoprvr.com/merchant/signup \n\nLooking forward to reviewing your shop.",
+        "date": 1739456622
+      }
+    },
+    {
+      "id": "8579713828805620",
+      "score": 5,
+      "review_title": "Cool idea",
+      "review_description": "Pretty neat idea to shop in VR. I like that i can use passthrough to bring stuff out and into my playspace.",
+      "date": 1733798384,
+      "review_helpful_count": 7,
+      "author_display_name": "zimberfizz",
+      "author_alias": "zimberfizz",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T16:45:11Z"
+}

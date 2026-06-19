@@ -1,0 +1,34 @@
+{
+  "app_id": "7821177537948460",
+  "package_name": "com.ScrubGaming.HallwayHeist",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Hallway Heist",
+  "rating_average": 3.3333333333333,
+  "rating_count": 9,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "543211378865095",
+      "score": 2,
+      "review_title": "Not Showing Lasers",
+      "review_description": "After scanning room it begins by having you Start and stand in one of the higlighted areas at each end of the room. Then nothing, no lasers around me, and if I move at all Game Over. I see a portion of a laser mesh in the distance at the opposite end of the room, where the other highlighted space was, but I only get a couple brief glances of a portion of laser mesh in that rectagular area across the room. Maybe they need to fiddle with the spatial limits of the laser mesh code, because it might be currently set within the end zone? Hopefully they get it fixed because it seems like it could be a cool game. Cant wait to play it!\nUpdate: Tried in a room and in a hallway, same issue.",
+      "date": 1734545335,
+      "review_helpful_count": 10,
+      "author_display_name": "Whamacha",
+      "author_alias": "Whamacha",
+      "developer_response": {
+        "body": "Hey Aligela, thank you so much for trying out the app! I’m sorry it didn’t work for you. It does best when the room is close to a rectangle like a long hallway. Some room shapes make it not work properly. If you have another room that might fit that description, please give it another try :)",
+        "date": 1734070311
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T16:39:39Z"
+}
