@@ -1,0 +1,53 @@
+{
+  "app_id": "24541462878780066",
+  "package_name": "com.DefaultCompany.ARTESTING",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Dinosaur Land",
+  "rating_average": 3.6666666666667,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1410894290702116",
+      "score": 5,
+      "review_title": "A roaringly fun VR dinosaur experience",
+      "review_description": "This VR dinosaur app is an exciting and immersive experience that truly brings prehistoric creatures to life.\nThe visuals are impressive, and exploring the world alongside realistic dinosaurs feels both fun and educational. A great app for dinosaur lovers of all ages.",
+      "date": 1768488634,
+      "review_helpful_count": 1,
+      "author_display_name": "tuli.deepak",
+      "author_alias": "tuli.deepak",
+      "developer_response": null
+    },
+    {
+      "id": "951728341354773",
+      "score": 5,
+      "review_title": "Awesome experience!",
+      "review_description": "Love it! I especially liked the T-Rex in my lounge and I thought the graphics looked great. Highly recommend! 🦖",
+      "date": 1768604685,
+      "review_helpful_count": 1,
+      "author_display_name": "ArkadeOne",
+      "author_alias": "ArkadeOne",
+      "developer_response": null
+    },
+    {
+      "id": "944562148742724",
+      "score": 1,
+      "review_title": "Don't buy",
+      "review_description": "Dumb, waste of time, space and money",
+      "date": 1768095464,
+      "review_helpful_count": 1,
+      "author_display_name": "Jayboots",
+      "author_alias": "Jayboots",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:35:49Z"
+}

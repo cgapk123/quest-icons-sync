@@ -1,0 +1,42 @@
+{
+  "app_id": "23955563224103721",
+  "package_name": "com.DefaultCompany.Aperchase",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Aper chase",
+  "rating_average": 4.1428571428571,
+  "rating_count": 7,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "679261481944997",
+      "score": 5,
+      "review_title": "I love this game",
+      "review_description": "It’s a fun experience",
+      "date": 1752328340,
+      "review_helpful_count": 2,
+      "author_display_name": "Pulse5867",
+      "author_alias": "Pulse5867",
+      "developer_response": null
+    },
+    {
+      "id": "687175191150139",
+      "score": 3,
+      "review_title": "Read",
+      "review_description": "Not realy that much just walki\nng around but i know it will get better updates.",
+      "date": 1752266645,
+      "review_helpful_count": 1,
+      "author_display_name": "boltshark30",
+      "author_alias": "boltshark30",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:36:44Z"
+}

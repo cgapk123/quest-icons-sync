@@ -1,0 +1,53 @@
+{
+  "app_id": "6560195490758351",
+  "package_name": "com.DefaultCompany.AngryApes",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Angry Apes",
+  "rating_average": 5,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "769992112859214",
+      "score": 5,
+      "review_title": "Asome game",
+      "review_description": "This game has creative builds in it good designs with amazing graphics. I hope this game can get popular soon so others can experience this.",
+      "date": 1754962560,
+      "review_helpful_count": 0,
+      "author_display_name": "Twigs928",
+      "author_alias": "Twigs928",
+      "developer_response": null
+    },
+    {
+      "id": "335545595660915",
+      "score": 5,
+      "review_title": "I'm the owner but still",
+      "review_description": "Gret gam veri col karakters and mapps",
+      "date": 1697489977,
+      "review_helpful_count": 5,
+      "author_display_name": "Samiblue42",
+      "author_alias": "Samiblue42",
+      "developer_response": null
+    },
+    {
+      "id": "330600516563753",
+      "score": 5,
+      "review_title": "im the owner but still",
+      "review_description": "veri gud game and veri guod mapps",
+      "date": 1702726988,
+      "review_helpful_count": 7,
+      "author_display_name": "crabbber",
+      "author_alias": "crabbber",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:36:02Z"
+}

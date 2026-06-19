@@ -1,0 +1,42 @@
+{
+  "app_id": "5846032555496378",
+  "package_name": "com.DefaultCompany.ArticMonkey",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Arctic Monkeys",
+  "rating_average": 3.8571428571429,
+  "rating_count": 7,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "332195316419736",
+      "score": 5,
+      "review_title": "best game ever",
+      "review_description": "keep on trying.        i hope the game blows up\nalso i love the game",
+      "date": 1703439120,
+      "review_helpful_count": 1,
+      "author_display_name": "FireheadVR89",
+      "author_alias": "FireheadVR89",
+      "developer_response": null
+    },
+    {
+      "id": "283377131056163",
+      "score": 5,
+      "review_title": "ello monkeys!",
+      "review_description": "this is my game!",
+      "date": 1691309367,
+      "review_helpful_count": 27,
+      "author_display_name": "guttural.slug",
+      "author_alias": "guttural.slug",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:37:04Z"
+}

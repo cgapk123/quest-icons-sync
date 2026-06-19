@@ -1,0 +1,42 @@
+{
+  "app_id": "5939024236157876",
+  "package_name": "com.DefaultCompany.CatExplorers",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Feline Frenzie",
+  "rating_average": 3.5,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "202047355675904",
+      "score": 4,
+      "review_title": "Good game",
+      "review_description": "It feels weird whenever there’s no buzz when you touch the ground but it actually pretty good so far\nCould do better!",
+      "date": 1675697282,
+      "review_helpful_count": 1,
+      "author_display_name": "Stwbrykit",
+      "author_alias": "Stwbrykit",
+      "developer_response": null
+    },
+    {
+      "id": "162467473187691",
+      "score": 5,
+      "review_title": "yea so the games not in its best state",
+      "review_description": "but im working on fixing most of it",
+      "date": 1672637156,
+      "review_helpful_count": 1,
+      "author_display_name": "Bowtie_Fla",
+      "author_alias": "Bowtie_Fla",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:39:28Z"
+}
