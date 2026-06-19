@@ -1,0 +1,596 @@
+{
+  "app_id": "24063797616578714",
+  "package_name": "com.CyberSnakeX.Plasmaborne",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Plasmaborne",
+  "rating_average": 4.7727272727273,
+  "rating_count": 66,
+  "review_count": 43,
+  "reviews": [
+    {
+      "id": "3257188294446230",
+      "score": 5,
+      "review_title": "Very good, esp. for the price",
+      "review_description": "Sounds and looks great. Good weapon and enemy variety. If the price was higher it'd maybe feel a tad short, but I think I got more hours out of it than anything else in this range. There are some bugs (ex. shotgun spread math is off so it doesn't scatter horizontally if you're facing certain directions, I'm guessing quaternion multiplication order), the ability that makes the player temporarily invulnerable becomes overpowered paired with the fusion core, still overall great and a solid 9/10, would recommend. P.S. I was confused at first not realizing I had to equip powers (played several rounds before figuring that out), and beat the game on expert before realizing I could upgrade multiple passives vs only picking one.",
+      "date": 1780989030,
+      "review_helpful_count": 2,
+      "author_display_name": "davidj.340017",
+      "author_alias": "davidj.340017",
+      "developer_response": null
+    },
+    {
+      "id": "1355606029811736",
+      "score": 5,
+      "review_title": "Tons of fun",
+      "review_description": "Even though I'm generally not a fan of rogue-lites, I can't deny how fun this is. The enemy variety is huge, and there's a wide variety of upgrades, both permanent in your base, and run-specific. Whether you like rogue-lites or not, I suggest you try this.",
+      "date": 1781636211,
+      "review_helpful_count": 0,
+      "author_display_name": "starfish9",
+      "author_alias": "starfish9",
+      "developer_response": null
+    },
+    {
+      "id": "1013127714992185",
+      "score": 5,
+      "review_title": "Addictive Rogue-lite; Awesome Gameplay",
+      "review_description": "As others have said, this game has a Doom-like atmosphere and art design, and it works great for the game's vibe. The level design is simple, but varied enough to be interesting. The gameplay pacing is fast and exciting. I really like the permanent progression system with the character and weapon upgrades and unlocks mixed in with the run-specific perks. Reminds me of The Light Brigade, which is a good thing. Most importantly, the gameplay loop is super fun. Highly recommended!",
+      "date": 1780794449,
+      "review_helpful_count": 1,
+      "author_display_name": "herbert.quan",
+      "author_alias": "herbert.quan",
+      "developer_response": null
+    },
+    {
+      "id": "1476460010590477",
+      "score": 3,
+      "review_title": "I Love Roguelites and this got potential",
+      "review_description": "​Plasmaborne delivers a solid foundation for VR roguelite fans, featuring essential elements like meta-progression, diverse power-up choices, and rewarding secret rooms. While the core loop is engaging, the game currently suffers from significant balancing issues that hinder its full potential.\n​The Good\n​The \"pick-one-of-three\" upgrade system (complete with rarities) feels great, and the sense of progression is evident. The inclusion of secret rooms adds a nice layer of exploration to the runs.\n​The Bad: Balance & Bullet Sponges\n​The primary drawback is the enemy scaling. Bosses feel like massive \"HP sponges\" that take far too long to defeat. While upgrades help, the health pools—especially the second boss—feel overtuned.\n​This imbalance leads to a reliance on \"broken\" builds. Currently, the Boost power-up (providing 7–11 seconds of near-invincibility and +250% damage) feels like the only viable choice. When paired with infinite ammo or energy boons, it trivializes much of the game, yet even this \"god mode\" struggles against certain boss attacks.\n​Suggestions for Improvement\n​Tactical Combat: Move away from infinite dashes and rushing hordes. Implementing a dash cooldown/charge system would add tactical depth, provided the enemy health and aggression are tuned to match.\n​Endgame Content: An Endless Mode with scaling difficulty and a randomized boss pool would significantly increase replayability.\n​Refined Difficulty: Difficulty should come from complex patterns and resource management, not just increasing enemy HP.\n​Verdict: There is a fantastic roguelite hiding under the surface here. With a heavy focus on balancing and more varied endgame content, Plasmaborne could become a must-play for Quest 3 owners.\n\nAddition to original review: when youve unlocked certain upgrades (wich can be done fairly easy), the difficulty becomes completely trivial and mute. It is all a walk in the park. Its quite sad as this game has alot of potential ans theres alot of fun ideas that goes completely wasted here.",
+      "date": 1774800809,
+      "review_helpful_count": 12,
+      "author_display_name": "PatVal-SWE",
+      "author_alias": "PatVal-SWE",
+      "developer_response": {
+        "body": "Hey. Thank you very much for the thorough feedback! This helps us a lot to improve the game. \n\nThe balancing update is coming soon! It adresses most of your points. \n\nRegarding the dash: I like your idea. I am actually currently experimenting with different ways of making it more tactical.",
+        "date": 1774778520
+      }
+    },
+    {
+      "id": "1104320646095899",
+      "score": 5,
+      "review_title": "Plasmaborne Has Something Special!",
+      "review_description": "I’m really enjoying Plasmaborne. It brings back that old-school DOOM-style shooter vibe while still feeling modern and responsive. The gameplay is fast, aggressive, and rewards constant movement—exactly what you want from this kind of experience.\n\nThe monsters, weapons, and level design are where the game truly shines. Everything feels distinct and well thought out, which keeps the action engaging from start to finish.\n\nThis game really has something here. The core gameplay loop is strong and feels like a solid foundation for something even bigger. I’d strongly encourage the developers to build on it—whether that’s more levels, new content,  a full expansion or maybe even multiplayer\n\nOverall, Plasmaborne is a great mix of classic shooter gameplay with modern mechanics and progression. If you enjoy fast-paced, skill-based shooters with meaningful upgrades, this is definitely worth playing.\n\nPS: The developers weren’t kidding—during the week of April 13th, a new board showed up at the Hub, introducing “Hard,” “Expert,” and “Plasmaborne” difficulty levels. The level-end bosses have clearly been tuned up as well. I’m currently working my way through Plasmaborne, and it’s a serious challenge in the best way.\n\nThis game continues to be my go-to—it’s quickly approaching the kind of time investment I’ve put into classics like Resident Evil 4. Also, I couldn’t help but notice the weapon selection menu looks like it has room for a few more additions… definitely hoping that means more content is on the way!",
+      "date": 1776794089,
+      "review_helpful_count": 3,
+      "author_display_name": "AknodOnyx",
+      "author_alias": "AknodOnyx",
+      "developer_response": {
+        "body": "Thank you so much for this incredibly thoughtful review. 🙌\n\nIt really means a lot to hear that the DOOM-style energy and fast, movement-focused combat are landing the way we hoped. We’ve spent a lot of time trying to get that “always in motion” feeling just right, so hearing this is super motivating.\n\nGlad you’re enjoying the weapons, enemies, and the new difficulty levels too; Plasmaborne difficulty is definitely meant to push things to the limit. 💀⚡\n\nAnd yes… you’ve got a sharp eye 👀 There’s definitely more we’d love to add moving forward.\n\nThanks again for spending so much time with the game and for the support; it genuinely helps us shape what comes next. :)",
+        "date": 1777301272
+      }
+    },
+    {
+      "id": "1106602332531522",
+      "score": 5,
+      "review_title": "Surprisingly addictive",
+      "review_description": "Thanks for adding the difficulty option.\n\nAlso, thanks for the quick fix and addition of some loot. 👍🏻\n\n*********\nNote for Devs.\n\nThroughout the game there are various upgrades and some monetary rewards as you progress. The end game is tough and there is basically no reward. Just, you're done, start again. You really need to consider giving the player something that makes the challenge worth doing, and repeating.\n\nE.g.\n\nLarge amount of cash to enable some higher end upgrades \n\nPermanent perk award: choose one of the upgrades found throughout the game as a permanent boost for the next play through, add a new one each completion.\n\nNG+ mode\n\nDual weild ability for more weapons.\n*******\nUpdate:\n\nHave now completed the game twice. What seems impossible is helped by a combination of the right amount of upgrades to your stats, wise choice of weapons and power, and one or two key upgrades from the drone drops. So if you're stuck, persevere, spend your cash wisely, and make the right choices.\n\nI am actually not a fan of roguelike/lite games. I find them frustrating and repetitive, so normally I wouldn't bother with this type of game. But based on reviews and the aesthetic I figured I'd give it a shot.\n\nGraphically it is very basic and at first I was a little frustrated with the dash function which is basically just teleport, especially as reload is located above it on the right controller and that felt a little clunky to begin with.\n\nThat's where I started. Three hours later I finally put it down and that's only because I had to pop out for something.\n\nI see a lot of comparisons to Doom...I would say actually it is closer to Serious Sam. You get spawned with waves of demons and it gets more and more manic as you progress.\n\nThe first run through is obviously the toughest and it took more than one run to beat the first big boss. But once you gather up enough cash to unlock some decent weapons and maybe some upgrades you quickly rack up the kills and the cash on subsequent runs, so upgrading is fairly generous, although certain upgrades are insanely priced.\n\nThe weapon selection board could do with some better presentation, particularly when viewing a locked weapon. You literally have no idea what to expect from a weapon in terms of power and capacity until you buy it and use it. \n\nIn addition to the main arenas there are some bonus areas to teleport to which will allow you to pick up some extra cash, boost a stat, obtain some additional upgrades for your run, or fight a mini boss which rewards you with a combination of cash and upgrades.\n\nAs much as I have enjoyed it, I've reached the second boss and it is getting a little frustrating because you are constantly spammed with projectiles which home in on the player in a tiny little arena and I see no good way to survive being constantly damaged long enough to kill the boss. Assuming this might be tied to the power of my weapons etc, it means being forced to repeat replaying the same levels over and over just to build up enough cash to unlock the upgrades, and that's where it will start to lose some shine.\n\nThat said, overall it is as I stated surprisingly addictive and if you don't have my aversion to this game style you can't knock this one for offering a pretty fun bit of demon slaying carnage for such a low price. Overall a great little game.",
+      "date": 1776520731,
+      "review_helpful_count": 3,
+      "author_display_name": "Krykoyd",
+      "author_alias": "Krykoyd",
+      "developer_response": {
+        "body": "Thanks for your continued and updated review! Glad we could fix it. Have fun with beating Plasmaborne! :)",
+        "date": 1776675251
+      }
+    },
+    {
+      "id": "1561137064964485",
+      "score": 5,
+      "review_title": "DoooooM!",
+      "review_description": "Jahbulon about aldebaran,feels like doom 2016 with the action and I love the Castlevania bloodlines style map at the base! Neat random portal choices after a zone is cleared,upgrades are useful and makes progression exciting,I like all the trash talk sam gives you. Monsters are perfectly ugly,and the bosses are tuff enough.",
+      "date": 1774835661,
+      "review_helpful_count": 5,
+      "author_display_name": "TheMadLamb",
+      "author_alias": "TheMadLamb",
+      "developer_response": {
+        "body": "Thank you for the feedback :) You figured out some of our inspiration for the game!",
+        "date": 1774854948
+      }
+    },
+    {
+      "id": "1478757353682505",
+      "score": 4,
+      "review_title": "My dream Vr Game in progress",
+      "review_description": "I've wanted a good Doom adaptation for ages and it being turned into a roguelike made everything even better. The game is extremely fun and the pace is great, if manual reloading could become a thing one day that'd be beautiful. The current dash is more of a teleport and if it became a short dash/double dash it'd be even more doomlike.\nOther gripes I have are pretty small though, the voicing could use a few more filter layers or somethin it can be jarring sometimes, and I might just be booty at aiming or used to other aim in VR games but the trajectory feels like it pulls up a bit, atleast for the pistol. This game is really awesome and I cannot wait to spend hours on it",
+      "date": 1774659369,
+      "review_helpful_count": 4,
+      "author_display_name": "Banciu",
+      "author_alias": "Banciu",
+      "developer_response": {
+        "body": "Thanks for your thorough feedback!\n\nManual reloading like in e.g. pistol whip with hand movement or more like physically replacing the magazine? --> If you want, head over to our Discord (you can find the like on e.g. our youtube), so we can discuss :)\n\nI will have a look at the pistol! Maybe it feels off because it is \"small\" in length. Did you have anything similar with other weapons?",
+        "date": 1774686556
+      }
+    },
+    {
+      "id": "1087835897738661",
+      "score": 5,
+      "review_title": "Awesome early stage Rougelite",
+      "review_description": "Rougelites and roguelikes are my jam, especially on quest. This is one of the better ones even though it's still in early access.. \nDefinitely could use some balancing, the game is very generous with funds to do upgrades, maybe a little too generous. I'd rather have it too generous than forced to complete multiple runs for a single upgrade however. The boss battle of the second set of levels (the end of the current game) seems a little unbalanced compared to the rest of the game as well. Sharing currency to purchase power ups during the run as well as the meta upgrades to character, power and weapons is an unusual choice for a Rougelite but nothing that takes away from the gameplay.\nOverall a great game with a great variety of weapons and powers that I will sink more time into once the full game releases!",
+      "date": 1771526606,
+      "review_helpful_count": 9,
+      "author_display_name": "Mortuarymatt",
+      "author_alias": "Mortuarymatt",
+      "developer_response": {
+        "body": "Thank you for the feedback! :)\n\nAgreed. We are currently working on balancing, adding world 3 and of course adding more weapons!",
+        "date": 1771844273
+      }
+    },
+    {
+      "id": "709508988910218",
+      "score": 5,
+      "review_title": "Another roguelike..",
+      "review_description": "That's actually really fun!  If doom and ancient dungeons had a baby, it would be this.  Doesn't take many runs to get your strength up and kick some buttons in this game. I think there needs to be a rebalance of money/upgrades though, since I felt somethings were very generous.  I beat the early access in just 3 runs, which is 3 bosses/kings.\n\nGreat indie title!",
+      "date": 1768775255,
+      "review_helpful_count": 10,
+      "author_display_name": "Silverorb909",
+      "author_alias": "Silverorb909",
+      "developer_response": {
+        "body": "Thanks a lot for the thoughtful feedback! 🙌\nWe love that DOOM × Ancient Dungeons comparison; that’s honestly high praise. Really glad you enjoyed the pacing and power progression.\n\nYou’re also spot on about the balance. Early Access is exactly where we want to hear this kind of input, and we’re actively looking at tuning economy and upgrade scaling so runs stay challenging and rewarding over time. More content, difficulty layers, and balance passes are on the way.\n\nThanks again for playing and for the honest critique; it genuinely helps us make Plasmaborne better. ⚡💀",
+        "date": 1768798218
+      }
+    },
+    {
+      "id": "968074906398768",
+      "score": 5,
+      "review_title": "Excellent game, excellent launch",
+      "review_description": "I’ve always wanted a first person Vampire Survivor and this is it baby. I hope to see more stuff added in the future.",
+      "date": 1774923221,
+      "review_helpful_count": 0,
+      "author_display_name": "The_Homel4nder",
+      "author_alias": "The_Homel4nder",
+      "developer_response": {
+        "body": "Thank you very much for the feedback :) \n\nCheck out our Discord (e.g. you can find the link on our youtube) and let us know the stuff you want to be added :)",
+        "date": 1774941129
+      }
+    },
+    {
+      "id": "1271376921757225",
+      "score": 4,
+      "review_title": "Review",
+      "review_description": "This game brings back old school vibes it’s got doom vibes ‘ boss fights are fun just made it to the third boss but was not powerful enough it’s a grind but good fun please can you add multiplayer then this would be epic",
+      "date": 1772565840,
+      "review_helpful_count": 1,
+      "author_display_name": "KraM_2026",
+      "author_alias": "KraM_2026",
+      "developer_response": {
+        "body": "Hey, thank you for the feedback. We really appreciate it.\n\nWe are currently working hard to bring a new map and more in-game content in our upcoming full release scheduled for later this month. Multiplayer may be added with a future update! :)",
+        "date": 1773139858
+      }
+    },
+    {
+      "id": "1518249676363535",
+      "score": 5,
+      "review_title": "Solid rogue lite shooter",
+      "review_description": "It is a fun arena style rogue lite with a great upgrade system with plenty of powers and weapons to customize your loadout.  It's priced right for the content you get.  I like the teleport feature instead of a dash most games use.  Definitely a hidden gem!",
+      "date": 1780185577,
+      "review_helpful_count": 0,
+      "author_display_name": "APEboys",
+      "author_alias": "APEboys",
+      "developer_response": null
+    },
+    {
+      "id": "1179585435227536",
+      "score": 5,
+      "review_title": "Definitely has potential, and I enjoy it",
+      "review_description": "So, I must admit I've never played DOOM, though I am open to playing it, but I love roguelites, especially on VR, and this one definitely has all you'd expect to get from one. Actually took a bit to learn I had to shoot something in the air to get enemies to start appearing, but once they did, good Lord did this game get fun! I already unlocked the Shredder weapon, which is a pretty good one. I haven't reached any bosses yet, as I've only done two rounds, but this is definitely a good VR game. I highly recommend it to any roguelite fan. If I'd played DOOM, I'm sure it would bring me nostalgia for those games too!",
+      "date": 1776544897,
+      "review_helpful_count": 0,
+      "author_display_name": "BentleyBro5",
+      "author_alias": "BentleyBro5",
+      "developer_response": {
+        "body": "Hey! Thanks for the wholesome feedback :)\n\nThe shredder is actually one of my favourite weapons!",
+        "date": 1776588717
+      }
+    },
+    {
+      "id": "4272313709723806",
+      "score": 5,
+      "review_title": "Boom Boom!",
+      "review_description": "Well that is better than the trailer shows it .. this is an awesome game !!\nSmooth fast paced great weapons with support attacks ... definitely get this if love  retro shooters 💪 💪\nSnap turns are great .. teleport great to move around enemies .great challenges and great upgrades..\nAnd snap turns are the best ...\nAnd no trigger to hold the gun! Winner right there🤗",
+      "date": 1775278422,
+      "review_helpful_count": 0,
+      "author_display_name": "dosoempire",
+      "author_alias": "dosoempire",
+      "developer_response": {
+        "body": "Thank you so much for the amazing feedback! 🙌\nWe’re really glad the combat, movement, and overall feel clicked for you, especially the snap turns and controls. That kind of experience is exactly what we aimed for.\n\nAppreciate the support, and we hope you keep enjoying the chaos! ⚡💀",
+        "date": 1775564756
+      }
+    },
+    {
+      "id": "1124520304067181",
+      "score": 5,
+      "review_title": "Better than expected.",
+      "review_description": "Didn't have any expectations for the game but decided to purchase it because of positive reviews. \nLots of guns, upgrades, active and passive powers. Action is very fast paced and you need to move quickly or risk dying. It's a rough like game but progress is fast that's why it doesn't get boring quick.\nI hope that developer will support the game for a long time.",
+      "date": 1774485213,
+      "review_helpful_count": 1,
+      "author_display_name": "PureBlood78",
+      "author_alias": "PureBlood78",
+      "developer_response": {
+        "body": "Thank you for your feedback :) \n\nWe intend to update the game frequently. The next update will include a lot of balancing, new upgrades in the shop and passive powers regarding movement.",
+        "date": 1774513133
+      }
+    },
+    {
+      "id": "1270518741848602",
+      "score": 5,
+      "review_title": "Doom but double brutal!",
+      "review_description": "This is super cool Doom like game with awesome range of abilities. Good variety of enemies and soundtrack is pretty dope! Movement is fun to play and I would love to have ability to save and continue playing run.",
+      "date": 1775416197,
+      "review_helpful_count": 0,
+      "author_display_name": "GMsupr",
+      "author_alias": "GMsupr",
+      "developer_response": {
+        "body": "Thank you so much for the kind words! 🙌\nWe’re really glad you’re enjoying the combat, abilities, and soundtrack. That means a lot.\n\nGreat call on the save/continue feature as well, it’s something we’re actively considering as we keep improving the game. Appreciate the feedback and support! ⚡💀",
+        "date": 1775564828
+      }
+    },
+    {
+      "id": "770786559081828",
+      "score": 5,
+      "review_title": "I AM LOVING THIS GAME! 10/10",
+      "review_description": "This game will have you so locked in you’ll lose track of time and play for hours before realizing, if you’re a fan of doom style games with rogue like aspects this game is for you! I was born in the 90’s and grew up with games like this, but to play it in vr is a new level of fun! The upgrade system is awesome and the weapons/power ups are great, it has a very diverse selection of demons to rip through and many levels to conquer! I would highly recommend this game! Not only for the game itself but the devs team is amazing as well, always listens to feedback and strongly cares for the community!",
+      "date": 1759667425,
+      "review_helpful_count": 6,
+      "author_display_name": "HuntzVRvault",
+      "author_alias": "HuntzVRvault",
+      "developer_response": {
+        "body": "Wow, thank you so much for this incredible review! 🙌\nIt really means a lot to hear that Plasmaborne hits that classic Doom-style sweet spot for you, especially as someone who grew up with those games. Bringing that energy into VR has been our dream, and feedback like this makes all the hard work worth it.\n\nWe’re thrilled you’re enjoying the upgrade system, enemies, and overall vibe, and we’ll keep listening to the community as we grow. ⚡💀\n\nSee you in the arena, Soldier! 👊",
+        "date": 1759735339
+      }
+    },
+    {
+      "id": "756837910851749",
+      "score": 5,
+      "review_title": "Doom inspired rougelike!!",
+      "review_description": "If you're a fan of old school shooters like DOOM and you always wished you could be in the game, then now you can with Plasmaborne! The team at Cybersnake have been working hard to bring that vision of a fast paced, brutal shooter to VR, along with a great rougelike progression system.\n\nThey actively listen to feedback and throughout the early access have added requested features to the game, like the ever important options for smooth turning (for VR gamers like me!).\n\nDon't just take my word for it, why not head over to my YouTube channel and check out my first impressions video when I tried it out a while ago!\n😁✌️☮️❤️",
+      "date": 1757862036,
+      "review_helpful_count": 11,
+      "author_display_name": "Hippy_Pickle",
+      "author_alias": "Hippy_Pickle",
+      "developer_response": {
+        "body": "Thanks so much for the amazing review! 🙌 We’re thrilled that Plasmaborne delivers that fast-paced, old-school shooter energy you’ve sought in VR. Community feedback has truly shaped the game, and it means a lot to hear that improvements like smooth turning made a real difference for you.\n\nWe’ll definitely check out your video. Thanks for sharing your first impressions and for helping spread the word. More updates are coming, and we can’t wait for you to dive back in. ⚡💀",
+        "date": 1757913835
+      }
+    },
+    {
+      "id": "24823019360643403",
+      "score": 4,
+      "review_title": "Definitely a hidden gem",
+      "review_description": "I was gifted the game by being randomly chosen in a contest on the r/oculus quest subreddit. So, full disclosure, I got this game for free.  Three hours later, I was gifting a copy for a friend, then went right back to playing. \n\nThis game is highly addictive. Think Doom+Crashlands+Serious Sam. It’s a blast! \n\nThere are a LOT of wave based shooters on quest , and a few even try to capture the FEEL of DOOM or QUAKE, but this game is the clear winner. If you love hectic wave shooters with an almost comic-booky hellscape vibe, this is the only choice. You feel like a complete juggernaut as you blow through the legions of hellspawn! \n\nPros\n+Tons of great enemy variation. I’m always pumped to see what they throw at you next. \n+Great music and voice\n+love the power up system after each round. Some of the upgrade bonuses are amazing! \n+love the randomization of levels\n+ the game difficulty is perfect. If it was any harder, I would’ve put it down much earlier. As is, the “one more game” feel is VERY strong here. \n\nCons\n- Turning on smooth turn, even at max is still way too slow\n- I wish reload was active/quick reload. Waiting definitely breaks the rhythm. Infinite ammo power up’s definitely helped, but it’s luck of the draw when you get them. \n- Unless I’m missing something, where’s the equivalent of a pulse rifle or assault rifle here? I really missed having that gun style! Plasma gun is fine, but a plasma rifle would be GREAT. Currently rocking the shredder/pistol combo.",
+      "date": 1757879036,
+      "review_helpful_count": 4,
+      "author_display_name": "ShoFuturistic",
+      "author_alias": "ShoFuturistic",
+      "developer_response": {
+        "body": "Thank you very much for your detailed feedback! \n\nMost important. More weapons are added. Add Assault rifle like one is also included in these plans!\n\nWe can definitely increase max smooth turn speed. Will add a feature to backlog right away :)\n\nThere is indeed a button for active reloading (see controls in the hub). If you think more in terms of reloading instantly with a hand gesture/movement, we can experiment with that.",
+        "date": 1758272068
+      }
+    },
+    {
+      "id": "1295278965728868",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "I received this game in a key giveaway competition from a Facebook VR group, Meta Quest Promotions. \nI thought enjoyed the game and plan to practice more when I get a chance. I loved every second though and can recommend this for anyone that loves shooters.",
+      "date": 1756525342,
+      "review_helpful_count": 4,
+      "author_display_name": "Goobergee",
+      "author_alias": "Goobergee",
+      "developer_response": {
+        "body": "Thanks so much for giving Plasmaborne a try! 🙌 We’re really glad you enjoyed your first run and that it clicked with you. Can’t wait to hear how your skills (and builds 😉) evolve as you get more time in the game. Appreciate the recommendation, it means a lot to us! ⚡",
+        "date": 1756818921
+      }
+    },
+    {
+      "id": "767336186459832",
+      "score": 5,
+      "review_title": "Big Guns and Bigger Enemies",
+      "review_description": "Title says it all. Blast away baddies in this brutal roguelite. Each wave of enemies lets you add a new perk and at the end of a run and you collect loot to use to buy more weapons and upgrades. You also dual wield and get to pick a different weapon for each hand at the start of a run. The game really gives off doom vibes with its environment, enemies and music and just like its inspiration, it’s smooth as hell. Blasting away bad guys is super satisfying and gets more challenging as you progress each stage. It’s easy to get overwhelmed but so satisfying getting combos of multi kills over and over.",
+      "date": 1754617518,
+      "review_helpful_count": 5,
+      "author_display_name": "FoamyMouthDog",
+      "author_alias": "FoamyMouthDog",
+      "developer_response": {
+        "body": "Thank you very much for your feedback :)",
+        "date": 1754655697
+      }
+    },
+    {
+      "id": "792286567295724",
+      "score": 5,
+      "review_title": "Fun, Fast, Action Packed Dungeon Crawler",
+      "review_description": "You start in a cell with a dead body and basic control instructions near by. Then you can move around the hub which is like your bat cave. Which contains various information about the place and upgrade stations and a map showing your latest progress or best play. You can see 3 zones with an indicator of a boss battle at the end of each zone. Nice.\n\nTo start the game, you go through the yellow circle portal, and find yourself in the first arena. Shoot the spider thing in the sky, and the mobs start spawning in. Weapon in each hand (starting with 2 pistols) you blast your way through until the arena is cleared. Then you get to pick from 3 random power ups to carry through with you for the rest of this run. Jump through the portal to the next arena, with new monsters appearing as you go, and more appearing each time. \n\nYou get drone power ups and some treasure hunting as well as you play through, boosting your damage, giving you unlimited ammo, etc. \n\nTakes a few rounds to earn good bounty for decent upgrades. And upgrades take you further each time. \n\nBoss fights are very cool, mega big bosses, with challenging mobs and great music backing up your experience. \n\nI am looking forward to the 3rd zone being released and can already find myself playing this to upgrade as much as possible, from passive skills, spells, weapons and their own upgrades. \n\nThis game is simple to understand, easy enough to master, fast paced and excitingly entertaining for a shooter dungeon crawler. Quite addictive!",
+      "date": 1756717909,
+      "review_helpful_count": 1,
+      "author_display_name": "Kinsten",
+      "author_alias": "Kinsten",
+      "developer_response": {
+        "body": "Thank you very much for the extensive feedback :) \n\nVery good summary of the game loop! Glad you like the boss fights. I plan more fights in that direction! \n\nIf you want to give us more feedback, share ideas or create some request for new weapons/features, you can also check out our Discord:  https://discord.gg/9TX8fvD62e",
+        "date": 1756820682
+      }
+    },
+    {
+      "id": "783749890842143",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "A little bummed there’s only 1 boss right now, but can’t wait for the rest to be added. This one really surprised me… one of the best rogues I’ve played in VR, and I’ve played a million of em it seems.   Keep up the great work devs!",
+      "date": 1754652112,
+      "review_helpful_count": 2,
+      "author_display_name": "PowPow55",
+      "author_alias": "PowPow55",
+      "developer_response": {
+        "body": "Thank you for the great feedback! Content update 2 (adds second boss) comes end of august. You can join our Discord and become a playtester for even earlier access :)",
+        "date": 1754655768
+      }
+    },
+    {
+      "id": "799347739671917",
+      "score": 5,
+      "review_title": "Fast pace shooter!",
+      "review_description": "I tried this game by case and I am really impressed about its gameplay. It is a fast pace shooter that reminds me of Doom. The design is all about hell, monster and devil with the possibility to use combo to kill. Considering it is in early access, It's already well made and worth any penny!!!!it will keep you busy for many hours!",
+      "date": 1762591667,
+      "review_helpful_count": 0,
+      "author_display_name": "Aimar80",
+      "author_alias": "Aimar80",
+      "developer_response": {
+        "body": "Thank you so much for the awesome review! 🙌\n\nWe’re thrilled to hear the fast-paced action and DOOM-style combat hit the mark for you. That’s exactly the kind of energy we’re building for Plasmaborne. ⚡💀\n\nThere’s a lot more coming during Early Access, including new worlds, enemies, and even more brutal combos, so we can’t wait for you to keep tearing through the chaos with each update!\n\nSee you in the arena, Soldier! 👊🔥",
+        "date": 1764846764
+      }
+    },
+    {
+      "id": "764254170114169",
+      "score": 5,
+      "review_title": "Teleporting made me sick",
+      "review_description": "This is a great game, very much like doom, I was having so much fun. \nI knew as soon as I used the dash button I'd get sick from it. \nI recommend turning the dash into a leap, like a large jump. I could do so much cooler kills with a leap. \nWeapons could have a more doom like aesthetic rather then the arcade look. \nLast, add platforming, nothing better then jumping from a hight and stuffing a gun down a demon's throat 😆. \nLast last,,, executions!\nI'll have to wait to play again cos I got really sick. \nI play lots of VR and teleporting doesn't work for me. GG on a fantastic game tho it was not what I expected, it was better. ❤️.",
+      "date": 1761258225,
+      "review_helpful_count": 0,
+      "author_display_name": "LanceSporadic",
+      "author_alias": "LanceSporadic",
+      "developer_response": {
+        "body": "Wow, thanks so much for the amazing feedback and for giving Plasmaborne a try! 🙌\nReally glad to hear you had fun, and those ideas are awesome. A leap-style dash and executions sound like features that fit right into the Plasmaborne universe 👀. We’ve been exploring expanding movement and combat flow, so feedback like this is super valuable.\n\nSorry to hear about the motion sickness. Comfort is our big priority, and we’ll keep refining the system to make it smoother for everyone. Thanks again for the kind words and the detailed suggestions; it means a lot. 💀⚡",
+        "date": 1761922329
+      }
+    },
+    {
+      "id": "705476755973850",
+      "score": 5,
+      "review_title": "Brutal, Addictive Gem That Nails the FPS",
+      "review_description": "Plasmaborne is one of those rare VR titles that hooks you from the first wave. Each level throws a fresh challenge your way, and even in death, you feel like you're progressing—stacking cash to unlock a ridiculous arsenal of powerful weapons and upgrades. The gameplay loop is fast, intense, and highly addictive.\n\nWhat really stands out is how the level design and enemy waves constantly evolve, keeping you on your toes. There's a clear love for old-school shooters like DOOM and Quake, but with its own slick, modern twist. Movement feels great (teleportation grows on you fast), the music pumps you up, and the variety of upgrades allows for infinite ways to play your style.\n\nConsidering this is the studio’s first game, the polish and performance are seriously impressive. It's a solid, well-rounded title that deserves a place in any VR gamer's library.\n\nTry it—you might just lose track of time.",
+      "date": 1748429243,
+      "review_helpful_count": 9,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": {
+        "body": "Thank you very much!",
+        "date": 1748859515
+      }
+    },
+    {
+      "id": "1088094843224594",
+      "score": 5,
+      "review_title": "Lots of potential in the EA title",
+      "review_description": "On paper people might see roguelite and be turned off by the title, however Plasmaborn has got that addictive gameplay loop nailed down.\nIts has the potential to become one of the true gems of the genre in VR.\n\nWorking your way through a series of rooms (chosen from a pool of rooms)\nYou have to do one simple thing......kill everything in sight!\n\nUsing an range of different weapons, each combat room completion reward you with a perk card.\nIts these perk cards that allow players to make some really crazy builds and its what keeps each run fresh.\n\nOn completion or death you get currency to unlock new weapons, and powers.\nPowers are special skill that run on a self regenerating resources of its own. Ranging from time slowing to spawning a sword or rocket launcher and adds another layer to the game.\n\nPlease note at the time review the game is in EA so only the first zone is in the game (once you complete a 8 room run with a boss) \nAll you can do is repeat although with different weapons, perk cards to keep you playing (unlocking and upgrading everything will take some time thou)\n\nThe foundations for an strong addictive gameplay roguelite loop has been laid out for its EA launch.(pick it up now if you want to see it develop....the dev seem open to ideas and feedback!, help shape the game!)\nOr wait a bit later whilst more levels are added.\nEither way Im continuing to grind my character!\n\nIll update the review everytime a major update drops.\n\nNow its the case of seeing more levels being added as well as anything else they can come up with.",
+      "date": 1748777415,
+      "review_helpful_count": 4,
+      "author_display_name": "Burntbreadman",
+      "author_alias": "Burntbreadman",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1748859726
+      }
+    },
+    {
+      "id": "659134747289723",
+      "score": 5,
+      "review_title": "Fantastic VR FPS",
+      "review_description": "I jumped in Plasmaborne early as a playtester, and while in early access, this is already a very polished and feature packed shooter, thats a pleasure to play.\n\nFast action, wave based mayhem with a great upgrade path and RNG loot to keep every run feeling fresh.\n\nI'd say this game has fantastic potential, but it's already one of my favourite shooters on VR.. Fans of Mothergunship and Doom will find this a joy to play.",
+      "date": 1749077113,
+      "review_helpful_count": 3,
+      "author_display_name": "LeeHubbz",
+      "author_alias": "LeeHubbz",
+      "developer_response": {
+        "body": "Thank you very much for your feedback!",
+        "date": 1749103807
+      }
+    },
+    {
+      "id": "1005707835008696",
+      "score": 5,
+      "review_title": "One of my favorite new roguelikes",
+      "review_description": "The action in this game is intense and fun. The gameplay loop is amazing. You might feel a little underpowered the first few runs but soon enough you will be slaying demons with ease. There are plenty of weapons, powers, and random buffs to make sure every playthrough is different every time. The art style is unique and the gameplay is a frenzy. I'd recommend to any fans of doom and Hades, this is a great cross between those game types. I'm looking forward to future updates! Keep up the good work!",
+      "date": 1748899481,
+      "review_helpful_count": 2,
+      "author_display_name": "Sandwichx",
+      "author_alias": "Sandwichx",
+      "developer_response": {
+        "body": "Thank you! :)",
+        "date": 1748966517
+      }
+    },
+    {
+      "id": "1170256618202350",
+      "score": 5,
+      "review_title": "Delivers on what it offers",
+      "review_description": "*received my copy for free, thank you kind redditor. \n\nGameplay is simple yet engaging; there are a ton of upgrades to keep the gameplay feeling fresh and different while maintaining a focus and consistency throughout the different levels. Difficulty scales with progression so you don’t have to worry about getting bored between high level runs too which is an added bonus. \nArt and design is original, creative, and good looking in the Quest 3 although I haven’t tried it for the quest 2 yet as I can’t really do that right now. You get a handful of maps to cycle through with their own unique layout and quirk. Some levels also have environmental hazards that will drain your hp to 0 if you are not careful. \nOverall I would recommend this game to anyone who enjoys on-rail shooters. The lack of smooth movement and smooth turning keeps me from recommending the game to mainstream shooter fans however as the choice of control scheme tends to be a standard minimum for the average meta quest cordless 6dov shooter.",
+      "date": 1748628620,
+      "review_helpful_count": 2,
+      "author_display_name": "ABV_antibadvibe",
+      "author_alias": "ABV_antibadvibe",
+      "developer_response": {
+        "body": "Thank you very much! Smooth Movement and smooth turning will follow with the upcoming update!",
+        "date": 1748859591
+      }
+    },
+    {
+      "id": "603636279510603",
+      "score": 5,
+      "review_title": "Tell the Robot Devil imma coming!",
+      "review_description": "Obviously the game is in its early days and that's to be expected as the game is in early access, but there's plenty of potential for a really good Roguelike here.\nYou begin with dual pistols but have the ability to buy 4 other guns, such as a Shotgun, Grenade Launcher, String Gun and Rail Gun , my personal favourite is the String Gun which fires this multicoloured circular beam of light that's really good for handling multiple enemies and has less spread than the Shotty does \nYou have alts, which you can pick one for each hand, things such as time slow, enemy freeze, flamethrower, a drone etc\nThen you have passives like more health, more shield, faster shield regen etc\nAt present there's roughly 10 different levels and areas before you reach the boss, the game only has teleport movement and it's definitely missing a story here that would flesh it out or at least explain why we're here fighting demons.\nThe dev has told me it's getting free movements and it's getting more weapons in updates, so I will be eager to see how it changes over time and what gets added.",
+      "date": 1748966624,
+      "review_helpful_count": 1,
+      "author_display_name": "AllUAreIsHistory",
+      "author_alias": "AllUAreIsHistory",
+      "developer_response": {
+        "body": "Thank you for your feedback! Smooth motion is coming in a few weeks!",
+        "date": 1749103781
+      }
+    },
+    {
+      "id": "746307581399722",
+      "score": 5,
+      "review_title": "A FPS FOR THE AGES",
+      "review_description": "First impressions review \n\nYou are dropped straight into the action from the get go.\nFrom the fist minute it is full on, giant spiders attack you, this has teleport movement currently, I hope free movement comes into play.\nGuns are amazing to fire, causing great damage, I’m early into this and it does have a doom style gameplay.\nIf you love a great FPS then definitely jump into this.\nLooking forward to going in further to the game.\nWell done to the dev team.",
+      "date": 1748677616,
+      "review_helpful_count": 1,
+      "author_display_name": "GizmoDemi",
+      "author_alias": "GizmoDemi",
+      "developer_response": {
+        "body": "Thank you! Free movement will follow with the next update!",
+        "date": 1748859632
+      }
+    },
+    {
+      "id": "1036848451958283",
+      "score": 4,
+      "review_title": "Dark, hellish shooter",
+      "review_description": "My review is based on this being Early Access.\n\nThis is a clear area and progress to next area shooter…. With elements of a rogue lite.\n\nYou start off in a big room, which u thought was the start of the game instantly… it was a little confusing, but I realised its a huge room with consoles scattered about with info and upgrade stations. I do think this room needs to be smaller, maybe set in a smaller cave so as not to have to run around all over the place to check the screens ect…\n\nThe movement is via teleport, which isn’t ideal either… but I’ve been told that free movement is coming in a future update.\n\nYou enter the first area via a portal, and instantly thrown Into the action, with enemies fast approaching you thick and fast, not giving you time to think… you have to clear all of them before then choosing which upgrade you want to take with you into the next area.  \nYou get loot from destroyed enemies, which range from shields, weapon upgrades or money to use to upgrade\non the consoles back in the starting area.\nEnemies get tougher and bigger as the areas progress. \n\nThe voices in game are nice and sound evil and menacing.\n\nGraphics are ok, kinda like a cell shaded or comic book kind of look to them.\n\nThis is a decent shooter, which will get better, especially with the free movement",
+      "date": 1748776630,
+      "review_helpful_count": 1,
+      "author_display_name": "Bloodangel1068",
+      "author_alias": "Bloodangel1068",
+      "developer_response": {
+        "body": "Thank you for your feedback! Free Movement will be added with the upcoming update!",
+        "date": 1748859709
+      }
+    },
+    {
+      "id": "591284487411881",
+      "score": 5,
+      "review_title": "Very Addictive",
+      "review_description": "I've been grinding the game to unlock all the available upgrades and try out every gun. The levels are a blast — fun, fast-paced, and seriously hardcore. You really have to stay sharp to keep up!",
+      "date": 1748935569,
+      "review_helpful_count": 2,
+      "author_display_name": "Sly_Indieverse",
+      "author_alias": "Sly_Indieverse",
+      "developer_response": {
+        "body": "Thanks!",
+        "date": 1748966531
+      }
+    },
+    {
+      "id": "1150255593805740",
+      "score": 5,
+      "review_title": "Fast Paced Fun..",
+      "review_description": "This is super hard, super-fast and super fun. The visuals are beautiful drawn, with a perfect balance of neon-lit environments and gritty dystopian landscapes.  And the music is banging..\nGameplay is fluid and intuitive and when updated with free movement will be brilliant – The combat is where this game truly shines: fast-paced, and strategic in the way of figuring out the best weapon upgrades. Facing off against so many different enemies in in the first wave and beyond with plasma weapons never gets old  as after each wave you move to a new environment.  I do get the doom vibe.... \nThis is one game I will come back to when I am in the need for some quick drop in action definitely one to get, it’s pretty addictive.",
+      "date": 1748678651,
+      "review_helpful_count": 1,
+      "author_display_name": "Magicmerlin007",
+      "author_alias": "Magicmerlin007",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1748859656
+      }
+    },
+    {
+      "id": "2042201319522733",
+      "score": 4,
+      "review_title": "Almost perfect",
+      "review_description": "It's a keeper.\n\nI only wish for fluid movement instead of teleporting.",
+      "date": 1750205633,
+      "review_helpful_count": 2,
+      "author_display_name": "digitaltim",
+      "author_alias": "digitaltim",
+      "developer_response": {
+        "body": "Hello tim.\nFluid movement is coming in about 2-3 weeks with out \"movement and settings\" update.",
+        "date": 1750238585
+      }
+    },
+    {
+      "id": "720851443965358",
+      "score": 5,
+      "review_title": "Wipe out all those demons",
+      "review_description": "Every round is different. When you have finished a level, you can chose an upgrade for the next round. Choose wisely…\n\nWhen you are out of bullets, use your teleport to avoid the demons. \n\nFun shooting game for young and old.",
+      "date": 1748813098,
+      "review_helpful_count": 1,
+      "author_display_name": "POWERGIRL.BE",
+      "author_alias": "POWERGIRL.BE",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1748859738
+      }
+    },
+    {
+      "id": "2660284374162599",
+      "score": 5,
+      "review_title": "Plasmaborne",
+      "review_description": "This game is Awesome!  I play Roguelikes, and this one is really good! Love the Doom like Monsters!  Keep going!  Solid!!!",
+      "date": 1749168642,
+      "review_helpful_count": 2,
+      "author_display_name": "solvangman805",
+      "author_alias": "solvangman805",
+      "developer_response": {
+        "body": "Thank you! We will keep going!",
+        "date": 1749196436
+      }
+    },
+    {
+      "id": "2113974605782253",
+      "score": 4,
+      "review_title": "Fun game.",
+      "review_description": "Waiting for smooth turn, like what I played, but snap turn makes me physically ill.",
+      "date": 1749843142,
+      "review_helpful_count": 2,
+      "author_display_name": "ARCHMOWiE",
+      "author_alias": "ARCHMOWiE",
+      "developer_response": {
+        "body": "Hello! Smooth turn will be available with the upcoming major update in about 2-3 weeks.",
+        "date": 1749910409
+      }
+    },
+    {
+      "id": "1259314102567704",
+      "score": 4,
+      "review_title": "Brutal. But addictive",
+      "review_description": "Very good looking game full of atmosphere. Brutal on your life but so addictive.",
+      "date": 1750765190,
+      "review_helpful_count": 1,
+      "author_display_name": "davesureshot",
+      "author_alias": "davesureshot",
+      "developer_response": {
+        "body": "Thank you very much! If you have any feedback how to improve the experience, please reach out to us via Discord or our website!",
+        "date": 1751796126
+      }
+    },
+    {
+      "id": "723940766861280",
+      "score": 5,
+      "review_title": "Awesome Game cool Graphics",
+      "review_description": "This is a cool as fast-paced game with cool graphics and everything else with it!",
+      "date": 1748547331,
+      "review_helpful_count": 1,
+      "author_display_name": "skyvuc",
+      "author_alias": "skyvuc",
+      "developer_response": {
+        "body": "Thanks!",
+        "date": 1748859543
+      }
+    }
+  ],
+  "total": 42,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-19T08:24:45Z"
+}

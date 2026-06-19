@@ -1,0 +1,901 @@
+{
+  "app_id": "6342667652416194",
+  "package_name": "com.DDXR.Contour",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Contour",
+  "rating_average": 2.9193548387097,
+  "rating_count": 124,
+  "review_count": 76,
+  "reviews": [
+    {
+      "id": "1146781301843293",
+      "score": 5,
+      "review_title": "Amazing App",
+      "review_description": "Guys I’ve been doing graffiti since I was 14 and I’m 33. The only way to make sense out of this overall rating is that people using this are either new to murals and walls or technologically find it hard to jump on a new app. Within 5m from installing I had the picture low opacity, straighten on my wall perfectly adjusted waiting to get traced. It’s honestly amazing! Great job to the team!!",
+      "date": 1776873658,
+      "review_helpful_count": 37,
+      "author_display_name": "SampanisCo",
+      "author_alias": "SampanisCo",
+      "developer_response": null
+    },
+    {
+      "id": "950619881478037",
+      "score": 5,
+      "review_title": "Great after the learning curve.",
+      "review_description": "This app has been a game changer for me as an artist doing murals and woodcut pieces. This is the entire reason I bought my Meta Quest.  Not every wall I paint on has a space that can work for a projector, or that I can access when it is dark - so having the headset to get my outlines removes those barriers. \n\nFunctionality wise, I agree with everyone who finds this confusing on first use. I too was really frustrated why the \"preview screen\" never went away. However, it is not supposed to go away. This is a panel you can grab by the horizontal bar beneath it and move spatially wherever you want (i.e. not right in front of your drawing surface) and this is your control panel while you are using the app.\n\nDue to its non-intuitive usability and required learning curve I would probably give this app a 4 or 4.5 but I'm doing a 5 to balance what I feel were some unfair 1 star reviews. Also the developer (I'm pretty sure there is only one dude) was actually quite nice and responsive when I had a question once.\n\nOnce I figured it out (and it really only took one session to \"get\" it) I haven't had issues since.\n\nMy criticisms: I, too, wish it had a good memory and I could come back to a piece the next day. I also wish the drawing wouldn't somewhat \"shift\" spatially if it's on a large wall but in those cases I can do slight corrections manually if needed. And the system to get your file to it is a bit clunky. What I do is place my image (best results PNG with transparent bg) in a google drive, open browser app to download that, then it is in my files to open within Contour App.\n\nThat all said I don't think these are all issues this developer can overcome with the way the Meta Quest works and I think some of these reviews are harsh and ignorant about their criticisms. The app is functionally likely as good as it CAN be with the hardware constraints. \n\nI have done dozens of murals and art pieces using it and so have many of my artist friends, I will keep recommending it!",
+      "date": 1774227657,
+      "review_helpful_count": 35,
+      "author_display_name": "wokeface",
+      "author_alias": "wokeface",
+      "developer_response": null
+    },
+    {
+      "id": "1199464386575015",
+      "score": 1,
+      "review_title": "Disappointed",
+      "review_description": "Worked for me under certain angles. It’s completely unusable when you’re sitting in front of a wall and you have to trace something that is near the floor. Tried ist also on a big facade and the image looked warped and it was moving. The artwork moves when you look up and down. I‘m frustrated and I‘m uninstalling it. I  Can’t used it",
+      "date": 1779883148,
+      "review_helpful_count": 1,
+      "author_display_name": "Qwertz90",
+      "author_alias": "Qwertz90",
+      "developer_response": {
+        "body": "Hi there, I'm a bit surprised with your feedback since thousands of users, including many professional muralists and artists, are using the app including for very large artwork. It's not perfect, but it should definitely not result in such a frustrating experience. Don't hesitate to reach out to the support email to tell me more.",
+        "date": 1780910702
+      }
+    },
+    {
+      "id": "1138010846059595",
+      "score": 1,
+      "review_title": "Hate this app",
+      "review_description": "I seen a bunch of videos so I downloaded it but to get your personal image from your phone to the app is a real struggle if you don’t have a laptop. So I wasn’t able to do it. Hopefully, they upgrade the app.",
+      "date": 1779655447,
+      "review_helpful_count": 2,
+      "author_display_name": "DivineFlamekisser",
+      "author_alias": "DivineFlamekisser",
+      "developer_response": {
+        "body": "Hi there, sorry you got frustrated, and indeed, I really wish Meta made it easier to import files to their headset. But you do not need a laptop to import images :  the simplest way is to email the images to yourself and use the Quest browser to download the images. This is what most users do. Don't hesitate to reach out to the support email if you need more  information, I'll be glad to help.",
+        "date": 1780910447
+      }
+    },
+    {
+      "id": "1112024538655322",
+      "score": 3,
+      "review_title": "Frustrated",
+      "review_description": "When it works, its pretty good. But trying to get images onto the headset is random. Sometimes it goes through other times nothing. \n\nIve tried google for solutions but nothing seems compatible.\n\nIve had it months and used it 3 times, extremely frustrating",
+      "date": 1777547027,
+      "review_helpful_count": 3,
+      "author_display_name": "GlowingGoldfish9105",
+      "author_alias": "GlowingGoldfish9105",
+      "developer_response": {
+        "body": "Hi there and thanks for your feedback - The image import process should be pretty smooth, so I would love to understand which import you've been using specifically, and what happened. Can you please reach out by email so we can learn more ? Thanks !",
+        "date": 1780909774
+      }
+    },
+    {
+      "id": "959574639948186",
+      "score": 3,
+      "review_title": "I'm hopeful that this app'lll get better",
+      "review_description": "The tiktok users make it look much better than I have found it to be.  I think this app is a game changer to make murals, etc easier to 'prep' on a wall (sketch). But... I find it still is 'glitchy' when I use it. The picture I'm using moves... and so, I have to use my art skills, but then that's using up time that I was trying to save, by purchasing the Quest in the first place. \nI have spent a lot of money but I don't feel that this has been as good as those other guys make it out to be. \nI also think the process to get a file into the app is clunky: I have to upload to google drive, then use the quest browser to open up gdrive, download it to quest, open the contour app, upload it there... \nI have tried another app to see if it's better, but it's about the same.",
+      "date": 1775529597,
+      "review_helpful_count": 4,
+      "author_display_name": "Gypsee7",
+      "author_alias": "Gypsee7",
+      "developer_response": null
+    },
+    {
+      "id": "1189820257538074",
+      "score": 5,
+      "review_title": "Amazing!",
+      "review_description": "I'm very grateful for this app, im a chalk artist and this app makes it easy and fun to get any design on concrete, wall you name it! 🙏",
+      "date": 1780684619,
+      "review_helpful_count": 0,
+      "author_display_name": "Noechalkart316",
+      "author_alias": "Noechalkart316",
+      "developer_response": null
+    },
+    {
+      "id": "1089818147556906",
+      "score": 3,
+      "review_title": "Image moves and wonders over time",
+      "review_description": "I find the I\nAge moves and wonders by millimetres so close up detail isn’t possible but for large scale setting out it’s good but doesn’t replace projector",
+      "date": 1779002759,
+      "review_helpful_count": 0,
+      "author_display_name": "CrimsonDogface",
+      "author_alias": "CrimsonDogface",
+      "developer_response": null
+    },
+    {
+      "id": "1298356965529223",
+      "score": 1,
+      "review_title": "Why is this so hard to use",
+      "review_description": "I've gone through all the trouble shooting and still can not get it to let me import in my own pictures and I am the primary user like it says to be and I have all permissions turned on yada yada yada.",
+      "date": 1775765732,
+      "review_helpful_count": 3,
+      "author_display_name": "MaddenD",
+      "author_alias": "MaddenD",
+      "developer_response": null
+    },
+    {
+      "id": "990840654107141",
+      "score": 5,
+      "review_title": "Did exactly what I wanted the first try",
+      "review_description": "I’m I didn’t download this app first because the reviews were so horrible. I went thru every software out there for drawings/painting/mural making this software though the last one I tried worked right away didn’t give any trouble working with my own reference drawings quick and easy thank God. Trust me go with this one if your looking to lay down  some art using your own pics",
+      "date": 1767266085,
+      "review_helpful_count": 73,
+      "author_display_name": "Cush27",
+      "author_alias": "Cush27",
+      "developer_response": null
+    },
+    {
+      "id": "1018933677963448",
+      "score": 5,
+      "review_title": "A Game Changer for Professional Woodwork",
+      "review_description": "As a professional chainsaw carver, getting my proportions right on large-scale logs is critical. I’ve been using Contour for my templating, and it has streamlined my workflow significantly. It makes the transition from a 2D concept to a physical template much faster and more accurate. If you’re a maker or artist who needs reliable scaling, this app is a must-have tool in your digital kit.",
+      "date": 1770550451,
+      "review_helpful_count": 6,
+      "author_display_name": "Morrissey.1138",
+      "author_alias": "Morrissey.1138",
+      "developer_response": null
+    },
+    {
+      "id": "1166769659850405",
+      "score": 2,
+      "review_title": "Glitchy",
+      "review_description": "The video shows ypu being able to resize with controllers and I cant even do that. The remotes randomly disappear and go off so I cant do anything. Pass-through hand gestures no longer work. You cant just pull and start working, ypu would had to edit it in another app to not have a border or anything.  Why cant we just do the edit within the vr app? Im not an app person or a tech person I was just gifted this headset for my birthday and I guess vr is not what people make it out to be",
+      "date": 1781636661,
+      "review_helpful_count": 0,
+      "author_display_name": "demixduane",
+      "author_alias": "demixduane",
+      "developer_response": null
+    },
+    {
+      "id": "1120295324491456",
+      "score": 5,
+      "review_title": "Best",
+      "review_description": "Awesome app…easy to handle…and a developer who still tries to make it better! Love it!",
+      "date": 1776526681,
+      "review_helpful_count": 1,
+      "author_display_name": "Jaynsworld",
+      "author_alias": "Jaynsworld",
+      "developer_response": null
+    },
+    {
+      "id": "964790962700189",
+      "score": 1,
+      "review_title": "By the other app, save you headaches",
+      "review_description": "My artwork always tends to shift moving away from this app",
+      "date": 1776031227,
+      "review_helpful_count": 1,
+      "author_display_name": "Armas36AOK",
+      "author_alias": "Armas36AOK",
+      "developer_response": null
+    },
+    {
+      "id": "822726637310740",
+      "score": 1,
+      "review_title": "Absolute Rubbish",
+      "review_description": "The image has to be done in one go, turn the headset off, go back next day and its all floating elsewhere, \n\nWhen doing an outline the image moves around not much, but enough to distort what you are doing so when you hide the overly your drawing is misshapen \n\nThe demo vids people do, no idea how they got their stuff to stay still other than editing",
+      "date": 1764773690,
+      "review_helpful_count": 43,
+      "author_display_name": "chuck.300.lbs",
+      "author_alias": "chuck.300.lbs",
+      "developer_response": null
+    },
+    {
+      "id": "1146772075178494",
+      "score": 1,
+      "review_title": "Horrible",
+      "review_description": "Will not upload fukThis",
+      "date": 1775506484,
+      "review_helpful_count": 0,
+      "author_display_name": "JawsAtak47",
+      "author_alias": "JawsAtak47",
+      "developer_response": null
+    },
+    {
+      "id": "989398387584680",
+      "score": 1,
+      "review_title": "Controller buttons not working with UI",
+      "review_description": "I don’t know if this is an app problem or a Quest problem, but the Quest 3 controller buttons are not working with the app. To be fair, the controller buttons are not working with one of the app’s competitors either, though they work in games. \n\nI don’t know what to make of this other than I may need to give up on the Meta Quest and look for another VR platform that will reliably run the software I want to use.",
+      "date": 1767220011,
+      "review_helpful_count": 3,
+      "author_display_name": "AeroshipByzantium",
+      "author_alias": "AeroshipByzantium",
+      "developer_response": null
+    },
+    {
+      "id": "2490566601324980",
+      "score": 1,
+      "review_title": "Doesn’t work anymore.",
+      "review_description": "It worked when I first bought it.not sure if it’s because of updates or whatever. But now that I’m actually trying to use it.it doesn’t work. Logs in to the home page but ,y controllers to show up. Only thing I can do with my controllers is quit the app. Can’t get a refund also because I tested it out months ago. But now I actually need it for mural. And, doesn’t work.",
+      "date": 1759614987,
+      "review_helpful_count": 43,
+      "author_display_name": "cosminlucaciu",
+      "author_alias": "cosminlucaciu",
+      "developer_response": {
+        "body": "Hi there, can you please reach out to me at dehats+Contour@gmail.com with more details regarding your set up (OS version, app version) ? The app has thousands of active users and this is the first time I'm hearing of such a bug. In the meantime please make sure to update the OS and the app, and visit https://visible-space.com/contour for more instructions.",
+        "date": 1760515399
+      }
+    },
+    {
+      "id": "871504242718501",
+      "score": 1,
+      "review_title": "Great idea",
+      "review_description": "But...... constantly moves the picture. If your get close or back up or even look at a slightly different angle the picture moves.",
+      "date": 1764555756,
+      "review_helpful_count": 13,
+      "author_display_name": "DrLidHand",
+      "author_alias": "DrLidHand",
+      "developer_response": null
+    },
+    {
+      "id": "874933702371604",
+      "score": 1,
+      "review_title": "If I could give NO stars I would",
+      "review_description": "DO NOT BUY THIS!!!\n\n It is a TOTAL waste of time and money. I am so frustrated. I have done everything and and you can only use there like 10 imagines that are pre-loaded.",
+      "date": 1763516329,
+      "review_helpful_count": 10,
+      "author_display_name": "DancingEagle5957",
+      "author_alias": "DancingEagle5957",
+      "developer_response": {
+        "body": "Hello, I assume from your message that you weren't able to import pictures ? If so I understand the frustration but Contour offers many ways to import pictures and it's not clear from your comment what was the issue - assuming you have indeed followed the instructions described on the website (https://visible-space.com/contour) and still couldn't import images, please reach out to dehats+contour at gmail.com so we can troubleshoot this together.",
+        "date": 1763554036
+      }
+    },
+    {
+      "id": "887485397779754",
+      "score": 1,
+      "review_title": "Uploading pictures",
+      "review_description": "This app doesn’t let me upload pictures no matter what type of file I use , JPEG, PNG, ETC.. the instructions on how to upload the pictures are very untrue.",
+      "date": 1763350633,
+      "review_helpful_count": 8,
+      "author_display_name": "CuriousCheetah1761",
+      "author_alias": "CuriousCheetah1761",
+      "developer_response": {
+        "body": "Hello, Contour offers multiple ways to import pictures and it's not clear from your comment what was the issue - assuming you have indeed followed the instructions described on the website (https://visible-space.com/contour) and still couldn't import images, please reach out to dehats+contour at gmail.com so we can troubleshoot this together. Thanks",
+        "date": 1763553928
+      }
+    },
+    {
+      "id": "909058455618113",
+      "score": 1,
+      "review_title": "Please upgrade/ update",
+      "review_description": "Dude you got to add improvements. Such possibilities but falls short.",
+      "date": 1764630903,
+      "review_helpful_count": 7,
+      "author_display_name": "GlowingChinchilla5354",
+      "author_alias": "GlowingChinchilla5354",
+      "developer_response": null
+    },
+    {
+      "id": "695938673571190",
+      "score": 1,
+      "review_title": "Not working properly",
+      "review_description": "Used to work fine but now everytime I pin a picture and turn my head it moves constantly.  Definitely an app not worth paying for.",
+      "date": 1762040831,
+      "review_helpful_count": 13,
+      "author_display_name": "c4a0m6",
+      "author_alias": "c4a0m6",
+      "developer_response": {
+        "body": "Hello, Contour is used by thousands of users without (major) tracking issues, so you  seem to be experiencing a bug. Can you please do the following : (1) make sure you have followed the guidelines on https://visible-space.com/contour and (2) if you are still experiencing issues, reach out to dehats+contour@gmail.com so we can troubleshoot this together. Thank you",
+        "date": 1762417769
+      }
+    },
+    {
+      "id": "766347256567146",
+      "score": 1,
+      "review_title": "Stuck in tutorial",
+      "review_description": "Great anticipation for this app, but it is stuck in a tutorial mode like so many other people have said. It seems like a paid app could fix their bugs.\nThis is actually the first time I have rated something",
+      "date": 1757862755,
+      "review_helpful_count": 16,
+      "author_display_name": "Gacopper",
+      "author_alias": "Gacopper",
+      "developer_response": {
+        "body": "Hi there, I'm sorry to read you had trouble with importing images.\nIt's hard to understand what was your specific issue from your message, but those problems are usually fairly easy to sort out. \nFirst, make sure to visit our website for detailed instructions, help and troubleshooting: https://visible-space.com/contour\nIn particular, make sure you have accepted the app permissions (Library / Hover Contour (three dots) / Settings) as they reset with each app updates. And if none of this worked, please reach out to dehats+contour@gmail.com so we can sort this out together.\nThank you",
+        "date": 1758698520
+      }
+    },
+    {
+      "id": "832502093280870",
+      "score": 3,
+      "review_title": "Anchoring doesn't work",
+      "review_description": "Anchoring the image to a place doesn't work properly, when I take off the goggles it changes the position of my project",
+      "date": 1761512235,
+      "review_helpful_count": 5,
+      "author_display_name": "babincev",
+      "author_alias": "babincev",
+      "developer_response": {
+        "body": "Hi, there is an option to save and load your image position precisely to avoid this can of trouble. Did you give it a try ? If needed, please don't hesitate to reach out at dehats+contour@gmail.com so we can have a closer look at your issue. Thanks !",
+        "date": 1761552318
+      }
+    },
+    {
+      "id": "723300214195801",
+      "score": 5,
+      "review_title": "Please Bring Back Flicker in Adjust Mode",
+      "review_description": "I’ve loved using Contour for my VR drawing workflow, especially the ability to project and align reference images. Before the recent update, you could flicker the image on and off with the “A” button while in the “Adjust” menu—this was absolutely essential for perfect alignment. Now, that flicker function is only available in the “Draw” menu, where you can’t move the image.\n\nBeing able to flicker and move the image at the same time made it possible to compensate for the occasional image drift or software hiccup. Without that option, alignment is much harder and feels less precise. I really hope the flicker function returns to the “Adjust” menu—it made a huge difference. Still love the app overall, and I know it’s growing!",
+      "date": 1751684934,
+      "review_helpful_count": 94,
+      "author_display_name": "michaelolivia",
+      "author_alias": "michaelolivia",
+      "developer_response": null
+    },
+    {
+      "id": "728155987052618",
+      "score": 1,
+      "review_title": "Unnecessarily cumbersome",
+      "review_description": "You would think that uploading your original image to the app would be the most streamline and easy thing to do, but unfortunately it isn’t. This app makes me want to return the VR headset altogether.",
+      "date": 1756489339,
+      "review_helpful_count": 8,
+      "author_display_name": "GaKnew",
+      "author_alias": "GaKnew",
+      "developer_response": {
+        "body": "Hi, sorry that you're having trouble with importing images, and I agree Meta could have made it easier to transfer images to the Quest.\n\nBut once you did, importing to Contour should be trivial. For more information on this process, I would strongly suggest visiting our website for detailed instructions, help and troubleshooting: https://visible-space.com/contour\n\nAnd If you can't find an anwser to your problem, reach out to dehats+contour@gmail.com. I'm happy to help and we always manage to sort things out.",
+        "date": 1758699064
+      }
+    },
+    {
+      "id": "735774379625979",
+      "score": 3,
+      "review_title": "Drawing moves",
+      "review_description": "The art your tracing moves over time making final drawing off. Like the concept but going back to line up the art is frustrating",
+      "date": 1756236994,
+      "review_helpful_count": 11,
+      "author_display_name": "ORK1999",
+      "author_alias": "ORK1999",
+      "developer_response": null
+    },
+    {
+      "id": "1133766561908630",
+      "score": 4,
+      "review_title": "Great but…",
+      "review_description": "Love the potential of this. I wish they could add addition surface types to lay your art work on. For example, Cylindrical shape so I can paint my rain barrel or L-\nShaped for incorporating corners etc…",
+      "date": 1752110499,
+      "review_helpful_count": 25,
+      "author_display_name": "KypDurron24",
+      "author_alias": "KypDurron24",
+      "developer_response": null
+    },
+    {
+      "id": "771436849383856",
+      "score": 5,
+      "review_title": "LITERALLY PAYS MY BILLS",
+      "review_description": "I use this for my art business @paintedpanes and wowza. Total gem. Thank you devs for the hard work and continuous updates!",
+      "date": 1755661794,
+      "review_helpful_count": 6,
+      "author_display_name": "bingbonglooloo",
+      "author_alias": "bingbonglooloo",
+      "developer_response": null
+    },
+    {
+      "id": "580450321827930",
+      "score": 3,
+      "review_title": "Great potential with some issues still",
+      "review_description": "Hi, is there a way to contact the developers? I have it working great and in mid paint it can either jump to somewhere else about a meter or two away from the pinned surface even at a new angle or it mover around 3/4 pixels every time I walk away from it for a few minutes? I would love to chat to someone to see if there is a better way to keep it fully locked. \n\nI am in draw mode when using it as directed…..",
+      "date": 1747316872,
+      "review_helpful_count": 88,
+      "author_display_name": "ciarandunlevy",
+      "author_alias": "ciarandunlevy",
+      "developer_response": null
+    },
+    {
+      "id": "765840016601951",
+      "score": 4,
+      "review_title": "Love it!!!!!!",
+      "review_description": "I love the application the only thing i would really like is a playlist option to listen to music while using it. That would really be perfect.",
+      "date": 1752766929,
+      "review_helpful_count": 6,
+      "author_display_name": "S.E.M.T.E.X",
+      "author_alias": "S.E.M.T.E.X",
+      "developer_response": null
+    },
+    {
+      "id": "616945771509835",
+      "score": 1,
+      "review_title": "No calibration",
+      "review_description": "I gave it 5 stars so it be on top. This thing is a joke. It consistently moves When you’re tracing. The depth has no practical calibration to the actual surface you’re working on. Which makes the plane tilted no matter how hard you adjust. And when you adjust for one side the other is lifted. I’ve waisted time on this. A cheap projector is a better application for canvas than this. This is for children at best.",
+      "date": 1748641024,
+      "review_helpful_count": 11,
+      "author_display_name": "seapuppy.2025",
+      "author_alias": "seapuppy.2025",
+      "developer_response": null
+    },
+    {
+      "id": "684306218088959",
+      "score": 4,
+      "review_title": "Useful",
+      "review_description": "I've tried Contour with the Meta Quest 3 and I'm happy with the results in small and medium format. It remains to be seen how it works on walls that are really high...\nI was able to solve the issue of incorporating images by saving them in square format to Google Drive and downloading them from the VR glasses. In my case, I do it in jpg (it doesn't have to be transparent since the program allows you to change the opacity).\nHowever, I'm surprised that I can't control a couple of things that seem simple to me. I would like to be able to move the image more fluidly, in the same way that we can move the black menu by pressing the side button, and then adjust it with more precision. There are times when it can be good to have the image on the side of the mural, when we're already starting to paint it, as a visual reference. I also miss being able to rotate the image on an axis perpendicular to the image itself, since we don't always want a vertical image.\nI hope they keep making improvements to this fantastic application!",
+      "date": 1746806441,
+      "review_helpful_count": 27,
+      "author_display_name": "OriolArumi",
+      "author_alias": "OriolArumi",
+      "developer_response": null
+    },
+    {
+      "id": "1302470727484508",
+      "score": 5,
+      "review_title": "Images won’t load",
+      "review_description": "This has made the app useless I’ve tried everything and apparently this isn’t just me either. I would love to use the app but it just refuses to upload images that are on my downloads on the quest. Yes it’s 1040 x 1040, yes it’s jpeg and also png. This is ridiculous please don’t waste your money",
+      "date": 1747756147,
+      "review_helpful_count": 16,
+      "author_display_name": "matthewbrazell88",
+      "author_alias": "matthewbrazell88",
+      "developer_response": null
+    },
+    {
+      "id": "604922792710802",
+      "score": 1,
+      "review_title": "Paid $9.99. Literally doesn’t work.",
+      "review_description": "Was super excited for this app. It’s the only reason I got a VR headset. Wanted to use it to paint murals for my Airbnbs. Paid for the app. Launched it. It’s stuck in the preview portion of the app. I click “next” and nothing happens. Some kind of glitch? Maybe the app works well once it’s going, but it literally won’t even do anything besides get stuck at the opening preview window. So frustrating.",
+      "date": 1745430758,
+      "review_helpful_count": 41,
+      "author_display_name": "HustleMNelson",
+      "author_alias": "HustleMNelson",
+      "developer_response": null
+    },
+    {
+      "id": "542911912246914",
+      "score": 4,
+      "review_title": "So far so good",
+      "review_description": "Don't bother with Side quest or developer mode etc for adding your photos to the quest. There's an easier way. Just use your Google photos account. Add your PNG files to your Google photos account. Then in meta quest bring up the browser and login to your Google photos account. Find the PNG you want and download it. Then in the Contour app go to the menu and the download folder and voilà there is your photo.  I would imagine this would work the same for Drop Box as well. 👍",
+      "date": 1741248897,
+      "review_helpful_count": 242,
+      "author_display_name": "bobantran",
+      "author_alias": "bobantran",
+      "developer_response": null
+    },
+    {
+      "id": "668827669637639",
+      "score": 3,
+      "review_title": "Seems like a beta version",
+      "review_description": "Very hard to align. Has depth and rotate (more like pitch and yaw on a plane) , but needs up and down and left right. A couple times more than the image got  out of alignment and or just randomly reconfigured itself to an entirely different plane. After all the methodic alignment the first time it was very hard to align a second time.\n\nIts usable for sure, but looking forward to some updates.",
+      "date": 1745195128,
+      "review_helpful_count": 11,
+      "author_display_name": "Muralisto",
+      "author_alias": "Muralisto",
+      "developer_response": null
+    },
+    {
+      "id": "687104934480388",
+      "score": 2,
+      "review_title": "Image upload",
+      "review_description": "Having to jump through hoops to upload an image is insane. Should be able to upload from meta quest app on phone very disappointed in this",
+      "date": 1748751915,
+      "review_helpful_count": 4,
+      "author_display_name": "Zion23",
+      "author_alias": "Zion23",
+      "developer_response": {
+        "body": "Hi, sorry that you're having trouble with importing images, and I agree Meta could have made it easier to transfer images to the Quest.\n\nBut once you did, importing to Contour should be trivial. For more information on this process, I would strongly suggest visiting our website for detailed instructions, help and troubleshooting: https://visible-space.com/contour\n\nAnd If you can't find an anwser to your problem, reach out to dehats+contour@gmail.com. I'm happy to help and we always manage to sort things out.",
+        "date": 1758699711
+      }
+    },
+    {
+      "id": "1040679477937142",
+      "score": 2,
+      "review_title": "Warning! Do not get this for Quest 2",
+      "review_description": "The idea for this app is great, but the pass through on the Quest 2 is so warped and grainy that you can't accurately see where your hand is, and it completely defeats the purpose. \n\nI will however provide you with solutions for the other 2 issues people seem to be experiencing. \n\n1) You can download images to your headset using something like Google Drive/Wetransfer etc, and download through the browser on your headset. \n\n2) If you don't want your image to stretch / warp, set it up on a square canvas of 1024px x 1024px or bigger. That means for portrait you'll have white columns on the side, and landscape top and bottom. They cannot be seen in your projection, and your image aspect ratio will remain true to the original.",
+      "date": 1744962395,
+      "review_helpful_count": 22,
+      "author_display_name": "Kiroant",
+      "author_alias": "Kiroant",
+      "developer_response": null
+    },
+    {
+      "id": "727627477099967",
+      "score": 3,
+      "review_title": "Scale doesn't work",
+      "review_description": "It's a little glitchy, I email myself png then download to meta, they changed the scale option to use your remotes moving them both with the trigger but it doesn't work. Useless",
+      "date": 1750475367,
+      "review_helpful_count": 1,
+      "author_display_name": "cindya907",
+      "author_alias": "cindya907",
+      "developer_response": null
+    },
+    {
+      "id": "641834869015099",
+      "score": 4,
+      "review_title": "The need to add a phone",
+      "review_description": "Hi I think you could add the phone picture upload function or add photos via Bluetooth or WiFi as I don't have a pc thanks yours sincerely James",
+      "date": 1748203995,
+      "review_helpful_count": 5,
+      "author_display_name": "dm04ous1808",
+      "author_alias": "dm04ous1808",
+      "developer_response": null
+    },
+    {
+      "id": "590899180772089",
+      "score": 3,
+      "review_title": "",
+      "review_description": "Hard to transfer images, they have to be especifically in the downloads folder. Would be awesome if it could project multiple images on different planes like perpendicular walls and ceiling. Instead, it only allows one single image on a single wall. Moving the image through the analogs is slow and you need to repeat the command a lot of times to move a tiny bit. Small improvements that would make a huge difference.",
+      "date": 1741880094,
+      "review_helpful_count": 14,
+      "author_display_name": "lugh_arte",
+      "author_alias": "lugh_arte",
+      "developer_response": null
+    },
+    {
+      "id": "680163841837849",
+      "score": 3,
+      "review_title": "Contour use",
+      "review_description": "Photos/pictures uploaded have to be 1x1 or they skew during placement. Get to close as you draw and everything shifts.",
+      "date": 1746895164,
+      "review_helpful_count": 4,
+      "author_display_name": "chestyP",
+      "author_alias": "chestyP",
+      "developer_response": null
+    },
+    {
+      "id": "578041415398651",
+      "score": 1,
+      "review_title": "cant download images from PC",
+      "review_description": "you would think being 2025, VR headsets and all that, there would be a streamline way to share multi media from PC to Headset with just a couple mouse clicks... not so much, you have to jump through hoops to try and get an outside image on the headset for it to just not even work, ive saved images in countless places relating to the headset, yet nothing... I would be glad to give this a 5 star if someone could reach out to me and help me figure this issue out.",
+      "date": 1740705836,
+      "review_helpful_count": 26,
+      "author_display_name": "Skibiiieeeeeed",
+      "author_alias": "Skibiiieeeeeed",
+      "developer_response": null
+    },
+    {
+      "id": "669915229107365",
+      "score": 1,
+      "review_title": "Can’t get past welcome screen",
+      "review_description": "Won’t let me click next at the welcome screen to even use the app. So GLITCHY! Y’all should fix this asap",
+      "date": 1745811976,
+      "review_helpful_count": 5,
+      "author_display_name": "GraffitiParkLV",
+      "author_alias": "GraffitiParkLV",
+      "developer_response": null
+    },
+    {
+      "id": "658627340665065",
+      "score": 1,
+      "review_title": "Can't import files, useless.",
+      "review_description": "Totally useless and waste of money if you can't import images.",
+      "date": 1747708466,
+      "review_helpful_count": 3,
+      "author_display_name": "ChaBuku",
+      "author_alias": "ChaBuku",
+      "developer_response": {
+        "body": "Hi there, you can of course import images, but I suspect you may be part of the few people who had trouble doing so.  Without knowing what your specific issue is, I can only encourage you to visit the help section of our website (https://visible-space.com/contour) and / or to reach out directly to dehats+contour@gmail.com, and we'll be able to sort this out, as we always do. Thanks",
+        "date": 1758699597
+      }
+    },
+    {
+      "id": "3853823928167801",
+      "score": 2,
+      "review_title": "Good concept but….",
+      "review_description": "It is a very promising app but once I place my image on a wall and move around the image doesn’t stay in place. You’re always going back to the position and scale options so it is not that fast in the end. If the image stuck in place like it should it would be amazing but it ends up frustrating.",
+      "date": 1739878845,
+      "review_helpful_count": 15,
+      "author_display_name": "MediaboyUK",
+      "author_alias": "MediaboyUK",
+      "developer_response": null
+    },
+    {
+      "id": "654168007248692",
+      "score": 3,
+      "review_title": "So close",
+      "review_description": "The idea is great and the functionality is pretty simple, but it squishes the images horizontally. Not a ton, but enough that it was frustrating for me.there is no obvious way to correct this.",
+      "date": 1744398697,
+      "review_helpful_count": 2,
+      "author_display_name": "rebecca.stallings",
+      "author_alias": "rebecca.stallings",
+      "developer_response": null
+    },
+    {
+      "id": "572324865969931",
+      "score": 5,
+      "review_title": "Bilder über google drive",
+      "review_description": "Png. Via google Drive hochladen,  Download via metaquest, open in contuour. Perfect\n\nChange in settings that you can open the Upload folder before",
+      "date": 1742763342,
+      "review_helpful_count": 7,
+      "author_display_name": "poster.graffiti",
+      "author_alias": "poster.graffiti",
+      "developer_response": null
+    },
+    {
+      "id": "614840421395224",
+      "score": 3,
+      "review_title": "Use Google photos to upload pictures",
+      "review_description": "Hey guys try uploading the photos somewhere you can download them through the meta browser. Once they're downloaded you can import them thru the contour app. I couldn't figure it out any other way. Once you get thru the headache of uploading the pictures it's a great app to use.",
+      "date": 1741487130,
+      "review_helpful_count": 4,
+      "author_display_name": "IvanJarvis",
+      "author_alias": "IvanJarvis",
+      "developer_response": null
+    },
+    {
+      "id": "656749603553061",
+      "score": 3,
+      "review_title": "Sticking to the wall",
+      "review_description": "So Iv been having trouble with the app and I don’t really know why,   Everytime I place it in the spot things start to look good.  Until I get on my Lift and the image rises with the lift.   I find it a Pain to deal with.   But for smaller jobs it seams to work very well",
+      "date": 1740609680,
+      "review_helpful_count": 5,
+      "author_display_name": "WuTangTiger817",
+      "author_alias": "WuTangTiger817",
+      "developer_response": null
+    },
+    {
+      "id": "549897438210624",
+      "score": 1,
+      "review_title": "Import picture buttons don't work",
+      "review_description": "App has a software bug that both buttons to import pictures don't work and don't do anything. So you can't bring any picture nether from the browser downloads nor from your pictures.",
+      "date": 1739489036,
+      "review_helpful_count": 13,
+      "author_display_name": "Campeon",
+      "author_alias": "Campeon",
+      "developer_response": null
+    },
+    {
+      "id": "651219997451124",
+      "score": 3,
+      "review_title": "The app is cool but",
+      "review_description": "I still can’t figure out how to transfer a pic from my computer to my quest",
+      "date": 1743224685,
+      "review_helpful_count": 3,
+      "author_display_name": "tuchicaLJ",
+      "author_alias": "tuchicaLJ",
+      "developer_response": null
+    },
+    {
+      "id": "1155789546062159",
+      "score": 5,
+      "review_title": "An Optimal Tool for Drawing!",
+      "review_description": "Like others mentioned, getting the photo onto the device is a pain, but once you get past this, you have a wonderful tool on hand for transferring subjects! My projector had broken down just as I had purchased my Q3, so this app came in extremely useful when I wanted to get an outline down on paper. A+!",
+      "date": 1736474186,
+      "review_helpful_count": 11,
+      "author_display_name": "CoastalCactus",
+      "author_alias": "CoastalCactus",
+      "developer_response": null
+    },
+    {
+      "id": "24008507198788266",
+      "score": 5,
+      "review_title": "Such Fun!!!",
+      "review_description": "Well, worth the cost. It was so much fun to just pick an image and draw with sidewalk truck in the driveway. Nice innovated the app. I look forward to using it much more.",
+      "date": 1751111531,
+      "review_helpful_count": 0,
+      "author_display_name": "MichiKen",
+      "author_alias": "MichiKen",
+      "developer_response": null
+    },
+    {
+      "id": "556324594234269",
+      "score": 3,
+      "review_title": "uploading artwork is a pain",
+      "review_description": "PLEASE MAKE IT EASIER TO UPLOAD ARTWORK!!! i’m begging. i cant figure out how to open the gallery to pick my artwork.",
+      "date": 1739494235,
+      "review_helpful_count": 11,
+      "author_display_name": "spilledmaple",
+      "author_alias": "spilledmaple",
+      "developer_response": null
+    },
+    {
+      "id": "591489213777188",
+      "score": 1,
+      "review_title": "Does not load my artwork",
+      "review_description": "Basically useless for me.  I bought it ans it will not upload my artwork.  All I can do is scroll through the preloaded selections.  :(",
+      "date": 1737852156,
+      "review_helpful_count": 11,
+      "author_display_name": "Flat_Rat_Brand",
+      "author_alias": "Flat_Rat_Brand",
+      "developer_response": {
+        "body": "Hi there, I'm sorry to read you had trouble with importing images.\nIt's hard to understand what was your specific issue from your message, but those problems are usually fairly easy to sort out. \nFirst, make sure to visit our website for detailed instructions, help and troubleshooting: https://visible-space.com/contour\nIn particular, make sure you have accepted the app permissions (Library / Hover Contour (three dots) / Settings) as they reset with each app updates. And if none of this worked, please reach out to dehats+contour@gmail.com so we can sort this out together.\nThank you",
+        "date": 1758699788
+      }
+    },
+    {
+      "id": "475947602278776",
+      "score": 4,
+      "review_title": "Gamechanger!",
+      "review_description": "Incredible software that enables the removal of light/laser protection methods from an artists workflow. I have introduced this into my process for most large intricate murals that are not a free flow graffiti style. \nI would guess on average cutting down my composition, layout and sketching time by half. \nAwesome, thanks for having the insight and putting in the dev time 🙏🏻👏🏻🙌🏻",
+      "date": 1737843600,
+      "review_helpful_count": 2,
+      "author_display_name": "FlarrisArt",
+      "author_alias": "FlarrisArt",
+      "developer_response": null
+    },
+    {
+      "id": "545284248336215",
+      "score": 5,
+      "review_title": "this is next level",
+      "review_description": "this is the next level for any freehand artist and it works great... you need a computer and a link cable to put your images on it  not really at all a big deal .. send the images you make through the directory given on the app easy .. I have been doing custom air brushing for about 25 years and I would use a projector for highly detailed art .. but this app has almost made me put that stuff in the attic.. thank you and I will take any updates on this app it can only get better...",
+      "date": 1733265124,
+      "review_helpful_count": 26,
+      "author_display_name": "Artfreak.2022",
+      "author_alias": "Artfreak.2022",
+      "developer_response": null
+    },
+    {
+      "id": "3923716977885445",
+      "score": 4,
+      "review_title": "Awesome App! Now Easier Upload Options",
+      "review_description": "Awesome for murals or any IRL art projects where proportions and sizing is important. Also recently got updated to include some easier image uploading options that don't require a computer 🥳.",
+      "date": 1736261432,
+      "review_helpful_count": 6,
+      "author_display_name": "CheesyMcGriddle",
+      "author_alias": "CheesyMcGriddle",
+      "developer_response": null
+    },
+    {
+      "id": "488911314316495",
+      "score": 1,
+      "review_title": "It doesn't launch properly",
+      "review_description": "I've been stuck on the loading screen for 30 minutes now for the last 2 days. Ask I have the quest 2 am I doing something wrong?",
+      "date": 1738729162,
+      "review_helpful_count": 2,
+      "author_display_name": "dddanimation",
+      "author_alias": "dddanimation",
+      "developer_response": null
+    },
+    {
+      "id": "524946210695309",
+      "score": 2,
+      "review_title": "Not comfortable.",
+      "review_description": "I purchased this app because of the ability to draw down an art piece in real life. However, when i tried, i did not feel comfortable because i couldn’t see what i was outlining, the picture kept moving, and it takes incredibly long to upload a reference photo.",
+      "date": 1732662217,
+      "review_helpful_count": 9,
+      "author_display_name": "homero.p15",
+      "author_alias": "homero.p15",
+      "developer_response": null
+    },
+    {
+      "id": "553753810849032",
+      "score": 1,
+      "review_title": "Terrible Uploading",
+      "review_description": "Make it so you can upload from photos straight from the meta quest otherwise you have to go through this random folder that it’s so hard to find because there’s barely any information on the website and app.",
+      "date": 1728242724,
+      "review_helpful_count": 33,
+      "author_display_name": "TrickData405",
+      "author_alias": "TrickData405",
+      "developer_response": null
+    },
+    {
+      "id": "503303436191834",
+      "score": 5,
+      "review_title": "",
+      "review_description": "This app is amazing! I did a mural using the app and it made things 10x faster for me. It locked my image in place and was super easy to adjust. Once you have it down, it will make a world of a difference to creat your large scale artwork.",
+      "date": 1729232794,
+      "review_helpful_count": 8,
+      "author_display_name": "Lalo_tattoo",
+      "author_alias": "Lalo_tattoo",
+      "developer_response": null
+    },
+    {
+      "id": "525828900444779",
+      "score": 3,
+      "review_title": "Make it easier to upload pics",
+      "review_description": "Pleas its so difficult to find the folder and to upload more art",
+      "date": 1731965626,
+      "review_helpful_count": 6,
+      "author_display_name": "inv3nt1v3",
+      "author_alias": "inv3nt1v3",
+      "developer_response": null
+    },
+    {
+      "id": "3619612894927199",
+      "score": 3,
+      "review_title": "Need alternative way to upload images",
+      "review_description": "Edit- \n\n1\nPlease allow us to load pics into any folder on the headset and preferablly throigh online or Bluetooth upload instead of cable.\n\n\n2\nDon't stretch the images into a square. This is such a frustration as it's not made clear anywhere so you spend all this time getting pics in right format and location and then they're unusable and you have to format into squares with gaps at sides\n\n3\nPlease allow hand tracking mode so I can see my hands above the canvas/picture\n\n4\nPlease provide a better anchor and positioning system. The image is usually going to need to be pinned to a canvas or paper which is at angle and not always the same angle on each side. It won't often be vertical or flat. This makes getting the alignment finicky and if it's not right the painting is totally squiffy which defeats the whole point of the app. It also moves slightly while you are drawing or painting and this knocks proportions out yet again.\n\n5 \nTo make this usable you need to be able to save your positioning/setup/space to return to next time. Otherwise you have to go through the whole debacle again ans will never get the position exactly the same which yet again will make things squiffy\n \nOverall I love what you are doing . It a just a few tweaks and you'll be totally flying. Keep going, don't give up and reach out if you want to work with me to get more feedback",
+      "date": 1722466779,
+      "review_helpful_count": 34,
+      "author_display_name": "KawaiiOpaline",
+      "author_alias": "KawaiiOpaline",
+      "developer_response": null
+    },
+    {
+      "id": "364357276759610",
+      "score": 2,
+      "review_title": "Can't upload images from Mac",
+      "review_description": "I got images into the Quest 3 using Sidequest, but from there I see no way of getting them into the artwork folder.  Waiting on a response and will update.",
+      "date": 1720185363,
+      "review_helpful_count": 5,
+      "author_display_name": "jrockwell.2024",
+      "author_alias": "jrockwell.2024",
+      "developer_response": null
+    },
+    {
+      "id": "444648785210586",
+      "score": 1,
+      "review_title": "Waste of money",
+      "review_description": "App wouldn’t open up at all",
+      "date": 1722207209,
+      "review_helpful_count": 2,
+      "author_display_name": "Clickhere80",
+      "author_alias": "Clickhere80",
+      "developer_response": null
+    },
+    {
+      "id": "431738929530875",
+      "score": 4,
+      "review_title": "Great app, small improvements needed",
+      "review_description": "The app is great and easy to use. Some limitations of not 100% accurate tracking is obviously not the fault of the app, but the issues around it are small.\n\nWhat i would like to request is slightly more options for controlling the image positioning. I would suggest a variable setting for moving it up down, left right using the thumbstick, so that you can move it faster or slower. \n\nAlso for positioning against the wall, especially for bigger projects (eg 6m x 6m), the ability to position it on the wall not just using the controller placed against the wall, but by using thumbsticks. \n\nAlthough thumbsticks do allow rotation around up axis, and forward/backward motion, I would be very grateful for clockwise/ anticlockwise rotation around the forward looking axis. \n\nAnd perhaps a small leveling type feature, that shows level vs actual orientation?\n\nThanks for the app, it is really great and usefull, and some small improvements will make it phenomenal!",
+      "date": 1711640283,
+      "review_helpful_count": 5,
+      "author_display_name": "Koowiss",
+      "author_alias": "Koowiss",
+      "developer_response": null
+    },
+    {
+      "id": "1883169695471385",
+      "score": 2,
+      "review_title": "Some features are broken",
+      "review_description": "When I open the image I added to the specified folder the scale automatically is adjusted to be square.  Also needs easier way to upload images instead of loading it through pc. This is very useful app for artists if it was developed more.",
+      "date": 1708745776,
+      "review_helpful_count": 3,
+      "author_display_name": "Ellion2017",
+      "author_alias": "Ellion2017",
+      "developer_response": {
+        "body": "Hi Ellion and thanks for taking the time to review Contour. You are correct, the virtual frame used by the app is always a square, which means if your original image has a different ratio, you have to make it a square by adding transparent padding. As for alternatives for loading images, the Quest OS unfortunately offers very few options to developers, and using a PC is the solution recommended by meta.",
+        "date": 1709045341
+      }
+    },
+    {
+      "id": "2595675137274440",
+      "score": 5,
+      "review_title": "Great app",
+      "review_description": "Does exactly what I hoped it would. Works well with full color pngs aswell. Just wondering if in the future it would be updated to quest 3 color passthrough, and maybe optimizing it for the mq3 controllers aswell. Love it so far, looking forward to see it evolve",
+      "date": 1700580790,
+      "review_helpful_count": 7,
+      "author_display_name": "Eldaer",
+      "author_alias": "Eldaer",
+      "developer_response": null
+    },
+    {
+      "id": "767736015366470",
+      "score": 5,
+      "review_title": "Great useful app",
+      "review_description": "This application is the embodiment of a cool idea. I think now it will be convenient for artists to draw pictures on walls, for example. I wish this application further development and acquisition of new features and capabilities.",
+      "date": 1701542411,
+      "review_helpful_count": 1,
+      "author_display_name": "vrteampro",
+      "author_alias": "vrteampro",
+      "developer_response": null
+    },
+    {
+      "id": "1090286919003611",
+      "score": 4,
+      "review_title": "Good but not supported on quest 3",
+      "review_description": "This app is AMAZING! you are able to take any image and trace it in real life. The only downside is that it does not have color passthrough on Quest 3. The placement also says to put the rings on the ground but the Quest 3 controllers do not have rings like the Quest 2. Other than that amazing app!",
+      "date": 1697756822,
+      "review_helpful_count": 2,
+      "author_display_name": "Jakehero4",
+      "author_alias": "Jakehero4",
+      "developer_response": {
+        "body": "Thanks for the review Jake - the app now supports the Quest 3, so I suggest you make sure to update the app to v.0.5.6 or above. However the artwork placement scheme still uses the red ring for now,  which I know isn't ideal. I'm still working on a better alternative for Quest 3 controllers.",
+        "date": 1698577968
+      }
+    },
+    {
+      "id": "1080689393725437",
+      "score": 5,
+      "review_title": "could be so good",
+      "review_description": "this app could be amazing if the upload process was easier",
+      "date": 1731126700,
+      "review_helpful_count": 4,
+      "author_display_name": "tommymandude",
+      "author_alias": "tommymandude",
+      "developer_response": null
+    },
+    {
+      "id": "288196504189057",
+      "score": 5,
+      "review_title": "Just perfect but.",
+      "review_description": "Needs to download pictures form meta browser without pc and resized images.",
+      "date": 1700838603,
+      "review_helpful_count": 5,
+      "author_display_name": "alcinz1",
+      "author_alias": "alcinz1",
+      "developer_response": null
+    }
+  ],
+  "total": 76,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T08:27:04Z"
+}

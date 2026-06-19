@@ -1,0 +1,53 @@
+{
+  "app_id": "7151579381623554",
+  "package_name": "com.DNSstudio.NinjaAcademyDemo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Ninja Academy Demo",
+  "rating_average": 3.2857142857143,
+  "rating_count": 21,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "737774248895801",
+      "score": 1,
+      "review_title": "This game is the worst game ever",
+      "review_description": "This is the worst game I've ever played can't move can't do anything super hard game is dumb",
+      "date": 1750617306,
+      "review_helpful_count": 18,
+      "author_display_name": "Pc_nerd21",
+      "author_alias": "Pc_nerd21",
+      "developer_response": null
+    },
+    {
+      "id": "519535954273863",
+      "score": 5,
+      "review_title": "W game",
+      "review_description": "It’s so fun I don’t even care about the difficulty",
+      "date": 1728146265,
+      "review_helpful_count": 13,
+      "author_display_name": "nega12387",
+      "author_alias": "nega12387",
+      "developer_response": null
+    },
+    {
+      "id": "458302760061627",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Very difficult but very fun",
+      "date": 1715997080,
+      "review_helpful_count": 16,
+      "author_display_name": "JurassicTaco",
+      "author_alias": "JurassicTaco",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:29:20Z"
+}

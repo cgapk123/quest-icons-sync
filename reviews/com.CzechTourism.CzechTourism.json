@@ -1,0 +1,42 @@
+{
+  "app_id": "5222751167808530",
+  "package_name": "com.CzechTourism.CzechTourism",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Czech Tourism VR",
+  "rating_average": 1,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1214450876740376",
+      "score": 1,
+      "review_title": "Hello?",
+      "review_description": "App opens to select language but no way to select . Do they even test these apps??",
+      "date": 1744044819,
+      "review_helpful_count": 3,
+      "author_display_name": "Adrien_111",
+      "author_alias": "Adrien_111",
+      "developer_response": null
+    },
+    {
+      "id": "1681640462773467",
+      "score": 1,
+      "review_title": "Buggy",
+      "review_description": "Opens up with a menu to select a language but there is no option to click anywhere lol... No controller will appear to select a language..",
+      "date": 1739274408,
+      "review_helpful_count": 4,
+      "author_display_name": "Riken_Patel",
+      "author_alias": "Riken_Patel",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:26:13Z"
+}

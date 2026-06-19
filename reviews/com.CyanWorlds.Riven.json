@@ -1,0 +1,833 @@
+{
+  "app_id": "6499813506711202",
+  "package_name": "com.CyanWorlds.Riven",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Riven",
+  "rating_average": 3.8251121076233,
+  "rating_count": 223,
+  "review_count": 125,
+  "reviews": [
+    {
+      "id": "1192992030555619",
+      "score": 5,
+      "review_title": "Soo Good!",
+      "review_description": "I had never played Riven and I’m so glad I bought it! I really enjoyed it. This is a beautiful game. So well fought out and intricate. The puzzles are not easy, but when you figure it out, it’s amazing. my only issue was having to take my headset on and off so that I could make notes about the numbering system and a few other clues. Great story and beautiful graphics.",
+      "date": 1780099011,
+      "review_helpful_count": 2,
+      "author_display_name": "Resist2025",
+      "author_alias": "Resist2025",
+      "developer_response": null
+    },
+    {
+      "id": "939511269241273",
+      "score": 3,
+      "review_title": "Movement is a stuttery mess",
+      "review_description": "Big fan of these games from when I was younger. Must works great on Quest 3, but Riven? It’s a mess. Frequent frame rate drops make smooth movement feel awful, and the teleport option is horribly implemented and feels worse than smooth movement.\n\nIt’s an amazing world, but in its current form, it’s a lot of effort to explore. Hard to recommend unless you’re a die hard fan.",
+      "date": 1767597558,
+      "review_helpful_count": 28,
+      "author_display_name": "DanteBen",
+      "author_alias": "DanteBen",
+      "developer_response": null
+    },
+    {
+      "id": "879815045222265",
+      "score": 2,
+      "review_title": "Great game, lousy adaptation",
+      "review_description": "First and foremost - I absolutely love the story, the graphics and the puzzles. But Cyan makes it almost impossible to enjoy this game on my Quest 3. I use the teleportation function, because I get sick when using free movement in VR. This must be the worst implementation I‘ve ever experienced in a game! Interacting with objects is often frustrating, because you cannot control your movements precisely enough. But the worst thing is that I somehow got „stuck“ inside a wall and can no longer move! Restarting the game does not help and and I now have to start all over again!\nAlso the loading times are extremely long!",
+      "date": 1767180273,
+      "review_helpful_count": 13,
+      "author_display_name": "MetaJohannes",
+      "author_alias": "MetaJohannes",
+      "developer_response": null
+    },
+    {
+      "id": "786779291046318",
+      "score": 3,
+      "review_title": "Buggy and drawn out",
+      "review_description": "I loved myst so i was excite about this so some say the graphics arent good i found them superb,but you cant just finish a level and go forward,about 20 trips to jungle island i got as far as in the dome, and the coloured orbs but despit the correct order and the keys in right order ,the button dosent light up and i cant go any further which is  maddening i went back to almost every level and found a puzzle had missed which i thought would solve it after trying about 100 combinations it still didnt work wether its a glitch or not i dont know and for mental health i deciced to rest the game and maybe go back to it sometime but i still lved kt and would recomend it j..jeff",
+      "date": 1766950614,
+      "review_helpful_count": 3,
+      "author_display_name": "jeffisboss55",
+      "author_alias": "jeffisboss55",
+      "developer_response": null
+    },
+    {
+      "id": "820662971123884",
+      "score": 5,
+      "review_title": "***PLEASE READ THIS***",
+      "review_description": "First off, I really like the world of Myst and Riven. I was brand new to it when I played Myst vr for the first time this month, but I found it interesting and fun. Playing Riven was debated for a while, though, because of all the poor reviews, but I tried it anyway, and I do not regret it. The islands and ages are so full of secrets and places to explore  that I was nearly overwhelmed by the awesomeness on day one. I have been playing for a week now and have gotten to know the place fairly well. The game could really benefit from a note-taking feature, as I had to have a notepad with me irl each time I played. That is just a developer suggestion, though, not a major problem. Here is what I have some issue with:\nThe loading time. \nI don't know if it's just me, but it takes over 5 minutes from the time I select the app to finally beign able to move in the game and resume my adventure. That being said, I know that the game is huge, and that is what makes it so amazing, and I have not let the wait time stop me from playing multiple times a day. \nIf you liked Myst, you'll love Riven. Don't let the occasionally bad rendering or glitch dissuade you from this epic adventure. Play on advanced comfort setting if you can handle it. This game would be 7 stars in my book, if only they could fix the few little problems. I rated 5 because of how much I enjoyed it. I hope others will read this and try it out. It's worth it.",
+      "date": 1758557259,
+      "review_helpful_count": 71,
+      "author_display_name": "Saber_Phoenix",
+      "author_alias": "Saber_Phoenix",
+      "developer_response": {
+        "body": "Thank you for your thoughtful review!",
+        "date": 1763492085
+      }
+    },
+    {
+      "id": "823730437277010",
+      "score": 5,
+      "review_title": "Just as atmospheric as I remember.",
+      "review_description": "I played this on PC back in the early 2000s. So long ago now that I've thankfully forgotten most of the puzzles and places, so it's almost like playing it again for the first time. Just like Myst, one of the most impactful aspects of the game is the atmosphere. Largely due to the sound. If you like s slower paced puzzle game, a good story, and stunning locations, then this game is for you. The only downside is the lengthy loading times, but that's perhaps a compromise necessary to get this running on a standalone headset, without having to load sections of the islands every few minutes.",
+      "date": 1761526359,
+      "review_helpful_count": 12,
+      "author_display_name": "picorosco",
+      "author_alias": "picorosco",
+      "developer_response": null
+    },
+    {
+      "id": "1452369089793219",
+      "score": 1,
+      "review_title": "Unplayable.",
+      "review_description": "I purchased, played, finished AND LOVED Myst. An experience like no other.\n\nI purchased and started to play Riven. I'm sorry, but I do *not* love it. The controls are abysmal - they only work sometimes. Most of the time you have to try 10 or more times a simple push button or pull lever action for it to actually register in the game - and sometimes they will simply *refuse* to work at all. \n\nI don't understand where this went wrong. I did not have such a horrible experience with the controls in Myst - they worked perfectly, like a charm. They just don't work here.\n\nI spent a bit less than $40 for a game I just cannot interact with. The worst purchase decision I have ever made. Boy, am I mad.",
+      "date": 1762665904,
+      "review_helpful_count": 5,
+      "author_display_name": "Izhido_VR",
+      "author_alias": "Izhido_VR",
+      "developer_response": {
+        "body": "Hi there, the issues with interactions sound concerning and not at all the intended experience -- please email us at support@cyan.com with a video of the issue if at all possible. Please also let us know which device you are playing Riven on.",
+        "date": 1763492047
+      }
+    },
+    {
+      "id": "823742073560650",
+      "score": 5,
+      "review_title": "EXCEPTIONAL",
+      "review_description": "I finished Myst (like it a lot) a few weeks ago and decided to try out Riven. The graphics and scenes in this game are phenomenal. So stunning and incredible. I loved navigating and exploring the islands. It was difficult to figure out some of the puzzles and I had to do a lot of back-tracking, but hey, I'm retired and I have the time! I loved it. I did have to have a notepad next me and write down notes to do the puzzles. That is a absolute MUST and I wish there was a way to do this withing the game, but I know that would just complicate things, probably. The game already takes almost 5 minutes to load each time you play. I had a couple of times where it glitched out when I would set my headset down to take notes and then put it back. On a couple of rare times, it would reposition me about 10 ft higher than I should be and the only way to fix this was to close the game and restart my headset. \nBut despite that, this provided many, many hours of entertainment and challenge. I really really loved this game. Great job!",
+      "date": 1758912511,
+      "review_helpful_count": 4,
+      "author_display_name": "DwayneP",
+      "author_alias": "DwayneP",
+      "developer_response": null
+    },
+    {
+      "id": "838501738707279",
+      "score": 4,
+      "review_title": "Great game.",
+      "review_description": "This game is great. but I am stuck in the star expanse level. some of the floating gold dome islands will not let me cross. please help me I eally need your help please.🥺",
+      "date": 1759248310,
+      "review_helpful_count": 3,
+      "author_display_name": "AndersonFmly",
+      "author_alias": "AndersonFmly",
+      "developer_response": {
+        "body": "Hi there, please write in to support@cyan.com for further help on this, but here is a tip: (SPOILERS AHEAD): You have to extend the bridges from the other side of those areas in order to access them, which means you have to reach the islands of Riven outside of the starry expanse first.",
+        "date": 1763491993
+      }
+    },
+    {
+      "id": "1055421673323895",
+      "score": 3,
+      "review_title": "Wanted to love this game",
+      "review_description": "I mean, this is Riven by Cyan. Legendary series by legendary dev team. So after playing Myst, this was a buy without second thoughts. Oh boy, I was wrong. To be fair, this is on Quest 2. I know, the device is ancient, but this is all I have and if a game is released for Quest 2, the compromises should still be tolerable. But the frame rate stutters are everywhere, even in places without much details like tunnels, polygons popping in and out of existence and the textures shifting in quality only a few feet in front of you. Myst and other comparable games showed how to handle this differently. Are the sceneries so much more detailed here?\n\nAnd then there are the bugs. Getting stuck with your head in the black void without knowing why, at some point even losing continuous movement completely and needing to restart the game. Teleport usage instead is wonky. Elevators disappearing, the player height sometimes shifting (I was continuously shrinking and at some point tilted by 20 degrees). Even comfort settings do not appear to do what the explanation says (window tinting during transit?). Objects or water misplaced in depth or height position. In sum, often breaking immersion.\n\nAll in all, and sorry if this may sound harsh, but this feels like compared to Myst, implementation was rushed or maybe Quest 3-focused only. At least testing feels incomplete. Of course, I am aware that it is hard to build a profitable business from sales in VR and therefore compromises need to be made.\n\nIn the end, would I have bought Riven knowing this? Maybe still yes. Should you buy it? I do not know. If unsure, wait for a sale. The game by itself was and is fantastic (but hard and nothing for a casual experience). Would I buy Exile if it would ever come out? I do not know.",
+      "date": 1751483259,
+      "review_helpful_count": 16,
+      "author_display_name": "Nanowaldo",
+      "author_alias": "Nanowaldo",
+      "developer_response": null
+    },
+    {
+      "id": "689068550521594",
+      "score": 2,
+      "review_title": "Short of what it could have been.",
+      "review_description": "As a long time cyan worlds fan way back. I wanted this new revision of the classic to be great. This was the first game I played from them and it was the catalyst for my obsession with the must series of games and books. However this version of it seems to miss the mark entirely on a technical stand point. The downgrade is more drastic then I think it should have been and even with the drastic downgrade it still has a myriad of bugs, frame rate hitches and texture issues, the game is a chore to even play. This seems to be an issue more or less of continued support for the game as it has not had a patch for almost 9 months from its release. Cyan, you’re better than this.",
+      "date": 1747592976,
+      "review_helpful_count": 46,
+      "author_display_name": "maxwellhonack",
+      "author_alias": "maxwellhonack",
+      "developer_response": {
+        "body": "Hello there, we encourage you to check out our patch release 1.7.4 that contains many fixes and feature updates. The patch was released today. Unfortunately, when it comes to graphical fidelity, the Quest version of Riven had does indeed have lower fidelity than the PC VR version of the game. Thank you for playing Riven!",
+        "date": 1750292201
+      }
+    },
+    {
+      "id": "684612181408839",
+      "score": 1,
+      "review_title": "Glitch makes game unplayable",
+      "review_description": "I'm really disappointed to say I'll be getting a refund on the game, but I can't progress because of a bug that makes it impossible to leave the spider chair.",
+      "date": 1752541654,
+      "review_helpful_count": 5,
+      "author_display_name": "Lauriesand82",
+      "author_alias": "Lauriesand82",
+      "developer_response": {
+        "body": "Hi there, please write into support@cyan.com about this if you haven't already.\n\nEDIT: Please check out the patch released February 26th, 2026, as we have a workaround for this.",
+        "date": 1772226567
+      }
+    },
+    {
+      "id": "24269544499324444",
+      "score": 5,
+      "review_title": "Love this game!",
+      "review_description": "I absolutely love this game! I got stuck midway and have been waiting for a fix, i just saw they have a patch so ima going to reinstall and patch and go again!",
+      "date": 1751201062,
+      "review_helpful_count": 3,
+      "author_display_name": "odonnarake",
+      "author_alias": "odonnarake",
+      "developer_response": null
+    },
+    {
+      "id": "659414910037944",
+      "score": 2,
+      "review_title": "Game bug won't let me move!",
+      "review_description": "I completed Myst in VR and thought I'd give Riven a go, hoping it would be more of the same. Unfortunately I was a little disappointed. The teleport movement is janky and didn't work half the time so I had to keep stepping backwards to get it to appear.\nThe thing that killed it for me was I hit a bug in the game which left me stuck on a staircase and unable to move. Nothing I do will unstick me and I refuse to redo everything from my last save point, so I quit, and not far from the end too. :(",
+      "date": 1745228583,
+      "review_helpful_count": 15,
+      "author_display_name": "Sian_Raven",
+      "author_alias": "Sian_Raven",
+      "developer_response": {
+        "body": "Hello there, please email support@cyan.com for help on this issue -- but we also recommend using the \"checkpoint\" feature in the Help settings menu to help you return to the last location you made story progress in the game.",
+        "date": 1750292452
+      }
+    },
+    {
+      "id": "3022812684541692",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "This is brilliant, a little bit of patience is required for occasional loading of islands and the pods but this is one of the best games on quest 3. My head is hurting but that’s good because I’m totally immersed in this world of riven. It’s exploration and problem solving across the various islands, obviously if you have played this before that is going to help but it doesn’t take anything away from experiencing this in VR which is brilliant! Some things have changed like the layout and there are some new things to solve. The omission of humans as the characters is okay because the computer ones are so life like which is a welcome surprise.  Cyan have done an excellent job\nAnd hopefully we shall see the other myst games on the quest in the future?",
+      "date": 1746731167,
+      "review_helpful_count": 6,
+      "author_display_name": "Achenar",
+      "author_alias": "Achenar",
+      "developer_response": {
+        "body": "Thank you for your kind review!",
+        "date": 1750292281
+      }
+    },
+    {
+      "id": "1040584064591734",
+      "score": 1,
+      "review_title": "Calling...this...game...slow...is...zzzz",
+      "review_description": "It's not just that the game proceeds at a pace that can be described as \"glacial.\"  I wanted an experience that wasn't rushed, that was relaxing.  Be careful what you wish for, I suppose.  What's worse is that you're expected to recall clues to be used much later in the game--without having a way to record those clues.  It may be different when you're sitting in front of your PC with a pad of paper.  But how are you supposed to do this when you're wearing your VR headset?  \n\nI wish I'd known about Meta's refund policy when I bought the game.  But you have been warned.",
+      "date": 1744996461,
+      "review_helpful_count": 3,
+      "author_display_name": "londoncatvet",
+      "author_alias": "londoncatvet",
+      "developer_response": null
+    },
+    {
+      "id": "9079475855486588",
+      "score": 5,
+      "review_title": "Better than my memory",
+      "review_description": "I loved this game as a kid, and this new version exceeded even that nostalgia. It’s amazing to feel  immersed in this world. I truly loved it.\n\nEven if you never played this game before, I highly recommend it. The puzzles are fun and challenging, the little details and thoughtfulness in the design are rich and engaging.\n\nThank you for making this. I hope you continue with more in the series.",
+      "date": 1743772892,
+      "review_helpful_count": 7,
+      "author_display_name": "faragon",
+      "author_alias": "faragon",
+      "developer_response": {
+        "body": "Thank you for your kind review!",
+        "date": 1750292474
+      }
+    },
+    {
+      "id": "647268138471870",
+      "score": 4,
+      "review_title": "Thoroughly enjoyed",
+      "review_description": "Played all the Myst games yeeeears ago and loved them. It was amazing to play them in VR and I was hooked. \n\nA few glitches here and there but nothing that detracted from the experience significantly. Loved it!",
+      "date": 1748115290,
+      "review_helpful_count": 1,
+      "author_display_name": "CN86",
+      "author_alias": "CN86",
+      "developer_response": {
+        "body": "Hello there, thank you for your review! We encourage you to check out our patch release 1.7.4 that contains many fixes and feature updates. The patch was released today. Thank you for playing Riven!",
+        "date": 1750292149
+      }
+    },
+    {
+      "id": "613186391568094",
+      "score": 5,
+      "review_title": "Magical",
+      "review_description": "When I started playing I could not stop marvelling at how amazing the game was.  I played on quest 2 so yes moving from scene to scene took a while.  I noticed in walkthroughs that on quest 3 it took less time. \n\nI thoroughly enjoyed the game until animal puzzle and then the marbles. I figured out many things on my own but when it came to those big puzzles, I was only able to pass them with the help of solutions online.  And even then was so frustrated until I found that there were random elements that meant the method of solving the puzzle was the same,  but not the actual solution.  Never ever would I have been able to do them on my own. \n\nI still liked the game more than Myst though it could be because I did Myst first so sort of knew what to expect.  \n\nOne thing that I found was that I started with the most restrictive setting so only black screen was shown when moving.  That meant that I did not see some paths or realised that I was on a different island (specifically boiler island). I then found that recommended comfort option was much better. \n\nOverall I really loved playing the game.  That feeling when you figure something out and you exclaim in delight! \n\nThoroughly recommend",
+      "date": 1740475936,
+      "review_helpful_count": 13,
+      "author_display_name": "zbzc",
+      "author_alias": "zbzc",
+      "developer_response": {
+        "body": "Hi zbzc, \nThank you for your delightful and extensive review! It's wonderful to see this kind of feedback and to know the passion we put into the game found its way to you as a player. \nBest wishes!",
+        "date": 1740519480
+      }
+    },
+    {
+      "id": "1303983500854752",
+      "score": 5,
+      "review_title": "Cyan, The Best Dev Company",
+      "review_description": "Myst was the first video game I ever played when I was 4 years old. My dad showed me these incredibly rendered images on our tiny box monitor of Myst Ages that broke our world’s natural laws and these complex puzzles I was years away from understanding. Much time has passed since then, but the magic of the Myst universe stuck with me through my adolescent years into my adult life. The whole series became one of my favorite pieces of art in any medium, which is why I LOVED the Myst VR release from a few years ago, and getting to experience the masterpiece of Riven in the same way was awesome regardless of some stutter here and there. People don’t realize we are still at the beginning of VR as an industry and Cyan being able to port this monster of a PC game to Quest is absolutely and magically impressive. Playing Riven this way added the magic BACK, which I didn’t think possible after beating the original years ago. Amazing game, amazing development team, amazing company. Thank you Cyan!",
+      "date": 1739132934,
+      "review_helpful_count": 8,
+      "author_display_name": "Red_Oryx",
+      "author_alias": "Red_Oryx",
+      "developer_response": {
+        "body": "Thank you so much for your kind words and delightful memories, Red_Oryx! We're so very happy your enjoyed the VR versions of Myst and Riven. Thank you for sharing your memories and thoughts about the games in this review.",
+        "date": 1739314694
+      }
+    },
+    {
+      "id": "981912050824679",
+      "score": 2,
+      "review_title": "Can not move. A lot of bugs",
+      "review_description": "I think I should get a refund or a PC version to try again",
+      "date": 1746821423,
+      "review_helpful_count": 1,
+      "author_display_name": "NadavYi",
+      "author_alias": "NadavYi",
+      "developer_response": {
+        "body": "Hello, please email support@cyan.com to help with your issue -- we also released an update today to the game that may address the issue you encountered. If you still wish to request a refund, you can do so by navigating to your purchase history in the Meta app or on the Meta website and select Riven as the game you wish to return.",
+        "date": 1750292270
+      }
+    },
+    {
+      "id": "595309983409578",
+      "score": 3,
+      "review_title": "Something to think about",
+      "review_description": "Although MYST for the Quest 2 was my first experience in the series, I found that I enjoyed it a little more than Riven. As someone in their 40s with learning disabilities,  I found Riven to be quite challenging on the Quest 3. It wasn't until I got about halfway through the game when I realized that I needed to be taking screenshots of just about everything to help me solve the puzzles. On top of that, this is the first VR game that I've had that required me to remove my headset over and over again to take notes on an actual paper notepad to help me solve the puzzles, which was extremely difficult. Some puzzles literally taking days to solve. I did however eventually beat the game, but due to all of the complexities and the difficulties of these (very hard in my opinion) puzzles, I won't be playing this again any time soon, so I don't frustrated as I was during this game. \n\nSide note: there are still some frustrating bugs to work out. Such as when I made it to Tay and encountered a bug that caused my controller movements to be disabled and whenever I used the thumbs sticks, I would just float around Tay, moving through the graphics no matter how many times I had to shut down the game and restart it from that save. Eventually I just had to go back to a previous manual save and start from there, which seemed to fix it. But the load times to restart the game over and over again was excruciating. This game by far takes the longest to load more than any other game I own on the Quest 3.",
+      "date": 1739721571,
+      "review_helpful_count": 3,
+      "author_display_name": "MindfulTraveler",
+      "author_alias": "MindfulTraveler",
+      "developer_response": {
+        "body": "Thank you for your feedback and review, MindfulTraveler. \nThe points you bring up are known and documented, and Cyan is always looking for ways to improve performance in the game, and squash frustrating bugs like that one. \nIf you're updated to the latest game build - 1.3.0 (e3984-p26366) - the easy workaround is to use the game's \"Teleport to Safe Spot\" option in the menu. Thank you again for your feedback!",
+        "date": 1740185559
+      }
+    },
+    {
+      "id": "1649912899281428",
+      "score": 5,
+      "review_title": "yes, a journey through time...",
+      "review_description": "yes, a journey through time... 😁 I played the original game, which came out on several CDs around 1994. You really managed to do it a second time. Great game, I'm impressed. The plot is coherent right up to the end. I hope you create the other parts in the same way, soon. 😀\n\nWe need more of these games...",
+      "date": 1736528537,
+      "review_helpful_count": 9,
+      "author_display_name": "daki1978",
+      "author_alias": "daki1978",
+      "developer_response": {
+        "body": "Thank you for your kind words and review, daki1978!",
+        "date": 1738354493
+      }
+    },
+    {
+      "id": "9762637227084731",
+      "score": 5,
+      "review_title": "A dream come true!",
+      "review_description": "I’ve been a fan of the Myst games for most of my life, and I was originally blown away by being able to play Myst in VR, but THIS- ! This is a dream come true. I remember my first experience with Riven being on an iPod Touch since I could never get the PC version to run correctly. Now though, I’m able to experience this masterpiece in virtual reality and I couldn’t be more amazed! Truly a feat, and such a fun (but refreshingly updated) trip down memory lane. I do think it’s worth using a link cable to a run the PC version, just to experience the game in all its splendor, but I applaud Cyan for their work and this game definitely deserves all 5 stars! 💖",
+      "date": 1734678383,
+      "review_helpful_count": 27,
+      "author_display_name": "pockettissues",
+      "author_alias": "pockettissues",
+      "developer_response": {
+        "body": "We're so happy to see you enjoy Riven, pockett! Your kind words and enjoyment of the game is why we make these kinds of games for you!",
+        "date": 1738354568
+      }
+    },
+    {
+      "id": "573800452482382",
+      "score": 2,
+      "review_title": "Riven",
+      "review_description": "Have this game on my meta quest 3 headset not happy it takes a long time to log in the screen goes blackout when you use the island transport to go from island to island all so on sum of the puzzle lock up even though you have the correct answer I unloaded and reinstalled the game still have the same issue",
+      "date": 1737728835,
+      "review_helpful_count": 3,
+      "author_display_name": "Edso224",
+      "author_alias": "Edso224",
+      "developer_response": {
+        "body": "Hello Edso224 - You're seeing that issue because you have the game's settings on \"Hide Vehicle Transitions.\" This aids in providing a more pleasant VR experience. To see the transitions, disable that feature in the game's Menu settings. Enjoy the game!",
+        "date": 1737739586
+      }
+    },
+    {
+      "id": "1314750012886373",
+      "score": 1,
+      "review_title": "Visuals are not from Quest version",
+      "review_description": "I was so disappointed in this one. Riven was one of my favorite games. Much like most of you, I thought the Quest 3 would get full quality graphics.  \n\nUnfortunately it is a level of detail (LOD) below. A lower LOD is meant to be seen from a distance. But we have to see these lower LOD up close it really makes me sad. \n\nI would buy the full resolution version on Steam and play it through virtual desktop. \n\nIt is appalling they are charging full price when we don’t get the full graphics. \n\nShame!",
+      "date": 1736086546,
+      "review_helpful_count": 10,
+      "author_display_name": "dulryck",
+      "author_alias": "dulryck",
+      "developer_response": {
+        "body": "Hi dulryck, \nDesktop and most laptop computers have immensely stronger graphics support than the Quest devices do, which is why you're seeing some disparity between the version on PC and the Quest. The game content is no different - the graphics take a hit because the headset device processing them isn't as powerful.",
+        "date": 1737741998
+      }
+    },
+    {
+      "id": "489676417567976",
+      "score": 5,
+      "review_title": "This is so good in VR",
+      "review_description": "I loved this game on PC and it's so much better in VR.  It was late when I installed the game, only intended to have a quick ten minute look, ended up spending 2hrs and had to pull myself away from it.  Well done devs.",
+      "date": 1734742609,
+      "review_helpful_count": 5,
+      "author_display_name": "CaptainGeek007",
+      "author_alias": "CaptainGeek007",
+      "developer_response": {
+        "body": "Thank you for your review, CaptainGeek007! We're happy the game entranced you... :D",
+        "date": 1738272203
+      }
+    },
+    {
+      "id": "477505102103989",
+      "score": 5,
+      "review_title": "The reason I bought a Quest!",
+      "review_description": "Having played the original when it first came out, I was very excited to see this. It does tend to have some graphical issues, but I'm sure it's the hardware limitations and not the game. Other than that, it's perfect and beautiful, and I'm really looking forward to them remaking Myst 3 for VR (my favorite of the series).",
+      "date": 1729114885,
+      "review_helpful_count": 23,
+      "author_display_name": "AtomicTimmy",
+      "author_alias": "AtomicTimmy",
+      "developer_response": {
+        "body": "Thank you for this review, Timmy! We're very happy to see you enjoy Riven!",
+        "date": 1729181679
+      }
+    },
+    {
+      "id": "480769351438244",
+      "score": 5,
+      "review_title": "Extraordinary",
+      "review_description": "I played myst as a little girl with my mom in the 90s and now I get to do the sequel for the first time in vr. Thank you so much for bringing these titles to quest’s ecosystem. \n\nThis sequel is frankly gorgeous for a standalone hmd and I might have to get the pcvr version just to see how much better it can get. \n\nAs feedback, the doors and ladders are more janky than vr-native games. If you can do anything to improve interactions, it will make this even more immersive.",
+      "date": 1726104213,
+      "review_helpful_count": 10,
+      "author_display_name": "pictoresque",
+      "author_alias": "pictoresque",
+      "developer_response": {
+        "body": "Thank you for your review, pictoresque! \nWe continue to iterate on the game as we're able - thank you for your feedback, too!",
+        "date": 1726165840
+      }
+    },
+    {
+      "id": "500378886252870",
+      "score": 5,
+      "review_title": "Loved this challenge",
+      "review_description": "Ok, updating my review as the glitch has been worked through.  It was frustrating but it's figured out and I was able to finish the game thanks to Cyan fir help. I've never played Myst and jumped right into Riven. Wow was this challenging,  loved it. I'm still new to all this. I'll give you a big hint: never think you'll remember something, cause you won't and have to backtrack.  Write stuff down, take snaps and take your time.",
+      "date": 1727223322,
+      "review_helpful_count": 2,
+      "author_display_name": "Twistedewe19",
+      "author_alias": "Twistedewe19",
+      "developer_response": {
+        "body": "Hello Twistedewe19, \nIf you're still having this issue, please email support@cyan.com for help. \nThank you!",
+        "date": 1727222375
+      }
+    },
+    {
+      "id": "1535091730453485",
+      "score": 3,
+      "review_title": "Better than it was at launch",
+      "review_description": "I played the demo on PC, and it was pretty great.\n\nIn my original review, I noted that the Quest version of Riven was quite frankly terrible. The game had extremely distracting foveated rendering and dynamic resolution scaling. Basically if you werent looking directly at the center of your lenses, the game would look like hot garbage. \n\nThe most recent update fixed these two issues, and makes the game much more playable than it was. Other issues persist though, and they make the game a headache to play at times.\n\nThe LOD system still sucks. I assume Nanite was used for most meshes because this is an UE5 game, and the change in mesh and texel resolution is still super jarring, especially for the larger environment meshes. There are countless spots where you can just circle-strafe watch the LOD system have a meltdown.\n\nI could be mistaken, but it does seem like the LOD distance for smaller meshes was improved. One of the early issues was that objects less than 2 feet away from you would still be affected by LOD, and it caused said objects to just look horrible all the time. Im not noticing this problem as much as i was originally.\n\nThere is a problem however with transparency. It seems like transparent vials, jars, and other glassware are rending to the depth buffer backwards. Transparent objects render behind objects that are physically behind them relative to the player. If I had to guess, someone made an error when setting up the materials for those objects. I'm not much a UE5 guy but the same thing happens to me with the Unity engine all the time.\n\nLoading times at the start kinda suck too, but theres presumably a lot of overhead to make the game run.\n\nI'm still not bothered by the change to 3D characters. Riven is a much harder game to work fmv characters into because of how much you have to interact with them. Aliasing on the hair is kinda wonky but its fine.\n\nOverall, this update makes the game much more playable than it was on launch. I am still disappointed with the quality of this port and I stand by my belief that this should have been made exclusively for Quest 3. Quest 2 clearly wasn't up for the job and the game still suffers greatly for it. My rating has risen from 1 star to 3. Its okay game now, but if you can play it on PC, do so.",
+      "date": 1723783833,
+      "review_helpful_count": 7,
+      "author_display_name": "TurretCorruption",
+      "author_alias": "TurretCorruption",
+      "developer_response": {
+        "body": "Thank you for your updated review, TC. \nFor what it's worth, though the game is in UE5, no nanite was used... \nBest wishes!",
+        "date": 1724275093
+      }
+    },
+    {
+      "id": "492750746609100",
+      "score": 5,
+      "review_title": "It’s been a long time",
+      "review_description": "Having played Myst & Riven on PC originally. What a beautiful, detailed and interesting voyage i have started. The decor is rich and looks great, I’m walking around and being impressed by the exactitude of the zone. After 1 hour, I’m recharging to have another go. Brilliant Cyan, simply brilliant",
+      "date": 1719426498,
+      "review_helpful_count": 10,
+      "author_display_name": "ExcaliburInParis",
+      "author_alias": "ExcaliburInParis",
+      "developer_response": {
+        "body": "Thank you for your review! We appreciate the kind words.",
+        "date": 1719427118
+      }
+    },
+    {
+      "id": "491326396681821",
+      "score": 5,
+      "review_title": "Nostalgia activated",
+      "review_description": "It's great to (re)play a game that doesn't hold your hand and let's you explore a unique world. I was very young when i played riven the first time and despite spending dozens of hours in it I am sure I never beat it. I'm very much looking forward to getting it done this time as an adult!\n\nI'm also very happy to see that the developers have been responding to reviews and are looking to actively refine this port and I am VERY MUCH looking forward to the Quest 3 patch that I've seen mentioned in responses to other reviews.\n\nI'm a busy person and I often prioritize games that make me move a bit so by the time I finish this game there may well have been a plethora of updates 😂. I think a better note taking system might be good, as I'm not sure screenshots alone will cut it, though I'm happy to take my headset off from time to time to work things out by sending screenshots from the quest to my phone in the meantime. I don't really see myself using the in-game feature as much/at all at this time (day after release 😊)",
+      "date": 1719364642,
+      "review_helpful_count": 40,
+      "author_display_name": "R0binG00dfell0",
+      "author_alias": "R0binG00dfell0",
+      "developer_response": {
+        "body": "Love to hear that you are enjoying Riven on Quest so far! We will be pushing a patch on Monday that should have some LOD transition improvements on Quest 3 especially. Thanks for your support!",
+        "date": 1719432837
+      }
+    },
+    {
+      "id": "491261853570859",
+      "score": 5,
+      "review_title": "A 1997 classic...",
+      "review_description": "It's one of the best games I've ever played in my life. It could have around 15 to 20 hours of great narrative, beautiful artistic scenes, hard puzzles and an amazing music.\nThaaaaaanks for letting me return to Riven.",
+      "date": 1719350626,
+      "review_helpful_count": 30,
+      "author_display_name": "Petete001",
+      "author_alias": "Petete001",
+      "developer_response": {
+        "body": "Thank you so much for your kind review, and we hope you enjoy the rest of Riven!",
+        "date": 1719427219
+      }
+    },
+    {
+      "id": "502317202257617",
+      "score": 5,
+      "review_title": "Too soon to ask for Myst III: EXILE?",
+      "review_description": "I've been waiting since 1997. This is a major accomplishment, and absolutely the way the Myst series was meant to be experienced. Thanks to the developers and contributors for your countless hours and dedication! I'm sure I speak for many who would gladly pre-order Exile VR for Quest 3 today.",
+      "date": 1721693588,
+      "review_helpful_count": 27,
+      "author_display_name": "M1CH43L_4",
+      "author_alias": "M1CH43L_4",
+      "developer_response": {
+        "body": "Thanks so much for your kind words and compliments. We're so happy you're enjoying Riven!",
+        "date": 1722632206
+      }
+    },
+    {
+      "id": "303831022823064",
+      "score": 2,
+      "review_title": "Very poor graphics",
+      "review_description": "About the 1.0.0 version, waiting for patch : \nThe original Riven released in 1997 was prettier (OK, it wasn't real time, but still).\nI have a Quest 3 and this Quest port is really bad compared to what the other games look like. When you look at the PC version, it's night and day. It's as if the game had been optimized for Quest 1.\nGraphics aside, loading times are quite long when changing areas. When you access the first golden mini-dome, you have an extremely long black screen. I thought the game had crashed, but no, that's the way it is: a long loading screen and a long black screen. When you take the maglev: loading screen (is this a reminder of the original Riven, where you had to change CDs for each island?).\nAnd also a lot of clipping even when walking, worse when running.\nI'm really waiting for a \"QUEST 3 Graphic Update\".\n \n-- Update : It seems Cyan will release an update next week, I will revaluate my star rating after the patch (But I'm not expecting miracle though)",
+      "date": 1719349231,
+      "review_helpful_count": 11,
+      "author_display_name": "PingouinMalin",
+      "author_alias": "PingouinMalin",
+      "developer_response": {
+        "body": "UPDATE: Riven's latest update (to build 1.3.0) should have resolved this issue. Please update your game and let us know if the issue is still occurring (email support@cyan.com). Thank you! \n\nHello PingouinMalin,  sorry to hear that you are disappointed by the graphics for Riven on Quest 3. We are pushing almost all of what the device is capable of at any given time, and are sorry that you are using the PC VR version to compare it to, but we understand that folks may be disappointed in our inability to reach that level of fidelity on Quest. We will indeed have a patch coming out Monday that should address some LOD transition smoothing on Quest 3 in particular, but overall, we cannot guarantee we will ever be able to get Riven to look like the PC VR version per your desire. We hope that you revisit Riven on Quest soon and enjoy your time there eventually.",
+        "date": 1722631859
+      }
+    },
+    {
+      "id": "499518092568331",
+      "score": 5,
+      "review_title": "Fantastic",
+      "review_description": "I also am using a q3, but my graphics are awesome. If you consider that bad graphics, I can't wait for the patch..\n\nAs for the game, I started playing and wanted to go straight to ride the tram. Problem was I couldn't find the room with the switch to open the door. Also, couldn't get under the door by the knife. When I realized to altered the game I suddenly got very excited...I did find the room and opened the door and finally ride the tram. I was very impressed...it ALMOST felt like I was there. All we need is gravity employed in vr. \n\nWhen I opened the first globe, lets just say it scared me as I thought I lost and was trapped and found a bad glitch, then the reveal.... I HATE HEIGHTS, and you're making me climb high ladders. This game I'm just starting, and I'm so impressed on the redesign. Bravo cyan. Bravo. Can't wait to find out what other thrills that are yet to discover....\n\n10 out of 10 for me, if fact, 1000 out of 1000 \n\nCan't wait to see the patch now. But I'm not complaining at all. The heights still frighten me.\n\nwlnelson",
+      "date": 1719375157,
+      "review_helpful_count": 28,
+      "author_display_name": "brantey.downen69",
+      "author_alias": "brantey.downen69",
+      "developer_response": {
+        "body": "Thank you so much for your kind review!",
+        "date": 1719426512
+      }
+    },
+    {
+      "id": "479751808068983",
+      "score": 5,
+      "review_title": "It’s 1997 and 2024 simultaneously!",
+      "review_description": "I’m in love with this game!  I’ve always loved this game, but dang is this an incredible step forward from the old days of swapping 5 discs out of my 486!  😍😍😍. Thank you so much, Rand, Robyn and everyone who made this possible!!!",
+      "date": 1719448283,
+      "review_helpful_count": 7,
+      "author_display_name": "Skyphoxx",
+      "author_alias": "Skyphoxx",
+      "developer_response": {
+        "body": "So glad to hear you're loving Riven so far! Thank you for the review :)",
+        "date": 1719448400
+      }
+    },
+    {
+      "id": "507759825119244",
+      "score": 5,
+      "review_title": "What Riven was meant to be!",
+      "review_description": "I loved Riven so much more than Myst and couldn’t wait to play it. It really is the way Riven was meant to be played and so many years later too. Love it! But… Myst III: Exile was my favorite…\n\n(hint, hint Cyan/Ubisoft)",
+      "date": 1720483051,
+      "review_helpful_count": 4,
+      "author_display_name": "MaddieKendallM",
+      "author_alias": "MaddieKendallM",
+      "developer_response": {
+        "body": "Thank you for this very kind review!",
+        "date": 1722636500
+      }
+    },
+    {
+      "id": "494879309867883",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "One of my fav childhood games in VR, amazing.",
+      "date": 1720594170,
+      "review_helpful_count": 2,
+      "author_display_name": "Lemon4TL",
+      "author_alias": "Lemon4TL",
+      "developer_response": {
+        "body": "We're very happy you're enjoying RIVEN!",
+        "date": 1720716583
+      }
+    },
+    {
+      "id": "445923831693874",
+      "score": 1,
+      "review_title": "Terrible game",
+      "review_description": "Very glitchy game. I requested a refund but got denied. Boring. Lots of endless walking about. Puzzles are crappie. Played about two hours and had enough of it.",
+      "date": 1720465513,
+      "review_helpful_count": 1,
+      "author_display_name": "Tommackey36",
+      "author_alias": "Tommackey36",
+      "developer_response": {
+        "body": "We're sorry you didn't enjoy Riven. It seems it was not your kind of game. Best wishes.",
+        "date": 1722636465
+      }
+    },
+    {
+      "id": "444148165178392",
+      "score": 5,
+      "review_title": "This is it!",
+      "review_description": "This is it! The best puzzle game for Quest. Amazing open-world, tough puzzles. Gameplay and story is the masterpiece. 6 stars.\n\nUnfortunatelly -1 star for graphics issue. As Matthew posted, talking in-game notes/screenshots will cause severe textures details loss, making game unplayable. Instead of talking in-game notes just make native Quest screenshots with right meta button + right trigger button. It is much faster and works better. There is also some suttering with free movement, not existent when teleporting.",
+      "date": 1720508074,
+      "review_helpful_count": 3,
+      "author_display_name": "pavikogm",
+      "author_alias": "pavikogm",
+      "developer_response": {
+        "body": "Hi pavikogm, \nRiven's latest update (to build 1.3.0) should have resolved this issue. Please update your game and let us know if the issue is still occurring (email support@cyan.com). Thank you!",
+        "date": 1722636423
+      }
+    },
+    {
+      "id": "440498202100636",
+      "score": 2,
+      "review_title": "Poor graphics on VR",
+      "review_description": "Sorry to say, but the graphics on my Meta Quest 3 are really disappointing. The trees look funny as well as the other islands in the background. What is going on? I just played Red Matter, based on the same Unreal engine and that looks amazing.\nThe biggest problem with the graphics in Riven is that it doesn't feel immersive like other games.",
+      "date": 1719340208,
+      "review_helpful_count": 40,
+      "author_display_name": "TomvanOost",
+      "author_alias": "TomvanOost",
+      "developer_response": {
+        "body": "UPDATE: Riven's latest update (to build 1.3.0) should have resolved this issue. Please update your game and let us know if the issue is still occurring (email support@cyan.com). Thank you! \n\nHello TomvanOost,  sorry to hear that you are disappointed by the graphics for Riven on Quest 3. We are pushing almost all of what the device is capable of at any given time, and understand that it may be difficult to see comparisons to the PC VR version of the game we have released, but we understand that folks will be disappointed in our inability to reach that level of fidelity on Quest. We hope that you revisit Riven on Quest soon and enjoy your time there eventually.",
+        "date": 1722631881
+      }
+    },
+    {
+      "id": "433942509455340",
+      "score": 5,
+      "review_title": "It’s Riven in VR",
+      "review_description": "I’ve played several hours of the Riven remake and have been thoroughly enjoying the experience so far. There have been some bugs and graphical glitches that have happened, but I’m sure Cyan will sort those out over time. They were great at releasing patches for Myst on the Quest platform. \n\nAs for the game itself, it’s Riven in VR. I’ve gone through the original game a few times before, but now with this remake, I often find myself thinking, “Wasn’t there something here?” or “Well, that’s new.” For those familiar with Riven, you’ll be pleased to have a new experience with the game. Many of the changes I’ve noticed make sense and fit well within the game from a creative standpoint.\n\nFor anyone interested in the game, I highly recommend taking detailed notes as you play. Grab some paper and sketch any symbols, puzzles, or peculiar details you come across. These notes will likely prove invaluable as you progress. Additionally, make sure to read through the various books you encounter, as they can contain crucial lore and world-building elements.\n\nOverall, I’m loving my time with this Riven remake. Experiencing the world in VR is both refreshing and engaging, and the updated changes keep the sense of discovery exciting. What lies ahead in the coming hours of gameplay? I can’t wait to find out.",
+      "date": 1719368105,
+      "review_helpful_count": 135,
+      "author_display_name": "MrMusicComposer",
+      "author_alias": "MrMusicComposer",
+      "developer_response": {
+        "body": "Thank you for your review, and glad to hear you are enjoying Riven so far!",
+        "date": 1719426538
+      }
+    },
+    {
+      "id": "430200260165741",
+      "score": 2,
+      "review_title": "Amazing game, not ideal for Quest",
+      "review_description": "I’m an OG Myst fan, love the whole series, grew up playing Myst and Riven with my dad. Great times. This remake is cool, with some new puzzles and some surprising changes that make it a more fresh experience for veterans. The VR works well and I haven’t had any issues there.\n\nThe problem is that a lot is sacrificed in the native Quest version. A LOT. Compared to the Steam version, this is a huge visual downgrade. Plus the load times border on the extreme. Ultimately, it’s just not meant to run on the Quest’s hardware—impressive though it is for what it is.\n\nI recommend, if you can, to get it on Steam and use SteamLink to play it on the Quest headset so you get the full, stunning, amazing visual experience that Riven is meant to be.",
+      "date": 1723071965,
+      "review_helpful_count": 1,
+      "author_display_name": "Blushby",
+      "author_alias": "Blushby",
+      "developer_response": {
+        "body": "Hello Blushby, \nWe are sorry to disappoint your graphics expectations. We tried to separate the expectations between the PC and the Quest game versions very clearly. The graphics on Quest are just about as much as the device can handle at this point. \nIf you're seeing a lot of loading screens, those will appear most often when Hide Vehicle Transitions is enabled. \nThat setting skips a majority of the game's transitions. If you wish to see fewer loading screens, please disable the 'Hide Vehicle Transitions' setting if you haven't already.\nWe'd like to hearing more specific feedback about your gameplay experience. If you wish to share, please email support@cyan.com to provide more examples and details. \nBest wishes!",
+        "date": 1723146523
+      }
+    },
+    {
+      "id": "428147800199127",
+      "score": 5,
+      "review_title": "Nice puzzle game 😜🤙👌",
+      "review_description": "I remember in the 90s there was this game on the computer now with virtual reality the game is magnificent beautiful decor full of puzzles from the start made me work hard well done designers",
+      "date": 1719846106,
+      "review_helpful_count": 0,
+      "author_display_name": "ARNAK",
+      "author_alias": "ARNAK",
+      "developer_response": {
+        "body": "Glad to hear that Riven was a good challenge for you. Thank you for the kind words!",
+        "date": 1719867248
+      }
+    },
+    {
+      "id": "426648020521108",
+      "score": 5,
+      "review_title": "Classic, but very different.",
+      "review_description": "I've been a huge fan of the Myst series since way back in the early 90's and I've owned multiple versions of each. It's nice to see them being reinvigorated in VR... It feels like this is how they are MEANT to be played. They look stunning and are ALMOST perfect reproductions of the originals... With Myst it was the odd thing here and there, nothing major... But in RIVEN... They've changed SO MUCH!!! For all intents and purposes, on the surface, it looks like the same game... But to anyone who has played the original hundreds of times, the differences are huge and glaring. It's a bit discombobulating as you're expecting a switch to be here, or a room/device to be to there, only to find it's completely different. Not that this is necessarily a bad thing though... I mean, it does mix things up for people who have played it a hundred times before... But I can't help but feel a little robbed of the game I knew... Still excellent though... \nAlthough, given the number of unused buttons on the controllers, why did we not get a camera mode like in Myst? It's much more of a pain to have to go to the pause menu every time...\n\nI certainly hope we'll get the rest of the series brought to VR. PLEEEEEEEEASE!!!",
+      "date": 1723512566,
+      "review_helpful_count": 1,
+      "author_display_name": "Todeswalzer",
+      "author_alias": "Todeswalzer",
+      "developer_response": {
+        "body": "Thank you for your review and feedback, Todeswalzer! We appreciate you taking the time to give details about your experience with Riven and things you wish had been included. Best wishes!",
+        "date": 1723764500
+      }
+    },
+    {
+      "id": "407310869124779",
+      "score": 2,
+      "review_title": "Game-breaking texture issues",
+      "review_description": "[tl;dr: A game with great potential, but technical issues spoil the experience. Wait for further patches]\n\nA few days ago, I finished Myst in its VR version for the first time, and I was enchanted by the game. Despite some technical shortcomings, I spent most of the time satisfied and without frustration.\n\nThat's why I reached for the second part of the series, Riven, without hesitation, knowing that a great adventure awaited me. The game is considered as one of the greatest puzzle adventure games of all time. And I must say, my high expectations were met! At least, at the beginning.\n\nUnfortunately, as time passed, the game gave the impression of undergoing a certain deterioration, much like the world our hero has ventured into—very 'meta', I would say. Textures randomly stopped loading, to the point where in some places, it seemed there were no textures at all, just simple geometric shapes, reminiscent of \"low poly\" style games.\n\nThis was strange because restarting the game (which takes a few minutes) and loading a save did not solve the problem. I noticed some improvement after transporting to another island (when, I think, the textures from the new location were reloaded), and I used this method for some time.\n\nUnfortunately, I reached a point where even this method was no longer effective. A few seconds after landing on the starting island, I saw the textures disappearing from the maglev control panel. That was too much for me.\n\nThe issue is so significant that it completely breaks immersion and prevents me from enjoying the game. Moreover, given how crucial it is to study the environment in this game, I'm concerned that continuing to play might cause me to miss essential details necessary for game progression, leading to frustration.\n\nTherefore,  I'm holding off on playing the game. hoping that the developers will continue working on this title for the platform and optimize asset loading on the Quest 3.",
+      "date": 1722117201,
+      "review_helpful_count": 11,
+      "author_display_name": "M9a",
+      "author_alias": "M9a",
+      "developer_response": {
+        "body": "Hello M9a, \nThe issue you've encountered sounds very much like one we're already investigating. \nWe'd like to know more about where in the game you encountered the image deterioration, and exactly how many screenshots you had stored at the time the problem started. \nPlease email support@cyan.com and provide more details about your experience. Thank you!",
+        "date": 1722266040
+      }
+    },
+    {
+      "id": "391567460716442",
+      "score": 4,
+      "review_title": "Intriguing & Entertaining",
+      "review_description": "I loved the original game from the 90s and enjoyed playing it.   This VR version takes it to a whole new level!  Well thought out by Cyan, this version has many new areas to explore and expands on the original game.  \n\nJust a few caveats...the Meta Quest version has much lower graphic quality than the PC version (to be expected).  Load times on the Quest 2 are a bit long between sections of the game.  There are some additional limitations, but if you can see pass them, it's an awesome game with a great story line!",
+      "date": 1729739577,
+      "review_helpful_count": 0,
+      "author_display_name": "JWeiler",
+      "author_alias": "JWeiler",
+      "developer_response": {
+        "body": "Thank you so much for this review, JWeiler! We're very happy you're enjoying Riven.",
+        "date": 1730159995
+      }
+    },
+    {
+      "id": "390789564109480",
+      "score": 5,
+      "review_title": "Great Puzzles",
+      "review_description": "From the moment you enter the world you start solving puzzles and they literally drop you into the game and say here solve this. I loved that about this game. It's so mysterious and magical. The graphics are really good and the feel of the game is great. I had to watch a walkthrough for some of it but am happy to say I solved the main and hard puzzles by myself. I love how all the puzzles are connected. What an amazing game.",
+      "date": 1720999151,
+      "review_helpful_count": 0,
+      "author_display_name": "Loadingup80",
+      "author_alias": "Loadingup80",
+      "developer_response": {
+        "body": "Thank you for this detailed review and kind words. We're very happy to see you're enjoying your experience in Riven!",
+        "date": 1722632582
+      }
+    },
+    {
+      "id": "390110450854520",
+      "score": 3,
+      "review_title": "Should’ve been Quest 3 only…",
+      "review_description": "Where do I even begin. I played the demo on my PC as soon as Riven came out on Steam. Knowing well that the Quest version wouldn’t be at the same level of visual quality, I went ahead and downloaded it. The difference was beyond abysmal, sadly to say. I was expecting Red Matter 2 graphics… but nope. The frame skips make me dizzy. The foveated rendering makes it look like there’s something wrong, and the way textures load isn’t what you’d expect on Quest 3. Maybe that’s the problem? They should’ve either sold two versions or just a Quest 3 version. The developer keeps saying this is the best a Quest 3 can output, but I seriously doubt it after seeing some incredible native games out there. Could this be a future fix? Let’s hope so… because the game itself is incredible! I downloaded it, got a refund, and feel for the awesome gameplay, and purchased again (even though I get motion sickness from the jittery animation). Please update this game, Cyan. This could’ve easily been my favorite VR game out there…",
+      "date": 1724017059,
+      "review_helpful_count": 3,
+      "author_display_name": "Aresden1710",
+      "author_alias": "Aresden1710",
+      "developer_response": {
+        "body": "Thank you for your review, Aresden. We'll continue to to update the game as time and resources allow, but the Quest graphics will never match those on a PC (as the demo you played has), sorry to say.\nBest wishes, \nC.W.",
+        "date": 1724273832
+      }
+    },
+    {
+      "id": "388898857637132",
+      "score": 2,
+      "review_title": "Nostalgia but terrible graphics",
+      "review_description": "I played Riven and then I played Red Matter and asked myself why Cyan wasn’t able to create a world as great as that with that level of detail? Water graphics up close were just awful especially near where the Sunners were laying on the rocks.\n\nI feel this was made to cater to the lowest common denominator for Quest without taking into account the latest capabilities in Q3.\n\nI enjoyed the game nonetheless but the graphics quality just really let it down.",
+      "date": 1721656498,
+      "review_helpful_count": 12,
+      "author_display_name": "ZaneMc",
+      "author_alias": "ZaneMc",
+      "developer_response": {
+        "body": "Hi ZaneMc,\nRiven's latest update (to build 1.3.0) should have resolved this issue. Please update your game and let us know if it helped (email support@cyan.com). Thank you!",
+        "date": 1722627944
+      }
+    },
+    {
+      "id": "383725898059581",
+      "score": 1,
+      "review_title": "Loading hell, no CrossBuy - not worth it",
+      "review_description": "Very disappointing:\n- no CrossBuy when there is a PCVR version takes away the flexibility, Myst had it, why not here? \n- load screens ruin the game, takes 10mins before you can even move, really makes it feel like a game from 1997 \nThank God for a decent refund policy.",
+      "date": 1719412630,
+      "review_helpful_count": 10,
+      "author_display_name": "ShaneK",
+      "author_alias": "ShaneK",
+      "developer_response": {
+        "body": "We're sorry to hear that you're disappointed by the lack of crossbuy available and that it is impacting your review for the Quest version of Riven. When it comes to Loading screens, you'll see loading screens more often if you have \"hide vehicle transitions\" enabled -- it's possible that turning those off will improve your experience if you choose to give Riven another try. Thanks for trying Riven! If you are still unhappy with your experience and lack of crossbuy, we suggest requesting a refund.",
+        "date": 1719426371
+      }
+    },
+    {
+      "id": "383496054836626",
+      "score": 2,
+      "review_title": "Is this a joke?",
+      "review_description": "I play on Q3 and I must say I am very unimpressed.  Low resolution, low resolution textures, popping geometry, popping textures, bitmaps where there should be geometry... and.... long load time.\nAt least the soundtrack is as i remember it.\nI didnt expect the pcvr version but clearly too many corners were cut here in this port.",
+      "date": 1719338919,
+      "review_helpful_count": 158,
+      "author_display_name": "Zanfr",
+      "author_alias": "Zanfr",
+      "developer_response": {
+        "body": "UPDATE: Riven's latest update (to build 1.3.0) should have resolved this issue. Please update your game and let us know if the issue is still occurring (email support@cyan.com). Thank you! \n\nHello Zanfr,  sorry to hear that you are disappointed by the graphics for Riven on Quest 3. We are pushing almost all of what the device is capable of at any given time, and are sorry that you are using the PC VR version to compare it to, but we understand that folks may be disappointed in our inability to reach that level of fidelity on Quest. We hope that you revisit Riven on Quest soon and enjoy your time there eventually.",
+        "date": 1722631906
+      }
+    },
+    {
+      "id": "373722902491464",
+      "score": 4,
+      "review_title": "Riven",
+      "review_description": "Love the updates to the original. Can be a little glitchy, but overall a great game",
+      "date": 1721479659,
+      "review_helpful_count": 0,
+      "author_display_name": "BigAl.99",
+      "author_alias": "BigAl.99",
+      "developer_response": {
+        "body": "Thank you for your kind words, Big Al!",
+        "date": 1722632325
+      }
+    },
+    {
+      "id": "365715666622095",
+      "score": 2,
+      "review_title": "Great start but too buggy to play",
+      "review_description": "I thoroughly enjoyed my first few hours of play. This is a remake of my favorite game and I love the direction they took with it. Unfortunately, there are some significant bugs in the 1.0 version that make it impossible to advance the plot (the Tay linking book won't link). The graphic quality also degraded around the same time and now everything looks low poly, low pixel, even after a reboot and reload. \n\nI look forward to when these bugs are fixed and I can update my review.",
+      "date": 1719539195,
+      "review_helpful_count": 6,
+      "author_display_name": "matt.530995",
+      "author_alias": "matt.530995",
+      "developer_response": {
+        "body": "Hi Matt, \nRiven's latest update (to build 1.3.0) should have resolved this issue. Please update your game and let us know if the issue is still occurring (email support@cyan.com). Thank you!",
+        "date": 1722628612
+      }
+    },
+    {
+      "id": "363857506721971",
+      "score": 2,
+      "review_title": "Frame rate making me nauseous",
+      "review_description": "I was enjoying the game one evening. Came back in the morning and it was unplayable. The frame rate lag is so bad it makes me sick.",
+      "date": 1720113867,
+      "review_helpful_count": 3,
+      "author_display_name": "TravelingMatthew",
+      "author_alias": "TravelingMatthew",
+      "developer_response": {
+        "body": "Hi there, can you contact us at support@cyan.com with information about which headset (Quest 2, or Quest 3) you are running the game on, and if this is a result of leaving the game open overnight, or just simply turning your headset back on after the evening and seeing the game run poorly? We've seen this occur sometimes if there is an OS update running behind the scenes on the device, but the game should not be doing that on its own. Looking forward to learning more!",
+        "date": 1720215058
+      }
+    },
+    {
+      "id": "357366577424615",
+      "score": 3,
+      "review_title": "Umm...Not Perfect!",
+      "review_description": "You missed the tram animation similar to Myst VR! It's supposed to feel like a roller coaster ride!\n\nI liked the old roller coaster ride from PC!\n\nYou moved the chair out of the stone cave, and into someplace else!\n\nYou subtracted from Virtual Experience!\nRefund, until you can get this right!",
+      "date": 1723688555,
+      "review_helpful_count": 0,
+      "author_display_name": "alec.693727",
+      "author_alias": "alec.693727",
+      "developer_response": {
+        "body": "Hello alec, \nThank you for this review. We'd like to understand better what you mean about the tram ride and other changes you didn't like. \nIf you're willing to share more details, please email us at SUPPORT@CYAN.COM to explain. Thank you!",
+        "date": 1723737067
+      }
+    },
+    {
+      "id": "347916011741461",
+      "score": 5,
+      "review_title": "It's good to be back!",
+      "review_description": "Just spent all night roaming around, surprised at all the little changes peppered throughout, and really enjoying my time in Riven. They changed just enough to make me stumble from time to time. Loving it so far. It's incredible to see a fully realized 3D version of this.",
+      "date": 1719381204,
+      "review_helpful_count": 6,
+      "author_display_name": "tomtomfooleries",
+      "author_alias": "tomtomfooleries",
+      "developer_response": {
+        "body": "Thank you for your kind review!",
+        "date": 1719426498
+      }
+    },
+    {
+      "id": "343455365481727",
+      "score": 5,
+      "review_title": "A fantastic challenge!",
+      "review_description": "Very challenging but the length was awesome compared to Myst, and thank you for dropping the time achievements to get 100%!!!",
+      "date": 1721942749,
+      "review_helpful_count": 0,
+      "author_display_name": "OldGamerCookie",
+      "author_alias": "OldGamerCookie",
+      "developer_response": {
+        "body": "Thank you for your kind words and feedback. We're very happy you are enjoying Riven!",
+        "date": 1722632160
+      }
+    }
+  ],
+  "total": 60,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T08:24:33Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "1376933662397923",
+  "package_name": "com.DDC.Edinburgh70",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Edinburgh 70",
+  "rating_average": 3.7692307692308,
+  "rating_count": 13,
+  "review_count": 13,
+  "reviews": [
+    {
+      "id": "2010124059128530",
+      "score": 5,
+      "review_title": "Another super cool bbc vr program.",
+      "review_description": "Loving the art style in this.",
+      "date": 1618505029,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "901294256694998",
+      "score": 5,
+      "review_title": "Excellent!",
+      "review_description": "Simple graphics, yet very satisfying 3D experience.",
+      "date": 1501963666,
+      "review_helpful_count": 11,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:26:50Z"
+}
