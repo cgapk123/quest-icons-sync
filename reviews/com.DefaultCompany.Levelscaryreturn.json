@@ -1,0 +1,56 @@
+{
+  "app_id": "24804484869142945",
+  "package_name": "com.DefaultCompany.Levelscaryreturn",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Level scary!",
+  "rating_average": 3.1666666666667,
+  "rating_count": 6,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "750625521457619",
+      "score": 5,
+      "review_title": "Fun game",
+      "review_description": "5 stars super fun im sad that no one plays it anymore",
+      "date": 1752021812,
+      "review_helpful_count": 1,
+      "author_display_name": "v4rtexVr",
+      "author_alias": "v4rtexVr",
+      "developer_response": null
+    },
+    {
+      "id": "1009739644536507",
+      "score": 1,
+      "review_title": "Why",
+      "review_description": "Why",
+      "date": 1769393433,
+      "review_helpful_count": 0,
+      "author_display_name": "biggestmitch",
+      "author_alias": "biggestmitch",
+      "developer_response": null
+    },
+    {
+      "id": "361113903750898",
+      "score": 4,
+      "review_title": "mungus",
+      "review_description": "this game is very good and scary but theres just 1 little problem the monster is really fast and the jumpscary isnt really scary but when the monster chases u its scary",
+      "date": 1719875255,
+      "review_helpful_count": 4,
+      "author_display_name": "v4mp_s",
+      "author_alias": "v4mp_s",
+      "developer_response": {
+        "body": "Ok, thank you for the feedback!",
+        "date": 1720035041
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:48:43Z"
+}

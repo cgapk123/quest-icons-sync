@@ -1,0 +1,31 @@
+{
+  "app_id": "25662964546680242",
+  "package_name": "com.DefaultCompany.MunkeyHub",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "MonkeHub",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "787462886896262",
+      "score": 5,
+      "review_title": "Best game",
+      "review_description": "This game is good 👍",
+      "date": 1719433889,
+      "review_helpful_count": 3,
+      "author_display_name": "Opiscol",
+      "author_alias": "Opiscol",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:52:58Z"
+}

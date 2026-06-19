@@ -1,0 +1,42 @@
+{
+  "app_id": "33385552824392289",
+  "package_name": "com.DefaultCompany.Labyrinth",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Labyrinth",
+  "rating_average": 1,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "877375045174496",
+      "score": 1,
+      "review_title": "Don't bother",
+      "review_description": "It's hardly an experience worth trying.",
+      "date": 1770181885,
+      "review_helpful_count": 0,
+      "author_display_name": "ninjadomus",
+      "author_alias": "ninjadomus",
+      "developer_response": null
+    },
+    {
+      "id": "860962203777371",
+      "score": 1,
+      "review_title": "Doesn't load",
+      "review_description": "I can't make it passed made with Unity screen. Just boots me back home.",
+      "date": 1768311341,
+      "review_helpful_count": 1,
+      "author_display_name": "H8Hmnz",
+      "author_alias": "H8Hmnz",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:48:10Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "8776299705789579",
+  "package_name": "com.DefaultCompany.NextbotVr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Primate Playground",
+  "rating_average": 4.2,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "594259979842969",
+      "score": 5,
+      "review_title": "W",
+      "review_description": "W game\nGood physics",
+      "date": 1733101019,
+      "review_helpful_count": 2,
+      "author_display_name": "Marshmallow_real",
+      "author_alias": "Marshmallow_real",
+      "developer_response": null
+    },
+    {
+      "id": "482658554937102",
+      "score": 5,
+      "review_title": "Well made + fun game",
+      "review_description": "Nice community, fun game and nice design",
+      "date": 1733872297,
+      "review_helpful_count": 0,
+      "author_display_name": "soggy.sandwitch",
+      "author_alias": "soggy.sandwitch",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:53:31Z"
+}

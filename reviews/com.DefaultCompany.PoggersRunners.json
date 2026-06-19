@@ -1,0 +1,42 @@
+{
+  "app_id": "25066842619569874",
+  "package_name": "com.DefaultCompany.PoggersRunners",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Pog Runners",
+  "rating_average": 4.2,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1199570465358499",
+      "score": 5,
+      "review_title": "Super kool game",
+      "review_description": "Gummy. I enjoyed the game! Keep it up!",
+      "date": 1762663381,
+      "review_helpful_count": 0,
+      "author_display_name": "Jimmy_Bird",
+      "author_alias": "Jimmy_Bird",
+      "developer_response": null
+    },
+    {
+      "id": "769650739565149",
+      "score": 5,
+      "review_title": "Awesome game",
+      "review_description": "This game is super fun and I like it\nYay at great game gummy",
+      "date": 1756250343,
+      "review_helpful_count": 3,
+      "author_display_name": "yippe6464",
+      "author_alias": "yippe6464",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:54:40Z"
+}

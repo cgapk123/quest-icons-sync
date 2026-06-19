@@ -1,0 +1,42 @@
+{
+  "app_id": "9402832053081522",
+  "package_name": "com.DefaultCompany.Monko.Monko",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Monko.",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "669434355767316",
+      "score": 5,
+      "review_title": "Very good owner",
+      "review_description": "W",
+      "date": 1742564266,
+      "review_helpful_count": 0,
+      "author_display_name": "FinnH_yt",
+      "author_alias": "FinnH_yt",
+      "developer_response": null
+    },
+    {
+      "id": "590724013920494",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "this game game is decent.",
+      "date": 1738107386,
+      "review_helpful_count": 1,
+      "author_display_name": "pinkofr",
+      "author_alias": "pinkofr",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:52:37Z"
+}

@@ -1,0 +1,56 @@
+{
+  "app_id": "6516636941728148",
+  "package_name": "com.DefaultCompany.MonkeysOperaV4",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Monkeys Life",
+  "rating_average": 4.3333333333333,
+  "rating_count": 18,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "517611654126475",
+      "score": 5,
+      "review_title": "Sigma",
+      "review_description": "Rizz\nOrient",
+      "date": 1723755087,
+      "review_helpful_count": 9,
+      "author_display_name": "Tactic28",
+      "author_alias": "Tactic28",
+      "developer_response": null
+    },
+    {
+      "id": "253254430986329",
+      "score": 5,
+      "review_title": "Very good",
+      "review_description": "Good cosmetics, good graphics, good player model. But it needs multiplayer",
+      "date": 1692218428,
+      "review_helpful_count": 1,
+      "author_display_name": "fidley_pickle38",
+      "author_alias": "fidley_pickle38",
+      "developer_response": {
+        "body": "It has full multiplayer your internet connection might be a little down but thank you for the good review!",
+        "date": 1692255690
+      }
+    },
+    {
+      "id": "272078155460791",
+      "score": 5,
+      "review_title": "",
+      "review_description": "It’s me golden monkey from gorilla sprinters with a microphone can I pls have mod￼",
+      "date": 1691205047,
+      "review_helpful_count": 4,
+      "author_display_name": "poppafatsack",
+      "author_alias": "poppafatsack",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:52:10Z"
+}

@@ -1,0 +1,31 @@
+{
+  "app_id": "9629509233734581",
+  "package_name": "com.DefaultCompany.MONKKOKO",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Monk koko",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "909055184978928",
+      "score": 1,
+      "review_title": "Idk",
+      "review_description": "I just don’t like it",
+      "date": 1769444754,
+      "review_helpful_count": 0,
+      "author_display_name": "Boxy879",
+      "author_alias": "Boxy879",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:49:04Z"
+}
