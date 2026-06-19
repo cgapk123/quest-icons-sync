@@ -1,0 +1,45 @@
+{
+  "app_id": "6823417664337538",
+  "package_name": "com.ChimpTagStudios.Douc",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Douc",
+  "rating_average": 5,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "319117504121906",
+      "score": 5,
+      "review_title": "BEST GAME EVER!",
+      "review_description": "LOVE THE GAME ITS SO FUN HIGH QUALITY AND HAS SO MANY NICE PEOPLE YOU SHOULD PLAY IT",
+      "date": 1693845014,
+      "review_helpful_count": 4,
+      "author_display_name": "Dope_froggy",
+      "author_alias": "Dope_froggy",
+      "developer_response": null
+    },
+    {
+      "id": "264265423202211",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Thanks I guess just no one plays",
+      "date": 1693707205,
+      "review_helpful_count": 1,
+      "author_display_name": "deweygiraffe",
+      "author_alias": "deweygiraffe",
+      "developer_response": {
+        "body": "No Problem.",
+        "date": 1694177755
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:56:15Z"
+}

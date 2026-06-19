@@ -1,0 +1,53 @@
+{
+  "app_id": "33225483717096505",
+  "package_name": "com.CoachsSide.ProjectDomination",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Project Domination",
+  "rating_average": 4.2,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1022415357612965",
+      "score": 5,
+      "review_title": "Really good game",
+      "review_description": "The best game ever",
+      "date": 1768951326,
+      "review_helpful_count": 3,
+      "author_display_name": "weloveemily",
+      "author_alias": "weloveemily",
+      "developer_response": null
+    },
+    {
+      "id": "872492092357921",
+      "score": 5,
+      "review_title": "I love this",
+      "review_description": "its good",
+      "date": 1768784543,
+      "review_helpful_count": 1,
+      "author_display_name": "flixkkz",
+      "author_alias": "flixkkz",
+      "developer_response": null
+    },
+    {
+      "id": "912124525325322",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Love it",
+      "date": 1768983700,
+      "review_helpful_count": 1,
+      "author_display_name": "FreddieD2008",
+      "author_alias": "FreddieD2008",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:00:27Z"
+}

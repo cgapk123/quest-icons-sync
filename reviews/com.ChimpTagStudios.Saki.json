@@ -1,0 +1,42 @@
+{
+  "app_id": "6315754995147069",
+  "package_name": "com.ChimpTagStudios.Saki",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Saki",
+  "rating_average": 4.5,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1030230883498053",
+      "score": 3,
+      "review_title": "This is a horror game",
+      "review_description": "Nothing to say",
+      "date": 1771031842,
+      "review_helpful_count": 0,
+      "author_display_name": "Cozmo03",
+      "author_alias": "Cozmo03",
+      "developer_response": null
+    },
+    {
+      "id": "249891931314637",
+      "score": 5,
+      "review_title": "The best game ever",
+      "review_description": "This game is so fun I have seen reviews on this game and I’m so excited to play more",
+      "date": 1690937898,
+      "review_helpful_count": 0,
+      "author_display_name": "Wnp22",
+      "author_alias": "Wnp22",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:56:18Z"
+}

@@ -1,0 +1,45 @@
+{
+  "app_id": "10003228953053823",
+  "package_name": "com.ChristophSpinger.Ballee",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Ballee: The Sandbox",
+  "rating_average": 4,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1436600187555553",
+      "score": 5,
+      "review_title": "A true showcase project for the Quest",
+      "review_description": "Ballee is an absolute blast to try on Meta Quest! 🤯 \nEvery session feels fresh and exciting. I loved being able to interact with real balls in my space and seeing what creative setups I could come up with.\nThe editor adds so much freedom, letting you design challenges, practice skills, or just go wild with your own ideas.\nIt’s clear the developers are pushing the boundaries of what XR can do, and it’s a fantastic example of cutting-edge mixed reality in action.",
+      "date": 1756759660,
+      "review_helpful_count": 2,
+      "author_display_name": "nigelhartman",
+      "author_alias": "nigelhartman",
+      "developer_response": null
+    },
+    {
+      "id": "733885009815570",
+      "score": 1,
+      "review_title": "Requires scary access...",
+      "review_description": "...soooo...nope.",
+      "date": 1756702614,
+      "review_helpful_count": 0,
+      "author_display_name": "EdDantes7",
+      "author_alias": "EdDantes7",
+      "developer_response": {
+        "body": "Sorry if the permission request felt unsettling! Ballee needs camera access to track your real ball and to create a cubemap of your playspace. This cubemap is saved only on your device and never leaves it. Nothing is uploaded or shared. I understand if that’s not for you, but without the camera the game wouldn’t work.",
+        "date": 1756731344
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:57:39Z"
+}

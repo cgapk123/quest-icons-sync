@@ -1,0 +1,574 @@
+{
+  "app_id": "4034169883289562",
+  "package_name": "com.ColugoProductionsInc.OnTargetVRDarts",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "On Target VR Darts",
+  "rating_average": 3.8849557522124,
+  "rating_count": 113,
+  "review_count": 85,
+  "reviews": [
+    {
+      "id": "1081010265101893",
+      "score": 3,
+      "review_title": "Ok",
+      "review_description": "This has real potential. However, it is glitchy. No idea how to work YouTube. Turning off double out doesn't work either. I'm not good enough to double out in real darts let alone in VR\n\nEdit: Double out being switched off still doesn't work after I updated the game.",
+      "date": 1777587797,
+      "review_helpful_count": 0,
+      "author_display_name": "Ralphyroo82",
+      "author_alias": "Ralphyroo82",
+      "developer_response": {
+        "body": "Thanks for the review. We'll look in to this bug further and update shortly.",
+        "date": 1779913834
+      }
+    },
+    {
+      "id": "1147362995128319",
+      "score": 5,
+      "review_title": "Best Vr Darts game!",
+      "review_description": "Its excellent if you are looking for a classic dart game.",
+      "date": 1779911344,
+      "review_helpful_count": 0,
+      "author_display_name": "Kineteca",
+      "author_alias": "Kineteca",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1780964861
+      }
+    },
+    {
+      "id": "1175635045623489",
+      "score": 3,
+      "review_title": "Good for o ly 2  or 3 weeks",
+      "review_description": "Love this game and was playing every night however after just a few weeks after purchase my AI does not work at all",
+      "date": 1778558059,
+      "review_helpful_count": 0,
+      "author_display_name": "WalkawayRene",
+      "author_alias": "WalkawayRene",
+      "developer_response": {
+        "body": "Hi there. Thanks for the review! We just pushed an update with some fixes including the AI not throwing in Cricket. Cheers.",
+        "date": 1779913769
+      }
+    },
+    {
+      "id": "897269942834103",
+      "score": 3,
+      "review_title": "needs fixing",
+      "review_description": "the outer bull doesn't register a score, the height always changes cant you just put the height as your floor boundary so everybody is just their normal height, when you bust a score the game throws you back for example i was on double 2 and then bust and the game put me back to 111 i was in multiplayer when i had all these issues other than that i think its a good game",
+      "date": 1768140569,
+      "review_helpful_count": 5,
+      "author_display_name": "beefy94",
+      "author_alias": "beefy94",
+      "developer_response": {
+        "body": "Thanks for the review and feedback! The bullseye has been fixed in the recent update (v1.8.6). As for height, we set it up this way to accommodate sitting while playing but we can add an option to set the floor boundary in Settings. The multiplayer bust issue was just updated in v1.8.7",
+        "date": 1768880806
+      }
+    },
+    {
+      "id": "950335524824801",
+      "score": 4,
+      "review_title": "Multiplayer better but still needs work",
+      "review_description": "Played on Quest 3. \n\nUpdating to 4 stars after 1.8.5 update: We were able to complete a multiplayer game now but there were still some issues. It is usable in multiplayer, with quirks, performance problems. I will update the devs on Discord.\n\nOld review: \n\nThe Good: Single player darts is fun and the physics are great. I like the environments and the ability to choose music, etc. The games are great and I learned how to play 301/501, which I've never quite understood before. The \"dart cam\" is cool.\n\nThe Bad: Tried playing multiplayer several times and it doesn't work. Avatars are buggy - for example, it gave me the wrong one (I was some kind of alien), my sister had half of one, her torso was across the room, etc. But the worst is that it randomly doesn't give you darts to play, the settings menu stopped working (in three different attempts to play with family none of us could access settings to start a game), and sometimes the game just... ends? Like we will be playing 301 and after a few rounds nobody gets any more darts and we just stand there. Since the settings menu doesn't work sometimes, we can't even reset or start a new game. \n\nWe were never able to finish a game in multiplayer.\n\nI mostly want to play with others, so only 3 stars. If multiplayer worked well I would easily pay more $ for this.",
+      "date": 1767394250,
+      "review_helpful_count": 1,
+      "author_display_name": "mraldan",
+      "author_alias": "mraldan",
+      "developer_response": {
+        "body": "Thanks so much for the updated review!",
+        "date": 1767410411
+      }
+    },
+    {
+      "id": "912332138634086",
+      "score": 5,
+      "review_title": "Awesome game",
+      "review_description": "So I always play single player and I've never scored the bullseye when I hit it. 1st time I thought maybe because the AI hit it first, but I can't even close it out. I def should have beat AI today but it never registered bullseye even though I can 100% see it hit it. Today it didn't even register for AI so I had to end game. Edit: played today and it worked perfectly. Thanks 5 stars!",
+      "date": 1767728033,
+      "review_helpful_count": 1,
+      "author_display_name": "furg1024",
+      "author_alias": "furg1024",
+      "developer_response": {
+        "body": "Thanks so much for the review! The bullseye issue was fixed and updated in the most recent version, v1.8.6. Thanks for reporting that bug!",
+        "date": 1768401933
+      }
+    },
+    {
+      "id": "973116659213163",
+      "score": 1,
+      "review_title": "It is terrible",
+      "review_description": "You cant even pick up the darts. Dont wast your money",
+      "date": 1767720561,
+      "review_helpful_count": 0,
+      "author_display_name": "flo.aviation",
+      "author_alias": "flo.aviation",
+      "developer_response": null
+    },
+    {
+      "id": "906718495847241",
+      "score": 5,
+      "review_title": "Excellent darts experience!",
+      "review_description": "This is the best darts VR I’ve tried so far. The hands mode (beta) is awesome!! I love hands mode so much I’ve hardly played the normal version. There are a few glitches in that mode that I’m sure will be worked out. Once in a while a dart fails to launch and gets stuck to your hand and at one point I was unable to pause the game in hands mode. Also I’ve had three bullseye’s count as zero points all in hand mode. I hope they fix all glitches and get hands mode out of beta soon and it would be great to do game modes within hands mode and compete against AI rather than just have free throw mode. This game is definitely worth the $8 if you enjoy darts.",
+      "date": 1762463429,
+      "review_helpful_count": 1,
+      "author_display_name": "NorskHolmEvje",
+      "author_alias": "NorskHolmEvje",
+      "developer_response": {
+        "body": "NorskHolmEvje, thanks for your review! We're happy you are enjoying the hands free mode. We'll be spending more time on hands-free beta including getting all the games working in the future. We are aware of the bugs that you mentioned and hope to get them fixed soon.",
+        "date": 1762892296
+      }
+    },
+    {
+      "id": "824642604076322",
+      "score": 5,
+      "review_title": "Amazing Darts game once customised",
+      "review_description": "Amazing darts game once you go into setting and modify you darts set to suit you.",
+      "date": 1765542641,
+      "review_helpful_count": 1,
+      "author_display_name": "SpiritualAmythyst",
+      "author_alias": "SpiritualAmythyst",
+      "developer_response": {
+        "body": "Thanks for the review!",
+        "date": 1765555630
+      }
+    },
+    {
+      "id": "1190085532946254",
+      "score": 5,
+      "review_title": "Engaging and realistic",
+      "review_description": "This is the best darts experience I’ve found in VR. Throwing is smooth and intuitive. The graphics are pleasing to the eye and the environments are nicely rendered. The music player is a nice touch. No complaints - if you’re looking for a realistic darts simulator, you’ll like this. \n\nI do hope there are additional game modes and environments added in the future. Although it’s clear realism is the goal here, some additional arcade type darts mini-games would be awesome.\n\nKudos to the developers!",
+      "date": 1758261146,
+      "review_helpful_count": 3,
+      "author_display_name": "grecocity",
+      "author_alias": "grecocity",
+      "developer_response": {
+        "body": "Thank you so much for the kind review! We will  be adding more environments and game modes in the future. Cheers!",
+        "date": 1758307586
+      }
+    },
+    {
+      "id": "959935093866488",
+      "score": 4,
+      "review_title": "Good but multiplayer has alot of bugs",
+      "review_description": "yea",
+      "date": 1767134208,
+      "review_helpful_count": 0,
+      "author_display_name": "AGENT_JoJo",
+      "author_alias": "AGENT_JoJo",
+      "developer_response": {
+        "body": "Thanks for the review! Please let us know what specific multiplayer bugs you are encountering by joining our Discord: https://discord.gg/uhnWsUDp6p",
+        "date": 1767159470
+      }
+    },
+    {
+      "id": "767226835831075",
+      "score": 1,
+      "review_title": "Awfull",
+      "review_description": "1, you can’t even throw the dart because you end up hitting your headset \n2,the music does not work \n3,over all it’s buggy and unfinished \n\n1/10 ( don’t waste your money )",
+      "date": 1753317822,
+      "review_helpful_count": 1,
+      "author_display_name": "finnersa",
+      "author_alias": "finnersa",
+      "developer_response": {
+        "body": "1. It's a VR game. Please adjust your throwing mechanic slightly to avoid hitting your head mounted display.\n2. The default in game music has a volume setting. Please try adjusting that in Audio Settings. We also have a Youtube Music player mounted to the TV on the left side of the room.\n3. v1.8.4 is the most optimized and bug free version of the game. Please let us know what specific bugs you are referring to by joining our Discord: https://discord.gg/uhnWsUDp6p",
+        "date": 1762892065
+      }
+    },
+    {
+      "id": "1931761484261172",
+      "score": 5,
+      "review_title": "Updated review great fun game",
+      "review_description": "Have changed my score and review as game now working better not perfect still a few glitches but have to give the game 5 stars as even though There are a few problems darts sometimes just fall when just holding blue arms and hands it is a great fun game was able to play using the controllers (not beta hand gesture play still that did not work) but once get used to using controllers the game is fun I spent most time in free throw getting used to it trying it out and yes as said there is a few glitches and bugs that still need worked out that happen but for me it went from a 1 star to 5 now as it does play and if like darts is great fun hopefully the developers can iron out the rendering problem that happens with the arms at the start and the few other small problems but for what it is ya 5 stars a great fun why to pass some time throwing darts .",
+      "date": 1749283629,
+      "review_helpful_count": 2,
+      "author_display_name": "OldRacer",
+      "author_alias": "OldRacer",
+      "developer_response": {
+        "body": "Thanks for amazing review! Both bugs you listed should be fixed with the newest update v1.8.1 along with a bunch of other updates and fixes.",
+        "date": 1749835952
+      }
+    },
+    {
+      "id": "649571621573535",
+      "score": 4,
+      "review_title": "Need someone to play online",
+      "review_description": "If anyone wants to play against each other add me and let me know when you want to play",
+      "date": 1748079222,
+      "review_helpful_count": 2,
+      "author_display_name": "NLRSummers",
+      "author_alias": "NLRSummers",
+      "developer_response": {
+        "body": "Thanks for the awesome rating. We've found the best time to find players is usually 2-8pm UK time, 6-11 EST. Please join our discord: https://discord.gg/uhnWsUDp6p",
+        "date": 1748145638
+      }
+    },
+    {
+      "id": "537880826085491",
+      "score": 1,
+      "review_title": "1 big flaw",
+      "review_description": "I am not that good so I dissable double out but then the ai just doesn’t know how to throw out and just keeps busting itself on weird nummbers so when it has 16 left it just keeps busting himself on 20. Please fix this. Also would love a option to see what you need to throw to finish as a beginner i don’t know any finishing combo’s. P.s if its gets fixed i delete this review",
+      "date": 1743111953,
+      "review_helpful_count": 0,
+      "author_display_name": "nixs2008",
+      "author_alias": "nixs2008",
+      "developer_response": {
+        "body": "Hi, thanks for the feedback! We just updated the game to v1.8.1 which fixes AI Double In and Out for X01 as well a lot of other fixes and updates. We've also added the in-game checkout combo pop up you requested while playing X01. Cheers!",
+        "date": 1749836168
+      }
+    },
+    {
+      "id": "645216067863564",
+      "score": 5,
+      "review_title": "Definitely \"On Target\"!",
+      "review_description": "I love the feel of the game and how on point it is (even if I suck at darts in real life. 😅), but on top of the physics being very well done and everything being laid out intuitively- there are even a few great little settings that help players who may not be the greatest at darts or are trying to learn (like myself) in the form of throw power, dart weight, and aim assist each individually being very adjustable.\nThe ability to completely customize all three sections of your darts as you like is also a cool addition.\nOutside of that the currently available roons you can play in all look amazing, with one of my favorites so far being the Glow in tge Dark room.\n\nSo a lot of great work was put into the game to the point that even in 'Early Access' it honestly looks and feels just as good (if not a bit better) than ForeVR Dsrts to me (another I love).\n\nSo definitely highly recommend picking this one up if you enjoy darts! The price is a steal and I can't see anyone regretting the purchase.",
+      "date": 1740231078,
+      "review_helpful_count": 2,
+      "author_display_name": "Teele891",
+      "author_alias": "Teele891",
+      "developer_response": {
+        "body": "Thanks Teele891 for the excellent review and feedback! Very much appreciated!",
+        "date": 1741492977
+      }
+    },
+    {
+      "id": "940947361548393",
+      "score": 5,
+      "review_title": "Bullseye!!!!",
+      "review_description": "What an amazing darts game this is… probably the best darts game on the Quest!\n\nCan play multiplayer or solo against AI. Various game modes too.\n\nVarious environments to play in. Lots of choices for you to customise your own darts. Even has a music player in the room.\n\nThe feel of the darts is great, feel weighted and accurate… actually takes practice and skill.\n\n\nLove the dart Cam that shows close up of where darts land.. you can even zoom it in and out.\n\nGreat graphics, atmosphere and sounds!\n\nAnd at a crazy low price too!!",
+      "date": 1737673475,
+      "review_helpful_count": 6,
+      "author_display_name": "Bloodangel1068",
+      "author_alias": "Bloodangel1068",
+      "developer_response": {
+        "body": "Thanks for you amazing review, Bloodangel1068!",
+        "date": 1737679776
+      }
+    },
+    {
+      "id": "2308351222854720",
+      "score": 5,
+      "review_title": "Love it!",
+      "review_description": "I absolutely love this game! If you're into darts or just want a super realistic VR experience, this is the one to get. The throwing feels spot-on, and the environments are stunning, some of the best I've seen on the Quest. Playing online with friends is a ton of fun. Can't recommend it enough!",
+      "date": 1735098799,
+      "review_helpful_count": 13,
+      "author_display_name": "Flying_Lemur",
+      "author_alias": "Flying_Lemur",
+      "developer_response": null
+    },
+    {
+      "id": "642986732220370",
+      "score": 5,
+      "review_title": "Love it can they do snooker next",
+      "review_description": "What a great program it's so realistic I just keep playing it for hours. Looking forward to more.",
+      "date": 1742641948,
+      "review_helpful_count": 1,
+      "author_display_name": "DAL200",
+      "author_alias": "DAL200",
+      "developer_response": {
+        "body": "Thanks for the great review, DAL200! Snooker? Hmm, maybe! We're getting close to exiting Early Access, and we'll be polling our community for ideas for the next game soon. We'll also be adding more environments and dart parts through out the year. Please join our Discord for updates, bug reports and suggestions: https://discord.gg/uhnWsUDp6p",
+        "date": 1742653240
+      }
+    },
+    {
+      "id": "553406617864055",
+      "score": 4,
+      "review_title": "Mid game",
+      "review_description": "Have to put so much power otherwise goated",
+      "date": 1742928845,
+      "review_helpful_count": 1,
+      "author_display_name": "Righthandzs",
+      "author_alias": "Righthandzs",
+      "developer_response": {
+        "body": "Thanks for the review! Please check the latest update v1.81. ;)",
+        "date": 1749836274
+      }
+    },
+    {
+      "id": "554768407728118",
+      "score": 5,
+      "review_title": "Amazing!",
+      "review_description": "This game is so realistic. The mechanics work really well and I love tha added touch of bar music! Highly recommend it.",
+      "date": 1740239118,
+      "review_helpful_count": 1,
+      "author_display_name": "MessyJessie11",
+      "author_alias": "MessyJessie11",
+      "developer_response": {
+        "body": "Thanks for the review! Cheers!",
+        "date": 1741492896
+      }
+    },
+    {
+      "id": "2239875069727647",
+      "score": 3,
+      "review_title": "Left hand use",
+      "review_description": "I just purchased this, followed the instructions on how to use the app left handed\n\nAlthough the darts appear on the right side, it will not let my left hand grab the darts?\n\nBit annoying as this could be a very good game if I could throw the darts with my proper hand",
+      "date": 1736422595,
+      "review_helpful_count": 2,
+      "author_display_name": "glen.lyddiatt",
+      "author_alias": "glen.lyddiatt",
+      "developer_response": {
+        "body": "Hi there, thanks for picking up the game! I am horrible at throwing left handed, but here's a quick video of throwing left and right handed in Single Player Freethrow mode: https://youtube.com/shorts/rJStLB1_GAY?feature=share\n\nPlease try changing the Throwing Hand setting from Left to Right and back to Left in the Settings menu. You can access Settings by clicking the gear icon at the bottom of the main menus, or by pressing the left controller menu button while in a game.\n\nUpdate: We've had a few new users experiencing issues with left handed throwing. We're going to release a fix shortly.\n\nIf you need further assistance or have suggestions, please join our Discord: https://discord.gg/uhnWsUDp6p",
+        "date": 1736651669
+      }
+    },
+    {
+      "id": "518464374681119",
+      "score": 4,
+      "review_title": "Not bad but AI getting stuck",
+      "review_description": "On 501/301 AI cant start if double to start is enabled otherwise really enjoying this experience",
+      "date": 1747975651,
+      "review_helpful_count": 0,
+      "author_display_name": "2wealz",
+      "author_alias": "2wealz",
+      "developer_response": {
+        "body": "Thanks for the awesome rating and review! We just updated the game to v1.8.1 which fixes AI Double In and Out for X01 as well a lot of other fixes and updates. Cheers!",
+        "date": 1749836036
+      }
+    },
+    {
+      "id": "927139726251475",
+      "score": 5,
+      "review_title": "Brilliant",
+      "review_description": "Great game",
+      "date": 1740128987,
+      "review_helpful_count": 1,
+      "author_display_name": "malcolm.massey",
+      "author_alias": "malcolm.massey",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1740174434
+      }
+    },
+    {
+      "id": "506363375253671",
+      "score": 4,
+      "review_title": "Almost brilliant",
+      "review_description": "Love the game. Easily the best darts game on the quest. I have been playing it with a pal since we downloaded it last night. \nI see only a couple of draw backs that stop it being a five star release.\n\nWhen in multiplayer my avatar is loaded but my friend is invisible to me. Even although it doesn't make a difference to the gameplay as such, it does impact on the immersion and therefore the commitment to the game. Any plans to sort this?\n\nSecondly, it would be really great if when you have created a multiplayer room and you are waiting for someone to join you, you could actually practice taking shots rather than just have to stand there. If this change were made then people would be happy to wait a much longer time and it would help the community to grow. \n\nOh, and the Hight adjustment thing doesn't work. It would be good to be able play sitting down and teleport around the room a bit.\n\nUpdate:\nThe creator of this game is making huge improvements to the whole thing and most of my gripes from the review have been fixed on the last update. Another update is coming soon to polish what is already a great fun experience. Buy this.",
+      "date": 1722806860,
+      "review_helpful_count": 2,
+      "author_display_name": "lesbell",
+      "author_alias": "lesbell",
+      "developer_response": {
+        "body": "Thank you for your continued support! With the completion of our large multiplayer update, we are now back to uploading bug fixes and new features more regularly.",
+        "date": 1722838424
+      }
+    },
+    {
+      "id": "123053023979522",
+      "score": 1,
+      "review_title": "Wouldn’t work",
+      "review_description": "Tried to use this app and it wouldn’t launch.",
+      "date": 1672445959,
+      "review_helpful_count": 2,
+      "author_display_name": "hillkeithw1966",
+      "author_alias": "hillkeithw1966",
+      "developer_response": {
+        "body": "We're not sure what reason there is to lie about not being able to play the game, when clearly you did. Our analytics show you started the game 4 times and created a total of 72 events... about 30 or so thrown darts and 20-30 or so dartboard hits... It's a $5 app that took us over 2 years to develop, and you've just added a 1 star review.\n\nFor anyone reading this, please ignore the recent 1 star reviews. The game loads perfectly fine, tested on multiple headsets. Well worth the price if you want to feel like you are throwing real darts in high quality environments.",
+        "date": 1672626437
+      }
+    },
+    {
+      "id": "412247497302464",
+      "score": 5,
+      "review_title": "It feels like darts",
+      "review_description": "Enjoying so far. The physics feel good and lots of settings to play around with to dial in your throw.\n\nLots of game options with multiplayer on the horizon which will be really good.\n\nGraphics are good (I like the pub setting) although the board and dart cam suffer a bit with blurriness in the distance. Hopefully dev can improve that over time.\n\nRome wasn't built in a day, but this is a solid darts attempt so far with good physics (the mecca for sports games). Looking forward to seeing how it develops👍\n\nUpdated to 5 stars after some nice improvements. It feels pretty close to my real life average throwing! I also love the tournament stage environment as well as being able to see more clearly now what yoo hit.",
+      "date": 1639904534,
+      "review_helpful_count": 2,
+      "author_display_name": "gregan78",
+      "author_alias": "gregan78",
+      "developer_response": {
+        "body": "Thanks for the updated review! New update coming today, and Multiplayer is in final testing right now as well! :)",
+        "date": 1639937551
+      }
+    },
+    {
+      "id": "418800321322291",
+      "score": 5,
+      "review_title": "Great app, great fun.",
+      "review_description": "I’ve played darts for years (although a long time ago).\nThis is really fun, and it feels like real darts too.\nBeen playing single user (free darts for practice, and 501’s against the app), and just now played multiplayer.\nGreat app, nice darts environments and your own selection for music as well.",
+      "date": 1727533772,
+      "review_helpful_count": 3,
+      "author_display_name": "WimJZ",
+      "author_alias": "WimJZ",
+      "developer_response": {
+        "body": "Thank you so much for the wonderful review. Really happy to hear you are enjoying playing darts in VR! We're looking forward to adding more features for you to enjoy in the future. Cheers.",
+        "date": 1727704858
+      }
+    },
+    {
+      "id": "412076718015803",
+      "score": 5,
+      "review_title": "Really recommend 🎯",
+      "review_description": "I've never really been interested in darts until the World Darts Championship. I was thinking of getting a darts game on my VR but this one sparked my interest.\nIt has all the things you can ask for, the gameplay is great the physics are realistic and I spent a lot of time alone playing single player. This game a lot of fun. To be honest I’m not the best at darts but as I have been playing I’ve improved as it goes on. This game deserves all 5 stars although there are minor issues such as having to restart your game to go back to main menu but im sure that could be fixed in a future update. If your a darts fan this game is fun to mess around with 👍🏼",
+      "date": 1706999296,
+      "review_helpful_count": 2,
+      "author_display_name": "liamcrosby18",
+      "author_alias": "liamcrosby18",
+      "developer_response": {
+        "body": "Thanks for the review, liamcrosby18! Clicking the left controller Oculus button will bring up the in-game menu. From there you can exit a current game to go back to the main menu. We'll be adding more tooltips in the future.\n\nIf you have suggestions for new features or bugs to report please join our Discord: https://discord.gg/uhnWsUDp6p",
+        "date": 1707069686
+      }
+    },
+    {
+      "id": "400435956264397",
+      "score": 4,
+      "review_title": "Glitchy starts but works fine",
+      "review_description": "It’s a good game I’ve played for about 10 mins but love it it’s fun and makes you have a laugh but glitchy starts",
+      "date": 1711995560,
+      "review_helpful_count": 2,
+      "author_display_name": "hendomk",
+      "author_alias": "hendomk",
+      "developer_response": {
+        "body": "Thanks for the review! Looking forward to hearing your thoughts on our most recent large update. Cheers.\n\nAlso, if you have suggestions for new features or bugs to report please join our Discord: https://discord.gg/uhnWsUDp6p",
+        "date": 1722632187
+      }
+    },
+    {
+      "id": "397141111907885",
+      "score": 5,
+      "review_title": "Great dart sim that keeps improving",
+      "review_description": "I played in leagues for years and love darts. I so enjoyed several of the dart games on the Wii and PS with Move controllers and hoped that once I made the move into VR that there would be similar offerings. \n\nAfter buying a couple of games that were awful, I found this one and immediately got the pub feel. The developers were very responsive to feedback and community input and here we are months and months later and the game is great. It's definitely the most realistic darts game that I found on Quest or Steam. \n\nAs with regular darts, there is a learning curve as you get used to what settings work well for your throwing style. This is preferable and gives the same a sim feel rather than an arcade type feel. There will be errant darts now and again just like real life. The developers have put a lot of work into making this feel like a true darts simulation and have thankfully left out the zany type elements that typically make up arcade games. \n\nThis game is a very worthwhile purchase. With multiplayer just about here, it makes it even more of a must have in your VR library.",
+      "date": 1632240870,
+      "review_helpful_count": 7,
+      "author_display_name": "cvan65",
+      "author_alias": "cvan65",
+      "developer_response": {
+        "body": "Thank you very much for your support and feedback! You have helped us turn On Target in to a better game! Cheers!",
+        "date": 1632245266
+      }
+    },
+    {
+      "id": "387570494224825",
+      "score": 4,
+      "review_title": "Love this game!!",
+      "review_description": "I love this game its so good, graphics, music, darts and you can justify what you want on your darts/ weight, power etc. The downside is that I'm left handed and it would be good if you could get left handed asap, but apart from that I love this game.",
+      "date": 1709483895,
+      "review_helpful_count": 3,
+      "author_display_name": "Tidybin22",
+      "author_alias": "Tidybin22",
+      "developer_response": {
+        "body": "Hi there, thanks for the awesome review! Left and right  handed throwing with controllers can be changed in the Settings menu (Gear icon in the main menu). Currently hands mode only has right hand throwing. We'll get it in over the next few updates. Cheers.",
+        "date": 1709521659
+      }
+    },
+    {
+      "id": "385769037732151",
+      "score": 2,
+      "review_title": "My controller feature doesn’t work",
+      "review_description": "It is a good game but I can only use the hand tracking feature. When I try to use the controller option the the start up, it goes onto a screen where the writing is very high up and it doesn’t load. Hence the 2 star rating",
+      "date": 1709970021,
+      "review_helpful_count": 0,
+      "author_display_name": "crepspacket",
+      "author_alias": "crepspacket",
+      "developer_response": {
+        "body": "Hi there, please check out our most recent update and join our Discord for update news and bug reporting: https://discord.gg/uhnWsUDp6p",
+        "date": 1723931015
+      }
+    },
+    {
+      "id": "359510503697992",
+      "score": 3,
+      "review_title": "",
+      "review_description": "i’ve just started this and i use the quest sat down but the dart board is so high up i can’t play, is there anyway to adjust that?",
+      "date": 1706547633,
+      "review_helpful_count": 2,
+      "author_display_name": "liverpoolfan125.2022",
+      "author_alias": "liverpoolfan125.2022",
+      "developer_response": {
+        "body": "Hi there, thanks for the review! In your headset main menu, please go to:\n\nSettings > Accessibility > Mobility > Adjust Height\n\nThis will put you in to a standing position while seated.\n\nWe'll be adding more options in the future, but this works quite well in the mean time.\n\nCheers!",
+        "date": 1706591942
+      }
+    },
+    {
+      "id": "359055632629083",
+      "score": 5,
+      "review_title": "On Target",
+      "review_description": "https://youtu.be/JxdpumtStok\n\nThis game feels like playing real darts. I am not an expert at darts (I have an electronic soft tip board), but this has such a great feel to it. It will take me some time to perfect my throw, but I am getting the dart to land close to where I want it to go. Keep up the great work.",
+      "date": 1633037218,
+      "review_helpful_count": 2,
+      "author_display_name": "toddgabweg",
+      "author_alias": "toddgabweg",
+      "developer_response": {
+        "body": "Thanks for buying and reviewing the game, with a nice video too! Cheers!",
+        "date": 1633048896
+      }
+    },
+    {
+      "id": "358143623817061",
+      "score": 3,
+      "review_title": "Sometimes it will load in",
+      "review_description": "Sometimes it will load but most of the time it doesn’t today it hasn’t been loading at all and I don’t know what to do",
+      "date": 1707491471,
+      "review_helpful_count": 2,
+      "author_display_name": "ryangill.10552",
+      "author_alias": "ryangill.10552",
+      "developer_response": {
+        "body": "Hi there, we just took a look and noticed that you've thrown over 700 darts today. Did the issue get resolved?\n\nIf you have suggestions for new features or bugs to report please join our Discord: https://discord.gg/uhnWsUDp6p",
+        "date": 1707072195
+      }
+    },
+    {
+      "id": "354308967413441",
+      "score": 1,
+      "review_title": "Doesn't work",
+      "review_description": "Constantly says loading, wasted my money sadly",
+      "date": 1707001975,
+      "review_helpful_count": 0,
+      "author_display_name": "jake.197850",
+      "author_alias": "jake.197850",
+      "developer_response": {
+        "body": "Hi there. Please update your headset software to v60. We have over 100 active daily users that are able to launch the game and throw darts.\n\nIf the game still doesn't work for you after updating the headset, you can request a refund.\n\nIf you have suggestions for new features or bugs to report please join our Discord: https://discord.gg/uhnWsUDp6p",
+        "date": 1707072145
+      }
+    },
+    {
+      "id": "348634353611573",
+      "score": 4,
+      "review_title": "\"A LITTLE BLURRY\"???",
+      "review_description": "I don't know if it is just me ,but I have a hard time focusing on the dartboard.  I am 58 years old and my eyes are going down hill but I only need glasses for reading and such.  I've tried all different numbers of reading glasses but nothing seems to help.  But anyway I like the game very much.  My only suggestion would be to put up the youtube video station like others have (foreVR Bowling, Black hole pool) that way we can hear the music we like besides the main audio track, which does not come in very loud.  I know its a work in progress ,but keep up the good work.",
+      "date": 1631300623,
+      "review_helpful_count": 4,
+      "author_display_name": "crazycoonass",
+      "author_alias": "crazycoonass",
+      "developer_response": {
+        "body": "Thanks for buying the game and leaving us a review! Regarding the blurriness, have you tried switching the graphics quality settings? Great idea about the youtube station. We'll add an external audio player after multiplayer is ready in a couple weeks. You can also change sfx/music/announcer volumes in the AV Settings menu. We'd love to chat more on Discord: https://discord.gg/uhnWsUDp6p Cheers!",
+        "date": 1631327441
+      }
+    },
+    {
+      "id": "291822396641711",
+      "score": 1,
+      "review_title": "On the target dart",
+      "review_description": "A load of rubbish no hand tracking",
+      "date": 1688042827,
+      "review_helpful_count": 0,
+      "author_display_name": "mike67431",
+      "author_alias": "mike67431",
+      "developer_response": {
+        "body": "Hi, we have hand tracking now. We'd love to get your feedback. Cheers!",
+        "date": 1705031202
+      }
+    },
+    {
+      "id": "280279668509826",
+      "score": 5,
+      "review_title": "Absolutely amazing experience",
+      "review_description": "I have only recently delved into the world of Virtual Reality. As an avid darts player, I was eager to give this game a try. The graphics are amazing. The customisation is extremely simple. The different surroundings are out of this world. Would definitely recommend this game. 10/10",
+      "date": 1715290116,
+      "review_helpful_count": 7,
+      "author_display_name": "JamesB007",
+      "author_alias": "JamesB007",
+      "developer_response": {
+        "body": "Thanks for you amazing review! Hopefully you get a chance to try our new update. Cheers!",
+        "date": 1722632272
+      }
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-19T08:02:19Z"
+}
