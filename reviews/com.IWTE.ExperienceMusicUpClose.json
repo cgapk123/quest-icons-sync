@@ -1,0 +1,56 @@
+{
+  "app_id": "2163722966974633",
+  "package_name": "com.IWTE.ExperienceMusicUpClose",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Experience Music Up Close",
+  "rating_average": 3.35,
+  "rating_count": 20,
+  "review_count": 20,
+  "reviews": [
+    {
+      "id": "2138835829590685",
+      "score": 4,
+      "review_title": "Pleasant, but nothing out of the ordina",
+      "review_description": "But nothing out of the ordinary, just som VR cellos and such.",
+      "date": 1632493601,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "258450588052743",
+      "score": 5,
+      "review_title": "Great quality",
+      "review_description": "Enjoyable experience. Well shot and great audio quality. Looking forward to more from developers!",
+      "date": 1538208046,
+      "review_helpful_count": 5,
+      "author_display_name": "MetaRick0001",
+      "author_alias": "MetaRick0001",
+      "developer_response": null
+    },
+    {
+      "id": "131650604460904",
+      "score": 5,
+      "review_title": "Luxurious  Experience !",
+      "review_description": "Sitting in the middle of a chamber music performance session! Something that only happens in VR, try it!",
+      "date": 1538191043,
+      "review_helpful_count": 7,
+      "author_display_name": "HelloWorld0411",
+      "author_alias": "HelloWorld0411",
+      "developer_response": {
+        "body": "Thanks! glad you enjoyed it :)",
+        "date": 1540613948
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:57:18Z"
+}

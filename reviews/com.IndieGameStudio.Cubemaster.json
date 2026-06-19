@@ -1,0 +1,78 @@
+{
+  "app_id": "8766714433420147",
+  "package_name": "com.IndieGameStudio.Cubemaster",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Cube Master",
+  "rating_average": 4.8,
+  "rating_count": 5,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "589926740860910",
+      "score": 4,
+      "review_title": "needs work",
+      "review_description": "the controller free functionality is unusable in my experience\nthe control of the play area square surrounding the puzzle is not great either; lots of unintentional movement and difficult to locate and grab when intending to.",
+      "date": 1739067927,
+      "review_helpful_count": 1,
+      "author_display_name": "jaeggob",
+      "author_alias": "jaeggob",
+      "developer_response": {
+        "body": "Thank you very much for sharing your experience! 🙏 We’re sorry to hear about the frustration with the controller-free functionality and the play area controls. We’ve worked on optimizing these aspects recently and hope you’ll notice an improved feel in the updated version.\n\nYour feedback is extremely valuable, and we’ll continue refining the experience to make it more intuitive and precise. If you have a chance to try the latest version, we’d love to hear if it feels better for you.",
+        "date": 1752175329
+      }
+    },
+    {
+      "id": "623474000367348",
+      "score": 5,
+      "review_title": "Hope everyone enjoys this game",
+      "review_description": "I hope everyone can play this game and find its fun, even if it may take a few levels to play.",
+      "date": 1737630284,
+      "review_helpful_count": 1,
+      "author_display_name": "ReturnLegend",
+      "author_alias": "ReturnLegend",
+      "developer_response": null
+    },
+    {
+      "id": "588363964349211",
+      "score": 5,
+      "review_title": "very interesting",
+      "review_description": "hahhh",
+      "date": 1737629887,
+      "review_helpful_count": 2,
+      "author_display_name": "hanhaiguoji",
+      "author_alias": "hanhaiguoji",
+      "developer_response": null
+    },
+    {
+      "id": "576486461750519",
+      "score": 5,
+      "review_title": "interesting",
+      "review_description": "a little bit hard, but fun",
+      "date": 1733910087,
+      "review_helpful_count": 2,
+      "author_display_name": "xcll",
+      "author_alias": "xcll",
+      "developer_response": null
+    },
+    {
+      "id": "437847582756312",
+      "score": 5,
+      "review_title": "This game is v. stress-relieving & fun.",
+      "review_description": "This game is very stress-relieving and fun.",
+      "date": 1733290898,
+      "review_helpful_count": 2,
+      "author_display_name": "Sharon.Narayanansky",
+      "author_alias": "Sharon.Narayanansky",
+      "developer_response": null
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:02:14Z"
+}

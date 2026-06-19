@@ -1,0 +1,34 @@
+{
+  "app_id": "1808488179169635",
+  "package_name": "com.InfiniteVoid.VR2Space",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "VR2Space",
+  "rating_average": 2.25,
+  "rating_count": 4,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1797161813913912",
+      "score": 3,
+      "review_title": "Still having problems",
+      "review_description": "I jump off and immediately returned to base so l have seen nothing. Have tried loads of times. Very disappointed.  I take your point about returning,  but surely you fly about first.",
+      "date": 1524675150,
+      "review_helpful_count": 3,
+      "author_display_name": "janetoreilly31",
+      "author_alias": "janetoreilly31",
+      "developer_response": {
+        "body": "The intended behavior of jumping off the platform during the flight is to return to the main/starting area of the game, where you can warp to a new location.",
+        "date": 1524574977
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:03:26Z"
+}

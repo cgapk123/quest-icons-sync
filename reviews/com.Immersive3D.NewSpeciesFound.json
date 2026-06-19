@@ -1,0 +1,34 @@
+{
+  "app_id": "3502030493241976",
+  "package_name": "com.Immersive3D.NewSpeciesFound",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "New Species Found",
+  "rating_average": 3.5,
+  "rating_count": 2,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "585563279425918",
+      "score": 4,
+      "review_title": "Great submarine game",
+      "review_description": "Updated:\n\nGreat once you get the hang of the steering. I was trying rotate the steering wheel like a real one, but it doesn’t work like that. You have tilt the controllers side to side, feels awkward but ok with a bit of practice.",
+      "date": 1634021263,
+      "review_helpful_count": 6,
+      "author_display_name": "8a22a",
+      "author_alias": "8a22a",
+      "developer_response": {
+        "body": "Thanks again for your feedback! It does take practice... \nThere is a diagram of the controls in the Data Station at the back of the lab. It shows real-world dimensions of the controls.\nThe steering is also something that you need to practice with in that moving it forward and back causes the sub to dive and rise as well.",
+        "date": 1634084647
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:59:59Z"
+}

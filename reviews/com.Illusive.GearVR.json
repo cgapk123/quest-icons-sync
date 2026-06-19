@@ -1,0 +1,45 @@
+{
+  "app_id": "1152045714894454",
+  "package_name": "com.Illusive.GearVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "The Caterer",
+  "rating_average": 2,
+  "rating_count": 5,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "2036534679755944",
+      "score": 1,
+      "review_title": "Rubbish",
+      "review_description": "Not worth the money",
+      "date": 1542916273,
+      "review_helpful_count": 5,
+      "author_display_name": "pvt7000",
+      "author_alias": "pvt7000",
+      "developer_response": null
+    },
+    {
+      "id": "755735821250281",
+      "score": 5,
+      "review_title": "Unique VR cooking experience",
+      "review_description": "Runs flawlessly, graphics aren't jagged looking like other vr games I've played, and has enough items to unlock to keep me entertained. Definitely worth the low price!!",
+      "date": 1490573116,
+      "review_helpful_count": 6,
+      "author_display_name": "pattoy67",
+      "author_alias": "pattoy67",
+      "developer_response": {
+        "body": "Thank you for your feedback, we are glad you had a good expierence. There are plans for free updates to add more items and ways for you to serve your customers!",
+        "date": 1490573430
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:58:43Z"
+}
