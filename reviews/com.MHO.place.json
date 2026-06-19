@@ -1,0 +1,53 @@
+{
+  "app_id": "6346582788716073",
+  "package_name": "com.MHO.place",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "place",
+  "rating_average": 2.4,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1784401695610074",
+      "score": 1,
+      "review_title": "Doesn’t work",
+      "review_description": "It’s just a blue background with a few stars and music. There’s literally nothing to do, nothing to click. Just a blank blue sky with stars that eventually disappear leaving just a blank blue background. I got this a while ago, I hope it was free! No point downloading even if it’s free.",
+      "date": 1767413126,
+      "review_helpful_count": 0,
+      "author_display_name": "Alicia_Wonderland",
+      "author_alias": "Alicia_Wonderland",
+      "developer_response": null
+    },
+    {
+      "id": "3197992663674991",
+      "score": 2,
+      "review_title": "Didn't calm me.",
+      "review_description": "In fact, it enraged me, and now I have to go to court.",
+      "date": 1743711267,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "125161873778473",
+      "score": 3,
+      "review_title": "",
+      "review_description": "Not a bad app, but not great either. Downloading the movies takes a very long time and the app crashed several times before the download was complete, so I had to start all over again. The movies are pretty blurry and this hampers the experience",
+      "date": 1673564651,
+      "review_helpful_count": 4,
+      "author_display_name": "copionkin",
+      "author_alias": "copionkin",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:00:05Z"
+}

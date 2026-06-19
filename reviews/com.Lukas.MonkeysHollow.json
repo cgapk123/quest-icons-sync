@@ -1,0 +1,42 @@
+{
+  "app_id": "8112268588873450",
+  "package_name": "com.Lukas.MonkeysHollow",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Monke's hollow",
+  "rating_average": 4.5,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "510408575478716",
+      "score": 5,
+      "review_title": "Very Good",
+      "review_description": "i just did this as a first review",
+      "date": 1731097918,
+      "review_helpful_count": 0,
+      "author_display_name": "HeriXD3",
+      "author_alias": "HeriXD3",
+      "developer_response": null
+    },
+    {
+      "id": "480765308454608",
+      "score": 5,
+      "review_title": "Love the game",
+      "review_description": "It's a great game for hanging around and chilling with friends so you should get it with a bunch of friends",
+      "date": 1731666608,
+      "review_helpful_count": 1,
+      "author_display_name": "FallenAngel8316",
+      "author_alias": "FallenAngel8316",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:55:30Z"
+}
