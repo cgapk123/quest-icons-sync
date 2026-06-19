@@ -1,0 +1,56 @@
+{
+  "app_id": "9153366534708543",
+  "package_name": "com.PriyanshuBhattacharjee.Widgets",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Widgets",
+  "rating_average": 3.8,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "2008972486319999",
+      "score": 2,
+      "review_title": "Very limited",
+      "review_description": "I remember being excited about this a long time ago. Trying it today, it has almost no features and only supports Mac computers which is a goofy choice.",
+      "date": 1768863412,
+      "review_helpful_count": 0,
+      "author_display_name": "werewookiee",
+      "author_alias": "werewookiee",
+      "developer_response": null
+    },
+    {
+      "id": "1068445038649082",
+      "score": 5,
+      "review_title": "Looks very promising",
+      "review_description": "I really like how it looks now, it could be great to have window preception for keeping pinned windows in places after opening app again so we could have browser windows, images and notes in room, probably using spatial data or even “marker” that may be captured in room (like poster or picture on wall to be a marker)",
+      "date": 1742162878,
+      "review_helpful_count": 5,
+      "author_display_name": "LIVE4MINT",
+      "author_alias": "LIVE4MINT",
+      "developer_response": null
+    },
+    {
+      "id": "1168304938364169",
+      "score": 2,
+      "review_title": "Doesn't save sticky notes",
+      "review_description": "This should be the first thing implemented in this app but it's not here (yet). But if you leave the app, everything is gone.",
+      "date": 1741465953,
+      "review_helpful_count": 5,
+      "author_display_name": "MavericRFW",
+      "author_alias": "MavericRFW",
+      "developer_response": {
+        "body": "Thank you for your feedback! I’m actively working on improving the app to enhance usability and user experience. The suggestions you mentioned are already a part of our development roadmap.\n\nIn the meantime, if you'd like to connect with us further, feel free to join our Discord channel.\n\nDiscord: https://discord.com/invite/nSYrHPT5uP\n\nRegards\nPriyanshu",
+        "date": 1741627090
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T14:28:01Z"
+}
