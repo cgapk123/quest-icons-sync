@@ -1,0 +1,469 @@
+{
+  "app_id": "3648247621900879",
+  "package_name": "com.VerticalRobot.DaedalusQuest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Daedalus",
+  "rating_average": 4.7283950617284,
+  "rating_count": 162,
+  "review_count": 76,
+  "reviews": [
+    {
+      "id": "4339507282861872",
+      "score": 5,
+      "review_title": "Broken, bricked -- HELP",
+      "review_description": "This is a great game with a lot of replay value.  But it's broken.  Worked fine yesterday but today I couldn't even get past the menu.  Menu appears with one game controller down below my reach.  No control input at all.  Can only quit.  Removed and re- downloaded 4 times... with same result.  Totally bricked.  Other games work fine.  Daedelus is broken... HELP!",
+      "date": 1773011326,
+      "review_helpful_count": 9,
+      "author_display_name": "stringfellow42",
+      "author_alias": "stringfellow42",
+      "developer_response": {
+        "body": "We’re sincerely sorry for the frustration and inconvenience this issue caused. A recent Meta update introduced a compatibility issue in our app that caused the VR controllers to stop responding entirely. We’ve just uploaded a fix to resolve it (v1.0.004)",
+        "date": 1774288481
+      }
+    },
+    {
+      "id": "999191829346562",
+      "score": 5,
+      "review_title": "My Favorite",
+      "review_description": "I love this game so much. I played it through a few times from start to finish and now I pop in regularly because it’s so relaxing to just roam around the levels. I wish they would make a sequel……",
+      "date": 1778353463,
+      "review_helpful_count": 0,
+      "author_display_name": "TexasMochi",
+      "author_alias": "TexasMochi",
+      "developer_response": null
+    },
+    {
+      "id": "26065502026478721",
+      "score": 5,
+      "review_title": "Fixed",
+      "review_description": "Had an issue with a recent quest update that stopped me from starting the game, and the devs fixed it promptly, and now I’m back to exploring without a hitch.  Revisiting my first VR games and still amazing at how well it holds up today.  Really looking forward to the next game from Vertical Robot,",
+      "date": 1775880295,
+      "review_helpful_count": 0,
+      "author_display_name": "spdrewhart",
+      "author_alias": "spdrewhart",
+      "developer_response": null
+    },
+    {
+      "id": "1073194075871508",
+      "score": 3,
+      "review_title": "Broken?",
+      "review_description": "After loadkng the gizmo (controller icon?) appears to be on the floor and out of reach, making the game unplayable.\n\nPlease fix as the game looks lovely and the concept is great.",
+      "date": 1774020025,
+      "review_helpful_count": 2,
+      "author_display_name": "Mythagic",
+      "author_alias": "Mythagic",
+      "developer_response": {
+        "body": "We’re sincerely sorry for the frustration and inconvenience this issue caused. A recent Meta update introduced a compatibility issue in our app that caused the VR controllers to stop responding entirely. We’ve just uploaded a fix to resolve it (v1.0.004)",
+        "date": 1774288347
+      }
+    },
+    {
+      "id": "907565099114282",
+      "score": 1,
+      "review_title": "Was fun for about ten minutes",
+      "review_description": "Then every single jump started sending me in a nausea-inducing spiral that had the added benefit of making me unable to jump in the direction I needed to go. At first I thought maybe it was the controller, it wasn’t. Changed the turn to snap and it would still turn me in directions other than the one I intended to go.",
+      "date": 1769285129,
+      "review_helpful_count": 0,
+      "author_display_name": "RoboT319",
+      "author_alias": "RoboT319",
+      "developer_response": {
+        "body": "--",
+        "date": 1774296224
+      }
+    },
+    {
+      "id": "884079294800052",
+      "score": 5,
+      "review_title": "This is such a great game!",
+      "review_description": "This is a relaxing challenge that can't be compared to anything else. It also has the important repeat playability factor!",
+      "date": 1770140871,
+      "review_helpful_count": 1,
+      "author_display_name": "FrostedShrew5449",
+      "author_alias": "FrostedShrew5449",
+      "developer_response": null
+    },
+    {
+      "id": "820010343872001",
+      "score": 5,
+      "review_title": "Just WOW",
+      "review_description": "I often find that the games that are the simplest are some of the best. This one is exactly that, truly amazing!! Gameplay is executed with a precision that makes this game totally addictive. Atmospheric and a delight to play.\nNot surprising really as it comes from the same developer that created the masterpieces that were red matter 1&2.\nMy wishlist would include RM3 and and infinite amount of levels of this game.\nDevs, if you see this, please please please 🙏🤞",
+      "date": 1759573283,
+      "review_helpful_count": 14,
+      "author_display_name": "trevmib",
+      "author_alias": "trevmib",
+      "developer_response": null
+    },
+    {
+      "id": "833149373217789",
+      "score": 5,
+      "review_title": "A Hidden Gem in VR",
+      "review_description": "Daedalus is an amazing experience. The atmosphere, visuals, and sense of movement are truly unique. It feels different from most VR games — creative, immersive, and surprisingly relaxing. Highly recommended!",
+      "date": 1762179365,
+      "review_helpful_count": 2,
+      "author_display_name": "Itzik1260",
+      "author_alias": "Itzik1260",
+      "developer_response": null
+    },
+    {
+      "id": "973077045879905",
+      "score": 4,
+      "review_title": "Simple chilled experience",
+      "review_description": "I stumbled across this on sale while I was seeing what other games Vertical Robot had produced besides the Red Matter series. For £2.99 I can't complain. It's a very simple, chilled out game to relax to while navigating around a series of platforms to unlock the exit and proceed to the next level. 4 chapters in total with 5 levels in each chapter.\n\nIt won't take you too long to complete but for sale price, that's fine. It's also nice to see how Vertical Robot started off in VR, assuming there's nothing before this. I can definitely see elements of their art style that I saw in RM2 with shiny metallic surfaces and liquid effects. There's also an air of familiarity with the jetpack style of movement and even some of the music compared to RM2. For the age of the game, 2019 I believe which was pre Quest 2, this actually looks relatively pretty on my Quest 3.",
+      "date": 1767139513,
+      "review_helpful_count": 0,
+      "author_display_name": "ed282820",
+      "author_alias": "ed282820",
+      "developer_response": null
+    },
+    {
+      "id": "1437446097508936",
+      "score": 5,
+      "review_title": "Truly incredible.",
+      "review_description": "Had this with the Q1 and genuinely thought it would have long gone by now.\nThen it becomes part of the Red Matter bundle.\n\nNo hesitation.\n\nIt really is stunning to play , the sense of scale is awesome. The lighting effects creating incredible light and dark areas allied to mesmerising textures that make this a feast for all the senses.\n\nLocomotion and controls are easy to pick up and with practice you are soon jumping and flying with some confidence.\n\nNot always easy and a great level of challenge that makes you feel pretty smug when you ace a perfect landing .\n\nAnd the background music just subtly hints at Red Matter . Lovely.\n\nIt might originate from the stable of Q1 titles but does go to show , when it’s brilliant VR it remains brilliant .\n\nEnjoy.",
+      "date": 1757263475,
+      "review_helpful_count": 1,
+      "author_display_name": "BertHalfpint",
+      "author_alias": "BertHalfpint",
+      "developer_response": null
+    },
+    {
+      "id": "788125261058334",
+      "score": 5,
+      "review_title": "Marvelous!",
+      "review_description": "Simple and great. Must have.",
+      "date": 1761668193,
+      "review_helpful_count": 1,
+      "author_display_name": "BrosJr",
+      "author_alias": "BrosJr",
+      "developer_response": null
+    },
+    {
+      "id": "30536934149254859",
+      "score": 4,
+      "review_title": "Supports Touch Controls",
+      "review_description": "Controls are similar to the Red Matter games, heck the gameplay with how you hover and jump/hop around is quite similar. Soundtrack sounds familiar too. It's a Gear VR port so it's pretty simple, but it's crisp and shiny at least if not very low poly.\n\nBring on Red Matter 3!",
+      "date": 1753546816,
+      "review_helpful_count": 7,
+      "author_display_name": "Riftsold2018",
+      "author_alias": "Riftsold2018",
+      "developer_response": null
+    },
+    {
+      "id": "690188337326666",
+      "score": 4,
+      "review_title": "Ethereal",
+      "review_description": "Love the gliding rocket motion.. and instant brakes. So clever, mesmerizing and evocative. A nice change from blasting the hell out of bad guys and zombies. And if you miss the \nplatform.. it’s an ever so gentle fall into a sea of muck.",
+      "date": 1752350750,
+      "review_helpful_count": 3,
+      "author_display_name": "Maxcherry6",
+      "author_alias": "Maxcherry6",
+      "developer_response": null
+    },
+    {
+      "id": "714695108383273",
+      "score": 5,
+      "review_title": "Superb game",
+      "review_description": "Very fun and relaxing at the same time.  It's a shame that the game is relatively short.  We need a new Daedalus 2 built for the visual quality of Quest 3. That would be a great experience.",
+      "date": 1748787831,
+      "review_helpful_count": 7,
+      "author_display_name": "Mr.Lecher",
+      "author_alias": "Mr.Lecher",
+      "developer_response": null
+    },
+    {
+      "id": "654576067478967",
+      "score": 5,
+      "review_title": "Where is the imprisoned Minotaur?",
+      "review_description": "I'll be honest I only bought this game to support the developers because I liked red matter 2 so much. It's a simple puzzle game, fun, and it has a pleasant atmosphere. It reminds me of college and greek philosophy and contemplating the mysteries of the universe. How that effect is so strong just from gliding around in the game hopping along platforms I don't understand.  Thanks again Vertical Robot. I can't wait to play your next game!",
+      "date": 1745106116,
+      "review_helpful_count": 16,
+      "author_display_name": "BeenLooken",
+      "author_alias": "BeenLooken",
+      "developer_response": null
+    },
+    {
+      "id": "719024320623357",
+      "score": 5,
+      "review_title": "dreamlike",
+      "review_description": "It was like walking into abstract art...never got boring as I progressed; it kept changing but was always visually exciting & motivated me to stay active w/it (few games do; I'm not super patient).",
+      "date": 1748611443,
+      "review_helpful_count": 6,
+      "author_display_name": "irunin2things256",
+      "author_alias": "irunin2things256",
+      "developer_response": null
+    },
+    {
+      "id": "1289907539508108",
+      "score": 5,
+      "review_title": "Daedalus",
+      "review_description": "Still being the best",
+      "date": 1753981702,
+      "review_helpful_count": 1,
+      "author_display_name": "beadlock",
+      "author_alias": "beadlock",
+      "developer_response": null
+    },
+    {
+      "id": "8947141945415047",
+      "score": 5,
+      "review_title": "Sparsely beautiful and atmospheric",
+      "review_description": "This game was outstanding years ago when I bought it for the Oculus Go. Just bought again for Quest 3 and still love it. I was interested to see if the player controller is as good as I remember it, and can confirm it is - so it's still my benchmark for free-floating movement in VR.\n\nPS it's a single control game and there doesn't appear to be a way to return to the menu. There's also a ghosted second controller visible. Just go to options when starting and uncheck \"Show secondary controller\", as it doesn't seem to serve any purpose, and looks a bit jarring.",
+      "date": 1740024399,
+      "review_helpful_count": 11,
+      "author_display_name": "MarkHenryC",
+      "author_alias": "MarkHenryC",
+      "developer_response": null
+    },
+    {
+      "id": "591704334026899",
+      "score": 5,
+      "review_title": "Classic VR Experience",
+      "review_description": "Originally experienced on my Samsung Gear VR with S10+ phone. Still a nice, calm experience with better resolution and textures on the Quest 3.",
+      "date": 1742264253,
+      "review_helpful_count": 3,
+      "author_display_name": "QuantumX86",
+      "author_alias": "QuantumX86",
+      "developer_response": null
+    },
+    {
+      "id": "603191232868408",
+      "score": 5,
+      "review_title": "Fantastic",
+      "review_description": "Beautiful game, but little short. Movement reminds me jetpack from Red Matter 2. Good job, as always Big Crew!\n\nPs. Vertical Robot, when RM3?  ;-)",
+      "date": 1740312093,
+      "review_helpful_count": 5,
+      "author_display_name": "Mazur78",
+      "author_alias": "Mazur78",
+      "developer_response": null
+    },
+    {
+      "id": "1167516138321271",
+      "score": 5,
+      "review_title": "Played this on the Oculus Go years ago",
+      "review_description": "Nice to play it again :)",
+      "date": 1739928017,
+      "review_helpful_count": 6,
+      "author_display_name": "lucasaqr",
+      "author_alias": "lucasaqr",
+      "developer_response": null
+    },
+    {
+      "id": "463358116867774",
+      "score": 5,
+      "review_title": "Beautiful",
+      "review_description": "If you enjoy games like Portals and if you like beautiful graphics and visuals this game is for you. If you get motion sickness easily this may not be your thing. This is made by the same team who did Red Matter 1 and 2. They continue to make some of the most beautiful VR games I have ever played aside from Half Life Alyx.",
+      "date": 1731262331,
+      "review_helpful_count": 16,
+      "author_display_name": "Dragreth",
+      "author_alias": "Dragreth",
+      "developer_response": null
+    },
+    {
+      "id": "523640547505460",
+      "score": 1,
+      "review_title": "I don't know",
+      "review_description": "Although I like Red Matter and Red Matter 2 very much I don't understand this game or the steering.",
+      "date": 1738075536,
+      "review_helpful_count": 2,
+      "author_display_name": "Entity999",
+      "author_alias": "Entity999",
+      "developer_response": null
+    },
+    {
+      "id": "1510102849644558",
+      "score": 5,
+      "review_title": "Chill jumping puzzles",
+      "review_description": "I believe this is one of the first things from the later devs of Red Matter - it’s a port from the Go, which you can feel in thr controls and so’s movement (b best anti motion sickness at the time)\n\nThe art holds up and the slow jumping puzzles have l been an enjoyable way to pass time on this long train trip.",
+      "date": 1732292719,
+      "review_helpful_count": 7,
+      "author_display_name": "Eunostos",
+      "author_alias": "Eunostos",
+      "developer_response": null
+    },
+    {
+      "id": "1148404366672893",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Great, thoughtful game",
+      "date": 1738411505,
+      "review_helpful_count": 3,
+      "author_display_name": "gary909",
+      "author_alias": "gary909",
+      "developer_response": null
+    },
+    {
+      "id": "926475146348901",
+      "score": 5,
+      "review_title": "David",
+      "review_description": "Very therapeutic",
+      "date": 1739252013,
+      "review_helpful_count": 2,
+      "author_display_name": "Captain_Chronos",
+      "author_alias": "Captain_Chronos",
+      "developer_response": null
+    },
+    {
+      "id": "607336635138625",
+      "score": 5,
+      "review_title": "Wonderful",
+      "review_description": "Simple, beautiful and immersive. Brings you into another world and stays with you long after you finished it.",
+      "date": 1735461852,
+      "review_helpful_count": 4,
+      "author_display_name": "Adventurer50",
+      "author_alias": "Adventurer50",
+      "developer_response": null
+    },
+    {
+      "id": "450691248136681",
+      "score": 5,
+      "review_title": "Amazing game super cool looking",
+      "review_description": "It’s only 6 bucks",
+      "date": 1733866521,
+      "review_helpful_count": 4,
+      "author_display_name": "calebmec123",
+      "author_alias": "calebmec123",
+      "developer_response": null
+    },
+    {
+      "id": "1059127879005105",
+      "score": 5,
+      "review_title": "Relaxing",
+      "review_description": "A relaxing challenge.",
+      "date": 1727649630,
+      "review_helpful_count": 5,
+      "author_display_name": "BitterSylence2024",
+      "author_alias": "BitterSylence2024",
+      "developer_response": null
+    },
+    {
+      "id": "856965113128244",
+      "score": 1,
+      "review_title": "An exercise in tedium.",
+      "review_description": "Bare bones to its core, the game is simply a battle of attrition with the horrendously implemented controls.",
+      "date": 1716758745,
+      "review_helpful_count": 4,
+      "author_display_name": "Kindred209",
+      "author_alias": "Kindred209",
+      "developer_response": null
+    },
+    {
+      "id": "738860711638363",
+      "score": 5,
+      "review_title": "Almost a mediation app",
+      "review_description": "Supercool relaxing, gliding puzzles in red matter style environments. It’s not superlong but totally worth the price.",
+      "date": 1704429990,
+      "review_helpful_count": 5,
+      "author_display_name": "Simeonski",
+      "author_alias": "Simeonski",
+      "developer_response": null
+    },
+    {
+      "id": "2993906690739944",
+      "score": 5,
+      "review_title": "Bargainous brilliance",
+      "review_description": "Looks fantastic and the dynamics are spot-on. No idea why it's in the lab or why it's so cheap because it looks polished and the gameplay is solid. Perhaps it's very short, I haven't played it for too long yet. Difficulty grows too slowly but that's a minor quibble - get it.",
+      "date": 1699025344,
+      "review_helpful_count": 2,
+      "author_display_name": "patrikios",
+      "author_alias": "patrikios",
+      "developer_response": null
+    },
+    {
+      "id": "657858196331173",
+      "score": 5,
+      "review_title": "Fantastic, Trippy and Relaxing!",
+      "review_description": "Wow this is a must try for all.  From the developers of Red Matter 1&2.  Developers PLEASE create Daedalus 2.",
+      "date": 1698952025,
+      "review_helpful_count": 9,
+      "author_display_name": "Joe-Dude",
+      "author_alias": "Joe-Dude",
+      "developer_response": null
+    },
+    {
+      "id": "1002724117397960",
+      "score": 5,
+      "review_title": "At Last!!",
+      "review_description": "This was one of the very first games I bought for my Oculus Go and I was just about to dig it out just to play this game. But, now, the devs have ported it over to the Oculus 2 and I'm loving it.\nThe game is exactly the same, I just get to play it on a better headset. I just finished it and will be going back through it soon. The environments are amazing and a little eerie at the same time. \nThe only note I have for the devs is I'd love to see more levels. Or release a level editor (on Steam?) so we can create our own.\nBottom line: this is a VR must and STILL one of a handful of my favorite games of all time.",
+      "date": 1687099261,
+      "review_helpful_count": 9,
+      "author_display_name": "Mr_Natural",
+      "author_alias": "Mr_Natural",
+      "developer_response": null
+    },
+    {
+      "id": "240319895541479",
+      "score": 5,
+      "review_title": "Love it.",
+      "review_description": "Very immersive, beautiful textures and sense of light. Becomes a meditation of sorts. Hope to see more from Vertical Robot. Thx for the experience. 5 stars.",
+      "date": 1690245231,
+      "review_helpful_count": 2,
+      "author_display_name": "Cpl.Mike.1976",
+      "author_alias": "Cpl.Mike.1976",
+      "developer_response": null
+    },
+    {
+      "id": "115999154577137",
+      "score": 5,
+      "review_title": "Do Vertical Robot’s Dream of Red Matter",
+      "review_description": "As a casual puzzle game there’s not a lot here, but that is completely missing the point.\n\nIn Daedalus the Vertical Robot’s team have provided 25 visually impressive yet simple puzzle maps and empowered the player with a wonderful flying mechanic that promotes a zen like experience.\n\nIt’s difficult not to feel a sense of calm and wonder as a gentle breeze lifts you high above the play area revealing another beautifully crafted geometric landscape.\n\nYou will complete the game without too much difficulty in two and half hours, but you’ll need to push much harder if you hope to beat the pre-registered speed run times on each of the 25 levels.\n\nHaving recently completed both Red Matter and Red Matter 2 I was surprised a delighted to find so many visual, audio and mechanical echos from the Red Matter titles embedded into the DNA of Daedalus on the Quest 2.  \n\nIt would appear the creative seeds that would eventually spawn the Red Matter titles were already permeating the developers psyche during development of Daedalus.\n\nAt $5 USD this VR flying puzzle experience is great value, charming and wonderfully immersive.  \n\nThe optional speed run components provide a fair amount of replayability, while I suspect many will return simply to spend more time soaring blissfully across the alien vistas.\n\nThis game is crying out for a DLC map pack and I really hope ones forthcoming.",
+      "date": 1663173597,
+      "review_helpful_count": 18,
+      "author_display_name": "Nick72c",
+      "author_alias": "Nick72c",
+      "developer_response": null
+    },
+    {
+      "id": "184638124015704",
+      "score": 5,
+      "review_title": "My favorite game on Oculus Quest 2",
+      "review_description": "What a thrilling, yet meditative game. So beautiful and mysterious. Can we please have an expansion pack or Daedelus 2. I will without hesitation buy it.",
+      "date": 1660687918,
+      "review_helpful_count": 8,
+      "author_display_name": "LoveJungle",
+      "author_alias": "LoveJungle",
+      "developer_response": null
+    },
+    {
+      "id": "211980084699366",
+      "score": 5,
+      "review_title": "Really like this one relaxing",
+      "review_description": "Relaxing solving puzzles in floating sphere",
+      "date": 1677554158,
+      "review_helpful_count": 1,
+      "author_display_name": "kendren",
+      "author_alias": "kendren",
+      "developer_response": null
+    },
+    {
+      "id": "211515147430535",
+      "score": 5,
+      "review_title": "Fantastic game!",
+      "review_description": "Although short lived, this is easily worth anyone's £4. What a beautiful, relaxing, mesmerising experience.",
+      "date": 1616670456,
+      "review_helpful_count": 4,
+      "author_display_name": "freebird49",
+      "author_alias": "freebird49",
+      "developer_response": null
+    },
+    {
+      "id": "207480607817128",
+      "score": 4,
+      "review_title": "good to get used to movement in vr!",
+      "review_description": "just one glitch though: sometimes; turning view to left it gets you spinning.\nOtherwise very very very nice and well executed game.\nSee it as a experience as the puzzles are quite easy.\nWell worth the low price tag!\nthe description narrative  [above] of the developers seems like nonsense to me though.\nIt's also a great way to gently get through the initial movement sickness!",
+      "date": 1670247612,
+      "review_helpful_count": 3,
+      "author_display_name": "ReneQuest2",
+      "author_alias": "ReneQuest2",
+      "developer_response": null
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-19T18:38:40Z"
+}

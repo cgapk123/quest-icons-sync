@@ -1,0 +1,34 @@
+{
+  "app_id": "5275940062439283",
+  "package_name": "com.VSCS.Moriyama.projectJUPITERalpha",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "projectJUPITER_a",
+  "rating_average": 4.3333333333333,
+  "rating_count": 3,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "287286267213553",
+      "score": 3,
+      "review_title": "Giant maze exploration in space!",
+      "review_description": "SECOND UPDATE: the locomotion seems to work correctly now (at least it did upon opening the app today). So strange; I didn't uninstall and reinstall it a second time. Most importantly, all's well for now; I'm bumping up the review to 4 stars. I can't wait to explore more.\n\nOne problem that I have noticed is that when activating the haptics on the jump function in one of the levels (kind of strange that it's not just a setting to toggle), the graphics became blurry. It was almost like looking through old school 3d glasses. All of a sudden, everything had a shadow above and a shadow below it. I also don't really understand the point of the app. All of the destinations in the space worlds are seemingly very easy to find.\n\nUPDATE: Randomly, the locomotion finally starting working properly. We'll see if it continues to work normally during my next play. There are some great ideas here with some lackluster execution. The gravity is far too strong. It's almost comical. While it may conveniently fit the content of the storyline, it completely detracts from the wow factor of the gameplay. It makes no sense that the gravity is many times greater than Earth's, yet the character can jump hundreds of feet into the air incredibly rapidly. Simply fixing the jump function and normalizing gravity would go a long way to improve the experience. The sheer scale of everything is amazing and vast! I want to see more.\n\nI downloaded this with high hopes but the game is currently unplayable. I can't move forward into unobstructed areas, but can somehow move through walls. The movement is completely broken. Jumping launches me downward into the floor, from which I stutter back up into my original position. I uninstalled and reinstalled, and not only did the problem persist, but my progress had been saved from before the reinstall, leaving me stuck.",
+      "date": 1689686975,
+      "review_helpful_count": 1,
+      "author_display_name": "QUACKBIRTH",
+      "author_alias": "QUACKBIRTH",
+      "developer_response": {
+        "body": "Postscript.（2023.7.19）\n\nThank you.\nI was investigating the issue with haptic, but \nIs it possible that you are manipulating bloom and not haptic?\nCurrently, in the options space, there are switches for language settings, haptic, and bloom.\nIt is true that haptic and boom have a layout that is easy to mistake. We will think of some way to address this in the next update.\n\n------------------------------------------------------------------------------------------------------------------------\n追記　2023.7.19\n\nありがとうございます。\nhapticの問題について調査していましたが、もしかして、hapticではなく、bloomを操作しているということはありませんか？\n現在、オプション空間には、言語設定と、hapticの他に、bloomのスイッチを用意していますが、確かに、hapticとbloomは間違いやすいレイアウトになっております。少なくともこれに関しては次回の更新時になんらかの対応を考えます。\n-------------------------------------------------------------------------------------------------------------------------\nThank you for the download. We are also sorry for the inconvenience.\nIs it currently working properly? Please let us know if you notice anything else.\n\nWe will continue to work on this work by updating it to add more functions and contents and improve the stability of the application.\nPlease stay tuned.\n\nOriginal Text---------------------------------------------------------------------------------------------------\n\nダウンロードありがとうございます。また、ご不便をかけてしまい申し訳ありません。\n現在は正常に動作しているのでしょうか。他にも何かお気づきの点があればお知らせください。\n\n本作については今後もアップデートにて機能やコンテンツの追加やアプリの安定性の向上など取り組んでいく予定です。宜しければご期待ください。",
+        "date": 1689738083
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:34:45Z"
+}

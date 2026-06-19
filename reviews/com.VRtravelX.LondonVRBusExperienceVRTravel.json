@@ -1,0 +1,48 @@
+{
+  "app_id": "9086278484718166",
+  "package_name": "com.VRtravelX.LondonVRBusExperienceVRTravel",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "VR Travel - City of London Bus Tour",
+  "rating_average": 2.875,
+  "rating_count": 8,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "476974075507079",
+      "score": 5,
+      "review_title": "A breezy ride with VR",
+      "review_description": "Yes this is apparently possible. As if you're on the deck of this double-decker NRM. Very nice experiance in combination with other London VR tours in this bundle (river cruise, walking like a tourist &c.).\nOne nice-to-have feature could be to be able to pause the tour to have a look around on the spot",
+      "date": 1734381446,
+      "review_helpful_count": 4,
+      "author_display_name": "DartArt",
+      "author_alias": "DartArt",
+      "developer_response": {
+        "body": "Thank you for the great feedback — that’s exactly the feeling we wanted to create: sitting up top, drifting through London, fully in the moment.\n\nYour idea to add a pause feature is much appreciated.\nRight now, we’ve chosen a continuous flow to preserve immersion, but we’re exploring ways to offer more flexibility in future versions.",
+        "date": 1765932051
+      }
+    },
+    {
+      "id": "516757694847227",
+      "score": 1,
+      "review_title": "Great idea but poorly executed",
+      "review_description": "I was excited to relive my time that I spent in London but this is not a well made app.   The quality of what you see is very poor and for some reason it kept pausing.  The price would have been great had it been done well.  I saw a video about how it shows it looks but it didn't have that quality on my Quest 3. Misleading video.  I am very disappointed.",
+      "date": 1732436542,
+      "review_helpful_count": 9,
+      "author_display_name": "Elaine58",
+      "author_alias": "Elaine58",
+      "developer_response": {
+        "body": "We’re sorry the experience didn’t feel right on your Quest 3.\nSince then, we’ve improved streaming quality specifically for Quest users.\n\nThis experience is part of VRtravelX’s slow, immersive 360° journeys:\nYou’re on the top deck, riding through real London — no controls, no pressure, just watching, listening, and being there.\nA quiet mental break from daily life — intentionally slow, intentionally real.\n\nFeel free to explore our other VRtravelX experiences — each journey is different, but always real.",
+        "date": 1765932508
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:32:05Z"
+}
