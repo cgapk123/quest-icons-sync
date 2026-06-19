@@ -1,0 +1,803 @@
+{
+  "app_id": "25082836531303488",
+  "package_name": "com.FrostPunchGames.BomberDrone",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Sky Runner: Drone Hero",
+  "rating_average": 4.4875,
+  "rating_count": 160,
+  "review_count": 110,
+  "reviews": [
+    {
+      "id": "740917985779188",
+      "score": 4,
+      "review_title": "Must Buy!!",
+      "review_description": "I love MR and this is one of the best! i dont understand why others are complaining about the controls when its not as unforgiving as a real drone. The movements are snappy and does not drift realistically. My only suggestion is an option to reduce / increase the scale of everything. That way even if you have just a small space, you can still maneuver properly. Will give a perfect score when that option is added.",
+      "date": 1759224749,
+      "review_helpful_count": 9,
+      "author_display_name": "Ozai14",
+      "author_alias": "Ozai14",
+      "developer_response": {
+        "body": "Hey Ozai14, glad to hear you've been enjoying the game! That's a very interesting suggestion. We're taking notes and will consider.",
+        "date": 1759764397
+      }
+    },
+    {
+      "id": "1342678257514269",
+      "score": 4,
+      "review_title": "Cool game and well done",
+      "review_description": "PROS: I had a problem with controls and the developer fixed it very fast + Level Editor + It works well and good integration of mixed reality\n\nCONS: it finally gets repetitive + I particulary don't like fight againts time in all levels + I'd add some bosses",
+      "date": 1759939658,
+      "review_helpful_count": 5,
+      "author_display_name": "Charlyplayman",
+      "author_alias": "Charlyplayman",
+      "developer_response": null
+    },
+    {
+      "id": "811628052028294",
+      "score": 3,
+      "review_title": "Good fun game",
+      "review_description": "This game is good, but I'm not too keen on the controls. You have two joysticks to map to, so why do I need to click in it's direction to go up and down choose direction of travel like it's on a lead. Just have it go forward to the front of the drone and use both joysticks to go back and forth tilt side to side, the other for up and down and spin side to side like a real drone does. At least make it an option to change to please. Other than that it's a good fun game.",
+      "date": 1758202882,
+      "review_helpful_count": 3,
+      "author_display_name": "Iain276",
+      "author_alias": "Iain276",
+      "developer_response": {
+        "body": "Hey Iain276, thank you for leaving us a review! We are taking notes, and will consider this.",
+        "date": 1759764206
+      }
+    },
+    {
+      "id": "1144524070845376",
+      "score": 4,
+      "review_title": "The Drone Hero Meta Needs",
+      "review_description": "Full disclosure: I was provided a copy of this game for free to playtest and review. \n\nIn Sky Runner, players will pilot a drone around their scanned room/play space and save townsfolk, homes, and livestock from various hazards like volcanos, floods, zombies, and aliens. There is also a multiplayer option as well as a level creator. The campaign features a narrator that sounds an awful like Nick Offerman. The commentary he gives when a player succeeds or completely botches something is hilarious and a nice touch.\n\nThe game features bright, colorful graphics, and the augmented reality mesh that room-scans an area is impressive technology. I look forward to other applications in the future. I was able to play the various modes in a relatively small room that was 9‘ x 12‘, but would love to play it in a larger space in the future.\n\nIn addition to the 20 level campaign mode, each level has multiple achievements to reward players for repeated playthroughs and those completed achievements can unlock in-game rewards.\n\nConsidering this game started as an interesting tech demo almost a year ago, I have to give credit to the developer for taking the time to fine-tune the technology and controls for their game.\n\nI have heard the criticisms about the controls being difficult, I know that there are multiple control modes specifically to address this issue, players that are new to dual stick drone controls will take some getting used to, and for those that don’t have the patience to learn those controls, there is a much easier alternative control method. \n\nThe early access price point is a no-brainer, all quest 3 owners should consider buying this technically impressive game. While the official price point will increase at release, it is still a fair value for what you’re getting. \n\nFor gamers searching for a silly little drone game with a sense of humor, look no further. A solid 4-star game (the fifth-star will depend on how well the level editor allows players to generate and upload fresh content to keep players coming back for more, hoping to update my review in the future).",
+      "date": 1752534947,
+      "review_helpful_count": 30,
+      "author_display_name": "BoardGameNick",
+      "author_alias": "BoardGameNick",
+      "developer_response": {
+        "body": "Thank you for leaving us such an in-depth and thoughtful review. Hopefully we will be able to earn that 5th star in the future!",
+        "date": 1753361302
+      }
+    },
+    {
+      "id": "768118785905290",
+      "score": 5,
+      "review_title": "Flying through your living room",
+      "review_description": "The first attempts did leave me with some frustrations. Simply because I couldn't control the drone very well. But after about 15 attempts, I finally managed to complete the 1st 'fire' level. Frustration disappeared like snow in the sun. Finally, I had succeeded. On to the next one...\n\nThere are several different game modes (single, multi,...)\n\nI haven't tested multiplayer yet, because I don't have the drone under control yet. But I will definitely do this in the future. \n\nThe levels are easy to understand. Definitely recommended.",
+      "date": 1753989486,
+      "review_helpful_count": 10,
+      "author_display_name": "POWERGIRL.BE",
+      "author_alias": "POWERGIRL.BE",
+      "developer_response": {
+        "body": "Hey POWERGIRL.BE, they say 'practice makes perfect' and we admire your persistence! Thank you for recommending us!",
+        "date": 1754499294
+      }
+    },
+    {
+      "id": "759215913938526",
+      "score": 5,
+      "review_title": "Drone It Up",
+      "review_description": "Awesome is an understatement when it comes to describing this game. You are a drone pilot, flying around your play space in mixed reality and complete fun and crazy challenges. In the main mode you do a variety tasks from rescuing people from floods to fighting off hordes of zombies. Each mission gets more challenging and even features a final boss. The controls feel just like flying a real mini drone, only without the fear of crashing and breaking it. You also get cool weapons to help complete missions and destroy enemies. In addition to the main levels and a variety of unlockable drones, there’s a custom mode where you can create your own courses and play in multiplayer. It makes perfect use of mixed reality, transforming your room into the ultimate drone arena. Clearly, the developer doesn’t believe in taking a vacation, because the game keeps getting better with frequent updates.",
+      "date": 1754050717,
+      "review_helpful_count": 6,
+      "author_display_name": "FoamyMouthDog",
+      "author_alias": "FoamyMouthDog",
+      "developer_response": null
+    },
+    {
+      "id": "24551836661108691",
+      "score": 3,
+      "review_title": "Feels like real RC battles in your room",
+      "review_description": "The mixed reality effect feels very immersive, it's like flying an RC toy plane in your room. Multiple objectives including attacking enemy ships, defend homes, putting out fires, repairing stations, building defenses, rescuing survivors etc. There's usually only one or two objectives per level with 3 distinct enemy types. \nIt's easy to pick up and play but does take time to get your head around the navigation as your perspective is fixed, so it's easy to lose your bearings when flying, especially when under attack. It also does get a bit repetitive after a while as there isn't enough variety to last more than a few hours. \nSolid 3 stars, it's a great RC mixed reality game but is a little limited in content and replayability. Much more enjoyable if you play in a larger space.",
+      "date": 1754640019,
+      "review_helpful_count": 3,
+      "author_display_name": "Verociity",
+      "author_alias": "Verociity",
+      "developer_response": {
+        "body": "Hey Verociity, the game is currently still under development and we're aiming to bring you more content in the future!",
+        "date": 1756852069
+      }
+    },
+    {
+      "id": "1288312969644105",
+      "score": 5,
+      "review_title": "Great use of mixed reality",
+      "review_description": "This is one of the best mixed reality titles I have tried and it is very approachable for many in my opinion. The quadcopter controls work fairly well and the room detection is surprisingly good at making the drone feel like it's actually in the real world. The amount of content is pretty decent especially for a mixed reality game and most of the levels are pretty creative and challenging in their own aspect. Each new stage feels like a completely new thing in a good way and combines elements of the previous stages into it. The game can be hard to start out if you are new to the sort of thing but it's a really good experience for anyone looking for a quadcopter experience in VR and I honestly don't have anything bad to say about it.",
+      "date": 1756180268,
+      "review_helpful_count": 1,
+      "author_display_name": "snickersallday",
+      "author_alias": "snickersallday",
+      "developer_response": {
+        "body": "Hey snickersallday, thank you for the positive review and we're glad you are enjoying Sky Runner!",
+        "date": 1756849690
+      }
+    },
+    {
+      "id": "772310008661616",
+      "score": 5,
+      "review_title": "Great mixed reality drone experience",
+      "review_description": "This has quickly been one of my top experiences with mixed reality.  The gameplay was fun with pretty decent controls though it took me a few levels to really get it down.  I know some may have issues using them so they offer an easier method of control as well.    \n   There is a 20 levels campaign split into four categories fire, flood, zombie, aliens.  Each of these modes offer different challenges and objectives to keep things fresh.   While the level creator lets you design your own course to race through. \n  As you progress there is a slight variety of skins to unlock as well for completing all mission throughout the campaign.  \n   Lastly the multiplayer is definitely an exciting addition for the PvP fans. Each side has a base trying to destroy the other drone to lower its shield. I liked how the two areas met and my matches had another level of intensity.  Largest issue I had was quest would like to switch between my two saved rooms on startup.",
+      "date": 1754673017,
+      "review_helpful_count": 2,
+      "author_display_name": "TbcVRgaming",
+      "author_alias": "TbcVRgaming",
+      "developer_response": {
+        "body": "Hey TbcVRgaming, thank you for leaving such an in-depth review and we're glad you've been enjoying the game!",
+        "date": 1756852030
+      }
+    },
+    {
+      "id": "2618968058462151",
+      "score": 3,
+      "review_title": "Controller",
+      "review_description": "Need the real drone controller configuration or the option to reconfigure the controller.",
+      "date": 1758086160,
+      "review_helpful_count": 2,
+      "author_display_name": "xbob",
+      "author_alias": "xbob",
+      "developer_response": {
+        "body": "Hey xbob, thanks for letting us know your thoughts. We will consider the suggestion you provided!",
+        "date": 1759764259
+      }
+    },
+    {
+      "id": "1417660589523781",
+      "score": 4,
+      "review_title": "Flying drones just got more interesting",
+      "review_description": "Skyrunner is quite an interesting game. It found a way to blend fairly realistic drone gameplay (depending on the drone) and a mixed reality setting to provide a unique and fun experience for anyone who loves controlling drones, or quick arcade-esque gameplay. It features a fairly fleshed out campaign with multiple settings, from putting out fires to saving ranch animals while fighting off aliens. The level of variety provided in each of the short 5 mission campaigns provides several hours of fun and a great way to have a fun time. While I haven’t touched the other modes much yet (I’ve found my piloting skills are very much inferior to many other pilots. Practice does make perfect after all) I can confidently say they provide much of the same. My only complaint (and it’s a small one) is that the campaigns felt a bit short at times, right when I was starting to get in a groove in one of them, all the sudden it’s the end and we’re off to another one. However, the other modes do tend to help with that. Another thing to note was there was a couple bugs, like my boundary not being the right one, but they weren’t so game breaking I couldn’t play the game.",
+      "date": 1754543810,
+      "review_helpful_count": 0,
+      "author_display_name": "amazingwarrior101_SiX",
+      "author_alias": "amazingwarrior101_SiX",
+      "developer_response": {
+        "body": "Hey amazingwarrior101, glad to hear that you are enjoying the game so far! If you run into any bugs or issues again and want to report it, feel free to join our community Discord server by following this link: https://discord.gg/A6ebFaXmYN",
+        "date": 1756852693
+      }
+    },
+    {
+      "id": "1147165830569019",
+      "score": 4,
+      "review_title": "favorite mixed reality game",
+      "review_description": "Sky Runner is a neat game for its low price and one of the more fun mixed reality experiences I’ve played.\nThe game is a mixed reality title where you scan your room, and the game uses your environment to place obstacles and You control the drone in your room. You complete challenges like extinguishing fires, fixing water pipes, or even fighting off aliens.\nI really liked the drone controls they feel smooth and fun once you get the hang of them. There’s plenty of content to enjoy and explore.\nBut it isn’t perfect.\nThe arcade-style controls for the drone aren’t really my cup of tea  they feel hard to get used to.\nIn some missions, I wasn’t exactly sure what to do, but that might just be me.\nIn the end, it’s a pretty fun game for a low price, and one that actually takes advantage of mixed reality in a creative way.",
+      "date": 1754613454,
+      "review_helpful_count": 1,
+      "author_display_name": "Windlkind",
+      "author_alias": "Windlkind",
+      "developer_response": {
+        "body": "Hey Windlkind, if you find yourself at a loss in certain levels, feel free to hop into our community Discord server to ask for help: https://discord.gg/A6ebFaXmYN\n\nThank you for your review and we're glad you've been enjoying the game!",
+        "date": 1756852223
+      }
+    },
+    {
+      "id": "784303724053193",
+      "score": 5,
+      "review_title": "A Must Have For Mixed Reality Experience",
+      "review_description": "Sky Runner offers a very unique mixed reality experience on the quest 3. There are plenty of things to do in this game. Make levels to fly around in with your friends in multiplayer, journey through the campaign to become a drone hero, and play fun mini games. My favorite was the campaign because each of the four stages came with new mechanics and weapons to use. The stages are quite different from each other, but that’s a good thing. It keeps you engaged. For example, you start off rescuing people and putting out house fires in the first few levels, but by the end of the campaign you’re fighting aliens. While the game starts off easy, it seems to get hectic pretty quickly. Once you get used to the controls then the difficulty level seems to go down. I highly suggest using the virtual tablet in front of you for accuracy during intense moments. The visuals in this game are fantastic! This game does very well at blending your real world environment with VR. The controls may seem intimidating at first, but go into the settings and switch them up to give you the best feel. I highly recommend this game to anyone interested in flying drones.",
+      "date": 1754348004,
+      "review_helpful_count": 1,
+      "author_display_name": "Kubo92",
+      "author_alias": "Kubo92",
+      "developer_response": {
+        "body": "Hey Kubo92, it's really awesome of you to leave so many helpful tips for new players! Glad to see you've been enjoying the game and thank you for your review!",
+        "date": 1756853299
+      }
+    },
+    {
+      "id": "2536803923338699",
+      "score": 5,
+      "review_title": "Be the Hero or Win the Race",
+      "review_description": "Love that this game has passthrough and room mapping capabilities! You have lots of variety with Sky Runner, there is Fire Fighting, Flooding, Aliens and Zombies to have fun. There is single player or multiplayer modes.  You can play this game anywhere inside or outside of your house. I chose to do it outside so that I had a big play area. \n\nWith the Drone Racing you can custom build your own track in your surroundings with the custom editor. This makes the game play unique every time you play. If you are like me and have difficulty flying a drone you can make the course easier so that you can practice and get better at flying the drone.\nThey have given you the option of amateur or pro controls. This way you can pick the level that you are at and have a fun time playing the games. \n\nThe colors in the passthrough are amazing and the explosions are exciting. It really brings it to life in your play area. \nThe audio in the game is great! The sounds of the drone, fighting and explosions are spot on.\n\nDo the Tutorial first. I had to do it a couple of times just to try and get the hang of it.",
+      "date": 1754187662,
+      "review_helpful_count": 1,
+      "author_display_name": "KRGoldy",
+      "author_alias": "KRGoldy",
+      "developer_response": null
+    },
+    {
+      "id": "1458805631879267",
+      "score": 5,
+      "review_title": "💥Bomb your Friends/Family(in VR ofc!)💣",
+      "review_description": "The controls are pretty similar to an actual drone controller! So be prepared to have to get used to them, kinda difficult at first but get more fun as time goes on. The campaign is great, it's funny, long and adds something new to each level. Also the levels are really creative! The lore is silly but it's meant to be and it's a good kind of silly! Graphics are great and there's multiplayer as well! Levels are difficult, so I hope you don't have anger issues! I recommend Sky Runner: Drone Hero to all age ranges and different types of people!",
+      "date": 1754256415,
+      "review_helpful_count": 0,
+      "author_display_name": "KindGentlemanThatisntKind",
+      "author_alias": "KindGentlemanThatisntKind",
+      "developer_response": null
+    },
+    {
+      "id": "761856593043883",
+      "score": 4,
+      "review_title": "The best Mixed Reality game I've played!",
+      "review_description": "Sky Runner is a lot of fun, looks great, runs well, and has a diversity of tasks that keep it fresh and novel!\n\nI'll start off by saying that I'm not the biggest fan of MR/AR games. I've played some MR combat/sword fighting games that just felt janky and floaty - they ran poorly, and the interactions didn't feel great. Sky Runner **feels** a lot better to play and control than those games, and I found myself looking forward to getting back into it every time I put the headset on, so it's one of the first to transcend the \"just playing to try it out\" that has been the norm for most AR experiences for me.\n\nThe analog stick flight controls took me a while to get used to, but once I expored the variety of flight control customization settings, everything clicked in and felt natural. There's also an \"arcade\" control mode where you hold the drone and fly it around in your hands like a child with a toy plane. This diversity of flight control modes means the game has a low skill floor and a high skill ceiling, so it's easy to get into, and there's a lot of room to really master the flying! There were a lot of moments where I felt like I was a bada$$ (apparently \"bad***\" is profanity lol) drone pilot! Also, if you struggle with direction/orientation of flight when the drone is facing a different direction than you, the game gives you a virtual tablet screen anchored to your controllers, and the screen shows the drone's POV (using the room mesh from your room setup scan), which can help give you a sense of direction and is also just cool to see.\n\nThe game looks great. I won't spoil the full variety of enemies and tasks, but there's one chapter where your room starts flooding with water (and you have to seal the pipes, among other things) and the sense of presence created by the colourful cartoony water filling your space is very cool and imersive. There's another chapter focused on alien abductions, where you have to save livestock as UFO's try to tractor beam them up to their ships, which just looks so cool taking place in your living room.\n\nIn one of my multiple playthroughs, I did encounter some bugs that frustrated me, but I was screen-recording my entire playthrough, which I suspected was the cause - so I started the campaign over again with no screen recording and all of those bugs were gone! Recording for multiple straight hours makes my headset overheat, which was definitely a contributing factor.\n\nI really enjoyed all four chapters of Sky Runner's campaign, and found that they kept me engaged and interested in coming back. I need more than a sandbox to pull me in, and this game did that for me. There IS a \"Course Creator\" mode where you can make your own course/track, complete with obstacles/traps/checkpoints/etc, and it's pretty in-depth - I feel like there's a certain type of gamer who could have a lot of fun with that.\n\nThere is also a multiplayer mode! There are both \"Quick Match\" and \"Create/Join Private Room\" modes. I was playing day one/hour one of release and didn't have any friends who owned the game, so I was unable to match, but your odds are far more likely now that the game has been out for more time. I'm going to update my review once I get to try out the multiplayer.\n\nAs for the drones themselves, there is a really fun variety of models, and they all look great! Super sharp, and the colours/designs are a lot of fun. You unlock more drones as you progress through the campaign, and as you achieve mastery over the levels (completing missions with all side goals accomplished, etc), which really pulled me into the game and made me want to return to levels and unlock new drones.\n\nI should note that I've been playtesting the game, so I did receive a free copy, but I was very mindful of that in my review, and I feel what I've written reflects that. Sky Runner is a game I actually want to return to in the future, despite having done over three full playthroughs already! I've probably said the word \"cool\" ten times so far, because that's just the best way to describe the game.\n\nSky Runner is the best MR game I've played, I highly recommend it if you're looking for some fun in mixed reality.",
+      "date": 1754172486,
+      "review_helpful_count": 1,
+      "author_display_name": "The_CinemaNaut",
+      "author_alias": "The_CinemaNaut",
+      "developer_response": null
+    },
+    {
+      "id": "654778604396575",
+      "score": 5,
+      "review_title": "Very Good!",
+      "review_description": "This game is very enjoyable! You get to control a drone, saving people and also the environment. The ease of control is good, even better if you look at the in-game tablet. I have a real drone and I can tell you the movement of the drone is real physics movement. And you can actually improve your skill even though you are using quest's controllers. The game is very challenges; some levels are difficult but I pulled through. Highly recommend playing this game!",
+      "date": 1754286036,
+      "review_helpful_count": 0,
+      "author_display_name": "DeafyPro",
+      "author_alias": "DeafyPro",
+      "developer_response": {
+        "body": "Hey DeafyPro, it's validating to hear that Sky Runner is approved by someone who is experienced with real drones! Thank you for your review!",
+        "date": 1756853464
+      }
+    },
+    {
+      "id": "23996018493373886",
+      "score": 5,
+      "review_title": "Impressive MR arcade flight-sim",
+      "review_description": "First of all, im not a big fan of MR games, because most of them feel more like a gimmick then a full game. Additionally its very hard to make, cause every living room is different in complexity.\nSky runner is an exception, cause they make good use of the tracking data.\nThe game has a campaign with 4 different themes, each has a variety of missions with boss encounters at the end, some of them make very impressivs use of the room (the water campaign for example) and have a good difficulty and variety.\nThe controls have a learning curve, but once mastered its really fun.\nThere is also a multiplayer mode and a editor, which i didnt use that much, so i dont have a strong opinion about it, but at least the multiplayer looked promising.\n\nI enjoyed my time with sky runner and can recommened the game to everyone who is interested in mission based drone flying.\nIm at a point where i trust in the quality of flat2vr studio games completely. So far theyve always delivered and im looking forward to their future games.",
+      "date": 1754058883,
+      "review_helpful_count": 1,
+      "author_display_name": "dafaithz",
+      "author_alias": "dafaithz",
+      "developer_response": null
+    },
+    {
+      "id": "1694209241273736",
+      "score": 5,
+      "review_title": "Super Sky Times!",
+      "review_description": "Full disclosure: I was provided a review key to playtest and provide feedback.  This mixed reality game turns your living space into a drone obstacle course. You can pilot your drone in either a simulation or arcade mode. As with all good games, the drone is easy to handle but difficult to master. Especially when you have to navigate room obstacles while avoiding enemy fire or meteors. Sky Runner offers great graphics, responsive controls, challenging missions, a multi-player mode, and it even has a course editor so you can build your own course. You can complete missions in short 20 minute sessions, too. Sky Runner is a slick and, most importantly, fun drone simulator.",
+      "date": 1754003064,
+      "review_helpful_count": 1,
+      "author_display_name": "OldDarth",
+      "author_alias": "OldDarth",
+      "developer_response": null
+    },
+    {
+      "id": "1419160969389966",
+      "score": 5,
+      "review_title": "A great MR experience",
+      "review_description": "Note that I was provided a free copy for testing, but I will be reviewing this as though I had paid for it.\n\nI've really loved watching this game grow over time, and the current build truly does deliver on the promises of giving you a drone experience in mixed reality in your house with really awesome campaign-style missions.  There are so many cool moments with how the game interacts with your scanned environment, such as blowing a hole in your wall to let water out.\n\nThere are minor issues I had with it that are likely tied to how the room was scanned (such as a wall not breaking or water disappearing where it should be)--and I hope to see those taken care of in future builds--but I really don't think they are serious enough to dock this game on rating.  The one serious frustration I had with it was having a turret base spawn between two objects in my house where it was near impossible to fly the drone down in there to glue the turret together, and it wasn't a big deal to just do another match and have it randomly generate elsewhere.  (It's also probably an easy fix for them to just code in turret bases requiring X distance around it to spawn so I'm not worried about it.)  The final levels are also insanely frustrating to beat, but I think that's a perk rather than a hinderance since it gives more replayability to the game.  If it were too easy, you'd just beat it and get bored.\n\nOverall, I think this is an easy recommendation if you saw the trailer/screenshots and found it interesting.",
+      "date": 1753996231,
+      "review_helpful_count": 1,
+      "author_display_name": "AroraMew",
+      "author_alias": "AroraMew",
+      "developer_response": null
+    },
+    {
+      "id": "742772882253738",
+      "score": 5,
+      "review_title": "Great drone game",
+      "review_description": "The game is great fun bit of tough to master flying but works perfectly one thing I would like to see is co op mode were U n friend can do missions or vr mode were cancelled fly Ur drone collecting stuff and finding stuff",
+      "date": 1755121946,
+      "review_helpful_count": 1,
+      "author_display_name": "Rednirt91",
+      "author_alias": "Rednirt91",
+      "developer_response": {
+        "body": "Hey Rednirt91, that's great feedback thank you for that. We are taking notes and will consider.",
+        "date": 1756850157
+      }
+    },
+    {
+      "id": "4228784267444154",
+      "score": 5,
+      "review_title": "We need more games like this!",
+      "review_description": "We need to\n support developers producing\n unique titles like this. Not the slop meta is pushing on the store. Great game, Great visuals, and gameplay. Buy this game and have fun!!",
+      "date": 1755107179,
+      "review_helpful_count": 0,
+      "author_display_name": "paulatsolo",
+      "author_alias": "paulatsolo",
+      "developer_response": {
+        "body": "Hey paulatsolo, we are grateful for your support. Happy to see that you are enjoying the game!",
+        "date": 1756850211
+      }
+    },
+    {
+      "id": "769865826209191",
+      "score": 5,
+      "review_title": "Polished Game",
+      "review_description": "Really enjoying this game. Great tutorial, campaign, multiplayer, and Mixed Reality. Highly recommend.",
+      "date": 1755713382,
+      "review_helpful_count": 0,
+      "author_display_name": "Buz1",
+      "author_alias": "Buz1",
+      "developer_response": {
+        "body": "Hey Buz1, we're honoured to hear that you would recommend our game. Thank you for the review!",
+        "date": 1756849831
+      }
+    },
+    {
+      "id": "714043841526038",
+      "score": 3,
+      "review_title": "Janky, but enough for a few hours",
+      "review_description": "I've played this game, I wanted to get in to it, I've tried it multiple times. Each time I couldn't last more than 30 minutes in it. I'm sure there's a target audience, but that's not me.\nMy choice was the semi-realistic way of flying the drone, and it was so hard to aim the thing. Nothing really felt intuitive, and you had to be quite precise if you wanted to actually extinguish any flames. This game features multiple gamemodes which was quite nice and kept me entertained for a bit. There is a glaring issue with the zombie mode, to me at least they pose absolutely no threat; I just plop down the turret, and there, the level is done. The flood and alien ones were a bit better, but also with their own issues at hand.\nOther than that, there are good things about in this game. The main gameplay is quite easy to grasp, and the graphics are surprisingly clear. I like that the game offers some customization and what I can only call \"WIP Multiplayer\". Another thing: bombing is fun, satisfying even. What I liked in the mixed reality mode was that it actually looked like I was destroying stuff and bumping in to my actual furniture and things.\nI do believe that the game is quite janky, it really doesn't bring anything new to the world of VR games, BUT it is an enjoyable party game for at least a few hours. It could be fun getting a group of players in the same room and playing in turns or even at the same time.",
+      "date": 1751927738,
+      "review_helpful_count": 1,
+      "author_display_name": "taigerscat",
+      "author_alias": "taigerscat",
+      "developer_response": {
+        "body": "Thank you for your thoughts and honest review! The game is still in development and is being polished, so it should be a bit smoother of an experience soon. We hope you'll give it another try someday, maybe with friends like you suggested!",
+        "date": 1752086721
+      }
+    },
+    {
+      "id": "688947370976308",
+      "score": 3,
+      "review_title": "Nicely thought-out graphics",
+      "review_description": "The drone response feels crisp and very real.  It would be nice to have an indoor mini drone with a self-build obstacle course for extensive and intensive training.",
+      "date": 1754438647,
+      "review_helpful_count": 1,
+      "author_display_name": "Nevadaw1",
+      "author_alias": "Nevadaw1",
+      "developer_response": {
+        "body": "Hi Nevadaw1, I think you will be delighted to know that you can build your own course if you go to the Course Creator mode!",
+        "date": 1756852761
+      }
+    },
+    {
+      "id": "779812624730160",
+      "score": 4,
+      "review_title": "Let's talk multiplayer",
+      "review_description": "Hi I'm giving 4 stars I want to make it 5 star.. where is the co-op where is the co-op . Still no co op mission..??????????????????",
+      "date": 1757452009,
+      "review_helpful_count": 0,
+      "author_display_name": "jaay23198",
+      "author_alias": "jaay23198",
+      "developer_response": {
+        "body": "Hey jaay23198, we currently don't have any plans for co-op multiplayer, but you bring up a very good point. We've taken notes and will put that down for consideration. Thank you!",
+        "date": 1756852309
+      }
+    },
+    {
+      "id": "796264523562253",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Yo lol, this is amazing😆",
+      "date": 1755901142,
+      "review_helpful_count": 0,
+      "author_display_name": "WolfWolf",
+      "author_alias": "WolfWolf",
+      "developer_response": {
+        "body": "Thank you WolfWolf!",
+        "date": 1756849734
+      }
+    },
+    {
+      "id": "1820344945565275",
+      "score": 5,
+      "review_title": "Appreciate the update!",
+      "review_description": "Thanks for the response glad to see you guys are working on improvements cause I really love play flying a drone throughout my home. Crazy fun!!!",
+      "date": 1753299054,
+      "review_helpful_count": 1,
+      "author_display_name": "biggoobs",
+      "author_alias": "biggoobs",
+      "developer_response": {
+        "body": "No problem! We appreciate your enthusiasm too and we aim to bring you more crazy fun!",
+        "date": 1753361507
+      }
+    },
+    {
+      "id": "1243035720508014",
+      "score": 4,
+      "review_title": "Mixed Reality Mayhem",
+      "review_description": "The game handles Mixed Reality surprisingly well, especially considering the current limitations of the technology. You take on a variety of missions, including putting out fires and fighting zombies. The missions feel like what would happen if someone gave a drone to an action movie director and just let things unfold.\n\nThe gameplay is simple to understand, but the action can get pretty chaotic. If you are going for a perfect score, expect to replay a few levels. Flying the drone is easy to get started with, but it takes some finesse to stay in control when things start going off the rails. Honestly, I was just glad crashing into walls does not come with a penalty. They do offer control customization as well. \n\nThe humor is what gives this game its charm. If you are fine with a light story that mostly serves to set the stage, the ridiculous moments are part of the fun. Dropping explosive barrels on burning houses to rescue people makes absolutely no sense, and that is exactly what makes it entertaining.\n\nI am not a drone pilot in real life, so I cannot say how realistic the controls are. But the game does let you adjust the control layout, which is a nice touch. It felt pretty intuitive overall, even when the action picked up and I started to panic a little.\n\nThe graphics are good. They are not cutting edge, but they look better than you might expect. Everything is clear, smooth, and works well for the tone the game is going for.\n\nThere is a level editor and a multiplayer mode, though I mostly played through the campaign. Whether the Mixed Reality experience feels believable will depend a lot on your room setup and lighting. Still, there is something genuinely fun about flying a tiny drone around your living room like you are in the middle of a cartoon emergency.\n\nIt is not a long game, and it is not trying to reinvent anything, but it is fun. If you like the idea of turning your space into a chaotic drone adventure, this is absolutely worth a look.",
+      "date": 1748567007,
+      "review_helpful_count": 3,
+      "author_display_name": "JammyRex",
+      "author_alias": "JammyRex",
+      "developer_response": {
+        "body": "Thank you for your review! We're glad you enjoyed the game and appreciate your feedback.",
+        "date": 1752086873
+      }
+    },
+    {
+      "id": "9895409233878044",
+      "score": 4,
+      "review_title": "Very Fun Mixed Reality Drone Rescue Game",
+      "review_description": "Sky Runner is a LOT of fun to play.  It takes a couple of levels to really get comfortable with the controls, but if you have any experience flying drones in real life that'll help a lot.  It starts out slow so you can get a feel for how to handle the drone, and every level it ramps up more and more.  Fly the drone around your living room, put out fires, rescue people, etc.  If you ever played sim city just to cause disasters that you'd have to respond to, you'd really enjoy Sky Runner.  There are achievements to do each level as well, so there's some replayability there if you want to 3 star the levels.  If you want some hectic MR fun, I'd highly recommend Sky Runner!",
+      "date": 1749314659,
+      "review_helpful_count": 1,
+      "author_display_name": "EpiXan",
+      "author_alias": "EpiXan",
+      "developer_response": {
+        "body": "Thanks for the review! We're so glad you enjoyed the game.",
+        "date": 1752087094
+      }
+    },
+    {
+      "id": "705803165698176",
+      "score": 4,
+      "review_title": "Fun and relaxing",
+      "review_description": "Only thing I wish were different are the options to edit the controls. It's just a matter of getting used to them. But full customization would be preferable.",
+      "date": 1751658107,
+      "review_helpful_count": 1,
+      "author_display_name": "eon.nova",
+      "author_alias": "eon.nova",
+      "developer_response": {
+        "body": "Thank you for the feedback! We'll consider this for our roadmap!",
+        "date": 1752086761
+      }
+    },
+    {
+      "id": "704137912786011",
+      "score": 4,
+      "review_title": "Great mixed reality title",
+      "review_description": "Really enjoyed this one nice mix of different things to do and a great way to show off mixed reality",
+      "date": 1752341140,
+      "review_helpful_count": 1,
+      "author_display_name": "TipsySonic",
+      "author_alias": "TipsySonic",
+      "developer_response": {
+        "body": "Thank you for leaving us a review! We're glad you enjoyed the game.",
+        "date": 1753361195
+      }
+    },
+    {
+      "id": "4191366011182551",
+      "score": 5,
+      "review_title": "Awesome but refunding",
+      "review_description": "Just wanted to say this game is awesome. However, Im refunding it for 2 reasons. For one, Im not great at the controls, and everything is a time pressured task, and all I did was panic the whole time. I play games to relax and chill and to avoid stress. This game just made me feel anxious since you have to hurry and save everyone from the fires. Again, this game is great and deserves 5 stars however its not for me.",
+      "date": 1753991722,
+      "review_helpful_count": 2,
+      "author_display_name": "moibuspm",
+      "author_alias": "moibuspm",
+      "developer_response": {
+        "body": "Thank you for taking the time to still write us a review and leaving 5 stars! We're so glad you enjoyed the game in the time that you were with us!",
+        "date": 1754499051
+      }
+    },
+    {
+      "id": "704888632099827",
+      "score": 5,
+      "review_title": "Fun in mixed reality",
+      "review_description": "This game is fun for the whole family,  it's a game I haven't  seen before it's like you're actually flying a drone inside the comfort of your own  home the drone itself bounces off the objects in the room that you're playing in . It really looks like you are destroying things in the room that you are playing in without actually destroying them. The graphics are great , the gameplay is great it goes to the next level with mixed reality , there are weapons and missions and you have to save the scientists before time runs out .I  like that you can choose from different drone options and levels you can take your time and master your skill and take the game in .all in all it's a great game with hours of fun for everyone.",
+      "date": 1746230990,
+      "review_helpful_count": 1,
+      "author_display_name": "skyvuc",
+      "author_alias": "skyvuc",
+      "developer_response": null
+    },
+    {
+      "id": "1990563864800527",
+      "score": 5,
+      "review_title": "Great Mixed Reality Showcase!",
+      "review_description": "I know from the devs that the game is still actively in development, but what is already there is a really great mixed reality showcase. I love how bombing your walls exposes bricks behind them. Such a cool mixed reality interaction.",
+      "date": 1735246353,
+      "review_helpful_count": 9,
+      "author_display_name": "VRwithJasmine",
+      "author_alias": "VRwithJasmine",
+      "developer_response": null
+    },
+    {
+      "id": "9039305126168767",
+      "score": 5,
+      "review_title": "Choice of different drone models",
+      "review_description": "I agree with the many previous reviwers: I also want the original game with game free mode but choice of different drones back. I loved flying them autside...",
+      "date": 1738156628,
+      "review_helpful_count": 3,
+      "author_display_name": "Janno",
+      "author_alias": "Janno",
+      "developer_response": null
+    },
+    {
+      "id": "1161130768863759",
+      "score": 5,
+      "review_title": "Fun Game that just keeps getting better",
+      "review_description": "This started more as a concept of a game/experience, but the devs have really continued to fully flesh it out into a full game and fun!  Kudos for all the hard work down so far and yet even more to come to make the gem shine!",
+      "date": 1735250664,
+      "review_helpful_count": 4,
+      "author_display_name": "MrTass",
+      "author_alias": "MrTass",
+      "developer_response": null
+    },
+    {
+      "id": "523115327549795",
+      "score": 3,
+      "review_title": "Good concept but lacking in content",
+      "review_description": "I can definitely see the potential here, but right now it's hardly more than a tech demo. There only seem to be 5 challenges and a temporary Christmas mode that's going to be removed next month. I can't even manage to complete the first challenge either, because after destroying the last AA gun, nothing happens until I run out of gas and fail the level.\n\nI'll be happy to increase my rating when a career mode is released, but for now there's just not enough of a game to play to give it a better review.",
+      "date": 1735050464,
+      "review_helpful_count": 1,
+      "author_display_name": "CarbonatedTurtle",
+      "author_alias": "CarbonatedTurtle",
+      "developer_response": {
+        "body": "Thanks for taking the time to review Sky Runner, CarbonatedTurtle. We will have some more news to share soon about our plans, and a road map in 2025. We hope that you continue to check out our updates as we make the game more fleshed out. If you have any suggestions or direct feedback, feel free to share it with us on the Flat2VR Discord!",
+        "date": 1735086944
+      }
+    },
+    {
+      "id": "405671615973993",
+      "score": 1,
+      "review_title": "Doesn’t work for me",
+      "review_description": "I downloaded bomber drone awhile back and it was fun. Now with the Sky Runner update it doesn’t work. I go into the game and nothing loads no matter how long I sit and wait. Just me sitting in my room with pink controllers.",
+      "date": 1730062450,
+      "review_helpful_count": 2,
+      "author_display_name": "Jman11211",
+      "author_alias": "Jman11211",
+      "developer_response": {
+        "body": "Thank you so much for bringing this issue to our attention! With the recent Meta SDK update, some game features were unexpectedly affected, and our team hadn’t caught it. We’ve since fixed everything and rolled out a new patch today. As we suspect you may be using the PRO controllers, which we unfortunately couldn’t test directly, could you please kindly check if this update has resolved the controller issue? We’d love to hear if everything is running smoothly now. Thanks again for your help!",
+        "date": 1730501829
+      }
+    },
+    {
+      "id": "874765221250424",
+      "score": 2,
+      "review_title": "Why are the controllers backwards?",
+      "review_description": "This would be awesome but for anyone who already flys a drone or rc helicopter the up and down is on the LEFT stick.  So it's impossible to fly...it would be freaking awesome otherwise.  It's also funny that in the bomber game the controls are correct but in the racing game they're backwards?!  Will change to 5 when that's fixed",
+      "date": 1725255355,
+      "review_helpful_count": 4,
+      "author_display_name": "DirtyHarry_4",
+      "author_alias": "DirtyHarry_4",
+      "developer_response": {
+        "body": "Heyy there! thanks for the feedback :) the issue has now been resolved, please update the app and let us know what you think!",
+        "date": 1725278347
+      }
+    },
+    {
+      "id": "740458398173270",
+      "score": 5,
+      "review_title": "Breathtaking Drone Simulator",
+      "review_description": "That's what an AR game should be! The controls are smooth, the gameplay is fun. Looking forward to more missions and visual effects!",
+      "date": 1713940409,
+      "review_helpful_count": 1,
+      "author_display_name": "andrey.gr",
+      "author_alias": "andrey.gr",
+      "developer_response": {
+        "body": "Thank you! We're glad you're enjoying the game!",
+        "date": 1714076572
+      }
+    },
+    {
+      "id": "640709268479879",
+      "score": 5,
+      "review_title": "Best MR experience!",
+      "review_description": "Love this game so much",
+      "date": 1735247498,
+      "review_helpful_count": 1,
+      "author_display_name": "sergeyglkn",
+      "author_alias": "sergeyglkn",
+      "developer_response": null
+    },
+    {
+      "id": "565448923052805",
+      "score": 5,
+      "review_title": "Great Fun!",
+      "review_description": "So I see games like this and I think ah it’s not going to be that great! \n\nIt’s actually a really decent game, the Christmas sleigh update it’s so much fun, granted using the thumb stick to direct the sleigh takes some getting used to, pretty much the same as a real life drone! \n\nCatching the presents and dropping them off in the chimneys is so fun, my kids have had a go and they love it especially as it’s mixed reality! \n\nThis game actually has multiplayer potential written all over it! Hope that avenue gets explored! Definitely one for your library!!",
+      "date": 1734762129,
+      "review_helpful_count": 1,
+      "author_display_name": "TomPlayzVR",
+      "author_alias": "TomPlayzVR",
+      "developer_response": {
+        "body": "Glad you and your kids enjoy Sky Runner! Would love to see some gameplay if you have any. There are a ton more updates coming next year so there'll be even more to enjoy soon!",
+        "date": 1734815161
+      }
+    },
+    {
+      "id": "535493606311257",
+      "score": 5,
+      "review_title": "Great potential and unique mechanics!",
+      "review_description": "Even though the game is still in early access it is already so much fun, especially the new Christmas update 💚\n\nCan't wait to see the campaign and new content for this! 🙏",
+      "date": 1735285571,
+      "review_helpful_count": 1,
+      "author_display_name": "ViFortuna",
+      "author_alias": "ViFortuna",
+      "developer_response": null
+    },
+    {
+      "id": "511895361998162",
+      "score": 5,
+      "review_title": "It doesn't work anymore - Fixed",
+      "review_description": "Thank you Devs. I am very happy to say that the issue was resolved with the update. Glad it's all working properly now! Thank you for the fast and efficient support Have a great day!\n(I bought it recently, and it only worked well once. Now the green base doesn't appear when I destroy the enemies and rescue the man. Can you help me?)",
+      "date": 1731591326,
+      "review_helpful_count": 2,
+      "author_display_name": "officialEthanplaysvr",
+      "author_alias": "officialEthanplaysvr",
+      "developer_response": {
+        "body": "Thank you Ethan, your feedback was crucial and we are happy that everything works for you now. We are excited to have you with us, and hopefully, you will enjoy our future updates!",
+        "date": 1732227665
+      }
+    },
+    {
+      "id": "489566800906879",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Super fun and well made, Sky runner is a mixed reality classic that delivers on everyone’s dream of strategically blowing things up. I love it😁",
+      "date": 1732164228,
+      "review_helpful_count": 1,
+      "author_display_name": "Watexan",
+      "author_alias": "Watexan",
+      "developer_response": {
+        "body": "Thank you for the awesome feedback! 🎉 We're thrilled you're loving Sky Runner and can’t wait to hear your thoughts on future updates!",
+        "date": 1732227773
+      }
+    },
+    {
+      "id": "479690978568209",
+      "score": 5,
+      "review_title": "Latest update is Awesome!",
+      "review_description": "Such a fun game to play already and the latest update makes it even better! Thank you!",
+      "date": 1734651438,
+      "review_helpful_count": 4,
+      "author_display_name": "mjopaa",
+      "author_alias": "mjopaa",
+      "developer_response": {
+        "body": "Thank you so much!!! And happy holidays!!!\nSo much more to come next year - we are excited ;)",
+        "date": 1734678795
+      }
+    },
+    {
+      "id": "470284475499799",
+      "score": 4,
+      "review_title": "Cute",
+      "review_description": "Cute game. Please allowed mute music thou, could not find an audio option in settings",
+      "date": 1716172370,
+      "review_helpful_count": 1,
+      "author_display_name": "neeny.nugget",
+      "author_alias": "neeny.nugget",
+      "developer_response": {
+        "body": "Hello! Thank you for the review :) This is on the list of changes and coming soon in future updates!",
+        "date": 1716454887
+      }
+    },
+    {
+      "id": "468564465714166",
+      "score": 5,
+      "review_title": "Sign of the future",
+      "review_description": "Really quite fun to play around with.\nTook it outside and flew around, and in, the pool. \nAnd the winds never bothered it a bit!\nWe'll see more of this in the future for sure.",
+      "date": 1717091129,
+      "review_helpful_count": 0,
+      "author_display_name": "AbraxasOgun",
+      "author_alias": "AbraxasOgun",
+      "developer_response": {
+        "body": "Hello! Thank you for the review! Yes, you are right, more features coming soon!",
+        "date": 1719912828
+      }
+    },
+    {
+      "id": "464646539873721",
+      "score": 5,
+      "review_title": "The Game its awesome!!",
+      "review_description": "I just hope that the devs can add more levels, maybe drone-bots, creative mode to make your own levels, and pleaseee an option to put off the music, i don't like the music in videogames. Congratulations guys, You Made a good job :)",
+      "date": 1721442443,
+      "review_helpful_count": 0,
+      "author_display_name": "ivann.2023",
+      "author_alias": "ivann.2023",
+      "developer_response": null
+    },
+    {
+      "id": "445952787963693",
+      "score": 5,
+      "review_title": "Awesomeness!!!",
+      "review_description": "I've been flying drones for years and I can say without a doubt that this will help you learn to fly real drones.",
+      "date": 1713659562,
+      "review_helpful_count": 6,
+      "author_display_name": "Distortion73",
+      "author_alias": "Distortion73",
+      "developer_response": {
+        "body": "Hello! Thanks for the feedback! Happy you're enjoying the game!",
+        "date": 1713676757
+      }
+    },
+    {
+      "id": "436851172680067",
+      "score": 5,
+      "review_title": "Best MR experience I have seen yet",
+      "review_description": "I never write reviews normally, but I have to give 5+ stars on this one, extremely fun game and best MR experience I have seen yet.",
+      "date": 1721237268,
+      "review_helpful_count": 0,
+      "author_display_name": "whitebeardvr",
+      "author_alias": "whitebeardvr",
+      "developer_response": {
+        "body": "Thank you! We are so glad you love Bomber Drone this much!",
+        "date": 1721392050
+      }
+    },
+    {
+      "id": "424809857376723",
+      "score": 5,
+      "review_title": "Sky Runner Demo: Awesome!",
+      "review_description": "Hey. I just tried the demo of Sky Runner. It's so cool to create a parcours in the garden and extinguish a big fire. :) The only thing I had problems with: Steering in Pro mode seems to be made for left handers. But hey: I swapped controllers. Then I could steer the drone through the rings. :) So keep up the good work and bring new ideas to the Drone Bomber base mechanics. 👍👍👍👍👍",
+      "date": 1725260327,
+      "review_helpful_count": 1,
+      "author_display_name": "HairTaylor",
+      "author_alias": "HairTaylor",
+      "developer_response": {
+        "body": "Hello! Thanks for the feeback!! we have now switched the controls from left handed to right handed! please update the app :)",
+        "date": 1725278412
+      }
+    },
+    {
+      "id": "407623712053273",
+      "score": 5,
+      "review_title": "A real use of MR and mesh room !",
+      "review_description": "Great mixed reality game ! \nThe screen with FPV view is one of a kind\nA real use of mixed reality and mesh room\n\nLots of potential comes with recurring updates\n(in love with the ufo style drone haha)",
+      "date": 1714136597,
+      "review_helpful_count": 1,
+      "author_display_name": "DerekLeBoss",
+      "author_alias": "DerekLeBoss",
+      "developer_response": null
+    },
+    {
+      "id": "405628932482275",
+      "score": 4,
+      "review_title": "Great fun",
+      "review_description": "I knew this would be fun when I saw the YouTube video and I haven't been disappointed.  Multi player would be great and also the ability to adjust the controller sensitivities.",
+      "date": 1720974762,
+      "review_helpful_count": 0,
+      "author_display_name": "thetrainmaster.2023",
+      "author_alias": "thetrainmaster.2023",
+      "developer_response": {
+        "body": "Thank you! Big things are coming! including multiplayer :)",
+        "date": 1721392153
+      }
+    },
+    {
+      "id": "401853662754562",
+      "score": 5,
+      "review_title": "Very quality game from an early look",
+      "review_description": "This game is pretty awesome. I just started it and it's engaging and very realistic. I can see myself having fun with this for awhile. I'm not very far into the play yet but I'm excited to find out more. I always wanted to own a drone and this really gives you the opportunity to experience it yourself without spending hundreds of dollars. The graphics and sound are wonderful. It's a great bargain at its current price. I give it a two thumbs up! If I had more thumbs, I'd give them more.",
+      "date": 1714592805,
+      "review_helpful_count": 0,
+      "author_display_name": "jojo2526",
+      "author_alias": "jojo2526",
+      "developer_response": null
+    },
+    {
+      "id": "397860593136367",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Absolutely amazing game !! Pls multiplayer",
+      "date": 1713213292,
+      "review_helpful_count": 7,
+      "author_display_name": "S.e.x.Y",
+      "author_alias": "S.e.x.Y",
+      "developer_response": {
+        "body": "Hello! thank you for the review! yup multiplayer on the horizon :)",
+        "date": 1713216007
+      }
+    },
+    {
+      "id": "391951857335070",
+      "score": 3,
+      "review_title": "Stop working after V6.8 update",
+      "review_description": "The virtual environment is not properly detected after V6.8",
+      "date": 1723331527,
+      "review_helpful_count": 0,
+      "author_display_name": "Carb21",
+      "author_alias": "Carb21",
+      "developer_response": {
+        "body": "Thanks for reaching out! Are you still experiencing this issue with the virtual environment detection? If so, we’d love to help you out more efficiently—please join our Discord, and we’ll work with you to get things sorted as quickly as possible!",
+        "date": 1726176438
+      }
+    },
+    {
+      "id": "345374685318940",
+      "score": 4,
+      "review_title": "Short but sweet",
+      "review_description": "The MR in this game is nuts, was very unique to play, took a while to get a hang of the controls.\n\nLooking forward to playing in different room, especially as 5 levels of difficulty makes this game quite limited.",
+      "date": 1716728381,
+      "review_helpful_count": 0,
+      "author_display_name": "Ricz1001",
+      "author_alias": "Ricz1001",
+      "developer_response": null
+    },
+    {
+      "id": "328539690351123",
+      "score": 5,
+      "review_title": "Best AR App",
+      "review_description": "Love this app… The controles and physics is very very real, not to mention the fun with guns and bombs… This is one of the best examples of what is possible with AR for me…",
+      "date": 1720090353,
+      "review_helpful_count": 0,
+      "author_display_name": "Beartjie",
+      "author_alias": "Beartjie",
+      "developer_response": null
+    }
+  ],
+  "total": 60,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T10:07:22Z"
+}

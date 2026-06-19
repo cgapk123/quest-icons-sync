@@ -1,0 +1,34 @@
+{
+  "app_id": "9026284707491296",
+  "package_name": "com.FrozenDreams.colorfit",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "COLOR FIT Mixed Reality",
+  "rating_average": 3.3333333333333,
+  "rating_count": 3,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1485757589820764",
+      "score": 4,
+      "review_title": "Small tech demo",
+      "review_description": "It is a small tech demo which works correctly most of the time but has some hit detection or feedback quirks (hands go through with no impact).",
+      "date": 1775706608,
+      "review_helpful_count": 0,
+      "author_display_name": "0ops1e",
+      "author_alias": "0ops1e",
+      "developer_response": {
+        "body": "Hi, thanks for leaving a review, please make sure your room is lit enough. and make sure your headset camera lenses are clean.",
+        "date": 1776193498
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:08:13Z"
+}

@@ -1,0 +1,31 @@
+{
+  "app_id": "26121393534156971",
+  "package_name": "com.GK.MyGame",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Gorilla Killas",
+  "rating_average": 4.3333333333333,
+  "rating_count": 6,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1127025437149849",
+      "score": 1,
+      "review_title": "Bug",
+      "review_description": "Wont let me play",
+      "date": 1774108022,
+      "review_helpful_count": 0,
+      "author_display_name": "minty1yerp",
+      "author_alias": "minty1yerp",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:14:34Z"
+}

@@ -1,0 +1,34 @@
+{
+  "app_id": "26411504435146231",
+  "package_name": "com.FunniLTS.ProjectLagReborn",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Project Lag Reborn",
+  "rating_average": 5,
+  "rating_count": 4,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "771532769348334",
+      "score": 5,
+      "review_title": "Guys dont play the game yet it lags",
+      "review_description": "Im friends with the owner the game is lagging on startup dont play yet",
+      "date": 1771292882,
+      "review_helpful_count": 10,
+      "author_display_name": "GrimyVeeAre",
+      "author_alias": "GrimyVeeAre",
+      "developer_response": {
+        "body": "This issue has been fixed in patch V0.1.2",
+        "date": 1771308331
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:10:38Z"
+}

@@ -1,0 +1,97 @@
+{
+  "app_id": "5815420721867244",
+  "package_name": "com.Froly.Boxel2",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "BoxelXR",
+  "rating_average": 3.8888888888889,
+  "rating_count": 9,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "3706669729565992",
+      "score": 5,
+      "review_title": "A pleasant and intuitive experience",
+      "review_description": "Fun way to create voxel characters or props. It does really help to see the shape in 3d using an immersive interface where you can grab, rotate and scale the object or just tilt your head around and see the full shape. The export options would make this a good start to longer production pipeline. Could also be used directly for 3d printing?",
+      "date": 1693982484,
+      "review_helpful_count": 0,
+      "author_display_name": "BESpectacle",
+      "author_alias": "BESpectacle",
+      "developer_response": null
+    },
+    {
+      "id": "1353992595544597",
+      "score": 4,
+      "review_title": "Pretty fun, worth trying",
+      "review_description": "The controls are simple. You can choose a light or dark background, toggle grid line visibility, and select from around 10 preset color palettes. There are create, paint, and erase tools. I can only do those one element at a time - here are no plane/volume tools to create, paint, or erase rows at a time (that I could find). The UI is sharp and clear. The text is fairly small but no issue for average vision on a quest pro. There's no onboarding or in-app help",
+      "date": 1696641800,
+      "review_helpful_count": 1,
+      "author_display_name": "joe_0",
+      "author_alias": "joe_0",
+      "developer_response": null
+    },
+    {
+      "id": "1324193001895588",
+      "score": 4,
+      "review_title": "Fine in general, needs more work",
+      "review_description": "EDIT: I can export now, raising to 4 stars. You deserve it.\nOriginal:\nGeneral use is simple and clean. MR mode adds a lot. Please, keep working on it.\nMissing:\n- Row/plane add and delete, like in MagicaVoxel. Working one voxel at a time is too tedious.\n- Save doesn't work for me, so I can't export.\n- Use depth sensor to detect floor, maybe snap to it.",
+      "date": 1727775657,
+      "review_helpful_count": 1,
+      "author_display_name": "Adalad",
+      "author_alias": "Adalad",
+      "developer_response": null
+    },
+    {
+      "id": "465847673138929",
+      "score": 4,
+      "review_title": "Sigue así! Keep developing!",
+      "review_description": "Good app, is still basic but it have great potencial! Take in mind the posibility of make many parts individual and glue it all after! It Will expand the modeling an go for a coftable creation. Add please a scale change option for the grid and hide a little more the creation button.\nSorry about My English",
+      "date": 1729345250,
+      "review_helpful_count": 1,
+      "author_display_name": "fede.boretti",
+      "author_alias": "fede.boretti",
+      "developer_response": null
+    },
+    {
+      "id": "430855833093239",
+      "score": 3,
+      "review_title": "its cool but id doesnt save/export",
+      "review_description": "It has a simple but usefull design.\nI would love to implement it to my workflow, but it just wont save or export.\nCould be an awesome tool, but its just kinda useless.",
+      "date": 1717238638,
+      "review_helpful_count": 2,
+      "author_display_name": "jtandy92",
+      "author_alias": "jtandy92",
+      "developer_response": null
+    },
+    {
+      "id": "356244304231259",
+      "score": 4,
+      "review_title": "Great potential",
+      "review_description": "The potential of a true voxel editor, a true MagicaVoxel in VR.  Would love to use it to design my scenes and characters, but without the ability to save/export/load it is useless.\nWould love to help this tool grow.",
+      "date": 1717846033,
+      "review_helpful_count": 1,
+      "author_display_name": "retro.dirk",
+      "author_alias": "retro.dirk",
+      "developer_response": null
+    },
+    {
+      "id": "250073681203086",
+      "score": 3,
+      "review_title": "Doesn’t work",
+      "review_description": "Design is nice, but I can’t place a single voxel",
+      "date": 1691301057,
+      "review_helpful_count": 0,
+      "author_display_name": "alexsafayan",
+      "author_alias": "alexsafayan",
+      "developer_response": null
+    }
+  ],
+  "total": 7,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:07:06Z"
+}

@@ -1,0 +1,31 @@
+{
+  "app_id": "6143047889127620",
+  "package_name": "com.FruitBowl.Cit",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Cit",
+  "rating_average": 5,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "339793445249934",
+      "score": 5,
+      "review_title": "meow",
+      "review_description": "cool game i played before app lab",
+      "date": 1696847610,
+      "review_helpful_count": 0,
+      "author_display_name": "seagull.806579",
+      "author_alias": "seagull.806579",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:08:40Z"
+}

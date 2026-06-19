@@ -1,0 +1,56 @@
+{
+  "app_id": "7542485635769699",
+  "package_name": "com.FunTrain.VoteTest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Vote",
+  "rating_average": 4.4545454545455,
+  "rating_count": 11,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1287063565793514",
+      "score": 5,
+      "review_title": "Amused",
+      "review_description": "I just tried this out, curious but at the same time wary given how divisive the topic the game about and yet came out amused in getting that voting machine to work.",
+      "date": 1727915663,
+      "review_helpful_count": 2,
+      "author_display_name": "chatie",
+      "author_alias": "chatie",
+      "developer_response": null
+    },
+    {
+      "id": "1993126957810511",
+      "score": 5,
+      "review_title": "Super creative",
+      "review_description": "There was a lack of an app like this, and Fun Train just nailed it! Voting right now!",
+      "date": 1726029417,
+      "review_helpful_count": 4,
+      "author_display_name": "snanasgod",
+      "author_alias": "snanasgod",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1726172133
+      }
+    },
+    {
+      "id": "9000030693342875",
+      "score": 3,
+      "review_title": "its OK could be better",
+      "review_description": "i give it 3 stars since its free . its interesting but one thing that could have been better if they gave you a sample real ballot instead of the gimmicy one at the end.  sure the other names would have to be generic but it could give a better experence of what voting is like\n\nmaybe some narration or something too \nits OK i mean to try out. but could have been a bit better.",
+      "date": 1729743684,
+      "review_helpful_count": 2,
+      "author_display_name": "MrGeddings",
+      "author_alias": "MrGeddings",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:09:54Z"
+}

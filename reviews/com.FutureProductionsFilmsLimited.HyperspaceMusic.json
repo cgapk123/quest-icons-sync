@@ -1,0 +1,115 @@
+{
+  "app_id": "8244448648912472",
+  "package_name": "com.FutureProductionsFilmsLimited.HyperspaceMusic",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Hyperspace Music",
+  "rating_average": 3,
+  "rating_count": 9,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "768176136389215",
+      "score": 1,
+      "review_title": "£7.99 for nothing",
+      "review_description": "Didn’t work on my Quest 3. After playing the introductory clip, it does nothing. It doesn’t detect any of my MP3s in the Music folder. You can switch between different visualisations (if you manage to find the very poorly designed menu) but it still doesn’t play any music. I’ve requested a refund.",
+      "date": 1761600298,
+      "review_helpful_count": 7,
+      "author_display_name": "dmarcel",
+      "author_alias": "dmarcel",
+      "developer_response": {
+        "body": "Hi — really sorry you had this experience, I understand how frustrating that is.\n\n\nThis issue is usually caused by file access permissions on the Meta Quest 3. The app does work, but it needs permission to read your local files.\n\n\nQuick fix:\nGo to Settings → Apps → Hyperspace Music → Permissions\nEnable Files / Media access\n\n\nMake sure your MP3s are placed in the default “Music” folder on the root of your headset storage (not inside subfolders)\n\n\nOnce this is set, your music should be detected immediately.\n\n\nIf you're still having issues, please reach out to me directly — I’ll happily provide a free app code and personally help you get everything working.\n\n\nAppreciate your feedback — I’m actively improving the experience and UI based on comments like yours.\n\n\n - Hyperspace Music Team",
+        "date": 1771779454
+      }
+    },
+    {
+      "id": "1013654447406647",
+      "score": 1,
+      "review_title": "This is a joke, right?",
+      "review_description": "The \"immersive experience\" is just an animated background graphic that's cool enough but that has no relationship to the music, and small bars in the foreground that move slightly to the beat of the music. That's it. It's a joke.",
+      "date": 1743472872,
+      "review_helpful_count": 8,
+      "author_display_name": "FrankDrebbin202",
+      "author_alias": "FrankDrebbin202",
+      "developer_response": {
+        "body": "Thanks for taking the time to share your thoughts — I appreciate the honesty. While I understand the experience may not have matched your expectations, I’d like to offer a bit of context.\n\nThe current version of Hyperspace Music is focused on providing a visually atmospheric space where the music sets the tone, and yes, the visualizers and background animations are intentionally designed with minimalism in mind. That said, the animation system is reactive — though subtly — and designed to keep users in a meditative, immersive flow rather than overwhelm them with constant, flashy feedback. I spent a week on that code to ensure all visuals move in time to music!\n\nThat being said, your feedback is valid — and I’m already working on deeper audio-visual interactions, more dynamic visualizer behavior, and better music responsiveness for future updates. This is just the beginning.\n\nIf you have specific ideas or expectations you’d like to see brought in, I’m always open to that too. Feel free to reach out to us at hello@future-productions.com I would be happy to take on board your feedback.",
+        "date": 1750965599
+      }
+    },
+    {
+      "id": "697096453010664",
+      "score": 4,
+      "review_title": "Great Beginnings",
+      "review_description": "This is an easy to use, and delightful app. I have used Hyperspace to accompany my own song creation, and it will be published on Youtube, with proper acknowledgement to Hyperspace.",
+      "date": 1748197156,
+      "review_helpful_count": 0,
+      "author_display_name": "JayaJai",
+      "author_alias": "JayaJai",
+      "developer_response": {
+        "body": "Thanks JayaJai! This feedback is very valuable to us. We are working on some new UI this month and new visuals to take your content to a whole new level!\n\nIf you need any help in crediting us for the app, please feel free to reach out to the team via email: hello@future-productions.co.uk\n\nYour feedback means the world to us and we are constantly improving the app. If you have any suggestions please feel free to reach out via email.\n\nMany Thanks \n\nHyperspace Music Team",
+        "date": 1749459975
+      }
+    },
+    {
+      "id": "618938971296683",
+      "score": 5,
+      "review_title": "Hyperspace Music is an absolute gem",
+      "review_description": "Hyperspace Music is an absolute gem for VR enthusiasts and music lovers alike. The app offers an immersive experience that blends stunning visuals with your own music, creating a truly out-of-this-world journey. The visuals are nothing short of spectacular, with vibrant, dynamic environments that respond to the rhythm and beats of the music. Each track you play transforms into a unique visual spectacle, making the experience feel like you're floating through an endless galaxy of sound and color.\n\nThe app is incredibly intuitive, allowing users to effortlessly dive into its captivating world. Whether you're into relaxing ambient tunes or high-energy beats, Hyperspace Music adapts to any genre, offering a personal and immersive escape into music like never before. The attention to detail in the visuals is impressive, with fluid animations and otherworldly landscapes that make every session feel fresh and exciting.\n\nOverall, Hyperspace Music is a must-try VR app for anyone who appreciates the combination of immersive music and breathtaking visuals. It's a fantastic way to experience music in an entirely new dimension, and it's one of the best VR music apps out there!",
+      "date": 1742122888,
+      "review_helpful_count": 4,
+      "author_display_name": "Socialmocracy",
+      "author_alias": "Socialmocracy",
+      "developer_response": null
+    },
+    {
+      "id": "456309670907257",
+      "score": 5,
+      "review_title": "Beautiful App, Wonderful Creators",
+      "review_description": "What a truly beautiful app and such wonderful (kind, patient, generous with their time) creators.\n\nI was initially having many problems getting the app to play my mp3s (tip - currently store the mp3s in the \"music\" folder without folders for individual bands, albums, etc, since the current version of the app only plays mp3s randomly, not by artist, album....that may come with a later update) and one of the app creators was kind enough to help me troubleshoot my way to understanding  how the current app mp3 structure works....\n\nthe app itself, currently one of the few, if only, on the meta app store to focus on music...and include truly beautiful visuals that are great to view even without the music. \n\nLooking forward to the cool, exciting things the crrators have planned for future updates. Worth every penny and more, in my opinion.",
+      "date": 1732721698,
+      "review_helpful_count": 5,
+      "author_display_name": "thebookofloveboy",
+      "author_alias": "thebookofloveboy",
+      "developer_response": {
+        "body": "Hey there,\n\nThank you so much for this amazing feedback! It really made our day. \nWe're so glad you’re enjoying the app and that the visuals resonate with you!\n\nI’m happy we could help you sort out the MP3 setup—it’s great to see you sharing that tip with others! We know the current system is simple, but we’re definitely working on adding more features like organizing by artist or album in future updates.\n\nYour support and kind words mean everything to us. Stay tuned for some cool new features coming soon—we’ve got big plans!\n\nThanks again for being part of this journey with us. It’s people like you who keep us motivated.\n\nMany Thanks\n\nHyperspace Music Team",
+        "date": 1732788484
+      }
+    },
+    {
+      "id": "8012510668817543",
+      "score": 1,
+      "review_title": "Looks cool, but not really usable.",
+      "review_description": "Avoid this app. \n\nRequires MP3 files to work,\n but really needs to integrate with Spotify or YouTube music to be usable. \n\nTried contacting the dev for support but got back a really rude reply where they were obnoxious and unhelpful. \n\nAbsolutely avoid this app.",
+      "date": 1722847054,
+      "review_helpful_count": 9,
+      "author_display_name": "CorpusAbomino",
+      "author_alias": "CorpusAbomino",
+      "developer_response": {
+        "body": "Hi CorpusAbomino,\n\nThank you for your feedback. We regret to hear about your experience with our app. Currently, our app supports MP3 files because we believe in giving users the ability to own and access their music offline, even when internet connectivity is limited, such as during travel. We also prefer not to impose subscription fees, allowing our users greater freedom and flexibility. Furthermore you can play music via the Oculus web browser, Youtube and open Spotify (if you have sideloaded it) within the app. You just need to pause whats playing in app first.\n\nUpon review, we noticed that you are associated with a competitor company as a software developer, which might suggest potential bias in your review. Nevertheless, we value all feedback and are working on integrating additional music services like Spotify and YouTube Music in future updates.\n\nRegarding your support experience, we aim to provide excellent customer service, and we apologize if our previous response appeared abrupt. We welcome you to reach out to us directly at hello@future-productions.co.uk so we can address your concerns more effectively and improve our service.\n\nBest regards,\nK",
+        "date": 1728137228
+      }
+    },
+    {
+      "id": "3125535874249211",
+      "score": 4,
+      "review_title": "Looks good",
+      "review_description": "I have been looking fo a simple musical app with visual effects and am pleased to see that HyperSpace Music was available and at such a reasonable price.\r\nHaving downloaded and tried it out I am pleased with my purchase.\r\n\r\nI would like to suggest a few things though - hopefully the programmers already have these in the pipeline.\r\n\r\n1. Have a simple touch controller button press so that the user can switch to different visuals without having to use the HUD.\r\n\r\n2. Another simple controller button press to move to the next track, again without seeing the HUD come up.\r\n\r\n3. At present the listener/viewer has to put up with a random method for music selection. Keep this feature but also let the user select which track the want to hear and also have a track queuing method or playlist facility.\r\n\r\n4. More visuals please, why not give the user some programmable visuals similar to what Milkdrop gave us all those years ago. The user could be offered visual layers featuring jpg images, lyrics, song information, album covers as well as the eye candy currently available. Let the user control the layers i.e. fade them as required and let us build re-usable scripts to incorporate all these.",
+      "date": 1722874355,
+      "review_helpful_count": 3,
+      "author_display_name": "AGL1",
+      "author_alias": "AGL1",
+      "developer_response": {
+        "body": "Thank you for your feedback on HyperSpace Music! \n\nWe're thrilled to hear that you're pleased with the app and find the app visually appealing and user-friendly. \n\nYour constructive suggestions are highly appreciated, and we value the time you took to share them with us. Here are some responses to your points:\n\n    Simple Touch Controller for Visuals:\n\nThis is a great idea! Implementing a simple touch controller button to switch between different visuals without accessing the HUD would definitely enhance the user experience. We'll look into adding this feature in future updates.\n\nSimple Touch Controller for Track Navigation:\n\nWe agree that the ability to move to the next track with a simple button press, bypassing the HUD, would make transitions smoother. This feature is certainly worth considering for our next development phase.\n\nTrack Selection and Playlist Features:\n\nWe understand the desire for more control over music selection. Maintaining the random selection method while also offering users the ability to select specific tracks, queue them, or create playlists is an excellent suggestion. We'll explore ways to integrate these functionalities in the next few updates!\n\nMore Visuals and Customization:\n\nExpanding the range of visuals and offering programmable options similar to Milkdrop is an exciting idea. We aim to add additional visulizers to the app every few weeks. This is definitely something we'll consider for future updates.\n\nThanks again for your valuable feedback. We're committed to improving HyperSpace Music and making it the best musical app experience possible. \n\nStay tuned for updates!\n\nMany Thanks\nK",
+        "date": 1722882663
+      }
+    }
+  ],
+  "total": 7,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:12:00Z"
+}
