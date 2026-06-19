@@ -1,0 +1,73 @@
+{
+  "app_id": "7806925062699243",
+  "package_name": "com.XRDEVBR.Moviola",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Moviola Video Editor",
+  "rating_average": 2.6666666666667,
+  "rating_count": 12,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1231694898691839",
+      "score": 5,
+      "review_title": "Game changer!",
+      "review_description": "It's a good editor for those that are pretty well versed in video editing. There are some things missing but that's because it's early access still. But as far as the functionality goes, I really like the separate control panels for everything. It really feels like I'm making a movie in VR. I really think this app is on the right track.",
+      "date": 1748986657,
+      "review_helpful_count": 10,
+      "author_display_name": "MavericRFW",
+      "author_alias": "MavericRFW",
+      "developer_response": null
+    },
+    {
+      "id": "1384993252544251",
+      "score": 1,
+      "review_title": "Total Garbage",
+      "review_description": "Doesn’t even  import a video to edit.   Goes back to the tutorial pop up that I keep closing and reappears.    They call this app in work in progress stage but it’s not even working!\n\nAnd to answer the developers questions - as a developer myself - I can duplicate issue on meta quest 2 and 3 both with same behavior.  I update headset on a regular basis.   I’m not only person with this issue!    Also if Meta would  still allow me a refund I would!     \n\nBEWARE!",
+      "date": 1746249638,
+      "review_helpful_count": 10,
+      "author_display_name": "briccomini",
+      "author_alias": "briccomini",
+      "developer_response": {
+        "body": "Please join our discord channel for help (https://discord.gg/a2tD9xKU). We have many active users with no issues importing videos. As a fellow developer, it’d be more appropriate to submit a bug report before leaving a harsh review, since that only hinders future development. If you can’t get a refund from Meta, contact me and I’ll personally refund you.",
+        "date": 1746282626
+      }
+    },
+    {
+      "id": "1196125505235639",
+      "score": 4,
+      "review_title": "Good app, how do you export?",
+      "review_description": "It's good and fun to use, trouble is I have no clue how to export my edited videos, it only exports the timelines, and those can't be accessed through the gallery, please make it easier or able to export the edited videos",
+      "date": 1741485715,
+      "review_helpful_count": 5,
+      "author_display_name": "liamzilla4777",
+      "author_alias": "liamzilla4777",
+      "developer_response": {
+        "body": "Thank you for using Moviola Video Editor! 🎥✨ We’re glad you’re enjoying it!\n\nTo export your edit, simply press the Export button on the timeline player, and your video will be saved in the /Download folder on your Quest.\n\nIf you’re trying to access your exported videos through the Meta Quest gallery, they should appear there, but sometimes Meta’s system takes a while to refresh its cache. This means newly exported videos might not show up immediately and could take up to a day to appear.\n\nHowever, you can always access your exported videos right away using a file managemen or a video player app. Again, they are stored in the /Download folder on your Quest.\n\nPlease keep sending feedback, requesting new features, and reporting any issues through the app’s feedback section or on our Discord channel! 😊",
+        "date": 1741545532
+      }
+    },
+    {
+      "id": "529877270097223",
+      "score": 3,
+      "review_title": "So far 3 stars",
+      "review_description": "I didn't even get around actually using the editing controls.   So far spent a few hours trying to import videos.   Turns out that I don't see why you should download the app to your PC when you can just as well move the video files to your download folder.  Also the APP wouldn't recognize my Quest 3 with my link option on or off.    But you still need the PC to move your files around as you can't do it on the Quest, at least I haven't found a way to do it.  \nSo I only got as far as loading videos that I recorded off my Quest during gameplay.  Anyone knows those files can get pretty big so I'm using this to edit those down before exporting or sharing.   \nWill update the review further when I start editing but so far has been a headache just importing.",
+      "date": 1736359613,
+      "review_helpful_count": 8,
+      "author_display_name": "JackoMuffin",
+      "author_alias": "JackoMuffin",
+      "developer_response": {
+        "body": "Hi there,\n\nThank you so much for sharing your feedback! I understand how frustrating it can be when the initial experience isn’t as smooth as you’d hoped, and I truly appreciate you taking the time to let me know about your experience.\n\nJust to clarify, the Moviola Digest PC app isn’t required—it’s a tool I designed to help filmmakers with tasks like bulk file conversion, transferring files to the Quest, and adding features like timecode burning. That said, you can definitely use any file manager app directly on your Quest to move files into the /Download folder for the app to recognize them. In fact, in the next update, a new feature will be added to let you set up a working environment (kinda obvious that it should have been implemented before) - that will allow you to choose the folder where your video files are loaded in the app, making the process much smoother.\n\nIf you run into any issues or have questions, please feel free to join the Discord community, I’m constantly gathering feedback to improve the app!\n\nThanks again for giving the app a try, and I hope you’ll stick with me as I continue to improve and grow it!\n\nKind regards,\nxr dev br",
+        "date": 1736446790
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T19:08:51Z"
+}

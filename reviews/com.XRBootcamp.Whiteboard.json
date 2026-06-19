@@ -1,0 +1,42 @@
+{
+  "app_id": "7859538527492812",
+  "package_name": "com.XRBootcamp.Whiteboard",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Napkin",
+  "rating_average": 2.6666666666667,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1189381066256556",
+      "score": 1,
+      "review_title": "No left handed support",
+      "review_description": "Your controls are stuck on right-handed controls with no way to switch. Options are WAY too limited.",
+      "date": 1743914008,
+      "review_helpful_count": 0,
+      "author_display_name": "MavericRFW",
+      "author_alias": "MavericRFW",
+      "developer_response": null
+    },
+    {
+      "id": "1902412436915596",
+      "score": 5,
+      "review_title": "Simple, effective whiteboard",
+      "review_description": "Does what it says, plain and simple. Love having unlimited blackboards in my office for brainstorming with my buddies.",
+      "date": 1734420050,
+      "review_helpful_count": 1,
+      "author_display_name": "ong.sean",
+      "author_alias": "ong.sean",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T19:08:36Z"
+}

@@ -1,0 +1,53 @@
+{
+  "app_id": "9871273239620561",
+  "package_name": "com.XeowareInteractive.HelloMoki",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Hello Moki",
+  "rating_average": 4.4375,
+  "rating_count": 16,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1052168417972385",
+      "score": 1,
+      "review_title": "Game sucks.",
+      "review_description": "1: Cringe gubby behind house\n2:Player model sucks, hands dont work\n3:Bad monster models, and monsters dont even chase you.\n4: Level 2 monster has bad music playing when near you",
+      "date": 1770864941,
+      "review_helpful_count": 1,
+      "author_display_name": "KingSquirreI",
+      "author_alias": "KingSquirreI",
+      "developer_response": null
+    },
+    {
+      "id": "967361013125146",
+      "score": 4,
+      "review_title": "update discord code",
+      "review_description": "pretty fun looking could use a little work and maybe some servers",
+      "date": 1769385308,
+      "review_helpful_count": 0,
+      "author_display_name": "VBalI",
+      "author_alias": "VBalI",
+      "developer_response": null
+    },
+    {
+      "id": "1067139818667448",
+      "score": 5,
+      "review_title": "Spooky",
+      "review_description": "Very so spooky 😱😱",
+      "date": 1748649909,
+      "review_helpful_count": 12,
+      "author_display_name": "hazel.dev",
+      "author_alias": "hazel.dev",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T19:11:52Z"
+}

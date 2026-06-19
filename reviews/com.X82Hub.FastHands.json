@@ -1,0 +1,56 @@
+{
+  "app_id": "7779118745509234",
+  "package_name": "com.X82Hub.FastHands",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "FastHands",
+  "rating_average": 4.6666666666667,
+  "rating_count": 6,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "2298588453870407",
+      "score": 4,
+      "review_title": "Amazing game",
+      "review_description": "Incredibly fun parkour with hand driven movement that feels as natural as Orion Drift's",
+      "date": 1746950575,
+      "review_helpful_count": 3,
+      "author_display_name": "YoloFomoMoFo",
+      "author_alias": "YoloFomoMoFo",
+      "developer_response": null
+    },
+    {
+      "id": "718295914112584",
+      "score": 4,
+      "review_title": "Some thoughts",
+      "review_description": "This shows a lot of promise. I love platformers/Parkour games, and the feel of flying around in VR. However, it needs some polish as well as more content before it's a 5-star game.\n\nSome things I noticed:\n\n- Climbing with my palms seems to work better in hand tracking mode\n- The \"spider-climbing\" with the fingers didn't seem to work at all. I wiggled my fingers as instructed...nothing happened.\n- Running/locomotion doesn't work very well in hand tracking. I could only drift forward very slowly. It seemed to be much more effective when I was holding the controllers.\n- The game force-closed during my first playthough\n- A few times the screen started slowly spinning in circles, as if I was smooth-motion turning. This was in hand tracking; I didn't press anything and I'm not sure why this happened.\n\nIn my opinion, this next one is huge...\n- The background is blurry. Even worse, it unfortunately is truly just a flat 2D backdrop. To REALLY create immersion, it needs to be part of the actual environment (like in TO THE TOP) Buildings in the foreground should move faster than those in the distance, etc. When falling, there is no change in the flat, 2D background. Instead, it should look like one is falling toward it. The \"particles\" moving away from you just doesn't cut it. I imagine it might be a lot of work to change this, but it desperately needs it.\n\nThe game also needs more content and variation in worlds, etc.\n\nOverall, this game could be amazing, but it needs a lot more polish to get there. I'm excited to see where it goes.",
+      "date": 1748642232,
+      "review_helpful_count": 0,
+      "author_display_name": "QUACKBIRTH",
+      "author_alias": "QUACKBIRTH",
+      "developer_response": {
+        "body": "Thanks for your feedback and for seeing the potential :) I've just uploaded a video to hopefully help with some of your issues and I've included more general tips so I can point other people to it in the future: https://youtu.be/ycibDb3bItA\n\nIn short (but video shows it better)\n* For climbing, make sure palms are facing the wall when using controllers otherwise you won't stick.\n* Spider fingers isn't about wiggling, you move them in a spider crawling motion on the hand that is attached to the wall (see video). For controllers, just press / release grip repeatedly. I will try to improve the instructions.\n* I suspect you had hand tracking issues due to hands being too low or close to your body or maybe bad lighting conditions. Again see the video, but try making sure your hands are visible to the tracking cameras by raising them into view a little more.\n* Unwanted turning is probably due do the point-to-turn feature accidentally being activated. I suggest you switch this off in the palm menu. Settings -> custom settings -> point to turn -> disable. I'm tempted to just remove it or disable it by default.\n\nI'll have to think about the background, but I do understand your point. It would require more processing power to have a full 3d background environment and I want to have all that available for more complex areas that you actually interact with. It can run at 120Hz though, so I do have some headroom to play around with. You may prefer the \"Space\" style (available via hand menu) as you wouldn't expect to reach distant stars while falling.\n\nIn the short term I want to add more missions to the narrative adventure and then add more mini-games like the ones currently dotted around the base. Don't forget you also have multiplayer if you can get some friends interested, including special multiplayer game types. If I can get more people interested, I'd love to add a \"season 2\" which would bring a lot more variation. I have loads of ideas to explore.\n\nIn the next patch release I will try to embed a link to a better video in the game to help people that are struggling.\n\nThanks again.",
+        "date": 1748701175
+      }
+    },
+    {
+      "id": "3590405261090920",
+      "score": 5,
+      "review_title": "Sehr gutes Spiel",
+      "review_description": "Hier mein test.....https://youtu.be/2jgdtKzRj40......",
+      "date": 1749997402,
+      "review_helpful_count": 0,
+      "author_display_name": "VR-Matters",
+      "author_alias": "VR-Matters",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T19:06:33Z"
+}
