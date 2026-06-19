@@ -1,0 +1,267 @@
+{
+  "app_id": "6025394477525637",
+  "package_name": "com.StatusPro.NFLProEra2",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "NFL PRO ERA II",
+  "rating_average": 4.0138504155125,
+  "rating_count": 1083,
+  "review_count": 1083,
+  "reviews": [
+    {
+      "id": "934356409138245",
+      "score": 4,
+      "review_title": "Incredible for being in its infancy.",
+      "review_description": "🎮 NFL Pro Era II – Structured Gameplay Feedback & Bug Report\n\nFirst, I want to say I genuinely enjoy the game. The immersion at QB is strong, and the concept has huge potential. I’m submitting this because I want the game to succeed and feel polished at its current price point.\n\nBelow are reproducible issues and feature suggestions:\n\n🐞 1. Player Identity / Roster Bug\n\nIssue:\n\nWhen throwing the ball, the receiver sometimes displays my quarterback’s number and last name instead of the correct wide receiver (example: should show AJ Brown but shows my QB info).\n\nResult:\n\nBreaks immersion and suggests player ID mapping is misaligned.\n\nSuggestion:\n\nReview roster-player ID assignment logic and ensure QB operator profile does not override WR metadata.\n\n📋 2. Outdated Roster Data\n\nIssue:\n\nCurrent team rosters include players who have not been on those teams for multiple seasons.\n\nExamples observed:\n\t•\tAndre Swift\n\t•\tTravis Kelce\n\nSuggestion:\n\nPush a current-season roster update or implement live roster syncing if possible.\n\n🎧 3. Audible System Reversion Bug\n\nSteps to Reproduce:\n\t1.\tCoach calls a play\n\t2.\tOpen audible\n\t3.\tSelect new audible\n\t4.\tMenu reverts back to original coach play\n\nIssue:\n\nForces repeated audible selection and disrupts flow.\n\nSuggestion:\n\nOnce audible is selected, lock it in without reverting UI.\n\n🎉 4. Post-Touchdown Camera Restriction\n\nIssue:\n\nAfter scoring, player cannot freely turn around to view celebration or teammates.\n\nImpact:\n\nReduces immersion in VR environment.\n\nSuggestion:\n\nAllow full 360° movement post-score.\n\n⏱️ 5. End-Game Extra Point Skipped\n\nScenario:\n\nScored touchdown with 2 seconds remaining.\n\nIssue:\n\nGame immediately ended without offering extra point attempt.\n\nImpact:\n\nRemoves strategic football realism.\n\nSuggestion:\n\nAllow extra point attempt before final whistle logic executes.\n\n🤝 6. Fist Bump / Quick Sim Interaction Bug\n\nIssue:\n\nIf I complete four fist bumps before end of quarter, the progress does not carry over.\nAdditionally, performing four fist bumps does not trigger consistent Quick Sim transition.\n\nSuggestion:\n\n• Ensure interaction counters persist between quarters\n• Allow optional auto-Quick Sim trigger after completed interaction sequence\n\n🏈 7. Additional Immersion Features Requested\n\nAdding these would significantly enhance realism:\n\n• Helmet taps\n• Facemask grab celebration\n• Head bump animations\n\nVR football thrives on physical interaction — this would elevate sideline and scoring immersion.\n\n💬 Closing Thoughts\n\nThis game is still priced as a premium VR sports experience. The foundation is strong, but polish in roster accuracy, interaction persistence, and play-calling logic would significantly improve player retention and perception.\n\nI’m submitting this in good faith because I want to see this title become the definitive VR football experience.\n\nThank you for your time and continued development.",
+      "date": 1772271935,
+      "review_helpful_count": 0,
+      "author_display_name": "UnkusSpreensteen17",
+      "author_alias": "UnkusSpreensteen17",
+      "developer_response": null
+    },
+    {
+      "id": "653952904400647",
+      "score": 1,
+      "review_title": "Abandoned",
+      "review_description": "do not buy this game it is clear that the devs have abandoned it and spend all their time updating nfl pro era one which they can barely even do on itself everything that made this game special has been put into nfl pro era and now everything that made this game is special is now an nfl pro era one",
+      "date": 1759367953,
+      "review_helpful_count": 7,
+      "author_display_name": "julian.midget.man",
+      "author_alias": "julian.midget.man",
+      "developer_response": null
+    },
+    {
+      "id": "1116279780600447",
+      "score": 3,
+      "review_title": "No updates",
+      "review_description": "I swear the last time this had an update was last year, but they’re still updating the first NFL pro era, it’s insane I spent money on a game that has now less than the original game, even while being out for a year",
+      "date": 1758591705,
+      "review_helpful_count": 3,
+      "author_display_name": "deadpoolguy_2090",
+      "author_alias": "deadpoolguy_2090",
+      "developer_response": null
+    },
+    {
+      "id": "760576763129962",
+      "score": 2,
+      "review_title": "Super Bowl Wins",
+      "review_description": "Why is it when I win the Super Bowl my ring doesn’t show up in the gallery? I’ve won about 6 Super Bowls with different teams, but only 3 rings show up and are displayed in the ring gallery. What’s going on?",
+      "date": 1753307286,
+      "review_helpful_count": 1,
+      "author_display_name": "Masterwings42",
+      "author_alias": "Masterwings42",
+      "developer_response": null
+    },
+    {
+      "id": "736161912288453",
+      "score": 2,
+      "review_title": "Multi-player..",
+      "review_description": "No multi-player anymore as of July 1st!!!!! What's the deal??????!!!!!!",
+      "date": 1751933468,
+      "review_helpful_count": 0,
+      "author_display_name": "Ringo66",
+      "author_alias": "Ringo66",
+      "developer_response": null
+    },
+    {
+      "id": "617400074560777",
+      "score": 5,
+      "review_title": "What to buy this game",
+      "review_description": "This game is amazing here’s why \n\nRaining and want to play football get the game \n\nDon’t like grass play this\n\nLike football buy this game\n\nHave no friends to play football play this game \n\nLike football get this game \n\nYou live with your mom get this game\n\nGET THIS GAME GET THIS GAME GET THIS GAME GET THIS GAME NOW😠",
+      "date": 1738972867,
+      "review_helpful_count": 8,
+      "author_display_name": "gamezfamily41915",
+      "author_alias": "gamezfamily41915",
+      "developer_response": null
+    },
+    {
+      "id": "949740000402834",
+      "score": 5,
+      "review_title": "Multiplayer Settings",
+      "review_description": "Why isn’t PRO ERA 2 getting the 2025 update is this game now obsolete ￼",
+      "date": 1733008772,
+      "review_helpful_count": 24,
+      "author_display_name": "76alex",
+      "author_alias": "76alex",
+      "developer_response": null
+    },
+    {
+      "id": "448095084554282",
+      "score": 5,
+      "review_title": "Love the new features",
+      "review_description": "For the devs, just wanted to say it would be cool if you would add weather rain,snow whatever when playing a season. And have it effect the gameplay.",
+      "date": 1762152344,
+      "review_helpful_count": 0,
+      "author_display_name": "westcoastboi69",
+      "author_alias": "westcoastboi69",
+      "developer_response": null
+    },
+    {
+      "id": "176283892237913",
+      "score": 2,
+      "review_title": "Keep Freezing",
+      "review_description": "It could be fun. But Ive been stuck on game 2 of my 1st season forever. If I pause the game for a minute, all of a sudden I cant click anything on the menu and i have to quit the game and restart.",
+      "date": 1701734713,
+      "review_helpful_count": 0,
+      "author_display_name": "kpinto88",
+      "author_alias": "kpinto88",
+      "developer_response": {
+        "body": "Patch 2 is now LIVE @kpinto88 - Come back and let us know if that helps your review!",
+        "date": 1702338401
+      }
+    },
+    {
+      "id": "156239540901735",
+      "score": 5,
+      "review_title": "Good But",
+      "review_description": "There’s a lot of glitches they need to fix but other then that I can’t stop playing the game",
+      "date": 1697822633,
+      "review_helpful_count": 0,
+      "author_display_name": "NUTTY65",
+      "author_alias": "NUTTY65",
+      "developer_response": null
+    },
+    {
+      "id": "156004560940657",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Worth the money \nBest be sports game I have played yet",
+      "date": 1704514441,
+      "review_helpful_count": 0,
+      "author_display_name": "pancake.612306",
+      "author_alias": "pancake.612306",
+      "developer_response": {
+        "body": "Love it @Pancake.612306 *FIST BUMP* \nJoin our Community Discord! \nINVITE: https://discord.gg/QqZgekgq",
+        "date": 1704733368
+      }
+    },
+    {
+      "id": "155605724303029",
+      "score": 4,
+      "review_title": "No timeouts on sideline and clock issues",
+      "review_description": "So the main issue is the fact that you can’t call a timeout on the sideline. It stinks when someone can run out the whole 4th quarter on 8 carry’s to a running back. It’s a smart tactic for players who understand but it’s very unrealistic. I just played a game with the opponent having 85% possession time to my 15% and the score was 32-24 so It just seems kind of ludicrous to me.",
+      "date": 1698816909,
+      "review_helpful_count": 2,
+      "author_display_name": "Metap78",
+      "author_alias": "Metap78",
+      "developer_response": null
+    },
+    {
+      "id": "154070147786812",
+      "score": 4,
+      "review_title": "Cool game",
+      "review_description": "I like this game a lot but it still has some bugs like the ball flying past you when your hitting the trigger and sometimes you just randomly fumble too but other then that the game is very well rounded.",
+      "date": 1698014661,
+      "review_helpful_count": 0,
+      "author_display_name": "MillsvrMills",
+      "author_alias": "MillsvrMills",
+      "developer_response": null
+    },
+    {
+      "id": "153939784478788",
+      "score": 1,
+      "review_title": "Trash",
+      "review_description": "Makes me wonder if I should ever turn on my oculus again",
+      "date": 1704332208,
+      "review_helpful_count": 0,
+      "author_display_name": "ace65328",
+      "author_alias": "ace65328",
+      "developer_response": {
+        "body": "Hey igor.794669 - We would love some clarity into the issues you're facing! Please email us at | community@status.pro | to see if we can help improve your experience! Also be sure to check out our latest addition to the game. Immersive Passing! The community agrees it's a W. Give it a try and get back to us!",
+        "date": 1704382338
+      }
+    },
+    {
+      "id": "152871827919300",
+      "score": 3,
+      "review_title": "It’s good, but I’d rather play Madden",
+      "review_description": "This game is really fun but I feel like I can only get the ball to the person I want to like 50% of the time.  And it’s just not fun when the game throws it to someone who is double covered throw a pick because the game didn’t throw it to who I want to. I rather play madden cause I can control where I throw the ball. If you can figure out how to throw the ball to the person you \nwant to all the time it would be fun, but I just can’t seem to get it to work. Plus you can’t even play defense and it seems like my defense never gets any stops and I’m constantly on my back trying to score and there’s no difficulty rating for the defense. It’s just for passing. and when I’m throwing the ball, I can control where my player goes afterwards. Sometimes in this game they’ll just run to the side. I give it 2 stars but  if you can get all these things to work in your favor it would be 3 maybe even 4 stars",
+      "date": 1704144471,
+      "review_helpful_count": 1,
+      "author_display_name": "Thenintendokid",
+      "author_alias": "Thenintendokid",
+      "developer_response": {
+        "body": "We have some great tips for you here @Gavin.wags1 GET READY! First make sure you're on the latest version of the game 2.3.0. Next, we now have two types of throwing mechanics in Pro Era - Immersive and Legacy. Immersive keys off of arm movement, placement and strength. Legacy keys off of your vision for aiming. We've heard a lot of good things about the new Immersive mechanic. Make sure you're using your arm to aim and using the practice field to hone in your skill. \n\nNext look for TEAM SIM Difficulty and crank it up for better CPU defensive play. Give these a try and get back to us!",
+        "date": 1704297325
+      }
+    },
+    {
+      "id": "152478227951241",
+      "score": 4,
+      "review_title": "Sim defense bug",
+      "review_description": "When you sim the defense in the season mode you get to sit in the field can't pick a play can't go back to locker room but the play clock keeps running this need fixed but other than that I don't really have any complaints it's definitely a great football vr game just needs some bugs fixed",
+      "date": 1699640838,
+      "review_helpful_count": 0,
+      "author_display_name": "wpburso1",
+      "author_alias": "wpburso1",
+      "developer_response": {
+        "body": "Hey @XxPHSxX - First, thank you for the great review. Second, please email | support@status.pro | and we'll take a look at your play clock issue! It's great to hear your having fun with NFL PRO EAR 2!",
+        "date": 1699979027
+      }
+    },
+    {
+      "id": "152284347977980",
+      "score": 2,
+      "review_title": "It’s fun but not as fun as I expected",
+      "review_description": "So I just got the oculus quest 2 and the reason was to play this game I bought the game and it was a little laggy so I was like ok this should fix, it got way worse and overall it’s just got really a good game I think they need to add career mode that would be pretty cool",
+      "date": 1703954829,
+      "review_helpful_count": 0,
+      "author_display_name": "ANT_MAN_095",
+      "author_alias": "ANT_MAN_095",
+      "developer_response": {
+        "body": "Hey @Ant_Man_095 Thank you for the information! Email us at | support@status.pro | to see if we can troubleshoot some of that lag you're experiencing! Let us know how it goes!",
+        "date": 1704898448
+      }
+    },
+    {
+      "id": "152152044657571",
+      "score": 5,
+      "review_title": "So much fun",
+      "review_description": "The game is so much fun but they need to add flags",
+      "date": 1703977868,
+      "review_helpful_count": 0,
+      "author_display_name": "officialbubbacvr",
+      "author_alias": "officialbubbacvr",
+      "developer_response": {
+        "body": "LET'S GO! *HIGH FIVE* @bubbac412 Feedback heard! Thanks.",
+        "date": 1704897635
+      }
+    },
+    {
+      "id": "151320864737139",
+      "score": 4,
+      "review_title": "Good game",
+      "review_description": "With the improvements this game got (11/7/23) It is a very fun game to play.",
+      "date": 1699384014,
+      "review_helpful_count": 0,
+      "author_display_name": "Jojo6922",
+      "author_alias": "Jojo6922",
+      "developer_response": {
+        "body": "Hey @jojo6922 - We're glad to hear that since the update you're having a great time. We'll see you on the field!",
+        "date": 1699979157
+      }
+    },
+    {
+      "id": "150579084814758",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "I love this game it’s like madden but your in it",
+      "date": 1703818749,
+      "review_helpful_count": 0,
+      "author_display_name": "JohnMarstonRDR67",
+      "author_alias": "JohnMarstonRDR67",
+      "developer_response": {
+        "body": "BOOM! *HIGH FIVE* Thanks @pat.12345\nJoin us in the Community Discord! \nINVITE: https://discord.gg/QqZgekgq",
+        "date": 1704902689
+      }
+    }
+  ],
+  "total": 20,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-19T17:17:19Z"
+}

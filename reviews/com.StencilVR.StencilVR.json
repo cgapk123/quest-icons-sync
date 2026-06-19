@@ -1,0 +1,600 @@
+{
+  "app_id": "7669797506458060",
+  "package_name": "com.StencilVR.StencilVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Stencil VR",
+  "rating_average": 3.5891472868217,
+  "rating_count": 129,
+  "review_count": 47,
+  "reviews": [
+    {
+      "id": "1053957047805094",
+      "score": 3,
+      "review_title": "Has potential",
+      "review_description": "There are some great things about this app. It enables me to place an image on the wall without too much ado and I can move it as I need with a lot of options. This is great and certainly allows me to speed up the time it takes to get an image blown up onto a wall. That being said, there were some gaping holes for me in user functionality. 1) you are limited in the amount of files you can save and it is a pretty small amount. I am doing a project with 30 walls and I was only able to upload just over half of them before the app kept telling me I was out of space. This seems absolutely ridiculous. 2) there is no way to save a layout manually, specifically within a room with more than one stencil placement. I want to be able to put 10 stencils up in a room, “save” the layout and just open it from there next time I arrive. Why is that not an option?  3) in a similar vein, there is no way to save even the placement of one stencil. The program sometimes remembers a familiar area, but sometimes it doesn’t. If it doesn’t remember the area, you have to completely restart the process of getting your stencil on the wall in the same place it was before. This seems like something the program should easily have available to its users. I have spent countless hours this week replacing images because there was no way to save the placement and the app didn’t recognize the room the next time I went.",
+      "date": 1776897498,
+      "review_helpful_count": 47,
+      "author_display_name": "libby.bratt",
+      "author_alias": "libby.bratt",
+      "developer_response": {
+        "body": "On the storage limit, the current cap is 20MB total across all uploads. We will be working on increasing this in the future!\nOn saving stencil placement, there is actually an autosave option that may help here! If you go to the Draw tab it should automatically save your previous placement so you can pick up where you left off. If you're still having trouble with this, feel free to reach out to us at help@stencilvr.com and we'll be happy to help you get it working!\nWe always welcome feedback like this -- thank you for taking the time to share it!",
+        "date": 1777246595
+      }
+    },
+    {
+      "id": "1128390767028259",
+      "score": 4,
+      "review_title": "Form Over Function",
+      "review_description": "I’m pretty happy with the placement tools, but this program was not built for serious artists. This is for expecting mothers who want to paint a mural in their new nursery or college students that want to slap out some pop art for a quick buck. I need this program to be fit for offline use. It needs to at least be able to save my entire stencil library to the headset I’m using. It also wouldn’t hurt to be able to sort and organize those stencils into projects. I would gladly pay extra for more functionality. I didn’t say I would pay a subscription fee. Listen closely, I would pay a substantial amount more for a single purchase of a more functional product. One that doesn’t tie me down into sterile environments clinging to spotty wifi signals.",
+      "date": 1781381182,
+      "review_helpful_count": 3,
+      "author_display_name": "Comer",
+      "author_alias": "Comer",
+      "developer_response": {
+        "body": "Thank you for your feedback! We will take this into account for our future updates. For the stencil library save, our app does save the position of the last 6 stencils you have placed, and should work offline comfortably! Please reach out to us at help@stencilvr.com if you are facing any issues with those features, and we will be happy to help solve them for you.",
+        "date": 1781799521
+      }
+    },
+    {
+      "id": "1103877736147253",
+      "score": 4,
+      "review_title": "Bend 🧱",
+      "review_description": "Please consider adding a feature that allows users to warp, bend, or split a single stencil seamlessly across curved or angled surfaces—specifically 90-degree corner walls and curved staircase walls.\n\n​The Problem: Currently, when working on a corner or a curved structure, the image does not wrap natively. Projecting a flat image onto these surfaces causes severe distortion, and manually splitting images into sections is highly inefficient.\n\n​Suggested Solution: An in-app adjustment tool (such as a mesh warp, corner-pinning, or multi-plane anchor system) that lets users bend a single stencil flush against a curved radius or a sharp corner transition.",
+      "date": 1779437350,
+      "review_helpful_count": 7,
+      "author_display_name": "kvintkek",
+      "author_alias": "kvintkek",
+      "developer_response": {
+        "body": "This is a great suggestion, thank you! We have plans to support this feature and will be working on it in the future.",
+        "date": 1779510574
+      }
+    },
+    {
+      "id": "1192307240628107",
+      "score": 2,
+      "review_title": "Buggy after update",
+      "review_description": "I had a previous glowing review. The problem? The  update. Drift is a SIGNIFICANT issue. A huge one. No amount of depth change or depth analysis or pinning,my images (as recommended) cures the constant drift  of the image with the SLIGHTEST movement. Im having to manually readjust at every turn. This didnt happen NEARLY as much before this update. I really want to love this app. But over the course of a mural project the app has gotten progressively worse. Unfortunate. This had so much potential. Not to mention the fact that some of the functions just dont seem like they are in intuitive places. Scale should be in positioning, alongside depth. I understand button constraints but just makes more sense to have it with positioning. And speaking of scale, as soon as you click a corner it jumps the scale and you have to readjust significantly. Very bad to use. Youre better off using the the button pad. As well, the detailed view is WORSE than the regular view. How does that even happen? Also, the images wont close out. There is no close out of an image, you uave to manually shut the entire app down. Basic stuff. Quality control just isnt there right now. All in all its become slightly useable where before it held pretty firm in its placement. The whole point of the app is to be reliable and right now, its not.",
+      "date": 1781502646,
+      "review_helpful_count": 0,
+      "author_display_name": "WelsedOne",
+      "author_alias": "WelsedOne",
+      "developer_response": {
+        "body": "Thank you for your feedback, and we apologize for the inconvenience! If you are willing, please reach out to us at help@stencilvr.com and we will look into the issues you are facing to solve this for you!",
+        "date": 1781799429
+      }
+    },
+    {
+      "id": "1052724784592791",
+      "score": 4,
+      "review_title": "Feedback",
+      "review_description": "Please add that you can use hand tracking in the app so that you don't always have to switch from controllers to controllers and vice versa. In addition, it would be good if there was a simple button that allowed you to use to turn the template in and hide it so that you can look at your drawing in between.\nThat would be great",
+      "date": 1775438056,
+      "review_helpful_count": 26,
+      "author_display_name": "JoschP",
+      "author_alias": "JoschP",
+      "developer_response": null
+    },
+    {
+      "id": "1115133398347242",
+      "score": 5,
+      "review_title": "Very Happy",
+      "review_description": "I got this to change images on my store's front glass door.  Works like a champ.  I line up the image on my door, and can still walk away and help customers, and then return to the image right where I left it.  I have even streamed it to a local PC for customers to see.  Totally worth the cost.  The controls are listed in tabs, so you have to be in the correct tab to have the tools you need.  Once you get used to that, it is a breeze, and it makes so much sense.",
+      "date": 1778182563,
+      "review_helpful_count": 5,
+      "author_display_name": "W4RM4N",
+      "author_alias": "W4RM4N",
+      "developer_response": null
+    },
+    {
+      "id": "993900220482227",
+      "score": 2,
+      "review_title": "Missing Features (Anchor & Shape Menus)",
+      "review_description": "Hi, I’ve been using Stencil VR on my Meta Quest and I’m running into an issue. My version seems to be missing features that I see in your video, like the anchor menu and the shape menu. The app feels outdated compared to what you are using.\nIs this due to version differences, a beta build, or a gradual rollout? I’ve already checked for updates but nothing new appears. It would be great to know if these features will be available to everyone soon.",
+      "date": 1776584394,
+      "review_helpful_count": 7,
+      "author_display_name": "GadreelGeminis",
+      "author_alias": "GadreelGeminis",
+      "developer_response": {
+        "body": "Hi, the Anchor and shape menus are on our beta, yes! You can access it by logging into your account at app.stencilvr.com, signing up for the beta, and follow the instructions on the beta page to switch your app version.",
+        "date": 1777246452
+      }
+    },
+    {
+      "id": "1106082425925832",
+      "score": 5,
+      "review_title": "GREAT WORK !!",
+      "review_description": "This app so far has done what i have exspected and more.. Im unsure but is there a way to upload pics from my phone without the quest being on? So when I load into the app, ill have the pics downloading as it loads up etc? If not, that would really help out. \nGreat work !! Get it now as the price is a bargin !! \nThanks 😊",
+      "date": 1779293097,
+      "review_helpful_count": 1,
+      "author_display_name": "ZOOSHER_1978",
+      "author_alias": "ZOOSHER_1978",
+      "developer_response": {
+        "body": "Hi, you can upload your pictures directly to our website from your phone, the same way you would on a computer! Once you connect your headset to your account, the images should be available there. If you face any issues, please reach out to us at help@stencilvr.com and we can walk you through it!",
+        "date": 1779510894
+      }
+    },
+    {
+      "id": "1040016529203958",
+      "score": 3,
+      "review_title": "STORAGE CAPACITY FULL",
+      "review_description": "I can not get free space for uploading more stencils because the storage capacity shows completely full. I already deleted every previous stencil that i upoloaded, one by one. But after that the storage capacity doesnt free the space to upload new stencils. Anybody can help me ?",
+      "date": 1779479007,
+      "review_helpful_count": 0,
+      "author_display_name": "RunningWoodchuck4644",
+      "author_alias": "RunningWoodchuck4644",
+      "developer_response": {
+        "body": "Hi, please refresh your browser once you have deleted the images, and see if that helps! If not, please send us a screenshot of the error you are facing to help@stencilvr.com and we can help look into it for you!",
+        "date": 1779510666
+      }
+    },
+    {
+      "id": "1015529864743317",
+      "score": 5,
+      "review_title": "Awsome app",
+      "review_description": "This app helps me with drawing my picture on the canvas before painting",
+      "date": 1781882724,
+      "review_helpful_count": 0,
+      "author_display_name": "mrjboyle",
+      "author_alias": "mrjboyle",
+      "developer_response": null
+    },
+    {
+      "id": "957206837482664",
+      "score": 1,
+      "review_title": "Can’t get past the welcome screen",
+      "review_description": "Had high hopes to use this app for art on my Meta Quest 3s, however that was shot down when I was unable to even get past the welcome screen. It won’t allow me to click the blue “Get Started” button nor the red “Skip” button at the top. It basically won’t move from this screen. I created a profile in their page and have the enrollment code but no place to enter it. I tried all the things- headset is fully updated. Turned everything off and back on, reset the device, closed and reopened, controllers have their batteries everything charged. There’s apparently a glitch in the app. I emailed them for assistance but haven’t received a reply yet. This app was the whole reason I got a headset, super disappointed.",
+      "date": 1770242523,
+      "review_helpful_count": 64,
+      "author_display_name": "GlowingKoala838",
+      "author_alias": "GlowingKoala838",
+      "developer_response": {
+        "body": "Thank you for your feedback! I’m really sorry you had this experience. I can imagine how frustrating that must have felt, especially if Stencil VR was the main reason you bought your headset.\nWe did respond to your email within a day, but it’s possible our reply landed in spam. If you don’t see it, please check there.\nFrom what you described, this usually happens when the trigger isn’t being used to select buttons. In Stencil VR, you need to point at the button and press the trigger, not the grip. The grip won’t activate the blue “Get Started” or red “Skip” buttons.\nIf you’re still stuck, please reply to our email and we’ll walk you through it step by step. We’re happy to help get you up and running.",
+        "date": 1770858682
+      }
+    },
+    {
+      "id": "1168608449659595",
+      "score": 5,
+      "review_title": "Works Great So Far So Good",
+      "review_description": "Really happy with the app so far. It’s already fixed any wishes I had and everything is easy to use. Adding my images is easy and quick and the other features such as adjusting your image and locking it into place have so far worked really well. Very pleasantly surprised keep it up",
+      "date": 1778203015,
+      "review_helpful_count": 1,
+      "author_display_name": "QueenAudreyRose2016",
+      "author_alias": "QueenAudreyRose2016",
+      "developer_response": null
+    },
+    {
+      "id": "925102106990502",
+      "score": 5,
+      "review_title": "Game changer",
+      "review_description": "I've just done my first tracing and I could cry with joyful relief. I really struggle with scaling up my sketches for painting, I've tried grids, practice, practice, practice, but still struggled. This seems to have fixed everything. ***Artists new to VR will want to learn the controllers well before using this app*** e.g. Use your headset to watch streaming content in order to practice resizing windows, grabbing, and such. Experience the inconsistencies of the hardware before diving in to this excellent tool for artists!",
+      "date": 1774809691,
+      "review_helpful_count": 6,
+      "author_display_name": "Leaena401",
+      "author_alias": "Leaena401",
+      "developer_response": null
+    },
+    {
+      "id": "1180301245172196",
+      "score": 3,
+      "review_title": "?",
+      "review_description": "Not worked it out yet",
+      "date": 1781818647,
+      "review_helpful_count": 0,
+      "author_display_name": "Feralpleb",
+      "author_alias": "Feralpleb",
+      "developer_response": null
+    },
+    {
+      "id": "1415020603995903",
+      "score": 5,
+      "review_title": "From Zero to VR Artist in Minutes 🎨",
+      "review_description": "Stencil VR is one of those rare experiences that instantly clicks. The controls feel smooth and natural, making it easy to jump in and start creating without any frustration. What really stands out is how easy it is to pick it up and run with the existing images and or upload your own, it is just so self explanatory. \nWhether you’re doodling for fun or trying to create something more detailed, it’s incredibly relaxing and surprisingly immersive. \nAs a creative tool it absolutely shines, perfect for casual creators, stress relief, or anyone curious about making art in VR and I can see this being a go to for budding artists and even fully rounded artists that want to upscale an image for a large area.  It is so easy to manipulate your image to a wall, floor or ceiling.  Resize move around reorient  to make the perfect fit before you let loose with you colours",
+      "date": 1775602357,
+      "review_helpful_count": 2,
+      "author_display_name": "Magicmerlin007",
+      "author_alias": "Magicmerlin007",
+      "developer_response": null
+    },
+    {
+      "id": "1027604813772386",
+      "score": 2,
+      "review_title": "No email",
+      "review_description": "Once signed in I was told to go to the website and register where I would be given an email with a code…. I’ve tried several times and never receive the email (yes I’ve checked the junk mail). This is infuriating because I want to use this app on the be so badly!",
+      "date": 1774193393,
+      "review_helpful_count": 2,
+      "author_display_name": "Erd1313",
+      "author_alias": "Erd1313",
+      "developer_response": {
+        "body": "I am so sorry you are having trouble receiving your code! Please email us at help@stencilvr.com so I can manually verify your account for you. This will bypass the automated email entirely and get you into the app right away.",
+        "date": 1774470018
+      }
+    },
+    {
+      "id": "1127823457072711",
+      "score": 5,
+      "review_title": "Muralist",
+      "review_description": "I have to admit I was a little leery about getting this but what a game changer. I don’t have to struggle with a projector and pixels. I will never go back.",
+      "date": 1775837160,
+      "review_helpful_count": 2,
+      "author_display_name": "the.muralist.2026",
+      "author_alias": "the.muralist.2026",
+      "developer_response": null
+    },
+    {
+      "id": "1081517855051075",
+      "score": 4,
+      "review_title": "Good app",
+      "review_description": "It does what it promise. In the update swipe between the menu taps most be easier to adjust stencil while tracing.",
+      "date": 1777141696,
+      "review_helpful_count": 0,
+      "author_display_name": "Francissling",
+      "author_alias": "Francissling",
+      "developer_response": null
+    },
+    {
+      "id": "1093519707168575",
+      "score": 3,
+      "review_title": "Selection is crud.",
+      "review_description": "It's a nice app. However,  the stencil selection is really crappy. Just a lot of photos not stencils.",
+      "date": 1773341327,
+      "review_helpful_count": 3,
+      "author_display_name": "KaylaM0317",
+      "author_alias": "KaylaM0317",
+      "developer_response": {
+        "body": "Thanks for the honest feedback. You're right—having high-quality default stencils for new users is something we want to implement in the future as we grow. Currently, the library relies on user uploads and the public gallery, but we hear you on wanting better out-of-the-box options. In the meantime, you can upload any custom design at app.stencilvr.com!",
+        "date": 1774494181
+      }
+    },
+    {
+      "id": "1041227729079017",
+      "score": 1,
+      "review_title": "Terrible, don’t recommend!!!",
+      "review_description": "Not recommended!!!  Disappointed!!!",
+      "date": 1776368328,
+      "review_helpful_count": 0,
+      "author_display_name": "Ayman82",
+      "author_alias": "Ayman82",
+      "developer_response": {
+        "body": "Hi, I am sorry to hear that you are unsatisfied with your experience! If you require any help or assistance to troubleshoot, please reach out to us help@stencilvr.com and we would be happy to help you through any issues.",
+        "date": 1776447370
+      }
+    },
+    {
+      "id": "994644960408887",
+      "score": 4,
+      "review_title": "If you can log in or get help",
+      "review_description": "I was able to get in at first, but I can’t you my own pictures in stencil be, it won’t send a code so I can trace my own picture, you can’t get any help\nAnd it just want me to start a new account so I would have to have two accounts to pay, no thank I’m going to find a different app, I have spent 2 hours trying to use it, I could of been done by now\nI’m very unhappy and in going to cancel, if it even does that\nDon’t buy, if you do you might or might not be able to use it",
+      "date": 1769810999,
+      "review_helpful_count": 2,
+      "author_display_name": "FROGmike",
+      "author_alias": "FROGmike",
+      "developer_response": {
+        "body": "Hello, thanks for reaching out! Apologies for the difficulties getting logged in. We'd be happy to help get you back into your account. To generate a code to log into the app on your headset: On your phone or PC, log in to your account at app.stencilvr.com and go to app.stencilvr.com/activate. Click 'Generate Activation Code' to get a new, activation code. Open the Stencil VR app on your headset to the login page. Enter that activation code into the app. (This code expires after 2 minutes for security, so just generate a new one if it expires). If that doesn't help or you're having issues logging in, please reach out to us at help@stencilvr.com and we'd be happy to help get this resolved for you!",
+        "date": 1769970301
+      }
+    },
+    {
+      "id": "784834931386941",
+      "score": 5,
+      "review_title": "PERFECT to make a mural or copy somethin",
+      "review_description": "I bought this after having about 6 other art apps. This one is by far the easiest to upload an image, manage that image, place and tweak the placement of the image.  They clearly worked hard to help you maintain placement of the tracing you overlay with 'reality' and when it's out of synch, it's not too hard to fix it again.  It IS a limitation of passthrough with Meta - this was obvious every time it went out of synch (like if I took the headset off or walked into a very different room  and came back). Extremely user friendly!!!! And when Meta gets better, this will be able to be better anchored as well.  The lipstick can only come out so good when your pig is wiggling, so to speak.\n\nI make a Very Large 4 foot x 12 foot bulletin board for work about opportunities to volunteer. I first created this in Canva scaled, imported it, and *viola* I was able to overlay and trace.\n\nDon't think I can upload images in reviews, which is a shame, but it came out really good and I have THIS app to thank for the help!  Especially for tracing all the lettering, that is a nightmare with typestyle text (vrs fluid handwritten or calligraphy style which I can better freehand).",
+      "date": 1761065930,
+      "review_helpful_count": 141,
+      "author_display_name": "peace5777",
+      "author_alias": "peace5777",
+      "developer_response": null
+    },
+    {
+      "id": "1071817889341298",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Great app, before you start working make sure your image is flat on the surface and not floating or tilted",
+      "date": 1772686558,
+      "review_helpful_count": 0,
+      "author_display_name": "ralphchikambi",
+      "author_alias": "ralphchikambi",
+      "developer_response": null
+    },
+    {
+      "id": "930803680112212",
+      "score": 5,
+      "review_title": "What is this?",
+      "review_description": "I was thinking about not buying the next generation of meta viewers but after watching this application I have to start saving to see what the developers are going to do with the following viewers that I took out meta, they squeezed all the juice out of the meta quest 3 is crazy what these people have done is beautiful I only found two problems that if they are improved it would be more than perfect, the first is that it lacks languages and the second is that it would be good if the precision camera could be fixed in a place like that it would not move so much and could be drawn more precisely although I do not know if this is possible or there are some limitations but it would be much more comfortable everything just buy the application is the best app to trace something I still can’t believe how they made such an application they knew how to take advantage of everything",
+      "date": 1764714925,
+      "review_helpful_count": 7,
+      "author_display_name": "bocchigotoh",
+      "author_alias": "bocchigotoh",
+      "developer_response": null
+    },
+    {
+      "id": "902208912478967",
+      "score": 1,
+      "review_title": "Can't log in with headset",
+      "review_description": "it will let me register me in my phone, but once I register, it won't allow me to register on my headset very confusing\n￼",
+      "date": 1767117547,
+      "review_helpful_count": 7,
+      "author_display_name": "Babyblue65",
+      "author_alias": "Babyblue65",
+      "developer_response": {
+        "body": "Hello, thanks for reaching out! Apologies for the confusion, the code you received via email during signup is used only to verify your email address on StencilVR.com. If you are attempting to use this code to connect your account in the Stencil VR app on your headset, it will not work.\n\nTo link your account to the app, please follow these steps:\n1. Go to app.stencilvr.com and login with the credentials you registered with.\n2. Click the headset icon at the top of the page or go directly to app.stencilvr.com/activate.\n3. Click “Generate Activation Code” to create a code.\n4. Open the Stencil VR app on your headset and enter the code in the login window.\nNote: The activation code expires after 2 minutes. If you don’t enter it in time, just generate a new one by revisiting the activation page.\n\nIf you’ve followed these steps and are still experiencing issues, please let us know at help@stencilvr.com and we'll be happy to help troubleshoot further. And please feel free to check out our tutorials page for more helpful guides! https://www.stencilvr.com/tutorials",
+        "date": 1767141431
+      }
+    },
+    {
+      "id": "1498556481398486",
+      "score": 4,
+      "review_title": "Bought for pumpkin carving",
+      "review_description": "I saw a video made by the dev's sister (no idea if she really is) who did pumpkin carving using this app. Dishopefully, the shape tab, which provide stencil curving functionnality, is not available in the production app.\n\nEdit: Thanks for your reply. i'll keep the app as it's very handy anyway. I keep the 5th star until i get the shape tab.",
+      "date": 1761996266,
+      "review_helpful_count": 7,
+      "author_display_name": "CoreusX",
+      "author_alias": "CoreusX",
+      "developer_response": {
+        "body": "Hello and thanks for trying the app!\n\nThat video features an upcoming version of the app (an early alpha) that isn't publicly available just yet.\n\nI completely understand your disappointment. Seeing a new tool that would be perfect for a pumpkin carving and finding it's not available, especially right before Halloween, is a huge letdown. I'm very sorry for the confusion and that this wasn't made clearer.\n\nWhile the video and the description / pinned comment do mention this is a future, unreleased update,  I realize those details can be easy to miss and I'm sorry that it still caused confusion.\n\nWe are working to get that update out to everyone in the coming weeks. I know that's frustratingly late for this pumpkin carving season, but we hope you'll enjoy it for future projects.\n\nFeel free to reach out to help@stencilvr.com with any other questions or feedback or if you need help on requesting a refund.",
+        "date": 1761947329
+      }
+    },
+    {
+      "id": "1222242359969251",
+      "score": 1,
+      "review_title": "Stencil vr",
+      "review_description": "I purchase it 16.99 and does not work cant insall it on my vr",
+      "date": 1767334486,
+      "review_helpful_count": 2,
+      "author_display_name": "Rickyrick13",
+      "author_alias": "Rickyrick13",
+      "developer_response": {
+        "body": "Hi thanks for reaching out! If you are unable to install the app it may be because your Horizon OS is out of date. To update it: 1. Go to the Settings menu in your quest headset. 2. Go to \"Software Update\" 3. Select update when prompted. If this doesn't help and you are still having issues please reach out to us at help@stencilvr.com and we'd be happy to help resolve the issue!",
+        "date": 1767353747
+      }
+    },
+    {
+      "id": "1099298376596883",
+      "score": 5,
+      "review_title": "Fun to draw",
+      "review_description": "Now i can pretend that i can draw better then all my friends🤣",
+      "date": 1776963617,
+      "review_helpful_count": 0,
+      "author_display_name": "Bloushop",
+      "author_alias": "Bloushop",
+      "developer_response": null
+    },
+    {
+      "id": "1117907904731165",
+      "score": 1,
+      "review_title": "Won’t let me stencil on curved surfaces",
+      "review_description": "Trying to Tracy out stencils on a fire pit so I can cut them by hand with a plasma cutter and can’t figure out how to apply the stencil to a curved surface",
+      "date": 1774762162,
+      "review_helpful_count": 0,
+      "author_display_name": "wade.macgregor.1",
+      "author_alias": "wade.macgregor.1",
+      "developer_response": {
+        "body": "Hi, thanks for your review! Great news -- curved surfaces like fire pits are actually supported in our Beta update. To access it, sign up for the Beta through your Stencil VR account at app.stencilvr.com and the instructions to switch versions will be available there.Reach out to us at help@stencilvr.com if you need any help getting set up!",
+        "date": 1775165862
+      }
+    },
+    {
+      "id": "866270083229720",
+      "score": 2,
+      "review_title": "Can see my hand when tracing",
+      "review_description": "The app is goo it’s just a little hard to see my hand with the headset on so makes it hard to know where I’m actually drawing. Any suggestions?",
+      "date": 1761266941,
+      "review_helpful_count": 10,
+      "author_display_name": "Misa1202",
+      "author_alias": "Misa1202",
+      "developer_response": {
+        "body": "Seeing your hand for tracing can be tricky. Here are a few techniques that can help:\n\nLower Opacity: Use the 'Opacity' slider in the 'Adjust' tab to make the stencil more transparent.\n\nUse Transparent Images: Use a PNG file with a transparent background. This way, the stencil will only show the lines, and you can easily see your hand through the empty parts.\n\nUse Outline Mode: Go to the 'Draw' tab and lower the 'Shading' slider. This will turn your stencil into a simple outline, making your hand much more visible.\n\nUse an IR Light: Some users have reported that using an infrared (IR) light illuminator made it easier to see their hands.\n\nWe are also actively working on adding new features to make your hand natively appear \"over\" the stencil and hope to have this functionality available in a future update.",
+        "date": 1761523865
+      }
+    },
+    {
+      "id": "767240326478786",
+      "score": 3,
+      "review_title": "Good/Bad x2",
+      "review_description": "Good: the program allows you to apply any compatible image (yours or someone else's) wherever you want. Bad: you have to open the program every time you want to see them. Bad 2: you have to manually load the previously saved images every time. Really???",
+      "date": 1758207019,
+      "review_helpful_count": 19,
+      "author_display_name": "Soldering.Iron.Kit",
+      "author_alias": "Soldering.Iron.Kit",
+      "developer_response": {
+        "body": "Hello!\n\nThank you so much for leaving a review and sharing your feedback. We'd love to make sure we understand your points correctly to see how we can improve the app.\n\nRegarding your first point, \"you have to open the program every time you want to see them,\" By this do you mean you'd like to be able to see your image in your environment even when the Stencil VR app isn't running? If that's the case, this is unfortunately a limitation of the Quest OS itself, which doesn't allow us to display anything when an app is closed. But if you meant something else, please let us know!\n\nFor your second point, \"you have to manually load the previously saved images every time,\" by this do you mean that you're frustrated that when you fully close and then re-open the app, you have to select your last used image to have it automatically placed at the previous position? If that's what you mean, that's something we can certainly fix! In the meantime, one workaround is to leave the app running in the background, which will keep your session active. As long as you never fully close the app your image will be exactly where you left it.\n\nWe really appreciate you helping us make the app better. Let us know if we're understanding your feedback correctly and please feel free to reach out to us at help@stencilvr.com. We're always looking for ways to improve the app and your feedback is invaluable!",
+        "date": 1758306533
+      }
+    },
+    {
+      "id": "768624482990171",
+      "score": 4,
+      "review_title": "I need an anchor point",
+      "review_description": "I like the app but whatever i do the overlay keeps shifting everytime i take my eyes of the wall.\n\nI tried lighting cleaning the sensors resetting the boundary factory reset etc.etc.\n\nI wish there was just a way to place an achor point that stays in place  based on the roomscale setup position.",
+      "date": 1752995243,
+      "review_helpful_count": 145,
+      "author_display_name": "S.E.M.T.E.X",
+      "author_alias": "S.E.M.T.E.X",
+      "developer_response": {
+        "body": "Hello, thanks for leaving a review! To improve image stabilization, there are three main steps to take: 1. Ensure the stencil is placed perfectly flush against your tracing surface. If there is a gap between the digital stencil and the physical wall, it will appear to shift as you move your head. 2. Add visual markers to your surface. If you are tracing on a plain, untextured white wall, the headset cameras struggle to track it. Adding pieces of contrasting painter's tape or making unique marks gives the headset data to lock onto and keeps the image stable. 3. Use the Precision Trace Camera feature, which removes the distortion that can cause shifting. We have a full guide on fixing these issues here: https://medium.com/@stencilvr/the-three-pillars-of-drift-a-guide-to-drift-free-tracing-8c164854f17b. Please feel free to reach out to us anytime at help@stencilvr.com so we can help you get it working perfectly!",
+        "date": 1767835527
+      }
+    },
+    {
+      "id": "898057383396801",
+      "score": 3,
+      "review_title": "New",
+      "review_description": "V5ZUVH",
+      "date": 1766411481,
+      "review_helpful_count": 1,
+      "author_display_name": "sureshkn2255",
+      "author_alias": "sureshkn2255",
+      "developer_response": {
+        "body": "Hello, thanks for reaching out! Apologies for the confusion, the code you received via email during signup is used only to verify your email address on StencilVR.com. If you are attempting to use this code to connect your account in the Stencil VR app on your headset, it will not work.\n\nTo link your account to the app, please follow these steps:\n1. Go to app.stencilvr.com and login with the credentials you registered with.\n2. Click the headset icon at the top of the page or go directly to app.stencilvr.com/activate.\n3. Click “Generate Activation Code” to create a code.\n4. Open the Stencil VR app on your headset and enter the code in the login window.\nNote: The activation code expires after 2 minutes. If you don’t enter it in time, just generate a new one by revisiting the activation page.\n\nIf you’ve followed these steps and are still experiencing issues, please let us know at help@stencilvr.com and we'll be happy to help troubleshoot further. And please feel free to check out our tutorials page for more helpful guides! https://www.stencilvr.com/tutorials",
+        "date": 1767141529
+      }
+    },
+    {
+      "id": "948641928322656",
+      "score": 5,
+      "review_title": "perfect",
+      "review_description": "works great",
+      "date": 1765521378,
+      "review_helpful_count": 0,
+      "author_display_name": "CrimsonSurgeonfish4701",
+      "author_alias": "CrimsonSurgeonfish4701",
+      "developer_response": null
+    },
+    {
+      "id": "1572537564115470",
+      "score": 1,
+      "review_title": "Not that great",
+      "review_description": "You can get a free one that works the same. The potential for this is great but it’s very basic",
+      "date": 1761120257,
+      "review_helpful_count": 5,
+      "author_display_name": "12vdc",
+      "author_alias": "12vdc",
+      "developer_response": null
+    },
+    {
+      "id": "861312143731978",
+      "score": 5,
+      "review_title": "Game Changer",
+      "review_description": "Love this app, amazing for murals.",
+      "date": 1763320310,
+      "review_helpful_count": 2,
+      "author_display_name": "freddy76AMETA3S",
+      "author_alias": "freddy76AMETA3S",
+      "developer_response": null
+    },
+    {
+      "id": "980108021845129",
+      "score": 5,
+      "review_title": "Ruim",
+      "review_description": "Ruim",
+      "date": 1764880620,
+      "review_helpful_count": 0,
+      "author_display_name": "Ubira",
+      "author_alias": "Ubira",
+      "developer_response": null
+    },
+    {
+      "id": "742760705598350",
+      "score": 5,
+      "review_title": "",
+      "review_description": "I like it. Works just fine. There are some wierd distortions, if the wall is exposed to sunlight too much, but I think it's more of a sensor problem.",
+      "date": 1759744594,
+      "review_helpful_count": 4,
+      "author_display_name": "PRTKR",
+      "author_alias": "PRTKR",
+      "developer_response": null
+    },
+    {
+      "id": "3484918621644637",
+      "score": 5,
+      "review_title": "Great app",
+      "review_description": "I have been doing life sized cartoons this cuts my time in half from doing free hand",
+      "date": 1757998716,
+      "review_helpful_count": 6,
+      "author_display_name": "gemini1976",
+      "author_alias": "gemini1976",
+      "developer_response": null
+    },
+    {
+      "id": "1725969031358021",
+      "score": 5,
+      "review_title": "It's very nice.",
+      "review_description": "It's worth the money spent. I really love this App. \nI have an additional opinion... It would be much better if we could bend the shape into a sphere or a square \nTo be used on curved or square walls.",
+      "date": 1751752834,
+      "review_helpful_count": 36,
+      "author_display_name": "PerJuer",
+      "author_alias": "PerJuer",
+      "developer_response": null
+    },
+    {
+      "id": "1316414650527184",
+      "score": 3,
+      "review_title": "Issues",
+      "review_description": "Iit’s working now but I can figure out how to make the stencil see through to see the paper unless that on for the oculus quest 2",
+      "date": 1767823148,
+      "review_helpful_count": 1,
+      "author_display_name": "Mono1299",
+      "author_alias": "Mono1299",
+      "developer_response": {
+        "body": "Hello! To see your paper or wall through the stencil, head to the Draw tab on the stencil controls. You have two options there:\n1. Use the Opacity slider to make the entire image more transparent.\n2. Lower the Shading slider to remove the fill completely and see only the outlines.\n\nHere's a helpful tutorial video that walks through using Stencil VR: https://www.youtube.com/watch?v=57LzqKGLCQ4\n\nPlease don't hesitate to reach out to us at help@stencilvr.com if you have any other questions!",
+        "date": 1767835102
+      }
+    },
+    {
+      "id": "735415182987942",
+      "score": 5,
+      "review_title": "Great app",
+      "review_description": "Have come back to update my review after the updated bug fix. \n \nNow runs as it should and is great.  Thanks team at StencilVR",
+      "date": 1753253947,
+      "review_helpful_count": 12,
+      "author_display_name": "L35T3",
+      "author_alias": "L35T3",
+      "developer_response": null
+    },
+    {
+      "id": "815178467658421",
+      "score": 5,
+      "review_title": "Easy and intuitive to use",
+      "review_description": "My wife likes to decorate the window in our front door to go along with the theme for her many parties.  She is NOT a VR user so the fact that she was able to take the headset after I had helped her get the image imported and place it where she wanted, rotated and scaled with very little input from me speaks volumes on how easy the app is to use.  One other thing, I initially placed the image in the door while I was figuring things out to start and I am at least 10\" taller than her.  She put the headset on and the image was still anchored on the door even with the difference in height.  She doesn't like to go through tutorials but I'm sure if she took the time to go through this one she would get even more out of this app.  We had been using a different app on my old Quest 2 but you were limited in the file format and size to get it to work.  With this app she sent me a jpg file and I uploaded it to the site with no issues.  Started the app in the headset and it was there.  MUCH better than the old app that required you to drop the file in a specific folder in the headset.    With this one I have no doubt I can show my wife the Stencil VR site and she can upload her images as she likes.",
+      "date": 1760310127,
+      "review_helpful_count": 4,
+      "author_display_name": "flyboy1506",
+      "author_alias": "flyboy1506",
+      "developer_response": null
+    },
+    {
+      "id": "749557054273443",
+      "score": 5,
+      "review_title": "Now Works on Quest Pro",
+      "review_description": "I initially had problems getting this app to work on Quest Pro, but the support team was quick to release a fix within 1-2 days, now it works great!",
+      "date": 1751491777,
+      "review_helpful_count": 2,
+      "author_display_name": "geeryryan",
+      "author_alias": "geeryryan",
+      "developer_response": null
+    },
+    {
+      "id": "797996276491887",
+      "score": 5,
+      "review_title": "5/5",
+      "review_description": "Well spent money i am enjoying this app",
+      "date": 1760994722,
+      "review_helpful_count": 1,
+      "author_display_name": "pumpkinheadVR1",
+      "author_alias": "pumpkinheadVR1",
+      "developer_response": null
+    },
+    {
+      "id": "660930447104220",
+      "score": 5,
+      "review_title": "Good little app",
+      "review_description": "Not many functions, but seems to work well enough. Interface is intuitive and easy to use",
+      "date": 1748089467,
+      "review_helpful_count": 2,
+      "author_display_name": "Bbwolffish",
+      "author_alias": "Bbwolffish",
+      "developer_response": null
+    },
+    {
+      "id": "1273823473770743",
+      "score": 5,
+      "review_title": "Fantastic!",
+      "review_description": "For an artist this app is soooo great.\nAs one who works in several mediums, I can't recommend this app more. If you need to trace an image,  this is the app to go with! Thumbs up to the developer!",
+      "date": 1733855083,
+      "review_helpful_count": 34,
+      "author_display_name": "META_MONSTER",
+      "author_alias": "META_MONSTER",
+      "developer_response": null
+    }
+  ],
+  "total": 47,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-19T17:19:09Z"
+}
