@@ -1,0 +1,67 @@
+{
+  "app_id": "6982079678497801",
+  "package_name": "com.TwoSync.TheLastGalaxy",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "The Last Galaxy",
+  "rating_average": 3.7692307692308,
+  "rating_count": 13,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "9259878444046426",
+      "score": 5,
+      "review_title": "Fun and immersive experience",
+      "review_description": "Playing together with my friends, we had an amazing time blasting our way through space. Our physical rooms transforming into a spaceship and having a free roaming game adds to the overall immersion. I really enjoyed taking over the different roles on the ship, adding to the overall chaos of the situation. \nCan definitely recommend this one!",
+      "date": 1732289150,
+      "review_helpful_count": 9,
+      "author_display_name": "BennytheBomb",
+      "author_alias": "BennytheBomb",
+      "developer_response": null
+    },
+    {
+      "id": "489913017539272",
+      "score": 5,
+      "review_title": "I like it a lot :)",
+      "review_description": "Your entire room with your furniture gets transformed into game objects! You can step over your small table without having fear about bumping into anything! Mixed Reality is the future <3",
+      "date": 1732285394,
+      "review_helpful_count": 3,
+      "author_display_name": "alexanderkempfle",
+      "author_alias": "alexanderkempfle",
+      "developer_response": null
+    },
+    {
+      "id": "447872335085360",
+      "score": 5,
+      "review_title": "Super fun and cool new tech",
+      "review_description": "Game is fun, especially in multiplayer, and it's super cool that you can move around your room freely and see it change into different spaceship stations!",
+      "date": 1732294852,
+      "review_helpful_count": 3,
+      "author_display_name": "alex2sync",
+      "author_alias": "alex2sync",
+      "developer_response": null
+    },
+    {
+      "id": "562287510295200",
+      "score": 2,
+      "review_title": "Table not recognizing need help",
+      "review_description": "Need help with table game not recognizing? Where can I find help?\nExcited to play!",
+      "date": 1737134014,
+      "review_helpful_count": 0,
+      "author_display_name": "Heaton5757",
+      "author_alias": "Heaton5757",
+      "developer_response": {
+        "body": "Hi Heaton5757,\n\nWe’re sorry to hear about the issue you encountered. If you’re having trouble recognizing your table, please ensure that your room is properly set up using the Meta scan, and that your table is labeled as \"desk\" or \"table.\" Stand in front of the table, start the app and follow the provided instructions.\n\nIf you continue to experience problems, feel free to join our Discord (http://2sync.io/discord) server for further assistance.\n\nBest regards,\nMoritz",
+        "date": 1737459312
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:12:08Z"
+}

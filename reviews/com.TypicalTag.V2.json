@@ -1,0 +1,42 @@
+{
+  "app_id": "32366482812999483",
+  "package_name": "com.TypicalTag.V2",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Typical Tag",
+  "rating_average": 3.8181818181818,
+  "rating_count": 11,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "956908920835248",
+      "score": 5,
+      "review_title": "fun",
+      "review_description": "i looooooooooooove it",
+      "date": 1767210148,
+      "review_helpful_count": 2,
+      "author_display_name": "jaycevincent.2024",
+      "author_alias": "jaycevincent.2024",
+      "developer_response": null
+    },
+    {
+      "id": "781473511726003",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Sigma",
+      "date": 1762884388,
+      "review_helpful_count": 21,
+      "author_display_name": "SpikedGTAG",
+      "author_alias": "SpikedGTAG",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:12:30Z"
+}

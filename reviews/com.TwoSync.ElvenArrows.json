@@ -1,0 +1,224 @@
+{
+  "app_id": "25584542847799691",
+  "package_name": "com.TwoSync.ElvenArrows",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Elven Arrows – Mixed Reality Bow & Arrow",
+  "rating_average": 4.32,
+  "rating_count": 25,
+  "review_count": 15,
+  "reviews": [
+    {
+      "id": "1214917721696837",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "This is a tower defense type of game where you're an archer with upgradable arrows. Its decent but what really makes it stand apart is the technology behind the \"mixed reality\" aspect.\n\nIt's not normal mixed reality where you see your room, it's 100% VR except boundaries and furniture inside of your play area are represented by objects in the game.  So you'll never accidentally bump into anything. This is an awesome feature and I wish all VR games had something like this implemented.",
+      "date": 1781618393,
+      "review_helpful_count": 0,
+      "author_display_name": "dragonfirerex",
+      "author_alias": "dragonfirerex",
+      "developer_response": null
+    },
+    {
+      "id": "890017863715381",
+      "score": 5,
+      "review_title": "Change your living room into a fairytale",
+      "review_description": "You start with setting up your walls and your furniture. \nThen you can start the game. All your furniture is captured in the environment of the game. Replaced by walls or other stuff. So you can’t hit them.\n\nAfter eliminating all enemies, you gain some money, where you can buy upgrades with.\n\nI played in my living room with a lot of furniture, so I didn’t had a lot of space to move. Didn’t hit anything. But next time gonna play in a room with less furniture to get easy access to the 🔥.",
+      "date": 1766946059,
+      "review_helpful_count": 3,
+      "author_display_name": "POWERGIRL.BE",
+      "author_alias": "POWERGIRL.BE",
+      "developer_response": {
+        "body": "Love this description – thank you! ✨\nAwesome to hear that the room setup helped you play safely even with lots of furniture around. Trying a bigger, more open room next time sounds like a great plan 😄🔥",
+        "date": 1767302823
+      }
+    },
+    {
+      "id": "786311374567198",
+      "score": 4,
+      "review_title": "Super Awesome Demo",
+      "review_description": "Looking forward to the full game. 4 stars because of an arrow glitch issue. Sometimes the aiming point glitches to the wrong spot. The full game should be awesome. I hope that there is an online play mode in the same box area. So I can play with friends when they are not available to come over. I played this with my friend at my house dual, separate headsets.",
+      "date": 1757181679,
+      "review_helpful_count": 1,
+      "author_display_name": "FrewFrew7291",
+      "author_alias": "FrewFrew7291",
+      "developer_response": {
+        "body": "Thanks a lot for the detailed feedback! 🙌\nThe arrow aiming glitch is on our radar and we’re actively working on improvements. Great to hear you enjoyed the co-located play – and online play is definitely something we’re thinking about for the future. Appreciate you trying it with a friend!",
+        "date": 1767302848
+      }
+    },
+    {
+      "id": "786447454561225",
+      "score": 5,
+      "review_title": "i really love this",
+      "review_description": "for the quest t\n3 after the v 81 update this is still working fine. Dang, wish there was a difficulty adjustment",
+      "date": 1761780761,
+      "review_helpful_count": 0,
+      "author_display_name": "J.Five",
+      "author_alias": "J.Five",
+      "developer_response": {
+        "body": "Thanks so much! ❤️\nGreat to hear it’s still running smoothly after the v81 update. A difficulty adjustment is a good point and something we’ll keep in mind for future updates.",
+        "date": 1767302834
+      }
+    },
+    {
+      "id": "642543775614984",
+      "score": 3,
+      "review_title": "Yes, but no",
+      "review_description": "There doesn't seem to be a way to respond to the developer, but there is no way to adjust the walls after the room scan, I can adjust objects in the room but not the walls. I don't know if it's a quest update or the game,  It makes the playing area huge to where it's unplayable. It was a great game beforehand.",
+      "date": 1748636509,
+      "review_helpful_count": 1,
+      "author_display_name": "EdgyLobster5415",
+      "author_alias": "EdgyLobster5415",
+      "developer_response": {
+        "body": "Thanks for letting us know! Unfortunately that's an issue with the room setup of the quest. You need to restart the whole room scan to be able to adjust your walls.",
+        "date": 1751363822
+      }
+    },
+    {
+      "id": "620659247791723",
+      "score": 2,
+      "review_title": "Co location is a pain",
+      "review_description": "The game itself can be quick and fun, but the co-location setup is incredibly frustrating—just like it was in House Defender. Based on what I found through research, both players need to have the exact same boundaries for co-location to work. That’s already tedious, but the bigger issue is that, most of the time, the locations won’t sync properly even when the boundaries are nearly identical. One player often ends up floating outside the play area.\n\nMixed reality games like Spatial Ops handle this so much better. They don’t require every player to pre-create an exact boundary, which avoids the syncing issues that 2sync’s system struggles with. It’s a huge design oversight, especially considering House Defender had the same problem. Why wasn’t this fixed after its release two years ago? There are better ways to handle co-location, so why isn’t 2sync implementing them?\n\nA much better system would be for the host to create the map, and for other players to sync by simply standing at a specific real-world point. There’s no need for every player to manually recreate the same boundaries as the host—this only increases the chances of errors and desyncing.\n\nIt’s surprising that 2sync didn’t take this approach from the start. Expecting players to create identical maps every time is unrealistic and prone to failure. The devs should really take a look at how Spatial Ops handles co-location because their system is far more intuitive and reliable.\n\nPS allow for more than 2 players,",
+      "date": 1743107895,
+      "review_helpful_count": 11,
+      "author_display_name": "The.Rye.Guy",
+      "author_alias": "The.Rye.Guy",
+      "developer_response": {
+        "body": "edit: we pushed an update and implemented meta room setup and shared spatial anchors to simplify the process. Now it is super easy to start and colocation works automatically. \n\nThanks a lot for your detailed feedback – really appreciate you taking the time to share your thoughts!\n\nTo be honest, we’ve actually found the setup to be quite straightforward in most cases: one player scans the space and objects, and the second player just needs to match the room corners. If done correctly, it works quite reliably and more accurate compared to Spatial Ops – but we get that this might not be obvious at first glance, and we’ll definitely work on making the process more clear and robust.\n\nI know it’s frustrating when syncing doesn’t work as expected – sorry about that!",
+        "date": 1747943001
+      }
+    },
+    {
+      "id": "639671599234986",
+      "score": 4,
+      "review_title": "Got i",
+      "review_description": "Love this game, I wish the targeting was a bit tighter and I hope there are more areas to play the aiming at times pulls or drifts to the left or right depending on which direction you are aiming at",
+      "date": 1748620321,
+      "review_helpful_count": 0,
+      "author_display_name": "JIMBOT5000",
+      "author_alias": "JIMBOT5000",
+      "developer_response": {
+        "body": "Hi thanks for your feedback, glad you like it! :)\nHow can we improve the targeting?",
+        "date": 1748618131
+      }
+    },
+    {
+      "id": "682002491654610",
+      "score": 5,
+      "review_title": "Archery Meets Reality – A Must-Have game",
+      "review_description": "This bow and arrow VR game brings something truly fresh to the table. By scanning your physical space, it defines a play area where you can actually walk around in real life—and if your friends are in the same space with similar boundaries, you can play together in shared VR. It's a clever use of co-location that really ups the immersion.\n\nThe latest update introduces a new in-game store for upgrading your abilities, adding a progression system that keeps you coming back. The gameplay is fast-paced and responsive, with satisfying mechanics and a smooth overall experience. Whether you're solo or playing alongside friends, this is a standout title that deserves a spot in any VR collection.",
+      "date": 1746351365,
+      "review_helpful_count": 0,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": {
+        "body": "Thanks for the good review, metaquesta99!",
+        "date": 1747942858
+      }
+    },
+    {
+      "id": "2959957784172492",
+      "score": 5,
+      "review_title": "Great & Fun Game!",
+      "review_description": "I'm primarily reviewing this title as it was just released today and there's only 1 other review.  Basically, this game has you lay-out your playspace in MR.  You outline walls and then you outline furniture within your playspace.  Once in the game (in VR mode) the app uses your layout and furniture as part of a castle wall where you can walk around to shoot incoming foes which attack these crystals.  It's all very brightly colored and fun.  My immediate feedback to the dev is that the bow needs a bit of tweaking.  Currently, you need to grab the bowstring in a very small & defined area which adds little to immersion in a wave-shooter like this.  I highly recommend relaxing that mechanic and allow players to grab wherever they desire.  Personally, I'd mirror the bow mechanic from Asgard's Wrath II since neither game is focused on \"realistic\" bow mechanics.  I also noted that in my playtime, the game favored enemies attacking a crystal that was (frustratingly) the most difficult to get to through scanned furniture.  Maybe that's a fluke, but if not the bias should be to place such objects in less obscured parts of the playspace.  Don't take those notes to dissuade you from grabbing this game--it really is fun, well-designed, and full-featured from what I can tell.  I'll update my review after the devs update the app!  Great job devs!",
+      "date": 1742509857,
+      "review_helpful_count": 5,
+      "author_display_name": "TheForbinProject",
+      "author_alias": "TheForbinProject",
+      "developer_response": {
+        "body": "Thanks for your nice comment! More updates will follow in the coming months. Also feel free to let us know via our Discord if more ideas come to your mind: https://discord.gg/mg43x742BB. Ans you should also try to play it in coop with a friend - have fun playing!",
+        "date": 1742569450
+      }
+    },
+    {
+      "id": "9937441382956792",
+      "score": 5,
+      "review_title": "Amazing Game",
+      "review_description": "Very fun mixed reality experience. I feel like Legolas defending against the Orks in my own four walls. Adds a nice twist with the upgrade system that adds a lot to the replay value. Especially the room utilization makes this game stand out as a mixed reality experience. And you can even play together with your friends in the same room. Keep up the good work.",
+      "date": 1742551334,
+      "review_helpful_count": 3,
+      "author_display_name": "BennytheBomb",
+      "author_alias": "BennytheBomb",
+      "developer_response": {
+        "body": "Thanks for your nice comment, also feel free to let us know via our Discord (https://discord.gg/mg43x742BB) if you think of any cool features you'd like to see in the future. Have fun playing!",
+        "date": 1742569556
+      }
+    },
+    {
+      "id": "1702531373949628",
+      "score": 1,
+      "review_title": "Ignores the Meta Room Setup Data",
+      "review_description": "Since nearly all MR apps ignore the Quest 3’s laser scanner data I had little hope this app would be the rare treat that does, but I never would have guessed that it would completely ignore Meta’s basic room setup data.\n\nBefore launching the game I wiped my room setup data, rescanned, then verified that my walls were in the right place and bounding boxes were around all my furniture.\n\nWhile launching the game I noticed that it didn’t ask for permission to use the space setup, a bad sign.\n\nAfter the game loaded I was asked to physically touch the controller to every corner of the room, something which is not possible unless I want to drag hundreds of pounds of furniture into the center of the room.\n\nWhy does this game completely ignore the space setup built into the OS?  And why does it assume people have access to all corners in their rooms?\n\nIf you live in a nearly empty room with no furniture or bookcases in the corners you might have a great time with this game.\n\nIf it’s ever updated to use the basic space setup data, or better yet the Quest 3’s laser scanner data, then I may enjoy it also.",
+      "date": 1743344739,
+      "review_helpful_count": 2,
+      "author_display_name": "Jioxx",
+      "author_alias": "Jioxx",
+      "developer_response": {
+        "body": "edit: we pushed an update and implemented meta room setup to simplify the process. Now it is super easy to start and colocation works automatically. \n\nThanks a lot for your detailed feedback!\nI’m really sorry to hear that you struggled with the setup – and totally agree: supporting Meta’s built-in room setup is important, and we’re already looking into integrating it. Its just that we’ve found that our own setup is way faster and more accurate. \n\nAs a tip: you don’t need to touch every physical corner. Just use the reachable corners (like the corner between bookcase and the wall) – that should work just fine!\n\nAnd now you got me curious: how would you imagine using the Quest 3’s lidar data in the context of a game like this?",
+        "date": 1747942964
+      }
+    },
+    {
+      "id": "2467543020269029",
+      "score": 5,
+      "review_title": "AMAZING, just AMAZING!",
+      "review_description": "This game transforms your room like no other game. This is the best mixed reality room transformation that I have ever seen. Fun game to play!",
+      "date": 1753996044,
+      "review_helpful_count": 0,
+      "author_display_name": "Avatar3D",
+      "author_alias": "Avatar3D",
+      "developer_response": {
+        "body": "Thanks Avatar3D, we are glad you like it and really appreciate your 5-star rating! Thanks :)",
+        "date": 1756134107
+      }
+    },
+    {
+      "id": "1229994538555554",
+      "score": 5,
+      "review_title": "Fantasitic game!!",
+      "review_description": "It's so cool how mixed reality games work and transform my whole room into game area. Definitely recommend to try it out with friends",
+      "date": 1742566202,
+      "review_helpful_count": 4,
+      "author_display_name": "taiba279",
+      "author_alias": "taiba279",
+      "developer_response": {
+        "body": "Thanks for your nice comment, also feel free to let us know via our Discord if you think of any cool features you'd like to see in the future. Have fun playing!",
+        "date": 1742569506
+      }
+    },
+    {
+      "id": "1172040991373921",
+      "score": 5,
+      "review_title": "Like a fanatasy skin for your reality",
+      "review_description": "The game is designed to incorporate your real-world objects and transform them into a mystical elven realm. Armed with just a bow, your task is to defend the elven kingdom. Simple but fun!",
+      "date": 1742722383,
+      "review_helpful_count": 2,
+      "author_display_name": "M_o_z_i",
+      "author_alias": "M_o_z_i",
+      "developer_response": null
+    },
+    {
+      "id": "581868178350448",
+      "score": 5,
+      "review_title": "Please make it 4 players!",
+      "review_description": "Lots of fun! My brothers and friends love it! Please make it 4 player!",
+      "date": 1743265648,
+      "review_helpful_count": 1,
+      "author_display_name": "Samson1911",
+      "author_alias": "Samson1911",
+      "developer_response": {
+        "body": "Thanks so much! 🙌\nWe’re super happy to hear you and your brothers/friends are enjoying it – that's exactly what we hoped for! 🏹💚\nAnd heads-up: a new update is just around the corner with more features to explore… stay tuned! 😉",
+        "date": 1744966841
+      }
+    }
+  ],
+  "total": 15,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:11:56Z"
+}

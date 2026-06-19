@@ -1,0 +1,120 @@
+{
+  "app_id": "6652852248110465",
+  "package_name": "com.UNLAWFUL.Applab",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Unavailable",
+  "rating_average": 3.6470588235294,
+  "rating_count": 17,
+  "review_count": 8,
+  "reviews": [
+    {
+      "id": "1668684724535180",
+      "score": 1,
+      "review_title": "it sucks doesn't even work",
+      "review_description": "the game sucks it doesn't let me move i can't move and if it doesn't even let me do anything",
+      "date": 1758531698,
+      "review_helpful_count": 6,
+      "author_display_name": "Nerdygirlvibes",
+      "author_alias": "Nerdygirlvibes",
+      "developer_response": {
+        "body": "Okay I will delete this game. Allowing early access for free will just attract negative reviews",
+        "date": 1759552362
+      }
+    },
+    {
+      "id": "814730658392527",
+      "score": 3,
+      "review_title": "bro?",
+      "review_description": "it quite literally is js you, on a platform, with NOTHING around. why tf is it like this bro",
+      "date": 1760737477,
+      "review_helpful_count": 1,
+      "author_display_name": "manIMdedd",
+      "author_alias": "manIMdedd",
+      "developer_response": null
+    },
+    {
+      "id": "740494112488522",
+      "score": 5,
+      "review_title": "There’s potential",
+      "review_description": "Its very early acces still but it has potential",
+      "date": 1756991597,
+      "review_helpful_count": 6,
+      "author_display_name": "david2004.2024",
+      "author_alias": "david2004.2024",
+      "developer_response": null
+    },
+    {
+      "id": "1424276838605111",
+      "score": 5,
+      "review_title": "Early Impression is promising",
+      "review_description": "This is very early access ,but it's already really fun and is being updated all the time,  this is a GTA type game and is being worked on by one person and there doing a great job 👍  I have a small youtube channel (vr play86) you can check out some game play of this game",
+      "date": 1751676397,
+      "review_helpful_count": 2,
+      "author_display_name": "robot_builder",
+      "author_alias": "robot_builder",
+      "developer_response": null
+    },
+    {
+      "id": "1047055873977890",
+      "score": 3,
+      "review_title": "Issues that I hope you can resolve",
+      "review_description": "Im confused, its not letting me do anything, Im hoping its just an error on download but Ive downloaded and deleted it and re-installed but still the same. it wont let me move, show body, pick up phone, weapon so cant escape room and then when I quit and open again im outside and cant move again so means i cant do nothing at all. i hope you can help me",
+      "date": 1745619581,
+      "review_helpful_count": 5,
+      "author_display_name": "Lummy4",
+      "author_alias": "Lummy4",
+      "developer_response": {
+        "body": "Sry that bug is fixed now. I tested the new version with no issues before uploading to the store page, and my alpha testers didn't pick up on anything either. I couldn't replicate the issue on my Quest either which made troubleshooting hard, but I believe it was a corrupt save / config files only affecting new players\nUPDATE: A few players are still having issues. I created a \"Debug test\" channel on the store page with a rolled back version of the game that works. Here's a video on how to access the other version\nhttps://youtu.be/pGcTK-8upwM",
+        "date": 1746780981
+      }
+    },
+    {
+      "id": "737412862791444",
+      "score": 5,
+      "review_title": "XD",
+      "review_description": "Even though I died over two hundred times before finishing GTA V’s story mode, it doesn’t stop me from looking forward to it.",
+      "date": 1755138971,
+      "review_helpful_count": 1,
+      "author_display_name": "ChenYibo",
+      "author_alias": "ChenYibo",
+      "developer_response": null
+    },
+    {
+      "id": "627274247125134",
+      "score": 4,
+      "review_title": "Haven't issues with controls n gameplay",
+      "review_description": "When I jumped in a game it hasn't show me what how to interact with things and also when I got into a car it was all buggy but I understand it's still early release and I have high hopes tho it will be a good game",
+      "date": 1740845727,
+      "review_helpful_count": 0,
+      "author_display_name": "Pablotescobar94",
+      "author_alias": "Pablotescobar94",
+      "developer_response": {
+        "body": "Soz man, I did two massive updates at the same time. A new traffic system and open world map (landscape instead of tiles) so I've had to rebuild all cars again and add missions back into the level. The prison tutorial is back now to teach basic controls with a few tasks to show players how to respray a car and earn money",
+        "date": 1746414294
+      }
+    },
+    {
+      "id": "628833739725687",
+      "score": 5,
+      "review_title": "WHAT DO YOU DO",
+      "review_description": "I spawn in and I have 0 clue what I’m doing or how to access anything please help me",
+      "date": 1738994591,
+      "review_helpful_count": 3,
+      "author_display_name": "lilpoptarttt1",
+      "author_alias": "lilpoptarttt1",
+      "developer_response": {
+        "body": "Fk sry bro I just finished a massive overhaul of the game mechanics, traffic, enemy AI, vehicles, and a new style of level design so I haven't added all the content back yet like missions and tutorials. I'll start that right now though., thanks for letting me know. If you have any more issues lmk and I'll get on it",
+        "date": 1739340638
+      }
+    }
+  ],
+  "total": 8,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:13:49Z"
+}

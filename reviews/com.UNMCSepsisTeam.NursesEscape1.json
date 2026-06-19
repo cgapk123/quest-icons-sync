@@ -1,0 +1,42 @@
+{
+  "app_id": "5640796406045855",
+  "package_name": "com.UNMCSepsisTeam.NursesEscape1",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Nurse's Escape",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1241049920155856",
+      "score": 1,
+      "review_title": "It doesn’t work and I paid 10 dollars",
+      "review_description": "Horrible",
+      "date": 1705792976,
+      "review_helpful_count": 2,
+      "author_display_name": "Tesla510",
+      "author_alias": "Tesla510",
+      "developer_response": null
+    },
+    {
+      "id": "277858977971470",
+      "score": 1,
+      "review_title": "Doesn’t run.",
+      "review_description": "Just…doesn’t run.",
+      "date": 1686011786,
+      "review_helpful_count": 2,
+      "author_display_name": "Wendy.77",
+      "author_alias": "Wendy.77",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:14:01Z"
+}
