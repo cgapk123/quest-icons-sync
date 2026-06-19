@@ -1,0 +1,56 @@
+{
+  "app_id": "6963941963622575",
+  "package_name": "com.Expacia.LogicGatesVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Logic Gates VR",
+  "rating_average": 4,
+  "rating_count": 6,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "945339275327414",
+      "score": 5,
+      "review_title": "Not great for small spaces.",
+      "review_description": "if you are using a small area, expect SOMETHING to go inside your wall or something. Otherwise the game is great.",
+      "date": 1766725452,
+      "review_helpful_count": 1,
+      "author_display_name": "Ivan927467",
+      "author_alias": "Ivan927467",
+      "developer_response": null
+    },
+    {
+      "id": "552156224648525",
+      "score": 4,
+      "review_title": "Potential for sure",
+      "review_description": "I love seeing games centered around computer science type concepts. Unfortunately when I click “tutorial” there don’t appear to be instructions on how to play. You just find yourself in an enormous room with no idea what to do. Any advice would be appreciated!",
+      "date": 1738424563,
+      "review_helpful_count": 4,
+      "author_display_name": "TBoogalicious",
+      "author_alias": "TBoogalicious",
+      "developer_response": null
+    },
+    {
+      "id": "491969640665889",
+      "score": 3,
+      "review_title": "Has potential not intuitive",
+      "review_description": "I think it has potential, the basic start is annoying. Going to puzzle to start is not intuitive, needs basic on/off switch and guidance. Logic puzzles are a very good idea.\nThe \"room\" is an infinite dark room. So are the puzzle rooms I know this is for fast deploying but is difficult to navigate. Would recommend for learning useful logic.",
+      "date": 1732229448,
+      "review_helpful_count": 0,
+      "author_display_name": "Blue32",
+      "author_alias": "Blue32",
+      "developer_response": {
+        "body": "Hey Blue32! Thanks so much for your feedback. You’re absolutely right about the points you mentioned. We’re aware that the gameplay isn’t as smooth as we’d like, and the starting flow isn’t as intuitive as it should be. \n\nWe’re already working on an updated version that we’re planning to release in 2025, with a clearer interface, better guidance, and updated SDK's.\n\nThanks again for your input, we really appreciate it!",
+        "date": 1734698224
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:42:51Z"
+}

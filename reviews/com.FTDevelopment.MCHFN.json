@@ -1,0 +1,42 @@
+{
+  "app_id": "26553602384319932",
+  "package_name": "com.FTDevelopment.MCHFN",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "MCHFN",
+  "rating_average": 3.6666666666667,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1024386130116113",
+      "score": 5,
+      "review_title": "Best game ever",
+      "review_description": "10/10",
+      "date": 1780507217,
+      "review_helpful_count": 0,
+      "author_display_name": "OGmickeymouse",
+      "author_alias": "OGmickeymouse",
+      "developer_response": null
+    },
+    {
+      "id": "1146959441839187",
+      "score": 1,
+      "review_title": "It sucks",
+      "review_description": "Bad mod always kicks for no reason bad monsters and low graphics",
+      "date": 1781119480,
+      "review_helpful_count": 0,
+      "author_display_name": "GoldShrew8949",
+      "author_alias": "GoldShrew8949",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:46:27Z"
+}

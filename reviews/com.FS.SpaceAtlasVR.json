@@ -1,0 +1,184 @@
+{
+  "app_id": "8016534201745429",
+  "package_name": "com.FS.SpaceAtlasVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Space Atlas VR",
+  "rating_average": 4.2173913043478,
+  "rating_count": 23,
+  "review_count": 13,
+  "reviews": [
+    {
+      "id": "1388496106085621",
+      "score": 4,
+      "review_title": "Ambitious Space Explorer",
+      "review_description": "Space Atlas VR is one of the most ambitious space exploration apps on Quest. I love the deep exploration: dismantling planets, standing on surfaces, and pinning trough the solar system is incredible.\nThe narrated content on planetary surfaces is already excellent. What would make me return more often is up-to-date content: NASA Artemis launches, recent discoveries like Comet 3I-ATLAS, short videos, or narrated updates.\nThe main improvement area is the HUD and UI — too much info on screen breaks immersion. A more immersive approach could be:\nHUD info on a wrist/watch or glove\nPlanetary info activated via a scanner or device\nContextual, diegetic interactions instead of always-visible buttons\nOverall, a great app with huge potential — I hope it continues to grow and evolve.\nHighly recommended for all space monkeys 🚀",
+      "date": 1770586634,
+      "review_helpful_count": 9,
+      "author_display_name": "RobtheRobbert",
+      "author_alias": "RobtheRobbert",
+      "developer_response": {
+        "body": "Thank you for the amazing feedback. We will look into your suggestions and see what we can develop in future releases. Concerning the HUD on the planetary surfaces, it is possible to disable it.. however your idea of moving the information on a wrist-located device is absolutely interesting. Thanks again!",
+        "date": 1770647170
+      }
+    },
+    {
+      "id": "890601924140101",
+      "score": 5,
+      "review_title": "There are bugs.",
+      "review_description": "There are bugs. When viewing rocket or satellite models, clicking the eye icon on the desktop causes hand gestures to be undetectable and prevents the app from exiting. Hopefully, this can be improved or fixed soon, or a solution can be provided. This is a great app in the demo version, but I don't know why the paid version has such a high chance of bugs.",
+      "date": 1766431502,
+      "review_helpful_count": 4,
+      "author_display_name": "mlms_kuang",
+      "author_alias": "mlms_kuang",
+      "developer_response": {
+        "body": "Dear mlms_kuans, thank you for your feedback. We are aware of the bug you mentioned, and of some other ones, and we are working on them. The next releases of the App will be focused exclusively on bug fixing. The reason why the paid version has a higher number of bugs compared to the demo one is that we have added a tons of contents in the last months, and  .. we were to hasty in doing so. I do apologize, and I hope that most of the bugs will be solved in the coming weeks. Best",
+        "date": 1766480732
+      }
+    },
+    {
+      "id": "958354374018449",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Good but not excellent. Educationally is good but immersive features should be better. Overall very good.\n\nP.S.\nThe problem I see is that when one is in the surface mode, the educational content is appearing. It can destroy immersive experience. The brain  automatically switches from presence to analysis, which immediately weakens immersion. So it would be nice if those \"artifacts\"  could be somehow turned off. Of course other surface scenes would be more than welcomed. \n\nThanks",
+      "date": 1765903344,
+      "review_helpful_count": 2,
+      "author_display_name": "PunchySphynx3706",
+      "author_alias": "PunchySphynx3706",
+      "developer_response": {
+        "body": "Dear PunchySphynx, thank your for your review. Please share with us your suggestions and ideas on what you would like to see improved in terms of immersive features.. we are currently working on the UI to make it a little fresher and smoother.. // Update 29 Jan 2026: you can actually turn of the UI while on the surface with the HUD On/Off button! And you will find a few updates to the UI across the experience. Cheers!",
+        "date": 1769713550
+      }
+    },
+    {
+      "id": "2941761569347013",
+      "score": 5,
+      "review_title": "pretty nice",
+      "review_description": "if you’re a space geek, and love titans of space-this is a nobrainer for 10 bucks",
+      "date": 1775998992,
+      "review_helpful_count": 0,
+      "author_display_name": "Flowzen",
+      "author_alias": "Flowzen",
+      "developer_response": null
+    },
+    {
+      "id": "798188490049490",
+      "score": 5,
+      "review_title": "Parents do not pass this one by",
+      "review_description": "This game is such an amazing experience. The controls work well, we use the hand and motion tracking with ease. My 6 year old could spend all day in it if he was able to. We hope to be able to “fly” through space one day but the game is in a fantastic place already. Can’t wait to see what’s next.",
+      "date": 1759873555,
+      "review_helpful_count": 7,
+      "author_display_name": "Strike_Williams",
+      "author_alias": "Strike_Williams",
+      "developer_response": null
+    },
+    {
+      "id": "808912935635862",
+      "score": 5,
+      "review_title": "Great visuals",
+      "review_description": "Really great visuals and info. There is a minor problem the sitting selection isn't really in a seated position. the menus are still in a standing position.",
+      "date": 1758468755,
+      "review_helpful_count": 4,
+      "author_display_name": "nbargolf",
+      "author_alias": "nbargolf",
+      "developer_response": {
+        "body": "Thank you for your kind feedback. We will look at the issue you have pointed out and we will do our best to fix it. (Update 30.09.2025: the last version should have fixed the issue, let us know if it works for you)",
+        "date": 1759225043
+      }
+    },
+    {
+      "id": "799099163293006",
+      "score": 1,
+      "review_title": "Memory Hog",
+      "review_description": "With 65 GB available on my headset, this app keeps crashing with the message \"not enough memory\". Don't buy it unless you want to use your headset for nothing else.",
+      "date": 1760081462,
+      "review_helpful_count": 0,
+      "author_display_name": "perseverence.2024",
+      "author_alias": "perseverence.2024",
+      "developer_response": {
+        "body": "Dear Perseverance, I am sorry to hear that you are experiencing this issue.  The memory error is not related to the available storage space on your Quest (it is more than enough), but to the working memory (RAM) available to the App. The issue you reported is very unusual, the only other occurrence we know about is related to a Quest with a very old version of the OS. Can you share with me the following information so that we can better assess the problem and hopefully solve it? Thank you for you support and patience. Here the three questions: are you using our app on Q2, Q3, or Q3S? what is the OS version you are using? does the issue arises randomly or when you perform some specific actions/visit some specific areas?",
+        "date": 1760170698
+      }
+    },
+    {
+      "id": "794597420411769",
+      "score": 4,
+      "review_title": "Very good app but...",
+      "review_description": "...please update the graphics, it deserves it!!",
+      "date": 1761167108,
+      "review_helpful_count": 0,
+      "author_display_name": "Whiteyez",
+      "author_alias": "Whiteyez",
+      "developer_response": {
+        "body": "Dear Whiteyez, we have updated all surface environments and added reflections all around the experience. Let us know if there enhancements are going in the right direction. And feel free to suggest what we should tackle next! (currently working on UI animations and effects, they deserved some attention) Best",
+        "date": 1765900515
+      }
+    },
+    {
+      "id": "1144783477686285",
+      "score": 5,
+      "review_title": "An Unforgettable Journey in the Cosmos!",
+      "review_description": "Space Atlas VR is hands-down one of the most breathtaking educational experiences I've ever had. As someone who’s always been fascinated by astronomy, this app brings the universe to life in a way that textbooks and videos simply can’t. You’re not just learning about space — you’re in it.\nThe visuals are absolutely stunning — planets, stars, the universe rendered in vivid, immersive detail. And when you use the scale function just wow.  The narration is clear and engaging, and the facts are presented in a way that's both accessible for beginners and satisfying for space enthusiasts.\nIt's like having a planetarium, science museum, and spaceship all in one.  \nWhether you're a an astronomy fan or just a curious mind, this makes learning about the universe an exciting, unforgettable adventure. Highly recommended!",
+      "date": 1748091532,
+      "review_helpful_count": 6,
+      "author_display_name": "Magicmerlin007",
+      "author_alias": "Magicmerlin007",
+      "developer_response": null
+    },
+    {
+      "id": "740999858597161",
+      "score": 5,
+      "review_title": "SPACE THE FINAL FRONTIER",
+      "review_description": "I played a demo of this experience last year and was impressed back then, the devs seemed to have tirelessly worked hard to produce an amazing space exploration unique journey to the solar system.\nIf space is your jam then this has to be the app for you.\nIt looks and feels like triple A educational experience to immerse yourself self into.\n\nGoing to moon, mars & other planets is a dream come true for space geeks, with awesome accuracy on each landing spot.\nCongratulations to the devs for bringing this to VR.",
+      "date": 1748061537,
+      "review_helpful_count": 4,
+      "author_display_name": "GizmoDemi",
+      "author_alias": "GizmoDemi",
+      "developer_response": null
+    },
+    {
+      "id": "665797819285867",
+      "score": 5,
+      "review_title": "Impressive.",
+      "review_description": "It's a very well put together app, and I could imagine it as an entire encyclopedia or the vr version of Wikipedia. With it just covering bits and pieces of basically the solar system, it feels very limited. What a great idea, though. I wish I had this when I was a kid and was fascinated by looking at pictures and reading about the solar system in encyclopedias. This would have been mind-blowing in the 70s and 80s. Even now, it's impressive.",
+      "date": 1742437720,
+      "review_helpful_count": 10,
+      "author_display_name": "Whoeverx",
+      "author_alias": "Whoeverx",
+      "developer_response": {
+        "body": "Thank you! Our aim is to keep improving the App by adding more and more contents. If you have any specific request or suggestione, please share it with us!",
+        "date": 1742561111
+      }
+    },
+    {
+      "id": "602232576300529",
+      "score": 5,
+      "review_title": "Great app to explore!",
+      "review_description": "Wow. Why is this app so unknown? I wasn't expecting much, but I was blown away! The level of detail is incredible, and you can really feel the love and care that went into creating this. If you want to learn about the universe around you while enjoying amazing experiences like a moonwalk, this is the perfect app for you",
+      "date": 1740504073,
+      "review_helpful_count": 7,
+      "author_display_name": "Nahajasaki",
+      "author_alias": "Nahajasaki",
+      "developer_response": null
+    },
+    {
+      "id": "536835532836749",
+      "score": 5,
+      "review_title": "Space Atlas VR",
+      "review_description": "This has so much. Visit eagle lunar lander. Land on moons and planets.\nThe models of the moons and planets holding them in the hands, I feel like I am a rich man with some high end quality crafted toys. Very lovely. Well worth the money. With the look of the moons, it looks like a hundred dollar app.\nHopefully the missions part of it is up and running soon. Otherwise a very excellent app.",
+      "date": 1733727480,
+      "review_helpful_count": 17,
+      "author_display_name": "nautilus.657413",
+      "author_alias": "nautilus.657413",
+      "developer_response": null
+    }
+  ],
+  "total": 13,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:46:14Z"
+}

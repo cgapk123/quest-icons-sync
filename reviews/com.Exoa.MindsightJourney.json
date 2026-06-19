@@ -1,0 +1,34 @@
+{
+  "app_id": "28378182741829550",
+  "package_name": "com.Exoa.MindsightJourney",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Mindsight Journey",
+  "rating_average": 4,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "2943928982442039",
+      "score": 4,
+      "review_title": "Interesting but needs updated ASAP",
+      "review_description": "I'm the target audience for this app.  I've been testing/using VR meditation apps since 2016.  I'm also very experienced with various apps using entrainment, binaural audio, etc.  I desperately WANT to delve into this app and give it a chance because it's clear the Monroe Institute put a lot of thought into the design.  They must fix this app ASAP.  This appears to be a (poorly executed) port of a phone app.  It contains (confusing) instructions meant for both phones and PCs.  The VR controls do not work properly (they don't work AT ALL in at least one module).  The instructional narration is mixed poorly and is difficult to understand with stock Quest 3 audio.  I want to be 100% clear--this content looks pretty interesting, but you guys need to either pull this app or update it immediately before you frustrate or turn-off people who stumble across it.  The Monroe Institute seems to take this work seriously so don't undermine a very interesting project like this by putting out a half-baked, broken app.  I'll delete these comments if the devs respond; my sole intention is to provide helpful feedback so that your work & outreach is more effective.  I'm also willing to provide direct  feedback if you'd like.",
+      "date": 1741137625,
+      "review_helpful_count": 14,
+      "author_display_name": "TheForbinProject",
+      "author_alias": "TheForbinProject",
+      "developer_response": {
+        "body": "Hi, thank you for your feedback!\nWe are improving the VR app little by little.\nWe just published a new updated v2.0.0 with hand tracking navigation, audio narration dedicated to VR, and the ability to select exactly which symbols, shapes and colors you want to work with.\n\nThis is still a work in progress and we appreciate any feedbacks we can get to improve it over time.\n\nPlease try this new version and let us know your feedbacks using the feedback form on the website https://mindsight.exoa.dev/feedback\n\nThank you!\n\nregards,\nAnthony",
+        "date": 1767625998
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:42:23Z"
+}
