@@ -1,0 +1,56 @@
+{
+  "app_id": "25351727367797623",
+  "package_name": "com.Carl_Wheezer.FunkyoftheMunky",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Funky Munkys",
+  "rating_average": 5,
+  "rating_count": 4,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "969485072238516",
+      "score": 5,
+      "review_title": "Makes me funky for a munky",
+      "review_description": "Hi!",
+      "date": 1777331882,
+      "review_helpful_count": 3,
+      "author_display_name": "Timismee",
+      "author_alias": "Timismee",
+      "developer_response": {
+        "body": "hi!",
+        "date": 1777419472
+      }
+    },
+    {
+      "id": "984067150816934",
+      "score": 5,
+      "review_title": "Hi",
+      "review_description": "It’s fun",
+      "date": 1777329911,
+      "review_helpful_count": 0,
+      "author_display_name": "Bokisdabest",
+      "author_alias": "Bokisdabest",
+      "developer_response": null
+    },
+    {
+      "id": "1150344828153063",
+      "score": 5,
+      "review_title": "A fire game with munkys that are funky",
+      "review_description": "Idk what else to type here",
+      "date": 1777329736,
+      "review_helpful_count": 1,
+      "author_display_name": "ClawJawsVR",
+      "author_alias": "ClawJawsVR",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:48:45Z"
+}

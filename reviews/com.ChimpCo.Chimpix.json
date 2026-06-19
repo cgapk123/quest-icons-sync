@@ -1,0 +1,42 @@
+{
+  "app_id": "30939347472331037",
+  "package_name": "com.ChimpCo.Chimpix",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Chimpix",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "616429744896413",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Get dis game now!",
+      "date": 1750966881,
+      "review_helpful_count": 3,
+      "author_display_name": "Kenzie.Brownn",
+      "author_alias": "Kenzie.Brownn",
+      "developer_response": null
+    },
+    {
+      "id": "641610905608100",
+      "score": 5,
+      "review_title": "W game",
+      "review_description": "Definitely should get game and give review",
+      "date": 1751600684,
+      "review_helpful_count": 1,
+      "author_display_name": "WR1TTEN",
+      "author_alias": "WR1TTEN",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:54:28Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "7304718222956569",
+  "package_name": "com.Cazforshort.Tri3d",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "TriVR",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "4447524658905774",
+      "score": 1,
+      "review_title": "Abandonware",
+      "review_description": "Non-Functional garbage",
+      "date": 1775833867,
+      "review_helpful_count": 0,
+      "author_display_name": "PhilSurtees",
+      "author_alias": "PhilSurtees",
+      "developer_response": null
+    },
+    {
+      "id": "528282300203620",
+      "score": 1,
+      "review_title": "App not generating models, gets stuck",
+      "review_description": "Hi, I am happy to update the review, later, but right now the app is not working on quest 3, after typing in a word for an object, the timer counts down but then nothing shows up.  The support site in the in description is giving a 404 page not found error.  I am happy to help troubleshoot with the dev to get this to work as it looks really creative and useful, so I want it to work.",
+      "date": 1732609218,
+      "review_helpful_count": 3,
+      "author_display_name": "whitebeardvr",
+      "author_alias": "whitebeardvr",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:50:27Z"
+}

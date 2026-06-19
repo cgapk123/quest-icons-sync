@@ -1,0 +1,89 @@
+{
+  "app_id": "26078295761814616",
+  "package_name": "com.ChickenTractor.CoCo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "COCO 3D",
+  "rating_average": 4.2857142857143,
+  "rating_count": 7,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "922383273530099",
+      "score": 4,
+      "review_title": "useful but not fully developed yet",
+      "review_description": "It mostly meets my needs, but the way it operates could be improved. I hope the tool panel can be opened and closed with controller buttons like X or Y. It would be great to have more common functions assigned to shortcuts. For example: press A to install, hold B to move, and use it to zoom in or out.",
+      "date": 1773593336,
+      "review_helpful_count": 2,
+      "author_display_name": "axb1027",
+      "author_alias": "axb1027",
+      "developer_response": null
+    },
+    {
+      "id": "538766679316547",
+      "score": 5,
+      "review_title": "Innovative and Compact MR Toolbelt",
+      "review_description": "Coco is quite the unique tool. It offers small-scale simplicity with large-scale potential, including real-time collaboration with others. Due to its small scale, the tools it provides are well-defined and polished. While these tools may seem simple at first glance, Coco is truly what you make of it. This is not an application that will hold your hand and provide a guided experience. Instead it immediately puts everything the application has to offer into your control, including tools like the Box, Sphere, Measurement, Grid, & Draw tools. The key to unlocking Coco's potential is: Creativity. Discovering how the features Coco offers can serve your everyday needs is where its true value lies. As you discover aspects that Mixed Reality can improve in your life, you’ll find yourself turning to Coco frequently and finding interesting ways to leverage its functionality. For instance, one clear use case is planning the layout of a physical space. Imagine moving into a new apartment: with Coco, you could use the Box, Measurement, and Draw tools to sketch out potential layouts for your couch, TV stand, dining table, bed, or even where to hang a favorite photo! The Measurement tool ensures everything fits perfectly. Save your sketches, try new layouts, and compare them before deciding on the best arrangement. This saves you the hassle of physically moving furniture until you get it right. Beyond planning a new apartment, Coco shines in other scenarios: designing a stage set, organizing a closet, planning party décor, and more. Once again, my key takeaway from experimenting with Coco is: This is a sandbox tool. If you expect a guided experience, you may struggle to see its value. However, if you approach it with an open mind and explore its potential, its straightforward yet versatile tools will prove invaluable for personal or collaborative projects. Once you discover how Coco fits into your life, its value far exceeds its price tag. Coco is truly our Mixed Reality toolbelt.",
+      "date": 1736193903,
+      "review_helpful_count": 13,
+      "author_display_name": "Barnameji",
+      "author_alias": "Barnameji",
+      "developer_response": null
+    },
+    {
+      "id": "574345965757673",
+      "score": 2,
+      "review_title": "Underwhelming for remodeling purposes",
+      "review_description": "I was hoping for something more sophisticated than the free meta's layout app yet simpler than professional VR CAD apps because I'm not a professional. I'm just someone trying to remodel at home. \n\nI wanted to map out a space and put objects in it accurately. This didn't deliver on that purpose. It might be better suited to free form creativity and vauge idea planning. \n\nIt lacked some features that I consider essential for CAD use. This made the experience so tedious as to make the app unusable. \n\nIt doesn't take advantage of room mapping. If I want objects to snap into place against walls or floors I have to painstakingly create a work surface. Otherwise you can push things right through the physical surfaces\n\nYou can't set the size of objects by entering it in via text input. You can only physically stretch items to size them. Getting exact sizes is next to impossible. \n\nI did like the ability to undo changes and save. I didn't get to try out collaboration. But that seems like a really cool feature.",
+      "date": 1738259667,
+      "review_helpful_count": 4,
+      "author_display_name": "narla.t.rex",
+      "author_alias": "narla.t.rex",
+      "developer_response": {
+        "body": "Hi Narla, thank you for your candid feedback!  \n\nWe're always trying to improve COCO 3D so that it can be exactly what you said - a simple to use but powerful spatial planning tool - so we really appreciate your input.  \n\nFor room mapping, you're right that it would be a very powerful feature. The good news is we do have a plan on how to integrate that pretty seamlessly into the current systems so that a quick room scan would automatically produce surfaces and volumes that you can either move around or snap other elements to.   \n\nWe've also heard from multiple people that pre-setting the size of objects would be very helpful - so that one is high on the list too!  \n\nCurrently we're working on pushing out an update that allows individual objects and groups to be saved (rather than entire sketches at a time). What are currently known as 'sketches' are being renamed to 'spaces', and 'objects' will be a new distinct system.  We're pretty excited about that because it adds a whole bunch of flexibility where you will be able to reliably create or measure something, save it, and bring it into any other physical area without having to use a specific calibration setup as a workaround. (having been able to use it in the Alpha version, it's been a feature I use a LOT)  \n\nOur hope is to get that released in the next couple of days - and we'd love your feedback on that too!  \n\nOnce that's done we can turn our focus to your suggestions, among some other cool new stuff too. So look forward to it!  \n\nThanks again :)\n\nEdit: We'd really appreciate (if you would be willing) if you could provide any more feedback - we do have a discord here: https://discord.com/invite/GeDDFJgtZn",
+        "date": 1738340608
+      }
+    },
+    {
+      "id": "571243272730533",
+      "score": 5,
+      "review_title": "VR Utility with Endless Possibilities",
+      "review_description": "This app is a fantastic tool for professionals in various fields. It allows precise measurements in both metric and imperial units, supports importing cubes and spheres for spatial planning, and enables adding detailed notes. The ability to collaborate in the same virtual environment and share comments seamlessly makes it invaluable for team projects. The possibilities for fieldwork are truly endless!",
+      "date": 1736836134,
+      "review_helpful_count": 6,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": null
+    },
+    {
+      "id": "571383946047712",
+      "score": 5,
+      "review_title": "Cool collaborative feature",
+      "review_description": "A buddy of mine is into fabricating stuff for little shindigs at his home. I convinced him to try it out because I thought he'd get a kick out of it. You have to calibrate by picking the same two points on both devices, then as long as you're on the same WIFI, you can jump into the other person's scene. We tried to make a game of Battleship, it worked decently well. Plus you can point laser pointers at each other.",
+      "date": 1736536415,
+      "review_helpful_count": 4,
+      "author_display_name": "srocha",
+      "author_alias": "srocha",
+      "developer_response": null
+    },
+    {
+      "id": "486582871212775",
+      "score": 5,
+      "review_title": "Really good once you understand snapping",
+      "review_description": "Even if you're just making shapes and drawing, this app is clean and easy to use. But personally once I got used to the snapping, grouping, and copy/paste tool I feel like the app got useful in a whole new way. The trick is to grab the object where you want the snapping to occur. Like if you want to snap a box so that its corner lines up with another box... grab it on the corner.",
+      "date": 1736538175,
+      "review_helpful_count": 6,
+      "author_display_name": "AaronSV",
+      "author_alias": "AaronSV",
+      "developer_response": null
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:53:40Z"
+}

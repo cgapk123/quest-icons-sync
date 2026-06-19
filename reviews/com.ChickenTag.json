@@ -1,0 +1,48 @@
+{
+  "app_id": "25327743983587730",
+  "package_name": "com.ChickenTag",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Chicken Tag",
+  "rating_average": 3,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "963062553554870",
+      "score": 5,
+      "review_title": "hi",
+      "review_description": "hi",
+      "date": 1769209026,
+      "review_helpful_count": 2,
+      "author_display_name": "Gr8gmrPlayz",
+      "author_alias": "Gr8gmrPlayz",
+      "developer_response": {
+        "body": "hi sir",
+        "date": 1769400583
+      }
+    },
+    {
+      "id": "941465442386309",
+      "score": 1,
+      "review_title": "Not good",
+      "review_description": "Sooo bad",
+      "date": 1769204876,
+      "review_helpful_count": 0,
+      "author_display_name": "jokevr2026",
+      "author_alias": "jokevr2026",
+      "developer_response": {
+        "body": "switch release channel 😭✌️",
+        "date": 1769400567
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:53:33Z"
+}
