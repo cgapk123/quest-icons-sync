@@ -1,0 +1,73 @@
+{
+  "app_id": "8721586871245581",
+  "package_name": "com.JumbliVR.x82IdeaEngine",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Idea Engine",
+  "rating_average": 4.4444444444444,
+  "rating_count": 9,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "851198944736046",
+      "score": 4,
+      "review_title": "Very interesting, but...",
+      "review_description": "It's a very interesting app to make new experiences, but the lack of tutorials on how to use, coupled with a few positioning bugs do leave a lot to be desired for it. If there were tutorials on how to use to create such experiences, would be better.",
+      "date": 1759263306,
+      "review_helpful_count": 1,
+      "author_display_name": "RenatoDias",
+      "author_alias": "RenatoDias",
+      "developer_response": null
+    },
+    {
+      "id": "1095043364834778",
+      "score": 5,
+      "review_title": "This is awesome!",
+      "review_description": "Thank you so much for taking the time to put this together and share it with us! My colleagues and I work in VR and I’ll be sharing it with them too. You’ve designed a very natural way to interact with very complex information that feels as native to VR as something like Half-Life: Alyx. That may be the best compliment I can give as I think that game sets the bar. Great work!",
+      "date": 1704547660,
+      "review_helpful_count": 6,
+      "author_display_name": "numicron",
+      "author_alias": "numicron",
+      "developer_response": {
+        "body": "Thank you for those very encouraging words. I can't wait to bring you lots more features and improvements throughout 2024. More sample projects and tutorials for specific use-cases are going to be an early priority together with default content for our Metaverse.",
+        "date": 1704569902
+      }
+    },
+    {
+      "id": "738278784887398",
+      "score": 5,
+      "review_title": "Cool idea",
+      "review_description": "Just started playing with it",
+      "date": 1705159220,
+      "review_helpful_count": 0,
+      "author_display_name": "SpookyFairy",
+      "author_alias": "SpookyFairy",
+      "developer_response": {
+        "body": "Thanks for trying it. If you have feedback or ideas you can let me know by email or Discord via x82hub.com/issues",
+        "date": 1705164662
+      }
+    },
+    {
+      "id": "320506244248027",
+      "score": 5,
+      "review_title": "Cool game",
+      "review_description": "very cool idea for a small project game",
+      "date": 1701813429,
+      "review_helpful_count": 0,
+      "author_display_name": "tux.ate.your.phone",
+      "author_alias": "tux.ate.your.phone",
+      "developer_response": {
+        "body": "Thank you for leaving a review. There will be a stream of improvements and new features as we progress through the alpha so please remember to revisit :)",
+        "date": 1701859573
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:21:15Z"
+}

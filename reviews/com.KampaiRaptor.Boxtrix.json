@@ -1,0 +1,45 @@
+{
+  "app_id": "5450245638405597",
+  "package_name": "com.KampaiRaptor.Boxtrix",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Boxtrix",
+  "rating_average": 3.5,
+  "rating_count": 4,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "660841658870515",
+      "score": 5,
+      "review_title": "Message from the devs:",
+      "review_description": "Thank you for trying out Boxtrix!\n\nWe wanted to create a puzzle game utilizing the Passthrough mode, and thus Boxtrix was born! \nIf you have feedback or want to chat with us devs, feel free to join our discord:\n\nhttps://discord.gg/BTvQfSgzxF\n\nThanks again, and hope you join the cube!",
+      "date": 1669674263,
+      "review_helpful_count": 2,
+      "author_display_name": "Sir_Fansi",
+      "author_alias": "Sir_Fansi",
+      "developer_response": null
+    },
+    {
+      "id": "520309200137883",
+      "score": 3,
+      "review_title": "Has elements of QubeFall but is weaker",
+      "review_description": "I REALLY dug the green pass-through effect, digitizing my room. All of the sounds and music were appropriate, and the time-attack system was fair. With that said, figuring out block placement was annoying because blocks that you hold are transparent, while the blocks that are set in the playing field are opaque. It should be the other way around, because otherwise you can't see the holes that are formed in the middle of the playing grid. It was also a (literal) pain to have to get down on my knees and crawl around; there should be a way to elevate the grid onto a virtual table so you can just walk around it instead. There was also no grid to indicate the ceiling of the playing field, until I realized it goes up to a certain tile count and just won't take anything higher, despite having no indicator.\n\nBoxtrix sort of makes me think of the mobile game Doptrix. Overall it's a great idea but the biggest issue is the lack of a wireframe for set blocks.",
+      "date": 1670646588,
+      "review_helpful_count": 0,
+      "author_display_name": "Dymonika",
+      "author_alias": "Dymonika",
+      "developer_response": {
+        "body": "Hello! \nThank you for your feedback, and thanks for checking out Boxtrix! There actually is a setting for elevating the grid up to standing height, it's in the settings-menu! \n\nYou find it by pressing the menu-button on the left controller, which brings up a menu where you can adjust settings for the game. We'll take your feedback into account for the next update we make! \n\nAnd thanks for checking out the game :)",
+        "date": 1670706673
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:27:21Z"
+}

@@ -1,0 +1,70 @@
+{
+  "app_id": "4603501616372548",
+  "package_name": "com.K5Factory.TesseraluxDemo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Labyrinth deLux - A Crusoe Quest (Free Demo)",
+  "rating_average": 4.375,
+  "rating_count": 8,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "2733166176874203",
+      "score": 5,
+      "review_title": "love the feeling, though not perfect",
+      "review_description": "I love this lowpoly/pixel art style. The ship is especially good. I love the mood/sounds and funny dialogues. I love the \"no fixed gravity\" (you can walk on any wall). Some cons: The levels look a little too barren. My neck is often strained from looking up. Smooth jumping is dizzying (so I had to turn it off). It was not immediately intuitive how to press the menu buttons. Walk speed is too slow (at the fastest setting). Puzzles are pretty basic so far -- I'm trying the full game next.",
+      "date": 1739734536,
+      "review_helpful_count": 0,
+      "author_display_name": "JimZM",
+      "author_alias": "JimZM",
+      "developer_response": null
+    },
+    {
+      "id": "772321507665784",
+      "score": 5,
+      "review_title": "Addicting",
+      "review_description": "A lot of fun.",
+      "date": 1676809639,
+      "review_helpful_count": 3,
+      "author_display_name": "christian7004",
+      "author_alias": "christian7004",
+      "developer_response": null
+    },
+    {
+      "id": "610350163994863",
+      "score": 3,
+      "review_title": "Nice Idea.",
+      "review_description": "I like the Style. But I get motion sikness from the jumps.",
+      "date": 1660396217,
+      "review_helpful_count": 2,
+      "author_display_name": "GeraltKain",
+      "author_alias": "GeraltKain",
+      "developer_response": {
+        "body": "Thank you very much for your feedback! If you would like to make the jumps less challenging you can enter the menu once you’re in Room 1:\nPress the menu button on your left controller, the menu will open next to the left controller. You can choose a category with your right index finger by pressing the button on the menu. To turn off the animated teleport open the menu and select „Settings\" - \"Teleport: animated\". Now click with your right Index finger on „Teleport: animated“. It shall change to „Teleport: instantaneous“. This will cut any animation of the teleportation through the room. Please let us know if it works for you. Best, the Dev Team",
+        "date": 1660898764
+      }
+    },
+    {
+      "id": "542197774310442",
+      "score": 5,
+      "review_title": "Where is up? - Excellent  demo!",
+      "review_description": "Though the graphics are a bit retro, this demo really amazed me. Voice acting and gameplay are excellent. I like the idea of the gravity boots and being able to walk on walls and  ceiling. Very promising! But will there be more tasks in the full game than just turning mirrors? How long is the game?",
+      "date": 1659973980,
+      "review_helpful_count": 2,
+      "author_display_name": "soundsosound",
+      "author_alias": "soundsosound",
+      "developer_response": {
+        "body": "Thank you very much for your kind words about our Demo! \nIn the Full Version you need to turn mirrors, split the laser through a prism, collect the different colored lasers in different crystal aims in order to open the next rooms.\nThere are wall mirrors that can’t be turned so you need to work with the laser itself - it gets challenging in the further progress.\nThe Full version has 16 rooms and to solve all rooms the playtime is between 8 - 10 hours. It depends on how quick you solve the rooms. Please let us know how long it took you, if you’re going for it! Best, the Dev Team.",
+        "date": 1660898814
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:23:39Z"
+}
