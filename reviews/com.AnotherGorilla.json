@@ -1,0 +1,42 @@
+{
+  "app_id": "32321376800839241",
+  "package_name": "com.AnotherGorilla",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Gorilla Hunt",
+  "rating_average": 2,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "919852377881213",
+      "score": 1,
+      "review_title": "Booty",
+      "review_description": "CHEEKS",
+      "date": 1767176482,
+      "review_helpful_count": 2,
+      "author_display_name": "KingKendrick764",
+      "author_alias": "KingKendrick764",
+      "developer_response": null
+    },
+    {
+      "id": "906782928695469",
+      "score": 3,
+      "review_title": "Ummm",
+      "review_description": "This game is not so bad",
+      "date": 1768098104,
+      "review_helpful_count": 1,
+      "author_display_name": "FigHomwtwo",
+      "author_alias": "FigHomwtwo",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T06:05:32Z"
+}

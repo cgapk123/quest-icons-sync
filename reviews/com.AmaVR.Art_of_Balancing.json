@@ -1,0 +1,56 @@
+{
+  "app_id": "3627738584005388",
+  "package_name": "com.AmaVR.Art_of_Balancing",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Art of Balancing",
+  "rating_average": 3.1,
+  "rating_count": 10,
+  "review_count": 10,
+  "reviews": [
+    {
+      "id": "4331697353612593",
+      "score": 5,
+      "review_title": "Very polished but very short",
+      "review_description": "This is clearly going to end up on the main store one day because you can tell the team is polishing it up at every corner. It's a shame it's so short.",
+      "date": 1628506026,
+      "review_helpful_count": 0,
+      "author_display_name": "Gilius",
+      "author_alias": "Gilius",
+      "developer_response": null
+    },
+    {
+      "id": "2030244673783135",
+      "score": 4,
+      "review_title": "Well meaning.",
+      "review_description": "But it runs a bit slow, and the balancing part is hard, although it gives you hints. The payoff is to talk to the machine and tell it your secrets, ala, umm, Where the Thoughts Go (or whatever that app was called).",
+      "date": 1620708855,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "730372344319379",
+      "score": 3,
+      "review_title": "interesting Concept, Poor Execution",
+      "review_description": "Rock balancing is an intriguing skill to bring to VR, however in it’s current iteration under little scrutiny, this rock tower falls apart. In an app like this actual physics should be first and foremost, but I was able to build towers that defied gravity and logic. Also, the vocal prompts often speak over one another leaving you with an indecipherable word jumble and very little idea of what goal you are trying to attain.  The concept has a lot of meditative potential, I just hope the developer is able to realize it.",
+      "date": 1619057386,
+      "review_helpful_count": 8,
+      "author_display_name": "PersonalDemon",
+      "author_alias": "PersonalDemon",
+      "developer_response": {
+        "body": "Thank you for your insights, we've just submitted an update to fix the audio issue you mentioned. As for the stacking physics, it was an intentional decision made by the developers to design a non-physics based system so that it feels more like a freeform puzzle game. \n\nI myself is an avid rock balancer and I totally feel you when you talk about wanting real physics and even haptics to feel the weight of the rock as you balance them. At the current stage, we are still experimenting with potential ways to bring a more realistic feel to the game. Your feedback is greatly appreciated. \n\nSincerely, Awu \nDirector of Art of Balancing",
+        "date": 1619520755
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T06:00:59Z"
+}
