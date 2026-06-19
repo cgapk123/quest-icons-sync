@@ -1,0 +1,75 @@
+{
+  "app_id": "1549664095083678",
+  "package_name": "com.DeviousTech.MarbleLandGearVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Marble Land",
+  "rating_average": 4.2857142857143,
+  "rating_count": 14,
+  "review_count": 14,
+  "reviews": [
+    {
+      "id": "2532355453698801",
+      "score": 4,
+      "review_title": "Learning curve on controls",
+      "review_description": "It's frustratingly awful at first because moving around is difficult to understand. Once you figure out how to float around freely, it's a great puzzle game.\n\nBasically you have to treat the go controller touch pad as if it's two separate directional pads:\n\n1) touching up/down/left/right \n2) pressing up/down/left/right",
+      "date": 1589041941,
+      "review_helpful_count": 3,
+      "author_display_name": "MaximumHeadroom",
+      "author_alias": "MaximumHeadroom",
+      "developer_response": null
+    },
+    {
+      "id": "2328853164011709",
+      "score": 5,
+      "review_title": "",
+      "review_description": "A great 3d vr puzzle game",
+      "date": 1548922148,
+      "review_helpful_count": 8,
+      "author_display_name": "Gilagassi1",
+      "author_alias": "Gilagassi1",
+      "developer_response": null
+    },
+    {
+      "id": "2040230972721889",
+      "score": 4,
+      "review_title": "Exceptional VR Puzzle Game",
+      "review_description": "Great portable version of the PC game.  Starts easy and gets mind bending hard as you progress through the game. Good atmospheric music, a few different environments to change it up and a decent sense of scale with graphics that support it. \n\nGave it 4 stars because the Go Controller takes little getting used to and doesn't always respond properly. \n\nYou can watch my Quick Look video of the game here for a more informed decision: https://www.youtube.com/watch?v=K-e-eJbrCHE",
+      "date": 1549575988,
+      "review_helpful_count": 8,
+      "author_display_name": "Marcus-INVR",
+      "author_alias": "Marcus-INVR",
+      "developer_response": null
+    },
+    {
+      "id": "2019960628079985",
+      "score": 2,
+      "review_title": "Very buggy controls.",
+      "review_description": "I could easily give this game 5 stars if it wasn't for the buggy controller input. Within minutes of playing this I ran into many issues. Stuck at ground level between a deck when a level loaded, couldn't move, controller drift and recenter was blocked. The camera has a collider on it that causes the camera to rotate if you collide with a game object so the entire scene ends up in the wrong direction and it's a matter of restarting the level to get it back to normal. Controller even disappears between level loads. All issues seem to resolve around the collider on the camera and levels being able to spawn with the camera being stuck between a collider of the next level. The scene rotating when you collide with a game object is a complete different issue that needs to be fixed with code. Shame because this seems to be a great game. As I said, I could easily give this 5 stars if the controller input issues were fixed.",
+      "date": 1549202785,
+      "review_helpful_count": 28,
+      "author_display_name": "JTubbritt",
+      "author_alias": "JTubbritt",
+      "developer_response": null
+    },
+    {
+      "id": "135950784128627",
+      "score": 1,
+      "review_title": "Not good",
+      "review_description": "I downloaded  marble madness\nAnd it said it was\nDownloaded  but it  was not it would not \nConnect what a rip off",
+      "date": 1555034359,
+      "review_helpful_count": 0,
+      "author_display_name": "kroger2308",
+      "author_alias": "kroger2308",
+      "developer_response": null
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:09:41Z"
+}

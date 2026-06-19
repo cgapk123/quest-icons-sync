@@ -1,0 +1,34 @@
+{
+  "app_id": "7693438587338574",
+  "package_name": "com.DefaultCompany.ltblunity",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "CAD Nodes",
+  "rating_average": 3,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1292999145649361",
+      "score": 3,
+      "review_title": "Very early stage, cool concept though",
+      "review_description": "I have wanted a parametric CAD platform to create stuff in VR for a long time. This is not there yet, but it is very cool.\n\nI would love to see more from this developer and see this platform continue to evolve.\n\nI am not sure why you need to connect to a laptop.",
+      "date": 1759007079,
+      "review_helpful_count": 7,
+      "author_display_name": "boaz.burnett",
+      "author_alias": "boaz.burnett",
+      "developer_response": {
+        "body": "Hi and thanks for checking CADNodes and  leaving the review - I really appreciate it. You're right its a prototype with many essential features still missing but I am working on it so stay tuned. The laptop is needed for the geometry module to perform cad shapes calculations. The headset app is just a 3d terminal presenting calculations happening inside the web app on the PC/laptop. This simply was the quickest way for me to release the XR app while I am working on making it actually self contained and independent.",
+        "date": 1759827335
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:04:39Z"
+}

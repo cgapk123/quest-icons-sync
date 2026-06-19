@@ -1,0 +1,31 @@
+{
+  "app_id": "7571647762886533",
+  "package_name": "com.DefaultCompany.cheesetag",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "cheese tag",
+  "rating_average": 3,
+  "rating_count": 11,
+  "review_count": 11,
+  "reviews": [
+    {
+      "id": "380471051629816",
+      "score": 5,
+      "review_title": "no horror",
+      "review_description": "it said it was horror game",
+      "date": 1712649538,
+      "review_helpful_count": 20,
+      "author_display_name": "GTVR39APICKLE",
+      "author_alias": "GTVR39APICKLE",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:03:29Z"
+}

@@ -1,0 +1,53 @@
+{
+  "app_id": "7409253265845360",
+  "package_name": "com.DefaultCompany.mortified",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Mortified Macaque",
+  "rating_average": 5,
+  "rating_count": 4,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "403718929484078",
+      "score": 5,
+      "review_title": "So scary but so fun",
+      "review_description": "Lime your the founder -_-",
+      "date": 1721912009,
+      "review_helpful_count": 1,
+      "author_display_name": "Ninjadragon9811",
+      "author_alias": "Ninjadragon9811",
+      "developer_response": null
+    },
+    {
+      "id": "334505826389563",
+      "score": 5,
+      "review_title": "great game",
+      "review_description": "i love it",
+      "date": 1721504293,
+      "review_helpful_count": 1,
+      "author_display_name": "alez.bss",
+      "author_alias": "alez.bss",
+      "developer_response": null
+    },
+    {
+      "id": "327972833727210",
+      "score": 5,
+      "review_title": "Best game ever",
+      "review_description": "Im the original owner who had ideas this game is great we are fixing some issue though",
+      "date": 1721937119,
+      "review_helpful_count": 1,
+      "author_display_name": "mikki.mase",
+      "author_alias": "mikki.mase",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:05:09Z"
+}

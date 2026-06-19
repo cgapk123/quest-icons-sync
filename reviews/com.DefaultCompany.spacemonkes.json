@@ -1,0 +1,53 @@
+{
+  "app_id": "6271961866233762",
+  "package_name": "com.DefaultCompany.spacemonkes",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "space monkes",
+  "rating_average": 4.1111111111111,
+  "rating_count": 9,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "139079072622747",
+      "score": 4,
+      "review_title": "Monke",
+      "review_description": "A new game\nWhat’s is it called",
+      "date": 1696703046,
+      "review_helpful_count": 6,
+      "author_display_name": "X0s_vr",
+      "author_alias": "X0s_vr",
+      "developer_response": null
+    },
+    {
+      "id": "289675643581658",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "New game coming soon",
+      "date": 1689646180,
+      "review_helpful_count": 9,
+      "author_display_name": "MonkeyInQuest",
+      "author_alias": "MonkeyInQuest",
+      "developer_response": null
+    },
+    {
+      "id": "177920051963736",
+      "score": 5,
+      "review_title": "Monkey",
+      "review_description": "Good luck with your game",
+      "date": 1690909934,
+      "review_helpful_count": 1,
+      "author_display_name": "KENNY._Tf2",
+      "author_alias": "KENNY._Tf2",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:06:09Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "9756697981093610",
+  "package_name": "com.DefaultCompany.projectthedarkness",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "project the darkness",
+  "rating_average": 4.1111111111111,
+  "rating_count": 9,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "896272996893658",
+      "score": 1,
+      "review_title": "Very bad",
+      "review_description": "1/10\nI could not even play.I could only change my name or click the cookie clicker.",
+      "date": 1762652830,
+      "review_helpful_count": 4,
+      "author_display_name": "sharky.274955.2543",
+      "author_alias": "sharky.274955.2543",
+      "developer_response": null
+    },
+    {
+      "id": "734009839161244",
+      "score": 5,
+      "review_title": "Very good",
+      "review_description": "10/10\n\nM\nO\nN\nK\nE\nY",
+      "date": 1750190017,
+      "review_helpful_count": 5,
+      "author_display_name": "gerardb4444",
+      "author_alias": "gerardb4444",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:05:41Z"
+}
