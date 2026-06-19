@@ -1,0 +1,48 @@
+{
+  "app_id": "3926723580761671",
+  "package_name": "com.CalmingWindsProductions.CyberDefense2088",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Cyber Defense 2088 Demo",
+  "rating_average": 2.6666666666667,
+  "rating_count": 9,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "442650037244913",
+      "score": 4,
+      "review_title": "Needs some tweaks, but lots of potential",
+      "review_description": "This game is great!  I truly had a fantastic time flying around like Iron Man and using what felt like a rail gun.  The gameplay itself is fun, and pretty intuitive.  The main thing I would love to have is an option to place turrets exclusively with the left hand.  You have to accurately click on a menu while simultaneously trying to make sure you keep an eye on shooting enemies, which really breaks the flow of the battle.  \n\nOne other thing that would be nice is to have the game be a bit less punishing.  It's a little ridiculous to have the negative purchasing points pile up, which feels like a 90s game.  Matches the aesthetic, but it's not fun to play with and makes me want to just restart rather than grinding my way out.",
+      "date": 1638234099,
+      "review_helpful_count": 1,
+      "author_display_name": "cubular",
+      "author_alias": "cubular",
+      "developer_response": {
+        "body": "Thanks for playing, we explored other options to place turrets, but most involved more than a 2 step procedure and just took too long. We could have used the pavlov wheel method, but that was also not very accurate when trying to do it quickly. \n\nYa, with negative points you are encouraged to go back and complete previous levels on higher difficulties to get better weapons/turrets.",
+        "date": 1653319723
+      }
+    },
+    {
+      "id": "131881175937896",
+      "score": 3,
+      "review_title": "Has potential",
+      "review_description": "Interface needs to improve. I bought a turret but I don't even know where it was build or if it was getting build. Only one opponent for the demo.  Graphics can also be improved. I would recommend to add 3-4 coop team work and turn the game into something like cook out but with shooting and building turrets.",
+      "date": 1638652268,
+      "review_helpful_count": 1,
+      "author_display_name": "yes4me",
+      "author_alias": "yes4me",
+      "developer_response": {
+        "body": "I know we talked directly, but wanted to post here. The turrets are placed where the white sphere is which is aimed using your left hand. It made this way so you can quickly place a turret while maintaining combat. We didn't want tons of menus or more than one click to place a turret as combat is fast. You can also leave the turret menu on while playing making it even faster. Its position will let you still use duel weapons as well.",
+        "date": 1653319540
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:44:42Z"
+}

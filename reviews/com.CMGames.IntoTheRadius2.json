@@ -1,0 +1,963 @@
+{
+  "app_id": "6605328856182465",
+  "package_name": "com.CMGames.IntoTheRadius2",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Into The Radius 2",
+  "rating_average": 4.2870304748405,
+  "rating_count": 1411,
+  "review_count": 723,
+  "reviews": [
+    {
+      "id": "789381477594206",
+      "score": 1,
+      "review_title": "HAS BEEN ABANDONED BY DEVS",
+      "review_description": "This game was last updated over a year ago, and any attempts to get in contact with the developers for information on the next update results in blocking, banning or ghosting.\n\nThey have released the full version of this game on PC, and instead of working on porting over updates, are updating the PC version to 1.1 and beyond, while this game has sat at version 0.14 since release.\n\nSpread awareness of this everywhere and question the devs in their discord, on their Reddit page, and their support email.",
+      "date": 1781044169,
+      "review_helpful_count": 27,
+      "author_display_name": "BigfootBackshots",
+      "author_alias": "BigfootBackshots",
+      "developer_response": {
+        "body": "Hi there, explorer. No, you are not getting banned for asking this question. Questions about the Meta Quest version often pop up on our socials (Reddit, Discord, etc.). The reply — either from us or community members — is always the same: we're working on bringing version 1.x of the game (release + post-release patches) to Meta Quest later this autumn. The work on the port is ongoing. The previous update (0.14) was released on Meta Quest 5 months ago, earlier this year.",
+        "date": 1781524154
+      }
+    },
+    {
+      "id": "1438094844735125",
+      "score": 5,
+      "review_title": "Outstanding sequel, but some notes",
+      "review_description": "The first Into the Radius was one heck of a vibe, and this is an incredible continuation. Obviously there’s not too much right now, but that’s completely acceptable considering this is early access and 1.0 is just around the corner for quest. That being said, I do miss certain features from the first one. Now, these aren’t in any way game ruining, just some stuff that I noticed is different. \n   For one, the weapons are much quieter than in the first game. In ITR1, the guns were so loud they made your ears bleed (figuratively). Now, obviously this could pose a problem for some people, but as long as you add a slider for gun audio, I feel like it drastically increases the realism of the game. \n   Another thing I noticed that was different was the helmets don’t obscure your vision at all. Obviously the gas mask has the overlay, but in the first game, the helmets slightly hindered your view. I really miss this, as this was again just one of those things that contributed to the immersion. \n   I’d also like to point out that the anomaly tester doesn’t feel near as useful in this game as opposed to the original. The anomalies (even on the most dense setting), are extremely avoidable, unless of course it’s a cluster. Obviously I understand it would be graphically challenging to render more anomalies, but again it’s one of those things from the first game that really made the experience special (at least to me). You’d have to constantly throw out probes to make sure you aren’t walking into something that would turn you into ground beef. \n   Again, these are not at all mandatory by any means to make this a complete experience, they’re just things that I really enjoyed about the last game that seriously made it feel extremely realistic. Y’all are doing a great job, especially given the technical performance problems that standalone has. Keep up the good work!",
+      "date": 1777703109,
+      "review_helpful_count": 47,
+      "author_display_name": "LordCalamitus",
+      "author_alias": "LordCalamitus",
+      "developer_response": {
+        "body": "Just to point out one thing – the 1.0 update will introduce more types of anomalies to the game, including the Dandelion and two new electrical variations. Stay tuned, explorer!\n\nAlso, you’ll get used to anomalies over time. They’re designed to slow you down and encourage indirect routes, but as you gain experience, they should become less of a direct threat and more of an environmental obstacle.",
+        "date": 1778241378
+      }
+    },
+    {
+      "id": "1468780361595883",
+      "score": 4,
+      "review_title": "Amazing, but a few things",
+      "review_description": "For starters, you guys have really crafted something special. This is beyond any other game l've played on vr and I love it. The realism is unmatched. That being said there are a few minor things that I would like to see improved.\n\n1. the explorers facility is really lonely. Npcs or ai that walk around would make it seem a lot more vibrant\n\n2. Firing range. The guns in this game are so real and fun to use. A firing range would make it so much easier to get used to the guns and try before you buy them (buying a gun is a bit of a commitment)\n\n3. Shelters should have merchants who can sell you essential items that you could run out of during exploring. They should also have healing showers but with an increased price so you don’t last forever\n\n4. Meele weapons. This would be epic especially with a wide variety of them\n\n5. Not all of the setting in custom difficulty work\n\nOverall great game, and I can’t wait to see what’s to come. Would totally recommend to someone.",
+      "date": 1780271955,
+      "review_helpful_count": 9,
+      "author_display_name": "Underviper798",
+      "author_alias": "Underviper798",
+      "developer_response": null
+    },
+    {
+      "id": "943519171535122",
+      "score": 5,
+      "review_title": "Haters just gonna hate",
+      "review_description": "This game is beyond peak, all the comments with one star are mad at the bugs, the game’s in early access! They know it’s going to bug, but the devs are doing everything they can. Porting a game this big from pcvr to standalone quest is not an easy task. The game is great itself, once the full release comes out there’ll be so much more content to play, if you are looking for a new game to play, get the first game, if you already have it, then sure, get this game, but you will crash, it will lag, multiplayer will be buggy, but that’s just how games go. People asked for this game to come out, so it came out, people complain that it’s not finished, so the devs do what they can to fix it, people are gonna complain no matter what.",
+      "date": 1772300006,
+      "review_helpful_count": 326,
+      "author_display_name": "Survivor10267",
+      "author_alias": "Survivor10267",
+      "developer_response": null
+    },
+    {
+      "id": "1029296649630493",
+      "score": 5,
+      "review_title": "I am playing 2. Now I have to get 1",
+      "review_description": "This game is outstanding in single and Co-op play. I love the Co-op, however the bugs need to be fixed. The game keeps you on your toes. Please continue to do more. I also notice that the Steam version is different from quest. Why is that? I have to get the original game now. I also would like to know your discord. \n\nRespectfully,\nDustyfly",
+      "date": 1781624769,
+      "review_helpful_count": 2,
+      "author_display_name": "Dustyfly",
+      "author_alias": "Dustyfly",
+      "developer_response": null
+    },
+    {
+      "id": "1040302489173724",
+      "score": 5,
+      "review_title": "CM Games please don’t ruin IR2 😭",
+      "review_description": "Into the Radius 2 was special because of the loneliness!!! no goofy creatures, no bad voice actors, just me in the Zone. That eerie, isolated vibe was literally the whole point.\n\nI spent hours just grinding solo, sorting loot, upgrading gear and rinse and repeat… no human contact at all. If I wanted that, I’d just hop into multiplayer. It was my choice.\n\nNow there’s actual characters talking all the time and it just kills the immersion. The new female operator replacing the computer keeps talking and it gets annoying fast :( the old system worked because it felt distant and non-human.\n\nAnd Lori… I see what you were going for, the handshake thing is kinda cool, but that about it 😔 the rest of the character just doesn’t fit. It feels out of place. Something like an AI soldier/entrance control or a faceless system would’ve matched the world way better.\n\nIf you’re gonna add story, at least keep that lonely vibe that made the game stand out.\n\n#DeleteLori #RemoveOperator",
+      "date": 1776030617,
+      "review_helpful_count": 34,
+      "author_display_name": "7aki",
+      "author_alias": "7aki",
+      "developer_response": {
+        "body": "Hello, explorer! Thank you for sharing your concerns about current beta of 1.0 release for PCVR. \n\nWe're working on addressing the feedback we have received about dialogue and voices from the 1.0 beta. Some changes will be ready in time for the 1.0 release, with the others following in later patches.",
+        "date": 1776155340
+      }
+    },
+    {
+      "id": "1022832113612975",
+      "score": 5,
+      "review_title": "Amazing game, 10/10, but...",
+      "review_description": "I love this game, this game is genuinely beautiful and is the game i have gotten the most immersed in. This game is so much fun and i cant help but to recommend it. But, i have noticed a couple of issues  in the game\n\n1. Collision is all over the place sometimes you run into objects that are not even there \n2. When i try to crouch the game just opens the menu\n3. The fog barrier in the their area extends way further than its supposed to making it hard to reach the teleport point\n\nthis game is still in early development and the Devs are actively working to bring over the 1.0 version of the game. I cant wait to see the final product whenever it is finished optimizing for the quest",
+      "date": 1781815685,
+      "review_helpful_count": 0,
+      "author_display_name": "Foxy_9",
+      "author_alias": "Foxy_9",
+      "developer_response": null
+    },
+    {
+      "id": "1100949789777311",
+      "score": 4,
+      "review_title": "I have some have some mixed feelings",
+      "review_description": "The game is really good. Don’t get me wrong like it is very fun. If you’re looking for a survival horror and stories type of game this is your game. but PC players who bought this game are able to play the 1.0 version and 1.1 but in beta meanwhile this one is still in 0.14 and it’s not exactly what you’d want but I’m sure the people who are making it are working, they’re very best, but other than that, the game is pretty good.￼",
+      "date": 1781625403,
+      "review_helpful_count": 0,
+      "author_display_name": "kylan1225",
+      "author_alias": "kylan1225",
+      "developer_response": null
+    },
+    {
+      "id": "1020898854232669",
+      "score": 5,
+      "review_title": "Best survival shooter on Meta Quest 3",
+      "review_description": "Into The Radius is a masterclass in gun handling and management. You are required to clean different parts of guns to keep them functional. You can switch parts of guns and add attachments to them (if you have a rail to put said attachments). The world is well designed and has a very strange environment, you’ll often see floating buildings and objects. Into The Radius 2 does a phenomenal job at balancing making a mil-sim and making a weird exclusion-zone type environment. Mimics replicate soldiers to add to both the mil-sim gameplay and the anomaly vibes. Progression feels slow, yet rewarding. The only problems I have the game is the performance (which might be more of a platform issue) and the bugs. The lag feels insignificant, yet persistent. Bugs also aren’t too common, yet they do exist. Overall, this is a 5 star game, and I recommend this to any fan of mil-sims or exclusion-zone games.",
+      "date": 1781459472,
+      "review_helpful_count": 1,
+      "author_display_name": "Mr_Splode",
+      "author_alias": "Mr_Splode",
+      "developer_response": null
+    },
+    {
+      "id": "1203634099489985",
+      "score": 4,
+      "review_title": "Overall worth to try.",
+      "review_description": "This game has a big potential. I went through first part and decided to try second. Even if it’s only early access the vibe is still there, still a lot of fun with this game and I would recommend it to anyone who like this type of experience. \nDownsides: \n- in order to get enough experience you’d have to do the same quests few times in a row which is pretty annoying. \n- there’s no straight route to Pechorsk from the base, every time I have to go through the forest which feels like waste of time. \n- when extracting artifacts detector has to flash straight to the anomaly. Inch or two into the wrong direction and you can easily miss. \n\nUpsides: \n- new base is so much better then the old one. \n- new gun purchase and upgrade system is amazing\n- I know it’s still glitchy but co-op is something I’ve missed  a lot in part 1. \n\nHuge potential, can’t wait to see development!",
+      "date": 1781191819,
+      "review_helpful_count": 1,
+      "author_display_name": "Peter.444Mhz",
+      "author_alias": "Peter.444Mhz",
+      "developer_response": null
+    },
+    {
+      "id": "1122411017629736",
+      "score": 5,
+      "review_title": "Great game but…",
+      "review_description": "It’s been a long time since 1.0 on pc cameout and I wanted to know do you guys have atleast an estimate for when you can get the update out if you don’t have a definitive answer that’s ok it’s just me and I’m guessing your community on quest deserves to know",
+      "date": 1781852885,
+      "review_helpful_count": 0,
+      "author_display_name": "AFK444",
+      "author_alias": "AFK444",
+      "developer_response": null
+    },
+    {
+      "id": "965571193075624",
+      "score": 5,
+      "review_title": "I’ve only played for 20 minutes",
+      "review_description": "It’s a little buggy but that’s expected! Thank you devs and thank you for making this game! I saw some guy talking about how the smoking is bad and even called the devs “evil” for having a harmless little detail in the game. Yes I know it’s bad in real life but don’t focus on such a small detail. When writing a review don’t complain about just one thing and don’t complain at all! It’s rude. Constructive criticism is good but complaining is annoying. Thank you to the creators of this game for caring and loving this game both the first and second! The meta quest community reminds me of the Helldivers 2 community. Never satisfied and never happy. Don’t let them get to yall! Great game!",
+      "date": 1773435514,
+      "review_helpful_count": 66,
+      "author_display_name": "iisamnoob",
+      "author_alias": "iisamnoob",
+      "developer_response": null
+    },
+    {
+      "id": "1007481265554830",
+      "score": 1,
+      "review_title": "Not fun experience",
+      "review_description": "Enemies make zero noise, enemies turn invisible mid fight and before they are supposed to turn invisible, I have a quest 3 and I was having major performance issues, textures not loading at all, laggy and stuttering etc, I like the idea and the gameplay was fun but the bugs and performance issues kinda killed it for me \n3/10",
+      "date": 1781026323,
+      "review_helpful_count": 0,
+      "author_display_name": "duckman420",
+      "author_alias": "duckman420",
+      "developer_response": {
+        "body": "Hello there, explorer.  We are sorry to hear about how the game performs in your case. We'll continue working on optimizations of all locations for standalone. So far, we can only recommend relaunching the game before Outskirts, also closing all background active apps (especially browser and so on) that eat RAM which is needed for the game. This might help.",
+        "date": 1781524259
+      }
+    },
+    {
+      "id": "976635271953514",
+      "score": 3,
+      "review_title": "Be warned",
+      "review_description": "The gameplay is fine but it's just the bug because i couldn't even load into the game and i tried unstalling and re-installing the game and it did work but my save was gone and it really upsets me that it happened but im not sure if i should just get a refund and just wait until it's cheaper or that major bug is gone",
+      "date": 1781427668,
+      "review_helpful_count": 0,
+      "author_display_name": "Dark_u",
+      "author_alias": "Dark_u",
+      "developer_response": {
+        "body": "Sorry to hear that you lost your save file, explorer. Sometimes they can get corrupted. We're working on improving that and making the game more stable in future updates. Thank you for your review.",
+        "date": 1781524347
+      }
+    },
+    {
+      "id": "1398270372111272",
+      "score": 3,
+      "review_title": "Into the radius 2.",
+      "review_description": "Please ,for the love of everything good,  do some work on 2 player mode. So many glitches, dropping items and the item falls through the ground, unretrievable. Glitches you out of the game. Freezing is bad too. Im not being mean, but its been long enough, these things should not be happening to a game that's been out this long , even if it is early access... Thanks",
+      "date": 1779631163,
+      "review_helpful_count": 2,
+      "author_display_name": "necieb1967",
+      "author_alias": "necieb1967",
+      "developer_response": {
+        "body": "Hi there, Explorer.\n\nThe team is working on porting the 1.0 update to Meta Quest later this year. It should bring both new content, as well as a ton of fixes and improvements to the game.\n\nStay tuned!",
+        "date": 1779447979
+      }
+    },
+    {
+      "id": "1240060669182451",
+      "score": 3,
+      "review_title": "Into the Radius 2",
+      "review_description": "First off I think this game is good and has potential, but there is tons of things that could stand to be fixed, probably the most annoying is the fact that instead of enemies, there is just a bunch of anomalies, and they are very avoidable. I traveled across half a map and only encountered one enemy but probably 50 of the anomalies with the wood shards. Another issue is minor but still evident, the controller tracking is a but wierd but that isn’t that bad. On the other hand, a big issue that absolutely slaughters immersion is the fact that, especially on peninsula, it is so foggy you can barely see, which isn’t that big of an issue on its own, but when you look up a bit, the radius is just right there uncontested in the sky, and it should be affected by the heavy fog like in the first game.  Another big issue is the map design. In the first game, the maps were huge and handmade. In the second game, the maps are covered half in the red water, and there is less land to explore and it seems the devs got lazy with map design. Yet another issue I feel I should bring up is the fear factor and stress. In the ITR 1, the way the game was designed, I was always stressed and nervous, but in this second game, I am not nervous or scared at all and even top priority missions feel like in and out with little resistance. The game is also pretty laggy but not too bad. I hope the game gets better but I will continue to play both the first and second game. Thank you for reading",
+      "date": 1781228775,
+      "review_helpful_count": 1,
+      "author_display_name": "endlessmountainflies",
+      "author_alias": "endlessmountainflies",
+      "developer_response": {
+        "body": "Hello, explorer. What you're mentioning in the review — \"the maps are covered half in red water\" — is true for the first location, which is peninsula-like. However, the second and third locations are not like that. Also, the 1.x update will bring water levels down a bit overall.\n\nWe hope you'll enjoy future updates. The 1.x update is in the works and should be out within a few months. Thank you for your review.",
+        "date": 1781524542
+      }
+    },
+    {
+      "id": "1123042527562198",
+      "score": 5,
+      "review_title": "gotta love it",
+      "review_description": "i got jumped  scared by this like ribbon then  i started peeing myself then my grandpa walked in the room that he did like five summer salts and then my grandma walked in the room and he said what's up precious she pulled out a whole stripper pull and then my grandpa pulled out like 20s and started like throwing them on my grandma like i didn't know what was going on \n \nbut you know 10 out of 10 game",
+      "date": 1778615901,
+      "review_helpful_count": 3,
+      "author_display_name": "DK.21",
+      "author_alias": "DK.21",
+      "developer_response": null
+    },
+    {
+      "id": "937117309182900",
+      "score": 1,
+      "review_title": "Still inexcusably bad.",
+      "review_description": "Great game. But there’s no point in playing it until it’s playable. Single player is still a great big nothing with not even a hint at a story, and multiplayer is so laggy and prone to crashes that it is nauseating and unplayable. It’s ridiculous that they expect $40 for something that is worse than the first game (which is cheaper) in every way. And hiding behind the early access excuse is lazy and pathetic. Fix your game. Stop focusing on  the pc release and make a dedicated team for porting. It’s clear that the meta users are a joke to you people and multiplayer is the last thing on your minds",
+      "date": 1774586240,
+      "review_helpful_count": 24,
+      "author_display_name": "JuiceBlocks",
+      "author_alias": "JuiceBlocks",
+      "developer_response": {
+        "body": "Hello there, explorer!\n\nLet us point this out right away — we have dedicated team members working on the port, and this process is far from easy. Early Access means the game is still in development. That's literally what it means – we regularly post developer diaries  to share updates on our progress.\n\nThe game is identical on both platforms, so when you say “stop focusing on the PC release,” that’s actually not possible. Into the Radius 2 is the same game on PCVR and Quest, with the only differences being the necessary visual and performance adjustments for the standalone (!) hardware that has just a fraction of PCVR’s power. \n\nVisual and performance cutbacks will always be there on standalone – but we aim to further improve the quality of the port in future updates. From what we and other players have observed, single-player should be quite stable, while co-op can be less so, since it introduces more variables — especially around different network conditions. Our work is ongoing, and we’d love to hear your thoughts again after the next major update later this year.\n\nThank you for taking the time to share your feedback!",
+        "date": 1774603965
+      }
+    },
+    {
+      "id": "1130561876809997",
+      "score": 5,
+      "review_title": "Best game ive played in a long time!",
+      "review_description": "I play the first itr game and loved if from the second i loaded in, this was no different...Im very proud to say ive restarted twice and it feels better each time, I would recommend this to anyone that loves a open world game and heart pounding moments! I salute you devs keep up the great work",
+      "date": 1780413656,
+      "review_helpful_count": 0,
+      "author_display_name": "PunchyMongoose8476",
+      "author_alias": "PunchyMongoose8476",
+      "developer_response": null
+    },
+    {
+      "id": "1009410174897546",
+      "score": 3,
+      "review_title": "Performance is the main issue",
+      "review_description": "I know this game is in early access but it feels terrible I know they are working on it but when you the stuff like your patches start to glitch out and the hit boxes dont feel the best when you try to grab something while running the hotboxes are off I am excited for the full realese I love the first game and it’s quality of life and gunplay is what made me love it and I’m happy to see they are pushing out QOL updates but it’s just mid for now\n\nUpdate the game is better I think I was missing the point of it but when you swing your arms the hand bugs out I think I’ve played it for 2 hours now and the gun building and repairing is perfect I just don’t know how to feel about the difference between quest and pc",
+      "date": 1779978634,
+      "review_helpful_count": 1,
+      "author_display_name": "Cabinfeverlover1",
+      "author_alias": "Cabinfeverlover1",
+      "developer_response": {
+        "body": "Hello, Explorer. We're working on porting the 1.0 update to Meta Quest later this year, which should add, improve, and fix a lot of things. Stay tuned, and thank you for your review!",
+        "date": 1779795160
+      }
+    },
+    {
+      "id": "1055747287632451",
+      "score": 4,
+      "review_title": "First One Was Better",
+      "review_description": "Listen, this is a great VR game, I get it. But the first one was just better. I’d say don’t buy this one yet; go play the first one first. This one’s basically the same as ITR1, but not as good. And I think why is because it removed some features from the first one. Like, the first one had melee combat so if you ran out of ammo mid-exploration, at least you’d still have SOME line of defense. 😭😭 And they also don’t have as many enemy anomalies. Like, the first one had Spawns, Fractures, Mimics, just so much more. In this one you just got Mimics. So, basically, stuff like that. But still, great game, good potential. I don’t recommend buying it YET. Wait until it gets out of early access at least. But, hey, if you wanna buy it, go ahead. I ain’t your mom. ✋😐🤚\n\nEdit: okay now it’s out of early access I think lol",
+      "date": 1779758526,
+      "review_helpful_count": 1,
+      "author_display_name": "ZooZoo1226",
+      "author_alias": "ZooZoo1226",
+      "developer_response": {
+        "body": "Hello, explorer! Melee will be back with the 1.x update later this year, bit its role in fights will still be less prominent in comparison to ITR1. As for the anomalies, there will be an updated setting in the 1.x update that will allow you to disable most of them (except for clusters and mission-related ones). Thank you for supporting us during Early Access!",
+        "date": 1781525077
+      }
+    },
+    {
+      "id": "997049496176989",
+      "score": 3,
+      "review_title": "Its ok",
+      "review_description": "I loved the first game its atmosphere, its industrial post-soviet map design, the gunplay, etc. and this… kinda recreates it. The gun/gameplay is a lot more polished, and gunsmithing is fun, but its more casualized & theres a lot less content than the first game, even on steam where it is fully complete. I hope they do something similar to the first game and release a 2.0 update but im fine with this game. Its an okay game and I hope they continue the game series.",
+      "date": 1779688394,
+      "review_helpful_count": 0,
+      "author_display_name": "bean3776",
+      "author_alias": "bean3776",
+      "developer_response": {
+        "body": "Hello explorer! We're still working on the game, and plan to release update 1.0 for Meta Quest (with some additional things and fixes that will come to PCVR in June) late this year. ITR2 is not ITR1 and while we will gradually support it with stuff we talked about in dev. diaries, like shooting range, or co-op expansion for PCVR, or mods (again - PCVR) or some smaller gameplay/balance changes, we'd like to highlight that it won't be updated for a few years with 2.0, 2.x, etc. updates like ITR1 had. Story/quests/progression wise, what you see in 1.0 on PCVR right now is what the game is.",
+        "date": 1779704878
+      }
+    },
+    {
+      "id": "1019234254380606",
+      "score": 5,
+      "review_title": "Game is great even thought it’s in bata",
+      "review_description": "There are a few bugs and a little lag when in multiplayer but overall the game if very fun and has an Erie felling when playing even though it’s in bata I would recommend if you like horror survival open world shooters when out of bata game will be even better",
+      "date": 1780257665,
+      "review_helpful_count": 0,
+      "author_display_name": "ARadiusGodontt",
+      "author_alias": "ARadiusGodontt",
+      "developer_response": null
+    },
+    {
+      "id": "968040705641106",
+      "score": 4,
+      "review_title": "Dev's I am i do apologize for how acted",
+      "review_description": "I shouldn't have jumped the gun. When some of the bugs got me and annoying me. But the viewers. are right. It's just an early game, and I was just being one of those people of impatientness, wanting things better now. I do apologize. I understand if you have to trolled me. If it will make you feel better\nI just like to the other version of this games so much. I just wish.\nI could enjoy the same way with this game is all, but at that time I just saw a lot bugs and problems. I just didn't think about you had it a lot on your plate and I don't know anything but i still want it to get better but in a slower, more patient way.so i'll still find some bugs. Send some pictures to you. And so on days when you have the time, you can fix it. And one day It will all be  fixed. Again?I do apologize. For how I was acting in my early reviews.",
+      "date": 1777554092,
+      "review_helpful_count": 3,
+      "author_display_name": "Chiefgolden",
+      "author_alias": "Chiefgolden",
+      "developer_response": null
+    },
+    {
+      "id": "1127253720469169",
+      "score": 5,
+      "review_title": "Genuinely the best survival/horror game",
+      "review_description": "I rarely write reviews for games.  \nBut this one genuinely deserves it.\n\nI’ve already sunk almost two full days worth of hours into this game and despite the bugs, frame drops, unfinished areas, and limited content so far… I absolutely love it.\n\nWhat this game absolutely NAILS is atmosphere.\n\nNot just “spooky horror atmosphere” either.  \nI mean the kind of atmosphere that makes you stop walking just to stare at something because it feels wrong in a strangely believable way.\n\nYou’ll walk through abandoned houses where reality itself looks infected.  \nYou’ll find random untouched objects sitting in impossible places.  \nYou’ll clear dark staircases with an AKM only to suddenly come face to face with a heavily armored mimic holding a PKM around the corner.  \nYou’ll leave nightmare buildings by crawling through tunnels made of flesh and distorted limbs like you’re climbing out of hell itself.\n\nAnd then somehow… you return back to base, put a frying pan in your kitchen, place a teddy bear on your bedside table, listen to a radio quietly playing in your room, smoke a cigarette on the patio, and the game suddenly feels weirdly human again.\n\nThat contrast is what makes this game special.\n\nThe devs clearly understand environmental storytelling and worldbuilding.  \nEven the base itself feels believable:\n- armory\n- dormitories\n- command room\n- supply depot\n- perimeter towers\n- facility maps\n- operational structure\n\nIt feels like an actual place where explorers live and work instead of just a menu hub.\n\nAnd the craziest part?  \nThis game is STILL EARLY ACCESS.\n\nDespite the current bugs and unfinished sections, the foundation here is insanely strong. The atmosphere alone already rivals some fully released horror/survival games I’ve played.\n\nCompared to the first game, this feels far more ambitious:\n- better environmental storytelling\n- more immersive base management\n- stronger atmosphere\n- improved equipment systems\n- better sense of exploration\n- genuinely memorable locations\n\nEven the small details matter:\nfinding untouched items in the Zone and bringing them back to decorate your base somehow becomes emotionally meaningful after a while.\n\nThat’s when you realize the game stopped feeling like “just a game.”\n\nIt became a place.\n\nIf the developers genuinely continue building on this foundation the way they seem to intend to… this game has the potential to become something truly special.\n\nI’ll absolutely be sticking around to see what it becomes.",
+      "date": 1779250964,
+      "review_helpful_count": 1,
+      "author_display_name": "lordnooboos",
+      "author_alias": "lordnooboos",
+      "developer_response": null
+    },
+    {
+      "id": "1071884142683096",
+      "score": 4,
+      "review_title": "Peak game, multiplayer doesnt work",
+      "review_description": "So the game is amazing in every way and I love it, but the multiplayer doesnt work for me and my friend, we have tried everything, uninstalled and reinstalled, got rid of app dats which also deleted our save file but we just cant seem to join eachother, please fix this i love the game so much",
+      "date": 1779400623,
+      "review_helpful_count": 0,
+      "author_display_name": "SlimeyIsVeryCool",
+      "author_alias": "SlimeyIsVeryCool",
+      "developer_response": {
+        "body": "Hi! If you've both tried hosting and nothing like removing game's data helped, email us support@cm-immersive.com, maybe we'll be able to figure smth out!",
+        "date": 1779448054
+      }
+    },
+    {
+      "id": "888800920955654",
+      "score": 3,
+      "review_title": "Thank you game devs. (Just needs work.)",
+      "review_description": "This game. It’s the BEST! I am shocked that this is not top 5. NO 3 GAMES! But I some thing need a little work. (A DO NOT MAKE GAMES! I DO NOT KNOW HOW HARD THIS IS TO DO!)\n\n* performance￼: this is a BIG thing that I am worried about. With the first one they made A LOT of ￼ segments. Which in my opinion is better than one big laggy mess.\n\n* graphics. I do like the more animated style they went for! But in some places there is more realistic graphics which sort of confuses me for what vibe there going for.\n\n* cross platform. I think know if this is meant to be an exclusive to 3 and 3s but my friend is on quest 2 and I was wondering if you could make it work? Even if you need to get rid of a lot of graphics. Just being able to play with my friend would be amazing.\n\n* Gun’s. There is a lot of unique guns. But I hope in the future there will be more guns and customisations for them. (LIKE MAKING YOUR OWN MAG AND PUTTING THE THING INSIDE!)\n\n*Gun customisation. There is A LOT of customisations. But not all of them work together and if you could make it so you can sand it down making it fit that would be incredible.\n\n*Story. A story would be SO GOOD in this game! Making you go and fine other people in destroyed cities that have been reclaimed! (IF YOU DO ANYTHING LIKE THIS I EXPECT A MAN NAMED JAMES BROCHAN IN THE GAME!)\n\n*To the devs. I know you are trying very hard and making a game like this is more than hard. But please read and one day you WILL get the 5 stars this game needs.\n ￼",
+      "date": 1779875452,
+      "review_helpful_count": 1,
+      "author_display_name": "Pippasdvision",
+      "author_alias": "Pippasdvision",
+      "developer_response": null
+    },
+    {
+      "id": "1147157991810854",
+      "score": 4,
+      "review_title": "Amazing Game but lots of bugs",
+      "review_description": "Version 1.0 is rumored to come in February 2027 for the Quest. I hope it will come much sooner. The current V0.14 enemies need to get smarter and the game has a lot of bugs to fix on the standalone version. Nonetheless, I would recommend buying this game on Steam since the developers seem to neglect updates for the standalone quest due to porting complexities or simply different priorities.",
+      "date": 1778954602,
+      "review_helpful_count": 1,
+      "author_display_name": "camperdelarco",
+      "author_alias": "camperdelarco",
+      "developer_response": null
+    },
+    {
+      "id": "1074771692394247",
+      "score": 5,
+      "review_title": "My favorite game on meta so far",
+      "review_description": "Dude I was happy that the game I’ve been playing for so long, finally got a number 2! Don’t listen to the people that say “oh it’s to laggy oh it’s to long and hard!!!” You guys when did you not read the part that says “EARLY ACCESS” this game is great and have you ever dreamt of the world ending and you just surviving with your best friend or by yourself in a game it feels like real life, and people that say well “trees are made of blocks” when did you get the game dude? Before it released? Idk I got this at update 0.14 and it literally made me feel like I was in the woods on a dark night and shadowy figures all around.",
+      "date": 1780107845,
+      "review_helpful_count": 3,
+      "author_display_name": "xxC4RT3Rxx",
+      "author_alias": "xxC4RT3Rxx",
+      "developer_response": null
+    },
+    {
+      "id": "993836013811387",
+      "score": 5,
+      "review_title": "PLEASE ADD NIGHT VISION",
+      "review_description": "I love this game so much, everything about it is so immersive and challenging. It’s super fun with friends and having to communicate and strategize with them. But being in the night would be such a fun experience if we had night vision, being able to see what you’re doing without a flashlight and getting yourself spotted at night or even just goofing off.",
+      "date": 1771277724,
+      "review_helpful_count": 63,
+      "author_display_name": "Callsign_User2",
+      "author_alias": "Callsign_User2",
+      "developer_response": null
+    },
+    {
+      "id": "1076473122219297",
+      "score": 4,
+      "review_title": "Great game but",
+      "review_description": "This is one of my favourite games and I even bought a quest 3 JUST to play this game. Very fun and can’t wait for the quest release.\n\nAlso, please add revolvers and maybe lever action rifles, and some cool hats to buy, or even better some to find in the radius. Maybe I’m dead people!\n\nThe cigarette smoke is not seeable unless there is a direct light source pointing at it, it’s really annoying :/ please update the smoke and maybe make the puff a bunch of messed up blobs of smoke that come out relatively fast. It’ll make it look more realistic. And a nice feature would be a smokers cough if you smoke too much or for too long.\n\nMake the AI use guns and hands to hit you if your close and add fist fighting and being able to hit other weapons with yours n’stuff.\n\nsome animals that may have also survived the radius, like boars or deer, and some might be mimics of the animals.\n\nLast thing MOST IMPORTANT \nPLEASE PLEASE PLEASE PLEASE ADD BARREL BRUSH TY, add campfires and flip open lighters. And alcohol/ other drinks. Add welding to put together parts that wouldn’t normally fit but might be unpredictable if there differ too much, example would be a g36 barrel in an M4, wouldn’t be too bad because there both556 but a g36 barrel on a Remington would BLOW UP when used. And add sawing barrels to shorten or lengthen them. And generally expand into the different parts like springs firing pins, triggers, trigger guards, dust covers, etc.\n\nThank you so much,",
+      "date": 1777995783,
+      "review_helpful_count": 2,
+      "author_display_name": "Dylan012369",
+      "author_alias": "Dylan012369",
+      "developer_response": null
+    },
+    {
+      "id": "995216953452158",
+      "score": 5,
+      "review_title": "One of the best games I've ever played",
+      "review_description": "I have have played this game for around 80 hours and I don't think there was a single moment I was bored. Into the radius is hands down one of the best series ever it mixes a Terrifying wasteland lost in time with a hardcore shooter And with the detailed weapon customization it gives you freedoms that some games don't. But there is some problems sometimes there's bugs  or crashes and it also takes them a wile to get updates out ( take all the time you need the wait is worth it ) also the devs prioritize the quality of there updates I've never seen them release a half polished update maybe a beta or 2 but like it says those are betas but you they never fail to provide for the players so if  your thinking about  buying this game please do. ( I know it costs a lot of money but you get what you pay for )",
+      "date": 1778619998,
+      "review_helpful_count": 1,
+      "author_display_name": "monkeyman25257",
+      "author_alias": "monkeyman25257",
+      "developer_response": null
+    },
+    {
+      "id": "968579846135076",
+      "score": 5,
+      "review_title": "Absolutely great.",
+      "review_description": "I wanna say I have read the info about the update that will be coming and the need to wipe all saved data before being able to play with the 1.0 update. Ummm that if true is absolutely bs.  I have over 26hrs in co-op and 15hrs in single. And to find out I’m gonna have to start over is very very frustrating",
+      "date": 1777386377,
+      "review_helpful_count": 2,
+      "author_display_name": "Mechanic350",
+      "author_alias": "Mechanic350",
+      "developer_response": null
+    },
+    {
+      "id": "932240536446853",
+      "score": 5,
+      "review_title": "Wow!",
+      "review_description": "Bought the game on stand-alone quest 3. Ran terribly. Graphics were awful. Bought a PC last week. Now on PCVR the game runs smooth and looks sensational. It’s just a shame that I needed a 2,000$ PC to play this game at its fullest potential.",
+      "date": 1779669444,
+      "review_helpful_count": 0,
+      "author_display_name": "DrDuck07",
+      "author_alias": "DrDuck07",
+      "developer_response": null
+    },
+    {
+      "id": "1485256273252850",
+      "score": 2,
+      "review_title": "It’s been 2 months",
+      "review_description": "The 0.14 update came out 2 months and it still runs like absolute garbage. In the outskirts map you are lucky to get over 20 fps especially in the city. Then there is the fact the devs haven’t given any word on an optimization update. But the PCVR version gets 2 updates by the time we get 1 half baked update (that will take over a month to even be acknowledged)￼. Then the co-op is practically unplayable but all you say is “it’s not finished “ but then proceed to do nothing about it. \n\n\nEdit: the only thing that I got from the reply was “we are not going to fix the game but we will say something about graphics (which we’re not brought up once) also the game that runs at 20 fps is perfectly fine .",
+      "date": 1778596517,
+      "review_helpful_count": 1,
+      "author_display_name": "wertzdesigns",
+      "author_alias": "wertzdesigns",
+      "developer_response": {
+        "body": "Hello, explorer.\n\nWe’re currently working on porting the 1.0 update to Meta Quest, including all the changes and improvements from that version. It’ll arrive later this year.\n\nWe’re optimizing specifically for standalone where possible, but we want to note upfront that visuals and performance will always be compromised compared to top-tier PCVR hardware. Our goal is to ensure all features and gameplay are fully accessible.\n\nThe Outskirts area is a unique challenge being the biggest location — we’re researching ways to improve its performance on Quest and deliver a better experience than the current 0.14 version.\n\nWe do not have in-between patches, we port specific update when it's fully out, so the next update for Quest will be version 1.0 which has arrived a few weeks ago for PCVR.",
+        "date": 1778491683
+      }
+    },
+    {
+      "id": "1025443233264238",
+      "score": 4,
+      "review_title": "Its the best Quest Gunpron",
+      "review_description": "Its shaping up to be the best playground for modular guns with realism.\nThe quest version gets slightly delayed updates because the pcvr and psvr version has to get an extra texture dumbing down for quest.\nI don't mind the delay.  Watch the pcvr you see its getting updated regular and at each milestone those changes come to quest.\nIts shaping up very well to be a lot of fun.\nIts really too hard until you get some scopes as the enemy can one shot you when they are so far away that their head is a little speck for you to aim at.\nI shelled out 32 bux for it.\nThat was the right deal for me.\nIts still at least half a year away from its full release and they are adding a lot of stuff quickly,but its not finished yet, keep that in mind.\nI really hope they eventually make some kind of sdk/modkit in unity that lets ppl make custom \"levels\" or some kind of custom area \none that actually compiles an obb for quest\nthat would make it the first really moddable fps on quest after vrchat.\nIt would also let us keep playing forever right...\nYou will die over and over for the first couple hours but it gets a lot more fun. Its a very OCD keep organized game. OCD to the max. Reloading and ammo organizing is real time. The beta is a bit too dark, but look at the recent pcvr to see what it will really look like.",
+      "date": 1778483254,
+      "review_helpful_count": 1,
+      "author_display_name": "FragmeatBloodysplotch",
+      "author_alias": "FragmeatBloodysplotch",
+      "developer_response": null
+    },
+    {
+      "id": "1503777535083435",
+      "score": 5,
+      "review_title": ".14.4 feedback for devs",
+      "review_description": "Make no mistake, this game obviously has extremely high potential and I love ITR and ITR2. \n\nHowever, the newest update seems to have hindered performance significantly, I’ve never experienced such low frame rate. \n\nWeapon customization and the ability to craft them entirely is great.\n\nMore foliage to make the zone feel more alive is great.\n\nMore enemies but seems like my weapons do way more damage which is also great.\n\nI understand it’s a work in progress of course, devs are doing great work.\n\nJust a thought, give some guns personality, like how the SVD in the first game had a little cushion on it, also do consider adding bipods!",
+      "date": 1770829092,
+      "review_helpful_count": 55,
+      "author_display_name": "ChemicalGuy268",
+      "author_alias": "ChemicalGuy268",
+      "developer_response": null
+    },
+    {
+      "id": "986827697596678",
+      "score": 4,
+      "review_title": "Placeholder Review",
+      "review_description": "I love this game I hold it in high regard.  I am holding off from making a proper review till 1.0 releases for Quest",
+      "date": 1781530807,
+      "review_helpful_count": 0,
+      "author_display_name": "TheJamesClan_Clany",
+      "author_alias": "TheJamesClan_Clany",
+      "developer_response": null
+    },
+    {
+      "id": "35297791129811617",
+      "score": 5,
+      "review_title": "Coop-Massive improvement vs last update",
+      "review_description": "Its getting dark, backbacks are fully loaded from our current mission.  We are pushing our luck a little as complete darkness draws closer.  An Intense firefight suddenly breaks out, my friend opens his backpack, were sharing shotgun shells from his backpack as I run low, Ive got some cover behind a rock, friend taking damage I pop a stim into his chest to keep him alive.  As he is mopping up I pop another stim onto his spare chest holder for him to carry.  Things finally calm down and we do a final recc. I find a couple of anomalies and drop them into his side pouch to share the load between us.  We make it back to base through the darkness, a little beaten up but happy weve survived to collect our reward, recover and prepare for the next day...\n\nQuest 3 - The latest beta version in coop is way more stable and totally playble compared to the last.  I am currently at 4 hours of gameplay progress (excludes player death/restart) and only encounteted 3 major crashes where the game locks up.  I just ensure I have regular saves (use all the save slots).\n\nThe game is fantastic!  Loving all the improvements to date and some of player vr interactions are top drawer, which I have never seen in other games.  It makes coop feel like a genuine two player survival having to rely on each other to get through tougher missions.  Im not going to list all the improvements as it is a genuine overhaul since the last release. Improved performance and stability is the biggest game changer.  I do stop at times and wonder how the Devs manage to squeeze so much out of the Quest 3 standalone version (vs PC)  Awesome job Devs!  Looking fwd to the official release.  And if you cant wait get it now! Worth it.",
+      "date": 1780642743,
+      "review_helpful_count": 16,
+      "author_display_name": "penguinlover2026",
+      "author_alias": "penguinlover2026",
+      "developer_response": null
+    },
+    {
+      "id": "1137849219402468",
+      "score": 5,
+      "review_title": "Only really one issue",
+      "review_description": "Don’t get me wrong, I love this game, it’s honestly a 10/10 for me. Everything about it is really good. The only thing is the FPS isn’t the best (at least for me), it can get kinda rough sometimes. If they improve the performance, this game would be perfect.",
+      "date": 1776748529,
+      "review_helpful_count": 3,
+      "author_display_name": "Vxcco",
+      "author_alias": "Vxcco",
+      "developer_response": null
+    },
+    {
+      "id": "1178901538636418",
+      "score": 5,
+      "review_title": "New guns",
+      "review_description": "You guys should really add ww2 guns like the stg and Tommy gun or possibly a m 1 grand￼ it would just add some more variety￼",
+      "date": 1780970943,
+      "review_helpful_count": 0,
+      "author_display_name": "JDPistuff",
+      "author_alias": "JDPistuff",
+      "developer_response": null
+    },
+    {
+      "id": "1123561040840232",
+      "score": 5,
+      "review_title": "Masterpiece",
+      "review_description": "This game is a masterpiece.  The setting, the weapon mechanics, the addictive game loop - they're all world class for Quest's limited performance ability.  The developers are responsive and are awesome.",
+      "date": 1779462104,
+      "review_helpful_count": 1,
+      "author_display_name": "sirnikom",
+      "author_alias": "sirnikom",
+      "developer_response": null
+    },
+    {
+      "id": "1355559133262981",
+      "score": 1,
+      "review_title": "No",
+      "review_description": "This not even close to as good as the first one. They have muddled it badly. Way to m.uch fog and mist . Way to may dust particles in the air that make it run badly. It looks terrible actually. Just Way to much junk and not a clean experience like the first one. They really need to trim the fat on this game and clean it up and make it fun. Start with taking out all the floating dabree in the air and the bad fog or mist. Just a lot needs to be done to make this better. I do not recommend this to anyone who loved the first one and is looking for more of the same. You won't get it............. wow I can't understand how the first game was so good and this one is so bad. The guns sound so weak. It just sux. And don't believe the passive reviews. Those are probably written by the devs and their friends.\nThis game is not even close to the first one.",
+      "date": 1774928830,
+      "review_helpful_count": 6,
+      "author_display_name": "CryptoSage",
+      "author_alias": "CryptoSage",
+      "developer_response": {
+        "body": "Hello, explorer!\nThe fog in Into the Radius 2 isn’t there to reduce performance – it serves aesthetic purposes and also plays a role in gameplay. The first and second games differ in many ways, with as you noted –  main difference being the visual style of the game. We hope it’ll grow on you over time! There are various new systems such as guns and backpack/pouches customisation, for example. \n\nThe game is still in active development, so stay tuned for the 1.0 release later this year.",
+        "date": 1774344524
+      }
+    },
+    {
+      "id": "1186312064559177",
+      "score": 5,
+      "review_title": "Truly amazing",
+      "review_description": "It’s a great game people just don’t give it time to develop. It’s come a long way. Just keep supporting and it will get more updates. Also the graphics look amazing.",
+      "date": 1780165928,
+      "review_helpful_count": 0,
+      "author_display_name": "Sharksugars.2025",
+      "author_alias": "Sharksugars.2025",
+      "developer_response": null
+    },
+    {
+      "id": "992843130589239",
+      "score": 5,
+      "review_title": "W but vrry laggy",
+      "review_description": "Meta just cant keep up icl, they need to make a low poly setting for people that just want frames but overall the game is sick and for a early access game of this scale its peak lol ,alotta bugs and sometimes they can be excessive but every games got them",
+      "date": 1776215446,
+      "review_helpful_count": 3,
+      "author_display_name": "LMCYuukii",
+      "author_alias": "LMCYuukii",
+      "developer_response": null
+    },
+    {
+      "id": "983306544876112",
+      "score": 5,
+      "review_title": "This game is absolutely peak",
+      "review_description": "I got this game after watching timeless play it it looked pretty good and all the mechanics make I even better it has a lot of things other vr games don’t have and I can’t wait for future updates i absolutely loved this game and really enjoyed the game play only thing I can complain about is the movement like if I try going forward I have to move my right stick towards the right maybe I messed something up while playing or a game mechanic either way I hope they fix it",
+      "date": 1776147129,
+      "review_helpful_count": 2,
+      "author_display_name": "Lazysans1330",
+      "author_alias": "Lazysans1330",
+      "developer_response": null
+    },
+    {
+      "id": "1313598250823737",
+      "score": 5,
+      "review_title": "Cant wait for 1.0 after seeing beta",
+      "review_description": "Update: devs look to have went above and beyond with the upcoming 1.0 drop. Things below will be added. As well as story. Only newer bug I notice is that some loot/bullets get stuck inside an invisible barrier while sitting on certain square boxed objects. Very hard to grab. We need more devs like this in todays VR world. \n\nI know its still in development, and for the most part, it's improved from the 1st game. I do miss some things that make me want to play the 1st over the 2nd. Like knives and ability to throw them. Opening drawers or cabinets to look for items was way more immersive in 1st game. Made it more exciting. I miss grenades, smoke bombs, and light sticks for night fights. Seemed like the maps were more fun to explore as well. I liked the tall metal tower that could be climbed in 1st game. Maybe adding secret areas that can be reached with climbing, jumping, or balancing. \n\nIm able to pass through house walls without using doors. Which is a glitch, but its actually.  helped me sneak up on enemies a few times.",
+      "date": 1775337984,
+      "review_helpful_count": 3,
+      "author_display_name": "FamsVR",
+      "author_alias": "FamsVR",
+      "developer_response": null
+    },
+    {
+      "id": "1116675648191042",
+      "score": 3,
+      "review_title": "Better on PC but still fun",
+      "review_description": "Even in its early state, ITR2 improves on the original's mechanics in nearly every way, especially with equipment customisation!\n\nHowever, at the time of writing, the Quest version of the game suffers some losses in the quality and performance departments, particularly in the third area, despite consistent optimisation efforts. And, honestly, I prefer the dismal stark grey skybox in much of ITR1 to the darker redder one in ITR2, even it if is prettier :v\n\nStill, what's here is worth a go if you can't get it on PC, but I'd personally recommend the PC version first.",
+      "date": 1777314037,
+      "review_helpful_count": 1,
+      "author_display_name": "chloverily",
+      "author_alias": "chloverily",
+      "developer_response": {
+        "body": "Thank you for your review, explorer!\n\nPCVR, in terms of visuals and performance (assuming you have a properly specced system), will always have the advantage over standalone. We’re working on optimizing the standalone experience for 1.0 and beyond, with a focus on preserving gameplay first. This may lead to performance drops in certain areas, especially in co-op mode. But we hope you'll enjoy what 1.0 will bring to standalone and how it'll play. Thank you again.",
+        "date": 1778241843
+      }
+    },
+    {
+      "id": "1109960072200905",
+      "score": 1,
+      "review_title": "1.4 and breaking what didnt need fixing",
+      "review_description": "All of a sudden I'm not getting a single gun from any of the loot boxes across the board. I'm finding all of these old parts for several different weapons none of which are even within a security level that I'm at not that I can get to security level too by doing a mission because I have to do several important missions before I can access a level where I can buy a receiver but I can find receivers from security level three. And then I keep finding all these AK-74 parts but then there's eight cares 74 you parts and AK-74 parts and then akm parts and some of them interchangeable but some of them aren't. But I still can't buy one part that I need to make an entire gun because the game was locked that behind security level 2. Which for some reason now takes several important missions instead of just the first one so I can actually make a gun or buy a gun or anything of use. Now all of a sudden lighting my lighter to smoke a cigarette turns off my headlamp and I can only have two light sources active at the same time in the game...... What M0R0N decided to LIMIT MY FLASHLIGHT USE? In what world is making it so you can only use two light sources make any sense especially when I didn't tell you you were allowed to turn off my lights. Turn that back and give us some basic stamina settings because we can alter everything about the basics of the game except our stamina. Please stop breaking things that dont need to be touched. AND GIVE US PROPER LOOT AGAIN. I WANT TO FIND A USABLE GUN NOT 30 PARTS AND REPEATS OF THE SAME USELESS CRAP.\n\nI just got to security level 2 after a slog through getting mauled by 12 enemies at the same time due to poor mission design and now theres suddenly 3 orb walkers i  the peninsula? Can we PLEASE fix the enemy spawns. Why the heck are mid level enemies appearing in the PENINSULA?! I shouldn't see anything but pistols shotguns and a few walkers and maybe a creep or two. Wheres the machine gun er coming from in the FIRST LEVEL AREA?!  Go back to what made the first game amazing and FIX THE DIFFICULTY SETTING TWEAKS. I AM NOT DEALING WITH LOW ENEMY COUNT AS I SET. ive been through two anomalies since changing my settings and im STILL GETTING MOBBED BY 5+ ENEMIES IN A TINY AREA.",
+      "date": 1777675499,
+      "review_helpful_count": 1,
+      "author_display_name": "JaxRagnos",
+      "author_alias": "JaxRagnos",
+      "developer_response": {
+        "body": "Hello, explorer.\n\nThank you for your feedback regarding gun parts – the 1.0 update will include an overhauled progression system that addresses this.\n\nAs for flashlights, they have a significant impact on performance, so we limit the number of active flashlights at any given time.\n\nDifficulty settings related to enemy spawns only take effect after a Tide. If you’ve made changes and don’t see them reflected in-game, try resting at the base until a Tide occurs – this should update the spawn numbers accordingly.",
+        "date": 1778242269
+      }
+    },
+    {
+      "id": "992273950646044",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "I love this game the missions can be simple but some can be tougher which gives it a nice mix enemies don't show up on a compass or map so being engaged is a surprise and exciting the gun customising is crazy cool along with customising your body armor and backpack I can't wait for more to be added",
+      "date": 1775991499,
+      "review_helpful_count": 2,
+      "author_display_name": "BLACK_KNIGHT129",
+      "author_alias": "BLACK_KNIGHT129",
+      "developer_response": null
+    },
+    {
+      "id": "980195718047256",
+      "score": 3,
+      "review_title": "Great game, unfinished",
+      "review_description": "This game is amazing, but trying to run it smoothly is like trying to run a Boeing 747 off of a lemon battery, its just not gunna happen, please fix your game devs",
+      "date": 1779759690,
+      "review_helpful_count": 0,
+      "author_display_name": "Caretoshare32",
+      "author_alias": "Caretoshare32",
+      "developer_response": {
+        "body": "Hello, Explorer. We're working on porting the 1.0 update to Meta Quest later this year, which should add, improve, and fix a lot of things, performance is one of these points that we hope to improve/stabilise. Stay tuned, and thank you for your review!",
+        "date": 1779795212
+      }
+    },
+    {
+      "id": "1405934034916062",
+      "score": 5,
+      "review_title": "Version 1.0 ??",
+      "review_description": "Great game but where is version 1.0",
+      "date": 1781675869,
+      "review_helpful_count": 0,
+      "author_display_name": "seensee",
+      "author_alias": "seensee",
+      "developer_response": {
+        "body": "Hi there, explorer. We're working on porting 1.0 (and subsequently 1.1) to Meta Quest. It will be out later this year — within a few months or so.1",
+        "date": 1781689579
+      }
+    },
+    {
+      "id": "1051561274703372",
+      "score": 4,
+      "review_title": "Great game could use some improvement",
+      "review_description": "The game is amazing, I love resource management games and shooters. Though some lower level armors could be nice like some extremely light armor plates for level 1 users. As well as some additional low or even high tier consumable type weapons like grenades or flares. One main thing that I would like however is the ability to mis-match weapon parts to at least some extent so that in the beginning when you're getting random old weapon parts you can make Jerry rigged guns that might be a bit harder to use or less powerful than the normal guns.",
+      "date": 1774133048,
+      "review_helpful_count": 5,
+      "author_display_name": "DuskMadhouse",
+      "author_alias": "DuskMadhouse",
+      "developer_response": null
+    },
+    {
+      "id": "1456694202911977",
+      "score": 5,
+      "review_title": "Status report to UNPSC command",
+      "review_description": "In mine and another explorer’s experience, the Radius is full of dangers, excitement and unknowns.\n\nThe missions assigned bring us closer to danger and the way we have to fight and the tactics we have to use.\n\nIt’s gritty scary and keeps us coming back \n\nWe have experienced several anomalous events (bugs) including but not limited to:\n\nGuns getting stuck on nothing (or walls/objects) or being sent to the nether. \n\nCrashes and lag spikes known to us as reality stops and temporal recoil \n\nAt one point I got stuck outside the map with the fog keeping me out of the map while my brother in arms in a mission critical firefight \n\nThrough all this we’re anxiously awaiting the approval for more gear and more opportunities to explore the world around the radius \n\nKeep up the good work",
+      "date": 1773690886,
+      "review_helpful_count": 6,
+      "author_display_name": "BurdenedSkies",
+      "author_alias": "BurdenedSkies",
+      "developer_response": null
+    },
+    {
+      "id": "1295902332758306",
+      "score": 5,
+      "review_title": "Definitely worth buying rn",
+      "review_description": "Ever since the version 0.14 update has been fully released, I haven’t enjoyed the game more than I am now. Some of these reviews fail to acknowledge that the game is in early access, or the difficulty of porting a game from PCVR to Quest (looking at you, JuiceBlocks), as adding updates to the Quest version requires significant amounts of downgrading and optimization before they could even hope to run. The game as it stands now is enjoyable for what there is, and if you’ve played the first game or are currently playing through the first game (like I am), aspects like magpalming or the upgraded Mimic AI make things feel fresh, making ITR2 a great palette cleanser from playing the original.",
+      "date": 1776822391,
+      "review_helpful_count": 1,
+      "author_display_name": "Calibhur",
+      "author_alias": "Calibhur",
+      "developer_response": null
+    },
+    {
+      "id": "1155938257600486",
+      "score": 5,
+      "review_title": "I love it",
+      "review_description": "This game gives the feeling that it’s isolated and I love how the anomalies jump sacare you with the sound and I love the sound design thank you devs I love this sequel",
+      "date": 1779075668,
+      "review_helpful_count": 0,
+      "author_display_name": "Tomgall2015",
+      "author_alias": "Tomgall2015",
+      "developer_response": null
+    },
+    {
+      "id": "1012434738389145",
+      "score": 5,
+      "review_title": "Peak",
+      "review_description": "Absolutely peak\nThe best game of all time.",
+      "date": 1781327243,
+      "review_helpful_count": 0,
+      "author_display_name": "TheBestPickles2",
+      "author_alias": "TheBestPickles2",
+      "developer_response": null
+    },
+    {
+      "id": "1345982524097951",
+      "score": 5,
+      "review_title": "love it",
+      "review_description": "Big fan of ittr1 and something i didnt like was the lack of customization for weapons, now thats a big part of this game",
+      "date": 1779707490,
+      "review_helpful_count": 0,
+      "author_display_name": "Z53_Rxspect",
+      "author_alias": "Z53_Rxspect",
+      "developer_response": null
+    },
+    {
+      "id": "976959914978186",
+      "score": 5,
+      "review_title": "CM GAMES! ADD 45 ACP AND MY LIFE IS YOUR",
+      "review_description": "9×19 is nice and gets the job done but I often find myself wanting a bit more umf from my side arm plus I'd really like a USP.",
+      "date": 1779575214,
+      "review_helpful_count": 1,
+      "author_display_name": "TrES.2b",
+      "author_alias": "TrES.2b",
+      "developer_response": null
+    },
+    {
+      "id": "1006527872553073",
+      "score": 5,
+      "review_title": "Wonderful",
+      "review_description": "I've played this game for almost 10 hours and I can't wait to play for so much longer. This game is amazing and far better then the first in my opinion. The map design and looting make this game an excellent game BUT I have faced one issue that from my knowledge, is common enough. Once I hit security level 2 the fast travel that goes from the home base straight to the forest is gone. It's not to bad though, I just have to spend 2 in-game hours to go through the peninsula to get to the forest, and also when I unlock the next map in the next mission then the travel spots are right next to each other so that's a plus. That's the bug I even remember having. Anything else I don't remember is to unnoticeable  becuase of the great graphics, only issue being that it's a little foggy which I know why the fog is there so the game runs better, but I think it would be better if there was a slider of how much fog you want I'm the settings and a warning that less fog means your game will run worse. If your on the fence about buying this game, just get it its so good, but use Timeless VR's code in his 4th episode of his playthrough I think, like half way through the episode there's a 33% discount he has.",
+      "date": 1776453533,
+      "review_helpful_count": 1,
+      "author_display_name": "Jambolynam",
+      "author_alias": "Jambolynam",
+      "developer_response": null
+    },
+    {
+      "id": "1307895544523175",
+      "score": 1,
+      "review_title": "Coop is not acceptable",
+      "review_description": "The game is listed as a co-op game. Nowhere in the description is there any disclaimer about the stability of multiplayer. BUT once you buy the game and try to access multiplayer you're hit with a HUGE disclaimer about how unstable the coop is, almost like they're discouraging you to even play coop. That leads me to believe the developers are purposely not disclosing this up front to get more sales on Quest knowing the coop experience is not acceptable.",
+      "date": 1774982393,
+      "review_helpful_count": 2,
+      "author_display_name": "randywarhol",
+      "author_alias": "randywarhol",
+      "developer_response": {
+        "body": "Hi there, explorer! Co-op is a very important part of the game, but inevitably it affects performance and can be unstable (this depends largely on the connection between players). Co-op is a very important feature of the game, and we're continuously working on improving the whole game, including co-op. The disclaimer is there because, as a feature of a very open game, co-op allows for so many new situations and interactions that it inevitably leads to issues that can't be seen in single-player mode at all, but which certainly appear during co-op play.",
+        "date": 1775035019
+      }
+    },
+    {
+      "id": "1161315503730086",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "This game is great. Played itr 1 on psvr2 for a while and went and bought quest 3 just to play this game. It’s great. Can’t wait for the updates.",
+      "date": 1778881741,
+      "review_helpful_count": 0,
+      "author_display_name": "justanutt",
+      "author_alias": "justanutt",
+      "developer_response": null
+    },
+    {
+      "id": "985218401351373",
+      "score": 4,
+      "review_title": "GOOD BUT BIG DIFFICULTY CURVE",
+      "review_description": "So this is my first review of a Quest game and....I wish I had all good things to say. But the one gripe I have with this is...it made with Co-Op in mind. In solo, there's a big difficulty curve than the first game's. I died more in the first few missions than the first game itself. And this game isn't even finished development yet. I hope they update this game for it to be more easier for solos. Cause they really dropped the ball with the military mimics in this game.",
+      "date": 1776227956,
+      "review_helpful_count": 1,
+      "author_display_name": "Quirky_27",
+      "author_alias": "Quirky_27",
+      "developer_response": {
+        "body": "Hey there, Explorer! Into the Radius 2 isn’t meant to be a direct copy of ITR1, so while some skills from the first game will carry over, others might not, but you’ll definitely get better with time!\n\nAs for the difficulty curve, feel free to adjust the difficulty settings. For example, start by lowering enemy damage – this will boost your survivability without making things too easy.\n\nIn general, we balance the game for solo play, with co-op as an optional mode that we’ve also taken into account.",
+        "date": 1776330567
+      }
+    },
+    {
+      "id": "960413320497613",
+      "score": 3,
+      "review_title": "Not the into the radius I know and love",
+      "review_description": "I understand that the game is a beta, and is gonna be laggy. But the game overall doesn't have the spark it's predecessor had. The map is confusing, tasks are confusing, and enemies are just bad. The mimics don't have the same creepy and erie aura they had. Now they just look like normal dudes with guns. The fragments make my game lag out (understandable, it's a beta) but I think the fragments aren't too bad. I feel that the maps are too cluttered and constantly dark. It doesn't feel like I'm going into the radius, I feels like I'm going into a normal forest with way too many obstacles, hills, lake's, not enough poi's, just the map design doesn't feel like into the radius. It feels cluttered, and unable to navigate comfortably. I am going to refund for the time being, and wait until further updates have been made until I give it another shot",
+      "date": 1774317687,
+      "review_helpful_count": 3,
+      "author_display_name": "Dewitt568",
+      "author_alias": "Dewitt568",
+      "developer_response": null
+    },
+    {
+      "id": "984561754292002",
+      "score": 5,
+      "review_title": "CINEMA",
+      "review_description": "That’s all I have to say apart from the graphics I do hope the graphics can get better",
+      "date": 1779738670,
+      "review_helpful_count": 0,
+      "author_display_name": "ThePreview1315",
+      "author_alias": "ThePreview1315",
+      "developer_response": null
+    },
+    {
+      "id": "945896371625666",
+      "score": 5,
+      "review_title": "Great game but yeah",
+      "review_description": "First, THE GAME IS STILL IN BETA STOP CRYING. Second, great game, only bugs I found were in multiplayer, but overall GREAT game as long as you can handle maybe 1-5 bugs. IT WON'T BE IN BETA MUCH LONGER REMBER THAT.",
+      "date": 1777582656,
+      "review_helpful_count": 1,
+      "author_display_name": "Conconidk",
+      "author_alias": "Conconidk",
+      "developer_response": null
+    },
+    {
+      "id": "1168338159690724",
+      "score": 5,
+      "review_title": "Top game on quest",
+      "review_description": "One of the most immersive atmospheric games you can play",
+      "date": 1779974414,
+      "review_helpful_count": 0,
+      "author_display_name": "ImaHeese",
+      "author_alias": "ImaHeese",
+      "developer_response": null
+    },
+    {
+      "id": "951259004323553",
+      "score": 5,
+      "review_title": "Highly recommend",
+      "review_description": "I’ve been playing this game mostly with my friend after he told me to buy it, I assumed that it would be just like the first game. What I got was the most amount of fun, yet immersive vr experience I’ve had. Even when you are solo, you still get that feeling that both of the games have mastered, the sound design and intensity of the game gives it a memorable look. With some areas being actually hard for a vr game, enemies don’t feel weightless or mindless as they actually advance and duck behind cover, my only complaint being that I haven’t gotten one of my other friends to play it as well. Never had so much fun playing a game",
+      "date": 1775780110,
+      "review_helpful_count": 1,
+      "author_display_name": "random856743",
+      "author_alias": "random856743",
+      "developer_response": null
+    },
+    {
+      "id": "1556558608745142",
+      "score": 5,
+      "review_title": "Peak game peak stalker game in Vr",
+      "review_description": "It's one of the few games I play on my quest because im mainly a psvr2 user. It's in early access, so I will cut them slack on the co-op because it is VERY clunky, but there is game chat, so thats always a plus. PLEASE BRING THIS GAME TO PSVR2. PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE WITH A CHERRY ON TOP.",
+      "date": 1775585080,
+      "review_helpful_count": 1,
+      "author_display_name": "Xrobyyx",
+      "author_alias": "Xrobyyx",
+      "developer_response": null
+    },
+    {
+      "id": "1099574323235498",
+      "score": 2,
+      "review_title": "Frame rate makes it unplayable…",
+      "review_description": "Loved the first one and the game idea for this is excellent.  \n\nHowever, the frame rate is ABSOLUTELY HORRIBLE on the Quest 3.\n\nI had to quit playing it.\n\nIt is pre-release and hopefully they address the frame rate issues.\n\nBut as of now, I’d avoid it.",
+      "date": 1776380148,
+      "review_helpful_count": 1,
+      "author_display_name": "Armed_And_Hammered",
+      "author_alias": "Armed_And_Hammered",
+      "developer_response": {
+        "body": "Hello there, explorer. We'll continue working on optimizations of all locations for standalone. So far, we can only recommend relaunching the game before Outskirts, also closing all background active apps (especially browser and so on) that eat RAM which is needed for the game. This might help.",
+        "date": 1776674969
+      }
+    },
+    {
+      "id": "1250665748119315",
+      "score": 5,
+      "review_title": "BEST GAME EVER hope 1.0 comes out soon",
+      "review_description": "Best game ever love everything",
+      "date": 1780053541,
+      "review_helpful_count": 1,
+      "author_display_name": "Ziro24",
+      "author_alias": "Ziro24",
+      "developer_response": null
+    },
+    {
+      "id": "1134936093027183",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "It’s is a good game with the feeling of never knowing what the next trip into the radius will bring. It certainly has its scary moments and keeps a good balance too scary and action. I think the game has a good future. (But the multiplayer is pretty buggy)",
+      "date": 1776176838,
+      "review_helpful_count": 1,
+      "author_display_name": "Freedom_goet",
+      "author_alias": "Freedom_goet",
+      "developer_response": null
+    },
+    {
+      "id": "1110079628844897",
+      "score": 5,
+      "review_title": "Don't get me wrong adore this game💚🐸",
+      "review_description": "I just loaded up the game after a few weeks of working non stop and I found that my 35+hour save file for my profile 4 slot is gone I live alone in the country so I know that nobody could have used my headset I just want to know if anyone else has had this problem recently before the big update",
+      "date": 1775429904,
+      "review_helpful_count": 1,
+      "author_display_name": "Broadway2001",
+      "author_alias": "Broadway2001",
+      "developer_response": null
+    },
+    {
+      "id": "1105779189276316",
+      "score": 5,
+      "review_title": "Almost perfect",
+      "review_description": "Wow. This game is already amazing(in my opinion). I see alot of the low or 1-star reviews just complain about lag or lack of content, and tell the devs to change the game just because THEY dont like it, discarding the fact that they have to work on the PCVR version, then work to port it to standalone, AND that this game is in early access, so obviously its not going to be as polished as a finished, AND is 6 years old, having more time for updates. \n  Here are MY ratings\n\nThe whole gun system is amazing. Being able to buy already made guns or MAKE ones is amazing! However, finding guns out in the zone is a lot less rewarding, as you only find gun parts, which are only really good for being sold.\n\nI love that each map has kinda a gimmick. For example, the peninsula is very foggy, the forest is really dark at night, and I haven't played too much of pechorsk outskirts yet, but I think the cube is the gimmick there.\n\nThe Multi-player is a bit buggy, but it's still very fun. And the feeling of isolation is still somewhat there, with proximity chat.\n\nThe whole game is really looking good so far, and I know its going to be just as great, if not better than ITR1.",
+      "date": 1775314086,
+      "review_helpful_count": 1,
+      "author_display_name": "Bradzilla1",
+      "author_alias": "Bradzilla1",
+      "developer_response": null
+    },
+    {
+      "id": "869171749372385",
+      "score": 5,
+      "review_title": "I understand your frustration, however..",
+      "review_description": "I have seen many reviews that are low because people are upset that the latest update is not on Meta Quest yet. I have also been frustrated by that for a while, however that doesn’t change my opinion on either the game or its devs. This is an amazing game made by some of the best developers there are. They aren’t picking favorites. Your outrage doesn’t make updates come faster. Stop leaving negative reviews because you are salty and impatient. Standalone vr has limitations and they are doing the best they can. Don’t let angry people stop you from getting this game. Even in its beta this is one of the best games you can buy.",
+      "date": 1766459074,
+      "review_helpful_count": 123,
+      "author_display_name": "Fander54",
+      "author_alias": "Fander54",
+      "developer_response": null
+    },
+    {
+      "id": "1098406463353577",
+      "score": 5,
+      "review_title": "DEVS PLS READ",
+      "review_description": "The game is insanely good, one of the BEST Vr games I have however, can you please add the following\n\n-Abandoned city map\n-Sandbox mode (to mess around with guns and stuff) Also add a cheat menu in sandbox (Inf money, Inf health and inf stamina)\n-Night vision goggles\n-helmets \n-different backpack skins (military bag, school bag)\n-town with survivors to chill and stuff\n\nIf you read this thanks and I think it will make your amazing game even more fun, thanks.",
+      "date": 1774211086,
+      "review_helpful_count": 2,
+      "author_display_name": "HarrisonBruce5547",
+      "author_alias": "HarrisonBruce5547",
+      "developer_response": null
+    },
+    {
+      "id": "1036808849516906",
+      "score": 5,
+      "review_title": "This is the best game I've played so far",
+      "review_description": "This game is probably the most realistic and customizable experiences I've had the pleasure of playing. You make almost anything. From a set of armor that makes you as strong as can be, to a gun that tears through hoards of mimics, it's all possible. I genuinely recommend this game to anyone who may stumble upon it. There's so many play styles. From brute forcing your way trough the radius, to sniping enemies with deadly precision. (BTW, you can lock the charging handle or slide of a gun by pressing B while it's open to insert a extra piece of ammo. This can be useful for a no mag run.)",
+      "date": 1775265108,
+      "review_helpful_count": 0,
+      "author_display_name": "joseph424060",
+      "author_alias": "joseph424060",
+      "developer_response": null
+    },
+    {
+      "id": "999355893270009",
+      "score": 4,
+      "review_title": "Almost perfect",
+      "review_description": "I love almost everything about the game. Guns feel amazing, exploration is fun, loadout customization is almost perfect, and co-op, buggy as it is (for now), makes everything even better. The only thing I don't love is the gun customization. At the time of writing this review, I've been getting back into the game for about a week and a half after a break of around 5 or 6 months. I had heard about the update coming to Quest soon (at the time I stopped playing), and my hope, as a gun lover, was that I could make some strange combinations that would never actually work. Things like an M4A1 with a G36 barrel. Unfortunately, the only somewhat significant part mixing I've found is that you can use most AK parts on most AK variants as long as they aren't necessary for firing. I assume the devs want realism in the game, but it feels like just a little less realism would really help add a lot of fun. Excited for 1.0, whenever that may come to Quest, but disappointed that gun customization is mostly just barrel length and handguards.",
+      "date": 1775242503,
+      "review_helpful_count": 0,
+      "author_display_name": "KeylessEntry",
+      "author_alias": "KeylessEntry",
+      "developer_response": null
+    },
+    {
+      "id": "988472011025023",
+      "score": 5,
+      "review_title": "Immersive and unique",
+      "review_description": "This game has so many mechanics that have never been done in a VR game, and i probably still dont even know all of them yet, and due to the high customizable gameplay, i can change enemy numbers, damage, loot, everything. So if youre going for a chill run or intense gameplay buy this game. And the enemy AI is the best out there of all vr shooters.",
+      "date": 1775248199,
+      "review_helpful_count": 0,
+      "author_display_name": "GodlyGoose123",
+      "author_alias": "GodlyGoose123",
+      "developer_response": null
+    },
+    {
+      "id": "1513533000217711",
+      "score": 4,
+      "review_title": "Very Promising",
+      "review_description": "There’s still a lot of jank, especially in the enemy animations, but that can be excused for early access.",
+      "date": 1778706590,
+      "review_helpful_count": 0,
+      "author_display_name": "Vicke1916",
+      "author_alias": "Vicke1916",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T07:40:29Z"
+}

@@ -1,0 +1,957 @@
+{
+  "app_id": "8553436638060049",
+  "package_name": "com.CactusVRStudios.CactusCowboyDesertWarfare",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Cactus Cowboy - Desert Warfare",
+  "rating_average": 4.7335766423358,
+  "rating_count": 274,
+  "review_count": 128,
+  "reviews": [
+    {
+      "id": "2071763977098305",
+      "score": 1,
+      "review_title": "Garbage",
+      "review_description": "I genuinely dont understand how there are ANY people who would give this game a review over 2 stars. Its generic, repeated shooter slop. With AI voices doing all the acting, which is so bad its actually painful to the ears. The pauses between words, the horrible pronunciation. And the controls, while functional are downright lazy with their mechanics. Download this for free if you have the option, and give it a try. But if you can legitimately play this game for more than an hour? Honestly, respect.",
+      "date": 1779749222,
+      "review_helpful_count": 4,
+      "author_display_name": "sighdeath",
+      "author_alias": "sighdeath",
+      "developer_response": null
+    },
+    {
+      "id": "1530373678484468",
+      "score": 5,
+      "review_title": "Love it!",
+      "review_description": "It's corny as all hell but that is part of the appeal.  Just a fun goofy shooter with a story campaign.  It doesn't take itself serious and that makes it great.  I love all the cactus cowboy games but this is by far my favorite.  You can see the progression the developers have learned from one game to the next.  Can't wait for future titles!",
+      "date": 1781392406,
+      "review_helpful_count": 0,
+      "author_display_name": "APEboys",
+      "author_alias": "APEboys",
+      "developer_response": null
+    },
+    {
+      "id": "987448303720397",
+      "score": 5,
+      "review_title": "Started off with the free ones...",
+      "review_description": "& without hesitation i have purchased the paid game... man am i looking forward to it, they are quirky, simplicity attractive & most of all the gun play is perfect for keeping a well needed eye on whats around the corner.\nDifferent enemy's keep you on your toes, \nI absolutely love this game & everything about it (as a no nonsense pick up & play)\n\nI have finished the free one yet, cant wait to get stuck in...\nBefore Ive even played it i know it was the best £8,99 I have spent in ages... the price of X2 coffees... for a whole load of fun...\nNice one  \n I am 48, a seasoned gamer that can honestly say this is breath of fresh air",
+      "date": 1775395812,
+      "review_helpful_count": 18,
+      "author_display_name": "spacedust100",
+      "author_alias": "spacedust100",
+      "developer_response": null
+    },
+    {
+      "id": "958294593611242",
+      "score": 5,
+      "review_title": "Really good",
+      "review_description": "Just like the 3rd and 4th cactus games, this game is great. At first, the trigger to use bolts instead of grip confused me, but this makes more sense than grip as it prevents accidentally grabbing the grip instead. The guns feel good to use, although the virtual stock option, enabled by default, causes your grip hand to not align properly with the hand you see. There are no enemies with excessive amounts of health, although bosses were a bit too easy, which I think is an overcorrection from the 3rd and 4th games, where bosses took forever to kill and I am sure this will be fixed in the 6th game. Medic plants no longer give infinite heals, which fixes the issue from the 4th game where you could become almost immortal by camping a medic plant, and encourages you to avoid damage. All enemy attacks are projectiles, so you can dodge bullets, although the bullets should be made faster. I think that the game would be even better if there was a very hard mode added, to provide a challenge that hard mode doesn't really give. Allies seem to no longer be stupid like they were in the 4th game, but I never saw my allies kill anything. Overall amazing game, and it also comes with 4 extra solo missions that I haven't tried yet.",
+      "date": 1777057704,
+      "review_helpful_count": 4,
+      "author_display_name": "person8888",
+      "author_alias": "person8888",
+      "developer_response": {
+        "body": "Thanks for the review. I gonna keep a few things in mind during development of Cactus Cowboy - Thornageddon. Quick suggestion: At leasts play the Halloween solo mission ;-)",
+        "date": 1777098904
+      }
+    },
+    {
+      "id": "1068514959686398",
+      "score": 5,
+      "review_title": "Must get",
+      "review_description": "I can't tell you how much cactus cowboy resonates with me. It's definitely my top 10 games along with plants at war and fully loaded. Truly a gameplay over graphics game. If you are questioning yourself don't. You can't go wrong with a little of cactus cowboy in your life",
+      "date": 1779025061,
+      "review_helpful_count": 1,
+      "author_display_name": "Star_Strider63",
+      "author_alias": "Star_Strider63",
+      "developer_response": null
+    },
+    {
+      "id": "989346783700363",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "it is really good and i love how they reference cactus cowboy fully loaded and cactus cowboy plants at war",
+      "date": 1781646166,
+      "review_helpful_count": 0,
+      "author_display_name": "MJBubby10",
+      "author_alias": "MJBubby10",
+      "developer_response": null
+    },
+    {
+      "id": "1069711279561799",
+      "score": 2,
+      "review_title": "Dumb Fun",
+      "review_description": "Not the best looking, written, voice acted, orchestrated, etc. but it knows it and still delivers a solid experience. I’m not sure if the creator uses any AI programs for his games but it does feel like it imo. Still a fun little experience with serviceable gun play.",
+      "date": 1775362079,
+      "review_helpful_count": 6,
+      "author_display_name": "M41KU",
+      "author_alias": "M41KU",
+      "developer_response": {
+        "body": "Only voice acting is AI, as I cannot afford real ppl. The rest is handcrafted, self written code and it will stay this way for future games! \nThis game is older than the current AI Slop craze.",
+        "date": 1775378782
+      }
+    },
+    {
+      "id": "1146032985261754",
+      "score": 4,
+      "review_title": "Super fun game great fun mechanics",
+      "review_description": "I’m having a lot of fun with CCDW. Very satisfying gun mechanics. Great support from developer.",
+      "date": 1781446034,
+      "review_helpful_count": 0,
+      "author_display_name": "dave.adams.940048",
+      "author_alias": "dave.adams.940048",
+      "developer_response": null
+    },
+    {
+      "id": "1115785131625964",
+      "score": 3,
+      "review_title": "Cave mission",
+      "review_description": "Don’t know what to do I don’t understand what the woman said",
+      "date": 1780750852,
+      "review_helpful_count": 0,
+      "author_display_name": "ajajaiwiwjwmwwmsksi",
+      "author_alias": "ajajaiwiwjwmwwmsksi",
+      "developer_response": {
+        "body": "Grab the grave or watch a playthrough on youtube. There multiple sections where this coulbe be the case in the game.",
+        "date": 1780768163
+      }
+    },
+    {
+      "id": "890405450650942",
+      "score": 5,
+      "review_title": "LOVED IT!!!",
+      "review_description": "JUST GET IT!!  you will love it too. \nIt’s just fun to play.  I wish it was longer actually.. can we get a part 2?\n\nEdit:  NVM just got the whole bundle. Thx",
+      "date": 1772865104,
+      "review_helpful_count": 9,
+      "author_display_name": "urdarkestfears",
+      "author_alias": "urdarkestfears",
+      "developer_response": null
+    },
+    {
+      "id": "1165548949981312",
+      "score": 5,
+      "review_title": "Amazing games",
+      "review_description": "I really love this series\nJust it is kind of sad it was so short",
+      "date": 1778528754,
+      "review_helpful_count": 0,
+      "author_display_name": "Grzegorzer01",
+      "author_alias": "Grzegorzer01",
+      "developer_response": null
+    },
+    {
+      "id": "1076836898844959",
+      "score": 4,
+      "review_title": "CACTI FOREVER",
+      "review_description": "This is a godly game",
+      "date": 1776197693,
+      "review_helpful_count": 3,
+      "author_display_name": "kidfrom_queens_NYC",
+      "author_alias": "kidfrom_queens_NYC",
+      "developer_response": null
+    },
+    {
+      "id": "836597106039647",
+      "score": 4,
+      "review_title": "Yee haw. Oh wait. War.",
+      "review_description": "It ain’t horrible. Definitely better than that portal fan game (anyways why the hell did this series get a portal rip off?). Combat is fine. The game was pretty hard. And the gameplay was pretty fun. But the amount of Ai that went into this game was… a lot. I understand that the game was made by one person but still. Garbage band is free and you can make better voices. But I actually recommend getting this game at full price. I mean it’s made by one person who did it as a joke. And now look at where he is. 4.30/5 stars.",
+      "date": 1767257537,
+      "review_helpful_count": 12,
+      "author_display_name": "pandaelff",
+      "author_alias": "pandaelff",
+      "developer_response": {
+        "body": "The voices is something I really want to do better next time! The AI Voice system I used went bankrup anyway (surprise?). It was actually a matter of $$ as my chin dropped wide when I realized how expensive actual dubbing is. When this game came out, AI use was too new to be a big of a deal for ppl. But I assure you other than the voices, everything here is handcrafted!\nAnyway, I always take note from reviews here. Glad you had fun with my little cacti title. \n\nHappy new year 🚀",
+        "date": 1767262293
+      }
+    },
+    {
+      "id": "876653984897172",
+      "score": 5,
+      "review_title": "Peak",
+      "review_description": "You can tell the developer has gotten better and listen to criticism and made this awesome game, If your the developer seeing this continue to make games (you don’t need to make another Cactus Cowboy you can branch out if you want)",
+      "date": 1765665996,
+      "review_helpful_count": 38,
+      "author_display_name": "MooseLover123",
+      "author_alias": "MooseLover123",
+      "developer_response": {
+        "body": "Thanks, I read every comment. I wanna branch out but there has to be one more CC game and that's in the works.",
+        "date": 1765711606
+      }
+    },
+    {
+      "id": "1142063288989094",
+      "score": 5,
+      "review_title": "Honesty top 3 best games make a part 2",
+      "review_description": "I loved this game so much has so much fighting drama and funny you should make a parr 2 because it cut off at the bug saying ill bebback so we need another one please i would love that and add more drama cactus wise it was very good when someone had an affairnwith the pilot anyway please part 2😆😆",
+      "date": 1779642662,
+      "review_helpful_count": 0,
+      "author_display_name": "mm.12345",
+      "author_alias": "mm.12345",
+      "developer_response": {
+        "body": "A new Cactus Cowboy (Thornageddon) game is in the works. Trying to get it done asap but it won't be before 2027",
+        "date": 1779697483
+      }
+    },
+    {
+      "id": "978544812009589",
+      "score": 5,
+      "review_title": "Insane",
+      "review_description": "This game is one of the best games I ever played as a boy, the game is even better, we get to shoot, bugs kill, and I like how it has month with difficulties, and I like challenging stuff, so I picked hard, then I keep dying, some parts are annoying, but overall, the game is the best game I played on my vr are and I hope you guys make more  games like this",
+      "date": 1768884280,
+      "review_helpful_count": 2,
+      "author_display_name": "kaisynpink",
+      "author_alias": "kaisynpink",
+      "developer_response": null
+    },
+    {
+      "id": "900877219539661",
+      "score": 5,
+      "review_title": "Perfect",
+      "review_description": "Peak ✋🥹🤚",
+      "date": 1771172795,
+      "review_helpful_count": 6,
+      "author_display_name": "porterbou.2022",
+      "author_alias": "porterbou.2022",
+      "developer_response": null
+    },
+    {
+      "id": "991523034051453",
+      "score": 1,
+      "review_title": "cant reloed gun",
+      "review_description": "I cant reloed my goddamn gun",
+      "date": 1771696770,
+      "review_helpful_count": 3,
+      "author_display_name": "TyrrellTheKid",
+      "author_alias": "TyrrellTheKid",
+      "developer_response": {
+        "body": "A button (Right hand, lower button) ejects mag.\nGrab new mag from belt and insert it\nPull slider to prime gun\nShoot.\n\nLike in real life.",
+        "date": 1771743096
+      }
+    },
+    {
+      "id": "1005182559341965",
+      "score": 5,
+      "review_title": "Sooo peak",
+      "review_description": "I want to cry because of how good this is🥹",
+      "date": 1770217278,
+      "review_helpful_count": 3,
+      "author_display_name": "acselnus",
+      "author_alias": "acselnus",
+      "developer_response": null
+    },
+    {
+      "id": "1069829859536258",
+      "score": 5,
+      "review_title": "The best game i have ever played",
+      "review_description": "Unexplanible how good it is so underated",
+      "date": 1772072034,
+      "review_helpful_count": 0,
+      "author_display_name": "LG001",
+      "author_alias": "LG001",
+      "developer_response": null
+    },
+    {
+      "id": "873679318902654",
+      "score": 5,
+      "review_title": "LOVE IT!",
+      "review_description": "I have been playing these cactus games for over four years now the humor is great in the story is awesome. Love it. ￼",
+      "date": 1780955873,
+      "review_helpful_count": 0,
+      "author_display_name": "Dingle271",
+      "author_alias": "Dingle271",
+      "developer_response": null
+    },
+    {
+      "id": "903161368902343",
+      "score": 5,
+      "review_title": "WOW!",
+      "review_description": "I just beat the game and wow it is such a good and goofy game but is fun. The story is some what long but it is so rewarding and refreshing to beat.",
+      "date": 1768401812,
+      "review_helpful_count": 2,
+      "author_display_name": "ImASnammich",
+      "author_alias": "ImASnammich",
+      "developer_response": null
+    },
+    {
+      "id": "867173222775565",
+      "score": 1,
+      "review_title": "Ai slop for kids",
+      "review_description": "Title says it all",
+      "date": 1769388675,
+      "review_helpful_count": 5,
+      "author_display_name": "nbcanada04",
+      "author_alias": "nbcanada04",
+      "developer_response": null
+    },
+    {
+      "id": "846399568339609",
+      "score": 5,
+      "review_title": "HE ALWAYS COOKS WITH CACTUS COWBOY",
+      "review_description": "SOOOO MUCH BETTER THEN PLANTS AT WAR, story is good, I wish the ending was a bit better tho, it just kinda ends, but other then that, one of the best vr games in a while",
+      "date": 1762981557,
+      "review_helpful_count": 21,
+      "author_display_name": "JAXCENA34",
+      "author_alias": "JAXCENA34",
+      "developer_response": null
+    },
+    {
+      "id": "122335067348000609",
+      "score": 5,
+      "review_title": "Awesome Game!!!!",
+      "review_description": "I don’t have much to say but keep making these games there so fun",
+      "date": 1767540646,
+      "review_helpful_count": 3,
+      "author_display_name": "RealMagmaVR",
+      "author_alias": "RealMagmaVR",
+      "developer_response": null
+    },
+    {
+      "id": "898910119974115",
+      "score": 5,
+      "review_title": "5/5 would recommend",
+      "review_description": "Amazing story, insane map scale making every mission feel somehow different. Please support the dev, deserves a lot of praise, in my top 3 vr games! Can’t wait for the next!!!!!",
+      "date": 1765523090,
+      "review_helpful_count": 3,
+      "author_display_name": "Jjba0",
+      "author_alias": "Jjba0",
+      "developer_response": null
+    },
+    {
+      "id": "910829428785505",
+      "score": 5,
+      "review_title": "Absolute cinema",
+      "review_description": "The game is so peak there is nothing more to say \n\n\n                                PEAK",
+      "date": 1768703586,
+      "review_helpful_count": 1,
+      "author_display_name": "curly.seahorse55",
+      "author_alias": "curly.seahorse55",
+      "developer_response": null
+    },
+    {
+      "id": "864616562816369",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Oh my goodness this game is\nAmazing. Great story great everything. Dude I absolutely loved this. It has the perfect story and it didn’t have a big budget like other vr games but it was a perfect mix of funny and war games.",
+      "date": 1780688442,
+      "review_helpful_count": 0,
+      "author_display_name": "Snackattack47",
+      "author_alias": "Snackattack47",
+      "developer_response": {
+        "body": "You can lower the difficulty at any time ingame! Even for a small section.",
+        "date": 1766216845
+      }
+    },
+    {
+      "id": "814874601569674",
+      "score": 5,
+      "review_title": "Very well made",
+      "review_description": "really fun game, nice work devs!",
+      "date": 1769310461,
+      "review_helpful_count": 0,
+      "author_display_name": "CurvyAura2",
+      "author_alias": "CurvyAura2",
+      "developer_response": null
+    },
+    {
+      "id": "859084527298860",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "Story & weapons are so fun ! thank you",
+      "date": 1767269290,
+      "review_helpful_count": 0,
+      "author_display_name": "Khatre",
+      "author_alias": "Khatre",
+      "developer_response": null
+    },
+    {
+      "id": "917320247552498",
+      "score": 5,
+      "review_title": "Best game ever⭐️",
+      "review_description": "When I first saw this game I thought it would be a bad game but I was wrong the gameplay decent and the enemies are cool and the bosses!",
+      "date": 1773558721,
+      "review_helpful_count": 0,
+      "author_display_name": "Lord-Haji",
+      "author_alias": "Lord-Haji",
+      "developer_response": null
+    },
+    {
+      "id": "25877992611886675",
+      "score": 5,
+      "review_title": "How to change the bullet cartridge? 😁",
+      "review_description": "Update : Thank you developer!! 😁😁This game is so much fun, though I'm stuck. Firstly it's very funny and has a real atmosphere despite the simple graphics, which actually make it better. But I just cannot for the life of me change the magazine clip on the rifle. Tried every button combination, can't eject the clip to place a new one. If I can figure that out I'll be looking forward to playing more!",
+      "date": 1770551178,
+      "review_helpful_count": 0,
+      "author_display_name": "Maccyb123",
+      "author_alias": "Maccyb123",
+      "developer_response": {
+        "body": "A button (Right hand, lower button) ejects mag.\nGrab new mag from belt and insert it\nPull slider to prime gun\nShoot.",
+        "date": 1770551002
+      }
+    },
+    {
+      "id": "966818052350841",
+      "score": 5,
+      "review_title": "Absolutely amazing!",
+      "review_description": "I'm not done yet but so far its a fun shooter that really makes you feel like your in a war!",
+      "date": 1773548619,
+      "review_helpful_count": 0,
+      "author_display_name": "zeththeoverlord",
+      "author_alias": "zeththeoverlord",
+      "developer_response": null
+    },
+    {
+      "id": "814787165059595",
+      "score": 5,
+      "review_title": "W",
+      "review_description": "You need to try this pls do this is my fav series ever pls try ￼",
+      "date": 1763236915,
+      "review_helpful_count": 0,
+      "author_display_name": "PickleRick2023.2023",
+      "author_alias": "PickleRick2023.2023",
+      "developer_response": null
+    },
+    {
+      "id": "849907748200878",
+      "score": 4,
+      "review_title": "?",
+      "review_description": "Just found out that there is no shotgun in the game so in the next game please add shotguns",
+      "date": 1760876695,
+      "review_helpful_count": 2,
+      "author_display_name": "GalacticSeaTurtle2261",
+      "author_alias": "GalacticSeaTurtle2261",
+      "developer_response": null
+    },
+    {
+      "id": "1031110610075908",
+      "score": 5,
+      "review_title": "Excited to play",
+      "review_description": "I saw this and was like wth so i get it and watch the trailer this looks like the best game ever",
+      "date": 1770538257,
+      "review_helpful_count": 0,
+      "author_display_name": "thewizard_ofACTUALevilspells",
+      "author_alias": "thewizard_ofACTUALevilspells",
+      "developer_response": null
+    },
+    {
+      "id": "891245276907122",
+      "score": 5,
+      "review_title": "Always been a fan of the game",
+      "review_description": "Loved the other games and I'm very impressed with this one and all the new stuff they added.\n\nOne slight issue, I fell off the cliff Just heard the game going on without me, saw the map disappear above me and I never respawned? \n\nIt's a well done game and I'm enjoying playing it.",
+      "date": 1766521855,
+      "review_helpful_count": 0,
+      "author_display_name": "Stalker001122",
+      "author_alias": "Stalker001122",
+      "developer_response": null
+    },
+    {
+      "id": "1224028703036015",
+      "score": 5,
+      "review_title": "Best game EVER",
+      "review_description": "I literally play this game soooooooo much its amazing i hate every other game now",
+      "date": 1769803505,
+      "review_helpful_count": 0,
+      "author_display_name": "PIPER151515",
+      "author_alias": "PIPER151515",
+      "developer_response": null
+    },
+    {
+      "id": "750341284826453",
+      "score": 5,
+      "review_title": "Cactus VR studios can you add melee",
+      "review_description": "The game is awesome but cactus VR studios we need melee weapons or just when you punch a bug like it damage them\n\n\nI think this is going to be easy maybe hard idk\n\n\nOr just add more solo missions because I love solo missions",
+      "date": 1753885057,
+      "review_helpful_count": 12,
+      "author_display_name": "sagecombine",
+      "author_alias": "sagecombine",
+      "developer_response": {
+        "body": "Hey, I totally feel you on this one but the game is not designed around more than one player at a time. I made the game code to tell a story and to create a game that doesn't need online services so it can be played without internet, light etc. at least that was the idea. Sorry but the existing titles won't get any multiplayer expansions. Sorry I'm just one guy coding these ;_;",
+        "date": 1753810049
+      }
+    },
+    {
+      "id": "955668060967683",
+      "score": 5,
+      "review_title": "THIS IS PEAKMM",
+      "review_description": "Js straight fire, I love the story so much",
+      "date": 1768520879,
+      "review_helpful_count": 0,
+      "author_display_name": "nunonyuu",
+      "author_alias": "nunonyuu",
+      "developer_response": null
+    },
+    {
+      "id": "2655645451463384",
+      "score": 5,
+      "review_title": "What a blast!",
+      "review_description": "Manual reloading, so bad it's good b movie voice acting and just really fun!",
+      "date": 1765486970,
+      "review_helpful_count": 0,
+      "author_display_name": "Maestronomic",
+      "author_alias": "Maestronomic",
+      "developer_response": null
+    },
+    {
+      "id": "752433154622490",
+      "score": 5,
+      "review_title": "this is the best vr shooter game",
+      "review_description": "the game is just so fun the rifles are the best gun in super fun i will recommend this game",
+      "date": 1758416742,
+      "review_helpful_count": 1,
+      "author_display_name": "monkeyhunky16",
+      "author_alias": "monkeyhunky16",
+      "developer_response": null
+    },
+    {
+      "id": "705373835982828",
+      "score": 5,
+      "review_title": "Generally a great game.",
+      "review_description": "Most VR games I find are basically toys so coming across a real game is refreshing, especially when it's one I enjoy. The action is good and while the dialog is witty, it would be nice to have an option to play without extreme profanity (F-bombs), or profanity at all.  The TTS adds to the charm, and would make it easy to have a variant voice track here and there. (As an aside, if your TTS engine is reading text designed for phonetic clarity you can get much better results than from dialog intended for readers.)\nI am also old enough to know that the loading sound is probably supposed to be from a floppy drive, and I absolutely love it.",
+      "date": 1748211019,
+      "review_helpful_count": 11,
+      "author_display_name": "FancyPants24",
+      "author_alias": "FancyPants24",
+      "developer_response": null
+    },
+    {
+      "id": "753954081128327",
+      "score": 5,
+      "review_title": "W game",
+      "review_description": "For everyone questioning to buy this game you should,it is very fun and difficult. If you have never played the cactus cowboy games you should play them first.EVERY ONE WHO GETS LEAVE A⭐️⭐️⭐️⭐️⭐️ review",
+      "date": 1766853103,
+      "review_helpful_count": 1,
+      "author_display_name": "GrayGuy0614",
+      "author_alias": "GrayGuy0614",
+      "developer_response": null
+    },
+    {
+      "id": "664008730128258",
+      "score": 5,
+      "review_title": "This is too good",
+      "review_description": "This is genuinely too good of a game. Best COD style campaign in vr and rivals Zero Caliber. Keep up the good work man you’re doing great work.",
+      "date": 1770491203,
+      "review_helpful_count": 3,
+      "author_display_name": "pancakesvr1234",
+      "author_alias": "pancakesvr1234",
+      "developer_response": null
+    },
+    {
+      "id": "1197087525140451",
+      "score": 5,
+      "review_title": "Nice surprise!",
+      "review_description": "I hadn’t played any of the cactus cowboy games before so came into this one cold.  Felt like playing a story based single player game; there aren’t many of those in VR out there still!  The art style makes you think it’s going to be a cutesy game for kids but glad I gave it a try as it’s one of the more action packed games out there with nice set pieces, solid mechanics and fun! Hope the dev makes enough money to maybe support voice actors for the next game, the dialog is good but it would be amazing to see what a voice actor or two would do with the script.",
+      "date": 1742265903,
+      "review_helpful_count": 11,
+      "author_display_name": "TeddyBear82",
+      "author_alias": "TeddyBear82",
+      "developer_response": null
+    },
+    {
+      "id": "649285324943200",
+      "score": 5,
+      "review_title": "Best game ever",
+      "review_description": "I loved the game same with the first one but I dislike the 3rd one",
+      "date": 1750973045,
+      "review_helpful_count": 1,
+      "author_display_name": "I_MVB_I",
+      "author_alias": "I_MVB_I",
+      "developer_response": null
+    },
+    {
+      "id": "731877096265899",
+      "score": 5,
+      "review_title": "Never ceases to amaze me",
+      "review_description": "Cactus cowboy studios makes amazing games and this is just one more masterpiece. I think by some miracle this is even better than the original plants at war,which by the way if you have not played go get that first play through it then try this this one because this one is a sequel to plants at war but they are both absolute must gets.",
+      "date": 1752105480,
+      "review_helpful_count": 1,
+      "author_display_name": "duckmatt",
+      "author_alias": "duckmatt",
+      "developer_response": null
+    },
+    {
+      "id": "784423634744368",
+      "score": 5,
+      "review_title": "Hands down the best indie VR game",
+      "review_description": "I love Cactus Cowboy. Almost cannot believe that this is all done by a single indie developer. The attention to detail and all the humour added can’t be found in AAA VR games. Coming back for the next part.",
+      "date": 1754763493,
+      "review_helpful_count": 0,
+      "author_display_name": "zakx",
+      "author_alias": "zakx",
+      "developer_response": null
+    },
+    {
+      "id": "459368823923102",
+      "score": 4,
+      "review_title": "Amazing addition to the series",
+      "review_description": "This game is great. Story is interesting enough, guns feel good, and the new attachment system is balanced and works well. I love the variety of different weapons for different scenarios. -1 star because some of the dialogue on the last few missions has obvious spelling errors in the TTS, causing easily text-to-speech said words like “cacti” to be misread. Great game, can’t wait for Cactus Cowboy 6!!",
+      "date": 1740510860,
+      "review_helpful_count": 4,
+      "author_display_name": "Seth123jojo",
+      "author_alias": "Seth123jojo",
+      "developer_response": {
+        "body": "Thanks for the tip! I certainly will go through the voice data and try to get that out in the next update!\nThat said: CC6  will address the issue of TTS voices and will improve on this side. \n\nThanks for supporting Cactus Cowboy",
+        "date": 1740551806
+      }
+    },
+    {
+      "id": "727844193115320",
+      "score": 5,
+      "review_title": "BEST GAME!!!",
+      "review_description": "i played all the parts and this is one of the best at first glance a children's game, but when you play a little more you understand what a deep plot there is (like a plants at war)\np.c. \nwe are all waiting for more games",
+      "date": 1749979569,
+      "review_helpful_count": 2,
+      "author_display_name": "nickname2029",
+      "author_alias": "nickname2029",
+      "developer_response": null
+    },
+    {
+      "id": "552445074623275",
+      "score": 5,
+      "review_title": "Awesome Game",
+      "review_description": "It's nice to see a game that continues to prefer the gameplay over graphics and stays true to the franchise.  It's also nice that the game has laughable scenes.  Awesome game!",
+      "date": 1740632488,
+      "review_helpful_count": 4,
+      "author_display_name": "Ismaelcar",
+      "author_alias": "Ismaelcar",
+      "developer_response": null
+    },
+    {
+      "id": "606162645910200",
+      "score": 5,
+      "review_title": "Best FPS game I have played",
+      "review_description": "This game has me playing for hours, the lore and graphics and storytelling is amazing. This series has improved from plants at war.",
+      "date": 1741449354,
+      "review_helpful_count": 1,
+      "author_display_name": "TheFallenJedi1",
+      "author_alias": "TheFallenJedi1",
+      "developer_response": null
+    },
+    {
+      "id": "525524403988534",
+      "score": 2,
+      "review_title": "Meh",
+      "review_description": "To me it was pretty boring and not worth the 5 bucks",
+      "date": 1742404794,
+      "review_helpful_count": 0,
+      "author_display_name": "Cheesewrd",
+      "author_alias": "Cheesewrd",
+      "developer_response": null
+    },
+    {
+      "id": "491501717388387",
+      "score": 5,
+      "review_title": "Very good  game",
+      "review_description": "It’s a very good game and there’s absolutely nothing wrong with it I’m just wondering when the new game would be coming out if there’s a  date or if u can estimate how much longer it willl take u to finish \n\n\n\n\n\n\n\nalso please add driving cars/boats/heli",
+      "date": 1735490887,
+      "review_helpful_count": 4,
+      "author_display_name": "Ronanw1234",
+      "author_alias": "Ronanw1234",
+      "developer_response": null
+    },
+    {
+      "id": "511956845337709",
+      "score": 5,
+      "review_title": "EMILIO IS BACK!!",
+      "review_description": "Emilio was dumber than a rock in plants at war but dessert warfare he was absolutely amazing this man was shooting enemies faster than the enemies shooting me EMILIO IS OP.",
+      "date": 1735363859,
+      "review_helpful_count": 7,
+      "author_display_name": "MJ.104",
+      "author_alias": "MJ.104",
+      "developer_response": null
+    },
+    {
+      "id": "2690713661119455",
+      "score": 3,
+      "review_title": "low quality and sickening",
+      "review_description": "While I like the theme, the quality/polish is just too low -- low-detail environments, crappy animations, crappy AI voice-acting, guns not done well, occasional glitches, etc. The locomotion is also quite nauseating (more than other smooth-locomotion games). The length is quite long for its price, though.",
+      "date": 1735339256,
+      "review_helpful_count": 2,
+      "author_display_name": "JimZM",
+      "author_alias": "JimZM",
+      "developer_response": null
+    },
+    {
+      "id": "574494678974623",
+      "score": 5,
+      "review_title": "Looove this! 🤠🌵",
+      "review_description": "Great shooter game, story is great, seems easier than fully loaded tho but I’ve had close calls 😅, THERES COOL LOOKIN GUN SKINS NOW 🥳. I promise I will beat this wonderful game🙂‍↕️.  9/10 great buy for 9.99",
+      "date": 1741718388,
+      "review_helpful_count": 0,
+      "author_display_name": "13xBaumbo",
+      "author_alias": "13xBaumbo",
+      "developer_response": null
+    },
+    {
+      "id": "568478342310884",
+      "score": 5,
+      "review_title": "Wtf",
+      "review_description": "Bro you got me OBSESSED a with the cactus cowboy games, I have all of them and just bought this one and love it SOOO MUCH!! This game has to get merch some day!",
+      "date": 1729626496,
+      "review_helpful_count": 3,
+      "author_display_name": "CactusCowboyEmilioFanboy",
+      "author_alias": "CactusCowboyEmilioFanboy",
+      "developer_response": {
+        "body": "Some day? There already is! Check the Cactus VR Studios homepage. 🌵🥳 Thanks for supporting Cactus Cowboy.",
+        "date": 1729665974
+      }
+    },
+    {
+      "id": "510518608565500",
+      "score": 5,
+      "review_title": "JUST GET THE GAME ALREADY PLEASE",
+      "review_description": "New, old players, I don’t care. This game is a must and you’ll have fun no matter what. Got pretty good customization, a great story, and cacti. And plus, UPDATES THAT HAVE FREE LEVEL ADDONS. PLEASE. BUY. THIS. GAME 🌵",
+      "date": 1728146063,
+      "review_helpful_count": 3,
+      "author_display_name": "MeowAnyone",
+      "author_alias": "MeowAnyone",
+      "developer_response": null
+    },
+    {
+      "id": "436593326208181",
+      "score": 5,
+      "review_title": "Love the dlc",
+      "review_description": "Love the Developers for making a dlc they should make another game ab the vetinam war",
+      "date": 1729000138,
+      "review_helpful_count": 3,
+      "author_display_name": "Foodtruck420",
+      "author_alias": "Foodtruck420",
+      "developer_response": {
+        "body": "A all new Cactus Cowboy game is in the works. New graphics, new design etc. might take a while tho",
+        "date": 1729057046
+      }
+    },
+    {
+      "id": "398961603292505",
+      "score": 5,
+      "review_title": "Absolute Banger",
+      "review_description": "The cartoony looks combined with the realistic gameplay, thrilling story and funny dialogue makes this game an absolute must-play for anybody that's even just a bit into VR shooters.\n\nFor the Cacti army!!",
+      "date": 1721980680,
+      "review_helpful_count": 4,
+      "author_display_name": "Galaghan",
+      "author_alias": "Galaghan",
+      "developer_response": null
+    },
+    {
+      "id": "1010969870771530",
+      "score": 1,
+      "review_title": "An atrocious effort.",
+      "review_description": "This game is awful, low effort waste of time and money. Poor quality graphics and sound.",
+      "date": 1724953503,
+      "review_helpful_count": 1,
+      "author_display_name": "VyleR",
+      "author_alias": "VyleR",
+      "developer_response": null
+    },
+    {
+      "id": "410898525222464",
+      "score": 5,
+      "review_title": "Do buy now",
+      "review_description": "It is the best war game I've played. I really the the grabbing thing when you just make the gun fly to you. This game is way better then plants at war but I haven't played fully loaded yet but I will Porabaly be really good. I am currently playing desert warfare again because it was so good the first time I played",
+      "date": 1714365228,
+      "review_helpful_count": 5,
+      "author_display_name": "BigDdrake69",
+      "author_alias": "BigDdrake69",
+      "developer_response": null
+    },
+    {
+      "id": "439571575469579",
+      "score": 3,
+      "review_title": "Bruh",
+      "review_description": "It’s good now, but it’s like impossible for me to jump on into the helicopter chapter 4\n😤😤😤",
+      "date": 1717798914,
+      "review_helpful_count": 1,
+      "author_display_name": "PizzaKing1920",
+      "author_alias": "PizzaKing1920",
+      "developer_response": {
+        "body": "You can do it! I believe in you or are you afraid of heights?",
+        "date": 1717864069
+      }
+    },
+    {
+      "id": "441048378457530",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Ngl a massive upgrade from fully loaded to now you can just see you getting better at making Vr games",
+      "date": 1712774707,
+      "review_helpful_count": 4,
+      "author_display_name": "TripleMxc",
+      "author_alias": "TripleMxc",
+      "developer_response": null
+    },
+    {
+      "id": "3283525328614200",
+      "score": 5,
+      "review_title": "Amazing VR shooter",
+      "review_description": "One of the best VR shooters. The gun handling is great and everything just feels right. The gun upgrade system is a very nice addition. Really funny as well, made me laugh quite a few times. \nAlso, I hate watching credits in VR games but this game made it worthwhile ;)",
+      "date": 1706829173,
+      "review_helpful_count": 3,
+      "author_display_name": "McBeppo",
+      "author_alias": "McBeppo",
+      "developer_response": {
+        "body": "Someone was watching my credit scene🥳 I spend days thinking \"how can I make this entertaining to watch\". Glad it worked out and even more importantly, you had a blast playing it.",
+        "date": 1706862846
+      }
+    },
+    {
+      "id": "350751897892334",
+      "score": 5,
+      "review_title": "AMAZING, MUST BUY IF YOU LIKE CACTUS",
+      "review_description": "This game is AWESOME, if you like action, funny humor, war games, or cactus 🌵, then get this game. And if you have not played Cactus Cowboy Plants at War, then go play that first so you can get a feel of the Cactus Cowboy Series. Anyways, first off, storyline and gun play is awesome! You shoot your way through enemy bug bases, and also protect your fellow cacti 🌵, while also getting to find money all around the story and use that money to customize your guns! Such as adding lasers, new grips for your guns, optics, scopes, suppressors, and skins! And a lot of action, explosions, exploration, crashing helicopters, exploding helicopters, Mini-gun helicopters, and helicopters in general. And, the campaign is intense, funny, and addictive. And and a lot of guns to chose from, such as pistols, rifles, SMG’s, and maybe snipers, (I don’t know if there’s snipers because I have not completed the story yet), and grenade launchers, which you can explode helicopters with and kill packs of bugs in one shot. Only complaint is the mini-gun on the helicopter level is really glitchy and shaky, so maybe you can fix that in next bug fix. But just because you heard that doesn’t mean you shouldn’t buy the game. And there is so much more stuff I can say about this game that is amazing, but it would take forever to explain. So my overall rating is 20/10, and trust me, it’s gonna be a lot better then you think. Also, note for devs if your reading this, if your thinking of any other game idea for the series, I would do a nuclear warfare of some sort, or maybe Vietnam war or world war 1 would be cool to. Also, to make the game a bit better, maybe you can let the player fly the plane or helicopter, or drive the Jeep instead of always letting your fellow army cacti 🌵 do it. Anyways, your game is amazing, and I would love to buy any future game in the Cactus Cowboy series, no matter the price. Have a great day, and hope you make better more awesome games in the future. Now goodbye ima go beat the game. Also I hate the spiders there scary 😧\n🌵\n🌵\n🌵\n🌵\n🌵",
+      "date": 1705256528,
+      "review_helpful_count": 1,
+      "author_display_name": "rigisabee",
+      "author_alias": "rigisabee",
+      "developer_response": null
+    },
+    {
+      "id": "352868620574780",
+      "score": 4,
+      "review_title": "No title (sry)",
+      "review_description": "This game is good but if would choose a game  this or plant at war (paw) I would get paw because of it being free and a more memorable experience.\nYes there is new cool things like attachments a few new weapons and more but going around looking for money is not something this game was made for. I feel it was made as a fast run and gun. Not a slow searching for x game. \nI think I may have expected a little bit to much so I could just be a me problem but still a good game.\n\n\nNow for what I think if you should get it or not \nGet it \nAlthough with a little bit lower expectations of what you may think from paw",
+      "date": 1699907887,
+      "review_helpful_count": 5,
+      "author_display_name": "hami798",
+      "author_alias": "hami798",
+      "developer_response": {
+        "body": "Well, let me share my thoughts on the money / attachment system. I wanted to provide some sort of easy challenge everyone can do to unlock the attachments. Especially with the remote grab, I felt it's a good compromise for players desperate in need for some sort of aim assist like a red dot. \n\nJust FYI, I'm working on additional mini missions to be added to the game though its lifecycle. Maybe down the road, I gonna earn the last star back :D",
+        "date": 1699972793
+      }
+    },
+    {
+      "id": "24077250078588766",
+      "score": 5,
+      "review_title": "Very Fun!",
+      "review_description": "I highly recommend this game as it is very fun. The story and gameplay is just a blast. It is the call of duty of cactus/bugs. You can even customize your weapons so make sure to collect all the money scattered around the map. You have plentiful amount of ammo to complete the levels as well (at least on normal mode). So what are you waiting for? Go pew pew the enemies soldier cactus!\n\nFor 25 % off\nput this in your browser - tbk(dot)wtf/i  - Replace the (dot) with a .",
+      "date": 1698974927,
+      "review_helpful_count": 3,
+      "author_display_name": "surgery18",
+      "author_alias": "surgery18",
+      "developer_response": null
+    },
+    {
+      "id": "363550573001667",
+      "score": 5,
+      "review_title": "Goated",
+      "review_description": "GGGGGGGGGGGOOOOOOOOOOAAAAAAAAAAATTTTTTTTTEEEEEEEEEEDDDDDDDDDD\n:)",
+      "date": 1699586090,
+      "review_helpful_count": 4,
+      "author_display_name": "MYS3R1ON",
+      "author_alias": "MYS3R1ON",
+      "developer_response": null
+    },
+    {
+      "id": "315373501410210",
+      "score": 1,
+      "review_title": "I want a refund",
+      "review_description": "I bought the game and now it’s not showing up in my library",
+      "date": 1700877780,
+      "review_helpful_count": 1,
+      "author_display_name": "KJhull",
+      "author_alias": "KJhull",
+      "developer_response": {
+        "body": "Sorry, there is nothing I can do about as a developer. This is Metas installer ;_; \nPlease reboot the Quest and check if it shows up or contact me on Discord or Email. I'm sure we can sort this out.",
+        "date": 1700898596
+      }
+    },
+    {
+      "id": "360214873566884",
+      "score": 5,
+      "review_title": "Funny Game",
+      "review_description": "Great game, very fun. Compelling story and the characters make you laugh a lot. Very exciting combat and the weapon feedback is very nice!",
+      "date": 1708019695,
+      "review_helpful_count": 0,
+      "author_display_name": "IseTM",
+      "author_alias": "IseTM",
+      "developer_response": null
+    },
+    {
+      "id": "350433907507486",
+      "score": 5,
+      "review_title": "⭐️⭐️⭐️⭐️⭐️",
+      "review_description": "I love this game only which it was longer if u don’t understand the plot you should play the other games (free) there is like 2 glitches but you have to look out of your way to find them.",
+      "date": 1699118397,
+      "review_helpful_count": 0,
+      "author_display_name": "Saint_Pesto",
+      "author_alias": "Saint_Pesto",
+      "developer_response": {
+        "body": "Want to share these glitches with me? I'd like to patch them unless they are really funny 🌵",
+        "date": 1699127528
+      }
+    },
+    {
+      "id": "347945624839885",
+      "score": 5,
+      "review_title": "🌵",
+      "review_description": "The best game ever",
+      "date": 1705031436,
+      "review_helpful_count": 1,
+      "author_display_name": "WhiteSoxFan27",
+      "author_alias": "WhiteSoxFan27",
+      "developer_response": null
+    },
+    {
+      "id": "344366418245832",
+      "score": 5,
+      "review_title": "A must buy",
+      "review_description": "My expectations weren't high for this game. I thought that there was no way it could be better than plants at war. Now that I have played ot, though, I know I was wrong. I haven't finished it yet, but unless the quality suddenly drops, this game gets a definite 5 stars. One of if not the best VR game.",
+      "date": 1699123415,
+      "review_helpful_count": 15,
+      "author_display_name": "Wirbelt",
+      "author_alias": "Wirbelt",
+      "developer_response": null
+    },
+    {
+      "id": "342621592059030",
+      "score": 5,
+      "review_title": "My favorite game",
+      "review_description": "This game is a massive upgrade from plants at war i have been playing for 2 weeks straight but there is one problem the minigun on the pilot level bugs out a lot other then that this is a 10/10 game if you are wondering if you should buy this it is very worth it I recommend this to every vr player that likes gun/war games",
+      "date": 1704498544,
+      "review_helpful_count": 6,
+      "author_display_name": "Ilikejojo",
+      "author_alias": "Ilikejojo",
+      "developer_response": {
+        "body": "I'll take another look on the minigun for the next patch, which will add another bigger mini mission to the game too. Stay tuned 🌵",
+        "date": 1704527582
+      }
+    },
+    {
+      "id": "336055022710976",
+      "score": 5,
+      "review_title": "A very good game",
+      "review_description": "I was very excited to play this game and even recommend Cactus Cowboy Plants at War! This was the beginning that make me happy and excited to this game!",
+      "date": 1703530137,
+      "review_helpful_count": 0,
+      "author_display_name": "jez.12345",
+      "author_alias": "jez.12345",
+      "developer_response": null
+    },
+    {
+      "id": "333420339660578",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Great game. Pls add sandbox",
+      "date": 1705667604,
+      "review_helpful_count": 0,
+      "author_display_name": "twisteddom",
+      "author_alias": "twisteddom",
+      "developer_response": null
+    },
+    {
+      "id": "325502190189410",
+      "score": 5,
+      "review_title": "A must buy",
+      "review_description": "Absolutely amazing gun handling, funny dialogue, unique art style, great campaign. Only thing that caught me off guard was the AI voices but it didn’t ruin the experience for me",
+      "date": 1699718415,
+      "review_helpful_count": 0,
+      "author_display_name": "EmptyIsHome",
+      "author_alias": "EmptyIsHome",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T07:43:38Z"
+}
