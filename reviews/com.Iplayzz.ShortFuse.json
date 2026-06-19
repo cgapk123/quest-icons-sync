@@ -1,0 +1,42 @@
+{
+  "app_id": "33733965806247341",
+  "package_name": "com.Iplayzz.ShortFuse",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Short Fuse",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "934327412882665",
+      "score": 5,
+      "review_title": "Peak",
+      "review_description": "Its just peak.",
+      "date": 1771641977,
+      "review_helpful_count": 1,
+      "author_display_name": "pumpyvr",
+      "author_alias": "pumpyvr",
+      "developer_response": null
+    },
+    {
+      "id": "1070702172774584",
+      "score": 5,
+      "review_title": "Good game, needs more players",
+      "review_description": "Very good",
+      "date": 1771615324,
+      "review_helpful_count": 1,
+      "author_display_name": "Benas_pancakes",
+      "author_alias": "Benas_pancakes",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:08:05Z"
+}
