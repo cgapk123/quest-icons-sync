@@ -1,0 +1,120 @@
+{
+  "app_id": "1277243192403413",
+  "package_name": "br.com.tapps.sunkengearvr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Sunken",
+  "rating_average": 3.7058823529412,
+  "rating_count": 17,
+  "review_count": 17,
+  "reviews": [
+    {
+      "id": "4250946591695668",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Sucks",
+      "date": 1667179405,
+      "review_helpful_count": 0,
+      "author_display_name": "kerry.lindberg",
+      "author_alias": "kerry.lindberg",
+      "developer_response": null
+    },
+    {
+      "id": "1986482178306588",
+      "score": 1,
+      "review_title": "Keeps requesting an update",
+      "review_description": "I have a S8 with the new gearvr and each time I start the game if fails with errortext: an update of Oculus required. My Oculus program is the newest. Can anyone help me please?",
+      "date": 1509314471,
+      "review_helpful_count": 0,
+      "author_display_name": "azsaf01",
+      "author_alias": "azsaf01",
+      "developer_response": {
+        "body": "Hi! It seems a few people are having this problem, and looks like it's not related to any game in particular. We found this problem ourselves in one of our devices. Uninstalling the Oculus app and reinstalling it (by connecting it to the Gear VR) solved the problem for us. Let us know if it solves it for you!",
+        "date": 1509453686
+      }
+    },
+    {
+      "id": "1880503325310956",
+      "score": 5,
+      "review_title": "",
+      "review_description": "More levels please and remove objects when found. But love it so far.",
+      "date": 1507305437,
+      "review_helpful_count": 7,
+      "author_display_name": "StuTheBlueUK",
+      "author_alias": "StuTheBlueUK",
+      "developer_response": {
+        "body": "Hi, stutheblue! Good to know you're enjoying your time underwater, and thank you for your suggestions! We'll cetainly look into it. Happy diving!",
+        "date": 1507337559
+      }
+    },
+    {
+      "id": "1746948662048776",
+      "score": 4,
+      "review_title": "Great elements, doesn't go anywhere",
+      "review_description": "The graphics and immersion are solid, and I was intrigued by story line and eerie atmosphere. Until I realized that the story never completes and most of the gameplay is repetitively finding the same objects faster and faster. A few more levels and a cool completion of the story would make it a solid buy. Its still worth a play, but once you hit Day 3 don't bother killing yourself to achieve all targets.",
+      "date": 1529889022,
+      "review_helpful_count": 5,
+      "author_display_name": "TecmoBowlTed",
+      "author_alias": "TecmoBowlTed",
+      "developer_response": null
+    },
+    {
+      "id": "1523000031187653",
+      "score": 4,
+      "review_title": "Nice graphics and atmosphere",
+      "review_description": "Nice little hidden object game! I wish there was a story and more levels. For a casual game though is more than enough !!! I wait for a more Colette game from the developers !",
+      "date": 1579640486,
+      "review_helpful_count": 5,
+      "author_display_name": "savvito",
+      "author_alias": "savvito",
+      "developer_response": null
+    },
+    {
+      "id": "1314643945325088",
+      "score": 3,
+      "review_title": "",
+      "review_description": "Needs full Gear VR Controller use for the controls, you still have to use head set to pick up objects, also objects picked up needs to disappear and moving around without teleportation would be much better. I give three stars for graphics.",
+      "date": 1507590752,
+      "review_helpful_count": 3,
+      "author_display_name": "Axelheavy",
+      "author_alias": "Axelheavy",
+      "developer_response": {
+        "body": "Hi, Axelheavy! We've added Gear VR controller in our latest update. Try it out!",
+        "date": 1529461328
+      }
+    },
+    {
+      "id": "279898595849835",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Pretty fun. It is quite immersive, and controls are easy to use.wish it had more levels, though.",
+      "date": 1507582493,
+      "review_helpful_count": 5,
+      "author_display_name": "stgbr",
+      "author_alias": "stgbr",
+      "developer_response": {
+        "body": "Hi stgbr! We're really happy you're having fun! We're looking into how feasible it is to add new levels on our budget, but reviews like yours certainly pushes us in that direction! :)",
+        "date": 1507585893
+      }
+    },
+    {
+      "id": "180220352543838",
+      "score": 2,
+      "review_title": "Where's the treasure?",
+      "review_description": "I completed all three levels with 100% and expected something upon completion but there was nothing. No treasure, no congratulations, no wait for more levels, nothing. Am I missing something?",
+      "date": 1507946486,
+      "review_helpful_count": 0,
+      "author_display_name": "larry.evans.332345",
+      "author_alias": "larry.evans.332345",
+      "developer_response": null
+    }
+  ],
+  "total": 8,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:40:37Z"
+}

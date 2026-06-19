@@ -1,0 +1,42 @@
+{
+  "app_id": "1262864070467421",
+  "package_name": "be.reed.vrsessionsoculus",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "VR Sessions",
+  "rating_average": 2.5714285714286,
+  "rating_count": 7,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "2140490612758540",
+      "score": 2,
+      "review_title": "Selector is present...",
+      "review_description": "...but nothing downloads.",
+      "date": 1632671695,
+      "review_helpful_count": 2,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "884424825048608",
+      "score": 3,
+      "review_title": "Interesting, but 2D only",
+      "review_description": "It's an interesting library of music sessions. Interface is alright. Though I couldn't find something to my taste, the real problem is the lack of 3D. Not even close to the immersion of watching a concert in NextVR.",
+      "date": 1499623079,
+      "review_helpful_count": 4,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:39:28Z"
+}

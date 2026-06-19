@@ -1,0 +1,64 @@
+{
+  "app_id": "1098775390181788",
+  "package_name": "au.com.traffik.ebayvr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "eBay VR Department Store",
+  "rating_average": 1.8,
+  "rating_count": 5,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "1555279604493797",
+      "score": 3,
+      "review_title": "Cant get past title",
+      "review_description": "Hepp i cant get past the item initial item selecting scene",
+      "date": 1491488720,
+      "review_helpful_count": 0,
+      "author_display_name": "jacky_yo",
+      "author_alias": "jacky_yo",
+      "developer_response": null
+    },
+    {
+      "id": "1366473946801651",
+      "score": 3,
+      "review_title": "Fancy but impractical",
+      "review_description": "Needs a search function. Choices are limited and you can't filter by brand, subcategories etc. Nice concept, but needs improvement.",
+      "date": 1501288454,
+      "review_helpful_count": 0,
+      "author_display_name": "lamington",
+      "author_alias": "lamington",
+      "developer_response": null
+    },
+    {
+      "id": "426856324561311",
+      "score": 1,
+      "review_title": "Network error!",
+      "review_description": "I can't get past the category selection screen and it displays a error.",
+      "date": 1559817903,
+      "review_helpful_count": 4,
+      "author_display_name": "selective2942",
+      "author_alias": "selective2942",
+      "developer_response": null
+    },
+    {
+      "id": "333625590578720",
+      "score": 1,
+      "review_title": "Doesn’t work on oculus go",
+      "review_description": "This app doesn’t work on oculus go",
+      "date": 1549061469,
+      "review_helpful_count": 2,
+      "author_display_name": "AnnoyingRainsGames",
+      "author_alias": "AnnoyingRainsGames",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:38:52Z"
+}

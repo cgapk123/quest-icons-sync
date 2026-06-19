@@ -1,0 +1,42 @@
+{
+  "app_id": "5674364979242113",
+  "package_name": "be.but.poa.brandblussen",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Fire Extinguishing Training",
+  "rating_average": 3.75,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "128777752914905",
+      "score": 4,
+      "review_title": "Looks good",
+      "review_description": "I was not able to test it because it is not in English but my first impression is that it looks well made",
+      "date": 1637709068,
+      "review_helpful_count": 3,
+      "author_display_name": "yes4me",
+      "author_alias": "yes4me",
+      "developer_response": null
+    },
+    {
+      "id": "515278718337299",
+      "score": 2,
+      "review_title": "No english",
+      "review_description": "Tell me why though, seriously.",
+      "date": 1735510765,
+      "review_helpful_count": 0,
+      "author_display_name": "Kassmann0743",
+      "author_alias": "Kassmann0743",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:39:20Z"
+}

@@ -1,0 +1,81 @@
+{
+  "app_id": "27427290856919208",
+  "package_name": "app.claybox.quest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "🪨 ClayBox",
+  "rating_average": 4.2857142857143,
+  "rating_count": 7,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "825210980683769",
+      "score": 5,
+      "review_title": "SO cool!",
+      "review_description": "When i was playing the game it was so fun that i want to keep the game forever!",
+      "date": 1763226951,
+      "review_helpful_count": 2,
+      "author_display_name": "Aadya",
+      "author_alias": "Aadya",
+      "developer_response": null
+    },
+    {
+      "id": "8477037695679467",
+      "score": 4,
+      "review_title": "Not bad for beginning 👍",
+      "review_description": "As the brush size increases, the changes on the clay appear more slowly. For smoother changes, just reduce the brush size. \nI would like a symmetry function. if I understand correctly, this is the first digital clay app for Quest3 that does not require a computer connection? \nPlease change the add, delete and smooth icons - they are not entirely clear now. And, if possible, add more forms for default clay, few human forms, a cube, a sphere.",
+      "date": 1732374305,
+      "review_helpful_count": 6,
+      "author_display_name": "yans",
+      "author_alias": "yans",
+      "developer_response": {
+        "body": "Hello yans, thank you so much for the feedback. This is very valuable. Happy to let you know, that we have updated the app and integrated many of your requests: New brushes, new templates, the symmetry function (in the settings section), undo / redo, extended saving functionality, a paintbrush tool for coloring the clay and a new sharing feature that lets you create a static 3D model for sharing with family and friends. We would love to hear your feedback on the new version.",
+        "date": 1735243605
+      }
+    },
+    {
+      "id": "3949698695265899",
+      "score": 2,
+      "review_title": "Basic functionality. Needs more.",
+      "review_description": "Proof-of-concept sculpting app. Saving and loading for only one sculpt. Not much you can do. Currently has less features than Sculptvr, and Sculptvr hasn't seen new updates in a while.",
+      "date": 1735158834,
+      "review_helpful_count": 4,
+      "author_display_name": "mc4539",
+      "author_alias": "mc4539",
+      "developer_response": {
+        "body": "Hello mc4539, Thank you for the review and the early testing. We have taken the feedback of our early testers into account and released a new version. The latest updates includes many improvements along with new features. Infinite saving slots, new starter templates, new tools, a paint brush, a symmetry function and a sharing function of what you have created. We would love to hear your feedback on the new version.",
+        "date": 1735243793
+      }
+    },
+    {
+      "id": "541559415463550",
+      "score": 5,
+      "review_title": "Relaxing and Mesmerizing...",
+      "review_description": "ClayBox is the perfect blend of creativity and relaxation. From the moment I started sculpting with the digital clay, I felt an immediate sense of calm. The mixed reality environment is a fantastic idea. I can use my real world objects on my table to get started,  making it feel as though I'm actually working with \"real clay\". The set of brushes is versatile, and the volumetric clay technology is just fantastic—it really captures the essence of traditional sculpting.\n\nWhether I want to create something detailed or just play around for fun, ClayBox makes the process effortless and enjoyable. It's not only a creative outlet but also a way to unwind after a busy day. I highly recommend it to anyone looking for a relaxing and satisfying experience. It keeps me entertained for hours and leaves me feeling inspired every time!",
+      "date": 1731771906,
+      "review_helpful_count": 4,
+      "author_display_name": "The-XR-Guy",
+      "author_alias": "The-XR-Guy",
+      "developer_response": null
+    },
+    {
+      "id": "1119967939870997",
+      "score": 4,
+      "review_title": "Fun and relaxing",
+      "review_description": "Great app. If You like creating snow figures You will love this. Just one thing that really breaks the fun is that app does not remember where You left the sculpture after You remove the headset. So if for example You create something on the floor or wall and want to show it to someone else it gets repositioned after another person put on the headset. Hope it could be fixed.",
+      "date": 1740058773,
+      "review_helpful_count": 0,
+      "author_display_name": "yasanori",
+      "author_alias": "yasanori",
+      "developer_response": null
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:37:20Z"
+}

@@ -1,0 +1,128 @@
+{
+  "app_id": "637999199658181",
+  "package_name": "br.com.tapps.agenthawk",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Agent Hawk",
+  "rating_average": 3.3333333333333,
+  "rating_count": 21,
+  "review_count": 21,
+  "reviews": [
+    {
+      "id": "2646480312089571",
+      "score": 3,
+      "review_title": "Feels like early days",
+      "review_description": "I like traditional 2D hidden object games. But this game feels like the early days of 3D when we changed from Doom to Quake. The 3Dness of Quake was awesome but the quality and art was crap compared to Doom. So it's a fundamentally different game. Feels like the same situation here. Hated replaying the same level over and over (amount of content problem) also scale and and quality of objects was just weird. Needs more evolution but I can imagine this will be a great type of game in the future.",
+      "date": 1558456431,
+      "review_helpful_count": 3,
+      "author_display_name": "Bretspot",
+      "author_alias": "Bretspot",
+      "developer_response": null
+    },
+    {
+      "id": "1444877292225399",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "This game is awesome. I wish it had more levels.",
+      "date": 1495986990,
+      "review_helpful_count": 1,
+      "author_display_name": "Youarefired101",
+      "author_alias": "Youarefired101",
+      "developer_response": {
+        "body": "Thank you, Josh! We're really glad you are enjoying the game!",
+        "date": 1496088062
+      }
+    },
+    {
+      "id": "1405084426272080",
+      "score": 5,
+      "review_title": "Cool",
+      "review_description": "Really cool exploring these places.  Very  detailed.",
+      "date": 1499789019,
+      "review_helpful_count": 0,
+      "author_display_name": "Marcati",
+      "author_alias": "Marcati",
+      "developer_response": null
+    },
+    {
+      "id": "328198968230495",
+      "score": 3,
+      "review_title": "3 1/2 stars",
+      "review_description": "It’s descent for the price. Thumbs up.",
+      "date": 1597549611,
+      "review_helpful_count": 2,
+      "author_display_name": "Boom_Shocka_Locka",
+      "author_alias": "Boom_Shocka_Locka",
+      "developer_response": null
+    },
+    {
+      "id": "263867258073382",
+      "score": 4,
+      "review_title": "Relaxing",
+      "review_description": "I absolutely love Hidden Object games and have hundreds of HOGs on my PC.  I've enjoyed playing this one in VR although I just can't find that Jolly Roger item anywhere - thought it was the flag on the book, but nope!  Would love more scenes to be added in the future.",
+      "date": 1588724932,
+      "review_helpful_count": 2,
+      "author_display_name": "shreksma",
+      "author_alias": "shreksma",
+      "developer_response": null
+    },
+    {
+      "id": "187055986552351",
+      "score": 4,
+      "review_title": "Great for the price! A little repetitive",
+      "review_description": "A very well made hidden objects game with teleporting as movement. Opening cabinets and drawers feels so good in VR, very pleasing! \nThe fact that the objects' locations are not randomized takes away a bit though, e.g. because empty locations stay empty. Given the 3 levels you have to search over and over, it gets a bit boring the more you memorize. Still, the combo counter keeps you interested, so it's very well worth its price.",
+      "date": 1617454313,
+      "review_helpful_count": 2,
+      "author_display_name": "Julesologe",
+      "author_alias": "Julesologe",
+      "developer_response": null
+    },
+    {
+      "id": "160812251128402",
+      "score": 1,
+      "review_title": "Froze before I could even install it!",
+      "review_description": "Won't even install. Tried force stopping Oculus app and completely restarting phone. No luck. Looks like a fun game though.",
+      "date": 1498625464,
+      "review_helpful_count": 3,
+      "author_display_name": "Z._.Coffey",
+      "author_alias": "Z._.Coffey",
+      "developer_response": {
+        "body": "Hello, JkydZak.\nWe may have found the cause of the issue. If you already had the game The Lighthouse installed, this may be causing a problem with your Agent Hawk installation. We've just released an update for The Lighthouse that fixes the issue. If this is not the case, please let us know. Thank you!",
+        "date": 1505503861
+      }
+    },
+    {
+      "id": "138218644050680",
+      "score": 1,
+      "review_title": "Won’t Start",
+      "review_description": "Just like other reviewers, I too cannot play the game because its not registering the controller. I see the home start page with a long 3D line pointing at me (which I am assuming is the controller) but it does nothing. I’m really bummed because it looks like a fun game. It has to be an issue with the game and not everyone’s device.",
+      "date": 1564890603,
+      "review_helpful_count": 5,
+      "author_display_name": "artist007",
+      "author_alias": "artist007",
+      "developer_response": null
+    },
+    {
+      "id": "111616296664886",
+      "score": 1,
+      "review_title": "Stuck on title screen",
+      "review_description": "It only stays on the home screen like it's stuck. I can't do anything. I was really looking forward to playing. Please fix.",
+      "date": 1552073294,
+      "review_helpful_count": 2,
+      "author_display_name": "MissA0809",
+      "author_alias": "MissA0809",
+      "developer_response": {
+        "body": "Hello, Are you still having this issue? We've looked into it and discussed the issue with Oculus and it seems the problem might be in your device. Might I suggest you try a factory reset? Please let us know if it doesn't help at tapps-vr@tapps.com.br. Thank you!",
+        "date": 1553540078
+      }
+    }
+  ],
+  "total": 9,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:40:25Z"
+}

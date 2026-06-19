@@ -1,0 +1,59 @@
+{
+  "app_id": "5693862130712344",
+  "package_name": "at.amapps.arrowmaster",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Spear Master",
+  "rating_average": 3.5,
+  "rating_count": 4,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1844806482566391",
+      "score": 3,
+      "review_title": "Decent game for an alpha or beta version",
+      "review_description": "Graphics and skill challenges are enjoyable. Despite being able to progress through several levels today, I never figured out what throwing motion to use in order to get consistent results, so a brief tutorial or at least an introductory diagram illustrating the correct throwing motion would be useful. Also, I didn't see a way to pause the game for future resumption or how to return to the home menu. Also, a leader board would be welcome. I think this has potential to become a 4-star game after further coding.",
+      "date": 1677600938,
+      "review_helpful_count": 1,
+      "author_display_name": "therealrick",
+      "author_alias": "therealrick",
+      "developer_response": {
+        "body": "Thank you for your feedback and suggestions!\n\nRegarding the ability to return to the home menu, please press and hold the menu button on the left controller you will see two buttons appear on the left wrist. We understand the importance of these features and will add a more visible option for pausing the game and returning to the home menu to make it more accessible to all players.\n\nLastly, we appreciate your suggestion for a leaderboard and will consider adding this feature to the game.\n\nThank you for playing and providing valuable feedback. We are always looking for ways to improve the game and provide a better gaming experience for our users.",
+        "date": 1677620333
+      }
+    },
+    {
+      "id": "596032625715444",
+      "score": 5,
+      "review_title": "Top!",
+      "review_description": "Really cool game!! 👍🏼👍🏼👍🏼",
+      "date": 1677955641,
+      "review_helpful_count": 1,
+      "author_display_name": "TMJ7",
+      "author_alias": "TMJ7",
+      "developer_response": {
+        "body": "Many thanks",
+        "date": 1678226332
+      }
+    },
+    {
+      "id": "225935586812646",
+      "score": 1,
+      "review_title": "Upside-down",
+      "review_description": "Went to play first time, and it was Upside-down.",
+      "date": 1683747300,
+      "review_helpful_count": 0,
+      "author_display_name": "mccoymjed1",
+      "author_alias": "mccoymjed1",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:38:19Z"
+}

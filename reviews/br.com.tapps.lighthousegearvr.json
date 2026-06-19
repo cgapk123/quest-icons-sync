@@ -1,0 +1,56 @@
+{
+  "app_id": "1170319423083270",
+  "package_name": "br.com.tapps.lighthousegearvr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "The Lighthouse",
+  "rating_average": 3,
+  "rating_count": 4,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1939392576332799",
+      "score": 3,
+      "review_title": "",
+      "review_description": "It is okay. Played it for maybe 30 min then got bored.",
+      "date": 1504879614,
+      "review_helpful_count": 1,
+      "author_display_name": "S-h-a-w-n",
+      "author_alias": "S-h-a-w-n",
+      "developer_response": null
+    },
+    {
+      "id": "1457564737690715",
+      "score": 5,
+      "review_title": "Atmospheric",
+      "review_description": "Great atmosphere! Pretty cool!",
+      "date": 1504219488,
+      "review_helpful_count": 0,
+      "author_display_name": "Marcati",
+      "author_alias": "Marcati",
+      "developer_response": null
+    },
+    {
+      "id": "782578108587772",
+      "score": 1,
+      "review_title": "Won't install on my S8",
+      "review_description": "Get installation failure error message. Several attempts, reboots included.ok",
+      "date": 1504547462,
+      "review_helpful_count": 1,
+      "author_display_name": "Molokan",
+      "author_alias": "Molokan",
+      "developer_response": {
+        "body": "Hello, Kcovert! We've just released an update that fixes the issue. Please try again and let us know if there's any problem. You can contact us at tapps-vr@tapps.com.br. Have fun!",
+        "date": 1505502258
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:40:33Z"
+}

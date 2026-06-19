@@ -1,0 +1,67 @@
+{
+  "app_id": "25148973151401467",
+  "package_name": "as.may.moat",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "The Museum of All Things",
+  "rating_average": 4.6666666666667,
+  "rating_count": 6,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1454808625581522",
+      "score": 5,
+      "review_title": "Brilliant!",
+      "review_description": "It's a 3D browser for Wikipedia that renders it into an infinite museum. Kind of like a cross between Wikipedia and the Backrooms.\n\nSome features which could be fun:\n\nUi could use some improvement but it's a good start.\n\nI'd love to see some timed challenges... How fast can you find your way from one gallery to another? You could even make this multiplayer. Or even do painting searches where the player has to find an item. There's lots of potential.\n\nReally glad to have this app and grateful to the dev for making it!",
+      "date": 1762812962,
+      "review_helpful_count": 0,
+      "author_display_name": "hargisss",
+      "author_alias": "hargisss",
+      "developer_response": null
+    },
+    {
+      "id": "726624563790003",
+      "score": 4,
+      "review_title": "nice... but !!",
+      "review_description": "I discovered this morning this app : really interesting !!\nBut, for the moment, a big problem : we can get lost in this giant Museum !!! :D\nThe problem is we can't really choose where we want to go : i get lost in one of the numerous rooms, and wasn't able to get back or go in the \"science\" part, for example...\nA really good idea would be to be able to choose where i want go, with a clickable plan for example..?\n\nAnd other languages would be really nice.\nEDIT this last line : it seems that french is already inplemented ?? I'll look another time, because i didn't find it in the options...\n\nGreat work indeed !",
+      "date": 1763721706,
+      "review_helpful_count": 0,
+      "author_display_name": "Quest2.12200",
+      "author_alias": "Quest2.12200",
+      "developer_response": {
+        "body": "Thanks!\n\nThe language selector is on the pause menu (right below the \"Settings\" button), but it's only visible when you are in the lobby. Once you've entered an exhibit, you can't change the language until you return to the lobby again. (There's also a button in the pause menu to return to the lobby.)\n\nBTW, in the back of the lobby there is a computer that let's you search for an article and go directly there. So, if you ever get lost, you can return to the lobby and use the computer!",
+        "date": 1763744227
+      }
+    },
+    {
+      "id": "915497318306735",
+      "score": 4,
+      "review_title": "Great museum concept",
+      "review_description": "I wish there were more apps like this, aimed at learning. As for the app, I prefer manual movement not teleport, which I found a bit difficult initially until I changed the settings for controls. Most amazing thing is that the project is open source.",
+      "date": 1763756602,
+      "review_helpful_count": 0,
+      "author_display_name": "vr.brille.390150",
+      "author_alias": "vr.brille.390150",
+      "developer_response": null
+    },
+    {
+      "id": "804436715716979",
+      "score": 5,
+      "review_title": "The Ultimate Wikipedia Rabbit Hole",
+      "review_description": "Very fun to explore, you can literally walk endlessly through connected exhibits!",
+      "date": 1762441452,
+      "review_helpful_count": 0,
+      "author_display_name": "DLLogan",
+      "author_alias": "DLLogan",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:38:02Z"
+}
