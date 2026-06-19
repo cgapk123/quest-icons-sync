@@ -1,0 +1,42 @@
+{
+  "app_id": "25365312236475579",
+  "package_name": "com.OpiummTag",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Opiumm",
+  "rating_average": 5,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1136638652855488",
+      "score": 5,
+      "review_title": "goood",
+      "review_description": "goooood",
+      "date": 1774900200,
+      "review_helpful_count": 4,
+      "author_display_name": "Mel.the.mom",
+      "author_alias": "Mel.the.mom",
+      "developer_response": null
+    },
+    {
+      "id": "944919208259493",
+      "score": 5,
+      "review_title": "👻",
+      "review_description": "Very good game",
+      "date": 1775339602,
+      "review_helpful_count": 0,
+      "author_display_name": "BBB.stranger",
+      "author_alias": "BBB.stranger",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T13:56:33Z"
+}
