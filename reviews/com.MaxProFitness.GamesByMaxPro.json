@@ -1,0 +1,42 @@
+{
+  "app_id": "9569795409698294",
+  "package_name": "com.MaxProFitness.GamesByMaxPro",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Games By MaxPro",
+  "rating_average": 1,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1140407949148661",
+      "score": 1,
+      "review_title": "Does not work",
+      "review_description": "Does anyone know when this will be functional ?",
+      "date": 1774922141,
+      "review_helpful_count": 0,
+      "author_display_name": "Todd1920",
+      "author_alias": "Todd1920",
+      "developer_response": null
+    },
+    {
+      "id": "2945852415583029",
+      "score": 1,
+      "review_title": "Doesn't work",
+      "review_description": "Upon launching, the app takes you to a log-in screen.  Although there are are icons to log in via Google or Facebook, neither does anything when you click on them.  There is no way to set up an account within the app.  I established an account of the MaxPro website, however that still doesn't allow me to log into the app.  You literally cannot get into any \"game\" at all.  Why Meta has allowed this on their store is beyond me.",
+      "date": 1741310898,
+      "review_helpful_count": 12,
+      "author_display_name": "TheForbinProject",
+      "author_alias": "TheForbinProject",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:12:13Z"
+}

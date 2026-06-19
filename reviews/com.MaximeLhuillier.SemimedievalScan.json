@@ -1,0 +1,59 @@
+{
+  "app_id": "5781980855168348",
+  "package_name": "com.MaximeLhuillier.SemimedievalScan",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "3D scan of a semi-medieval town",
+  "rating_average": 3,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "927944287064991",
+      "score": 5,
+      "review_title": "Love the idea.",
+      "review_description": "Just found this. Excited to try it out.",
+      "date": 1765523581,
+      "review_helpful_count": 0,
+      "author_display_name": "Vrdave420",
+      "author_alias": "Vrdave420",
+      "developer_response": null
+    },
+    {
+      "id": "1344731983344865",
+      "score": 1,
+      "review_title": "It's not in 3D",
+      "review_description": "Ignore the fact that the geometry is terrible (still impressive for something that came from a video). This app DOES NOT DISPLAY IN STEREOSCOPIC 3D. Yes, the model is 3D, but the image gets mapped to a sphere around you (like Google Street View) and then every eye gets the same image. You can walk around, but it doesn't feel immersive at all and you get dizzy very easily.\nWhy have a VR app with 3D models that does not get displayed in 3D?",
+      "date": 1743715194,
+      "review_helpful_count": 1,
+      "author_display_name": "mecartistronico",
+      "author_alias": "mecartistronico",
+      "developer_response": {
+        "body": "Use PC-VR version instead of standalone version for stereoscopic display.\n\nIf you want stereoscopic display for this large 3D model, you must use your Quest 1/2/3 with a PC: the PC renders the large model and the Quest just shows the result.\nIf the Quest renders itself, the fps is below a threshold (60fps) with stereoscopic display and the submission of the app is rejected by the Oculus Store.\nAlthough a mesh simplification accelerates the rendering, it is not enough here (it is if model is small enough, eg \"3d scan of snowy town\").\n\nPC-VR versions are available from the web page of the app:\n(1) environment in the SteamVR workshop,\n(2) Window Mixed Reality version,\n(3) OpenVR/SteamVR version.\n\nThe version (1) is also available by searching 3d scan in the SteamVR workshop (in https://steamcommunity.com/app/250820/workshop/ ).\nIt is independent of the Windows version and the VR headset.\nThe versions (2-3) are not, but they may be easier to use.",
+        "date": 1744573599
+      }
+    },
+    {
+      "id": "2096277330563094",
+      "score": 3,
+      "review_title": "feels uncomfortable",
+      "review_description": "Headset movement is magnified, so that when you move your head 1 cm to your left, you would see it moving several times that to your left. This makes the vision disorienting/uncomfortable and almost no better than a flat display. Controller pointer's pointing angle is also magnified, making it unintuitive. Otherwise, this would be an enjoyable experience.",
+      "date": 1665906123,
+      "review_helpful_count": 2,
+      "author_display_name": "JimZM",
+      "author_alias": "JimZM",
+      "developer_response": {
+        "body": "Hi, today (2022/11/06) i re-check this app on the Quest and Quest 2 with up-to-date OS and don't see problem with the scale. I use this method to check the scale. The distance between grey cones (poses of the acquisition camera) and the ground surface is about 1m80. First stand up and adjust the height of your eye above the ground thanks to the right joystick (up and down) to see the grey cones at the good height (above or below you according to your size). Then move your head to the ground in the real scene and check that you do the same thing in the virtual scene (or use occlusion of the laser in the right hand instead of moving your head). Currently i'm not able to reproduce the problem.",
+        "date": 1667748972
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:12:57Z"
+}

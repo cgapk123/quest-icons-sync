@@ -1,0 +1,70 @@
+{
+  "app_id": "3699072013514904",
+  "package_name": "com.MeerkatGaming.SD_Quest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Special Delivery",
+  "rating_average": 4,
+  "rating_count": 8,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "371808267806596",
+      "score": 1,
+      "review_title": "Love the game but stopped working",
+      "review_description": "I really love this game and was getting very into it but then it stopped working. I uninstalled and reinstalled losing all my progress and it seemed like it worked for about a day. It either freezes/crashes at title scream or right before the actual game starts. Haven’t been able to play more than one run in like the last two weeks. If you can fix this I will give this game five stars and update this review",
+      "date": 1629499027,
+      "review_helpful_count": 8,
+      "author_display_name": "SpaciousOriface",
+      "author_alias": "SpaciousOriface",
+      "developer_response": null
+    },
+    {
+      "id": "2547453495563564",
+      "score": 3,
+      "review_title": "A good attempt at a classic arcade game",
+      "review_description": "As a fan of Paper Boy on all platforms, from the arcade to the Amiga, this game does a good job of trying to make the game play and feel like you are inside the game. It is a nostalgia trip for those who used to play it back in the day. However this is where the fun ends. Paper Boy was a notoriously difficult game to master, but it could be mastered through timing, knowing when to throw a paper and where to turn to avoid obstacles. This however is not translated into VR, when you throw a paper, it sails off in the direction you have thrown, but using real physics, which means the paper will usually skid across the ground not into the mail box. Even the classic game had some leeway with hitting the targeted mailbox or doorstep if thrown close to it, however this game does not offer this luxury. So on top of having to basically ride up to each mailbox to throw it in, you are also having to steer the bike, this is done with your 3d had on one handlebar, while the other is throwing and grabbing papers from the basket. This would be all well and good in a VR game, giving immersion of riding a bike, however the controls are janky, you can find yourself losing control of the bike while trying to aim and throw the paper, having the bike tail off to where you did not intend, or even have it not grab a paper from the basket without several attempts. This hit and miss control breaks the game, given that it is attempting to mimic the arcade style of a classic. Besides this, it is also prone to crashing to the oculus home between levels. I know this is v1.1, so obviously it needs more polish to sort out the bugs, but the control scheme and the paper throw also needs work. For a paid title I hope to see much improvements over the stability. That aside, it is a good attempt at a classic game.",
+      "date": 1618186268,
+      "review_helpful_count": 11,
+      "author_display_name": "Wraith2021",
+      "author_alias": "Wraith2021",
+      "developer_response": {
+        "body": "Thanks for your feedback!\n\nTo clarify on hitting the mailbox....that is not your only option to deliver a paper.  Alternatively, you can also throw your paper to the front porch area of each house for an easier delivery but lower score.  The score for a delivery to a mailbox has a distance multiplier, so the further away you are from the mailbox the higher score you'll get for the delivery.  So it's worth taking some time to get the feel of the controls to rack up a higher score!\n\nIf you're having some trouble controlling the bike you can adjust the sensitivity of the turning on the handlebars in the controls menu.  This not only helps with the controls itself but also your personal VR comfort level.\n\nWe're keeping an eye on crash reports to oculus and will be investigating and addressing them as they come in.  Thanks for giving us a heads up!",
+        "date": 1618233245
+      }
+    },
+    {
+      "id": "555811519175557",
+      "score": 5,
+      "review_title": "",
+      "review_description": "It's Paperboy in VR! How cool is that. Am I allowed to say paperboy? Is there copyright issue? Anyway Its basically exactly how i wanted it to be. \n\nI think it would be better to have the option to use the left joystick to steer, I've lost control several times and couldn't regain steering. Kinda awkward to hold out arm to steer anyway. Either way, thanks for this game developers. This should be on the oculus store, I wouldn't have even known about it had I not seen a post on an oculus quest FB group about it.",
+      "date": 1630101295,
+      "review_helpful_count": 10,
+      "author_display_name": "Scottand_KO2",
+      "author_alias": "Scottand_KO2",
+      "developer_response": null
+    },
+    {
+      "id": "206474251242411",
+      "score": 3,
+      "review_title": "Hmmm",
+      "review_description": "It’s a work in progress. The game fun, but there are somethings I don’t like about it. First sometimes cars are coming behind you and they give you almost no notice￼ and then they kill you.also they need to add more things. They need to add more detail to the sky and the houses. It also gliches me out of the game after about 20 min.",
+      "date": 1618430216,
+      "review_helpful_count": 3,
+      "author_display_name": "Yaxche108",
+      "author_alias": "Yaxche108",
+      "developer_response": {
+        "body": "Thanks for your feedback!  Our most recent update adds a couple new traps and events you might enjoy, one of which might come from above, so keep an eye out!  To best avoid the cars from behind try to stay on the opposite side of the road or the sidewalk as much as possible.  Good luck!",
+        "date": 1618787374
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:15:45Z"
+}

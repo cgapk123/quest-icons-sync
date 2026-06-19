@@ -1,0 +1,56 @@
+{
+  "app_id": "1677352505617211",
+  "package_name": "com.MaruVR.TallinnVideo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "TallinnVR",
+  "rating_average": 3,
+  "rating_count": 11,
+  "review_count": 11,
+  "reviews": [
+    {
+      "id": "1960051880734605",
+      "score": 1,
+      "review_title": "Cool but stupid no action",
+      "review_description": "Ok app for view try adding action",
+      "date": 1521659749,
+      "review_helpful_count": 7,
+      "author_display_name": "gopal.raja",
+      "author_alias": "gopal.raja",
+      "developer_response": null
+    },
+    {
+      "id": "1549554468489935",
+      "score": 2,
+      "review_title": "",
+      "review_description": "The video stuttering when moving the view is unbearable. The content is very short.",
+      "date": 1531069070,
+      "review_helpful_count": 1,
+      "author_display_name": "Astro565",
+      "author_alias": "Astro565",
+      "developer_response": {
+        "body": "Hi Astro565, we are sorry you had a bad experience!\nWe haven't been able to replicate any stuttering, please try to restart your device and try again. Have a nice day!",
+        "date": 1534499539
+      }
+    },
+    {
+      "id": "144591430240125",
+      "score": 4,
+      "review_title": "Clear Concept simply executed",
+      "review_description": "The tour delivers what it promises at the right price. I am very interested in what development platform was used to create it.",
+      "date": 1571163723,
+      "review_helpful_count": 3,
+      "author_display_name": "robert.hunt.5811",
+      "author_alias": "robert.hunt.5811",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:10:46Z"
+}

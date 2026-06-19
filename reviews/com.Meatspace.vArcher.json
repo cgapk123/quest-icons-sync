@@ -1,0 +1,34 @@
+{
+  "app_id": "9114809218605106",
+  "package_name": "com.Meatspace.vArcher",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "vArcher",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "804031119453247",
+      "score": 1,
+      "review_title": "No hands tracking !",
+      "review_description": "How can you imagine such a game without hands tracking? It's  ruining the whole simulation aspect, the position of the hands when shooting is absolutely not realistic when holding a controller...\n I hope that soon it will no longer be necessary to use the controllers. \nThen it would be much better if the bow parameters adjusted automatically according to the accessories chosen rather than the numbers to be adjusted. Archers are not mathematicians... for example, adjusting the power and speed of the arrow according to the branches mounted on the bow... \nGood start but far from convincing in the current state.\nIn the current state of the game, you clearly can't call it a \"simulator\".\nThere is the \"R\" of \"VR\" ? This game is a funny expérience but clearly not a simulator.",
+      "date": 1762041930,
+      "review_helpful_count": 0,
+      "author_display_name": "fabien.leymarie",
+      "author_alias": "fabien.leymarie",
+      "developer_response": {
+        "body": "Hand tracking becomes very unreliable when hands are close to the headset, which is always the case when drawing a bow.  This meant that hand tracking was not a viable option for this game, unfortunately.\n\nAs for the automatic bow parameters, there are no attachments which alter the power and speed of the arrow, there are only sights, stabilizers and other mounted accessories.  The only way to alter the actual arrow speed is by changing the weight of the arrow, or changing the limb weight and draw length (just as in real life) in the bow menu.  Im not sure what you mean by \"branches\".\n\nHope this helps!",
+        "date": 1758730070
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:13:55Z"
+}

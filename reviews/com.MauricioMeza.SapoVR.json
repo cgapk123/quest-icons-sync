@@ -1,0 +1,45 @@
+{
+  "app_id": "6644210445694229",
+  "package_name": "com.MauricioMeza.SapoVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "SAPO VR",
+  "rating_average": 4.8333333333333,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "890288693377971",
+      "score": 4,
+      "review_title": "Pretty cool",
+      "review_description": "Not bad. Not bad at all.",
+      "date": 1768429925,
+      "review_helpful_count": 0,
+      "author_display_name": "LordPower",
+      "author_alias": "LordPower",
+      "developer_response": {
+        "body": "Thanks for playing. If you have any recommendations to improve the experience, please let me know.",
+        "date": 1771803344
+      }
+    },
+    {
+      "id": "685299497890218",
+      "score": 5,
+      "review_title": "De la vida real a la realidad virtual",
+      "review_description": "Es un juego muy divertido, retador y muy bien ambientado. La música va muy bien con la temática y la interacción con el espacio es genial. Lo recomiendo a ojo cerrado para divertirse y disfrutar de un gran juego.",
+      "date": 1753893022,
+      "review_helpful_count": 1,
+      "author_display_name": "SebastianMR98",
+      "author_alias": "SebastianMR98",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:12:07Z"
+}

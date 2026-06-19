@@ -1,0 +1,42 @@
+{
+  "app_id": "1185857511278233",
+  "package_name": "com.MeckleBr0s.CompanyX",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Company X",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "984748570767132",
+      "score": 5,
+      "review_title": "Great job",
+      "review_description": "Even though he started on this game, it’s so good ￼",
+      "date": 1779645545,
+      "review_helpful_count": 1,
+      "author_display_name": "dextermorgan.tocool",
+      "author_alias": "dextermorgan.tocool",
+      "developer_response": null
+    },
+    {
+      "id": "1136580779539315",
+      "score": 5,
+      "review_title": "Very fun",
+      "review_description": "Very fun with or without friends",
+      "date": 1779742089,
+      "review_helpful_count": 0,
+      "author_display_name": "USE_CODE_BALLINVR",
+      "author_alias": "USE_CODE_BALLINVR",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:14:11Z"
+}

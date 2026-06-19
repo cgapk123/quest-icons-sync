@@ -1,0 +1,42 @@
+{
+  "app_id": "28321427544168036",
+  "package_name": "com.MarmosketV1Company.Marmosket",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Marmosket",
+  "rating_average": 5,
+  "rating_count": 8,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "669552812916288",
+      "score": 5,
+      "review_title": "Very good",
+      "review_description": "I need to know music they use",
+      "date": 1752206649,
+      "review_helpful_count": 0,
+      "author_display_name": "KingdomK",
+      "author_alias": "KingdomK",
+      "developer_response": null
+    },
+    {
+      "id": "748862194757469",
+      "score": 5,
+      "review_title": "Marmosket",
+      "review_description": "Pretty good game and cant wait for the revamp",
+      "date": 1752180659,
+      "review_helpful_count": 0,
+      "author_display_name": "Dreiton",
+      "author_alias": "Dreiton",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:10:08Z"
+}

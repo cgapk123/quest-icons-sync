@@ -1,0 +1,59 @@
+{
+  "app_id": "5080756015327836",
+  "package_name": "com.Marrsbiz.JigsawPuzzleVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Jigsaw Puzzle VR",
+  "rating_average": 3.8,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "189203260156356",
+      "score": 4,
+      "review_title": "Best 2D Jigsaw Puzzle App on Quest 2",
+      "review_description": "This of the best way to compete a 2D puzzle on Quest 2. Also it is the best way to compete a puzzle using any digital photo you want. There are literally no limits too piece count, but the system struggles after 300 and I wouldn't go beyond 400 or when you move your head the visual will stutter making for some uncomfortable movement. The only other 2D puzzle app limits to 200 pieces and only 2 pieces off the board at a time. So this game has really excelled in having up to 400 free floating physics objects at once. You can also adjust in game lighting, puzzle piece size, turn gravity on or off, and a few other options.\n\nThere are glitches, but they are more minor nuisances than anything else. I have not encountered anything game breaking. (Lost the Increase Piece Size Button, Pieces Flying about, Pieces Through Table, No Hand Stabilization, Subtle Random Height Adjustment, Jittery Pieces on Table, Pieces Bumping Pieces Sending Them Flying About, Piece Stuck To Table, Off Center Piece Grab, Piece Grab & Vanish.)\n\nA couple of things that are kind of odd: No music (ambient music is the norm in this genre) &  Snap Turn Only! (I hate snap turn!!!)\n\nDear creator Silas, please give us smooth turn and possibly the ability to move about the room. (Puzzling Places does a good job on movement, hold 2 buttons and pull your arms in whatever direction you wish even up or down). Also, the pieces hitting other pieces and pushing them around is highly highly highly annoying when they are all free floating. That is a horrible glitch! If you could do one thing turn that off! The only time the pieces should ever interact with anything in the room is when you connect them to other pieces or set them on the table. \n\nOverall, for $4.99 this is well worth the purchase if you like jigsaw puzzles. Just know it's not perfect, but nothing you encounter will prevent you from completing a puzzle. Despite the noted issues I greatly appreciate this app and the ability to that any image file into a puzzle. I did a 5\" panorama of the beach, one of my smaller paintings, and one of my pup! For me puzzles are peace, pure Zen time! So I really appreciate having this app so that I can use personal photos and art as well as some of my favorite famous art pieces as puzzles.\n\n~33 minute deep dive here: https://m.youtube.com/watch?v=BxKjLX-NUOE",
+      "date": 1662509149,
+      "review_helpful_count": 3,
+      "author_display_name": "TheMysticSaint",
+      "author_alias": "TheMysticSaint",
+      "developer_response": null
+    },
+    {
+      "id": "332146208337853",
+      "score": 2,
+      "review_title": "Has potential, needs work",
+      "review_description": "It has the potential to be a very nice puzzle game but it's not there yet.\nThe biggest problem currently is the handling and behaviour of the pieces. They and the puzzle itself have a tendency to fall through the table, get stuck to it, or just randomly start spinning in the air. The way the pieces are moved could be improved too, check out Puzzling Places and how it's done there.\nI love puzzles and would really want to love this one too, but currently I'm not able to spend more than maybe 10 minutes at a time with it, the spinning and awkwardness of the pieces is just too much. \nHopefully it gets improved and updated into its full potential. \nAs it is, I think it's not quite ready to be a paid app, or at least there should be a demo with perhaps a limited amount of puzzles and no option to add your own. That way people could decide whether or not they feel it's worth the price.",
+      "date": 1622351629,
+      "review_helpful_count": 6,
+      "author_display_name": "Andulacka",
+      "author_alias": "Andulacka",
+      "developer_response": {
+        "body": "Thanks for the review!\n  Two of the problems you describe sound like features that I intentionally put in.\n  The pieces are physics objects that interact with the environment.  If you have gravity turned off, they float, and if you hit them while they are floating, they move and spin.  If this happens, you can hit the button on the control panel and they will face you again.  Also, if you move the joystick for the controller you are holding a piece with, they will spin in the direction you push the stick, Could that be what you're experiencing?\n  When pieces are placed on the table, they automatically face upwards and stick where they are placed.  Once placed, they can't be moved except by picking them back up again.  This is only if placed- if simply dropped on the table, they continue to behave as physics objects.  One of my early play testers specifically requested this feature.\n  I'll see if I can reproduce the bug with pieces falling through the table, but I've been developing this game for three years, and I've never had it happen unless I grabbed a piece and pushed it through the table.  Of course, I usually assemble in mid-air, rather than on the table (my recommended way to play), so it's possible that I have just not been doing it enough.\n  I will happily check out the other game you mentioned and see if I agree that they've implemented piece handling better than I have..",
+        "date": 1624331462
+      }
+    },
+    {
+      "id": "3779733478821235",
+      "score": 5,
+      "review_title": "A relaxing way to assemble jigsaw puzzle",
+      "review_description": "Exactly what the title describes, assemble puzzles in VR",
+      "date": 1620151252,
+      "review_helpful_count": 6,
+      "author_display_name": "josiahdmarrs",
+      "author_alias": "josiahdmarrs",
+      "developer_response": {
+        "body": "Thank you!  I know it's not a glamorous game, but I did my best!",
+        "date": 1624330720
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:10:11Z"
+}

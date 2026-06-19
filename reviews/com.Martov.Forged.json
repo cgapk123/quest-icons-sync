@@ -1,0 +1,42 @@
+{
+  "app_id": "5653396314736804",
+  "package_name": "com.Martov.Forged",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Forged",
+  "rating_average": 3,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1791253664800131",
+      "score": 3,
+      "review_title": "It's decent",
+      "review_description": "Reminds me of League of Legends. it need graphics improvements and more environments to battle.",
+      "date": 1753317931,
+      "review_helpful_count": 0,
+      "author_display_name": "Aaronb3600",
+      "author_alias": "Aaronb3600",
+      "developer_response": null
+    },
+    {
+      "id": "24104228602494178",
+      "score": 5,
+      "review_title": "League of Legends VR",
+      "review_description": "Straight up addictive. This is the closest thing to LoL or Dota in VR except there’s pokeballs",
+      "date": 1746026869,
+      "review_helpful_count": 2,
+      "author_display_name": "Noah_Rayburn",
+      "author_alias": "Noah_Rayburn",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:10:36Z"
+}
