@@ -1,0 +1,45 @@
+{
+  "app_id": "24048180871497158",
+  "package_name": "com.DefaultCompany.WannaBeHero",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Wanna Be Hero",
+  "rating_average": 4.5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "824851296059357",
+      "score": 5,
+      "review_title": "This is a great buy!",
+      "review_description": "I grabbed this game because it looked cool and you can't beat the price! Boy, it is a lot packed in here and the dev plans to release more based on the \"coming soon\" level buttons.\n\nIt has a little bit of everything to keep you happy.  \n\nLove it!",
+      "date": 1702232879,
+      "review_helpful_count": 3,
+      "author_display_name": "BDJcurve",
+      "author_alias": "BDJcurve",
+      "developer_response": null
+    },
+    {
+      "id": "284280778109252",
+      "score": 4,
+      "review_title": "Decent",
+      "review_description": "It’s fun don’t get me wrong but I can’t find the key on the BIG TOOTHED farm hand . Love the story behind the game tho. If any one know where the key is on The second level please let me know",
+      "date": 1714233157,
+      "review_helpful_count": 2,
+      "author_display_name": "loc0_huh",
+      "author_alias": "loc0_huh",
+      "developer_response": {
+        "body": "Thank you for your review.  I'm glad you like the game.  The key is inside the shed with flowers around it.",
+        "date": 1714236187
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:01:40Z"
+}

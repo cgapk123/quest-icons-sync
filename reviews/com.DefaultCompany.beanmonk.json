@@ -1,0 +1,62 @@
+{
+  "app_id": "7989097317785539",
+  "package_name": "com.DefaultCompany.beanmonk",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Emperor Tamarin",
+  "rating_average": 5,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "421028580471264",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "This game was fun to play with all my friends",
+      "date": 1709922794,
+      "review_helpful_count": 1,
+      "author_display_name": "rowman55",
+      "author_alias": "rowman55",
+      "developer_response": {
+        "body": "Thanks!",
+        "date": 1709928472
+      }
+    },
+    {
+      "id": "393702530138366",
+      "score": 5,
+      "review_title": "Im a mod and thats cool",
+      "review_description": "Honestly the best game ever",
+      "date": 1710135230,
+      "review_helpful_count": 1,
+      "author_display_name": "wallmonk",
+      "author_alias": "wallmonk",
+      "developer_response": {
+        "body": "Lets goooo",
+        "date": 1710440617
+      }
+    },
+    {
+      "id": "241303269074582",
+      "score": 5,
+      "review_title": "Very cool game",
+      "review_description": "I met a guy in gorilla tag and he said that he was a co-owner of the game so I decided to download it and it was so cool👍 (btw what’s the discord server? And I’m in a beach map but there are images of forest idk how to get there)",
+      "date": 1711629984,
+      "review_helpful_count": 0,
+      "author_display_name": "Silver123",
+      "author_alias": "Silver123",
+      "developer_response": {
+        "body": "Sorry for replying late idk why there is a beach im adding the map back and sorry for the inconvenience",
+        "date": 1711832246
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:02:23Z"
+}

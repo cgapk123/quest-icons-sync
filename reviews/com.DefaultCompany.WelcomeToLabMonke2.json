@@ -1,0 +1,56 @@
+{
+  "app_id": "9715199851831432",
+  "package_name": "com.DefaultCompany.WelcomeToLabMonke2",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Lab Monke 2",
+  "rating_average": 2.4285714285714,
+  "rating_count": 7,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "277773904840110",
+      "score": 5,
+      "review_title": "Lab monkeys 2",
+      "review_description": "I’m the best mod this is the best game ever",
+      "date": 1687593119,
+      "review_helpful_count": 4,
+      "author_display_name": "PS0",
+      "author_alias": "PS0",
+      "developer_response": null
+    },
+    {
+      "id": "206503712255559",
+      "score": 2,
+      "review_title": "Terrible   Moderators",
+      "review_description": "Bad graphics too",
+      "date": 1685996394,
+      "review_helpful_count": 7,
+      "author_display_name": "iceboi.2022",
+      "author_alias": "iceboi.2022",
+      "developer_response": {
+        "body": "I'm 😔 sorry for this bad experience",
+        "date": 1686116722
+      }
+    },
+    {
+      "id": "630876265633374",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Great",
+      "date": 1686116497,
+      "review_helpful_count": 4,
+      "author_display_name": "Fishstick5334",
+      "author_alias": "Fishstick5334",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:01:45Z"
+}

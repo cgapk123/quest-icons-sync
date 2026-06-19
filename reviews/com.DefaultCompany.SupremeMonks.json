@@ -1,0 +1,42 @@
+{
+  "app_id": "7343970292386406",
+  "package_name": "com.DefaultCompany.SupremeMonks",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Supreme Monks",
+  "rating_average": 3.9166666666667,
+  "rating_count": 12,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "397808946562693",
+      "score": 5,
+      "review_title": "first review",
+      "review_description": "im moe :D",
+      "date": 1714943029,
+      "review_helpful_count": 3,
+      "author_display_name": "GTVR39APICKLE",
+      "author_alias": "GTVR39APICKLE",
+      "developer_response": null
+    },
+    {
+      "id": "292390220631450",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Just fix the mirror and it’s good.",
+      "date": 1715482535,
+      "review_helpful_count": 0,
+      "author_display_name": "normalmonker",
+      "author_alias": "normalmonker",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:58:55Z"
+}

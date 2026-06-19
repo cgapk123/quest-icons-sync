@@ -1,0 +1,42 @@
+{
+  "app_id": "8971399582936855",
+  "package_name": "com.DefaultCompany.SLEPPYAPES",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Sleepy Apes",
+  "rating_average": 4,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "653449533883223",
+      "score": 5,
+      "review_title": "Really fun game",
+      "review_description": "I met the owner of the game and he was so nice. There’s not a lot to do, but this game was so fun to play with my friends and I will be playing more of it",
+      "date": 1740176920,
+      "review_helpful_count": 2,
+      "author_display_name": "Amos41",
+      "author_alias": "Amos41",
+      "developer_response": null
+    },
+    {
+      "id": "634071979566518",
+      "score": 5,
+      "review_title": "",
+      "review_description": "It the best and it cool",
+      "date": 1739924323,
+      "review_helpful_count": 1,
+      "author_display_name": "Badmonkey67",
+      "author_alias": "Badmonkey67",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:57:12Z"
+}
