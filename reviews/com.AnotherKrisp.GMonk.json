@@ -1,0 +1,45 @@
+{
+  "app_id": "7721237601230207",
+  "package_name": "com.AnotherKrisp.GMonk",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Maccoons 2",
+  "rating_average": 4,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "332813456592547",
+      "score": 5,
+      "review_title": "How do I join a lobby",
+      "review_description": "When I play the game\nI’m invincible so",
+      "date": 1723150029,
+      "review_helpful_count": 1,
+      "author_display_name": "Jimmy_and_pluton_official",
+      "author_alias": "Jimmy_and_pluton_official",
+      "developer_response": null
+    },
+    {
+      "id": "277022625503750",
+      "score": 5,
+      "review_title": "Great Game Needs work",
+      "review_description": "I play this game the only thing it needs is a shop and different maps",
+      "date": 1717291905,
+      "review_helpful_count": 2,
+      "author_display_name": "jackvr01.2024",
+      "author_alias": "jackvr01.2024",
+      "developer_response": {
+        "body": "The shop isnt on my mind at the moment, im focusing more on gameplay at the moment.",
+        "date": 1717353317
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T06:06:13Z"
+}

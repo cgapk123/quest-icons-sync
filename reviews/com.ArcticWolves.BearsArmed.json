@@ -1,0 +1,45 @@
+{
+  "app_id": "9143214835709802",
+  "package_name": "com.ArcticWolves.BearsArmed",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "BEARLY ARMED",
+  "rating_average": 4.6,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "611490894742077",
+      "score": 3,
+      "review_title": "Fun and engaging, but glitchy!",
+      "review_description": "Fun game but, on the fire level 3 the bullets just bounce and never land. Even when you try to hit the restart 'target' the bullets just bounce off. Please fix, because it's hard to proceed. Otherwise, great game!",
+      "date": 1736134109,
+      "review_helpful_count": 3,
+      "author_display_name": "Cocopuff75",
+      "author_alias": "Cocopuff75",
+      "developer_response": {
+        "body": "This has now been resolved so please feel free to try again. Thanks for playing!",
+        "date": 1736419928
+      }
+    },
+    {
+      "id": "3564602767165582",
+      "score": 5,
+      "review_title": "So much fun!",
+      "review_description": "I wasn’t expecting much as this is early access but it is so much fun! Feels like it’s a finished game. I played for hours and I still haven’t finished it.",
+      "date": 1735637617,
+      "review_helpful_count": 0,
+      "author_display_name": "hankditank",
+      "author_alias": "hankditank",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T06:13:32Z"
+}
