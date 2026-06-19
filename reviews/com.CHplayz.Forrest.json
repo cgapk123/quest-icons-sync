@@ -1,0 +1,42 @@
+{
+  "app_id": "31422695450707188",
+  "package_name": "com.CHplayz.Forrest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Forrest",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "978118708714087",
+      "score": 5,
+      "review_title": "Cool game",
+      "review_description": "The game is so cool  I pooped",
+      "date": 1768780269,
+      "review_helpful_count": 3,
+      "author_display_name": "calebthemonk",
+      "author_alias": "calebthemonk",
+      "developer_response": null
+    },
+    {
+      "id": "920047251197294",
+      "score": 5,
+      "review_title": "Super good game",
+      "review_description": "This is the best game ever!!!",
+      "date": 1768793571,
+      "review_helpful_count": 1,
+      "author_display_name": "RocketBoyGTR",
+      "author_alias": "RocketBoyGTR",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:38:44Z"
+}

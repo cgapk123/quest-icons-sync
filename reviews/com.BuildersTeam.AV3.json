@@ -1,0 +1,45 @@
+{
+  "app_id": "7444030802342506",
+  "package_name": "com.BuildersTeam.AV3",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "AV3",
+  "rating_average": 5,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "518845077327516",
+      "score": 5,
+      "review_title": "Love the game I am an admin in it",
+      "review_description": "The game is really scary and fun",
+      "date": 1722397421,
+      "review_helpful_count": 1,
+      "author_display_name": "BenKup",
+      "author_alias": "BenKup",
+      "developer_response": null
+    },
+    {
+      "id": "7157146141051304",
+      "score": 5,
+      "review_title": "Awesome and scary",
+      "review_description": "I love the game, and it is even only the beta version! I can’t wait for the updates🤩",
+      "date": 1713033171,
+      "review_helpful_count": 2,
+      "author_display_name": "larserb",
+      "author_alias": "larserb",
+      "developer_response": {
+        "body": "Thank you for the feedback, larserb! Glad you enjoyed the beta version!",
+        "date": 1713033670
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:34:47Z"
+}
