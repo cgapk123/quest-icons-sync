@@ -1,0 +1,42 @@
+{
+  "app_id": "4335792166473090",
+  "package_name": "com.EelXR.BubblesBubbles",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Bubbles & More",
+  "rating_average": 3,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "142607101629323",
+      "score": 4,
+      "review_title": "Good",
+      "review_description": "Good",
+      "date": 1649992234,
+      "review_helpful_count": 0,
+      "author_display_name": "gooftmilk",
+      "author_alias": "gooftmilk",
+      "developer_response": null
+    },
+    {
+      "id": "115465604733133",
+      "score": 1,
+      "review_title": "Not for me",
+      "review_description": "So, you're supposed to stand there saying \"bubble.\"   Or \"blow.\"",
+      "date": 1670650417,
+      "review_helpful_count": 0,
+      "author_display_name": "amcdonagh1",
+      "author_alias": "amcdonagh1",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:29:21Z"
+}

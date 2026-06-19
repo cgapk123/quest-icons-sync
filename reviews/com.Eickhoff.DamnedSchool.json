@@ -1,0 +1,62 @@
+{
+  "app_id": "24779141495056762",
+  "package_name": "com.Eickhoff.DamnedSchool",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "DamnedSchool",
+  "rating_average": 4,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1517208183282547",
+      "score": 4,
+      "review_title": "Interesting so far",
+      "review_description": "So far I've only done the first bit in the school which was a nice intro to the world however, door handles are not attached to doors? I can push/pull most handles right through the doors. Character shadows appear out of nowhere as you  get closer and objects cast shadows through other objects. When entering areas sometimes the walls arent there and you see out into a grassy meadow. Walking speed is too slow and running doesn't seem much faster. But I do like this intro area just needs some fixes\n\nOk once you go down into the ruins things get interesting but I dont really understand the enemy placement in the opening area. And unfortunately the walking speed feels even worse in combat and the melee combat feels wonky. I ended up trying to use magic when I had it as its just easier and I never like magic user characters lol. The enemies and magic effects look nice tho. Ill probably wait for a patch or 2 before trying again but this is a good start\n\nEdit - ok after patch 2 most of my issues are fixed but theres still a few. So in the school, picking things up is still odd. Some objects like the chalk seem to be inside your hand on pickup while some float a foot from your hand. In the Mensa the fruits still cast shadows through the table. In the tomb if you die you restart but any objects you collected are on your dead body. How am I alive if my body is still lying dead inside? And how do I get a weapon if said body is at the bottom of a pit trap? Much much better but still needs some work, its at a point where I feel I can play through it though\n\nThe tomb area looks good and the areas are well designed, however it still just dont understand the enemy placement. Having so many different types of enemies in the same areas makes it feel off. And that dragon? Wtf can you even kill it? I unloaded the entire machine gun into it and several spells, hit it with the sword and it just keeps coming 😆 I really like the spell and fire effects in this game tho",
+      "date": 1779646689,
+      "review_helpful_count": 0,
+      "author_display_name": "jakenut86",
+      "author_alias": "jakenut86",
+      "developer_response": {
+        "body": "Thank you for the feedback!\nGrabbing is improved with patch 3. \nLoosing items after death can switched off now in menu. Keys will newer loosed now.\nThe dragon was perhaps a bit hard :-) It has now less health and should be feasible.",
+        "date": 1779824863
+      }
+    },
+    {
+      "id": "1669087180904173",
+      "score": 4,
+      "review_title": "Interesting title",
+      "review_description": "Has its\n hiccups. But its interesting. Especially once u get to the dungeon. The movent could be faster.",
+      "date": 1778593568,
+      "review_helpful_count": 1,
+      "author_display_name": "Stortz",
+      "author_alias": "Stortz",
+      "developer_response": {
+        "body": "Hello,\nThank you for the feedback. In the new version movement is faster and you also have a slider to adjust the desired speed for walking and turning. Also a lot of other improment is made.",
+        "date": 1779996517
+      }
+    },
+    {
+      "id": "1006932345184902",
+      "score": 4,
+      "review_title": "Sloooow Tuuuuurniiiiing...",
+      "review_description": "It's much better, now that they implemented smooth turning over that godawful snap turning, but a speed slider in controls/options would be great! Thanks!",
+      "date": 1778802208,
+      "review_helpful_count": 1,
+      "author_display_name": "CarsonBFree",
+      "author_alias": "CarsonBFree",
+      "developer_response": {
+        "body": "Hello,\nThanks for the feedback!\nA slider for turnspeed and walkspeed is included now.",
+        "date": 1780135740
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:29:46Z"
+}

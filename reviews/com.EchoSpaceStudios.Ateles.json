@@ -1,0 +1,45 @@
+{
+  "app_id": "7774572835957020",
+  "package_name": "com.EchoSpaceStudios.Ateles",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Ateles",
+  "rating_average": 4.6,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "845801185289901",
+      "score": 5,
+      "review_title": "Really good",
+      "review_description": "Good game",
+      "date": 1762867458,
+      "review_helpful_count": 2,
+      "author_display_name": "axiomfaxVR",
+      "author_alias": "axiomfaxVR",
+      "developer_response": null
+    },
+    {
+      "id": "511847764715226",
+      "score": 5,
+      "review_title": "Terrible game",
+      "review_description": "This game is absolutely trash. Like complete dog poo. It gave me cancer and gonnorrhea. I’m about to throw up. Please don’t play",
+      "date": 1722713646,
+      "review_helpful_count": 2,
+      "author_display_name": "oscybug",
+      "author_alias": "oscybug",
+      "developer_response": {
+        "body": "I'm sorry to hear your experience with Ateles wasn't pleasant. If you have any questions or would like to report any bugs / issues with the game please visit the EchoSpace Studios Discord.",
+        "date": 1735735591
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:27:54Z"
+}

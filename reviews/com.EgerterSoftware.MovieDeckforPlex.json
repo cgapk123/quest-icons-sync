@@ -1,0 +1,505 @@
+{
+  "app_id": "6664246617031653",
+  "package_name": "com.EgerterSoftware.MovieDeckforPlex",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Movie Deck for Plex",
+  "rating_average": 3.2176870748299,
+  "rating_count": 147,
+  "review_count": 107,
+  "reviews": [
+    {
+      "id": "974659635385382",
+      "score": 1,
+      "review_title": "Won't login or play from server",
+      "review_description": "Won't let me log in. Said can't find IP of Plex server in my house. Won't play any movies from my local NAS server. It force quits the app after picking one. I tried several. 1 star.",
+      "date": 1781241597,
+      "review_helpful_count": 0,
+      "author_display_name": "ron.sissons",
+      "author_alias": "ron.sissons",
+      "developer_response": null
+    },
+    {
+      "id": "922764727582323",
+      "score": 4,
+      "review_title": "Continue watching has limited results",
+      "review_description": "App found my plex servers no problems, playback is beautiful, and screen size options are great.  \n\nThe biggest issue is only 4 results for continue watching are returned for movies or TV shows.  I heavily rely on continue watching, with shows taking multiple years to launch a new season they will never show up in this app.  This should be an easy fix, the server side is set to 156 weeks (3 years) and 52 items.",
+      "date": 1764883864,
+      "review_helpful_count": 18,
+      "author_display_name": "mdevlin80",
+      "author_alias": "mdevlin80",
+      "developer_response": null
+    },
+    {
+      "id": "975302152329018",
+      "score": 5,
+      "review_title": "Movie Deck for Plex is a fantastic app",
+      "review_description": "This review is for version 6.1 of Movie Deck for Plex on my Quest 3 headset.  I was up and running and watching a full 4K UHD high-bitrate blu-ray film on my Quest 3 in minutes.  Since that demands a lot of network bandwidth, I have a strong Plex server and a gigabit Ethernet network.  I use a Puppis S1 WiFi router dedicated to the Quest 3 as the only WiFi client to ensure the best Quest headset Plex movie viewing performance.  I find Movie Deck for Plex well worth the price for watching my Plex Server content on my Quest 3.",
+      "date": 1767835063,
+      "review_helpful_count": 3,
+      "author_display_name": "TruckFan",
+      "author_alias": "TruckFan",
+      "developer_response": null
+    },
+    {
+      "id": "25397390579925582",
+      "score": 2,
+      "review_title": "Video Not Showing In Cinema Mode !",
+      "review_description": "I have tried all formats for videos when in cinema mode only audio is played, all other environment modes works fine with video and audio ￼ although sometimes you would like to be in a theater environment so this is a must have for me also app crash when loading local storage videos. Devs please fix this issue I will update my ratings after the update thanx.",
+      "date": 1767120708,
+      "review_helpful_count": 0,
+      "author_display_name": "Hud007",
+      "author_alias": "Hud007",
+      "developer_response": {
+        "body": "Check the screen isn't behind the far wall of the cinema.  The app allows you to position it anywhere.  Hit reset on the screen position settings and it should place it at a location that works with the cinema scene.",
+        "date": 1776713302
+      }
+    },
+    {
+      "id": "906637025873783",
+      "score": 3,
+      "review_title": "Can’t exit normally",
+      "review_description": "App works decently but there’s no exit button and when I hold the Meta button it doesn’t do anything.\n\nI then need to hit 5 time the Meta button to force it to close…",
+      "date": 1767574800,
+      "review_helpful_count": 0,
+      "author_display_name": "FredJ83",
+      "author_alias": "FredJ83",
+      "developer_response": {
+        "body": "Click the Meta button once and it shows a menu to quit the currently running app.  This is part of the OS.",
+        "date": 1775486597
+      }
+    },
+    {
+      "id": "25293721033616602",
+      "score": 1,
+      "review_title": "Can't access my Server, only my friends.",
+      "review_description": "Weird bug, Im able to access my friends plex server overseas, but it says my server is offline thats located here in the USA? If I can't access my server then the app is useless. I checked on the regular android plex app to see if my server is live and it's functioning as it should.\n\nThe app itself looks promising, but so far its useless.\n\nIf they rectify the issue I will amend my review. But as of now, 1 star.",
+      "date": 1764130760,
+      "review_helpful_count": 2,
+      "author_display_name": "only1tricky",
+      "author_alias": "only1tricky",
+      "developer_response": null
+    },
+    {
+      "id": "872426285947680",
+      "score": 3,
+      "review_title": "Unable to access plex server!",
+      "review_description": "Started using this awesome app for plex. Had no issues until recently. I can't seem to access a server I'm added to anymore. It comes up with the name of the server but nothing shows. Disappointing as there's no ther app for plex weirdly.",
+      "date": 1760043791,
+      "review_helpful_count": 14,
+      "author_display_name": "DevilDog1983",
+      "author_alias": "DevilDog1983",
+      "developer_response": {
+        "body": "This should be fixed now.",
+        "date": 1761678897
+      }
+    },
+    {
+      "id": "1504864260757261",
+      "score": 5,
+      "review_title": "Meta Firmware V71 killed the app",
+      "review_description": "It was working perfectly but V71 made a green screen into all video probably because of the AR feature no one asked for ...\n\nI can't watch anymore my movies because of that green screen . I tried for an hour to tweak the screen by moving hue etc ... but it didn't go so well.\n\nI'll change my star to 5 stars once they fix this but Ergeter software should test their app before they release",
+      "date": 1762551057,
+      "review_helpful_count": 0,
+      "author_display_name": "DaiNoDaiboken",
+      "author_alias": "DaiNoDaiboken",
+      "developer_response": null
+    },
+    {
+      "id": "901521319703877",
+      "score": 1,
+      "review_title": "Faint Blue Outline around the lens",
+      "review_description": "With the new update to 6.1 there is a blue outline around the lens more prominent at the bottom. Very distracting and you loose the immersive.",
+      "date": 1762719067,
+      "review_helpful_count": 4,
+      "author_display_name": "Primal01",
+      "author_alias": "Primal01",
+      "developer_response": null
+    },
+    {
+      "id": "868406886356010",
+      "score": 1,
+      "review_title": "Doesnt work",
+      "review_description": "Bought this today doesnt work .waste of money",
+      "date": 1762467139,
+      "review_helpful_count": 4,
+      "author_display_name": "mcg.54727",
+      "author_alias": "mcg.54727",
+      "developer_response": null
+    },
+    {
+      "id": "875774232282087",
+      "score": 4,
+      "review_title": "Good app, could be great",
+      "review_description": "The app works well! The controls are not super intuitive, but they're okay.",
+      "date": 1761706253,
+      "review_helpful_count": 0,
+      "author_display_name": "doublesteezeburger",
+      "author_alias": "doublesteezeburger",
+      "developer_response": null
+    },
+    {
+      "id": "822360530955209",
+      "score": 5,
+      "review_title": "Even more stable now",
+      "review_description": "Initially it took some getting used to but I much prefer this interface to most others I have used in VR so far. Fits the niche perfectly, hope stability continues to improve.",
+      "date": 1758679801,
+      "review_helpful_count": 0,
+      "author_display_name": "PunchyStingray1567",
+      "author_alias": "PunchyStingray1567",
+      "developer_response": null
+    },
+    {
+      "id": "993419520513179",
+      "score": 5,
+      "review_title": "BEST APP FOR PLEX BY FAR",
+      "review_description": "Easy to install and connect to plex highly recommend",
+      "date": 1768582451,
+      "review_helpful_count": 0,
+      "author_display_name": "JONESY_501st",
+      "author_alias": "JONESY_501st",
+      "developer_response": null
+    },
+    {
+      "id": "3931769290409997",
+      "score": 2,
+      "review_title": "Well Intentioned but Browser is better.",
+      "review_description": "Appreciate the developer’s effort as you can tell from the rudimentary look of the app that it is a small or one-person development team. App is too slow and it actually crashed my Plex server. You’re better off using the Quest built in browser to access your server. Was gonna give three star b/c I do appreciate the developer’s effort but this app is ineligible for refund so I deducted another star. I don’t buy a lot of apps on Meta but this will probably be my last.",
+      "date": 1749699353,
+      "review_helpful_count": 10,
+      "author_display_name": "DTECONSUL",
+      "author_alias": "DTECONSUL",
+      "developer_response": {
+        "body": "You are not better off using a browser.  This app projects movies on actual 3D objects... spheres, half spheres, curved screens.  It is only making minimal standard web requests to get the movie information so I don't see how it could possibly crash a server.  Very lightweight compared to other clients.  It is also a general purpose media player that doesn't require Plex at all, can play from DLNA or directly from the device storage.",
+        "date": 1749917853
+      }
+    },
+    {
+      "id": "827242120478363",
+      "score": 5,
+      "review_title": "Great.",
+      "review_description": "Was able to connect to my PLEX server within minutes. Lots of screen customisation options. Worth it.",
+      "date": 1761418054,
+      "review_helpful_count": 0,
+      "author_display_name": "GibHeiko",
+      "author_alias": "GibHeiko",
+      "developer_response": null
+    },
+    {
+      "id": "4002386626671422",
+      "score": 5,
+      "review_title": "Memory leak? Apart from that, perfect.",
+      "review_description": "Nearly perfect. My only issue is that it seems to make the Quest run out of memory after a while. The film just stops. And sometimes it makes the Quest crash completely. Can't remember having this problem a couple of months ago.",
+      "date": 1743969252,
+      "review_helpful_count": 10,
+      "author_display_name": "Guldis",
+      "author_alias": "Guldis",
+      "developer_response": null
+    },
+    {
+      "id": "583070728218504",
+      "score": 4,
+      "review_title": "All right, but...",
+      "review_description": "It's good, it works with Plex, and there are some shortcomings such as more spaces or movie theaters or lighting effects. The search engine should also be fixed since it doesn't find the movies or series I request, but in general the application is good, let's see if they fix some of these issues or proposals in an update.",
+      "date": 1740582058,
+      "review_helpful_count": 4,
+      "author_display_name": "SalviGrau1972",
+      "author_alias": "SalviGrau1972",
+      "developer_response": {
+        "body": "The search box is a filter for what is already being displayed in the browser and operates as intended. It doesn't search across libraries or directories.",
+        "date": 1740583347
+      }
+    },
+    {
+      "id": "586322077900603",
+      "score": 2,
+      "review_title": "Can't get it to work!",
+      "review_description": "Allows me to connect to Plex via email or code and shows the user but after that it just keeps asking me to log in again! From the debug window on the right it seems like it can’t get the IP address.\n\nHave given this 2 stars as I can connect to the SAME SERVER using DNLA and the environments look nice but I didn’t buy it to use via DNLA and could use another app to do that. I also tried logging into the Plex web app on the same headset and connected and viewed with no problems so I’m not sure what’s going on.   \n\nThere seems to be zero help available on the web so am requesting a refund.",
+      "date": 1742754419,
+      "review_helpful_count": 1,
+      "author_display_name": "GingerBonce",
+      "author_alias": "GingerBonce",
+      "developer_response": {
+        "body": "Your server has to be the same IP that plex.tv knows about, or it won't work.  You can also force it to connect to IP addresses in the Plex Settings under Network, Custom server access Urls.",
+        "date": 1742961301
+      }
+    },
+    {
+      "id": "530998246772916",
+      "score": 1,
+      "review_title": "Cannot control sliders or settings",
+      "review_description": "I cannot for the life of me adjust the aspect ratio to side by side or top to bottom in the settings of the app. I see the screens to adjust but i cannot get the controller to go to the settings to actually change 2d to etc.",
+      "date": 1742524632,
+      "review_helpful_count": 2,
+      "author_display_name": "Totomarley1939",
+      "author_alias": "Totomarley1939",
+      "developer_response": null
+    },
+    {
+      "id": "475062159033211",
+      "score": 4,
+      "review_title": "Pretty Good",
+      "review_description": "So, I tried this app, Spatial TV and browser on my quest 3 streaming my Plex Media Server.\n\nSpatial TV uses Chrome.  The Chrome they use in it cannot stream 265/HEVC encoded videos.  Chrome on any other device can.  So this app is less to me.\n\nBrowser did pretty good but cannot stream 265/HEVC if you are logged into Plex.  It will if you log out.  I have Plex configured not to require a logon on local network.\n\nThis app is the only one that worked for me.  I really hate the 3D controls and don't know why they would default to those.  The 2D are much better.  This app uses the Plex API so no browser BS to deal with.  The only annoyance is I wish there were a way to make your controller and hands invisible once you start playing a video.  It's enough od a distracting to take away one star.  Otherwise, would be five stars.",
+      "date": 1737329589,
+      "review_helpful_count": 27,
+      "author_display_name": "ObiTroy",
+      "author_alias": "ObiTroy",
+      "developer_response": null
+    },
+    {
+      "id": "571258929404661",
+      "score": 2,
+      "review_title": "It works but",
+      "review_description": "The ui is terrible and screen positioning is not thought out. Setting a position dynamically with a controller doesn't work with hand gestures and since two days hand tracking doesn't work in the app at all.",
+      "date": 1740788525,
+      "review_helpful_count": 2,
+      "author_display_name": "karleksbarn",
+      "author_alias": "karleksbarn",
+      "developer_response": null
+    },
+    {
+      "id": "9088726551173221",
+      "score": 5,
+      "review_title": "Fantastic 10 out of 10",
+      "review_description": "This is a fantastic app the dev did a great job \nLog into plex account, and your away great quality and amazing layout.\nThe app let's you setup the screen experience just how  you want it and runs extremely smoothly.\n\n3D and 2D work great and 4k is outstanding.\nThe cinema experience is great and other environments look very interesting and fun.\nMixed reality works great.\nThe sound quality is amazing the dev made a outstanding experience.\nThank you dev please keep up the stunning work you are doing.\n10 out of 10\n\n\nUpdate 15/01/2025\n\nNoted that movies stopped after 20 mins play hopefully the dev can sort this 6 quickly",
+      "date": 1736954898,
+      "review_helpful_count": 6,
+      "author_display_name": "Dazbow",
+      "author_alias": "Dazbow",
+      "developer_response": null
+    },
+    {
+      "id": "572046802652071",
+      "score": 5,
+      "review_title": "Works great at home and away",
+      "review_description": "I don’t know how these negative reviewers have their server setup, but this works for me with zero issues and no setup on my side. No playback issues and I can watch my library at home or away from home. I like the theater setting the most.",
+      "date": 1736815926,
+      "review_helpful_count": 5,
+      "author_display_name": "The_Pimento",
+      "author_alias": "The_Pimento",
+      "developer_response": null
+    },
+    {
+      "id": "590854120767597",
+      "score": 5,
+      "review_title": "Great App, and stable now !",
+      "review_description": "The apps looks nice I love the idea to resize and curve the screen.\nI’be had stability issues in the past but the dev fixed it, now it works fine, thanks",
+      "date": 1738226239,
+      "review_helpful_count": 2,
+      "author_display_name": "Kwenji68",
+      "author_alias": "Kwenji68",
+      "developer_response": null
+    },
+    {
+      "id": "242358958970614",
+      "score": 5,
+      "review_title": "This is a great app if you have plex",
+      "review_description": "It was super simple to set it up and connect to my plex media. I have a ton of 3D movies, and my last 3D tv went out. This app not only plays 3D movies very well, but i had no problem playing up to 4k movies. I do have a pretty built out media server and fast internet, just fyi. \n\nWith that said, one of the best movie apps on Quest 3. I've tried them all, and this is the only one i found that works directly with plex and didn't have to side load a bunch of movies or watch off a streaming app.\n\nThe app does take a moment to get used to. It's a bit unconventional style wise from the other apps, but once you get used to the DJ style controls and figure out all the controls, it becomes second nature. It literally took me five minutes to get everything all set up and watching a movie. Not exaggerating\n\nAfter everything is set up how you like, it's as easy as finding a movie, sitting back, and enjoying the show. Love this app. Would definitely recommend it to others.",
+      "date": 1713927586,
+      "review_helpful_count": 3,
+      "author_display_name": "DarkestOfKnightz",
+      "author_alias": "DarkestOfKnightz",
+      "developer_response": null
+    },
+    {
+      "id": "2358058237725913",
+      "score": 1,
+      "review_title": "Thanks, but no thanks",
+      "review_description": "I appreciate the dev taking the time to try and offer a Plex experience. But oh my gosh… I have not used an app with such a bad UI in as long as I can remember. It’s truly awful; Absolutely unusable in its current form. \nThe UI shouldn’t be tweaked and updated, it should be thrown out and redesigned from the ground up. \nFrom a fellow dev, please reach out to someone with a design background to assist.",
+      "date": 1709548376,
+      "review_helpful_count": 21,
+      "author_display_name": "MosesVII",
+      "author_alias": "MosesVII",
+      "developer_response": {
+        "body": "It's clear you don't like the whole concept of a DJ-like deck of controls that you can manipulate with your hands, which was the design since the beginning.  \n\nI can't please everyone when making a 3D UI that is unique and wish people would use it for a while before writing a review.  The UI is how I want it, and won't be changing because of a few people who didn't like the concept.  I wanted to take advantage of VR and not just put 2D buttons in a window like every other utility app.  It is VR after all.\n\nI like it, have been using it instead of other players for a year and prefer it over 2D interfaces, so I believe it will be something you will appreciate over time.",
+        "date": 1709602542
+      }
+    },
+    {
+      "id": "706028274981774",
+      "score": 4,
+      "review_title": "Works as intended",
+      "review_description": "I've been accessing Plex via bigscreen beta via the direct server option, but have been wishing for support when not on the same network. Haven't had a chance to try it when traveling, but looked good when I was on a different Internet connection in home than my Plex server.\n\nI know it is just a beta, but giving 4 stars as the UI is kind of hard to use, moving the screen around was finicky and the UI isn't the prettiest but it worked as intended. Would be nice to get some cleaner UI and more intuitive options for moving and resizing the screen.\n\nI'd love to be able to just hold the grip when pointing at the screen to move it around, use two hands to resize and also have the option to curve the screen in the future. Overall I'm looking forward to future improvements and hopefully this can be one everyone's main way to watch Plex in the future in VR.",
+      "date": 1706855238,
+      "review_helpful_count": 5,
+      "author_display_name": "ChaotikPlays",
+      "author_alias": "ChaotikPlays",
+      "developer_response": {
+        "body": "You hold the lower trigger and aim your head to move the screen.  You can also use the anchor mode to point while using the joysticks to scale and set the distance.  Once the anchor is set you can further modify using the sliders including x/y curve.  For accessibility reasons everything can be changed with one hand.",
+        "date": 1706884971
+      }
+    },
+    {
+      "id": "7348546051878534",
+      "score": 1,
+      "review_title": "Controls and UI need to change",
+      "review_description": "Plays videos fine. Extremely inconvenient and silly UI/control design ensures I will never use it",
+      "date": 1708247253,
+      "review_helpful_count": 3,
+      "author_display_name": "reaction105",
+      "author_alias": "reaction105",
+      "developer_response": {
+        "body": "It's just some sliders and buttons.",
+        "date": 1709004889
+      }
+    },
+    {
+      "id": "294317447098745",
+      "score": 5,
+      "review_title": "Love the App!",
+      "review_description": "Allows you to watch plex in VR its amazing being able to lay down and watch movies on my plex from the comfort of my bed! The control board is easy to use and once you have your movie screen where you want it its quite easy to anchor it there and hit X to hide the control panel if needed. Very easy and simple to use i quite like this app and love being able to watch stuff from plex on my VR!",
+      "date": 1714081047,
+      "review_helpful_count": 0,
+      "author_display_name": "Robomnz",
+      "author_alias": "Robomnz",
+      "developer_response": null
+    },
+    {
+      "id": "278664698653746",
+      "score": 4,
+      "review_title": "So enjoyable",
+      "review_description": "I for one am enjoying the interface. I felt like Dr Dre designing the movie screen, picture and the room I watch it in. I think you are doing a great job and glad you have built it. Keep going!",
+      "date": 1710304518,
+      "review_helpful_count": 1,
+      "author_display_name": "CreepyClone",
+      "author_alias": "CreepyClone",
+      "developer_response": {
+        "body": "Thanks, I will keep going and continue to improve the app.\n\nThe next release may surprise some people.",
+        "date": 1710715628
+      }
+    },
+    {
+      "id": "265620769959698",
+      "score": 3,
+      "review_title": "Doesn't support Chinese character",
+      "review_description": "Work as expected in general, yet the Chinese support is horrible, all Chinese characters in title, category introduction and etc cannot display at all, they were like 口口口口. Please fix this",
+      "date": 1708015570,
+      "review_helpful_count": 0,
+      "author_display_name": "kerryfang",
+      "author_alias": "kerryfang",
+      "developer_response": null
+    },
+    {
+      "id": "264814476703783",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Thank you very much for the application which works with plex.  I can't say that I like everything.  There is no watch together support yet, which I really need, the interface is not ideal.  But this is already the best solution for plex.  I really hope that the application will improve and new features will be added.",
+      "date": 1712448367,
+      "review_helpful_count": 1,
+      "author_display_name": "senya016g",
+      "author_alias": "senya016g",
+      "developer_response": null
+    },
+    {
+      "id": "262152396971869",
+      "score": 4,
+      "review_title": "Works as a native Plex viewer. UI is +",
+      "review_description": "This works well as a Plex client. Nice abstract functionality for a screen. Much more functional than web browser version of Plex on Quest. As others have mentioned, the UI is a novel construct can be difficult to figure out to start.\n\nTo the dev: is it possible to add a playback speed function?",
+      "date": 1707937887,
+      "review_helpful_count": 0,
+      "author_display_name": "Kolyman",
+      "author_alias": "Kolyman",
+      "developer_response": null
+    },
+    {
+      "id": "256821684179902",
+      "score": 5,
+      "review_title": "Great app!",
+      "review_description": "Simple UI, adjustable screen and surrounding, and can do remote access to my server! I suggest if there’s an option to change subtitle appearance like its size and color would be great. And a recently played folder would be handy too. Anyway, Highly recommended!",
+      "date": 1709815340,
+      "review_helpful_count": 1,
+      "author_display_name": "Kunearn",
+      "author_alias": "Kunearn",
+      "developer_response": null
+    },
+    {
+      "id": "246922525170464",
+      "score": 3,
+      "review_title": "Great app with flaws",
+      "review_description": "I really like the app. \nSome people would probably say it is overloaded but I love the feature set. \nThe main problem is that the watchlist isn’t showing all my selected media and the search sometimes doesn’t work so I have to manually search my media.\nPlayback works fine however which is the most important part since some title’s done play through the browser.",
+      "date": 1708713636,
+      "review_helpful_count": 3,
+      "author_display_name": "nebucatnetzer",
+      "author_alias": "nebucatnetzer",
+      "developer_response": {
+        "body": "The universal watchlist only works with matched content with a unique ID I believe.  It's supposed to be for known movies and works across servers.  This is Plex's system not mine.  \n\nWhen searching it only searches in the current library/directory, and make sure other filters are turned off or you might filter out everything.",
+        "date": 1709004764
+      }
+    },
+    {
+      "id": "239732362564366",
+      "score": 5,
+      "review_title": "Amazing native plex experience",
+      "review_description": "This is exactly what I wanted - a Native Plex experience that connects with Plex natively, allows me to watch my content on my Quest 3 and does so simply.  3D Content works great - i'm enjoying watching Imax content as well as 3D movies.  I think all the negative reviews are completely unjustified and misguided. The controls are a bit different, but not hard and they get out of the way with a single button click. This is about immersive content and this app delivers.  Thanks for the hard work. Definitely worth the 10 bucks.",
+      "date": 1711726143,
+      "review_helpful_count": 1,
+      "author_display_name": "Sn2006gy",
+      "author_alias": "Sn2006gy",
+      "developer_response": null
+    },
+    {
+      "id": "238757979329153",
+      "score": 3,
+      "review_title": "It works but it can be better",
+      "review_description": "I bought this app with zero expectations, but it’s not half bad at all. But it needs some love.\nCouple of hints: \nThe UI looks like a dj esque thing, which as with everything is down to each one’s taste. I suggest that a simplified version of it is made available, similar to what immerse has - look at hand, see basic controls like, play pause stop, volume knob. I’d be happy to use this for everyday media content consumption, while using the normal UI to setup everything down to my taste.\n\nThe “recently added” does not seem to list things by date added. I have an automation that adds new media, this is off for the movie library, but on for the TV series. For some reason my movies always appear first. I’d rather have the recently added menu show me things as per the date they were added to the server.\n\nMy major two pet peeves with this app however, and what majorly stops me from using it daily are:\nWhen scrolling through a tv series library, I don’t see anything which identifies the episodes watch status. This really does makes it very hard for me to keep track of ongoing series.\n\nWhen opening an episode, on the other hand, we don’t have any information about release date, or any other information. So unless I know the number of the episode I want to watch (which I don’t), I never know which episode I want to watch. \n\nAdditionally, there’s no “watch next” menu, telling me which series I have been following, this is also a major gap, because that’s one of the most frequently used. If you’re watching an older series that has ended, you don’t know in which episode you’re at.\n\nThis are some of the issues I have with the player itself.\n\nAs for the 3d worlds available, I absolutely love Earth. Just wish we also had the moon to look at, and that they moved. Additionally some weather effects would be fantastic. Some something to consider :)\n\nHope this helps the dev in improving this app. Just the media tracking and adding more info on the episode menu would already improve tremendously the experience.",
+      "date": 1711216951,
+      "review_helpful_count": 2,
+      "author_display_name": "severanexpendere",
+      "author_alias": "severanexpendere",
+      "developer_response": {
+        "body": "The recently added section has been changed and now divided by library.  It matches what you would see on the home page on Plex.\n\nThere is a progress bar on every movie/show so you can easily see what the last episode you watched is.\n\nOn Deck has been added which should also show you what it recommended to watch next.  \n\nThe last update also added 5 new backgrounds.",
+        "date": 1711648557
+      }
+    },
+    {
+      "id": "232744156594803",
+      "score": 3,
+      "review_title": "Outstanding! However….",
+      "review_description": "Need a way to select the client side transcoding options. Few servers can handle 4K transcoding and it may not always be required. Also Plex transcoding crushes HDR and 3D it seems.",
+      "date": 1708984966,
+      "review_helpful_count": 4,
+      "author_display_name": "mumanzor",
+      "author_alias": "mumanzor",
+      "developer_response": {
+        "body": "The app only uses direct play, no transcoding at all right now so there are no options related to that.  Use regular HDR not DV for the best colors.",
+        "date": 1709004557
+      }
+    },
+    {
+      "id": "230878250103557",
+      "score": 2,
+      "review_title": "I can't access to my Plex Server",
+      "review_description": "Hi! \nI just bought the app. I opened and insert my user and password adding the 2FA of my Plex. Always get an error and I can login. How can I solve it? \nBest regards",
+      "date": 1706097798,
+      "review_helpful_count": 1,
+      "author_display_name": "SergiusTech",
+      "author_alias": "SergiusTech",
+      "developer_response": {
+        "body": "Use the same login/pw as you use on the plex.tv website, when you login using an email (not a linked account like Apple)",
+        "date": 1706105238
+      }
+    },
+    {
+      "id": "228245620368325",
+      "score": 2,
+      "review_title": "I can't get it to work",
+      "review_description": "It shows the tv just fine but won't load my movies.  It shows the plex screen blank for a while then the visual stuff on the sides starts corrupting.",
+      "date": 1706492818,
+      "review_helpful_count": 1,
+      "author_display_name": "Pauhau",
+      "author_alias": "Pauhau",
+      "developer_response": {
+        "body": "The latest version (2.4) should help users with lots of files.  It is still recommended to divide up your collection into smaller libraries so the app doesn't have to load everything into memory.",
+        "date": 1706822719
+      }
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-19T09:29:27Z"
+}
