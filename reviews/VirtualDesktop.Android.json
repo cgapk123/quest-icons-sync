@@ -1,0 +1,984 @@
+{
+  "app_id": "2017050365004772",
+  "package_name": "VirtualDesktop.Android",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Virtual Desktop",
+  "rating_average": 4.2563404095435,
+  "rating_count": 10646,
+  "review_count": 5120,
+  "reviews": [
+    {
+      "id": "1712055747632175",
+      "score": 1,
+      "review_title": "bad experience for Chinese mainland user",
+      "review_description": "In the past, I had to wait for about 2 minutes every time when I want to connect to my computer. In the last version, it could build the connection with my PC quickly, it's very nice, I must praise your work. \n\nHowever, after I update this app to the newest version, it keep telling something like that it cannot connect to meta and settlement check time out, and I have to try different way to solve the Internet issue. Worse, my quest 3 keep sending its information as a android device instead of a headset  to my router, that makes my acclerator can't work normally. I just curious if this app is designed like that it couldn't work at all without Internet access if I just want to connect to my PC.\n\nedit: it's really sad and regrettable that Chinese user can't get official support even I have lots of questions. it's a pity that I have recommended this app to friends in irl and vrc, perhaps it's a mistake.",
+      "date": 1775195656,
+      "review_helpful_count": 133,
+      "author_display_name": "lilimokaasan",
+      "author_alias": "lilimokaasan",
+      "developer_response": {
+        "body": "The app is not sold or supported in China",
+        "date": 1775192406
+      }
+    },
+    {
+      "id": "1134802543052624",
+      "score": 5,
+      "review_title": "Slept on it for so long!",
+      "review_description": "By far the best way to connect a PC to a VR headset.\nIt offers a much wider choice of possibilities compared to Steam Link and Meta options.\nWith such an array of settings you can make VR work even on a potato PC or laptop.\nAll the game run smoother and better.\nThis application is my sole reason to return to PCVR gaming.",
+      "date": 1780778479,
+      "review_helpful_count": 6,
+      "author_display_name": "FredericBlackbeard",
+      "author_alias": "FredericBlackbeard",
+      "developer_response": null
+    },
+    {
+      "id": "967376053136198",
+      "score": 4,
+      "review_title": "Great app if it not for Meta OS bugs",
+      "review_description": "I use Virtual Desktop Streamer with OpenComposite (OpenXR) to replace Valve's SteamVR (still in beta) for playing Steam-based VR games on my Meta Quest 3. Unfortunately, updates to Meta Horizon OS are increasingly interfering with the functionality of Virtual Desktop Streamer.\n\nThese issues arise from Meta's focus on prioritizing advertisements for its Store and developing social networking features, rather than enhancing VR gaming performance in Horizon OS. The problems began with updates that made it impossible to disable the unnecessary software on the Meta Quest 3, hindering the VR gaming experience. With each subsequent update to Horizon OS, Meta's obsession with transforming the Meta Quest 3 into both a social networking platform and a retail sales tool has negatively impacted its performance as a gaming headset. This has particularly affected playing Valve Steam VR games and has interfered with Virtual Desktop Streamer's ability to work around the deteriorating Meta Horizon OS and SteamVR systems.",
+      "date": 1773664895,
+      "review_helpful_count": 234,
+      "author_display_name": "Chrono_Plasm",
+      "author_alias": "Chrono_Plasm",
+      "developer_response": null
+    },
+    {
+      "id": "935181462230675",
+      "score": 2,
+      "review_title": "It was great... When it worked",
+      "review_description": "This app simply isn't worth the money when it's free direct competitor works so much better (for me, milage may vary). I have had pretty constant issues with this app ever since I first got it whether that's causing small lag for games or my headset simply won't connect. Now when it worked it worked great so I will give it that bit whenever I quit using it for over a week it would have these issues again. Now I will admit I always used this wirelessly and they claim that was most of my issues (even though in their support article it said I had one of the supported routers for wireless) and when I tried to contact the discord support they were quite rude and unhelpful. I decided after having no help from support and issues for years that I would simply use steam link which worked at all which was better than this app. I would really only recommend this app if you have issues with air link and steam link but I would recommend you try air link and the steam link before buying this app.\n\nResponse to developer:\n\nThere must be a cultural difference between our regions because where I'm from telling someone that they don't know how to read is quite rude\n\nResponse to updates response:\n\nI was over 2 hours into trying to get the software to work so when you reply with a snoody sarcastic reply to someone that is frustrated it would be reasonable to expect a reply along the lines of \"eff off if you don't want to help.\" While I can agree my insults were not needed you could have instead of saying \"looks like someone forgot how to read\" you could have said \"our documentation states here that...\" What you did was just plain disrespectful to somebody looking for help.",
+      "date": 1774681382,
+      "review_helpful_count": 57,
+      "author_display_name": "alecsgarden",
+      "author_alias": "alecsgarden",
+      "developer_response": {
+        "body": "We have requirements, if you don’t meet them, we can’t help you. It’s as simple as that. We weren’t rude, we just told you what was needed for us to help you. That’s it. Your computer must be wired with Ethernet. We’ve told you through several warnings in the app in VR, on the website under the computer requirements, through voice messages in the app and finally in the #start-here page on Discord. Can’t make it more obvious than that.\n\nResponse: you asked since when ethernet was required and it said exactly that right above your question: it’s been a requirement since 2018. I think my remark regarding your ability to read was accurate and I proceeded to show you pictures of where we mention that requirement. You then spluttered insults, which is against our rules and you were banned.\n\nIf you can’t meet the requirements, can’t read our answers and follow rules, sorry but we will not waste our time with you.",
+        "date": 1774674843
+      }
+    },
+    {
+      "id": "1535306901928203",
+      "score": 5,
+      "review_title": "An absolute must buy",
+      "review_description": "I am blown away. I spent around 2k hours on a wired rift S with a 1080, but bought myself a Quest 3, a 5070ti and a nice dedicated router as a well deserved Christmas present. Ive been using the default meta horizon link but didnt see that much of a difference in anything. Even Alyx. It also kept disconnecting if I took even a lightning quick bathroom break.\n\nIve only tried VD for a short while but so far it is beyond perfect. Took no more than 5 minutes to download and connect and everything is so clear, fast and crispy. I fly across a much more beautiful world in Deisim and Alyx looks and performs like a god. This app is what I desperately needed to get the bang which my gift to myself deserves. A thousand thank you to the, apparently single, developer:)",
+      "date": 1773426295,
+      "review_helpful_count": 67,
+      "author_display_name": "ivar.holm",
+      "author_alias": "ivar.holm",
+      "developer_response": null
+    },
+    {
+      "id": "1094850527050497",
+      "score": 5,
+      "review_title": "Best Desktop for VR",
+      "review_description": "This runs Steam games much smoother than Meta Link or Dreamdeck. Sure, it may seem pricy for a desktop viewer, but the performance makes it worth it. For instance, attempting to run Resident Evil 7 in VR via Meta Link or Dreamdeck resulted in a terrible 10fps or lower  while Virtual Desktop lets me experience it around 70fps.",
+      "date": 1779774421,
+      "review_helpful_count": 2,
+      "author_display_name": "a.a.ron.cooper",
+      "author_alias": "a.a.ron.cooper",
+      "developer_response": null
+    },
+    {
+      "id": "1442754030921877",
+      "score": 5,
+      "review_title": "Fantastic, so much faster than Airlink.",
+      "review_description": "To start off, I purchased this app before Airlink had come out; I just needed a wireless solution. However even after the release of Airlink, Virtual Desktop still is better. So many more options, it runs so much better (though that could be due to my messed up oculus software), and it has nice little environments to use. Hilariously enough, it runs better than when I use my link cable (again, probably due to goofy oculus software)!\n\nI highly recommend this product for anyone who wants to play PCVR games on Quest, as long as they have a fast WiFi connection and their PC is connected via ethernet.\n\nUPDATE (4-8-2026): App continuously has received excellent support over the 5 years I've used it. Best post-launch support I've ever had the pleasure of experiencing.",
+      "date": 1775689133,
+      "review_helpful_count": 13,
+      "author_display_name": "conno02",
+      "author_alias": "conno02",
+      "developer_response": null
+    },
+    {
+      "id": "1374094354484510",
+      "score": 5,
+      "review_title": "The smoothest to use VR experience",
+      "review_description": "This has worked flawlessly for me. Steam link and oculus link always gave me so much trouble that I'd spend half my night trying to connect/reconnect and get into my games. Now, even when Skyrim VR does crash (this has nothing to do with virtual desktop), its as simple as relaunching it. \n\nHighly recommend.",
+      "date": 1776525740,
+      "review_helpful_count": 8,
+      "author_display_name": "Howie_Doodat",
+      "author_alias": "Howie_Doodat",
+      "developer_response": null
+    },
+    {
+      "id": "1084207298110410",
+      "score": 5,
+      "review_title": "The Best Way to Access Your PC Wirelessl",
+      "review_description": "I’ve been using Virtual Desktop for a long time now, and I honestly don’t understand all the low ratings. For me, it’s been completely stable and trouble-free from day one. Yes, the settings panel has a lot of options, but if you ever get stuck, there are plenty of quick guides online that sort everything out in minutes. Once it’s configured, it just works.\nIt’s easily the most convenient and reliable way to access my PC while in the headset. I especially love that it lets me launch games directly without routing through SteamVR. Sure, it doesn’t bypass it for every single title, but that’s just how the platform works, not a flaw in the app itself.\nOverall, it’s a polished, incredibly useful tool that does exactly what it promises. Huge thanks to the developer for keeping it updated and delivering such a solid piece of software. If you want a smooth, dependable PC-to-VR experience, this is it.",
+      "date": 1777285556,
+      "review_helpful_count": 7,
+      "author_display_name": "CosmicDog26",
+      "author_alias": "CosmicDog26",
+      "developer_response": null
+    },
+    {
+      "id": "978553824754806",
+      "score": 1,
+      "review_title": "Fix Bug Please",
+      "review_description": "After the latest update, a critical bug appeared in VD when using the virtual monitors mode.\n\nThe frame rate randomly drops to exactly half. For example, it runs at a stable 120 FPS, and then suddenly drops to 60 FPS. You can immediately feel it — the mouse starts lagging, there’s noticeable input delay, and it becomes uncomfortable to work. When you check the frame rate, it’s exactly half of the set value.\n\nThis issue is not limited to 120 Hz — it happens at other refresh rates as well (e.g., 90 → 45, etc.).\n\nThere is a temporary workaround, but it’s inconvenient: reconnecting to the PC or removing/adding a virtual monitor restores the normal frame rate.\n\nPlease fix this bug — it significantly affects usability in VR.\n\nP.S. 13.05.2026\nI haven’t been able to work for 3 weeks now... Please fix this frame rate issue. I stopped using monitors as soon as I bought this app, and right now I physically have nothing to replace the headset with while this problem is being resolved.\n\nP.S 31.05.2026\nIt has already been 1.5 months since this problem appeared. The developer wrote in their reply that everything would be fixed after updating the headset firmware to version 2.4. But now, while reading the reply again, I see that the developer has edited it — apparently because I have now updated to firmware 2.4 and the problem is still there 😆.\nIf anyone has a proper solution to this problem, please email me at vlad.tyt2323@gmail🙏",
+      "date": 1780181690,
+      "review_helpful_count": 3,
+      "author_display_name": "vlad.tyt2323",
+      "author_alias": "vlad.tyt2323",
+      "developer_response": {
+        "body": "That’s a bug on Meta’s side. There’s a FPS degradation after about 20-30min. They are aware and working on it. The workaround is to switch codec or change framerate to restart the stream; that clears up the issue for another 20-30min.",
+        "date": 1779201568
+      }
+    },
+    {
+      "id": "1183099214877865",
+      "score": 1,
+      "review_title": "Unreachable pc",
+      "review_description": "The New update is so bad. I can't connect to my shadow pc anymore. I want a refund. Dont wasted your money on this. They destroyed my game. I cannot play Skyrim vr and No Man Sky anymore.",
+      "date": 1779712870,
+      "review_helpful_count": 3,
+      "author_display_name": "kboom125",
+      "author_alias": "kboom125",
+      "developer_response": {
+        "body": "Updates don’t change anything with connectivity. If you can’t connect to a Shadow computer it’s usually because of your ISP (Internet Service Provider) is using a double NAT. Use something like Tailscale as a workaround if you can’t connect to a remote computer. Reach out on Discord if you need more help: http://discord.vrdesktop.net",
+        "date": 1780149913
+      }
+    },
+    {
+      "id": "959764730155908",
+      "score": 5,
+      "review_title": "Bought for PCVR, love for environments",
+      "review_description": "I know that everybody knows this is the go-to app to link with your powerful PC, but something I didn't expect is how well the environments are made. I love the apartment one with an amazing view of a big city and the sky. So instead of running PCVR games I sometimes just like to chill in the virtual apartment with sunset and Lofi music playing on my PC. It's such a relaxing experience for me! And it's so immersive, I love that the background is animated it feels so real, I can just stand by the window and watch the sunset, the cars driving on the streets, flashing lights in the distance. I love this app just for this!",
+      "date": 1778924284,
+      "review_helpful_count": 2,
+      "author_display_name": "LukeRayman",
+      "author_alias": "LukeRayman",
+      "developer_response": null
+    },
+    {
+      "id": "1952307485410004",
+      "score": 5,
+      "review_title": "Easy to use and works well",
+      "review_description": "I use this with an ethernet to USB-C powered adapter. So I have a wired connection. Remember to turn off WiFi in your Quest 3 headset. \n\nIt works really well using the AV-1 codec. (You need a 40 or 50 series Nvidia card for this). \n\nPicture quality is great, latency is good. Appears to work better than the Meta Link app for me, but YMMV.",
+      "date": 1779184480,
+      "review_helpful_count": 0,
+      "author_display_name": "Cool3rking",
+      "author_alias": "Cool3rking",
+      "developer_response": null
+    },
+    {
+      "id": "1320351480205316",
+      "score": 5,
+      "review_title": "2 Pc's",
+      "review_description": "Brilliant app👌 Could it be possible to have 2 different PC's on screen at same time? I keep swapping between 2 different pcs running Virtual Desktop.",
+      "date": 1781733717,
+      "review_helpful_count": 0,
+      "author_display_name": "TebanC",
+      "author_alias": "TebanC",
+      "developer_response": {
+        "body": "Thanks for the review, unfortunately connecting to multiple computers at the same time would be quite a lot of work so that’s not something we plan on supporting, at least in the short term.",
+        "date": 1781813839
+      }
+    },
+    {
+      "id": "1125741657287628",
+      "score": 1,
+      "review_title": "META needs to fix",
+      "review_description": "It was a great app, when it worked. Now it becomes laggy after ~20 minutes of use and you have to restart the app and reposition your virtual monitors every time it starts lagging. This is a terrible user experience and it's way too frustrating to keep using. I paid over $25 for an app that causes frustration.\n\nI am changing my review from 5 starts to 1 star until Meta fixes the issue.",
+      "date": 1781470214,
+      "review_helpful_count": 1,
+      "author_display_name": "PCLM",
+      "author_alias": "PCLM",
+      "developer_response": null
+    },
+    {
+      "id": "1143552105499032",
+      "score": 5,
+      "review_title": "At first things weren't looking good.",
+      "review_description": "I was tearing my hair out trying to fix some big issues I was having. Turns out there's a lot more to VR than just \"Download App and go\" I had stuttering issues, and some other minor ones. I joined the discord, asked questions on reddit and looked up a few things. The issues I was having, were entirely fixable BY ME, and one of the major issues I was having was even in an announcement channel in VDs discord listed in \"Known issues\". \n\nAll this to say, the app is reliable, flexible, with tons of options compared to both Steam Link and Meta Link (I have tried both extensively and VD is definitely the best), and most of all their support is very willing to help you out with any issues. (I couldn't even imagine trying to get ahold of Meta Support). Chances are, if you are having an issue with VR its probably a simple setting somewhere, and support is a click away for VD.\n\n5/5",
+      "date": 1774830551,
+      "review_helpful_count": 9,
+      "author_display_name": "MisterSir3",
+      "author_alias": "MisterSir3",
+      "developer_response": null
+    },
+    {
+      "id": "1140548069141355",
+      "score": 5,
+      "review_title": "Feels Like a New PC — no more Link cable",
+      "review_description": "I’ve been using the Meta Quest 3 since launch with the Link cable because I always thought it would give me the best possible quality… turns out I was completely wrong.\nToday, I bought Virtual Desktop along with a Wi‑Fi router, and it literally changed my life. It feels like I upgraded my graphics card, even though all I did was buy a €20 app and a €120 router. My FPS skyrocketed.\n\nAnd even when there’s a bit of lag, it still feels smooth thanks to Virtual Desktop’s modern tech.\nSo if you’re reading this and still using the Link cable thinking it gives you the best quality… forget it. Get a high‑performance router and Virtual Desktop. It’ll feel like you got a brand‑new PC.\n\nAnd of course, huge thanks to the developer for creating such an amazing application — it genuinely transforms the VR experience.",
+      "date": 1778704248,
+      "review_helpful_count": 1,
+      "author_display_name": "christophefufu",
+      "author_alias": "christophefufu",
+      "developer_response": null
+    },
+    {
+      "id": "2289916898082449",
+      "score": 5,
+      "review_title": "Great performance",
+      "review_description": "I play Into the Radius 2 all the time, and this game runs way better in this app than in meta's built-in wifi link. Just need to optimize a few things, but there's Youtube videos for some of that. I have RTX 2080 and don't feel like I need to upgrade my PC thanks to this app!",
+      "date": 1778967436,
+      "review_helpful_count": 0,
+      "author_display_name": "rbpittman",
+      "author_alias": "rbpittman",
+      "developer_response": null
+    },
+    {
+      "id": "1300202785582652",
+      "score": 5,
+      "review_title": "Not working in LAN anymore",
+      "review_description": "It does not see any PCs on the local area network if there is no active internet connection. Before, it had been working for years without the internet, but now it doesn't. Nothing has been changed on my side. If the internet is present, PCs on the LAN connect instantly. If not, the headset - even after connecting to the same network as the PC - says it cannot find any computers (\"Entitlement check timed out\" error.). It seems it has to contact the internet first; if it can't, it simply does not proceed with the connection.\n\nUPDATE: I've figured it out. If I modify my Wi-Fi settings (inside the headset - WiFi / Disconnect / Edit / Advanced / Gateway) by setting the gateway to '127 . 0 . 0 . 1' (and leaving the DNS servers blank), Virtual Desktop can suddenly find my PC instantly (although the \"Meta servers unavailable\" message still appears, but it has always been like that). I can block and unblock the Quest 3 on my router, and it doesn't affect anything anymore. It works now.",
+      "date": 1776654025,
+      "review_helpful_count": 3,
+      "author_display_name": "asoculuspl",
+      "author_alias": "asoculuspl",
+      "developer_response": {
+        "body": "Update: Looks like Meta is going A/B tests and screwing with the ability to use the headset while offline for some users. Report this issue to Meta since it’s a problem on their side.\n\nThanks for sharing your workaround!",
+        "date": 1776650005
+      }
+    },
+    {
+      "id": "974160445787000",
+      "score": 5,
+      "review_title": "Perfect w/ Instructions Below",
+      "review_description": "First things first, I have a WIFI repeater inside my room with a gaming pc wired directly to the repeater. I set my Quest 3 on the same WIFI that's being created by the repeater and it all works flawlessly. I have found that virtual desktop has the best performance for wireless singleplayer PCVR games. I haven't attempted any multiplayer games yet. \n\nOverall, I don't have any regrets, it's been a great experience so far. Just gotta know what you're doing. Enjoy.",
+      "date": 1771983918,
+      "review_helpful_count": 38,
+      "author_display_name": "JPINTUITION",
+      "author_alias": "JPINTUITION",
+      "developer_response": null
+    },
+    {
+      "id": "988663363641665",
+      "score": 1,
+      "review_title": "This app is annoying when app is opened",
+      "review_description": "Basically it was working but when you do some vr stuff it just kicks me off into: no computer found now i really want to switch over to steam link because steam link might be way better than virtual desktop man you need to put on into: Early Access because im getting a gaming computer on my Birthday when i get it im uninstalling this app and im installing steam link.",
+      "date": 1777926996,
+      "review_helpful_count": 1,
+      "author_display_name": "AustinVR1800",
+      "author_alias": "AustinVR1800",
+      "developer_response": {
+        "body": "If you get disconnected, that’s an issue with your network setup. You’ve already told us that you don’t meet the minimum requirements. Start by meeting them and your experience will be a lot better. Your computer must be wired to your router with an Ethernet cable and if you want to stream PCVR games, you need a VR ready PC.",
+        "date": 1777946764
+      }
+    },
+    {
+      "id": "3011870449021686",
+      "score": 5,
+      "review_title": "Way better than Air Link",
+      "review_description": "How on Earth a single person Dev can create a VASTLY superior product to the giant Meta... for Meta's own platform, is beyond my comprehension. Air Link is glitchy as heck, has a horrible UI, and is always a struggle for me to connect to. Virtual Desktop just works, and has a vastly superior UI. It is both extremely impressive what Guy Godin (dev) has built, and extremely sad that Meta can't even come close to matching what a single external person has done.",
+      "date": 1777136377,
+      "review_helpful_count": 2,
+      "author_display_name": "megamanjim",
+      "author_alias": "megamanjim",
+      "developer_response": null
+    },
+    {
+      "id": "1102506312948038",
+      "score": 5,
+      "review_title": "Virtual Desktop or bust.",
+      "review_description": "By far the best of the consumer-friendly streaming apps, in my opinion. The options are made accessible to the user without a bunch of extra tools running, explained clearly, configured easily, and seem to make the most of the hardware you're running on.\n\nBetween that and it being lightweight, responsive and sharp... I don't see myself ever going back to Air Link or Steam Link.",
+      "date": 1777594173,
+      "review_helpful_count": 1,
+      "author_display_name": "Jorination",
+      "author_alias": "Jorination",
+      "developer_response": null
+    },
+    {
+      "id": "1194378830416739",
+      "score": 5,
+      "review_title": "Mandatory App for Quest 3 wireless pcvr",
+      "review_description": "Works flawlessly. Constant updates. New features. \nI can 100% recommend this app for anyone who is considering using their Quest 3 for PCVR wirelessly. Just follow the guidelines in their discord including a dedicated router and you are set.",
+      "date": 1781000408,
+      "review_helpful_count": 0,
+      "author_display_name": "setsch.2025",
+      "author_alias": "setsch.2025",
+      "developer_response": null
+    },
+    {
+      "id": "1029224646949546",
+      "score": 5,
+      "review_title": "I saved this for last",
+      "review_description": "When I first got my quest 3 I wanted to do my due diligence in exploring all it had to offer out of the box, and later with side loaded apps. I'd say with GeForce Now (if you're willing to pay for that, and either deal with a web page in between or side load their APK), that would be a viable alternative when it comes to just playing PC games you own remotely with immersion. \n\nThis obviously does far more than that, and I had a 3080 Ti 12 GB equipped gaming PC that I'd built a couple of years ago that I wanted to leverage. I also didn't want to pay a subscription to access things I already own given I had the hardware covered. This has been great for that at a fair one time purchase price - I used to have my own theater in my basement where I did my gaming. I'm a dad. The TV gets monopolized by the kids and this allowed me to get the value of PC gaming back without an entire dedicated space. I don't even plug a monitor into my desktop PC. I can resize windows at will and be comfortable when I play games or go crazy with 100 tabs for multitasking. \n\nGetting to play things like Crimson Desert and the like in VR make for a beautiful experience. I use this wirelessly and have my PC wired via gigabit Ethernet to my router. I intend to experiment next with an Ethernet to USB c converter (with poe PD support) next to have the adapter on my strap for both max bandwidth and charging at the same time, rather than have any wifi involved.",
+      "date": 1775685735,
+      "review_helpful_count": 2,
+      "author_display_name": "jasonsexton2010",
+      "author_alias": "jasonsexton2010",
+      "developer_response": null
+    },
+    {
+      "id": "985116701134590",
+      "score": 4,
+      "review_title": "I Think Its Good But",
+      "review_description": "Sometimes its seems very laggy the image looks like y trash even when no one is connected to the internet its really good ngl but i dont like see the image like trash (My pc is connected to ethernet and i have a 5g internet) so idk what's happening but at least is very good even sometimes tbe interent is being used by a lot of people",
+      "date": 1777855085,
+      "review_helpful_count": 0,
+      "author_display_name": "Javiervr543",
+      "author_alias": "Javiervr543",
+      "developer_response": {
+        "body": "Reach out on Discord and we’ll be happy to give suggestions: http://discord.vrdesktop.net",
+        "date": 1777902624
+      }
+    },
+    {
+      "id": "1008987092293748",
+      "score": 1,
+      "review_title": "Auto updates broke everything",
+      "review_description": "Everything was perfect, everything works, but VD decided to make auto update without asking me. And now I cant run steamvr, I reinstall everything, updated drivers, downgraded VD, but it doesn't allow to connect to quest without auto update. Except of relax, I spend 2 hours trying to fix it.",
+      "date": 1771008769,
+      "review_helpful_count": 31,
+      "author_display_name": "Bubuka0",
+      "author_alias": "Bubuka0",
+      "developer_response": {
+        "body": "Hi, the Quest OS auto-installs updates not us. Make sure both the app in your headset and the Streamer on your computer are at version 1.34.16\n\nIf you need assistance, reach out on Discord, that’s where we do support, not in the review section: http://discord.vrdesktop.net",
+        "date": 1771010799
+      }
+    },
+    {
+      "id": "1300820848838911",
+      "score": 2,
+      "review_title": "not worth it anymore",
+      "review_description": "when I first got it the app was great but recently I’ve been experiencing some problems first one is it is much harder to launch modded games from the oculus store I didn’t have much of a problem back then but nowadays it feels like trying to diffuse a bomb you have to get it all properly done in one go in one mistake and you die except instead of death you have to restart every application related to what you’re trying to do and second off the desktops my second monitor will no longer appear in the menu meaning I have to manually switch monitors by pressing Y on one screen and for some reason on my second monitor I’m getting eight whole seconds of delay￼\n\nI don’t know what has been going on with you guys but I’m hoping you guys fix this as soon as possible because this app is still good for steam VR games and games from the oculus store if not modded ￼",
+      "date": 1781207097,
+      "review_helpful_count": 1,
+      "author_display_name": "blastopher",
+      "author_alias": "blastopher",
+      "developer_response": {
+        "body": "No one has reported such issues. Make sure you are using the recommended drivers (see our Discord), reach out to us over there for support: http://discord.vrdesktop.net\n\nIf a monitor isn’t captured by Windows, simply restarting your computer will solve this.",
+        "date": 1781441381
+      }
+    },
+    {
+      "id": "1122511924279491",
+      "score": 1,
+      "review_title": "The worst experience I've ever had.",
+      "review_description": "An utter abomination. I've spent 40 hours trying to set up MQ3 VR on PC. The worst interaction with a piece of software I've had as an IT consultant. The headset is in pieces in the bin. I'll shop elsewhere. Absolutely dreadful",
+      "date": 1778710237,
+      "review_helpful_count": 2,
+      "author_display_name": "gerrymay",
+      "author_alias": "gerrymay",
+      "developer_response": {
+        "body": "Strange, most 13 year old kids are able to set it up in a few minutes. I’m not sure what you could get stuck on for 40 hours? The instructions are shown when you launch the app. In any case, if you need help, simply reach out on Discord and we’ll be able to help you: http://discord.vrdesktop.net",
+        "date": 1778712913
+      }
+    },
+    {
+      "id": "26247683628197944",
+      "score": 5,
+      "review_title": "The best way to play PCVR",
+      "review_description": "I've had VD since the earliest days, and it consistently works better than any alternatives. I am amazed that Guy continues to update the app. If you want to play PCVR, this is the way to go. It is a little more complicated than just Air link or the Steam app, but it gives you so much more control over your settings. There are many tutorials on YouTube to walk you though the right settings for your computer, so that shouldn't frighten anyone off. This app gives you the smoothest, clearest and most stable way to play PC games on your Quest.",
+      "date": 1771914410,
+      "review_helpful_count": 8,
+      "author_display_name": "Nunyabinez",
+      "author_alias": "Nunyabinez",
+      "developer_response": null
+    },
+    {
+      "id": "1661964481656949",
+      "score": 4,
+      "review_title": "Incredibly reliable, great image quality",
+      "review_description": "Virtual Desktop is a required purchase w/ Q3 and PCVR. Going from the hugely unpredictable Meta Link app to this was the best kind of whiplash -- without it, I was only able to connect via airlink 25% of the time. Some days it would work perfect, and then the following morning it was like my system had been hacked, sometimes with a black screen that never resolves, other times working barely with stuttering, broken frames, audio issues that made me think either my PC or headset were the culprit. They never were, and it appears the only issues are with the Meta Link app to connect wirelessly. Just about every day, I still test to see if Meta Link app has improved, only to regularly still see the issue. All that friction was eliminated with Virtual Desktop.\n\nSo why not 5 stars? The only 'friction' I have any more with VR is when VD is updated, adds a new feature, but you've got to go to the discord or beg folks on reddit to post for you. This isn't just a 'me' problem, I see it all the time in the community, and at my day job (QA lead for VR training software house). It could be fixed with simple update/patch notes, that launch with the streamer when you update it. Other than that, VD has been on top of things for about 95% of what I play on Steam, but I still get the occasional game that releases untested with it, and if i'm impatient (and steam forums suggest this happens semi-regularly), I'll resort to using the less-performant, heavier Steam Link app until the game developer realizes what is missing to have it function with Virtual Desktop.\n\nDon't let that big wall of explanation above stop you it is an easy 4.5+ star app, absolutely essential, I use it with both my home desktop & laptop with Quest 3. A big part of the 'friction' people seem to have has to do with their hw setup for wireless VR. VD works best if you have your PC connected directly to a router. It isn't intended to work on whole-home wifi routers, wasn't built with that setup in mind. Try it!",
+      "date": 1775854156,
+      "review_helpful_count": 1,
+      "author_display_name": "phylum_sinter",
+      "author_alias": "phylum_sinter",
+      "developer_response": null
+    },
+    {
+      "id": "2348090575690924",
+      "score": 5,
+      "review_title": "Simply a requirement for me",
+      "review_description": "If you want to connect your Quest headset to pc for games, This is simply the best you can do. It works for me every time. Why others leave bad reviews I don't know. You should troubleshot your pc before jumping the gun. If VR desktop doesn't work for you, It's like a user end problem. Not with the software. Looking forward to the next update.",
+      "date": 1772382224,
+      "review_helpful_count": 7,
+      "author_display_name": "culley39",
+      "author_alias": "culley39",
+      "developer_response": null
+    },
+    {
+      "id": "925913653620174",
+      "score": 5,
+      "review_title": "Amazing App",
+      "review_description": "I love this app and all of the options it lets me choose from. I have had a great and smooth experience with it. There is one bug however that reoccurs. Sometimes after opening the desktop by double pressing the left menu button everything freezes, and I have to wait a minute for it to come back. This could be an issue with my PC in specific but thought I should mention it anyways.",
+      "date": 1775674518,
+      "review_helpful_count": 1,
+      "author_display_name": "TurboTechWizard",
+      "author_alias": "TurboTechWizard",
+      "developer_response": null
+    },
+    {
+      "id": "1033878599800680",
+      "score": 5,
+      "review_title": "Amazing for PC Gamers",
+      "review_description": "It's worth the price just with all the environment designs, there's like 12+ so it's like 2$ each. I like all different theatres, but I really enjoy the apartment with the live SkyView apartment environment. It's just so cool to look at cars and little tiny people down below with a beautiful skyline view of daytime/sunset/night time. It's great for tricking your mind on a rainy day having a sunny skyline.\n\nBut just having a huge theatre screen displaying your computer desktop is so handy, no logging in or anything, just everything you want already done.  It'd be great if there was some sort of multiplayer environment but that's probably asking too much. It already streams everything flawlessly and has really good settings to tweak everything exactly how you want it. It can be a little overwhelming but that's just because you now have lots of options.\n\nAll the free options like Quest Link, ALVR, and Steam Link etc. are fine but Virtual Desktop has a long history of bug fixes so it just works so much better. Things you can't fix on one you can here. They frequently update the software so it's a good deal because the developers care a lot about it. 🌟",
+      "date": 1770936736,
+      "review_helpful_count": 13,
+      "author_display_name": "EchoeDude001",
+      "author_alias": "EchoeDude001",
+      "developer_response": null
+    },
+    {
+      "id": "900692069794805",
+      "score": 1,
+      "review_title": "",
+      "review_description": "It's very difficult to connect to my computer now.\nWhen I first bought this software, it took less than 10 seconds to successfully connect to the PC. Now it either completely fails to connect, shows “Try Again,” or can't even detect the computer at all!\nCurrently, the only way I can remotely connect to my computer is by using Steam Link, which successfully connects in just a few seconds from launching the app.\nI really don't understand why VD gets harder and harder to connect with every update. This is the most basic and core function — it should connect quickly and reliably, not force users to spend ten or even thirty minutes every single time just to get it working.",
+      "date": 1765196127,
+      "review_helpful_count": 325,
+      "author_display_name": "a1184991836",
+      "author_alias": "a1184991836",
+      "developer_response": {
+        "body": "Hi, that’s not normal. The connection logic has not changed in 5 years. If you have trouble connecting it is because of a firewall, antivirus or VPN software interfering. Click Check for interfering apps in the About tab and follow the instructions. If you need more help, reach out on Discord and we’ll be happy to help you: http://discord.vrdesktop.net",
+        "date": 1766676676
+      }
+    },
+    {
+      "id": "1591554891930651",
+      "score": 5,
+      "review_title": "A must buy app held back by Meta",
+      "review_description": "Horizon OS is the only thing keeping this from being a 10/10 experience. Unfortunately it can’t keep up with the demands of Virtual Desktop which is extremely unfortunate. When it does perform, this app delivers unrivaled quality and responsiveness. If only the Quest operating system wasn’t built so horrendously I would say this is easily the definitive way to play PCVR titles… that crown now goes to any dedicated wired headset instead.",
+      "date": 1776664930,
+      "review_helpful_count": 0,
+      "author_display_name": "rockothetaco",
+      "author_alias": "rockothetaco",
+      "developer_response": null
+    },
+    {
+      "id": "1297180615662582",
+      "score": 5,
+      "review_title": "Absolutely fantastic application",
+      "review_description": "I know the developer says they don't recommend you use the application through Wi-Fi but I don't know if it's because I have a high quality Wi-Fi connection but I can game pcvr wirelessly from my RTX 3080 to my 3s with bare minimum lag spikes if not any at all during sometimes of the day and I'm playing high Fidelity games like the cyberpunk 2077 VR mod and I'm getting completely stable frames and I can also benefit from the bare minimum vram usage that virtual desktop consumes which is very beneficial for my 10 GB vram card. \n\nAlso it has very pretty environments .Overall I feel like if you have a very high quality Wi-Fi setup and ethernet is not an option because your computer is far away from the router, Wi-Fi is completely acceptable especially if you have a triband router where you can isolate one of the 5 GHz connections just for your PC and your headset.",
+      "date": 1774914793,
+      "review_helpful_count": 1,
+      "author_display_name": "Torimctori",
+      "author_alias": "Torimctori",
+      "developer_response": null
+    },
+    {
+      "id": "1039052685960471",
+      "score": 1,
+      "review_title": "DOESN’T WORK PROPERLY",
+      "review_description": "When using virtual desktop with steamvr it never seems to work, it constantly makes me restart steamvr, and by the end of it i never get to play any games. I have a steady pc, but virtual desktop some how always messes it up. Whether its bitrate or fps, ill have 200 bitrate and then somehow have 0 fps. The software is clunky and doesnt work. Would not recommend for the price.",
+      "date": 1774539428,
+      "review_helpful_count": 3,
+      "author_display_name": "GeeloGelo",
+      "author_alias": "GeeloGelo",
+      "developer_response": {
+        "body": "That’s something with your setup. Make sure you meet the minimum requirements then reach out on Discord and we’ll be happy to help: http://discord.vrdesktop.net",
+        "date": 1774539963
+      }
+    },
+    {
+      "id": "1418133983413298",
+      "score": 5,
+      "review_title": "great with Mac mini",
+      "review_description": "this works so well with my Mac mini\n\nYears later, this is still my go-to app to watch porn in bed.",
+      "date": 1778130049,
+      "review_helpful_count": 0,
+      "author_display_name": "Lazy_Enabled",
+      "author_alias": "Lazy_Enabled",
+      "developer_response": null
+    },
+    {
+      "id": "1112531635273307",
+      "score": 4,
+      "review_title": "Works fine",
+      "review_description": "The app is fine, but sometimes crashes and, I still recommend it though since it's the best app to connect to PC.",
+      "date": 1777922815,
+      "review_helpful_count": 0,
+      "author_display_name": "GlowingWren407",
+      "author_alias": "GlowingWren407",
+      "developer_response": null
+    },
+    {
+      "id": "1336014708439419",
+      "score": 5,
+      "review_title": "Hello #review-rant",
+      "review_description": "I love virtual desktop",
+      "date": 1779140353,
+      "review_helpful_count": 0,
+      "author_display_name": "jtriveri",
+      "author_alias": "jtriveri",
+      "developer_response": null
+    },
+    {
+      "id": "1091034907422620",
+      "score": 5,
+      "review_title": "Saved pcvr for me",
+      "review_description": "So I can’t have a Ethernet cable sadly so I can’t get the best quality but even for that NO lag it’s insane it saved my pcvr experience and it’s also just super cool to watch a movie in one of the environments",
+      "date": 1775859949,
+      "review_helpful_count": 1,
+      "author_display_name": "RedEyeVR123",
+      "author_alias": "RedEyeVR123",
+      "developer_response": null
+    },
+    {
+      "id": "2785170505158295",
+      "score": 5,
+      "review_title": "This is access to the best of both world",
+      "review_description": "I didn't believe it until I did it, but virtual desktop just made the Quest3 my main head set for both PC and stand alone VR experiences. Being cable free with a quest was in it's self enlightening. Now with Virtual desktop, all my PC VR apps are also cable free. If you have a Mesh network like I do, im talking access to your PC for what ever, where ever. Love it.  For mesh though make sure its wired backhaul preferably 2.5GB. \n\nMy only issue is the fact that in my case i have to run it with a outdated nvidia driver. If your a 3 or 4 series your are stuck with and old driver that your other games or apps might not like and you have to choose between virtual desktop or the app.",
+      "date": 1770941153,
+      "review_helpful_count": 6,
+      "author_display_name": "michael.flash",
+      "author_alias": "michael.flash",
+      "developer_response": null
+    },
+    {
+      "id": "918717387744816",
+      "score": 1,
+      "review_title": "Good but-",
+      "review_description": "This app is AMAZING from a view of others, I bought the app thinking I could play vr games wireless from my desktop (which you can) BUT, this is to the devs of this app, PLEASE ADD LINUX COMPATIBILITY ON DESKTOP, whenever I try to run the windows setup exe, it doesn’t open the app, at least add a Linux “.appimage” or a Linux distribution download button on your website it would make everything so much easier for me, btw switching back to windows i something I can’t switch to anymore because of the new update. I would be very thankful if the devs added this and would change my mind about this app.",
+      "date": 1774275866,
+      "review_helpful_count": 2,
+      "author_display_name": "Gorillamaster21",
+      "author_alias": "Gorillamaster21",
+      "developer_response": {
+        "body": "Hi, the website and app description CLEARLY indicate that the app is for Windows and macOS only. You are giving us 1 star for something the app never says it would do or support. That’s not helpful at all.",
+        "date": 1774280406
+      }
+    },
+    {
+      "id": "1068852212977738",
+      "score": 2,
+      "review_title": "Really? Payed for some bs?",
+      "review_description": "Really, I can run many games already individually that both require wifi very easily on my meta and my PC, then as soon as I pay for this app and use it all the sudden everything become way below necessary amount? I get streaming with it, but a PSVR with how it was before was better, I shouldn't need stronger internet than I already do, it's great already, then suddenly I can barely even hop on VRC on this... Especially this being $20CAD is even worse, just make it free, it would be so much easier for people who dumped money on a VR headset and have a PC, I hated hearing the \"oh you can't get that even though you just spent hundreds of dollars on a PC and VR\" LIKE ITS STUPID should honestly be free at least",
+      "date": 1776226317,
+      "review_helpful_count": 1,
+      "author_display_name": "arkhamcompletionest",
+      "author_alias": "arkhamcompletionest",
+      "developer_response": {
+        "body": "Your internet speeds are irrelevant when streaming with Virtual Desktop; it doesn’t use your internet. Make sure your computer is wired to your router with an Ethernet cable as it says in the requirements. If a game has performance issues, reduce the in-game settings or reach out to their developers. If you need more help, reach out on Discord and we’ll be happy to help: http://discord.vrdesktop.net\n\nFinally, about making the app free, what if I told you to go to work every day but you won’t get paid, ever. How does that sound? How would you eat, pay for rent and live without income?",
+        "date": 1776432740
+      }
+    },
+    {
+      "id": "1154947631028026",
+      "score": 5,
+      "review_title": "Nice working app from invested Devs",
+      "review_description": "The app itself works fine and offers a lot of options to fine-tune the experience/performance. A must have for pc linking. \nThe Devs respond really fast to Feedback.",
+      "date": 1775983482,
+      "review_helpful_count": 0,
+      "author_display_name": "DeeBuzzDee",
+      "author_alias": "DeeBuzzDee",
+      "developer_response": {
+        "body": "The Quest OS and options in the Meta phone app control updates, not us. Uncheck “Automatically install updates” in the Horizon phone app.",
+        "date": 1775917859
+      }
+    },
+    {
+      "id": "1071278316063855",
+      "score": 5,
+      "review_title": "A must have for PCVR gaming",
+      "review_description": "I was honestly skeptical about this first, but I was pretty much forced when SteamVR kept disconnecting and sent me Error Code 450.\n\nI had a 5GHz literally next to me and 6700XT that could run most games without issue (still waiting out the chip shortage before upgrading) but SteamVR keeps failing... \n\nWith this app? I played for an hour and haven't had any problems with the connection or bitrate. Worth spending the money even without a sale or discount.",
+      "date": 1775041130,
+      "review_helpful_count": 0,
+      "author_display_name": "makicmaki",
+      "author_alias": "makicmaki",
+      "developer_response": null
+    },
+    {
+      "id": "902877489212448",
+      "score": 1,
+      "review_title": "Having a box view",
+      "review_description": "Having a issue now that my view became a box with making everything outside of it blurry now with it only happening with just this app. I even reinstalled but it did not fix the issue.\n\nupdate, the box is still there even with the setting are default all at 100% it is just transparent but makes every thing darker and blurry but inside is clear.",
+      "date": 1773377096,
+      "review_helpful_count": 1,
+      "author_display_name": "scownyy",
+      "author_alias": "scownyy",
+      "developer_response": {
+        "body": "Hi, make sure you didn’t lower the FOV sliders in the Streamer window, Advanced tab on your computer. If you need more help. Reach out on Discord: http://discord.vrdesktop.net\n\nUpdate: This is likely a bug introduced by Meta where they are A/B testing stuff and messing with users. A factory reset of your headset will temporarily resolve this",
+        "date": 1773594594
+      }
+    },
+    {
+      "id": "2983702298491737",
+      "score": 5,
+      "review_title": "Consistently Beats the Big Players",
+      "review_description": "This app is amazing and updated constantly.  It has always been consistently great, consistently cutting edge. It puts the big player's streaming apps to shame",
+      "date": 1775768755,
+      "review_helpful_count": 0,
+      "author_display_name": "Monty_B",
+      "author_alias": "Monty_B",
+      "developer_response": null
+    },
+    {
+      "id": "1313603027329667",
+      "score": 5,
+      "review_title": "Must have app for PC VR",
+      "review_description": "I highly recommend this app, Guy updates it regularly, it is simply the best. Latency and quality is better than using the wired link cable. I LOVE THIS APP!!!",
+      "date": 1775700228,
+      "review_helpful_count": 1,
+      "author_display_name": "Strider0303",
+      "author_alias": "Strider0303",
+      "developer_response": null
+    },
+    {
+      "id": "1142439002275459",
+      "score": 5,
+      "review_title": "Amazing app",
+      "review_description": "In times of doubts, just try Meta Horizon Link again. Wish I could give a star for each time Meta's app lost connection.",
+      "date": 1776327984,
+      "review_helpful_count": 0,
+      "author_display_name": "TheSwissGuy",
+      "author_alias": "TheSwissGuy",
+      "developer_response": null
+    },
+    {
+      "id": "873637598402025",
+      "score": 5,
+      "review_title": "Wish I would've bought it sooner",
+      "review_description": "I was on the fence about this app for a long time tried air link and I found that I lost a lot of image quality. so I switched to wired using the expensive oculus link cable and It was grate till it wasn't  I started to have issues with the cable.. So I decided to give steam link a try since it's free it worked fine but image was too blurry around the sides..so I finally decided to try Virtual Desktop and this is by far the best option the games look better than ever and now I don't have to worry about getting tangled in a cable I'm reinstalling all my vr games again just to play them again.. Don't know what kind of magic they're using but it works. I'm super happy with my purchase.",
+      "date": 1765987572,
+      "review_helpful_count": 104,
+      "author_display_name": "Homicide26",
+      "author_alias": "Homicide26",
+      "developer_response": null
+    },
+    {
+      "id": "26095514726743262",
+      "score": 1,
+      "review_title": "Glitchy. Vertical lines on screen.",
+      "review_description": "This app has many problems, mainly that it leaves two vertical lines on either side of your vision due the foveated encoding. Very annoying and noticeable.\n\nI asked for help in their discord and they told me it was intended behavior, then muted me when I suggested it's a bug.\n\nHorrible experience. Just get Steam Link for free instead. I will be attempting to get my money back.",
+      "date": 1773350769,
+      "review_helpful_count": 2,
+      "author_display_name": "c235847",
+      "author_alias": "c235847",
+      "developer_response": {
+        "body": "Hi, the issue with vertical lines is greatly improved in the latest v1.34.18 version.",
+        "date": 1775696125
+      }
+    },
+    {
+      "id": "3982382708723038",
+      "score": 1,
+      "review_title": "Used to be useful (not now)",
+      "review_description": "Well, this app was really useful few years ago. Bought it now again, aaaand... Nope, after spending few hours during 2 evenings, with 2 headsets, and have to admit I can't connect it to my mac. No VPNs, no antiviruses, few setups tried.\nA message inside the app \"No Wi-Fi connection\" on the same screen, where Wi-Fi bitrate is shown - probably is a feature.\nRead and done all FAQ suggestions.\nSarcastic or even rude comments from developers to anyone with similar problems just makes me stop trying.\nWill try to refund in a hope I've spend less than 2 hrs inside the app itself, looking at my computer name and re-trying the connection.\nAh, and BTW, Imme&#%d works.",
+      "date": 1781642329,
+      "review_helpful_count": 0,
+      "author_display_name": "Lsync",
+      "author_alias": "Lsync",
+      "developer_response": {
+        "body": "Well, nothing changed with the app in terms of connectivity but Meta has been screwing up with the identity validation lately so that could be what you are seeing. To refresh the computers tab, simply pull down on it, that should refresh your list of computers. Make sure the Streamer on your Mac is running the same version (1.34.18). You can download the latest version from the website. Also, double-check that your entered Meta username matches the one displayed in VR. Also, disable the firewall in your Mac settings. Reach out on Discord if you need more help: http://discord.vrdesktop.net",
+        "date": 1781665302
+      }
+    },
+    {
+      "id": "989679090875945",
+      "score": 1,
+      "review_title": "First connection fails after cold start",
+      "review_description": "Regression in 1.34.x on Quest Pro: first connection attempt always fails during handshake after cold start, second attempt usually succeeds.\nOnce connected, streaming is fully stable (400 Mbps OK).\nDid not happen in 1.33.x. Windows 10, NVIDIA 57x+ drivers.\nHope this can be investigated.",
+      "date": 1767069009,
+      "review_helpful_count": 29,
+      "author_display_name": "us.8964",
+      "author_alias": "us.8964",
+      "developer_response": {
+        "body": "Hi, this is fixed in version 1.34.18",
+        "date": 1775677625
+      }
+    },
+    {
+      "id": "1615855132874117",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "I see people complain that this app is too complicated or really laggy and it’s silly. Virtual desktop pushes the maximum out of your hardware, if you’re looking for an app for your rubbish family Wi-Fi with a sacrifice in quality for latency try steam link. \n\nStop viewing a dedicated router as optional IT IS A REQUIREMENT and once you do buy one it’s mind blowing. Running 500 megabits with a half decent router feels like running wired! \n\nMy only real complaint was connection reliability but in the most recent update this is genuinely MUCH MUCH better and at this time this app is as perfect as it could be :)\n\n(Best purchase I’ve ever made)",
+      "date": 1772840232,
+      "review_helpful_count": 1,
+      "author_display_name": "CatMasterWill",
+      "author_alias": "CatMasterWill",
+      "developer_response": null
+    },
+    {
+      "id": "1542669880322332",
+      "score": 5,
+      "review_title": "VR Streaming? You get what you pay for",
+      "review_description": "I've been using the official Oculus (and now Meta Horizon) link since my Quest 1 because it was free and official. However, the free app ended up costing me my sanity. Unplayable stutters and infinite loading screens with Meta on my PC. Virtual Desktop? I haven't had it for long but I'm already leaving a review because I was blown away with how immediately better it was. I'll update it if anything ever goes wrong, but I hope nothing will. I don't even have an \"optimal setup\". I'm using a cat5 Ethernet cable instead of a faster cat6, but it still runs like butter compared to Air Link. So far, it just works (no Todd Howard). Just make sure you listen to any warnings/suggestions it gives you, they're there for a reason. I was even surprised by features like when I put down my controllers and was able to play a climbing game with hand tracking.\n\n5 Stars for now, and I hope I never have to change it.",
+      "date": 1766260500,
+      "review_helpful_count": 41,
+      "author_display_name": "JohnOculusQuest3",
+      "author_alias": "JohnOculusQuest3",
+      "developer_response": null
+    },
+    {
+      "id": "1038921172632896",
+      "score": 1,
+      "review_title": "Dear virtual desktop",
+      "review_description": "I’m writing this because I’ve been using it for a while and it was working the recent update the pro lags a lot pixilated and just frame drops. I have 6ghz and a 5090 with a Ryzen 9 9950x3d so ik it’s not my pc",
+      "date": 1771695855,
+      "review_helpful_count": 4,
+      "author_display_name": "BluBulma",
+      "author_alias": "BluBulma",
+      "developer_response": {
+        "body": "Latency and frame drops are not caused by an update. It’s an issue with your setup. Try restarting your router as first step. If you need more help, reach out on Discord: http://discord.vrdesktop.net",
+        "date": 1771718117
+      }
+    },
+    {
+      "id": "1470962718375051",
+      "score": 5,
+      "review_title": "Good to fix link issue",
+      "review_description": "This is terrible. It's impossibile to play with this app. While using Virtual Desktop Oculus Quest 2 is not able to move my virtual hands as fast as I am using pads. Air link works much better. This app is waste of money.\n\nEdit. After years and Q3 this seems to be only way to fix issue meta created with link. As meta didn't fixed it still after 3 months, VD is a good option. With Q3 works good!",
+      "date": 1775215964,
+      "review_helpful_count": 1,
+      "author_display_name": "KaygaNaki",
+      "author_alias": "KaygaNaki",
+      "developer_response": null
+    },
+    {
+      "id": "1113563455179692",
+      "score": 5,
+      "review_title": "Miles above the rest",
+      "review_description": "I use my Quest with my PC a lot, and I've used Quest Link, Immersed, and Remote Desktop, and tried some open source stuff as well, but all of them were either buggy or didn't have features I needed, so I decided to bite the bullet and make my first ever paid Meta app purchase with this app. \n\nThis saved me a capture card purchase, since this works even better. The OpenXR implementation for some reason works better than Steam's for SteamVR games. For working, it's a seamless experience with multiple monitors and conducive immersive environments. There's also a 3D/SBS setting if you ever found anything it works with.\n\nI have encountered a few bugs, and there's really no documentation or anything on the website (aside from a 7 year-old ToS/Privacy Policy with odd wording, so I probably wouldn't install this on my corporate PC) and you'd need to join the Discord to know anything really, but since it's just better than anything else out there it's 5 stars from me.",
+      "date": 1781006813,
+      "review_helpful_count": 0,
+      "author_display_name": "tyreeese",
+      "author_alias": "tyreeese",
+      "developer_response": null
+    },
+    {
+      "id": "1578228886720813",
+      "score": 5,
+      "review_title": "The most important VR app",
+      "review_description": "Seriously, there is no better piece of software for the Quest. The ability to seamlessly connect to PC, play PC VR games, and even emulate full body tracking to a shockingly successful degree is impressive. If you have a PC and want to use it on your Quest, this is the way to do it",
+      "date": 1772406950,
+      "review_helpful_count": 1,
+      "author_display_name": "Pocet",
+      "author_alias": "Pocet",
+      "developer_response": null
+    },
+    {
+      "id": "1105950579263238",
+      "score": 4,
+      "review_title": "No more 96 and 100 fps mode !!!!!!!!!",
+      "review_description": "Hello, why did Meta remove 96 and 100 fps mode in Virtual Desktop ?!? Please return back because it was very useful 🙏🙏🙏",
+      "date": 1775230640,
+      "review_helpful_count": 1,
+      "author_display_name": "bigfred.67",
+      "author_alias": "bigfred.67",
+      "developer_response": {
+        "body": "Meta removed them. That’s out of our control.",
+        "date": 1775147652
+      }
+    },
+    {
+      "id": "1006823605261818",
+      "score": 5,
+      "review_title": "Perfect",
+      "review_description": "I was using steam link for some time and it was always crashing with steamvr error i bought this app and now i play smooth without lagging and crashing idk why but it runs better than any app i tried before",
+      "date": 1781645645,
+      "review_helpful_count": 0,
+      "author_display_name": "Qcore",
+      "author_alias": "Qcore",
+      "developer_response": null
+    },
+    {
+      "id": "962407109581298",
+      "score": 5,
+      "review_title": "Fantastic app",
+      "review_description": "Still working perfectly and continuously updated.",
+      "date": 1775687242,
+      "review_helpful_count": 1,
+      "author_display_name": "Drbluewoffle",
+      "author_alias": "Drbluewoffle",
+      "developer_response": null
+    },
+    {
+      "id": "1345700997360721",
+      "score": 1,
+      "review_title": "Trash app that works 1/5 time",
+      "review_description": "Used to be a great app\n\nNow cant use it for shot because most of the time it straight up doesnt work\n\nMy wifi is good\nMy router is good\nThis issue isnt on my side or whatever the dev tries to say",
+      "date": 1773698770,
+      "review_helpful_count": 1,
+      "author_display_name": "McKaze",
+      "author_alias": "McKaze",
+      "developer_response": {
+        "body": "This isn’t the place for support, if you need help, reach out on Discord: http://discord.vrdesktop.net\nYou haven’t said anything about your issue. What’s the error message you see? What doesn’t work exactly? The app hasn’t had an update in months. Provide more information on Discord and we’ll be happy to help.\n\n“It doesn’t work” isn’t helpful at all.",
+        "date": 1773889952
+      }
+    },
+    {
+      "id": "1033839949807353",
+      "score": 5,
+      "review_title": "Better than steam link by a longshot",
+      "review_description": "Lemme explain. I got a quest 2 from a friend. First app I use was steam link, it was real finicky to use cause it keeps crashing, but this is worth a purchase because this app doesn't crash often while playing PCVR games they steam. Totally save $25 for this app, worth the purchase!",
+      "date": 1771427239,
+      "review_helpful_count": 0,
+      "author_display_name": "xZAlpha1337x",
+      "author_alias": "xZAlpha1337x",
+      "developer_response": null
+    },
+    {
+      "id": "1469415738081482",
+      "score": 5,
+      "review_title": "Outshines Oculus In Almost Every Way",
+      "review_description": "I strictly use Virtual Desktop through a standard USB-C to USB-C cable with RT-RP (gnirehtet repack) and it's very good. You can access your Quest settings again while playing PCVR, easily re-center, put on that crappy red filter if you really want to, use IOBT and Hand Tracking with SteamVR, take screenshots easier and better looking than Oculus', not have to deal with switching audio devices whenever you get in VR (besides mic), there's a dedicated start SteamVR button, assurance that the software won't break with an update like Oculus. All that compared to Oculus and you can still play your Oculus library games. Only thing I will say is Oculus Link has way better brightness/colors at least in my opinion because dark scenes are often too dark and bright scenes are often too bright with Virtual Desktop. I've found nothing to combat this but the pros out way the cons. Though I do hope that issue gets addressed some day. The developer really cares about his product and is always offering support in his Discord along with a big community that can help diagnose your issues too.",
+      "date": 1770936414,
+      "review_helpful_count": 0,
+      "author_display_name": "UnityTrap",
+      "author_alias": "UnityTrap",
+      "developer_response": null
+    },
+    {
+      "id": "926806376602538",
+      "score": 1,
+      "review_title": "Dont make my mistake and purchase it",
+      "review_description": "I made a mistake purchasing this hopping it will do better than immersed but i was totally wrong the app is full of bug with very high cost to why you get, i could not even use it properly although i used iz for 10 mins only i was not able to refund! Insane",
+      "date": 1771758449,
+      "review_helpful_count": 1,
+      "author_display_name": "HiWaGh",
+      "author_alias": "HiWaGh",
+      "developer_response": {
+        "body": "Reach out to Meta support about refund, they handle that. If you need help with the app, reach out on Discord: http://discord.vrdesktop.net\n\nThe app is a one-time purchase, no subscription. It isn’t expensive at all. Let us know what issue you have and we’ll be happy to help.",
+        "date": 1771764795
+      }
+    },
+    {
+      "id": "1647547346659997",
+      "score": 5,
+      "review_title": "Awesome app I use daily",
+      "review_description": "I have used Virtual Desktop almost daily for the past 5 years connecting my Quest headsets to PCVR for gaming through a dedicated 5Ghz router. It is definitely the best money I have ever put into VR. The time it has saved me from jumping around to the other link options and going through all their bugs is enormous. And all the configuration options are great, though the author @ggodin has kept the automatic options so up to date I rarely have to change anything anymore. If you value your time like I do, you should use Virtual Desktop and forget the other options.",
+      "date": 1771006092,
+      "review_helpful_count": 1,
+      "author_display_name": "MojaveMel",
+      "author_alias": "MojaveMel",
+      "developer_response": null
+    },
+    {
+      "id": "1035757929610517",
+      "score": 2,
+      "review_title": "Only US keyboard!?",
+      "review_description": "Nowhere to swap or add keymaps rendering it not useful.\n\nUpdate: Im on latest MacOS w SE keyboard and keymap; the app does not detect this and is locked to US keyboard. Blocking my intended usecase. Please fix and I’m happy to give a nice review.",
+      "date": 1770378688,
+      "review_helpful_count": 3,
+      "author_display_name": "Autonaut",
+      "author_alias": "Autonaut",
+      "developer_response": {
+        "body": "We support the most common keyboard layouts once you connect to your computer. It will automatically detect the layout you are using in Windows or macOS and apply it to the virtual keyboard. Why a 1 star review?",
+        "date": 1770268423
+      }
+    },
+    {
+      "id": "913197414828833",
+      "score": 5,
+      "review_title": "Absolute number 1 for wireless vr",
+      "review_description": "Works like a charm and so far no problems, you will need tinkering on options/setup depending on your router/rig, but I assume you know these things at some level.",
+      "date": 1773913662,
+      "review_helpful_count": 1,
+      "author_display_name": "JMPN",
+      "author_alias": "JMPN",
+      "developer_response": null
+    },
+    {
+      "id": "2102299026841112",
+      "score": 4,
+      "review_title": "Streaming video",
+      "review_description": "I'm having a real problem streaming video. It stutters to the point of sometimes being aggravating to watch. I've done all the \"fixes\" in  the headset and the PC vrdesktop streamer app, and nothing really helps. My hardware setup is all correct. Otherwise it's a must have, but I'm looking for an app that streams 4K without the jumpy video. I've narrowed the problem down to the streamer app. Looking for something else.",
+      "date": 1770394382,
+      "review_helpful_count": 0,
+      "author_display_name": "mcat52",
+      "author_alias": "mcat52",
+      "developer_response": {
+        "body": "Hi, if streaming a video stutters, it could be having trouble re-encoding it on the fly. Try clicking the arrow next to the file name to download it locally to your headset, see if that helps.",
+        "date": 1770502266
+      }
+    },
+    {
+      "id": "1258668702755300",
+      "score": 4,
+      "review_title": "So much better than Meta's solution.",
+      "review_description": "I bought this for my Quest 2 to use with PCVR. I am very happy I did, somehow this works better (frame rates, stuttering) than Meta's wired PC link. I though maybe my computer/router/headset wasn't up to wireless as Meta's WiFi link was unusable, nope I just need better software. You must have an ethernet connection to your computer and a dedicated router for maximum performance.",
+      "date": 1766421714,
+      "review_helpful_count": 10,
+      "author_display_name": "Surlier",
+      "author_alias": "Surlier",
+      "developer_response": null
+    },
+    {
+      "id": "1038952789300473",
+      "score": 5,
+      "review_title": "Worth it",
+      "review_description": "It works, actively developed, easy to use but lots of options, ongoing support to optimize which drivers you should use. Really feel like you've quickly got your money's worth.",
+      "date": 1772462413,
+      "review_helpful_count": 1,
+      "author_display_name": "NBM.88",
+      "author_alias": "NBM.88",
+      "developer_response": null
+    },
+    {
+      "id": "4219640264922346",
+      "score": 5,
+      "review_title": "Literally the Best App on Quest",
+      "review_description": "If you want to play PCVR and open your Quest up to thousands of new games and mods, don't sleep on Virtual Desktop.\n\nYep, it's paid, but IT IS worth absolutely every cent and leaves the free options in the dust.  Constantly updated and world class support on Discord, my most used daily app.\n\nGave me back my love for VR and I would recommend Virtual Desktop above all else!",
+      "date": 1767839039,
+      "review_helpful_count": 8,
+      "author_display_name": "F4CEpa1m",
+      "author_alias": "F4CEpa1m",
+      "developer_response": null
+    },
+    {
+      "id": "2395415497593494",
+      "score": 5,
+      "review_title": "It’s my go to Stream application forPCVR",
+      "review_description": "It absolutely baffles me that so many people in these reviews are having so many issues with their connection or streaming, with the proper set up with 5 GHz Wi-fi 6 or 6e and I’ve had very minimal latency or stutterers wall in PCVR! Worth every dollar!￼",
+      "date": 1770958338,
+      "review_helpful_count": 0,
+      "author_display_name": "Wackduck",
+      "author_alias": "Wackduck",
+      "developer_response": null
+    },
+    {
+      "id": "974666079055580",
+      "score": 1,
+      "review_title": "One ⭐ star or less. Can't connect to PC",
+      "review_description": "I buy app...I install it on my Quest 3. I install fresh desktop version VD on PC. I do everything app say. \nUpdate Nvidia driver, switch off all antivirus and other programs. My user name is the same in Quest and PC what else I need do? It just don't show my PC in quest menu.",
+      "date": 1766868925,
+      "review_helpful_count": 7,
+      "author_display_name": "GoodMoodMaster",
+      "author_alias": "GoodMoodMaster",
+      "developer_response": {
+        "body": "Hi, make sure you don’t have a skull icon in your Streamer window, About tab, if you do click it and follow instructions. Your username needs to exactly match the Meta username displayed in VR. If you need more help, reach out on Discord: http://discord.vrdesktop.net",
+        "date": 1767042673
+      }
+    },
+    {
+      "id": "939082055964098",
+      "score": 5,
+      "review_title": "Really good",
+      "review_description": "I use this everyday to play pc vr and its amazing, FOR PEOPLE WITH BAD REVEIWS, ur software is not working bc either u have bad internet or a bad pc/laptop, i really recoment using ethernet with this is will make it much better!",
+      "date": 1771454258,
+      "review_helpful_count": 0,
+      "author_display_name": "ProFisher20111",
+      "author_alias": "ProFisher20111",
+      "developer_response": null
+    },
+    {
+      "id": "971060865657705",
+      "score": 1,
+      "review_title": "Waste of money doesn’t run steam vr game",
+      "review_description": "Bought this and h3vr and doesn’t work I wasted money and for nothing to work the vr is connected to my laptop and I can control my laptop on my vr and all but when I launch it on the desktop menu it just stays black forever and I didn’t have a Ethernet connect on my laptop so I had to do it through usb and that doesn’t help so short story don’t get it if u only want to browse on your laptop on",
+      "date": 1778373712,
+      "review_helpful_count": 1,
+      "author_display_name": "toilet_destroyer_antagonizer",
+      "author_alias": "toilet_destroyer_antagonizer",
+      "developer_response": {
+        "body": "If you don’t meet the minimum requirements of the app, surprise, it won’t work.",
+        "date": 1778422625
+      }
+    },
+    {
+      "id": "907633392176766",
+      "score": 5,
+      "review_title": "Best for PC VR",
+      "review_description": "Just clean for me this is amazing the setting everything just peak it's also so smooth no lags depends on ur wifi ofc but general it's crazy worth it I'm using it for everything mostly PC VR and it's crazy good better than link cable for me btw.",
+      "date": 1771523498,
+      "review_helpful_count": 0,
+      "author_display_name": "the.zero.2015",
+      "author_alias": "the.zero.2015",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T05:34:10Z"
+}
