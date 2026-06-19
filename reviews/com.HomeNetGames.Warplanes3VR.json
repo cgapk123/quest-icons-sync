@@ -1,0 +1,975 @@
+{
+  "app_id": "5014131998634540",
+  "package_name": "com.HomeNetGames.Warplanes3VR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Warplanes: Air Corp",
+  "rating_average": 3.9710144927536,
+  "rating_count": 690,
+  "review_count": 412,
+  "reviews": [
+    {
+      "id": "1020404420513377",
+      "score": 1,
+      "review_title": "So unrealistic",
+      "review_description": "(kids that one to be a pilot one day read before play) okay you know how in real life there are so many controls and vtol vr have all of the controls and guess what this game doesn’t even have this button in front of you all it have is a throttle a stick and a button to fire missile not multiple button to fire them in real life even the trees on the map are littler defying gravity by 3 meter something like that so I don’t recommed playing this one play the ww1 warplanes that better AIGHT",
+      "date": 1780624636,
+      "review_helpful_count": 11,
+      "author_display_name": "Gokublack2023",
+      "author_alias": "Gokublack2023",
+      "developer_response": null
+    },
+    {
+      "id": "1489462822556023",
+      "score": 5,
+      "review_title": "Well Made and Really Fun Game!",
+      "review_description": "I absolutely love this game. It’s easy to learn, took a little while to master but is so enjoyable. The movement physics match real life and don’t get me nauseous like other flight games. Missions are all a tiny bit different and it makes each one feel new to me. Improvements are needed and I’ll list them. \n1: update the aircraft. Your title screen shows an AH64 Apache silhouette but it’s not in game. Give us an F22 also. \n2: build a bombing architecture. You could easily add a TTP screen to the map monitor that would let you laser guide bombs to target. Could make it exclusive to the A10 and F16. \n3: Restructuring your multiplayer function would be a HUGE bonus. It took a friend and I 30 minutes to get a coop mission started. \n4 Make a disabled aircraft condition in PVP and an eject function (with animation) in order to respawn",
+      "date": 1775960848,
+      "review_helpful_count": 25,
+      "author_display_name": "Brickshooter985",
+      "author_alias": "Brickshooter985",
+      "developer_response": null
+    },
+    {
+      "id": "3313716632169790",
+      "score": 4,
+      "review_title": "needs an Airwolf helicopter :-)",
+      "review_description": "Im honest, first I was a little bit disappointed of Air Corp. It's not as polished as Warplanes WW1 and Pacific. The graphics could be much better for Quest 3 but it still makes fun to play and the tutorials help a lot to learn the helicopter/plane controls, well done! I really hope it will still get future updates and is not abandoned by the devs. An Airwolf helicopter would be cool with all the interiors, just name it Airsheep in case there is some copyright problems - LOL",
+      "date": 1780689500,
+      "review_helpful_count": 1,
+      "author_display_name": "S4mstr03m",
+      "author_alias": "S4mstr03m",
+      "developer_response": null
+    },
+    {
+      "id": "1154521587734943",
+      "score": 3,
+      "review_title": "Mid",
+      "review_description": "I'm an IRL civilian pilot. While this game can be fun, don't expect DCS level accuracy or Ace Combat level fun if you decide to purchase. The controls feel jank, the enemy AI isn't smart, and the levels seem uninspired.",
+      "date": 1778049366,
+      "review_helpful_count": 2,
+      "author_display_name": "AvWolf126",
+      "author_alias": "AvWolf126",
+      "developer_response": null
+    },
+    {
+      "id": "1250084017311268",
+      "score": 5,
+      "review_title": "I love your games!! *Devs please read*",
+      "review_description": "This game is amazing! I haven't played the headset in a while and decoded to pick it up and look and see what's new. I'm glad i did because I've got all the warplanes and love them so much! It took a minute to figure out how to lock on. And it's really difficult to hit something with bullets. There's room for improvement. I'm sure it's difficult with modern aircraft. There's alot of limits on the quest 2. I can't wait to see what yall do with the quest 3! And idk what it is. *There's a bug. I maybe moving my head too much or something idk but the camera view puts me about one foot to the side and backwards. So I'm outside my craft and lose control and go straight to the ground. It makes me fail missions lol I tried finding where to tell yall there's a bug but couldn't. I'll update once you see this *",
+      "date": 1773729879,
+      "review_helpful_count": 4,
+      "author_display_name": "2-Corrupt",
+      "author_alias": "2-Corrupt",
+      "developer_response": null
+    },
+    {
+      "id": "887496580653083",
+      "score": 3,
+      "review_title": "Voice acting",
+      "review_description": "The game is pretty solid but as a person who has always wanted an option to turn the voice acting off in these games the AI voice acting in this game is such a pain in the (Behind). Atleast the other games had a bit charming voice acting, especially the first one but the voice acting in this one is just souless. At worst the other games voice acting could get a bit annoying but in this game it at BEST gets VERY annoying. If they just made it so you could turn the voices off\nthe game would be 10 times better. Except for that, the game is actually pretty good.",
+      "date": 1771434964,
+      "review_helpful_count": 12,
+      "author_display_name": "Fennelopi",
+      "author_alias": "Fennelopi",
+      "developer_response": {
+        "body": "In the settings you will find sliders to control the volume, including dialogues.",
+        "date": 1771495794
+      }
+    },
+    {
+      "id": "1019045524622979",
+      "score": 4,
+      "review_title": "Beautiful, needs more setting options",
+      "review_description": "Give an option to turn off auto flares permanently, I've had 15 wasted on one missile before because I forgot to turn them off at the beginning of every single mission; that button could be better utilized for the landing gear.\nSpawning locations for the jets are egregious. I guess my pilot sat with his hands in his lap until her was in the middle of an anti-aircraft zone. And you might have to try multiple times to grab the stick and throttle even after holding them leaving the airstrip. I'm already holding the grip key, just keep the control active. \nThe jets are very fun, but the missions are often built around the anti aircraft systems that cut virtually all of the fun out of flying. The helicopters are well designed and have a high learning curve, I just don't enjoy being forced to use them.",
+      "date": 1772328921,
+      "review_helpful_count": 6,
+      "author_display_name": "Illnameitlater",
+      "author_alias": "Illnameitlater",
+      "developer_response": null
+    },
+    {
+      "id": "1113208841868682",
+      "score": 1,
+      "review_title": "DO NOT BUY THIS GAME",
+      "review_description": "It was horrible I could not even refund it and it’s kind of decent but at the same time you need to add more planes and be able to drop bombs and nukes and stuff like that and when you look at the description or what it’s showing, it is not that it all it is a scam. Do not buy it. I need a refund.",
+      "date": 1775246123,
+      "review_helpful_count": 1,
+      "author_display_name": "lathan10.2023",
+      "author_alias": "lathan10.2023",
+      "developer_response": {
+        "body": "The description, screenshots and videos come directly from the version of the game available on the Meta Store.\n\nIf you are interested in a refund, please follow these guidelines - https://www.meta.com/en-gb/help/quest/828412189021014/\n\nAs a developer, we have no influence on the returns policies established by our partners’ storefronts like Meta Store or Steam.",
+        "date": 1775289175
+      }
+    },
+    {
+      "id": "1251097110249266",
+      "score": 1,
+      "review_title": "*DO NOT BUY FOR ANY REASON*",
+      "review_description": "I baught it cause my friend had it, but when it turned out to be a very badly made game, ai voices, no players online and horrible single player, I obviously wanted to return it, when I attempted, it said it was ineligible for a return, but? I didn't play it for any more than 10 minutes, never buy this game, it's horrible and doesn't let you return it, give me my money back.",
+      "date": 1769658744,
+      "review_helpful_count": 30,
+      "author_display_name": "ANVIX_S",
+      "author_alias": "ANVIX_S",
+      "developer_response": {
+        "body": "Please follow these guidelines - https://www.meta.com/en-gb/help/quest/828412189021014/\n\nAs a developer, we have no influence on the returns policies established by our partners’ storefronts like Meta Store or Steam.",
+        "date": 1769673977
+      }
+    },
+    {
+      "id": "1081363311733252",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Best plane game",
+      "date": 1778437827,
+      "review_helpful_count": 1,
+      "author_display_name": "NH26",
+      "author_alias": "NH26",
+      "developer_response": null
+    },
+    {
+      "id": "1023037114232528",
+      "score": 3,
+      "review_title": "头晕",
+      "review_description": "I don't know how to rate this game! I've played a lot of games, but the controls in this one feel a bit awkward to me. By the time the game ended, I felt dizzy and lightheaded.",
+      "date": 1775858333,
+      "review_helpful_count": 0,
+      "author_display_name": "zerongchen7560",
+      "author_alias": "zerongchen7560",
+      "developer_response": {
+        "body": "To cope with nausea - please consider the following:\n- Adjust \"Dynamic Comfort mode\" bar in the settings and set it to the max; \n- In our experience, motion sickness ceases to be a problem relatively quickly if you give yourself and the game a chance;\n- During the adjustment period - try to limit your gaming sessions in VR. Make them shorter, even if more frequent than usual;\n- It has been proved that chewing gum reduces visually induced motion sickness: https://link.springer.com/article/10.1007/s00221-021-06303-5\n- Try playing with a fan facing you in the same room as you play.\n\nPlease check the \"Basic Flight\" section in the Tutorial, on the right monitor at the base, it will help you learn the basics. \n\nIt is also worth taking a look at the Flight Setup settings, available at the bottom of the central monitor, a moment before starting the mission - there you can change the flight model to one closer to simulation, or a simplified one (Arcade), and modify the sensitivity of your machine. \n\nIt may also be helpful to visit the \"Controls\" section (left monitor at the base), where you can choose the Controls Layout that is convenient for you.\n\nGive yourself a chance and take a few minutes to practice, and you'll turn into an excellent pilot in no time!",
+        "date": 1776234934
+      }
+    },
+    {
+      "id": "1053583904504032",
+      "score": 2,
+      "review_title": "It got boring fast and I cant refund",
+      "review_description": "I had bought this game and was expecting it to be good if not better than the other Warplanes games however when i loaded in it was very poorly made, i still wanted to try the game play and though it was fun at first then it became the same thing every time. I then wanted a refund so i could purchase a different game that might be better but i wasent able to refund, if your looking for a plane based game DON'T GO WITH THIS ONE, get the battles over the pacific one instead its the same thing in every way plus you get more plane selection. Thx",
+      "date": 1773206576,
+      "review_helpful_count": 1,
+      "author_display_name": "Partitan17.2023",
+      "author_alias": "Partitan17.2023",
+      "developer_response": {
+        "body": "Please follow these guidelines - https://www.meta.com/en-gb/help/quest/828412189021014/\n\nAs a developer, we have no influence on the returns policies established by our partners’ storefronts like Meta Store or Steam.",
+        "date": 1773247146
+      }
+    },
+    {
+      "id": "1207595668103114",
+      "score": 5,
+      "review_title": "great game some things to add/change",
+      "review_description": "This game is great worth 20$ lots of action models are great. but i have some things that need to be added.\n1. flaps moving- so when you turn the flaps on planes move coresponding with how you are turning.\n2. better sounds- when i shot gun/rockets i hear perfectly it should be quieter because its outside of aircraft.\n3. better working of flares there should be a chance for flares to not make the missle work\n4. model missiles/rockets- they all look the same so aam's should be aim-9, aim-7. \n5. cockpit- the cockpit should have more detail and more instraments. \nbut awsome game 👍",
+      "date": 1765220144,
+      "review_helpful_count": 80,
+      "author_display_name": "unknown_error123498",
+      "author_alias": "unknown_error123498",
+      "developer_response": null
+    },
+    {
+      "id": "1003685099497055",
+      "score": 5,
+      "review_title": "Amazing, help though?",
+      "review_description": "i saw videos of flying at night, how do you do it? because that would be so fun to stealth mission style a mission or dogfight friends in that setting.",
+      "date": 1773575898,
+      "review_helpful_count": 1,
+      "author_display_name": "italiano.dev.123",
+      "author_alias": "italiano.dev.123",
+      "developer_response": null
+    },
+    {
+      "id": "966994169825354",
+      "score": 3,
+      "review_title": "Love this game but!!!",
+      "review_description": "Love this game good content and hours of fun.  But lately it's been freezing up in the middle of a session.  Happens everytime.  If anyone knows what is going on let me know.\n\nStill getting a black box in the middle of a game.  No other choice but to shut down and restart.",
+      "date": 1767296754,
+      "review_helpful_count": 7,
+      "author_display_name": "LorBe",
+      "author_alias": "LorBe",
+      "developer_response": null
+    },
+    {
+      "id": "911673084830362",
+      "score": 3,
+      "review_title": "Fun at first but repetettive asf",
+      "review_description": "Games fun at first but gradually gets boring and there's like 3 players on max half the time",
+      "date": 1774106302,
+      "review_helpful_count": 1,
+      "author_display_name": "ZaydenTheGoat.SAD",
+      "author_alias": "ZaydenTheGoat.SAD",
+      "developer_response": null
+    },
+    {
+      "id": "913502738514999",
+      "score": 3,
+      "review_title": "Limited",
+      "review_description": "This game is so limited. I can see why they won’t issue a refund on this game. With that said why won’t they at least issue a store credit it’s not like they have to restock it item . Anyways this game is nothing like warplanes over pacific ww2. It looks good in the trailer but it’s not",
+      "date": 1766752598,
+      "review_helpful_count": 5,
+      "author_display_name": "Abasta51",
+      "author_alias": "Abasta51",
+      "developer_response": {
+        "body": "Please follow these guidelines - https://www.meta.com/en-gb/help/quest/828412189021014/\n\nAs a developer, we have no influence on the returns policies established by our partners’ storefronts like Meta Store or Steam.",
+        "date": 1766993767
+      }
+    },
+    {
+      "id": "998346660025224",
+      "score": 5,
+      "review_title": "Only room for improvement in best way.",
+      "review_description": "Convoys got to destinations and wait to be destroyed.\nBeing able to task squadron pre-mission to hit targets or guard you, mission, or wingman after or with targeting priorities.\nShould HAVE to take out radar in some missions.\nNight missions would be fun too.",
+      "date": 1770149320,
+      "review_helpful_count": 0,
+      "author_display_name": "General.Chronicler",
+      "author_alias": "General.Chronicler",
+      "developer_response": null
+    },
+    {
+      "id": "889737364231329",
+      "score": 2,
+      "review_title": "Disappointing",
+      "review_description": "After playing the other warplanes games I expected it to be the same quality as the others. In this game Your stuck playing basically one mission with the helicopter or one plane and can't seem to get past it in order to move on.",
+      "date": 1768755314,
+      "review_helpful_count": 3,
+      "author_display_name": "Jash1057",
+      "author_alias": "Jash1057",
+      "developer_response": {
+        "body": "Our support team will be happy to assist you and provide further guidance. Please export your progress to our HNG Cloud and contact our support via:\nhttps://www.homenetgames.com/support/",
+        "date": 1768811220
+      }
+    },
+    {
+      "id": "1227406887103185",
+      "score": 1,
+      "review_title": "Mid game but no refunds",
+      "review_description": "Mid gameplay. Annoying AI voices. Trash phyisics\nNo refunds.",
+      "date": 1781801213,
+      "review_helpful_count": 0,
+      "author_display_name": "wabungus69",
+      "author_alias": "wabungus69",
+      "developer_response": null
+    },
+    {
+      "id": "979712408557808",
+      "score": 3,
+      "review_title": "Not really worth 20$",
+      "review_description": "Yes the game is fun and stuff but for 20$ i atleast expect more aircrafts more detailed cockpit and more fun things to do",
+      "date": 1769357334,
+      "review_helpful_count": 3,
+      "author_display_name": "Capy_bara406",
+      "author_alias": "Capy_bara406",
+      "developer_response": null
+    },
+    {
+      "id": "890047884192128",
+      "score": 5,
+      "review_title": "AMAZING GAME but…",
+      "review_description": "This game is fun buy it without hesitation but it lacks updates and sometimes the cockpit feels a bit empty and unrealistic but it does at the same time.\n\nDEVS PLEASE READ ADD MORE UPDATE FONT WORK ON NEW GAMES LISTEN TO YOU FAN BASE!!!!",
+      "date": 1763948006,
+      "review_helpful_count": 12,
+      "author_display_name": "That1bozo22",
+      "author_alias": "That1bozo22",
+      "developer_response": null
+    },
+    {
+      "id": "923175300663985",
+      "score": 1,
+      "review_title": "This game sucks no on app purchases",
+      "review_description": "No in app purchases for currency so you have to do missions with sucky planes and the missions are so hard impossible to beat",
+      "date": 1769886501,
+      "review_helpful_count": 0,
+      "author_display_name": "kyle343",
+      "author_alias": "kyle343",
+      "developer_response": {
+        "body": "Make sure you have an account on our Cloud Save and contact our support team via:\nhttps://www.homenetgames.com/support/\nproviding your account details. We will be happy to add in-game credits to your account.\n\nApart from that, please make sure to check out the in-game tips and tutorials, including:\na) The \"Basic Flight\" section in the Tutorial, on the right monitor at the base, will help you learn how to navigate the helicopter. \nb) It is also worth taking a look at the Flight Setup settings, available at the bottom of the central monitor, a moment before starting the mission - there you can change the flight model to one closer to simulation, or a simplified one (Arcade), and modify the sensitivity of your machine. \nc) It may also be helpful to visit the \"Controls\" section (left monitor at the base), where you can choose the Controls Layout that is convenient for you.\nd) As well as this, a somewhat additional document with useful gameplay tips: https://docs.google.com/document/d/1wpigWtNmZN4i7IZwLsCXiYIox0bK9IYbN7xjGBR9Jac/edit",
+        "date": 1770020022
+      }
+    },
+    {
+      "id": "1160275353828206",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "This is a super fun and realistic game recommendation",
+      "date": 1779509726,
+      "review_helpful_count": 0,
+      "author_display_name": "Doublej7797",
+      "author_alias": "Doublej7797",
+      "developer_response": null
+    },
+    {
+      "id": "871405156062716",
+      "score": 5,
+      "review_title": "Good but!!",
+      "review_description": "I like this game it’s pretty good but it’s really hard if not impossible to find a multiplayer server and Im not saying the devs are responsible for that Im saying I prefer the multiplayer but still a good game",
+      "date": 1765427257,
+      "review_helpful_count": 4,
+      "author_display_name": "PointyCrab3252",
+      "author_alias": "PointyCrab3252",
+      "developer_response": null
+    },
+    {
+      "id": "753781927826393",
+      "score": 5,
+      "review_title": "OMG",
+      "review_description": "BEST FLYING GAME! I already had the WW2 version that one was good but this one is BETTER! Now than the one thing is that the controls for the helicopter are tricky but besides that phenomenal game, just wish it had more realistic planes with realistic cockpits, broda I would be literally Maverick from Top Gun if they added all of that. But still good game with out that, just make the helicopter easier to control.",
+      "date": 1759446779,
+      "review_helpful_count": 43,
+      "author_display_name": "crazysnake525",
+      "author_alias": "crazysnake525",
+      "developer_response": null
+    },
+    {
+      "id": "1040651582457382",
+      "score": 2,
+      "review_title": "Meh",
+      "review_description": "Controls aren't great. Helicopter controls are horrible. It's expensive for what it is. I guess more arcade than sim.",
+      "date": 1770346626,
+      "review_helpful_count": 0,
+      "author_display_name": "Ragd011",
+      "author_alias": "Ragd011",
+      "developer_response": {
+        "body": "Please check the \"Basic Flight\" section in the Tutorial, on the right monitor at the base, it will help you learn how to navigate the helicopter. \n\nIt is also worth taking a look at the Flight Setup settings, available at the bottom of the central monitor, a moment before starting the mission - there you can change the flight model to one closer to simulation, or a simplified one (Arcade), and modify the sensitivity of your machine. \n\nIt may also be helpful to visit the \"Controls\" section (left monitor at the base), where you can choose the Controls Layout that is convenient for you.\n\nGive yourself a chance and take a few minutes to practice, and you'll turn into an excellent helicopter pilot in no time!",
+        "date": 1770366615
+      }
+    },
+    {
+      "id": "1241025911201670",
+      "score": 2,
+      "review_title": "Abandoned",
+      "review_description": "Another unfinished game ...we pay then get nothing but crap .. so tired of this",
+      "date": 1765986429,
+      "review_helpful_count": 8,
+      "author_display_name": "BehindBlueEyes",
+      "author_alias": "BehindBlueEyes",
+      "developer_response": null
+    },
+    {
+      "id": "904894239365206",
+      "score": 5,
+      "review_title": "Love this",
+      "review_description": "Big heli flying fan and love this game. I’ve well overplayed it now done all the missions and unlock all the aircraft. \n\nIt’s the best flying one on here. I’d like more missions and things to do now. It’s deffo worth the money and the feel of the helicopters are so good. I love the controls for them too. \n\nWe need more content now. More missions and more stuff to do. \nAlso, need more of a grind on the planes and heli to unlock the next ones. \n\nThis game is amazing though and well worth the money.",
+      "date": 1761408454,
+      "review_helpful_count": 9,
+      "author_display_name": "Jaf1987",
+      "author_alias": "Jaf1987",
+      "developer_response": null
+    },
+    {
+      "id": "1855120658470376",
+      "score": 5,
+      "review_title": "Excellent",
+      "review_description": "Love it best plain game 🎮 👌 \nIt's 😁 fun",
+      "date": 1769031319,
+      "review_helpful_count": 0,
+      "author_display_name": "shane.muscat.12",
+      "author_alias": "shane.muscat.12",
+      "developer_response": null
+    },
+    {
+      "id": "837860972448118",
+      "score": 5,
+      "review_title": "The Gold Standard of a Genre",
+      "review_description": "There isnt a better series of flying games out there. I tried looking, dont waste your time, Their pirate games are a little slow, but this & the WW2 version ABSOLUTELY KICK @$$.",
+      "date": 1766787239,
+      "review_helpful_count": 1,
+      "author_display_name": "robert.brancheau",
+      "author_alias": "robert.brancheau",
+      "developer_response": null
+    },
+    {
+      "id": "981943288324935",
+      "score": 4,
+      "review_title": "Good game but repetitive",
+      "review_description": "Played for 2 hours and it felt like the same stuff over again.",
+      "date": 1767068377,
+      "review_helpful_count": 2,
+      "author_display_name": "SOG_vBlxzer3995",
+      "author_alias": "SOG_vBlxzer3995",
+      "developer_response": null
+    },
+    {
+      "id": "856336857560446",
+      "score": 3,
+      "review_title": "Dissappointed",
+      "review_description": "Generally games get better as the progress, this is number 3 and they must have hired new people and/or they tried a different formula , and it sucks. Looks cheap. Loved the first 2, so dissappointed ,  thankfully i got it on sale.",
+      "date": 1761715121,
+      "review_helpful_count": 6,
+      "author_display_name": "Crazyiiis",
+      "author_alias": "Crazyiiis",
+      "developer_response": null
+    },
+    {
+      "id": "885394187992369",
+      "score": 4,
+      "review_title": "Thank you devs!",
+      "review_description": "After reading your message about adjusting the comfort level to full I took another chance and wow I have noticed a night and day difference and motion sickness isn't going to be a problem anymore \"unless I make myself sick and do countless barrel rolls that I probably will do\" but thank you for making it so I can enjoy this game. Definitely worth getting if you enjoy flying.",
+      "date": 1762216384,
+      "review_helpful_count": 2,
+      "author_display_name": "PokieZholie",
+      "author_alias": "PokieZholie",
+      "developer_response": {
+        "body": "If you'd like to take another try - please consider the following:\n- Adjust \"Dynamic Comfort mode\" bar in the settings and set it to the max; \n- In our experience, motion sickness ceases to be a problem relatively quickly if you give yourself and the game a chance;\n- During the adjustment period - try to limit your gaming sessions in VR. Make them shorter, even if more frequent than usual;\n- It has been proved that chewing gum reduces visually induced motion sickness: https://link.springer.com/article/10.1007/s00221-021-06303-5\n- Try playing with a fan facing you in the same room as you play.",
+        "date": 1762156885
+      }
+    },
+    {
+      "id": "815813474305367",
+      "score": 3,
+      "review_title": "Cant refund game is dead",
+      "review_description": "Games fun but dead nobody on eu or barely anyone on is US servers max 10 people 3 sessions but you can’t join most times and if you can people play one round the hop off the game is dead and i wouldn’t recommend getting it until they add major updates and get a better player base and more players",
+      "date": 1758288271,
+      "review_helpful_count": 11,
+      "author_display_name": "adolf.trippler0_0",
+      "author_alias": "adolf.trippler0_0",
+      "developer_response": {
+        "body": "Our community comes from different time zones, so it may be a good idea to check the Private Lobby, thanks to which you can start a multiplayer game with your friends at any time. Consider joining our Discord, where a welcoming community is ready to team up and play with you: https://discord.gg/ntPmutN\n\nPenalizing an indie game solely on the basis that it is not as popular as a \"quadruple-A\" game will not improve the situation. On the contrary, because you lower the overall rating, further reducing the chance of strong promotion and in-store exposure.\n\nIf, nevertheless, you are still interested in the refund - please follow these guidelines - https://www.meta.com/returns/\nAs a developer, we have no influence on the returns policies established by our partners’ storefronts like Meta Store or Steam.",
+        "date": 1758531130
+      }
+    },
+    {
+      "id": "888337534365096",
+      "score": 4,
+      "review_title": "A10",
+      "review_description": "please change the sound for the A10 it shouldn't be too hard i just want that BRRRRRRRT",
+      "date": 1766185916,
+      "review_helpful_count": 1,
+      "author_display_name": "Kilo_Yeti_1336",
+      "author_alias": "Kilo_Yeti_1336",
+      "developer_response": null
+    },
+    {
+      "id": "836358419564989",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "This game made VR better for me as someone who wants to be in the Air Force in the future this gives me a great flight experience for until that day comes. I’ve loved the warplanes series I’ve been a fan since battles over the pacific at the time when I got it air corp was in development and I got WW1 fighters and really enjoyed it. Thank you for making this series.",
+      "date": 1770063592,
+      "review_helpful_count": 0,
+      "author_display_name": "Sloth542689",
+      "author_alias": "Sloth542689",
+      "developer_response": null
+    },
+    {
+      "id": "767113286482835",
+      "score": 4,
+      "review_title": "Game is great",
+      "review_description": "This game is very fun if you dont feel like reading a flight manuel to start up the plane however I dont really like how helicopters can tank missiles when realistically helicopters are taken down by a few rounds of 20 or 30mm while planes that are known for being tanky get downed by a few rounds of 20 or 30mm",
+      "date": 1755668474,
+      "review_helpful_count": 25,
+      "author_display_name": "Monolith_Enjoyer",
+      "author_alias": "Monolith_Enjoyer",
+      "developer_response": null
+    },
+    {
+      "id": "773181725646348",
+      "score": 5,
+      "review_title": "This game is awesome 🤩.   BUT",
+      "review_description": "This was probably the best game I ever bought the free flight mode the missions and everything else is good. BUT I can’t play multiplayer for some reason it says that there is no sessions I create a new one and no one is joining so please explain why I can’t play multiplayer 🙏🙏",
+      "date": 1757314497,
+      "review_helpful_count": 11,
+      "author_display_name": "JIBY.777",
+      "author_alias": "JIBY.777",
+      "developer_response": {
+        "body": "Our community comes from different time zones, so it may also be a good idea to check the Private Lobby, thanks to which you can start a multiplayer game with your friends at any time. It is also worth considering joining our discord:\nhttps://discord.gg/ntPmutN\n\nWhere there is always another pilot you can fly with. It is also worth mentioning that multiplayer is cross platform, so you won't be limited just to one platform.\n\nThere are also FB groups for VR fans of the Warplanes trilogy, where they regularly meet in closed games, but are also eager to welcome new members interested in playing together.",
+        "date": 1757315839
+      }
+    },
+    {
+      "id": "845231335118582",
+      "score": 1,
+      "review_title": "This game is so ahhhhh",
+      "review_description": "The graphics’s are mid but the gameplay is horrible can’t even turn properly and LET ME REFUND THE GAME!",
+      "date": 1763384505,
+      "review_helpful_count": 2,
+      "author_display_name": "leonelcameron.2022",
+      "author_alias": "leonelcameron.2022",
+      "developer_response": {
+        "body": "Please make sure to check out the in-game tips and tutorials, including:\n\na) The \"Basic Flight\" section in the Tutorial, on the right monitor at the base, will help you learn how to navigate the helicopter. \n\nb) It is also worth taking a look at the Flight Setup settings, available at the bottom of the central monitor, a moment before starting the mission - there you can change the flight model to one closer to simulation, or a simplified one (Arcade), and modify the sensitivity of your machine. \n\nc) It may also be helpful to visit the \"Controls\" section (left monitor at the base), where you can choose the Controls Layout that is convenient for you.\n\nd) As well as this, a somewhat additional document with useful gameplay tips:\nhttps://docs.google.com/document/d/1wpigWtNmZN4i7IZwLsCXiYIox0bK9IYbN7xjGBR9Jac/edit\n\nIf you are still interested in making a refund, please follow these guidelines - https://www.meta.com/returns/\n\nAs a developer, we have no influence on the returns policies established by our partners’ storefronts like Meta Store or Steam.",
+        "date": 1763453848
+      }
+    },
+    {
+      "id": "1241006717994974",
+      "score": 4,
+      "review_title": "Very fun",
+      "review_description": "Very fun I really enjoy but some missions are very repetitive and give me barely any money. Nobody is ever online and it needs some more jets. It should have bombing runs with a b 2 bomber and other thing and needs some more major updates. But overall a great game",
+      "date": 1769979743,
+      "review_helpful_count": 0,
+      "author_display_name": "RtRomans99",
+      "author_alias": "RtRomans99",
+      "developer_response": null
+    },
+    {
+      "id": "1022239394306549",
+      "score": 2,
+      "review_title": "Not good",
+      "review_description": "Graphic and gameplay not smooth and doesn’t look or sound good",
+      "date": 1773447026,
+      "review_helpful_count": 0,
+      "author_display_name": "Aiden_Ace",
+      "author_alias": "Aiden_Ace",
+      "developer_response": null
+    },
+    {
+      "id": "968612872999079",
+      "score": 5,
+      "review_title": "",
+      "review_description": "This is fun and I tons it has very cool jets and colors",
+      "date": 1764529828,
+      "review_helpful_count": 0,
+      "author_display_name": "pippy1dippy",
+      "author_alias": "pippy1dippy",
+      "developer_response": null
+    },
+    {
+      "id": "1732245510809570",
+      "score": 2,
+      "review_title": "Not good at all",
+      "review_description": "I didn't like the cockpit design, neither the controls, especialy for the Helicopter that simply don't feel like a helicopter. I felt more imersed playing Ultrawings 2 that has poorer graphics and a simpler gameplay. Dawn of Jets is better.",
+      "date": 1758128186,
+      "review_helpful_count": 4,
+      "author_display_name": "Matheus_SPM_BR",
+      "author_alias": "Matheus_SPM_BR",
+      "developer_response": null
+    },
+    {
+      "id": "1595376341831592",
+      "score": 1,
+      "review_title": "Please contact me",
+      "review_description": "I think you deserve a 5 star however I need a problem resolved first.",
+      "date": 1764206641,
+      "review_helpful_count": 0,
+      "author_display_name": "12vdc",
+      "author_alias": "12vdc",
+      "developer_response": {
+        "body": "You can always get in touch with our support department, just describe your issue in detail using:\n\nhttps://www.homenetgames.com/support/",
+        "date": 1763453911
+      }
+    },
+    {
+      "id": "985914577936084",
+      "score": 1,
+      "review_title": "Can’t Return the Game",
+      "review_description": "I played the Game for 5-10 minutes and no matter what I do I can’t Return The Game (and I obviously didnt Like The Game) I even chatted with the Meta Support and they said i can’t Return it",
+      "date": 1769805341,
+      "review_helpful_count": 0,
+      "author_display_name": "Jxsn_27",
+      "author_alias": "Jxsn_27",
+      "developer_response": {
+        "body": "Please follow these guidelines - https://www.meta.com/en-gb/help/quest/828412189021014/\n\nAs a developer, we have no influence on the returns policies established by our partners’ storefronts like Meta Store or Steam.",
+        "date": 1770019792
+      }
+    },
+    {
+      "id": "942498228935768",
+      "score": 4,
+      "review_title": "Updates please",
+      "review_description": "UPDATES 🙏",
+      "date": 1764429610,
+      "review_helpful_count": 0,
+      "author_display_name": "Inthecut",
+      "author_alias": "Inthecut",
+      "developer_response": null
+    },
+    {
+      "id": "1282261076776999",
+      "score": 4,
+      "review_title": "Decent game",
+      "review_description": "To be honest this game is fun when you are playing with or against friends. Also the game has really easy to learn controls with out right mechanics.\n\n   Everything good stops there. Plane models need to be fixed. Especially the F-45 model the cockpit is WAY too wide and is just unrealistic. Also the weapons in this game are all the same which makes it boring. If more weapons were added along with different gun sounds, fire rate, and different millimeter bullets. Then it would do a lot.\n\n    Community has been saying this for a while but we need more planes especially the F-18 to rival the mig in game. PLEASE get rid of the map system that shows you exactly where a player is near you. Instead swap it out with a radar system. If you aren’t going to get rid of the map system then just add a RWR that will tell you when launched and where they are instead of have a unrealistic beep sound that tells your being shot at. \n\n    One last thing more variety in the planes the only difference between the a-10 and the F45 in this game is 1. speed and 2. vtol ability. Every other plane in the game is basically the same speed, turn rate, and climb rate. Thank you for your time",
+      "date": 1755905544,
+      "review_helpful_count": 5,
+      "author_display_name": "JustTex530",
+      "author_alias": "JustTex530",
+      "developer_response": null
+    },
+    {
+      "id": "711761342024781",
+      "score": 4,
+      "review_title": "Update",
+      "review_description": "The app is fantastic but the landscape needs to be upgraded …additional scenery’s would definitely improve the play…also expland the flying borders.. additional planes…F22, F15, F14,F18…one last thing a free flight mode where you just fly the globe and at each planes max height …",
+      "date": 1752885327,
+      "review_helpful_count": 13,
+      "author_display_name": "ElectricWoodchuck3961",
+      "author_alias": "ElectricWoodchuck3961",
+      "developer_response": null
+    },
+    {
+      "id": "725502653258853",
+      "score": 4,
+      "review_title": "Good but can be better…",
+      "review_description": "The Good\n\nThe game’s visuals are decent, with detailed plane models and vibrant environments. Explosions and missile effects look flashy, and the controls are easy to pick up, making it accessible to newcomers.\n\nThe Bad\n\nUnfortunately, the praise stops there. The game’s most glaring flaw is the lack of variety and realism. Every plane in the game, despite looking different, handles and performs identically. If u r piloting a fighter jet, the turn rate, speed, missile loadout, and guns are all the same. This not only kills immersion but also strips away any strategic depth.\n\nThe weaponry is equally uninspired. All planes are equipped with the same generic missiles and machine guns. There’s no customization, no unique advantages or trade-offs, and no reason to pick one plane over another besides aesthetics. This lazy approach to gameplay design feels like a slap in the face to fans of air combat who expect planes to have distinct characteristics based on their real-life counterparts.\n\nFinal Thoughts\n\nWarplanes ahave been an engaginge air combat experience, but its lazy design makes it a chore to play. The lack of plane variety, identical weaponry, and absence of realism turn what could have been an immersive game into a shallow disappointment. It’s a missed opportunity that will leave fans of the genre unimpressed.",
+      "date": 1749426078,
+      "review_helpful_count": 72,
+      "author_display_name": "bubbaGod",
+      "author_alias": "bubbaGod",
+      "developer_response": null
+    },
+    {
+      "id": "968677252993682",
+      "score": 1,
+      "review_title": "Piece of crap game that won't refund me!",
+      "review_description": "Tried to refund after playing for two minutes and wouldn't refund my money DONT BUY ON ANY CONDITION.",
+      "date": 1768947203,
+      "review_helpful_count": 0,
+      "author_display_name": "Tacitus123",
+      "author_alias": "Tacitus123",
+      "developer_response": {
+        "body": "Please follow these guidelines - https://www.meta.com/en-gb/help/quest/828412189021014/\n\nAs a developer, we have no influence on the returns policies established by our partners’ storefronts like Meta Store or Steam.",
+        "date": 1768982667
+      }
+    },
+    {
+      "id": "842921432014700",
+      "score": 1,
+      "review_title": "Its so bad",
+      "review_description": "the game is way to hard your better off playing vr chat tbh",
+      "date": 1760753307,
+      "review_helpful_count": 1,
+      "author_display_name": "Jamesomg",
+      "author_alias": "Jamesomg",
+      "developer_response": {
+        "body": "Please make sure to check out the in-game tips and tutorials, including:\n\na) The \"Basic Flight\" section in the Tutorial, on the right monitor at the base, will help you learn how to navigate the helicopter. \n\nb) It is also worth taking a look at the Flight Setup settings, available at the bottom of the central monitor, a moment before starting the mission - there you can change the flight model to one closer to simulation, or a simplified one (Arcade), and modify the sensitivity of your machine. \n\nc) It may also be helpful to visit the \"Controls\" section (left monitor at the base), where you can choose the Controls Layout that is convenient for you.\n\nd) As well as this, a somewhat additional document with useful gameplay tips:\nhttps://docs.google.com/document/d/1wpigWtNmZN4i7IZwLsCXiYIox0bK9IYbN7xjGBR9Jac/edit",
+        "date": 1760943665
+      }
+    },
+    {
+      "id": "675750952215605",
+      "score": 5,
+      "review_title": "Fun game",
+      "review_description": "Its a very fun game but i wish there were more plane models to fly and I also wish there was a campaign or more mission types like a bombing run in a f16 or something like that. But other than that in my opinion it's the best fighter jet/helicopter game on oculus.",
+      "date": 1771699720,
+      "review_helpful_count": 0,
+      "author_display_name": "milan.blazek.923",
+      "author_alias": "milan.blazek.923",
+      "developer_response": null
+    },
+    {
+      "id": "837600996098820",
+      "score": 5,
+      "review_title": "multiplayer",
+      "review_description": "game is great. BUT\nplayers should be able to join online death match mid-game.\nlike contractors or ultrawings, that should solve the multiplayer issue.",
+      "date": 1758825777,
+      "review_helpful_count": 1,
+      "author_display_name": "Abolf.Sadam.Laden",
+      "author_alias": "Abolf.Sadam.Laden",
+      "developer_response": null
+    },
+    {
+      "id": "737376006134878",
+      "score": 5,
+      "review_title": "add f22 raptor",
+      "review_description": "its gonna be good",
+      "date": 1758675257,
+      "review_helpful_count": 3,
+      "author_display_name": "stack_harden",
+      "author_alias": "stack_harden",
+      "developer_response": null
+    },
+    {
+      "id": "688959910961780",
+      "score": 5,
+      "review_title": "Future suggestions.    ( Hi there devs!)",
+      "review_description": "Great  game awesome graphics,  perhaps thr developers could create some night missions  to take advantage of some  NVG ( night vision ) . Missions could include extracting troops from night missions, to close air support missions, and night navigation training to multiple locations.\n\nIt would be so cool to act as  QRF ( quick reaction force )  for a team in the middle of a firelight  or even recovering  a downed pilot that's being hunted by enemy forces.",
+      "date": 1746872036,
+      "review_helpful_count": 66,
+      "author_display_name": "ANZAC1960",
+      "author_alias": "ANZAC1960",
+      "developer_response": null
+    },
+    {
+      "id": "680156791777205",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Love the game but it is a little bit too sensitive so it was kind of hard to do training flights",
+      "date": 1757840835,
+      "review_helpful_count": 0,
+      "author_display_name": "BuzzBuzzGT",
+      "author_alias": "BuzzBuzzGT",
+      "developer_response": {
+        "body": "I'd recommend taking a look at the Flight Setup settings, available at the bottom of the central monitor, a moment before starting the mission - there you can change the flight model to one closer to simulation, or a simplified one (Arcade), and modify the sensitivity of your machine.",
+        "date": 1757924434
+      }
+    },
+    {
+      "id": "1204635758138883",
+      "score": 5,
+      "review_title": "Another great game",
+      "review_description": "I don’t like it as much as the ww1 & 2 games they made but it’s still really fun.",
+      "date": 1757832102,
+      "review_helpful_count": 0,
+      "author_display_name": "Beans1985",
+      "author_alias": "Beans1985",
+      "developer_response": null
+    },
+    {
+      "id": "743070008247750",
+      "score": 2,
+      "review_title": "suggestions",
+      "review_description": "Let there be a button where the rest of the planes will form up on your position. It can help if you’re attacking a target and everyone in your group also attacks the same target and will be more cinematic. Also let the friendly AI do something to help, I want to play it but I don’t want to do the whole mission by myself, let the friendly AI fight instead of just having it look like they are, please fix this. I want it to feel like other battles are going on while your fighting someone, it will make it feel more fun and realistic",
+      "date": 1750976569,
+      "review_helpful_count": 9,
+      "author_display_name": "mrsbeefsj",
+      "author_alias": "mrsbeefsj",
+      "developer_response": null
+    },
+    {
+      "id": "731510736710153",
+      "score": 4,
+      "review_title": "Very good game but lacks planes/players",
+      "review_description": "It’s a very good plane sim but the lack of players online plus the lack of planes makes the game boring sometimes it would be way funner if people would play more often and more planes",
+      "date": 1754116089,
+      "review_helpful_count": 2,
+      "author_display_name": "Bruhman7070",
+      "author_alias": "Bruhman7070",
+      "developer_response": {
+        "body": "Our community comes from different time zones, so it may also be a good idea to check the Private Lobby, thanks to which you can start a multiplayer game with your friends at any time. It is also worth considering joining our discord:\nhttps://discord.gg/ntPmutN\n\nWhere there is always another pilot you can fly with. It is also worth mentioning that multiplayer is cross platform, so you won't be limited just to one platform.\n\nThere are also FB groups for VR fans of the Warplanes trilogy, where they regularly meet in closed games, but are also eager to welcome new members interested in playing together.",
+        "date": 1754291505
+      }
+    },
+    {
+      "id": "810244358829127",
+      "score": 5,
+      "review_title": "Don't ignore this game.",
+      "review_description": "It's a great game ,but can't play multi player without it crashing. Revive this game you sold me",
+      "date": 1755818668,
+      "review_helpful_count": 0,
+      "author_display_name": "SirbabeOG",
+      "author_alias": "SirbabeOG",
+      "developer_response": null
+    },
+    {
+      "id": "642146962325337",
+      "score": 5,
+      "review_title": "Please add the b2",
+      "review_description": "Please add the b2 please also best game ever",
+      "date": 1764259135,
+      "review_helpful_count": 8,
+      "author_display_name": "Skinner18",
+      "author_alias": "Skinner18",
+      "developer_response": {
+        "body": "I'd recommend joining our Discord, where the rest of our community will be happy to play with you: https://discord.gg/ntPmutN\n\nPenalizing an indie game solely on the basis that it is not as popular as a \"quadruple-A\" game will not improve the situation. On the contrary, because you lower the overall rating, further reducing the chance of a strong promotion and in-store exposure.\n\nOn the topic of 'not spawning with a plane' - if you are trying to pilot a plane or a jet, make sure its status is set to Commander Aircraft. \n\nRemember that you can always get in touch with our support department, just describe your issue in detail using:\n\nhttps://www.homenetgames.com/support/",
+        "date": 1752696341
+      }
+    },
+    {
+      "id": "621863107686560",
+      "score": 4,
+      "review_title": "Fun",
+      "review_description": "I enjoyed the game but got all the metals and upgrades and tons of money in two weeks. This is fun, but the battle over the Pacific is much harder.",
+      "date": 1751497738,
+      "review_helpful_count": 3,
+      "author_display_name": "Zombiesnot",
+      "author_alias": "Zombiesnot",
+      "developer_response": null
+    },
+    {
+      "id": "738409512683787",
+      "score": 5,
+      "review_title": "Really good",
+      "review_description": "Although it could be better it is still a really solid game and i would highly suggest you get it.",
+      "date": 1756743415,
+      "review_helpful_count": 0,
+      "author_display_name": "tacolover0825",
+      "author_alias": "tacolover0825",
+      "developer_response": null
+    },
+    {
+      "id": "671060556099293",
+      "score": 5,
+      "review_title": "Jet not activating when clicking on it",
+      "review_description": "When I go onto the training missions in the beginning I click on the Jet to fly but always end up with the helicopter, the game is awesome but just the issue of not being able to choose the Jet.So Dev could you please advise on this, thank you.",
+      "date": 1751182992,
+      "review_helpful_count": 0,
+      "author_display_name": "RomeoEcho",
+      "author_alias": "RomeoEcho",
+      "developer_response": {
+        "body": "To start the Training Mission - for example, the one covering Basic Flight - you can follow these steps:\n    - Select the right-side monitor and choose \"TRAINING MISSIONS\".\n    - On the right, in the Basic Flight section, click the button with the Fighter icon.\n    - Head to the left monitor and pick a plane from your collection (such as the AA-37c). This is a solid choice for this mission.\n    - On the middle monitor, click \"Change Status.\" This will switch your AA-37c from \"Active – Support Aircraft\" to \"Active – Commander Aircraft,\" meaning you’ll be piloting it yourself when the mission starts.\n    - Finally, verify your mission setup on the middle monitor summary. At the top, make sure it says \"Aircraft: Fighter.\" Once everything looks good, press the \"START!\" button to begin your training mission from the Fighter’s perspective.\n\nWe hope this clears things up and helps you take off smoothly. In case of any further difficulties, please contact our support using:\nhttps://www.homenetgames.com/support/",
+        "date": 1761121557
+      }
+    },
+    {
+      "id": "688192637713173",
+      "score": 4,
+      "review_title": "Very good but 1 issue",
+      "review_description": "I love this game I find it very fun to play with friends but….the only issue Is that no one plays it at all the only time I get to play with someone is when my freind plays it",
+      "date": 1764440644,
+      "review_helpful_count": 0,
+      "author_display_name": "FUTURECHAN",
+      "author_alias": "FUTURECHAN",
+      "developer_response": null
+    },
+    {
+      "id": "641575075399888",
+      "score": 4,
+      "review_title": "Really Fun! With some bugs.",
+      "review_description": "Awesome dogs fights. I love fighting and flying around. Lots of options and customizing my plane or helicopter with my favorite colors is amazing. That being said, there are some bugs. The main problem I’ve been running into is getting a lock on. The targeting system doesn’t lock on and that is not helpful and it makes it hard with cannon and even harder with the anti tank missile because you can’t shoot the missile WITHOUT a lock on! I pray to you who ever fixes the bugs to fix this one pppllleeeaaassseee. Overall pretty good, a 4/5 stars but if they fix this bug I will change my review and make it a 5/5. 🛩️",
+      "date": 1743382554,
+      "review_helpful_count": 25,
+      "author_display_name": "PredatorVariantZ",
+      "author_alias": "PredatorVariantZ",
+      "developer_response": null
+    },
+    {
+      "id": "1069393398641654",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Insaneley hard",
+      "date": 1754601688,
+      "review_helpful_count": 1,
+      "author_display_name": "Soap5312",
+      "author_alias": "Soap5312",
+      "developer_response": {
+        "body": "Please make sure to check out the in-game tips and tutorials, including:\n\na) The \"Basic Flight\" section in the Tutorial, on the right monitor at the base, will help you learn how to navigate the helicopter. \n\nb) It is also worth taking a look at the Flight Setup settings, available at the bottom of the central monitor, a moment before starting the mission - there you can change the flight model to one closer to simulation, or a simplified one (Arcade), and modify the sensitivity of your machine. \n\nc) It may also be helpful to visit the \"Controls\" section (left monitor at the base), where you can choose the Controls Layout that is convenient for you.\n\nd) As well as this, a somewhat additional document with useful gameplay tips:\nhttps://docs.google.com/document/d/1wpigWtNmZN4i7IZwLsCXiYIox0bK9IYbN7xjGBR9Jac/edit",
+        "date": 1754641115
+      }
+    },
+    {
+      "id": "745331825321349",
+      "score": 5,
+      "review_title": "",
+      "review_description": "I enjoy the game it's very fun I wish the A10 had its sound like real life and more sound effects would make the game better",
+      "date": 1752171043,
+      "review_helpful_count": 1,
+      "author_display_name": "Frostblade17",
+      "author_alias": "Frostblade17",
+      "developer_response": null
+    },
+    {
+      "id": "657061483749070",
+      "score": 4,
+      "review_title": "Needs ejection",
+      "review_description": "It is super good and a pretty accurate sim but not being able to eject when you’re getting shot down or hurling towards the ground to save yourself is kinda frustrating. Please add this.",
+      "date": 1745289164,
+      "review_helpful_count": 18,
+      "author_display_name": "Torresfam04",
+      "author_alias": "Torresfam04",
+      "developer_response": {
+        "body": "Thank you for your suggestion. At this moment - when your machine's HP drops drastically, remember that you can use one of the other machines you took on a mission as part of your Squadron and \"switch between your machines\" while in air. Please check the TEAM button in the cockpit, where you will be able to switch between your machines and avoid impending disaster this way.",
+        "date": 1745398965
+      }
+    },
+    {
+      "id": "638308166036253",
+      "score": 4,
+      "review_title": "Awesome game!!",
+      "review_description": "As soon as I downloaded this game I LOVED it the graphics are awesome and I love how you can upgrade your plane or helicopter to make it faster and the AI assistant  cool when you first start out, and the missions you can go on are COOL! the feeling of flying is realy cool! but the helicoptering way to hard to control ￼every time you go forward it just nose dives and sometimes the planes when you go to low they will not pull up this game would get a five star if this didn’t happen",
+      "date": 1747482290,
+      "review_helpful_count": 2,
+      "author_display_name": "irockulus.2011",
+      "author_alias": "irockulus.2011",
+      "developer_response": null
+    },
+    {
+      "id": "1224585222365561",
+      "score": 5,
+      "review_title": "The franchise takes on a era",
+      "review_description": "I’ve been a fan of the series and this game has just become my top play. I love that you are now able to take on the role of a chopper pilot as well as the plane/jet pilot. Training for vehicle feels competent. Controls are easy to learn and takes time to master, this is especially true with the jets. If you’re prone to motion sickness you may want to stick with the chopper.",
+      "date": 1746554741,
+      "review_helpful_count": 3,
+      "author_display_name": "Puerto-the-Rico",
+      "author_alias": "Puerto-the-Rico",
+      "developer_response": null
+    },
+    {
+      "id": "633231689356789",
+      "score": 5,
+      "review_title": "Awesome! And the Devs fix bugs quick!",
+      "review_description": "So fun, lots of planes and helicopters to choose. The sound design is also a little off but can't complain too much. The plane design is good. Missions have some variation but not a whole lot but that's no issue yet after several hours. THE DEVS LISTEN. There was a crash bug and they fixed it quickly. The new update works great and I've had no issues after 8 missions. Love the game and a ton of fun. Thanks for making such a fun game and supporting it. Absolute 5 star deserved.",
+      "date": 1740651732,
+      "review_helpful_count": 56,
+      "author_display_name": "SteelyDanMan96",
+      "author_alias": "SteelyDanMan96",
+      "developer_response": null
+    },
+    {
+      "id": "586531577888150",
+      "score": 4,
+      "review_title": "Really fun game",
+      "review_description": "I love this game and play it everyday. I have the WWI and WWII games as well. I do wish there were more available aircraft. The problem I am having lately is it freezing up when I am almost finished with the mission. I searched online for possible fixes and I deleted all the apps I could get rid of. That worked for a short time but it is doing 3-4 times in an 1.5 hour game session. Tighter turns would be appreciated as well. The only noticeable difference in performance is helicopter vs fixed wing jets. Yes, the F-16 and F-35 go faster than the A-10, but they all handle about the same. \n\n     All that being said, it is super fun to play!! I play it exclusively these days. Would really like an F-15 E with the ability to drop dumb bombs like in Battles over the Pacific.",
+      "date": 1747495775,
+      "review_helpful_count": 1,
+      "author_display_name": "ElvisKess78",
+      "author_alias": "ElvisKess78",
+      "developer_response": null
+    },
+    {
+      "id": "699798116318501",
+      "score": 3,
+      "review_title": "Dad",
+      "review_description": "I wanna play with my dad but Naurp bc he just wants to fly around at 40,000 feet instead of shooting so add a free roam map that’s bigger",
+      "date": 1748282775,
+      "review_helpful_count": 2,
+      "author_display_name": "Slaterboys5",
+      "author_alias": "Slaterboys5",
+      "developer_response": null
+    },
+    {
+      "id": "1623967834942919",
+      "score": 5,
+      "review_title": "best military combat flight sim",
+      "review_description": "Hands down best flight sim for military combat",
+      "date": 1750881032,
+      "review_helpful_count": 0,
+      "author_display_name": "jrod11991",
+      "author_alias": "jrod11991",
+      "developer_response": null
+    },
+    {
+      "id": "742130691668041",
+      "score": 2,
+      "review_title": "",
+      "review_description": "I like the graphics’s but I can barely pull up and no ejection",
+      "date": 1750310252,
+      "review_helpful_count": 0,
+      "author_display_name": "cashmanz",
+      "author_alias": "cashmanz",
+      "developer_response": {
+        "body": "Using the advantage that your own Squadron gives you is essentially the equivalent of instant evacuation, allowing you to dynamically switch to other machines in the middle of a mission.\n\nOn the topic of controls, please check the \"Basic Flight\" section in the Tutorial, on the right monitor at the base, it will help you learn how to fly. \n\nIt is also worth taking a look at the Flight Setup settings, available at the bottom of the central monitor, a moment before starting the mission - there you can change the flight model to one closer to simulation, or a simplified one (Arcade), and modify the sensitivity of your machine. \n\nIt may also be helpful to visit the \"Controls\" section (left monitor at the base), where you can choose the Controls Layout that is convenient for you.\n\nGive yourself a chance and take a few minutes to practice, and you'll turn into an excellent pilot in no time!",
+        "date": 1750407203
+      }
+    },
+    {
+      "id": "815978144200485",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "For me when I tried to join the discord I didn’t work it says it’s invalid",
+      "date": 1758403643,
+      "review_helpful_count": 0,
+      "author_display_name": "Maxbuz13",
+      "author_alias": "Maxbuz13",
+      "developer_response": {
+        "body": "You can join our Discord via:\nhttps://discord.gg/ntPmutN",
+        "date": 1758524619
+      }
+    },
+    {
+      "id": "611114012093215",
+      "score": 4,
+      "review_title": "Good game",
+      "review_description": "It’s good game need more buttons to press or like updated screens also could have like realistic take offs then fly over to the missions that would be pretty cool",
+      "date": 1748276208,
+      "review_helpful_count": 0,
+      "author_display_name": "Luxxy.DDRU",
+      "author_alias": "Luxxy.DDRU",
+      "developer_response": null
+    },
+    {
+      "id": "661772393685729",
+      "score": 2,
+      "review_title": "Meh",
+      "review_description": "It really fun but keeps crashing and ruins it for me",
+      "date": 1748540670,
+      "review_helpful_count": 2,
+      "author_display_name": "pyroas2",
+      "author_alias": "pyroas2",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T10:49:02Z"
+}
