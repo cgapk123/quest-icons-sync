@@ -1,0 +1,710 @@
+{
+  "app_id": "7255273587928394",
+  "package_name": "com.LuGusStudios.LiftoffXR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Liftoff®: XR Drone",
+  "rating_average": 4.4886363636364,
+  "rating_count": 176,
+  "review_count": 72,
+  "reviews": [
+    {
+      "id": "1160727647133296",
+      "score": 3,
+      "review_title": "Good to get the feel of acro/manual mode",
+      "review_description": "Probably the only app with FPV acro mode, making it fun to fly. However, there is no way to adjust the sensitive of controls or camera angle",
+      "date": 1781575835,
+      "review_helpful_count": 0,
+      "author_display_name": "RIGIK93",
+      "author_alias": "RIGIK93",
+      "developer_response": null
+    },
+    {
+      "id": "2408042836291987",
+      "score": 3,
+      "review_title": "Nice start",
+      "review_description": "But need improvement:\n- support for RC simulator radios, like the PC version\n- acro mode for learn flying in manual\n- simulate real rc goggles view\n- and of course add more environments!\n\nThen i will give 5 stars and my money :)",
+      "date": 1769371844,
+      "review_helpful_count": 16,
+      "author_display_name": "relaxculus",
+      "author_alias": "relaxculus",
+      "developer_response": null
+    },
+    {
+      "id": "1008515462355252",
+      "score": 5,
+      "review_title": "Cool",
+      "review_description": "Cool",
+      "date": 1778000136,
+      "review_helpful_count": 0,
+      "author_display_name": "gnr2045s",
+      "author_alias": "gnr2045s",
+      "developer_response": null
+    },
+    {
+      "id": "757055050809491",
+      "score": 4,
+      "review_title": "I like it but",
+      "review_description": "But i need a CONTROL MODE 3 or CUSTOM mode. Please!!!",
+      "date": 1771318501,
+      "review_helpful_count": 1,
+      "author_display_name": "BOSSMONSTERZ",
+      "author_alias": "BOSSMONSTERZ",
+      "developer_response": null
+    },
+    {
+      "id": "26270733679249028",
+      "score": 4,
+      "review_title": "Impressive but leaves you wanting more",
+      "review_description": "This is a neat little experiment of the Liftoff brand in mixed reality and I was pleasantly surprised! Seeing the nice looking drone model fly around in my room with the well-executed spatial audio was a convincing and surreal experience! You can even build a little obstacle course in your own environment using various props.\n\nGiven they offer this for free, I can hardly complain. However, it leaves me wanting much more and I wish the devs would consider working on the title some more (last update was in 2024). Personally, I would love to see:\n\n- USB controller support so I can use my real RC controller\n- FPV goggle mode instead of just a monitor. (and probably more ways to skin your spatial data as a level)\n- Addition of non-XR levels as well",
+      "date": 1775176238,
+      "review_helpful_count": 0,
+      "author_display_name": "OooldGreeeg",
+      "author_alias": "OooldGreeeg",
+      "developer_response": null
+    },
+    {
+      "id": "26579643938292336",
+      "score": 3,
+      "review_title": "Acro mode is a must.",
+      "review_description": "For you to have and use the word Liftoff, comparing it to the very good and essential Liftoff FPV acro trainer on Steam, you NEED to have acro mode as an option in this. Without, it looks like you're piggybacking off the Liftoff brand name to sell a terrible imitation and cash grab.",
+      "date": 1766002601,
+      "review_helpful_count": 1,
+      "author_display_name": "Z0VI",
+      "author_alias": "Z0VI",
+      "developer_response": {
+        "body": "Could you clarify what you mean? We are the developers of Liftoff, including the Liftoff simulators available on Steam. This project is not piggybacking on any name that is not ours.\n\nThis XR sim is entirely free and was created as an open, experimental initiative to explore the potential of XTT. There are no costs involved, no purchases, no microtransactions, and no advertising. What you are referring to as a “cash grab”?",
+        "date": 1766093356
+      }
+    },
+    {
+      "id": "1318582019923873",
+      "score": 2,
+      "review_title": "For the noobs.",
+      "review_description": "This app specifically target new fpv pilots so that they don’t destroy their own drone. For all who are complaining about altitude hold, that is not a feature on fpv drones. That is for the camera drones. I would have really enjoyed this game if only you can turn on acro mode.",
+      "date": 1759462615,
+      "review_helpful_count": 17,
+      "author_display_name": "MeBoaz",
+      "author_alias": "MeBoaz",
+      "developer_response": null
+    },
+    {
+      "id": "969257186265920",
+      "score": 1,
+      "review_title": "Terrible",
+      "review_description": "Terrible, buggy as hell.",
+      "date": 1767227281,
+      "review_helpful_count": 0,
+      "author_display_name": "MarcHennessey",
+      "author_alias": "MarcHennessey",
+      "developer_response": null
+    },
+    {
+      "id": "1426541972349497",
+      "score": 5,
+      "review_title": "Super cool",
+      "review_description": "This is a great game to just relax and fly (or learn to) without disturbing everyone and the dogs with a real drone. Highly recommend!!",
+      "date": 1772164867,
+      "review_helpful_count": 0,
+      "author_display_name": "grizzlyman45",
+      "author_alias": "grizzlyman45",
+      "developer_response": null
+    },
+    {
+      "id": "878688902004611",
+      "score": 5,
+      "review_title": "Verry nice",
+      "review_description": "nice game. I just wish i could turn down the rotor noise",
+      "date": 1769546517,
+      "review_helpful_count": 0,
+      "author_display_name": "Tha00",
+      "author_alias": "Tha00",
+      "developer_response": null
+    },
+    {
+      "id": "732469486622546",
+      "score": 1,
+      "review_title": "Creepy",
+      "review_description": "I was looking and I saw ppl in the camera and the guy was walking around and it kept looking around the house when I wasn’t controlling it",
+      "date": 1755393485,
+      "review_helpful_count": 8,
+      "author_display_name": "stary424",
+      "author_alias": "stary424",
+      "developer_response": {
+        "body": "This application is an XR experience that renders a virtual drone within the live camera feed of your headset. There are no virtual characters, avatars, or moving entities present in the application’s virtual content.\n\nIt is therefore most likely that what you observed was a person moving in the physical environment around you during your play session. Events occurring in the real-world surroundings are outside the scope of the application and are not generated or controlled by the app.",
+        "date": 1766093725
+      }
+    },
+    {
+      "id": "25493608726976671",
+      "score": 4,
+      "review_title": "Great little game",
+      "review_description": "Would love to see more updates (better resolution for Meta Quest 3, more drones etc). Hope it isn't abandoned.",
+      "date": 1768082428,
+      "review_helpful_count": 0,
+      "author_display_name": "CaptainRizla",
+      "author_alias": "CaptainRizla",
+      "developer_response": null
+    },
+    {
+      "id": "712034221788331",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Just upgraded to the Quest 3 yesterday. Really like this game.  I do wish u could interface with the camera on the drones without having to carry the little screen around. Also wish the drones could fly at one height and be stable with the throttle instead of having to constantly be pushing the throttle up and down to keep it at the altitude u want it at. Otherwise this game is super fun 😊😊😊👍🏻👍🏻👍🏻",
+      "date": 1749752045,
+      "review_helpful_count": 12,
+      "author_display_name": "ryan.ketchem",
+      "author_alias": "ryan.ketchem",
+      "developer_response": null
+    },
+    {
+      "id": "762798246229169",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Great experience, I hope it will be full game someday",
+      "date": 1754573584,
+      "review_helpful_count": 1,
+      "author_display_name": "bstriky",
+      "author_alias": "bstriky",
+      "developer_response": null
+    },
+    {
+      "id": "724573937415761",
+      "score": 5,
+      "review_title": "Excellant",
+      "review_description": "Ive had a few cheap toy drones and couldnt control them as the slightest knock brought them down, but with this im actual learning the controls and would be confident about keeping a real one in the air. In both fpv and by sight. Amazing app",
+      "date": 1758289926,
+      "review_helpful_count": 0,
+      "author_display_name": "FriendlySalmon7433",
+      "author_alias": "FriendlySalmon7433",
+      "developer_response": null
+    },
+    {
+      "id": "1209364344142938",
+      "score": 5,
+      "review_title": "Just one thing that annoys me",
+      "review_description": "Excellent product great fun !!\nThe only thing that annoys me is i keep accidently hitting the \"A\" button and spawning those  darn balloons .. or whatever you have tied to the button.\nSeems one has to be chosen and no way around it .. Cant you enable it so if you click the item twice Non are highlighted or enabled ? ( unless I'm missing something )\nOther than that its awesome .. Get it :)",
+      "date": 1742062567,
+      "review_helpful_count": 29,
+      "author_display_name": "synchromesh62",
+      "author_alias": "synchromesh62",
+      "developer_response": null
+    },
+    {
+      "id": "765275886387036",
+      "score": 5,
+      "review_title": "The best !",
+      "review_description": "Ps4 Controller Support would be nice",
+      "date": 1759221637,
+      "review_helpful_count": 0,
+      "author_display_name": "Reloaded1973",
+      "author_alias": "Reloaded1973",
+      "developer_response": null
+    },
+    {
+      "id": "695739876962680",
+      "score": 4,
+      "review_title": "Excellent",
+      "review_description": "Have really enjoyed this app. Making courses for each other to fly has been challenging and a great laugh. Really good for understanding how a little drone would fly without the worry of damage or cost. \n\nHaven’t been able to get the drone to interact with real objects like tables and walls.",
+      "date": 1753514843,
+      "review_helpful_count": 0,
+      "author_display_name": "Kargan2025",
+      "author_alias": "Kargan2025",
+      "developer_response": null
+    },
+    {
+      "id": "676200581473955",
+      "score": 5,
+      "review_title": "Great sim",
+      "review_description": "Very realistic flight and so much fun. Feels almost like actually flying outside. Please add rate mode! Also add drones with more punch to allow doing flips and other tricks.",
+      "date": 1743376421,
+      "review_helpful_count": 2,
+      "author_display_name": "sleepycoder",
+      "author_alias": "sleepycoder",
+      "developer_response": null
+    },
+    {
+      "id": "592075517317391",
+      "score": 4,
+      "review_title": "Just needs controller support.",
+      "review_description": "Really great little app and useful for kids to experience drone flying without the risk of damaging the drone or themselves or any one else. Would be more useful as a training aid for real drones if compatibility to use an Xbox controller could be added",
+      "date": 1738875298,
+      "review_helpful_count": 9,
+      "author_display_name": "canoe_crazy",
+      "author_alias": "canoe_crazy",
+      "developer_response": null
+    },
+    {
+      "id": "516127534922508",
+      "score": 5,
+      "review_title": "Cool drone sim",
+      "review_description": "Nice sim, fun mixed reality with an option to open the walls up and to fly outside with an fpv screen. \n\nHey Devs can we have a swith to fly rate mode too, perhaps with an option to flip to full view fpv when you leave the mixed reality instead of the screen. Also an idea to make a multiplayer race and have a few races to complete?",
+      "date": 1735905083,
+      "review_helpful_count": 15,
+      "author_display_name": "deaddarlek",
+      "author_alias": "deaddarlek",
+      "developer_response": null
+    },
+    {
+      "id": "1349849462870414",
+      "score": 4,
+      "review_title": "Super fun but no acro mode :\\",
+      "review_description": "I loved playing the Liftoff game on PC with a flight controller but haven't gotten around to purchasing an FPV drone yet as it comes with quite a hefty price tag, I tried this out and while it is a lot of fun watching a wall of your house open up into another world to fly a drone I was disappointed that I couldn't fly in Acro mode or only use a screen to see the viewport from the drone. Would be sick to be able to fly in FPV using Acro mode and use the VR Headset as make believe FPV goggles.",
+      "date": 1739416526,
+      "review_helpful_count": 1,
+      "author_display_name": "Lehsss",
+      "author_alias": "Lehsss",
+      "developer_response": {
+        "body": "Please note, Liftoff XR Drone is designed as an introductory experience for flying micro drones (that are typically also flown in level mode) on Meta Quest 3. It's fine-tuned for beginners, providing a smooth and enjoyable flight using the device's motion controllers. The experience is authentic yet easy-going, ideal for new pilots. \n\nFor Pro pilots, we have our dedicated training sims with Liftoff: FPV Drone Racing and Liftoff Micro Drones. We have provided this a free casual simulator, and present it as an accessible entry point for VR users.",
+        "date": 1739537526
+      }
+    },
+    {
+      "id": "1248166566239967",
+      "score": 5,
+      "review_title": "Add some planes and name your price",
+      "review_description": "This is a lot of fun. I had an idea to make something like this but don't have the time. Add some airplanes and I'll buy it, name your price. Maybe add some rc cars, zero-gravity mode with space ships, but definitely airplanes. Even better, a way to add your own models like the old rc flight sims had",
+      "date": 1733597449,
+      "review_helpful_count": 38,
+      "author_display_name": "Neovivacity",
+      "author_alias": "Neovivacity",
+      "developer_response": null
+    },
+    {
+      "id": "570834582786789",
+      "score": 5,
+      "review_title": "From corn147",
+      "review_description": "Can you please add it onto quest 2",
+      "date": 1740792158,
+      "review_helpful_count": 3,
+      "author_display_name": "MonkeyVerseVr",
+      "author_alias": "MonkeyVerseVr",
+      "developer_response": null
+    },
+    {
+      "id": "1257891508849746",
+      "score": 5,
+      "review_title": "So much fun!",
+      "review_description": "I've been flying drones of different sizes for years and this is a great little simulator. The detail and quality of the models is incredible and the flight controls are spot on. The only \ntrouble I've been having is creating the portal to the farmyard area. My drone just bounces off the walls (as if it's really in the room) and the farmyard only exists outside the room. I can step outside to see it but the drone is stuck in the room. Other than that, I love it!",
+      "date": 1734433727,
+      "review_helpful_count": 5,
+      "author_display_name": "SirMagicJohn",
+      "author_alias": "SirMagicJohn",
+      "developer_response": null
+    },
+    {
+      "id": "1156927212496500",
+      "score": 3,
+      "review_title": "Content",
+      "review_description": "Near perfect game\nMaybe add a vr view of the drones and please make it able to do flips and tricks\nMaybe an engine shut of to free fall",
+      "date": 1737841071,
+      "review_helpful_count": 3,
+      "author_display_name": "russell.pearson",
+      "author_alias": "russell.pearson",
+      "developer_response": {
+        "body": "It already contains an FPV view",
+        "date": 1739537290
+      }
+    },
+    {
+      "id": "571632958977648",
+      "score": 5,
+      "review_title": "Played on quest 3s very realistic",
+      "review_description": "So I used a app to increase resolution and if you take the drone up close it loks like a real object compared to other objects seen in mixed reality I want to make it clear this is not human eye resolution since the quest.3s cameras and panels are low resolution but I can t believe it this is possible",
+      "date": 1735723931,
+      "review_helpful_count": 4,
+      "author_display_name": "MangekyouSharingan",
+      "author_alias": "MangekyouSharingan",
+      "developer_response": null
+    },
+    {
+      "id": "1631393280781536",
+      "score": 5,
+      "review_title": "Really fun indoor drone sim.",
+      "review_description": "Fun to fly drones around my kitchen.  Feels very authentic and convincing.  Neat that it has an fpv option included.  I'm excited to see how this app develops.",
+      "date": 1736047920,
+      "review_helpful_count": 4,
+      "author_display_name": "SubCog",
+      "author_alias": "SubCog",
+      "developer_response": null
+    },
+    {
+      "id": "504528969406859",
+      "score": 5,
+      "review_title": "Really good",
+      "review_description": "I used to have these kind of micro/nano drones as what is currently in this version of the game. Pretty fun to fly and with unlimited battery life now",
+      "date": 1731691129,
+      "review_helpful_count": 5,
+      "author_display_name": "tolongges",
+      "author_alias": "tolongges",
+      "developer_response": null
+    },
+    {
+      "id": "1741730649995448",
+      "score": 5,
+      "review_title": "Fantastic and Excited for more!!",
+      "review_description": "Hurry up and take my money!! :)",
+      "date": 1732769358,
+      "review_helpful_count": 4,
+      "author_display_name": "Guidance777",
+      "author_alias": "Guidance777",
+      "developer_response": null
+    },
+    {
+      "id": "624969474026807",
+      "score": 5,
+      "review_title": "LOVE THIS!",
+      "review_description": "Love this. Can't wait to see the upgrades.",
+      "date": 1743011882,
+      "review_helpful_count": 0,
+      "author_display_name": "MIKE1968",
+      "author_alias": "MIKE1968",
+      "developer_response": null
+    },
+    {
+      "id": "475009165689474",
+      "score": 5,
+      "review_title": "Great use of Augmented reality",
+      "review_description": "What a great experience. Very cool and had fun flying around the room. Had to remind myself when I was about to crash into a wall that it was virtual. Only feedback is for me it wasnt always obvious which way the drone body was facing",
+      "date": 1728476529,
+      "review_helpful_count": 3,
+      "author_display_name": "OZSqueezer",
+      "author_alias": "OZSqueezer",
+      "developer_response": null
+    },
+    {
+      "id": "883895983657615",
+      "score": 5,
+      "review_title": "Super promising",
+      "review_description": "Downloaded on a whim while browsing MR apps. Was surprised by how quickly I got sucked in. It's simple, but there's something really satisfying and immersive about flying a drone in your physical space, complete with shadows and objects that respond to your touch. \n\nIt's a trip using the camera monitor to fly it into the immersive space and then back into your room. Even though it obviously doesn't have much detail, it feels really futuristic seeing a virtual drone's point of view of your living room, even if it's just represented as a box in 3D space.\n\nReally excited to see how this app progresses. Keep up the good work.",
+      "date": 1725781856,
+      "review_helpful_count": 16,
+      "author_display_name": "NictatorXR",
+      "author_alias": "NictatorXR",
+      "developer_response": {
+        "body": "Thank you for the kind words!",
+        "date": 1725870981
+      }
+    },
+    {
+      "id": "818741590421613",
+      "score": 5,
+      "review_title": "So fun! A quick suggestion",
+      "review_description": "This is awesome! My FPV experience is mostly using Uncrashed on my PC with a BETAFPV controller. This is very similar and felt very natural to fly, however if there’s any way I can connect my FPV controller to my headset through USB C, and pilot these XR drones that way, I would be soooo happy",
+      "date": 1725977371,
+      "review_helpful_count": 4,
+      "author_display_name": "Dakota.Exe",
+      "author_alias": "Dakota.Exe",
+      "developer_response": null
+    },
+    {
+      "id": "449434294912493",
+      "score": 5,
+      "review_title": "Awesome experience!",
+      "review_description": "I've never flew a drone and it's harder than I thought, that being said it's a remarkably fun to learn, and that game experience it's awesome and now after some time playing I want a a drone to play real life, kudos to the devs! And thank you for the great app!",
+      "date": 1726677097,
+      "review_helpful_count": 3,
+      "author_display_name": "BCegal",
+      "author_alias": "BCegal",
+      "developer_response": {
+        "body": "You're very welcome!  Thank you for the positive review :)",
+        "date": 1726685588
+      }
+    },
+    {
+      "id": "1103408854692932",
+      "score": 3,
+      "review_title": "Not bad for an early release but....",
+      "review_description": "AHonest Review\nThe app isn't too bad, I like the concept, I like the mix reality, and music is cool.\nAs a fpv pilot, personally, for me, it's a little too slow.\nPoints that I hope will come in the future.\n- make it fly faster\n- make the fpv screen stick to your face\n- make acro and air mode\n- allow adjustments to pitch, roll, and yaw (the turning is faster than the yaw, so it's hard to fly around stuff like I would do with any of my drones in stab mode in my personal preference.\n- allow camera adjustment on the drone\n- allow hud display to see icons like crosshair, altitude, stick position, etc..\n- eventually add a banjo in\n-allow for controls to be changed mode1, 2 and 3.\nLikeninsaid.. this is to my preference as I already fly quads. This would be a fantastic training aid, especially since I don't do acro indoors with my tiny whoops as I keep smashing them",
+      "date": 1726170116,
+      "review_helpful_count": 6,
+      "author_display_name": "D.D8_1",
+      "author_alias": "D.D8_1",
+      "developer_response": {
+        "body": "Thanks you so much! We appreciate you taking the time to provide feedback. You’ve got some great ideas, and we’re certainly considering some of them for future updates. Since you are a pilot: if you're craving a hardcore FPV sim experience, check out our hardcore Liftoff PC simulators, they’re just what you’re after.\n\nWe believe our hobby needs more projects that lower the barrier to entry, and having an easy going drone experience, aimed at newcomers hopefully brings more enthusiasts into the fold! This easy pick-up and play experience is what we hope to achieve with With Liftoff®: XR Drone.",
+        "date": 1726216783
+      }
+    },
+    {
+      "id": "8212035918846890",
+      "score": 5,
+      "review_title": "A very funny drone experience!",
+      "review_description": "I am a seasoned FPV pilot working with drones for a living. I am a big fan and user of Liftoff's line of products from day 1. I have to say this AR experience is super fun! The idea to \"open a wall\" and fly in the virtual field in FPV is awesome. Also hovering the drone at a few centimeters from your face to look at all the 3D model's details is a great experience!\nThe only thing I find difficult is yaw/throttle management due to the super-short-springy Quest 3 controllers' analog sticks. But of course it's not a problem due to the casual nature of this app. If the developers will find a way to add external RC controller support and acro modes with more environments to fly in, this may become a great sim/game in my opinion. Well done LuGus!",
+      "date": 1720687724,
+      "review_helpful_count": 31,
+      "author_display_name": "Tellurico",
+      "author_alias": "Tellurico",
+      "developer_response": null
+    },
+    {
+      "id": "505047368565927",
+      "score": 5,
+      "review_title": "Wow....!",
+      "review_description": "Oh my god!. I've been flying fpv for nearly 10 years and finally I can fly at home without my girlfriend moaning. Okay this is early days. The drones are set with low rates and in stabilised mode. Like a 1s whoop. But I can really see the potential here. Can't wait for them to add full acro and bigger drones for flying in the virtual zone. This is a must have for anyone into flying.",
+      "date": 1722157479,
+      "review_helpful_count": 17,
+      "author_display_name": "MonkeyJamie",
+      "author_alias": "MonkeyJamie",
+      "developer_response": null
+    },
+    {
+      "id": "390422914154323",
+      "score": 5,
+      "review_title": "Conpliments to the DEVs",
+      "review_description": "What an amazing experience, thanks teams Liftoff!\n\nThe level of details of the drones is truly stunning. Great controls and flight mechanics.\n\nCan't wait to see this teaser to become a full game/sim !\n\nI recommend anyone to try this beautiful gem.",
+      "date": 1722354830,
+      "review_helpful_count": 3,
+      "author_display_name": "MicroMannetje",
+      "author_alias": "MicroMannetje",
+      "developer_response": null
+    },
+    {
+      "id": "1196164351568486",
+      "score": 5,
+      "review_title": "Perfectly bite-sized line-of-sight sim",
+      "review_description": "Being able to inspect the drones from close by, grabbing them and popping balloons is quite fun. But the best part is turning one of the walls of your room into a portal to another scene where the drone can fly into. You can follow along from the FPV camera on a small screen that you can spawn and stretch in front of you.\nWhile I don't have much experience with the drones available in the game, the one I do have flies pretty similarly in terms of speed and feel. So definitely a great addition to fly a little without breaking anything in the house. Can't wait for more!",
+      "date": 1720642190,
+      "review_helpful_count": 4,
+      "author_display_name": "juniordiscart",
+      "author_alias": "juniordiscart",
+      "developer_response": null
+    },
+    {
+      "id": "940225201451062",
+      "score": 5,
+      "review_title": "What a great idea!",
+      "review_description": "I wasn't sure what to expect when I installed it. I am learning to fly fpv without the fuss and expense of the real thing. Thank you developers. You are super.",
+      "date": 1722223003,
+      "review_helpful_count": 2,
+      "author_display_name": "chiokko",
+      "author_alias": "chiokko",
+      "developer_response": null
+    },
+    {
+      "id": "806710128274492",
+      "score": 5,
+      "review_title": "",
+      "review_description": "this one is quite funn, but PLEASE make a normal standalone paid liftoff version, please please please!)",
+      "date": 1723534751,
+      "review_helpful_count": 1,
+      "author_display_name": "yoman.psi",
+      "author_alias": "yoman.psi",
+      "developer_response": null
+    },
+    {
+      "id": "1144711153451465",
+      "score": 4,
+      "review_title": "Looks very nice and works well",
+      "review_description": "Works very well and I like the wall/window to the track. I would like to have a stable height option like you have on consumer drones",
+      "date": 1720688390,
+      "review_helpful_count": 3,
+      "author_display_name": "Wolffman_Two",
+      "author_alias": "Wolffman_Two",
+      "developer_response": null
+    },
+    {
+      "id": "506696838561810",
+      "score": 5,
+      "review_title": "Super Cool!",
+      "review_description": "Really enjoy this would love to see more! would pay money for sure",
+      "date": 1721404620,
+      "review_helpful_count": 1,
+      "author_display_name": "UnlikelyFloof",
+      "author_alias": "UnlikelyFloof",
+      "developer_response": null
+    },
+    {
+      "id": "1163583628202231",
+      "score": 4,
+      "review_title": "Promising!",
+      "review_description": "I've been looking for a drone sim for a while. MR can deliver this in a fantastic new way and now my favorite fpv game making a move into my favorite tech. Yesss!",
+      "date": 1720766606,
+      "review_helpful_count": 0,
+      "author_display_name": "CactusCowboy",
+      "author_alias": "CactusCowboy",
+      "developer_response": null
+    },
+    {
+      "id": "1022659839462804",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "This is really cool, the drones respond very well too \nI'd love to see this idea developed in a full app that uses the drone's cameras and virtual scenarios too.\nI'd be willing to pay for it.",
+      "date": 1720708274,
+      "review_helpful_count": 3,
+      "author_display_name": "tassoleo",
+      "author_alias": "tassoleo",
+      "developer_response": null
+    },
+    {
+      "id": "471641156021839",
+      "score": 5,
+      "review_title": "Excellent work!",
+      "review_description": "This is great work so far.  Props to the developers who are working on this! \n\nSuch a great idea!",
+      "date": 1727126350,
+      "review_helpful_count": 1,
+      "author_display_name": "SuperDave321",
+      "author_alias": "SuperDave321",
+      "developer_response": null
+    },
+    {
+      "id": "453073747496616",
+      "score": 5,
+      "review_title": "Awesome!",
+      "review_description": "I love how the drone reacts to furniture, and it casts a shadow too!",
+      "date": 1720687147,
+      "review_helpful_count": 3,
+      "author_display_name": "Nago15",
+      "author_alias": "Nago15",
+      "developer_response": null
+    },
+    {
+      "id": "443363245266497",
+      "score": 5,
+      "review_title": "Great drone sim!",
+      "review_description": "Being a 'casual' DJI drone pilot myself, I love it: more accessible than the 'pro' Liftoff simulator, super fun (the balloons, the VR portal), hyper immersive (feels just like flying a consumer drone) and it interacts perfectly with the room boundaries & furniture.  This is how XR on Quest 3 is supposed to be!",
+      "date": 1720692602,
+      "review_helpful_count": 7,
+      "author_display_name": "spatialsail",
+      "author_alias": "spatialsail",
+      "developer_response": null
+    },
+    {
+      "id": "429901090207019",
+      "score": 5,
+      "review_title": "Sorry!",
+      "review_description": "This app is awesome 👌",
+      "date": 1725134507,
+      "review_helpful_count": 0,
+      "author_display_name": "EAGLE069",
+      "author_alias": "EAGLE069",
+      "developer_response": {
+        "body": "Are you attempting to play this on a non-supported device,  something other than the Meta Quest 3 and Meta Quest Pro?\n\nOur XR experience requires robust passthrough technology, which older systems like the Quest 2 does not offer. Our app page indicated the supported systems.",
+        "date": 1725133153
+      }
+    },
+    {
+      "id": "425769333947442",
+      "score": 5,
+      "review_title": "As an ex-CX-10 pilot...",
+      "review_description": "Hello.\n\nAs an ex-CX-10 mini drone pilot I'm loving this APP! This APP has a lot of potential. I would like to see more and more agil drones in this cool simulation. The drone feeling almost like real ones. The idea of flying out of the room into the field is simply great. I hope to see more soon. Keep up the good work. 👍🏻👍🏻👍🏻👍🏻",
+      "date": 1725294757,
+      "review_helpful_count": 6,
+      "author_display_name": "HairTaylor",
+      "author_alias": "HairTaylor",
+      "developer_response": null
+    },
+    {
+      "id": "397442530110568",
+      "score": 5,
+      "review_title": "Absolutely brilliant experience!",
+      "review_description": "I wasn’t expecting much from such a little project but boi was I wrong \n\nThe level of detail and attention is incredible; the models looks and feel absolutely realistic\n\nI loved the ability to tear down a wall and fly out in a 3D scenery, then I found out about the FPV monitor and I was hooked 😃\n\nI was also very impressed by the collision system; you can bump not only into your walls but even your controllers?! \n\nReally cool little experience for a beginner to get a sense for FPV drone.\n\nCan’t wait to see what else is coming for it!",
+      "date": 1720893916,
+      "review_helpful_count": 5,
+      "author_display_name": "Oskar_Toffel",
+      "author_alias": "Oskar_Toffel",
+      "developer_response": null
+    },
+    {
+      "id": "394134563784747",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "I will learn to drive in this application!",
+      "date": 1723540460,
+      "review_helpful_count": 0,
+      "author_display_name": "Figarist",
+      "author_alias": "Figarist",
+      "developer_response": null
+    },
+    {
+      "id": "393134680547207",
+      "score": 4,
+      "review_title": "",
+      "review_description": "It’s not showing up for me to play",
+      "date": 1722302738,
+      "review_helpful_count": 0,
+      "author_display_name": "KDIzzle670",
+      "author_alias": "KDIzzle670",
+      "developer_response": {
+        "body": "You should find it in your app library. Have you confirmed that the game is fully downloaded and that you're not checking a restricted category in your library? Maybe try logging back into your Meta account?\n\nFor support, please reach out to us via our support channel or at team@lugus-studios.be. Addressing issues in the review section isn't the best way to get help.\n\n\n* Update: It seems the user was trying to get the app on their Quest 2, but unfortunately, it is not supported. Our XR experience requires robust passthrough technology, which the Quest 2 does not offer.",
+        "date": 1722330205
+      }
+    },
+    {
+      "id": "385748621288344",
+      "score": 4,
+      "review_title": "Amazing Drone Experience!",
+      "review_description": "“Liftoff®: XR Drone” on Meta Quest 3 is fantastic! The controls are smooth, making flying incredibly fun. The mixed reality integration is impressive, blending real and virtual worlds seamlessly. I hope future updates add more drone models to boost variety and enjoyment. Highly recommended for drone enthusiasts!\n\nFor improvements, the drone speed could be higher, and adding more models would increase the variety and enjoyment.",
+      "date": 1722768292,
+      "review_helpful_count": 2,
+      "author_display_name": "m15al",
+      "author_alias": "m15al",
+      "developer_response": null
+    },
+    {
+      "id": "385636874628993",
+      "score": 5,
+      "review_title": "Very impressed",
+      "review_description": "As an fpv pilot i am very impressed by how real this feels. Just like when i fly my mob6 indoors line of sight and fpv i thought it was going to hit me or the surroundings completely forgetting that it was virtual. I love being able to grab it and stretch it out and fly around the living room popping balloons. Just needs a fully manual mode as im not a fan of the alt hold but i get why it's there. Controls also are very realistic. Well done Liftoff devs",
+      "date": 1720635223,
+      "review_helpful_count": 50,
+      "author_display_name": "ST1G47",
+      "author_alias": "ST1G47",
+      "developer_response": {
+        "body": "Thank you so much!",
+        "date": 1725871081
+      }
+    },
+    {
+      "id": "381528048374744",
+      "score": 5,
+      "review_title": "So well done for a start",
+      "review_description": "This app is so well done.  The feel is extremely realistic and utilizes mixed reality very well.  Absolutely will be buying when it is released as a full application.",
+      "date": 1720813450,
+      "review_helpful_count": 1,
+      "author_display_name": "hyphendude",
+      "author_alias": "hyphendude",
+      "developer_response": null
+    },
+    {
+      "id": "351255761413288",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Great fun having a blast well done on creating this gem. More scenarios would be a great addition to fly out of your boundaries. Love the barn and balloons superb....",
+      "date": 1721497670,
+      "review_helpful_count": 1,
+      "author_display_name": "Enrigd",
+      "author_alias": "Enrigd",
+      "developer_response": null
+    },
+    {
+      "id": "345492515322518",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "I was bad at it at first, but then I got the hang of it, and I threw the drone to try to pop the balloons",
+      "date": 1721406155,
+      "review_helpful_count": 1,
+      "author_display_name": "pencle_VR_AC",
+      "author_alias": "pencle_VR_AC",
+      "developer_response": null
+    },
+    {
+      "id": "309080505632389",
+      "score": 5,
+      "review_title": "Fun to play around with.",
+      "review_description": "Great little game in addition to the regular Liftoff games. Now I can finally fly in my own house :D",
+      "date": 1720715500,
+      "review_helpful_count": 1,
+      "author_display_name": "Thelastreturn",
+      "author_alias": "Thelastreturn",
+      "developer_response": null
+    }
+  ],
+  "total": 60,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T11:52:48Z"
+}
