@@ -1,0 +1,101 @@
+{
+  "app_id": "4487824941344271",
+  "package_name": "com.VRWorld.MultiMeasure",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "MultiMeasure",
+  "rating_average": 3.4615384615385,
+  "rating_count": 13,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "646541255219609",
+      "score": 1,
+      "review_title": "Works in 1 area",
+      "review_description": "What did you use this to find out a square footage of a room? U have to manually touch the corners and u cant leave the normal small boundaries. Would not get it if i knew that. There is a free app that does the same thing. Worst app",
+      "date": 1752957170,
+      "review_helpful_count": 2,
+      "author_display_name": "Bloodnofsky1986",
+      "author_alias": "Bloodnofsky1986",
+      "developer_response": null
+    },
+    {
+      "id": "577231118811228",
+      "score": 5,
+      "review_title": "Does the trick",
+      "review_description": "This is a very nice nice little app indeed that's awesome for saving time faffing with tape measures. Nothing too advanced but works a charm. I do wish buying the app unlocked all the extra features though. But you can't have it all",
+      "date": 1742697001,
+      "review_helpful_count": 1,
+      "author_display_name": "Wisebaxter",
+      "author_alias": "Wisebaxter",
+      "developer_response": {
+        "body": "We're glad you like the app!\n\nThank you for your understanding, we're trying a \"cheap app, cheap addons\" model 😄",
+        "date": 1743489820
+      }
+    },
+    {
+      "id": "1174322886448293",
+      "score": 4,
+      "review_title": "Useful, to a degree",
+      "review_description": "I received the code from the developer, and gave it an honest go. Overall, it’s a useful utility, but has some limitations- the app helpfully advises against using this as an accurate tool, so it’s probably good to just get quick general measurements. \n\n First, cons: The tutorial is useful, but could do with some more hand-holding; the controls are simple, but things such as  switching between area and length required a trip to the menu, which the tutorial didn’t cover. It also didn’t cover angles, which this app can also measure, nor did it cover multi-measurements. \nSome of the features are locked behind a paywall, but that’s par for the course these days, so nothing to hold against the dev. Perhaps the biggest issue I’ve had with it is there’s not an easily apparent way to clear the canvas, short of restarting the app. If this is something locked behind the paywall, it’s an annoying requirement. Also, the there is no way to measure anything other than metric- my plan was to use this for some home improvements and renovations- in the US, imperial is king for nearly all home builders (despite the obvious benefits of metric). Also, the smallest unit of measurement is meter, to two decimal places- quick math can make it cm, but measuring my 12in ruler came up as 0.3m, when it should be something like 0.305m. Lastly, the UI could use some work- it’s sometimes hard to gauge where I’ve clicked a starting or ending point, and some menus require the toggle be “moved” off and on, like a switch, instead of a two-state button.\n\nPros: Multi-measurement is amazing, and seeing a rough sketch of a proposed plan in 3D and being able to walk around in AR really brings the concepts of “sizes” to life- it’s easy to say a couch is 8ft long, but to actually see the measurement in your eyes does make it pop. The utility supports default lengths up to 1m, snap measurements to align to a 3D (hidden) grid, and area measurements can be in the same AR space as line measurements. In addition, while it does require that the headset stays within a room scale boundary, the measurements can be outside of that boundary. \n\nI’d like to see the ability to clear the canvas without restarting the app, and if there was a good way to export measurements or a 3D export utility to see this in AR on another device, that would be king. As it is, it’s a useful utility to demonstrate a potential project and the sizes it would take. I can see myself using this to show my wife a 3D view of a proposed home renovation project and letting her walk through it.",
+      "date": 1659373113,
+      "review_helpful_count": 5,
+      "author_display_name": "retropyor",
+      "author_alias": "retropyor",
+      "developer_response": {
+        "body": "Both your ideas have just been added! You can now both export to 3D models with the FBX and OBJ filetypes, there is now a \"clear canvas\" button in the settings and you can also use imperial measurements.\n\nPlease let us know if you're missing any features and we'll try to add them as soon as possible! \n\nWe'd also like to thank you for the honest and detailed review!",
+        "date": 1670920024
+      }
+    },
+    {
+      "id": "863904391636768",
+      "score": 3,
+      "review_title": "Metric only?",
+      "review_description": "Photos show length in both metric and imperial, but in the app only metric is shown. I wish I grew up learning the metric system but sadly, I have not. I would really like an option to change this.",
+      "date": 1667569416,
+      "review_helpful_count": 3,
+      "author_display_name": "ErrorCode78",
+      "author_alias": "ErrorCode78",
+      "developer_response": {
+        "body": "Imperial measurements have now been added into the base application! Please update to the latest version to access the new measurement system.",
+        "date": 1670919949
+      }
+    },
+    {
+      "id": "405286194916853",
+      "score": 5,
+      "review_title": "Great for quick measurements",
+      "review_description": "App warns to double check measurements, but it is very reliable. Used it to quickly measure a patio and was a able to measure areas and show my wife how much space the furniture she liked would take in a way that made sense. great app!",
+      "date": 1659507324,
+      "review_helpful_count": 2,
+      "author_display_name": "DudeIO",
+      "author_alias": "DudeIO",
+      "developer_response": {
+        "body": "Fantastic use of the app! An update has just arrived, we hope you like the new features and let us know if you're missing anything which we can put info future updates!",
+        "date": 1670817546
+      }
+    },
+    {
+      "id": "161717540360564",
+      "score": 2,
+      "review_title": "Having problem to run all features",
+      "review_description": "Can run the length feature but not the are and the angle. It is missing a detailed how to tutorial, the one that exist doest work properly.",
+      "date": 1699828287,
+      "review_helpful_count": 2,
+      "author_display_name": "edtechup",
+      "author_alias": "edtechup",
+      "developer_response": {
+        "body": "Thanks for your feedback! After running the tutorial, if you still don't know the buttons, bring the menu up bu twisting your hand outwards are you'll see which buttons are currently active at the top of the controller UI \n\nHope that helps!",
+        "date": 1706743434
+      }
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:29:15Z"
+}

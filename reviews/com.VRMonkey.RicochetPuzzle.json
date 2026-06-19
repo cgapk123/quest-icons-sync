@@ -1,0 +1,48 @@
+{
+  "app_id": "2978471125526900",
+  "package_name": "com.VRMonkey.RicochetPuzzle",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Rico Shooter",
+  "rating_average": 3.7647058823529,
+  "rating_count": 17,
+  "review_count": 17,
+  "reviews": [
+    {
+      "id": "312880683213570",
+      "score": 4,
+      "review_title": "Like 3D Snooker with Robots",
+      "review_description": "Overall I really liked this game and wish there were more levels. I did find one or two levels required a level of accuracy that was difficult to achieve while having to aim with your face direction, as even the slightest wobble could ruin your shot. My only other issue was that the difficulty level didn't ramp up gradually, instead being a little more up and down, but it was no big deal. I would also have liked an indicator for how many shots you have remaining and that the mini-map rotated with you so the arrow shape was always pointing the same way that I was.\n\nAnyway, more please.",
+      "date": 1592076785,
+      "review_helpful_count": 1,
+      "author_display_name": "CheeseAndHam",
+      "author_alias": "CheeseAndHam",
+      "developer_response": {
+        "body": "Thanks a lot for the review man!\nIn fact you can see the amount of shots left on your gauntlet, it is not too much clear, but it is there!\nWe were designing more levels for it, but we wanted to build it for other platforms and we are not sure if the game would feel good on 6DOF headsets.\nCheers!",
+        "date": 1597080654
+      }
+    },
+    {
+      "id": "139350644241887",
+      "score": 4,
+      "review_title": "Good but hard",
+      "review_description": "I can't get pass level three",
+      "date": 1583544542,
+      "review_helpful_count": 1,
+      "author_display_name": "L6ND0N",
+      "author_alias": "L6ND0N",
+      "developer_response": {
+        "body": "if you need some assistance please reach us out on facebook ;)",
+        "date": 1591973600
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:27:02Z"
+}
