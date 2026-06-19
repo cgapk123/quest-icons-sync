@@ -1,0 +1,59 @@
+{
+  "app_id": "7233178493447429",
+  "package_name": "com.UnicornProduction.TCGXR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "TCGXR",
+  "rating_average": 3.25,
+  "rating_count": 8,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "740119935857906",
+      "score": 4,
+      "review_title": "Really needs a Pokemon TCG and YU GI OH",
+      "review_description": "Really needs a Yu Gi Oh and Pokémon’s TCG card simulator support so I won’t have to use the real physical cards to get damage than getting them graded instead so yeh if it’s possible then ask Konami or The Pokemon company for their license to be added in this game or just go for it lol",
+      "date": 1756618022,
+      "review_helpful_count": 3,
+      "author_display_name": "Scaly_Pride",
+      "author_alias": "Scaly_Pride",
+      "developer_response": null
+    },
+    {
+      "id": "682987428102269",
+      "score": 1,
+      "review_title": "Ehh",
+      "review_description": "Really lack luster if you want to try and play mtg. There's really no foundational gameplay rules so to speak and it is all but impossible if you want to upload a deck list and don't try and build one, a furby has a larger vocabulary. Also there's micro transactions if you want to play other games. I understand it's a work in progress but man is there a lot of work needed. Good starting point if the devs could team up with wizards of the coast it could be the next MTG ARENA",
+      "date": 1753222917,
+      "review_helpful_count": 2,
+      "author_display_name": "Bulld0g406",
+      "author_alias": "Bulld0g406",
+      "developer_response": {
+        "body": "Thank you for your feedback!\nAs mentioned in the description, TCGXR does not come with a rules engine, unlike Tabletop Simulator.\nDecks can be easily created – please check our Discord server.\nTCGXR does not include microtransactions. There are different games to suit everyone. The only bonus that Patreon members get is the ability to create custom card backs and playmats. These are purely cosmetic.\n\nPlease discuss any ideas you have to make TCGXR better on discord.",
+        "date": 1754657573
+      }
+    },
+    {
+      "id": "1356648502828501",
+      "score": 4,
+      "review_title": "Very cool but",
+      "review_description": "It really needs counters and card duplication. Absolutely imperative for multiple TCGs. A temporary fix idea is that you could allow players to hide the playmat so they can place physical counters next to the virtual cards",
+      "date": 1761949880,
+      "review_helpful_count": 0,
+      "author_display_name": "anonymousfungi",
+      "author_alias": "anonymousfungi",
+      "developer_response": {
+        "body": "Hi, glad you like the game. Which kid of counters do you need? Have you seen the counter on the right side? It duplicates if you move it.\nAnyway, I really love the idea of hiding the playmate and the card duplication. I will implement both soon requests soon :)\nIf you have any other ideas or requests, feel free to join and discuss on Discord.\n\nTHX 4 your feedback!",
+        "date": 1762496303
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:17:42Z"
+}

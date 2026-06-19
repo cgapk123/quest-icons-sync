@@ -1,0 +1,45 @@
+{
+  "app_id": "5233245063425048",
+  "package_name": "com.UpstandingDesign.QuantumBlossom",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Quantum Blossom",
+  "rating_average": 3.7142857142857,
+  "rating_count": 7,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "409414395579534",
+      "score": 1,
+      "review_title": "Utterly Unplayable",
+      "review_description": "The text descriptions of gameplay are unintelligible, as is the \"training.\" At one key point in the training when it is going to describe what action lets you \"grab essence,\" the paragraph flies off the screen before it can be read, and of course you can't back up. The next instruction assumes you know what the previous one is, and consequently is unintelligible itself. It goes downhill from there, leaving a game that can't even be started.\n\nIf you can't document it, don't develop it.",
+      "date": 1722297401,
+      "review_helpful_count": 1,
+      "author_display_name": "kritz97",
+      "author_alias": "kritz97",
+      "developer_response": null
+    },
+    {
+      "id": "145414734998740",
+      "score": 4,
+      "review_title": "Hard to understand",
+      "review_description": "The first part is weird it took me a few minutes to figure out how to get the world started because there wasn’t a tutorial so just watch out for that but overall a good game",
+      "date": 1673911411,
+      "review_helpful_count": 1,
+      "author_display_name": "Walter_White_Yuh",
+      "author_alias": "Walter_White_Yuh",
+      "developer_response": {
+        "body": "Fortunately there is an optional tutorial that explains all of the controls you need to get started! From the main menu, select the Guide button, then select the Training button on the right side.  Hope this helps!",
+        "date": 1678637528
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:21:40Z"
+}

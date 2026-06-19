@@ -1,0 +1,45 @@
+{
+  "app_id": "4828111867242479",
+  "package_name": "com.Unity.Reflect.Viewer",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Reflect Review",
+  "rating_average": 2.8333333333333,
+  "rating_count": 12,
+  "review_count": 12,
+  "reviews": [
+    {
+      "id": "2365528090254790",
+      "score": 2,
+      "review_title": "Hmm?",
+      "review_description": "Not entirely sure if the developer knows what this is.",
+      "date": 1657040311,
+      "review_helpful_count": 25,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": {
+        "body": "Hi there, Reflect Review is a BIM design and coordination solution for architecture, engineering and construction to view 3D models on any device, in AR/VR, anywhere. It supports review of BIM models imported from Revit, BIM 360, Navisworks, SketchUp, and Rhino projects.",
+        "date": 1661280299
+      }
+    },
+    {
+      "id": "206728782051963",
+      "score": 5,
+      "review_title": "It's unity but in vr",
+      "review_description": "I can finally make a vrchat avatar",
+      "date": 1680372252,
+      "review_helpful_count": 1,
+      "author_display_name": "boowheresmrpig",
+      "author_alias": "boowheresmrpig",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:18:07Z"
+}

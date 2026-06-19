@@ -1,0 +1,53 @@
+{
+  "app_id": "29363753759904577",
+  "package_name": "com.UniverseLabs.WittyGorilla",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Witty Gorilla",
+  "rating_average": 3.6666666666667,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "883246064679973",
+      "score": 1,
+      "review_title": "This is ahh",
+      "review_description": "What is this",
+      "date": 1769634061,
+      "review_helpful_count": 0,
+      "author_display_name": "minicuppy",
+      "author_alias": "minicuppy",
+      "developer_response": null
+    },
+    {
+      "id": "618346561364449",
+      "score": 5,
+      "review_title": "W game",
+      "review_description": "As a mod I think this beta is so good and hard work so w from boggy",
+      "date": 1745436970,
+      "review_helpful_count": 1,
+      "author_display_name": "boggy1",
+      "author_alias": "boggy1",
+      "developer_response": null
+    },
+    {
+      "id": "700409329183920",
+      "score": 5,
+      "review_title": "Good game I made it.",
+      "review_description": "Play now!",
+      "date": 1745414829,
+      "review_helpful_count": 1,
+      "author_display_name": "cookthedev",
+      "author_alias": "cookthedev",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:19:37Z"
+}

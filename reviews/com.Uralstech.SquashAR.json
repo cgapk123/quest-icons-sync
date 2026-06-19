@@ -1,0 +1,76 @@
+{
+  "app_id": "9005281436156314",
+  "package_name": "com.Uralstech.SquashAR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Squash AR",
+  "rating_average": 1,
+  "rating_count": 5,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "243707928634321",
+      "score": 1,
+      "review_title": "Not good",
+      "review_description": "Can’t pick up the racket or ball",
+      "date": 1692442308,
+      "review_helpful_count": 5,
+      "author_display_name": "verbatimsoup666",
+      "author_alias": "verbatimsoup666",
+      "developer_response": {
+        "body": "Thank you for the review. Please make sure that the Quest guardian floor is at the physical floor level. We are not seeing this issue on our side (on a Quest 2). If you still notice this problem, please describe which device you are using in an email to uralstech@gmail.com",
+        "date": 1694800382
+      }
+    },
+    {
+      "id": "594096886040926",
+      "score": 1,
+      "review_title": "Blank screen 🤔",
+      "review_description": "Nothing showed up.  Blank screen",
+      "date": 1688525175,
+      "review_helpful_count": 2,
+      "author_display_name": "nader-k",
+      "author_alias": "nader-k",
+      "developer_response": {
+        "body": "Please try reinstalling the app. We are not seeing this issue on our side (on a Quest 2). Please describe which device you are using in an email to uralstech@gmail.com",
+        "date": 1688752814
+      }
+    },
+    {
+      "id": "201974709671374",
+      "score": 1,
+      "review_title": "Not good at all",
+      "review_description": "I didnt like this, theres no ‘scenery’ or court.. and when you hit the ball it just disappears..",
+      "date": 1705689488,
+      "review_helpful_count": 3,
+      "author_display_name": "Sassymood",
+      "author_alias": "Sassymood",
+      "developer_response": {
+        "body": "Thank you for the review. We will add the court soon. Click on the trigger button to get the ball back to your position. Make sure you have a roomscale guardian. Please send a video if the problem persists and tell us which device you are using in an email to info@uralstech.in",
+        "date": 1711804233
+      }
+    },
+    {
+      "id": "101926719616964",
+      "score": 1,
+      "review_title": "Can't play",
+      "review_description": "Can't even pick up racket to play? Needs work.",
+      "date": 1687086247,
+      "review_helpful_count": 3,
+      "author_display_name": "Shawn.Weir369",
+      "author_alias": "Shawn.Weir369",
+      "developer_response": {
+        "body": "Please try reinstalling the app. We are not seeing this issue on our side (on a Quest 2). Please describe which device you are using in an email to uralstech@gmail.com",
+        "date": 1688752846
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:21:55Z"
+}

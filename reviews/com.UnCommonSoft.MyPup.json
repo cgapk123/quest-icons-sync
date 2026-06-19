@@ -1,0 +1,45 @@
+{
+  "app_id": "7590057574425120",
+  "package_name": "com.UnCommonSoft.MyPup",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "MyPup",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "895287752922418",
+      "score": 1,
+      "review_title": "Absolute buns",
+      "review_description": "This is terrible... Requested a refund after playing it for 2 mins and was denied. The graphics are not smooth and there is little to no interactions you can do. Even a child would find this bland and boring. Don't recommend and not worth the money. Can't stress enough how bad this is.",
+      "date": 1763665833,
+      "review_helpful_count": 1,
+      "author_display_name": "Mrwhite33376",
+      "author_alias": "Mrwhite33376",
+      "developer_response": null
+    },
+    {
+      "id": "380498121822135",
+      "score": 5,
+      "review_title": "I Like Dog",
+      "review_description": "I love all the puppies, the dogs are the loveliest human companions",
+      "date": 1724273282,
+      "review_helpful_count": 4,
+      "author_display_name": "donkey.262988",
+      "author_alias": "donkey.262988",
+      "developer_response": {
+        "body": "Thank you! We're glad that you like this game. Your support is what drives us forward. We will keep updating and create even better games.",
+        "date": 1743336847
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:16:55Z"
+}
