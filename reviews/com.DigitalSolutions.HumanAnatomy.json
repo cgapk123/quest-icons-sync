@@ -1,0 +1,42 @@
+{
+  "app_id": "7211617352230732",
+  "package_name": "com.DigitalSolutions.HumanAnatomy",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Human Anatomy",
+  "rating_average": 4.5,
+  "rating_count": 8,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "818374164702832",
+      "score": 1,
+      "review_title": "Bad",
+      "review_description": "For real? A very poor app. I find it embarrassing to ask for money for such a thing",
+      "date": 1762797091,
+      "review_helpful_count": 1,
+      "author_display_name": "Darius2025",
+      "author_alias": "Darius2025",
+      "developer_response": null
+    },
+    {
+      "id": "927800740406772",
+      "score": 5,
+      "review_title": "Very Helpful for Education",
+      "review_description": "A very good app for learning, easy to use and helpful for understanding the content.",
+      "date": 1763527293,
+      "review_helpful_count": 1,
+      "author_display_name": "enzo.362298",
+      "author_alias": "enzo.362298",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:13:10Z"
+}

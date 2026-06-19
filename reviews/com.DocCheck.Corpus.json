@@ -1,0 +1,62 @@
+{
+  "app_id": "7040486339333655",
+  "package_name": "com.DocCheck.Corpus",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Corpus | Anatomy",
+  "rating_average": 4.0526315789474,
+  "rating_count": 19,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "613115088562653",
+      "score": 5,
+      "review_title": "Great app",
+      "review_description": "This app is well designed. Very easy to navigate. Just enough details and information for basic study on human anatomy.",
+      "date": 1752899534,
+      "review_helpful_count": 2,
+      "author_display_name": "jim.wang.107",
+      "author_alias": "jim.wang.107",
+      "developer_response": {
+        "body": "Thank you for your feedback! We wish you lots of fun and success learning anatomy with Corpus!",
+        "date": 1764171071
+      }
+    },
+    {
+      "id": "467258946480278",
+      "score": 3,
+      "review_title": "Best anatomy app on the store, but….",
+      "review_description": "Highly detailed models, but very poor optimization (stuttering on Quest 3, GPU bottleneck), even with suprisingly low resolution. Passthrough mode only.",
+      "date": 1736988094,
+      "review_helpful_count": 1,
+      "author_display_name": "Hnizdo.1",
+      "author_alias": "Hnizdo.1",
+      "developer_response": {
+        "body": "Hello Hnizdo.1,\nthank you very much for your message! Feel free to email us to X-Med@doccheck.com with feedback on where exactly the performance in the app breaks down. We will then pass everything on to our developers.",
+        "date": 1737034501
+      }
+    },
+    {
+      "id": "510340122153236",
+      "score": 2,
+      "review_title": "",
+      "review_description": "I can't get this to work correctly with the controllers.  It doesn't allow you to grab anything.  The only interaction I am able to do is the tutorial, but even then,  the controls don't allow you to do everything done in the tutorial.",
+      "date": 1730242221,
+      "review_helpful_count": 0,
+      "author_display_name": "Myzfit17",
+      "author_alias": "Myzfit17",
+      "developer_response": {
+        "body": "Hallo Tim, danke für dein Review.\nWenn du mit dem Controller in das Körperteil eingetaucht bist, musst du die Greiftaste drücken, die seitlich am Controller sitzt. Wenn du den Trigger vorne drückst, passiert nichts. Versuch das einfach nochmal. Wenn du nicht zurecht kommst, schreib uns gerne direkt an X-Med@doccheck.com. Wir vereinbaren dann ein kurzes Video-MeetUp.",
+        "date": 1730303274
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:16:21Z"
+}

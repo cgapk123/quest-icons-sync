@@ -1,0 +1,53 @@
+{
+  "app_id": "7766829313332093",
+  "package_name": "com.DigitalSolitions.Dinosaurs",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Dinosaur",
+  "rating_average": 4.3333333333333,
+  "rating_count": 24,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "914074141788308",
+      "score": 5,
+      "review_title": "Fun and relaxing VR game",
+      "review_description": "A colorful world with cute dinosaurs. Very easy to enjoy and completely stress-free. Great for both kids and adults.",
+      "date": 1766481980,
+      "review_helpful_count": 3,
+      "author_display_name": "GlowingWoodchuck1596",
+      "author_alias": "GlowingWoodchuck1596",
+      "developer_response": null
+    },
+    {
+      "id": "1588326259180943",
+      "score": 5,
+      "review_title": "Super Giant Dinos",
+      "review_description": "Wow, super giant dinos! Amazing",
+      "date": 1766479488,
+      "review_helpful_count": 2,
+      "author_display_name": "Olivia0133",
+      "author_alias": "Olivia0133",
+      "developer_response": null
+    },
+    {
+      "id": "315616271625225",
+      "score": 5,
+      "review_title": "Great app!",
+      "review_description": "The dinosaurs are impressively realistic, and my kids absolutely love it.",
+      "date": 1713068524,
+      "review_helpful_count": 18,
+      "author_display_name": "enzo.362298",
+      "author_alias": "enzo.362298",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:12:43Z"
+}
