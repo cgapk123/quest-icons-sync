@@ -1,0 +1,104 @@
+{
+  "app_id": "1916193025083050",
+  "package_name": "Metaforge.Games.SPLAT",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "SPLAT",
+  "rating_average": 4.25,
+  "rating_count": 16,
+  "review_count": 16,
+  "reviews": [
+    {
+      "id": "2133416860028899",
+      "score": 5,
+      "review_title": "GREAT BUT...",
+      "review_description": "putting down the xbox controller to find the oculus nunchuck to restart the level is annoying what were you thinking?",
+      "date": 1554872005,
+      "review_helpful_count": 4,
+      "author_display_name": "fungusman",
+      "author_alias": "fungusman",
+      "developer_response": {
+        "body": "Hi Fungusman, such a simple oversight on our behalf and understandably annoying. We are currently in the process of creating a larger update for the game so it would be difficult for me to provide an ETA, however we will certainly look into getting this fixed for you :)",
+        "date": 1554942200
+      }
+    },
+    {
+      "id": "1992013100907351",
+      "score": 5,
+      "review_title": "Lotsa fun",
+      "review_description": "I love the pixellated graphics! As somebody who grew up on Frogger, this game is a lot of fun.",
+      "date": 1545574952,
+      "review_helpful_count": 7,
+      "author_display_name": "ThatIsNotMySandwich",
+      "author_alias": "ThatIsNotMySandwich",
+      "developer_response": {
+        "body": "The pixellated graphics were influenced more by performance constraints rather than any artistic decisions. To populate these large inverted worlds with so many objects, all moving around on screen at the same time, was a mammoth technical challenge! I still have nightmares... glad someone can enjoy it! 😊",
+        "date": 1548211516
+      }
+    },
+    {
+      "id": "116849549370530",
+      "score": 1,
+      "review_title": "Mobile port",
+      "review_description": "Why on VR platform?",
+      "date": 1547047080,
+      "review_helpful_count": 0,
+      "author_display_name": "Raccooon",
+      "author_alias": "Raccooon",
+      "developer_response": {
+        "body": "Why not?",
+        "date": 1554944129
+      }
+    },
+    {
+      "id": "114349922988195",
+      "score": 3,
+      "review_title": "Its ok",
+      "review_description": "But it's not $6 ok",
+      "date": 1548800821,
+      "review_helpful_count": 4,
+      "author_display_name": "cigarettelegs",
+      "author_alias": "cigarettelegs",
+      "developer_response": {
+        "body": "Hi Cigarettelegs, setting a price for something we spent more than a year developing in our own time was not an easy task. This has been a particularly challenging title to make. We can assure you that your $6 has not gone to waste and we thank you for your support :)\n\nYou'll be glad to hear we have since made this game free, as the Oculus Go & Gear VR have been retired and development has stopped.",
+        "date": 1605172062
+      }
+    },
+    {
+      "id": "113397853043674",
+      "score": 4,
+      "review_title": "Roy F was right!",
+      "review_description": "Pretty much frogger on crack. Super fun and super challenging with a bunch of neat levels.",
+      "date": 1545462118,
+      "review_helpful_count": 10,
+      "author_display_name": "piercer_by_day",
+      "author_alias": "piercer_by_day",
+      "developer_response": {
+        "body": "Not sure who Roy F is, but if he predicated a super fun and challenging frogger on crack then we are happy to have delivered that for you 😃",
+        "date": 1545478210
+      }
+    },
+    {
+      "id": "113238629867901",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "Basically a game we all know and love well in vr..... Oculus Go controller can be furstaring and it is hard enough without being chased by scarecrows!!",
+      "date": 1555447958,
+      "review_helpful_count": 5,
+      "author_display_name": "Stephen_UK",
+      "author_alias": "Stephen_UK",
+      "developer_response": {
+        "body": "Glad you're enjoying the game! I'm sure the scarecrows equally enjoy chasing you...\n\nThe Go controller is so frustrating that I flew to America to inform them about the freezing problems in person... lets hope it gets fixed.\n\nAside from the controller bug, if you find yourself jumping in the wrong direction, try changing the touch zone shape in the options menu. We found that different people preferred slightly different touch zone sizes. Hope that helps.",
+        "date": 1555468972
+      }
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:26:46Z"
+}
