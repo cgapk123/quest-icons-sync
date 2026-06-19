@@ -1,0 +1,990 @@
+{
+  "app_id": "8582035711867299",
+  "package_name": "com.HiddenGemIO.ZIX",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "ZIX",
+  "rating_average": 4.5813953488372,
+  "rating_count": 129,
+  "review_count": 84,
+  "reviews": [
+    {
+      "id": "1553321066209301",
+      "score": 5,
+      "review_title": "Hope to see more!",
+      "review_description": "This could be the Risk Of Rain of quest if the update momentum stays consistent. I mean new maps, enemy types, etc. It's a fantastic base at the moment, but can absolutely be filled out more. Otherwise, really nothing else like it on quest, so I will continue playing it in hopes it stays supported.",
+      "date": 1779290852,
+      "review_helpful_count": 6,
+      "author_display_name": "oskykast",
+      "author_alias": "oskykast",
+      "developer_response": null
+    },
+    {
+      "id": "2050013435868085",
+      "score": 4,
+      "review_title": "An innovative work in progress",
+      "review_description": "There's never been a better time to get into this game. \n\nDevelopment has recommenced and the work the developers have been putting into their game DOJI is beginning to pay off for ZIX.  The game's also had a permanent price drop and has added Quest 2 support which should be good for building a player base\n\nThe shadows that were broken are now working, (although only recommended on Quest 3 for performance reasons), and they definitely improve the atmosphere. The world seems less lifeless and flat.  I wish the visuals had more contrast, but I'm very happy the shadows are working.\n\nLike any Early Access game there are glitches but so far they've been minor. \n\nThe innovative movement system, charming enemy designs with interesting behaviors, and roguelike gameplay have me hoping that ZIX will become a great success.",
+      "date": 1781540638,
+      "review_helpful_count": 1,
+      "author_display_name": "Jioxx",
+      "author_alias": "Jioxx",
+      "developer_response": null
+    },
+    {
+      "id": "1185156478013808",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Zix is really good I got this game when it first came out the game wasn’t doing good at first but now there doing better I can’t wait to see what they add next :)",
+      "date": 1781290402,
+      "review_helpful_count": 0,
+      "author_display_name": "henryhero320",
+      "author_alias": "henryhero320",
+      "developer_response": null
+    },
+    {
+      "id": "1389600086268517",
+      "score": 5,
+      "review_title": "Something I just can’t stop playing",
+      "review_description": "Zix is fun and amazing by it’s amazing movement mechanics and it’s just beautiful art style in characters and maps. And the amazing combos you can pull off is just to satisfying I’m loving the game a lot and I can’t believe it’s early access. Your guys have done an amazing job and I’m hoping to see more content soon. Amazing work you guys!!!!",
+      "date": 1776544370,
+      "review_helpful_count": 3,
+      "author_display_name": "jjcarstens",
+      "author_alias": "jjcarstens",
+      "developer_response": {
+        "body": "Thanks so much for this great review and playing ZIX!  Super happy you're enjoying it!",
+        "date": 1776629904
+      }
+    },
+    {
+      "id": "1521559029686762",
+      "score": 5,
+      "review_title": "Zix is great!",
+      "review_description": "it has it's own graphic style, fantastic gameplay loop, intuitive control's and great multiplayer gameplay \n\nZix had me saying \"wow\" multiple times throughout my play through",
+      "date": 1777826433,
+      "review_helpful_count": 1,
+      "author_display_name": "Leadboots1",
+      "author_alias": "Leadboots1",
+      "developer_response": null
+    },
+    {
+      "id": "1069544269584281",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "Probably one of the best VR games I've ever played. It would be even better if I didn't have stick drift.",
+      "date": 1777579854,
+      "review_helpful_count": 1,
+      "author_display_name": "mason19255",
+      "author_alias": "mason19255",
+      "developer_response": null
+    },
+    {
+      "id": "1456292339345640",
+      "score": 5,
+      "review_title": "the best feeling vr game play ever",
+      "review_description": "One word can describe this game, fluid. From its unique and smooth movement to it fast paced and natural feeling combat, this is a game i keep finding myself coming back to due to its sheer fun factor.",
+      "date": 1772149270,
+      "review_helpful_count": 4,
+      "author_display_name": "RyeBread0422",
+      "author_alias": "RyeBread0422",
+      "developer_response": {
+        "body": "appreciate your kind words, thanks for playing!",
+        "date": 1772475573
+      }
+    },
+    {
+      "id": "1041517115708193",
+      "score": 5,
+      "review_title": "Peak just, absolute peak",
+      "review_description": "This is a type of game that I dreamt of playing as a little kid, but knew no one would ever make it and I would never be able to make it. Then this game came out and it was and is perfect simply perfect even in its early stages. I know it’s a lot of glaze but is it?? \n\nThe only bad thing about this game is the fact that it’s not as popular as it should be.",
+      "date": 1771736720,
+      "review_helpful_count": 1,
+      "author_display_name": "Scorpio890",
+      "author_alias": "Scorpio890",
+      "developer_response": {
+        "body": "thanks so much! glad we could make your dreams a reality",
+        "date": 1772475675
+      }
+    },
+    {
+      "id": "852262247981179",
+      "score": 4,
+      "review_title": "The bow",
+      "review_description": "This game is very good, but there is a game breaking glitch that doesn’t allow you to get the bow at the beginning and the devs are acting like it doesn’t exist so one of the deaths are reading this please fix this bug so then the game is actually possible to beat",
+      "date": 1767448999,
+      "review_helpful_count": 4,
+      "author_display_name": "PotatoNatothedartmonkey",
+      "author_alias": "PotatoNatothedartmonkey",
+      "developer_response": {
+        "body": "Bug has been fixed!  You should be able to play smoothly.  Sorry about that.",
+        "date": 1770355491
+      }
+    },
+    {
+      "id": "1203171089526677",
+      "score": 5,
+      "review_title": "Amazing!",
+      "review_description": "Looks and plays great!! Definitely a new favorites!!",
+      "date": 1781607915,
+      "review_helpful_count": 1,
+      "author_display_name": "Jeremyed7",
+      "author_alias": "Jeremyed7",
+      "developer_response": null
+    },
+    {
+      "id": "908268559040349",
+      "score": 4,
+      "review_title": "Pls Give me Bow",
+      "review_description": "I like the movement and it’s really fun and cool and the he weapons are awesome But it never let me unlock the bow and arrow for some reason pls give me it",
+      "date": 1767374007,
+      "review_helpful_count": 2,
+      "author_display_name": "BANANA_BOY12345",
+      "author_alias": "BANANA_BOY12345",
+      "developer_response": {
+        "body": "hey! This bug is now fixed.  Please update and enjoy!  Sorry for the wait.",
+        "date": 1770355518
+      }
+    },
+    {
+      "id": "24388947110747687",
+      "score": 4,
+      "review_title": "Roguelike with unique controls",
+      "review_description": "There are alot of roguelikes these days, some are better then others, but many of them are really similar.\nZix does some things better and some things worse: The weakest point in my opinion are the generated levels. Dont get me wrong, they are not terrible, but it feels too generated for me.\nSome maps feel great, other maps are nearly empty, the difficulty spikes sometimes and is very low on other parts. Its nothing that cant be fixed, but these are the biggest negative points for me.\nThat out of the way... the positives: I really like zix because the combat is amazing. Every weapon, attack and movement is designed for VR. A bow gesture summons a bow, a pistol gesture summons pistols etc. The combat is quick and the possibilitys for combos are very high, youre jumping alot and stay airborne for long periods of time. The progression is good too: You earn money and unlock new weapons, you level up and upgrade your abilitys, there are highscores and most importantly a coop mode.\nThe graphics are ok, not amazing... but smooth, which is very important for the quick combat. The music is not my thing (i guess its personal taste), im listening to my own music most of the time.\n\nFor now, Zix is like a 4-4.2 for me, when future upgrades adressing my negative points it could be a 5.\nIts defintely on the higher tiers of roguelikes for me and if you like this genre you should check it out and give it a shot.",
+      "date": 1758214996,
+      "review_helpful_count": 51,
+      "author_display_name": "dafaithz",
+      "author_alias": "dafaithz",
+      "developer_response": null
+    },
+    {
+      "id": "1382507263880848",
+      "score": 5,
+      "review_title": "Not a fan of roguelikes",
+      "review_description": "At its core, Zix puts you in the role of an Acolyte harvesting “raw instability” from three shifting worlds. You use a mystical Cauldron to fuse ingredients from those worlds, which changes everything: enemies, environments, and even the chaos that unfolds. Every run plays out differently, with bosses that can literally reshape arenas mid-battle. You can tackle this solo, or bring along up to two friends in full cross-platform co-op. Whether you’re on Quest or Steam, everyone can mix worlds together and fight through the madness. I played both solo and co-op, and both worked smoothly. \n\nThe hook here is improvisation. Instead of memorizing patterns, you’re constantly adapting. Gesture-based combat is central: you dash, wall-run, block, and throw weapons without even glancing at your controllers. The focus is on intent and rhythm, not button combos. That makes the game feel like orchestrating chaos, chaining dodges, dives, and strikes in ways that flow naturally once you get the hang of it.\n\nThe visuals hit me first. The neon-soaked environments are eerie but vibrant, with glowing edges and surreal atmospheres that stand out in VR. The color palette is striking and made a strong first impression. Even in chaotic fights, the environments remain readable, which is critical in a roguelike where every second counts. Skins also bring personality. I played rocking a punk skin while a friend went mushroom mode, and while they’re cosmetic, they add fun flair without interfering with performance. For those who care about customization, there are purchasable upgrades, but they’re optional and don’t unbalance the experience.\n\nHere’s where I hit some friction. Early on, I felt a bit lost, and that delayed my connection with the game. But once I powered through repeated runs, things clicked: the Cauldron made sense, the augments had real impact, and the rhythm of combat became second nature. You’ll need patience in the first few runs. But if you push through, the payoff is worth it.\n\nCombat is where Zix shines. Enemies feel fair, dangerous but beatable if you use timing and movement. I experimented with multiple weapons, but here’s the surprise: despite usually avoiding bows in VR games, the bow and arrow became my go-to weapon here. It felt powerful, accurate, and capable of melting enemies quickly. Pairing the bow with a sword gave me versatility, and perks only made those builds better. The First Instinct system takes a couple runs to trust, but once I did, I played more naturally, dodging, striking, and throwing in rhythm. When it works, it’s incredibly satisfying, especially during fights where you’re blasting bees, bunnies, and mushrooms into space.\n\nThe Cauldron is where the game achieves replayability. By mixing ingredients from three worlds, you’re effectively remixing the game itself. Levels, enemies, even the physics-driven chaos changes. Add in leaderboards for most runs, most chaos, and most kills, and there’s a competitive layer on top of the personal experimentation. Replayability here feels genuine. I don’t usually enjoy roguelikes, but the mix of combat flow and discovery kept me coming back. I’ve found myself jumping in just for “one more run” when I had other things I should have been doing.\n\nZix hides more than it explains. There are secrets tucked into the world so explore and discover them. In Early Access, Zix already feels like a complete and promising package, and it has plenty of room to grow. If you’re into VR combat, improvisation, or you just want something different from the usual rhythm or shooter titles, Zix is worth your time.",
+      "date": 1758217034,
+      "review_helpful_count": 27,
+      "author_display_name": "MissChiefVR",
+      "author_alias": "MissChiefVR",
+      "developer_response": null
+    },
+    {
+      "id": "812635065274772",
+      "score": 5,
+      "review_title": "Absolutely stunning",
+      "review_description": "It’s been a long while since I’ve decided to forego sleep for gaming because of pure excitement about the game.\nZix is a joy to play, and what it lacks in lore depth or storyline it makes up in mechanics. You can pick up items and immediately put them to use. You can jump high into the sky, an stomp enemies, go straight to hack and slash, then jump away for pummel everything with bullets. The transitions are smooth and feel great.\nThe models are cartoonish but they mesh very well with the world and models. I’m looking forward to see what else comes along since the devs see to still be adding more stuff to the game.if you are looking to get a game that will have you moving, this is it!",
+      "date": 1762011678,
+      "review_helpful_count": 2,
+      "author_display_name": "severanexpendere",
+      "author_alias": "severanexpendere",
+      "developer_response": {
+        "body": "we appreciate your candid review! we have more coming in our next update so stay tuned :)",
+        "date": 1767915505
+      }
+    },
+    {
+      "id": "844266234718543",
+      "score": 5,
+      "review_title": "Hidden Gem",
+      "review_description": "Underrated, especially for coop gaming. It has the potential to become some sort of Dungeons Of Eternity, Tron meet Risk or Rain vibe. Yes the difficulty level is not always right, but it's early access, and they will address this. The game is fast and well optimized, we can play hours. Hope to see this one get the attention it deserves.",
+      "date": 1761879364,
+      "review_helpful_count": 2,
+      "author_display_name": "siffloteux",
+      "author_alias": "siffloteux",
+      "developer_response": {
+        "body": "appreciate you :) difficulty will be tuned in the next update to give you a bit of a challenge when you want one",
+        "date": 1767915533
+      }
+    },
+    {
+      "id": "808563635671901",
+      "score": 5,
+      "review_title": "Really scratches the RoR2 itch",
+      "review_description": "Nice game that fits short bursts of sessions. The movement is really very good. I like when VR games go extreme and embrace the format, and I think ZIX does a good balance managing comfort with the expressive, intense action. If you can't handle smooth locomotion, this game might not be your cup of tea though - and you might still get tired quicker playing this game than others...\n\nBut I think that's ok! I love how *weird* (positive) this is, and would encourage people who want to see more ground-breaking and risks being taken in games to support small teams making stuff that truly experiments with the controls we use for games.\n\nSide point: I really like the space nebulas and how they are cutouts to skyboxes, I haven't seen this be used in other VR games and it pops quite well IMO. It's weird and very cool to experience first person.\n\nFingers crossed Early Access works out well for the devs :)",
+      "date": 1758282625,
+      "review_helpful_count": 6,
+      "author_display_name": "Petchpetch",
+      "author_alias": "Petchpetch",
+      "developer_response": null
+    },
+    {
+      "id": "2580983718920719",
+      "score": 5,
+      "review_title": "Leap, Grab, Jump and Fly!",
+      "review_description": "This is a roguelike game. You can stand or sit to play and it is single or multiple player. I am enjoying the game. I especially like the double jump flying.\n\nThe visuals are wonderful in this game and the immersion sucks you right in. The movements in the game are smooth and the controls are easy to remember. The tutorials are good and walk you through what is happening.\n\nThis is a great start to the game and it looks like it will only get better.",
+      "date": 1758233404,
+      "review_helpful_count": 4,
+      "author_display_name": "KRGoldy",
+      "author_alias": "KRGoldy",
+      "developer_response": null
+    },
+    {
+      "id": "807985798585255",
+      "score": 5,
+      "review_title": "So much fun in multiplayer mode",
+      "review_description": "I struggled in the beginning with some controls (like wall jumping), but lucky I haven’t needed it while playing. There are other manners to reach your goal.\n\nControls can be done in different ways (jumping). \nYou have different weapons to fight against  creatures. So choose wisely. And try to find upgrades for your weapons during playing.\n\nIt is so much fun, when you can play with friends. You go faster through the rounds.\n(Except when you have a teammate who takes all the enemies out with his last shot 😂).\n\nCheck my YT channel for some videos of my gameplay.",
+      "date": 1758217477,
+      "review_helpful_count": 4,
+      "author_display_name": "POWERGIRL.BE",
+      "author_alias": "POWERGIRL.BE",
+      "developer_response": null
+    },
+    {
+      "id": "724349494105947",
+      "score": 4,
+      "review_title": "It has promise, but needs a lot of work",
+      "review_description": "Zix has a lot of positives right off the bat, the movement feels fluid, the controls seem well thought out and the difference in motions to use multiple weapons is handled really well, you can double jump high in the air then begin firing your bow, switch to guns and throw a bomb on your way down, so the combat and movement feels really nice together.\nThere is high potential for a game that could be great without a doubt and obviously this is in early access so I expect to see it go through a lot of changes, but right now it's not really a Roguelike like the ones I love.\nI was expecting Zix to be a full run of levels, a boss every 5 levels before facing a big boss at the end, I was expecting to die within a couple levels, earn enough points to upgrade health or something and then jump back in to try and get a little further.\nBut it doesn't have that fun gameplay loop that makes you say \"just one more game\" before you inevitably have another 3, it's far too easy.\nNow the Devs are aware of this as it's in the notes of the games lobby, the Roguelike aspect needs a real overhaul to make it the game it can be, but for now it just doesn't have that spark that makes me want to return and spend countless hours in it.\n\n3.5 out of 5",
+      "date": 1758218167,
+      "review_helpful_count": 4,
+      "author_display_name": "AllUAreIsHistory",
+      "author_alias": "AllUAreIsHistory",
+      "developer_response": {
+        "body": "We'll improve the visual side of this, but the middle big mission is what the actual \"boss\" is.  All the missions that you see are just \"stepping stones\" in a larger run.   There are different kinds of stepping stones similar to say Slay the Spire, and you're meant to play enough of the other ones to unlock the \"final\" mission.  \n\nAs for the balancing, we are indeed improving this daily to make it tougher.  It should be decently improved as of the latest build but we will continue to improve, please join our discord as your feedback would be very valuable as we tune things!\n\nThanks for playing and the thoughtful review!",
+        "date": 1758630811
+      }
+    },
+    {
+      "id": "1316969466489109",
+      "score": 4,
+      "review_title": "Great fun but wonky melee",
+      "review_description": "It’s a really fun and fluid rougelike with some great gameplay except for the melee. Melee feels weightless and way too floaty. Thankfully there are so many other options that it isn’t too big of an issue but it’s still annoying. Overall a really fun time especially with some friends",
+      "date": 1758216962,
+      "review_helpful_count": 4,
+      "author_display_name": "Crub25",
+      "author_alias": "Crub25",
+      "developer_response": null
+    },
+    {
+      "id": "785681951299715",
+      "score": 3,
+      "review_title": "Has potential but just isn’t stimulating",
+      "review_description": "This is a rogue like shooter game that can be played as solo or multiplayer. So far, the only unique experience has been able to do double jumps and switch weapons while doing so. Also the visual setting. The game has potential. \n\nHowever, the fight encounters so far have been too easy and leaves much to be desired. Was bored within minutes and had to constantly motivate myself to continue playing. No bosses to fight and levels to survive. May be a better experience with a party. I’ll still keep on keeping on but it’s been more of a how stubborn can i be to complete this game than of actual enjoyment.",
+      "date": 1758304816,
+      "review_helpful_count": 3,
+      "author_display_name": "TheAwkwardTwinkieVR.2022",
+      "author_alias": "TheAwkwardTwinkieVR.2022",
+      "developer_response": {
+        "body": "Really appreciate the honest review.  The emptiness and difficulty being low are both being resolved in next few patches.  The first issue was only due to needing to pass performance tests, and second issue was we were originally worried it would be too hard.",
+        "date": 1758337830
+      }
+    },
+    {
+      "id": "1556246825551084",
+      "score": 4,
+      "review_title": "A mechanical successor to The Wizards",
+      "review_description": "If you like the combat in The Wizards, you'll love this.\n\nIn that old OG of a title, you had top class gesture based magic that made you feel immersed in the combat and had you casting without any second-guessing.\n\nZix inherits that mechanical immersion and puts it onto a FAR more in depth game system that will have you eager to unlock new weapons and bounce between enemies. \n\nSadly, the enemies, while varied, are not varied ENOUGH to REQUIRE different approaches to tackle them save for 1 that is immune to ALMOST all weapons when it hunkers down. I wish to see more variety in what I need to do to be able to survive and thrive and I look forward to what they have in store for the future!",
+      "date": 1758239239,
+      "review_helpful_count": 3,
+      "author_display_name": "Krayne",
+      "author_alias": "Krayne",
+      "developer_response": {
+        "body": "We'll be working on improving enemies and making them require you to really use all your abilities and movements simultaneously to survive.  Thanks for playing & the thoughtful and kind review.",
+        "date": 1758630632
+      }
+    },
+    {
+      "id": "1232948758872887",
+      "score": 5,
+      "review_title": "Fun time and accessible",
+      "review_description": "Fun game that is accessible to both players who like to move around fully and for those who can't.  The RPG aspects can have you feeling unstoppable on some runs. Push through the tutorial the game only gets funner and unlocks multi-player.",
+      "date": 1758215526,
+      "review_helpful_count": 5,
+      "author_display_name": "XristoferLee",
+      "author_alias": "XristoferLee",
+      "developer_response": null
+    },
+    {
+      "id": "1195073939099310",
+      "score": 4,
+      "review_title": "Pretty solid foundation for early access",
+      "review_description": "I really like this game, it feels like a more tame hellsweeper. The mechanics feel great and the gameplay loop is really fun, especially with random modifiers and multiplayer. Graphics look sharp and performance has been super stable for me.\n\nThere’s currently a good chunk of starting content, and theme is pretty cool, though the story side of things is pretty non-existent right now and it could use more variety in modifiers and enemy type. All the weapons and movements feel tactile and responsive, but some really take some practice to get used to, like the shield and ground slam mechanics. Multiplayer works fine, but the host seems to be the only one that gets currency, which is needed to open up the power-up chests, so it feels a bit unbalanced. There are some bugs present, as expected, but nothing game-breaking or run-ending.\n\nOverall, it’s a strong start. If they keep adding content and polish out the bugs, it could turn into a must-buy title.",
+      "date": 1758219909,
+      "review_helpful_count": 3,
+      "author_display_name": "ham_oud",
+      "author_alias": "ham_oud",
+      "developer_response": null
+    },
+    {
+      "id": "1170333055000772",
+      "score": 5,
+      "review_title": "A roguelite with unique movement!",
+      "review_description": "If you like Risk Of Rain and wanted a VR game that was similar.....zix is the closest thing your going to get!\n\nIt has a wide range of weapons and perks for you to mess around with some being really unique and really change things up.\n\nThe random modifiers and RNG helps keeps each run feel unique.\n\nIt also has a pretty unique movement controls (although you can opt to use more traditional button presses if you choose to do so)\n\nThere's lots to grind towards and it supports up to 3 players.\n\nSo grab a couple of your friends and see what OP builds you can come up with.\n\nThe only thing to note is whilst the game is highly playable and a lot of content in the game,  there does seem to be a lot more the developer are planning to add so may come across a tad Early Access feeling.\n\nBut Risk of Rain 2 also took a similar approach and I was looking towards every update and checking out what's news.\n\nIm sure Ill be doing the same with Zix for the next year or longer!",
+      "date": 1758221937,
+      "review_helpful_count": 3,
+      "author_display_name": "Burntbreadman",
+      "author_alias": "Burntbreadman",
+      "developer_response": null
+    },
+    {
+      "id": "1163639028944083",
+      "score": 5,
+      "review_title": "Wow. I feel like my movement unlocked",
+      "review_description": "What a great game. \n\nThis game has a unique movement system that makes me feel like I can finally move freely in vr. To be honest every other game I now try to move the way Zix allows and I get disappointed every time 🤣 it sounds cheesy but I felt like a fish who finally got back in water.\n\nIt’s also incredibly fun to do combos and get enough points to level up weapons. Upgraded weapons are way more fun! And it’s super satisfying to murder these adorable mushroom dudes. \n\nThis is my favorite vr game right now!",
+      "date": 1758217350,
+      "review_helpful_count": 3,
+      "author_display_name": "Yzbird",
+      "author_alias": "Yzbird",
+      "developer_response": null
+    },
+    {
+      "id": "737402942609075",
+      "score": 5,
+      "review_title": "Building up to be spectacular",
+      "review_description": "Overall, despite the early access launch, you’ll find that it’s still able to shine through as a possible contender to be one of the finer, unique VR experiences you’ll find out there.\n\n The combat is that of “easy to learn, hard to master” nature, with a selection of 4 main weapons you can seamless change between through simple, swift hand motions. And paired with the fast movement, it’ll lead you to be as chaotic as the game wants you to be. My only complaint towards it right now is that there’s need of balancing for both weapons and enemy behaviour in order to encourage a more varied, interesting playstyle.\n\n As for atmosphere, I found the environments you venture through unique and quite a treat for the eyes, but suffers from too noticeable of pixelation, with the music and level generation eventually dulling too quick for the lack of unique variation in my opinion.\n\n Remember the game is still in early access, and will greatly benefit from feedback you give!\nWishing the best of luck to Zix’s future",
+      "date": 1758242292,
+      "review_helpful_count": 3,
+      "author_display_name": "Zypheriom",
+      "author_alias": "Zypheriom",
+      "developer_response": null
+    },
+    {
+      "id": "122316524750006617",
+      "score": 4,
+      "review_title": "unique little game",
+      "review_description": "not sure there’s a comparison to this game, it’s like an acid trip visually, in a good way, and gameplay like doom in a way, I think I’m just getting reminded of the quick swapping.\nThere’s a bunch of weapons that you can switch between, I remember it’s a sword, bomb, revolver, bow, and shield.\nthe enemies are somewhat varied, and some of the art style is reminiscent of no more rainbows in enemy design. It’s good.\nMovement is a little odd but I got used to it, probably don’t play this if you get motion sickness really easily.\nI encountered very little bugs if any while playing. So the experience was mostly polished there\n\nfor things I don’t really like, weapons don’t seem to have a very different purpose, unlike doom.\nsome particles are kind of obstructive but that’s small. It’s four stars because I didn’t have any really strong feelings.\nDon’t have any major critiques.\nFor the record I didn’t play multiplayer, and I’m a playtester who got the game for free, but that doesn’t affect my review.",
+      "date": 1759674709,
+      "review_helpful_count": 0,
+      "author_display_name": "01arcanum",
+      "author_alias": "01arcanum",
+      "developer_response": {
+        "body": "we are tuning the weapons in the next update, appreciate your candid review! we always read discord as well if you'd like to leave more critique :)",
+        "date": 1767915701
+      }
+    },
+    {
+      "id": "2509766802756477",
+      "score": 4,
+      "review_title": "A very customizable roguelike",
+      "review_description": "Zix is a roguelike set in a surreal colourful worlds where you\nharvest chaos energy that is used to customize and improve\nyour character and weapons.\n\nThe movement system is where the game stands out and is fun and\nquite unique(I think). You move by rubberbanding yourself through\nair to jump around (NB you can also run using the joystick but it\nis more fun jumping around) and all of this can be customized\nthrough rewards earned in game.\n\nThe weapons is also good and start with four different types\nof weapons sword, gun, bow and bomb. Each weapon is accessed\nthrough a gestured based movement system which is\nfully explained in the tutorial and is powered by your\nconstantly regenerating mana. Because of this you can play\nin the style you want.\n \nYou can see a lot of thought has gone into the\nmovement and weapons systems of this game both\nare excellent, intuitive and very fun to use.\n\nThe graphics are simple, colourful, surreal and sometimes garish\nbut I grew to like them.\n\nThere are plenty of options to adjust for your comfort\nlevel except teleport(not suitable for this game) and three\ndifficulty levels. It also ran smoothly even on the highest\nsettings except a few levels.\n\nThere is not much of a story or playerbase\nand the game is a little bit buggy atm but hopefully these\nwill be fixed with time. Probably could use more content.\n\nAll in all a enjoyable roguelike with a good\nfoundation, I recommend.",
+      "date": 1759630772,
+      "review_helpful_count": 0,
+      "author_display_name": "sleek1t",
+      "author_alias": "sleek1t",
+      "developer_response": {
+        "body": "appreciate your review, im glad you like it so far",
+        "date": 1767918750
+      }
+    },
+    {
+      "id": "1846889096255731",
+      "score": 5,
+      "review_title": "A great roguelike",
+      "review_description": "This is a great game and I love the different weapons that are available. Seamlessly switching through the different weapons and abilities makes you feel really powerful. I like the different maps and the locomotion is very satisfying. Overall, this is a really interesting roguelike and is very unique as well.",
+      "date": 1759429131,
+      "review_helpful_count": 0,
+      "author_display_name": "Tyler905",
+      "author_alias": "Tyler905",
+      "developer_response": {
+        "body": "thank you!",
+        "date": 1767918821
+      }
+    },
+    {
+      "id": "1340268657679973",
+      "score": 5,
+      "review_title": "Best game ever!",
+      "review_description": "I'm sorry that the title is a bit unfair but I'm enjoying this game so much. I played every game that Quest has to offer and this game has the most unique controls I've experienced. The Locomotion in this game is incredible. There aren't many games on Quest that make you fully immersed in another world. This is one of them\n\nSo far this game looks like you can put a thousand hours into it. I would highly encourage everyone to try it. There's no holsters, there's no weapons or items floating around you. There are some bugs of course, enemies going through walls and shooting through walls. The height calibration is way off. I hope they fix that soon.\n\nOverall, great game!",
+      "date": 1759518983,
+      "review_helpful_count": 0,
+      "author_display_name": "jessterfield",
+      "author_alias": "jessterfield",
+      "developer_response": {
+        "body": "Thanks a lot for the glowing review.  We would love to help fix height calibration.  If you join discord (playzix.io), please post about it and we will figure out the issue with you!",
+        "date": 1761263177
+      }
+    },
+    {
+      "id": "825084933253565",
+      "score": 5,
+      "review_title": "The Zix Experience",
+      "review_description": "Really refreshing take on the rogue like genre of games. It kept me engaged pretty much as soon as I picked it up.  I think if it wasn’t for fatigue of playing I would have played longer .  I would encourage anyone to try this out . I think it’s worth the money . The multi-weapon aspect makes it that much more fun.  The psychedelic vibes IMO make it fun to be in as well.  Another point I like is the upgrade option, you can upgrade or mod your skills . ￼ Will continue to play and see how much more they can pack into this unique game!",
+      "date": 1759451624,
+      "review_helpful_count": 0,
+      "author_display_name": "PFERG101",
+      "author_alias": "PFERG101",
+      "developer_response": {
+        "body": "thank you! more to come soon",
+        "date": 1767918801
+      }
+    },
+    {
+      "id": "811402788720190",
+      "score": 5,
+      "review_title": "Praise ZIX",
+      "review_description": "A roguelike with plenty of skill expression. From the movement with wall climbing, double jumping and more combined with the procedurally generated maps, or the multiple weapons with alternate forms to unlock in your arsenal there's a lot to master.\n\nWith how each weapon has its own gestures to summon and are easy to utilise I found myself chaining weapons together so that I can stun the enemies and dish out quick bursts of damage. There are perks to add special effects to your weapons such as homing or electricity, you also earn acolyte tokens for metaprogression. \n\nThe visuals and ost will immerse you in the alien nature of the environments, the enemies are easy to understand, and the bosses do offer a fair bit of challenge. Notably using multiplayer makes the fights a lot easier but I've thoroughly enjoyed my time with it anyways",
+      "date": 1758220845,
+      "review_helpful_count": 2,
+      "author_display_name": "dr4gonseller",
+      "author_alias": "dr4gonseller",
+      "developer_response": null
+    },
+    {
+      "id": "766490612902491",
+      "score": 4,
+      "review_title": "Pretty good roguelike",
+      "review_description": "While the game has some frustrating moments, gameplay and non-game play related, like some sound choices at the very beginning of the game, or being pushed away from the walls when you try to grab them, this game is good.\nIn my opinion graphics could be better, because everyone is made out of simple geometrical shapes, but the grind cycle is fun, especially when you play with your buddy, monsters are fun and somewhat cute, and the movement mechanics combined make it quite a unique experience. Sad that the run ends only after 3 or so levels, for a roguelike, I think it's too little. Also, it would be cool to see the movement of other players, without the pre-made animation for their hand, while they run, because the animation makes it seem like a flat screen.\nBesides all that, I recommend.",
+      "date": 1758267495,
+      "review_helpful_count": 2,
+      "author_display_name": "W0Iker",
+      "author_alias": "W0Iker",
+      "developer_response": {
+        "body": "The \"run\" is all of the missions you have there together.  It's not a single mission which contains about 2-3 rooms.  The run finishes with the big mission in the middle, but you have to increase chaos level to do it.\n\nAlso there is an option for other players to adjust the arm-at-rest threshold to turn off the animation.  However, whenever players move their hands for real it smoothly animates to where their hands actually are.   Totally optional though!\n\nHopefully that clarifies some stuff! We'll improve this as time goes on.  Thanks for playing.",
+        "date": 1758630506
+      }
+    },
+    {
+      "id": "1921609875083249",
+      "score": 4,
+      "review_title": "Roguelike action",
+      "review_description": "I was a bit sceptical going in to play this game, but I was pleasantly surprised. Both movement and action are brilliant in this colourful maserpiece, I love the slingshot system and the different ways to summon weapons, allowing the player to get creative with combat combinations. I found myself getting lost playing this game which I did not expect.",
+      "date": 1759332633,
+      "review_helpful_count": 0,
+      "author_display_name": "DirkinTheDark",
+      "author_alias": "DirkinTheDark",
+      "developer_response": null
+    },
+    {
+      "id": "1341770490672578",
+      "score": 4,
+      "review_title": "A new spin on an over saturated genre",
+      "review_description": "I was thinking this game would be just like any other rouge lite but I was pleasantly wrong the gesture based weapon spawning is ever so satisfying and never gets boring and the progression is very rewarding and makes me want to go back to get stronger and better weapons don’t wait out on this game and buy now",
+      "date": 1759339222,
+      "review_helpful_count": 0,
+      "author_display_name": "betThinkk99",
+      "author_alias": "betThinkk99",
+      "developer_response": null
+    },
+    {
+      "id": "1158940602819699",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "Zix delivers some of the most satisfying VR combat and movement I’ve experienced. Dashing in any direction using controller gestures feels fluid and responsive, and combining that with weapon controls based on rotation and hand movements creates incredibly dynamic fights. Each weapon changes how you move and engage — from pulling back a bow for ranged shots to slashing up close with a sword — giving every encounter a unique rhythm that keeps combat exciting and fresh.\n\nWhile the core gameplay is rock solid, the main drawback lies in the encounter design. The arenas and boss fights shine, but regular maps often feel a bit too empty and repetitive. Still, with its flexible combat system, diverse weapons, and smooth movement mechanics, Zix stands out as a strong foundation for what could become one of the best action experiences in VR.",
+      "date": 1759331709,
+      "review_helpful_count": 0,
+      "author_display_name": "FX_Gamer",
+      "author_alias": "FX_Gamer",
+      "developer_response": null
+    },
+    {
+      "id": "855540654300597",
+      "score": 5,
+      "review_title": "A great rogue-lite - just what I wanted",
+      "review_description": "I've always wanted a rogue-lite like this on the quest - fast paced action that's intuitive, customizable and replayable - with a variety of levels, enemies and weapons. And the upgrades can really change everything. I highly recommend for anyone looking for a game in the same realm as Hades, BoI, etc but in VR.",
+      "date": 1759334436,
+      "review_helpful_count": 0,
+      "author_display_name": "SonicaKP",
+      "author_alias": "SonicaKP",
+      "developer_response": null
+    },
+    {
+      "id": "822347577625270",
+      "score": 5,
+      "review_title": "A special rouge lite in vr",
+      "review_description": "It's a great action rouge lite game where you decide to choose what level you want to do like a dungeon crawler, but instead of a linear line, you can choose in what order to go.\n\nThe movement in this game is unique, where you pull a string by gripping and choosing either to jump,slide, or ground break by letting go the string up straight or down when you are in the air.\n\nI also enjoyed the summoning of weapons by mimicking the action of summoning or drawing out the weapon by putting your hand over your shoulder to grab a sword or pretend to shoot a bow or pretend to block with a shield and it'll pop up by pressing trigger, its really fascinating and still amazes me even if I'm in a fight.\n\nThe visuals in this game are simple, but the enemies are pulled from a dark dream fantasy, and I'm here for it. The music in the game is also great, sounding like it's a type of electronic genre of music.\n\nThe co-op felt amazing to play with friends, and its always funny when a friend is a need and always dies when someone doesn't arrive in time if they wonder of too far from us. \n\nI would recommend this to anyone who loves rouge likes it a really unique take on the genre.",
+      "date": 1759270083,
+      "review_helpful_count": 0,
+      "author_display_name": "Windkif",
+      "author_alias": "Windkif",
+      "developer_response": null
+    },
+    {
+      "id": "785609914374624",
+      "score": 5,
+      "review_title": "Fast paced Roguelike",
+      "review_description": "This game is very fast paced with mobility being key to not get hit. This game also reminds me of DOE which is another great games. Campaigns are not long which is very good and when you’re done you can upgrade yourself to get stronger and faster. If you like being fast and rogue likes, this game is definitely for you!",
+      "date": 1759338264,
+      "review_helpful_count": 1,
+      "author_display_name": "GamerTheKing",
+      "author_alias": "GamerTheKing",
+      "developer_response": null
+    },
+    {
+      "id": "1356205942530361",
+      "score": 5,
+      "review_title": "Zix, A Full Mix of Fun!",
+      "review_description": "This game is just plain fun! These high-flying mechanics let you go all out. Every Mission brings new abilities while collecting Coas that makes you say \"Bring It\"!\nIt's just high jumps and bashing, but yet not hectic! \nI've had a great deal of fun and I hope you do too!\nA Nice change from the usual stuff! Whoop, Whoop!",
+      "date": 1758218678,
+      "review_helpful_count": 2,
+      "author_display_name": "ClassyGrandma",
+      "author_alias": "ClassyGrandma",
+      "developer_response": null
+    },
+    {
+      "id": "746899438173983",
+      "score": 4,
+      "review_title": "Fun little roguelike",
+      "review_description": "This game features one of the best things a roguelike could have in VR, coop mode. The movement might not be the easiest for new VR players, something to keep in mind. The combat is easy to get into and some of the weapons are quite fun to use. It's a fun little game to play with friends when you want to try something new.",
+      "date": 1758242203,
+      "review_helpful_count": 2,
+      "author_display_name": "RobbieArchitect",
+      "author_alias": "RobbieArchitect",
+      "developer_response": null
+    },
+    {
+      "id": "24684095747886345",
+      "score": 4,
+      "review_title": "Don’t choose a weapon, use them all",
+      "review_description": "Zix is a rather interesting game with some unique styles to it. Like my title, you don’t just have to pick a single weapon, because the way you move depends on which weapon you pull out. Need precision distance, pull out a bow, continuous light fire, use the pistols, up close and personal, use a sword, protect yourself with a shield as well, all with just positioning of your hands.\n\nThe movement style is kind of like this as well, as you jump and dash with pulling the controller like a sling shot, but you don’t have to pull further for more power, just a flick will do. Meanwhile, you are still using the thumbstick and able to use buttons to jump to. \n\nThe art style is interesting. Pretty simplistic, but fits well together. It also makes the levels feel different, yet same in many ways. You can burn through them or try to collect every bit throughout the map, just so you can open more boxes to enhance your weapons and abilities along the way. After each run, you can use some of your points to permanently enhance your weapons and abilities, making yourself stronger, yet the enemies still seem to keep up. \n\nThey do pretty good in mixing things up and allowing for customization, so the mechanics of a run can be different. But, it just starts to feel like a lot of the same old thing when you get into grinding it. This is common with many roguelike games, start up, fight, clear, upgrade, do it again.",
+      "date": 1758940869,
+      "review_helpful_count": 0,
+      "author_display_name": "Satconcook",
+      "author_alias": "Satconcook",
+      "developer_response": null
+    },
+    {
+      "id": "823906656826466",
+      "score": 5,
+      "review_title": "Love it so far",
+      "review_description": "I’m a big fan of rogues and this one scratches that itch. I’m still a little unclear on the overworld upgrade station, but I’m sure I’ll figure it out. Tells ya to pull a lever and then…. What? Is something supposed to happen? \nAlso, this game desperately needs Saves. Sometimes I need to take the headset off for a bit but I’m forced to quit.  \nOther than these small complaints, I’m loving it so far. The movement is pretty unique.\n\n\nUPDATE AFTER PLAYING 8 HOURS:\nWowsers, I’m in love. I’m completely hooked right now. The only feature DESPERATELY needed is a Save button for between rounds, and luckily the dev has already said it’s coming in the next update  \nI love how the game gets progressively more difficult as you level up by adding additional enemies.  \n\nA couple requests: \n- depending on which weapon loadout you go with, many of the upgrades are useless… like if I’m using the laser beam bow, I still get upgrade cards for homing arrows, explosive arrows, etc. It’d be nice if there were some specific upgrades for the laser beam bow. \n\n1 question: I still have no idea what pulling the Zix button at the top of my base does.  It seems useless. Also, how do I achieve the 3 quests? Still sits at 0/3 and I have no idea what to do. \n\nOther than a few tweaks here and there, this game is such a banger. Get it, you won’t be disappointed. Reminds me a lot of Light Brigade, another one of my all time fave VR games. \n\nI really hope more weapons are added in the future  I’d gladly pay extra for dlc weapons/levels/upgrades. \n\nZIX = 10/10",
+      "date": 1758953507,
+      "review_helpful_count": 1,
+      "author_display_name": "PowPow55",
+      "author_alias": "PowPow55",
+      "developer_response": null
+    },
+    {
+      "id": "1579870276713409",
+      "score": 3,
+      "review_title": "Want to love this BUT-",
+      "review_description": "- Absolutely needs some kind of mid game save. Not having this is a rogue-like on Quest is practically a deal breaker.\n- I understand this is early release, but the game crashes way too often, stalling at hub load or next level loading. This combined with the mid level save option problem means advancing with this early rev of the game means a lot of replay due to poor performance, not gameplay challenge.\n- Each reboot of the app means resigning disclaimers over adn over - and then 3 long bright flashes over 30 seconds right in my eyes, dude- I dont need that happening when you are prewarming shaders. It’s a rogue like. If you don’t kill all the aggravators to restaring, the game is a failure. SOme attention needs ot be paid to these barriers to return gameplay.\n\nI LOVE the motion, the world, the animation, the music. I’ve playred too much for a refund but this would have been a no buy for me. I’ll reboot this in 6 months and expect some sandpapering to be done on these fundamentals, and I will edit this review.\nBut I can’t put more time into this frustration generator at the moment.\n\nWhere is the multiplayer?\nMaybe that needs some time to develop as well.",
+      "date": 1758732384,
+      "review_helpful_count": 0,
+      "author_display_name": "AR_Pyr8",
+      "author_alias": "AR_Pyr8",
+      "developer_response": {
+        "body": "Hi Rpyr8,\n\nWe have added saving a number of builds ago now, we also have seemingly addressed the crashing, and fixed the bootup sequence to no longer get in the way past the first time.\n\nMultiplayer is accessible after you finish the first tutorial campaign, its part of the ZIX-NET panel on the left of the hub area.\n\nHope that addresses your concerns!",
+        "date": 1758911978
+      }
+    },
+    {
+      "id": "1486445429367182",
+      "score": 4,
+      "review_title": "A future classic",
+      "review_description": "This game is, at its core: incredibly fun chaos. The movement system makes it an instant love that only gets more and more satisfying the longer you play. (You do likely need strong vr legs but it is so, so worth it)\n\nThis game feels like a dark neon whimsical acid trip with a jet pack. I love all of the characters, even though they all want to kill me. How does a frog that looks like a Valentine’s edition of No-Face who is aggressively bleeding ink at me, look so adorable? I have no idea, but I love it and all of the equally creative little minions. It’s a delightful blend of diabolical and innocent. \n\nPros:\n- Control scheme is incredible. This cannot be overstated. It’s amazing\n- Movement is fun and satisfying\n- Fluency and fluidity is rewarded\n- There are always more crazy combinations to explore and things to experiment with \n- Single player and multiplayer fun!\n- You can change your avatar’s skin for some personality (they do have monetized skins, but it’s just cosmetic and doesn’t impact gameplay)\n- Different weapons make the same modifier or perk feel brand new\n- There is so much personality in this game that is impossible to translate into a trailer or gameplay video. It’s infectiously fun\n- “Just one more run” for hours\n\nCons:\n- It is early. There are bugs. But the devs are *very* active listeners and seem to do quick and frequent patches\n- The full campaign is not released yet. It may be slightly overpriced for current content in the game. On a sale, it’s a no-brainer, but full-price it’s right on the fence imho\n- You are expected to figure it out. Some things can feel frustratingly esoteric, but this is also sort of on brand for the chaotic nature of the game. Sometimes the vagueness is frustrating, but other times it is fun to just try stuff and figure it out. For me, I’d like at least more comprehensive text tool tips for major mechanics. Maybe the board on the right that has “tips” could be expanded? The confusion can be overwhelming at times. I would definitely like the tutorial bot shrines to have more info\n- They are still working on balance, so you might get immediately destroyed or feel incredibly OP. They do have difficulty settings, but there’s also a very heavy rng factor for difficulty at the minute. Most people find the game too easy, but I usually get wrecked. 💀\n\nHaving said all that: do I recommend this game? Yes! I strongly believe this game will offer you many hours of infectious fun. It’s not perfect yet, but it is incredible and these devs deserve to be supported if the game is anywhere near your interests. If you have VR legs and don’t mind a little chaos, you gotta get in this game.",
+      "date": 1758840096,
+      "review_helpful_count": 0,
+      "author_display_name": "chickensink",
+      "author_alias": "chickensink",
+      "developer_response": null
+    },
+    {
+      "id": "810236108202339",
+      "score": 4,
+      "review_title": "Fun and unique",
+      "review_description": "I will start off with how well the movement system works.  While I struggled a bit at first with walls,  there are other ways to get there.   After a couple runs, the jumps, dashes, and throws felt natural. \n    There was a variety of weapons to use and more to unlock.  Whether you want to pick enemies off at a distance or get up close and personal, the choice is yours.  I preferred to make them go boom.  \n    The graphics are smooth and clear even during fights.  The color schemes really caught your attention and worked well with everything. \n    The game is great for solo and coop players with plenty to explore in every map.  The customization is nice to see with the skins, and it doesn't affect gameplay. \n    My largest concern was with how empty some maps feel.  While many are fine, I ran into plenty that felt like there could have been a lot more. Though I used those to practice trick shots.\nThe only thing holding me back from 5 stars is that. I'll revise hopefully when that changes.",
+      "date": 1758812165,
+      "review_helpful_count": 1,
+      "author_display_name": "TbcVRgaming",
+      "author_alias": "TbcVRgaming",
+      "developer_response": null
+    },
+    {
+      "id": "24540672852284001",
+      "score": 5,
+      "review_title": "Zix: Chaos, Combos, and Co-op",
+      "review_description": "Zix is a fast and creative VR roguelike that hooked me with its gesture-based combat and freedom of movement. I mainly stuck with pistols and spike bombs through most of my runs, and both felt powerful, fun, and rewarding to use. Each run plays out differently with modifiers, upgrades, and wild combos, and co-op adds even more chaos with friends. The level generation can feel uneven at times, but the combat is so strong that it never stopped being fun. Zix already has a great foundation and is absolutely worth playing if you enjoy roguelikes or just want VR combat that feels fresh and designed for the medium.",
+      "date": 1758649512,
+      "review_helpful_count": 0,
+      "author_display_name": "Haroku",
+      "author_alias": "Haroku",
+      "developer_response": null
+    },
+    {
+      "id": "1874069483542545",
+      "score": 5,
+      "review_title": "Probably the best combat mechanics",
+      "review_description": "I really wanna start off with movement and combat since this game excels at it. The controls for movement and for gear are mostly seperate, giving you alot of control. Basically, the movement itself is pretty nice mainly consisting of dashes you can perform in any direction controlled by controller movements, but its paired with weapons controlled with controller rotation and gestures. It makes zooming around the map while simultaneously attacking very satisfying.\n\nThe diversity of weapons especially with upgrades gives you alot of flexibility in combat and enough stuff to try out to not get boring for a while.\n\nThe only thing holding it back is the enemy encounters themselves. If you get into an arena or boss fight its absolute peak, but thats reserved for the end stage in each level while the rest is pretty light on enemies. What makes it a bit worse is the large maps being generated which barely get filled. They feel pretty empty and basically become a rush to get to the end with propper fights.\n\nThis game is sitting on a very solid base, it just needs to improve on encounters and otherwise still deserves its praise",
+      "date": 1758575302,
+      "review_helpful_count": 0,
+      "author_display_name": "gWinnieVR",
+      "author_alias": "gWinnieVR",
+      "developer_response": null
+    },
+    {
+      "id": "1169134248440197",
+      "score": 5,
+      "review_title": "Best Rougelike on Quest!",
+      "review_description": "Zix is the newest and best rougelike on quest. The game has unique controls and gameplay. The combat and movement flows together perfectly allowing for smooth and fast paced combat. The game also supports co-op allowing for you to have fun in the world of Zix with your friends.",
+      "date": 1759343705,
+      "review_helpful_count": 1,
+      "author_display_name": "Zeenaught",
+      "author_alias": "Zeenaught",
+      "developer_response": null
+    },
+    {
+      "id": "834460435917769",
+      "score": 5,
+      "review_title": "A great edition to VR",
+      "review_description": "Been playing for over a week now, despite the graphics being very cartoony it fits the style of ZIX.\nGreat tutorial to start you off, good immersion and the sword feels good to swing.\n\nEnjoying my play through so far, looking forward to going deeper into the game.",
+      "date": 1758218651,
+      "review_helpful_count": 2,
+      "author_display_name": "GizmoDemi",
+      "author_alias": "GizmoDemi",
+      "developer_response": null
+    },
+    {
+      "id": "1323943255750996",
+      "score": 4,
+      "review_title": "A good foundation for a Rogue-like",
+      "review_description": "I'll start by saying that the visual style was something that took a little bit of time for me to warm up to. I think that the gameplay and the systems you interact with have a good foundation. The maps you play on can get a little samey, even with procedural generation, but that's not really anything new with roguelike games.\n\nOne of my favorite moments was when I unlocked an upgrade that supercharged my ability to jump. From that point on, I was jumping and combo-ing enemies with the various weapons that you unlock. The game performance is really good, even in early access. If you're looking for a fast-paced action roguelike, I can recommend this one!",
+      "date": 1758296683,
+      "review_helpful_count": 1,
+      "author_display_name": "Dr_Red_MD",
+      "author_alias": "Dr_Red_MD",
+      "developer_response": null
+    },
+    {
+      "id": "766763579490253",
+      "score": 5,
+      "review_title": "I’m a sucker for amazing rouglikes",
+      "review_description": "Omg this game is amazing! The movement is super fun, the combat is great, and overall it is amazing. Especially with the movement where you can jump by dragging while holding grip makes it so fun and different. The environments are absolutely gorgeous and the gameplay feels really good. The game really makes you want to come back as the replayability is great. The weapons are like the common ones like a bow and sword and gun but the way you equip/use them is so fun and unique. The upgrades and really unique and \nfun to use. The combat is really fun and engaging. You can tell the devs care about this game becuase it’s so well put together and there are minimal to no bugs. All of this PLUS multiplayer is actually insane. I really have nothing bad to say about this game and can’t wait for the future of it.",
+      "date": 1758325435,
+      "review_helpful_count": 0,
+      "author_display_name": "DevLlamaStudios",
+      "author_alias": "DevLlamaStudios",
+      "developer_response": null
+    },
+    {
+      "id": "2869029949967345",
+      "score": 4,
+      "review_title": "Forecast is a slight risk of rain",
+      "review_description": "I have already enjoyed my time with Zix. Art style is always subjective, but I think the art makes the game stand out. Gameplay-wise, it is a roguelite with inspirations from Risk of Rain. If you enjoy that series, you may enjoy Zix. The controls are fairly intuitive and the game offers a variety of weapons and ways to attack the enemies. I would caution players new to VR or are prone to motion sickness. While there are vignetting options, the game does have full XYZ-axis movement and enemies can attack from all angles. This game shines in co-op. Playing with friends and getting upgrades/modifiers keep the play sessions fun and fresh. I'm not sure how fresh the game will stay for solo players, but playing solo is doable - it just isn't my preferred way to play. \n\nI'm intrigued to see how this game continues to grow and evolve, but so far, Zix has a very good baseline already.",
+      "date": 1758421881,
+      "review_helpful_count": 0,
+      "author_display_name": "SyxxtySyxx",
+      "author_alias": "SyxxtySyxx",
+      "developer_response": null
+    },
+    {
+      "id": "776760018861238",
+      "score": 5,
+      "review_title": "Fantastic Roguelike",
+      "review_description": "Zix is wonderful, simply put. I have been searching for a roguelike like this on the Quest. The graphics and style are simple but work. As an early access game, the amount of content is still plenty - but I'm sure more will be added and the story will be fleshed out\n\nThe controls are very simple to grasp and effective. I had no motion sickness, etc. \n\nHighly recommended!",
+      "date": 1758504078,
+      "review_helpful_count": 0,
+      "author_display_name": "veecheech",
+      "author_alias": "veecheech",
+      "developer_response": null
+    },
+    {
+      "id": "1333473108167741",
+      "score": 4,
+      "review_title": "Is this an encrypted email app on Quest?",
+      "review_description": "When I saw the name ZIX I thought at first this was an encrypted email app on Quest.  But this is a lot more fun :)\n\nI've only played a few hours into it at the time of this review, but what I played so far I like.  The art style is interesting as well as the player and enemy designs.  \nFor the gameplay, it has some new pull to jump/evade movement mechanics that I have not seen in VR games before. But sometimes I like sticking to the simpler A button controls to jump.\n\nI also like how there's a lot of 'verticality' in some of the areas where you can climb/jump/explore more to find extra loot, but the areas do need more enemies to fight, most of the time it does feel a tad empty.\n\nI'm looking to forward to play it more through Early Access to see how it develops and maybe get in a co-op game or two.",
+      "date": 1758323913,
+      "review_helpful_count": 1,
+      "author_display_name": "Gruntled",
+      "author_alias": "Gruntled",
+      "developer_response": null
+    },
+    {
+      "id": "2794598444064524",
+      "score": 5,
+      "review_title": "Zix",
+      "review_description": "Fantastic gameplay!  The colors of the worlds really Pop!!   Enjoying the game so far.  🫠👍",
+      "date": 1761266354,
+      "review_helpful_count": 0,
+      "author_display_name": "solvangman805",
+      "author_alias": "solvangman805",
+      "developer_response": {
+        "body": "Hi thanks for the review!  Could you please join our discord?  playzix.io has the link.  Would love to help with this.  If you're not able, remember you can hold Y to recalibrate your height.  If that doesn't work, try resetting ur play area.  \n\nSorry for the inconvenience.  If none of the above work please join our discord so we can help further",
+        "date": 1761263027
+      }
+    },
+    {
+      "id": "1888706428354078",
+      "score": 5,
+      "review_title": "Fun roguelike game",
+      "review_description": "Zix is a fun roguelike multiplayer game the movement is unique I really like the weapons the bow reminds me of nock the combat feels really nice if you like roguelike game id recommend trying this",
+      "date": 1758248180,
+      "review_helpful_count": 2,
+      "author_display_name": "EmmitPlays",
+      "author_alias": "EmmitPlays",
+      "developer_response": null
+    },
+    {
+      "id": "891105370741734",
+      "score": 5,
+      "review_title": "Excellent game!",
+      "review_description": "I can tell this game will be legendary in a few updates but for now I’m super happy with the game play. Please keep up the great work.",
+      "date": 1760492110,
+      "review_helpful_count": 0,
+      "author_display_name": "SunShineJoker",
+      "author_alias": "SunShineJoker",
+      "developer_response": {
+        "body": "appreciate you! we are still keeping it up. update coming soon :)",
+        "date": 1767915582
+      }
+    },
+    {
+      "id": "802700049597237",
+      "score": 4,
+      "review_title": "Quality Roguelike",
+      "review_description": "Fun, enjoyable movement and combat. Graphics feel limited as a standalone title, but the game is very engaging. The art style is also very good.",
+      "date": 1760334765,
+      "review_helpful_count": 1,
+      "author_display_name": "ultrapowerfulmagicwizard",
+      "author_alias": "ultrapowerfulmagicwizard",
+      "developer_response": {
+        "body": "appreciate your review :) glad you like it!",
+        "date": 1767915607
+      }
+    },
+    {
+      "id": "766749806116377",
+      "score": 2,
+      "review_title": "Games not currently working",
+      "review_description": "Game will not recognize my quest pro controllers I’ll give it a few days for a fix then I’m asking for a refund my controllers work with everything else",
+      "date": 1758233933,
+      "review_helpful_count": 2,
+      "author_display_name": "killmost",
+      "author_alias": "killmost",
+      "developer_response": {
+        "body": "Hey!  Sorry for that.  We found the problem and fixed it.  Please try again!",
+        "date": 1758264437
+      }
+    },
+    {
+      "id": "846883025163913",
+      "score": 5,
+      "review_title": "Absolutely Phenomenal.!!",
+      "review_description": "Brilliant work, this game is way beyond what I expected. Been enjoying it so much and thinking about it nonstop. Some of the most fun I’ve had since I purchased my Quest 3 in April of this year.",
+      "date": 1758507005,
+      "review_helpful_count": 1,
+      "author_display_name": "JustinKase.exe",
+      "author_alias": "JustinKase.exe",
+      "developer_response": null
+    },
+    {
+      "id": "801621383037663",
+      "score": 4,
+      "review_title": "Fantastic game",
+      "review_description": "The movement and combat just feel awesome the graphics look really nice in the headset if you have friends to play with this will be even more of a blast",
+      "date": 1759331663,
+      "review_helpful_count": 0,
+      "author_display_name": "TipsySonic",
+      "author_alias": "TipsySonic",
+      "developer_response": null
+    },
+    {
+      "id": "1337724601269256",
+      "score": 5,
+      "review_title": "Awesome movement and action",
+      "review_description": "I love the game so far and it’s only in early access I’m exited to see what this game will turn into on release but even now it’s just so awesome keep up the good work will are doing",
+      "date": 1758582576,
+      "review_helpful_count": 0,
+      "author_display_name": "0KING",
+      "author_alias": "0KING",
+      "developer_response": null
+    },
+    {
+      "id": "827586489951715",
+      "score": 5,
+      "review_title": "AWSOME",
+      "review_description": "ID YOU WANT TO KNOW WHAT DR*GS FEEL LIKE PLAY THIS GAME!!!",
+      "date": 1760671774,
+      "review_helpful_count": 0,
+      "author_display_name": "taserf0rk",
+      "author_alias": "taserf0rk",
+      "developer_response": {
+        "body": "LOL thank you",
+        "date": 1767915566
+      }
+    },
+    {
+      "id": "793816933566746",
+      "score": 5,
+      "review_title": "PLEASE THE ZIX",
+      "review_description": "great game 👌",
+      "date": 1760208293,
+      "review_helpful_count": 0,
+      "author_display_name": "Ntwoods",
+      "author_alias": "Ntwoods",
+      "developer_response": {
+        "body": "PRAISE ZIX",
+        "date": 1767915627
+      }
+    },
+    {
+      "id": "1200921708750698",
+      "score": 5,
+      "review_title": "I love.",
+      "review_description": "Extremely fun, would and will play again 🙂‍↕️✌️",
+      "date": 1758749323,
+      "review_helpful_count": 0,
+      "author_display_name": "GeorgieBoiVR",
+      "author_alias": "GeorgieBoiVR",
+      "developer_response": null
+    },
+    {
+      "id": "812979724593661",
+      "score": 5,
+      "review_title": "Overall fun game",
+      "review_description": "Movement takes some getting used to but really fun game",
+      "date": 1758854516,
+      "review_helpful_count": 0,
+      "author_display_name": "SinominRoll",
+      "author_alias": "SinominRoll",
+      "developer_response": null
+    },
+    {
+      "id": "1495883105194200",
+      "score": 5,
+      "review_title": "hawk tuah",
+      "review_description": "BEST GAME EVER PLAY IT NOW PLEASE JUSTbPLAY IT PLAY ITTTTT",
+      "date": 1758480508,
+      "review_helpful_count": 0,
+      "author_display_name": "nathanmcg.2025",
+      "author_alias": "nathanmcg.2025",
+      "developer_response": null
+    },
+    {
+      "id": "762052776999764",
+      "score": 4,
+      "review_title": "Saves",
+      "review_description": "We need manual saves but all but that 9.5/10",
+      "date": 1758847432,
+      "review_helpful_count": 0,
+      "author_display_name": "CrankyPants1981",
+      "author_alias": "CrankyPants1981",
+      "developer_response": null
+    },
+    {
+      "id": "849322571603401",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "it is great and these guys just started making games just \nWOW",
+      "date": 1764344643,
+      "review_helpful_count": 0,
+      "author_display_name": "L_Phantom6138",
+      "author_alias": "L_Phantom6138",
+      "developer_response": {
+        "body": "appreciate you! thanks!!",
+        "date": 1767915466
+      }
+    },
+    {
+      "id": "1355220469292865",
+      "score": 4,
+      "review_title": "Great game. But maps feel empty",
+      "review_description": "Game is great all around \n\nMy only complaint is maps feel empty. Some maps are big. And don't have alot of enemies to fight.  I've played 4 missions. And only killed like 10 enemies a mission.   Needs more enemies on the maps.  At least 5 more or so.  Maybe there's more later in the game. Or harder difficulty.   Just seems very empty on maps.  Game is fantastic other wise",
+      "date": 1758259849,
+      "review_helpful_count": 2,
+      "author_display_name": "StormShadow612",
+      "author_alias": "StormShadow612",
+      "developer_response": {
+        "body": "We have increased the enemy amount and are continually making balance adjustments.  Please set the difficulty to hard in the menu and try again!",
+        "date": 1758630549
+      }
+    },
+    {
+      "id": "811053882087711",
+      "score": 5,
+      "review_title": "Freaking love this",
+      "review_description": "Ever since the day I saw the trailer I was obsessed, and my impressions of it only greatened when I played. Everything about it is amazing, from the worlds, to the lil mushrooms, to the abilities. I also love how the augments stay with you when you finish a run. Recommending to friends because I can only imagine how much crazier this can get with others. With the character customization I'd like to one day be able to further customize characters as parts themselves rather than as a group (eg one forearm at a time rather than both) but it's amazing as is. You guys are doing an amazing job on this, and I can't wait to watch it grow. Again, definitely recommending to friends.",
+      "date": 1758245295,
+      "review_helpful_count": 2,
+      "author_display_name": "IAmALoafOfBread",
+      "author_alias": "IAmALoafOfBread",
+      "developer_response": {
+        "body": "You actually can turn off symmetry mode and only edit one limb at a time!",
+        "date": 1758630911
+      }
+    },
+    {
+      "id": "805103555339542",
+      "score": 5,
+      "review_title": "Wow",
+      "review_description": "This game is now my all time favorite VR game. The movement is easy to master . The inventory system being entirely gesture based makes for fast paced action with the ability to change weapons seamlessly \nI'm absolutely blown away.\nThis game truly exceeded all the expectations I had. Looking forward to when they update it to save your run when you get back to the hub. In case you need a break . 10 out of 10 in my book",
+      "date": 1758263796,
+      "review_helpful_count": 2,
+      "author_display_name": "TheCreamster710",
+      "author_alias": "TheCreamster710",
+      "developer_response": {
+        "body": "Saving is now in!  Thanks for the very kind review!",
+        "date": 1758912715
+      }
+    },
+    {
+      "id": "812892701264904",
+      "score": 3,
+      "review_title": "Great game but I had a problem",
+      "review_description": "This is an amazing game and I get it’s in early access but these are some issues I had with it. Glitches: I was stuck at the teleporter and it would not teleport me to ￼￼ the next level . And after￼ I killed the second boss, this glitch occurred and it would not teleport me back to the base and I restarted my game and all of my progress on it vanished. I don’t know if it’s supposed to happen but I’m OK with it and I don’t me just the boss fight I mean all the stuff but my thing I bought like the second level bow. I just wanted to see if it was an issue or not. this is a great game definitely get it ￼￼",
+      "date": 1758414701,
+      "review_helpful_count": 0,
+      "author_display_name": "lukedash99",
+      "author_alias": "lukedash99",
+      "developer_response": {
+        "body": "Sorry about the frustrating bugs.  We'll be sorting those out through EA and your reports are really helpful.  Please join our discord accessible from the playzix.io website.  \n\nWe now have run saving so these kinds of issues will be a little less frustrating I hope.",
+        "date": 1758959729
+      }
+    },
+    {
+      "id": "798143532736120",
+      "score": 5,
+      "review_title": "A new good vr game",
+      "review_description": "This game is so good I've only had it for one day and I just know this game has the potential to come big and I know you guys said you would only work on it if we showed support but stilt was forgotten no one played it yet they still added updates then people started playing again and if this game dies pls keeping working on it this might just be better then the new marvels Deadpool game coming out or it might be close :edit so there's a bug or smt where when you have the rift needle or whatever it's called it resets after a while meaning you spent your chaos on nothing",
+      "date": 1758421849,
+      "review_helpful_count": 1,
+      "author_display_name": "ChristaBoy",
+      "author_alias": "ChristaBoy",
+      "developer_response": null
+    },
+    {
+      "id": "803261439321685",
+      "score": 3,
+      "review_title": "Won't Save",
+      "review_description": "It won't save for me. I've done 10 runs, and all of them didn't save. I'm just wondering how to. I know there's auto saves, but they still dont work",
+      "date": 1758386272,
+      "review_helpful_count": 2,
+      "author_display_name": "DiggyOreo1",
+      "author_alias": "DiggyOreo1",
+      "developer_response": {
+        "body": "Saving runs was not available at launch.  We have implemented it now however.  Please adjust your review if you could! Have fun :)",
+        "date": 1758630296
+      }
+    },
+    {
+      "id": "31390200523957653",
+      "score": 5,
+      "review_title": "Definitely among top 3 roguelikes in VR",
+      "review_description": "Great movement and shooting physics, great sound and original design. \n\nIf only the developer provides constant content updates, it will be a great success.",
+      "date": 1758232532,
+      "review_helpful_count": 1,
+      "author_display_name": "kkuzma1982",
+      "author_alias": "kkuzma1982",
+      "developer_response": null
+    },
+    {
+      "id": "797052186828499",
+      "score": 5,
+      "review_title": "I love it!!!!!✨",
+      "review_description": "An incredible and unique game that exceeds all my expectations!\n\n😻😻😻😻😻",
+      "date": 1759408657,
+      "review_helpful_count": 0,
+      "author_display_name": "Rogue_Genesis",
+      "author_alias": "Rogue_Genesis",
+      "developer_response": {
+        "body": "appreciate you :)",
+        "date": 1767918834
+      }
+    },
+    {
+      "id": "722885807431983",
+      "score": 5,
+      "review_title": "Best game of the year",
+      "review_description": "This game is so fun and the vibrant colors are astonishing overall I love this game so much",
+      "date": 1758253512,
+      "review_helpful_count": 1,
+      "author_display_name": "RxD_Coconut",
+      "author_alias": "RxD_Coconut",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T10:44:15Z"
+}

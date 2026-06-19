@@ -1,0 +1,42 @@
+{
+  "app_id": "7722488617865922",
+  "package_name": "com.Healthtech.GaveaXR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "GaveaXR Medical Center",
+  "rating_average": 5,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1088429323486488",
+      "score": 5,
+      "review_title": "Excellent!",
+      "review_description": "Im so proud of our team and community for bringing this app to life! \n\nCheers to GaveaXR and HealthTech BR 🚀",
+      "date": 1757462714,
+      "review_helpful_count": 3,
+      "author_display_name": "Dra.B",
+      "author_alias": "Dra.B",
+      "developer_response": null
+    },
+    {
+      "id": "1335786081220700",
+      "score": 5,
+      "review_title": "OMG!",
+      "review_description": "The beginning of a revolution in education, cheers!",
+      "date": 1757464258,
+      "review_helpful_count": 0,
+      "author_display_name": "lucasdicavalcanti",
+      "author_alias": "lucasdicavalcanti",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:42:03Z"
+}

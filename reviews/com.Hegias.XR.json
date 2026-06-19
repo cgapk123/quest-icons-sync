@@ -1,0 +1,42 @@
+{
+  "app_id": "3796588527103006",
+  "package_name": "com.Hegias.XR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "HEGIAS",
+  "rating_average": 4.4666666666667,
+  "rating_count": 15,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "2343461909128075",
+      "score": 4,
+      "review_title": "A bit cookie cutter",
+      "review_description": "It's a real estate thing, of seemingly moderate quality.",
+      "date": 1654726242,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "314305537381854",
+      "score": 5,
+      "review_title": "Testdrive your new house.",
+      "review_description": "The easiest and fastest way to have a walk-through experience in an unbuilt appartment/house - together with peers all around the globe. I am loving it.",
+      "date": 1644874702,
+      "review_helpful_count": 6,
+      "author_display_name": "pam.hegias",
+      "author_alias": "pam.hegias",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:42:21Z"
+}

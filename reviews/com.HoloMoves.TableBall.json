@@ -1,0 +1,45 @@
+{
+  "app_id": "7123283674417117",
+  "package_name": "com.HoloMoves.TableBall",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "TableBall",
+  "rating_average": 1,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "690686877457953",
+      "score": 1,
+      "review_title": "I want aliscence",
+      "review_description": "Can someone help me for aliscence?",
+      "date": 1749406542,
+      "review_helpful_count": 1,
+      "author_display_name": "body.loky",
+      "author_alias": "body.loky",
+      "developer_response": null
+    },
+    {
+      "id": "361624287038038",
+      "score": 1,
+      "review_title": "Couldn't get past permissions screen.",
+      "review_description": "I was really excited to try this game for my hemiplegic arm and hand therapy but was never able to get to the permissions screen to enter the permission code. I hope they fix this because I would really like to try out the app.",
+      "date": 1721337687,
+      "review_helpful_count": 4,
+      "author_display_name": "mtumu.2024",
+      "author_alias": "mtumu.2024",
+      "developer_response": {
+        "body": "Hi there!\n\nDo you have an active holomoves subscription? If not, that could be the problem. Please let me know. you can email me at: yamir@holomoves.nl",
+        "date": 1722342946
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:46:15Z"
+}

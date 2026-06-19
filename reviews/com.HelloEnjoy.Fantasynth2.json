@@ -1,0 +1,42 @@
+{
+  "app_id": "4094430364005017",
+  "package_name": "com.HelloEnjoy.Fantasynth2",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Fantasynth 2",
+  "rating_average": 4.0769230769231,
+  "rating_count": 13,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "928807533638739",
+      "score": 3,
+      "review_title": "It's fun",
+      "review_description": "Fun musical experience, but I wish the first Fantasynth was available for the Quest 😥😭😭",
+      "date": 1763737000,
+      "review_helpful_count": 0,
+      "author_display_name": "Swiift",
+      "author_alias": "Swiift",
+      "developer_response": null
+    },
+    {
+      "id": "5394758800588267",
+      "score": 5,
+      "review_title": "Free roam music experience ✨",
+      "review_description": "Don't forget to redraw your guardian to make the most of it!",
+      "date": 1668270944,
+      "review_helpful_count": 3,
+      "author_display_name": "C4RL05",
+      "author_alias": "C4RL05",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:42:36Z"
+}
