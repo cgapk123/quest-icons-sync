@@ -1,0 +1,42 @@
+{
+  "app_id": "9386070311481888",
+  "package_name": "com.DefaultCompany.ChimpExpedition",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Chimp Expedition",
+  "rating_average": 3.8333333333333,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "921551957188655",
+      "score": 2,
+      "review_title": "No map no play",
+      "review_description": "How to play.\nWaste of time.",
+      "date": 1770440568,
+      "review_helpful_count": 1,
+      "author_display_name": "butholetickler",
+      "author_alias": "butholetickler",
+      "developer_response": null
+    },
+    {
+      "id": "880316477959346",
+      "score": 1,
+      "review_title": "No game",
+      "review_description": "No map. No game anywhere",
+      "date": 1770440609,
+      "review_helpful_count": 0,
+      "author_display_name": "W1kc3d",
+      "author_alias": "W1kc3d",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:40:49Z"
+}

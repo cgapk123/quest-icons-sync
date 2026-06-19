@@ -1,0 +1,45 @@
+{
+  "app_id": "26223623893940551",
+  "package_name": "com.DefaultCompany.CatWars",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Cat Wars",
+  "rating_average": 3.4,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "943712878414843",
+      "score": 5,
+      "review_title": "Best game ever",
+      "review_description": "I love this game because there is pvp and more updates to come",
+      "date": 1773923515,
+      "review_helpful_count": 0,
+      "author_display_name": "Dvr_yt55",
+      "author_alias": "Dvr_yt55",
+      "developer_response": null
+    },
+    {
+      "id": "1049371878252423",
+      "score": 1,
+      "review_title": "Suck",
+      "review_description": "Suck",
+      "date": 1772301768,
+      "review_helpful_count": 0,
+      "author_display_name": "CreamcheeseMangoPhonkEdit",
+      "author_alias": "CreamcheeseMangoPhonkEdit",
+      "developer_response": {
+        "body": "this game is still being made. there will be issues but after a few updates most issues will be gone",
+        "date": 1772992662
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:40:10Z"
+}

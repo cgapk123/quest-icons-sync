@@ -1,0 +1,42 @@
+{
+  "app_id": "7296046397165385",
+  "package_name": "com.DefaultCompany.CreepyApes",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Creepy Apes.",
+  "rating_average": 3.4285714285714,
+  "rating_count": 7,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "376522565553989",
+      "score": 5,
+      "review_title": "My game lol",
+      "review_description": "Lol",
+      "date": 1727464928,
+      "review_helpful_count": 10,
+      "author_display_name": "VRSlippyYT",
+      "author_alias": "VRSlippyYT",
+      "developer_response": null
+    },
+    {
+      "id": "835675925444495",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "This game is an amazing horror game besides the bugs that there are",
+      "date": 1727545700,
+      "review_helpful_count": 1,
+      "author_display_name": "CRcringle",
+      "author_alias": "CRcringle",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:42:14Z"
+}

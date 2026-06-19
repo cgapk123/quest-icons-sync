@@ -1,0 +1,42 @@
+{
+  "app_id": "25342965272018833",
+  "package_name": "com.DefaultCompany.CrazyMonkey",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "CrazyMonkey",
+  "rating_average": 4.7142857142857,
+  "rating_count": 7,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "470888789080410",
+      "score": 5,
+      "review_title": "5 stars👍🏻",
+      "review_description": "I like it is a really good game￼",
+      "date": 1723247550,
+      "review_helpful_count": 4,
+      "author_display_name": "Jaxson1740",
+      "author_alias": "Jaxson1740",
+      "developer_response": null
+    },
+    {
+      "id": "285417694651395",
+      "score": 5,
+      "review_title": "Cool",
+      "review_description": "Cool",
+      "date": 1717119399,
+      "review_helpful_count": 3,
+      "author_display_name": "tren45",
+      "author_alias": "tren45",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:42:11Z"
+}

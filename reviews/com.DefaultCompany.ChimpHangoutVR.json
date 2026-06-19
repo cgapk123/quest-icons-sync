@@ -1,0 +1,62 @@
+{
+  "app_id": "7821949074495697",
+  "package_name": "com.DefaultCompany.ChimpHangoutVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Chimp Hangout VR",
+  "rating_average": 5,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "442692574949423",
+      "score": 5,
+      "review_title": "Best game",
+      "review_description": "Best game",
+      "date": 1712434622,
+      "review_helpful_count": 2,
+      "author_display_name": "jaquavias.frfr",
+      "author_alias": "jaquavias.frfr",
+      "developer_response": {
+        "body": "yes",
+        "date": 1712498541
+      }
+    },
+    {
+      "id": "434568975771285",
+      "score": 5,
+      "review_title": "My house exploded",
+      "review_description": "Isjisifhiwowhdvhwbb",
+      "date": 1712527837,
+      "review_helpful_count": 1,
+      "author_display_name": "BlueberryGang",
+      "author_alias": "BlueberryGang",
+      "developer_response": {
+        "body": "Real",
+        "date": 1712527997
+      }
+    },
+    {
+      "id": "409110925402673",
+      "score": 5,
+      "review_title": "Cool",
+      "review_description": "Im moderator on the game. ⭐️⭐️⭐️⭐️⭐️",
+      "date": 1712555187,
+      "review_helpful_count": 0,
+      "author_display_name": "ZokimaOnMeta",
+      "author_alias": "ZokimaOnMeta",
+      "developer_response": {
+        "body": "Yes very cool",
+        "date": 1712575153
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:40:56Z"
+}

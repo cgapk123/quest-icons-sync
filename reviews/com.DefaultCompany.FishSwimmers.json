@@ -1,0 +1,67 @@
+{
+  "app_id": "5457382337701517",
+  "package_name": "com.DefaultCompany.FishSwimmers",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Fish Swimmers",
+  "rating_average": 3.5714285714286,
+  "rating_count": 7,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "145362325107441",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Can't wait  to try some guy told me about it on gtag",
+      "date": 1678389259,
+      "review_helpful_count": 3,
+      "author_display_name": "Zhalen",
+      "author_alias": "Zhalen",
+      "developer_response": null
+    },
+    {
+      "id": "208400401718151",
+      "score": 5,
+      "review_title": "Same",
+      "review_description": "Bowtie as I’m thankful for you doing my game :)",
+      "date": 1674678579,
+      "review_helpful_count": 3,
+      "author_display_name": "cookthedev",
+      "author_alias": "cookthedev",
+      "developer_response": null
+    },
+    {
+      "id": "167901322644306",
+      "score": 5,
+      "review_title": "I literally put so much effort into this",
+      "review_description": "It took 2 days to make plus the updates",
+      "date": 1674594746,
+      "review_helpful_count": 3,
+      "author_display_name": "Bowtie_Fla",
+      "author_alias": "Bowtie_Fla",
+      "developer_response": null
+    },
+    {
+      "id": "198407406073104",
+      "score": 5,
+      "review_title": "Can't wait to play tmr",
+      "review_description": "Can't wait to play tmr",
+      "date": 1674594227,
+      "review_helpful_count": 3,
+      "author_display_name": "Misha_lover",
+      "author_alias": "Misha_lover",
+      "developer_response": {
+        "body": "ok",
+        "date": 1674951666
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:44:01Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "7282203171842852",
+  "package_name": "com.DefaultCompany.FrogFantasy",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Frog Fantasy",
+  "rating_average": 4.6,
+  "rating_count": 10,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "573966765516340",
+      "score": 5,
+      "review_title": "Aura",
+      "review_description": "Aura frog",
+      "date": 1736214276,
+      "review_helpful_count": 0,
+      "author_display_name": "Djpopvee",
+      "author_alias": "Djpopvee",
+      "developer_response": null
+    },
+    {
+      "id": "1094957438635721",
+      "score": 5,
+      "review_title": "Game is good but is glitchy",
+      "review_description": "best game ever but cosmetics and horror don't work so please fix the cosmetics keeping you still and horror not teleporting you back",
+      "date": 1730471642,
+      "review_helpful_count": 3,
+      "author_display_name": "zeyist",
+      "author_alias": "zeyist",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:44:16Z"
+}

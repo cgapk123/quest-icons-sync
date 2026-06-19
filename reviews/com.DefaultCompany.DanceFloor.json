@@ -1,0 +1,59 @@
+{
+  "app_id": "9352674764850301",
+  "package_name": "com.DefaultCompany.DanceFloor",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "DanceFloorVR",
+  "rating_average": 1.5714285714286,
+  "rating_count": 7,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1045418775330517",
+      "score": 3,
+      "review_title": "Improving, has potential",
+      "review_description": "{UPDATE}  Bumping this from 2 to 3 (3.5) stars.  After the team were so quick to add the suggested display.  That really is an immediate improvement.    Might want to keep tinkering with it to see how it can be perfected (I might add a red outline around the last square the player stood on - so I know where I currently am, compared to where I need to be - without looking down).  But it's definitely playable now.  I actually quite enjoyed my last game.  Appreciate it - Keep going!  :)  \n\nFirst off, this is a nice idea, and the aesthetic is really nice.  But as is, it's horrible to play.  The only way to know where you're supposed to move, is by staring at the floor, which means you spend the whole game staring at your feet.  And even then, you can't see behind you, so you spend the whole game staring at your feet, while awkwardly turning round and round trying to see where you're supposed to go.  Neither of which makes for a great dancing experience.  The good news (for the dev) is that this would be super-easy to fix, simply by putting a display in front of you that mirrors the floor.  So you can see where to move, without staring at your feet.  I don't know if this alone would make it a great dance game, but it would be a HUGE improvement.  :)",
+      "date": 1778885793,
+      "review_helpful_count": 2,
+      "author_display_name": "MrVoodoo69",
+      "author_alias": "MrVoodoo69",
+      "developer_response": null
+    },
+    {
+      "id": "1064469933407462",
+      "score": 1,
+      "review_title": "Bad",
+      "review_description": "Bad game make better !!!",
+      "date": 1771194561,
+      "review_helpful_count": 2,
+      "author_display_name": "Aesonvr",
+      "author_alias": "Aesonvr",
+      "developer_response": {
+        "body": "Thanks for your feedback! Sorry to hear you didn’t enjoy it. We’re always working to improve—could you let us know what specifically didn’t work for you? Your suggestions would really help us make the experience better.",
+        "date": 1771218173
+      }
+    },
+    {
+      "id": "748799347675873",
+      "score": 2,
+      "review_title": "Need adjustment",
+      "review_description": "This seems like a great game I would love to play, but I can't enjoy it because my feet are too small and my legs are short. Does anyone know if I can adjust the tile size?",
+      "date": 1752876360,
+      "review_helpful_count": 14,
+      "author_display_name": "Lawgirl8",
+      "author_alias": "Lawgirl8",
+      "developer_response": {
+        "body": "Hi there! Thank you so much for taking the time to leave a review — we really appreciate your support and feedback. 💃🕺\n\nWe're thrilled to hear that you like the concept of the game! That means a lot to us. Regarding your concern about tile size, you're absolutely right. Accessibility and comfort for all players, regardless of body type or leg length, are incredibly important to us.\n\nWe're currently exploring ways to implement customizable tile sizes and distances in a future update, so players can tailor the experience to better suit their physical space and movement range. Your feedback is a huge help in making the game better for everyone.\n\nIn the meantime, we’ll be sure to keep the community updated as we develop this feature. Please stay tuned, and thank you again for being part of the journey — we’re dancing our way there with you! 🎶✨",
+        "date": 1752929957
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:42:31Z"
+}
