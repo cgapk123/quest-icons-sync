@@ -1,0 +1,987 @@
+{
+  "app_id": "6946182742093178",
+  "package_name": "com.Fluid.Fluid",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Fluid Browser + Video Player",
+  "rating_average": 4.5096830985915,
+  "rating_count": 1136,
+  "review_count": 331,
+  "reviews": [
+    {
+      "id": "4019574925007742",
+      "score": 5,
+      "review_title": "Extremely Satisfied",
+      "review_description": "I have been testing this tool for months now. It had potential to be a BigScreen replacement for my specific usage. It never functioned well for me. Last night I tested its features with a few friends. We used it how we would use a shared theatre watching experience like BigScreen. It worked flawlessly and with many more beneficial features and options. My group was very pleased. \nKeep up the great progress.",
+      "date": 1780514449,
+      "review_helpful_count": 6,
+      "author_display_name": "KhaiZhen",
+      "author_alias": "KhaiZhen",
+      "developer_response": null
+    },
+    {
+      "id": "2163719934430560",
+      "score": 3,
+      "review_title": "Needs significantly better privacy.",
+      "review_description": "Gets better by the month.\nChromium is good, Gecko has the plugins, but is buggy. Why not having Chromium with plugins?  \nYou need to take privacy seriously,  \nThe \"privacy terms\" are extremely loose,  the usual BS about \"anonymized\" data and sharing with \"third party\" that is in some vague way useful for the service, is sketchy as h.  The best security and privacy is NOT TO COLLECT data.  You should have a privacy approach of simply NOT collecting what we do in the browsers, or which plugins are installed.",
+      "date": 1776790867,
+      "review_helpful_count": 6,
+      "author_display_name": "pilot4",
+      "author_alias": "pilot4",
+      "developer_response": {
+        "body": "Like we say in our TOS and Privacy Policy, we don't collect information on what individuals do in our app. \n\nIn order to provide a service, your users have to give you permission to provide that service. How can we, for example, provide a way for you to retrieve your friends list without storing who your friends are? \n\nHow can we fix an issue where youtube is throwing an error for 15% of users if we don't know about it?",
+        "date": 1777315336
+      }
+    },
+    {
+      "id": "1024386557435287",
+      "score": 4,
+      "review_title": "My favourite video streaming tool",
+      "review_description": "Maps are great, dunes is my favourite. Although I would like to see some changes to make them more comfy. For me the darkest light setting is still too bright, would be nice to have rain toggle for example, maybe even with ambient sounds like wind. Day and night modes for maps would be cool. Even though the ai generation of background skyboxes wasn't looking too good, I will miss them, maybe we could get an option to import own ones.",
+      "date": 1777809241,
+      "review_helpful_count": 3,
+      "author_display_name": "kot1",
+      "author_alias": "kot1",
+      "developer_response": null
+    },
+    {
+      "id": "1285242377142912",
+      "score": 5,
+      "review_title": "This app has so much potential!!!!!",
+      "review_description": "This app is still in beta but you can see through the bugs. and if you can hang with The Devs that are working hard to bring us all something great, I know this will be worth your $20. \nThe Devs are willing to listen to any complaints and all suggestions. \nI love hanging out watching movies and Whatnots, the picture quality is great and environments are nice. There is a learning curve to using this app but if you take the time to investigate all it has to offer, you surely will love it too.",
+      "date": 1778200333,
+      "review_helpful_count": 2,
+      "author_display_name": "sheenae7777",
+      "author_alias": "sheenae7777",
+      "developer_response": null
+    },
+    {
+      "id": "975531845037651",
+      "score": 5,
+      "review_title": "Great App, Great Features, Great Owners",
+      "review_description": "I can't say enough about this app, its features, and the guys behind it developing it.   Responsive, thoughtful, passionate, and creative!   These people listen to their users and it shows.  They are active their app and active on Discord.   Join this growing community and watch it grow!   Come join us!",
+      "date": 1775507077,
+      "review_helpful_count": 6,
+      "author_display_name": "Parfunkel",
+      "author_alias": "Parfunkel",
+      "developer_response": null
+    },
+    {
+      "id": "1313149237656665",
+      "score": 5,
+      "review_title": "busted?????",
+      "review_description": "Previously gave 5 stars. Now grinds to a halt after log in. Seems busted?",
+      "date": 1781824124,
+      "review_helpful_count": 0,
+      "author_display_name": "ZotzWylde",
+      "author_alias": "ZotzWylde",
+      "developer_response": null
+    },
+    {
+      "id": "928147323082463",
+      "score": 3,
+      "review_title": "Lots going for it, lots holding it back",
+      "review_description": "I was super interested in this apps offerings but the more I dig around the more I question if it’s worth it. \n\nFor a $20 application I expect there to be maybe some minor micro transactions but there’s so many fees getting in the way of what feels like what should be basic functionality. The Cast function was one of my main reasons for picking this app up, I saw it advertised on their YouTube channel. Sadly once booting up the app and playing around, this core feature and what I considered a main selling point is locked behind a $10/month subscription. \n\nAlso paying $10-$15 per additional space OR $10/month feels like asking a lot from an already $20 app. \n\nIn its current state I’m not sure I can fully recommend. I do think the devs are on to something but there feels like a major issue with monetization at this point in time.",
+      "date": 1770260827,
+      "review_helpful_count": 48,
+      "author_display_name": "Coodaye",
+      "author_alias": "Coodaye",
+      "developer_response": {
+        "body": "Please make sure you’re not confusing casting with screen share, which is the multiplayer watch together feature. Casting is just for copying one browser window screen into the smart TV. You can share your screen without any subscription or anything.",
+        "date": 1777682940
+      }
+    },
+    {
+      "id": "1625872102058813",
+      "score": 5,
+      "review_title": "Audio issues fixed",
+      "review_description": "Audio quality with video files stored in the headset has been really poor, sometimes there’s no sound at all, or only faint audio in one ear with missing dialogue in the other. It makes movies hard to watch. I also couldn’t find a way to select any subtitle or alternate audio options. Hoping this gets fixed soon.\n\nUpdate: Audio issues are fixed and impressed by attention the apps gets from the developers",
+      "date": 1775375654,
+      "review_helpful_count": 3,
+      "author_display_name": "rocky.langsy",
+      "author_alias": "rocky.langsy",
+      "developer_response": null
+    },
+    {
+      "id": "1178352112021115",
+      "score": 1,
+      "review_title": "half backed money grab",
+      "review_description": "good idea but unfinished,expect to pay exstra for every additional functionality",
+      "date": 1780491450,
+      "review_helpful_count": 2,
+      "author_display_name": "Omnisayaah",
+      "author_alias": "Omnisayaah",
+      "developer_response": null
+    },
+    {
+      "id": "1165946123260118",
+      "score": 2,
+      "review_title": "Disappointed",
+      "review_description": "I found the program clunky and slow, in addition the app was created for meta goggles and yet it doesn’t show videos in immersion.  That's the entire point.",
+      "date": 1778176097,
+      "review_helpful_count": 1,
+      "author_display_name": "Tittylator",
+      "author_alias": "Tittylator",
+      "developer_response": null
+    },
+    {
+      "id": "1577962030071852",
+      "score": 5,
+      "review_title": "Nice option to work elsewhere",
+      "review_description": "I do love to use fluid, change the outside views and sit by the fire, I can browse the web, listen to music or audible.\nI like the fact I can be anywhere other than my work/hone/van, and take time out, remove the visual clutter of reality.\nThere are many things evolving inside the system and I'm looking forward to being able to change the pictures on the walls to my own images and an audible wall player next to the current music.",
+      "date": 1769717243,
+      "review_helpful_count": 18,
+      "author_display_name": "OldSnorker",
+      "author_alias": "OldSnorker",
+      "developer_response": null
+    },
+    {
+      "id": "1030592403465330",
+      "score": 1,
+      "review_title": "Worse than the default Browser app",
+      "review_description": "This is not the sane web app experience you are looking for. If you think the default Browser app is bad, this app is 10x worse.\n\nIt is noticeably slower. Downloads don't work 90% of the time and when they work the downloaded file is nowhere to be found. There are lots of bugs and there's a lot of jank when using this app. You'll be restarting  and this app very often. And even reinstall it every now and then since that is the only way to clear all cookies and cache.\n\nBasic browser stuff is missing:  No bookmarks, no browsing history. You are always in dark mode.\n\nAnd a bunch of stuff is locked behind in app payments and subscriptions. For $20 this is very weak.\n\nThe only upside of this app is:\n- You can set the keyboard layout\n- Slightly better window management\n- Slightly higher resolution and sharpness",
+      "date": 1771164015,
+      "review_helpful_count": 8,
+      "author_display_name": "Lukey3332",
+      "author_alias": "Lukey3332",
+      "developer_response": null
+    },
+    {
+      "id": "3155205431308128",
+      "score": 5,
+      "review_title": "Only one of it's kind",
+      "review_description": "I can't speak to the theater mode and more experimental features, but from a utility standpoint for working in VR without a computer, this is the only real option. I work remotely in a Quest and have tried all the other apps that are trying to do the same thing, but none feel remotely mature enough to actually match my triple monitor setup. Using Fluid is the first time I've felt I might actually be getting more utility than a PC and not slowing myself down. The devs clearly care and actually use the product, highly recommend this one for untethered work.",
+      "date": 1769746324,
+      "review_helpful_count": 17,
+      "author_display_name": "Nickross4444",
+      "author_alias": "Nickross4444",
+      "developer_response": null
+    },
+    {
+      "id": "2356416751504061",
+      "score": 5,
+      "review_title": "Don't be quick to judge",
+      "review_description": "I purchased Fluid a month ago and since then, it has been improvement over improvement. The team is quick to address issues when as quick as possible (not everything is a quick code adjustment) and the community feedback on the discord helps a lot in that. The overall experience now compared to a month ago is way better. Sure there are still improvements to be had but that is just normal. Coming from BigScreen, i defiantly can appreciate the easy of sharing a room with friends to watch a content with simple few clicks.  The environments are nice..something for every one. Having a browser in the app saves from having to start meta browser outside the app. The simple fact that you can add links and have easy access to your preferred streaming service on a giant Smart TV is just awesome. The semi passthrough is a big W for me because i love the fact that i can see my snacks! Hands down the Fluid team have this software headed in the right direction. Last but not lease, before giving low star review because the app is not performing as you want, come on the discord and ask question. Devs are people, not magicians or mind readers...they miss stuff :)",
+      "date": 1769726808,
+      "review_helpful_count": 9,
+      "author_display_name": "Darkpixx",
+      "author_alias": "Darkpixx",
+      "developer_response": null
+    },
+    {
+      "id": "1438378844317095",
+      "score": 5,
+      "review_title": "Great for watching streaming, browsing",
+      "review_description": "Fluid is my favorite way to watch series while traveling. Default meta home environment it far too annoying to have multiple app windows open, this is fluids strongest point.\nAlso the browser where you can install adblok and other addons is another mush have feature imo.\nIt can still be a bit janky when juggling multiple windows, but its developed by a team of pros and gets updates frequently. Keep it up!",
+      "date": 1769765987,
+      "review_helpful_count": 10,
+      "author_display_name": "Un_Able",
+      "author_alias": "Un_Able",
+      "developer_response": null
+    },
+    {
+      "id": "3313718245473531",
+      "score": 3,
+      "review_title": "More frustrating than anything",
+      "review_description": "TERRIBLE TERRIBLE TERRIBLE GODAWFUL UI where typing with hand tracking is next to impossible, menus jumping around and moving on their own. Bought the overpriced theater environment which plops you down in possibly the worst spot to watch the screen. Impossible to use your grab movement system or teleporting to move anywhere, especially if I don’t want to grab and move the screen, which can’t even be put back where it goes because it’s too far away. I really want to like this app because it’s great in theory. But every to I do it’s so frustrating and enraging I have to close it.",
+      "date": 1767767587,
+      "review_helpful_count": 19,
+      "author_display_name": "mattman6886",
+      "author_alias": "mattman6886",
+      "developer_response": {
+        "body": "Hey there! We have since made the hand-locomotion something you need to activate rather than on by default, so it should resolve most of these issues.",
+        "date": 1769725137
+      }
+    },
+    {
+      "id": "985915027932342",
+      "score": 1,
+      "review_title": "Disappointment - Jan 2026",
+      "review_description": "I purchased Fluid Browser specifically for the FluidLink remote desktop functionality, but unfortunately it's completely unusable in its current state. I've spent over 2 hours troubleshooting and trying different settings with no success.\n\n\nMy Setup:\n\n\nMac Studio M3 Ultra running FluidLink Agent\nMesh WiFi 5ac network\nMac Studio on Ethernet: 1 Gbps local network\nMeta Quest 3: 800 Mbps local network\n\n\nCritical Issues:\n\n1. Constant Resize Loop Bug\nThe browser window running Fluid Remote Desktop gets stuck in a perpetual resizing state. The white resize border flashes on and off continuously, causing the resolution to change with each cycle. This makes it impossible to read text or work effectively - it happens every single time across all settings I've attempted.\n\n2. FluidLink Agent Crashes\nThe FluidLink Agent app on Mac crashes frequently, interrupting sessions.\n\n\n3. Keyboard Input Failure\nThe keyboard either stops working mid-session or doesn't work at all. This occurs both with and without the \"mouse and keyboard shared\" setting enabled.\n\n\nWhat Works:\nInitial connection establishment is quick\nVisual quality is good when it does connect\nGeneral web browsing features work fine\n\n\nConclusion:\nAt this point, the native Meta Quest Remote Desktop app works significantly better than this $20 paid option. I expected Fluid Browser + FluidLink to be a premium alternative, but it's actually worse than the free option. I'll be requesting a refund.\n\n\nTo the Developer:\nPlease prioritize fixing the resize loop bug - this single issue makes the app completely unusable for remote desktop work. The keyboard reliability also needs immediate attention for any productive use.",
+      "date": 1768436574,
+      "review_helpful_count": 11,
+      "author_display_name": "earzate8",
+      "author_alias": "earzate8",
+      "developer_response": {
+        "body": "Hey there, we have an update to Fluid Link Beta coming soon which should resolve most of your issues. Thanks for your patience while Fluid Link is still being developed.",
+        "date": 1769725068
+      }
+    },
+    {
+      "id": "962814366417667",
+      "score": 2,
+      "review_title": "Copy/Paste doesnt work",
+      "review_description": "I use 1password for all my pw and i must say that being unable to copy/paste my 100 characters pw is one of the most frustrating thing. Please fix that... The onboard pw manager doesnt work either.",
+      "date": 1774303717,
+      "review_helpful_count": 0,
+      "author_display_name": "Bambibo",
+      "author_alias": "Bambibo",
+      "developer_response": null
+    },
+    {
+      "id": "1692172408821532",
+      "score": 5,
+      "review_title": "Finally! A VR meeting space worth using",
+      "review_description": "I'm an Altspace refugee and am constantly asking myself what I miss most. Virtual meet up spaces where you can share media and presentations! I used to attend all kinds of classes, group meetings, shared working experiences, various events and private parties and I REALLY miss those. Now, Fluid lets us come together (virtually) and share our ideas, videos, conversations without all the silliness of Horizon worlds (obnoxious kids!) and randomness of VR Chat. I look forward to setting up my own events - and attending others as folks continue to  discover Fluid. I love that they continue to update and improve the experience.",
+      "date": 1772288277,
+      "review_helpful_count": 0,
+      "author_display_name": "Zizi.P",
+      "author_alias": "Zizi.P",
+      "developer_response": null
+    },
+    {
+      "id": "3116522025217327",
+      "score": 5,
+      "review_title": "Extremely impressive!",
+      "review_description": "This app already works great and it just keeps getting better. This turns your Quest into a mixed reality beast for productivity or doing practically anytime else you would do on the web, in VR. Hats off to the developers! They are continuously updating and fixing bugs.",
+      "date": 1769719830,
+      "review_helpful_count": 5,
+      "author_display_name": "ubervol",
+      "author_alias": "ubervol",
+      "developer_response": null
+    },
+    {
+      "id": "1406389891169302",
+      "score": 5,
+      "review_title": "Game-changer in VR",
+      "review_description": "I've been using the Fluid app on my Meta Quest,  for months now and I have to say, it’s a fantastic experience! The developers have clearly poured their heart and soul into this app.\nThe ability to create and organize multiple windows in a virtual workspace is a game-changer for productivity\nOne of my favorite features is the screen sharing capability. It allows my family, scattered across different parts of the country, to come together and watch the same show simultaneously. This has made for some priceless moments and has truly brought us closer, even when we're miles apart.\nIt's clear that the team is constantly improving the app, as I’ve noticed regular updates that enhance performance and introduce new features.\nThough it currently doesn’t support Netflix streaming, the developers are working tirelessly, and I’m excited to see future improvements. Overall, Fluid has greatly enriched my time in VR, and I highly recommend it to anyone looking to enhance their Meta Quest experience!\nKudos to the developers for their hard work and dedication!",
+      "date": 1771547846,
+      "review_helpful_count": 0,
+      "author_display_name": "hickchick89",
+      "author_alias": "hickchick89",
+      "developer_response": null
+    },
+    {
+      "id": "4344824962442691",
+      "score": 5,
+      "review_title": "Great app. Getting better all the time.",
+      "review_description": "Been using the app since it was first released. The dev team has been actively making improvements, fixing bugs, and getting it ready for its full release. I mostly use the app to host streaming from Peacock, Netflix, and Apple TV with friends.",
+      "date": 1769785637,
+      "review_helpful_count": 3,
+      "author_display_name": "Franta12",
+      "author_alias": "Franta12",
+      "developer_response": null
+    },
+    {
+      "id": "972188109311774",
+      "score": 4,
+      "review_title": "Currently stuck in boot loop with dunes.",
+      "review_description": "hopefully i can edit this in the future because i do love this app. currently though i've been trying for 30 minutes to get it to load. when it works it's great. i hope that paramount plus will work in the future. also needs to be able to load from usb or local network.",
+      "date": 1769659732,
+      "review_helpful_count": 2,
+      "author_display_name": "Frostyfootwear",
+      "author_alias": "Frostyfootwear",
+      "developer_response": {
+        "body": "Hey there. We need some more info to help with your issue. Can you talk to us in our support and feedback Discord? https://discord.fluid.so",
+        "date": 1769724950
+      }
+    },
+    {
+      "id": "862765473594698",
+      "score": 5,
+      "review_title": "Really Great So Far!",
+      "review_description": "I can confirm that this works with Hulu, Amazon Prime and Paramount+.  I have tested these three with someone else joining my room.  The Xbox app works for using remote play connecting to my Xbox, but I have not yet had anyone join to see if sharing works okay.  There is also a section in settings (Skybox), where you can create AI generated backgrounds that can be viewed from the windows in certain rooms. In app it says this feature is temporarily free (looks like 1 credit will be required in the future).  App is sometimes slow while navigating (may be my own internet speed??), but, all in all, quite happy with it so far. I would like to see some more choices for rooms to be available, maybe even as add-on stand-alone purchases.  I am never interested in subscription models (I paid the one-time app price), so I am unable to unlock extras at this time.  I think the \"flat fee\" is fair, considering all I wanted was the Smart TV/sharing feature.  This purchase was very worth it to me!\n\nUPDATE:  Thank you to the developer for making me aware that I can purchase additional environments.  I used the app for a couple more hours today with Paramount+.  Works very well.  I have already told at least five other people about this app.  It's such a fun thing to be able to share a movie with someone who is not in the same home.  Even the voice chat is smooth.  Very happy.",
+      "date": 1765737868,
+      "review_helpful_count": 13,
+      "author_display_name": "Tartsee",
+      "author_alias": "Tartsee",
+      "developer_response": {
+        "body": "Hey, sorry if it’s not obvious but you can purchase the environments as one-time purchases by clicking on them.",
+        "date": 1765685267
+      }
+    },
+    {
+      "id": "2941781906213448",
+      "score": 5,
+      "review_title": "Excited for its future (updated)",
+      "review_description": "Updated Feb 2026: Fluid has improved so much. It's gone from an app for floating screens to what feels like a potential successor to the Oculus Rooms, especially with screen sharing. You can comfortably use it without a physical keyboard now, too. Excited to see how Fluid continues to grow.\n\n\nNovember 2023: Fluid is a young app with tons of potential. It does a lot of things right despite being in early access/ active development, and their\nteam constantly listens to feedback and bug reports from users. It's best used with external controls like a keyboard, since virtual\nnavigation can still be spotty, but having a virtual option is nice to have in a pinch. The standalone Xbox Cloud Gaming support is a huge plus too. \n\nSetting up your windows, etc, the way you like them can take a few minutes when first using the app, since handtracking and other\ncontrols (like changing the environment) can still cause issues. But once your workspace is set up, the experience is quite smooth.\n\nIt's not perfect (yet?), but I still think it warrants 5 stars especially when you take into account the potential it has for future enhancements.",
+      "date": 1770356437,
+      "review_helpful_count": 1,
+      "author_display_name": "RZIVAL",
+      "author_alias": "RZIVAL",
+      "developer_response": null
+    },
+    {
+      "id": "4247650098781071",
+      "score": 5,
+      "review_title": "Great app",
+      "review_description": "Loving the app so far.  I just wish there was a native Netflix app to stream videos, other wise it’s great to watch content.",
+      "date": 1773019059,
+      "review_helpful_count": 0,
+      "author_display_name": "timnotjim123456789",
+      "author_alias": "timnotjim123456789",
+      "developer_response": null
+    },
+    {
+      "id": "943513425514664",
+      "score": 5,
+      "review_title": "The Perfect Multi-Tool App",
+      "review_description": "I been using using Fluid since December 2025, I can browse the web and do my work, listen to lo-fi music on Spotify, play games with GeForce Now or Xbox cloud gaming, and I can do it all without all the clutter of a PC, because this app turn your VR headset in a PC, so this is perfect for people who want to get into VR and work like a normal PC.",
+      "date": 1769820575,
+      "review_helpful_count": 1,
+      "author_display_name": "Sonic321master",
+      "author_alias": "Sonic321master",
+      "developer_response": null
+    },
+    {
+      "id": "969299812931482",
+      "score": 1,
+      "review_title": "waste of money",
+      "review_description": "this app has better video quality but it is impossible to use. the keyboard gets stuck all the time in places you can’t reach. there is no buttons for the @ symbol to put in your email to sign into apps (you can hit shift and the @ will come up and a few others but it’s a pain). i use it for hbo max\nfor the quality. i use the app big screen becuase it’s 100x better , the only issue is the quality of the video on big screen isn’t the best compared to this app. that’s why im giving it 1 star, it would be 0. the environments are trash. also you can hide your hands. if you try and hide them , your hand symbols will glitch out and start waving your hands around everywhere which makes it impossible to focus on why your watching. easy fix by laying your hands in front of you but the hands being so bright and glowing it’s so distracting i can’t even focus on my movie. really works best if you have a PC. unfortunately i don’t have that. there are a million other things i can cbut i think this says enough. if you don’t have hbo max or other streaming services that aren’t offered on big screen app or what already is set up with the quest itself , you’ll be wasting your money. it’s extremely difficult to watch something. by time you figure it out, your headset is about to die. just a bunch fiddling around. i’ll change to 5 stars if the devs make the controls easier for people without a PC. and if the devs make more free environments . or even DLC environments that actually look good and are comfy vibes. i was extremely disappointed becuase ive heard that this was better than big screen and its not. only the quality of the video and its not enough for me to want to switch to fluid fully.i hope the devs see this and can make some future updates to make it worth the $20 i spent . i’ll even pay more if yall have a DLC update that makes it more “fluid” no pun intended… lol. id say this is more worth 4.99usd vs 19.99. by the other reviews i can \nsee i’m not the only one who feels this way",
+      "date": 1769631119,
+      "review_helpful_count": 1,
+      "author_display_name": "killsadgirls",
+      "author_alias": "killsadgirls",
+      "developer_response": {
+        "body": "Hey there, Thanks for giving us feedback. We are working on improving how keyboard behaves. \n\nThere is an @ button. You need to use the shift key.",
+        "date": 1769725034
+      }
+    },
+    {
+      "id": "1194495989336783",
+      "score": 3,
+      "review_title": "Keyboard",
+      "review_description": "Why is the keyboard a pain to use? Trying to sign into my logins is a nightmare because the keyboard always disappears goes in the background behind the screen etc. It’s so frustrating. I have to restart the app. ￼ can we get an update with a fix? ￼",
+      "date": 1769568692,
+      "review_helpful_count": 1,
+      "author_display_name": "Crenshaw54",
+      "author_alias": "Crenshaw54",
+      "developer_response": null
+    },
+    {
+      "id": "875983402263956",
+      "score": 3,
+      "review_title": "A lot of promise",
+      "review_description": "This app could be the thing i have been looking for, apart from it crashes far to often, even when i have only a few windows open.\n\nSmart TV keeps reseting preffered apps and constantly logs you out of them, also won't play netflix or apple tv.\n\nIt doesnt seem to do anything different to what i have tried just using basic meta apps.",
+      "date": 1762614162,
+      "review_helpful_count": 25,
+      "author_display_name": "Jo.lo",
+      "author_alias": "Jo.lo",
+      "developer_response": {
+        "body": "Hi there! After quite a bit of detective work, we tracked down the crashing to a bug in one of Unity's VR packages. We have patched it in the latest version (currently on Beta but releasing to main release channel on Wednesday). \n\nThanks for your patience while we resolved this awful issue.\n\nAs for the resetting, please make sure you have storage permission enabled. Otherwise our app can't save any of your settings.",
+        "date": 1765229701
+      }
+    },
+    {
+      "id": "896411143560273",
+      "score": 1,
+      "review_title": "Never worked",
+      "review_description": "Netflix, hulu and youtube all have issues they always did. I installed this again after a long while and youtube would not play. Whats the point? Its always buggy",
+      "date": 1767571919,
+      "review_helpful_count": 5,
+      "author_display_name": "nuttsonyafaze",
+      "author_alias": "nuttsonyafaze",
+      "developer_response": null
+    },
+    {
+      "id": "1414774910185191",
+      "score": 5,
+      "review_title": "shows and gaming with my friends",
+      "review_description": "The unlocks are crazy for this app. I have friends in different parts of the country and now we can all chill and watch shows together and play games if we want in the same space. Pretty immersive. Perfect for low k chill hang sessions",
+      "date": 1769840302,
+      "review_helpful_count": 1,
+      "author_display_name": "juicysounds",
+      "author_alias": "juicysounds",
+      "developer_response": null
+    },
+    {
+      "id": "945020592021044",
+      "score": 3,
+      "review_title": "Problems playing local files",
+      "review_description": "I don't want to rate this badly but I'm hoping that the Devs will help me with my problem. \nI have a few movie files saved on my headset none of them play the sound ok. 3 of the 4 plays the music but with no dialogue and the other movie does play dialogue but out of sync. These movies work perfectly fine on other movie apps but I want fluid to be able to watch movies with my friend. I paid for the app.",
+      "date": 1765589437,
+      "review_helpful_count": 3,
+      "author_display_name": "Mikeyboy1983",
+      "author_alias": "Mikeyboy1983",
+      "developer_response": {
+        "body": "Hey there, we have fixed this bug. Please let us know if it remains an issue for you.",
+        "date": 1769725214
+      }
+    },
+    {
+      "id": "1200752608817039",
+      "score": 5,
+      "review_title": "Devs loving Grace",
+      "review_description": "Take my money and pls 🙏 take the app store top selling charts cuz this app is a work of love.",
+      "date": 1766606918,
+      "review_helpful_count": 5,
+      "author_display_name": "OpulentPrime",
+      "author_alias": "OpulentPrime",
+      "developer_response": null
+    },
+    {
+      "id": "923398307525332",
+      "score": 3,
+      "review_title": "I can't open local files",
+      "review_description": "I have an eternal message \"loading\" videos recorded on Meta Quest do not work",
+      "date": 1767700675,
+      "review_helpful_count": 3,
+      "author_display_name": "MrSheepX",
+      "author_alias": "MrSheepX",
+      "developer_response": null
+    },
+    {
+      "id": "919428400614613",
+      "score": 5,
+      "review_title": "Excellent app",
+      "review_description": "Only good VR-based browser on Quest and has a fantastic dev team behind it.",
+      "date": 1769911569,
+      "review_helpful_count": 1,
+      "author_display_name": "zeroxoneafour",
+      "author_alias": "zeroxoneafour",
+      "developer_response": null
+    },
+    {
+      "id": "898491963354201",
+      "score": 2,
+      "review_title": "Buggy",
+      "review_description": "It's buggy. My main issue is when I point and click at buttons it does not perform the action. Which leaves me to wonder why I'm using it.  I just downloaded it so unsure if this is something with a new update or ongoing issue.",
+      "date": 1766944016,
+      "review_helpful_count": 1,
+      "author_display_name": "Pansevad",
+      "author_alias": "Pansevad",
+      "developer_response": {
+        "body": "Sounds like your cursor may be moving too much making it thing you're dragging instead of clicking. We'll work on our code for filtering out small hand movements.",
+        "date": 1769725180
+      }
+    },
+    {
+      "id": "827070777161459",
+      "score": 1,
+      "review_title": "Please optimize",
+      "review_description": "Update (latest): it's been months now and it still crashes, why haven't we fixed this, I've since bought a laptop and moved to immersed, less portable solution but reliable at least, I think fluid has alot of potential and I mean this but will you guys please cut out all of the features, you're working with headsets that have limited resources we want reliability more than features because what good is all the features if the app keeps crashing, work on optimization and cutting.\n\nUpdate: It seems the team is working on a way to fix some software bug on certain v77.0 builds but I trust they'll fix it.\n\nWell the app kept crashing. I found out it wasn't the developers fault and it was Meta. The issue should be fixed in 1-2 days.\n\nI reached out and got assistance and was met with a timely response which is appreciated.",
+      "date": 1762663161,
+      "review_helpful_count": 5,
+      "author_display_name": "Spikemissile",
+      "author_alias": "Spikemissile",
+      "developer_response": {
+        "body": "Hi there! After quite a bit of detective work, we tracked down the crashing to a bug in one of Unity's VR packages. We have patched it in the latest version (currently on Beta but releasing to main release channel on Wednesday). \n\nThanks for your patience while we resolved this awful issue.",
+        "date": 1765229663
+      }
+    },
+    {
+      "id": "887092107811088",
+      "score": 5,
+      "review_title": "Fluid VR",
+      "review_description": "Excellent.\n\nWith Fluid, I can see the movies I got on YouTube in a bigger screen in pass-through. It's like getting a new 105\" HDTV for $10. I couldn't see the movies I got on YouTube in the Skybox pass-through. But the Skybox screen is more crisp and high definition than the one on Fluid VR. Which looks good enough. \nSkybox, much larger screen option and crisp definition although the crispness decreases slightly as the screen size increases. \nFluid VR. The screen only raises to a maximum size but is a good satisfying maximum size, bigger than the meta quest default browser screen. \nFluid VR, DLCs\nGrand Theatre - opulent over the top grand theatre and for just $7. It includes 2 bars that sell liquor and fish tanks and three balcony areas. How over the top is that? \nNook - a supremely beautiful bourgeois upper class set up. I felt like I was suddenly moved into a really really nice rich room. Price, $11. All rooms have some kind of price. If you have the money, pay it and enjoy an uncommon level of luxury. The Grand theatre is opulent while the Nook is luxurious. There is a difference. \nDefault home theatre level - Upper middle class set up. Intensely satisfying. Unlike with other environments, this is the only virtual environment where you can dim the lights. Grand Theatre, Nook, lights are set and undimmable.",
+      "date": 1761286754,
+      "review_helpful_count": 8,
+      "author_display_name": "nautilus.657413",
+      "author_alias": "nautilus.657413",
+      "developer_response": null
+    },
+    {
+      "id": "1031003210089185",
+      "score": 1,
+      "review_title": "This app sucks",
+      "review_description": "Awful",
+      "date": 1769652386,
+      "review_helpful_count": 1,
+      "author_display_name": "Paramedicwannabe",
+      "author_alias": "Paramedicwannabe",
+      "developer_response": null
+    },
+    {
+      "id": "725246297199618",
+      "score": 1,
+      "review_title": "Terrible",
+      "review_description": "No streaming for netflix and they ask payment for a different room and pressig the full screen button turns the whole screen into pulsating whie light,and to think i used some credit to purchase this, and if you go to the discord help page the same,issues are raised , i should have looked at all the reviews",
+      "date": 1760899729,
+      "review_helpful_count": 8,
+      "author_display_name": "jeffisboss55",
+      "author_alias": "jeffisboss55",
+      "developer_response": {
+        "body": "Hey there, we fixed the white flashing in the latest release that is currently available on beta release channel and will go to main RC on wednesday.",
+        "date": 1765229758
+      }
+    },
+    {
+      "id": "793672323819457",
+      "score": 5,
+      "review_title": "Best browser / virtual screens app yet",
+      "review_description": "Before I discovered Fluid, I tried apps like immersed, vSpatial, bigscreen and others and none gave me the browsing, streaming and multiple screens app I wanted.  I'd come to the conclusion that my Quest 3 was just going to be a VR game console and not a tool for me.  Fluid is now shaping up to be most of the tool set I was hoping for when I origanally bought my Quest 3.",
+      "date": 1755360302,
+      "review_helpful_count": 45,
+      "author_display_name": "TopologicalQubit",
+      "author_alias": "TopologicalQubit",
+      "developer_response": null
+    },
+    {
+      "id": "782088884992432",
+      "score": 4,
+      "review_title": "Just WoW",
+      "review_description": "I've been using moonVR for past 5 or 6 months,  tried Spatial TV, bigscreen, 4x, and Skybox. But this beats them all. The light spill  around the edges feels so realistic, so immersive. On top of that, I can sit anywhere in the environment, no pre-defined seating place.\nThings I wish to see:\n1) More realistic environment\n2) Multiplayer in smart tv mode.\n3) HDR option for running HDR content.\n\nA few BUGS:\n1) When streaming 4k content from YouTube, for first couple of seconds video stutters a lot.\n2) While streaming a 5Gb or more size file, and then changing the position of screen, the app freezes and have to be closed\nThanks guys, i appreciate all your efforts.",
+      "date": 1758360413,
+      "review_helpful_count": 10,
+      "author_display_name": "Wickked",
+      "author_alias": "Wickked",
+      "developer_response": null
+    },
+    {
+      "id": "774251449107874",
+      "score": 1,
+      "review_title": "Terrible/useless password management",
+      "review_description": "I use 1Password for password management. Even though I have logged into 1Password on Fluid browser, and I copy my Gmail password, when I try to paste it into Gmail to log in, pasting doesn’t work. What am I going to do in there, browse the internet while logged out of literally everything? Painstakingly type in my randomly generated passwords for everything? No thanks, that doesn’t sound like a fun evening or weekend to me. Wish I hadn’t bought this app.",
+      "date": 1756746932,
+      "review_helpful_count": 10,
+      "author_display_name": "coldminotaur494",
+      "author_alias": "coldminotaur494",
+      "developer_response": {
+        "body": "Hey there. really sorry your paste wasn't working. Can you give the latest version a try?",
+        "date": 1765229884
+      }
+    },
+    {
+      "id": "25603027882619078",
+      "score": 5,
+      "review_title": "Easily one of my favs!",
+      "review_description": "What a fantastic app! Not only can you watch your favorite media (now even better with the Smart TV feature) but you can browse the web/multitask while doing so! Truly makes the Quest 3 a more functional product. I also love the various spaces that are available! Especially the living space style ones. I also appreciate all the different viewing spots and the fact that you can move about the space freely. Skybox generation is fun and adds a bit of customization. I’d love to see even more environments added though, even if it’s at a cost! Being able to control lighting, ambiance, etc would be great too- maybe even adding in some animations for the skyboxes/objects in the room. My only complaint with the app so far is that some integrations (like Tubi) don’t load properly, but I found the workaround is to link to the website yourself- no big deal. Beyond that though, I couldn’t be happier with this app, and I’m so excited to see where it goes from here!",
+      "date": 1758753625,
+      "review_helpful_count": 3,
+      "author_display_name": "pockettissues",
+      "author_alias": "pockettissues",
+      "developer_response": null
+    },
+    {
+      "id": "761005806830548",
+      "score": 5,
+      "review_title": "A great alternative for remote working",
+      "review_description": "I purchased the remote working feature and I really dig it, the environments feel high quality and cozy, this is very important for me. I’m really looking forward to seeing how it will develop even further.\n\nOnly trouble I had was finding how to switch from Google remote desktop to the Fluid remote desktop. I found the setting in Settings but spent a good 5-8 minutes wondering how this would be done. This could be perhaps improved in terms of instructions.\n\nThe keyboard should also be improved, I have trouble pointing at the right keys and highlighting them, the indicator from the controllers is also short and it’s difficult to see which key you are trying to point.\n\nAll in all, while it takes time to get used to, it looks great and I have trust in the developers that they will improve the usability!",
+      "date": 1756478452,
+      "review_helpful_count": 9,
+      "author_display_name": "watson_wat_son",
+      "author_alias": "watson_wat_son",
+      "developer_response": null
+    },
+    {
+      "id": "868889849636977",
+      "score": 5,
+      "review_title": "Love you guys",
+      "review_description": "This has helped me with multitasking and some work SIGNIFICANTLY (did i spell that right?)\nI LOVE YOU GUYS",
+      "date": 1761464533,
+      "review_helpful_count": 2,
+      "author_display_name": "Exoko",
+      "author_alias": "Exoko",
+      "developer_response": {
+        "body": "Thanks so much! We love you too",
+        "date": 1765229716
+      }
+    },
+    {
+      "id": "821577447708769",
+      "score": 5,
+      "review_title": "Fluid is the app what I was looking for.",
+      "review_description": "The app is seamless and such awesome place to hangout and watch movie with my friends.. love it !! 😊 Thank you devs for such awesome experience!!",
+      "date": 1760564658,
+      "review_helpful_count": 2,
+      "author_display_name": "itchy_cranium",
+      "author_alias": "itchy_cranium",
+      "developer_response": null
+    },
+    {
+      "id": "1042662468923049",
+      "score": 5,
+      "review_title": "3D Movies look great in big theater",
+      "review_description": "I have it on multiple headsets and love that you can share a 3D movie with family and friends-2 thumbs up",
+      "date": 1769719127,
+      "review_helpful_count": 2,
+      "author_display_name": "Mark17340",
+      "author_alias": "Mark17340",
+      "developer_response": null
+    },
+    {
+      "id": "860652827129991",
+      "score": 1,
+      "review_title": "Overwhelmed by bad UI experience",
+      "review_description": "I would like a refund in order to remove this review.",
+      "date": 1763282736,
+      "review_helpful_count": 0,
+      "author_display_name": "theworstskylar",
+      "author_alias": "theworstskylar",
+      "developer_response": {
+        "body": "You can request a refund through Meta at any time.",
+        "date": 1765229522
+      }
+    },
+    {
+      "id": "849108494943872",
+      "score": 4,
+      "review_title": "good",
+      "review_description": "Would've been great if it worked without needing tracking enabled similar to other apps, so I can watch movies properly in the dark without the lights being on/without tracking enabled.",
+      "date": 1759103158,
+      "review_helpful_count": 3,
+      "author_display_name": "Ozmosis",
+      "author_alias": "Ozmosis",
+      "developer_response": null
+    },
+    {
+      "id": "4309517132626192",
+      "score": 5,
+      "review_title": "Well worth it",
+      "review_description": "Other apps I have tried are very limited on what you can stream. The environments are cozy and when I don't want to be in vr I can go to MR and enjoy my content.",
+      "date": 1758342372,
+      "review_helpful_count": 6,
+      "author_display_name": "Scooter.247",
+      "author_alias": "Scooter.247",
+      "developer_response": null
+    },
+    {
+      "id": "752704391268156",
+      "score": 5,
+      "review_title": "Great for Travel",
+      "review_description": "When I travel abroad, I often turn to my tablet or phone for entertainment, whether it’s during a long train ride or a quiet night in my hotel room. In addition to Netflix, this app keeps me engaged with many of my favorite shows. It makes downtime feel less like wasted time and more like a chance to unwind and enjoy myself, no matter where I am.",
+      "date": 1756966183,
+      "review_helpful_count": 3,
+      "author_display_name": "RichOwlieQuan",
+      "author_alias": "RichOwlieQuan",
+      "developer_response": null
+    },
+    {
+      "id": "792601123456288",
+      "score": 5,
+      "review_title": "Go to app",
+      "review_description": "Before Fluid, I was an avid bigscreen user. Now I have Fluid pinned to my universal menu for quick access. I find that I spend more time in app reading books, listening to music, and watching stuff. Definitely my favirite app for relaxing.",
+      "date": 1757280515,
+      "review_helpful_count": 4,
+      "author_display_name": "MzDiobolik",
+      "author_alias": "MzDiobolik",
+      "developer_response": null
+    },
+    {
+      "id": "786029827935176",
+      "score": 5,
+      "review_title": "Best quest browser",
+      "review_description": "Best browser for quest if you want to watch content in a theater environment. Very excited to see where it goes.",
+      "date": 1760754967,
+      "review_helpful_count": 2,
+      "author_display_name": "amel5200",
+      "author_alias": "amel5200",
+      "developer_response": null
+    },
+    {
+      "id": "812037185331276",
+      "score": 5,
+      "review_title": "Finally",
+      "review_description": "Great app!",
+      "date": 1761387520,
+      "review_helpful_count": 2,
+      "author_display_name": "Taylorgame21",
+      "author_alias": "Taylorgame21",
+      "developer_response": null
+    },
+    {
+      "id": "792180730652160",
+      "score": 5,
+      "review_title": "Nice and favourite",
+      "review_description": "I really like the app, and I believe it has great potential to develop even further. Cheers, and keep it up, team.",
+      "date": 1759056567,
+      "review_helpful_count": 2,
+      "author_display_name": "pstz9",
+      "author_alias": "pstz9",
+      "developer_response": null
+    },
+    {
+      "id": "3056603087831112",
+      "score": 1,
+      "review_title": "God awful. Wish I hadn't have bothered.",
+      "review_description": "I thought this app looked pretty good on a ad I saw so paid the 7.99 to purchase it. The OS is so glitchy and so arkward to use, the screen is too far away and the keyboard seems to have a life of its own. I struggled not only to see the boxes to log in but after multiple times trying with the correct sign in details on multiple platforms I was only able to sign in to one, which then wouldn't work anyways.  \nDon't waste your money and if I knew how I would be asking for a refund too.",
+      "date": 1749771615,
+      "review_helpful_count": 58,
+      "author_display_name": "Spandex1976",
+      "author_alias": "Spandex1976",
+      "developer_response": {
+        "body": "Hey there, what site was giving you this issue? What you experiencing is not normal at all and we have many thousands of users who don't have this issue. It's likely something we can fix via boundary setup or something related. We’re happy to help you in our discord. https://discord.fluid.so\n\nIf you’d like to refund too, that’s totally fine. We can’t do it for you, but you can find instructions here. https://www.meta.com/help/quest/828412189021014/",
+        "date": 1750104808
+      }
+    },
+    {
+      "id": "814631477764082",
+      "score": 5,
+      "review_title": "Perfect environment for playing Xbox.",
+      "review_description": "I love that you can cloud stream Xbox or even remote play  i live the tools you guys bring very great app for staying productive 👍",
+      "date": 1757841825,
+      "review_helpful_count": 3,
+      "author_display_name": "CyndyrNekoderg",
+      "author_alias": "CyndyrNekoderg",
+      "developer_response": null
+    },
+    {
+      "id": "689930097538102",
+      "score": 5,
+      "review_title": "Minor Bugs",
+      "review_description": "So I got this app to play Xbox. The app wouldn’t Let me connect my controller. A bit frustrating and I originally left a 1 star review but the customer service and quick response of this team if freaking mind blowing. They are working out issues and fixing bugs as they arise! 5 stars from me. Never had a developer be this involved with their product! The app works great other than the minor bugs with the Xbox app but I’m sure that will be fixed soon. Honestly it’s worth the money.",
+      "date": 1751330117,
+      "review_helpful_count": 21,
+      "author_display_name": "Th3Assassin07",
+      "author_alias": "Th3Assassin07",
+      "developer_response": {
+        "body": "Thanks so much! Keep the feedback coming in our discord. https://discord.fluid.so",
+        "date": 1753202925
+      }
+    },
+    {
+      "id": "741763269015779",
+      "score": 3,
+      "review_title": "Netflix? Foxtel?",
+      "review_description": "Why, in 2025, is there NO ACCESS to Netflix or Foxtel? Seriously, why is this so difficult?? An otherwise great app and concept but these exclusions are a massive drawback and unfortunately, is just another one of those apps where you can only access some things making it pretty useless more often than not. Disappointed and left wanting more.",
+      "date": 1753340384,
+      "review_helpful_count": 5,
+      "author_display_name": "Ryan_F30",
+      "author_alias": "Ryan_F30",
+      "developer_response": {
+        "body": "We would love to support those sites, but they block all browsers with fingerprints other than Google Chrome. We're trying to get in touch with them but they haven't been responding to us. You may want to reach out to them to encourage them to actually let us stream their content.",
+        "date": 1754453334
+      }
+    },
+    {
+      "id": "755721050953921",
+      "score": 3,
+      "review_title": "Purchases seem to disappear but meh",
+      "review_description": "I had the lofi environment for a while even shows up in my purchase history thru meta. But I have no way to access it in app. Other than that app does what it says 3/5 stars\n\nEdit : I'm guessing thing that says environment is also part of the \"dock\" ( there is no option I see named dock) also there is no way for me to scroll horizontally and I do see the other purchase of the \"nook\" just not the lofi. Thanks for the response though unfortunately it does not help me.",
+      "date": 1758089597,
+      "review_helpful_count": 2,
+      "author_display_name": "RayIsMyHero",
+      "author_alias": "RayIsMyHero",
+      "developer_response": {
+        "body": "Lofi is accessed via the Dock. You have to scroll in the list horizontally.",
+        "date": 1755053619
+      }
+    },
+    {
+      "id": "723407183638236",
+      "score": 5,
+      "review_title": "Fluid",
+      "review_description": "Best App for TV, on demand Stuff and movies around Europe and US. Indy stuff plus new Hollywood Productions.\n\nEnvironment looks awesome. Immersive view and spaces that looks lovely.\n\nLayout, Graphics and Settings on a high level.\n\nPassthrough between Headset and your home environment fluent. It is possible to use the Passthrough option to set up your home in a 50 percent Passthrough with view in your own reality.\n\nJust one bug comes with my fluid session.\nThe screen size is not possible to change. Every channel use a different size.\n\nFix the screen size.",
+      "date": 1752493270,
+      "review_helpful_count": 6,
+      "author_display_name": "65rbi905",
+      "author_alias": "65rbi905",
+      "developer_response": {
+        "body": "Thanks so much for the suggestions. If you want to discuss more, feel free to join our community discord where the devs hang out with our users. \n\nhttps://discord.fluid.so",
+        "date": 1752518743
+      }
+    },
+    {
+      "id": "766399439891996",
+      "score": 5,
+      "review_title": "Best app ever",
+      "review_description": "I will give this app 5 stars I love the environment it lets me watch all ma favorite series from all my services it's just amazing!",
+      "date": 1756619709,
+      "review_helpful_count": 2,
+      "author_display_name": "ArcherRojas",
+      "author_alias": "ArcherRojas",
+      "developer_response": null
+    },
+    {
+      "id": "728469867015403",
+      "score": 5,
+      "review_title": "Great media experience",
+      "review_description": "Always been fond of fluid in the past but I did fade away from using it. However with the latest smart tv overhaul it’s now my go to way of consuming media on the quest. The environment looks great at the light bleed feature really extends the screen. \n\nI’m having a great time playing Xbox cloud gaming this way. The colours seem less washed out than the official app too. \n\nI do find navigating a little bit fiddly at times when going back and forth between the quest controllers and an Xbox controller but I’m hoping that’ll get addressed in an upcoming update. \n\nRecommend for anyone who prioritises films and cloud gaming on their headset.",
+      "date": 1752158693,
+      "review_helpful_count": 4,
+      "author_display_name": "Hudson_RL",
+      "author_alias": "Hudson_RL",
+      "developer_response": {
+        "body": "Hey Hudson! Thanks for your feedback. Can you reach out to us in our discord so we can follow up with you about the navigation stuff you mentioned? Unable to send you a DM on Horizon app for some reason. We'd love to hear how we can improve it. \n\nhttps://discord.fluid.so",
+        "date": 1752519544
+      }
+    },
+    {
+      "id": "719961431204091",
+      "score": 5,
+      "review_title": "I Love the App but",
+      "review_description": "I love the way that you set the hand tracking and that it can be just use the app without worry of messing up the brower but if you could get the \"Meta Quest HDMI Link\" app to work inside that would allow me to be using you app all the time. I know that it my be impossible so do not worry it would just be the only thing I need to full time use the app. I will be using it annyway just not as much as I would like to. Thank you.",
+      "date": 1754328987,
+      "review_helpful_count": 1,
+      "author_display_name": "Russells2442",
+      "author_alias": "Russells2442",
+      "developer_response": null
+    },
+    {
+      "id": "685360004661365",
+      "score": 4,
+      "review_title": "Not what I had before but much better.",
+      "review_description": "All is working fine. Thank you.\nI uninstalled Fluid and reinstalled it, and now everything is working correctly.\n\nIt is now much more stable than when I last tried to use it.\nWell done on the good work.\n\nI've had Fluid installed for a long time. I hadn't used my Quest 3 headset in a while, and I tried Fluid again today, only to find that all I could get was a cinema.\nI couldn't find a way to get rid of this cinema screen.\nPreviously, I used Fluid to manage my business work across three screens.\nIs that all it is now, a cinema?\nYouTube videos show a completely different app than the one I'm seeing with Fluid.",
+      "date": 1750878195,
+      "review_helpful_count": 7,
+      "author_display_name": "Craftyfox1949",
+      "author_alias": "Craftyfox1949",
+      "developer_response": {
+        "body": "The mode you had before is still incluided. We just added a new mode for folks who watch content in Fluid. Click “Multitasking Mode” button at bottom of left panel to switch to what you knew before.",
+        "date": 1750878213
+      }
+    },
+    {
+      "id": "24923491810573132",
+      "score": 3,
+      "review_title": "Its ok but needs a lot of work",
+      "review_description": "Its ok used it a little bit but its really buggy and needs more work on definitely but I do like the feature but hope it improves so I can use it all the time but for now... its ok using it for one thing to do but not multitasking yet but i can't wait until it gets better.",
+      "date": 1753410038,
+      "review_helpful_count": 2,
+      "author_display_name": "Peter1997",
+      "author_alias": "Peter1997",
+      "developer_response": null
+    },
+    {
+      "id": "1050939533604850",
+      "score": 1,
+      "review_title": "Worst experience",
+      "review_description": "I have had the worst experience with this one. You think you're getting an app to connect you to your computer, but that's not it. After you pay the initial app price that would cover just a platform to access other apps, then if you want to purchase the actual Link you have to pay more, which is a bit of a trickery. Not to mention its not launching other apps, more like Web browser shortcuts to stuff like YouTube,  social platforms, etc. A collection of your favourites if you will.\n\nSecond, got the Link on my computer but every bloody time I wanted to use it, on VR it would open a list of instructions about how to install their Link which was already installed. On the Fluid app on my computer it kept toggling between app not connected, app doesn't control your laptop. \n\nAfter I gave up trying and wanted to contact customer support, in VR it opens a big 404 page not found error and on my computer it opens a pop-up that says we need to check if you're not a robot that keeps spinning forever and never displays anything else but text and the loading icon.\n\nNot to mention it's literally frozen my computer as well for ages.\n\nAnd before you say it, I did add it to allowed apps to my firewall and restarted both my headset and my computer after installation.\n\nReally wanted this to work, coz I tried other apps which were quite buggy, but in the end at least they worked. Was willing to pay the extra as well, but for now nothing worked for me so will leave it at 1 star until sorted, if ever.",
+      "date": 1746089386,
+      "review_helpful_count": 86,
+      "author_display_name": "MQQN",
+      "author_alias": "MQQN",
+      "developer_response": {
+        "body": "Hey there. Sorry to hear you had a bad experience! \n\nIt sounds like you’ve been activating the keyboard and mouse passthrough feature. Your computer is not locking up, it’s passing the input to your headset. CTRL + ESC toggles it off. Whenever it’s on, both the desktop app UI and the in-headset UI display that it is active and include the shortcut to toggle it. \n\nWe did have a bug in our customer support app, which has since been fixed. We recently updated Fluid Link Beta (it is not out of beta yet) to improve in many of these areas.\n\nIf you ever need help, you can always reach us directly in our Discord. https://discord.fluid.so",
+        "date": 1750104843
+      }
+    },
+    {
+      "id": "713545105171427",
+      "score": 3,
+      "review_title": "Smart TV doesn't save your passwords",
+      "review_description": "Edited: I changed my review to 3 stars. Giving permission to storage did work, but I had to go do it manually. When I first installed the app I could see something asking for my permission but it glitched away before I could do anything with it and was not in my general field of vision. The app does store my password now but the crazy flashing glitch is still around. I will adjust my review again once the Smart tv is more stable.  \n\nOriginal review: I really want to like this app because it looks absolutely beautiful and it's exactly what I want however the app won't save any of my passwords so I have to sign in to all of my streaming apps every time I start it up and it is not worth all the trouble. There is also a horrible bug where if you hit the full screen button while streaming the whole screen goes white and strobes. I don't have problems with flashing lights but it almost gave me a seizure. \n\nGood potential, but until these things are fixed I can't even use it.",
+      "date": 1751151466,
+      "review_helpful_count": 4,
+      "author_display_name": "RABiDWheelchair",
+      "author_alias": "RABiDWheelchair",
+      "developer_response": null
+    },
+    {
+      "id": "699570413245874",
+      "score": 5,
+      "review_title": "Great Tv app",
+      "review_description": "’ve been searching for a native Quest app that feels like using a smart TV, and Fluid has been the best option so far. The streaming experience is smooth, and the interface is clean and intuitive.\n\nThat said, I’d love to see a few improvements: more environment options to choose from, a simpler way to resize the screen, and ideally the ability to add extensions especially for playback speed control.\n\nStill, this is hands down one of the best TV apps available on the Meta Horizon Store. Highly recommended if you’re looking for a solid virtual media setup!",
+      "date": 1753627531,
+      "review_helpful_count": 1,
+      "author_display_name": "Wolf2191",
+      "author_alias": "Wolf2191",
+      "developer_response": null
+    },
+    {
+      "id": "759332950159300",
+      "score": 5,
+      "review_title": "Fantastic",
+      "review_description": "Truly keeps it's word.This  app is fluid to use.\nWonderful environments to work and play in.\nBigscreen Vr may be in trouble.",
+      "date": 1756344674,
+      "review_helpful_count": 0,
+      "author_display_name": "keinhein8",
+      "author_alias": "keinhein8",
+      "developer_response": null
+    },
+    {
+      "id": "1528444941649343",
+      "score": 5,
+      "review_title": "Fluid",
+      "review_description": "This app is well done the adjustments that have been made have made it that much better.  Keep doing what you're doing can't wait for what you come up with next.",
+      "date": 1755497824,
+      "review_helpful_count": 1,
+      "author_display_name": "gudaman19",
+      "author_alias": "gudaman19",
+      "developer_response": null
+    },
+    {
+      "id": "664941840038386",
+      "score": 5,
+      "review_title": "One of the best programs.",
+      "review_description": "After I deleted and reinstalled the program, no more crashes, and it is as smooth as it was before. I like those new features, like remote desktops to connect to my computer. I am still exploring all the new features. Keep up the good job and post more videos on YouTube.",
+      "date": 1749136013,
+      "review_helpful_count": 10,
+      "author_display_name": "Racky",
+      "author_alias": "Racky",
+      "developer_response": {
+        "body": "Thanks so much. We’ve been getting reports of crashes and have narrowed down the source of many of them to something in certain versions of Horizon OS v77. Restarting headset a few times seems to often clear those issues up.",
+        "date": 1749780926
+      }
+    },
+    {
+      "id": "758570333338179",
+      "score": 5,
+      "review_title": "Really Impressed",
+      "review_description": "So far I have been using fluid some the meta quest  3s Xbox edition came out and really impressed in the quality of the audio and video as well as access to a decent amount of streaming apps. \n\nVideo quality is really good and I really believe it can and will improve even more. Nice choice of video codecs as well. Audio sounds great with and without ear buds.\n\nThe only issue I found so far was switching to full screen on youtube causes a moment where the screen splits in half and the top half is black and the bottom half is white but then plays the video fine.\n\nReally looking forward to seeing how far the devs go. Really Impressed with the early access version.",
+      "date": 1752888734,
+      "review_helpful_count": 0,
+      "author_display_name": "Jrocker23",
+      "author_alias": "Jrocker23",
+      "developer_response": {
+        "body": "Thanks so much for your review! The xbox edition Quest 3S looks really cool. We'll look into the bug you reported. Join our discord if you want to get announcements of new features or report any other feedback. https://discord.fluid.so",
+        "date": 1753203892
+      }
+    },
+    {
+      "id": "725183727340936",
+      "score": 5,
+      "review_title": "Wonderful Smart TV and Spatial computer",
+      "review_description": "The appt is impressive it’s essentially a Smart TV on your Quest, and also a very comfortable web browser. I do hope to see better environments in the future, but the team is really small, and what they’ve built so far is already quite impressive.\nI would like to change the pointer of mouse because this one looks too old",
+      "date": 1752692778,
+      "review_helpful_count": 0,
+      "author_display_name": "AlexAR",
+      "author_alias": "AlexAR",
+      "developer_response": {
+        "body": "Thanks for the suggestions! If you have any more, feel free to reach out to us directly in our discord. https://discord.fluid.so",
+        "date": 1753204105
+      }
+    },
+    {
+      "id": "24389623873962921",
+      "score": 4,
+      "review_title": "Best smartTV in VR",
+      "review_description": "I started using Fluid again when the added SmartTV. My favorite thing to watch is Disney+ and 3D content on Plex. Their environments are also very soothing and pleasant. I hope they. Keep refining this app. Great job.\n\nUpdate July 16: to get to 5: more environments in the SmartTV room, and add Netflix.",
+      "date": 1752637320,
+      "review_helpful_count": 1,
+      "author_display_name": "3STR4NG3D_C0M4",
+      "author_alias": "3STR4NG3D_C0M4",
+      "developer_response": {
+        "body": "Thanks for the suggestions. Netflix is actually an issue on their end. They block most 3rd party browsers. We've been trying to get in touch with them to put ours on their allow list. More environments are coming to Smart TV. :)",
+        "date": 1753205451
+      }
+    },
+    {
+      "id": "1707701143223236",
+      "score": 5,
+      "review_title": "Your app isn’t storing passwords",
+      "review_description": "Every time meta does an update your app crashes. Then I have to delete it, reinstall and enter my passwords all over again. How come your app doesn’t store passwords?￼",
+      "date": 1754479269,
+      "review_helpful_count": 0,
+      "author_display_name": "KaraZorEl57",
+      "author_alias": "KaraZorEl57",
+      "developer_response": {
+        "body": "Hi there! After quite a bit of detective work, we tracked down the crashing to a bug in one of Unity's VR packages combined with Meta's update. We have patched it in the latest version (currently on Beta but releasing to main release channel on Wednesday). \n\nThanks for your patience while we resolved this awful issue.\n\nAs for passwords, make sure storage permissions are turned on.",
+        "date": 1765229998
+      }
+    },
+    {
+      "id": "725715930622997",
+      "score": 3,
+      "review_title": "Need help",
+      "review_description": "Looks like a great app but struggling to connect my macbook air to fluid \n\n- Macbook is connected to quest 3 via bluetooth \n- Both on the same network\n- Fluid link downloaded on my macbook and Quest 3\n- Opens up perfectly on both but app on macbook only say\" fluid is not connected\"  on the top left \n-  Top 2 below are green on the app but bottom one not\n    Authorize Accessibility \n    Authorize Screen Recording\n    In your headset, launch the Fluid Link app from Fluid.     In your headset, launch the Fluid Link app from Fluid\n\nAdvise will be appreciated - I want to use it for work on multiple screens and use my macbook's keyboard",
+      "date": 1752483449,
+      "review_helpful_count": 1,
+      "author_display_name": "GoofyCrab7171",
+      "author_alias": "GoofyCrab7171",
+      "developer_response": {
+        "body": "Hey there, we can help you in our discord: \nhttps://discord.fluid.so\n\nYou will need to switch to make Fluid Link your default screen sharing app, because it's still in beta and has some bugs in some home network configurations.",
+        "date": 1752518821
+      }
+    },
+    {
+      "id": "2785543478321499",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Nice App. Great enviroments.",
+      "date": 1756669295,
+      "review_helpful_count": 1,
+      "author_display_name": "realOculus",
+      "author_alias": "realOculus",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T09:59:58Z"
+}

@@ -1,0 +1,975 @@
+{
+  "app_id": "7856648691073700",
+  "package_name": "com.FourthWallStudios.CoasterMania",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "CoasterMania",
+  "rating_average": 4.0941176470588,
+  "rating_count": 170,
+  "review_count": 109,
+  "reviews": [
+    {
+      "id": "1043847392149278",
+      "score": 3,
+      "review_title": "My coaster got deleted",
+      "review_description": "When I was about done with my coaster that I spend about 1 hour on my start got launched in the air for some reason and when I got a gadget it got launched in the air too I couldn't get it because it got launched out of my room besides that it's vary good game that's why I give it a 3 star",
+      "date": 1774747583,
+      "review_helpful_count": 36,
+      "author_display_name": "Dgilyard16",
+      "author_alias": "Dgilyard16",
+      "developer_response": {
+        "body": "Update: Hi there! Excited to say that the bugs you encountered should be fixed in the latest version 1.3.1.  Give it a shot and let me know what you think!\n\n------\nThanks for the feedback! Sorry for the inconvenience that caused. I’d love to learn more about your bug so we can fix it. \n\nPlease join our discord or reach out to stephen@4thwallbreakers.com so I can resolve your issue 😄",
+        "date": 1776468798
+      }
+    },
+    {
+      "id": "932207079582562",
+      "score": 5,
+      "review_title": "FUN",
+      "review_description": "this game is really fun but I think you should add a way to see your room while riding your coaster cuz then you can build one through your house",
+      "date": 1776964333,
+      "review_helpful_count": 5,
+      "author_display_name": "liam.32",
+      "author_alias": "liam.32",
+      "developer_response": null
+    },
+    {
+      "id": "1050934818109261",
+      "score": 4,
+      "review_title": "Really good game but…",
+      "review_description": "This game is really fun and you will be playing for hours although it’s good I can’t manage to search for specific rollercoasters and it’s really hard to make the track go straight, overall I think the game is worth the cost.",
+      "date": 1777814265,
+      "review_helpful_count": 1,
+      "author_display_name": "SkystarFX",
+      "author_alias": "SkystarFX",
+      "developer_response": null
+    },
+    {
+      "id": "1667186341393048",
+      "score": 5,
+      "review_title": "So much better with the new update",
+      "review_description": "After contacting the developer with some issues, it was quickly addressed in the next day. Now the game works great!",
+      "date": 1774727059,
+      "review_helpful_count": 10,
+      "author_display_name": "MetaWanchaiMiami",
+      "author_alias": "MetaWanchaiMiami",
+      "developer_response": {
+        "body": "Thanks for the kind review! Let me know if you find any new issues 😄 Always happy to fix any problems reported to the discord",
+        "date": 1775402022
+      }
+    },
+    {
+      "id": "1104994976027606",
+      "score": 4,
+      "review_title": "Good game",
+      "review_description": "The his game is super good but when I use to place a track down the track goes crazy making a lot of loops but the best thing is the sandbox it is the thing I play and that when I try to poop up the screen for the tracks it wouldn’t let me seethe screen",
+      "date": 1776869741,
+      "review_helpful_count": 0,
+      "author_display_name": "Sebastian541.2023",
+      "author_alias": "Sebastian541.2023",
+      "developer_response": {
+        "body": "Thanks for the review! I’d love to learn more about your issue so I can fix them in an update. If you are up for helping out, feel free to free to reach out at stephen@4thwallbreakers.com or join our discord at https://discord.gg/qaBgpCE39Y",
+        "date": 1776911032
+      }
+    },
+    {
+      "id": "1156085984245091",
+      "score": 5,
+      "review_title": "Great game but…",
+      "review_description": "Is there a way to move your whole coaster because every time I load into the game my coaster is no where near where it was before is so someone please tell me how🙏",
+      "date": 1778954083,
+      "review_helpful_count": 1,
+      "author_display_name": "BTrules",
+      "author_alias": "BTrules",
+      "developer_response": null
+    },
+    {
+      "id": "1074888069043563",
+      "score": 2,
+      "review_title": "It’s always glitched",
+      "review_description": "It won’t let me build\nAnd it’s always taking to long to load",
+      "date": 1777866480,
+      "review_helpful_count": 0,
+      "author_display_name": "PUGPLAYZ",
+      "author_alias": "PUGPLAYZ",
+      "developer_response": null
+    },
+    {
+      "id": "994575053749645",
+      "score": 2,
+      "review_title": "Waste of money",
+      "review_description": "Game seemed fun but was very laggy and glitched my vr i couldn’t click any buttons and it tried to make a report",
+      "date": 1776907545,
+      "review_helpful_count": 0,
+      "author_display_name": "Pearlandmakai",
+      "author_alias": "Pearlandmakai",
+      "developer_response": {
+        "body": "Hi! Sorry you experienced some issues! I’d love to learn more so I can fix them in an update. If you are up for helping out, feel free to free to reach out at stephen@4thwallbreakers.com or join our discord at https://discord.gg/qaBgpCE39Y",
+        "date": 1776910933
+      }
+    },
+    {
+      "id": "994507157087568",
+      "score": 1,
+      "review_title": "Was not able to refund a very bad game",
+      "review_description": "Looked fun on TikTok and YouTube, but when I downloaded it, it was an as fun as I thought, and my refund got declined \n￼",
+      "date": 1774686362,
+      "review_helpful_count": 2,
+      "author_display_name": "Muddy1010",
+      "author_alias": "Muddy1010",
+      "developer_response": {
+        "body": "Hey, really sorry to hear that, it’s definitely frustrating when something doesn’t meet expectations. Refunds are handled directly by Meta, so unfortunately I don’t have control over that process.\n\nIf you’re open to it, I’d love to hear what didn’t click for you. I’m always working on improving the experience and your feedback would really help.\n\nWe just launched a brand new update that should have fixed a ton of bugs as well as added undo/redo",
+        "date": 1774699872
+      }
+    },
+    {
+      "id": "1220300614501744",
+      "score": 5,
+      "review_title": "Absolutely amazing",
+      "review_description": "This game exceeds my expectations of being more than a simple rollercoaster builder, I bought this game thinking I would play through the campaign and quite frankly get bored and quit the game; except I never did. Coaster Mania has one of, if not the best coaster building simulators in Vr, and for the 15 dollar price tag I would say it’s worth every penny. Roller coaster enthusiasts will love this game. But the best part about this game is the AR mode, it allows you to simulate the rollercoasters as if they were right in the room with you; plus the sandbox mode allows for you to have any rollercoaster model you can think of and make to be right there. Also forgot to mention how perfect the gravity and friction systems for the coasters are in this game. \nAlthough there are some requests I’d like to make:\n1. Allow for there to be multiple train cars except instead your able to choose if you want them to run separately rather than as one train.\n2. Have more campaign levels with more props and machines.\n(Plus a bug):\nThe bug makes it where even if I’ve collected all the special props from the unlockable sections, it will say I didn’t when I open sandbox mode in a new project.\nBut anyways, other than all that, this game is something I would highly recommend if you have any imagination and like rollercoasters.",
+      "date": 1781287786,
+      "review_helpful_count": 0,
+      "author_display_name": "aDartz82",
+      "author_alias": "aDartz82",
+      "developer_response": null
+    },
+    {
+      "id": "1152399291295953",
+      "score": 4,
+      "review_title": "Great potential",
+      "review_description": "This is a really good rollercoaster builder and has a lot of potential, there's a couple of problems I thought of, one problem is with the paraglider if it flies too far even landing on a rail it misses the rail in first person, a suggestion I could make, it would be great to have more prop options like soldiers or things moving around like birds or planes or tanks but overall it's really fun and you can literally make a forever rollercoaster all over your house lol hope to see a good update",
+      "date": 1781348226,
+      "review_helpful_count": 0,
+      "author_display_name": "Damental41",
+      "author_alias": "Damental41",
+      "developer_response": null
+    },
+    {
+      "id": "1141636665702345",
+      "score": 4,
+      "review_title": "Good game but got stuck on a level",
+      "review_description": "The reason why i got stuck on level 8 on world 3 is because when my coaster went through the portal it didn't work even though it was going in the right direction but other than that problem the rest of the game is good but still a little buggy",
+      "date": 1780446783,
+      "review_helpful_count": 0,
+      "author_display_name": "theventman",
+      "author_alias": "theventman",
+      "developer_response": null
+    },
+    {
+      "id": "827601416770664",
+      "score": 5,
+      "review_title": "unexpectedly amazing!!",
+      "review_description": "I bought this game because I was looking for a good roller coaster builder to use to sketch out ideas before making them in no limits 2. This one seemed good but I didn't expect much.\nI was so pleasantly surprised with how much there is to this game especially with campaign mode. it's not the most accurate and some turns can be a a bit odd but it's pretty close and it's super fun and easy to use.\nI could play for hours I love this !",
+      "date": 1764262261,
+      "review_helpful_count": 30,
+      "author_display_name": "Labyrinth26",
+      "author_alias": "Labyrinth26",
+      "developer_response": {
+        "body": "Thanks so much for the kind review!! ❤️",
+        "date": 1774376046
+      }
+    },
+    {
+      "id": "1020904423827482",
+      "score": 1,
+      "review_title": "VERY BUGGY",
+      "review_description": "laggy too\ncan’t even place tracks down and my right hand would delete anything it touched",
+      "date": 1780772783,
+      "review_helpful_count": 0,
+      "author_display_name": "off_the_za",
+      "author_alias": "off_the_za",
+      "developer_response": null
+    },
+    {
+      "id": "1053068277894138",
+      "score": 5,
+      "review_title": "Have not played",
+      "review_description": "This game sounds super fun and i wanna try it out but there is one thing of scared of, how big of a space will you need to enjoy the game? I have about a 8 by 4 rug will that work and also I read some more reviews and it’s say some times it won’t save properly??",
+      "date": 1776827426,
+      "review_helpful_count": 1,
+      "author_display_name": "nalorsmall13",
+      "author_alias": "nalorsmall13",
+      "developer_response": null
+    },
+    {
+      "id": "1122447434286194",
+      "score": 1,
+      "review_title": "Poo game",
+      "review_description": "This is poo if there were zero stars il rate it that I'd didn't even let me refund this poo and brought it today",
+      "date": 1778608338,
+      "review_helpful_count": 0,
+      "author_display_name": "qleyz",
+      "author_alias": "qleyz",
+      "developer_response": {
+        "body": "Hi I'm sorry you didn't like the game.  I'd love to learn more what didn't click for you?\n\nRefunds aren't controlled by us, it's Meta's policy not mine. If you reach out to stephen@4thwallbreakers.com I'm happy to figure out a solution over there to address the refund.",
+        "date": 1778619689
+      }
+    },
+    {
+      "id": "1125170957345238",
+      "score": 5,
+      "review_title": "Awesome game",
+      "review_description": "This is my favorite mixed reality, you can make roller coasters in your house! I like that they added hand tracking and the fact that you can ride it is really cool. The controls are easy and in all the game is awesome.",
+      "date": 1776632090,
+      "review_helpful_count": 1,
+      "author_display_name": "Monke0706",
+      "author_alias": "Monke0706",
+      "developer_response": null
+    },
+    {
+      "id": "1137723889419977",
+      "score": 2,
+      "review_title": "I don't like it",
+      "review_description": "It is fun for a 10-15min but after that an it won’t let me refund it I hate this game",
+      "date": 1777951548,
+      "review_helpful_count": 0,
+      "author_display_name": "Liljt147",
+      "author_alias": "Liljt147",
+      "developer_response": null
+    },
+    {
+      "id": "1219589756746973",
+      "score": 4,
+      "review_title": "Amazing, but neeeeeeds undo!",
+      "review_description": "What a cracking game, who doesn’t want to design and build coasters?!? Sometimes things go wrong when moving the track and you end up with an extremely ugly angle that you can’t get rid of, I’m constantly deleting sections of track so that I can draw them in more smoothly because moving them around after placement can cause some very unexpected kinks! Can we get an undo button please??\n\nI wish people would stop giving this game a low star rating because when you ride the coaster you can’t see your room… for that to happen your meta cameras would need to follow the path of the coaster… not remain perfectly still on your head! This is such an unfair loss of so many stars! \n\nAlso, when I upload my track it defaults back to the original coaster car (also resets to only 1 car if I’ve added more) and track colours all reset.",
+      "date": 1759255747,
+      "review_helpful_count": 12,
+      "author_display_name": "Katumi74",
+      "author_alias": "Katumi74",
+      "developer_response": {
+        "body": "Hi there! Just updating you to let you know we just added undo in our latest update!\n\nGive it a shot and let us know what you think!",
+        "date": 1774742589
+      }
+    },
+    {
+      "id": "1091107654076876",
+      "score": 3,
+      "review_title": "Buggy",
+      "review_description": "Would be an amazing game if it didn’t glitch so much",
+      "date": 1775268806,
+      "review_helpful_count": 0,
+      "author_display_name": "Remote126",
+      "author_alias": "Remote126",
+      "developer_response": {
+        "body": "Thanks for the feedback! Sorry to hear you experienced some bugs.\n\nI’d love to learn more about the issues you are having, if you are up for it please  join our discord at  https://discord.gg/qaBgpCE39Y or reach out to stephen@4thwallbreakers.com",
+        "date": 1775270103
+      }
+    },
+    {
+      "id": "814122874506563",
+      "score": 5,
+      "review_title": "Amazing game but you need this",
+      "review_description": "So off the bat, I see you guys need water rides and need to get rid of the height limit cause it’s kind of just annoying but anyways, I say you guys did an amazing job on the game. I love how you can do a sandbox and a campaign and all that stuff I say it’s pretty cool amazing job on the game so good job and please￼ add the water rides",
+      "date": 1755057934,
+      "review_helpful_count": 24,
+      "author_display_name": "r_scheld924",
+      "author_alias": "r_scheld924",
+      "developer_response": {
+        "body": "Thanks for the review! There shouldn't be a height limit for coasters, but the terrain does have one because of performance reasons.\n\nIf you are seeing differently, please let us know",
+        "date": 1774376366
+      }
+    },
+    {
+      "id": "838092992075337",
+      "score": 4,
+      "review_title": "S p e e d",
+      "review_description": "My coaster fast it go nyoooooom",
+      "date": 1761539756,
+      "review_helpful_count": 7,
+      "author_display_name": "Josue304",
+      "author_alias": "Josue304",
+      "developer_response": {
+        "body": "🎢💨",
+        "date": 1774376265
+      }
+    },
+    {
+      "id": "725803693762642",
+      "score": 4,
+      "review_title": "Good but has some issues.",
+      "review_description": "The main reason I bought this game was because I wanted to build roller coasters around my house in passthrough, and it definitely lived up to that hype…the first time.\n\nMAIN PROBLEM:\nWhen you save a rollercoaster and then open it later to continue working on it, the app has trouble remembering the position and scale of the rollercoaster. I don't know much about how vr games are developed, so I don't know how easy or hard it is to make it remember where it is, but this feature would be much needed.\n\nBut if not, there's sort of a solution to this in the game already. By holding the 2 grab buttons, you can move, rotate, and scale your roller coaster. The problem is that they make you do these three things all at once. The controls feel EXTREMELY JANKY trying to line up the rollercoaster while also trying to remember where it even was to begin with! This makes the passthrough gimmick feel half-baked, and makes the game feel like any mediocre rollercoaster builder, rather than a cool and immersive one.\n\nBUGS:\nAlso the game is just super buggy. It seems like I find new bugs every time I play, because I have edited this review many times to report new ones.\n\nIn the campaign mode, sometimes when you delete all the track, the bar doesn't fill all the way up again. \n\nSometimes when I'm trying to build a STRAIGHT track, it will randomly make a tiny corkscrew that flips the entire thing.\n\nSometimes when I let go of a track, the game will think I'm still editing it, and prevents me from editing/adding to other tracks. Or interacting with any menus, essentially softlocking the game.\n\nThere should really be a limit to how much track you can place if you want to upload it to the online mode. There was this one level I downloaded that had so much track I had about 1fps and the game became unplayable.\n\nSome levels in campaign mode have hidden collectables that are supposed to unlock something when collected, but I guess some levels don't know what they're supposed to unlock, so it just doesn't give you anything and says something like \"You have unlocked {null} in the editor!\" On the victory screen.\n\nIf you make a singular line of track with no connected tracks, you can connect that track to itself via making another track, which looks super weird and definitely not intended.\n\nIf a car is moving down the tracks and you pause and unpause it, sometimes it won't act the same way compared to if you didn't pause it (it could miss jumps it already made for example).\n\nTracks sometimes draw supports that can use a track below it as the ground and/or not be long enough to reach the ground (no matter how accurately your space is set up)\n\nIn conclusion, I LOVE the concept of this game, but the execution isnt the best.",
+      "date": 1761594179,
+      "review_helpful_count": 28,
+      "author_display_name": "Gamerguy25270",
+      "author_alias": "Gamerguy25270",
+      "developer_response": {
+        "body": "Wow! Thanks for the detailed feedback. We will take all of this to heart and work on fixing those bugs. \n\nAppreciate the support!",
+        "date": 1774376565
+      }
+    },
+    {
+      "id": "1170472525102031",
+      "score": 3,
+      "review_title": "Decent",
+      "review_description": "Search bar never works to find community creations. I wish they would add something where you have to add like a chain for the coaster to move because I want to re-create coasters like icebreaker or top thrill two also moving tracks would be good for icebreaker or top thrill 2 also just plain ground like grass so it’s not just blue. Nothingness￼",
+      "date": 1752295420,
+      "review_helpful_count": 5,
+      "author_display_name": "Gabriel1357911",
+      "author_alias": "Gabriel1357911",
+      "developer_response": null
+    },
+    {
+      "id": "688540497683837",
+      "score": 5,
+      "review_title": "DEVS PLS READ GOOD ADVICE",
+      "review_description": "Make it so you can make a theme park with food stands and stuff like that",
+      "date": 1764019326,
+      "review_helpful_count": 10,
+      "author_display_name": "crawboi11",
+      "author_alias": "crawboi11",
+      "developer_response": {
+        "body": "Thanks for the suggestion! CoasterMania is about creating rollercoasters, not as much theme parks. Maybe some day though! Stay tuned :)",
+        "date": 1774376456
+      }
+    },
+    {
+      "id": "783537874831433",
+      "score": 5,
+      "review_title": "So Good It’s worth getting to be great",
+      "review_description": "It’s so good i love it, thanks for making it.",
+      "date": 1754779039,
+      "review_helpful_count": 4,
+      "author_display_name": "JudeBaker5575",
+      "author_alias": "JudeBaker5575",
+      "developer_response": {
+        "body": "Thanks for the review! ❤️",
+        "date": 1774376477
+      }
+    },
+    {
+      "id": "1358150691895896",
+      "score": 5,
+      "review_title": "Great, but...",
+      "review_description": "Overall, the game is fun and engaging, but I purchased it believing I could ride the roller coasters I created in mixed reality - traveling across my room while enjoying the ride. However, the mixed reality feature only functions during the building phase of the coasters within your space.​\n\nAdditionally, I encountered an error message stating, \"We cannot scan your room setup,\" which I hope is just a mistake on my end.​\n\nI genuinely hope that future updates will allow us to ride the coasters in mixed reality. Just imagine how awesome it would be to experience your room from a miniature perspective while riding the coaster across your own space.​\n\nIt would also be great to have roller coasters with multiple carts connected to one another, rather than just a single one.​\n\nI'm still undecided about whether to request a refund. The game is enjoyable, but it's missing the mixed reality feature I was expecting.\n\nUPDATE: I kept the game because it is fun. I'm excited for future updates.",
+      "date": 1745307169,
+      "review_helpful_count": 51,
+      "author_display_name": "Art_Gutierrez",
+      "author_alias": "Art_Gutierrez",
+      "developer_response": null
+    },
+    {
+      "id": "628170667050939",
+      "score": 1,
+      "review_title": "Good.￼",
+      "review_description": "Now I absolutely love this game, but it’s getting 1 star. It’s getting 1 star because when I creat my roller coaster and save it, and come back to it the roller coaster is always somewhere else in my house. It gets annoying to always fix where everything goes.",
+      "date": 1747156320,
+      "review_helpful_count": 10,
+      "author_display_name": "CosmicNarwhal5940",
+      "author_alias": "CosmicNarwhal5940",
+      "developer_response": {
+        "body": "Hi there! \n\nWanted to let you know this has since been fixed in the latest update. Hope you check it out!",
+        "date": 1774699927
+      }
+    },
+    {
+      "id": "1083693560484217",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "The littles and I have a blast with this one. Super super easy to make complex creations, my 5 year old figured it out in minutes, tons of squeals of delight from us all",
+      "date": 1749315973,
+      "review_helpful_count": 4,
+      "author_display_name": "TheClaponAClam",
+      "author_alias": "TheClaponAClam",
+      "developer_response": null
+    },
+    {
+      "id": "1141259961107548",
+      "score": 5,
+      "review_title": "Pretty cool!",
+      "review_description": "I really like the concept of this app. Building and riding roller coasters in your own room is such a fun and unique experience. For me, the standout feature is being able to actually ride the coasters you build. There’s also a campaign mode and the option to explore rides made by the community, which adds a lot of replay value. In sandbox mode, you get access to a variety of tools to design your environment and create unique coaster experiences. That said, I do feel the current price might be a bit high for the amount of features available right now. I truly hope the developers continue to bring fresh ideas and creative updates to the app. One feature I’d love to see in the future is the ability to fully scan your real room with textures, so you could ride coasters through your actual environment instead of just abstract shapes. That would take immersion to the next level. Of course, this request is more directed at the Meta team, since that kind of functionality relies heavily on the low-level capabilities of the Quest 3 hardware. Overall, this is a very promising app with a unique vision, and I’m excited to see where it goes!",
+      "date": 1743756642,
+      "review_helpful_count": 8,
+      "author_display_name": "kaszawanna",
+      "author_alias": "kaszawanna",
+      "developer_response": null
+    },
+    {
+      "id": "684730831395256",
+      "score": 5,
+      "review_title": "COOL GAME",
+      "review_description": "Nice game cool game",
+      "date": 1751727554,
+      "review_helpful_count": 1,
+      "author_display_name": "pjyeep123",
+      "author_alias": "pjyeep123",
+      "developer_response": null
+    },
+    {
+      "id": "668147163038918",
+      "score": 5,
+      "review_title": "Coaster Rama",
+      "review_description": "Great app. One of the best in VR history. Exceptional.\n\nThe drops need to have the shtick of real vertigo. The Himalaya level on Coaster Combat VR does this to perfection. I made a mega kamikaze roller coaster which as you can imagine had a doozy of a drop. Riding it, there was the thrill of going over the top of the hill but the descent was underwhelming. Is it that one has to get the track exactly right to get the true vertigo effect? What if even then the vertigo effect, the stomach dropping feeling seen in The Galactic Race on Theatre Elsewhere still wasn't there?\nVR is in its early days. This app is to be much applauded.",
+      "date": 1745272008,
+      "review_helpful_count": 2,
+      "author_display_name": "nautilus.657413",
+      "author_alias": "nautilus.657413",
+      "developer_response": null
+    },
+    {
+      "id": "646463771878670",
+      "score": 3,
+      "review_title": "Good game, but...",
+      "review_description": "It has a bug that causes the unlockables you earn not to be saved in sandbox mode, forcing you to repeat the level. Also, sometimes you open sandbox mode and the unlockables are there, but when you exit and go back in, they’re gone. This makes getting decorations for roller coasters really tedious.",
+      "date": 1745139629,
+      "review_helpful_count": 2,
+      "author_display_name": "Foxy93",
+      "author_alias": "Foxy93",
+      "developer_response": null
+    },
+    {
+      "id": "577922405411953",
+      "score": 5,
+      "review_title": "Best MR Rollercoaster Game",
+      "review_description": "One of the best mixed reality apps (in my opinion) on Meta Quest. Making your own rollercoasters in sandbox mode is cool and there's also a lot of puzzles to do. Easy to play and fun and you can incorporate your own room into it. Worth the price. 👍",
+      "date": 1744239564,
+      "review_helpful_count": 4,
+      "author_display_name": "Sharkboyz1001",
+      "author_alias": "Sharkboyz1001",
+      "developer_response": null
+    },
+    {
+      "id": "1020799890168239",
+      "score": 5,
+      "review_title": "such a fun game!",
+      "review_description": "i love this game so much, endless hours of fun!",
+      "date": 1750020553,
+      "review_helpful_count": 1,
+      "author_display_name": "ollie9245",
+      "author_alias": "ollie9245",
+      "developer_response": null
+    },
+    {
+      "id": "1322606735556268",
+      "score": 5,
+      "review_title": "First ever review",
+      "review_description": "I only downloaded this game today but have successfully completed 5 campaigns and rode those coasters , I had a lot of fun and can see already that this will be a much used and enjoyed asset to my vr experiences. I would definitely recommend this and the price is very good thankyou devs . I will be trying the sandbox mode tomorrow.",
+      "date": 1737475748,
+      "review_helpful_count": 24,
+      "author_display_name": "julie.vr.24",
+      "author_alias": "julie.vr.24",
+      "developer_response": null
+    },
+    {
+      "id": "515365381669182",
+      "score": 5,
+      "review_title": "Love this game",
+      "review_description": "I've had this game for a week now and cannot stop playing it! I like the fact you can build the coasters, watch it run and then ride it yourself! \n\nFor reference, Im a 68 yr old female but my granddaughter loves it as well, shes 9 yrs old! \n\nI wasnt sure i would enjoy this game upon getting it. I watched a video on youtube and decided to give it a whirl.\n\nThe game has a different modes, build your own, puzzle(where you connect  the track from one point to another) and the cool coasters that others have made that you can ride.  \n\nIf you like roller coasters and/or building things, this game is a definite must get! Great job DEVS and thank you!",
+      "date": 1740160831,
+      "review_helpful_count": 6,
+      "author_display_name": "Laurierocs",
+      "author_alias": "Laurierocs",
+      "developer_response": null
+    },
+    {
+      "id": "1332858947917042",
+      "score": 5,
+      "review_title": "Great game! Seems to be under advertised",
+      "review_description": "I got this game the other day and I love it! I can't wait to see what future updates might bring. I did notice that the game doesn't show up in the store unless you type the name bang on tho. Even typing \"coaster\" or \"rollercoaster\" into the search bar doesn't bring it up. \n\nHere's some ideas for future updates I'd personally love to see. \n\n1.more of a theme park element where you can add flat rides food stalls etc etc similar to rollercoaster Tycoon. \n\n2. Better environment when riding in POV, I personally don't feel like there's much depth perception when riding a tall ride and the head movement doesn't feel right when trying to peep over the side of the coaster.  The sky box might need to be improved or possibly add the option to add a custom sky box. \n\n3. It'd be nice to be able to build loops, banks etc easily without having to choose pre made ones. It's also quite difficult to get a piece of track level so maybe add a different colour when your track is level instead of trying to guess. \n\n4. Giant screens and ride queue customising. The ability to improve ride queues and add TV's would be cool. You could add a intro video like oblivion at Alton towers UK. \n\n5. Better avatars when riding the coasters. At the moment it's just a dummy so it'd be nice to be able to change that. \n\n6. Ride with friend's A multiplayer experience where you could ride simultaneously with friends would be a great feature. \n\n7. Coaster stats such as top speed, G force, number of Inversions and thrill level. \n\nThanks for making this game I think it has a ton of potential and I don't think anyone should hesitate to buy it considering it's rather cheap price tag ✌️",
+      "date": 1739801320,
+      "review_helpful_count": 6,
+      "author_display_name": "sazzer24",
+      "author_alias": "sazzer24",
+      "developer_response": null
+    },
+    {
+      "id": "1006742971341359",
+      "score": 4,
+      "review_title": "Glitch",
+      "review_description": "The game is great. I have had an amazing time building roller coasters but I have one problem. Every time I move away from the roller coaster even a foot the whole thing moves far away from me then I have to put it back. It may just be for me but it’s a great game just look out for this.",
+      "date": 1741004675,
+      "review_helpful_count": 3,
+      "author_display_name": "lincsternator.pro",
+      "author_alias": "lincsternator.pro",
+      "developer_response": null
+    },
+    {
+      "id": "664282806268867",
+      "score": 5,
+      "review_title": "WOW WHAT A RIDE",
+      "review_description": "I just spent 2 hours playing this for the first time\nSimply amazing, the time just flew by, I was having so much fun.\nThe campaign is so engaging, designing your tracks to go through the checkpoints, being able to move around the room and check every detail is so satisfying.\n\nAt the price it’s just too good not to buy it.\nThe fact that you can then ride your creation is an added bonus.\n\nI highly recommend CoasterMania for all ages\nSimply outstanding.",
+      "date": 1739616313,
+      "review_helpful_count": 3,
+      "author_display_name": "GizmoDemi",
+      "author_alias": "GizmoDemi",
+      "developer_response": null
+    },
+    {
+      "id": "1380053996500770",
+      "score": 3,
+      "review_title": "If you like Track CRAFT",
+      "review_description": "Good honest game.  Did all campain.  fun puzzler. Less expensive and polish that TRACK CRAFT but still a fun relax game to play seated.",
+      "date": 1742849620,
+      "review_helpful_count": 2,
+      "author_display_name": "CoolRib_",
+      "author_alias": "CoolRib_",
+      "developer_response": null
+    },
+    {
+      "id": "627302946321543",
+      "score": 2,
+      "review_title": "Seems Good, but with Big Flaws",
+      "review_description": "Controls for moving the set with the grab feature is a bit yoo slow and off, feelinglike it takes a bit more effort to move it as needed compared to other VR ganes that do the exact sane mexhanic.\nIts also annoying to be accidently grabbing set track peices while trying to move.\nThe pointer also disappears every time I start a track, msking seldcting anything in any menus a huge hassle and guessing game.\nAlso yhe Ridr feature would be gun, bit (at least in Campaign mode), doing so ONLY lets you ride. And then ride again...\nNO other options of you do this, as there is no other menus nor can you bring up the original menu. Meaning you have to quite the game and reload to get back to actually playing....\n\n\nOutside of those huge issues that will seemingly never be fixed,  it otherwise seems like a nice game and very lax. This keeps me torn between regretting my purchase of this game and (even if only very brief moments) actually enjoying it.",
+      "date": 1738423974,
+      "review_helpful_count": 4,
+      "author_display_name": "Teele891",
+      "author_alias": "Teele891",
+      "developer_response": null
+    },
+    {
+      "id": "602776469575598",
+      "score": 5,
+      "review_title": "This game is honestly fire🔥",
+      "review_description": "My dad downloaded this game on my headset today while I was at school, and after I finished my homework  he told me to look at my game library, so I hopped on and I gotta say, I'm HOOKED! Its literally one of the funniest games I've ever played on my headset so I recommend you to try it. After playing, I had realized I spent 1 hour playing. I give it five stars, if you have family with a meta quest 3 then I recommend you buy them or tell them about this game. -KruzerVr",
+      "date": 1739326275,
+      "review_helpful_count": 2,
+      "author_display_name": "OfficialKruzerVr",
+      "author_alias": "OfficialKruzerVr",
+      "developer_response": null
+    },
+    {
+      "id": "643708902169583",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Good game !😀",
+      "date": 1752368397,
+      "review_helpful_count": 0,
+      "author_display_name": "JakeSparrow47",
+      "author_alias": "JakeSparrow47",
+      "developer_response": null
+    },
+    {
+      "id": "524038477453553",
+      "score": 5,
+      "review_title": "My kind of game!",
+      "review_description": "Very fun and relaxing puzzle game!\n\nAre you bored of another shooter hitting the store this week?\n\nFancy a change of pace?\n\nStill need that adrenaline rush though?\n\nLook no further than 'Rollercoastermania!'\n\nThere are plenty of challenges across 4 campaign modes that introduce new gadgets and devices to spice up the ride as well as a sandbox mode to get really creative!\n\nMy favourite part? When you complete the track you get to ride it! Such a fun and clever idea and very appealing to puzzle enthusiasts and rollercoaster fans alike!\n\nThe game is very well designed and clearly has had a lot of love, passion and creativity put into the controls, visuals and various ways to complete the tracks! My favourite is the Cannon! Sssh!\n\nNo more spoilers!\n\nPick up this very affordable game today, you won't regret it ❤️",
+      "date": 1733427195,
+      "review_helpful_count": 38,
+      "author_display_name": "DragonzHeartz",
+      "author_alias": "DragonzHeartz",
+      "developer_response": {
+        "body": "Thanks so much for the kind review!",
+        "date": 1733428292
+      }
+    },
+    {
+      "id": "554133161119211",
+      "score": 5,
+      "review_title": "Very fun, even better in Mixed Reality!",
+      "review_description": "There is tons of fun to be had. If you have a creative mind, you can build some crazy coasters. Go for it!",
+      "date": 1739684086,
+      "review_helpful_count": 2,
+      "author_display_name": "Pabmarcondes",
+      "author_alias": "Pabmarcondes",
+      "developer_response": null
+    },
+    {
+      "id": "483511471518719",
+      "score": 5,
+      "review_title": "More fun than a theme park.",
+      "review_description": "Coaster Mania is a fun, rewarding and addictive puzzle game with the enjoyment of being able to create and ride your own coasters, even in MR.\n\nThe general aim is to build your coaster from the station to the finish, but what starts off as a few simple levels soon becomes a brain twisting challenge. \n\nBest of all you can get creative with sandbox mode, add scenery and props and then ride on board to experience every drop, loop and corkscrew. \n\nEarly days, but the devs have been incredibly responsive to feedback so what's already a highly recommended game looks set to keep getting better and better.",
+      "date": 1733429469,
+      "review_helpful_count": 13,
+      "author_display_name": "LeeHubbz",
+      "author_alias": "LeeHubbz",
+      "developer_response": null
+    },
+    {
+      "id": "539664289236162",
+      "score": 5,
+      "review_title": "I love it",
+      "review_description": "I love it like I stayed up till 12:34 pm it was so fun (I didn't know I stay up that late",
+      "date": 1739188246,
+      "review_helpful_count": 2,
+      "author_display_name": "yooh00.gt",
+      "author_alias": "yooh00.gt",
+      "developer_response": null
+    },
+    {
+      "id": "630435470144139",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "The game is so much fun to play",
+      "date": 1740094416,
+      "review_helpful_count": 2,
+      "author_display_name": "ohlili20243",
+      "author_alias": "ohlili20243",
+      "developer_response": null
+    },
+    {
+      "id": "466169339919968",
+      "score": 5,
+      "review_title": "So far I like it",
+      "review_description": "So far I'm liking it. I've done 2 campaign tracks and I've done 1 freestyle track in home and both styles are fun. You can lose track of time quickly playing around. I wish there was a button to smooth out certain transitions just so when you ride you can get the best experience. Other than that I love it.",
+      "date": 1732478339,
+      "review_helpful_count": 9,
+      "author_display_name": "djtwinkie",
+      "author_alias": "djtwinkie",
+      "developer_response": {
+        "body": "Thanks for the kind review & feedback!",
+        "date": 1732643447
+      }
+    },
+    {
+      "id": "1315862983180653",
+      "score": 5,
+      "review_title": "New update v1.0 is amazing",
+      "review_description": "Wow, what an improvement! I have been playing this since it's early days when the toilet video went viral. And what a change since those days! \nThe graphics are lovely, the AR aspect is now really well utilized and the levels now have proper puzzle elements as well.\nBravo, well done Devs.",
+      "date": 1732559833,
+      "review_helpful_count": 25,
+      "author_display_name": "markvanhaze",
+      "author_alias": "markvanhaze",
+      "developer_response": {
+        "body": "Thanks so much for the kind review!",
+        "date": 1732566552
+      }
+    },
+    {
+      "id": "585773723974636",
+      "score": 1,
+      "review_title": "They made the game worse",
+      "review_description": "I used to love this game but they completely remodeled the game and now you can’t even place the right tracks you want to place, I can’t even build a track that goes straight without the game telling me I can’t place it, it’s ridiculous, half the game is bugged out, the cart for the rides you make isn’t there, I do not recommend buying this game until they fix the whole point of the game,",
+      "date": 1732660470,
+      "review_helpful_count": 17,
+      "author_display_name": "Ohmynavy",
+      "author_alias": "Ohmynavy",
+      "developer_response": {
+        "body": "Hi there! We just pushed out an update to CoasterMania, which should have fixed a lot of the issues you were having. Hope you get a chance to try it out again! Feel free to reach out at stephen@4thwallbreakers.com if you have any further issues",
+        "date": 1733321730
+      }
+    },
+    {
+      "id": "630531986324057",
+      "score": 5,
+      "review_title": "It’s so fun but add gtag movement",
+      "review_description": "Its sp sigma boy sigma boy sigma boy",
+      "date": 1738982881,
+      "review_helpful_count": 2,
+      "author_display_name": "Thadude14",
+      "author_alias": "Thadude14",
+      "developer_response": null
+    },
+    {
+      "id": "552747677652765",
+      "score": 5,
+      "review_title": "Awsome game",
+      "review_description": "This is one of my favourite games after 5 minutes\nOne of my favourite parts was making a custom area around parts of my room rather than building roller coasters but that was also awsome\n\nI would love some more updates featuring new items",
+      "date": 1733611517,
+      "review_helpful_count": 3,
+      "author_display_name": "aperson312.2025",
+      "author_alias": "aperson312.2025",
+      "developer_response": null
+    },
+    {
+      "id": "582526687651014",
+      "score": 5,
+      "review_title": "THIS GAME IS SO FUN!!!",
+      "review_description": "You don’t understand how fun this game is, building rollercoasters around my house is like a dream come true and the physics and the way the game uses MR is very impressive!",
+      "date": 1733583440,
+      "review_helpful_count": 5,
+      "author_display_name": "JoshMc2007",
+      "author_alias": "JoshMc2007",
+      "developer_response": null
+    },
+    {
+      "id": "480343331835769",
+      "score": 5,
+      "review_title": "great game",
+      "review_description": "I’ve been playing it for a long time, and now the official version is finally released. It’s better than ever. It would be great if the menus and items could support multiple languages, such as Chinese. Thank you!",
+      "date": 1733632230,
+      "review_helpful_count": 4,
+      "author_display_name": "qymll",
+      "author_alias": "qymll",
+      "developer_response": null
+    },
+    {
+      "id": "956729453303517",
+      "score": 5,
+      "review_title": "Coasting to success",
+      "review_description": "Design and build your own roller coasters! You can even ride them!\n\nMany options to customise your coasters.\nYou can even upload your coasters for others to try out… or check out coasters made by other players, and ride these too.\nCampaign mode and a sandbox mode too that gives you full freedom to build your own coasters.\n\nIn campaign mode, you have to build from scratch, to make your track meet certain points, and run the coaster without people falling out.\n\nGraphics are good for a coaster building game. \nSounds are suitable for the game.\n\n\nA very fun and enjoyable game for any age.",
+      "date": 1739618023,
+      "review_helpful_count": 2,
+      "author_display_name": "Bloodangel1068",
+      "author_alias": "Bloodangel1068",
+      "developer_response": null
+    },
+    {
+      "id": "528581233664218",
+      "score": 5,
+      "review_title": "Very unique game",
+      "review_description": "This is one of the most unique games I've ever played. My mind is blown being able to build all over my living room. Can't wait to see what's in store for this game in the future!",
+      "date": 1734022227,
+      "review_helpful_count": 4,
+      "author_display_name": "Murderapolis",
+      "author_alias": "Murderapolis",
+      "developer_response": null
+    },
+    {
+      "id": "914611817523006",
+      "score": 3,
+      "review_title": "Lost sound",
+      "review_description": "I’ve been playing the game for about a month now and the sound just stopped. The game still fun but it’s no fun without the sound so I can hear all the excitement. I reinstall the program I factory reset my meta-quest three and still no sound. Please help￼.",
+      "date": 1734715222,
+      "review_helpful_count": 1,
+      "author_display_name": "Mikerich46",
+      "author_alias": "Mikerich46",
+      "developer_response": {
+        "body": "Hi! Thanks for the review and alerting us on the audio issue. Our holiday update seemed to have broke it. We've decided to temporarily revert it (so audio should now work) until we find the reason why it broke.",
+        "date": 1734789172
+      }
+    },
+    {
+      "id": "570702605539532",
+      "score": 1,
+      "review_title": "Buggy when building tracks",
+      "review_description": "I love the concept of this game. I think you’ve got that down pretty good it’s just so buggy when building the track. Especially when trying to linking one end of your track to the other end “especially in the curves” but keep up the good work guys. I think you’ve about got it.",
+      "date": 1732531912,
+      "review_helpful_count": 2,
+      "author_display_name": "1keven1",
+      "author_alias": "1keven1",
+      "developer_response": {
+        "body": "Hi there! We would love for you to check out our latest update as it addresses the issues you were having with the game. Feel free to reach out to us via email at stephen@4thwallbreakers.com if you have any further issues!",
+        "date": 1734326594
+      }
+    },
+    {
+      "id": "609244038307646",
+      "score": 5,
+      "review_title": "Coster mania",
+      "review_description": "Lovely game .the best roler coaster  .I just hope the def put a lot more updates even a tunnel   .maybe speeding faster.",
+      "date": 1733508209,
+      "review_helpful_count": 2,
+      "author_display_name": "51963",
+      "author_alias": "51963",
+      "developer_response": null
+    },
+    {
+      "id": "1066129118885055",
+      "score": 5,
+      "review_title": "Super Addictive",
+      "review_description": "The game is super addictive. Creating your own roller coasters with jumps, booster’s and loops and steep drops. Then you can build your own park around the track and even better still then ride the coaster you created.  This is such a clever well worked game, and of course you can do this in MR around your own work space.   The campaign and a sandbox mode gives you full freedom to build your own coaster meaning lots of replayabilty.  CoasterMania is an absolute dream for any roller coaster enthusiast. Highly recommended!",
+      "date": 1739746553,
+      "review_helpful_count": 0,
+      "author_display_name": "Magicmerlin007",
+      "author_alias": "Magicmerlin007",
+      "developer_response": null
+    },
+    {
+      "id": "536232839569158",
+      "score": 3,
+      "review_title": "",
+      "review_description": "Some times the coaster just tps to me",
+      "date": 1735292224,
+      "review_helpful_count": 1,
+      "author_display_name": "crybaby_vr1",
+      "author_alias": "crybaby_vr1",
+      "developer_response": null
+    },
+    {
+      "id": "492644563936520",
+      "score": 5,
+      "review_title": "Awesome mixed reality game.",
+      "review_description": "Awesome mixed reality game.",
+      "date": 1733424477,
+      "review_helpful_count": 2,
+      "author_display_name": "Noobasaurusrexagator",
+      "author_alias": "Noobasaurusrexagator",
+      "developer_response": {
+        "body": "Thanks for the kind review!",
+        "date": 1733428253
+      }
+    },
+    {
+      "id": "1021624959981597",
+      "score": 3,
+      "review_title": "Needs more fun items",
+      "review_description": "This game is still kinda fun but it’s buggy a lot and needs more items",
+      "date": 1732397711,
+      "review_helpful_count": 0,
+      "author_display_name": "RangerRat_yt",
+      "author_alias": "RangerRat_yt",
+      "developer_response": {
+        "body": "Hi dev here! I would love to learn more about the bugs you encountered. If you are interested, you can join our closed beta and share your feedback in our discord at discord.gg/qaBgpCE39Y.\n\nThanks!",
+        "date": 1732421727
+      }
+    },
+    {
+      "id": "481219635071888",
+      "score": 4,
+      "review_title": "Incredible",
+      "review_description": "Love this game but the only downside to this game is that it has a few bugs/glitches but exept from that it is an AMAZING game",
+      "date": 1730097303,
+      "review_helpful_count": 2,
+      "author_display_name": "Coolbluemonke",
+      "author_alias": "Coolbluemonke",
+      "developer_response": null
+    },
+    {
+      "id": "929523162331483",
+      "score": 5,
+      "review_title": "Cool pls add",
+      "review_description": "So I wanted more coasters like.. Aqua, rainbow, like 10 and you can add more right? Please add more people to fit like 5-10 or 5-30. THANK YOUUUU",
+      "date": 1727868027,
+      "review_helpful_count": 4,
+      "author_display_name": "Artymusicstarshine",
+      "author_alias": "Artymusicstarshine",
+      "developer_response": null
+    },
+    {
+      "id": "524605720095918",
+      "score": 5,
+      "review_title": "I love this game!!!!",
+      "review_description": "I like two things and that is my house and roller coasters (and my vr ) and some how all those together new favorite game (could be better if you add new costars)",
+      "date": 1724258872,
+      "review_helpful_count": 7,
+      "author_display_name": "SpencerKane",
+      "author_alias": "SpencerKane",
+      "developer_response": null
+    },
+    {
+      "id": "860407539228338",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "I love this.",
+      "date": 1712671103,
+      "review_helpful_count": 4,
+      "author_display_name": "Mykall81",
+      "author_alias": "Mykall81",
+      "developer_response": null
+    },
+    {
+      "id": "370059536008324",
+      "score": 3,
+      "review_title": "Like 50 bugs",
+      "review_description": "Way to many problems with the game",
+      "date": 1711376697,
+      "review_helpful_count": 0,
+      "author_display_name": "itzMochaa",
+      "author_alias": "itzMochaa",
+      "developer_response": null
+    },
+    {
+      "id": "947540403599947",
+      "score": 5,
+      "review_title": "Great Mixed Reality Game",
+      "review_description": "I have been playing this game for a few weeks now and it is definitely one of my favorite mixed reality experiences. I expected to enjoy building coasters in sandbox mode (which I do!) But have also really enjoyed the challenges that have you build a coaster through a series of rings.\n\nI was especially worried about trying the coasters in first person mode for fear of getting sick but I have surprisingly not had any issues.\n\nOverall a great game. Highly recommend!",
+      "date": 1702322712,
+      "review_helpful_count": 7,
+      "author_display_name": "Bags1147",
+      "author_alias": "Bags1147",
+      "developer_response": null
+    },
+    {
+      "id": "396490342902793",
+      "score": 5,
+      "review_title": "Just perfect",
+      "review_description": "This game is perfect, you can create some rides, upload them so another players could play it, you can change the cart speed with rail modes, the cart have realistic physics\n\nThis game is 🔥",
+      "date": 1705190162,
+      "review_helpful_count": 2,
+      "author_display_name": "Courget",
+      "author_alias": "Courget",
+      "developer_response": null
+    },
+    {
+      "id": "905073024676111",
+      "score": 5,
+      "review_title": "Yo Quest 2 users",
+      "review_description": "FYI It runs great on quest 2 . Mixed reality works well too for it.   Great time burner and fun, kids love it also.   The puzzle mode has some issues, keeps telling me not enough space when I’m playing in a huge basement? Developer what do I do?  More props please, theme stuff . Another suggestion, folks just LOVE torturing little NPCs in vr . This game could make it happen.   Please. Looking forward to this games future!",
+      "date": 1702775569,
+      "review_helpful_count": 2,
+      "author_display_name": "deputyxxx13",
+      "author_alias": "deputyxxx13",
+      "developer_response": null
+    },
+    {
+      "id": "760999252587181",
+      "score": 1,
+      "review_title": "This GAME NEEDS TO BE FIXED!!",
+      "review_description": "I like it and everything but it’s not letting me place a track where I want it to be and I can’t even delete it if I wanted to 1 star and I’m done playing this game sucks",
+      "date": 1707075146,
+      "review_helpful_count": 1,
+      "author_display_name": "philadelphia14",
+      "author_alias": "philadelphia14",
+      "developer_response": {
+        "body": "Hi there! We just pushed out our major update to CoasterMania, with a ton more content and it's a lot more stable (less bugs) too. Hope you get a chance to try it out again! Feel free to reach out at stephen@4thwallbreakers.com if you have any issues",
+        "date": 1733321565
+      }
+    },
+    {
+      "id": "874390794148906",
+      "score": 5,
+      "review_title": "Amazing Start",
+      "review_description": "Game is great. Fun building a roller coaster throughout my room as well fun making it crash. My kids love it too.",
+      "date": 1701138309,
+      "review_helpful_count": 2,
+      "author_display_name": "LearnSeeDecide",
+      "author_alias": "LearnSeeDecide",
+      "developer_response": null
+    },
+    {
+      "id": "1027935645096851",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "It needs a bit more content, but it's fun already",
+      "date": 1701178898,
+      "review_helpful_count": 2,
+      "author_display_name": "thegabe",
+      "author_alias": "thegabe",
+      "developer_response": null
+    },
+    {
+      "id": "801128675065320",
+      "score": 5,
+      "review_title": "Great Idea For Passthrough",
+      "review_description": "Coaster Mania is about an amazing way to take advantage of the passthrough of the Quest 2. This game is even made that much better if you are playing currently on a Quest Pro and in the future of a Quest 3 to utilize the color passthrough. You are able to create your own roller coaster with drops, turns, twists, and barrel rolls all in a virtual or mixed reality environment. The game is very easy to build your coasters with and very kid friendly too, making this game fun for all ages. You can decorate your own environment with various objects such as trees to add to the scenery of your awesome ride! Once you have built your perfect roller coaster you can take it for a ride and experience what it would be like to really be on it! I really think this might be the future of riding roller coasters! You can also share and upload your finished coaster so other people can ride it via the community board, which is a great feature for hundreds of different coaster so the fun never ends! The thing that i would like to see is if you could add a friend to the coaster top ride with you. I also would like to be able to ride my coaster in my mixed reality environment. I might have missed it but it seemed that i could only ride it in the virtual world. Other than that its a great game for a good price!",
+      "date": 1686866369,
+      "review_helpful_count": 6,
+      "author_display_name": "TruGamer4Realz",
+      "author_alias": "TruGamer4Realz",
+      "developer_response": null
+    },
+    {
+      "id": "691722992748182",
+      "score": 5,
+      "review_title": "Very Fun",
+      "review_description": "I am a tester of this game; And it is very fun to play with and mess around with. I highly recommend it",
+      "date": 1677687668,
+      "review_helpful_count": 5,
+      "author_display_name": "baranholmic",
+      "author_alias": "baranholmic",
+      "developer_response": null
+    },
+    {
+      "id": "360503586633645",
+      "score": 5,
+      "review_title": "Great game, great dev",
+      "review_description": "Game is great, and the dev responds quickly to bugs sugestions etc",
+      "date": 1701117884,
+      "review_helpful_count": 1,
+      "author_display_name": "astr0nautQ",
+      "author_alias": "astr0nautQ",
+      "developer_response": null
+    },
+    {
+      "id": "350601630692843",
+      "score": 4,
+      "review_title": "Great idea!!",
+      "review_description": "Wonderful idea. Really fun to invent tracks in your own apartment and on your furniture!\nI have a performance problem when in first person mode but probably an update in the future will solve this",
+      "date": 1698486197,
+      "review_helpful_count": 1,
+      "author_display_name": "Gazzul",
+      "author_alias": "Gazzul",
+      "developer_response": {
+        "body": "Hi Gazzul!\n\nI just pushed out a new update (v.19a) and hopefully that should resolve your issue. You can also join our discord: https://discord.gg/qaBgpCE39Y if you have any other problems. The game is in early access and always updating to get better and better \n\nThanks, \nSteve",
+        "date": 1701110891
+      }
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T10:03:42Z"
+}

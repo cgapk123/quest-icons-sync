@@ -1,0 +1,34 @@
+{
+  "app_id": "4319869481359510",
+  "package_name": "com.FloatStudioVR.Patchwork",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Patchwork",
+  "rating_average": 4,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "434783651743955",
+      "score": 4,
+      "review_title": "Interesting creative tool",
+      "review_description": "it's exactly as you see it in the video and the screenshots! It supports creating patches and painting on them. Nothing more, nothing less. But one can argue that limitations foster creativity and for the price, I see no reason not to give it a go if you're looking new ways to be creative on your headset. \n\nIt's definitely made with love; but my god - the UI/UX choices are tough to swallow. I've been using both creative software and physical media since the 90s and the last couple years VR tools too, but I've never felt as dumbfounded. You have to memorize a ton of different ways to click, double clicking, combos. Things that you never thought you'd have trouble performing suddently become challenges. Even saving a file on top of an already existing file is not trivial, you have to remember the specific controller button to press to confirm overwriting (hint: a dialog box would had been the proper design choice). And all this complexity, for a mvp tool that only creates patches, and allows you to paint them. No symmetries, no snapping, no welding... I can't begin to imagine what would happen if the tool had the depth of gravity sketch or tiltbrush. \nIt feels as if the developers wanted to make something to force your brain to exercise in new ways of interacting. Personally, I'd rather it followed intuitive controls (ie less original) and allowed you enter the flow. My suggestion for the developers, is to rework the user experience from the bottom - take notes on how duplicating, deleting, color-picking, navigation, menus, patch editing, zooming etc work in gravity sketch (or tiltbrush, or VRChat) and copy these paradigms, get rid of the artificial complexity. There is no shame in using stardarized stuff, the goal should be usability and inobtrusiveness not smartness. \nHaving said that, it's a noble effort and despite my frustration, I'm sure the developers had their rationale behind these design choices; it certainly wasn't because of lack of consideration.",
+      "date": 1651532563,
+      "review_helpful_count": 2,
+      "author_display_name": "01077",
+      "author_alias": "01077",
+      "developer_response": {
+        "body": "Thanks for the feedback!",
+        "date": 1656770159
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:58:46Z"
+}

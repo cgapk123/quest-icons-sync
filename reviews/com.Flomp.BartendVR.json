@@ -1,0 +1,48 @@
+{
+  "app_id": "5985790994851671",
+  "package_name": "com.Flomp.BartendVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Happy Hour Hero",
+  "rating_average": 4.4,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "710666614986802",
+      "score": 5,
+      "review_title": "The devs lowk cleared up my issue",
+      "review_description": "Thank youu",
+      "date": 1747350858,
+      "review_helpful_count": 0,
+      "author_display_name": "darkandroyale",
+      "author_alias": "darkandroyale",
+      "developer_response": {
+        "body": "Hi there - the tutorial has directions on this, you use the refilling station. There is a large animated arrow pointing to this that will even point at the spot from off screen, and the bar manager tells you to put the bottle on it.",
+        "date": 1747309906
+      }
+    },
+    {
+      "id": "585903824610680",
+      "score": 3,
+      "review_title": "Love the idea",
+      "review_description": "Its a great idea and i hope it grows! I just wish it was a little more stable. My height jumps and it teleports me somewhere else and everything im holding breaks and spills. Ivget frustrated because im doing good at the job but the game is messing me up.",
+      "date": 1743635037,
+      "review_helpful_count": 0,
+      "author_display_name": "ItsWubboxMyDudes",
+      "author_alias": "ItsWubboxMyDudes",
+      "developer_response": {
+        "body": "Hey there! Thanks for the feedback. Admittedly this is the first time we've heard of such an issue, but we're happy to look into it. Firstly can you let me know what device you're playing on, and if there's any particular sequence of things you can do to reproduce the issue (or is it random)?\n\nIn the meantime, can I suggest trying the following:\n\n1) Resetting the user 'view' in the headset by holding the Meta button down on the right controller (assuming you are on a Q3).\n\n2) Can you let me know if you're playing standing or seated, and in any case make sure you have the right setting selected in the options menu for either option?\n\n3) If both of those don't work, try resetting both your player boundary and your headset - this sometimes helps with tracking issues generally with the headset.\n\nLet us know if the problem persists and we'll do what we can to fix it for you!\n\nBW,\nFlomp",
+        "date": 1743786498
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:59:06Z"
+}

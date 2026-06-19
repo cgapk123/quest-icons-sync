@@ -1,0 +1,34 @@
+{
+  "app_id": "4101813149850951",
+  "package_name": "com.FortStantonCaveStudyProject.CaverTrekSnowyRiver",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Caver Trek: Snowy River",
+  "rating_average": 2.6666666666667,
+  "rating_count": 3,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "566354866561386",
+      "score": 3,
+      "review_title": "...with follow up",
+      "review_description": "No matter what I do, it stays stuck on the initial menu screen. No amount of clicking on any button, uninstall/reinstallibg, rebooting, etc. makes any difference. Very frustrating.\n\nFollow up: \n\nAfter uninstalling and reinstalling numerous times, I did actually get into the cave. I do get the magenta beam from the right controller. I would say the directions on how to actually pick up the trash and \"activate\" the tele-whatever-things (blue ribbons) seem to be absent from the text. There are a lot of things to memorize about the controls, so I think the directions could be clearer. I enjoy what I've been able to do so far.",
+      "date": 1740160505,
+      "review_helpful_count": 7,
+      "author_display_name": "DesertScout",
+      "author_alias": "DesertScout",
+      "developer_response": {
+        "body": "Thank you for the feedback. Sorry the game did not even start; that would indeed be very frustrating. The sequence to begin is to click on Player1 or Player2, and then click on New Game. Specifically, \"click\" means to aim the right controller toward an object, button, or word until a magenta laser beam appears, and then squeeze the upper button on the controller. This is not the one in the middle of the handle; it is the one above it near the top of the controller. Many users I have worked with wrap all four fingers around the handle, rather than having the index finger above the handle on the upper button. (The controller image in the game is not very clear on this and I need to replace it.) Also, only the right controller has a magenta beam and can click; I need to add the same capability to the left controller. If you have done all this (which I assume you have) and it still does not work, please let me know what headset and controller version you are using so I can try to resolve the problem.",
+        "date": 1740111376
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:02:24Z"
+}
