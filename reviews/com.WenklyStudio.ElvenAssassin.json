@@ -1,0 +1,996 @@
+{
+  "app_id": "2325731427501921",
+  "package_name": "com.WenklyStudio.ElvenAssassin",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Elven Assassin",
+  "rating_average": 4.0077286389008,
+  "rating_count": 2329,
+  "review_count": 1211,
+  "reviews": [
+    {
+      "id": "1251593293605752",
+      "score": 4,
+      "review_title": "Really enjoying this game!",
+      "review_description": "Edit: Recently got a Meta Quest 3, after adding my current profile I loaded the game and all progress is gone. So, a cloud save would be nice! I normally am not a fan of wave based defense games, but this is on a whole different level. Graphics are good, the artwork is quite imaginative and clear. A death scene for the big dragon where you actually take it down would be mentally satisfying, but still a great game to play. Maybe add a few more interactive items to the environment ( such as certain breakable barrels with a few coins on a slow respawn, rocks or bricks to break or knock down, stuff like that)",
+      "date": 1773523929,
+      "review_helpful_count": 8,
+      "author_display_name": "jim.ernst.6765",
+      "author_alias": "jim.ernst.6765",
+      "developer_response": null
+    },
+    {
+      "id": "1335041198447819",
+      "score": 5,
+      "review_title": "Top bow and arrow game💯💯❤️",
+      "review_description": "I’ve spent a lot of hours in this game and I want to thank the creators!! I have no idea why the ratings for this game is low, it’s really a shame because this game is amazing! The only thing is that I wish there was more DLC stages even though there is enough lol",
+      "date": 1773423229,
+      "review_helpful_count": 3,
+      "author_display_name": "hastylebeats",
+      "author_alias": "hastylebeats",
+      "developer_response": null
+    },
+    {
+      "id": "1072461819291079",
+      "score": 5,
+      "review_title": "Love it! More content please!",
+      "review_description": "I bought this game for my wife and I and my 2 brother's. We're having lots of fun. Please make more content even if it's a DLC.",
+      "date": 1776946417,
+      "review_helpful_count": 0,
+      "author_display_name": "Samson1911",
+      "author_alias": "Samson1911",
+      "developer_response": null
+    },
+    {
+      "id": "925810809989039",
+      "score": 5,
+      "review_title": "Countless hours of fun.",
+      "review_description": "This is tied for first place game next to \"In Death Unchained\" for me. I have put so many hours playing this game and enjoyed all of it. I normally play for less than 45 minutes but I only play arcade mode after a long day at work or a lunch break. Game is 5 stars. Have seen first real issue and that is when in the snow level with the big statue, I can no longer see any flying creatures except for the main dragon that shows up every 5 rounds or so, but they are still taking points off.  I'm sure they will fix this. Even with this temporary bug/flaw, still a 5 star game. Never thought I would enjoy a bow and arrow VR game so much.",
+      "date": 1771023704,
+      "review_helpful_count": 3,
+      "author_display_name": "dTechVR",
+      "author_alias": "dTechVR",
+      "developer_response": null
+    },
+    {
+      "id": "919073737966683",
+      "score": 5,
+      "review_title": "Snowy Mountains - Dragons are invisible",
+      "review_description": "Dear Developer,\nYou have a recent bug that needs a fix. Based on the score the dragons are flying through the gate but they’re invisible to the player.",
+      "date": 1771823075,
+      "review_helpful_count": 0,
+      "author_display_name": "Lead.Spreader",
+      "author_alias": "Lead.Spreader",
+      "developer_response": {
+        "body": "Hey thanks for reporting. This should be fixed now on newest version.",
+        "date": 1773068421
+      }
+    },
+    {
+      "id": "1447826307135238",
+      "score": 4,
+      "review_title": "Not a bad vr tower defense...",
+      "review_description": "My review scale*\n5- Amazing game, while still might not be perfect any flaws are forgivable, is well worth your time\n4- Good game, might have a few minor issues or missed opportunities keeping it from being better, but is very playable and still an enjoyable experience\n3- Mid tier game, not great but not awful, these games can go either way depending on who you are or what you want or expect out of the game\n2- Not a very good game, but not completely broken or unplayable, you might really need to want to play this game to get any enjoyment out of it\n1- Awful game, broken or unplayable, I don't see these games being for anyone unless significant updates fix the game\n\n*This is an overly simplified review scale since meta does not allow for half stars so in some cases I may round a game up or down depending on a case by case scenario, \nmy reviews are always honest and in no way swayed by anybody else and regardless if I received a game for free or not, these ratings and reviews are however part of a \ncampaign for us as consumers to be better about reviewing games and helping bring the games we love the attention they deserve.",
+      "date": 1769388312,
+      "review_helpful_count": 0,
+      "author_display_name": "WickedStewie",
+      "author_alias": "WickedStewie",
+      "developer_response": null
+    },
+    {
+      "id": "860386336589254",
+      "score": 2,
+      "review_title": "",
+      "review_description": "This game can be fun at the start, multiplayer is fun, most people aren’t good and sucks the fun. Even if they were better to play with this game wouldn’t be much more fun. Decent, lack of things to explore and do,  Wouldn’t recommend",
+      "date": 1767743132,
+      "review_helpful_count": 0,
+      "author_display_name": "boogadog",
+      "author_alias": "boogadog",
+      "developer_response": null
+    },
+    {
+      "id": "1340175840917066",
+      "score": 1,
+      "review_title": "Paid DLC content added NOTHING.",
+      "review_description": "Update: after weeks of no response from this developer whatsoever, and many hours of fighting with Meta Store Customer Support, I simply called my credit card company and had them charge back the payment and refund it to me. I made every effort I could to go about getting a refund through the appropriate channels, but since Meta is useless, and this developer doesn’t respond to its customers communications I just took my money back and they can suck it. Don’t buy the DLC kids! You already have it.\n\nOriginal post: I bought the DLC pack only to discover that the advertised content of the DLC was already included in the Elven Assassin game itself, and that all of my friends that had NOT paid for the DLC had access to the same content I did, and I had nothing new. I can’t find any way to contact the game developer through the app, so I’m leaving this review and would like to be contacted and receive a refund.",
+      "date": 1763767065,
+      "review_helpful_count": 2,
+      "author_display_name": "Krobsy",
+      "author_alias": "Krobsy",
+      "developer_response": {
+        "body": "Hello,\n\nWe apologize for the lack of communication on this issue. For future reference, our direct contact is support@wenklystudio.com or discord.\n\nRegarding the DLC value: While it is true that non-DLC players can join matches on new maps, the DLC purchase is required to host these games and control the lobby settings. Additionally, the DLC unlocks exclusive armor sets and weapon bonuses for your character that are not available to other players.\n\nOur philosophy is to avoid splitting the player base, which is why we allow friends to play together regardless of who owns the content. We are sorry if this led to a misunderstanding regarding the purchase.",
+        "date": 1770390141
+      }
+    },
+    {
+      "id": "788750977653887",
+      "score": 5,
+      "review_title": "A good workout, simple and fun.",
+      "review_description": "This game is great, and can give you a decent workout. Arms get tired and ducking axes flying at your head keeps you moving.\n Gold can be tricky to get, but with some perseverance you can unlock better equipment. \nThis is a simple game to play, can be a bit repetitive, and would be nice if you could skip some levels, or do double waves, especially when in a multiplayer with other good people. \nMaybe a custom level builder of what enemies you want to face and how many.\n\nHave had issues with positioning , but now is much better. Tip to help correct it is to hold down meta button to re-centre.\nOverall great game, give it a try.",
+      "date": 1757902683,
+      "review_helpful_count": 22,
+      "author_display_name": "G0bbles",
+      "author_alias": "G0bbles",
+      "developer_response": null
+    },
+    {
+      "id": "926517097205170",
+      "score": 5,
+      "review_title": "Simple yet extremely fun",
+      "review_description": "Fun to play and a great community of players. I especially love the PvP games. I wish more people played this game so that many are online to play PvP at different times of the day.",
+      "date": 1764402766,
+      "review_helpful_count": 1,
+      "author_display_name": "QbitStrike",
+      "author_alias": "QbitStrike",
+      "developer_response": null
+    },
+    {
+      "id": "3774739992658346",
+      "score": 3,
+      "review_title": "Wrong position",
+      "review_description": "UPDATE FOR DEVELOPER: I've now played Version 1.8.1xxFixRecenter_OculusQuest four times, and only once did the positioning work. Other times it was even worse than before.  |||\n\nMuch like previous review, fun except you are always positioned in the wrong place which makes some positions and even some worlds completely unplayable",
+      "date": 1757805533,
+      "review_helpful_count": 6,
+      "author_display_name": "CarlDownUnder",
+      "author_alias": "CarlDownUnder",
+      "developer_response": null
+    },
+    {
+      "id": "861413870386821",
+      "score": 3,
+      "review_title": "Meh",
+      "review_description": "Nice game, but after a couple of logins it becomes repetitive, not rewarding and the fact that all players are using the rapid shooting trick takes the fun out of the game\n\nRequested a refund, but was rejected",
+      "date": 1761999104,
+      "review_helpful_count": 0,
+      "author_display_name": "Biro_2244",
+      "author_alias": "Biro_2244",
+      "developer_response": null
+    },
+    {
+      "id": "818523238010652",
+      "score": 5,
+      "review_title": "Great Coop game for Family",
+      "review_description": "This is a fun, simple game for a group of various skill levels to play. Our family has played this for hours at a time (until the VR battery dies, lol) - From experienced gamers to noobs we can all work together to take out waves of Orcs. \n  As far as the repositioning that other reviewers have stated - our workaround is to always Reset Boundary (roomscale works best) and Reset View - every time we play. Sometimes we have to Reset View multiple times within the game to get it position correctly. But no big deal if you're hovering in space - you can still play fine.",
+      "date": 1759068503,
+      "review_helpful_count": 2,
+      "author_display_name": "bunnyears.1228",
+      "author_alias": "bunnyears.1228",
+      "developer_response": null
+    },
+    {
+      "id": "716424274898111",
+      "score": 3,
+      "review_title": "Nope, still unplayable",
+      "review_description": "I am playing (well, tried to..) on a Quest 3. Still, after the latest patch, when you replied to several comments to say that the positioning/alignment bug is fixed, it is still obviously not. I am spawned ALWAYS with my back to the menus, and ALWAYS outside the circle area in the game. I mean, how hard is it to fix this? Other VR games are doing it right all the time.. maybe ask other devs?",
+      "date": 1758741425,
+      "review_helpful_count": 4,
+      "author_display_name": "TJKhay",
+      "author_alias": "TJKhay",
+      "developer_response": null
+    },
+    {
+      "id": "967569759768491",
+      "score": 4,
+      "review_title": "1 of the best Archer game on VR, fun!",
+      "review_description": "One of the best and most fun Archer game on VR right now (2025) that I found that won't break ur bank neither. If you are looking for a world exploring game, this is not it BUT!!\n\nif you want a simple but fun ARCHER game this is perfect! It has single and Online multiplayer options. You can use spells on your arrows to boost and upgrades, and there is gold to earn to upgrade helmets and bows and stuff like that. The game is kind of AOD game but with archers, u can change spots in the map to defend, others can co op to defend or u can play pvp to shoot each. Both are fun but the AOD part is most fun imo. U fight waves of orcs, Dragons and other creatures trying to kill them before they reach ur castle. I would give it 5 stars if the game would have had even more options on the spells and equipment wise.",
+      "date": 1767754510,
+      "review_helpful_count": 0,
+      "author_display_name": "Minato2025",
+      "author_alias": "Minato2025",
+      "developer_response": null
+    },
+    {
+      "id": "722182310974810",
+      "score": 2,
+      "review_title": "Seems fun but….",
+      "review_description": "The game seems pretty fun but is entirely ruined by the positioning of your character which is 100% of the time placed outside of the playable area. This is even true for the main menu of the game where I spawn outside of the world every time. Shooting an arrow at a tower puts you several meters outside the tower, either hovering in mid air or placed inside the tower structure. \nThe developer says that this bug is fixed, but apparently it’s not\n\nFurthermore, playing as left handed in “left hand mode” swaps the bow and arrows correctly. However, the orientation of the bow is still as if right hand mode meaning the the arrow is loaded from the wrong side, which is extremely awkward",
+      "date": 1751996477,
+      "review_helpful_count": 56,
+      "author_display_name": "OnkelRoevhul",
+      "author_alias": "OnkelRoevhul",
+      "developer_response": {
+        "body": "Thank you for your detailed feedback.\nWe’ve recently fixed the issue with recentering, so your character should now correctly appear inside the playable area.",
+        "date": 1757578914
+      }
+    },
+    {
+      "id": "1724001248254716",
+      "score": 2,
+      "review_title": "Poor.",
+      "review_description": "My sympathies to the developers, but this buggy, clumsy and simplistic game was poor back in the early ‘tech demo’ phase of VR let alone now.\n\nIf it’s your introductory game it could easily sour you to the archery genre or VR in general, but better examples are legion, both paid and free.\n\nEven as a Quest+ inclusion this was not worth my time, as the occluded positioning is not fixed as they claim (at least on the initial elven village)",
+      "date": 1758858739,
+      "review_helpful_count": 2,
+      "author_display_name": "Eunostos",
+      "author_alias": "Eunostos",
+      "developer_response": null
+    },
+    {
+      "id": "815969894939776",
+      "score": 4,
+      "review_title": "Improved graphics in Oct 2025, but...",
+      "review_description": "They did a nice job on the graphics (though the flyers turn to spaghetti).\n\nProblems with player voice comms though.",
+      "date": 1761350798,
+      "review_helpful_count": 0,
+      "author_display_name": "Rachunzero",
+      "author_alias": "Rachunzero",
+      "developer_response": {
+        "body": "Thanks for the review! The problem with the voice should be fixed now.",
+        "date": 1761728759
+      }
+    },
+    {
+      "id": "873497265853437",
+      "score": 5,
+      "review_title": "Génial",
+      "review_description": "Top",
+      "date": 1763145805,
+      "review_helpful_count": 0,
+      "author_display_name": "pepilepepi",
+      "author_alias": "pepilepepi",
+      "developer_response": null
+    },
+    {
+      "id": "785991870739227",
+      "score": 5,
+      "review_title": "My favorite game",
+      "review_description": "I loooove this game! I even made my dad and sister play all together, multipl￼ayer mode is really good. We can talk and have fun together. Also the game is a perfect opportunity for exercising.",
+      "date": 1759858796,
+      "review_helpful_count": 1,
+      "author_display_name": "annyxdiablo",
+      "author_alias": "annyxdiablo",
+      "developer_response": null
+    },
+    {
+      "id": "830222230165948",
+      "score": 2,
+      "review_title": "Pretty decent game",
+      "review_description": "This is a pretty decent game and I'm having fun with it. I like the fact there are different scenes to play in and each scene has various points to shoot from. When the waves of monsters start getting more intense it comes in handy. My only complaints would be that it takes for forever and a day to make enough gold to upgrade your bow and armor and it definitely tires your arms out after a few rounds. I'd like to update this review. I was enjoying it until my boundaries became way off. I can reset the boundaries but that also means moving furniture around my living room to get everything in the correct position. Please fix the boundary issue so I can continue enjoying this game. I wouldn't reccomend this game until they fix this issue.",
+      "date": 1757044892,
+      "review_helpful_count": 0,
+      "author_display_name": "Miltman1979",
+      "author_alias": "Miltman1979",
+      "developer_response": {
+        "body": "Hey, thanks for honest opinion.\n\nNot sure what do you mean by problem with boundaries. Newest patch fixes recentering problems that sometimes players could have contant offset, not being able to recenter position to the middle of shooting platforms.\nMaybe after this change you have to adjust your boundaries once, and there is no way around? Not sure if I understand the issue.\n\nIf you want to talk about it little more, we are happy to help, please reach us: support@wenklystudio.com or join discord 'discord.gg/wenklystudio'\n~Paul",
+        "date": 1757083570
+      }
+    },
+    {
+      "id": "3689267038041296",
+      "score": 1,
+      "review_title": "Fine if you get it for free",
+      "review_description": "This is a 5 star game! Oh wait. Whats that? You... You want 20 dollars for this? Oh my... Well then... Im so sorry but... well.... No. No this game is absolute junk. The sound. The graphics. The shooting. THE POSITIONS!!?! If this game was a sack I would take it out back and beat it and thats well more than it deserves. I'll Update to 5 stars when the price reflects the value.",
+      "date": 1758684913,
+      "review_helpful_count": 0,
+      "author_display_name": "OvertheMeta",
+      "author_alias": "OvertheMeta",
+      "developer_response": null
+    },
+    {
+      "id": "1325065385719541",
+      "score": 1,
+      "review_title": "Garbage , unplayable",
+      "review_description": "this type of games for horizon + really makes you wonder if its worth it , movement is awful, camera placement and menus and into walls is awful , hit detection is also problematic -- if you see your arrow hit it should hit , movement of ai is janky , this game is cheap , is not creative but also not polished , avoid , not worth even if for free , it makes you also wonder for the ratings of games on store how is such game 4 stars? i would not have been this critical if a game was not failing at almost any relevant element , and should have not wasted my time",
+      "date": 1754501829,
+      "review_helpful_count": 4,
+      "author_display_name": "zforz",
+      "author_alias": "zforz",
+      "developer_response": null
+    },
+    {
+      "id": "1147392407414611",
+      "score": 1,
+      "review_title": "Not working properly",
+      "review_description": "Upon entering my positioning is off.. when I do reposition.. it is still way off upon starting the game… the instruction board even appears backwards on this game… I can’t even play the game I paid ( very disappointed) tried everything.. restarting, resetting, and repositioning.. nothing works.",
+      "date": 1750988955,
+      "review_helpful_count": 14,
+      "author_display_name": "CHARLEEBB",
+      "author_alias": "CHARLEEBB",
+      "developer_response": {
+        "body": "We're very sorry to hear about the issues you've encountered. We've just released an update that should resolve the problem you described.\n\nPlease give it a try and let us know if it works better for you now. If everything is working properly, we'd really appreciate it if you could consider updating your review.\n\nIf you're still experiencing any problems, feel free to reach out to us directly at support@wenklystudio.com",
+        "date": 1752054263
+      }
+    },
+    {
+      "id": "764313583437974",
+      "score": 1,
+      "review_title": "Couldn’t get it to work",
+      "review_description": "I have quest 3 headset , installed and tried to play, the bow string was not on the bow and no arrows , no teleporting or shooting, rebooted everything and tried again, nothing works, tell me whats goin on here? Cause I’m losing faith fast.",
+      "date": 1757561434,
+      "review_helpful_count": 1,
+      "author_display_name": "RumbleHamster",
+      "author_alias": "RumbleHamster",
+      "developer_response": {
+        "body": "Sorry to hear you’re experiencing this issue.\nJust to double-check, are you still in the main menu, or did you already select a map and press Start?\n\nIf you’ve started a new game:\n- Arrows should appear in the hand that is not holding the bow\n- You teleport by shooting at the desired spot.\n- Please also make sure you didn’t press the three-line button on your left controller - this pauses the game.\n\nIf you’re sure you’re not in the main menu and the problem still persists, please contact us at support@wenklystudio.com and we’ll help you further.",
+        "date": 1757579824
+      }
+    },
+    {
+      "id": "689716357174496",
+      "score": 4,
+      "review_title": "Doesn't work/ Game has been fixed.",
+      "review_description": "I don’t know if I’m doing something wrong, but I can’t shoot arrows. I don’t see any arrows; it tells me to shoot to teleport, but there are no arrows to shoot. I hope a developer responds to this.\nThe game has been working fine since I received a response from the developers. It turns out I wasn’t doing anything wrong after all, and I really appreciated their prompt reply. \n\nAs for the game itself, it has been quite enjoyable so far. However, I wish there was an option to play while seated and can't see a reason for not having such an option. Given my health issues, I can’t stand for long periods, and I imagine others might prefer to play seated, especially after a long day at work. I would definitely play more if that feature were available. \n\nWhile tower defense games are not my favorite genre, I won’t lower my rating based on my personal preference, but I will take one off for the lack of a seated option.",
+      "date": 1749329002,
+      "review_helpful_count": 21,
+      "author_display_name": "lenefa",
+      "author_alias": "lenefa",
+      "developer_response": {
+        "body": "Hi, you should have arrows in your right hand and the bow in your left – try extending your hands forward and see if you can see your hands and if they are being tracked at all. If you don’t see the arrows or your hands, please contact us at support@wenklystudio.com.",
+        "date": 1749209632
+      }
+    },
+    {
+      "id": "660409660494924",
+      "score": 5,
+      "review_title": "Highly addictive",
+      "review_description": "I got this game recently through Horizon+ and I absolutely love it. It's so addictive. \nIf you like \"Lord of the Rings\", then you will love this game.\n\nReminds me of Steam Labs. There is a similar game alá \"Arrow Tower Defense\".\n\nNicely done. \n\nOne negative point though: it takes ages to make some gold. Would love to buy a new arrow, but I need to invest lots of additional hours of gameplay.",
+      "date": 1749792281,
+      "review_helpful_count": 10,
+      "author_display_name": "PestLegion",
+      "author_alias": "PestLegion",
+      "developer_response": null
+    },
+    {
+      "id": "24150773154543370",
+      "score": 1,
+      "review_title": "Position issues ruined it",
+      "review_description": "This used to be a great game but recently, the positioning of your character is drastically off.  It makes it unplayable.  Have the devs abandoned it?",
+      "date": 1755320859,
+      "review_helpful_count": 2,
+      "author_display_name": "Voodue",
+      "author_alias": "Voodue",
+      "developer_response": {
+        "body": "UPDATE:\nAs promised, we're letting you know that we updated the game and this problem is fixed now. \n\nThank you for reporting the issue. We haven’t abandoned the game and are actively working on fixing this bug. We will inform players as soon as it’s resolved.",
+        "date": 1757578704
+      }
+    },
+    {
+      "id": "676830355520788",
+      "score": 3,
+      "review_title": "Fun but...",
+      "review_description": "The shooting physics seems off, or maybe it's meant to be that hard, but I find it almost impossible to target steady. \nA tutorial for aiming might help, but I couldn't find one.\nAlso, can you block the axe throw? It's unclear whether I blocked one by dumb luck or if there's a defensive option... does crouching dodge them? \nThe reload gets a little laggy for me too, which sets me off a bit.\nI've played 5 or 6 times and haven't managed to defend the keep once lol I have no idea how many waves I need to reach to succeed.  I've gotten to wave 11.\n I'll keep trying because I love archery games and fantasy, so the recipe is good, just aiming mechanics need some work.",
+      "date": 1752597471,
+      "review_helpful_count": 0,
+      "author_display_name": "Takpaw",
+      "author_alias": "Takpaw",
+      "developer_response": {
+        "body": "Thank you for playing Elven Assassin! \nYou can block an axe by crouching. Also, you can buy a spell with a shield or buy equipment that gives you a chance to avoid an axe. \nThere is no 'finish. ' The main point is to survive as many waves as possible. There are also two escort missions with finish points. \nWe encourage you to join our Facebook group where you can meet other Archers and ask us questions: https://www.facebook.com/groups/251016633313762",
+        "date": 1753181830
+      }
+    },
+    {
+      "id": "803947736124484",
+      "score": 1,
+      "review_title": "Could be good....",
+      "review_description": "Basically, i've found this game spawns you in a wall.\n\neven in the room you map playing it first time. After that, spawn in wall and can't play...",
+      "date": 1755051042,
+      "review_helpful_count": 0,
+      "author_display_name": "WindowLicker84",
+      "author_alias": "WindowLicker84",
+      "developer_response": {
+        "body": "UPDATE:\nAs promised, we're letting you know that we updated the game and this problem is fixed now. \n\nWe’re sorry for this issue – we’re currently working on fixing it. We will inform players as soon as it’s resolved.",
+        "date": 1757578730
+      }
+    },
+    {
+      "id": "817051364816502",
+      "score": 1,
+      "review_title": "Low effort",
+      "review_description": "Trash tier",
+      "date": 1757014215,
+      "review_helpful_count": 1,
+      "author_display_name": "tyci",
+      "author_alias": "tyci",
+      "developer_response": {
+        "body": "Hi, sorry you didn't like the game. Elven Assassin was released in 2019 so it is pretty old game. We put horrendous amount of work into this title, but as I understand the gameplay is too simple for you. This is fine, thanks for trying the game anyway!\n~Paul",
+        "date": 1757083701
+      }
+    },
+    {
+      "id": "781196631750176",
+      "score": 1,
+      "review_title": "This Game crashed my VR Headset",
+      "review_description": "I played it for like 5 minutes but then when i tried to leave the game it showed ke that i was out of my boundary, even though i was in my boundary, then when i went to create a new boundary so i could play on, it would show that i was clicking create a boundary but it wouldn't let me create one.",
+      "date": 1758626804,
+      "review_helpful_count": 0,
+      "author_display_name": "Josonko",
+      "author_alias": "Josonko",
+      "developer_response": null
+    },
+    {
+      "id": "744542034776196",
+      "score": 1,
+      "review_title": "I don’t get it",
+      "review_description": "This game seems to have a lot of positive reviews, but for me even though the game was free on horizon plus I still felt robbed. Looks like a sixth form programming project. Mechanic is all off. Zero realism. Uninstalled faster than it took to install",
+      "date": 1750804746,
+      "review_helpful_count": 4,
+      "author_display_name": "mondayuk",
+      "author_alias": "mondayuk",
+      "developer_response": {
+        "body": "Thanks for playing and for sharing your feedback, we really appreciate it.\nThis is a defend-the-castle type game, and we understand that this type of gameplay isn’t for everyone. Still, we hope you might give it another try in the future and perhaps grow to enjoy it. You’re always welcome back!",
+        "date": 1751283183
+      }
+    },
+    {
+      "id": "717945427503975",
+      "score": 2,
+      "review_title": "Bought DLC ... now what?",
+      "review_description": "I purchased the new DLC and have been excited to play - my app is unchanged and there's no option to update or install. How do I launch the new maps ?  All it is showing is my same old Elven Assassin",
+      "date": 1751763309,
+      "review_helpful_count": 0,
+      "author_display_name": "fivemanjob",
+      "author_alias": "fivemanjob",
+      "developer_response": {
+        "body": "Thanks for reaching out! We're here to help you with this issue.\n\nAfter purchasing the DLC, when you're at the \"Choose Location\" screen, you should see two logos on the left side: Elven Assassin and Elven Assassin: Rise of Darkness. Please click on the Rise of Darkness logo - this should display the new maps.\n\nAlso, check if you have access to new gear sets - these should be available after purchasing the DLC.\n\nIf you're still not seeing the new content, please contact us at support@wenklystudio.com and we'll assist you further.",
+        "date": 1751893858
+      }
+    },
+    {
+      "id": "787629324424185",
+      "score": 1,
+      "review_title": "Feels like a bad asset flip",
+      "review_description": "As the title says this game feels like an asset flip with poor controls, the arrows physics feel quite bad especially compared to other games and the animation feels stiff",
+      "date": 1755432351,
+      "review_helpful_count": 0,
+      "author_display_name": "Mangoshield",
+      "author_alias": "Mangoshield",
+      "developer_response": {
+        "body": "Hi, sorry you didn't like the game. Elven Assassin was released in 2019 so it is pretty old game. We put horrendous amount of work into this title, but as I understand the gameplay is too simple for you. This is fine, thanks for trying the game anyway!\n~Paul",
+        "date": 1757083867
+      }
+    },
+    {
+      "id": "777376038414683",
+      "score": 2,
+      "review_title": "Can’t aim properly",
+      "review_description": "Not sure how you’re supposed to play this. If I’m looking in the distance at my target, I’m seeing the bow & arrow in double vision in my foreground field of view. Am I supposed to play the whole game with one eye shut so I can tell where I’m aiming?  No thanks.",
+      "date": 1758941149,
+      "review_helpful_count": 0,
+      "author_display_name": "ryesteve",
+      "author_alias": "ryesteve",
+      "developer_response": null
+    },
+    {
+      "id": "708089832386158",
+      "score": 1,
+      "review_title": "Not working at all",
+      "review_description": "The game not even load, I only see the titles and after that black screen for 10 minutes and it’s go on for black screen nothing show ￼don’t even waste your money!!! it’s a scam!!",
+      "date": 1751865688,
+      "review_helpful_count": 1,
+      "author_display_name": "Chocofairy",
+      "author_alias": "Chocofairy",
+      "developer_response": {
+        "body": "EDIT: We've just released an update that resolves the issue you described. Please check if everything works now, and if it does, we’d love for you to give it another try and share your thoughts with us here!\n\nThank you for bringing this to our attention. We're aware of the issue and our team is actively working on a solution.\nWe’ll keep you updated and let you know as soon as it’s fixed. \n\nWe appreciate your patience and understanding.",
+        "date": 1751981584
+      }
+    },
+    {
+      "id": "24129472546688417",
+      "score": 1,
+      "review_title": "Not as advertised or reviewed",
+      "review_description": "The game is filled with bugs. This was a waste of money. I regret buying it for our two devices. I will be asking for my money back. Do not purchase!",
+      "date": 1751331265,
+      "review_helpful_count": 3,
+      "author_display_name": "Robzy99",
+      "author_alias": "Robzy99",
+      "developer_response": {
+        "body": "We're very sorry to hear that you’ve encountered bugs in the game. That’s definitely not the experience we want for our players. Please reach out to us at support@wenklystudio.com -  we’d love to help you resolve the issue and improve your experience.",
+        "date": 1751981675
+      }
+    },
+    {
+      "id": "1456234018897634",
+      "score": 1,
+      "review_title": "Buggy mess",
+      "review_description": "I just constantly am placed in the air or in geometry, pressing the meta button doesnt resolve it. Blank menus with nothing to select, arrows not notching. Tried to play but unusable",
+      "date": 1750348544,
+      "review_helpful_count": 4,
+      "author_display_name": "raya565",
+      "author_alias": "raya565",
+      "developer_response": {
+        "body": "We’re very sorry you ran into this issue. We’ve just pushed an update that should fix it.\n\nGive it another try and let us know how it goes. If it's all working now, we’d be so grateful if you’d consider updating your review.\n\nStill having problems? Please contact us at: support@wenklystudio.com",
+        "date": 1752054303
+      }
+    },
+    {
+      "id": "738734062658728",
+      "score": 1,
+      "review_title": "Cant play",
+      "review_description": "the game won’t give me a tutorial and cant do anything because I don’t know how to play",
+      "date": 1754151550,
+      "review_helpful_count": 0,
+      "author_display_name": "combatEthan1",
+      "author_alias": "combatEthan1",
+      "developer_response": {
+        "body": "Thank you for purchasing our game! We're sorry to hear that you're having trouble getting started. Please contact our support team at support@wenklystudio.com and let us know which headset you're using - we'll be happy to explain everything and help you get started.",
+        "date": 1754310975
+      }
+    },
+    {
+      "id": "1141521657748045",
+      "score": 4,
+      "review_title": "Ok",
+      "review_description": "Overall, this is a good game with decent gameplay. You basically shoot monsters that are trying to invade your base, and there are some spells that add variety and keep things interesting. In my opinion, it’s best played in co-op mode because playing solo can get a bit tedious and less exciting. The main downside for me is the graphics quality and overall aesthetic, which still feels like something from the early days of VR. I think it could look much better, especially on the Quest 3. It’s great that they’ve added new maps and enemies, but considering how long this game has been around, it feels like it hasn’t seen enough meaningful improvements over time. Also, for the current price, I would expect a bit more content and polish.",
+      "date": 1743781905,
+      "review_helpful_count": 21,
+      "author_display_name": "kaszawanna",
+      "author_alias": "kaszawanna",
+      "developer_response": null
+    },
+    {
+      "id": "682943148241267",
+      "score": 4,
+      "review_title": "Great with the update",
+      "review_description": "Works really well with the update. A good bit of fun!",
+      "date": 1752054451,
+      "review_helpful_count": 1,
+      "author_display_name": "MrTumnas",
+      "author_alias": "MrTumnas",
+      "developer_response": null
+    },
+    {
+      "id": "643061588898324",
+      "score": 3,
+      "review_title": "VR alignment",
+      "review_description": "This game is very aligned in position with surroundings. It makes it difficult to stay in rhelm.",
+      "date": 1750782257,
+      "review_helpful_count": 0,
+      "author_display_name": "Legolas513",
+      "author_alias": "Legolas513",
+      "developer_response": {
+        "body": "Sorry about the issue you faced! We've just released an update that should fix it.\nPlease try again and let us know if things are back to normal. \n\nStill not working? Reach us anytime at support@wenklystudio.com",
+        "date": 1752054288
+      }
+    },
+    {
+      "id": "2564287833918759",
+      "score": 1,
+      "review_title": "Frustrating control system",
+      "review_description": "The movement is flawed and annoying, gameplay is boring and repetitive and the audio is annoying and repetitive.",
+      "date": 1749204697,
+      "review_helpful_count": 4,
+      "author_display_name": "PeteBadger",
+      "author_alias": "PeteBadger",
+      "developer_response": null
+    },
+    {
+      "id": "1190861862594077",
+      "score": 4,
+      "review_title": "Alignment",
+      "review_description": "Usually when you talk about elves and alignment you talk about chaotic good or neutral...  I am talking about floating 20 feet from my designated position... Recentering bounces me around a circle at the same distance and while it might make head shots easi\ner since you are standing over the trolls it makes it real hard to operate the ballista or horn or or or....  Can a programmer take a look and patch please?",
+      "date": 1741322716,
+      "review_helpful_count": 9,
+      "author_display_name": "TheRealTempest2",
+      "author_alias": "TheRealTempest2",
+      "developer_response": {
+        "body": "Thank you for playing our game!\n\nThe problem you described has already been fixed in the latest update.\nPlease try restarting the game and see if your positioning is now correct. If everything works fine, we’d really appreciate it if you could consider updating your review.\nIf the issue persists, feel free to contact us directly at support@wnklystudio.com",
+        "date": 1751283006
+      }
+    },
+    {
+      "id": "620536427819241",
+      "score": 1,
+      "review_title": "Can't move, can't draw.",
+      "review_description": "What do you expect from a free game",
+      "date": 1751431988,
+      "review_helpful_count": 1,
+      "author_display_name": "britishshock",
+      "author_alias": "britishshock",
+      "developer_response": {
+        "body": "UPDATE: We've released an update that resolves the issue you described. Please check if everything works now, and if it does, we’d love for you to give it another try and share your thoughts with us here!\n\nThanks for your message. We're aware of this issue and are actively working on a fix. We'll let you know as soon as it's resolved.\n\nThanks for your patience and support!",
+        "date": 1757578955
+      }
+    },
+    {
+      "id": "1126127272607312",
+      "score": 3,
+      "review_title": "Meh",
+      "review_description": "No physics so you cannot hold the bow how you like and a very simple game probably more directed for kids to play.",
+      "date": 1749411849,
+      "review_helpful_count": 0,
+      "author_display_name": "T3ttras",
+      "author_alias": "T3ttras",
+      "developer_response": null
+    },
+    {
+      "id": "1039874304863233",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "Amazing game",
+      "date": 1752908317,
+      "review_helpful_count": 0,
+      "author_display_name": "darkzio",
+      "author_alias": "darkzio",
+      "developer_response": null
+    },
+    {
+      "id": "631158903201650",
+      "score": 5,
+      "review_title": "Top three games on platform!",
+      "review_description": "The excellent graphics and detailed game play make this one of my top 3 favorites. Smooth and complex action. Archery is a real-life hobby for me and I appreciate the physics and mechanics here.",
+      "date": 1740640195,
+      "review_helpful_count": 3,
+      "author_display_name": "chriska23",
+      "author_alias": "chriska23",
+      "developer_response": null
+    },
+    {
+      "id": "596808830176471",
+      "score": 5,
+      "review_title": "Lord of the Rings Legolasstyle",
+      "review_description": "Such a intense game in a beautiful scenery. The enemies are looking great and are impressive. Like to play it a lot and recommend it. Hoping for even more levels and enemies in the future.",
+      "date": 1740580981,
+      "review_helpful_count": 3,
+      "author_display_name": "Onemangang271720",
+      "author_alias": "Onemangang271720",
+      "developer_response": null
+    },
+    {
+      "id": "633066366245491",
+      "score": 5,
+      "review_title": "Eleven assassin",
+      "review_description": "Having trouble updating???",
+      "date": 1742860432,
+      "review_helpful_count": 0,
+      "author_display_name": "Carson1965",
+      "author_alias": "Carson1965",
+      "developer_response": null
+    },
+    {
+      "id": "648571134530522",
+      "score": 5,
+      "review_title": "Legolas Simulator",
+      "review_description": "I’ve spent a ton of time in Elven Assassin, and it’s easily one of the most fun and immersive archery games in VR. Whether you’re playing solo or teaming up with friends, there’s something incredibly satisfying about nailing headshots on waves of orcs while dodging incoming axes and fireballs. The mechanics are smooth, and the difficulty ramps up in a way that keeps things exciting without feeling overwhelming.\n\nOne of my favorite aspects of the game is the co-op mode—nothing beats the chaos of defending a village together while trying to outscore your friends. And if you’re into PvP, the duels can get pretty intense. The devs have done a great job keeping the game fresh with updates, and the Dwarves expansion was a really cool addition (I may or may not have done some of the voice work for that one).\n\nIf you’re looking for a VR game that’s easy to pick up but hard to master, Elven Assassin is definitely worth checking out. Just be ready for some serious arm fatigue—those orcs don’t stop coming!",
+      "date": 1742333737,
+      "review_helpful_count": 2,
+      "author_display_name": "JamesTheJacked",
+      "author_alias": "JamesTheJacked",
+      "developer_response": null
+    },
+    {
+      "id": "623145596761369",
+      "score": 5,
+      "review_title": "簡單好玩",
+      "review_description": "跟朋友一起玩很有趣",
+      "date": 1737608616,
+      "review_helpful_count": 1,
+      "author_display_name": "AkiraYeh",
+      "author_alias": "AkiraYeh",
+      "developer_response": null
+    },
+    {
+      "id": "585742817955419",
+      "score": 4,
+      "review_title": "My favorite game so far",
+      "review_description": "Do you want a cardio in a middle earthian tower war setting? This is the game for that\n\nBut my arms are so tired",
+      "date": 1742081410,
+      "review_helpful_count": 0,
+      "author_display_name": "seibun",
+      "author_alias": "seibun",
+      "developer_response": null
+    },
+    {
+      "id": "1207064517085818",
+      "score": 1,
+      "review_title": "Why no free movement?",
+      "review_description": "This sucks",
+      "date": 1725878927,
+      "review_helpful_count": 5,
+      "author_display_name": "Nightlore",
+      "author_alias": "Nightlore",
+      "developer_response": {
+        "body": "Thank you for your feedback.  In the game, most of the movement happens between towers, so teleportation is the best solution.",
+        "date": 1737033740
+      }
+    },
+    {
+      "id": "1430827711648135",
+      "score": 5,
+      "review_title": "Good replayability",
+      "review_description": "I really like to play the archery mini-game in “The Lab”, which is not available on the Quest, so I was looking for an alternative.  Elven Assassin does a great job delivering.  While archery in The Lab has a certain cartoony charm, Elven Assassin is a more fun and feature-rich game.  Multiplayer mode is particularly fun.  While Elvin Assassin does have some flaws, I do recommend it if you like archery games.\n\nThe developers seem to be good about making regular updates.  I like that the armor and bows you can buy now provide special modifiers and actually protect you.  I also appreciate that you can now disallow those archers who use the cheat to shoot ridiculously fast.  Many of the environments look great on the Quest 3 though a few of them still seem a bit pixelated.\n\nThe new “Rise of Darkness” DLC adds 3 new gorgeous spooky environments with new undead monsters, two new articles or armor and 5 new “Dark” spells.  Two of the three new levels are expansive and seem designed for larger multiplayer groups and one environment is smaller and would be more fun to play solo or a smaller group.  The DLC is therefore probably most interesting to people who like playing in larger multiplayer groups or to people with enough spell points to make the 5 new spells interesting or to those who are just into things spooky.\n\nThis game should have a tutorial for teaching new players the basics and how to use magic.  Protecting the Dwarves and escorting the elf princess provide fun environments that are sort of like a campaign though it seems like it would be straightforward to string all the different environments into a more fun bigger adventure or even let the user pick for themselves which environments to string together.  I might just want 2-3 environments if I want a shorter game or all of them if I want a long campaign.  Like I might want to start at the village and if you get to level 80 you get to go to the next environment and eventually get to the level where you repel their ships off at the coast and win, but if you don’t make it to level 80 you go back to the previous environment.\n\nAn earlier update did make it possible to skip the first 30 “introductory” attack waves to start a multiplayer game at a harder starting point which was a big improvement.  I wish you could also skip the first 30 levels in single-player mode as well.\n\nI find it frustrating that when you bring up the menu while you are playing that you are not shown more about how well each player is doing.  You only get such feedback when the game ends.  Details like who are the best players, how many points you need to get to achieve the next level or how much money each player has won in the current game would be nice to see while playing. \n\nIt seems odd that ogres only throw an axe at you after you hit them with an arrow.  They never throw an axe on their own initiative.  Also odd that the snowy world does not show a single fire anywhere to keep anybody warm.  In all locations, the shadows oddly never seem to jive with where the sun is located.  Why don’t you ever see the villagers?  You would think they would cheer the players on from time to time, say thanks or at least say something other than “They’re breaking in” in an accent that just feels out of place.  But these are nitpicks.",
+      "date": 1718154296,
+      "review_helpful_count": 15,
+      "author_display_name": "ybrianc",
+      "author_alias": "ybrianc",
+      "developer_response": null
+    },
+    {
+      "id": "312756881926573",
+      "score": 5,
+      "review_title": "Elfin assassins",
+      "review_description": "Wow. I got occulant has an unexpected gift. The first game I played was elfin Assassins. My brother and I enjoy teaming up. We played defend the bay to hone my archery skills. Then explored more of the worlds-graphics are incredible and challenges await. Some will overwhelm you as a single player. You need multi player back up! lol.",
+      "date": 1717031285,
+      "review_helpful_count": 3,
+      "author_display_name": "Jethunter777",
+      "author_alias": "Jethunter777",
+      "developer_response": null
+    },
+    {
+      "id": "231636446693794",
+      "score": 1,
+      "review_title": "really dumb game",
+      "review_description": "stand in one spot and shoot orcs. dont waste your money. cant do returns on this game.",
+      "date": 1706212564,
+      "review_helpful_count": 2,
+      "author_display_name": "leestanley01",
+      "author_alias": "leestanley01",
+      "developer_response": {
+        "body": "Sorry to hear you do not like the gameplay so far. Let me note that Elven Assassin brings the best experience when playing in multiplayer, so we fully recommend trying it out with others... or fighting against them. :)  Kindest regards - Aleksandra, Wenkly Studio",
+        "date": 1706529632
+      }
+    },
+    {
+      "id": "254627420644178",
+      "score": 1,
+      "review_title": "Regret",
+      "review_description": "I got this game in a bundle, I uninstalled it after trying multiple times to like it; but I just couldn't get past the poor graphics/ unrealistic mechanics/ the way you move/ honestly there was close to nothing I actually liked about it. Normally, I absolutely love Tower Defence, so this was disappointing. The only redeeming factor was that the other game (in death: unchained) was so amazing that I was happy to waste money knowing I had found my new favorite game bundled with this.",
+      "date": 1688808894,
+      "review_helpful_count": 6,
+      "author_display_name": "710kyle",
+      "author_alias": "710kyle",
+      "developer_response": {
+        "body": "We are sorry to hear the game did not meet your expectations. Your review is appreciated and I hope you give us another chance in the future as there is still a lot to come :) Kind regards - Aleksandra, Wenkly Stuidio",
+        "date": 1688980855
+      }
+    },
+    {
+      "id": "216271614701322",
+      "score": 1,
+      "review_title": "Awkward to say the least",
+      "review_description": "You can move positions but unable to turn to get better shots. Aiming n shooting are way off. I hit several targets and game has zero response. Needs some re-engineering to be more playable.",
+      "date": 1691333738,
+      "review_helpful_count": 3,
+      "author_display_name": "craqcon",
+      "author_alias": "craqcon",
+      "developer_response": {
+        "body": "We are sorry to see you are struggling with some problems with shooting an playing in general and we understand you would like these aspects to be improved. If you have nay specific suggestions on how we can do that, please do not feel free to share them with us. Regards - Aleksandra, Wenkly Studio",
+        "date": 1691403190
+      }
+    },
+    {
+      "id": "113443148278675",
+      "score": 1,
+      "review_title": "Boring",
+      "review_description": "I found it super booring and super low quality game.",
+      "date": 1671089253,
+      "review_helpful_count": 4,
+      "author_display_name": "Pandeo",
+      "author_alias": "Pandeo",
+      "developer_response": {
+        "body": "We are sorry that the solutions that are implemented in our game do not suit your taste. We recommend giving the game a second chance. Have you tried the PvP mode? Best Regards. Maciej. Wenkly Studio",
+        "date": 1671193204
+      }
+    },
+    {
+      "id": "107994978419611",
+      "score": 3,
+      "review_title": "Elven veteran",
+      "review_description": "I first played Elven Assassin a couple years ago in a VR business locally. It rocked. This version is almost identical. Duck the whirling dervish or the flamethrower dragon. Thumbs up.",
+      "date": 1640461759,
+      "review_helpful_count": 1,
+      "author_display_name": "GrampsCracker",
+      "author_alias": "GrampsCracker",
+      "developer_response": null
+    },
+    {
+      "id": "108395954952512",
+      "score": 5,
+      "review_title": "Definitely  a fun game",
+      "review_description": "This is almost hands down my favourite game. Only downside is my arm is killing me from playing so much. 😅",
+      "date": 1633817882,
+      "review_helpful_count": 1,
+      "author_display_name": "Bamboozled_",
+      "author_alias": "Bamboozled_",
+      "developer_response": null
+    },
+    {
+      "id": "103383458545909",
+      "score": 3,
+      "review_title": "More levels",
+      "review_description": "With co op 4 there is not enough shooting portals on first 4 levels",
+      "date": 1618262853,
+      "review_helpful_count": 1,
+      "author_display_name": "marini82",
+      "author_alias": "marini82",
+      "developer_response": null
+    },
+    {
+      "id": "114583843888733",
+      "score": 3,
+      "review_title": "Private games are easy to hack",
+      "review_description": "Can someone please make the code for private games a 3 digit code and not a 2 digit? My group had two people join our game randomly and then we couldn’t kick them out, so we left. Except I later found out it didn’t kick them out when we left, so they essentially cheated and took over our wave 30. \n\nIn addition, can you please make an option where the Host can kick out people who join their private game? I’d hate to do a ton of work getting to a high wave count for some freeloaders to hop in on my game because they managed to figure out my 2 digit code. \n\nOtherwise I LOVE this game, but my issues above really make me angry. I want to play with my friends, not random button mashing kids who steal private games.",
+      "date": 1611968565,
+      "review_helpful_count": 2,
+      "author_display_name": "hamiltontankgirl",
+      "author_alias": "hamiltontankgirl",
+      "developer_response": null
+    },
+    {
+      "id": "108523161164159",
+      "score": 4,
+      "review_title": "Things to change",
+      "review_description": "Love the game!! But there are some things that should change. \n1st: you should be able to change your chest plate on the game. You can buy a better bow, a better helmet. But you can't get better breastplate and your armor looks incomplete and basic. Along with that the armour looks cool, I get it. But there should be more purpose than looking good. It should decrease the likely hood of damage from axes, dragons, and trolls. And having more armour to choose from would be nice and awesome but of course this request isn't as necessary.\n2nd: More kinds of spells and magical arrows. The highest magic is when you are at lvl 35. There should be more kinds and more that you can equip instead of 4 slots. And more higher levels. Another thing is I like the fire and ice idea. There could be earth and or wind. Just a thought. Also it would be cool to have different default arrows. Like poison on the arrows but limited use and so on. But in my opinion it should be a much higher level to do that. \n3rd: Confirm purchases with armour.I have many times accidentally bought armour. It was very expensive and took all my gold and it was soooo annoying. So there should be a way to confirm the purchase so if you do accidentally click on it you can back out of it. And along with that you should be able to sell armour back for gold. \n4th: on single player games there is NO good spots to shoot. And you are alone. You can't even kill anyone without moving spots and that is a pain. There should be that spot in the middle again or a spot that you can shoot everywhere without moving spots. The current map should be used for multiplayer games. \n5th: This game is fun to play but can easily get boring. This is because it is repetitive and there is rarely any change. Maybe it would be more fun and engaging if there were more creatures or slightly different games or difficulties. \n\nI hope this will be useful to improve this awesome game.",
+      "date": 1609602296,
+      "review_helpful_count": 5,
+      "author_display_name": "lilaclizard13",
+      "author_alias": "lilaclizard13",
+      "developer_response": null
+    },
+    {
+      "id": "107679227917521",
+      "score": 5,
+      "review_title": "My favourite VR game",
+      "review_description": "At first it seems like a cheap low budget game... BUT I have played this game more than ANY OTHER in my library. It’s just so fun. Especially when you get good at shooting. \n\nLike others have said, it seems like an alpha version of a game because there aren’t many skills, items, combat variety, and the shop prices are way off. Even adding a personal best to the levels or kill count would make it more interesting (think Gimly vs Legolas).\n\nI really enjoy this and hope there will be more of it.",
+      "date": 1609194651,
+      "review_helpful_count": 2,
+      "author_display_name": "Swampwater",
+      "author_alias": "Swampwater",
+      "developer_response": null
+    },
+    {
+      "id": "135099791654013",
+      "score": 1,
+      "review_title": "Locks up",
+      "review_description": "Locks up and the app bombs. It’s become so frequent it’s unplayable.\n\nThe screen will freeze in the middle of action. It could be most anything—when I turn, when I duck. If I don’t exit the game it will eventually exit the game and give me the option to open or close the app. When it locks the audio is often still going.\n\nIt started happening about once every ten games but has gotten progressively worse. It’s now happening 4 out of 5 games. \n\nI normally completely shut off the headset when not in use.",
+      "date": 1600357052,
+      "review_helpful_count": 9,
+      "author_display_name": "AKBillTheCat",
+      "author_alias": "AKBillTheCat",
+      "developer_response": {
+        "body": "Hi! Thank you for this comment. We are very sorry that you have problems with Elven Assassin. Could you tell us under what conditions the game is crashing? We would be very grateful for your answer. We care about that because it will help us to understand and fix the error. \nBest regards,\nKamil, Wenkly Studio",
+        "date": 1600337358
+      }
+    },
+    {
+      "id": "137535538043083",
+      "score": 1,
+      "review_title": "Not for casual players",
+      "review_description": "I cannot recommend this game to my friends because it's too hard. Why spend $15 to feel like a loser? I recommend to the developers to dial back the difficulty. This might otherwise be a good game if it weren't so soul crushing.",
+      "date": 1599369988,
+      "review_helpful_count": 2,
+      "author_display_name": "jayseekah",
+      "author_alias": "jayseekah",
+      "developer_response": {
+        "body": "Hi! Thank you for your opinion! The game may seem a little difficult and overwhelming at first, but with time it is simpler. With buying and improving spells, enemies are much easier to defeat, making the waves easier to survive. We hope you will give Elven Assassin a second chance and change your opinion. Best regards,\nKamil, Wenkly Studio",
+        "date": 1599472540
+      }
+    },
+    {
+      "id": "147976660112170",
+      "score": 2,
+      "review_title": "Unimpressed. Felt like a free phone app.",
+      "review_description": "This game felt like a free phone app. First and foremost the lack of instructions is messy. It tells you basically \"don't let the bad guys into the village,\" but it doesnt tell you how to navigate the menu (you point your right hand and click on of the standing positions), how to switch vantage points (shoot the glowing places to stand there), or why your screen suddenly turns red and you cant shoot sometimes (it means a bad guy attacked you (which is odd for a tower defense game) and you just have to sit there helpless for a while), or how to dodge attacks (move to another vantage point before the projectile gets you). I didnt even know spells were a thing before I figured out how to get around the menu, and turns out you can only use them in multiplay mode.\n\nWhile the lack of instructions was annoying, the control scheme is worse. The draw strength doesnt mean anything (if you barely pull the arrow flies same velocity as full draw back), the aim is incredibly fickle and not life like (although my comparisons to life like could be harsh due to me using a bow as a hobby, I'm an active archer in real life), and the only way to avoid attacks is to switch vantage points, and pulling that off with the inconsistent aim of the bow is quite difficult.\n\nIn conclusion I would have to say that, despite nitpicking, is an ok game. Not great but ok. This is the kind of quality I would expect from a free app. The base idea is great, hence me giving it more than one star, but you cant charge money for an app with this low of quality.",
+      "date": 1590390615,
+      "review_helpful_count": 3,
+      "author_display_name": "ZephyrTheDreamer",
+      "author_alias": "ZephyrTheDreamer",
+      "developer_response": {
+        "body": "Hello ZephyrTheDreamer, thank you so much for your opinion and suggestions. We will definitely work on improving the aspects that you've mentioned. Consider checking back the game someday later. We would love to hear if this got any better for you.",
+        "date": 1592666188
+      }
+    },
+    {
+      "id": "123667919145971",
+      "score": 1,
+      "review_title": "Wish Ir had no star",
+      "review_description": "This game sucks and I really don’t like it one bit it’s just so basic and repetitive I can’t justify spending that money on it really a rubbish game sorry to the dev team I really am but this is a load of crap",
+      "date": 1579726293,
+      "review_helpful_count": 2,
+      "author_display_name": "D3AD5H0T420",
+      "author_alias": "D3AD5H0T420",
+      "developer_response": {
+        "body": "Dear D3AD5SH0T420,\nThank you for your comment despite it's sad to hear that. The game is still developed, there will be things added and improved in the future, we have plans on adding some new locations and enemies in order to multiply the gameplay scenarios and make it more interesting. Have you tried multiplayer deathmatch? There's more dynamic and skill-based gameplay - it might be interesting for you.\nCheers, EA Team",
+        "date": 1594915994
+      }
+    },
+    {
+      "id": "134330707938049",
+      "score": 1,
+      "review_title": "Dont buy",
+      "review_description": "This game was hyped by the reviews and this game really is bad. Mechanic is terrible and there is no tutorial on how to do certain things. I tried playing it a few times cant get into it so irritated I got this.",
+      "date": 1569927099,
+      "review_helpful_count": 5,
+      "author_display_name": "Dragonvang87",
+      "author_alias": "Dragonvang87",
+      "developer_response": {
+        "body": "Hi!\n\nThank you for your opinion. We are sorry to hear that you do not recommend our game. We have some tutorial information that appears with the first launch of the game on how to teleport for example. You can also find some information on how to use spells in the lobby or a controllers guide which is available from in-game settings. Would you mind telling us what tutorial aspects we should consider adding? That way we can improve in the future.\n\nBest regards,\nKamil, Wenkly Studio",
+        "date": 1599055649
+      }
+    },
+    {
+      "id": "104215985072258",
+      "score": 3,
+      "review_title": "Can’t conitinue play",
+      "review_description": "There seems to be a bug when the game ends if you want to continue. After clicking continue it says do you really want to quit, rather then letting me continue. \nTodd.",
+      "date": 1615031886,
+      "review_helpful_count": 0,
+      "author_display_name": "DellWeav",
+      "author_alias": "DellWeav",
+      "developer_response": null
+    },
+    {
+      "id": "104135948150829",
+      "score": 5,
+      "review_title": "Great Time.",
+      "review_description": "Multiplayer is awesome. Had a blast playing with my friend, keep up the good work and please add more content whenever you can!",
+      "date": 1603064271,
+      "review_helpful_count": 1,
+      "author_display_name": "MarCoco88",
+      "author_alias": "MarCoco88",
+      "developer_response": null
+    },
+    {
+      "id": "103567485277867",
+      "score": 5,
+      "review_title": "Enjoyable and Extremely good",
+      "review_description": "Won't regret it, easy to play, great Graphics. Recommend to everyone \n\n~~~~Overall About the game~~~~\n\nMultiplayer- a great community of people, might have to use your mic. You can create a private room for only your friends and you. \nSingle- it's harder to go through the levels alone but if you add friends in it will quite easy and fun.\nPVP- Extremely cool! You have a great variety of maps you can play in, and the PVP is only (free from all) so overall it's you V.S others.",
+      "date": 1622354927,
+      "review_helpful_count": 2,
+      "author_display_name": "WhiteRice_Evv",
+      "author_alias": "WhiteRice_Evv",
+      "developer_response": null
+    },
+    {
+      "id": "103061745525927",
+      "score": 5,
+      "review_title": "",
+      "review_description": "I cannot stop playing this game, I absolutely love it.\n￼",
+      "date": 1636221907,
+      "review_helpful_count": 0,
+      "author_display_name": "briersgma",
+      "author_alias": "briersgma",
+      "developer_response": null
+    },
+    {
+      "id": "103038824462547",
+      "score": 4,
+      "review_title": "Elven assassin",
+      "review_description": "Lots of fun. Not too far into leveling up. Hope there is an end to the game and not just repetitive waves to shoot.",
+      "date": 1571768542,
+      "review_helpful_count": 0,
+      "author_display_name": "Zenobius101",
+      "author_alias": "Zenobius101",
+      "developer_response": null
+    },
+    {
+      "id": "103007485340068",
+      "score": 4,
+      "review_title": "Overall fantastic",
+      "review_description": "Super fun to play online and challenging when solo. The difference in maps and map size surprised me, I was expecting them to be fairly similar. The bigger ones are the most fun in my opinion. The only reason for four stars is it’s glitchy which can ruin the immersion. I am disconnected from games sometimes which is a bummer. Overall fantastic just needs some fixes.",
+      "date": 1622610461,
+      "review_helpful_count": 0,
+      "author_display_name": "StarCorpse",
+      "author_alias": "StarCorpse",
+      "developer_response": null
+    },
+    {
+      "id": "102951895578517",
+      "score": 5,
+      "review_title": "Nice",
+      "review_description": "Realistic",
+      "date": 1639048748,
+      "review_helpful_count": 0,
+      "author_display_name": "sudari68",
+      "author_alias": "sudari68",
+      "developer_response": null
+    },
+    {
+      "id": "102947454632519",
+      "score": 5,
+      "review_title": "Simple and fun",
+      "review_description": "Yes there could be more maps but still a great simple game that makes you move a little.",
+      "date": 1581899305,
+      "review_helpful_count": 0,
+      "author_display_name": "Shadow_jp",
+      "author_alias": "Shadow_jp",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T19:00:24Z"
+}

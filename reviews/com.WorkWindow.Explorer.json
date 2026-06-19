@@ -1,0 +1,34 @@
+{
+  "app_id": "3901430703220542",
+  "package_name": "com.WorkWindow.Explorer",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Work Window",
+  "rating_average": 4.9464285714286,
+  "rating_count": 112,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "122772817289488",
+      "score": 1,
+      "review_title": "Subscription required but not disclosed",
+      "review_description": "This app does not work at all. There is no free content or sample content. It’s purely a VR interface to the developer’s subscriber library. It’s totally useless as far as being on the Meta Store because the description fails to disclose that a subscription is required for the app to work.",
+      "date": 1668852285,
+      "review_helpful_count": 12,
+      "author_display_name": "kayceewot",
+      "author_alias": "kayceewot",
+      "developer_response": {
+        "body": "Hi Kaycee\n\nThis application is built for use in educational and training organizations - we do not currently work directly with consumers. We have clearly specified that the application requires an external subscription to access all content during the application upload process, but Meta does not list that information on an app listing. We have also added this information to the description.",
+        "date": 1670817956
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T19:05:07Z"
+}

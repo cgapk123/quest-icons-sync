@@ -1,0 +1,150 @@
+{
+  "app_id": "3581543561949869",
+  "package_name": "com.Whirligig.Whirligig",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Whirligig Media Player",
+  "rating_average": 3.8461538461538,
+  "rating_count": 26,
+  "review_count": 11,
+  "reviews": [
+    {
+      "id": "1097038196820696",
+      "score": 5,
+      "review_title": "Best VR player in some regards",
+      "review_description": "It's best VR player in some regards. And I've tried a lot.\n\nThe best feature for me is ability to crop video and together with passthrough environment you can have MR experience to avoid VR sickness for 180/360 videos. The only other way to do it is via Virtual Desktop FOV tangent 0.4 0.4 but it's PCVR but Whirligig is standalone and is handling 8K without PC GPU. Virtual Desktop though allows to pan video with head movement. In Whirligig it's not possible to pan video, I've tried even with gamepad Pan setting, it's no doing pan for cropped video.\n\nWith Quest 3 8K videos are best in this player, it can be due to good video decoder (looks crisper, you can choose from 3 decoders) or to better stereo handling (I feel eyes are more comfortable).\n\nSame 8K videos is much more crisper & have better stereo perception in this VR player than in other players including Virtual Desktop player. Also 5K is looking better it seems due to better stereo handling (objects are more like it's in real life).\n\nI've noticed though scrubbing with videos on local storage is better in Virtual Desktop. In Whirligig it's also possible to hold >> for scrubbing but it's slow for 8K though working fast for 5k.\n\nI've got Plex working after much tinkering. In Plex authorization should be disabled in Network settings for Quest 3 IP address even after linking with code, or else video won't start playing. \n\nI think tutorials should be automatically presented to user after 1st startup, because UX is quite non standard and it's not possible to get it without tutorials. For example I've pressed right grip button and laser pointers were disabled, so I had to quit the app in this case until I watched Input tutorial on YouTube.",
+      "date": 1776956510,
+      "review_helpful_count": 0,
+      "author_display_name": "JumpingGuppy2107",
+      "author_alias": "JumpingGuppy2107",
+      "developer_response": null
+    },
+    {
+      "id": "999489949909276",
+      "score": 5,
+      "review_title": "Best on the market!",
+      "review_description": "I honestly do not see why this hasn't got a better rating. It's got HEAPS of customization options, LOADS of variable factors you can tweak in playback, it's played everything I've thrown at it so far in all media formats that I've got and I think it's a steal at the price it's at!\nBloody good job Dev, well done!",
+      "date": 1769599228,
+      "review_helpful_count": 0,
+      "author_display_name": "DBTester",
+      "author_alias": "DBTester",
+      "developer_response": null
+    },
+    {
+      "id": "758049647396189",
+      "score": 5,
+      "review_title": "The first non-greedy main dev.",
+      "review_description": "Been using whirlgig for many years on steam, if you have any trouble just go on the steam forum and he will be sure to help you out if possible.",
+      "date": 1756161407,
+      "review_helpful_count": 0,
+      "author_display_name": "FatWomenHas0Value",
+      "author_alias": "FatWomenHas0Value",
+      "developer_response": null
+    },
+    {
+      "id": "262553336308102",
+      "score": 3,
+      "review_title": "Can't connect SMB",
+      "review_description": "Need to connect NAS via SMB but can't find if it's even possible",
+      "date": 1685005459,
+      "review_helpful_count": 6,
+      "author_display_name": "xmesaj2",
+      "author_alias": "xmesaj2",
+      "developer_response": {
+        "body": "This isn't an option yet. I do wish to add this feature but I currently don't know how. I'll keep plugging away at it though and hopefully I'll come up with a solution in future updates.",
+        "date": 1685697302
+      }
+    },
+    {
+      "id": "1002507137799849",
+      "score": 1,
+      "review_title": "Not on Quest 1",
+      "review_description": "Unfortunately it crashes immediately on Quest 1",
+      "date": 1678815959,
+      "review_helpful_count": 0,
+      "author_display_name": "stefan_schmidlin",
+      "author_alias": "stefan_schmidlin",
+      "developer_response": {
+        "body": "[edit]\nI've uploaded a new version v4.978. A meta system update broke the permissions. I'm hoping the update has fixed the issue but if not let me know. Thanks\n\n\nThanks for letting me know. I've only been testing on the Quest 2 at the moment.\n\nI'll be releasing a new version soon which might show more success.",
+        "date": 1682718469
+      }
+    },
+    {
+      "id": "166309689234273",
+      "score": 5,
+      "review_title": "Best media player available",
+      "review_description": "This is the best media player I've found on the Quest 2. It has tons of options, and the dev even provided me keys for other versions of the app after buying it on itch.io before it was available on the app lab, so I now own the Quest 2, Rift, and SteamVR versions. \n\nIt's definitely worth the cost if you want to watch any kind of media on your Quest 2.",
+      "date": 1656522672,
+      "review_helpful_count": 2,
+      "author_display_name": "Devilsdance",
+      "author_alias": "Devilsdance",
+      "developer_response": null
+    },
+    {
+      "id": "173064655104986",
+      "score": 5,
+      "review_title": "One of the best media player on Quest",
+      "review_description": "I've been using this for almost nine months since I bought it on October and it never fails me. It suits my needs perfectly from the customisable aspect of it and the features that the devs put in the app. Its worth way more than the price.",
+      "date": 1653900421,
+      "review_helpful_count": 2,
+      "author_display_name": "Sya1412",
+      "author_alias": "Sya1412",
+      "developer_response": null
+    },
+    {
+      "id": "6399825466759667",
+      "score": 3,
+      "review_title": "Missing support for external media..",
+      "review_description": "Using the pc version to stream via Virtual desktop to quest 2 since years. Whirligig is the best media player around and I have tested several players.  But the Quest version is lacking support for external devices, network access, upnp, smb etc. Please add this functionality. Then I will give 5 stars. Many thanks..",
+      "date": 1689272833,
+      "review_helpful_count": 9,
+      "author_display_name": "digow",
+      "author_alias": "digow",
+      "developer_response": null
+    },
+    {
+      "id": "3270622596589336",
+      "score": 5,
+      "review_title": "Absolutely phenomenal VR app",
+      "review_description": "I have tried the other major VR video apps and Whirligig is certainly one of the best out there. The developer is extremely responsive and goes through many lengths to look at and provide potential solutions for issues. I have used the Rift version and the Quest version is pretty solid. There are features Phil is working on that I am looking forward to and I will be a continued customer.",
+      "date": 1657248232,
+      "review_helpful_count": 4,
+      "author_display_name": "Leftious",
+      "author_alias": "Leftious",
+      "developer_response": null
+    },
+    {
+      "id": "3212425682367702",
+      "score": 5,
+      "review_title": "very useful app",
+      "review_description": "Recommend !",
+      "date": 1654159835,
+      "review_helpful_count": 0,
+      "author_display_name": "bolvvv",
+      "author_alias": "bolvvv",
+      "developer_response": null
+    },
+    {
+      "id": "132401063204317",
+      "score": 1,
+      "review_title": "Absolutely a disaster",
+      "review_description": "Useless",
+      "date": 1687371302,
+      "review_helpful_count": 0,
+      "author_display_name": "Sdeshwjack",
+      "author_alias": "Sdeshwjack",
+      "developer_response": {
+        "body": "Any reason? If you have issues getting things working please let me know. I'm working on a new release which should improve performance and video compatibility so maybe that'll help things for you.\n\nWithout actually knowing what your issues are having  I can't address them and Whirligig is still in development which is one of the reasons it is on Applabs.\n\nIf you're interested in giving feedback and would prefer to email me directly my email is phileday@yahoo.co.uk\n\nAll the best\n\nPhil",
+        "date": 1688662731
+      }
+    }
+  ],
+  "total": 11,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T19:01:15Z"
+}

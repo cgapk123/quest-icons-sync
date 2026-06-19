@@ -1,0 +1,45 @@
+{
+  "app_id": "5540694516004792",
+  "package_name": "com.WeirdEyeStudios.PuzzlingPaths",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Puzzling Paths",
+  "rating_average": 4.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "404413528084535",
+      "score": 4,
+      "review_title": "Really nice",
+      "review_description": "This is a very nice puzzle, it's not too easy (this is a good thing) and it's funny, the graphics are not the best and there are a few imperfections (for ex. sometimes it doesn't recognize the pieces even if they are in the right place and you have to take them out and put it again in the same place before the error signs goes away), but naturally it's worth every cent. I hope to see more games like this.",
+      "date": 1638135402,
+      "review_helpful_count": 0,
+      "author_display_name": "chicory.2023",
+      "author_alias": "chicory.2023",
+      "developer_response": null
+    },
+    {
+      "id": "201253235300802",
+      "score": 4,
+      "review_title": "Like the idea of it, but…",
+      "review_description": "Works a lot better now. It still jumps a bit and the snapping to place could be better. But I’ve added a star for the improvement and quick response. Thank you.\n\n\n\n\nI tried the game out as I really like puzzle style games. The problem was, the movements are very unstable in the game. It says to hold the table to fix the height, but any ti e I tried, it would jump either to another location or into the game. It would work a lot better if the pieces snapped into place a little easier. When I went to the second level, I would place a piece or two down, and then it would reset back to the beginning. Very frustrating.",
+      "date": 1627693483,
+      "review_helpful_count": 1,
+      "author_display_name": "cheryl.dranov",
+      "author_alias": "cheryl.dranov",
+      "developer_response": {
+        "body": "Hi again, I have re done they way that the position of the table is handled, you go into the \"positioning\" level and use the joysticks to move around the table to your desired position, then in all other levels the table will take that position.\nThanks again :)",
+        "date": 1627717536
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:59:41Z"
+}
