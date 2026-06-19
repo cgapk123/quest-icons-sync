@@ -1,0 +1,140 @@
+{
+  "app_id": "8067583823340990",
+  "package_name": "com.PadelVirtualRealitySL.padelvrtraining",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "PadelVR Training",
+  "rating_average": 3.4375,
+  "rating_count": 32,
+  "review_count": 9,
+  "reviews": [
+    {
+      "id": "1394399319185401",
+      "score": 4,
+      "review_title": "Great potential!",
+      "review_description": "I have played real world padel for a year without any training. Of course I hard learned to hold the racket incorrectly and I hit all the balls face on. Then I went to a few training sessions and discovered that I am doing everything wrong. After doing a few slow motion training sessions in VR I got good roots for real world training sessions. So I would say that padel vr can help.\n\nMinuses:\nTracking behind head is impossible due to VR limitations and so I miss some shots because of this limitation.\nSometimes the ball flies off really weird - I am a better player in real world.\n\nThe big problem for me:\nDue to a bad timing my left controller died. While you say that hand tracking works, I cannot click any game menu buttons with hand tracking to start a new session. I am stuck in the menus with a racket in my right hand.",
+      "date": 1781504928,
+      "review_helpful_count": 0,
+      "author_display_name": "martins256",
+      "author_alias": "martins256",
+      "developer_response": {
+        "body": "Thanks for the review!\n\nWe’re very close to implementing an option to use one controller and hand tracking for the other hand. Hopefully, it will be ready in less than 2–3 weeks. We’re also implementing avatars, a QR code on the ground for spot localization and court orientation, and more.\n\nAbout overhead shots: try starting from an idle position with the racket in front of you. Then prepare the shot by moving the racket next to your head, on the side. Only at the very end should you bring it back and hit. You can check my Instagram videos where I’m doing bandejas as an example. If the headset only loses the controller for 1 or 2 seconds, it usually works quite well.\n\nAbout balls with weird behavior: that is usually related to a frame drop in the system, which can break the physics for a moment. Try to keep the whole system updated so updates are not running while playing. Also, try not to use stationary Guardian, because every time the outside cameras connect, there can be a performance drop.\n\nRegarding learning, apart from the lessons, you also have a full range of drills to practice step by step in progression. The statistics will also help you track your progress.\n\nPlease join us on Discord so you can have direct contact with us. It would be a pleasure to hear all your feedback and give you tips to improve. ;)",
+        "date": 1781860635
+      }
+    },
+    {
+      "id": "1075295989006313",
+      "score": 5,
+      "review_title": "Must have !! Padel player",
+      "review_description": "Padel VR has become a real part of my training and I can't recommend it enough. It's improved my volleys massively and sharpened my overheads, including bandeja and víbora. The best way to describe it: it's like having someone feed you hundreds of balls non-stop. That kind of repetition is exactly what most of us don't get on court.\nWhat it's great for: volleys, overheads (bandeja, víbora, smash), and forehand/backhand placement. The reps you get in a single session would cost you a fortune in coaching hours.\nWhat it doesn't do well: the double-handed backhand. Wearing a headset changes how your body turns, so the movement feels awkward. Skip that shot in VR.\nImportant caveat: this is not a replacement for a coach. Learn the technique on a real court first. Get a coach to fix your form. Then use Padel VR to drill that technique with thousands of reps. In that order, it has saved me serious money on coaching and accelerated my progress.\nRacket recommendation: use a lighter racket, between 250 and 300 grams, no more. There is no ball impact in VR, so you don't need weight for stability. A heavy racket will just strain your wrist and forearm over a long session. If your usual racket sits heavier than that, remove the head guard to shave a few grams.\nBottom line: if you already know the fundamentals and want to level up your technique, Padel VR is one of the best training tools I've used. Coach first, drill second.",
+      "date": 1778062394,
+      "review_helpful_count": 1,
+      "author_display_name": "Drwahab88",
+      "author_alias": "Drwahab88",
+      "developer_response": {
+        "body": "Thank you so much for your amazing review!\nWe’re really happy to hear that Padel VR is helping your training and improving your game.\n\nWe completely agree with your conclusions. Regarding racket weight, we actually recommend using a slightly heavier setup, even if that means doing shorter training sessions. Since there is no real ball impact in VR, using a racket that is too light can reduce resistance and may translate into less power when returning to the real court.\n\nThat’s one of the reasons why we designed our current adapter to weigh around 410g with the controller included. The goal is to help players develop muscle memory with a weight that feels much closer to a real racket, while also compensating for the lack of physical impact in VR.\n\nWe also completely agree with your point about combining real coaching with VR training. Our vision for the future is for Padel VR to become a complementary tool for coaches and clubs, helping players improve both on and off the court.\n\nThanks again for your support and detailed feedback — it really helps us continue improving Padel VR!\n\nPls join us at discord to cominicate directly with the team! Did you seen the last update with web statistics?",
+        "date": 1778230260
+      }
+    },
+    {
+      "id": "1480765576938540",
+      "score": 1,
+      "review_title": "No good.  Don't buy.",
+      "review_description": "Unfortunately after several months of membership I have decided to cancel.\n\nBiggest cons is no haptic feedback and no vibration, very bad drills and no space to really play even in a 20m2 room.\n\nIt doesn't feel anything like playing Padel.  I play Padel at a high level and wanted to practice at home.  But there's really no space.  Even in my large 20m2 living room, it's not enough space to really move around without worry or the freedom to swing your padel racquet around and not break your racquet, wrist or something on the wall.\n\nThink about it.  Playing Padel in a real court takes up a huge amount of space, not only horizontally, but depth wise as well as vertically for doing overhead smashes or simple viboras.\n\nAnd really, once the bat goes behind your head, the technology doesn't understand so it just messes up.  So forget about training a x3 kick smash.  Because with a kick smash, the racquet needs to go behind your back like pulling it out of a backpack.  So this will never work.\n\nAnyway, for me, after several months of subscription waiting for improvements, they never come.  So I have cancelled.\n\nI hope they improve.",
+      "date": 1772401020,
+      "review_helpful_count": 0,
+      "author_display_name": "phDave",
+      "author_alias": "phDave",
+      "developer_response": {
+        "body": "Really sorry to see you go, and thank you for your feedback. I completely agree that space is important, especially for certain drills. If you practice at home, it’s best to focus on specific static drills and focus on technique. However, you can also take the system to larger spaces, where you can work on bigger exercises like volleys transitions or volley/bandejas. \nHaptic vibration form the controller is there, not sure if you mean the racket has no extra feedback.\n\nRegarding the drills themselves, we’ve added many new ones in the last two months: forehand, backhand, wall forehand and backhand, crossed wall defense, and this month we’re adding volleys. Each drill is designed for step-by-step progression.\n\nAbout overhead shots, you’re partially right—at the moment, the system isn’t ideal for any shot that requires holding the racket behind your head for more than one or two seconds. However, you can still practice bandejas or rulo shots if you keep the racket visible until the last moment and return to the waiting position between shots.\n\nWe’ve also made several improvements recently: physics have been refined for more consistent power, the frame rate has been increased to 120 fps for better reaction timing, passthrought options, also new drills have been added and more comming, and soon we’ll offer online training sessions.\n\nI use this personally for home practice, and many users do the same. Also we got feedbacks from profesional coaches. You’re right that it has some limitations, its not for all, but it can be very helpful for many aspects of training.\n\nWe would love to have you back and see you using it in your daily training. Please get in touch—we’d be thrilled to hear your feedback and offer you a great deal to have you back. info@padelvrgame.com",
+        "date": 1773647381
+      }
+    },
+    {
+      "id": "1033332129859347",
+      "score": 5,
+      "review_title": "5/5",
+      "review_description": "Absolutely amazing. Once i got the racket adapter my training experience have exceeded my expectations. Strokes/volleys/bandejas improved a lot within a month. Love it. \nAlso for anyone who is saying you need a lot of space for moving around. It’s not about running like on a real court, but rather practicing your mechanical skills. You don’t need much room for that. \nGuys buy racket adapter and give it a try.",
+      "date": 1772905462,
+      "review_helpful_count": 0,
+      "author_display_name": "PadelMasterNSK",
+      "author_alias": "PadelMasterNSK",
+      "developer_response": {
+        "body": "Thanks so much for your review! ofcourse we agree with you. This tech has some limitations and its not for practicing all aspects of the game. but could be a great complementary tool if used correctly . Thanks again, this gives us beath to continue with our task! Join us at discord!",
+        "date": 1773045314
+      }
+    },
+    {
+      "id": "959656503895347",
+      "score": 4,
+      "review_title": "Great game",
+      "review_description": "I still experiencing the game i bought the racket the feel almost real, i found difficulty in shadow the motion in training because i cant control the motion speed of tge shadow any tips for that?",
+      "date": 1766477679,
+      "review_helpful_count": 0,
+      "author_display_name": "zoro_da",
+      "author_alias": "zoro_da",
+      "developer_response": {
+        "body": "Ty for the review! It does not work using the control panel? We will check and solve if there’s a bug there. But it will be in January.",
+        "date": 1766852586
+      }
+    },
+    {
+      "id": "1043462964286829",
+      "score": 5,
+      "review_title": "10/10 recommend",
+      "review_description": "I've been playing padel for a while now and have a playtomic 4+ level. This game is exactly what I've been looking for. I'm playing with the add-on racquet and it feels really the same as when playing on court. \n\nThe drills, minigames and lessons are top tier. I don't have to spend 100€ per practice and can setup custom training sessions for myself. \n\nI've added rulos to my game just from here. And there is no motion sickness with the created teleport option which is cool. \n\nP.s. I disagree with the bad reviews on here, I have a 2x2m space and I can play everything without issues and you must understand that this is a pre-release so there will be some minor bugs but the owner is very responsive and can help you out directly like he did for me. Cheers!",
+      "date": 1740822434,
+      "review_helpful_count": 11,
+      "author_display_name": "MajorW",
+      "author_alias": "MajorW",
+      "developer_response": {
+        "body": "Thank you very much for your positive review! This kind of feedback helps us a lot and gives us the motivation to continue improving PadelVR.",
+        "date": 1740838725
+      }
+    },
+    {
+      "id": "412623241931161",
+      "score": 5,
+      "review_title": "Feel like Tapia",
+      "review_description": "Llevo unos dias usando PadelVR y me ha sorprendido lo realista que se siente. El adaptador para el mando hace que parezca que estás jugando con una raqueta de verdad, y eso ayuda mucho a practicar los golpes correctamente. Los entrenamientos son variados y puedes centrarte en lo que más necesitas mejorar, como fondo derecha o tiempos de reacción.\n Me encanta ver cómo voy mejorando en cada sesión, espero nuevo contenido con Crosetti pronto!",
+      "date": 1736758354,
+      "review_helpful_count": 0,
+      "author_display_name": "ilKoko",
+      "author_alias": "ilKoko",
+      "developer_response": null
+    },
+    {
+      "id": "1347273333384231",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Great way to learn pádel and exercise",
+      "date": 1736757616,
+      "review_helpful_count": 1,
+      "author_display_name": "Lawlessssor1",
+      "author_alias": "Lawlessssor1",
+      "developer_response": null
+    },
+    {
+      "id": "1034341668503145",
+      "score": 5,
+      "review_title": "Love it!",
+      "review_description": "I really love “build your own training” feature!",
+      "date": 1739362798,
+      "review_helpful_count": 0,
+      "author_display_name": "Aiserg",
+      "author_alias": "Aiserg",
+      "developer_response": {
+        "body": "Thanks for your review! We will keep improving that and all the other features.",
+        "date": 1739436075
+      }
+    }
+  ],
+  "total": 9,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T14:04:14Z"
+}

@@ -1,0 +1,53 @@
+{
+  "app_id": "6980040612120790",
+  "package_name": "com.PaperTableStudios.ScaryLemurs",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Scary Lemurs",
+  "rating_average": 4.2272727272727,
+  "rating_count": 22,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "754582554402739",
+      "score": 4,
+      "review_title": "Braking bad",
+      "review_description": "Need more work pls",
+      "date": 1754337456,
+      "review_helpful_count": 2,
+      "author_display_name": "Axolotl45",
+      "author_alias": "Axolotl45",
+      "developer_response": null
+    },
+    {
+      "id": "1092538089412162",
+      "score": 4,
+      "review_title": "Perfect!",
+      "review_description": "Nice game but needs more maps and Nextbots",
+      "date": 1751712942,
+      "review_helpful_count": 4,
+      "author_display_name": "Entsman",
+      "author_alias": "Entsman",
+      "developer_response": null
+    },
+    {
+      "id": "542095095655497",
+      "score": 4,
+      "review_title": "Yes",
+      "review_description": "Yes",
+      "date": 1738285856,
+      "review_helpful_count": 49,
+      "author_display_name": "CamS09",
+      "author_alias": "CamS09",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T14:06:03Z"
+}

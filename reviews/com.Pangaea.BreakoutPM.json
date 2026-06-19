@@ -1,0 +1,53 @@
+{
+  "app_id": "1368909253170494",
+  "package_name": "com.Pangaea.BreakoutPM",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Brick Collision",
+  "rating_average": 3.1428571428571,
+  "rating_count": 21,
+  "review_count": 21,
+  "reviews": [
+    {
+      "id": "1208805395962860",
+      "score": 3,
+      "review_title": "A very short and simple Breakout clone.",
+      "review_description": "2019.02.19: The game is controlled by your gaze, which is nice, but on the Oculus Go you need to use the back button on the controller to return to the main menu after completing a level in order to move to the next one. AFAIK, there are only 7 levels available.",
+      "date": 1550630359,
+      "review_helpful_count": 3,
+      "author_display_name": "FunKing",
+      "author_alias": "FunKing",
+      "developer_response": null
+    },
+    {
+      "id": "1200084463449315",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Good freer game of breakout",
+      "date": 1557384416,
+      "review_helpful_count": 3,
+      "author_display_name": "beatleboy67",
+      "author_alias": "beatleboy67",
+      "developer_response": null
+    },
+    {
+      "id": "829094170581674",
+      "score": 3,
+      "review_title": "Cool. But why VR ?",
+      "review_description": "The game is ok. Just a few stages, though. But why making a 2D game in VR? What's the point?",
+      "date": 1491588384,
+      "review_helpful_count": 8,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T14:05:13Z"
+}
