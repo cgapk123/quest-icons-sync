@@ -1,0 +1,42 @@
+{
+  "app_id": "27118932891086611",
+  "package_name": "com.RubisBerries.LactoseFree",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Lactose free",
+  "rating_average": 4,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "562889976596443",
+      "score": 5,
+      "review_title": "Update",
+      "review_description": "Game idea so cool\nKeep going",
+      "date": 1733654612,
+      "review_helpful_count": 12,
+      "author_display_name": "letmebleeed_0",
+      "author_alias": "letmebleeed_0",
+      "developer_response": null
+    },
+    {
+      "id": "433909263150197",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Horrible",
+      "date": 1733378767,
+      "review_helpful_count": 4,
+      "author_display_name": "kentucky.fried.rajah",
+      "author_alias": "kentucky.fried.rajah",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T16:25:18Z"
+}
