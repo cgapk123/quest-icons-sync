@@ -1,0 +1,785 @@
+{
+  "app_id": "8332853930089963",
+  "package_name": "com.PsytecGames.TitanIsles",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Titan Isles",
+  "rating_average": 4.7326732673267,
+  "rating_count": 101,
+  "review_count": 66,
+  "reviews": [
+    {
+      "id": "1005949435932142",
+      "score": 3,
+      "review_title": "Was almost great",
+      "review_description": "The combat, other than the boss battles, is pretty lackluster. It ends up playing much more like a platformer than an action game\n\nThe upgrade system seems interesting at first until you start to realize that there isnt anything interesting to unlock. You essentially end up just doing the exact same things but slightly stronger. \n\nEvery suit besides the storm suit feels half-baked. The storm suit just does everything better than all of the other classes and doesnt have a single downside.\n\nIts not a bad game, its mostly just disappointing because they werent far off from striking gold with this one. Better upgrades, fleshing out the other suits more, and better enemies/level design would have really helped this game shine.",
+      "date": 1771791274,
+      "review_helpful_count": 7,
+      "author_display_name": "Steeep",
+      "author_alias": "Steeep",
+      "developer_response": {
+        "body": "Thanks for the detailed feedback. We hear you, combat variety and upgrades matter. Titan Isles v1.9.21 is live now and includes balance tweaks and improvements to the upgrade system to address these concerns. You can read the full release notes here: https://www.psytecgames.com/post/titan-isles-v1-9-21-release-notes. If you have specific thoughts on which suits or enemies feel underwhelming, tell me and I’ll pass it along to the team. We’re listening and will keep iterating.",
+        "date": 1775220857
+      }
+    },
+    {
+      "id": "1175471958975726",
+      "score": 1,
+      "review_title": "Bad",
+      "review_description": "Rubbish never play again",
+      "date": 1779726704,
+      "review_helpful_count": 1,
+      "author_display_name": "oliver.142188",
+      "author_alias": "oliver.142188",
+      "developer_response": null
+    },
+    {
+      "id": "1480492530471285",
+      "score": 4,
+      "review_title": "i like the game but it needs help",
+      "review_description": "the main reason why i say it needs help is because i started to get annoyed when the robot that helps you makes really annoying comments and starts to make me have less fun playing this game and if they could add the options forward voice please do it",
+      "date": 1774307193,
+      "review_helpful_count": 1,
+      "author_display_name": "owiebowie319",
+      "author_alias": "owiebowie319",
+      "developer_response": {
+        "body": "Thanks for the feedback! We hear you. in v1.9.21 (live now) we've reduced the frequency of the robot companion's voice lines, and you can now adjust or turn them off entirely in the Audio settings. Hope that makes things more enjoyable for you! 🎮",
+        "date": 1775220677
+      }
+    },
+    {
+      "id": "1500203904426131",
+      "score": 5,
+      "review_title": "One of The Best Quest Games in 2025",
+      "review_description": "🚨 FULL VIDEO REVIEW AVAILABLE ON GAMERTAG VR YOUTUBE CHANNEL 🚨 \n\n⭐️ NEW GAME PLUS UPDATE FTW! ⭐️ \nThese guys are well known for the Windlands series. No other VR games captured that VR Spider-Man movement quite like those games did—especially the sequel, which added weapons, better graphics, boss fights, and four-player online co-op. Titan Isles on Quest feels like the ultimate recipe of everything these guys have learnt so far making games with the inclusion of four exo-suits that are completely different to use and upgrades, and from a single-player perspective, this is basically four VR games in one.\n\nIt’s got massive bosses, a gorgeous soundtrack, and I found myself compelled to play through the entire game to the end credits yesterday. But unfortunately, it’s not all sunshine and rainbows. Still, it’s easily one of my favourites to play right now, especially with friends.",
+      "date": 1766321683,
+      "review_helpful_count": 21,
+      "author_display_name": "Gamertag_VR",
+      "author_alias": "Gamertag_VR",
+      "developer_response": null
+    },
+    {
+      "id": "958233684049273",
+      "score": 2,
+      "review_title": "Better not have to use the bathroom",
+      "review_description": "If you have to engage passthrough for any reason the game completely shuts down on you and treats it as a death. That's BS. You better not take a bathroom break, or passthrough to turn on a fan while it's making you sweat because you're screwed. Very uncool. That's a deal-breaker for me",
+      "date": 1770544583,
+      "review_helpful_count": 1,
+      "author_display_name": "Moonstryke",
+      "author_alias": "Moonstryke",
+      "developer_response": {
+        "body": "Sorry this has happened to you, sadly we can’t resolve this issue, it’s a problem at Metas side with Unity, Open XR and their SDK (newest versions), they are aware, it is possible to workaround the issue if you press the oculus button before switching to pass through, as soon as they provide a patch/fix we will update here.",
+        "date": 1770587945
+      }
+    },
+    {
+      "id": "914005794487344",
+      "score": 5,
+      "review_title": "Current Favorite",
+      "review_description": "This game does everything right. The performance and fidelity are great, the scale and render distance are amazing, and the movement and gameplay are so much fun! One thing I’d love to see in this game is a PvP mode. Other than that I really wish for this studio to succeed and bring us more of their amazing work!",
+      "date": 1768339074,
+      "review_helpful_count": 4,
+      "author_display_name": "Yazan707",
+      "author_alias": "Yazan707",
+      "developer_response": null
+    },
+    {
+      "id": "853676127431099",
+      "score": 5,
+      "review_title": "Best Co-op Game",
+      "review_description": "This game is slept on to the highest degree. The co-op experience is phenomenal with 8-players and the upgrade system while simple, works very well for this type of game. I highly recommend this game for anyone who enjoys a really good co-op experience. Don't miss out. Why are you still here reading and deciding? Just buy the game already.",
+      "date": 1769691242,
+      "review_helpful_count": 0,
+      "author_display_name": "AltRealityCheck",
+      "author_alias": "AltRealityCheck",
+      "developer_response": null
+    },
+    {
+      "id": "966368699887240",
+      "score": 5,
+      "review_title": "Fan of DoE? This is a must buy!",
+      "review_description": "New to the Windland series, I discovered Titan Isles over the holidays. As a fan of Dungeons of Eternity, I was looking for a sci-fi alternative with more story, expansive outdoor environments, and full freedom of movement. While DoE thrives on procedural dungeon grinding and some social chaos, Titan Isles offers a more structured narrative across four distinct character archetypes. The environments are massive, utilizing jetpacks and grappling hooks, for example, for thrilling traversal - though be warned: the high-mobility gameplay is a challenge if you are prone to VR sickness. Pros & Gameplay - Scale: Massive maps with great verticality and class-specific movement. Social: Supports up to four players, though the matchmaking pool is currently much smaller than DoE. Endgame: A level kiosk provides random modes to continue grinding skill points and cosmetics. Desired Enhancements: The weather effects, like the rain during the robo-leviathan fight and the Frostfall snow, are highlights. I’d love to see more dynamic weather (blizzards, windstorms) and \"environmental life\" to break up the static world - think moving flora or scurrying fauna to make the maps feel inhabited rather than just robotic. Verdict: Even with a relatively short main story, the polish and freedom of movement make this a 5/5 experience.",
+      "date": 1767552590,
+      "review_helpful_count": 3,
+      "author_display_name": "CasualCareBear",
+      "author_alias": "CasualCareBear",
+      "developer_response": null
+    },
+    {
+      "id": "904322545865104",
+      "score": 4,
+      "review_title": "Really fun movement and combat",
+      "review_description": "This game blew me away when I first saw it, the speed and scale both seemed amazing, and when I played it it lived up to most of my expectations. Now the reason I say MOST is because only one of the four suits really seems playable, that being the storm suit. In combat, all of the other suits are fine, but with movement, that is where things get sloppy, because if you fall, the only suit that can get you back up is the storm suit due to its high jump height whilst the other ones can barely jump. Also the environments feel like they are working against them, the hunter suit for example can’t pull itself up on a ledge, and the blink suit is too fast to control without falling.\n\nOverall, this game feels like it is on the cusp of perfection but some minor tweaks need to be added for the movement system so that players can diversify their experience.",
+      "date": 1768111380,
+      "review_helpful_count": 1,
+      "author_display_name": "MachinaCitadel",
+      "author_alias": "MachinaCitadel",
+      "developer_response": {
+        "body": "Thanks again for the detailed movement feedback.\n\nJust to flag that in our latest update we’ve already made several tweaks based on similar input, including improved stamina on Storm, better hand assignment options for Storm and Goliath, reduced shield stamina cost on Goliath, and improved Blink disc pull behaviour to make it easier and more reliable to recover and control movement.\n\nDetails are here if you’re curious:\nhttps://www.meta.com/en-gb/experiences/app/developer-post/33204362782543434/\n\nWe’re continuing to iterate on movement balance so each suit stays distinct while feeling fair and playable. Appreciate you taking the time to break this down so clearly.",
+        "date": 1768319055
+      }
+    },
+    {
+      "id": "1470331944042685",
+      "score": 5,
+      "review_title": "Challenge races are the best!",
+      "review_description": "As the biggest fan of Windlands 1 and 2, I instantly loved Titan Isles as it has the same mechanics and style. I’ll always favour the grapple hooks mechanics, but having this new option for other flying mechanics has been brilliant too. But what I love most about this game is probably what other people miss … the race challenges! I’m currently globally number 1 (rwakey123) for the Hunter and Storm suits in all races! If you’re reading this and love the game too, please try and beat my times, as I’d love to have a new score to beat!\nTo the developers : please don’t stop making games like this. The only thing that could top this is a Windlands-esque world but even bigger spaces to travel around!",
+      "date": 1763831130,
+      "review_helpful_count": 6,
+      "author_display_name": "rwakey123",
+      "author_alias": "rwakey123",
+      "developer_response": null
+    },
+    {
+      "id": "1426421752443376",
+      "score": 5,
+      "review_title": "Incredible game!",
+      "review_description": "At first, I wasn’t sure there was enough there to consider it a real upgrade on Windlands 2. After playing for a while though, I must admit this game is amazing! Huuugggeeee upgrade!",
+      "date": 1768524052,
+      "review_helpful_count": 1,
+      "author_display_name": "dancejohndance",
+      "author_alias": "dancejohndance",
+      "developer_response": null
+    },
+    {
+      "id": "977354728783841",
+      "score": 5,
+      "review_title": "Fun co-op movement and shooting",
+      "review_description": "The game is a lot of fun co-op, but once again left handed people are given weird or incomplete options for controller configuration.\n\n\nUpdate: Developer response was super helpful. Didn't think to look for per weapon settings. Appreciate the kind response. \n\n\nI've updated the review to 5 stars. I don't think the game is perfect, but the jankiest stuff on this store seems to get at least 4 stars. This game is not janky. The movement is fun, and co-op makes the game enjoyable. \n\nI'm still in the campaign of the game, which seems to be a series of levels. You can't go back and play old ones (yet), and each level offers multiple different routes to approach it. Based on your difficulty you earn more upgrade points for rewards.\n\n\nUpgrades can be spent on the 4 different suits you have to play from. Suits can be changed and upgraded between levels. The four suits are:\n\n\nStorm: Jetpack and jump jets. Jets are on your hands so it's got a bit of an Iron Man thing going, aiming by angling your hands. It can shoot from blasters with either hand, or you can bring your hands together to make a rifle. It seems super fun but my friend plays it so I play other suits.\n\n\nHunter: Basically the Windlands 2 option. Like Windlands 2, the grapple hook swinging is super fun. Also like Windlands 2, using a bow while doing that is super hard.\n\n\nGoliath: Tank. Only played it once so far, but it's really  satisfying to block an attack with a correctly timed shield.\n\n\nBlink: Space ninja with airjumps and wall running. The wall running doesn't come up much in some levels. Pulls weapons off shoulders and chest which you aim and release to fire. Pointing at a target initiates a lock on.\n\nIn a sea of jank, this game is a lot of fun and co-op makes it great.",
+      "date": 1766595900,
+      "review_helpful_count": 1,
+      "author_display_name": "casparbabypants",
+      "author_alias": "casparbabypants",
+      "developer_response": {
+        "body": "Thanks for taking the time to explain this so clearly. It’s genuinely helpful.\n\nTo clarify what’s currently possible:\n\nRight now, Dominant Hand left or right changes which hand is considered primary and also swaps the movement and turning sticks.\n\nMovement Hand can be set to Auto using the off hand, or forced to left or right, so movement itself does not have to follow the dominant hand.\n\nFor the Bow, there are extra options that allow forcing it to the off hand, allowing either hand, or forcing left or right.\n\nThat said, you are absolutely right about the gap. There is currently no way to keep standard stick and button layout, keep jump on the right hand, and simply set the primary weapon hand to left. Dominant Hand is doing too much at once.\n\nYour suggestion of a dedicated Primary Weapon Hand option makes a lot of sense and would solve this cleanly, especially for suits where hand specific mechanics matter like the bow and shield.\n\nThis is not how we want left handed players to feel boxed in, and we will take this feedback directly into our controls review.\n\nIf you hit any other control edge cases, feel free to email us at support@psytecgames.com. This kind of feedback genuinely helps us improve things, we will reach back out when we have an improved patch for this.",
+        "date": 1766437813
+      }
+    },
+    {
+      "id": "1426621788849384",
+      "score": 5,
+      "review_title": "A fun game for co-op",
+      "review_description": "This is a great co-op game. The mechanics of the different suits you can choose add an interesting spice to co-op play. You and your comrades can have different strengths and weaknesses depending on your suits.\n\nThe boss battles have a nice retro feel to them, kinda like Starfox 64 in terms of hitting the soft points and exposing the core, but it can still be the right level of challenging.\n\nDefinitely a fun co-op shooter.",
+      "date": 1766084725,
+      "review_helpful_count": 1,
+      "author_display_name": "T-Prime",
+      "author_alias": "T-Prime",
+      "developer_response": null
+    },
+    {
+      "id": "1626875768296365",
+      "score": 5,
+      "review_title": "Edit: Great game 👍",
+      "review_description": "There are so many elements to this game that I enjoyed. I loved being able to fly, the colors of every level are varied and vibrant, and the danger of falling from heights while multitasking to dodge fire and aiming shots left my stomach constantly full of butterflies.\n\nI bought at release and experienced a good amount of issues, but the team has been very responsive handling them. I’ve replayed all the way through a couple of more times and didn’t experience all the glitches that I did the first time. I’ve become addicted to short flight maneuvering while I blast through enemies. \n\nCoop-multiplayer is only fun as the people in your group. Randoms are mixed, but playing with people you know is amazing. I’d LOVE to see PvP a part of the game. Calculating times for speed runs with online comparisons would add a whole new element to the replayability as well. Hopefully, this will be added later.\n\nI appreciate the team listening to feedback and making quality improvements.",
+      "date": 1766175915,
+      "review_helpful_count": 1,
+      "author_display_name": "Phlatulence",
+      "author_alias": "Phlatulence",
+      "developer_response": {
+        "body": "Hey Phlatulence, thanks for the feedback — really appreciated.\n\nOn the pistol ↔ rifle transition, there are a couple of options you can tweak. You can adjust the distance at which the switch happens (we landed on a sensible default based on most players, but preferences do vary), and there’s also a button-based switch option which guarantees the change exactly when you expect it.\n\nWe’ve also shipped a number of fixes since launch that specifically improve enemies getting stuck and close up holes in the map. It sounds like you already noticed some of that on your replay, but we’re continuing to tighten things up.\n\nThanks again for taking the time to replay the game and share such detailed thoughts — it genuinely helps us improve things.",
+        "date": 1765879679
+      }
+    },
+    {
+      "id": "1413699836766338",
+      "score": 5,
+      "review_title": "Greatest vr co-op experience yet!!",
+      "review_description": "Been playing vr for about 5 years now and I’ve always preferred playing with my friends over playing single player. If you are like me and play vr for the multiplayer aspect, and being able to team up and go on adventures with your friends, this might just be the best option you’ll find. Before I played Titan isles, me and my friends favorite storymode vr game was Windlands 2, but they literally took that game and smoked it up to 100 with this one. 4 different , so much replay ability  potential. And the boss battles omg! Just play it… trust me",
+      "date": 1763567863,
+      "review_helpful_count": 2,
+      "author_display_name": "Evuto",
+      "author_alias": "Evuto",
+      "developer_response": null
+    },
+    {
+      "id": "869329236262784",
+      "score": 5,
+      "review_title": "So far it's awesome",
+      "review_description": "Only beat the first boss and I'm using the jetpack guy but this game is amazing. The gameplay is fun and straight to the point and having a skill tree keeps it interesting. My only gripe would be I wish the graphics/environment was a little bit better but it is good for what it is.",
+      "date": 1763346634,
+      "review_helpful_count": 3,
+      "author_display_name": "2drowzy",
+      "author_alias": "2drowzy",
+      "developer_response": null
+    },
+    {
+      "id": "2976943485840648",
+      "score": 5,
+      "review_title": "A beautiful bullet hell adventure",
+      "review_description": "From the team that brought us the sublime Windlands & Windlands 2 comes a sweeping, beautiful bullet hell adventure made from the ground up to be enjoyed in VR.\nChoose one of 4 vastly different exo-suits, build your play style and take on the colossal Titans.\nBest played socially with 3 friends, a fun co-op playground with a deep gameplay loop.",
+      "date": 1758821257,
+      "review_helpful_count": 22,
+      "author_display_name": "Mac-in-VR",
+      "author_alias": "Mac-in-VR",
+      "developer_response": null
+    },
+    {
+      "id": "25184933027867565",
+      "score": 5,
+      "review_title": "Titan Isles Soars Above the Rest!",
+      "review_description": "i played tonight both solo and with a squad – it's an absolute game-changer for anyone who loves heart-pounding VR action adventures.\nThe core loop is pure genius: team up with up to three friends (or go lone wolf in single-player) to hunt down and dismantle these massive mechanical behemoths. Each Titan fight feels like an epic boss battle straight out of a blockbuster sci-fi flick, with swarms of drones buzzing around, laser barrages lighting up the sky, and weak points that demand clever strategy and split-second dodges.",
+      "date": 1762467020,
+      "review_helpful_count": 3,
+      "author_display_name": "DrOculusVR",
+      "author_alias": "DrOculusVR",
+      "developer_response": null
+    },
+    {
+      "id": "1433996242068394",
+      "score": 5,
+      "review_title": "So much fun",
+      "review_description": "I've played through this game 3 times and still haven't found all the collectibles. Played through once solo and twice in NG+ in co-op. The mini games are fun and I still have a suit to level up. It's like having 4 games in one because each suit changes how you play the game.",
+      "date": 1764823396,
+      "review_helpful_count": 1,
+      "author_display_name": "Phaenomenal",
+      "author_alias": "Phaenomenal",
+      "developer_response": null
+    },
+    {
+      "id": "3788775241428681",
+      "score": 5,
+      "review_title": "Parkour & Shoot to Your Heart's Content",
+      "review_description": "Note: product received for free, and playthrough video on my YT channel (silverfire32). Opinions are my own.\n\nIf you played Windlands or Windlands 2 in the past, you'll love this game. It's designed for fast parkour and swinging/flying through the level movement. The graphics style is very similar, and well-done. \n\nYou can play in multiplayer with up to 4 people, or singleplayer as well. There's a campaign with different routes for each level, so there's incentive to go back and 100% things. You can choose from one of four suits, each with a different movement style and weaponry; however, they're all balanced to work well on their own as well as with the other suits. It's a matter of preference rather than figuring out which one is the best and then min/maxing it.\n\nThis game pretty much has it all, IMO: great movement options, epic battles, co-op multiplayer (and competitive races), along with a decent storyline. I highly recommend it (and, yes, I would even if I hadn't received a free key; I rate most games at 4 stars and it takes being really good/fun/etc. to warrant 5).",
+      "date": 1758842530,
+      "review_helpful_count": 17,
+      "author_display_name": "silverfire32",
+      "author_alias": "silverfire32",
+      "developer_response": null
+    },
+    {
+      "id": "816620224874597",
+      "score": 3,
+      "review_title": "Decent game, but no replay value",
+      "review_description": "Really enjoyed this game at first, the levels were fun, the design was smooth, and it kept me hooked for a while. But once I finished all the levels, there wasn’t much left to do. No new challenges, no updates, and no reason to keep playing. It’s great while it lasts, but it gets boring fast once you’ve completed everything. I’d recommend it if you just want a short burst of fun, but don’t expect long-term entertainment.",
+      "date": 1762074504,
+      "review_helpful_count": 3,
+      "author_display_name": "ToastExplodesAt3AM",
+      "author_alias": "ToastExplodesAt3AM",
+      "developer_response": {
+        "body": "Thanks for the honest feedback, really appreciate you taking the time.\n\nJust to clarify, there is replay content beyond the initial completion, including End Game, New Game+, higher difficulty runs, and ongoing balance and QoL updates. That said, if it didn’t land for you personally after finishing the main content, that’s completely fair.\n\nWe’re continuing to expand and improve the experience over time, and we’re grateful you enjoyed the journey while it lasted.",
+        "date": 1768319086
+      }
+    },
+    {
+      "id": "805425735990553",
+      "score": 5,
+      "review_title": "A dad’s review",
+      "review_description": "I got this game to play with my son this past weekend. I loved it! As an older gamer (41) I remember a time of giant boss battles and hordes of enemies. I like not being able to just beat the game so easy. We got to the ocean boss and excited to hop back on later today. Good job creators 👍",
+      "date": 1759154547,
+      "review_helpful_count": 16,
+      "author_display_name": "gracefulpanda.2025",
+      "author_alias": "gracefulpanda.2025",
+      "developer_response": null
+    },
+    {
+      "id": "925454340639741",
+      "score": 5,
+      "review_title": "Wow!!",
+      "review_description": "This is one if not the best 8 hour long game the guns and upgrades are really good its kinda glitchy making half your body go in the floor but that's mostly with the hunter suit so yeah but overall 5 stars",
+      "date": 1763604223,
+      "review_helpful_count": 3,
+      "author_display_name": "Vigorouswolf",
+      "author_alias": "Vigorouswolf",
+      "developer_response": null
+    },
+    {
+      "id": "25419304514421813",
+      "score": 5,
+      "review_title": "Excellent Co-Op",
+      "review_description": "Love the game, just completed it with my wife.",
+      "date": 1768107602,
+      "review_helpful_count": 1,
+      "author_display_name": "therevills",
+      "author_alias": "therevills",
+      "developer_response": null
+    },
+    {
+      "id": "1573978063633828",
+      "score": 5,
+      "review_title": "One of the few good games on quest.",
+      "review_description": "Fun game, even better with friends.",
+      "date": 1767668420,
+      "review_helpful_count": 1,
+      "author_display_name": "dead_inside",
+      "author_alias": "dead_inside",
+      "developer_response": null
+    },
+    {
+      "id": "1322502162604955",
+      "score": 5,
+      "review_title": "Wow you guys know how to make fun games!",
+      "review_description": "I absolutely love the Windland games and now you took what you learned from them and produced a banger.  This might be some of the most fun I have had in VR and I am very passionate about this technology.  Great job Dev's with this.  I seriously don't have anything bad to say about it.  I only played for 2 hours so far but this is one of the most polished games I have ever played.  Movement is silky smooth with zero frame drops.  The graphics are simple yet very nice for this style of game.  The UI is AAA polished.  I could go on and on but I will just say this is a must play game for just about everyone.  The only people I would tell to wait on this are people new to VR and don't have your VR legs yet and get motion sickness.  Once you do make sure to experience this.  Definitely Game of the year contender in my opinion.  I will be featuring this on my YouTube channel soon @ APE boys.  Can't wait to jump back in and try the rest of the suits.  \nThanks again to the Dev's for this wonderful experience!",
+      "date": 1758925309,
+      "review_helpful_count": 9,
+      "author_display_name": "APEboys",
+      "author_alias": "APEboys",
+      "developer_response": null
+    },
+    {
+      "id": "852531124619809",
+      "score": 5,
+      "review_title": "Finally a game that has titans",
+      "review_description": "I’ve wanted a game with titans and cool stuff and this is it devs you cooked with this game",
+      "date": 1766373005,
+      "review_helpful_count": 1,
+      "author_display_name": "ochomanvr",
+      "author_alias": "ochomanvr",
+      "developer_response": null
+    },
+    {
+      "id": "810760391499503",
+      "score": 5,
+      "review_title": "FLUID MOVEMENT SYSTEM",
+      "review_description": "Under an hour played and so far I'm enjoying the movement more than I should. The way momentum flows, slides, and just works feels great. It makes each action feel more weighted and allows for certain anticipation i just don't get from other VR games. While it does take some getting used to with each Suit you use. Overall, was very impressed how used to I got with fighting in the air and excited to see the rest of the game! \n\nMy one suggestion so far is maybe a leaderboard for overall community ranking on the speedrun courses. Would also like to see more courses, too :) \nThe movement is just so much fun when you are in the flow state!",
+      "date": 1758857258,
+      "review_helpful_count": 8,
+      "author_display_name": "AceNooN",
+      "author_alias": "AceNooN",
+      "developer_response": null
+    },
+    {
+      "id": "1394288932702681",
+      "score": 5,
+      "review_title": "A must-play vr adventure",
+      "review_description": "Titan Isles completely blew me away. From the moment I stepped onto the island, I felt like I had actually been transported into a living, breathing world. The level of immersion is incredible. The visuals are vibrant, the sound design is atmospheric, and the sense of scale in VR is jaw-dropping. Exploring the Isles gave me that “first time in VR” feeling all over again.\n\nGameplay is equally impressive. The mechanics are intuitive, responsive, and feel built for VR rather than just adapted. Whether I was battling enemies or discovering secrets, everything flowed naturally. The pacing balances action and exploration in a way that kept me engaged the entire time.\n\nWhat stood out most, though, was the sense of discovery. Every corner of Titan Isles feels like it’s hiding something worth finding. I genuinely lost track of time just exploring, and I didn’t want to take the headset off.\n\nIf you’re looking for a VR game that feels like a true adventure, something that combines excitement, beauty, and immersion, you need to play Titan Isles. This is easily one of the best VR experiences I’ve had in a long time.",
+      "date": 1759288927,
+      "review_helpful_count": 6,
+      "author_display_name": "MissChiefVR",
+      "author_alias": "MissChiefVR",
+      "developer_response": null
+    },
+    {
+      "id": "771789589356581",
+      "score": 5,
+      "review_title": "VR gets MASSIVE!",
+      "review_description": "*Full video review available on my YouTube*\r\n\r\nPsytec Games are back and once again have absolutely nailed it with their latest game.  Everything I loved about Windlands 2 is still present in Titan Isles but there's just so much more to this brand new game. Fans of Windlands will instantly feel at home with the Hunter Exo suit but there's also 3 more to choose from and they all feel and play differently.\r\n\r\nPlaying solo is great but with 4 player co-op it's EPIC!\r\nTaking down the massive Titans as a team is rewarding, if you can survive the bulletstorm of attacks!\r\n\r\nDon't sit on this one, there's so much to do, suit upgrades, various routes to take, hidden collectables and the freedom of movement that makes you feel like a superhero!",
+      "date": 1758954403,
+      "review_helpful_count": 6,
+      "author_display_name": "Hippy_Pickle",
+      "author_alias": "Hippy_Pickle",
+      "developer_response": null
+    },
+    {
+      "id": "2493376131035132",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "It's absolutely amazing.  It's worth the money.. but are there any sides games once you complete the games, like in windlands 1 and 2? Actually, I just found the extras and played them as well. Good games.",
+      "date": 1762229757,
+      "review_helpful_count": 2,
+      "author_display_name": "sillygirl1",
+      "author_alias": "sillygirl1",
+      "developer_response": null
+    },
+    {
+      "id": "1333509501505036",
+      "score": 5,
+      "review_title": "I felt like a Marvel Hero playing this",
+      "review_description": "I'm a huge fan of the Windlands games, so I knew I would love this game. This game has some of the best Spiderman mechanics in a VR game. You can play the game single player or with up to 3 friends. Get through each level to reach the Titanic Boss for an epic fight. Also, if you have bHaptics, this game supports it. Let me tell you, it feels amazing. With there being 4 suits to wear in the game, all with their own unique abilities, it feels like 4 games in one, which makes the game very repayable. Highly recommend Titan Isles.",
+      "date": 1758958540,
+      "review_helpful_count": 5,
+      "author_display_name": "ClicksterVR",
+      "author_alias": "ClicksterVR",
+      "developer_response": null
+    },
+    {
+      "id": "33078332008432910",
+      "score": 5,
+      "review_title": "Must play for Windlands fans",
+      "review_description": "Windlands 2 was one of my favorite games on the Oculus Rift, so it's great seeing another game from the same studio. \nThis game builds upon what made Windlands 2 great - VR-native locomotion, exciting action, and a sense of scale in its environments and boss battles that few VR games achieve. Highly recommended!",
+      "date": 1760444283,
+      "review_helpful_count": 2,
+      "author_display_name": "tovanbo",
+      "author_alias": "tovanbo",
+      "developer_response": null
+    },
+    {
+      "id": "872735285903655",
+      "score": 5,
+      "review_title": "Stellar Game",
+      "review_description": "Probably one of the most fun games I've played in a long time in VR. It runs flawlessly on my Quest 3, and so far I haven't found any game breaking glitches, which is a welcome change in a new VR game. Highly recommend and will be referring it to all my friends.",
+      "date": 1761001767,
+      "review_helpful_count": 2,
+      "author_display_name": "SirSaltySausage",
+      "author_alias": "SirSaltySausage",
+      "developer_response": null
+    },
+    {
+      "id": "1453384602391056",
+      "score": 5,
+      "review_title": "Genuine Fun",
+      "review_description": "UPDATE: After finishing the campaign I can honestly say this is the most fun I have had in VR in ages. Such a polished feel with a completely addictive gameplay loop. I really hope the game gets the attention it’s deserves so we can get a sequel. This is what VR is made for. Buy it and support these devs.\n\nI never played any of the Windlands games. So I’m coming at this from the perspective of someone new to this dev team’s formula . With that being said this game is an absolute blast. The movement mechanics are so fun to play with. Well done devs.",
+      "date": 1761317257,
+      "review_helpful_count": 1,
+      "author_display_name": "Gamejunky5",
+      "author_alias": "Gamejunky5",
+      "developer_response": null
+    },
+    {
+      "id": "2265921860544136",
+      "score": 5,
+      "review_title": "I think I'm gonna love it",
+      "review_description": "I played windlands 2 a fair amount. I think I still have the top time on half the race levels. As for this new game, I selected hunter of course. I've done the first level of the campaign and it was fun. Then I got the top time in the  first 2 races. I think you guys should make a Vr Spiderman game, no doubt.",
+      "date": 1759884095,
+      "review_helpful_count": 2,
+      "author_display_name": "andrew.burgess.75",
+      "author_alias": "andrew.burgess.75",
+      "developer_response": null
+    },
+    {
+      "id": "1489635659048159",
+      "score": 4,
+      "review_title": "A good game, but overpriced",
+      "review_description": "This is a decently fun game single-player, but it really shines in multiplayer. The different suit classes are really cool and offer some replayability, but sadly there is no NG+ and the “endgame” is…underwhelming would be a kind way to put it. \n\nFor me it felt very short (could not have taken me more than four hours to complete as a generous rounded up estimate, and that is counting the time it took to sort out bugs, but to be fair I only found just under half of the relics/targets and only one secret area). I had no desire to keep looking for secret locations because there are so many invisible walls that instakill you, and gaps in the world that make you fall through the ground and then kill you. It feels like exploration is being punished instead of rewarded. \n\nThe game does feel good to play and looks way more polished than the trailer looks. But I ran into a lot of bugs, which got frustrating.  \n\nDespite having three separate ways in settings to adjust height/seated mode and also implementing quest-level accessibility height on and off in every possible combination, the game was impossible for me to play seated since I could not reach the menu (which was below the floor despite me resetting the boundary floor level and playing with every possible combination of setting available — which again, I could only access when standing up). This means I couldn’t start the game, select levels, equip suits, or interact with any necessary selection actions unless I was standing up. \n\nThe prologue has a bug where if you avoid an intended forced death, you get stuck and can’t progress the game. The menu also wouldn’t let me quit or exit out, so I had to turn off my headset and reset the whole thing to even get into the game. \n\nSeveral of the boss targets / enemies turned invisible and invincible leaving me to randomly dodge bombs and barrages coming from thin air for about twenty minutes until I realized it was impossible to progress without intentionally dying a bunch of times to reset and then just hope it didn’t glitch out the next time. I was unable to figure out exactly what triggered the issue.\n\nThe suit classes having such different movement styles was really cool and fun, but it did make me wish for one with a climbing mechanic or upgrade perk. I feel like that would’ve been awesome but that’s a random wishlist thing. I loved all the cosmetic unlocks; that was very satisfying and fun. \n\nThe voice acting was fantastic, and I really enjoyed the soundtrack. \n\nOverall, it’s a good game but not great in its current state and I do think it’s way overpriced for where it’s at. It was short and buggy, but it was very fun. I finished the campaign single player, and I’m pretty sure multiplayer is where this game really shines.",
+      "date": 1759172772,
+      "review_helpful_count": 3,
+      "author_display_name": "chickensink",
+      "author_alias": "chickensink",
+      "developer_response": {
+        "body": "Hello! Thank you for the feedback and I'm glad you're enjoying the game. Could you drop me an email at callum@psytecgames.com? I'd like to learn more about some of these bugs so we can get them fixed. Thank you!",
+        "date": 1759221517
+      }
+    },
+    {
+      "id": "1162770145916578",
+      "score": 1,
+      "review_title": "Wow absolutely trash, DONT GET SCAMMED",
+      "review_description": "This is just a copy paste of windlands 2 with 3 extra classes \n\nLiterally ALL of the in game glitches still exist\nAnd so far EVERY update has corrupted my save files\n\nRefund requested, pure laziness to sell a broken and unfinished game thank you",
+      "date": 1759553842,
+      "review_helpful_count": 4,
+      "author_display_name": "EccentriCasey",
+      "author_alias": "EccentriCasey",
+      "developer_response": {
+        "body": "We’re genuinely sorry you had a bad experience.\n\nJust to clarify a few points: Titan Isles was developed over three years by a different team, built on a new codebase. While it shares some movement DNA with Windlands 2, the combat systems, co-op structure, progression, and encounters were all built specifically for this game.\n\nRegarding save files: the save corruption issue reported earlier has already been fixed in recent patches. We understand how frustrating that can be, and it’s something we took very seriously.\n\nWe’re a small indie team, but we continue to actively patch, improve, and support the game. If you decide not to return, we understand. If you do ever try it again after the latest updates, we’d appreciate the chance to show the progress we’ve made.",
+        "date": 1768319484
+      }
+    },
+    {
+      "id": "795008079799324",
+      "score": 4,
+      "review_title": "Titan Isles!!!",
+      "review_description": "Awesome game been having a blast so far.\nHuge levels with multiple routes you can take to get to the end. Lots of hidden items to find and the skill trees are pretty cool. The bosses are huge and a challenge to take down, definitely recommend picking this up and playing with a few buddies!",
+      "date": 1759424854,
+      "review_helpful_count": 2,
+      "author_display_name": "Karl_Fairburne",
+      "author_alias": "Karl_Fairburne",
+      "developer_response": {
+        "body": "Thanks a lot for the kind words, really glad you’re having a blast.\n\nGreat to hear the level scale, multiple routes, hidden items, and boss fights are landing well, and yes — co-op with friends is where things really shine. Appreciate the recommendation and the support!",
+        "date": 1768319345
+      }
+    },
+    {
+      "id": "830863389464126",
+      "score": 5,
+      "review_title": "Loving it so far",
+      "review_description": "I’ll write a longer review once I’ve completed the game with 1 suit\n\nAfter a few hours of playing, I’m addicted.  Graphics are up to snuff…. Not mind blowing but better than average. The levels are HUMONGOUS. The 4 suits provides almost endless replayability. I’ll beat the game with my current suit, but I’ll be jumping right back in with a new suit. The suits make it so the game plays completely differently depending on your choice.  If you’ve played Windlands, you’ll be familiar with the Spider-Man suit.  I’m currently playing with the Jetpack suit. \nCombat is fun and difficult…. I was worried the game would be too easy but I was wrong. It’s just right. \nAnd finally, the upgrade trees for each suit gets the job done. There’s 20-30 upgrades for each suit (I haven’t counted… just a guesstimate). \nIf you’re on the fence, just buy it. It’s easily one of the best released of 2025 so far.\n\n\n\nUPDATE 10/5/25\n\nJust finished the campaign with the Storm suit. So much fun. The levels are all pretty similar regarding aesthetics, except each level is tinted with a different color. Makes it seem like it’s a different type of world but it really isn’t. The level design is great though. I do wish finding the secret location were a little easier… I only found 1 and searched pretty hard. \n\nI immediately jumped back in to the NewGame+ mode after finishing… gonna use the bow and arrow suit next.  It really does feel like 4-games-in-1. Each suit offers a unique experience. \n\nReally love the upgrade system. Rewarding more xp points for higher difficulty levels is a great idea, and forces you to challenge yourself.  \n\nOne major QOL complaint: Please add a Level Select option for the levels you’ve already beaten. Not being able to immediately replay a level to go back for collectibles stinks. If I had my choice, id replay a level until I collected them all. I’m sure this feature will be added at some point. \n\n\nThis is an easy game to recommend… the devs did a bang up job. Really hope there’s some dlc (free or paid) released in the future. I’d love to see some new suits and would gladly pay for em. \n\nFINAL SCORE\n           9.6/10\n\n\n\n\n*****\nSide note about EccentriCasey’s 1 star review… I’ve never responded to someone else’s review before, but my goodness, yours is absolute trash. In no universe does this game deserve anything less than 4 stars. Anyone reading this, totally disregard Casey’s “review”.\n*****",
+      "date": 1759675045,
+      "review_helpful_count": 2,
+      "author_display_name": "PowPow55",
+      "author_alias": "PowPow55",
+      "developer_response": null
+    },
+    {
+      "id": "826506350547745",
+      "score": 4,
+      "review_title": "Solid foundation, fun, feels unfinished",
+      "review_description": "Game is pretty fun out of the gate. Fast paced and has very epic moments, but the loop grows repetitive quickly. I wish difficulty scaled by adding to the \"bullet-hell-ness\" of the game versus making you as flimsy as paper. The most fun moments are the sections with a lot of bots, platforms, and chaos. Boss fights are the next best. Worst is playing on legendary against the teleporting mosquitos.\n\nThings I'd love to see in future updates\n- more characters (starvault is a good example of this)\n- more interesting skill trees/abilities/weapons \n- nerf mosquitos on legendary puhlease\n- horde mode/infinite mode... Like a roguelite. The recipe is already there. Throw in a leaderboard.\n- stage specific power ups (e.g. increase in stats, op weapon, HP or lives)\n- allow for bosses/hordes to be touched without getting damaged by them, especially the large ones\n- bosses mixed with minibosses - we can handle it!\n- more chaos\n\nOverall fun game though!",
+      "date": 1760839270,
+      "review_helpful_count": 1,
+      "author_display_name": "shutdown.xD",
+      "author_alias": "shutdown.xD",
+      "developer_response": {
+        "body": "Thanks for the detailed feedback.\n\nJust to note that our latest update includes several balance and QoL changes informed by feedback like this, and we’re continuing to iterate on difficulty and combat tuning (including Legendary Skulkers).\nFull patch details here:\nhttps://www.meta.com/en-gb/experiences/app/developer-post/33204362782543434/\n\nReally appreciate you taking the time to write this up.",
+        "date": 1768319282
+      }
+    },
+    {
+      "id": "777105691962740",
+      "score": 5,
+      "review_title": "Everything you want in VR",
+      "review_description": "To my husband and me, this is a MUST in VR. We were huge fans of Windlands 2, played through it 3-4 times. We play co-op/multiplayer games together in our living room…and I gotta say, Titan Isles has everything you want. Choosing your character is a step-up from Windlands 2 (the storm suit with the gun/hand canons, blink with the discs, Goliath with the goo canons, or traditional hunter with the bow) but also being able to upgrade those suits as you go just adds another level to the game. You have a story, you have combat, you have teamwork, you have upgrades. And the Titans…you have to see them! They are HUGE! The game is challenging also. We are playing for the first time on normal mode, just 2 of us (hunter and storm suit) and we have had to repeat missions a few times which I am TOTALLY okay with! I love my games challenging. Also, replay-ability is there because each missions has different routes, plus, different difficulty levels, PLUS you have to try all the suits, right? All I have to say is - this is AWESOME! We LOVE IT! Please, please, please keep them coming. Game runs smoothly. No issues. No glitches. 5 stars all the way. Can you make more?!",
+      "date": 1759463397,
+      "review_helpful_count": 2,
+      "author_display_name": "ShelBert0409",
+      "author_alias": "ShelBert0409",
+      "developer_response": null
+    },
+    {
+      "id": "24538109302466297",
+      "score": 5,
+      "review_title": "Fun!",
+      "review_description": "The movement of each suit is unique and fun in its own way, which also makes the race mode a ton of fun.\nThe titans in the campaign so far have been great, the graphics are solid and I only wish the other enemies would take less hits to be destroyed. Definitely the most fun in co-op.",
+      "date": 1758909882,
+      "review_helpful_count": 3,
+      "author_display_name": "Slin",
+      "author_alias": "Slin",
+      "developer_response": null
+    },
+    {
+      "id": "1587887339256796",
+      "score": 5,
+      "review_title": "Very well optimised",
+      "review_description": "looks sharp and runs smooth even with a couple friends and is fun af. Would be nice to see the other classes get a buff or more features bc seems everyone just wants to use storm class, which is *stupid* fun with a gunstock,  but my experience after a few missions has been 10/10.\nTitan isles , storm suit , gunstock.. peak vr.",
+      "date": 1760164681,
+      "review_helpful_count": 1,
+      "author_display_name": "void-citizen",
+      "author_alias": "void-citizen",
+      "developer_response": null
+    },
+    {
+      "id": "841939181595181",
+      "score": 3,
+      "review_title": "Great, except for one thing.",
+      "review_description": "This game looks, feels, and sounds amazing, and would easily be five stars if a \"local data error\" didn't happen essentially deleting my 5+ hours save file. Im not sure if this is a problem on my end or not. But this is where my rating stands for now.",
+      "date": 1759667083,
+      "review_helpful_count": 2,
+      "author_display_name": "Toast__64",
+      "author_alias": "Toast__64",
+      "developer_response": {
+        "body": "Hey Toast__64, thanks for taking the time to write this, and I’m really sorry that happened. Losing 5+ hours of progress is brutal, and I completely understand why that would knock the rating down.\n\nTo be transparent, we did have a local save corruption issue that affected a small number of players shortly after launch. That issue has since been fixed, and in most cases the affected save files should now load and work again. We’ve also added extra safeguards to make sure saves are far more resilient going forward, and since that patch went out we haven’t seen further reports of lost progress.\n\nWe’re a very small indie team, but we do take this seriously, and it’s frustrating for us too when something like this undermines what should be a great experience.\n\nIf you’re willing to give it another go now that the issue is resolved, we’d genuinely love for you to revisit the game and update your review based on how it plays today. \n\nEither way, thank you for the kind words about how the game looks, feels, and sounds.",
+        "date": 1766746551
+      }
+    },
+    {
+      "id": "1449634669654397",
+      "score": 5,
+      "review_title": "Vracer Hoverbike",
+      "review_description": "Titan isles is a great game to play with friends, the scale is impressive, graphics simplistic\nbut work well in VR. \nSome levels look jaw droppingly gorgeous, others not so much. \nSome consistency would be good. I think it's just down to color pallet choices really. \nThe Lazer dodging section for instance looks pretty naff, as well as the levels with yellow lava. Basically the jungle level. \nSomething can defo be done. \nBut regardless the game is a lot of fun. \nDamage numbers or a health bar for enemies would be appreciated as you never know how much life and enemy has or how much damage an upgraded gun does. \nAnd some extra player speed would be welcomed as it feels a little slow, especially on legendary mode even with my character maxed out. Weapons also sound like popcorn rather than guns. \nBut there's nothing really like this out there as it stands.\nSmooth gameplay and movement, plenty of action,\nyou feel like a real super hero. It's a defo must try.",
+      "date": 1759580899,
+      "review_helpful_count": 1,
+      "author_display_name": "Russ_Blake",
+      "author_alias": "Russ_Blake",
+      "developer_response": null
+    },
+    {
+      "id": "816472047565877",
+      "score": 5,
+      "review_title": "I’m so happy",
+      "review_description": "Me and my friends have been waiting so long to play this I really can’t wait to play thank you so much to everyone who made this game",
+      "date": 1758819862,
+      "review_helpful_count": 7,
+      "author_display_name": "Breezy_Boy_OD",
+      "author_alias": "Breezy_Boy_OD",
+      "developer_response": null
+    },
+    {
+      "id": "1405343661180509",
+      "score": 5,
+      "review_title": "Perfect 4 Player Chaos",
+      "review_description": "As a man with over 200hrs in Windlands 2 I hereby declare this game is absolutely amazing. The movement mechanics on all four characters is top notch. The combat is engaging and at times extremely difficult, depending on settings. The scale of the Titans is mind blowing at times.\nEasy 5/5\n\nThough I would like to know who on the team came up with Blinks weapon and what their vision was. And if they feel like they achieved it. Learned to love it but it took some effort.\n\nThanks for the amazing game and looking forward to more from you guys!",
+      "date": 1759273200,
+      "review_helpful_count": 1,
+      "author_display_name": "Jack0fClubs",
+      "author_alias": "Jack0fClubs",
+      "developer_response": null
+    },
+    {
+      "id": "1179099790790765",
+      "score": 5,
+      "review_title": "Great solo or multiplayer game.",
+      "review_description": "The team took what the created with Windlands/Windlands 2 and multiplied it by a factor of 3.\n\nTitan isle has 4 unique classes that have each have their own idiosyncrasies for you to learn.\nEach class is fully upgradeable through their own perk trees and will give you plenty to work towards.\n\nThe game works well as a single player game but works best with some friends (In my opionion)\n\nThe game really takes advantage of VR and the sense of scale when it comes to bosses and has a stunning soundtrack\n\nChuck in all the hidden collectibles and a element of randomization (there seems to be variations of rooms which make up a level) and you have something that has a lot of replay value. Whether you just want to level up your classes or to hunt for all the collectible.\n\nAdd in the all the bonus non story levels (like the race levels) and you have very solid game.",
+      "date": 1759168362,
+      "review_helpful_count": 1,
+      "author_display_name": "Burntbreadman",
+      "author_alias": "Burntbreadman",
+      "developer_response": null
+    },
+    {
+      "id": "768398442663573",
+      "score": 5,
+      "review_title": "Awesome. Needs some TLC",
+      "review_description": "So I'm 4 chapters in and I'm having a blast. This is overall such an amazing game. You get an Iron Man like jet suit, Spidey like grapple suit, stealth suit and tank suit. Mostly ive been loving the jet suit. Although there was a chapter where i did need to to use the tank suit as i needed a shield. It definitely is an intense game so if you get motion sickness, stay clear. Boss battle are epic and bosses are massive. Nice variety and plenty of emenies at one time have you zooming around dodging incoming attacks. With all that said there are some things that leave the game needing polish and it is missing basic game systems that i do really hope get added. Check those out below.\n\n-needs checkpoint/ save file system\n-needs mission selection system\n-glitch with Hunter suit arms not tracking properly. Multiple game and headset restarts did not seem to resolve issue.\n-glitch when entering boss arena where i am constantly being pushed forward. Hitting Meta button then resuming game fixes this issue.\n-needs explaination of setting functions in menu. (What is \"knee strength\"?)\n-needs setting to set full body avatar depth.(I'd like to pull it in a bit)\n-do something with the avatar chin armor. It constantly obstructs my view\n-Make the money system mean something. The customization is underwhelming. Maybe a perk system instead? A lot of buttons not being used. Id rather use my money for single use power ups to take with me. \n-needs viewable map in mission(think Dungeons of eternity hologram map ball, but in wrist).\n-speaking of wrist...it can be hard to track suit power. With everything going on(flying, dodging, shooting and finding a landing spot) all at once, an on screen hud option would be awesome to help keep track of my suit while in in the action.",
+      "date": 1759169746,
+      "review_helpful_count": 1,
+      "author_display_name": "DSA_SICK_username",
+      "author_alias": "DSA_SICK_username",
+      "developer_response": null
+    },
+    {
+      "id": "824465296717155",
+      "score": 5,
+      "review_title": "Wow!",
+      "review_description": "Achievement Hunting is back, and this time it's not just grappling about! The 4 exo suits are diverse and all a lot of fun to play! Grab some friends and experience what VR was made for 🤘",
+      "date": 1758833489,
+      "review_helpful_count": 3,
+      "author_display_name": "M4cheteColletti",
+      "author_alias": "M4cheteColletti",
+      "developer_response": null
+    },
+    {
+      "id": "3110649535778973",
+      "score": 5,
+      "review_title": "Great Game!",
+      "review_description": "I loved both Windlands and Windlands 2, and Titan Isles really feels like a worthy follow-up. Love the art style and movement mechanics!",
+      "date": 1758972204,
+      "review_helpful_count": 4,
+      "author_display_name": "ErThu",
+      "author_alias": "ErThu",
+      "developer_response": null
+    },
+    {
+      "id": "1143618457705116",
+      "score": 5,
+      "review_title": "Highly Recommend",
+      "review_description": "Titan Isles is a thrilling co-op VR action-adventure that absolutely nails the colossal scale of its giant Titan boss battles. The fluid, customizable Exo Suit movement and bullet-hell chaos make every mission an exhilarating rush.",
+      "date": 1759368170,
+      "review_helpful_count": 1,
+      "author_display_name": "pmak111",
+      "author_alias": "pmak111",
+      "developer_response": null
+    },
+    {
+      "id": "3814502738848156",
+      "score": 5,
+      "review_title": "Made for VR gamers by VR gamers",
+      "review_description": "Titan Isles is what VR gaming is all about.  It allows you and a couple of friends to embark on an epic journey through beautiful alien planets, blasting robots and taking on giant titans. It’s one of those rare, must have, indie gems you should definitely add to your library.",
+      "date": 1759297398,
+      "review_helpful_count": 1,
+      "author_display_name": "etn949",
+      "author_alias": "etn949",
+      "developer_response": null
+    },
+    {
+      "id": "2200169440493459",
+      "score": 5,
+      "review_title": "Another masterpiece from Psytec",
+      "review_description": "There's just something about the movement and shooting in these games that keeps me coming back. A must-buy in my book.",
+      "date": 1759971554,
+      "review_helpful_count": 2,
+      "author_display_name": "RedBeardOfDeath",
+      "author_alias": "RedBeardOfDeath",
+      "developer_response": null
+    },
+    {
+      "id": "818897137303437",
+      "score": 5,
+      "review_title": "A true classic!",
+      "review_description": "I must buy VR title. Brilliant mechanics, highly addictive gameplay and incredible level design.\n\nOne of the best games I have played in the last five years!",
+      "date": 1759142353,
+      "review_helpful_count": 2,
+      "author_display_name": "Loot.Destroy.Repeat",
+      "author_alias": "Loot.Destroy.Repeat",
+      "developer_response": null
+    },
+    {
+      "id": "1469025294178935",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Having an absolute blast in this game.",
+      "date": 1761255634,
+      "review_helpful_count": 1,
+      "author_display_name": "dattatteddude10",
+      "author_alias": "dattatteddude10",
+      "developer_response": null
+    },
+    {
+      "id": "2345405922568601",
+      "score": 5,
+      "review_title": "Vracer hoverbike",
+      "review_description": "Great game, even better in a group, recommend 👌",
+      "date": 1759424252,
+      "review_helpful_count": 2,
+      "author_display_name": "R3TR06386",
+      "author_alias": "R3TR06386",
+      "developer_response": null
+    },
+    {
+      "id": "1504580187454648",
+      "score": 5,
+      "review_title": "Top tier VR",
+      "review_description": "Improves on their previous titles in every way. Rich, fluid movement, great combat mechanics, and a world that's a joy to traverse and explore.",
+      "date": 1759157862,
+      "review_helpful_count": 1,
+      "author_display_name": "Van_Uber_VR",
+      "author_alias": "Van_Uber_VR",
+      "developer_response": null
+    },
+    {
+      "id": "1328238692029801",
+      "score": 5,
+      "review_title": "Fun Factor \"5\"",
+      "review_description": "This game is a lot of fun in co-op mode.  Great graphics with amazing gameplay options.  I will be playing this game with friends for months to come.",
+      "date": 1759018435,
+      "review_helpful_count": 1,
+      "author_display_name": "Wallace_B",
+      "author_alias": "Wallace_B",
+      "developer_response": null
+    },
+    {
+      "id": "4033284930318144",
+      "score": 4,
+      "review_title": "Super 👍",
+      "review_description": "Multiplayer top",
+      "date": 1758961798,
+      "review_helpful_count": 3,
+      "author_display_name": "MastrLu",
+      "author_alias": "MastrLu",
+      "developer_response": null
+    },
+    {
+      "id": "1826675801606588",
+      "score": 5,
+      "review_title": "Great co op",
+      "review_description": "Great co op game...its brilliant on your own as well..brilliant movement and controls make this game feel very good",
+      "date": 1759251796,
+      "review_helpful_count": 1,
+      "author_display_name": "galacticjab",
+      "author_alias": "galacticjab",
+      "developer_response": null
+    },
+    {
+      "id": "827036323218928",
+      "score": 5,
+      "review_title": "Wow",
+      "review_description": "What a blast!! This games something special well done Developers!!",
+      "date": 1759246423,
+      "review_helpful_count": 1,
+      "author_display_name": "Dragonyne",
+      "author_alias": "Dragonyne",
+      "developer_response": null
+    },
+    {
+      "id": "783981067857649",
+      "score": 5,
+      "review_title": "",
+      "review_description": "One of the best games in the store !",
+      "date": 1759498663,
+      "review_helpful_count": 1,
+      "author_display_name": "S.e.x.Y",
+      "author_alias": "S.e.x.Y",
+      "developer_response": null
+    },
+    {
+      "id": "793158173885426",
+      "score": 4,
+      "review_title": "JUST WOW! I’M FLYING AND SHOOTING ROBOTS",
+      "review_description": "Titan Isles is finally here!! 🤩\n\nSo far, what an amazing experience! The narrating and voice acting is great so far, and the maps are quite expansive. You get to choose four different suits. Each with different unique abilities. I chosed the storm suit as you get to hover while shooting! Which does provide an epic experience but it’s unfortunately been a frustrating learning curve for I due to either user error or some discrepancies with it. \n\nThe game says it can “fly” but that is not correct. It’s more of you just jet boosting yourself with the jet pack and gloves. The issue I’m experiencing is that after doing a high jet jump with the jet pack, I’d instinctly use the gloves to change directions or seek a higher elevation. \n\nHowever, the gloves have just enough power to just slow down but not rise back up so I’d just eventually fall due to power being consumed rapidly. Leading to a ridiculous amount of deaths. Another issue that upon landing, you just keep sliding and no jet pack or glove pulse will save you from said sliding off so you have to be very careful with the amount of jet you use. The game description said you’d be fighting titans but so far, it’s been mostly medium and small sized bots that I’ve encountered. \n\nAll in all, quite a large learning curve but the immersive experience makes up for all it. Highly recommend!",
+      "date": 1758830515,
+      "review_helpful_count": 5,
+      "author_display_name": "TheAwkwardTwinkieVR.2022",
+      "author_alias": "TheAwkwardTwinkieVR.2022",
+      "developer_response": {
+        "body": "Hello! Thank you for the kind review. Here are a few tips & tricks that will help alleviate your issues as you play through the game:\n\n1. Skill upgrades - these upgrades will increase the amount of fuel, allowing your jets to boost for longer and recover faster.\n2. Settings & Options - there are settings to adjust how \"slidey\" the movement is and how \"spongey\" the landings are, you should be able to find these in Movement settings as \"Ground Drag\" and \"Knee Strength\" respectively.\n\nIn terms of fighting Titans, a Titan appears at the end of each campaign level, so keep making your way through the level to reach the Titans lying in wait at the end!\n\nThank you for playing. We welcome any and all feedback, and you can reach us directly for more direct conversation though our Discord server: psytec.games/discord",
+        "date": 1759233766
+      }
+    },
+    {
+      "id": "1443164436740491",
+      "score": 5,
+      "review_title": "A true successor to Windlands 2",
+      "review_description": "Titan Isles is amazing. The fact that it works so smoothly online with 4 different movement styles and combat methods. This game feels like a windlands 4, as if they skipped windlands 3 entirely! I love the enemy variation, map layout, polished flow, and all of the creativity that went behind making this world pop.",
+      "date": 1760204786,
+      "review_helpful_count": 1,
+      "author_display_name": "JU5TINCREDIBLE",
+      "author_alias": "JU5TINCREDIBLE",
+      "developer_response": null
+    }
+  ],
+  "total": 66,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T15:55:55Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "5089041131126488",
+  "package_name": "com.RGC.JogIt",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "JogIt - Jogging VR game",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "481470763747591",
+      "score": 5,
+      "review_title": "Love it!",
+      "review_description": "This game is awesome! is super fun and it boosts your energy & I love the different levels.",
+      "date": 1651906933,
+      "review_helpful_count": 0,
+      "author_display_name": "goldram",
+      "author_alias": "goldram",
+      "developer_response": null
+    },
+    {
+      "id": "169287138862012",
+      "score": 5,
+      "review_title": "greate game",
+      "review_description": "This game is amazing and It's the most fun way of exercising.\nIn the future I'd prefer for there to be more scenes, but still a lot of fun!",
+      "date": 1651867592,
+      "review_helpful_count": 1,
+      "author_display_name": "Yoav_Goldman",
+      "author_alias": "Yoav_Goldman",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T16:02:33Z"
+}

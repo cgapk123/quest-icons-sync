@@ -1,0 +1,92 @@
+{
+  "app_id": "1449895448413837",
+  "package_name": "com.PseudosciencePictures.TheCootiesVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "The Cooties - VR",
+  "rating_average": 3.8,
+  "rating_count": 15,
+  "review_count": 15,
+  "reviews": [
+    {
+      "id": "2072347273077874",
+      "score": 5,
+      "review_title": "Fun, well done!",
+      "review_description": "A fun experience, and the price is right! Do yourself a favor and check it out!",
+      "date": 1540598840,
+      "review_helpful_count": 3,
+      "author_display_name": "polka_panda",
+      "author_alias": "polka_panda",
+      "developer_response": null
+    },
+    {
+      "id": "1107885392721528",
+      "score": 4,
+      "review_title": "Very nice experience!",
+      "review_description": "2018.09.18: Finally this app can be experienced with the Oculus Go in its full glory! Thanks for everyone involved for your hard work! :) Now I have a nice VR earworm, after watching this catchy song so many times. :D\n\n2018.07.12: Thanks for trying to fix it. My guess is that building the app with the latest Oculus SDK and recommended Unit version could fix the issue. If it doesn't, Oculus developer support should help. \n\n2018.07.07: It's alive (thanks)! And it's a cool use of VR! Unfortunately the app is not working very well with the Oculus Go: swiping doesn't turn on the subtitles, and video playback starts stuttering a lot, making the video and audio out of sync... :( The back button also doesn't work, and the video ends with a black screen (with no option to restart the video or return to Oculus home).\n\n2018.06.25: Is it dead? I downloaded the app on my Oculus Go, but it is \"Unable to contact the server. Please try again later\". Since the video is a different (and as of this writing, not working) download, the app basically does nothing.",
+      "date": 1537314508,
+      "review_helpful_count": 2,
+      "author_display_name": "FunKing",
+      "author_alias": "FunKing",
+      "developer_response": {
+        "body": "Glad you enjoyed it! Thanks for sticking with us, and thanks for watching!",
+        "date": 1537646070
+      }
+    },
+    {
+      "id": "876852145805876",
+      "score": 3,
+      "review_title": "Interesting",
+      "review_description": "Interesting idea. Music is not to my taste...\n\nUPDATE: \nI could swear the video is mono 360, but I'll trust the developer information below. Maybe it's the picture quality or the distance to the objects that hides the 3D stereo effect then.",
+      "date": 1498685716,
+      "review_helpful_count": 1,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": {
+        "body": "I'm sorry you didn't like it, but the video absolutely is in 3D (stereo video). We shot with the Google Jump Odyssey.",
+        "date": 1498669680
+      }
+    },
+    {
+      "id": "862539743937651",
+      "score": 5,
+      "review_title": "Five for Free",
+      "review_description": "By Pseudoscience. Virtual interactive music video. TRT 3 min.",
+      "date": 1530495360,
+      "review_helpful_count": 0,
+      "author_display_name": "matthewmuhl",
+      "author_alias": "matthewmuhl",
+      "developer_response": null
+    },
+    {
+      "id": "495322660799749",
+      "score": 5,
+      "review_title": "Really fun",
+      "review_description": "Be sure to turn around!",
+      "date": 1497482016,
+      "review_helpful_count": 7,
+      "author_display_name": "kushboy",
+      "author_alias": "kushboy",
+      "developer_response": null
+    },
+    {
+      "id": "142721684376685",
+      "score": 5,
+      "review_title": "Catchy song great replay",
+      "review_description": "For a free app this is short but it has 4 main scenes you can switch from and a bonus one you can trigger. Due to this you can get a good amount of replay from it. The songs also funny catchy and well mixed.",
+      "date": 1614324615,
+      "review_helpful_count": 1,
+      "author_display_name": "MASE1515",
+      "author_alias": "MASE1515",
+      "developer_response": null
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T15:55:19Z"
+}

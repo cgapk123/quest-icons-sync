@@ -1,0 +1,34 @@
+{
+  "app_id": "8649823765116074",
+  "package_name": "com.PsycheGames.DeliveryRush",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Delivery Rush",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "610774011480432",
+      "score": 1,
+      "review_title": "Game Completely Distorted!",
+      "review_description": "I have a Quest Pro and when I tried to play, the game is completely distorted when you launch it. Please fix.",
+      "date": 1736043241,
+      "review_helpful_count": 6,
+      "author_display_name": "Cocopuff75",
+      "author_alias": "Cocopuff75",
+      "developer_response": {
+        "body": "The bug has been fixed.",
+        "date": 1759273101
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T15:55:33Z"
+}

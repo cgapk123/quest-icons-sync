@@ -1,0 +1,34 @@
+{
+  "app_id": "7255231077860186",
+  "package_name": "com.PuQuest.SmashBeat.vr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Super Stellar Demo",
+  "rating_average": 4.6666666666667,
+  "rating_count": 3,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "596934986248678",
+      "score": 5,
+      "review_title": "A nice start!",
+      "review_description": "This is another L/R color-coded shooter on rails (think Beat Saber). The graphics and visuals are pretty cool, and the atmosphere is beautiful. Keep working on this, devs! One question: how can I keep track of how many time-slows I have remaining?\n\nl i n k t r . e e / q u a c k b i r t h",
+      "date": 1734274367,
+      "review_helpful_count": 4,
+      "author_display_name": "QUACKBIRTH",
+      "author_alias": "QUACKBIRTH",
+      "developer_response": {
+        "body": "Thank you for your feedback. Any feedback can contribute to better upgrades in the future. You can track the number of time-slow events at the top of the UI. On the right, there are a few clocks, with each round containing five of them.",
+        "date": 1741471148
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T15:56:01Z"
+}

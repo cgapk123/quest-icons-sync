@@ -1,0 +1,42 @@
+{
+  "app_id": "6606356802801168",
+  "package_name": "com.ProvenReality.PatientExaminationPro",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Patient Examination Pro",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "929235613596111",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Can’t do ausculation",
+      "date": 1764238172,
+      "review_helpful_count": 0,
+      "author_display_name": "AshuisVR.V4",
+      "author_alias": "AshuisVR.V4",
+      "developer_response": null
+    },
+    {
+      "id": "613666498497823",
+      "score": 1,
+      "review_title": "Extremely limited",
+      "review_description": "You start out, outside of the room. I had to walk out of the playing environment circle and walk back in for it to put me in the room.  Once you’re in the room, you can’t walk around. Can’t even see around patient. Only three cases. No talking with patient. I do not recommend.",
+      "date": 1744565337,
+      "review_helpful_count": 1,
+      "author_display_name": "AngelicHayz",
+      "author_alias": "AngelicHayz",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T15:54:51Z"
+}
