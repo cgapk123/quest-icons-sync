@@ -1,0 +1,87 @@
+{
+  "app_id": "5242571572535656",
+  "package_name": "com.YakimenkoRA.VoidNinjaPaid",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Void Ninja",
+  "rating_average": 4.5,
+  "rating_count": 8,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "434575292828767",
+      "score": 5,
+      "review_title": "Awesome!",
+      "review_description": "Played the demo, loved the concept, execution, style and music, and gladly bought it to support the developer. About to check out what else the game has in store now.",
+      "date": 1719671394,
+      "review_helpful_count": 6,
+      "author_display_name": "Nehonat",
+      "author_alias": "Nehonat",
+      "developer_response": null
+    },
+    {
+      "id": "290422503672040",
+      "score": 2,
+      "review_title": "Desperately needs more levels",
+      "review_description": "While the gameplay is good there are more tutorial levels than actual levels and game doesn't show me which ones I've completed \nSo I don't know where to go after I didn't play a while\n\nIt really needs user created levels or SOMETHING",
+      "date": 1691585116,
+      "review_helpful_count": 1,
+      "author_display_name": "Braaironman",
+      "author_alias": "Braaironman",
+      "developer_response": {
+        "body": "Hi, thank you for your review and your feedback, I've just uploaded major update with whole 20 new levels.\nRoman.\nP.S. More levels and features coming soon.",
+        "date": 1716212285
+      }
+    },
+    {
+      "id": "494130559564250",
+      "score": 5,
+      "review_title": "Hidden gem",
+      "review_description": "A breath of fresh air among the mountains of FPS and AAA titles that are not able to use the features of VR correctly. Masterfully verified gameplay, excellent responsiveness, excellent soundtrack and style. Roman - you are a talent, continue in the same spirit, I will support you.",
+      "date": 1673804415,
+      "review_helpful_count": 4,
+      "author_display_name": "ezobnin",
+      "author_alias": "ezobnin",
+      "developer_response": {
+        "body": "Hi, glad you liked the game, thank you for your feedback. FYI: we are (it's two of us now ;-) ) working on whole game rethinking - most complex elements will removed / simplified, some new elements and weapons will be introduced, all levels will be done from the scratch. Going to deliver some initial version in spring. So keep an eye on this project :-). Roman",
+        "date": 1674467485
+      }
+    },
+    {
+      "id": "5756268391167594",
+      "score": 5,
+      "review_title": "Super Addictive",
+      "review_description": "A super addictive runner with heaps of well-executed gameplay mechanics that kept me coming back for more. Big thanks to the dev for providing 2 codes to giveaway in my best of App Lab video: https://youtu.be/ZNFV4r8MAYw",
+      "date": 1671879032,
+      "review_helpful_count": 2,
+      "author_display_name": "VRReviews",
+      "author_alias": "VRReviews",
+      "developer_response": {
+        "body": "Hi Tony, thank you for your review and your support! Roman",
+        "date": 1674467193
+      }
+    },
+    {
+      "id": "193875606426903",
+      "score": 5,
+      "review_title": "Platforming in VR done right",
+      "review_description": "You will be amazed how a game can take up so little room on your Quest and yet have more depth than most of your library. Try the free demo, and come back for the rest! :) Also I recommend turning jump settings to head position if you are having trouble with wild jumps. The hand position jumps (default) offer more freedom, but can be difficult to master. Personally, I prefer having this setting on head position. Menu/UI took me a minute to figure out, and it also took me a bit to figure out that I couldn't turn while holding onto the katana. Love the dancing tutorial man!",
+      "date": 1665136456,
+      "review_helpful_count": 5,
+      "author_display_name": "R0binG00dfell0",
+      "author_alias": "R0binG00dfell0",
+      "developer_response": {
+        "body": "Hi, thank you for your review and feedback. Yeah the original controls were connected with head positions, but while testing with the players I've noticed most of them expected that jump will be in the direction their body is facing [even it's not tracked ;-) ] so I've introduced with new method and assigned it as a default. Yeah, there was an issue with defining the directction, finally I've identified it. Basically I've re-done this part of the game from the scratch, now it's working significantly better. Dancing Man.",
+        "date": 1665569027
+      }
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T19:17:50Z"
+}

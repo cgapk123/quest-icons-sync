@@ -1,0 +1,42 @@
+{
+  "app_id": "7231254716916452",
+  "package_name": "com.Yoka.MyBowling",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Bowling Practice",
+  "rating_average": 4.5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "133438612949720",
+      "score": 4,
+      "review_title": "Buggy",
+      "review_description": "Sometimes when I hit the middle pin it says it didn’t hit it",
+      "date": 1675119777,
+      "review_helpful_count": 3,
+      "author_display_name": "Preston_DP",
+      "author_alias": "Preston_DP",
+      "developer_response": null
+    },
+    {
+      "id": "114489037891667",
+      "score": 5,
+      "review_title": "Fantastic",
+      "review_description": "Takes a little bit to get the hang of it,but once you do. IT'S FREAKING AWESOME.",
+      "date": 1649801004,
+      "review_helpful_count": 2,
+      "author_display_name": "RLDJR6446",
+      "author_alias": "RLDJR6446",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T19:19:22Z"
+}

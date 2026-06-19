@@ -1,0 +1,42 @@
+{
+  "app_id": "26664626536507687",
+  "package_name": "com.YellowNerd.Myproject1",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Sacky",
+  "rating_average": 5,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1015481888089409",
+      "score": 5,
+      "review_title": "Best game",
+      "review_description": "This game is really fun it has pretty cool cosmetics and 2 Maps that are really fun.",
+      "date": 1779313849,
+      "review_helpful_count": 2,
+      "author_display_name": "Carter.4345",
+      "author_alias": "Carter.4345",
+      "developer_response": null
+    },
+    {
+      "id": "1121307957739170",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Good game 👍 two maps are rlly fun",
+      "date": 1780951970,
+      "review_helpful_count": 0,
+      "author_display_name": "brunnyvoi",
+      "author_alias": "brunnyvoi",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T19:18:33Z"
+}

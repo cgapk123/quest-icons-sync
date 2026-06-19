@@ -1,0 +1,258 @@
+{
+  "app_id": "4592643074113403",
+  "package_name": "com.YueBeifong.YuesVRFPVSim",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Yue's VR-FPV-Sim",
+  "rating_average": 3.25,
+  "rating_count": 52,
+  "review_count": 32,
+  "reviews": [
+    {
+      "id": "799792459891876",
+      "score": 1,
+      "review_title": "Unplayable",
+      "review_description": "How can I use this? The menu and the room are always behind me and very far away, and I can't expand or approach them. It's a useless app.",
+      "date": 1761054319,
+      "review_helpful_count": 1,
+      "author_display_name": "alex.storm.29",
+      "author_alias": "alex.storm.29",
+      "developer_response": null
+    },
+    {
+      "id": "1492710701911105",
+      "score": 5,
+      "review_title": "Super fun, wish there were more maps",
+      "review_description": "This is probably the best direct download fpv sim you can get on the meta store. Insanely fun to fly around without worrying about breaking a drone, responses feel close enough to my real fpv that I have used this on days I can’t fly irl due to weather! Not sure what all the negative gameplay related reviews are about, assuming they just need to get the hang of it. I just wish there were more maps to fly on! \n\nOn a technical side I noticed a glitch when in FPV mode, if you disable the boarder in FPV mode the aspect of map assets changes to look very undersized, not a hide issue when you’re zooming around but it’s a bit disorienting if hovering.",
+      "date": 1754422597,
+      "review_helpful_count": 7,
+      "author_display_name": "Demuralarm",
+      "author_alias": "Demuralarm",
+      "developer_response": null
+    },
+    {
+      "id": "546676408527278",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "This game is great, but like any other game, it can always be better. Don't listen to the people talking about it not working. If I could reply to tell most of them why it's user error and not a problem with the game, I would. It's user error.",
+      "date": 1736919203,
+      "review_helpful_count": 9,
+      "author_display_name": "Dyson_BroSlamDough",
+      "author_alias": "Dyson_BroSlamDough",
+      "developer_response": null
+    },
+    {
+      "id": "685825950240003",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Great game, but I wish there were several types of drones with preset physics settings (light drone, heavy drone, racing drone). I miss the ability to record results on the Industrial tracks. Racing against a ghost in the Industrial tracks would be great as well. Also, I would have liked to see a trick training area on the map - a vertical pipe.",
+      "date": 1692772937,
+      "review_helpful_count": 19,
+      "author_display_name": "Artem_Zoos",
+      "author_alias": "Artem_Zoos",
+      "developer_response": null
+    },
+    {
+      "id": "360381006638822",
+      "score": 1,
+      "review_title": "it says available on quest three but i c",
+      "review_description": "help me",
+      "date": 1703652903,
+      "review_helpful_count": 1,
+      "author_display_name": "seanisabeast",
+      "author_alias": "seanisabeast",
+      "developer_response": null
+    },
+    {
+      "id": "236018605624664",
+      "score": 1,
+      "review_title": "This app is a scam.",
+      "review_description": "This app doesn’t work properly and it can’t be refunded. What a scam.",
+      "date": 1681040135,
+      "review_helpful_count": 7,
+      "author_display_name": "Austin3000",
+      "author_alias": "Austin3000",
+      "developer_response": null
+    },
+    {
+      "id": "531216645537748",
+      "score": 5,
+      "review_title": "Is the support for Xbox controllers?",
+      "review_description": "Great game but Is the support for Xbox controllers?",
+      "date": 1670092784,
+      "review_helpful_count": 4,
+      "author_display_name": "RyGuy450",
+      "author_alias": "RyGuy450",
+      "developer_response": null
+    },
+    {
+      "id": "1811843502540223",
+      "score": 1,
+      "review_title": "Bought the APP cant download",
+      "review_description": "paid for the app but it comes up as purchased and sends you on a cycle with no button to download",
+      "date": 1652301927,
+      "review_helpful_count": 1,
+      "author_display_name": "STARKYVOLT",
+      "author_alias": "STARKYVOLT",
+      "developer_response": {
+        "body": "Hello Starkyvolt! Sorry, for these inconveniences.\nThe Application should show up in your Oculus Menu in \"Not Installed\". If it does not, it might be a problem with Oculus App-Store. Others where able to download this version of the application just fine.",
+        "date": 1652361274
+      }
+    },
+    {
+      "id": "138657668696793",
+      "score": 1,
+      "review_title": "Do not buy",
+      "review_description": "This app doesn’t work.  You can pick up the controller and put on the headset but you can’t fly or do anything else.",
+      "date": 1649622474,
+      "review_helpful_count": 2,
+      "author_display_name": "nerban",
+      "author_alias": "nerban",
+      "developer_response": {
+        "body": "Hello Sir, did you arm your Drone by pressing the \"A\"-Button? There is a Tutorial explaining how it works.",
+        "date": 1649630879
+      }
+    },
+    {
+      "id": "109989274852462",
+      "score": 2,
+      "review_title": "Lost Video Link without warning?",
+      "review_description": "OK. I fly real racing drones for some years and I can easily fly 2 miles without losing video link even with older hardware. If you emulate an old-style video link, put in some breakdown in the image first so one can react. Spoils the whole experience for me. Maybe there will be updates. As of now, I am not a happy customer.",
+      "date": 1638316150,
+      "review_helpful_count": 19,
+      "author_display_name": "Kasom68",
+      "author_alias": "Kasom68",
+      "developer_response": {
+        "body": "Hello Kasom68,\n\nthis issue has been fixed. This behavior can be disabled in the menu:\nSettings -> Gameplay -> FPV Signal Limited\n\nAlso, I implemented your recommendation to add breakdown artifacts before the signal blacks out on the default settings.\n\nThanks for your review!",
+        "date": 1640051513
+      }
+    },
+    {
+      "id": "468718321448726",
+      "score": 1,
+      "review_title": "Had high expectations going in...but...",
+      "review_description": "Not Good.  Pretty horrible, actually.",
+      "date": 1642958847,
+      "review_helpful_count": 2,
+      "author_display_name": "Wet_Blister",
+      "author_alias": "Wet_Blister",
+      "developer_response": {
+        "body": "Hallo RobbDe123,\nsorry that this appliction does not fit you expectations, is there anything in particular that could be improved?",
+        "date": 1643320210
+      }
+    },
+    {
+      "id": "947477442530844",
+      "score": 3,
+      "review_title": "Wanted to enjoy this VR",
+      "review_description": "Wanted to enjoy this VR, but keeps saying disconnected (in the game : the controller to drone)\n\nPlease fix this issue soon as you can, cannot do much on the app.\n\nWe'll update this review once that's fixed.\n\nThanks.",
+      "date": 1636051383,
+      "review_helpful_count": 6,
+      "author_display_name": "iViR",
+      "author_alias": "iViR",
+      "developer_response": {
+        "body": "Hello iViR,\n\nthis Issue has been fixed. This behavior can be disabled in the menu:\nSettings -> Gameplay -> FPV Signal Limited\n\nThanks for your review!",
+        "date": 1640051436
+      }
+    },
+    {
+      "id": "1679874722427217",
+      "score": 1,
+      "review_title": "No controller function",
+      "review_description": "At first it worked really well, then about the 3rd time playing the controls wouldn’t always work. Hit the controls and drone didn’t do anything. No throttle, turns, rolls, nothing. Not sure what happened. The issue is intermittent also. Not working is more common than working.",
+      "date": 1675570646,
+      "review_helpful_count": 1,
+      "author_display_name": "J3ffr3y",
+      "author_alias": "J3ffr3y",
+      "developer_response": null
+    },
+    {
+      "id": "659001099621654",
+      "score": 5,
+      "review_title": "Very limited but OK as no other!",
+      "review_description": "As an AppLab app - it just works and can give you some impression. By default it uses AcroMode, which is hard for me - as it is only for roll and pitch... So always switched to CalibMode, when roll and pitch do not require opposite move to return back to neutral position.\nRegarding @J3ffr3y comment - from time to time, settings are broken, and a drone does not react to any command including start up. Reason - both AcroMode and CalibMode checkboxes were unchecked because of some bug with settings, so just activate one of them to make it working again.",
+      "date": 1690458416,
+      "review_helpful_count": 9,
+      "author_display_name": "Barmaleew",
+      "author_alias": "Barmaleew",
+      "developer_response": null
+    },
+    {
+      "id": "646076446669334",
+      "score": 5,
+      "review_title": "Awesome and great value !",
+      "review_description": "Great simulator! I have been playing mainly on mobile phone, iPad simulators and great to get into a VR drone simulator. Awesome. Great price as well. Cheers!",
+      "date": 1643304797,
+      "review_helpful_count": 4,
+      "author_display_name": "azren2879",
+      "author_alias": "azren2879",
+      "developer_response": {
+        "body": "Hello asren2870,\nthere will be an update in a few weeks with more maps and moving opjects to chase, stay tuned!\nThanks for your kind review!",
+        "date": 1643320123
+      }
+    },
+    {
+      "id": "496389008893585",
+      "score": 5,
+      "review_title": "Really good Simulator",
+      "review_description": "Wanted a game exactly like this so I can practice and get the feel for FPV before I finally build a real one for myself, I do feel like the maps could have a little more in them but overall they are okay, really fun game to try out. Recommended",
+      "date": 1651314967,
+      "review_helpful_count": 5,
+      "author_display_name": "SpongeBobSquareWave",
+      "author_alias": "SpongeBobSquareWave",
+      "developer_response": null
+    },
+    {
+      "id": "480429171602163",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "You can connect external controllers, which makes it a whole ton more fun, and you can change how fast it goes. Great game overall 5 stars if you're trying to get into fpv, then this is the game for you",
+      "date": 1723244991,
+      "review_helpful_count": 3,
+      "author_display_name": "grant1811",
+      "author_alias": "grant1811",
+      "developer_response": null
+    },
+    {
+      "id": "446946278508605",
+      "score": 5,
+      "review_title": "Amazing game, I adore it, really, but",
+      "review_description": "1. Calib mode should be set as a default(across mod is tooo hard for newbie)\n2. Add more maps. \n3. Add more racing tracks like in Infrastructure 1,2,3 \n4. Add many drones with different characteristics\n5. Add more audio tracks\n\nIf you don’t - I will create my own app.\nHaha",
+      "date": 1730721978,
+      "review_helpful_count": 11,
+      "author_display_name": "mikeKlech",
+      "author_alias": "mikeKlech",
+      "developer_response": null
+    },
+    {
+      "id": "446882550663127",
+      "score": 5,
+      "review_title": "Really immersive and fun",
+      "review_description": "I never tried any FPV simulator until now but I've always seenvideos on internet. But holy crap, this is super cool, I don't know how much different can be in reality but now I'm starting to learn to fly drones.",
+      "date": 1659125159,
+      "review_helpful_count": 4,
+      "author_display_name": "Megazar21",
+      "author_alias": "Megazar21",
+      "developer_response": null
+    },
+    {
+      "id": "406857824566455",
+      "score": 5,
+      "review_title": "Awesome!",
+      "review_description": "Great game, so much fun!",
+      "date": 1642122323,
+      "review_helpful_count": 4,
+      "author_display_name": "LiveLaughLover",
+      "author_alias": "LiveLaughLover",
+      "developer_response": null
+    }
+  ],
+  "total": 20,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-19T19:20:42Z"
+}
