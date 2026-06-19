@@ -1,0 +1,42 @@
+{
+  "app_id": "3676519892468339",
+  "package_name": "com.SopraSteria.PhusicosVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Phusicos VR",
+  "rating_average": 4.3333333333333,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1118080572918862",
+      "score": 5,
+      "review_title": "Fantastic",
+      "review_description": "This is a fantastic experience!",
+      "date": 1681286001,
+      "review_helpful_count": 0,
+      "author_display_name": "jelmer_s2",
+      "author_alias": "jelmer_s2",
+      "developer_response": null
+    },
+    {
+      "id": "115669053875939",
+      "score": 5,
+      "review_title": "Learning about NBS",
+      "review_description": "Great experience in NBS",
+      "date": 1615785818,
+      "review_helpful_count": 2,
+      "author_display_name": "JamesNGI",
+      "author_alias": "JamesNGI",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:05:00Z"
+}

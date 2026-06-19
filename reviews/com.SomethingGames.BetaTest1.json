@@ -1,0 +1,45 @@
+{
+  "app_id": "24798799886472734",
+  "package_name": "com.SomethingGames.BetaTest1",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Rearriva VR",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1010226252182040",
+      "score": 5,
+      "review_title": "YO ITS BACK",
+      "review_description": "10/10 but why add brainrot😑",
+      "date": 1775909465,
+      "review_helpful_count": 0,
+      "author_display_name": "SINOVO",
+      "author_alias": "SINOVO",
+      "developer_response": null
+    },
+    {
+      "id": "891776097345716",
+      "score": 5,
+      "review_title": "Fun game",
+      "review_description": "I like it and I used to play an og version",
+      "date": 1762740069,
+      "review_helpful_count": 2,
+      "author_display_name": "SSSSTRAWB",
+      "author_alias": "SSSSTRAWB",
+      "developer_response": {
+        "body": "Thank you! Glad to hear that. :)",
+        "date": 1762752553
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:04:28Z"
+}

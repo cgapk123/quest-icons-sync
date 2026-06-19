@@ -1,0 +1,45 @@
+{
+  "app_id": "8553298271434529",
+  "package_name": "com.SpatialOS.SmashThat",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Smash That",
+  "rating_average": 3,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "565944213278553",
+      "score": 1,
+      "review_title": "Not ready for use as of 4.28.25.",
+      "review_description": "Can’t interact with the main page. No discernible menu or interface with the controllers. Will be requesting a refund.",
+      "date": 1745857383,
+      "review_helpful_count": 0,
+      "author_display_name": "StevensDuck",
+      "author_alias": "StevensDuck",
+      "developer_response": {
+        "body": "Hello Steven, you can use the hammer to press on the buttons on panel infront of you. Do let us know if you face more issues",
+        "date": 1747631930
+      }
+    },
+    {
+      "id": "679334144838715",
+      "score": 5,
+      "review_title": "Me See Me Smash Me Happy",
+      "review_description": "Fun game. Would love more scenes and things to break and some haptic feedback.",
+      "date": 1747668293,
+      "review_helpful_count": 0,
+      "author_display_name": "nitinkumar25195",
+      "author_alias": "nitinkumar25195",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:08:40Z"
+}
