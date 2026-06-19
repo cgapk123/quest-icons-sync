@@ -1,0 +1,78 @@
+{
+  "app_id": "25186871674331794",
+  "package_name": "com.CustomerXR.InnisTest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Innisfree Garden Tour",
+  "rating_average": 3.5,
+  "rating_count": 8,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "998041446724655",
+      "score": 5,
+      "review_title": "Innisfree Garden from home, WOW",
+      "review_description": "I haven't been able to travel for leisure as much as I would like over the last ten years so recently have been using VR to try to find some locations that I wouldn't normally visit due to the demands of day to day life. \n\nThis app allowed me to visit a botanical garden in VR from my couch visiting some of the most picturesque locations within it in various seasons. \n\nWould definitely recommend this to anyone who is looking to \"escape\" for an hour or two and immerse themselves into an absolutely stunning virtual environment.. Had no clue that this was possible until viewing it myself, thank you!!",
+      "date": 1771516218,
+      "review_helpful_count": 5,
+      "author_display_name": "RingoFL",
+      "author_alias": "RingoFL",
+      "developer_response": null
+    },
+    {
+      "id": "963893450135457",
+      "score": 5,
+      "review_title": "Amazing Immersive Tourist Experience",
+      "review_description": "Finally a truly immersive experience where one can move around at their own pace and stay in a place where they want to really take it all in. This garden is so beautiful and the app gives people the ability to transition from Summer to Fall to Winter in the same spot. Really magic!",
+      "date": 1767901263,
+      "review_helpful_count": 5,
+      "author_display_name": "CustomerXR",
+      "author_alias": "CustomerXR",
+      "developer_response": null
+    },
+    {
+      "id": "1041761189017352",
+      "score": 5,
+      "review_title": "I need a break from the city",
+      "review_description": "This is so relaxing that I forget I'm in the city.  It's a nice way to remember to stop and smell the proverbial roses.",
+      "date": 1773083793,
+      "review_helpful_count": 1,
+      "author_display_name": "jumpstartfs",
+      "author_alias": "jumpstartfs",
+      "developer_response": null
+    },
+    {
+      "id": "1098424303344248",
+      "score": 1,
+      "review_title": "Nothing works",
+      "review_description": "Stuck in main menu",
+      "date": 1774520977,
+      "review_helpful_count": 0,
+      "author_display_name": "Saab30",
+      "author_alias": "Saab30",
+      "developer_response": null
+    },
+    {
+      "id": "926333643900884",
+      "score": 1,
+      "review_title": "Alpha Version",
+      "review_description": "Only Loads content while app is open- waiting for 10 Minute load it shows 100 % - but app stops reacting - reopen app pushes load back to 18 %\n\nAlso navigation is not working",
+      "date": 1768734191,
+      "review_helpful_count": 1,
+      "author_display_name": "FamVil2025",
+      "author_alias": "FamVil2025",
+      "developer_response": {
+        "body": "We are sorry you experienced this in a negative way. We updated the experience to allow immediate gratification upon launching the app. Please try again if you are open to it.",
+        "date": 1771365309
+      }
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:23:28Z"
+}

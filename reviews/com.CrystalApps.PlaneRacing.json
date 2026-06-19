@@ -1,0 +1,53 @@
+{
+  "app_id": "9127301600701360",
+  "package_name": "com.CrystalApps.PlaneRacing",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Wings Of Fury: Airplane Racing VR",
+  "rating_average": 3.1666666666667,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "2526129284497056",
+      "score": 1,
+      "review_title": "I can't turn the plane",
+      "review_description": "I tried everything, every button, body movement, ask a.i. and I can't turn the plane at all\n\nPeriod.\n\nHow do you turn the plane. Keep crash straight ahead",
+      "date": 1780449056,
+      "review_helpful_count": 0,
+      "author_display_name": "colecoolin",
+      "author_alias": "colecoolin",
+      "developer_response": null
+    },
+    {
+      "id": "764682875981238",
+      "score": 4,
+      "review_title": "Not bad for early access",
+      "review_description": "A bit of fun for a freebie. The game needs some optimizing as frame rate doesn't feel great even though it appears to be 72hz, resulting in some slightly shuddery movement on my Quest 3 (I can't play for long as this is not great for motion sickness currently). I tried increasing the framerate in Quest Game Optimiser to 120hz and it managed to achieve this FPS when I bump up the CPU and GPU to Ultra however the shudder still seems to persist so I think maybe it's another issue, it's like there is a slight doubling of the objects in the scene when moving the camera/aircraft. It also might be worth seeing if the developers can adjust the chase camera so that it can follow the player on a smoother path rather than instantly reacting to player movement which is a bit sickening.\n\nI downloaded this one mainly as it had Mixed Reality support but after playing it, I don't think that this game style is a good match for MR. Currently the only way that mixed reality would really work for this game is if you were playing outside and using the real world sky/clouds as the skybox, even then it might look a little strange as the real clouds wont move in relation to your position in the game . When playing inside a room, the MR effect is really odd as the game scene is moving, but your real world room isn't, this is not an effective use of mixed reality unfortunately and is a visual conflict for the brain.\n\nGood luck to the devs, it has good potential and it's only early days.",
+      "date": 1752458880,
+      "review_helpful_count": 10,
+      "author_display_name": "GrahamJ",
+      "author_alias": "GrahamJ",
+      "developer_response": null
+    },
+    {
+      "id": "854122214443543",
+      "score": 2,
+      "review_title": "Unrealistic and nauseous",
+      "review_description": "I’m a pilot so always interested in these kind of games. This one is definitely not a simulation, more a fun chaser using only the joystick on one of the controls. Movement is instantaneous and very fast but unrealistic. All in all it gave me a nauseous feeling so I quit the game before even finishing a single round. There seem to be upgrades to be collected and other stuff that can influence your score, but they do nog seem very useful as the slightest collision will destroy you plane anyway. In the current state, I wouldn’t spend money on it, but then again, I might not be the demographic group this game is aiming for.",
+      "date": 1759154484,
+      "review_helpful_count": 0,
+      "author_display_name": "GJKaal",
+      "author_alias": "GJKaal",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:21:08Z"
+}

@@ -1,0 +1,53 @@
+{
+  "app_id": "9761305213914268",
+  "package_name": "com.CosmeticRunners.HaloTag",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Halo Tag",
+  "rating_average": 5,
+  "rating_count": 4,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "747774785076640",
+      "score": 5,
+      "review_title": "Hey, this a great game!",
+      "review_description": "I’m just downloaded this game and played it and it’s really fun!",
+      "date": 1751273746,
+      "review_helpful_count": 2,
+      "author_display_name": "HpKolossos",
+      "author_alias": "HpKolossos",
+      "developer_response": null
+    },
+    {
+      "id": "661340016926882",
+      "score": 5,
+      "review_title": "Fun game!",
+      "review_description": "I was playing and there was a person we talked and it was fun. Also it’s in the latest update",
+      "date": 1752164525,
+      "review_helpful_count": 0,
+      "author_display_name": "GoldenIPS",
+      "author_alias": "GoldenIPS",
+      "developer_response": null
+    },
+    {
+      "id": "589784954224245",
+      "score": 5,
+      "review_title": "Really cool game",
+      "review_description": "Even if it just came out I like it",
+      "date": 1743754964,
+      "review_helpful_count": 3,
+      "author_display_name": "cheeseballsqq",
+      "author_alias": "cheeseballsqq",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:16:35Z"
+}

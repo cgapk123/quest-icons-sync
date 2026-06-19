@@ -1,0 +1,70 @@
+{
+  "app_id": "4563712077031603",
+  "package_name": "com.CooperativeInnovations.Curatours",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Curatours",
+  "rating_average": 3.5555555555556,
+  "rating_count": 9,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "936296003639168",
+      "score": 3,
+      "review_title": "Multiplayer question",
+      "review_description": "My friend and I both downloaded this so we could walk through the museum together. But the “Friends” tab is grayed out. How do I send an invite in game to my friend?\n\nThanks so much!",
+      "date": 1637015967,
+      "review_helpful_count": 4,
+      "author_display_name": "VR2050",
+      "author_alias": "VR2050",
+      "developer_response": {
+        "body": "Hi there. Thanks for taking the time to leave feedback.\n\nCuratours is a new release on AppLab, and we're still adding features and content. The in-app friends feature isn't yet active, as it's still one of the things we're fine tuning. However, you can still join an online tour with your friend. So long as you both join the same server (either US or EU), you will be able to see and speak to each other in the museum.",
+        "date": 1637140132
+      }
+    },
+    {
+      "id": "6124291584290073",
+      "score": 5,
+      "review_title": "Amazing worlds",
+      "review_description": "Great worlds so far. Snowball additional is the icing on the cake.",
+      "date": 1671199061,
+      "review_helpful_count": 0,
+      "author_display_name": "ashstancill",
+      "author_alias": "ashstancill",
+      "developer_response": null
+    },
+    {
+      "id": "4654230451359280",
+      "score": 2,
+      "review_title": "Buggy and confusing",
+      "review_description": "I get that this is the first iteration but from a technical point of view this is very rough around the edges. Controls are buggy, narration is buggy and confusing and the UI frequently fails. On top of that there's a lot of comfort issues that make for a nauseating experience like touching something with your head will push back the whole world.\n\nThe first plastic museum is pretty unfocused from a storytelling perspective too. Plastic bad we understand but it muddles and mixes discourses about climate and plastic without making a good point for either.",
+      "date": 1637498423,
+      "review_helpful_count": 0,
+      "author_display_name": "Gilius",
+      "author_alias": "Gilius",
+      "developer_response": {
+        "body": "Hi Gilius. Thanks for taking the time to try out Curatours. We're really sad to hear that your initial experience of Curatours and our Museum of Plastics 2121 tour didn't live up to your expectations.\n\nWe take all feedback seriously, and we are working continually to improve the experience, add more content, and also overcome these early teething issues. We'd love to hear from you if you'd be willing to share your feedback in more specific detail. You can reach us at info@cura.tours",
+        "date": 1637593465
+      }
+    },
+    {
+      "id": "137483935377620",
+      "score": 5,
+      "review_title": "Excellent presentation",
+      "review_description": "You walk around a small VR museum about plastic. It is well presented by a clear and sexy British female voice. I enjoyed it and learned. And it is free.\n\nI was surprised it didn't mention the company \"the ocean cleanup\". On the negative side, there is a small bug that didn't run anything on the 6th video on the industry side. I also wished the voice will turn on automatically when you get close to the spot. Finally I hope you could show us the molecules in VR, maybe more art and recommended books on this subject, and map where each paintings are located and where the garbage is sent, which country pollute more, the air quality, etc ..\n\nThe presentation is better than Anne frank house VR, and plundering the beginning of a genocide.",
+      "date": 1640375981,
+      "review_helpful_count": 0,
+      "author_display_name": "yes4me",
+      "author_alias": "yes4me",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:14:24Z"
+}

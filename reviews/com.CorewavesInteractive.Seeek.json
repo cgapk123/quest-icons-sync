@@ -1,0 +1,84 @@
+{
+  "app_id": "25213514464980533",
+  "package_name": "com.CorewavesInteractive.Seeek",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "SEEK",
+  "rating_average": 4.0833333333333,
+  "rating_count": 12,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "961248633524859",
+      "score": 1,
+      "review_title": "Horrible Game",
+      "review_description": "Lighting Sucks, Game feels choppy, the monster always gets stuck and you fall from the map when you die, its super rushed and unpolished, I wouldnt reccomend playing.",
+      "date": 1776279280,
+      "review_helpful_count": 1,
+      "author_display_name": "alisdairr",
+      "author_alias": "alisdairr",
+      "developer_response": null
+    },
+    {
+      "id": "1066074779916803",
+      "score": 5,
+      "review_title": "This is good but..",
+      "review_description": "The monster camps and its impossible to go down the hole without getting jumpscared overall good game🙂",
+      "date": 1772574087,
+      "review_helpful_count": 2,
+      "author_display_name": "goldcloverVR12",
+      "author_alias": "goldcloverVR12",
+      "developer_response": {
+        "body": "Working on this bug now, Thank you for playing!",
+        "date": 1772951193
+      }
+    },
+    {
+      "id": "990938294111464",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Gooooooood.",
+      "date": 1773350262,
+      "review_helpful_count": 2,
+      "author_display_name": "FriendlyKangaroo479",
+      "author_alias": "FriendlyKangaroo479",
+      "developer_response": null
+    },
+    {
+      "id": "948522518353573",
+      "score": 4,
+      "review_title": "Good game beta",
+      "review_description": "nice game man i can tell you put lots of love in to it",
+      "date": 1772157370,
+      "review_helpful_count": 1,
+      "author_display_name": "ROB0138",
+      "author_alias": "ROB0138",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1772503511
+      }
+    },
+    {
+      "id": "899505566032438",
+      "score": 4,
+      "review_title": "Seems cool but..",
+      "review_description": "When i load in, i cant see",
+      "date": 1772422348,
+      "review_helpful_count": 1,
+      "author_display_name": "charliebruv",
+      "author_alias": "charliebruv",
+      "developer_response": {
+        "body": "Working on this bug now, Thank you for playing!",
+        "date": 1772951204
+      }
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:15:00Z"
+}

@@ -1,0 +1,34 @@
+{
+  "app_id": "25621812667503093",
+  "package_name": "com.CrimsonStudios.CrimsonProtocol",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "CrimsonProtocol",
+  "rating_average": 1,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "872051535856198",
+      "score": 1,
+      "review_title": "1 STAR",
+      "review_description": "I KEEP HEARING SCREAMING AND “hey!” Everywhere i go!! AND ALSOO HITSOUNDS DO WORK BUT ONLY ON LEFT HAND AND MONSTERS DONT WORK AND YOUR HANDS ARE WEIRD! PLEASE FIX THIS GAME! AND ALSO BTW I FOUND A MONSTER BUT IT CANT EVEN JUMPSCARE ME! Also most of the models are from sketchfab and the wardrobe is from glitchcat studios u didnt credit who made any of the models because u didnt make the models they are from sketchfab!!!",
+      "date": 1773615945,
+      "review_helpful_count": 1,
+      "author_display_name": "jellyworm.2023",
+      "author_alias": "jellyworm.2023",
+      "developer_response": {
+        "body": "Hello! We are sorry for hearing this happened! We will remove the monsters temporarily for now. Also, hitsounds work on both hands. The reason we are using Glitched Cat Studio's Wardrobe is because our shop system is still experimental, and equipping is not implemented. We also made all the models inside of unity, excluding our playermodel. Thanks for playing our game, anyway!",
+        "date": 1773776850
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T08:19:13Z"
+}
