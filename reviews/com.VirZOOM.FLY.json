@@ -1,0 +1,975 @@
+{
+  "app_id": "6392501587470497",
+  "package_name": "com.VirZOOM.FLY",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "FLY - A Google Earth Flight Sim",
+  "rating_average": 4.3690753690754,
+  "rating_count": 1287,
+  "review_count": 370,
+  "reviews": [
+    {
+      "id": "1014070041309223",
+      "score": 2,
+      "review_title": "Too buggy and inconsistent.",
+      "review_description": "Until they fix the street view, I've lowered my review to 2 stars. It worked fine for one day; pano street view is distorted. I rebooted with no luck. It's server-based, so they have to resolve it. Until this bug is fixed, skip this.\n\nToo glitchy.  The app has potential but not ready for primetime.  Looks like Im the Matrix - warped visuals. At street view, when I attempt to navigate, the controllets get stuck on vibrate.  Im afraid this may damage them.\n\nThe glide is very good, and its user friendly, but defeats the purpose of traveling due to bugs and inconsistency makes this a hard pass.",
+      "date": 1780629503,
+      "review_helpful_count": 12,
+      "author_display_name": "PhillipJ.65",
+      "author_alias": "PhillipJ.65",
+      "developer_response": {
+        "body": "Hey there!   The street view not working seems to be an intermittent bug that we are having trouble reproducing.  If you could reach out to support@virzoom.com with more details it would be incredibly helpful for us!",
+        "date": 1781202798
+      }
+    },
+    {
+      "id": "1037592878952898",
+      "score": 4,
+      "review_title": "Awesome! Though it could be better",
+      "review_description": "(Meta Quest 3S user) When I bought this game and played it for the first time, the immersion was honestly insane. You can fly ANYWHERE in the world. You can even bookmark places you flew to, and it sorta feels like you're actually there flying around 😭. On top of that, you can even fly around with just your hands. No controllers actually needed, which blew my mind!\n\nThough I do have some complaints. The first is that street view simply refuses to work. Often, when you try to enter street view and hold the grip, nothing happens. It does work sometimes, but usually not, and sometimes the blue orbs even fly towards you and still do nothing, which is weird. \n\nThe street view imagery when it does work is fairly out of date (like a few years; you can see buildings in 3D and when you go into street view for the times it actually works, they're not even there yet).\n\nOccasionally, there are white chunks on the map when you look down, and going to a new city can, at times, take a bit of time to fully load and look nasty until it is\n\nI would also appreciate it if one day you could make everything else outside of cities look 3D instead of 2D, some 'landmarks' are set in the wrong place, and finally, PLEASE let me fly higher. 280 miles is really not high enough. Despite the bugs, I had a ton of fun and would appreciate it if the devs would hear me out on its potential. I hope they fix the bugs, but otherwise, I recommend this game",
+      "date": 1780950472,
+      "review_helpful_count": 2,
+      "author_display_name": "JoeyWiiRetroVR",
+      "author_alias": "JoeyWiiRetroVR",
+      "developer_response": {
+        "body": "Hey there! Thanks for the review and details.  The streetview not working seems to be an intermittent bug that we are having trouble reproducing.  If you could reach out to support@virzoom.com with more details it would be incredibly helpful for us!\n\nRegarding the request for more 3D locations. As Google adds more to there database they will become available to us as well. So overtime there should be new locations popping up. Every time the game loads we request the most up to data imagery they will provide us.",
+        "date": 1781202778
+      }
+    },
+    {
+      "id": "3262629674044156",
+      "score": 5,
+      "review_title": "Recent Meta update broke this game",
+      "review_description": "Update: now working as before, good job by the dev team to fix a problem that they didn't create. As promised I bought all the dragons and will be flying them over more civil war battlefields tonight.\n\nWhen it works, easy 5 stars and takes up the majority of my time in VR. I hadn't used my quest in months. The other day I turned it on and fired up this app and was flying around a bunch of civil war battlefields we recently visited. Amazing! It was great to get an overall sense of those locations after being there. When I was done, I updated the quest and put it away. Now, every single time I try to get back into the app it looks like it's starting, but kicks me back to the home screen right away. Based on my limited experience I believe Meta is the one who broke this app with their update. To the dev: when this gets fixed I will change my review and buy all the dragons!",
+      "date": 1778346565,
+      "review_helpful_count": 7,
+      "author_display_name": "Flukbuk",
+      "author_alias": "Flukbuk",
+      "developer_response": null
+    },
+    {
+      "id": "1091966297341052",
+      "score": 3,
+      "review_title": "!",
+      "review_description": "I don't use VR for anything else, just for this app, it worked beautifully at first. Now it just won't load the street views, you can only fly around in it.\nI'm sorry it's like this, because it would be my favorite app.",
+      "date": 1780949971,
+      "review_helpful_count": 0,
+      "author_display_name": "GlowingLeopard7745",
+      "author_alias": "GlowingLeopard7745",
+      "developer_response": {
+        "body": "Hey there! Thanks for the review and details.  The street view not working seems to be an intermittent bug that we are having trouble reproducing.  If you could reach out to support@virzoom.com with more details it would be incredibly helpful for us!",
+        "date": 1781202826
+      }
+    },
+    {
+      "id": "1619177886057575",
+      "score": 4,
+      "review_title": "Spectacular!! But the AI add-on is not.",
+      "review_description": "Real satellite views and even Google street view! A real cool game!\n\nPurchased the add-on AI assistant but it’s more of Artificial Not-intelligent. \nIt almost never gets the location right unless you go to somewhere famous. Good luck going to a small town in Canada or even a certain street address. Somehow it messes that up too. To make things worse, Meta won’t give me a refund for the AI assistant. Don’t purchase the add-on",
+      "date": 1775589163,
+      "review_helpful_count": 7,
+      "author_display_name": "Atfrenette",
+      "author_alias": "Atfrenette",
+      "developer_response": {
+        "body": "Hey there!  Would love to get some examples of times the AI failed to take you where you hoped so we can test them out. If you want to send  more info to support@virzoom.com we can take a look",
+        "date": 1775764798
+      }
+    },
+    {
+      "id": "1384439940406211",
+      "score": 1,
+      "review_title": "weak.",
+      "review_description": "its a goofy looking google maps street view, while flying a fpv drone. That's it. No way for refunds that i can find. Lesson learn.",
+      "date": 1781661902,
+      "review_helpful_count": 1,
+      "author_display_name": "StoneyHawk",
+      "author_alias": "StoneyHawk",
+      "developer_response": null
+    },
+    {
+      "id": "1132751616584134",
+      "score": 2,
+      "review_title": "Glitchy",
+      "review_description": "The buildings in New York and everywhere else are just glitchy in general. When I was trying to type, it kept going into bad frames. Very choppy, and my internet connection was great.",
+      "date": 1778366538,
+      "review_helpful_count": 4,
+      "author_display_name": "jammyJimjam1006",
+      "author_alias": "jammyJimjam1006",
+      "developer_response": {
+        "body": "Hey there, sorry you had trouble.  Can you clarify more of what you mean by glitchy buildings?   We are aware of an issue when the keyboard is up that the framerate drops and are working on a fix.",
+        "date": 1778536002
+      }
+    },
+    {
+      "id": "1081308581722781",
+      "score": 2,
+      "review_title": "It’s awful",
+      "review_description": "It won’t load past the initial space sky ,Tells me to add new boundaries but I click and it takes me back to menu - I want a refund but gee go figure - not an easy task to find where to\nGet it. Disapppointed because it was a good app but only loaded for me twice- nothing since.",
+      "date": 1773015624,
+      "review_helpful_count": 20,
+      "author_display_name": "Divergent9748",
+      "author_alias": "Divergent9748",
+      "developer_response": {
+        "body": "Hey there,\nSorry you are having trouble. We are trying to figure out what's going on here if you could reach out to support@virzoom.com we would love to get more information.\nIf you need a refund we unfortunately cannot do that and you would need to go through meta support.\n**edit***\nWe put out an update that should fix this. Sorry for the trouble!",
+        "date": 1778699419
+      }
+    },
+    {
+      "id": "1689051978937542",
+      "score": 5,
+      "review_title": "They’ve done it again!!",
+      "review_description": "VZFit allows us to literally bike the world.  Fly, also by VRZoom, enables us to fly to any destination we want.  I’ve always wanted to see Tianmen Mountain Road, otherwise known as The 99 Bends Road, in China.  It hasn’t been mapped out but you still get to fly over it.  And since I don’t happen to have a spare $100,000 lying around with which to get myself killed I’m gonna try Mt. Everest, nice and safe, in VR.  The possibilities are limited only to your imagination.  I highly recommend this outstanding VR travel app!\n\nI also highly recommend that you stay away from AI Concierge.  In my case it ruined the app until they told me how to turn it off.  Perhaps, when the bugs are worked out, I’ll try it again but for now I’m keeping it turned off.",
+      "date": 1777812462,
+      "review_helpful_count": 1,
+      "author_display_name": "thesimonator",
+      "author_alias": "thesimonator",
+      "developer_response": null
+    },
+    {
+      "id": "1119876374532306",
+      "score": 5,
+      "review_title": "Awsome App. Highly recommend 👌🏽.",
+      "review_description": "Great App for exploring different places. I just wish that you could pick back up at the last street location that you left off of once you quit the app and then return. Please developers take this into consideration.  I'm on this app daily exploring the world and my eyes get tired and I have to quit the perfect stroll around a town that I found. Thanx",
+      "date": 1773892150,
+      "review_helpful_count": 8,
+      "author_display_name": "PlayfulLobster3816",
+      "author_alias": "PlayfulLobster3816",
+      "developer_response": null
+    },
+    {
+      "id": "953945674311189",
+      "score": 4,
+      "review_title": "Learning to FlY",
+      "review_description": "I enjoy FLY very much.  I am still learning to navigate within the program, and I find the program very relaxing.",
+      "date": 1779844509,
+      "review_helpful_count": 0,
+      "author_display_name": "Cynergy251",
+      "author_alias": "Cynergy251",
+      "developer_response": null
+    },
+    {
+      "id": "1612272179975716",
+      "score": 5,
+      "review_title": "Great app 👍 just needs a few tweaks",
+      "review_description": "Firstly, I'd like to say it's 100% worth getting at this price point! It's great to fly around old family homes, holiday locations etc whilst listening to music. Multiplayer is also a great addition.\n\nMy only problem with the app is that Street View seems to be a bit of a mess. It's viewable but really hard to control and not very intuitive. It also seems to teleport you to random locations, as the \"orbs\" you select rarely line up with the view it's meant to transport you to.\n\nThere are a few things I think would be great additions to the app, such as more specific search locations. It seems to transport you to a city but never to an exact address, so it takes a while to find what you're looking for. Also, having more detailed labels on the map, a browser for watching YouTube whilst flying, and a sat nav would be cool.",
+      "date": 1773351890,
+      "review_helpful_count": 11,
+      "author_display_name": "sazzer24",
+      "author_alias": "sazzer24",
+      "developer_response": null
+    },
+    {
+      "id": "1307200791350354",
+      "score": 5,
+      "review_title": "Absolute Favourite!",
+      "review_description": "I love this app. I have great hopes that this will be the greatest of the apps of its kind based on how my experience improves with each update. I get on and before I know it hours have gone by.",
+      "date": 1777666032,
+      "review_helpful_count": 0,
+      "author_display_name": "WhiteGoffin",
+      "author_alias": "WhiteGoffin",
+      "developer_response": null
+    },
+    {
+      "id": "1004690622053748",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "Fun",
+      "date": 1780158483,
+      "review_helpful_count": 0,
+      "author_display_name": "SoupsForDays",
+      "author_alias": "SoupsForDays",
+      "developer_response": null
+    },
+    {
+      "id": "837553602758805",
+      "score": 5,
+      "review_title": "Simple but relaxing",
+      "review_description": "Easy to navigate and explore",
+      "date": 1779381731,
+      "review_helpful_count": 0,
+      "author_display_name": "dyewhy2006",
+      "author_alias": "dyewhy2006",
+      "developer_response": null
+    },
+    {
+      "id": "1002846158846957",
+      "score": 5,
+      "review_title": "Really good",
+      "review_description": "It’s lwk relaxing. Good game overall.",
+      "date": 1778802762,
+      "review_helpful_count": 0,
+      "author_display_name": "nkhawk",
+      "author_alias": "nkhawk",
+      "developer_response": null
+    },
+    {
+      "id": "1609635087064373",
+      "score": 3,
+      "review_title": "",
+      "review_description": "There’s a trend I’ve noticed in several games on the Metastore (not just in Fly): they often start with excellent versions, where everything works well and the framerate is great.\n\nThen new updates arrive with added features, and sometimes this creates framerate issues, sometimes the graphics get worse. Most of the time they fix the problems… but what really frustrates me is when they don’t.\n\nWhat makes me angry is that after several months, the degraded framerate in this app still hasn’t been fixed.\n\nOn top of that, players aren’t even allowed to downgrade to a previous version, where maybe you couldn’t use the AI yet, but at least you had a stable and smooth framerate — which is essential in this app, together with a good resolution.\n\nInstead, you’re forced to have the new AI features, even if you don’t use them, but also to deal with a worse framerate. And this hasn’t been happening for just one or two months — it has become the new normal.\n\nAnother thing that bothers me is how little attention other players pay. Many don’t even notice the downgrade in performance. Unfortunately, this lack of attention to detail is very common nowadays.\n\nSo the developers adapt and think: “You know what? If most users didn’t even realize the framerate got worse, why should we bother bringing it back to the previous, smooth and stable level? Let’s just keep it this way and add more features like AI or Spotify integration. The overall experience gets worse, but nobody notices.”\n\nThey pretend to give us “more”, but in reality they’re taking away something fundamental to the experience.\n\nI loved this app and I still love it. And it’s precisely because I care about it that, until the original performance is restored, I will unfortunately leave a 3-star rating — for the time that has passed without a fix and for the forgetfulness effect this has created.\nI’ll be ready to put five stars back the moment the performance improves.\n\nAnd please, to achieve a higher framerate, don’t reduce the maximum detail distance of buildings… because I check that too! Along with the resolution, foveated rendering, etc. Thanks.\n\n\n\nupdate AI:\n\nI just tried the update with the AI: in Italian it works fairly well, but it’s not fast at determining the player’s position. For example, I was in the Vatican and it was able to recognize it, but then I moved to another area, and even though I had been there for quite some time, it said it didn’t have the coordinates.\n\nAlso, in recent updates, a framerate issue has been introduced, so now it’s lower than in previous versions. I had reported it before but didn’t receive any attention or responses.\n\nThe framerate problem affects both low-altitude and high-altitude flight. This is a deterioration that you should fix, please, because it’s quite unpleasant.\n\nI hope you manage to figure out what the underlying problem causing this is 🤞\n\nI can assure you that the framerate drop has indeed occurred because I constantly monitor it using the OVR Metric Tool. But even without using this application, the framerate is noticeable to the eye — it has dropped and is no longer as smooth as it used to be.\n\nObviously, I hope that in order to improve the framerate, you don’t compromise on graphics resolution or the distance at which building details are scaled. Also, the horizon line isn’t infinite: there’s a sort of zone where the horizon is displayed, beyond which mountains may appear “built” gradually as you approach. I’m talking about the zone where 3D objects are rendered when flying at low altitude.\n\nFlight navigation in Fly is slightly better than in Earth Quest, but the latter has now surpassed it even in terms of resolution and framerate.\nAll things considered, I prefer both; I can’t say one is better than the other.\n\nI recommend taking a look at the update they made on Woorld regarding Jetpack flight — it’s a fairly interesting flight mode, although in my opinion it’s too slow.\n\nPerhaps you could find an alternative flight mode even more engaging than the one that already exists, but still allowing high movement speeds. I bought the dragons, but honestly, they weren’t that great.\n\n\n----------\n\n\n\nGreat app in constant evolution, but please check the network performance because I feel it has worsened (I use the OVR Metric Tool to monitor it). Also, I noticed that the 3D photogrammetry seen up close now looks fragmented, as if there are cracks inside revealing empty spaces.",
+      "date": 1764118832,
+      "review_helpful_count": 214,
+      "author_display_name": "serpe.massimo",
+      "author_alias": "serpe.massimo",
+      "developer_response": null
+    },
+    {
+      "id": "865410382933653",
+      "score": 4,
+      "review_title": "Good, with reservations",
+      "review_description": "I like it.  I bought the AI Concierge and wish I hadn’t.  It doesn’t remotely understand my accent and a lot of helps are generic and not useful.  It takes forever to load icons for 3D 360 photos and sometimes it’s not clear whether they exist or not.  Having said that, of all the world seeing apps, I think this is the most functional.  I like the idea of riding a dragon but I’m concerned with how much of the view they obscure and detract from.  No idea.  But for seeing places around the world and then emerging into 360 this app works.",
+      "date": 1769395099,
+      "review_helpful_count": 11,
+      "author_display_name": "Buddy_2858",
+      "author_alias": "Buddy_2858",
+      "developer_response": null
+    },
+    {
+      "id": "1030518250155880",
+      "score": 5,
+      "review_title": "Too cool for this price",
+      "review_description": "Too cool for that price",
+      "date": 1778495489,
+      "review_helpful_count": 0,
+      "author_display_name": "JustRandomUkrainian",
+      "author_alias": "JustRandomUkrainian",
+      "developer_response": null
+    },
+    {
+      "id": "961255537081605",
+      "score": 2,
+      "review_title": "Disappointment",
+      "review_description": "Points of interest do not appear. Street view navigation do not work. Image clarity totally awful.",
+      "date": 1774210183,
+      "review_helpful_count": 5,
+      "author_display_name": "Quest_ging",
+      "author_alias": "Quest_ging",
+      "developer_response": {
+        "body": "Hey there, \nJust tested and I couldn't reproduce any of the errors you are reporting. If you could reach out to support@virzoom.com with more details we would love to help.",
+        "date": 1774291246
+      }
+    },
+    {
+      "id": "2293090004490406",
+      "score": 5,
+      "review_title": "FLY has figured out the VR glide!!!!",
+      "review_description": "There are two reasons that I love FLY.  The first is that it really helps me plan a trip to a new place to visit it in FLY first, to see the full three-dimensionality of the place.  I was just in southern Italy, and it was only because I'd been in the air above Mount Vesuvius in FLY ahead of time that I could comprehend that the volcano is really a cone within a cone - that's just not apparent from only seeing the mountain's silhouette on the horizon.  I've also been able to see how hilly a place is, or if there's a ravine separating this place from that place -- all essential info for knowing how best to get around once you actually get there.  The second reason that I love FLY is because somehow this team has cracked something that so many other developers haven't - how to allow gliding within a VR environment without inducing nausea.  I can't count the number of games I've had to stop playing because they made me feel ill, but FLY is technically superior to them all, and I can fly for hours without feeling queasy in the slightest.  I wish other games would do what FLY has done!!  Oh, and there's a third thing.  The dots that are down on the road surface within FLY are the Google Street View 360 photographs, so clicking on them puts you within that photographic reality.  Again, great for previewing things like hotels (and the neighborhoods they're in) while planning a trip, as well of course for visiting places in the world that you never thought you'd ever \"be\".  Six stars for FLY from me!",
+      "date": 1766534855,
+      "review_helpful_count": 25,
+      "author_display_name": "leslie.shannon",
+      "author_alias": "leslie.shannon",
+      "developer_response": null
+    },
+    {
+      "id": "885145248023100",
+      "score": 3,
+      "review_title": "AI mode not that great (yet)",
+      "review_description": "I tried out try new AI mode and I don’t feel it’s ready for prime time yet.  For example, it only partially helps with finding a location and going there.  For example, when I try to search for the Supreme Court building in Washington DC via voice AI, it just takes me to Washington DC.  After that, I have to navigate manually to the actual location.",
+      "date": 1767268822,
+      "review_helpful_count": 16,
+      "author_display_name": "tokorobam",
+      "author_alias": "tokorobam",
+      "developer_response": null
+    },
+    {
+      "id": "1515519559676860",
+      "score": 3,
+      "review_title": "Graphics",
+      "review_description": "Graphics are quite blocky and take a fair amount of time to load as you are moving around. I am trying not to compare it to PCVR graphics but even then I am still disappointed. I wish it at least had a Quest Games Optimizer Profile to boost everything but they haven't done one for this game yet either, on the fence about refunding but I did get it for only $6 so maybe I will hold out in the hopes it gets better",
+      "date": 1767435870,
+      "review_helpful_count": 12,
+      "author_display_name": "Kelgorus",
+      "author_alias": "Kelgorus",
+      "developer_response": null
+    },
+    {
+      "id": "1057947380724840",
+      "score": 1,
+      "review_title": "Very Poor Map Quality",
+      "review_description": "The map quality is very disappointing. It looks like a low-quality copy of Google Maps. For the price, I expected much better accuracy and detail. In comparison, Google Maps Street View provides a better experience for free. I would not recommend paying for this app in its current state. Garbage.",
+      "date": 1772316007,
+      "review_helpful_count": 1,
+      "author_display_name": "NeonAngelfish9592",
+      "author_alias": "NeonAngelfish9592",
+      "developer_response": {
+        "body": "Hey there, sorry you were not satisfied with the app. We are using the highest quality images Google provides for both the world images and the streetview images, but they can be dependent on your connection speed in headset.",
+        "date": 1772572626
+      }
+    },
+    {
+      "id": "1202896318487840",
+      "score": 1,
+      "review_title": "So sad",
+      "review_description": "When I fly I only see pitzels under me.I got motion sickness just looking a cardboard cartoon type of images  is just no clear at all the only time I see clear is when I got to street view for that I already have wander not happy there is no way I can move freely to where I want because is jut not clear and you have to see that add on s all the time",
+      "date": 1768185996,
+      "review_helpful_count": 6,
+      "author_display_name": "Fantasy68",
+      "author_alias": "Fantasy68",
+      "developer_response": {
+        "body": "Hey there,  Sorry that you are having trouble with the performance. If you can reach out to support@virzoom.com we with some screenshots or a video we can help. There is an option in the menu to reduce the image quality if your internet connection is having trouble keeping up.  It should be exactly how it looks in the trailers with a good connection.\n\nWe are working on making the AI add-on pop up less often. It should only be when you are interreacting with the AI button.\n\nJust a quick update to let you know that we adjusted the way the Add-on pop up functions in the most recent update so you can now hide it.\n\n*edit* Checking to make sure your issues have been resolved.",
+        "date": 1778102512
+      }
+    },
+    {
+      "id": "1043378982185860",
+      "score": 5,
+      "review_title": "Great VR experience",
+      "review_description": "My favorite app for the meta quest. Countless of visited locations, both familiar but also completelly new. Very educative and pretty much endless replayabilty. The flying controls make it better for relaxing exploration than other Google Earth alternatives.",
+      "date": 1771514022,
+      "review_helpful_count": 1,
+      "author_display_name": "PrimalDaze",
+      "author_alias": "PrimalDaze",
+      "developer_response": null
+    },
+    {
+      "id": "983614538161807",
+      "score": 3,
+      "review_title": "Not very user friendly",
+      "review_description": "With spell check and Google’s so called vast resources you would think it would be easy to find a location……big challenge! \n\nAlso not as many street views or pics as you would expect.  If I had paid more than $5-6 for it I’d be very upset! For me NOT the one stop tool for World Travelers",
+      "date": 1767029274,
+      "review_helpful_count": 8,
+      "author_display_name": "eisendrath",
+      "author_alias": "eisendrath",
+      "developer_response": null
+    },
+    {
+      "id": "798976219417055",
+      "score": 5,
+      "review_title": "Very easy to use",
+      "review_description": "I'm a senior, ex pilot, looking for a fly around app. Wander was my most used app, I tried Earthquest, and although the author said the controls were now very intuitive, but certainly not for me, and did a refund. I figured I'd give Fly a shot, and was pleasantly surprised at just how intuitive and easy the controls were. This is exactly what I was looking for. I'm 79, and would highly recommend that any seniors having trouble mastering the other google earth apps out there, give this a go. Simple controls. The only change I would like to see, is to be able to swap out the drone for a helicopter. Similar actions, but I'll bet more folks have sat in, flown, or rode in a helicopter than a drone😏 Anywhoo looking forward to updates both here and google Earth improvments. Love the app",
+      "date": 1761267140,
+      "review_helpful_count": 82,
+      "author_display_name": "Laserguy0",
+      "author_alias": "Laserguy0",
+      "developer_response": {
+        "body": "Thanks for the wonderful review!  Our goal has been to keep the app as approachable as possible, as we believe everyone should be able to experience the world in VR.   We are considering adding more realistic vehicles, like helicopters, but want to make sure they are comfortable since we don’t want to change the controls per vehicle.",
+        "date": 1761419725
+      }
+    },
+    {
+      "id": "1023371907521473",
+      "score": 4,
+      "review_title": "App works now",
+      "review_description": "The app wouldn't start, but after some help from support, I got it working. The problem was with the microphone permissions, which should be enabled.",
+      "date": 1772595032,
+      "review_helpful_count": 1,
+      "author_display_name": "Rikki666",
+      "author_alias": "Rikki666",
+      "developer_response": {
+        "body": "Sorry you are having trouble, please reach out to support@virzoom.com. We we are trying to determine what is causing this issue in a small subset of users",
+        "date": 1772572867
+      }
+    },
+    {
+      "id": "831880873351176",
+      "score": 4,
+      "review_title": "Good App. But",
+      "review_description": "Love the idea and flying aspect. But can we get some quality of life features?\n\n-let us move from a panorama to the next one\n-controller should be better recognized, alot of times i have to swap to the main menu.\n-let us fly faster, for example use both controllers to slingshot or move faster.\n-more bookmarks.\n If this is already in the game, i missed it, but the UI can be \"clunky\" cause the controller vanishes alot.\n\nWhats great:\n-Panorama view\n-spotify compatible \n-multi player\n\n\nI would recommend the app. Incredible relaxing",
+      "date": 1764858624,
+      "review_helpful_count": 8,
+      "author_display_name": "ShinyMaracuja",
+      "author_alias": "ShinyMaracuja",
+      "developer_response": null
+    },
+    {
+      "id": "935317436332269",
+      "score": 4,
+      "review_title": "Make a wish",
+      "review_description": "This application really amazed me, but I really hope they add a Traditional Chinese interface (Taiwanese), and that when the AI ​​responds to me in Chinese characters, it doesn't display a lot of square characters like \"□ □ □ □ □\".",
+      "date": 1767590909,
+      "review_helpful_count": 2,
+      "author_display_name": "galaxy.316",
+      "author_alias": "galaxy.316",
+      "developer_response": null
+    },
+    {
+      "id": "911964424743561",
+      "score": 1,
+      "review_title": "Terrible and a scam",
+      "review_description": "Bought it immediately found out it was 💩. No place to get refunded like every other game. Don't get scammed don't buy it !",
+      "date": 1769296470,
+      "review_helpful_count": 6,
+      "author_display_name": "Captain9toes",
+      "author_alias": "Captain9toes",
+      "developer_response": {
+        "body": "Sorry the app didn't meet your expectations. Would love to know more details about what you found lacking so we can address them.\n\nIf you are seeking a refund Meta should be able to help you with that. Unfortunately, they do not allow us to issue refunds through there payment system.",
+        "date": 1778102458
+      }
+    },
+    {
+      "id": "1367779444748015",
+      "score": 1,
+      "review_title": "Ai Concierge useless ?",
+      "review_description": "It doesn't know where I am, it doesn't take me anywhere (anything is an unknown location) and it doesn't see the image you are seeing. \nAfaict it's a purely text based chatgpt(2023).\nIf it's in alpha stage just let people know, is there a release notes page for AI concierge? Where can we report bugs? The idea is great and it would be definitely useful but as of now it's useless.",
+      "date": 1763427549,
+      "review_helpful_count": 10,
+      "author_display_name": "Caligolae",
+      "author_alias": "Caligolae",
+      "developer_response": {
+        "body": "Hey there! Sorry that the AI didn't meet your expectations. As with most AI models we plan to improve it over time and are putting out an update tomorrow that will allow it to add bookmarks.\n\nWe took a look at the \"take me to\" command based on your feedback and are making some changes to make it more consistent.  We would love to hear more about the experience you are having though, because it should have been working most of the time as it was, and the AI should also be able to see what is on your screen. If you want to reach out on our discord, which has a bugs section, or to support@virzoom.com with more info we would love to take a deeper look.",
+        "date": 1763592537
+      }
+    },
+    {
+      "id": "25272675282428536",
+      "score": 4,
+      "review_title": "Impressive",
+      "review_description": "Very much a dev team that listens to feedback. If you don't like something, just say so, they'll probably fix it!",
+      "date": 1768383168,
+      "review_helpful_count": 3,
+      "author_display_name": "TheDirector50",
+      "author_alias": "TheDirector50",
+      "developer_response": null
+    },
+    {
+      "id": "1610098070316184",
+      "score": 1,
+      "review_title": "grapfics qty",
+      "review_description": "I am deeply disappointed in tgraphics qualiry, and maps are extremely old",
+      "date": 1770915195,
+      "review_helpful_count": 1,
+      "author_display_name": "Midomio2017",
+      "author_alias": "Midomio2017",
+      "developer_response": null
+    },
+    {
+      "id": "1432195548696167",
+      "score": 5,
+      "review_title": "absolutely good game for earth explorers",
+      "review_description": "whoever likes going around the world this is the game for you",
+      "date": 1770999633,
+      "review_helpful_count": 1,
+      "author_display_name": "Dinoboy55",
+      "author_alias": "Dinoboy55",
+      "developer_response": null
+    },
+    {
+      "id": "903004422905133",
+      "score": 2,
+      "review_title": "Cool",
+      "review_description": "Yep",
+      "date": 1769982367,
+      "review_helpful_count": 3,
+      "author_display_name": "Yukongolds",
+      "author_alias": "Yukongolds",
+      "developer_response": null
+    },
+    {
+      "id": "876214598267848",
+      "score": 5,
+      "review_title": "Amazing mechanics",
+      "review_description": "I absolutely love this game. I still don’t understand how the developers managed to optimize an entire world for the Meta Quest — it’s genuinely insane. The mechanics feel incredibly smooth, and the multiplayer is a huge highlight. I played with a friend, and just flying around together in drones feels amazing.\n\nThis game deserves way more recognition. It’s polished, it’s unique, and it’s surprisingly immersive. Flying doesn’t feel empty; you’re piloting a drone, and that makes the whole experience even better.\n\nIf I had one wish, it would be to see more 3D-rendered cities and villages. But that’s not on the developers — that’s just a limitation of Google Maps data, so it’s totally understandable.\n\nOverall, this game is fantastic and deserves to be far more popular than it is.",
+      "date": 1765066704,
+      "review_helpful_count": 7,
+      "author_display_name": "Robotpug_Ac",
+      "author_alias": "Robotpug_Ac",
+      "developer_response": null
+    },
+    {
+      "id": "1365354688490253",
+      "score": 5,
+      "review_title": "A dream truly comes true. Amazing!!!!",
+      "review_description": "I’ve been up on more small fixed wing aircraft’s than I can remember and last year for the first time, went on a trip to Mexico with my wife and was airborne again on a Boeing 737. I’ve told my wife time and time again, how much I would love to fly. Humans flying like birds. This Google earth VR flying is indescribably beautiful and freeing. I’m in there flying almost on a daily basis. Only reason I’m not there flying everyday, is because I’m afraid getting used to it so much that I might become desensitized and lose interest. I’m looking forward to increased details and a more rapid response in axis, yaw pitch and a more fluid atmosphere, such as more peaceful soundtrack that would augment the feeling of flight.  The controllers are ok but a more refined  hotas scenario would be a great addition. If you are on the fence about this, don’t…go for it and enjoy exploring our beautiful planet.",
+      "date": 1762537052,
+      "review_helpful_count": 6,
+      "author_display_name": "battlerattle.69514",
+      "author_alias": "battlerattle.69514",
+      "developer_response": null
+    },
+    {
+      "id": "32697174669867775",
+      "score": 5,
+      "review_title": "Great app for exploring",
+      "review_description": "This is an amazing app to view places I wouldn’t normally get to see in real life. When traveling from place to place it does get tiresome waiting for how slow you travel, it would be nice if there was an option to use trigger as a way to speed up travel. Otherwise an amazing app that I recommend to everyone\n\nEdited update to 3 stars. The AI Concierge is completely broken. Every time I try to use it it tells me it cannot understand and to try again. I would save yourself the money and not buy it. It is also not eligible for a refund if you purchase it\n\nI have to give credit to the developer, the next day after I posted my update review…the issue was fixed. Very quick response from the devs and I appreciate the work put into this app. Definitely a must buy\n\nPlease add a setting to use trigger to speed up the flying. It takes FOREVER sometimes to get enough to travel anywhere. Please make it more convenient",
+      "date": 1761885525,
+      "review_helpful_count": 8,
+      "author_display_name": "SprayinAllDay",
+      "author_alias": "SprayinAllDay",
+      "developer_response": {
+        "body": "**Update:  AI has been fixed, sorry for the trouble!**\n\nWe are looking at the AI issue right now! Should have it fixed very soon and will update here when we do.",
+        "date": 1761653297
+      }
+    },
+    {
+      "id": "944515338747233",
+      "score": 4,
+      "review_title": "Good",
+      "review_description": "(Edit) thank you for replying, now i fixed the circle, i dident know u could remove it",
+      "date": 1769033843,
+      "review_helpful_count": 1,
+      "author_display_name": "EdgyAardvark9168",
+      "author_alias": "EdgyAardvark9168",
+      "developer_response": {
+        "body": "Hey there, thanks for giving it a try! \n\nIf you go into the options you can hide the platform and the vehicle completely for a free 'floating' experience, as well as many other options. Regarding Google Earth being free; we are an independent developer and we pay for the  earth tiles from Google. We tried to make FLY more about flying around the Earth and a very different experience than Google Earth.\n\nWe unfortunately have no ability to issue refunds, but META should be able to provide you with one if you reach out to there customer service.",
+        "date": 1769029584
+      }
+    },
+    {
+      "id": "883733871500122",
+      "score": 5,
+      "review_title": "I like this a LOT",
+      "review_description": "I like this because instead of going on your phone, laptop, etc. You can feel like your anywhere",
+      "date": 1768779018,
+      "review_helpful_count": 0,
+      "author_display_name": "CamRock1223",
+      "author_alias": "CamRock1223",
+      "developer_response": null
+    },
+    {
+      "id": "954762511056853",
+      "score": 5,
+      "review_title": "Cool",
+      "review_description": "Its good",
+      "date": 1769996603,
+      "review_helpful_count": 0,
+      "author_display_name": "Limolunchtime",
+      "author_alias": "Limolunchtime",
+      "developer_response": null
+    },
+    {
+      "id": "764259986781584",
+      "score": 1,
+      "review_title": "the game can't run correctly",
+      "review_description": "The game 'fly' cannot run properly on my Quest 3 device. Every time I click on it, it displays the virzoom logo, but after a while it goes black and quickly crashes. My firmware is V79 and the system is Android 14. I hope you can help me solve the problem.",
+      "date": 1760859756,
+      "review_helpful_count": 16,
+      "author_display_name": "heh23",
+      "author_alias": "heh23",
+      "developer_response": {
+        "body": "*update* following up on this are you still having trouble with the new updates?\n\nHey there! Sorry you are having trouble. If you can reach out to support@virzoom.com with the details and your oculus ID, we can take a look and see what’s going on.",
+        "date": 1761681875
+      }
+    },
+    {
+      "id": "1479333233413408",
+      "score": 3,
+      "review_title": "Fly VR",
+      "review_description": "Prior to purchasing FLY VR, I was using Wander and Earth lens,, so I decided to add Fly to my collection of Vr Travel games. I was very impressed with the flight feature it offers, which feels more realistic and easier to control than Earth Lens. However, the only thing it seems to be lacking is the toggle feature when in street view. When trying to navigate by pressing each circle in street view, it feels extremely frustration at times. It's as if you practically have to aim and hold the controller at certain positions just to get the yellow arrow to wake up and allow you to keep moving from image to image. It does not feel fluent, like on wander and Earth lens. There are many times when the dots wont even appear on the screen until you carefully aim the controller and wait for nearly a min. It takes a way from the feeling of being able to fluently navigate while in street view. If they would only fix this part, this app would definitely be worthy of a 5 star! Either way, it's still worth having and i'm looking forward to future updates!",
+      "date": 1756859552,
+      "review_helpful_count": 56,
+      "author_display_name": "Angelo.226",
+      "author_alias": "Angelo.226",
+      "developer_response": null
+    },
+    {
+      "id": "1126754892970061",
+      "score": 5,
+      "review_title": "Really great!",
+      "review_description": "This app is really great! One thing I would appreciate if the developers would do is if we could have a YouTube search browser in app so we can pull up our own music. A lot of other games allow this such as a painting game I own (Vermillion) and the Top Shot Golf game. I know there is others as well. Don't get me wrong, the few music channels are cool and I appreciate them. Some songs that just really hit the vibe of flying pop up randomly so I'd keep that function, but I would just love a YouTube search browser to pull up music or even be able to pull up a YouTube video tour showing the destination that I'm currently viewing. Anyways, the app is really great. Much different than some of the other apps I own such as Wooorld and Wander.",
+      "date": 1762683495,
+      "review_helpful_count": 2,
+      "author_display_name": "TheRitchieTV",
+      "author_alias": "TheRitchieTV",
+      "developer_response": null
+    },
+    {
+      "id": "1554085055634846",
+      "score": 5,
+      "review_title": "i'm impressed",
+      "review_description": "never said that it was gonna be cheesy, but it turns out to be quite the experience",
+      "date": 1767513613,
+      "review_helpful_count": 1,
+      "author_display_name": "Justaphayz",
+      "author_alias": "Justaphayz",
+      "developer_response": null
+    },
+    {
+      "id": "897483476783449",
+      "score": 5,
+      "review_title": "Lovely experience",
+      "review_description": "i love this app.im having such a good time flying over whatever place i want to...would be amazing to be able to soar up in a faster way but it is a minor adjustment",
+      "date": 1765993158,
+      "review_helpful_count": 0,
+      "author_display_name": "Boccali",
+      "author_alias": "Boccali",
+      "developer_response": null
+    },
+    {
+      "id": "876304335575350",
+      "score": 5,
+      "review_title": "Fantastic App!",
+      "review_description": "I love the experience! This app is very informative and fun!",
+      "date": 1767087470,
+      "review_helpful_count": 0,
+      "author_display_name": "SafTheOne",
+      "author_alias": "SafTheOne",
+      "developer_response": null
+    },
+    {
+      "id": "969997669526166",
+      "score": 5,
+      "review_title": "Good games",
+      "review_description": "Hello. This a realy good game so buy it now",
+      "date": 1767223572,
+      "review_helpful_count": 0,
+      "author_display_name": "GHRS12",
+      "author_alias": "GHRS12",
+      "developer_response": null
+    },
+    {
+      "id": "943362482195876",
+      "score": 5,
+      "review_title": "😁",
+      "review_description": "For the free sky",
+      "date": 1767524177,
+      "review_helpful_count": 0,
+      "author_display_name": "NBAyb_38",
+      "author_alias": "NBAyb_38",
+      "developer_response": null
+    },
+    {
+      "id": "848209301397116",
+      "score": 5,
+      "review_title": "This is unreal",
+      "review_description": "exploring my own area to flying to antartica.   i love this app",
+      "date": 1766263292,
+      "review_helpful_count": 0,
+      "author_display_name": "Feelitnowmario",
+      "author_alias": "Feelitnowmario",
+      "developer_response": null
+    },
+    {
+      "id": "905791219288258",
+      "score": 5,
+      "review_title": "Wonderful",
+      "review_description": "l love this app!",
+      "date": 1766542029,
+      "review_helpful_count": 0,
+      "author_display_name": "GeorgieSunrise1",
+      "author_alias": "GeorgieSunrise1",
+      "developer_response": null
+    },
+    {
+      "id": "891762857123363",
+      "score": 5,
+      "review_title": "Nice",
+      "review_description": "Very nice and relaxing!",
+      "date": 1766901131,
+      "review_helpful_count": 0,
+      "author_display_name": "AntKnight230",
+      "author_alias": "AntKnight230",
+      "developer_response": null
+    },
+    {
+      "id": "788697454334351",
+      "score": 5,
+      "review_title": "Magical!",
+      "review_description": "UPDATED:\nThanks so much to the developer for your immediate attention to this matter! This new fix now works and I was able to get in there and start flying. Beautiful app, can't wait to explore the app even more.\n\nOriginal Review:\nwas so excited to try this app is just a black screen and music playing",
+      "date": 1761590241,
+      "review_helpful_count": 1,
+      "author_display_name": "quackaddict7",
+      "author_alias": "quackaddict7",
+      "developer_response": {
+        "body": "Awesome! Glad that we were able to get it fixed for you!  Happy FLYing!",
+        "date": 1761608350
+      }
+    },
+    {
+      "id": "889360437594105",
+      "score": 4,
+      "review_title": "Great but too slow",
+      "review_description": "Fly is great I love it but its way too slow can ya add some speed to it and fix the street view cause them blue dots make it super slow.",
+      "date": 1763911371,
+      "review_helpful_count": 1,
+      "author_display_name": "BIKELIFEANTONIO",
+      "author_alias": "BIKELIFEANTONIO",
+      "developer_response": null
+    },
+    {
+      "id": "1313477793889946",
+      "score": 4,
+      "review_title": "Love it… Almost",
+      "review_description": "I’m having a lot of fun with Fly and have gotten my wife and friend to purchase the app, but we can’t figure out how to get multiplayer to work. Using the group code does nothing. Would give Fly a “5” if multiplayer worked.",
+      "date": 1761870980,
+      "review_helpful_count": 1,
+      "author_display_name": "Colesmeister",
+      "author_alias": "Colesmeister",
+      "developer_response": {
+        "body": "Hey there!\nJust tested the multiplayer and couldn't find any issues with it. If you hop on our discord I would be happy to trouble shoot it with you in real time!",
+        "date": 1761939205
+      }
+    },
+    {
+      "id": "726628223873135",
+      "score": 1,
+      "review_title": "THIS GAME SUCKS",
+      "review_description": "I got this game thinking it was a good flight simulator but BOY WAS I WRONG. First off I it says flight simulator and the title is LITERALLY FLY and there is NO PLANES, ONLY A DRAGON AND AIR. And the graphics SUCK , EVEN GORILLA TAG HAS BETTER GRAPHICS. Honestly I don’t even know hi or WHY this game has 4.4 stars, it should be 2. And the fact that this costs $10 is crazy, keep in mind that a pixelated free gorilla game has better graphics then GOOGLE AKA THE “BEST” SEARCH ENGINE OF ALL TIME. I WANT A REFUND!",
+      "date": 1755730293,
+      "review_helpful_count": 12,
+      "author_display_name": "Lukemanthe3rd",
+      "author_alias": "Lukemanthe3rd",
+      "developer_response": {
+        "body": "Sorry that the app did not meet your expectations. To address some of your concerns: The default vehicle is a based on a drone large enough that you can fly inside it. We have  normal 'flight' controls, including inverted stick,  mode 2 drone controls for those that have experience flying, as well as standing flight controls that are based on body motion.\n\nI am not sure what graphics you are complaining about. FLY pulls in Google's full 3D earth tile set ,based on a satellite imagery, and allows you to FLY around the entire planet.  These are the same images you would see in any other product using Google Earth's tile set, and is why we call it  a \"Google Earth Flight Sim\".  If they did not match your expectations it may be due to slow internet speeds, as they are streamed in real time.\n\nThe dragons you mentioned are a DLC addition and do not effect the controls or gameplay. They are simply for people to have fun solo and in multiplayer.\n\nPlease reach out to Meta directly for a refund.",
+        "date": 1758658257
+      }
+    },
+    {
+      "id": "659623540448157",
+      "score": 4,
+      "review_title": "Time Machine",
+      "review_description": "I absolutely love this app. Yes, the draw is being able to fly anywhere in the world. Big cities and landmarks are highly detailed and current. But something interesting happens when you visit smaller places. Your hometown, for example. If it's been a few years since the streetview car has rolled through, it really does become a time machine. My mom passed away a few years ago, so I thought I'd fly by her house. When I clicked on the streetview, I didn't see her or her car, but her house was there, frozen in time, decorated for Halloween. She loved to decorate. It was nice. I also saw my old elementary and middle schools that have since been torn down and moved. Finally, the McDonald's that was there my entire life before the remodeled it as a soulless husk. \nTl;DR: Get this app and go back in time.\n(I do wish we could go a little faster, though)",
+      "date": 1751288185,
+      "review_helpful_count": 178,
+      "author_display_name": "SpideySnooch",
+      "author_alias": "SpideySnooch",
+      "developer_response": null
+    },
+    {
+      "id": "1198336362057742",
+      "score": 5,
+      "review_title": "Amazing app",
+      "review_description": "Review update: LOVE THE MULTIPLAYER!!!!\n\nMy wife and I just flew around our old college campus together and pretended to have dinner at a cafe there. No other app allows for experiences like this. Get this app!\n\nBug report to the devs: the geometry has developed see-thru gaps in some places between triangles. Like the geometry is slightly not connecting anymore, but it’s only certain spots  \n\nOld review:\n\nI love to lay in bed and fly over my hometown while playing nostalgic music in the browser… truly an amazing experience. Can even fly down to ground level and walk old familiar paths. So cool. I live hundreds of miles away but now I feel much much closer. \n\nAll I ask for is a much faster smooth turn rate in the settings, please\n\nEdit:\nOh and please add the ability to jump when in “gravity mode”.  Right now I launch myself off objects like cars, but it would be really nice to be able to jump manually. Btw Gravity mode is really cool and under-appreciated in my opinion. I turn off the ship and basically jump around like an X-men. It’s very fun, you should build out this mode more",
+      "date": 1754642371,
+      "review_helpful_count": 18,
+      "author_display_name": "MuleRadish",
+      "author_alias": "MuleRadish",
+      "developer_response": null
+    },
+    {
+      "id": "1013393858521046",
+      "score": 4,
+      "review_title": "Not bad",
+      "review_description": "Quite good",
+      "date": 1772907718,
+      "review_helpful_count": 0,
+      "author_display_name": "vic3sq",
+      "author_alias": "vic3sq",
+      "developer_response": null
+    },
+    {
+      "id": "679212478616062",
+      "score": 5,
+      "review_title": "We need proper update",
+      "review_description": "Seriously… while the other similar apps giving their consumers cool updates such as time machines (for free) and even cooler add-ons like AI tour guide integration…….   You gave us overpriced dragon add-ons. \n\nDisappointed 😔\n\nEdit: thank you for the respond, I’m looking forward to your future updates and support of this project 🙏",
+      "date": 1752086655,
+      "review_helpful_count": 13,
+      "author_display_name": "7aki",
+      "author_alias": "7aki",
+      "developer_response": null
+    },
+    {
+      "id": "886780197449432",
+      "score": 5,
+      "review_title": "Sweet",
+      "review_description": "This app\n is so dope.",
+      "date": 1769905878,
+      "review_helpful_count": 0,
+      "author_display_name": "Yo2323",
+      "author_alias": "Yo2323",
+      "developer_response": null
+    },
+    {
+      "id": "629399750266849",
+      "score": 4,
+      "review_title": "LOVE - But Missing Feature",
+      "review_description": "Love the app BUT I work with seniors who are memory and physically challenged - unable and/or unteachable to operate a controller or do hand movements - and WISH that a 2nd (or many multiple) Quest 3's could be made slave to my Quest so that the viewer(s) can enjoy Fly guided completely by me and see exactly what I am seeing (in a VR headset - not just cast to TV).  Is the technical challenge too great to accomplish this?  There seems to be lots of ways to cast FROM a headset - but that is insufficient for working with seniors who must still be able to hold controllers or move their hands.",
+      "date": 1751953012,
+      "review_helpful_count": 10,
+      "author_display_name": "backroadrider",
+      "author_alias": "backroadrider",
+      "developer_response": {
+        "body": "Thanks for the feedback and thoughts on accessibility.  Technically, we are not sure that this is really viable, and the other thing to consider is that motion , with no sense of control, is the most common cause of VR sickness. If you would like to chat more about what you are working on and how we could potentially support it you can reach out to on our discord or support@virzoom.com!",
+        "date": 1752002055
+      }
+    },
+    {
+      "id": "888645290990306",
+      "score": 5,
+      "review_title": "Fly",
+      "review_description": "Fantastic",
+      "date": 1761427022,
+      "review_helpful_count": 1,
+      "author_display_name": "RadiantHammerhead9841",
+      "author_alias": "RadiantHammerhead9841",
+      "developer_response": null
+    },
+    {
+      "id": "856511110282431",
+      "score": 5,
+      "review_title": "Interestingly good",
+      "review_description": "I wanted a game to travel and it did beyond that",
+      "date": 1760381360,
+      "review_helpful_count": 1,
+      "author_display_name": "1EY3S1",
+      "author_alias": "1EY3S1",
+      "developer_response": null
+    },
+    {
+      "id": "759650453898530",
+      "score": 3,
+      "review_title": "Good potential but slow af...",
+      "review_description": "I don't know if its my internet running only at 100mb/s download being somehow not enough, or perhaps the current version is buggy, but loading takes FOREVER. Every time i play it, i'm disappointed.. If an area finally loaded, you better not fly far, as it'll be a blurry mess of pixels.. Has so much potential.. Hopefully they'll either optimize better or i'll have to use 5G+ internet or some sht..",
+      "date": 1755760425,
+      "review_helpful_count": 1,
+      "author_display_name": "Rajorne",
+      "author_alias": "Rajorne",
+      "developer_response": {
+        "body": "Hey there,\nSorry that you are having some issues with the loading speed.  Are you showing 100 mb/s when doing a speed test in the headset, we often find the in headset speeds to be very variable?  That should be more than fast enough to load the tiles quickly.  There is also an option in the settings for quality vs loading speed if your connection is having trouble keeping up.  If you reach out to support@virzoom.com we can help troubleshoot some more.",
+        "date": 1755798453
+      }
+    },
+    {
+      "id": "732525929603048",
+      "score": 3,
+      "review_title": "Its a cool app",
+      "review_description": "I love the app, but the graphic is terrible when you zoom in it look like the buildings are all crust and you can't read the sign when you're on highway.￼",
+      "date": 1754607010,
+      "review_helpful_count": 6,
+      "author_display_name": "helleymack411",
+      "author_alias": "helleymack411",
+      "developer_response": {
+        "body": "Unfortunately we cannot take our own satellite images and can only provide what Google Earth makes available to us, the reason we added street view integration was for situations you are explaining with more clarity at ground level",
+        "date": 1754938029
+      }
+    },
+    {
+      "id": "856852164170387",
+      "score": 5,
+      "review_title": "Nice",
+      "review_description": "Recommended",
+      "date": 1760108352,
+      "review_helpful_count": 0,
+      "author_display_name": "Wentao",
+      "author_alias": "Wentao",
+      "developer_response": null
+    },
+    {
+      "id": "816174848252672",
+      "score": 1,
+      "review_title": "AI concierge message page",
+      "review_description": "Every time i need to go back to the menu i have an additonal page asking me to buy \"ai concierge\" that take time to close... what a joke! The apps seems nice but this thing is so annoying i think im gonna ask for a refunds, i did not paid to see theirs annoncement everytime i want to go in the main menu",
+      "date": 1762098304,
+      "review_helpful_count": 2,
+      "author_display_name": "DeathforyouX666",
+      "author_alias": "DeathforyouX666",
+      "developer_response": {
+        "body": "Sorry that you are having trouble with this. This page should only show if you click one of the buttons with the bell on it (the icon for the ai concierge). Pressing the menu button should not cause this, and we were unable to replicate the issue. If you can reach out to support@virzoom.com with more info on how it’s happening we would love fix it",
+        "date": 1762117996
+      }
+    },
+    {
+      "id": "798881033302323",
+      "score": 4,
+      "review_title": "Needs airplanes",
+      "review_description": "Dissapointed that there arent planes",
+      "date": 1757367593,
+      "review_helpful_count": 3,
+      "author_display_name": "Coolwolf4000",
+      "author_alias": "Coolwolf4000",
+      "developer_response": null
+    },
+    {
+      "id": "9554807981312160",
+      "score": 1,
+      "review_title": "Compared to Google Earth VR",
+      "review_description": "Only if you hold a button can you see real pictures and you can't move while doing this only turn in a circle. Terrible Terrible Terrible! With all of the new and advanced technology why can't you make this better? Why do you people keep changing things that are great and make them so much worse???",
+      "date": 1749034747,
+      "review_helpful_count": 22,
+      "author_display_name": "SpiritedOne",
+      "author_alias": "SpiritedOne",
+      "developer_response": {
+        "body": "Sorry that the app did not meet your expectations. Our next update actually has continuous street view and will hopefully better meet your expectations.  It should be out in the next week or so!\n\n*Edit* We pushed the update today to allow you to travel in streetview mode",
+        "date": 1750354833
+      }
+    },
+    {
+      "id": "713098337921029",
+      "score": 4,
+      "review_title": "Enjoyable but",
+      "review_description": "It could use some work. I love visiting places where I used to live but sometimes the blue dots to bring up a real image of what I’m looking at doesn’t work. And also, some areas on the map doesn’t even have the option to look at a place with the blue dots. Also, some areas on the map are flat instead of the 3D look. I hope that gets fixed. Other than that, I enjoy flying around.",
+      "date": 1747539337,
+      "review_helpful_count": 45,
+      "author_display_name": "pataija4ever",
+      "author_alias": "pataija4ever",
+      "developer_response": null
+    },
+    {
+      "id": "25031734383086077",
+      "score": 5,
+      "review_title": "Good travel app",
+      "review_description": "I enjoy using this app visit places ice never been",
+      "date": 1758779305,
+      "review_helpful_count": 0,
+      "author_display_name": "vrexplorer2016",
+      "author_alias": "vrexplorer2016",
+      "developer_response": null
+    },
+    {
+      "id": "808569979006741",
+      "score": 5,
+      "review_title": "Love",
+      "review_description": "Wow explorer with ease. Love this app",
+      "date": 1758869046,
+      "review_helpful_count": 0,
+      "author_display_name": "Masterjboog96",
+      "author_alias": "Masterjboog96",
+      "developer_response": null
+    },
+    {
+      "id": "776399495556364",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "This game is so cool you can see the sights of the world with ogoing there.",
+      "date": 1757948033,
+      "review_helpful_count": 0,
+      "author_display_name": "DancingLlama7709",
+      "author_alias": "DancingLlama7709",
+      "developer_response": null
+    },
+    {
+      "id": "844295985162193",
+      "score": 5,
+      "review_title": "F",
+      "review_description": "Fun as hell",
+      "date": 1766477001,
+      "review_helpful_count": 0,
+      "author_display_name": "fairbankmike420",
+      "author_alias": "fairbankmike420",
+      "developer_response": null
+    },
+    {
+      "id": "1189045216297050",
+      "score": 5,
+      "review_title": "\"FLY\"",
+      "review_description": "This is more than an App or a Game or Experience... What this real boils down to is a monumental Breakthrough in several Scientific Discipline's. \n\n1.Highly Immersive Globetrotting through Real Earth 360° 3D  Satellite Imagery making the Jet Setter Lifestyle Affordable to most Everyone.\n\n2.Dude!!! You Guys basically just Handed the World the Ability to Remote View/Astral Projection! Because that is exactly what this is & what it will become \n\nThank You So So much!",
+      "date": 1746423235,
+      "review_helpful_count": 26,
+      "author_display_name": "spawnofjupiter",
+      "author_alias": "spawnofjupiter",
+      "developer_response": null
+    },
+    {
+      "id": "819958101198132",
+      "score": 1,
+      "review_title": "Very pixalized",
+      "review_description": "Its nothing like you see on youtube. Terrible image",
+      "date": 1756080025,
+      "review_helpful_count": 1,
+      "author_display_name": "Valdetevaz",
+      "author_alias": "Valdetevaz",
+      "developer_response": {
+        "body": "Hey there, sorry you are having issues, this may be an issue with your streaming speed. Google does not allow us to store the images so we are streaming them in real time, but we are using the highest quality images Google makes available to us. There is a quality option in the app so you can adjust the image quality to better match your speed.  If you can share a video with support@virzoom.com we can also help you troubleshoot.",
+        "date": 1756136339
+      }
+    },
+    {
+      "id": "740382238897050",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "Great way to explore",
+      "date": 1756605674,
+      "review_helpful_count": 0,
+      "author_display_name": "SoloGrebe",
+      "author_alias": "SoloGrebe",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T18:43:49Z"
+}
