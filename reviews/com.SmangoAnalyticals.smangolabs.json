@@ -1,0 +1,56 @@
+{
+  "app_id": "7033300580032544",
+  "package_name": "com.SmangoAnalyticals.smangolabs",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Smango Labs",
+  "rating_average": 5,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "891872372938238",
+      "score": 5,
+      "review_title": "I LOVE THIS GAME!",
+      "review_description": "THIS GAME IS ABSOLUTELY AMAZING",
+      "date": 1706308700,
+      "review_helpful_count": 3,
+      "author_display_name": "CorusVR",
+      "author_alias": "CorusVR",
+      "developer_response": {
+        "body": "thank you corus",
+        "date": 1706445204
+      }
+    },
+    {
+      "id": "396298393039444",
+      "score": 5,
+      "review_title": "Super good",
+      "review_description": "Super fun game to play with friends",
+      "date": 1710452859,
+      "review_helpful_count": 0,
+      "author_display_name": "Thuggin4ever",
+      "author_alias": "Thuggin4ever",
+      "developer_response": null
+    },
+    {
+      "id": "252055217995435",
+      "score": 5,
+      "review_title": "Hi tbtcow",
+      "review_description": "Hello tbt it is me RMS I just want to say the game is good but I haven't had any way of talking to you",
+      "date": 1711211761,
+      "review_helpful_count": 0,
+      "author_display_name": "Danielcain",
+      "author_alias": "Danielcain",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T16:56:38Z"
+}

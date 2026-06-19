@@ -1,0 +1,75 @@
+{
+  "app_id": "4446323045383080",
+  "package_name": "com.SoftwareEngineeringItalia.CHARMVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "CHARM VR App",
+  "rating_average": 2.1666666666667,
+  "rating_count": 6,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "3397148000317413",
+      "score": 1,
+      "review_title": "This is what happens...",
+      "review_description": "...when you make a VR experience despite never having tried any other VR experience.\n\n1. Trigger should be click, not A\n2. Don't have a loading screen that is stuck to my head\n3. Everything. Everything else.",
+      "date": 1620771393,
+      "review_helpful_count": 4,
+      "author_display_name": "andybak",
+      "author_alias": "andybak",
+      "developer_response": null
+    },
+    {
+      "id": "2131800636960871",
+      "score": 4,
+      "review_title": "Some ok photoscanned scenes.",
+      "review_description": "Nothing too fantastic.",
+      "date": 1631724885,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "1804522206406629",
+      "score": 4,
+      "review_title": "Cool",
+      "review_description": "It's a nice photogrammetry experience. While very low poly and with low res textures, it does manage to capture some of the Italian house atmosphere and makes you feel like you are exploring the museum.\n\nWhat didn't work though, is a start menu that is stuck to user's head. That's a huge \"no\" in the VR comfort book. \nAlso, why not use trigger for selecting options instead of the A button? I thought the game's menu was broken at first (being stuck to the head movement and trigger not working).",
+      "date": 1620915293,
+      "review_helpful_count": 2,
+      "author_display_name": "Edigs",
+      "author_alias": "Edigs",
+      "developer_response": null
+    },
+    {
+      "id": "143555884755602",
+      "score": 1,
+      "review_title": "The model/skin is really bad",
+      "review_description": "A very bad experience.",
+      "date": 1643439978,
+      "review_helpful_count": 0,
+      "author_display_name": "B0Y_Next_door",
+      "author_alias": "B0Y_Next_door",
+      "developer_response": null
+    },
+    {
+      "id": "136883218467607",
+      "score": 1,
+      "review_title": "Just horrible",
+      "review_description": "I couldn't use this for more than 3 minutes. First of all, the UI is fixed to your face, so you can't even look at the whole thing because of the FOV, and made me sick!\n\nCan't use trigger button, the locomotion system is horrible, can't rotate yourself, everything is pixelated, the model is very low quality, etc etc. Seems like the developers never had any experience with VR development, or ever used VR before!\n\nPlease do better.",
+      "date": 1620913202,
+      "review_helpful_count": 1,
+      "author_display_name": "duncannah",
+      "author_alias": "duncannah",
+      "developer_response": null
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:01:34Z"
+}
