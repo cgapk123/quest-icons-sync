@@ -1,0 +1,31 @@
+{
+  "app_id": "4897973956963441",
+  "package_name": "com.EnvisionVR.EnvisionVRReview",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "EnvisionVR Design",
+  "rating_average": 1.6666666666667,
+  "rating_count": 6,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "248315498159810",
+      "score": 5,
+      "review_title": "I like it",
+      "review_description": "It very good.",
+      "date": 1691901400,
+      "review_helpful_count": 1,
+      "author_display_name": "Nguyenkit",
+      "author_alias": "Nguyenkit",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:34:15Z"
+}

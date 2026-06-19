@@ -1,0 +1,42 @@
+{
+  "app_id": "8619029934890353",
+  "package_name": "com.EstiSoft.SweetBite",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Sweet Bite",
+  "rating_average": 3,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "765100212807620",
+      "score": 2,
+      "review_title": "Can't use upgrades",
+      "review_description": "Will not let you buy upgrades or higher people",
+      "date": 1756942220,
+      "review_helpful_count": 1,
+      "author_display_name": "PointyThings",
+      "author_alias": "PointyThings",
+      "developer_response": null
+    },
+    {
+      "id": "671508832472050",
+      "score": 4,
+      "review_title": "Fun",
+      "review_description": "The game is fun but it won't let me upgrade anything",
+      "date": 1746322867,
+      "review_helpful_count": 1,
+      "author_display_name": "Elissa662966",
+      "author_alias": "Elissa662966",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:39:10Z"
+}

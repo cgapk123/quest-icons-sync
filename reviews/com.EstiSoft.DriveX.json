@@ -1,0 +1,34 @@
+{
+  "app_id": "9715304765240363",
+  "package_name": "com.EstiSoft.DriveX",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "DriveX",
+  "rating_average": 1,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1003946909466679",
+      "score": 1,
+      "review_title": "awful",
+      "review_description": "Like the developer has never driven a car before.\n\nUpdate in response:  It's like the car is driving on a cloud and there is no actual physics of the tires on the road implemented.  Also the controls are with the joystick rather than using the controllers like a steering wheel.",
+      "date": 1772599602,
+      "review_helpful_count": 6,
+      "author_display_name": "overcast75",
+      "author_alias": "overcast75",
+      "developer_response": {
+        "body": "Thanks for the feedback! I'm constantly looking to improve the driving physics. Could you let me know which specific parts felt off to you? (e.g., handling, braking, or the sense of speed) Your input would be very helpful.",
+        "date": 1771452256
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:36:40Z"
+}
