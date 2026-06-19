@@ -1,0 +1,86 @@
+{
+  "app_id": "29752287957695971",
+  "package_name": "city.cyberfunk.theremin",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Theremin",
+  "rating_average": 4.8888888888889,
+  "rating_count": 9,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "1459263111802740",
+      "score": 5,
+      "review_title": "A great minimalist instrument for Quest.",
+      "review_description": "I'm a different developer who also made a theremin app (Nocturne), so I can appreciate the decisions that were made. \n\n- Simplicity. Much like a real theremin there's not a lot of options but they're carefully selected. This makes the app easy to approach. I went the opposite route with mine.\n- Ease of use - going from regular theremin I was able to play music immediately. The pitch guides help keep you on track.\n- Very low latency - the developer streamlined the audio to make sure there's no discernable delay between your motion and the sound. Probably the single most critical thing in a VR theremin app.\n-  Smoothness of pitch signal - pitch changes smoothly rather than at the screen refresh rate. Easy to get wrong.\n- Synthesis - very faithful to real theremins, like moog. No pops or discontinuities in the waveform.\n\nOverall a great minimalist theremin app which nails the audio and interface fundamentals.",
+      "date": 1763301832,
+      "review_helpful_count": 14,
+      "author_display_name": "hargisss",
+      "author_alias": "hargisss",
+      "developer_response": null
+    },
+    {
+      "id": "756877667428143",
+      "score": 5,
+      "review_title": "Wonderful! My new go-to VR experience!",
+      "review_description": "Genuinely brilliant.\n\nI've always wanted to try a real Theremin, but sadly I can't afford one.  \n\nA few days ago I wondered to myself if there might be a VR version of one out there, and then found out this had just been released 3 days earlier; what great, serendipitous timing!\n\nThis fab VR instrument is very obvious and intuitive to use from the outset.  When you fire up the app, it appears in front of you, in mixed reality, with the rest of your room around you, ready to go.  With the flick of the virtual power switch on the instrument, it's on and you're playing!  Your left hand controls the volume, your right hand controls the pitch.  There's a scale for both, to help guide you.\n\nYou can grab the virtual Theremin and put it down where you'd like it in your mixed reality environment; you can move the virtual speaker similarly.\n\nThrough control knobs along the front of the virtual instrument, you can alter the volume response, the timbre, reverb, number of octaves, and lowest frequency.\n\nThere's no lag/delay, it's very responsive indeed. \n\nI find it deeply relaxing and enjoyable playing along with other music, it's really quite therapeutic.  Just like, I imagine, the real thing would, it does take a little time to get used to playing it, but it's worth it.\n\nI agree with one of the other reviewer's suggestions, that maybe the development might consider adding the notes to the pitch scale? Additionally, I'd like to see the ability to save and recall the instrument's settings?  But even exactly as it is, I'm delighted with it.\n\nNow, the only problem is, it's so good that it makes me want a real Theremin all the more (in case something happens to my Quest 2!)  🤣",
+      "date": 1763582061,
+      "review_helpful_count": 3,
+      "author_display_name": "JewelieGB",
+      "author_alias": "JewelieGB",
+      "developer_response": null
+    },
+    {
+      "id": "853110627891757",
+      "score": 5,
+      "review_title": "Great instrument app!",
+      "review_description": "This theremin app is really fun. \nNever played the real instrument but this seems very realistic. \nYou can move the speaker position, adjust different settings on the instrument... \n\nThe big plus for me is the \"scale viewer\", you can rely a bit on your eyes and not solely on your ears. \n\nIt sounds very realistic!\n\nRecommended! Give it a try",
+      "date": 1763393269,
+      "review_helpful_count": 4,
+      "author_display_name": "cnxxl37",
+      "author_alias": "cnxxl37",
+      "developer_response": null
+    },
+    {
+      "id": "32830905949856144",
+      "score": 5,
+      "review_title": "I always wanted to try a theremin!",
+      "review_description": "It seems like the perfect instrument for VR when you think about it. Very user friendly. I picked up on how it worked almost instantly and was making fun interesting melodies in no time. The floating virtual note markers made it easy to stay in tune as well. Overall I'm happy with this and I'm looking forward to experimenting with it more.",
+      "date": 1763725314,
+      "review_helpful_count": 2,
+      "author_display_name": "Hazzie",
+      "author_alias": "Hazzie",
+      "developer_response": null
+    },
+    {
+      "id": "2514970318899164",
+      "score": 5,
+      "review_title": "Just great!",
+      "review_description": "Such a great execution with no clutter. You immediately get how it works and it sounds great. You can easily spend hours at a time playing this.",
+      "date": 1763397228,
+      "review_helpful_count": 3,
+      "author_display_name": "Haldun_",
+      "author_alias": "Haldun_",
+      "developer_response": null
+    },
+    {
+      "id": "835532716317391",
+      "score": 5,
+      "review_title": "Clear and intuitive instrument in MR",
+      "review_description": "We have really enjoyed using the theremin. I cannot claim to be musically gifted and I haven't ever used a theremin. Despite this, within moments I was able to play Jingle Bells and have others recognise it. It is a joy to play, it all made sense within moments. I recommend it.\n\nMy main feedback would be to extend the features.\n\nI use controllers but hand tracking with virtual hands overlayed would be great. You can easily see what each control does on the Theremin, to be clear the controllers are good.\n\nI was using Youtube to learn another simple song and I don't have a trained ear so an option to display the note letters would be great.",
+      "date": 1763495350,
+      "review_helpful_count": 2,
+      "author_display_name": "Adamretro",
+      "author_alias": "Adamretro",
+      "developer_response": null
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:43:21Z"
+}

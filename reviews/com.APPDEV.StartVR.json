@@ -1,0 +1,311 @@
+{
+  "app_id": "27141950195420085",
+  "package_name": "com.APPDEV.StartVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "StartVR Streaming Video Player",
+  "rating_average": 2.1470588235294,
+  "rating_count": 68,
+  "review_count": 21,
+  "reviews": [
+    {
+      "id": "1577282413492224",
+      "score": 5,
+      "review_title": "Easy To Use",
+      "review_description": "My favourite site has StartVR set up, and it's fantastic. Easy to use, and the image quality is great.",
+      "date": 1771944429,
+      "review_helpful_count": 3,
+      "author_display_name": "spiffy_trev",
+      "author_alias": "spiffy_trev",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1772630920
+      }
+    },
+    {
+      "id": "2252597608479748",
+      "score": 1,
+      "review_title": "Needs improvement",
+      "review_description": "Constantly crashes and says device has reached maximum limited memory available. From what I have read it seems like they have a memory leak problem with their app. No other apps or games give me memory leak problems so I am assuming it's the app itself which is a shame.",
+      "date": 1777568776,
+      "review_helpful_count": 0,
+      "author_display_name": "FYBVolatile",
+      "author_alias": "FYBVolatile",
+      "developer_response": null
+    },
+    {
+      "id": "971733066014798",
+      "score": 1,
+      "review_title": "Garbage",
+      "review_description": "Freezes all the time on quest 3 and the headset has to be restarted by holding power button for 15 seconds. Absolutely unusable",
+      "date": 1767275040,
+      "review_helpful_count": 2,
+      "author_display_name": "LaughingSeaLion7628",
+      "author_alias": "LaughingSeaLion7628",
+      "developer_response": {
+        "body": "Hi! Sorry to hear that — we know how frustrating that is.\nA major update is coming this week with stability fixes that should resolve this on Quest 3. Thank you for your patience!",
+        "date": 1771868133
+      }
+    },
+    {
+      "id": "787058324494826",
+      "score": 1,
+      "review_title": "It was fine now the videos don’t work",
+      "review_description": "The app was fine, everything worked good, recently everything went bad. No thumbnails, the videos don’t work. Tried uninstalling and reinstalling, no effect.",
+      "date": 1759355920,
+      "review_helpful_count": 46,
+      "author_display_name": "Guz.Rah",
+      "author_alias": "Guz.Rah",
+      "developer_response": {
+        "body": "Hi! Sorry to hear that. A major update is coming this week with stability fixes that should resolve a lot of issues. Thank you for your patience!",
+        "date": 1771869157
+      }
+    },
+    {
+      "id": "26305595302374940",
+      "score": 4,
+      "review_title": "Really good picture sound quality",
+      "review_description": "I can stream at 1080p 120fps",
+      "date": 1767544943,
+      "review_helpful_count": 0,
+      "author_display_name": "Simeonc",
+      "author_alias": "Simeonc",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1771868012
+      }
+    },
+    {
+      "id": "1284907826734724",
+      "score": 1,
+      "review_title": "Vr streaming?",
+      "review_description": "It's a giant screen but it's not virtual reality or\n 3d just big",
+      "date": 1771109124,
+      "review_helpful_count": 0,
+      "author_display_name": "Juanone57",
+      "author_alias": "Juanone57",
+      "developer_response": {
+        "body": "Hi! Sorry to hear you’re experiencing issues. Please email us at media@startvr.io with more details about what’s happening, and we’ll do our best to investigate and help.",
+        "date": 1771868263
+      }
+    },
+    {
+      "id": "4375543099401907",
+      "score": 1,
+      "review_title": "Not working at all.",
+      "review_description": "Not working at all. Really number my favorite sites switched to this POS",
+      "date": 1765607443,
+      "review_helpful_count": 0,
+      "author_display_name": "ZiggyRay",
+      "author_alias": "ZiggyRay",
+      "developer_response": {
+        "body": "Hi! Sorry to hear that you have an issues. A major update is coming this week with stability fixes that should resolve this on Quest 3. Thank you for your patience!",
+        "date": 1771868568
+      }
+    },
+    {
+      "id": "1120916283569745",
+      "score": 2,
+      "review_title": "Worked for a while",
+      "review_description": "I like the video quality of the streaming online video but the whole online playing experience just stopped working and i am not savvy enough to figure it out",
+      "date": 1759246497,
+      "review_helpful_count": 12,
+      "author_display_name": "BLF3408",
+      "author_alias": "BLF3408",
+      "developer_response": {
+        "body": "Hi! Sorry to hear that. A major update is coming this week with stability fixes that should resolve a lot of issues. Thank you for your patience!",
+        "date": 1771869331
+      }
+    },
+    {
+      "id": "923845360807085",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Good",
+      "date": 1764253748,
+      "review_helpful_count": 0,
+      "author_display_name": "msal_ah0307",
+      "author_alias": "msal_ah0307",
+      "developer_response": {
+        "body": "Thank you! If there’s any specific feature you’re unhappy with, please email us at media@startvr.io  — we’ll do our best to include it in upcoming releases.",
+        "date": 1771868668
+      }
+    },
+    {
+      "id": "24639942558944021",
+      "score": 4,
+      "review_title": "Very good for offline use",
+      "review_description": "Excellent for offline use, just make sure you know the file names correctly, as shown below. This information could have been included in the description, but I had to find it on the website.\n\nStereoMode:\n_180 / _360\n\nScreen Type:\n\"_LR\" or \"_3DH\" or \"_SBS\" \"_TB\" or \"_3DV\" or \"_OverUnder\"\n\nExample:\nTitle_SBS_180.mkv",
+      "date": 1755888890,
+      "review_helpful_count": 7,
+      "author_display_name": "Capatto",
+      "author_alias": "Capatto",
+      "developer_response": {
+        "body": "Thanks for your feedback!",
+        "date": 1771869368
+      }
+    },
+    {
+      "id": "766449619892770",
+      "score": 1,
+      "review_title": "Broken",
+      "review_description": "Great app but seems to be comp\nletely broken for now",
+      "date": 1759260681,
+      "review_helpful_count": 4,
+      "author_display_name": "mrmr1101",
+      "author_alias": "mrmr1101",
+      "developer_response": {
+        "body": "Hi! Sorry to hear that. A major update is coming this week with stability fixes that should resolve a lot of issues. Thank you for your patience!",
+        "date": 1771869091
+      }
+    },
+    {
+      "id": "875018375702062",
+      "score": 2,
+      "review_title": "Picture location",
+      "review_description": "When I open the app the picture location is way off. Very difficult to re center it, also during video play I cand move that picture either. So I have to adjust my body position to watch anything. My free cardboard app adjusted the video automatically,  so I can decide to sit or lay down or whatever and the video just moved in front of me. Also, sometimes the curser selects anything it touches, other times I have to do it manually and hope it doesn't grab it. The video quality runs very well and audio seems to keep up. I'll update this review if I see improvement or figure out what's wrong.",
+      "date": 1764698260,
+      "review_helpful_count": 0,
+      "author_display_name": "CoralHummingbird177",
+      "author_alias": "CoralHummingbird177",
+      "developer_response": {
+        "body": "Hi! Thank you for the detailed feedback — we really appreciate it.\n\nCould you please describe the issue a bit more and send it to us at media@startvr.io ? If possible, include your headset model and a short video of the problem. We’ll look into it and work on improving the experience.",
+        "date": 1771869453
+      }
+    },
+    {
+      "id": "922814930922246",
+      "score": 5,
+      "review_title": "Works great!",
+      "review_description": "Zero issues.",
+      "date": 1768836299,
+      "review_helpful_count": 0,
+      "author_display_name": "sodom_and_granola",
+      "author_alias": "sodom_and_granola",
+      "developer_response": {
+        "body": "Thank you for your feedback!",
+        "date": 1771867991
+      }
+    },
+    {
+      "id": "689883786938698",
+      "score": 1,
+      "review_title": "Useless",
+      "review_description": "Installed app and allowed permission for video and photos and to storage.  Browsed to my movie folder on my Quest 2 and not a single file is listed.  There is a login button but login into where ? There is no registration.  If you browse to a website you are told the site has no API support,  try again. Where is there a list of supported websites.  The developer's website says the list is growing but provides no list. I don't see how this app passed Meta's criteria for being listed on the store.",
+      "date": 1744260138,
+      "review_helpful_count": 38,
+      "author_display_name": "NomadsAnIsland",
+      "author_alias": "NomadsAnIsland",
+      "developer_response": {
+        "body": "Hi! Sorry to hear it wasn’t a great experience for you. We’re primarily a player for local videos, and we’ll be adding a small built-in video library soon. At the moment, we don’t have a public list of supported websites yet — we’re still working on that.\nIf you weren’t able to play certain files, please let us know which format caused the issue by emailing media@startvr.io We’d really appreciate the details and will look into it. Hope you’ll give it another try!",
+        "date": 1771868952
+      }
+    },
+    {
+      "id": "606301625905634",
+      "score": 1,
+      "review_title": "No vídeos without tracking.",
+      "review_description": "If environment is dark enough so as to prevent hands from being tracked, player won't even start. This happens only since a couple of weeks ago.",
+      "date": 1746052871,
+      "review_helpful_count": 3,
+      "author_display_name": "Danielitens",
+      "author_alias": "Danielitens",
+      "developer_response": {
+        "body": "Hi! Sorry to hear that — we know how frustrating that is. A major update is coming this week with stability fixes that should resolve this on Quest 3. Thank you for your patience!",
+        "date": 1771869007
+      }
+    },
+    {
+      "id": "481287495075920",
+      "score": 1,
+      "review_title": "Login not working.",
+      "review_description": "When i try to login, \"wrong password or username\"",
+      "date": 1735190734,
+      "review_helpful_count": 13,
+      "author_display_name": "k1rin.2024",
+      "author_alias": "k1rin.2024",
+      "developer_response": {
+        "body": "Hi thank you for reaching out, the login issue you had been experiencing should now be resolved.",
+        "date": 1735830345
+      }
+    },
+    {
+      "id": "460132137193925",
+      "score": 1,
+      "review_title": "Worthless",
+      "review_description": "Doesn't connect to YouTube and I can't find any way to paste an address.\nUninstalled",
+      "date": 1735724529,
+      "review_helpful_count": 6,
+      "author_display_name": "AbsterA",
+      "author_alias": "AbsterA",
+      "developer_response": {
+        "body": "Hi! Sorry to hear it wasn’t a great experience for you. We’ll be adding a small built-in video library soon — hope you’ll give it another try!",
+        "date": 1771868408
+      }
+    },
+    {
+      "id": "1566882668034341",
+      "score": 4,
+      "review_title": "One of my favorite vr players",
+      "review_description": "I like the look of the video quality, the gamma setting is very helpful.  It’s easy to use, but I don’t like how the app reverts to monoscopic most all the time.",
+      "date": 1733535774,
+      "review_helpful_count": 10,
+      "author_display_name": "JCooley8245",
+      "author_alias": "JCooley8245",
+      "developer_response": {
+        "body": "Thanks for your feedback, we will continue to update and work to address your issue.",
+        "date": 1734021004
+      }
+    },
+    {
+      "id": "1381619516556159",
+      "score": 5,
+      "review_title": "Login not working",
+      "review_description": "Login not working.Kindly help me.",
+      "date": 1736219911,
+      "review_helpful_count": 3,
+      "author_display_name": "thanga.raj.1509",
+      "author_alias": "thanga.raj.1509",
+      "developer_response": {
+        "body": "Thanks for your five star review!",
+        "date": 1771869124
+      }
+    },
+    {
+      "id": "398769663297405",
+      "score": 5,
+      "review_title": "Works great",
+      "review_description": "Works great",
+      "date": 1729595836,
+      "review_helpful_count": 9,
+      "author_display_name": "Anton111111",
+      "author_alias": "Anton111111",
+      "developer_response": {
+        "body": "Thanks for your feedback!",
+        "date": 1771868313
+      }
+    },
+    {
+      "id": "538001256062403",
+      "score": 1,
+      "review_title": "Log in",
+      "review_description": "When logging into a website, it told me the wrong password and or user name.",
+      "date": 1736257831,
+      "review_helpful_count": 2,
+      "author_display_name": "MothafucaJonez79",
+      "author_alias": "MothafucaJonez79",
+      "developer_response": {
+        "body": "this issue should now be fixed in version .68.2. sorry for your troubles.",
+        "date": 1736539668
+      }
+    }
+  ],
+  "total": 21,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-19T05:48:31Z"
+}

@@ -1,0 +1,64 @@
+{
+  "app_id": "1462012723846452",
+  "package_name": "co.zeality.hmd.sharks",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "San Jose Sharks VR",
+  "rating_average": 2.1666666666667,
+  "rating_count": 18,
+  "review_count": 18,
+  "reviews": [
+    {
+      "id": "936209776536779",
+      "score": 1,
+      "review_title": "Terrible image quality",
+      "review_description": "Blurred and monoscopic.",
+      "date": 1507930180,
+      "review_helpful_count": 3,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": null
+    },
+    {
+      "id": "185935255912656",
+      "score": 1,
+      "review_title": "not worth the time",
+      "review_description": "For a multi million dollar machine like the San Jose Sharks, it is a poor product.  Low resolution.",
+      "date": 1575587955,
+      "review_helpful_count": 3,
+      "author_display_name": "CoolRib_",
+      "author_alias": "CoolRib_",
+      "developer_response": null
+    },
+    {
+      "id": "135078570385505",
+      "score": 4,
+      "review_title": "Cool hockey",
+      "review_description": "Can't wait for more functionality and maybe live games",
+      "date": 1507774332,
+      "review_helpful_count": 9,
+      "author_display_name": "nhlgeezer",
+      "author_alias": "nhlgeezer",
+      "developer_response": null
+    },
+    {
+      "id": "102738417335084",
+      "score": 3,
+      "review_title": "Needs an update",
+      "review_description": "It was cool to see the Sharks with an app, but the videos are blurry (makes me a little dizzy watching them) and the content needs an update.",
+      "date": 1533574273,
+      "review_helpful_count": 2,
+      "author_display_name": "LordPothos",
+      "author_alias": "LordPothos",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:45:16Z"
+}
