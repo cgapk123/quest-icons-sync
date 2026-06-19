@@ -1,0 +1,511 @@
+{
+  "app_id": "5219488324783789",
+  "package_name": "com.MobXGames.EVERSLAUGHT.Invasion",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "EVERSLAUGHT Invasion",
+  "rating_average": 3.9059829059829,
+  "rating_count": 117,
+  "review_count": 68,
+  "reviews": [
+    {
+      "id": "961461823129324",
+      "score": 2,
+      "review_title": "Not a moment to think",
+      "review_description": "It's a shame that the devs decided to go in the direction of a hack-and-slash with endless enemies that magically spawn everywhere and attack from all sides. Even on the easiest difficulty, you never have a moment to stop and appreciate the fantastic graphics and beautiful level design because you have to constantly slash your way through never-ending enemies. If they were fun to fight and/or spaced out more, it might be ok, but it's more like swatting at relentless mosquitoes than enjoyable, nuanced combat. What you end up with is brainless ADHD pandering that entirely detracts from the objective at hand. There's not a moment to think or plan anything, or to even figure out where you are in the level. It's unfortunate, considering that other aspects of the game are quite cool. All the devs had to do was make the entirely reasonable decision to have a specific number of enemies in each level. Instead, they opted to make the game one dimensional.\n\nTwo stars because the graphics are excellent and it's quite immersive. It would be one otherwise.",
+      "date": 1775343442,
+      "review_helpful_count": 2,
+      "author_display_name": "QUACKBIRTH",
+      "author_alias": "QUACKBIRTH",
+      "developer_response": null
+    },
+    {
+      "id": "941777275693143",
+      "score": 5,
+      "review_title": "Fun  game",
+      "review_description": "I picked this up on sale, and so far, I'm having fun playing the game.",
+      "date": 1771336528,
+      "review_helpful_count": 3,
+      "author_display_name": "CultMember666",
+      "author_alias": "CultMember666",
+      "developer_response": null
+    },
+    {
+      "id": "825890797280100",
+      "score": 5,
+      "review_title": "Worth the money",
+      "review_description": "This game is an under rated game I love it, it is like waves kinda like call of duty zombies but just more fun the graphics 9/10 the sword fighting 9/10 this game is gonna be worth the money good job fast travel games.",
+      "date": 1763047629,
+      "review_helpful_count": 6,
+      "author_display_name": "Tdog541",
+      "author_alias": "Tdog541",
+      "developer_response": null
+    },
+    {
+      "id": "1348472746765859",
+      "score": 1,
+      "review_title": "Multiplayer doesnt work",
+      "review_description": "My bought for myself and a friend for multiplayer and even he feels ripped off",
+      "date": 1762667597,
+      "review_helpful_count": 2,
+      "author_display_name": "the_number_Q",
+      "author_alias": "the_number_Q",
+      "developer_response": null
+    },
+    {
+      "id": "864295829604118",
+      "score": 1,
+      "review_title": "Don't get this game!",
+      "review_description": "The online doesn't work and it's a lame game go and get iron strike instead it's this but better and free",
+      "date": 1762667652,
+      "review_helpful_count": 1,
+      "author_display_name": "dan_pikmin2",
+      "author_alias": "dan_pikmin2",
+      "developer_response": null
+    },
+    {
+      "id": "1155159259860831",
+      "score": 1,
+      "review_title": "Don't bother",
+      "review_description": "Only paid .99 for the game & still feel ripped off. Bought for the multiplayer, which doesn't work at all. 1 star for the devs horrendous lack of effort",
+      "date": 1758630155,
+      "review_helpful_count": 3,
+      "author_display_name": "NuccaNu",
+      "author_alias": "NuccaNu",
+      "developer_response": null
+    },
+    {
+      "id": "726856163835862",
+      "score": 5,
+      "review_title": "I’m impressed",
+      "review_description": "Not sure why I haven’t heard about this game until now. It’s honestly a blast. ￼ The melee combat is not physics based, but it is satisfying. The movement feels nice and fluid as you zip around the map. ￼Good progression and replayability. Maybe a little janky at times but that’s most quest games at their finest. Definitely worth it at the price point.￼",
+      "date": 1751029846,
+      "review_helpful_count": 17,
+      "author_display_name": "Halfdrac",
+      "author_alias": "Halfdrac",
+      "developer_response": null
+    },
+    {
+      "id": "1193484069181145",
+      "score": 5,
+      "review_title": "underrated gem",
+      "review_description": "while it's basically large arena fights, exploration is rewarded by perks lying in corners. This is really, as others notice, basically Quake 3 with melee weapons rather than guns. \n\nit received a last update in 2023 that got its graphics to quite delightful standards, with shiny surfaces, metals etc. The combat is fun and the middle eastern fantasy settings is a joy to look at. \n\nat $6 on sale, it was irresistible.",
+      "date": 1745029393,
+      "review_helpful_count": 11,
+      "author_display_name": "namekuseijin",
+      "author_alias": "namekuseijin",
+      "developer_response": null
+    },
+    {
+      "id": "995167326127235",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Oh my god, it’s like Quake with swords! Awesome concept and great execution, even if it’s missing a bit of full-fledged physics.",
+      "date": 1743761603,
+      "review_helpful_count": 4,
+      "author_display_name": "ezobnin",
+      "author_alias": "ezobnin",
+      "developer_response": null
+    },
+    {
+      "id": "470080722271445",
+      "score": 1,
+      "review_title": "Game lags",
+      "review_description": "The game is very laggy and buggy. Tried returning and it was denied even tho I only played for an hour. The game doesn't always give you the weapons you unlock, it also doesn't work very well on multiplayer. Constantly laying and crashing the host. If you're looking for a single player fighting game I suggest gorn or blades and sorcery. If you're looking for a multiplayer I suggest soul covenant. Don't buy this game",
+      "date": 1718208381,
+      "review_helpful_count": 36,
+      "author_display_name": "THELASTG0D",
+      "author_alias": "THELASTG0D",
+      "developer_response": null
+    },
+    {
+      "id": "349892091549530",
+      "score": 5,
+      "review_title": "Awesm",
+      "review_description": "Great game…fun, challenging, & great workout!",
+      "date": 1720390399,
+      "review_helpful_count": 4,
+      "author_display_name": "Ironhead35z",
+      "author_alias": "Ironhead35z",
+      "developer_response": null
+    },
+    {
+      "id": "277814352091236",
+      "score": 4,
+      "review_title": "Cool",
+      "review_description": "I played the trial and found this to be surprisingly decent.  It's kindof like Dungeons Of Eternity but more run and gun, hack and slash.  This is more like what I was hoping for when I got Battle Talent, which I did not enjoy at all.\n\nOne MAJOR request to the devs.  Please include an options menu section for button remapping.  Please.  The current button mapping significantly decreases playing enjoyment, for me, because some of them feel completely backwards compared to any other game with similar controls.  (Also, the shield is stuck in whatever position you first initiate it at, it doesn't move or rotate with you. I could get used to that mechanic though.)",
+      "date": 1717861396,
+      "review_helpful_count": 6,
+      "author_display_name": "Fire.Raj",
+      "author_alias": "Fire.Raj",
+      "developer_response": null
+    },
+    {
+      "id": "346253615235602",
+      "score": 1,
+      "review_title": "No more loot",
+      "review_description": "So it came to quest and they removed what was fun . Disgusting. Refunding!",
+      "date": 1718036099,
+      "review_helpful_count": 5,
+      "author_display_name": "MYFARTSAREBUFF",
+      "author_alias": "MYFARTSAREBUFF",
+      "developer_response": null
+    },
+    {
+      "id": "382529904737698",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Not what I thought it’d be and too late to had it \nreturned",
+      "date": 1710129700,
+      "review_helpful_count": 7,
+      "author_display_name": "Carver",
+      "author_alias": "Carver",
+      "developer_response": null
+    },
+    {
+      "id": "1020865852478840",
+      "score": 1,
+      "review_title": "Latest ipdate ruined it",
+      "review_description": "For some unknown reason the last update made the game unplayable on my quest 2. Enemies are transparent and only a health bar is floating... No damage can be done to them. Really annoying!",
+      "date": 1702143156,
+      "review_helpful_count": 5,
+      "author_display_name": "Nexus_008",
+      "author_alias": "Nexus_008",
+      "developer_response": {
+        "body": "Hey, we would love to solve the issue with you! We've reached out on Discord, please let us know more details so we can hopefully track it down asap.",
+        "date": 1702680612
+      }
+    },
+    {
+      "id": "24225968633714247",
+      "score": 5,
+      "review_title": "New update made this game addictive!",
+      "review_description": "The new update brought a lot of needed changes:\n- Quest 3 shiny update with better textures and overall graphics\n-The fighting and finishing enemies is meaty and fleshy with great feeling \n-The upgrades that you get after each wave are really influencing the gameplay.\nAll these changes make the game very addictive, with many unlockables and modes of play. Also grappling hook is a great way of finishing enemies and also moving quickly.\n\nI only wish for a bow in this game, as I just love bows in every VR game so far.\nOther than that the game deserves a second chance.\nWish for even more updates.",
+      "date": 1700522508,
+      "review_helpful_count": 38,
+      "author_display_name": "kkuzma1982",
+      "author_alias": "kkuzma1982",
+      "developer_response": {
+        "body": "Thank you so much for the positive review! Bows are indeed very fun in VR!",
+        "date": 1702680835
+      }
+    },
+    {
+      "id": "766507278824284",
+      "score": 5,
+      "review_title": "𝔻𝕚𝕤𝕔𝕠𝕦𝕟𝕥𝕤",
+      "review_description": "Use this for all my 𝕕𝕚𝕤𝕔𝕠𝕦𝕟𝕥𝕤 for quest 𝕥𝕨𝕠 𝕠𝕣 𝕥𝕙𝕣𝕖𝕖 games. Enjoy and have a great day :)\n\n𝕝𝕚𝕟𝕜𝕥𝕣 “.” ee “/” 𝔹𝕛𝕦𝕕𝕚𝕔𝕖\nJust delete the quotation marks and spaces.\n\nIve been seeing alot of reviews saying this game is bad, i waited for the game to come out and i love this game it came out with little to go glitches or bugs, very smooth, and fun.",
+      "date": 1700591748,
+      "review_helpful_count": 0,
+      "author_display_name": "FatFreeWater.Com",
+      "author_alias": "FatFreeWater.Com",
+      "developer_response": null
+    },
+    {
+      "id": "362035059836840",
+      "score": 1,
+      "review_title": "DO NOT GET THIS GAME",
+      "review_description": "I know it looks fun but god it gets boring quick not to mention they don’t accept refunds I got it it sucked I tried to refund they denied it Do Not. Get It",
+      "date": 1700290958,
+      "review_helpful_count": 8,
+      "author_display_name": "lucidvision",
+      "author_alias": "lucidvision",
+      "developer_response": {
+        "body": "I see that, unfortunately, you were still on the old version when you wrote that review. Please give the new free update a try - it COMPLETELY changes up the game and its pacing. Our team would love to hear your thoughts on the game after playing the update.",
+        "date": 1700584591
+      }
+    },
+    {
+      "id": "197064716611567",
+      "score": 5,
+      "review_title": "Whether it's clerics or the quest 2...",
+      "review_description": "... they are facing certain doom but they're going down fighting. Awesome mechanics, clean graphics and addictive gameplay (was a chaos quake fan, love the grappling crossbow). I hope we get fresh settings down the line (winter, medieval Europe...) although there's more than enough on offer for now.",
+      "date": 1685039065,
+      "review_helpful_count": 15,
+      "author_display_name": "legendary.yannick",
+      "author_alias": "legendary.yannick",
+      "developer_response": {
+        "body": "We are working on bringing new maps and environments to the game! Thank you for the kind words!",
+        "date": 1685088495
+      }
+    },
+    {
+      "id": "1720554555065112",
+      "score": 3,
+      "review_title": "A huge disappointment",
+      "review_description": "It's fun but I was a huge fan of their separate PC game and unfortunately Invasion is a spin off that feels like a significant downgrade even with the added co-op and new features.  \n\nCombat and graphics are bland. Ultimately this game underwhelmed regardless of how it compares to their other Everslaught title. \n\nYou can check out my full review here - https://www.youtube.com/watch?v=3KYyQRcCvA0",
+      "date": 1685099430,
+      "review_helpful_count": 24,
+      "author_display_name": "matteo311",
+      "author_alias": "matteo311",
+      "developer_response": {
+        "body": "Thanks for the review. With EVERSLAUGHT Invasion we made an entirely separate game from the PC version. Both stand on their own, and each of them have their own story and unique gameplay, while being optimized for the respective platform they're running on.",
+        "date": 1685087686
+      }
+    },
+    {
+      "id": "552149330447201",
+      "score": 5,
+      "review_title": "Meant for multiplayer",
+      "review_description": "At first look this game is great! but as all games do, it has its flaws. firstly there is no blocking enemy attacks which i was hoping there was. this might sound dumb but this is what i was most disappointed with. It can seem very repetitive at first but i think that the amount of action you are getting keeps it going. and multiplayer is just a great addition to the game that adds so much more fun. I really love that you can grapple on to your friends and use them as a catapult. the game feels very polished but some of the effects are flawed such as the explosions and ground dust when you fall down a height. this game also has 3 classes with 2 gauntlet weapons that come with them. The ideas of the classes are very basic (strong but slow, balanced, fast but weak) but the weapons they come with are usually pretty fun to make a mess of the arena with.this game gets an 8/10 because it is fun but can be painful at times. if you really want a doom vr experience wait for deadhook.",
+      "date": 1685057317,
+      "review_helpful_count": 8,
+      "author_display_name": "Comfysun",
+      "author_alias": "Comfysun",
+      "developer_response": {
+        "body": "We will be expanding on the game's core features with each update. We're very grateful for feedback such as yours to be able to prioritize accordingly!",
+        "date": 1685087377
+      }
+    },
+    {
+      "id": "546045437737885",
+      "score": 1,
+      "review_title": "Frustrated",
+      "review_description": "Why did i pay for the pre-order, just to repay again at the full price upon release???\nI like the upgrade mechanics, the multiple classes. Like everything on paper sounds good, but the execution is terrible. Just wave your arms at your enemy as they dance around you and your line of sight. Very lack luster, and disappointed, because I hyped up this game to all my fellow vr buddies, after me having to double pay and the lack of polish, it was just a solid LOL from them to me",
+      "date": 1685250591,
+      "review_helpful_count": 5,
+      "author_display_name": "NotoriousHaze",
+      "author_alias": "NotoriousHaze",
+      "developer_response": {
+        "body": "If you had issues with a double payment, please consult Meta for a refund. Their support is very helpful.\nOther than that we appreciate the feedback! We are taking in all the feedback we can get in order to improve the game step-by-step with each patch.",
+        "date": 1685086236
+      }
+    },
+    {
+      "id": "1227256774620559",
+      "score": 5,
+      "review_title": "This is not 5 stars.",
+      "review_description": "Look I tried the game single player and was weirdly disappointed, I guess I was under the impression of enemy stab physics, free grapple, and 4 player multiplayer but that’s not what this game is. I haven’t tried Co-op but who knows it might be incredible. Im giving it 5 stars now to see if it grows on me and because lots of other people are incredibly over critical of new games…I mean look at Gambit.",
+      "date": 1685038907,
+      "review_helpful_count": 4,
+      "author_display_name": "CaptainKidd3737",
+      "author_alias": "CaptainKidd3737",
+      "developer_response": {
+        "body": "Thank you for giving this a chance. With each update, we will be improving upon every aspect of the game.",
+        "date": 1685088621
+      }
+    },
+    {
+      "id": "141556692269955",
+      "score": 4,
+      "review_title": "Amazing +25% DISCOUNT",
+      "review_description": "I think this is the first coop in Oculus Store (not counting MMOs), where the combat is mostly melee, allowing for more interesting utilization of VR.\n\nThe fact, that there are different classes and progression for each of them, as well as variety of weapon with it's own progression, greatly increases the repayablity of the game!\n\nOverall,  the game looks and feels amazing,  something I have been waiting for.\n\nBut the combat doesn't feel super realistic physics-based. \n\nIf you are planning to purchase the app, you can use the link below to get 25% OFF:\n\nhttps://tinyurl,com/everslvr",
+      "date": 1686627414,
+      "review_helpful_count": 1,
+      "author_display_name": "foxymd",
+      "author_alias": "foxymd",
+      "developer_response": null
+    },
+    {
+      "id": "779522643626666",
+      "score": 3,
+      "review_title": "Come on",
+      "review_description": "More more more is what I'd like to say but o\nAfter running though the level once I had enough if the combat was more smooth and felt like my movements mattered  it be better but as it stands it's a weak 3 stars the only reason it got 3 was because I want it to be more and I hope it'll be more come on guys I believe in you",
+      "date": 1686880796,
+      "review_helpful_count": 0,
+      "author_display_name": "odiousego65",
+      "author_alias": "odiousego65",
+      "developer_response": null
+    },
+    {
+      "id": "759236289231576",
+      "score": 3,
+      "review_title": "Pledging towards the PC version.",
+      "review_description": "There, I bought your gimped spinoff. Now finish the PC version please.",
+      "date": 1685410719,
+      "review_helpful_count": 1,
+      "author_display_name": "Gerbius",
+      "author_alias": "Gerbius",
+      "developer_response": {
+        "body": "😂 Thank you, we'll do our best!",
+        "date": 1685475751
+      }
+    },
+    {
+      "id": "682277566965822",
+      "score": 3,
+      "review_title": "Weapon holding bug",
+      "review_description": "I’ve only completed the basic tutorial so far, so this review is only to highlight a pretty significant bug I encountered very early on. On the airship, when trying to select my weapons, it wouldn’t let me equip the second right hand weapon. I would store the first in the backpack, but when I tried to select a second one, the first would be removed onto the floor, but you couldn’t even pick it back up, it was just frozen in the air. I could equip both left hand weapons just fine, the issue was only with the right hand. Now, if there is a weight limit for each class when carrying weapons, that might explain it, but it still wouldn’t explain them getting frozen in the air.",
+      "date": 1685420667,
+      "review_helpful_count": 0,
+      "author_display_name": "SilentpaladinX1",
+      "author_alias": "SilentpaladinX1",
+      "developer_response": {
+        "body": "Thank you for the bug report, we'll investigate and fix in an upcoming patch!",
+        "date": 1685475707
+      }
+    },
+    {
+      "id": "680700767411015",
+      "score": 4,
+      "review_title": "Cool game",
+      "review_description": "The more i play the i like it but i cant find players and running into bugs just played a guy was 200 feet in the air and would not come down other then that good stuff",
+      "date": 1690224180,
+      "review_helpful_count": 0,
+      "author_display_name": "TySample",
+      "author_alias": "TySample",
+      "developer_response": null
+    },
+    {
+      "id": "634121981951364",
+      "score": 4,
+      "review_title": "Super unique!!!",
+      "review_description": "This game was an unexpected buy for me, I saw it and thought it looked good so I bought it, and wow it's the most fun I've had in vr in a while and boy has it been a while, finally something that's actually decently challenging, I'm on apprentice mode and I still suck though I do wish there were more maps and I hate the torch you have to do on level 3 but I'm sure this game would be super fun to hop in co-op with I just need to get some freinds",
+      "date": 1685064606,
+      "review_helpful_count": 1,
+      "author_display_name": "magic-mango6",
+      "author_alias": "magic-mango6",
+      "developer_response": {
+        "body": "We appreciate your feedback! If you're up for it, you can play Co-Op with another random online player through the \"Matchmaking\" option. As for the torch mission, it might help to know that the flame on the torch \"hints\" at the next bowl you need to ignite.",
+        "date": 1685087178
+      }
+    },
+    {
+      "id": "630768562277557",
+      "score": 5,
+      "review_title": "Surprisingly really really amazing",
+      "review_description": "This game is actually really good. When I pre-ordered it I thought it would be a waste of money but it’s super good. A good action game but kinda hard (or I’m just bad). Definitely recommend and hope more people get it so i can actually play co-op. Really fun 5/5 stars easy.",
+      "date": 1685064355,
+      "review_helpful_count": 7,
+      "author_display_name": "beese_.churger",
+      "author_alias": "beese_.churger",
+      "developer_response": {
+        "body": "Thank you so much for the kind review!",
+        "date": 1685086728
+      }
+    },
+    {
+      "id": "630554032299634",
+      "score": 5,
+      "review_title": "Slaughter for all",
+      "review_description": "This game is not like any other, fast paced, violent, and full of surprises. Three separate classes that offer variety in gameplay, and levels that will keep you on your toes. You will break a sweat while playing this game, but you also just might break your sanity among the unrelenting hordes in this nightmare fueled world.\n\nIn all seriousness, this game is something truly special, if you enjoy high-octane melee and gunplay, this is the game for you!",
+      "date": 1685035070,
+      "review_helpful_count": 27,
+      "author_display_name": "StarboundSelly",
+      "author_alias": "StarboundSelly",
+      "developer_response": {
+        "body": "Thank you so much for the review and the kind words!",
+        "date": 1685088809
+      }
+    },
+    {
+      "id": "613213287534513",
+      "score": 4,
+      "review_title": "Good for now but needs some more work",
+      "review_description": "I find this game very entertaining but have a lot of things that I feel need to be added/improved\nBlood: there needs to be more blood like the pc version ( and I realize that you worked a lot to get it on quest but I just think it should be added)\nMore enemy types: there are 5 enemy types and fighting them over and over can get boring \nMore maps/weapons: for launch I feel there is enough of everything in the game but would like to see more weapons and maps eventually \nProcedurally generated arenas: I love the combat and would love even more in a rouglite  setting ( like the pc version, but if thats not your vision for the game I understand)\nThis game is pretty good now but can be amazing if the devs put in the work and don’t give up on it, I feel it could be one of the greats in the quest space",
+      "date": 1685195630,
+      "review_helpful_count": 2,
+      "author_display_name": "Titan3984",
+      "author_alias": "Titan3984",
+      "developer_response": {
+        "body": "Thank you so much for the feedback! We're already working on a first patch to be released soon, that will address some of the issues you mentioned. More will be handled in further patches to come.",
+        "date": 1685476150
+      }
+    },
+    {
+      "id": "510817531473915",
+      "score": 4,
+      "review_title": "Great game",
+      "review_description": "I have so much fun playing this and more the weapons have cool abilities love how me and my friends can play all together I have been playing on the hardest difficulty and almost lost",
+      "date": 1722089576,
+      "review_helpful_count": 2,
+      "author_display_name": "Jrs0918",
+      "author_alias": "Jrs0918",
+      "developer_response": null
+    },
+    {
+      "id": "503083412255558",
+      "score": 4,
+      "review_title": "",
+      "review_description": "It's a lot of fun gives me a good workout that's only 10 bucks",
+      "date": 1720475078,
+      "review_helpful_count": 0,
+      "author_display_name": "OGX_Darth_Vader",
+      "author_alias": "OGX_Darth_Vader",
+      "developer_response": null
+    },
+    {
+      "id": "503078719396254",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Game is fun got it for 4.00 pounds and it’s good if u like swords ￼￼",
+      "date": 1729956358,
+      "review_helpful_count": 2,
+      "author_display_name": "Kingmuzz",
+      "author_alias": "Kingmuzz",
+      "developer_response": null
+    },
+    {
+      "id": "483317257480806",
+      "score": 4,
+      "review_title": "Game Revived!",
+      "review_description": "With the new update combat and in general game mechanics re-done makes it really enjoyable! But still hard to find a match lol. Add me let’s play a match.",
+      "date": 1718055161,
+      "review_helpful_count": 1,
+      "author_display_name": "Hate-Eager",
+      "author_alias": "Hate-Eager",
+      "developer_response": null
+    },
+    {
+      "id": "405229535162144",
+      "score": 5,
+      "review_title": "The Resurgence Update breathes new life!",
+      "review_description": "With the new Resurgence update, it all makes sense now. This is one solid hack and slash, Roguelite styled game now! \n\nI’m hooked. Pun intended 😂\n\nFull video review here\n\nhttps://youtu.be/_iBumZT1wD8?si=qXIGCEYPOtl2D_SY",
+      "date": 1702479730,
+      "review_helpful_count": 12,
+      "author_display_name": "TheLabVideoGameTV",
+      "author_alias": "TheLabVideoGameTV",
+      "developer_response": {
+        "body": "Hey, thanks a lot for the great review!",
+        "date": 1702680640
+      }
+    },
+    {
+      "id": "315734651181188",
+      "score": 3,
+      "review_title": "Kinda works",
+      "review_description": "The spacing and depth shifting feel off, turning still takes forever at max smooth turn setting, matchmaking isn't there, only tried once. Parrying is ridiculously limited, and walking speeds dreadfully weird, but I got limiters.",
+      "date": 1696144379,
+      "review_helpful_count": 6,
+      "author_display_name": "Nameless2313",
+      "author_alias": "Nameless2313",
+      "developer_response": null
+    },
+    {
+      "id": "313467891456387",
+      "score": 4,
+      "review_title": "Cool, but…",
+      "review_description": "It’s a fun game, just not so fun that I can’t wait to get back to it. It’s just fun. If you feel like you have a limited budget for VR games, I wouldn’t recommend it, otherwise you’ll probably be happy with it.\n\nI played a couple hours and haven’t really been interested to get back to it. I couldn’t understand what I was supposed to do with the pitch darkness of the end of the first level and it took me quite a few tries before I wussed out and just beat it on easy. Never bothered with the second campaign mission.\n\nTBH, I was hoping I could just hack and slash with swords as a morning workout, but the devs were pretty serious about wanting you to use the ranged gauntlet so they built the game so that you strategically couldn’t beat it without using the ranged weapons.",
+      "date": 1700600718,
+      "review_helpful_count": 4,
+      "author_display_name": "dshield55",
+      "author_alias": "dshield55",
+      "developer_response": {
+        "body": "Hi, you can try to dual-wield swords (which actually disables the ranged weapon on the Gauntlet). Try the lower difficulties for a more workout-oriented experience!",
+        "date": 1702680724
+      }
+    },
+    {
+      "id": "292360356869499",
+      "score": 5,
+      "review_title": "EXTREMLY good game",
+      "review_description": "The only issues I have with the game is the levels don’t really have are a bit repetitive because after you max the game it just the same thing over I hope they can change this by adding more maps, more enemies,more weapons and possibly make the prime difficulty a lot harder I know this is a lot but even without this the game is a 10/10",
+      "date": 1695459736,
+      "review_helpful_count": 4,
+      "author_display_name": "daclekv1",
+      "author_alias": "daclekv1",
+      "developer_response": {
+        "body": "Thank you for the kind review!\nWe are working on a major update of the game where we'll change it up to the max! Stay tuned for more.",
+        "date": 1692275999
+      }
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-19T13:08:05Z"
+}

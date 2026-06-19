@@ -1,0 +1,42 @@
+{
+  "app_id": "26647576554836220",
+  "package_name": "com.Monkey.Choppers",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Monkey Choppers",
+  "rating_average": 3.6666666666667,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1058104754050649",
+      "score": 5,
+      "review_title": "Nice game",
+      "review_description": "W game",
+      "date": 1775221460,
+      "review_helpful_count": 0,
+      "author_display_name": "polaskiiigt",
+      "author_alias": "polaskiiigt",
+      "developer_response": null
+    },
+    {
+      "id": "1034249899775783",
+      "score": 5,
+      "review_title": "Tuff",
+      "review_description": "Tuff",
+      "date": 1775403606,
+      "review_helpful_count": 0,
+      "author_display_name": "megapoopster",
+      "author_alias": "megapoopster",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T13:13:45Z"
+}

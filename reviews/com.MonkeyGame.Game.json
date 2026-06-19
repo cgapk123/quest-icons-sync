@@ -1,0 +1,42 @@
+{
+  "app_id": "1172135095977275",
+  "package_name": "com.MonkeyGame.Game",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Monkey Game",
+  "rating_average": 3.6666666666667,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "991442030536500",
+      "score": 5,
+      "review_title": "very good game",
+      "review_description": "i recommend playing this game",
+      "date": 1781156482,
+      "review_helpful_count": 5,
+      "author_display_name": "densta3210",
+      "author_alias": "densta3210",
+      "developer_response": null
+    },
+    {
+      "id": "1013604661264814",
+      "score": 1,
+      "review_title": "banned for no reason",
+      "review_description": "got banned for joining code fashion the game thinks its an illegal code but its not rip off gorilla tag",
+      "date": 1781481573,
+      "review_helpful_count": 0,
+      "author_display_name": "bl1anket.t",
+      "author_alias": "bl1anket.t",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T13:14:46Z"
+}

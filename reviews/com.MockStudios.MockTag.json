@@ -1,0 +1,31 @@
+{
+  "app_id": "24944338555258292",
+  "package_name": "com.MockStudios.MockTag",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Mock Tag",
+  "rating_average": 4.2727272727273,
+  "rating_count": 11,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1001644779692095",
+      "score": 5,
+      "review_title": "Best game ever",
+      "review_description": "this is the best game i've ever played",
+      "date": 1768605184,
+      "review_helpful_count": 16,
+      "author_display_name": "french_frys",
+      "author_alias": "french_frys",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T13:08:32Z"
+}
