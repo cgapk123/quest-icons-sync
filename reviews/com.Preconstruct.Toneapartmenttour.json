@@ -1,0 +1,53 @@
+{
+  "app_id": "1198601433526554",
+  "package_name": "com.Preconstruct.Toneapartmenttour",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Trafalgar One Apartment Tour",
+  "rating_average": 2.5555555555556,
+  "rating_count": 9,
+  "review_count": 9,
+  "reviews": [
+    {
+      "id": "2008853825922220",
+      "score": 4,
+      "review_title": "Posh flat.",
+      "review_description": "I wish I was super rich like the VR real estate people.",
+      "date": 1618355265,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "1106142629515314",
+      "score": 5,
+      "review_title": "graphics are nice",
+      "review_description": "the room is wanderful",
+      "date": 1487821749,
+      "review_helpful_count": 3,
+      "author_display_name": "gallon422",
+      "author_alias": "gallon422",
+      "developer_response": null
+    },
+    {
+      "id": "145086137473573",
+      "score": 2,
+      "review_title": "Good view but only a few slides",
+      "review_description": "Would of preferred some sort of movement cause it looks cool",
+      "date": 1614665661,
+      "review_helpful_count": 0,
+      "author_display_name": "MASE1515",
+      "author_alias": "MASE1515",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T14:25:44Z"
+}

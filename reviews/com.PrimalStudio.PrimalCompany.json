@@ -1,0 +1,42 @@
+{
+  "app_id": "33825247413789759",
+  "package_name": "com.PrimalStudio.PrimalCompany",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Primal Company",
+  "rating_average": 3.1428571428571,
+  "rating_count": 7,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1003721792826938",
+      "score": 5,
+      "review_title": "Its pretty good",
+      "review_description": "Dont really understand the 1 star rating tbh?",
+      "date": 1772656223,
+      "review_helpful_count": 2,
+      "author_display_name": "ZenLoot",
+      "author_alias": "ZenLoot",
+      "developer_response": null
+    },
+    {
+      "id": "1069016676285838",
+      "score": 5,
+      "review_title": "This SUCKS",
+      "review_description": "I'm stuck in a room with a update board a window and a boombox.",
+      "date": 1773439254,
+      "review_helpful_count": 1,
+      "author_display_name": "BIazeofFury",
+      "author_alias": "BIazeofFury",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T14:26:21Z"
+}

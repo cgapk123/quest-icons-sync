@@ -1,0 +1,42 @@
+{
+  "app_id": "1123116394223695",
+  "package_name": "com.Policytag",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Policy tag",
+  "rating_average": 3.5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1081883835017194",
+      "score": 5,
+      "review_title": "yea",
+      "review_description": "everything working I'm gatekeeping",
+      "date": 1780750346,
+      "review_helpful_count": 2,
+      "author_display_name": "DolphinGTAG",
+      "author_alias": "DolphinGTAG",
+      "developer_response": null
+    },
+    {
+      "id": "1149384371591521",
+      "score": 2,
+      "review_title": "Ts wont let me fuhin load in",
+      "review_description": "Kicks me out when i see da Gorilla loading screen",
+      "date": 1780781469,
+      "review_helpful_count": 1,
+      "author_display_name": "fearlessdih",
+      "author_alias": "fearlessdih",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T14:23:12Z"
+}

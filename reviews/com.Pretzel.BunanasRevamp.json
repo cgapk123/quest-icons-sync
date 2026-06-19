@@ -1,0 +1,42 @@
+{
+  "app_id": "7718036231644408",
+  "package_name": "com.Pretzel.BunanasRevamp",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Bunanas",
+  "rating_average": 3,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "754875867429627",
+      "score": 5,
+      "review_title": "Fire",
+      "review_description": "Goated",
+      "date": 1756068439,
+      "review_helpful_count": 0,
+      "author_display_name": "verysillychef",
+      "author_alias": "verysillychef",
+      "developer_response": null
+    },
+    {
+      "id": "667299203125240",
+      "score": 1,
+      "review_title": "Trash game",
+      "review_description": "Absolutely garbage, never make a game again bro",
+      "date": 1745783216,
+      "review_helpful_count": 0,
+      "author_display_name": "spongebobpopsicle",
+      "author_alias": "spongebobpopsicle",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T14:26:01Z"
+}
