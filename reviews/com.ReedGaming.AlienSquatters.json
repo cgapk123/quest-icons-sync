@@ -1,0 +1,34 @@
+{
+  "app_id": "3358885150881323",
+  "package_name": "com.ReedGaming.AlienSquatters",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Alien Squatters",
+  "rating_average": 3,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "557458308833312",
+      "score": 3,
+      "review_title": "Lots of potential",
+      "review_description": "Bought this for my son, he really seems to enjoy it. I think it has a lot of potential as a kid friendly game, you shoot but nothing shoots back or comes towards you.\nThings I'd like to see..\nMaking most things destructible.\nMore weapons, could even be found when destroying objects.\nMore \"enemies\"\nMaybe even a timer\nCan even include a story mode or rpg where you need to walk around the map.",
+      "date": 1632176925,
+      "review_helpful_count": 8,
+      "author_display_name": "P-NuTTy",
+      "author_alias": "P-NuTTy",
+      "developer_response": {
+        "body": "Thanks so much for your review! This is our first game, and so had to make it relatively simple. At first, we had much destructible objects in the game, but it turned out we are using a destruction kit that wasn't made for mobile or VR, so it didn't give us the framerates that Oculus requires. \n\nWe will look into your other requests as soon as we are able.",
+        "date": 1632191718
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T16:14:52Z"
+}
