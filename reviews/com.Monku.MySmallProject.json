@@ -1,0 +1,31 @@
+{
+  "app_id": "9536664966385736",
+  "package_name": "com.Monku.MySmallProject",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "My Small Project",
+  "rating_average": 3.6666666666667,
+  "rating_count": 3,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "970741059463896",
+      "score": 1,
+      "review_title": "Fix ur game",
+      "review_description": "Pls fix it",
+      "date": 1773272918,
+      "review_helpful_count": 0,
+      "author_display_name": "TerrenceVR",
+      "author_alias": "TerrenceVR",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T13:18:15Z"
+}

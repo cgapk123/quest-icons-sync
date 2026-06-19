@@ -1,0 +1,56 @@
+{
+  "app_id": "1866016286807254",
+  "package_name": "com.MontrealXR.Hoppin",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Hoppin'",
+  "rating_average": 4.4,
+  "rating_count": 15,
+  "review_count": 15,
+  "reviews": [
+    {
+      "id": "2007196466087956",
+      "score": 4,
+      "review_title": "Ok cool.",
+      "review_description": "Hopping around, Quebec?",
+      "date": 1618175344,
+      "review_helpful_count": 3,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "906434600882004",
+      "score": 2,
+      "review_title": "No one there?",
+      "review_description": "I do not see other users.",
+      "date": 1705340345,
+      "review_helpful_count": 0,
+      "author_display_name": "atillag",
+      "author_alias": "atillag",
+      "developer_response": null
+    },
+    {
+      "id": "143997337582453",
+      "score": 3,
+      "review_title": "Good concept but no one plays",
+      "review_description": "Good concept with some cool videos and experiences but the social aspect is moot cause no one is ever on and I tried multiple times over a week and a half. Instead I solo watched all the content, there’s a lot and some is really cool and makes it worth it.",
+      "date": 1614498597,
+      "review_helpful_count": 14,
+      "author_display_name": "MASE1515",
+      "author_alias": "MASE1515",
+      "developer_response": {
+        "body": "Hi Mase1515,\nindeed, with the sunset of the Oculus Go by Facebook, visitors are all moving on to the Quest, where Hoppin' is under review for the Oculus Apps Lab and will be available soon through this link: https://www.oculus.com/experiences/quest/5105861412788569/.\nReach out to hoppin@hoppin.world if you'd like to beta test on Quest or have additional suggestions.\nThanks for your good feedback and see you there!\n- The Hoppin' Team",
+        "date": 1617655809
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T13:19:32Z"
+}
