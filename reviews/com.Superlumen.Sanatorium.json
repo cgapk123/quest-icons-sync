@@ -1,0 +1,59 @@
+{
+  "app_id": "983082925140880",
+  "package_name": "com.Superlumen.Sanatorium",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Sanatorium",
+  "rating_average": 3.5333333333333,
+  "rating_count": 15,
+  "review_count": 15,
+  "reviews": [
+    {
+      "id": "7406661989463224",
+      "score": 5,
+      "review_title": "I LOVED PLAYING THIS",
+      "review_description": "I absolutely loved this game and just managed to re-install from this official library!",
+      "date": 1774392030,
+      "review_helpful_count": 1,
+      "author_display_name": "tonycantello6264",
+      "author_alias": "tonycantello6264",
+      "developer_response": null
+    },
+    {
+      "id": "1399030173489735",
+      "score": 4,
+      "review_title": "Point&click adventure",
+      "review_description": "A nice graphic adventure with real 360 images that will remind you of the classic point-and-click adventures for PC, but now on inmersive VR! Only in Spanish for the moment (sorry, my English-speaking fellows), this thrilling story will leave you wanting for more. I've found some glitches in it that must be polished in order to get my 5 stars, but the authors have promised to deliver future updates, so we'll stay tuned.",
+      "date": 1491863479,
+      "review_helpful_count": 4,
+      "author_display_name": "Savig",
+      "author_alias": "Savig",
+      "developer_response": {
+        "body": "Thanks for the review! We just launched a new update for the APP and the English language it is finally available. Also we have redesigned all the icons, notes, papers,... Check it out and spread the word between your English-speaking fellows. Thanks!",
+        "date": 1515778073
+      }
+    },
+    {
+      "id": "231317510680767",
+      "score": 2,
+      "review_title": "No se me carga de ninguna manera...",
+      "review_description": "Bad ! �",
+      "date": 1491949232,
+      "review_helpful_count": 0,
+      "author_display_name": "dafvocalmusic",
+      "author_alias": "dafvocalmusic",
+      "developer_response": {
+        "body": "¡Hola dafvocalmusic! ¿Conseguiste que te funcionara la APP? ¿Qué móvil tienes? Decirte que hemos sacado una nueva versión con un rediseño integral y optimización de la APP. Tu opinión es importante para nosotros ;) ¡Un saludo!",
+        "date": 1515777903
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:28:31Z"
+}

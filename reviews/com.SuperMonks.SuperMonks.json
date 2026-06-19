@@ -1,0 +1,48 @@
+{
+  "app_id": "31142036928729196",
+  "package_name": "com.SuperMonks.SuperMonks",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Wild Monkes",
+  "rating_average": 4,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "738183408712931",
+      "score": 5,
+      "review_title": "I’m one of the mods friends",
+      "review_description": "I see potential in this game for the future",
+      "date": 1750886685,
+      "review_helpful_count": 5,
+      "author_display_name": "sawmadness",
+      "author_alias": "sawmadness",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1752510927
+      }
+    },
+    {
+      "id": "747338064914267",
+      "score": 1,
+      "review_title": "yall, you dont know how to moderate.",
+      "review_description": "yall, you dont know how to moderate.",
+      "date": 1752180848,
+      "review_helpful_count": 0,
+      "author_display_name": "ashissoinsanelycool",
+      "author_alias": "ashissoinsanelycool",
+      "developer_response": {
+        "body": "We know how to moderate.",
+        "date": 1752510914
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:27:44Z"
+}

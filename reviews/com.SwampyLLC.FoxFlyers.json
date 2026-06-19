@@ -1,0 +1,42 @@
+{
+  "app_id": "6590510601012348",
+  "package_name": "com.SwampyLLC.FoxFlyers",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Fox Flyers",
+  "rating_average": 3,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "283676640936743",
+      "score": 5,
+      "review_title": "Why",
+      "review_description": "Yes",
+      "date": 1690964509,
+      "review_helpful_count": 9,
+      "author_display_name": "kdog200945",
+      "author_alias": "kdog200945",
+      "developer_response": null
+    },
+    {
+      "id": "361904223311701",
+      "score": 1,
+      "review_title": "Its sucks @$$",
+      "review_description": "It's really bad",
+      "date": 1707022096,
+      "review_helpful_count": 3,
+      "author_display_name": "Just.ColtanYT",
+      "author_alias": "Just.ColtanYT",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:29:49Z"
+}

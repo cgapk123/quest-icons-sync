@@ -1,0 +1,98 @@
+{
+  "app_id": "6194234677321038",
+  "package_name": "com.SwingGenius.SwingGenius",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Swing Genius",
+  "rating_average": 2.6666666666667,
+  "rating_count": 9,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "916378750779054",
+      "score": 1,
+      "review_title": "Not Yet",
+      "review_description": "Doesn’t work with my “VR Golf Club” attachment.  \n\nUnlike Golf+ I can’t select the type of attachment I am using, nor can I calibrate to what I have. \n\nLet me know when it’s compatible with “VR Golf Club and I’ll give it another try.",
+      "date": 1771680021,
+      "review_helpful_count": 0,
+      "author_display_name": "wmack43",
+      "author_alias": "wmack43",
+      "developer_response": null
+    },
+    {
+      "id": "702123822983328",
+      "score": 1,
+      "review_title": "Oh dear",
+      "review_description": "Will not load, logo pops up and sound plays but then nothing ??\nDiscord link is invalid and no help on website.",
+      "date": 1751534884,
+      "review_helpful_count": 3,
+      "author_display_name": "T1mko",
+      "author_alias": "T1mko",
+      "developer_response": null
+    },
+    {
+      "id": "520214517843692",
+      "score": 3,
+      "review_title": "Amazing potential",
+      "review_description": "**Disclaimer for the devs : the app is great, I'll for sure change it to a 5 stars as soon as it's usable for left handed players** \n\n I see the amazing potential that this app has to offer, but as a left handed player, I'm experiencing lots of troubleshooting. \n\nCan't seem to create a blueprint that's right for a lefty, the club and the swing path are backwards, I have to step on the other side to set up my ball (as if I were a right handed player). \n\nAlso, can't move and adjust the path grids and can't place the movement detection tool to analyse my swing by itself in an empty project.\n\nI've watched all of the explanation vids, it really really just seems like it's the fact that I'm a lefty that messes up the mechanics of the app...",
+      "date": 1736281570,
+      "review_helpful_count": 4,
+      "author_display_name": "Erlich_Bachman",
+      "author_alias": "Erlich_Bachman",
+      "developer_response": {
+        "body": "Hey there!\n\nThank you for expressing the potential of Swing Genius -- really sorry to hear that you're having a difficult time due to being a lefty. If you haven't ventured into the settings yet (found in the bottom right of the tablet), we actually already do have a toggle that switches all clubs to left-handed, which also affects the Swing Plane.\n\nHowever, you are right about Spatial Blueprints not dynamically changing to adjust for left-handed users. This is something that we'll start looking into though! :)\n\nAlso, don't hesitate to jump into the Discord (swinggenius.com/community) and so that you can help improve the app and we can provide any assistance for the other issues you're experiencing!",
+        "date": 1737313380
+      }
+    },
+    {
+      "id": "583894604593304",
+      "score": 5,
+      "review_title": "So looking forward to it",
+      "review_description": "The trial version has completely blown me away—this is exactly what I’ve been looking for, after going from one golf coach to another. I’m really looking forward to the official release. Keep up the great work!",
+      "date": 1735603765,
+      "review_helpful_count": 5,
+      "author_display_name": "WWJ17",
+      "author_alias": "WWJ17",
+      "developer_response": {
+        "body": "Thank you so much for the kind words! We really appreciate it and can't wait for you to  grow with us as we improve the app!",
+        "date": 1737313425
+      }
+    },
+    {
+      "id": "577672432086236",
+      "score": 1,
+      "review_title": "Paul",
+      "review_description": "To hard to get started. So difficult to understand. Never got to hit a ball. 🤣🤞",
+      "date": 1737285358,
+      "review_helpful_count": 3,
+      "author_display_name": "george.812450",
+      "author_alias": "george.812450",
+      "developer_response": {
+        "body": "Hey there! Sorry to hear you had a difficult time with Swing Genius. This initial Early Access version of Swing Genius is intended to focus purely on improving your swing mechanics, and not actually hitting a virtual ball -- hence why that is not currently in the app.\n\nSince we are in early access, we're actively listening to feedback and working towards implementing features that introduce fun mechanics while improving your swing :)",
+        "date": 1737312984
+      }
+    },
+    {
+      "id": "451694114704415",
+      "score": 5,
+      "review_title": "wow!",
+      "review_description": "Discovered this by accident and so happy I did! The app is brilliant if you take the time to set it up. I can see me using this multiple times per week to help my swing",
+      "date": 1735579873,
+      "review_helpful_count": 2,
+      "author_display_name": "ChickenBagel",
+      "author_alias": "ChickenBagel",
+      "developer_response": {
+        "body": "We love happy accidents -- so glad to hear that the app is working out for you!\n\nFeel free to jump in the Discord (swinggenius.com/community) to provide feedback and get any assistance that you might need. We'd love to see you there!",
+        "date": 1737313559
+      }
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:30:20Z"
+}

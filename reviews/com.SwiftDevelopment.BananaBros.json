@@ -1,0 +1,42 @@
+{
+  "app_id": "9810368935734650",
+  "package_name": "com.SwiftDevelopment.BananaBros",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Banana Bros",
+  "rating_average": 3.6666666666667,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1073560559184865",
+      "score": 4,
+      "review_title": "Pretty good",
+      "review_description": "I think amazing",
+      "date": 1781450697,
+      "review_helpful_count": 0,
+      "author_display_name": "gemma_ives",
+      "author_alias": "gemma_ives",
+      "developer_response": null
+    },
+    {
+      "id": "931937260010934",
+      "score": 5,
+      "review_title": "BEST GAME ever",
+      "review_description": "although there's not really any players is it good game",
+      "date": 1771114188,
+      "review_helpful_count": 1,
+      "author_display_name": "zombie338",
+      "author_alias": "zombie338",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:30:10Z"
+}

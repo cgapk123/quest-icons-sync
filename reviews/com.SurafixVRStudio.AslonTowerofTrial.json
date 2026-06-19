@@ -1,0 +1,48 @@
+{
+  "app_id": "26011053921854234",
+  "package_name": "com.SurafixVRStudio.AslonTowerofTrial",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Aslon: Tower of Trial",
+  "rating_average": 1.5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1482816183388414",
+      "score": 1,
+      "review_title": "Not ready for release",
+      "review_description": "This game starts out ok, Its hard to hear the opening story information but the intro is decent. Then your plopped into a mostly empty world. 2 weapons wait for you (one your supposedly ready to use the other you need to gain strength to use) after a minute of walking through a really depressing looking forest you find some 4 legged spiders. Use the sword your ready for you die but use the sword your too weak to use and youll make it? Wtf lol. Then when you do die a resurrect button appears but doesn't work so you have quit the game to restart. There are seems in the graphics everywhere and a lot of pop in which is odd as there doesn't seem to be any reason for it on a Q3. Avoid for now unless it gets fixed and definitely DO NOT PAY FULL price for this. \n\nNow I gotta figure out how to do refunds lol",
+      "date": 1775954245,
+      "review_helpful_count": 3,
+      "author_display_name": "jakenut86",
+      "author_alias": "jakenut86",
+      "developer_response": {
+        "body": "Thank you for your feedback, I really appreciate you taking the time to share this.\n\nI don’t see this as negative at all — it’s actually very valuable information for me. For example, your point about the intro being too difficult is something I’ll definitely take a closer look at and adjust.\n\nYou’re absolutely right that the current version is still very early. I’m currently working on adding and refining content, and over the next few days the world will be expanded step by step to feel more alive and complete.\n\nSome of the current elements, including the creatures at the beginning, are part of this early setup and will be changed or removed as the game evolves.\n\nAlso, thanks for mentioning the respawn issue. Right now it’s tied to saving at a campfire, which isn’t clearly communicated — that’s on me. I’ll make sure to improve this so restarting works properly from the beginning as well.\n\nThanks again for your honest feedback — it really helps shape the game.\n\n- Surafix Game Studio",
+        "date": 1775989581
+      }
+    },
+    {
+      "id": "1652071309272427",
+      "score": 2,
+      "review_title": "Im interrested to see how this grows",
+      "review_description": "Its still to early in development for the price.  Can you add faster movement takes u forever to travel. Do you have a discord?",
+      "date": 1776819636,
+      "review_helpful_count": 1,
+      "author_display_name": "Stortz",
+      "author_alias": "Stortz",
+      "developer_response": {
+        "body": "Thanks for the feedback! Faster movement is definitely something I'm aware of and plan to improve — things like sprint mechanics, fast travel points, or teleport systems are on the list as development progresses. 🚶‍♂️⚡\nAnd yes, there's a Discord! Come join and follow the journey: https://discord.gg/NWd7M7gHd4",
+        "date": 1776894870
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:28:54Z"
+}
