@@ -1,0 +1,34 @@
+{
+  "app_id": "5694200257269991",
+  "package_name": "com.FavikiStudio.VrickeyDemo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Vrickey - Demo",
+  "rating_average": 4,
+  "rating_count": 2,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "208554305039872",
+      "score": 5,
+      "review_title": "Good game but a few wishes",
+      "review_description": "I enjoyed playing the levels in the demo!  And I will buy the full version.\n\nBut I still have a few wishes... First: Difficulty levels to choose from. Currently challenging, because if you make a small mistake you die immediately and have to start over - so maybe an easier level with e.g. 1-2 checkpoints? Second: An alternative controls similar to Beat Blaster (don't move left and right, just tilt your head) to move the spaceship. Third: Leaderboards with time you needed for the level.",
+      "date": 1675436515,
+      "review_helpful_count": 0,
+      "author_display_name": "Lord.Wyldbit",
+      "author_alias": "Lord.Wyldbit",
+      "developer_response": {
+        "body": "Glad you like the game and thank you for the suggestions!\n\nFor now we are focusing on the game core, trying to make it well defined and stable. We certainly plan to extend the game and experiment more with different game modes, difficulties, alternative controls, accessibility options etc. Re. the leaderboards: they would probably be more useful in different modes (infinite arcade, multiplayer..) as in its current form the time is pretty much predefined.",
+        "date": 1675676165
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:49:40Z"
+}

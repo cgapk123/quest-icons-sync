@@ -1,0 +1,963 @@
+{
+  "app_id": "5379303768747494",
+  "package_name": "com.FieldOfVision.DungeonMaker",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Dungeon Maker",
+  "rating_average": 4.3342618384401,
+  "rating_count": 359,
+  "review_count": 117,
+  "reviews": [
+    {
+      "id": "1024633257410656",
+      "score": 5,
+      "review_title": "Skeleton Rose",
+      "review_description": "I don’t like the rose in the skeletons hand. How can I modify it to a weapon?",
+      "date": 1780371913,
+      "review_helpful_count": 1,
+      "author_display_name": "Croonerrich",
+      "author_alias": "Croonerrich",
+      "developer_response": null
+    },
+    {
+      "id": "880725731433439",
+      "score": 4,
+      "review_title": "Bug Report (With explanation)",
+      "review_description": "Don't get mad at me. I know bugs are hard to fix. But let me give you a proper explanation.\n\nI play the game, i make a level, i set up a point that when you touch with your head it starts the game, i set it up, i set up the traps, i look at my tablet and press the button \"play dungeon\". Then i look at text saying \"start dungeon & start\" i press it, and i see red text saying on the bottom of the tablet \"dungeon saved (random number)\" So it does not let me play nor start my dungeon.",
+      "date": 1767105641,
+      "review_helpful_count": 13,
+      "author_display_name": "Garryphod",
+      "author_alias": "Garryphod",
+      "developer_response": {
+        "body": "Thanks for the report. I finally managed to track the source of the issue and the hotfix is out. Update away My Lord!",
+        "date": 1768880752
+      }
+    },
+    {
+      "id": "1022107204312360",
+      "score": 4,
+      "review_title": "Cool game!",
+      "review_description": "This game is cool... But i don't lika having to manually move, it is confusing to where im stepping.\n-Oak",
+      "date": 1771029309,
+      "review_helpful_count": 2,
+      "author_display_name": "Oakman333doiii",
+      "author_alias": "Oakman333doiii",
+      "developer_response": null
+    },
+    {
+      "id": "1137978966064486",
+      "score": 4,
+      "review_title": "This game is fun",
+      "review_description": "This game seems fun but it is still a little confusing to me",
+      "date": 1780004063,
+      "review_helpful_count": 0,
+      "author_display_name": "Bprzombie1",
+      "author_alias": "Bprzombie1",
+      "developer_response": null
+    },
+    {
+      "id": "925865300133808",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "Very fun",
+      "date": 1771265812,
+      "review_helpful_count": 1,
+      "author_display_name": "Omnicent_Cheese_HEAD",
+      "author_alias": "Omnicent_Cheese_HEAD",
+      "developer_response": null
+    },
+    {
+      "id": "1046594791860089",
+      "score": 4,
+      "review_title": "Sire?",
+      "review_description": "When will the fire beam come out?!?",
+      "date": 1771818676,
+      "review_helpful_count": 1,
+      "author_display_name": "gold_ramzing",
+      "author_alias": "gold_ramzing",
+      "developer_response": null
+    },
+    {
+      "id": "981268511746722",
+      "score": 3,
+      "review_title": "Pretty good",
+      "review_description": "Ok this isn't just complaining its a good app but jump and tripping over lava is difficult. Yes i know it should work but being shorter then normal in here didn't help it never thought i was jump in you should add a heights system and a jump button it would just make it a lot easyer to move around.",
+      "date": 1774397221,
+      "review_helpful_count": 0,
+      "author_display_name": "ERR_NULL",
+      "author_alias": "ERR_NULL",
+      "developer_response": null
+    },
+    {
+      "id": "1043687985504405",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Best game",
+      "date": 1778969287,
+      "review_helpful_count": 0,
+      "author_display_name": "BubblyCheetah3428",
+      "author_alias": "BubblyCheetah3428",
+      "developer_response": null
+    },
+    {
+      "id": "972630935942441",
+      "score": 5,
+      "review_title": "Yes",
+      "review_description": "Wish i had more space add a stationary mode",
+      "date": 1769893001,
+      "review_helpful_count": 0,
+      "author_display_name": "kc.moon.10",
+      "author_alias": "kc.moon.10",
+      "developer_response": null
+    },
+    {
+      "id": "894026100469138",
+      "score": 5,
+      "review_title": "COOL AND FUN",
+      "review_description": "This game is sooo fun, with my new 3s it’s sooo frikin fun! Best mr game I played ever!",
+      "date": 1769091576,
+      "review_helpful_count": 0,
+      "author_display_name": "Croinal_l",
+      "author_alias": "Croinal_l",
+      "developer_response": {
+        "body": "Well met! Thy praise is most welcome, may thy adventures be ever glorious!",
+        "date": 1769150035
+      }
+    },
+    {
+      "id": "859022899958678",
+      "score": 1,
+      "review_title": "Doesn't work",
+      "review_description": "I pressed start and the game just showed a popup saying dungeon x and doesn't allow me to start 1 star",
+      "date": 1764011049,
+      "review_helpful_count": 3,
+      "author_display_name": "Pdltg",
+      "author_alias": "Pdltg",
+      "developer_response": {
+        "body": "I've worked around the clock fixing this issue with some very helpful players, I appreciate the report. Update the game My Lord and dive in some dungeons!",
+        "date": 1768880982
+      }
+    },
+    {
+      "id": "1320930156527019",
+      "score": 4,
+      "review_title": "A Big Problem",
+      "review_description": "A big Problem is that you can overwrite your Save on accident. Happened to me",
+      "date": 1774728827,
+      "review_helpful_count": 0,
+      "author_display_name": "Mucki3001",
+      "author_alias": "Mucki3001",
+      "developer_response": null
+    },
+    {
+      "id": "1235528311971292",
+      "score": 5,
+      "review_title": "Goofd",
+      "review_description": "Good game",
+      "date": 1766246432,
+      "review_helpful_count": 1,
+      "author_display_name": "kastanis",
+      "author_alias": "kastanis",
+      "developer_response": null
+    },
+    {
+      "id": "1060804490446471",
+      "score": 5,
+      "review_title": "Cool",
+      "review_description": "Cool",
+      "date": 1774026095,
+      "review_helpful_count": 0,
+      "author_display_name": "Galaxy_Dark_Silence",
+      "author_alias": "Galaxy_Dark_Silence",
+      "developer_response": null
+    },
+    {
+      "id": "835033263021621",
+      "score": 3,
+      "review_title": "Almost there",
+      "review_description": "It's frustrating seeing a game with so much potential been wasted. Creating dungeons is really fun. Playing them sucks. Here's how to fix the gameplay easily.\n1. Add a insta death option to add tension. People literally walk through traps loosing little health.\n2. Add an option where clipping through walls kills instantly. Seems walking through walls to avoid damage is possible for now.\n3. Make enemies more aggressive.\nThree minor changes that will add so much more fun to the gameplay.\n\nThere are many others like multiplayer, downloading dungeons etc but I guess those require much more resources. The 3 I mentioned are just tweaks but they'll really elevate the experience.",
+      "date": 1756322924,
+      "review_helpful_count": 8,
+      "author_display_name": "tumok2025",
+      "author_alias": "tumok2025",
+      "developer_response": {
+        "body": "Thanks for the feedback! I could definitely add an insta-death game mode, so you can decide from the start how you want to play. I've added it to my to-do list!",
+        "date": 1758857530
+      }
+    },
+    {
+      "id": "797174960107021",
+      "score": 5,
+      "review_title": "fun",
+      "review_description": "This game is fun",
+      "date": 1773592906,
+      "review_helpful_count": 0,
+      "author_display_name": "PREFABGUY",
+      "author_alias": "PREFABGUY",
+      "developer_response": null
+    },
+    {
+      "id": "918640138003068",
+      "score": 3,
+      "review_title": "Cannot play glitch, and y-axis idea.",
+      "review_description": "Like many people who already reported this bug I cannot start. And as the person before me who voted 3 stars (garyphod) because the game is great and because of this one bug it loses 2 stars, I agree. I do not know if my room is perhaps too small for the game to accept or if I put something in an \"impossible place\" but since the devs already know of this glitch I will stop complaining about it. But instead of that I will say; I wish I could lift the key for the door on top of objects. By that I mean I want to be able to change its y-axis. If I could, I could hide it. -0 stars which is because it is such a small detail that it is hardly a problem just an idea. Like maybe if the player presses down on the stick and moves up it will go up the y-axis? Also question: how do I change the room layout? Like I used to have a shelf but I moved it and now I have a random Grey box there in-game but the thing it's warning me abt isn't there. Also, I like that the dev of this game actually respond to critiques with open minds and try to actually improve the game rather than never reading the reviews!",
+      "date": 1767078755,
+      "review_helpful_count": 0,
+      "author_display_name": "777hope",
+      "author_alias": "777hope",
+      "developer_response": {
+        "body": "Thanks for the detailed report! I've now patch the start issue, it was related to saving. I've noted down your idea for the key, it's a good one for sure! As for your room layout, that's done in in your Meta Quest settings. You'll need to create a new dungeon for your new layout though, as previous dungeons will be mapped to the previous rooms ID.",
+        "date": 1768880941
+      }
+    },
+    {
+      "id": "902269899626704",
+      "score": 2,
+      "review_title": "Good game but...",
+      "review_description": "I wish we didn't have to walk in real life.",
+      "date": 1762024816,
+      "review_helpful_count": 1,
+      "author_display_name": "manjoiqVr",
+      "author_alias": "manjoiqVr",
+      "developer_response": null
+    },
+    {
+      "id": "1683784285667203",
+      "score": 1,
+      "review_title": "Erase old rooms?",
+      "review_description": "Seems like a super interesting VR game, I am 100% involved in it but how do I erase and create new rooms? I’ve tried deleting the game, I’ve tried erasing the guardian save data from the quest 2 but still nothing. Is there any way to erase the “meta rooms” and if so, how??",
+      "date": 1756249783,
+      "review_helpful_count": 2,
+      "author_display_name": "HystericalYaye",
+      "author_alias": "HystericalYaye",
+      "developer_response": {
+        "body": "If you are talking about your meta rooms and not the dungeons, that's done on in your Meta Settings and not in-game. If you open Meta Quest menu it's under \"Settings > Environment Setup > Space Setup > Manage Your Spaces\". Select \"Clear\" and it'll clear all your rooms. You can also see underneath a list of all the rooms so you can delete them individually.",
+        "date": 1758857755
+      }
+    },
+    {
+      "id": "1036752399513756",
+      "score": 5,
+      "review_title": "U",
+      "review_description": "Good",
+      "date": 1771031828,
+      "review_helpful_count": 0,
+      "author_display_name": "portegesD.ace",
+      "author_alias": "portegesD.ace",
+      "developer_response": null
+    },
+    {
+      "id": "895288503678955",
+      "score": 4,
+      "review_title": "W game",
+      "review_description": "Really coll game recommend",
+      "date": 1770486749,
+      "review_helpful_count": 0,
+      "author_display_name": "seal_513",
+      "author_alias": "seal_513",
+      "developer_response": null
+    },
+    {
+      "id": "1596155175093210",
+      "score": 5,
+      "review_title": "Fire",
+      "review_description": "Fun in big spaces",
+      "date": 1760908564,
+      "review_helpful_count": 0,
+      "author_display_name": "Xander0184",
+      "author_alias": "Xander0184",
+      "developer_response": null
+    },
+    {
+      "id": "908319989040401",
+      "score": 5,
+      "review_title": "SIRE",
+      "review_description": "Sire, I love you sire.",
+      "date": 1769493016,
+      "review_helpful_count": 0,
+      "author_display_name": "Yipee465",
+      "author_alias": "Yipee465",
+      "developer_response": {
+        "body": "Thy devotion is noted and honored.",
+        "date": 1769571409
+      }
+    },
+    {
+      "id": "831253500072096",
+      "score": 3,
+      "review_title": "OK game",
+      "review_description": "Not bad not good",
+      "date": 1760714233,
+      "review_helpful_count": 0,
+      "author_display_name": "theyfwZORO",
+      "author_alias": "theyfwZORO",
+      "developer_response": null
+    },
+    {
+      "id": "885387541317028",
+      "score": 5,
+      "review_title": "Yff",
+      "review_description": "Ung",
+      "date": 1760741390,
+      "review_helpful_count": 0,
+      "author_display_name": "lollypop322",
+      "author_alias": "lollypop322",
+      "developer_response": null
+    },
+    {
+      "id": "849209101605254",
+      "score": 5,
+      "review_title": "Cool",
+      "review_description": "Cool",
+      "date": 1760301049,
+      "review_helpful_count": 0,
+      "author_display_name": "NOXOUS",
+      "author_alias": "NOXOUS",
+      "developer_response": null
+    },
+    {
+      "id": "845371985321683",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Fun game",
+      "date": 1760229462,
+      "review_helpful_count": 0,
+      "author_display_name": "bluedemon0131",
+      "author_alias": "bluedemon0131",
+      "developer_response": null
+    },
+    {
+      "id": "665401506660852",
+      "score": 1,
+      "review_title": "Not good",
+      "review_description": "When you make a dungeon for your room and try to play it doesn’t work and the play orb thing isn’t in the menu or spawn when you play so a room I spent the whole battery of my vr making a room for it to not work and have to play a generated one and it wasn’t even good don’t recommend unless you want a free passthrough game",
+      "date": 1750876970,
+      "review_helpful_count": 4,
+      "author_display_name": "game_chanrl",
+      "author_alias": "game_chanrl",
+      "developer_response": {
+        "body": "Hey sorry you had issues with playing throguh your dungeon! If you can send me more details on what happened that would be helpful for me to debug and issue a patch. You can chat with me directly on discord: https://discord.gg/5tdm8BQG6s or email support@fieldof.vision",
+        "date": 1758857916
+      }
+    },
+    {
+      "id": "1449745906272702",
+      "score": 4,
+      "review_title": "Please add CO-OP COLLOCATION!",
+      "review_description": "Like playing this, but having to have people switch headsets sucks. Please add collocation multiplayer",
+      "date": 1752938586,
+      "review_helpful_count": 8,
+      "author_display_name": "DJ.Veasy",
+      "author_alias": "DJ.Veasy",
+      "developer_response": null
+    },
+    {
+      "id": "777806242092199",
+      "score": 4,
+      "review_title": "Pretty good",
+      "review_description": "Love the game but would love to make a button to change the place of the dungeon so i can reset it  because i  turned it on in my room as a mistake and i have tiny dungeons",
+      "date": 1762975991,
+      "review_helpful_count": 0,
+      "author_display_name": "Tomas339",
+      "author_alias": "Tomas339",
+      "developer_response": null
+    },
+    {
+      "id": "1528074591639230",
+      "score": 5,
+      "review_title": "Best game",
+      "review_description": "This looks so fun and cool",
+      "date": 1764937069,
+      "review_helpful_count": 0,
+      "author_display_name": "svogler",
+      "author_alias": "svogler",
+      "developer_response": null
+    },
+    {
+      "id": "682844414922133",
+      "score": 3,
+      "review_title": "Good game",
+      "review_description": "It’s kind of complicated when you first start",
+      "date": 1755631817,
+      "review_helpful_count": 1,
+      "author_display_name": "KillerAwesome72",
+      "author_alias": "KillerAwesome72",
+      "developer_response": null
+    },
+    {
+      "id": "699917133205630",
+      "score": 5,
+      "review_title": "Great use of MR",
+      "review_description": "A fantastic way to introduce VR to friends, by building your own Souls-like traps.",
+      "date": 1750649820,
+      "review_helpful_count": 4,
+      "author_display_name": "samazing69",
+      "author_alias": "samazing69",
+      "developer_response": null
+    },
+    {
+      "id": "796366346899997",
+      "score": 5,
+      "review_title": "good game",
+      "review_description": "i like making dungeons so i like the game",
+      "date": 1760117129,
+      "review_helpful_count": 0,
+      "author_display_name": "ablaze31",
+      "author_alias": "ablaze31",
+      "developer_response": null
+    },
+    {
+      "id": "813261285192853",
+      "score": 4,
+      "review_title": "Honestly one of my favorite vr games",
+      "review_description": "The dungeon building is addictive, and playing it feels rewarding, it has some elements of comedy, and is overall pretty relaxed. My only complaints are that the pit traps aren't instant kills, and the lava hit boxes are kinda buggy. Also, you have to be able to kill the skeleton enemies, blah blah blah. And if skeleton combat gets added, maybe one of the goals could be achieved from killing one or multiple? Overall, amazing idea, and great execution from what seems to be only a few devs, would recommend.",
+      "date": 1755389734,
+      "review_helpful_count": 0,
+      "author_display_name": "Fishlord17",
+      "author_alias": "Fishlord17",
+      "developer_response": null
+    },
+    {
+      "id": "783838831192319",
+      "score": 5,
+      "review_title": "Pretty good",
+      "review_description": "Very fun",
+      "date": 1760591822,
+      "review_helpful_count": 0,
+      "author_display_name": "parz1val42065",
+      "author_alias": "parz1val42065",
+      "developer_response": null
+    },
+    {
+      "id": "851126541409676",
+      "score": 1,
+      "review_title": "???",
+      "review_description": "i hadn't played this game yet",
+      "date": 1759956003,
+      "review_helpful_count": 0,
+      "author_display_name": "WillybWill",
+      "author_alias": "WillybWill",
+      "developer_response": null
+    },
+    {
+      "id": "1029529432360044",
+      "score": 4,
+      "review_title": "Great game but",
+      "review_description": "This game is great but when I step on stones it doesnt \ncounts me steping on lava and it keeps damaging me and I have support poles and they don't scan them so it's kinda un playable for me but great game",
+      "date": 1742848999,
+      "review_helpful_count": 7,
+      "author_display_name": "jimmy3642",
+      "author_alias": "jimmy3642",
+      "developer_response": null
+    },
+    {
+      "id": "675797398950292",
+      "score": 1,
+      "review_title": "",
+      "review_description": "I can’t even get past the first level",
+      "date": 1749205330,
+      "review_helpful_count": 0,
+      "author_display_name": "Atcooler",
+      "author_alias": "Atcooler",
+      "developer_response": {
+        "body": "Hey sorry you had issues with playing throguh your dungeon! If you can send me more details on what happened that would be helpful for me to debug and issue a patch. You can chat with me directly on discord: https://discord.gg/5tdm8BQG6s or email support@fieldof.vision",
+        "date": 1758857932
+      }
+    },
+    {
+      "id": "700314433159068",
+      "score": 5,
+      "review_title": "game looks cool",
+      "review_description": "tried that one generating feature and it looks kinda great",
+      "date": 1748373200,
+      "review_helpful_count": 1,
+      "author_display_name": "amoor.198",
+      "author_alias": "amoor.198",
+      "developer_response": null
+    },
+    {
+      "id": "578270968713852",
+      "score": 5,
+      "review_title": "great app",
+      "review_description": "A very unique use of mixed reality",
+      "date": 1747342327,
+      "review_helpful_count": 2,
+      "author_display_name": "ryBen",
+      "author_alias": "ryBen",
+      "developer_response": null
+    },
+    {
+      "id": "791599913809716",
+      "score": 5,
+      "review_title": "Dungeon",
+      "review_description": "Totem wwwwwwww",
+      "date": 1757183711,
+      "review_helpful_count": 0,
+      "author_display_name": "bageloverlord",
+      "author_alias": "bageloverlord",
+      "developer_response": null
+    },
+    {
+      "id": "828203693701369",
+      "score": 5,
+      "review_title": "Hhhfvg",
+      "review_description": "Hjfgbg\nvhhhh",
+      "date": 1756242075,
+      "review_helpful_count": 0,
+      "author_display_name": "AbsoluteNickel",
+      "author_alias": "AbsoluteNickel",
+      "developer_response": null
+    },
+    {
+      "id": "661411239921080",
+      "score": 5,
+      "review_title": "Very nice",
+      "review_description": "I like the aspect and charm of this game!",
+      "date": 1743807088,
+      "review_helpful_count": 1,
+      "author_display_name": "D3LT4",
+      "author_alias": "D3LT4",
+      "developer_response": null
+    },
+    {
+      "id": "9025867610782150",
+      "score": 5,
+      "review_title": "Dungeon maker",
+      "review_description": "Is it any way you can make a tutorial or how to link the doors together I put all my doors down in my game but when I go to complete the level it just make a poof sound in my level 3 when I get the treasure at works but my level two and level one floor when I get the treasure it doesn't do nothing like I did something wrong is there any way you can make a tutorial video on how to put the doors correctly so they can work properly cuz I'm confused and it was working at first two of my door then I'll put the other door down for the third level it just make a poof noise like I did something wrong it's not it's not selling congratulating me for achieving the goal please help me if you can add more skin different skins more enemies is just instead of just skeletons how about some ghouls spiders you can put on a wall crawling around spider webs a fog or something monster noises like a older or something you got to fight or maybe a ice monster and a ice level a mommy walking around the tune or where you can add where you can use weapons to fight off the skeletons trap that shoots arrow across if they hit you poison darts how about fire like you got to jump over fire or something like that or fire coming out of the wall or you can add levers as well more enemies like in a tune like mommy spiders bugs spider webs snakes crawling around and if you get hit that snake cross by you and if it get too close they'll bite you when you send traps you can put a snake right there and you reach to try to grab it a snake will try to bite your hand that would be cool to have that in the tune how about lochless monsters walking around the Arctic level",
+      "date": 1736554990,
+      "review_helpful_count": 5,
+      "author_display_name": "midnight27123",
+      "author_alias": "midnight27123",
+      "developer_response": {
+        "body": "Thanks a lot for the support since day one! Indeed the game has come a long way. Join the official Discord so I can get you sorted with your pack, and share your thoughts and ideas for future updates: http://www.dungeon-maker.com/",
+        "date": 1736316217
+      }
+    },
+    {
+      "id": "650308197520431",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Very good idea and perfect execution👍\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDefinitely didn’t write this for the free reward👀",
+      "date": 1740022828,
+      "review_helpful_count": 3,
+      "author_display_name": "Sir_No",
+      "author_alias": "Sir_No",
+      "developer_response": {
+        "body": "Hey thanks for dropping a review! Join the official discord for more info and updates: www.DUNGEON-MAKER.com",
+        "date": 1740360937
+      }
+    },
+    {
+      "id": "1107392064269121",
+      "score": 5,
+      "review_title": "Spectacular graphics and immersion",
+      "review_description": "I bought this game two years ago when I got my quest 2.\nI recently bought a quest 3 and have revisited dungeon maker. It has improved in so many ways I felt the desire to recommend it.\nIt's fun and funny to watch others hop around in the living room. \nAlthough it's a thriller it is not scary. \nIt would make a great gift this Christmas and the extra add-ons too ...",
+      "date": 1734227504,
+      "review_helpful_count": 17,
+      "author_display_name": "Kangol_504",
+      "author_alias": "Kangol_504",
+      "developer_response": null
+    },
+    {
+      "id": "588988600748630",
+      "score": 5,
+      "review_title": "Very immersive and fun",
+      "review_description": "One of the best mixed reality vr games, super immersive and fun to traverse in real life through a dungeon. It is also fun for family, kids, and parents since there is little motion sickness and simple gameplay. I am so glad that this game is free, because this is one of the best and most replayable free vr games yet.",
+      "date": 1734822264,
+      "review_helpful_count": 5,
+      "author_display_name": "alexside5",
+      "author_alias": "alexside5",
+      "developer_response": null
+    },
+    {
+      "id": "486455971222951",
+      "score": 5,
+      "review_title": "Best mixed reality game I've ever played",
+      "review_description": "Dungeon Maker appeals to me because it adds a level of believability to the game by having real world boundaries that correspond to the virtual boundaries created by the game.  That alone adds a level of realism to the experience that even my favorite VR games are missing. By having the ability to repaint every stationary object in the room you get a VR experience like none other. Notwithstanding you can place virtual walls and traps anywhere you like, it's just instead of being limited to a small area in my house I can utilize the entire house!\n     I'll admit building my own dungeons can get tedious at times.  But the end result is totally worth the effort.  The portal feature allows you to remap the same room with different traps, treasures, and enemies. Great game if you have the time to invest in the set up.",
+      "date": 1734188991,
+      "review_helpful_count": 7,
+      "author_display_name": "ThunderMax67",
+      "author_alias": "ThunderMax67",
+      "developer_response": null
+    },
+    {
+      "id": "1653417771911499",
+      "score": 5,
+      "review_title": "Finally - An App I'd Pay For!",
+      "review_description": "I remember when Duke Nukem introduced the map making option and I'd spend hours making custom maps to roam around in 3D. Now you can do that in VR! It's tedious and time consuming, but oh so glorious to see other people tackle the traps you lay out. \n\nThe potential of this game is immense. My kids love going through the mazes I build and I love making them. Yes it has bugs\nbut it is App Labs after all and the concept is so cool. It's so great that the developer is constantly working to improve the game as well. \n\n\nWe need more apps like this that are totally based on the physical space you're in rather than needing to teleport. \nI'd gladly pay for this app when it's all fixed up.",
+      "date": 1736364060,
+      "review_helpful_count": 2,
+      "author_display_name": "Cl_lPC4K3",
+      "author_alias": "Cl_lPC4K3",
+      "developer_response": {
+        "body": "Hi. Thanks for the review! It seemsthat you may be on an old version of the app. The thumbstick selections menu was removed a very long time ago ^^. Please make sure to update to the latest version, I've been pushing updates twice a week for a long time now, so there's been a lot of progress. I'd love to get more feedback and ideas from you, join the official Discord and we can chat directly: http://www.dungeon-maker.com/",
+        "date": 1736215677
+      }
+    },
+    {
+      "id": "523456947514425",
+      "score": 5,
+      "review_title": "A Mandatory VR Experience",
+      "review_description": "With so many games out there, it’s tough to stand out, but Dungeon Maker totally nails it. It lets you create adventures that are as wild as your imagination and the space available your room. The game gives you tools to build actual dungeons with traps like swinging axes and spinning blades, plus enemies like skeletons that you can set to patrol wherever you want.\n\nWith all the other tools they give you, you can turn your room into something straight out of a '90s style dungeon crawler except with VR, it’s like you’re actually in the game.  It might sound cheesy on paper, but trust me, walking across a wooden plank over a spiked floor, with lava pools on both sides and traps everywhere, is a seriously awesome brain meltdown. And they’re always adding cool new features and tools, so it just keeps getting better.\n\nIn addition, the developer has a Discord server where you can ask questions or get help, and they respond with direct feedback.",
+      "date": 1733937082,
+      "review_helpful_count": 4,
+      "author_display_name": "FoamyMouthDog",
+      "author_alias": "FoamyMouthDog",
+      "developer_response": null
+    },
+    {
+      "id": "1198943998262944",
+      "score": 4,
+      "review_title": "Pretty cool",
+      "review_description": "awesome idea, great for showing people what mixed reality can do.",
+      "date": 1740512371,
+      "review_helpful_count": 0,
+      "author_display_name": "iBuildem",
+      "author_alias": "iBuildem",
+      "developer_response": null
+    },
+    {
+      "id": "586909297834776",
+      "score": 4,
+      "review_title": "Frensh pleaaaaase",
+      "review_description": "One of the best free game if you have space\nNeed a fonction for edit outside of the room, sit down",
+      "date": 1739639952,
+      "review_helpful_count": 0,
+      "author_display_name": "kelian_sozo",
+      "author_alias": "kelian_sozo",
+      "developer_response": null
+    },
+    {
+      "id": "487998134404272",
+      "score": 5,
+      "review_title": "Good idea, okay execution",
+      "review_description": "I enjoyed making different dungeons but the skeletons keep spawning in different random places and are often seen walking through the floor or ceiling. And unless you can pick up a sword to attack them I see very little point in them at all. Would be better to give us more things like the swinging axes and so forth, maybe an intermittent flamethrower or fall away flooring or something.\n\nAnyway, it's a good concept and not a bad first game but I'd like to see more updates flood into this game or if need be a second game. \n\n*Edit* Thanks for the response! Glad to hear a proper dev who cares about the game and community",
+      "date": 1735978133,
+      "review_helpful_count": 1,
+      "author_display_name": "KingSativa420",
+      "author_alias": "KingSativa420",
+      "developer_response": {
+        "body": "Thanks for playing and for the review. This game is still very much a work in progress, I've been pushing updates twice a week for a while (check out the store blog posts for info), and have so much more to come! The skeletons need to be placed correctly in your space: for the patrol use the two black spheres on the floor to set the patrol points. For the guard, use the black sphere on the floor to expand the guard area. I've been designing more traps, v0.39 added the Slicer and in the next updates you'll see more coming in. Thanks again for the support! Do join the Discord to share your thoughts with me directly, half the content that goes into the game comes from the community feedback. https://discord.gg/4aBkQYd6nR",
+        "date": 1735953216
+      }
+    },
+    {
+      "id": "512909421810095",
+      "score": 5,
+      "review_title": "Great game I recommend",
+      "review_description": "It helped me understand a lot of boundaries because I didn't really use them much and a great game overall, if I had to say something to add would maybe be a sword so you can fight the skeletons or there is one but I just don't know!",
+      "date": 1736527951,
+      "review_helpful_count": 1,
+      "author_display_name": "grybasgt",
+      "author_alias": "grybasgt",
+      "developer_response": null
+    },
+    {
+      "id": "636255535560479",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "This game is awesome 👌",
+      "date": 1739934908,
+      "review_helpful_count": 1,
+      "author_display_name": "LDavis2",
+      "author_alias": "LDavis2",
+      "developer_response": null
+    },
+    {
+      "id": "571300156062875",
+      "score": 5,
+      "review_title": "Best game ever",
+      "review_description": "Get it immediately ￼Great game ever ￼",
+      "date": 1737935964,
+      "review_helpful_count": 2,
+      "author_display_name": "james245311",
+      "author_alias": "james245311",
+      "developer_response": null
+    },
+    {
+      "id": "481146075091410",
+      "score": 5,
+      "review_title": "Very cool",
+      "review_description": "Fantastical fantasy fantasticallness",
+      "date": 1737801431,
+      "review_helpful_count": 2,
+      "author_display_name": "Tardyfarty",
+      "author_alias": "Tardyfarty",
+      "developer_response": null
+    },
+    {
+      "id": "593570773322953",
+      "score": 5,
+      "review_title": "Having a blast / Je m'amuse comme un fou",
+      "review_description": "I've discovered Dungeon Maker when I bought my Quest 2 in April 2022.  Since then, I've been using my home to showcase the Quest 2, using Dungeon Maker.  People are impressed by what we can do to turn our own home into something so amazing.  I've deleted my levels (we moved since) and am working on a new multi level dungeon in my basement.  Give this free game a try - you'll love it!\n-----------------------\nJ'ai découvert Dungeon Maker lorsque j'ai acheté ma Quest 2 en avril 2022.  Depuis, j'utilise ma maison pour présenter le Quest 2, en utilisant Dungeon Maker.  Les gens sont impressionnés par ce que nous pouvons faire pour transformer notre propre maison en quelque chose d'aussi incroyable.  J'ai supprimé mes niveaux (nous avons déménagé depuis) et je travaille sur un nouveau donjon à plusieurs niveaux dans mon sous-sol.  Essayez ce jeu gratuit - vous l'adorerez !",
+      "date": 1733930752,
+      "review_helpful_count": 3,
+      "author_display_name": "Oli_K",
+      "author_alias": "Oli_K",
+      "developer_response": null
+    },
+    {
+      "id": "534194443099583",
+      "score": 5,
+      "review_title": "Wonderful W.I.P., worth trying",
+      "review_description": "The developer is continuing to improve the experience. This is one that is already fun, but also shows lots of promise. Currently getting regular updates, with new features being added; this project is coming along nicely. At the current price of nothing it's hard to pass up if your looking for a novel mixed reality experience.",
+      "date": 1732573506,
+      "review_helpful_count": 2,
+      "author_display_name": "MrPauI",
+      "author_alias": "MrPauI",
+      "developer_response": null
+    },
+    {
+      "id": "520069544325364",
+      "score": 5,
+      "review_title": "GREAT GAME",
+      "review_description": "is is very underrated game, and for how much this game has already. It is great, but the only thing that could be improved is more stuff, (and meta fixing room drift but that not u guys) and if there is a place for suggestions I would like to know because I am bursting with ideas",
+      "date": 1734039655,
+      "review_helpful_count": 1,
+      "author_display_name": "Jaycen141",
+      "author_alias": "Jaycen141",
+      "developer_response": null
+    },
+    {
+      "id": "489452284203354",
+      "score": 5,
+      "review_title": "W",
+      "review_description": "Game",
+      "date": 1739237988,
+      "review_helpful_count": 1,
+      "author_display_name": "ajollychris",
+      "author_alias": "ajollychris",
+      "developer_response": null
+    },
+    {
+      "id": "590976410105533",
+      "score": 5,
+      "review_title": "Very good game!",
+      "review_description": "It is very fun to transform your house into a dungeon! There are no other games of this kind. It is still in early access, but I appreciate it is regularly updated with new content, bug fixes and functions.\nI highly recommend this game!!!",
+      "date": 1732530808,
+      "review_helpful_count": 3,
+      "author_display_name": "Zorro_X",
+      "author_alias": "Zorro_X",
+      "developer_response": null
+    },
+    {
+      "id": "532118599977301",
+      "score": 5,
+      "review_title": "Lots of potential but has serious bugs",
+      "review_description": "Give it a try it’s a lots of fun! the Dev is active and very responsive! My comment below are no longer relevant.\n\nJoin below to give developers direct feedback they have opened a special channel : Games at the end of list\n\nhttps://discord.gg/hjupHpa\n\n\nI spent hours having fun building only to lose it all. It’s really well done but I had a (save/portal bug?)bug when using the portal that the next level would be completely empty (no walls floor either)when trying to save after using portal it’s says saving to previous level I cam from not the current one… even tho in the actual save it you load level is there  with everything. So i cleared the app catch and reinstall but still same issue with portal. I hope this could be fixed…? ?! Would be. 5 stars otherwise.\n\nDev team can you fix? are you still active with this project??  \n\nIs there anyone still active on this project?j",
+      "date": 1732782966,
+      "review_helpful_count": 3,
+      "author_display_name": "Kiwione",
+      "author_alias": "Kiwione",
+      "developer_response": null
+    },
+    {
+      "id": "482120684988156",
+      "score": 5,
+      "review_title": "Cool game.",
+      "review_description": "I really love the concept of this game and thankyou for all the hard work that went into making it.. It's so cool that you're able to turn your house into a mini dungeon.. Can't wait for the next update to see what other incredible stuff pops up in the dungeon journey..",
+      "date": 1732636073,
+      "review_helpful_count": 2,
+      "author_display_name": "mikep390.2024",
+      "author_alias": "mikep390.2024",
+      "developer_response": null
+    },
+    {
+      "id": "513829891819728",
+      "score": 5,
+      "review_title": "ooga",
+      "review_description": "Booga",
+      "date": 1736800970,
+      "review_helpful_count": 0,
+      "author_display_name": "TherealCawffey",
+      "author_alias": "TherealCawffey",
+      "developer_response": null
+    },
+    {
+      "id": "1087930283130214",
+      "score": 5,
+      "review_title": "poop",
+      "review_description": "Poop poop poop poop",
+      "date": 1736292973,
+      "review_helpful_count": 1,
+      "author_display_name": "Antblub",
+      "author_alias": "Antblub",
+      "developer_response": null
+    },
+    {
+      "id": "576809021736279",
+      "score": 5,
+      "review_title": "Amazing Game",
+      "review_description": "It's good fun to make dungeons to traverse within your own home!",
+      "date": 1734314462,
+      "review_helpful_count": 2,
+      "author_display_name": "Cl0n3Tr0op3r",
+      "author_alias": "Cl0n3Tr0op3r",
+      "developer_response": null
+    },
+    {
+      "id": "565128753341147",
+      "score": 4,
+      "review_title": "pretty fun game",
+      "review_description": "Update on my review: i found the bug, the problem was there was too many objects, still a pretty annoying bug, i'm just gonna update my review",
+      "date": 1733922532,
+      "review_helpful_count": 0,
+      "author_display_name": "KleinerGmod",
+      "author_alias": "KleinerGmod",
+      "developer_response": null
+    },
+    {
+      "id": "536480199541411",
+      "score": 5,
+      "review_title": "Really fun game",
+      "review_description": "This game is pretty fun",
+      "date": 1733952999,
+      "review_helpful_count": 2,
+      "author_display_name": "TakeThe_L",
+      "author_alias": "TakeThe_L",
+      "developer_response": {
+        "body": "Thanks! Join the Discord to keep up with the updates: www.DUNGEON-MAKER.com",
+        "date": 1733990571
+      }
+    },
+    {
+      "id": "554154650653017",
+      "score": 5,
+      "review_title": "Free for now and I trust this dev!",
+      "review_description": "From the makers of crazy kung fu, this dev is awesome. Responsive and friendly!",
+      "date": 1731635605,
+      "review_helpful_count": 3,
+      "author_display_name": "SaltyDadda",
+      "author_alias": "SaltyDadda",
+      "developer_response": null
+    },
+    {
+      "id": "498514566671663",
+      "score": 5,
+      "review_title": "New Favorite VR Game",
+      "review_description": "This game is the best VR game I have played yet, I recommend it to all although it needs a lot more updates. Hopefully the dev will give this project the attention it deserves!",
+      "date": 1730780952,
+      "review_helpful_count": 2,
+      "author_display_name": "Zoredo",
+      "author_alias": "Zoredo",
+      "developer_response": {
+        "body": "Much appreciated, Sire! There's a big-ish update incoming very soon!",
+        "date": 1730945221
+      }
+    },
+    {
+      "id": "419204547951934",
+      "score": 1,
+      "review_title": "Doesn't work",
+      "review_description": "I can't get anything to open or start. When I click on \"new dungeon\" nothing happens, and then I can't use the joystick to open anything else.",
+      "date": 1729969516,
+      "review_helpful_count": 5,
+      "author_display_name": "MolotovFun",
+      "author_alias": "MolotovFun",
+      "developer_response": {
+        "body": "Thanks for reporting! I just updated the game to the latest Meta SDK for it to work with the latest OS and devices. I have some more exciting updates coming soon as well, enjoy !\n\nIf you could give it a try and update the review? Thanks.",
+        "date": 1732412756
+      }
+    },
+    {
+      "id": "595467199642264",
+      "score": 5,
+      "review_title": "Pretty interesting game",
+      "review_description": "I like the concept of this",
+      "date": 1732453329,
+      "review_helpful_count": 3,
+      "author_display_name": "Joefixit8759",
+      "author_alias": "Joefixit8759",
+      "developer_response": null
+    },
+    {
+      "id": "434247796218627",
+      "score": 1,
+      "review_title": "Terrible",
+      "review_description": "How how do you return this game?",
+      "date": 1716708553,
+      "review_helpful_count": 7,
+      "author_display_name": "Niallmoore",
+      "author_alias": "Niallmoore",
+      "developer_response": {
+        "body": "Sorry you didn't have a good experience at that time! There's been some really big updates and improvements since your review, if you could check it out again? Your dungeon awaits !",
+        "date": 1732751318
+      }
+    },
+    {
+      "id": "908433740672743",
+      "score": 3,
+      "review_title": "good but I can not set up spatial ancor",
+      "review_description": "idk how to get the spatial ancor to work. It does not say on the page so I have no idea. other than that the game seems cool but idk how to make it work",
+      "date": 1705033516,
+      "review_helpful_count": 1,
+      "author_display_name": "Wybjorn132",
+      "author_alias": "Wybjorn132",
+      "developer_response": {
+        "body": "Hey Dungeoneer! Feel free to jump back into dungeon maker, a lot has changed for the better and you'll find setting up the dungeon much easier now! The anchors are automatic now :) Also have a new discord to share feedback and progress on the game:  https://discord.com/invite/RPwgg8q8EG",
+        "date": 1732751528
+      }
+    },
+    {
+      "id": "160007160493892",
+      "score": 1,
+      "review_title": "Sire! I would like to inform you!",
+      "review_description": "That this app does not work on controls and setting down blocks. This is not Minecraft.",
+      "date": 1695678172,
+      "review_helpful_count": 3,
+      "author_display_name": "alec.693727",
+      "author_alias": "alec.693727",
+      "developer_response": {
+        "body": "Hey! Thanks for the feedback, the new version is live now. I've implemented the latest SDK, all the latest cool Quest features that use room setup, full color for Quest3 and so much more! Enjoy!\n\n22/06/2024\nSire! Might be time to update this rating? :)\n\n15/11/2024\nA big update again, now maybe time to upate the rating?",
+        "date": 1732751758
+      }
+    },
+    {
+      "id": "585067173343098",
+      "score": 2,
+      "review_title": "Unable to keep layout.",
+      "review_description": "I spent half a day without putting down headset creating 3 stage dungeon across three rooms for my daughter and saved it, but when i put down my headset for a minute and then put it back on and loaded dungeon, all three was turned cca 90 degrees off, therefore became unplayable, it happened 2 times.\nYou can imagine my feelings after this disapointment.\nWould give one star, but i had fun creating those dungeons. I have no idea why is this happening.",
+      "date": 1661441110,
+      "review_helpful_count": 4,
+      "author_display_name": "MarkOmio",
+      "author_alias": "MarkOmio",
+      "developer_response": {
+        "body": "Hey! Sorry this happened to you, but fear not Sire! If you saved them, they are still there. You just need to re-orient them the correct way. You can actually do that manually, in the menu there is a tool called MOVE ALL. Use that to move/rotate your dungeon back to it's original position.  :)",
+        "date": 1732235422
+      }
+    },
+    {
+      "id": "5127076697420103",
+      "score": 5,
+      "review_title": "Unique Experience With Lots Of Potential",
+      "review_description": "Had a great time making my own dungeon and playing it with some help from my son. A lot of potential here, looking forward to seeing where this one goes!\n\nFind my gameplay video here: https://youtu.be/lndnWHh_cqw\n\nOr just search 'VR Reviews' in YouTube and my channel should come up there.",
+      "date": 1652675960,
+      "review_helpful_count": 3,
+      "author_display_name": "VRReviews",
+      "author_alias": "VRReviews",
+      "developer_response": null
+    },
+    {
+      "id": "535412884980938",
+      "score": 4,
+      "review_title": "Very cool.",
+      "review_description": "This is a great idea and has lots of potential. I am not sure how to move individual items once they have been placed in the scene. Placing them feels pretty random, so it would be better if you could either move drop them where you want after selecting them from the menu, or edit their position after you have placed them. \nOtherwise, a great start and I will keep my eye on this title.",
+      "date": 1652623773,
+      "review_helpful_count": 2,
+      "author_display_name": "The_Richelieu",
+      "author_alias": "The_Richelieu",
+      "developer_response": {
+        "body": "Sire! Glad you are enjoying it! As for item placement, you can absolutely move everything around as you like. The main gameplay instruction are on the instructions pillar directly in front of you the first time you start, if you deleted the pillar you can bring it back with the HOW TO button in the menu. \n\nI'll also explain here how it works: once you've selected an item in the menu it'll appear in front of you in your space. Then point the controller laser at that item, grip the hand trigger on your controller to grab it and then move it wherever you like by moving your controller. To rotate the item simply use the joystick while you have it grabbed.\n\nGood luck adventurer!",
+        "date": 1652951351
+      }
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T09:51:57Z"
+}

@@ -1,0 +1,137 @@
+{
+  "app_id": "4257333741041191",
+  "package_name": "com.FlightAugmentedRealities.SpacePortalVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Space Portal",
+  "rating_average": 3.5833333333333,
+  "rating_count": 12,
+  "review_count": 12,
+  "reviews": [
+    {
+      "id": "941190857805696",
+      "score": 1,
+      "review_title": "Initial loading update",
+      "review_description": "Initial update stops at 27% and wont go any further this dos,nt allow me to use the app ???",
+      "date": 1719444447,
+      "review_helpful_count": 3,
+      "author_display_name": "Magic2103",
+      "author_alias": "Magic2103",
+      "developer_response": null
+    },
+    {
+      "id": "5573027552819935",
+      "score": 1,
+      "review_title": "Awful",
+      "review_description": "Dire graphics, loud music, annoying update bars. Feedback? Everything is wrong.",
+      "date": 1672776675,
+      "review_helpful_count": 1,
+      "author_display_name": "TheDirector50",
+      "author_alias": "TheDirector50",
+      "developer_response": {
+        "body": "Hello. Satellite image resolution over all of the Americas and the western Atlantic was reduced by a factor of about 2.5 for the last week. The issue is resolved now. Could you please check if this resolves your concern? Image resolution over Europe and Africa will improve later this year with the recent launch of Meteosat 12. Other than that, the imagery resolution is at about the limit of what we can process on our server, then download and load in the headset memory every ~20 minutes. We process 2Gb of satellite data every hour. Please consider the non-real-time imagery option (\"Bare Earth\") if your load speeds are slow. We are lowering the sound volume in a January 15 setting change. Please feel free to email us at info@spaceportalvr.com to share any other feedback.",
+        "date": 1673331961
+      }
+    },
+    {
+      "id": "322156880282334",
+      "score": 5,
+      "review_title": "Stylistic_Sparrow",
+      "review_description": "Beautiful experience that transcends the contours of space and time.",
+      "date": 1693104379,
+      "review_helpful_count": 0,
+      "author_display_name": "quantumxfactor",
+      "author_alias": "quantumxfactor",
+      "developer_response": null
+    },
+    {
+      "id": "217360704056609",
+      "score": 4,
+      "review_title": "Good but...",
+      "review_description": "I like it but the planets are a bit too large. I would like to also be able to see stars and galaxies name. And I also like the ability to click on planets/stars/galaxies to see pictures of them and information related to them.",
+      "date": 1671190340,
+      "review_helpful_count": 1,
+      "author_display_name": "yes4me",
+      "author_alias": "yes4me",
+      "developer_response": {
+        "body": "Thanks so much for the feedback! Please note you can currently click on the Moon and Mars for info about various features/landings sites, and Mercury and Venus will be added by Jan. 15. Also, we agree the planets are a little large and will be made smaller by the same date.",
+        "date": 1672029107
+      }
+    },
+    {
+      "id": "208018184945294",
+      "score": 5,
+      "review_title": "pretty rad",
+      "review_description": "kinda what I've been hoping would exist for a while. Takes a minute to load, and the interface is a work in progress, but it's well worth it for this unique experience. You can actually orbit around Mars in what I think is REAL TIME. Really makes you investigate the planet from a whole different perspective. You see pictures like this, but feeling the hover and orbit in space over freaking Mars changes your relationship to planets and outer space, it's a holy experience. Reminds me of the first time I looked through a telescope and saw the moon as a kid - it no longer was a picture, an abstraction, it became real. It's there. Wish it was even higher res. What a trip.",
+      "date": 1670791198,
+      "review_helpful_count": 1,
+      "author_display_name": "warnmoses",
+      "author_alias": "warnmoses",
+      "developer_response": {
+        "body": "Thanks so much for the positive feedback! We just wanted to add that the first time you open the app, the initial system load may take 5-7 minutes for slower internet connections. The next time you open the app, it will load much faster. :)",
+        "date": 1672029506
+      }
+    },
+    {
+      "id": "203379722148443",
+      "score": 5,
+      "review_title": "Spellbinding",
+      "review_description": "I found it hard to quit from this game and I spent a couple of relaxing and educational hours within it the first time I tried it. While I was sitting in a chair at home, it felt like I was floating/flying in space and looking down at the Earth or the Moon or Mars from various real orbiting vehicles and what i kept having to remind myself of is that I’m looking at REAL TIME images that are uploaded to the game every hour or so. And Carl the Toucan is a hoot! i love how he flyies along with me. oh, and while the earth is passing below you, you can see country outines and you can select cities which will then pop up an interesting fact or two about them. i love it!",
+      "date": 1670453145,
+      "review_helpful_count": 10,
+      "author_display_name": "RoyalRoy204",
+      "author_alias": "RoyalRoy204",
+      "developer_response": null
+    },
+    {
+      "id": "157981053680025",
+      "score": 5,
+      "review_title": "What an incredible view!",
+      "review_description": "My friends and I have been really enjoying this!\nKeep up the great work! Looking forward to seeing where else you go with it.",
+      "date": 1674681522,
+      "review_helpful_count": 0,
+      "author_display_name": "donmoncho",
+      "author_alias": "donmoncho",
+      "developer_response": {
+        "body": "Thanks so much for the positive feedback! We just updated the atmosphere model and have some resolution improvements coming in June.",
+        "date": 1684959836
+      }
+    },
+    {
+      "id": "141295062180195",
+      "score": 5,
+      "review_title": "Wow!",
+      "review_description": "I was searching for a VR app that lets you view the solar system, but instead came across this. I had no idea that there was real-time imagery from several points above the Earth, Mars, and the moon. This was extremely well thought out. Very interesting to see that over Mars and the moon at night you can't see anything except the distant stars (unless you use the cool 'flashlight'), but over the Earth you can clearly see where the cities are due to light polution.\nThe one thing I'd love to see added would be a way to estimate when you could view a certain location (although the images on their website help with that).\nFlat-earthers may become very confused and disoriented, though.",
+      "date": 1677863047,
+      "review_helpful_count": 2,
+      "author_display_name": "rscott0",
+      "author_alias": "rscott0",
+      "developer_response": {
+        "body": "Thanks so much for the positive feedback!",
+        "date": 1684959801
+      }
+    },
+    {
+      "id": "102836089382348",
+      "score": 5,
+      "review_title": "Great concept",
+      "review_description": "Probably as close as I'll get to becoming an astronaut! The images are a little low resolution beneath you but looks great further out. Reminds me of Microsoft flight simulator when I was a teen.",
+      "date": 1674018728,
+      "review_helpful_count": 0,
+      "author_display_name": "Singer7500",
+      "author_alias": "Singer7500",
+      "developer_response": {
+        "body": "Thanks so much for the positive feedback!",
+        "date": 1684959861
+      }
+    }
+  ],
+  "total": 9,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:56:21Z"
+}

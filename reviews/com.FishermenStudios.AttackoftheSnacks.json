@@ -1,0 +1,42 @@
+{
+  "app_id": "4575399629220868",
+  "package_name": "com.FishermenStudios.AttackoftheSnacks",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Attack of the Snacks",
+  "rating_average": 4.2,
+  "rating_count": 10,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "551697304314625",
+      "score": 5,
+      "review_title": "Best game ever",
+      "review_description": "I love this game because of the mechanics so really good game and how the game works like the animation’s they are so good",
+      "date": 1732893244,
+      "review_helpful_count": 4,
+      "author_display_name": "jaxonbatman",
+      "author_alias": "jaxonbatman",
+      "developer_response": null
+    },
+    {
+      "id": "582244223627948",
+      "score": 5,
+      "review_title": "Love this Game!",
+      "review_description": "The game is well-designed and guides you through it very naturally. It's fun to play on the weekends!",
+      "date": 1662219050,
+      "review_helpful_count": 4,
+      "author_display_name": "JT_x",
+      "author_alias": "JT_x",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:53:45Z"
+}

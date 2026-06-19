@@ -1,0 +1,48 @@
+{
+  "app_id": "6962116033836064",
+  "package_name": "com.FiConsultancy.Discover",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Nexus Arcade in Mixed Reality",
+  "rating_average": 3.2857142857143,
+  "rating_count": 7,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "778899338436507",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Love it f2p",
+      "date": 1758183413,
+      "review_helpful_count": 0,
+      "author_display_name": "Fez786",
+      "author_alias": "Fez786",
+      "developer_response": {
+        "body": "Thank you we are still building and welcome your feedback",
+        "date": 1761237611
+      }
+    },
+    {
+      "id": "821604001028698",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Cant wait for full release",
+      "date": 1756838276,
+      "review_helpful_count": 0,
+      "author_display_name": "NexusArcade",
+      "author_alias": "NexusArcade",
+      "developer_response": {
+        "body": "Keep Building",
+        "date": 1761237640
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:51:23Z"
+}

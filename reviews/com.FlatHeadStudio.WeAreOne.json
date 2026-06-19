@@ -1,0 +1,707 @@
+{
+  "app_id": "4052099231581371",
+  "package_name": "com.FlatHeadStudio.WeAreOne",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "We Are One",
+  "rating_average": 4.7322404371585,
+  "rating_count": 366,
+  "review_count": 153,
+  "reviews": [
+    {
+      "id": "1332453015620758",
+      "score": 5,
+      "review_title": "Endless looping fun",
+      "review_description": "By now I became rather reliable in guessing from reading reviews whether I will like a game or not. So here I was pretty sure that I would somehow enjoy it, bought it and put it onto the backlog some time ago. Now was the time, and wow, I was wrong. I am not only liking it, I was completely blown away. I am loving everything about this game. The concept (I always enjoyed mind bending time loops), but also the unique art style, the level design, sound and the atmospheric background music, the narrative voice-over. Even the (slightly shallow) story line helps creating the mood. The levels are designed in a way that you can develop a steady rhythm of progress. Not too hard to get stuck for too long, not too easy to make the solution obvious. Seeing yourself in action and how each step finally aligns into a (mostly) smooth flow of cooperation is extremely satisfying. Thanks for designing the game the way it is.",
+      "date": 1781204019,
+      "review_helpful_count": 2,
+      "author_display_name": "Nanowaldo",
+      "author_alias": "Nanowaldo",
+      "developer_response": null
+    },
+    {
+      "id": "940523378976234",
+      "score": 5,
+      "review_title": "Challenging but fun",
+      "review_description": "I really like the idea of this game where you have to work with past versions of yourself in order to complete the challenging but fun levels this is a concept that I don’t think any other vr game has so if you like a challenge that’s fun to mess around in I would definitely try this game.",
+      "date": 1774477010,
+      "review_helpful_count": 12,
+      "author_display_name": "Joshmar246",
+      "author_alias": "Joshmar246",
+      "developer_response": null
+    },
+    {
+      "id": "1174262985768981",
+      "score": 5,
+      "review_title": "Best game I've played",
+      "review_description": "I really loved it I even followed their tiktok account and I loved making my own level but it was hard so I made a few adjustments to make it easier to beat it's called \"can you beat it\"",
+      "date": 1780479284,
+      "review_helpful_count": 0,
+      "author_display_name": "DancingSquirrel6173",
+      "author_alias": "DancingSquirrel6173",
+      "developer_response": null
+    },
+    {
+      "id": "980505508486492",
+      "score": 1,
+      "review_title": "COMPLETELY UNPLAYABLE 🤷‍♂️",
+      "review_description": "For some reason, judging by the other reviews here, I seem to be the only one for whom this game is completely unplayable. Nearly every time I move my head, the image glitches so badly that I start feeling extremely nauseous within seconds. The picture literally looks like it’s being torn apart.\n\nI tried adjusting the graphics settings to see if it would improve things, but there really isn’t much to tweak… and nothing I tried made it any better.\n\nWhy this seems to happen only to me remains a mystery — especially considering that the Quest 3 should have the exact same specs for everyone.",
+      "date": 1773641214,
+      "review_helpful_count": 4,
+      "author_display_name": "Lord_Spike",
+      "author_alias": "Lord_Spike",
+      "developer_response": {
+        "body": "sorry for the issues, Meta is always running a variety of experiments that sometimes break things for users even if they are on the same headset, nothing we as developers can do about it.",
+        "date": 1774022996
+      }
+    },
+    {
+      "id": "1004688129394503",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "This is amazing and love the strategy but I did bash thum and Bruised my nail and split my thum open but other than that it was amazing!!!",
+      "date": 1772950351,
+      "review_helpful_count": 6,
+      "author_display_name": "fishfishfishfishfishfishfish",
+      "author_alias": "fishfishfishfishfishfishfish",
+      "developer_response": null
+    },
+    {
+      "id": "4009195955969452",
+      "score": 3,
+      "review_title": "Not working on Quest 3",
+      "review_description": "The logs say the game requires 1.4GB of VRAM. Quest 3 has about 1.9GB available and the system is using about 850MB of that.  The game just doesn't have enough VRAM to work with.",
+      "date": 1773520103,
+      "review_helpful_count": 1,
+      "author_display_name": "foxyjoshboy",
+      "author_alias": "foxyjoshboy",
+      "developer_response": null
+    },
+    {
+      "id": "927036223616977",
+      "score": 1,
+      "review_title": "DO NOT BUY IT!!!!",
+      "review_description": "Just purchased and immediately can’t play it!! Keeps turning n not able to control it definitely suggest PASSING ON THIS",
+      "date": 1773955992,
+      "review_helpful_count": 0,
+      "author_display_name": "AleeciahAadan",
+      "author_alias": "AleeciahAadan",
+      "developer_response": {
+        "body": "hi, there is an option to turn off turning in the settings if you have stick-drift",
+        "date": 1774601556
+      }
+    },
+    {
+      "id": "1000024169863941",
+      "score": 5,
+      "review_title": "I couldn’t refund",
+      "review_description": "I tried to refund because i finished this game in 4 days so pls update",
+      "date": 1772891070,
+      "review_helpful_count": 2,
+      "author_display_name": "Titothepro",
+      "author_alias": "Titothepro",
+      "developer_response": null
+    },
+    {
+      "id": "25525445070424427",
+      "score": 5,
+      "review_title": "The Last Clockwinder with guns/enemies!",
+      "review_description": "I thought the mechanics in The Last Clockwinder were excellent so I gave this one ago.\n\nVisually it's crystal clear when paired with Quest Games Optimizer and the gameplay is very satisfying!\n\nI particularly like the way you can see your avatars acting out your moves after completing a challenge. \n\nIt's different enough from The Last Clockwinder to make it worthy of play and a huge number of levels means you will get hours of enjoyment.",
+      "date": 1763728543,
+      "review_helpful_count": 14,
+      "author_display_name": "evilStimpVR",
+      "author_alias": "evilStimpVR",
+      "developer_response": null
+    },
+    {
+      "id": "989977860232139",
+      "score": 5,
+      "review_title": "Super fun but hard",
+      "review_description": "Personally this is my favorite game its hard but not to hard that I give up.😏😏😏😏😏\n\nBut certain levels are glitchy so 😩😩￼",
+      "date": 1779072258,
+      "review_helpful_count": 0,
+      "author_display_name": "DunkReaPer",
+      "author_alias": "DunkReaPer",
+      "developer_response": null
+    },
+    {
+      "id": "896255013379338",
+      "score": 5,
+      "review_title": "I like that game",
+      "review_description": "I bought it for 99 cents, but it is really a nice game",
+      "date": 1771275497,
+      "review_helpful_count": 0,
+      "author_display_name": "Draugs",
+      "author_alias": "Draugs",
+      "developer_response": null
+    },
+    {
+      "id": "862570736316780",
+      "score": 5,
+      "review_title": "Best game ever made",
+      "review_description": "I love this game I wish there were more levels until I saw you can make your own level and the community has made sick levels! So work buying!",
+      "date": 1766553593,
+      "review_helpful_count": 3,
+      "author_display_name": "PriceFam6",
+      "author_alias": "PriceFam6",
+      "developer_response": null
+    },
+    {
+      "id": "1014595318395741",
+      "score": 5,
+      "review_title": "Great vr demo game",
+      "review_description": "My favorite vr game so far",
+      "date": 1769903294,
+      "review_helpful_count": 0,
+      "author_display_name": "jay_flows",
+      "author_alias": "jay_flows",
+      "developer_response": null
+    },
+    {
+      "id": "905248545370792",
+      "score": 5,
+      "review_title": "Best puzzle vr game",
+      "review_description": "This game is really fun it’s like that cube puzzle game that everyone posts TikTok’s about trying to complete levels and I want to do that with this game",
+      "date": 1767575361,
+      "review_helpful_count": 0,
+      "author_display_name": "Mr.Pocket",
+      "author_alias": "Mr.Pocket",
+      "developer_response": null
+    },
+    {
+      "id": "955716150957337",
+      "score": 5,
+      "review_title": "We were one",
+      "review_description": "And it was peak",
+      "date": 1767243011,
+      "review_helpful_count": 1,
+      "author_display_name": "OrganismShaboinger",
+      "author_alias": "OrganismShaboinger",
+      "developer_response": null
+    },
+    {
+      "id": "1588045402179402",
+      "score": 4,
+      "review_title": "Pretty good",
+      "review_description": "It has many really good levels, but it becomes repetitive before long and glitches can be frustrating enough to quit playing.",
+      "date": 1761410717,
+      "review_helpful_count": 2,
+      "author_display_name": "Phlatulence",
+      "author_alias": "Phlatulence",
+      "developer_response": null
+    },
+    {
+      "id": "769168456277138",
+      "score": 5,
+      "review_title": "Great concept",
+      "review_description": "I really love the concept of this game. The way you have to predict your own actions to complete a level is just really unique and I’ve never seen any other game do this. I also really love the art style of the game it makes it standout.",
+      "date": 1755313061,
+      "review_helpful_count": 15,
+      "author_display_name": "mexicanpicklerat567",
+      "author_alias": "mexicanpicklerat567",
+      "developer_response": null
+    },
+    {
+      "id": "664529923403610",
+      "score": 5,
+      "review_title": "Awesome, fun, and challenging game.",
+      "review_description": "Great game! I love it. Feels great.",
+      "date": 1762647302,
+      "review_helpful_count": 1,
+      "author_display_name": "gavdagoat2023",
+      "author_alias": "gavdagoat2023",
+      "developer_response": null
+    },
+    {
+      "id": "809588198166687",
+      "score": 5,
+      "review_title": "Very novel, well executed",
+      "review_description": "Very unique gameplay, that straddles deftness of movement, solid gunplay, and puzzle solving, all in a memorable stylized environment. Nothing else like it, a treat.",
+      "date": 1757196509,
+      "review_helpful_count": 5,
+      "author_display_name": "SpiffyMikeb",
+      "author_alias": "SpiffyMikeb",
+      "developer_response": null
+    },
+    {
+      "id": "2513194959037168",
+      "score": 5,
+      "review_title": "Excellent & Fun Game",
+      "review_description": "This is a very creative puzzle/action game. Original concept with great graphics. Lots of levels to go through which means several hours of fun. A must have!",
+      "date": 1758342629,
+      "review_helpful_count": 2,
+      "author_display_name": "Avatar3D",
+      "author_alias": "Avatar3D",
+      "developer_response": null
+    },
+    {
+      "id": "754806977723905",
+      "score": 5,
+      "review_title": "Must have. Mind blowing.",
+      "review_description": "This game is a game changer. Must play. Great job. Simple and complicated. Fun. Great great great. Five stars.",
+      "date": 1758490502,
+      "review_helpful_count": 1,
+      "author_display_name": "Uadrol",
+      "author_alias": "Uadrol",
+      "developer_response": null
+    },
+    {
+      "id": "775257882327974",
+      "score": 5,
+      "review_title": "PEAK",
+      "review_description": "Genuenly the BEST game on oculus quest \nI recommend 10000000000%",
+      "date": 1753996630,
+      "review_helpful_count": 4,
+      "author_display_name": "bv_123",
+      "author_alias": "bv_123",
+      "developer_response": null
+    },
+    {
+      "id": "641824711856971",
+      "score": 5,
+      "review_title": "One of the best games in the Meta store",
+      "review_description": "As far as I’m concerned, this is one of the best VR games, both for its gameplay and its stunning graphics. Kudos to the development studio!",
+      "date": 1738249100,
+      "review_helpful_count": 19,
+      "author_display_name": "CristianFaraoni",
+      "author_alias": "CristianFaraoni",
+      "developer_response": null
+    },
+    {
+      "id": "581048935094535",
+      "score": 5,
+      "review_title": "One of the few games I really enjoy",
+      "review_description": "I don’t know why, but I found I don’t really enjoy many VR games. But I enjoy useful simulations, music-related stuff, and sports/fitness apps.\n\nSo it was a surprise that I actually enjoy this game/puzzle. What struck me was the art; it’s quite unique. And so is the gameplay. Idk what it is, but it keeps me coming back. This game is a reminder that I should continue trying games out, cuz this one is definitely really interesting. I would have easily missed this one if it didn’t have a trial.",
+      "date": 1736153728,
+      "review_helpful_count": 7,
+      "author_display_name": "Okamikizuna",
+      "author_alias": "Okamikizuna",
+      "developer_response": null
+    },
+    {
+      "id": "370130532839257",
+      "score": 2,
+      "review_title": "Nice idea, bad game",
+      "review_description": "The idea of interacting with yourself is nice, but the implementation is very bad. Three things annoy me the most: \"blind\" interactions, where you just do something that does not work and hope a later version of yourself will put the items in the place where you need them. And that you cannot re-record a previous record without deleting later ones. And that you cannot delete older records in order to change the order. You need to restart the whole level for that.\nAnd the game lacks an \"immediate re-record\"-function.\n\"The last clockwinder\" did a much better job creating a game around the basic concept of interacting with yourself.",
+      "date": 1725907573,
+      "review_helpful_count": 5,
+      "author_display_name": "AndiHoffi",
+      "author_alias": "AndiHoffi",
+      "developer_response": null
+    },
+    {
+      "id": "410561645480966",
+      "score": 4,
+      "review_title": "Better than expected",
+      "review_description": "Better than expected once you get into it.",
+      "date": 1727470743,
+      "review_helpful_count": 5,
+      "author_display_name": "iceman00724",
+      "author_alias": "iceman00724",
+      "developer_response": null
+    },
+    {
+      "id": "503282255814482",
+      "score": 1,
+      "review_title": "Not working on my meta quest 2",
+      "review_description": "Try to play this game multiple times however it was not working. It would freeze on a black screen",
+      "date": 1726652507,
+      "review_helpful_count": 4,
+      "author_display_name": "SouthWestKing",
+      "author_alias": "SouthWestKing",
+      "developer_response": {
+        "body": "Hi sorry for the troubles, there's a bug in the Quest system where some games won't install correctly. Try uninstalling, restarting the headset and installing again.",
+        "date": 1726737698
+      }
+    },
+    {
+      "id": "431068706313689",
+      "score": 3,
+      "review_title": "",
+      "review_description": "I bought demo and then I bought the game and it still said it was the demo cannot play the game",
+      "date": 1715048733,
+      "review_helpful_count": 0,
+      "author_display_name": "thatoneguy444567",
+      "author_alias": "thatoneguy444567",
+      "developer_response": {
+        "body": "hey, sorry for the troubles. \n\nThe demo and the game are two separate apps, maybe there is a bug with the Quest software, have you tried restarting your headset to see if it shows up in your library then?",
+        "date": 1715164122
+      }
+    },
+    {
+      "id": "1767310493737046",
+      "score": 5,
+      "review_title": "Absolutely Addictive",
+      "review_description": "Incredible experience from start to finish. The thrill of chasing a faster and faster time on the leaderboards is unmatched by any other VR game I've played.\n\nMy only wish is for a lefty mode that swaps the starting positions of the guns and bullets since most of them were placed to be more accessible to right handed players. It's honestly not even a big deal bit I'm addicted to shaving off as many milliseconds as I can and having to fumble those around makes a difference.",
+      "date": 1702597142,
+      "review_helpful_count": 22,
+      "author_display_name": "Randex",
+      "author_alias": "Randex",
+      "developer_response": null
+    },
+    {
+      "id": "347808574725160",
+      "score": 4,
+      "review_title": "Issue and idea (Read this to know more)",
+      "review_description": "Updated: So recently i've been playing in editor, and it would be nice if you were to fix this issue, because whenever is set a background to clearing up or factory map, and when i save and try to play the level, the map doesn't change and remains the same, the forest map. And i think you guys don't often uptade the game. Also it would be nice if we would get unlimited time on recording the clones atleast. This is what sandbox truly is.",
+      "date": 1746725212,
+      "review_helpful_count": 7,
+      "author_display_name": "Garryphod",
+      "author_alias": "Garryphod",
+      "developer_response": null
+    },
+    {
+      "id": "1073843713816524",
+      "score": 5,
+      "review_title": "Bad teammates!?",
+      "review_description": "Ever wonder if you're a pro or the guy dragging down your team? Well play this game and find out!\n\nTired of sucky teammates? Don't suck! Need to pass the ammo faster? Do it yourself! I can't believe how much I enjoy this game. This is my moss.",
+      "date": 1701793098,
+      "review_helpful_count": 10,
+      "author_display_name": "PainTitan",
+      "author_alias": "PainTitan",
+      "developer_response": null
+    },
+    {
+      "id": "7108207155908892",
+      "score": 5,
+      "review_title": "Absolutely superb",
+      "review_description": "If you’ve played and enjoyed the last clockwinder and need something to scratch that similr itch do not sleep on this fantastic game ,thoroughly enjoyable couldn’t put it down until complete, sequel please and thank you 🤤",
+      "date": 1702739413,
+      "review_helpful_count": 3,
+      "author_display_name": "zeusage",
+      "author_alias": "zeusage",
+      "developer_response": null
+    },
+    {
+      "id": "1022833888868011",
+      "score": 5,
+      "review_title": "Loved every minute",
+      "review_description": "Ok so other me should be handing me the gun right now, so... pew pew pew! And now I send the gun to other other me... but I'll wave first so he knows it's coming... ok 1, 2, 3, go!  Oh no but the bullets are over there, so other other other me has to send them first... hmmmmm....",
+      "date": 1697695434,
+      "review_helpful_count": 11,
+      "author_display_name": "mecartistronico",
+      "author_alias": "mecartistronico",
+      "developer_response": null
+    },
+    {
+      "id": "348905074331921",
+      "score": 3,
+      "review_title": "It’s ookay",
+      "review_description": "Uh good game but my brain is too simple to comprehend these puzzles, and the clones are the dumbest people ever whoever controlling them has a mental disease I bet",
+      "date": 1698516054,
+      "review_helpful_count": 8,
+      "author_display_name": "WhoaNelly1979",
+      "author_alias": "WhoaNelly1979",
+      "developer_response": null
+    },
+    {
+      "id": "2209884569213944",
+      "score": 4,
+      "review_title": "Simple, but solid.",
+      "review_description": "The game is beautiful and challenging. Took away 1 star due to frustration on the last level where it broke multiple times, didnt count the clear despite all enemies being beaten. Also there were some really interesting concepts introduced in the midgame that didnt get expanded on too much toward the end. If you're a fan over superhot you'll find a lot to like here.",
+      "date": 1697130736,
+      "review_helpful_count": 2,
+      "author_display_name": "callenshaw",
+      "author_alias": "callenshaw",
+      "developer_response": {
+        "body": "Hey, thanks for your review! Sorry for your bad experience with the last levels, we are looking into this! And yeah you're right, the possibilities of the clone concept are kind of endless, so we've been working hard on additional updates since launch and we just added a level creator! You can now create your own levels, go wild with cloning puzzles and play the levels of other players:)",
+        "date": 1700049771
+      }
+    },
+    {
+      "id": "6284467348331724",
+      "score": 5,
+      "review_title": "This game is Slay",
+      "review_description": "I bought this game and thought oh it’s just going to be no fun and I’m going to beat it in a day but it’s a fun puzzle/shooting Game that’s is very interactive and even though some levels are difficult you can look at the hint if you need help\nSlayyyyy gameeee",
+      "date": 1698189538,
+      "review_helpful_count": 2,
+      "author_display_name": "neilrpatel",
+      "author_alias": "neilrpatel",
+      "developer_response": null
+    },
+    {
+      "id": "6820973214621221",
+      "score": 5,
+      "review_title": "Absolutely beautiful game",
+      "review_description": "The art is amazing, and the game mechanics are simple yet incredibly engaging.  Congrats to the creators on such a fantastic game!",
+      "date": 1693874048,
+      "review_helpful_count": 5,
+      "author_display_name": "GeekOffGrid",
+      "author_alias": "GeekOffGrid",
+      "developer_response": null
+    },
+    {
+      "id": "3439796343003918",
+      "score": 5,
+      "review_title": "Feels like a Quest 3 title!",
+      "review_description": "The first thing I thought about when seeing this game for the 1st time was this feels like  a Quest 3 title.\nI love the concept of this title and it's been designed perfectly.\nI also like VR titles that make you think outside the box.\n\nSearch YouTube for 'We Are One by Paradise Decay' for my gameplay and 1st Impressions.",
+      "date": 1685646541,
+      "review_helpful_count": 26,
+      "author_display_name": "ParadiseDecay",
+      "author_alias": "ParadiseDecay",
+      "developer_response": null
+    },
+    {
+      "id": "304978142063286",
+      "score": 2,
+      "review_title": "To short",
+      "review_description": "This is in top 3 best games but like it has 57 levels😬😬😬. the begenig is a waste of about 11 levels. just saying 10$ is a good price because of how short it is",
+      "date": 1690400188,
+      "review_helpful_count": 5,
+      "author_display_name": "buckethat1234",
+      "author_alias": "buckethat1234",
+      "developer_response": {
+        "body": "thank you for your review! \nWe just added additional bonus levels and a level creator where you can create your own levels and play the ones created by others!",
+        "date": 1699959072
+      }
+    },
+    {
+      "id": "3535360840118902",
+      "score": 4,
+      "review_title": "A Fantastic Clonelike Puzzle Shooter",
+      "review_description": "I have fallen in love with We Are One and while it may be lacking in narrative, it makes up for in cleverness and fun. While shooting guns is a key mechanic of the game, this is ultimately a puzzle game first and I think you should know that before diving in as it can get very hard. It might be the \"smallest\" clone-like I have played up to this point, but in no way does that take away from the fun I had here as it offers up new mechanics I have never had to contend with in a VR puzzler. If you are looking to play a unique title that bends your brain while manipulating time and your own actions, I highly recommend this for the asking price as it's not quite like any VR puzzler I have played up to this point.\n\nVIDEO REVIEW - https://www.youtube.com/watch?v=BglXEoRxoCI\n\nWRITTEN REVIEW - https://www.thevrgrid.com/we-are-one/\n\nWRITTEN REVIEW -",
+      "date": 1685659314,
+      "review_helpful_count": 8,
+      "author_display_name": "The_VR_Grid",
+      "author_alias": "The_VR_Grid",
+      "developer_response": null
+    },
+    {
+      "id": "6790493117629120",
+      "score": 5,
+      "review_title": "The Last Space Pirate Clockwinder!",
+      "review_description": "I absolutely adore We Are One - it combines some surprisingly great VR gunplay, a great cloning mechanic, and a lot of clever puzzle design. \n\nReally enjoyable experience!",
+      "date": 1685638872,
+      "review_helpful_count": 16,
+      "author_display_name": "hanney",
+      "author_alias": "hanney",
+      "developer_response": null
+    },
+    {
+      "id": "222125553945557",
+      "score": 5,
+      "review_title": "The demo was Amazing",
+      "review_description": "Use this to get 25% off\nI tried the demo and i really enjoyed it the only problem was it was short. Glad they made the full game\n\nwww,oculus,com/experiences/app/4052099231581371/?utm_source=oculus&utm_medium=share\n\nChange the first two , to .",
+      "date": 1685638971,
+      "review_helpful_count": 6,
+      "author_display_name": "mohammed1150",
+      "author_alias": "mohammed1150",
+      "developer_response": null
+    },
+    {
+      "id": "24171348202464713",
+      "score": 5,
+      "review_title": "Clever puzzles and beautiful art style",
+      "review_description": "Been following this game since their SideQuest/Applab days and it's so great to finally see it on the main store. A unique art style and clever puzzles make this a must-play!",
+      "date": 1685652588,
+      "review_helpful_count": 9,
+      "author_display_name": "tovanbo",
+      "author_alias": "tovanbo",
+      "developer_response": null
+    },
+    {
+      "id": "950433776007985",
+      "score": 5,
+      "review_title": "Puzzle game that renew the genre",
+      "review_description": "This game is great because it's the first of its kind.\nIt's a new experience and a fun little puzzle game. \nThe graphisme are great.\nThe story...\nThe gameplay is cool but I wouldn't play a \"We are one 2\".",
+      "date": 1685726298,
+      "review_helpful_count": 5,
+      "author_display_name": "BioMetan",
+      "author_alias": "BioMetan",
+      "developer_response": null
+    },
+    {
+      "id": "9417384741664857",
+      "score": 5,
+      "review_title": "One of a kind",
+      "review_description": "If you ever wanted to go back in time to stop yourself from doing something stupid, this is the game for you!",
+      "date": 1685639975,
+      "review_helpful_count": 8,
+      "author_display_name": "Mister_X",
+      "author_alias": "Mister_X",
+      "developer_response": null
+    },
+    {
+      "id": "987464859091034",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "nice",
+      "date": 1685639745,
+      "review_helpful_count": 2,
+      "author_display_name": "Dani16",
+      "author_alias": "Dani16",
+      "developer_response": null
+    },
+    {
+      "id": "272459782119917",
+      "score": 5,
+      "review_title": "Good in general",
+      "review_description": "Tbh i dont know what write here but in general we are one is a good game and you should play it yes some levels bare hard but is it a game if you don’t have a challenge",
+      "date": 1687432747,
+      "review_helpful_count": 1,
+      "author_display_name": "vo60",
+      "author_alias": "vo60",
+      "developer_response": null
+    },
+    {
+      "id": "270945106067589",
+      "score": 4,
+      "review_title": "It's a good physics puzzle game.",
+      "review_description": "This game will challenge your body coordination and your spacial thinking. It's amazing how a small company can deliver such a Polish game with great sound, graphics and mechanics. My only gripes are the underused mechanics (rebound) that reduced a sense of progression and the bland thematic story which seems to be more a marketing gimmick. It's still a good game. The recent addition of customization and sandbox will give some players a lot of pleasure. I'm looking forward for their next creation with great interest.",
+      "date": 1712074772,
+      "review_helpful_count": 2,
+      "author_display_name": "cthulhu.rex",
+      "author_alias": "cthulhu.rex",
+      "developer_response": null
+    },
+    {
+      "id": "270405262529894",
+      "score": 5,
+      "review_title": "Absolutely Amazing",
+      "review_description": "The mental challenge, time loop, and FPS combo is brilliant. If anyone wants to hop into a headset for the first time, I can't recommend a better game than this. All I hope for is more levels",
+      "date": 1695492514,
+      "review_helpful_count": 3,
+      "author_display_name": "Sadmanteddy",
+      "author_alias": "Sadmanteddy",
+      "developer_response": {
+        "body": "Thank you for your kind review! \nWe've added new bonus levels and recently a level editor where you can create levels and play levels of others",
+        "date": 1699959255
+      }
+    },
+    {
+      "id": "267555462473089",
+      "score": 5,
+      "review_title": "Very cool time loop puzzle game",
+      "review_description": "Very good puzzle shooter, if I may call it that. The basic idea of clones and time loops reminds me somewhat of \"The Last Clockwinder,\" but it is implemented in a completely different way. Speaking of implementation, it is excellently executed, just like the game mechanics.\n\nSurprisingly, I quite like the art style, even though I didn't find it appealing in the trailer - the style fits the game quite well. The story is okay, nothing special. It is structured in levels, with new ideas introduced every few levels.\n\nThe difficulty level ranges from very easy to quite tricky, and it's mixed throughout: an easy level can be followed by a difficult one and then another easy one. You have to think spatially and temporally to solve the puzzles, which can often be quite tricky - especially when actions need to be performed that only make sense in the future (e.g., picking up a weapon, aiming, and shooting even though it's not there yet). I also found the connected, synchronized clones to be challenging.\n\nFor puzzle, riddle, and brain-teaser fans, it's an absolute must-play. Time loop thinkers who enjoy games like \"The Last Clockwinder\" or \"Time Stall\" will also enjoy this. It's a top-notch game that I really enjoyed. The only downside is that it's quite short (please more levels!). However, there is replay value in trying to solve the levels faster and more efficiently.",
+      "date": 1685894049,
+      "review_helpful_count": 4,
+      "author_display_name": "Lord.Wyldbit",
+      "author_alias": "Lord.Wyldbit",
+      "developer_response": null
+    },
+    {
+      "id": "264498669497228",
+      "score": 3,
+      "review_title": "Love the concept but felt underused",
+      "review_description": "I played about an hour and 20 minutes of this game, I really loved the concept but in all the levels I played, it really didn't feel all that groundbreaking. The levels were just too simple. There were over 5 levels where the main gimmick was tossing a gun to yourself and shooting one enemy. I'm sure the game gets better later, but I'm not sure how much left of the game there is and I don't know if making super cool levels after over an hour of gameplay is really makes it worth it. It's like playing superhot but you just play chess for the first hour and have no use for the slowing of time.",
+      "date": 1686154491,
+      "review_helpful_count": 10,
+      "author_display_name": "Koopkiris",
+      "author_alias": "Koopkiris",
+      "developer_response": {
+        "body": "Hi there, thank you for your honest review! Since launch, we have continued to work on the game and have so far released 5 bonus levels and just recently added a level creator, where you can create your own levels and play the ones created by others:!",
+        "date": 1700049378
+      }
+    },
+    {
+      "id": "262946853057918",
+      "score": 5,
+      "review_title": "How this game is so awesome😄",
+      "review_description": "Absolutely great experience!! I even don’t know what to add. This is just another must have title. If there are any DLCs in the future, it will be just an instant buy for me.\nGreat work team👍🍀",
+      "date": 1686113080,
+      "review_helpful_count": 4,
+      "author_display_name": "igenvector",
+      "author_alias": "igenvector",
+      "developer_response": null
+    },
+    {
+      "id": "257262190727144",
+      "score": 5,
+      "review_title": "Great Game",
+      "review_description": "Twenty Five Percent off !! https://laurentm•bio• link\n\n\nThe story line and graphics of this game are truly amazing, i've enjoyed every moment playing the game only coming off when the battery dies 😀",
+      "date": 1719825661,
+      "review_helpful_count": 1,
+      "author_display_name": "MrPunisher81",
+      "author_alias": "MrPunisher81",
+      "developer_response": null
+    },
+    {
+      "id": "251743314682459",
+      "score": 5,
+      "review_title": "This is why we love VR",
+      "review_description": "Creative, unique, this is what VR makes different.",
+      "date": 1707939887,
+      "review_helpful_count": 0,
+      "author_display_name": "sebastian.kurz.583",
+      "author_alias": "sebastian.kurz.583",
+      "developer_response": null
+    },
+    {
+      "id": "247692841348715",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "One of the best VR Games I've played so far!",
+      "date": 1688294449,
+      "review_helpful_count": 1,
+      "author_display_name": "FabianFynn",
+      "author_alias": "FabianFynn",
+      "developer_response": null
+    },
+    {
+      "id": "226913103669032",
+      "score": 4,
+      "review_title": "Great concept but room for better execut",
+      "review_description": "I like the idea a lot, but the old lady pouting about dirty air or whatever endlessly is really obnoxious. This isn’t a narrative type story game, it’s a gameplay game, but I guess they needed to shoehorn in a story.",
+      "date": 1692329210,
+      "review_helpful_count": 0,
+      "author_display_name": "LunkerLane",
+      "author_alias": "LunkerLane",
+      "developer_response": {
+        "body": "Hey, thanks for honest review! The game includes an option called \"Enable Competitive Mode\" which turns off Mother Nature's voice! I hope this can help:) \nAnd yeah you're right, our game is highly focused on gameplay, but we still wanted to add a little story to give the game slightly more depth!",
+        "date": 1700050250
+      }
+    },
+    {
+      "id": "224772090341654",
+      "score": 5,
+      "review_title": "Must have for \"The Last Clockworker\"Fans",
+      "review_description": "25% Discount here (add a period betwen tiny and cc, and pay attetion for the uppercase in \"We\" and \"One\")\n\nhttps://tinycc/We_are_One\n\nI Love this game!! 6/5\nThis Game really is a must have for all \"The Last Clockworker\" Fans. The System is really similar, but it even ads nice FPS Elements to it. You have plenty of great Levels to shoot and Puzzle. \nFor me it a No-Brainer to get this game.",
+      "date": 1686240274,
+      "review_helpful_count": 3,
+      "author_display_name": "TheGreenAnon",
+      "author_alias": "TheGreenAnon",
+      "developer_response": null
+    },
+    {
+      "id": "219488111022590",
+      "score": 5,
+      "review_title": "the last Clockwinder with guns!",
+      "review_description": "one of my favorite games for the Quest! fun little puzzles that have a variety of mechanics needed to clear the level. it takes about two hours to beat, and there's replay value if you want to beat your best time and move up the leaderboard. now you can record video of your play, which is cool. definitely worth the money👍👍👍",
+      "date": 1687290673,
+      "review_helpful_count": 1,
+      "author_display_name": "jkibbe",
+      "author_alias": "jkibbe",
+      "developer_response": null
+    },
+    {
+      "id": "214149484888896",
+      "score": 5,
+      "review_title": "Best game in ages",
+      "review_description": "At first I was like it was going to be a one time playing experience but it is repeatable cant stop playing it worth the 20$",
+      "date": 1686691136,
+      "review_helpful_count": 2,
+      "author_display_name": "Jackrabbit595",
+      "author_alias": "Jackrabbit595",
+      "developer_response": null
+    },
+    {
+      "id": "210025411979882",
+      "score": 5,
+      "review_title": "Good jurb",
+      "review_description": "Jurb means job it’s just a joke but this game is amazing im not pass the first chapter and I love it the game had a demo I loved playing but it was super short and basic really but this game changes that you have to work with your self to fight monsters or machines you control different places as your self and help your self 5/5 game",
+      "date": 1686228975,
+      "review_helpful_count": 2,
+      "author_display_name": "gurowi",
+      "author_alias": "gurowi",
+      "developer_response": null
+    }
+  ],
+  "total": 60,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T09:55:51Z"
+}
