@@ -1,0 +1,53 @@
+{
+  "app_id": "9307116669389144",
+  "package_name": "com.Scaredbaboon.Scaredbaboon",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Primal baboon",
+  "rating_average": 4.5,
+  "rating_count": 14,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "962246563632908",
+      "score": 5,
+      "review_title": "Nice game",
+      "review_description": "this game is hard work",
+      "date": 1765911946,
+      "review_helpful_count": 2,
+      "author_display_name": "Bandvr",
+      "author_alias": "Bandvr",
+      "developer_response": null
+    },
+    {
+      "id": "1499308207945842",
+      "score": 3,
+      "review_title": "Mr.bamboovr",
+      "review_description": "Does any one play this",
+      "date": 1760985942,
+      "review_helpful_count": 3,
+      "author_display_name": "joerita18",
+      "author_alias": "joerita18",
+      "developer_response": null
+    },
+    {
+      "id": "665578643311204",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "This game is so good",
+      "date": 1750297322,
+      "review_helpful_count": 9,
+      "author_display_name": "Legacyleopard30",
+      "author_alias": "Legacyleopard30",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T16:36:45Z"
+}

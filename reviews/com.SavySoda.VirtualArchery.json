@@ -1,0 +1,930 @@
+{
+  "app_id": "4441808439261428",
+  "package_name": "com.SavySoda.VirtualArchery",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Archery Pro",
+  "rating_average": 4.35559566787,
+  "rating_count": 554,
+  "review_count": 92,
+  "reviews": [
+    {
+      "id": "970535585305585",
+      "score": 1,
+      "review_title": "Devs attempting to rebrand!",
+      "review_description": "I had posted a previous review, listed as 3-star, due to some glaring technical problems, mostly related to how the graphics never actually matched the player's actions when drawing the bow... that was then, but now i've had to delete that one (not because it got banned etc, but because i'm too lazy to amend/update old reviews), and write this new one.\n\nnow why did i replaced my old review;  it's pretty simple, the devs have noticed that the game was too niche and decided they would go full pvp mode from the starting gate, so now think of Archery Pro as nothing more than a very, very bland copy of Call of Duty, Counterstrike, or any other PVP shooter game, but with limited greenery and bows instead.\n\nit is now *IMPOSSIBLE* to go more than 5 or 10 mins before some 10 yr old wannabe elite shooter, decides you need at least 2 arrows... and more often than not, it's not without any explanation, other than 'because i want attention,' or because 'well, you were ignoring me, and i want you to look at me!'\n\nand while i say it's mostly 10 yr olds doing this, there are those who are older (let's call them college or university age) who seem to have the same 10 yr old mentality of wanting to shoot people just for the laughs, or empowerment...\n\nSo where does this leave my review?  like some idiot, i've spent a bit on this game for various types of bows, mostly to support the developer(s) and the continued development... but with the recent change to full-PVP mode, if there was an option to *REFUND* all purchases, I would fully go for that option now!  returning to f2p with no purchases is preferable, no questions asked.\n\nConclusion; If you prefer indoor archery than a real range, look for some other alternative, not this one, i guarantee stress from this game's in-game players!",
+      "date": 1773998329,
+      "review_helpful_count": 10,
+      "author_display_name": "tsc1313",
+      "author_alias": "tsc1313",
+      "developer_response": null
+    },
+    {
+      "id": "999746433230658",
+      "score": 3,
+      "review_title": "Enjoyable if you mute voice chat",
+      "review_description": "If you like playing solo then don't stay in the lobby too long, also mute the voice chat because it's full of screaming kids and they will shoot arrows at you while you're trying to navigate the menu.\n\nOtherwise it's a nice game, I did archery IRL for a while so it's nice to be able to do it again without the heavy cost of buying all the equipment. Needs work though, not sure if it's been abandoned.",
+      "date": 1774422578,
+      "review_helpful_count": 3,
+      "author_display_name": "Poizinnous",
+      "author_alias": "Poizinnous",
+      "developer_response": null
+    },
+    {
+      "id": "1124940397367891",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Good",
+      "date": 1779661257,
+      "review_helpful_count": 0,
+      "author_display_name": "GodDragon1212",
+      "author_alias": "GodDragon1212",
+      "developer_response": null
+    },
+    {
+      "id": "1101876882998262",
+      "score": 4,
+      "review_title": "Very good, but...",
+      "review_description": "Every now and then, it refuses to pick the bow up wi\nth my left controller, instead, it picks an arrow up, meaning I LOSE valuable points.\nIt's an annoying glitch\nAlso, please allow movement via controller in the 'lobby green' for seated players.\nMany thanks.",
+      "date": 1774001525,
+      "review_helpful_count": 2,
+      "author_display_name": "Cooky_Monster81",
+      "author_alias": "Cooky_Monster81",
+      "developer_response": null
+    },
+    {
+      "id": "948271825042974",
+      "score": 3,
+      "review_title": "Has potential",
+      "review_description": "I enjoy archery in real life and was looking forward to playing one in VR. Discovered Archery Pro and thought I'd give it a shot.\n\nFirst off - you need to simplify the coin/gem system. You've too many different options as well as real world money. I haven't delved further but there may be an issue with the game being pay-to-win if bows etc are locked behind a paywall that can't be earned in-game. If players are able to buy better bows with cash that can only be purchased with cash, then that's a BIG ISSUE.\n\nMy main gripe though is that I'm a left-handed archer and so I hold my bow in my right hand. When I hold the bow, and then reach for an arrow with my left hand, it drops the bow. It DOES THIS A LOT! Which makes the game less fun to play for me and for others (in a multiplayer game).\n\nGraphics wise, it's quite basic and there are a lot of render/graphic position issues when playing multiplayer. Limbs are at times stretched out or when the other player is taking their shot, their hand is gripping the air and not the bow which breaks the immersive nature of the game.\n\nI understand it's early access, but It does need some work.",
+      "date": 1770913710,
+      "review_helpful_count": 5,
+      "author_display_name": "HeyMoustache",
+      "author_alias": "HeyMoustache",
+      "developer_response": null
+    },
+    {
+      "id": "940826225787122",
+      "score": 1,
+      "review_title": "Wow. Useless.",
+      "review_description": "Trying twice, even having other people try, HOW DO YOU PLAY WITH ANOTHER PERSON. Specifically someone you know. This should be simple but not on this app. Wow. Get this figured out before you release it to the public. #embarrassing",
+      "date": 1770015714,
+      "review_helpful_count": 3,
+      "author_display_name": "JevicJoshua",
+      "author_alias": "JevicJoshua",
+      "developer_response": null
+    },
+    {
+      "id": "1045198692011478",
+      "score": 1,
+      "review_title": "Terrible game",
+      "review_description": "Terrible game do not download",
+      "date": 1774204919,
+      "review_helpful_count": 0,
+      "author_display_name": "osps",
+      "author_alias": "osps",
+      "developer_response": null
+    },
+    {
+      "id": "1003070266223107",
+      "score": 1,
+      "review_title": "Terrible",
+      "review_description": "Plays the same thing over and over again",
+      "date": 1771815072,
+      "review_helpful_count": 2,
+      "author_display_name": "Kingisthebeast32",
+      "author_alias": "Kingisthebeast32",
+      "developer_response": null
+    },
+    {
+      "id": "846655298533360",
+      "score": 3,
+      "review_title": "Great potential",
+      "review_description": "This game is pretty good at what it does, however, it needs alot more updates and more people working on it. Furthermore, the coin system is a hit or miss, because match making 1v1 costs gold, if u use alot of gold and then u want to continue in the campaign, you need to get 3 stars on almost everything to be able to continue in the campaign which is really a shore. Also, the bows are all behind a paylock which is a shame. \nThe gold system should be reworked, graphics too. The lobby could be improved, right now its boring... \nAlso make the campaign have more variety. Lastly the 1v1 is pretty bad but I know its early access, there is just one target and its still. No variety and it also as I said costs gold.\n\nOverall 3/5, great potential but its up to the dev to make it a 5/5.",
+      "date": 1761999206,
+      "review_helpful_count": 18,
+      "author_display_name": "VikRik",
+      "author_alias": "VikRik",
+      "developer_response": null
+    },
+    {
+      "id": "1061554063717587",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "awesome game",
+      "date": 1780607830,
+      "review_helpful_count": 0,
+      "author_display_name": "acg1022",
+      "author_alias": "acg1022",
+      "developer_response": null
+    },
+    {
+      "id": "1093993757134147",
+      "score": 5,
+      "review_title": "Easy to use",
+      "review_description": "Fun😀🤣\n❤️",
+      "date": 1778546507,
+      "review_helpful_count": 0,
+      "author_display_name": "koikrazy2",
+      "author_alias": "koikrazy2",
+      "developer_response": null
+    },
+    {
+      "id": "1553065342521203",
+      "score": 4,
+      "review_title": "Archereally Fun",
+      "review_description": "This game is a lot of fun! It has great potential. I spent the $4.99 for the first pack and that bow has been great for me! The next pack feels a bit steep ($19.99) though for where the game is at currently. I'd pay $9.99.\n\nIt gets stale quickly. Ive ingeracted with 2 other players only (who used mics). I have around 1600 trophies for online. 19 out of 20 matching is against a fresh 1000 trophy player. And i've left all but one of those with high 900's. I only gain about 17 trophies against them. Lost 38 in sudden death. The tournaments i do for competitiveness. The solo play is getting stale in France 2. The intro features a pro competition archer but there werent any tutorials for new event types. Not hard to figure out, but no pro tips. Cosmetics feel overpriced. Using Meta avatars would have been much better. Online play is a simple best of 3, 2 shot set shootout.\n\npro tip: for extra fun, shoot your opponent's target 😉 I igot a \"what the..!?\" out of it.\n\nIt's early access, and it feels it. More online content is needed. Most better players havent moved on the leaderboard, meaning they arent playing. A big update would bring people back, with the right content. I have quite a few ideas, but lets see what these devs do.",
+      "date": 1759305989,
+      "review_helpful_count": 6,
+      "author_display_name": "technotic",
+      "author_alias": "technotic",
+      "developer_response": null
+    },
+    {
+      "id": "841695669036848",
+      "score": 5,
+      "review_title": "Very fun game",
+      "review_description": "I love this game and it is alot of fun",
+      "date": 1766796729,
+      "review_helpful_count": 1,
+      "author_display_name": "AAFarmer",
+      "author_alias": "AAFarmer",
+      "developer_response": null
+    },
+    {
+      "id": "831620766712180",
+      "score": 5,
+      "review_title": "Och aye it is what it is",
+      "review_description": "Well aye suposse i should say something so here goes SOMETHING POW",
+      "date": 1766393095,
+      "review_helpful_count": 0,
+      "author_display_name": "Caleymad6",
+      "author_alias": "Caleymad6",
+      "developer_response": null
+    },
+    {
+      "id": "858339000703189",
+      "score": 5,
+      "review_title": "incredible",
+      "review_description": "this is a brilliant game! i have enjoyed playing this, alot.\ntotAlly recomend to anyone who likes archery ot just overall is interested",
+      "date": 1763330363,
+      "review_helpful_count": 2,
+      "author_display_name": "Ggbalf",
+      "author_alias": "Ggbalf",
+      "developer_response": null
+    },
+    {
+      "id": "911222675245232",
+      "score": 5,
+      "review_title": "Hh",
+      "review_description": "Amazing",
+      "date": 1774210750,
+      "review_helpful_count": 0,
+      "author_display_name": "winter_soldier13",
+      "author_alias": "winter_soldier13",
+      "developer_response": null
+    },
+    {
+      "id": "1535467400800101",
+      "score": 1,
+      "review_title": "Failure to launch",
+      "review_description": "Game immediately loads to an error, \" login too fast\" and then you get to stare at a perpetual load. Boundary loads with the floor  located at my chin and will not reset to the proper location.",
+      "date": 1755645045,
+      "review_helpful_count": 28,
+      "author_display_name": "StalkerLycan",
+      "author_alias": "StalkerLycan",
+      "developer_response": null
+    },
+    {
+      "id": "820545941151760",
+      "score": 5,
+      "review_title": "Fun archery game",
+      "review_description": "Feels like real archery",
+      "date": 1763886023,
+      "review_helpful_count": 1,
+      "author_display_name": "MaskwaGames",
+      "author_alias": "MaskwaGames",
+      "developer_response": null
+    },
+    {
+      "id": "25194703740183301",
+      "score": 5,
+      "review_title": "👍👍👍👍👍",
+      "review_description": "Very Good Game",
+      "date": 1763944318,
+      "review_helpful_count": 0,
+      "author_display_name": "HKBlackJack",
+      "author_alias": "HKBlackJack",
+      "developer_response": null
+    },
+    {
+      "id": "801102179763271",
+      "score": 5,
+      "review_title": "Recommended",
+      "review_description": "Highly recommended",
+      "date": 1763810879,
+      "review_helpful_count": 1,
+      "author_display_name": "stormzeee",
+      "author_alias": "stormzeee",
+      "developer_response": null
+    },
+    {
+      "id": "875019292360530",
+      "score": 4,
+      "review_title": "Nice",
+      "review_description": "Nice archery game",
+      "date": 1763300138,
+      "review_helpful_count": 0,
+      "author_display_name": "SpicyRamenSlayer",
+      "author_alias": "SpicyRamenSlayer",
+      "developer_response": null
+    },
+    {
+      "id": "866317513230230",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Great game",
+      "date": 1763252306,
+      "review_helpful_count": 0,
+      "author_display_name": "ATENEA01",
+      "author_alias": "ATENEA01",
+      "developer_response": null
+    },
+    {
+      "id": "648402965008168",
+      "score": 4,
+      "review_title": "Good but hard to find match",
+      "review_description": "It’s easy to find a match when you’re a low level or not high on the leaderboard but once you get top 100 or top 50 it just becomes impossible to find a match even in a full lobby. Please fix this the game is fun but I literally can’t play it anymore",
+      "date": 1759012592,
+      "review_helpful_count": 1,
+      "author_display_name": "Bigmans17",
+      "author_alias": "Bigmans17",
+      "developer_response": null
+    },
+    {
+      "id": "693942900473208",
+      "score": 3,
+      "review_title": "Quite a lot of annoying bugs",
+      "review_description": "Aha, it's early access, that is probably why.\n\nBug: I have put the music volume to 0% but every time I reopen the game it is back to 100%\n\nAlso if I tap the quest 3 to enable pass-through mode and then go back it restarts the game.\n\nLevel reload times are far too long. Long-press Y or something to instantly reset level would be very useful, so we can try to get perfect scores easier.\n\nParis Level 8 is bugged I think - the third arrow always seems to bug out and explode for no good reason and gives no score.\n\nTokyo Level 18 - first one with wind - but there is no flag to show the  direction or strength of wind - it’s very dumb - are we just supposed to guess?.. Later levels have flags, did they just forget to put them in this level?..\n\nParis Level 32 - Left balloon doesn’t even line up with target. I don't have the space to move to the left to get it to line up. Should be able to play the game standing or sitting in one spot.\n\nParis 2 Level 35 - same bug as Paris 1-8 - last arrow explodes as if hitting outer ring when it should not.\n\n2025.07.29.\nSome more bugs:\n- Can hear people's microphones even when chat and voice sliders are at 0%.\n- Online matches were crashing a lot yesterday\n- Should make it so people never spawn on top of another person; it's not pleasant, it's like having someone really badly invade your personal space lol.",
+      "date": 1753797358,
+      "review_helpful_count": 18,
+      "author_display_name": "SBTL.Quest3",
+      "author_alias": "SBTL.Quest3",
+      "developer_response": {
+        "body": "Thanks so much SBTL! This is super helpful we're working to fix the above issues asap! Aiming to have a patch out update over next week and a feature update in next 2 months.",
+        "date": 1753142592
+      }
+    },
+    {
+      "id": "747845984530759",
+      "score": 3,
+      "review_title": "I was enjoying this..",
+      "review_description": "... But now I can't login - 401 login too quick..?\n\n¯⁠\\⁠(⁠°⁠_⁠o⁠)⁠/⁠¯\n\nFollowed by a long API error string with mostly null values..",
+      "date": 1755724474,
+      "review_helpful_count": 10,
+      "author_display_name": "Hebejeebee",
+      "author_alias": "Hebejeebee",
+      "developer_response": null
+    },
+    {
+      "id": "861468333706041",
+      "score": 4,
+      "review_title": "GOOD FOR A BIT THAN IT GOT BORING",
+      "review_description": "I played it for a bit with my friend but we got bored and decided to delete it  BUT it was AMAZING (I'm downloading it again now!)",
+      "date": 1760068476,
+      "review_helpful_count": 0,
+      "author_display_name": "olibobs.2024",
+      "author_alias": "olibobs.2024",
+      "developer_response": null
+    },
+    {
+      "id": "1054514567735390",
+      "score": 5,
+      "review_title": "Awesome 🤩",
+      "review_description": "This is the best game ever!￼",
+      "date": 1770121978,
+      "review_helpful_count": 0,
+      "author_display_name": "Goldensun26",
+      "author_alias": "Goldensun26",
+      "developer_response": null
+    },
+    {
+      "id": "947383551794215",
+      "score": 2,
+      "review_title": "Everything is an addon",
+      "review_description": "Decent play for the very minimal play you get. Everything is an addon",
+      "date": 1769278847,
+      "review_helpful_count": 0,
+      "author_display_name": "PMPerformance",
+      "author_alias": "PMPerformance",
+      "developer_response": null
+    },
+    {
+      "id": "809191118950436",
+      "score": 5,
+      "review_title": "Decent game!",
+      "review_description": "Great for actual progression play.",
+      "date": 1761163571,
+      "review_helpful_count": 0,
+      "author_display_name": "GoDofWarINRealLife",
+      "author_alias": "GoDofWarINRealLife",
+      "developer_response": null
+    },
+    {
+      "id": "785584877972305",
+      "score": 1,
+      "review_title": "Toxic kids everywhere",
+      "review_description": "The game is pretty bare. Plus, when I join public lobbies it's just little kids yelling slurs. If there is a way to report, it's not intuitive.",
+      "date": 1757988703,
+      "review_helpful_count": 2,
+      "author_display_name": "OG_Jewfro",
+      "author_alias": "OG_Jewfro",
+      "developer_response": {
+        "body": "Thanks for feedback OG. We'll work to add a mute & report feature in upcoming version. cheers.",
+        "date": 1758067439
+      }
+    },
+    {
+      "id": "939538512585251",
+      "score": 4,
+      "review_title": "Good",
+      "review_description": "Great game 😆",
+      "date": 1769557145,
+      "review_helpful_count": 0,
+      "author_display_name": "TorontoRaptor",
+      "author_alias": "TorontoRaptor",
+      "developer_response": null
+    },
+    {
+      "id": "671030629434363",
+      "score": 3,
+      "review_title": "Good games but has strange (maybe) bugs",
+      "review_description": "I am enjoying this game, but since I love to progress with all 3 stars, I am stuck on a level that I believe has some kind of bug.\nThe max result is 30 in 3 shots, and what happens is that if I achieve up to 27, everything is fine, except I get 2 stars. However, imagine I got a 10 and a 9 in the first two shots, then the third shot, if it is close to the center and would get another 9 or 10, makes some sort of explosion, but gives no points and there is no feedback of any sort, being it a foul or whatever. Result, I can't go past 27 points. I even recorded the video of this happening... it's frustrating for someone like me that wants to have all 3 stars",
+      "date": 1752852694,
+      "review_helpful_count": 5,
+      "author_display_name": "ImmoralBard",
+      "author_alias": "ImmoralBard",
+      "developer_response": null
+    },
+    {
+      "id": "767230146480372",
+      "score": 5,
+      "review_title": "Great game!",
+      "review_description": "The physics are good, game play is fun and the constant tournaments keep you busy.",
+      "date": 1758920243,
+      "review_helpful_count": 0,
+      "author_display_name": "OzTats4",
+      "author_alias": "OzTats4",
+      "developer_response": null
+    },
+    {
+      "id": "958104367383174",
+      "score": 5,
+      "review_title": "Archery pro",
+      "review_description": "This  game is amazing and \n\nvery funny",
+      "date": 1768130496,
+      "review_helpful_count": 0,
+      "author_display_name": "wellionen",
+      "author_alias": "wellionen",
+      "developer_response": null
+    },
+    {
+      "id": "1837732920375155",
+      "score": 4,
+      "review_title": "Excellent, but buggy",
+      "review_description": "This is an excellent archery game, physics feel spot on and the single and multi player modes are a lot of fun. Being early access it can be buggy from time to time, I've found it particularly problematic over the last week or so as I'm regularly getting a black screen where I can hear everyone, plus regularly lock ups where everything drops. I'm finding myself having to quit the game and restart a few times per session which is frustrating. This is a recent thing though and I'm hoping their next update will resolve.\n\nGreat game and I hope they continue to develop it further. We need more 1 v 1 modes please. It's been ages!",
+      "date": 1753647698,
+      "review_helpful_count": 1,
+      "author_display_name": "TomPariah",
+      "author_alias": "TomPariah",
+      "developer_response": null
+    },
+    {
+      "id": "1122400336475333",
+      "score": 1,
+      "review_title": "Http 401 all the time",
+      "review_description": "Can't even play",
+      "date": 1755617191,
+      "review_helpful_count": 6,
+      "author_display_name": "Silver_Knight",
+      "author_alias": "Silver_Knight",
+      "developer_response": null
+    },
+    {
+      "id": "713388601867270",
+      "score": 1,
+      "review_title": "Constantly freezes",
+      "review_description": "Not a bad idea for a game but constantly freezes",
+      "date": 1757730968,
+      "review_helpful_count": 0,
+      "author_display_name": "MeanGreen2023",
+      "author_alias": "MeanGreen2023",
+      "developer_response": {
+        "body": "Thanks for letting us know MG. Working to improve stability. Appreciate the feedback.",
+        "date": 1758067389
+      }
+    },
+    {
+      "id": "704264726112777",
+      "score": 2,
+      "review_title": "Hell nah 🥀",
+      "review_description": "What is this game seriously? I’ve done a lot of archery in a club, we don’t aim like that 🤣😂🤣",
+      "date": 1756628216,
+      "review_helpful_count": 0,
+      "author_display_name": "Yanischacha",
+      "author_alias": "Yanischacha",
+      "developer_response": null
+    },
+    {
+      "id": "1280628486882216",
+      "score": 2,
+      "review_title": "Need some adjust and trun and teleport",
+      "review_description": "There is no Moving funtion when back from teleport i stuck at some one butt",
+      "date": 1755332757,
+      "review_helpful_count": 2,
+      "author_display_name": "exslas",
+      "author_alias": "exslas",
+      "developer_response": null
+    },
+    {
+      "id": "744540621385723",
+      "score": 4,
+      "review_title": "4⭐️ star before update. Will update.",
+      "review_description": "Moderate Archer here. A lot of mixed reviews. Theres a lot of things this game gets right. Unless you are an archer yourself you wont notice some of the other things people have requested they add in update. Which I agree with. But it’s fun, and will definitly scratch that itch.",
+      "date": 1751400898,
+      "review_helpful_count": 0,
+      "author_display_name": "Prometheus3030",
+      "author_alias": "Prometheus3030",
+      "developer_response": null
+    },
+    {
+      "id": "792352227294356",
+      "score": 5,
+      "review_title": "Great Free game",
+      "review_description": "Its fun",
+      "date": 1755999603,
+      "review_helpful_count": 1,
+      "author_display_name": "TurtleChorus",
+      "author_alias": "TurtleChorus",
+      "developer_response": null
+    },
+    {
+      "id": "800178006522921",
+      "score": 5,
+      "review_title": "Great game.",
+      "review_description": "Really fun vr experience.",
+      "date": 1764003159,
+      "review_helpful_count": 0,
+      "author_display_name": "tayfun.334809",
+      "author_alias": "tayfun.334809",
+      "developer_response": null
+    },
+    {
+      "id": "872383912623877",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "This game has great mechanics and great graphics, this was the game i needed.",
+      "date": 1762737848,
+      "review_helpful_count": 0,
+      "author_display_name": "austinmooney11",
+      "author_alias": "austinmooney11",
+      "developer_response": null
+    },
+    {
+      "id": "752604960744747",
+      "score": 5,
+      "review_title": "So fun lowlek",
+      "review_description": "Good practce",
+      "date": 1755330234,
+      "review_helpful_count": 0,
+      "author_display_name": "BlobbyPie",
+      "author_alias": "BlobbyPie",
+      "developer_response": null
+    },
+    {
+      "id": "712794884494925",
+      "score": 1,
+      "review_title": "Please add a setting to remove the retic",
+      "review_description": "The cutscenes in each stage of the game are overly lengthy, and the reticle being fixed on-screen is truly distracting. Please, I’m begging you, add a setting to remove the reticle! Please!",
+      "date": 1748630916,
+      "review_helpful_count": 6,
+      "author_display_name": "oonakooo",
+      "author_alias": "oonakooo",
+      "developer_response": {
+        "body": "Thanks for letting us know oonakooo! Our team really appreciates the feedback. If you can let us know the issue with the reticle via email: mail@savysoda.com that would help us a lot to improve the design.",
+        "date": 1749184983
+      }
+    },
+    {
+      "id": "842628808937566",
+      "score": 5,
+      "review_title": "gyuh",
+      "review_description": "Best game ever im the best at ir😂🤩🤑",
+      "date": 1762725868,
+      "review_helpful_count": 0,
+      "author_display_name": "CASH5822",
+      "author_alias": "CASH5822",
+      "developer_response": null
+    },
+    {
+      "id": "1891210632279087",
+      "score": 1,
+      "review_title": "Deplorable",
+      "review_description": "Horrible experience",
+      "date": 1762973798,
+      "review_helpful_count": 0,
+      "author_display_name": "Bungr",
+      "author_alias": "Bungr",
+      "developer_response": null
+    },
+    {
+      "id": "860727787124431",
+      "score": 5,
+      "review_title": "Really nice free game",
+      "review_description": "Not  much else to say",
+      "date": 1762383699,
+      "review_helpful_count": 0,
+      "author_display_name": "Shenanigans.JG",
+      "author_alias": "Shenanigans.JG",
+      "developer_response": null
+    },
+    {
+      "id": "841624798388009",
+      "score": 5,
+      "review_title": "Toll",
+      "review_description": "Nice and easy",
+      "date": 1762622669,
+      "review_helpful_count": 0,
+      "author_display_name": "Maxkaernten81",
+      "author_alias": "Maxkaernten81",
+      "developer_response": null
+    },
+    {
+      "id": "776588505540885",
+      "score": 3,
+      "review_title": "Tons of Potential",
+      "review_description": "Very fun to play, if it will let you play. Anytime I move out of my boundary it glitches hard and won't let me open the menu or even access my oculus home forcing me to completely restart my device. However, once this bug is worked out, it will be a really great game!",
+      "date": 1757524788,
+      "review_helpful_count": 0,
+      "author_display_name": "Mmmamcbride",
+      "author_alias": "Mmmamcbride",
+      "developer_response": {
+        "body": "Thanks so much Mmm! Working on fixing the boundary glitch. appreciate it.",
+        "date": 1757635380
+      }
+    },
+    {
+      "id": "797396993460451",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "Needs to improve graphhicsss\ni",
+      "date": 1760142338,
+      "review_helpful_count": 0,
+      "author_display_name": "tefor",
+      "author_alias": "tefor",
+      "developer_response": null
+    },
+    {
+      "id": "774160282162031",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Great",
+      "date": 1760304832,
+      "review_helpful_count": 0,
+      "author_display_name": "squishyboydavis",
+      "author_alias": "squishyboydavis",
+      "developer_response": null
+    },
+    {
+      "id": "857488707441117",
+      "score": 5,
+      "review_title": "Nice",
+      "review_description": "Nice",
+      "date": 1760174060,
+      "review_helpful_count": 0,
+      "author_display_name": "tin.444225",
+      "author_alias": "tin.444225",
+      "developer_response": null
+    },
+    {
+      "id": "820358337821093",
+      "score": 4,
+      "review_title": "Fun",
+      "review_description": "Wish you didn't need to pay money for gems to buy better weapon seems kinda pay to win but still a fun game",
+      "date": 1757182367,
+      "review_helpful_count": 0,
+      "author_display_name": "mstr359.2024",
+      "author_alias": "mstr359.2024",
+      "developer_response": null
+    },
+    {
+      "id": "811889358669229",
+      "score": 5,
+      "review_title": "Gg",
+      "review_description": "this is very well made",
+      "date": 1758500274,
+      "review_helpful_count": 0,
+      "author_display_name": "natedawg.202",
+      "author_alias": "natedawg.202",
+      "developer_response": null
+    },
+    {
+      "id": "792199920644812",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Love it",
+      "date": 1758403106,
+      "review_helpful_count": 0,
+      "author_display_name": "dylan.26757",
+      "author_alias": "dylan.26757",
+      "developer_response": null
+    },
+    {
+      "id": "799657963227742",
+      "score": 5,
+      "review_title": "Love this game",
+      "review_description": "Love this game so much",
+      "date": 1757271710,
+      "review_helpful_count": 0,
+      "author_display_name": "TheVslayer",
+      "author_alias": "TheVslayer",
+      "developer_response": null
+    },
+    {
+      "id": "835100439677120",
+      "score": 5,
+      "review_title": "Really good",
+      "review_description": "I just have really bad hand eye quarination",
+      "date": 1756769686,
+      "review_helpful_count": 0,
+      "author_display_name": "i_eat_paint56632",
+      "author_alias": "i_eat_paint56632",
+      "developer_response": null
+    },
+    {
+      "id": "824872577365117",
+      "score": 5,
+      "review_title": "Perfection",
+      "review_description": "Easy to learn, hard to master.",
+      "date": 1756743622,
+      "review_helpful_count": 0,
+      "author_display_name": "Logopathic42",
+      "author_alias": "Logopathic42",
+      "developer_response": null
+    },
+    {
+      "id": "711029022103139",
+      "score": 5,
+      "review_title": "U know archery pro",
+      "review_description": "Best free vr archery game i have ever seen",
+      "date": 1756654703,
+      "review_helpful_count": 0,
+      "author_display_name": "Boutthat95",
+      "author_alias": "Boutthat95",
+      "developer_response": null
+    },
+    {
+      "id": "768563429675345",
+      "score": 5,
+      "review_title": "Idk",
+      "review_description": "XJx",
+      "date": 1757105304,
+      "review_helpful_count": 0,
+      "author_display_name": "rainamex",
+      "author_alias": "rainamex",
+      "developer_response": null
+    },
+    {
+      "id": "817278498127694",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Its a really good game",
+      "date": 1756504926,
+      "review_helpful_count": 0,
+      "author_display_name": "GaugeLevi64",
+      "author_alias": "GaugeLevi64",
+      "developer_response": null
+    },
+    {
+      "id": "793419399720210",
+      "score": 1,
+      "review_title": "Not workin",
+      "review_description": "Just downloaded game but will not load ..tried loads times now given up",
+      "date": 1755871334,
+      "review_helpful_count": 1,
+      "author_display_name": "John-uk",
+      "author_alias": "John-uk",
+      "developer_response": null
+    },
+    {
+      "id": "830231913496441",
+      "score": 5,
+      "review_title": "Extremely fun",
+      "review_description": "—||—",
+      "date": 1756224638,
+      "review_helpful_count": 0,
+      "author_display_name": "Oskar_noerrelundmelovevr",
+      "author_alias": "Oskar_noerrelundmelovevr",
+      "developer_response": null
+    },
+    {
+      "id": "8193640454069514",
+      "score": 3,
+      "review_title": "Enable option to tweak bow position",
+      "review_description": "Game is pretty  fun. But Deadeye VR made an actual Bow peripheral for Quest controllers. It doest work well with this game bc the position of the device is not in-line witht he bow in-game.  the option to be able to micro adjust the tilt and pitch of the bow in your hand would make this game perfect. Especially since more archery peripherals are coming out  . This could make for the best archery simulation/practice experience.",
+      "date": 1733887557,
+      "review_helpful_count": 6,
+      "author_display_name": "J03_J51",
+      "author_alias": "J03_J51",
+      "developer_response": null
+    },
+    {
+      "id": "599682576064575",
+      "score": 2,
+      "review_title": "Nothing like real archery",
+      "review_description": "While being advertised as a sport archery game, this game is obviously made by people who have absolutely no experience with archery.\n\nUnadjustable aim sight (with no clicker)\n\nBow strength seems to be fixed regardless of how much you draw.\n\nBow shake like crazy when drawn.\n\nArrow disappear after shot, and you have absolutely no way to check where you hit exactly.\n\nUsing a sport recurve to shoot at flying target? omg watch less Robin Hood and get to a range!\n\nDespite being an arcade game designed to be artificially more difficult and unlearnable, the levels are designed to fit for pro level archery: “Oh you just need to get 28/30 on these 3 tiny moving targets to get 3 stars”. Haha yeah I’ll just go and grab an Olympic gold medal that’s easier.",
+      "date": 1731983335,
+      "review_helpful_count": 14,
+      "author_display_name": "AVAVT",
+      "author_alias": "AVAVT",
+      "developer_response": null
+    },
+    {
+      "id": "1001002382047667",
+      "score": 5,
+      "review_title": "Love",
+      "review_description": "Love this game! Should definitely get it!! You’re not losing anything, but gaining a ton of fun.",
+      "date": 1735881490,
+      "review_helpful_count": 2,
+      "author_display_name": "ThinkPurple",
+      "author_alias": "ThinkPurple",
+      "developer_response": null
+    },
+    {
+      "id": "1250351336125609",
+      "score": 5,
+      "review_title": "A great alternative to the real thing",
+      "review_description": "I’ve had a real itch to try real archery but I don’t have the space and joining a club and taking lessons is too expensive, so I decided to look in the App Store. There were loads of fantasy shooters with arrows but I wanted some traditional target style shooting. So when I spotted this in the app lab, I figured it was worth a try.\n\nIt looks pretty dull in the video but once you are standing there with your bow in your hand, you realise that this is something quite special. It really feels like you are shooting arrows, and the mechanics are incredible. You have to concentrate on your form to get the best shots, and when I miss , it’s because my aim was off, never do I feel like the game has robbed me.\n\nHopefully as it develops, there will be different modes, I’d love to see more of a club mode, or different target types. But if it continues to be as good as it is already, this deserves to become a must have app",
+      "date": 1719254696,
+      "review_helpful_count": 5,
+      "author_display_name": "purplefowler",
+      "author_alias": "purplefowler",
+      "developer_response": null
+    },
+    {
+      "id": "277412032129531",
+      "score": 5,
+      "review_title": "This game look nice",
+      "review_description": "That will become a big game for sure.",
+      "date": 1715145472,
+      "review_helpful_count": 0,
+      "author_display_name": "DonutsPizza.N.Chocolat",
+      "author_alias": "DonutsPizza.N.Chocolat",
+      "developer_response": null
+    },
+    {
+      "id": "1160152932058966",
+      "score": 5,
+      "review_title": "Very promising",
+      "review_description": "Got the basics right. Keep up the good work!",
+      "date": 1707384158,
+      "review_helpful_count": 2,
+      "author_display_name": "SixOne61",
+      "author_alias": "SixOne61",
+      "developer_response": null
+    },
+    {
+      "id": "737452518598533",
+      "score": 5,
+      "review_title": "This game is just perfect as it is",
+      "review_description": "I’ve never seen any other simulator in VR can go this far like ArcheryPro, but ArcheryPro is not just a simple simulator. It is a game with joyful and many highlight moments",
+      "date": 1714445186,
+      "review_helpful_count": 1,
+      "author_display_name": "icecreamlovesme",
+      "author_alias": "icecreamlovesme",
+      "developer_response": null
+    },
+    {
+      "id": "593183753401935",
+      "score": 3,
+      "review_title": "Promising",
+      "review_description": "This app provides good realism and exciting challenges. However you can only shoot 3 arrows in a round, so I spend more time with the points system than I do in actual archery. The mutli-player mode which allows for more arrows uses a telescope for aim, which is unrealistic archery as I see it.",
+      "date": 1736036579,
+      "review_helpful_count": 0,
+      "author_display_name": "JayaJai",
+      "author_alias": "JayaJai",
+      "developer_response": {
+        "body": "Thanks so much for the feedback JJ. We're working on additional modes. appreciate suggestions!",
+        "date": 1736204913
+      }
+    },
+    {
+      "id": "539750895404931",
+      "score": 4,
+      "review_title": "Please add compound bows!",
+      "review_description": "This game is super fun and addicting, but there is one thing missing compound bows with releases!",
+      "date": 1727052229,
+      "review_helpful_count": 0,
+      "author_display_name": "FPSPaulVR",
+      "author_alias": "FPSPaulVR",
+      "developer_response": {
+        "body": "Thanks so much Paul! Coming soon ^_^",
+        "date": 1727164764
+      }
+    },
+    {
+      "id": "536183956242294",
+      "score": 5,
+      "review_title": "A lot of  content for free",
+      "review_description": "Considering this game is early access it has a lot of content for free. I’ve spent more time playing this than other paid apps.\n\nKeep at it devs! Excellent",
+      "date": 1735426131,
+      "review_helpful_count": 0,
+      "author_display_name": "extarlife",
+      "author_alias": "extarlife",
+      "developer_response": null
+    },
+    {
+      "id": "534940119701356",
+      "score": 3,
+      "review_title": "Has potential but barebones for now",
+      "review_description": "I load into the game and I see the bow / arrow flickering about. I have to grip it a certain way and it’s not always locked in to my controller.\n\nThen I tried the game with my bow & arrow stock and it totally does not work because it doesn’t allow for locked in alignment with the controller, or a custom calibration settings option to set your alignment such as using the bow without pressing the grip button (toggle mode). Maybe this exists in the options?\n\nAdd in a custom levels mode and community sharing and this has the potential to be the “AceXR” or practical shooting / archery game of VR, in which I will rate it 5 stars.",
+      "date": 1736284552,
+      "review_helpful_count": 1,
+      "author_display_name": "dtmuniversal",
+      "author_alias": "dtmuniversal",
+      "developer_response": {
+        "body": "Thanks so much D! We're working on addressing the issue with controllers as well as adding more game modes. appreciate your support.",
+        "date": 1736463472
+      }
+    },
+    {
+      "id": "532544149948274",
+      "score": 4,
+      "review_title": "Entertaining",
+      "review_description": "Interesting game. Mostly realistic physics.\nI like the haptic feedback from the drawn string.\nWhat spoils ths experience somewhat is when an arrow is loaded you can still flex and extend the wrist of the hand that holds the bow, which creates unrealistic visuals. This is even more apparent when the string is drawn.",
+      "date": 1738447170,
+      "review_helpful_count": 0,
+      "author_display_name": "IG_777",
+      "author_alias": "IG_777",
+      "developer_response": null
+    },
+    {
+      "id": "531593296705735",
+      "score": 5,
+      "review_title": "Great game for realistic archery",
+      "review_description": "My boyfriend goes to archery and appreciates the realism of this game. He loads it up every time the weather's too bad out to get some practise.\n The surroundings are lovely to look at as well",
+      "date": 1736172621,
+      "review_helpful_count": 0,
+      "author_display_name": "Sastai",
+      "author_alias": "Sastai",
+      "developer_response": null
+    },
+    {
+      "id": "493966223807879",
+      "score": 3,
+      "review_title": "Need improvements",
+      "review_description": "This game is great, but still need some improvements.   \n1. Limit the amount of user in the same lobby to reduce the lag, allow user to switch to different lobby, if it become too loud or too quite.\n2. There was one time the action of draw arrow from quiver was very laggy.  I tried restart the quest 3 machine and still lags, however it worked much better the next day, could be a network issue.\n3. There was a stage indicating strong wind, yet I cant see any flag to tell me the wind direction and strength, just need to do guessing work.\n4. The online match making costs coins, yet if I cancel the match making when it stuck in searching, the coin is deducted anyways... this waste of coins will  prevent people from searching....\nAnd the match making should allow user go back to single player while waiting for the search... otherwise its a waste time just waiting for the search screen to find someone.\n5. In game tutorial doesnt mention anything about adjusting the knobs for the aim sights.\n6. In game tutorial doesnt try indicating your posture is correct or not, I could have the arrow pointing at wrong angle but as longer the sights is aimed correctly it will still reach to the target.  In archery, shouldnt there be 3 points?  the arrow head, the sights, the target.\nPlease add a arrow hologram on the bow when drawing so player can align it properly.\nThanks!",
+      "date": 1736650461,
+      "review_helpful_count": 1,
+      "author_display_name": "Fir3000",
+      "author_alias": "Fir3000",
+      "developer_response": {
+        "body": "Thanks so much Fir for the really helpful feedback! Great our team has noted the issues and are working these into the next update.",
+        "date": 1736723064
+      }
+    },
+    {
+      "id": "493937016910715",
+      "score": 2,
+      "review_title": "Left handed?",
+      "review_description": "You can switch eye, but you can’t have a left handed bow.",
+      "date": 1722275988,
+      "review_helpful_count": 0,
+      "author_display_name": "Larz55",
+      "author_alias": "Larz55",
+      "developer_response": {
+        "body": "Hi Larz, thanks for playing Archery Pro! To use the bow with your preferred hand could you try picking up the bow with your right and and grabbing the arrow with your left? The bow should auto-readjust to the correct hand preference,",
+        "date": 1722296968
+      }
+    },
+    {
+      "id": "427028223836779",
+      "score": 5,
+      "review_title": "I SEE THE POTENTIAL🗿",
+      "review_description": "This game is under development, it's in early access right now, i know the physics aren't 10/10, but, it's still really fun and Challenging to play, and I am all for it, the developers are working hard to make this game better and better and I really appreciate their hardwork. I wish more people played this game so we could play multiplayer matches without fail (not enough players), a must try game🦅.",
+      "date": 1732515375,
+      "review_helpful_count": 12,
+      "author_display_name": "AKALJOTsingh",
+      "author_alias": "AKALJOTsingh",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T16:36:27Z"
+}
