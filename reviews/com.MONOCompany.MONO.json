@@ -1,0 +1,42 @@
+{
+  "app_id": "8043113485788738",
+  "package_name": "com.MONOCompany.MONO",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "MONO",
+  "rating_average": 3.6666666666667,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "503551979502516",
+      "score": 5,
+      "review_title": "God",
+      "review_description": "God",
+      "date": 1731699760,
+      "review_helpful_count": 2,
+      "author_display_name": "MARMOTAVR",
+      "author_alias": "MARMOTAVR",
+      "developer_response": null
+    },
+    {
+      "id": "547869598401218",
+      "score": 5,
+      "review_title": "Muy bien juego",
+      "review_description": "W",
+      "date": 1731876044,
+      "review_helpful_count": 2,
+      "author_display_name": "Leandro33",
+      "author_alias": "Leandro33",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:02:32Z"
+}

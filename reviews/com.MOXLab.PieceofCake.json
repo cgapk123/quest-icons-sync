@@ -1,0 +1,34 @@
+{
+  "app_id": "5889699091096165",
+  "package_name": "com.MOXLab.PieceofCake",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Piece of Cake",
+  "rating_average": 4.4,
+  "rating_count": 5,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "179168524864791",
+      "score": 5,
+      "review_title": "Best score 16.35",
+      "review_description": "Fun casual game, good hand tracking!",
+      "date": 1675406221,
+      "review_helpful_count": 0,
+      "author_display_name": "William_Momentx",
+      "author_alias": "William_Momentx",
+      "developer_response": {
+        "body": "Awesome, thanks for the feedback! That's a great score you got there!",
+        "date": 1675479351
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:02:39Z"
+}

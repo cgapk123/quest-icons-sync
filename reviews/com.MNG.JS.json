@@ -1,0 +1,53 @@
+{
+  "app_id": "5497181136973815",
+  "package_name": "com.MNG.JS",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Jun's Adventure",
+  "rating_average": 1.6666666666667,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "475943073615400",
+      "score": 3,
+      "review_title": "Has potential",
+      "review_description": "I'm very confused on what this game truly is, there seems to be no footage of the game either, there is just a input screen for a four digit code which seems privately for admin players. But the cover looks kinda cool.",
+      "date": 1618457399,
+      "review_helpful_count": 1,
+      "author_display_name": "GalaxyRa1der",
+      "author_alias": "GalaxyRa1der",
+      "developer_response": null
+    },
+    {
+      "id": "170782808214083",
+      "score": 1,
+      "review_title": "makes no sense",
+      "review_description": "I need to put in some code and its in Japanese",
+      "date": 1617016617,
+      "review_helpful_count": 12,
+      "author_display_name": "qzuits",
+      "author_alias": "qzuits",
+      "developer_response": null
+    },
+    {
+      "id": "139957955130218",
+      "score": 1,
+      "review_title": "Does not start on Oculus quest 2",
+      "review_description": "I hear a ding noise once a while after waiting up to 1 min.",
+      "date": 1641154075,
+      "review_helpful_count": 0,
+      "author_display_name": "yes4me",
+      "author_alias": "yes4me",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:02:02Z"
+}

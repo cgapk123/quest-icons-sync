@@ -1,0 +1,158 @@
+{
+  "app_id": "3497148190407250",
+  "package_name": "com.MakuXR.SimpleTheremin",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Simple Theremin",
+  "rating_average": 3.4761904761905,
+  "rating_count": 21,
+  "review_count": 12,
+  "reviews": [
+    {
+      "id": "2263849800449964",
+      "score": 5,
+      "review_title": "The Perfect App",
+      "review_description": "This app is just beautiful in simplicity.  It's a theremin.  You just wave your hands around it to create music.  It's just that simple.  There's not a fancy background or complicated tutorial--it's just a simple theremin standing in a non-descript space inviting you to play.  It's a great concept for a VR title and it is executed perfectly.",
+      "date": 1666058311,
+      "review_helpful_count": 2,
+      "author_display_name": "TheForbinProject",
+      "author_alias": "TheForbinProject",
+      "developer_response": null
+    },
+    {
+      "id": "2017410005066602",
+      "score": 4,
+      "review_title": "Very effective use of hand tracking.",
+      "review_description": "I've played a theremin in VR once or twice before, but it's a whole new experience with hand tracking.",
+      "date": 1619297812,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "713630442660236",
+      "score": 5,
+      "review_title": "an alluring instrument",
+      "review_description": "Something about a Theramin makes people want to *attempt* to play it (with varying degrees of success), perhaps it is the invisibilty inherent in its control that is responsible for both phenomona. Very Cool!",
+      "date": 1616301190,
+      "review_helpful_count": 1,
+      "author_display_name": "PersonalDemon",
+      "author_alias": "PersonalDemon",
+      "developer_response": null
+    },
+    {
+      "id": "571501500921832",
+      "score": 1,
+      "review_title": "Not as advertised...unfortunatly",
+      "review_description": "Theres actually 4 \"noises\" in total..but NONE are the one like an original theremin, which its a fluid \"wistle\" just like the video advertised. And that \"spatial/live\" button?  I honestly dont whats that for cause....it changes nothing. I have an original quest btw. I hope its just a bug because of that. Im looking forward for and update for this experience...since a REAL  DECENT theremin with 2 antennas cost a small fortune......",
+      "date": 1619630693,
+      "review_helpful_count": 0,
+      "author_display_name": "Athllon",
+      "author_alias": "Athllon",
+      "developer_response": {
+        "body": "I'm sorry to hear you didn't have a great experience with our app. \nI can assure you that our trailer's music melody was indeed recorded using the sine wave in-app (with some reverb).\n\nUnfortunately, given the refresh-rate of around 90Hz on a mobile device, it isn't possible to sample the change in pitch fast enough to make a completely seamless sweep when moving too quickly.\n\nThe live mode simply disables directional sound in order to allow for plugging your headset into an amp and use it in a live performance so it can be hard to notice the difference in-headset.\n\nI hope you didn't feel deceived by our app's polish. We decided to release it on this channel free of charge because we too don't believe it met our standards for a purchasable item.",
+        "date": 1620766969
+      }
+    },
+    {
+      "id": "513553833161866",
+      "score": 5,
+      "review_title": "Very Cool",
+      "review_description": "The concept of playing a virtual Theremin is so cool. Works just as you would expect. I love how the whole instrument is intuitive - no finger placement or strings to learn. If you can whistle or hum a tune, you can play it on the Theremin with a bit of practice.\n\nI would suggest an in-game help menu or tool tips to describe the frequency/pitch antenna, the amplitude/volume antenna, and the purpose of the live mode.",
+      "date": 1616386979,
+      "review_helpful_count": 4,
+      "author_display_name": "gamingscienceteacher",
+      "author_alias": "gamingscienceteacher",
+      "developer_response": null
+    },
+    {
+      "id": "453830996054257",
+      "score": 5,
+      "review_title": "Bucket list item, virtually",
+      "review_description": "I have always wanted to have a play with a theremin, seriously. I really enjoy this be careful not to have your volume too loud though. Great work developer!",
+      "date": 1615928962,
+      "review_helpful_count": 4,
+      "author_display_name": "LazyActivist",
+      "author_alias": "LazyActivist",
+      "developer_response": {
+        "body": "Thank you for writing a review! I too developed it because I always wanted to give it a try but was never able to justify the expense so I'm delighted to hear you had a good time with it =)",
+        "date": 1616280611
+      }
+    },
+    {
+      "id": "298157385146352",
+      "score": 5,
+      "review_title": "Lovely Stuff...",
+      "review_description": "The theremin is one of those instruments that intruige you enough to want to try one but you never quite get around to it which is what makes this VR version just perfect.\nIt works very well and sounds great, it has an intuitive and haunting quality. The various sound waves, pitch function and reverb are good, however, the hand tracking is a little tricky, it definitely works better with controllers.\nI figured out how to play a three octave major scale and have learned some simple melodies within that frame work. It's one of those musical instruments that has a lot of scope.\nI was wondering if a simple tuner within the app might work well, just so that you can bring the root note up to pitch while using the slider. \nThanks for creating this :)",
+      "date": 1617030959,
+      "review_helpful_count": 2,
+      "author_display_name": "flutingspirit",
+      "author_alias": "flutingspirit",
+      "developer_response": null
+    },
+    {
+      "id": "167914008744303",
+      "score": 5,
+      "review_title": "Thank you for making Theremin!",
+      "review_description": "IT'S REALLY AN INSTRUMENT FOR VR.\n\nWHO KNOWS IT WAS INVENTED IN 100 YEARS AGO?\n\nBig thanks to you. It's very good Theremin experience. My dream comes true now! Now I can become Jimmy Page : ) . Would it be possible to add more circuit like overdrive/ distortion/ and Delay in the future?",
+      "date": 1628472712,
+      "review_helpful_count": 3,
+      "author_display_name": "MajorAlpha",
+      "author_alias": "MajorAlpha",
+      "developer_response": null
+    },
+    {
+      "id": "134940886291710",
+      "score": 3,
+      "review_title": "funny to test",
+      "review_description": "Funny to test, but to limited. Could be cool to have a minimalist beatbox, for example....\nOK to try 5mn, but no more i think.",
+      "date": 1688718419,
+      "review_helpful_count": 1,
+      "author_display_name": "Quest2.12200",
+      "author_alias": "Quest2.12200",
+      "developer_response": null
+    },
+    {
+      "id": "122150313413573",
+      "score": 1,
+      "review_title": "Poop",
+      "review_description": "Poo",
+      "date": 1625863578,
+      "review_helpful_count": 5,
+      "author_display_name": "sonnyonvr",
+      "author_alias": "sonnyonvr",
+      "developer_response": null
+    },
+    {
+      "id": "114300335109235",
+      "score": 2,
+      "review_title": "Appreciated but problematic",
+      "review_description": "In my (hand tracked) usage on the quest 3, the intervals between pitch updates were absolutely brutal, rendering the instrument unplayable. You can hear very obvious stepping in the pitch. Hopefully you can reduce that because this is a great idea!",
+      "date": 1697063200,
+      "review_helpful_count": 1,
+      "author_display_name": "MableMunroe",
+      "author_alias": "MableMunroe",
+      "developer_response": null
+    },
+    {
+      "id": "112947387816534",
+      "score": 4,
+      "review_title": "It is what it is...",
+      "review_description": "I'm not sure what I can say about this, except that I expected a theremin and got a theremin. It would be nice to have actual hands to be able to play, so you could make finger adjustments, but it's still early in its development. Good work so far!",
+      "date": 1633317974,
+      "review_helpful_count": 7,
+      "author_display_name": "Psykazen",
+      "author_alias": "Psykazen",
+      "developer_response": null
+    }
+  ],
+  "total": 12,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:07:12Z"
+}

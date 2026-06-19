@@ -1,0 +1,59 @@
+{
+  "app_id": "1702109373193083",
+  "package_name": "com.MaestroCreation.SickCoaster",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Sick Coaster",
+  "rating_average": 2.2857142857143,
+  "rating_count": 7,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "586236545069729",
+      "score": 1,
+      "review_title": "Not worth a buck 99",
+      "review_description": "Waste of 2 bucks. Not fun. Cannot figure out how to get refund. Will be more careful next time.",
+      "date": 1525656794,
+      "review_helpful_count": 6,
+      "author_display_name": "bladeturbo1973",
+      "author_alias": "bladeturbo1973",
+      "developer_response": null
+    },
+    {
+      "id": "330072214160869",
+      "score": 5,
+      "review_title": "Nice",
+      "review_description": "Actually nice, the \"bonus\" coaster is more simple but probably better. I dont regret it s nice coasters",
+      "date": 1516211058,
+      "review_helpful_count": 6,
+      "author_display_name": "toto666601",
+      "author_alias": "toto666601",
+      "developer_response": {
+        "body": "thank you for your comment, hope you enjoyed it!",
+        "date": 1516664824
+      }
+    },
+    {
+      "id": "176144999671768",
+      "score": 1,
+      "review_title": "Darius",
+      "review_description": "Crappy app, not worth to pay 2 eur...",
+      "date": 1519764845,
+      "review_helpful_count": 5,
+      "author_display_name": "daariukaas",
+      "author_alias": "daariukaas",
+      "developer_response": {
+        "body": "Very useful comment, it helps us a lot to improve...",
+        "date": 1520441406
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:05:31Z"
+}

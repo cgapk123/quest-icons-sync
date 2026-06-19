@@ -1,0 +1,115 @@
+{
+  "app_id": "8730228070435331",
+  "package_name": "com.MalibaEntertainment.GrowACompany",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Grow A Company",
+  "rating_average": 3.4166666666667,
+  "rating_count": 24,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "1003114272892061",
+      "score": 4,
+      "review_title": "Dont listen to the others!",
+      "review_description": "The start of the gane is confusing. But all you have to do is click on the boxes with the words on them, then scroll all the way down the press the X. Do that for both both buttons. Then you can start your shift! But it doesn’t tell you what to do or how to play. This game has potential. But they need a tutorial.  And they need to fix the way you grab items.because it’s broken. And the night vision goggles, you have to put it over your head in order to see in the dark. I wish there was a button where it just puts it on your head and you don’t have to hold it  the whole time. Great game! But I still don’t know how to play.",
+      "date": 1774300622,
+      "review_helpful_count": 8,
+      "author_display_name": "berserk.king",
+      "author_alias": "berserk.king",
+      "developer_response": {
+        "body": "Hey the.berserker, we’re aware of the issues around policy acceptance and we’re actively working on fixing them.\n\nAlongside that, we’re rolling out a new tutorial designed to give players a clear baseline understanding of how the game works. One of the biggest pieces of feedback we’ve seen is that the game can be hard to pick up at first, so we’re making sure this tutorial properly covers the core systems.\n\nAs for items, you’re technically not meant to rely on them since they reduce your score. They’re more of a small easter egg for players who want to experiment with produce, and this will be clarified in the tutorial.\n\nThis update is expected to roll out within the next few days.",
+        "date": 1774341012
+      }
+    },
+    {
+      "id": "1098941463295396",
+      "score": 5,
+      "review_title": "Good game btw ignore my profile",
+      "review_description": "Second follower good game idk what else to say but it's a good game.ignore my profile",
+      "date": 1771810818,
+      "review_helpful_count": 17,
+      "author_display_name": "TTVMVLO",
+      "author_alias": "TTVMVLO",
+      "developer_response": null
+    },
+    {
+      "id": "928203567053116",
+      "score": 1,
+      "review_title": "This game looks good but...",
+      "review_description": "I  was so excited to play this because it looks so cool but when i joined i couldnt check the boxes that allow me to play the game, the game is currently broken. Please fix this looks so good",
+      "date": 1773340748,
+      "review_helpful_count": 0,
+      "author_display_name": "Cozmic24",
+      "author_alias": "Cozmic24",
+      "developer_response": {
+        "body": "Hey Cozmic! We just pushed out our first major update, and this issue should be fixed now.",
+        "date": 1773520681
+      }
+    },
+    {
+      "id": "934595045769484",
+      "score": 1,
+      "review_title": "Cant even play",
+      "review_description": "It wont let me it keeps saying, \"login error\"",
+      "date": 1772396521,
+      "review_helpful_count": 2,
+      "author_display_name": "77BlueDog77",
+      "author_alias": "77BlueDog77",
+      "developer_response": {
+        "body": "Hey, at the time you tried to log in the servers were at capacity and automatically rejecting new sessions. We’ve deployed a fix to better handle these situations and added clearer in-game messaging so it’s properly explained if it happens again.",
+        "date": 1772565076
+      }
+    },
+    {
+      "id": "1294052605944975",
+      "score": 1,
+      "review_title": "I'm so mad",
+      "review_description": "This game made me hurt my hand and its unplayable and i cant join publics",
+      "date": 1772943075,
+      "review_helpful_count": 1,
+      "author_display_name": "gamerman123jkjkjjjj",
+      "author_alias": "gamerman123jkjkjjjj",
+      "developer_response": {
+        "body": "Hey gamerman, just a quick heads-up: the game is still in its early stages, so lobbies may often be empty and you might not always find other players. For the best experience right now, we recommend jumping in with friends.",
+        "date": 1773522995
+      }
+    },
+    {
+      "id": "1006083679260164",
+      "score": 4,
+      "review_title": "This game is alright",
+      "review_description": "This is a really good game but it hurt my ears when I walked into the shift and it just got louder now I know I love this game now",
+      "date": 1773956115,
+      "review_helpful_count": 0,
+      "author_display_name": "Wallnut_AC",
+      "author_alias": "Wallnut_AC",
+      "developer_response": {
+        "body": "Hey FroggyDaPlayer, glad you’re enjoying the game.\n\nAbout the volume: you can tweak it in the settings right now, but we’re also going to tone a few things down by default so it’s not as aggressively loud out of the box.",
+        "date": 1773992040
+      }
+    },
+    {
+      "id": "2699327933763140",
+      "score": 1,
+      "review_title": "Hate this",
+      "review_description": "The game wont even let me move, because everytime i log in, it puts my arms all the way to the ground  so i cant do ANYTHING",
+      "date": 1773689429,
+      "review_helpful_count": 0,
+      "author_display_name": "jawsgodzilla",
+      "author_alias": "jawsgodzilla",
+      "developer_response": {
+        "body": "Hey jawsgodzilla; if you’re on a Meta Quest Pro, just a heads up that controller support on that headset’s been a bit unstable.\n\nWe’re already working on a hotfix and it should be out within the next few hours to address it.",
+        "date": 1773855974
+      }
+    }
+  ],
+  "total": 7,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:07:26Z"
+}
