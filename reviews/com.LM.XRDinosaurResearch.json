@@ -1,0 +1,48 @@
+{
+  "app_id": "30943465865297180",
+  "package_name": "com.LM.XRDinosaurResearch",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "XR Dinosaur Research Institute",
+  "rating_average": 1.8,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "875801345613819",
+      "score": 1,
+      "review_title": "Let me open the door !!!",
+      "review_description": "Cant open the door to start .. Wth",
+      "date": 1760650335,
+      "review_helpful_count": 3,
+      "author_display_name": "darrell.b",
+      "author_alias": "darrell.b",
+      "developer_response": {
+        "body": "Experience it with hand tracking, not controllers.",
+        "date": 1761562999
+      }
+    },
+    {
+      "id": "909654542233614",
+      "score": 1,
+      "review_title": "cant even start the game",
+      "review_description": "I cant even open the door to start",
+      "date": 1766862432,
+      "review_helpful_count": 0,
+      "author_display_name": "Dino_aubs",
+      "author_alias": "Dino_aubs",
+      "developer_response": {
+        "body": "Experience it with hand tracking, not controllers.",
+        "date": 1767084478
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:39:27Z"
+}

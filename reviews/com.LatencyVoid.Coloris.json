@@ -1,0 +1,59 @@
+{
+  "app_id": "25663226159954194",
+  "package_name": "com.LatencyVoid.Coloris",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Coloris",
+  "rating_average": 4.3333333333333,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1163368343533004",
+      "score": 3,
+      "review_title": "Nice game that could be improved",
+      "review_description": "1) Hand tracking only was a bad choice. The intro screen shows grabbing with two fingers. The game only registers grabbing with three or more fingers! And it's very glitchy, often either not working, or pulling pieces without intention. Adding controller support would improve usability, and it would give movement impaired people the needed comfort to enjoy the game.\n\n2) The graphics are low resolution and don't have anti-aliasing. Would be nice to get that on the Q3. An option for VR with a dark single colour environment, instead of passthrough AR, would make it easier to distinguish the block's colours.\n\n3) I hope the puzzles get bigger and more engaging. The first levels are very easy and short. Maybe take a look at \"I Love Hue (Too)\" and implement some of those bigger puzzles? These would work perfectly with controller support.",
+      "date": 1781806982,
+      "review_helpful_count": 0,
+      "author_display_name": "daniel_schaf",
+      "author_alias": "daniel_schaf",
+      "developer_response": null
+    },
+    {
+      "id": "1021390821055485",
+      "score": 5,
+      "review_title": "Calm, Clever, and Seriously Satisfying",
+      "review_description": "This puzzle game strikes the perfect balance between relaxing and challenging. The levels feel thoughtfully crafted, each one pushing you to think just a little differently. It’s simple to pick up, hard to put down, and incredibly satisfying when everything clicks into place. A clean, polished experience that respects your time and rewards your brain.",
+      "date": 1772070364,
+      "review_helpful_count": 1,
+      "author_display_name": "gamedev2000",
+      "author_alias": "gamedev2000",
+      "developer_response": {
+        "body": "Thank you so much for this thoughtful review. I’m really glad Coloris gave you that calm-yet-clever rhythm I aimed for. It means a lot to hear the experience feels both respectful of your time and rewarding to play.",
+        "date": 1772999209
+      }
+    },
+    {
+      "id": "1424560779471041",
+      "score": 5,
+      "review_title": "Relaxing, Chill Game!",
+      "review_description": "Very easy to understand, good sound effects and lots of levels.",
+      "date": 1774339477,
+      "review_helpful_count": 0,
+      "author_display_name": "YaKidMe",
+      "author_alias": "YaKidMe",
+      "developer_response": {
+        "body": "Thank you! I’m really glad you’re enjoying the calm vibe and the level flow. Hope Coloris continues to be a relaxing break in your day.",
+        "date": 1774362399
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:41:23Z"
+}

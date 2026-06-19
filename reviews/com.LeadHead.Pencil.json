@@ -1,0 +1,773 @@
+{
+  "app_id": "7699993220035742",
+  "package_name": "com.LeadHead.Pencil",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Pencil - Learn to Draw",
+  "rating_average": 4.46875,
+  "rating_count": 96,
+  "review_count": 54,
+  "reviews": [
+    {
+      "id": "1146197348566486",
+      "score": 2,
+      "review_title": "I can't draw an image from my gallery.",
+      "review_description": "I'm trying to grant permission to my images, but the program simply won't let me open them. It keeps showing a button asking for permission...",
+      "date": 1776799278,
+      "review_helpful_count": 6,
+      "author_display_name": "Sumoron",
+      "author_alias": "Sumoron",
+      "developer_response": null
+    },
+    {
+      "id": "908672082337434",
+      "score": 5,
+      "review_title": "Does it do what it says?",
+      "review_description": "If I were looking into this game, I’d wonder if it translates into doing what it says it does: teach you to drawl irl using mixed reality, with real paper outputs. It does. The pictures are real. It does help you practice. It’s cute and fun. Buy it!",
+      "date": 1768842030,
+      "review_helpful_count": 12,
+      "author_display_name": "AdventureReady",
+      "author_alias": "AdventureReady",
+      "developer_response": {
+        "body": "thanks so much for the kind words!  We are super glad that it's helping you draw and accomplishing our goal.  Thanks!!",
+        "date": 1768844941
+      }
+    },
+    {
+      "id": "883204768215378",
+      "score": 4,
+      "review_title": "Very cool app",
+      "review_description": "This app is very cool but it’s also kinda buggy, like while the in app paper is aligned with the irl paper but the tracings hover just above the paper making it a bit harder to use and also the hand tracking is bugged, sometimes the hands freeze in one place. But overall it’s very cool, I can actually draw competent drawings.",
+      "date": 1765799909,
+      "review_helpful_count": 16,
+      "author_display_name": "uramonki666",
+      "author_alias": "uramonki666",
+      "developer_response": {
+        "body": "Thanks for the review and the feedback!  We're working on methods to make the paper alignment better, but since we know it can't be perfect, we have those grabbers to let you move the page up and down.  There should be a \"height\" floating above the page when you are calibrating at the start, as well as when you hit the wrench icon during a lesson.\nWe'll definitely see what we can do to make this more smooth for you.  Thanks for the feedback!",
+        "date": 1765835187
+      }
+    },
+    {
+      "id": "1329631288849346",
+      "score": 5,
+      "review_title": "A Remarkable Game",
+      "review_description": "This game feels genuinely rewarding, and the fact that you can keep your physical drawings afterward is truly wonderful.\nFor some reason, the green instructional lines appear very thin and a bit hard for me to see, which can be slightly challenging at times. However, overall I am still very satisfied with the experience.\nI really hope to see more additional content packs in the future—especially designs like cats, hedgehogs, and roses, rather than strictly sketch-style subjects.",
+      "date": 1768440175,
+      "review_helpful_count": 3,
+      "author_display_name": "tsuzuku7",
+      "author_alias": "tsuzuku7",
+      "developer_response": {
+        "body": "Thanks for the kind review and the suggestions.  \nWe can look into the green lines weight, but one note is that there is a transparency slider in the lessons. I think it defaults to like 80% visible, so mostly there, but if they are hard to see you might be able to slide that up and see them better.  Or they may just be too faint/thin and we need to work on them. Either way we'll investigate, but I figured I'd pass along the note just in case it helps.  Thanks again!",
+        "date": 1768844905
+      }
+    },
+    {
+      "id": "899173282742812",
+      "score": 1,
+      "review_title": "Frame keeps shifting away from paper",
+      "review_description": "I can’t follow any of the instructions because the frame keeps shifting around the pice of paper. I will turn my head a bit and the whole thing will be of.",
+      "date": 1772587974,
+      "review_helpful_count": 0,
+      "author_display_name": "DeenAbd",
+      "author_alias": "DeenAbd",
+      "developer_response": {
+        "body": "I'm really sorry to hear you are running into this issue! It seems like some headsets keep tracking longer than others, but regardless, we will continue to look into ways to optimize this and keep alignment longer.  \nThanks for the feedback! We are always happy for input",
+        "date": 1773155854
+      }
+    },
+    {
+      "id": "939529599245295",
+      "score": 5,
+      "review_title": "Fantastic app",
+      "review_description": "I have just bought this app and it's well worth the money keep up the good work developers. I would like settings to be anchored I bit firmer when you return to drawing session.\nBut it's a really great app.",
+      "date": 1768928648,
+      "review_helpful_count": 2,
+      "author_display_name": "GDtomo",
+      "author_alias": "GDtomo",
+      "developer_response": {
+        "body": "Thanks for the kind words and the review!  We really appreciate it!!",
+        "date": 1767970677
+      }
+    },
+    {
+      "id": "903862596139654",
+      "score": 5,
+      "review_title": "Almost perfect",
+      "review_description": "This application is beautiful since I was a child I always hated drawing, I was frustrated that I didn’t even get a stroke with the pencil but this application made it too much fun HAHAHAHA it’s too entertaining to finally be able to draw decently it has a function to trace your own photos and it also has drawing lessons I loved it but it has two small problems the first is the lack of languages if they added many more languages so that everyone understands the lessons this application would become one of the indispensable apps in meta quest and the other detail are the drawing dlc as I would have liked to have the anime package but unfortunately it costs money, although to be honest it is not such a bad thing since at the end of the day the developer needs to earn money and technically he is selling some classes to improve the anime drawing but it would be good if in the future they added free packages\n\n\n\n\n\nEdit: As a last suggestion I think it would be good if they deactivated the hand tracking to make it easier to draw since it is a little uncomfortable that the hand tracking gets in the way when making the drawing ;)",
+      "date": 1764714675,
+      "review_helpful_count": 3,
+      "author_display_name": "bocchigotoh",
+      "author_alias": "bocchigotoh",
+      "developer_response": {
+        "body": "Thanks for the kind review and the feedback.\nLanguages - this is on the list, but yikes is it scary. Our app has so many words!  We'll for sure do it, but likely not until after the new year.  You mentioning it here is another vote for it, which does help bump it up our to-do list.\nContent - we do plan to add free content!  The November content is a pay pack (dino's), but in December we're planning to add 2 more free packs of lessons.  Our goal is to add content every month. Some months will be free, some will be paid.  We aren't sure the right balance yet, but hope to figure it out over time.",
+        "date": 1763747040
+      }
+    },
+    {
+      "id": "795375969781509",
+      "score": 5,
+      "review_title": "With this app I can draw!!",
+      "review_description": "So I’ve been trying out this app and honestly, it’s a really neat experience. The whole idea is to teach you how to draw, from the fundamentals and working through different techniques like proportions, shading, and more.\n\nNow, I’ll be straight with you, I’m not very good at drawing in real life. But with this app, I was able to follow the step-by-step guides and actually come out with a picture that looked like the one I was trying to copy. That felt amazing in itself, but the best part is you get a physical copy at the end to keep and display if you want. That’s such a cool touch.\n\nThe app has a really peaceful vibe. It’s educational, but also relaxing, almost meditative at times. You don’t need to move much either, which makes it perfect for seated play. The guides, explanations, and directions are really clear and easy to follow, so even if you’ve got little to no drawing experience, you can still make something you’re proud of.\n\nWhat I love most is the variety. There’s a wide range of lessons and templates to try, but you can also add your own items, which means the possibilities are pretty much endless. Whether you’re looking to pick up drawing as a new skill, or just want a chill creative outlet in VR, Pencil is definitely worth checking out.",
+      "date": 1757336025,
+      "review_helpful_count": 67,
+      "author_display_name": "darkripperuk",
+      "author_alias": "darkripperuk",
+      "developer_response": {
+        "body": "Thanks for the kind words.  This is such a great review and we really appreciate it!  I hope you are able to keep enjoying the app and improving your drawing skills :)",
+        "date": 1757613297
+      }
+    },
+    {
+      "id": "785102791017262",
+      "score": 5,
+      "review_title": "Unbelievably cool",
+      "review_description": "I don't usually write reviews but I felt compelled to do it for this app. I bought it on a whim cuz I was bored and a few beers in, stopped for a while, put my glass down, pulled out a big sheet of paper and put it on the table. Pulled out a pencil and a little sharpener and started drawing. Instantly came out with some amazing drawings and I was flabbergasted. This app is the real deal. There's so much potential here I hope the developers don't stop. This could be a serious learning tool. I used to draw and be a pretty good artist but for a few decades I let it slip. This brought it all back instantly. Such a gem! Can't wait for more please keep it going devs. Even maybe go for licenses like Star wars and video game stuff like Nintendo and Atari?",
+      "date": 1761554560,
+      "review_helpful_count": 4,
+      "author_display_name": "wikkeddave",
+      "author_alias": "wikkeddave",
+      "developer_response": {
+        "body": "Those licenses would be awesome! We definitely plan to keep going and will see what we can do along the lines of your ideas :)",
+        "date": 1761699759
+      }
+    },
+    {
+      "id": "792845023919714",
+      "score": 5,
+      "review_title": "It does not load",
+      "review_description": "When I try to open the app I just get a loading screen which eventually freezes. I have tried uninstalling and reinstalling with no luck.\n\nEdit: thanks for your reply. I tried, but it still does not work. Maybe a new update for the quest I applied yesterday broke it. I'll hang on and hope future updates solves the problem as the idea of the game is interesting and I would like to try it. I hope I'm the only one.\n\nEdit: unfortunately 1.1.3 is still stuck on the loading screen. 5* for support though. I'll keep trying on future updates.",
+      "date": 1760852768,
+      "review_helpful_count": 5,
+      "author_display_name": "GlowingDolphin8103",
+      "author_alias": "GlowingDolphin8103",
+      "developer_response": {
+        "body": "Thanks for updating the review, and we're still so sorry about the issue.  We have reminded Meta about it, in hopes they'll fix it.  We also are exploring anything we could do on our end to work around the issue.  I'll update here if we find an answer, but you can also join our discord if you want more direct communication.",
+        "date": 1761004975
+      }
+    },
+    {
+      "id": "771189409418656",
+      "score": 5,
+      "review_title": "11 out of 10",
+      "review_description": "Experiences like this are EXACTLY what VR was created for.  It's amazing that I'm in my 40s, and just learning to doodle finally.  Learning shading, and other techniques, while have a vast variety of things to draw , just blows me away.    This should be a day one purchase for anybody who owns a VR headset.",
+      "date": 1760434098,
+      "review_helpful_count": 5,
+      "author_display_name": "Brock.Harder",
+      "author_alias": "Brock.Harder",
+      "developer_response": {
+        "body": "That's so kind!  Thank you for the great review. We're always happy to hear someone using the app to get better at drawing.  Keep it up!",
+        "date": 1760536410
+      }
+    },
+    {
+      "id": "1147706477349768",
+      "score": 5,
+      "review_title": "Great fun tool",
+      "review_description": "With this tool, you can level up your drawing in no time!\nVery easy to use, with simple controls, yet enough options to cater to anyone.\nDrawing is such a fun social activity, share the headset with family and friends. Have a good time and improve your drawing as well!",
+      "date": 1763340474,
+      "review_helpful_count": 1,
+      "author_display_name": "Qipper",
+      "author_alias": "Qipper",
+      "developer_response": {
+        "body": "Thanks for the kind review.  We're glad you're enjoying it, and hope your art skills continue to improve!",
+        "date": 1763747072
+      }
+    },
+    {
+      "id": "843489148073096",
+      "score": 5,
+      "review_title": "Absolutely fantastic",
+      "review_description": "An absolutely awesome app to learn to draw, the interface is excellent and easy to use. Control is good with hand position being very important after 1 or 2 pictures I got it figured out. The tutorials are very good take your time go slow and you will be amazed at the results. It's very satisfying to see the finished image on the page. A few tips find a comfortable spot to do your sketching, allocate a good amount of time so you can take your time for better results and dollar stores are great places to get supplies if you're on a tight budget. Hats off to the devs for creating a fun relaxing learning experience that anyone can enjoy. 👍",
+      "date": 1762257091,
+      "review_helpful_count": 1,
+      "author_display_name": "Rustynailz178",
+      "author_alias": "Rustynailz178",
+      "developer_response": {
+        "body": "Thanks so much!  We're glad you are learning and enjoying the app. And super glad you took the time to come here and let us know.  It's really nice to hear about people enjoying the app!!",
+        "date": 1762277027
+      }
+    },
+    {
+      "id": "848913631178479",
+      "score": 5,
+      "review_title": "Incredible app, works great!",
+      "review_description": "i've been using this to draw, and i've made content on it. its been really great! the app works really really well and has all the features you'd expect it to have and more!",
+      "date": 1764150479,
+      "review_helpful_count": 1,
+      "author_display_name": "Rijstewekkie",
+      "author_alias": "Rijstewekkie",
+      "developer_response": {
+        "body": "Thanks for the kind review!  We're glad you are enjoying it :)",
+        "date": 1764470552
+      }
+    },
+    {
+      "id": "788756870527612",
+      "score": 5,
+      "review_title": "No More Excuses! You can learn to draw!",
+      "review_description": "Full app review here: https://youtu.be/pGi3JjeMYwc\n\nI’ve been so impressed with this app. It is user-friendly, charming, has great progression of lessons, and has features that are more than just learning to draw. I’ve filled more pages of my notepad in the last week than I had in the last five years. \nBeing a painter, I’m able to use this app to help plan out paintings on my canvas. \n\nFor anyone who has ever said that they can’t draw, as my title says, there are no more excuses. This app will be able to teach you how to draw.",
+      "date": 1758068466,
+      "review_helpful_count": 8,
+      "author_display_name": "BrianSloan",
+      "author_alias": "BrianSloan",
+      "developer_response": {
+        "body": "Thanks for the kind words!  I'm glad it's not only helping with sketching, but paint-planning!  You could also paint while in the app, but that always makes me nervous that I'll get paint on the cameras :)",
+        "date": 1758405617
+      }
+    },
+    {
+      "id": "940704342453063",
+      "score": 5,
+      "review_title": "Good app",
+      "review_description": "I usually don't leave reviews but this app is really good. Speech doesn't work always though.",
+      "date": 1765488310,
+      "review_helpful_count": 1,
+      "author_display_name": "tw.vr",
+      "author_alias": "tw.vr",
+      "developer_response": {
+        "body": "thanks for leaving a review! We always appreciate it.  \n\nYeah, we're not sure why the speech has been getting worse and worse.  Our latest update(on December 12) just disables it entirely while we investigate fixing it.",
+        "date": 1765825400
+      }
+    },
+    {
+      "id": "866675273190238",
+      "score": 5,
+      "review_title": "Get it, you won't regret it!!!",
+      "review_description": "This is an awesome app. I can't draw but this app gives endless potential to unskilled people to create images. To put creative ideas to paper. Will be giving my niece and nephew a go with this I'm sure they'll love it. \n\nDear developers,\n    Please keep adding material to this app, as paid add-ons they are well worth it. \nPlease don't go down the road of subscriptions. \nKeep up the great work you're doing.",
+      "date": 1761441829,
+      "review_helpful_count": 1,
+      "author_display_name": "Iain276",
+      "author_alias": "Iain276",
+      "developer_response": {
+        "body": "Thanks for the kind words! We plan to release new content monthly if we can. Some free, some paid. \nI hope your niece and nephew enjoy it!!",
+        "date": 1761699661
+      }
+    },
+    {
+      "id": "1332476915559220",
+      "score": 5,
+      "review_title": "Great app",
+      "review_description": "My interest in this app is to create basic murals on my car's windows.",
+      "date": 1764501381,
+      "review_helpful_count": 1,
+      "author_display_name": "chiokko",
+      "author_alias": "chiokko",
+      "developer_response": {
+        "body": "Love it! What a fun use case.",
+        "date": 1764552479
+      }
+    },
+    {
+      "id": "823852647485773",
+      "score": 5,
+      "review_title": "My son loves this app",
+      "review_description": "Love it it help my son draw way better love this app. I think you should get it.",
+      "date": 1762376581,
+      "review_helpful_count": 1,
+      "author_display_name": "CheerfulPenguin6633",
+      "author_alias": "CheerfulPenguin6633",
+      "developer_response": {
+        "body": "Thanks!  We're glad to hear about all generations enjoying the app :)",
+        "date": 1762879415
+      }
+    },
+    {
+      "id": "725603060646065",
+      "score": 5,
+      "review_title": "Great drawing program",
+      "review_description": "I like this program a lot. Making large drawing. Make it easy and fun. \nMy tip is. Make time to calibrate your working area.",
+      "date": 1758747247,
+      "review_helpful_count": 4,
+      "author_display_name": "RayAmY007",
+      "author_alias": "RayAmY007",
+      "developer_response": {
+        "body": "Thanks for the review! Yes, calibration can be a bit tricky, and it's good to adjust the height to really make sure it lines up well.  We're working on making it easier, but for now, good tip... calibrate carefully!",
+        "date": 1758829070
+      }
+    },
+    {
+      "id": "32147532098167406",
+      "score": 5,
+      "review_title": "Great way to get into the hobby",
+      "review_description": "This app really motivates you to pick up the hobby of drawing and gives you the guidance you need as a beginner. There is even a virtual drawing mode for occasions when you don't have pen and paper ready.",
+      "date": 1758615721,
+      "review_helpful_count": 2,
+      "author_display_name": "blawiar",
+      "author_alias": "blawiar",
+      "developer_response": {
+        "body": "Thanks for the kind words. We're so glad this is helping you stay motivated to draw!",
+        "date": 1758828991
+      }
+    },
+    {
+      "id": "1480723756508811",
+      "score": 5,
+      "review_title": "My drawing keep getting better and bette",
+      "review_description": "High quality app for low cost. I'm in love with it and would recommend it to others.",
+      "date": 1761159983,
+      "review_helpful_count": 1,
+      "author_display_name": "Romik",
+      "author_alias": "Romik",
+      "developer_response": {
+        "body": "Thanks for the kind words!  We always appreciate the feedback and the generous rating :)",
+        "date": 1761264926
+      }
+    },
+    {
+      "id": "823765873469844",
+      "score": 4,
+      "review_title": "great for beginners",
+      "review_description": "it deserve a 4.5 stars . the correction of the canvas placement is good . next improvment should be more advance techniques.",
+      "date": 1759318445,
+      "review_helpful_count": 0,
+      "author_display_name": "Kitana228",
+      "author_alias": "Kitana228",
+      "developer_response": {
+        "body": "Thanks for the feedback.  \n\nWe are always working to add content to the app. What sorts of advanced technique's would you like to see?  Also, in case you weren't aware, you can jump to any chapter in academy (the later ones are more advanced), and in case you just want the most advanced items, you can go to Library, and search/filter the lessons by difficulty.  \n\nAnyway, glad you liked it. We'll work to keep adding lessons :)",
+        "date": 1759347204
+      }
+    },
+    {
+      "id": "1684199408927653",
+      "score": 5,
+      "review_title": "greatest art tool anyone can ever have",
+      "review_description": "forget about if you can't draw that well if you can draw a little it will take you on another level they must have for anyone",
+      "date": 1757891592,
+      "review_helpful_count": 2,
+      "author_display_name": "ktrainocculas",
+      "author_alias": "ktrainocculas",
+      "developer_response": {
+        "body": "Thanks, this is so kind! We are glad you like the app, and glad it is helping you draw.",
+        "date": 1757947872
+      }
+    },
+    {
+      "id": "726163750590475",
+      "score": 5,
+      "review_title": "The update",
+      "review_description": "thank you for the fixes with the audio and making it more of a class instead of just copying. Sincerelauhhter on insta if you want to see videos of me using the app. \n\nBeen a user for ~3months",
+      "date": 1758055809,
+      "review_helpful_count": 1,
+      "author_display_name": "Galileo.0816",
+      "author_alias": "Galileo.0816",
+      "developer_response": {
+        "body": "you're welcome! We're so glad that our updates are helping you.  \n\nAlso, just checked out your channel.  I really appreciate all the videos you've shared using the app!",
+        "date": 1758405532
+      }
+    },
+    {
+      "id": "871290672516310",
+      "score": 5,
+      "review_title": "Very helpful!",
+      "review_description": "I always love drawing when I was little and I wanted to try and improve my drawings, and the lessons help me improved or helped me learn some techniques I haven't known yet. I am looking forward to using it a bit more on character poses and background drawings later in the future.",
+      "date": 1764620421,
+      "review_helpful_count": 1,
+      "author_display_name": "Seanthehero23",
+      "author_alias": "Seanthehero23",
+      "developer_response": {
+        "body": "That's amazing! We're so glad you are growing your art skills and having fun :)\nThanks for the kind review!!",
+        "date": 1764639967
+      }
+    },
+    {
+      "id": "780711541517935",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Absolutely fantastic!!!! I would like to Hungarian subtitles please 🙏🇭🇺",
+      "date": 1759171792,
+      "review_helpful_count": 0,
+      "author_display_name": "S.e.x.Y",
+      "author_alias": "S.e.x.Y",
+      "developer_response": {
+        "body": "Oooh, Hungarian subtitles! That's our first request for that language!\n\nWe know we need to solve the language issue. It's something we plan to explore, but are unsure of the timeline on.  Thanks for the up-vote on translate, and much thanks for the kind review!",
+        "date": 1759270121
+      }
+    },
+    {
+      "id": "737234189078152",
+      "score": 5,
+      "review_title": "This is the best vr drawing game ever",
+      "review_description": "I honestly think this is so much good for my drawing skills",
+      "date": 1755103843,
+      "review_helpful_count": 6,
+      "author_display_name": "MaximAngelov",
+      "author_alias": "MaximAngelov",
+      "developer_response": {
+        "body": "Thanks for the kind words!  It makes our hearts happy to hear your drawing skills are improving :)",
+        "date": 1755288603
+      }
+    },
+    {
+      "id": "724355594085966",
+      "score": 5,
+      "review_title": "Learn to Draw – The VR Way!",
+      "review_description": "Pencil – Learn to Draw! is a fantastic use of VR beyond traditional gaming. The clever frame system makes practicing drawing intuitive, especially with adjustable opacity that helps you trace and learn on “real” paper inside VR. The available drawing templates are fun and motivating, and the included tutorials cover important fundamentals like shading, perspective, and anatomy. You can even create your own collage-style compositions!\n\nEven better, the studio has released a manga-focused DLC — perfect for anime fans who want to improve their art style. Whether you’re a beginner or looking to refine your technique, this app is an inspiring tool that turns the Quest into a creative studio. A must-try for anyone curious about drawing in immersive space.",
+      "date": 1749937390,
+      "review_helpful_count": 7,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": {
+        "body": "Thanks so much for the kind words!  We're glad you're enjoying the app and were willing to leave us such a glowing review!!",
+        "date": 1751153920
+      }
+    },
+    {
+      "id": "949704327242382",
+      "score": 4,
+      "review_title": "Love thia app! But one detail",
+      "review_description": "This app introduces an amazing concept in augmented reality. I will keep using it as updates keep releasing.\nNext urgent issue that needs to be parched is an option for disabling the view of the tracked hands. I really dont need that getting on the way of the drawing. And also it overlaps with the virtual picture on top of the paper, making it invisible.\nIf that gets solved, i am coming back and giving 5 stars.",
+      "date": 1745165416,
+      "review_helpful_count": 61,
+      "author_display_name": "ViaTumba",
+      "author_alias": "ViaTumba",
+      "developer_response": {
+        "body": "Thanks for the kind words and the helpful feedback.  We've noticed some issues with the tracked hands not lining up with real hands.  We'll comment here once we have an update out that (hopefully) helps with this.\n\nUpdate - we always hide the hand outline when you are drawing, but in v0.7 we added a menu option to also hide the invisible hand (the tracking that makes it so the lesson doesn't draw over your hand).  If your hand tracking is not tracking well, you can turn this on to get a better experience.",
+        "date": 1748382690
+      }
+    },
+    {
+      "id": "740908439103695",
+      "score": 1,
+      "review_title": "Dont waste your time",
+      "review_description": "You cant upload",
+      "date": 1754537791,
+      "review_helpful_count": 5,
+      "author_display_name": "the.pash.vr",
+      "author_alias": "the.pash.vr",
+      "developer_response": {
+        "body": "Hi! Are you having trouble finding the feature, or was it not working?  The app does allow users to upload images and can be used in our free draw mode.\n\nYou can follow this video to learn how to import: https://youtu.be/7s7upDP_aVs?si=30dsv4yT2p1VeSbW\n\nIf you had issues with the app we would love to help you in our discord: https://discord.gg/GpabPFTzDy\n\nBest,\nThe Pencil team",
+        "date": 1754512589
+      }
+    },
+    {
+      "id": "701407376386216",
+      "score": 2,
+      "review_title": "Cool idea but not working for me",
+      "review_description": "I am having an impossible time getting the page to line up with my page. When I am able to get it close then it wants me to reach through solid objects like my table to push the continue button. If I’m able to somehow defy physics and do that, then I have to pick up the controller and attempt the impossible after every step to get to the next step. Very frustrating.\n\nI also can not figure out where to upload my own images.",
+      "date": 1750978742,
+      "review_helpful_count": 2,
+      "author_display_name": "Nicoleissketchy",
+      "author_alias": "Nicoleissketchy",
+      "developer_response": {
+        "body": "Thanks for the feedback. We are getting ready to release a new update that should address some of those issues.\n\nIn the current version you can grab the handle below objects to move them closer if needed, but we could do a better job pointing that out.\n\nAside from calibration (which the new update will add hand support for) the whole app is interactable with hand tracking. So you shouldn’t have to pick up a controller for anything.\n\nFor importing images, you can use this tutorial we made here: https://youtu.be/7s7upDP_aVs?si=zjhNOh26xT0TwzAS. We are also working on making this clearer\n\nIf you have any other feedback we’d love to hear it in our discord! Hope you get the chance to try it again soon once the update is live.\n\nBest,\n- The Pencil Team\n\nEdit: Hi there! We just pushed out a new update for Pencil with a ton of new features, aswell as addressed a lot of the issues you encountered. Hope you get a chance to try it again, and consider updating your review. Best",
+        "date": 1752165802
+      }
+    },
+    {
+      "id": "9460287267413006",
+      "score": 3,
+      "review_title": "still needs work",
+      "review_description": "Great potential, but calibration and alignment to paper is not accurate enough. images are above or below actual paper surface so your drawing 'float' making any head movements shift alignment. Also cannot see pencil nib clearly enough for tracing to work, for me this is fundamental for the app to work. worth keeping an eye on, but for me, I consider this currently broken/incomplete. Also, maybe I missed it, but a basic video tutorial would greatly help.",
+      "date": 1746543298,
+      "review_helpful_count": 15,
+      "author_display_name": "Dannyg",
+      "author_alias": "Dannyg",
+      "developer_response": {
+        "body": "Thanks for the feedback.  Some of what you've mentioned is partially solved by existing features (handle to move the tracing layer up & down, slider to hide the tracer so you can see your pencil more clearly), but they are not communicated well. Onboarding is high on our list, as is refining the early alignment of the drawing surface.  This feedback is super helpful and we really appreciate it.  We'll be working on features to help smooth the process for you. \nThanks again!",
+        "date": 1746633033
+      }
+    },
+    {
+      "id": "660917650438833",
+      "score": 3,
+      "review_title": "Serious problems",
+      "review_description": "I look forward to the development of this very interesting app, but at the moment it is plagued by many bugs and problems with the interface.\nThere is no way to easily change the depth  (height from the table) while working on a picture. The only way is to recalibrate the virtual sketch, which completely takes it off the table and requires a complete new calibration. Worst of all, if you don't complete the drawing in one go and have to return to it later, the interface makes it almost impossible to realign your work. The controls on a similar program, Sketch, are much more intuitive and easy to use to realign work later. \nAdd to that that the program is extremely buggy and with every small interface change the virtual photo completely disappears and is replaced by three dots, forcing a quit and restart, and this program is unfortunately nearly unusable at the moment. I look forward to seeing its development and hope that some of these problems get ironed out soon.",
+      "date": 1748092614,
+      "review_helpful_count": 5,
+      "author_display_name": "Bbwolffish",
+      "author_alias": "Bbwolffish",
+      "developer_response": {
+        "body": "Thanks for the great feedback.  \nFor the height adjustment, there is an option in the menu to reenter calibration without resetting things to the controller, but clearly that's hard to find. We either need to make onboarding about that, or more likely, just make it easier to recalibrate cleanly.  We'll definitely put this on our list and work on a better plan.  \nAnd we apologize for the free draw image issue. We'd seen it before, but thought it was dealt with. We'll dig into this as well and work on a solution ASAP.",
+        "date": 1748382488
+      }
+    },
+    {
+      "id": "543795865495099",
+      "score": 5,
+      "review_title": "Fun Drawing Experience",
+      "review_description": "This app makes it super easy to jump in and create some art! I found it intuitive, easy to use, and full of potential. You can take this as seriously as your mood calls for. The tips from the mascot are helpful, and it walks you through the process nicely. The ability to upload your own content to draw is next level. I had to stop mid-drawing to tend to dinner, and when I came back, my overlay was still calibrated perfectly. I'm impressed!",
+      "date": 1744393054,
+      "review_helpful_count": 13,
+      "author_display_name": "TeddiVibes",
+      "author_alias": "TeddiVibes",
+      "developer_response": {
+        "body": "Thanks so much for the kind words!  We had a lot of issues early on with losing calibration, so it's great to hear that it's been working well for you.  We really appreciate you letting us know!",
+        "date": 1744576796
+      }
+    },
+    {
+      "id": "576812332191849",
+      "score": 5,
+      "review_title": "one of the best app EVER",
+      "review_description": "okay, there are some flaws, but this is amazing. i am an artist, but not that good, so this really helps me! i love the little picasso dude also! the app is super good and with more popularity can make a ton of money!",
+      "date": 1746651121,
+      "review_helpful_count": 3,
+      "author_display_name": "drizzy_playzvr",
+      "author_alias": "drizzy_playzvr",
+      "developer_response": {
+        "body": "Thanks so much for the kind words!  We appreciate this a lot!",
+        "date": 1746742243
+      }
+    },
+    {
+      "id": "551179978087121",
+      "score": 4,
+      "review_title": "Joe",
+      "review_description": "This app is on the correct path..I’m going to point out what needs to be fix so this app can be absolutely perfect. First off they need way more pictures to draw and when you import pictures over to pencil the app doesn’t allow you to control the size of the image so it can fit a large sheet of paper..your stuck drawing a little picture on a large sheet of paper. It would also be nice if it could teach you how to draw each imported picture.",
+      "date": 1742155436,
+      "review_helpful_count": 11,
+      "author_display_name": "Adam_Black_on_Facebook",
+      "author_alias": "Adam_Black_on_Facebook",
+      "developer_response": {
+        "body": "Hi! Thanks for the review! \n\nTo resize your imported picture grab it with both hands and stretch. We will be working on improving the onboarding there. We are also adding more content throughout development and hope to have you come back and check out our new stuff!\n\nThanks again,\n- Pencil Dev. Team",
+        "date": 1742848238
+      }
+    },
+    {
+      "id": "642308395627014",
+      "score": 5,
+      "review_title": "Great way to learn how to draw!!",
+      "review_description": "Perfecte app om te leren tekenen!!! Keep doing what you're doing!! Brilliant concept \nNice to see you're working on expansions. Anime pack is next on my dl list but at first sight there's enough to get started. 💪👍🙏❤️",
+      "date": 1745418214,
+      "review_helpful_count": 3,
+      "author_display_name": "xX0Wizard0Xx",
+      "author_alias": "xX0Wizard0Xx",
+      "developer_response": {
+        "body": "Bedankt!!  Thanks for the kind words ❤️❤️",
+        "date": 1745335393
+      }
+    },
+    {
+      "id": "562893910250852",
+      "score": 5,
+      "review_title": "Nice, but",
+      "review_description": "Nice app so far, but I was hoping there would be a writing option with some fonts since it seems to be the case with most drawing apps...\nI'll update as I use it more",
+      "date": 1745664460,
+      "review_helpful_count": 1,
+      "author_display_name": "GoldChipmunk4598",
+      "author_alias": "GoldChipmunk4598",
+      "developer_response": {
+        "body": "Hi, thanks for the kind review, and the feedback!  I'd be curious if you'd be interested in font writing lessons, or just some text you can use in free draw to have writing to trace. If you can, update the review or join our discord to let me know!",
+        "date": 1746468688
+      }
+    },
+    {
+      "id": "24158533533731809",
+      "score": 5,
+      "review_title": "The BEST mixed reality experience",
+      "review_description": "I went from not really understanding “drawing” to genuinely appreciating my own art within just an hour of using Pencil.\n\nPencil should be a mandatory experience for anyone beyond grade school. \n\nIt rekindles the habit of exploration, joy, and creativity that so many of us have lost.\n\nHuge thanks to the devs for making Pencil a reality!",
+      "date": 1746911149,
+      "review_helpful_count": 5,
+      "author_display_name": "hanney",
+      "author_alias": "hanney",
+      "developer_response": {
+        "body": "Thanks so much for the kind words! It makes our hearts happy to hear that the app has brought you joy.  \nWe appreciate you trying the app, and we appreciate you letting us know how it has gone!",
+        "date": 1747156724
+      }
+    },
+    {
+      "id": "2638770119666810",
+      "score": 5,
+      "review_title": "Loved it. Great start with room to grow.",
+      "review_description": "I loved it and my kids loved it!\n\nI love what they're doing with this app. I think it's really creative to be able to take online images and turn them into outlines you can sketch. I'd love to see more and more examples of included drawings. Or packs you can buy. There were some drift issues they can continue to improve, but overall, I was impressed.  Maybe as you draw those become some of the anchors.\n\nOne feature that could make this a crafters dream app would be the ability to add some anchor points on a board or wall and then be able to scale up an image onto a wall for a mural or a board to cut out for creating decorations. No longer needing a pro or a projector to make a perfect painting on the wall, etc. Adding this scale up ability, rather than being tired to a piece of paper I think would dramatically increase the value of the app (if done well).  Anyway, keep it up.",
+      "date": 1733790803,
+      "review_helpful_count": 18,
+      "author_display_name": "JollySasquatch",
+      "author_alias": "JollySasquatch",
+      "developer_response": {
+        "body": "Thanks for the kind words. I'm so glad your kids are enjoying this.  We are working on ways to fix drift for sure. It's a tough problem!!\n\nAs to scaling up to wall-sized, now you can (mostly)!  In the latest release, you can hold down B or Y to enter calibration mode. Hold the controller up to the wall.  Then hit the +/- buttons next to \"scale\" on the menu in front of you, or hold the joystick on the controller left/right to do the same thing.  \n\nThere are a few aspects of this setup that still make it difficult to do something like a giant mural, but we're working to make the experience easier for odd-shapes or giant-drawings in the future.  \n\nIf you have any more good ideas feel free to email us at hello@pencil-xr.com.  Thanks again for such nice words!!",
+        "date": 1733870086
+      }
+    },
+    {
+      "id": "969073505359006",
+      "score": 5,
+      "review_title": "Plz get me a refund",
+      "review_description": "I need a refund because it doesn’t work on my meta quest 2. Sorry for the confusion. 5 stars though because looks amazing! Great work developers! And also if no refund policy please add it to meta quest 2! Plz see this dev PLEASE!!!!!!!!!!",
+      "date": 1742748464,
+      "review_helpful_count": 3,
+      "author_display_name": "Owen109",
+      "author_alias": "Owen109",
+      "developer_response": {
+        "body": "Hi there! Thanks for the kind words. Sorry the app is currently unavailable on the Quest 2 due to the passthrough limitations of that device.  You should be able to request a refund on the app in your purchase history on the store.\n\nThanks again!\n-Pencil Dev. Team",
+        "date": 1742848085
+      }
+    },
+    {
+      "id": "1262948551621701",
+      "score": 4,
+      "review_title": "Almost perfect",
+      "review_description": "This application is a fun and interesting way to try and learn to draw. \n\nThe only thing I wasn’t super fond of was the AI voiceover, its vocal inflections and tone can sometimes be a bit off and sounds a little robotic/soulless. Good thing you can mute it in the menu.\n\nOverall worth giving a try!￼",
+      "date": 1731972389,
+      "review_helpful_count": 7,
+      "author_display_name": "GravityMx",
+      "author_alias": "GravityMx",
+      "developer_response": {
+        "body": "Thanks for the review, and the feedback on the voiceover.   Knowing that is an important issue for you is helps us prioritize.",
+        "date": 1732045621
+      }
+    },
+    {
+      "id": "1235800487557689",
+      "score": 5,
+      "review_title": "Fantastic drawing tool!",
+      "review_description": "All I can say is WOW! Pencil! really takes advantage of the magical new medium of MIXED REALITY! It’s an amazing tool to learn how to draw with, and it is also a fantastic way to practice drawing with the 3D Free Draw mode (digital still lifes, in which you can set up still lifes that would be impossible IRL). The lessons range from covering the basics of drawing to more advanced concepts, and allow you to creatively play and stretch your drawing muscles. YAY I LOVE PENCIL! You will too, even if you don’t know how to draw!",
+      "date": 1726252601,
+      "review_helpful_count": 12,
+      "author_display_name": "Tahnmeep",
+      "author_alias": "Tahnmeep",
+      "developer_response": {
+        "body": "Thanks for the kind review!",
+        "date": 1726253128
+      }
+    },
+    {
+      "id": "2031759773948446",
+      "score": 5,
+      "review_title": "Amazing Community!",
+      "review_description": "Hi everyone! I’m one of developers behind Pencil! We’ve seen so much love and and thankful for everyone trying out the app! We’ve seen so many amazing drawings and can’t wait to see what others make",
+      "date": 1726246946,
+      "review_helpful_count": 24,
+      "author_display_name": "KilledbyToaster",
+      "author_alias": "KilledbyToaster",
+      "developer_response": {
+        "body": "I couldn't have said it better myself. :)",
+        "date": 1733321317
+      }
+    },
+    {
+      "id": "1173819207249642",
+      "score": 5,
+      "review_title": "Awesome idea.. great app! Love",
+      "review_description": "This app is a great use of mixed reality and is very fun. As someone who doesn't draw at all, I had a blast tracing random 2d sketches that come with the app. I'm looking forward to doing the lessons that they provide in the game. It does take getting used to and figuring out the correct height(zoom) in the settings that you need to make it look the lines you see in vr is where your pencil point is touching in real life. hard to explain but you'll get it. They have tutorials etc but I haven't even gotten to check them out because I enjoy tracing things in the app so much 😆\n\nThe game is still very early beta, but shows a lot of promise. I can't wait! The team and their discord are full of very helpful people. Huge praise to the developers for making this unique idea in VR/AR become a reality for everyone to enjoy!",
+      "date": 1726255620,
+      "review_helpful_count": 7,
+      "author_display_name": "OlSheezy",
+      "author_alias": "OlSheezy",
+      "developer_response": {
+        "body": "Thanks for the kind review! We're working on ways to improve the alignment and first-use challenges.  We appreciate the feedback!!",
+        "date": 1726255450
+      }
+    },
+    {
+      "id": "2641149796047050",
+      "score": 5,
+      "review_title": "Augmented ARt",
+      "review_description": "Pencil is a fantastic way to turn your Quest 3 into a tool for learning and creating art. I struggle to create when starting at a blank page but tools like pencil help me get started with drawing. I'm excited to see where the app goes with future updates and all the things people make using it! <3",
+      "date": 1726695453,
+      "review_helpful_count": 6,
+      "author_display_name": "Shoebopadoo",
+      "author_alias": "Shoebopadoo",
+      "developer_response": {
+        "body": "Thanks for the kind words! We're excited too!!",
+        "date": 1726756196
+      }
+    },
+    {
+      "id": "489562670900083",
+      "score": 5,
+      "review_title": "AWESOME SAUCE",
+      "review_description": "It was amazing and fun lots of pictures you can draw.",
+      "date": 1730048800,
+      "review_helpful_count": 5,
+      "author_display_name": "Larrythesnail",
+      "author_alias": "Larrythesnail",
+      "developer_response": {
+        "body": "Thanks so much for the kind words, we really appreciate it!",
+        "date": 1730292862
+      }
+    },
+    {
+      "id": "557123316842470",
+      "score": 5,
+      "review_title": "Perfect App",
+      "review_description": "Theres no need for a complicated review. You see what the app is, it does exactly that, perfectly. Easy, simple, 5 star type stuff. Buy it already and get to drawing...why are you still reading this?",
+      "date": 1727089890,
+      "review_helpful_count": 4,
+      "author_display_name": "Triple_Dime",
+      "author_alias": "Triple_Dime",
+      "developer_response": {
+        "body": "So kind!  Thanks for the review.  Easy & simple was a key goal, so we're glad you're seeing it.",
+        "date": 1727111910
+      }
+    },
+    {
+      "id": "1575113539766735",
+      "score": 5,
+      "review_title": "I highly recommend it!",
+      "review_description": "This app is amazing for both me and my child. They absolutely love it and can quickly jump in to draw whatever they want, learning so fast in the process. I highly recommend it!",
+      "date": 1726353928,
+      "review_helpful_count": 3,
+      "author_display_name": "DrakeLe",
+      "author_alias": "DrakeLe",
+      "developer_response": {
+        "body": "Thanks for the kind review!  Glad to hear the whole family can use it",
+        "date": 1726427548
+      }
+    },
+    {
+      "id": "482358834954742",
+      "score": 5,
+      "review_title": "A practical awesome use for MR!",
+      "review_description": "My 8 year old daughter took to it like Bob Ross! Lol",
+      "date": 1728047735,
+      "review_helpful_count": 3,
+      "author_display_name": "Houchinstodd77",
+      "author_alias": "Houchinstodd77",
+      "developer_response": {
+        "body": "haha, great to hear! We are excited to see the app help people of all ages.  Thanks for letting us know :)",
+        "date": 1728162398
+      }
+    },
+    {
+      "id": "458281384027856",
+      "score": 5,
+      "review_title": "Love it!",
+      "review_description": "Such a great idea that was executed so well!",
+      "date": 1727049554,
+      "review_helpful_count": 4,
+      "author_display_name": "Dinosaurgasm",
+      "author_alias": "Dinosaurgasm",
+      "developer_response": {
+        "body": "Thanks for the kind words!  We appreciate it :)",
+        "date": 1727052607
+      }
+    },
+    {
+      "id": "552423120548659",
+      "score": 5,
+      "review_title": "Buy This Immediately",
+      "review_description": "Don’t waste time just buy it now….",
+      "date": 1726276294,
+      "review_helpful_count": 4,
+      "author_display_name": "Bladerah",
+      "author_alias": "Bladerah",
+      "developer_response": {
+        "body": "Thanks for the kind review, and instructions :)",
+        "date": 1726427496
+      }
+    },
+    {
+      "id": "8605373852828881",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "A great way to learn drawing and practice drawing new things!",
+      "date": 1726243421,
+      "review_helpful_count": 3,
+      "author_display_name": "ramsour",
+      "author_alias": "ramsour",
+      "developer_response": {
+        "body": "Thanks for the kind review!",
+        "date": 1726243687
+      }
+    }
+  ],
+  "total": 54,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-19T11:42:29Z"
+}

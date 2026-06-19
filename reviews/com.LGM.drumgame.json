@@ -1,0 +1,70 @@
+{
+  "app_id": "5470851372933076",
+  "package_name": "com.LGM.drumgame",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Steady the Drums!",
+  "rating_average": 3.8571428571429,
+  "rating_count": 7,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1428024975231274",
+      "score": 3,
+      "review_title": "A good start - but...",
+      "review_description": "Extra points for being free! Thank You.\nALso this could be great , but it is not yet.\n\n3 dealbreakers:\n1 - your background music has too many syncopated fills, and it is not clear if your programming  timing is bad, or just hard to understand where the 1 is and where the downbeat is. Please ADD an option to overlay a game metronome pip sound over the soundtrack that we can add or remove so we can feel your games particular rhythm. EIther than or significantly rethink your music… it is not helping the gameplay currently, not aesthetically, not in helping the player learn the game. The visual tempo indicator is not clear enough to overcome this issue.\n\n2- drum sound does not coincide with drum visuals percisely enough. There is a lag which might need a menu slider, and even  setup menu.\n\n3 - You absolutely need controls to raise and lower the drum interface. Not everyone drums from the same posture. This is an accessibility issue.",
+      "date": 1742323800,
+      "review_helpful_count": 1,
+      "author_display_name": "AR_Pyr8",
+      "author_alias": "AR_Pyr8",
+      "developer_response": {
+        "body": "Hi, thank you for the extensive review. The feedback is much appreciated. Regarding points 2 and 3, I completely agree with the issues you pointed out and am actively working on the necessary improvements. Issue 1 is a bit trickier, but I think your idea of an overlaid metronome might be the most feasible solution for our game.",
+        "date": 1743156508
+      }
+    },
+    {
+      "id": "530521033485902",
+      "score": 5,
+      "review_title": "Smashingly exciting",
+      "review_description": "As the title suggests, you smash the drums - excitedly. There are a few bugs here and there as is common with new releases, but nothing major. The game represents a truly fresh and engaging approach in the field of rhythm learning!",
+      "date": 1739218763,
+      "review_helpful_count": 2,
+      "author_display_name": "JumboWolverine5547",
+      "author_alias": "JumboWolverine5547",
+      "developer_response": null
+    },
+    {
+      "id": "1197218748652354",
+      "score": 5,
+      "review_title": "Awesome free game!",
+      "review_description": "It's free to play and the new version has a bunch of new levels.",
+      "date": 1739179632,
+      "review_helpful_count": 3,
+      "author_display_name": "adopacre",
+      "author_alias": "adopacre",
+      "developer_response": null
+    },
+    {
+      "id": "180940751768585",
+      "score": 2,
+      "review_title": "",
+      "review_description": "You have to hit the drums at an exact timing which the game never provides.",
+      "date": 1701207085,
+      "review_helpful_count": 0,
+      "author_display_name": "atm256",
+      "author_alias": "atm256",
+      "developer_response": {
+        "body": "We have significantly improved this. The game now provides both a Tempo UI and additional triggers to let you know that you hit the drums accordingly. We also provided a new Tutorial that specifically teaches you the different basic drum patterns.",
+        "date": 1738843500
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:38:46Z"
+}
