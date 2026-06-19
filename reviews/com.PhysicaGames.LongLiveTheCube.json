@@ -1,0 +1,95 @@
+{
+  "app_id": "3673759629338705",
+  "package_name": "com.PhysicaGames.LongLiveTheCube",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Long Live The Cube",
+  "rating_average": 4.0588235294118,
+  "rating_count": 17,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "522862875629708",
+      "score": 5,
+      "review_title": "Cute little puzzler. Great with friends",
+      "review_description": "The Co-op mode is very entertaining, and the puzzles become very challenging even with two players trying to solve them. Definitely worth a try.",
+      "date": 1627916106,
+      "review_helpful_count": 3,
+      "author_display_name": "mdcwhitaker",
+      "author_alias": "mdcwhitaker",
+      "developer_response": null
+    },
+    {
+      "id": "3010985179122238",
+      "score": 3,
+      "review_title": "co-op not working?",
+      "review_description": "I didn't see any contact info for support.  Just bought it to play on my 2 headsets, but it says no friends online when I try.  We can see each other in the oculus social tab, shows us as online - but can't join a match together.  Different FB account on each headset, did host on one headset, and join on the other.",
+      "date": 1654110391,
+      "review_helpful_count": 2,
+      "author_display_name": "miketunes",
+      "author_alias": "miketunes",
+      "developer_response": {
+        "body": "Hi there, i'm very sorry for such a delayed response. Unfortunately I have been battling cancer, and as a solo developer I haven't been able to offer the support I would have liked. However, today I updated a Quest and Quest 2 to their latest respective versions and managed to use the Multiplayer features on the first try across two Meta accounts. If you're still having issues, please email me on physicagames@gmail.com.\n\nIn order for you to see another account as online in the game, they must be 'Friends' with you. Hosting a play session will not allow someone else to join you. You must first invite them. Instructions as follows:\n\nPress 'Multiplayer', 'Coop', then 'Host'. Ensure the friend you want to invite is displayed on the right hand side. Select 'Invite'. The other player can then join you. They will be sent a notification through Oculus Social and can join from that, or they can join within the game.\n\nI hope this helps.",
+        "date": 1675808870
+      }
+    },
+    {
+      "id": "515645439687892",
+      "score": 5,
+      "review_title": "Simple to play but hard to beat!",
+      "review_description": "Cute but gets really tough! This game was great fun to play solo, I can't wait for multiplayer!",
+      "date": 1628106844,
+      "review_helpful_count": 1,
+      "author_display_name": "AechDee",
+      "author_alias": "AechDee",
+      "developer_response": null
+    },
+    {
+      "id": "406750934166627",
+      "score": 5,
+      "review_title": "Great little puzzle game, gets HARRRDD!!",
+      "review_description": "Fun game to play, feels like Tetris in VR.. the harder levels get tricky, definitely worth trying with a friend too  🙌🙌",
+      "date": 1633534860,
+      "review_helpful_count": 1,
+      "author_display_name": "jameswhitaker_",
+      "author_alias": "jameswhitaker_",
+      "developer_response": null
+    },
+    {
+      "id": "139096471883033",
+      "score": 5,
+      "review_title": "Good puzzle",
+      "review_description": "Various difficulty.\nPlatform that can be moved.\nOn a negative side, it was sometimes tricky to grab the block, and sometimes it will not slide as expected. As a result, I dragged everything very far just to make sure. Maybe make the block auto snap in place in easy mode would solve this issue.",
+      "date": 1640894511,
+      "review_helpful_count": 2,
+      "author_display_name": "yes4me",
+      "author_alias": "yes4me",
+      "developer_response": {
+        "body": "Thank you very much for the review. The auto snap feature you suggested was in fact tested in early builds during development. But it was found to be more annoying than the issue of not sliding the blocks far enough. The dragging of blocks further than you think needed is the best method, and i'm glad that is what you're now doing.",
+        "date": 1646906546
+      }
+    },
+    {
+      "id": "128697146355987",
+      "score": 5,
+      "review_title": "good game",
+      "review_description": "definitely should play",
+      "date": 1646352567,
+      "review_helpful_count": 2,
+      "author_display_name": "ParkerPringle",
+      "author_alias": "ParkerPringle",
+      "developer_response": {
+        "body": "Thanks very much for the review. Glad you're enjoying the game :)",
+        "date": 1646906691
+      }
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T14:15:44Z"
+}

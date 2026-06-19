@@ -1,0 +1,939 @@
+{
+  "app_id": "6960826027306377",
+  "package_name": "com.PineStudio.EscapeSimulator",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Escape Simulator",
+  "rating_average": 4.2094017094017,
+  "rating_count": 234,
+  "review_count": 116,
+  "reviews": [
+    {
+      "id": "1020116747207183",
+      "score": 5,
+      "review_title": "DLCs are even better!",
+      "review_description": "I love this game. I have it on Steam PCVR and Meta. The puzzles and environments are very diverse! The DLCs are even better! I hope the developers keep adding more — I’ll buy them all! \n\nJ'adore ce jeu. Je l'ai sur steam pcvr et meta. Les  puzzles et les environnements sont très variés! Les extensions sont encore meilleures! J'espère que les développeurs continueront d'en ajouter ! Je les achèterai toutes! Merci !",
+      "date": 1779710321,
+      "review_helpful_count": 3,
+      "author_display_name": "Sarahbuckley666",
+      "author_alias": "Sarahbuckley666",
+      "developer_response": null
+    },
+    {
+      "id": "972556531973335",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "I've enjoyed this game. I've bought every DLC, played every other room. The free ones they pump out, the ones that came with the game originally. Even some of the community ones people make are decent. I'm always looking forward to new ones.",
+      "date": 1776583020,
+      "review_helpful_count": 11,
+      "author_display_name": "MelissaDeath",
+      "author_alias": "MelissaDeath",
+      "developer_response": {
+        "body": "Thank you so much for playing Escape Sim and taking your time to write this review!",
+        "date": 1778659039
+      }
+    },
+    {
+      "id": "1157132897480014",
+      "score": 3,
+      "review_title": "Is the mod io integration broken?",
+      "review_description": "Puzzles are fun, but there's a lot of bugs and clunkiness that can make things frustrating. For example, the recent update included mod io support, but it's super unclear how anything works - the update says you can link your own mod io account, but in-game it doesn't give you that opportunity anywhere, and instead mentions that it's creating an account for you. No indication of how to use the account, log into it externally, add or subscribe to content. It's just the same list of community rooms that have been available for a long time with no additions. We've been trying to get this working for days and there's no information anywhere.",
+      "date": 1779051752,
+      "review_helpful_count": 0,
+      "author_display_name": "ghostsidedrive",
+      "author_alias": "ghostsidedrive",
+      "developer_response": null
+    },
+    {
+      "id": "1156594864195005",
+      "score": 3,
+      "review_title": "Good,  would 5 star if not bugs",
+      "review_description": "Used to be my favourite game. I was excited to see the update (finally). Was excited to do the first thing in weekend. It took 3 attempts and 2h (!) to download just two updates. Well, it’s been that much and still downloading. Feels like I will be ageing while waiting for update. Why can’t it come automatically?",
+      "date": 1777697020,
+      "review_helpful_count": 1,
+      "author_display_name": "aladeena",
+      "author_alias": "aladeena",
+      "developer_response": {
+        "body": "Hey Aladeena, thanks for playing and for writing the review!\n\nThis update is a bit bigger because we added 2 new free rooms, a new system for downloading community rooms, and a bunch of fixes.\n\nThat said, the game itself doesn’t control the speed of downloading updates. That part depends on the Meta Horizon Store and your internet connection. For automatic updates, you may also want to check your Meta/Quest update settings, since that is handled by the platform.\n\nHope you enjoy the new rooms once it’s installed!",
+        "date": 1778659000
+      }
+    },
+    {
+      "id": "968392773025195",
+      "score": 1,
+      "review_title": "Multiplayer Policy",
+      "review_description": "What a lame approach to multiplayer the devs have about this game. They expect me to buy the game twice to be able to play multiplarer on 2 headsets where the buyer account is installed. This is literally the only Quest game that takes this approach. It's like saying you'd need to buy a PS game twice to play with a friend with 2 controllers in the same house. I wish i had realized sooner to request a refund.",
+      "date": 1770143423,
+      "review_helpful_count": 14,
+      "author_display_name": "AxelGavin",
+      "author_alias": "AxelGavin",
+      "developer_response": null
+    },
+    {
+      "id": "976009532252634",
+      "score": 5,
+      "review_title": "Excellent game. Ideal for 2.",
+      "review_description": "The rooms are all fun and look great. Puzzles are smart and fair.\nEach room is about 15+ mins. Which is ideal for a VR session. My wife and I often do two in a row.\nOnce you get used to the controls. Which are simple enough. It is a very smooth and enjoyable game.\nYou could definitely play solo but it is fun with a friend",
+      "date": 1766840677,
+      "review_helpful_count": 19,
+      "author_display_name": "RolandsRevenge",
+      "author_alias": "RolandsRevenge",
+      "developer_response": {
+        "body": "Thank you for playing!",
+        "date": 1778658588
+      }
+    },
+    {
+      "id": "954068117098820",
+      "score": 3,
+      "review_title": "The hint could be a little better",
+      "review_description": "I am not good with numbers, and there’s a lot of of us out there who are not good with numbers and suck at any kind of math lol so when you have to take the headset off to go figure it out it really makes the game not that much enjoyable. Some of the rooms were really great. I was able to find my way out without having to use a hint. But when it comes to these numbered ones, y’all really need to make it a little bit easier on the hints. ￼",
+      "date": 1768937545,
+      "review_helpful_count": 4,
+      "author_display_name": "WynterDawn",
+      "author_alias": "WynterDawn",
+      "developer_response": null
+    },
+    {
+      "id": "1235620682040015",
+      "score": 5,
+      "review_title": "GREAT GAME!",
+      "review_description": "I love escape rooms and I really really love doing them with other people.  There's certainly not enough of them around.  Please keep making more rooms.  I'll keep buying the DLCs.  Oh.. and A++ to the community rooms as well. Great job to those folks too!",
+      "date": 1773181345,
+      "review_helpful_count": 1,
+      "author_display_name": "baileyjenn5711",
+      "author_alias": "baileyjenn5711",
+      "developer_response": null
+    },
+    {
+      "id": "1588038739318631",
+      "score": 4,
+      "review_title": "Fun but glitchy",
+      "review_description": "This is a great puzzle game and one of our favorites, especially because of the multiplayer aspect. Unfortunately, it’s also extremely buggy at times. We’ve had to restart several games because it would freeze up or certain objects would suddenly become immovable. It really disrupts gameplay, and this is the only game we’ve experienced these kinds of issues with.\n\nThat said, the game itself is fun enough that it’s still worth buying. Hopefully the developers continue patching and improving stability over time. It also feels like the game was designed with future expansion packs in mind, which would be great to see down the road.\n\nOverall, definitely worth picking up, just be prepared for some occasional frustration until the bugs are worked out.",
+      "date": 1778975271,
+      "review_helpful_count": 0,
+      "author_display_name": "BryanClark",
+      "author_alias": "BryanClark",
+      "developer_response": null
+    },
+    {
+      "id": "1408796011035714",
+      "score": 5,
+      "review_title": "10/10 highly recommend!",
+      "review_description": "Love this game! My partner and I was playing a new room every Wednesday evening but we have completed all of them now! Including the add ons! Developers PLEASE add more!",
+      "date": 1770322277,
+      "review_helpful_count": 3,
+      "author_display_name": "PersonalTrainerMC",
+      "author_alias": "PersonalTrainerMC",
+      "developer_response": null
+    },
+    {
+      "id": "1004541486068474",
+      "score": 4,
+      "review_title": "Good value game",
+      "review_description": "Lots of rooms to escape from, so good value for money. Good puzzles and helpful hints. Looking forward to new rooms being added. Keep up the good work.",
+      "date": 1769592843,
+      "review_helpful_count": 2,
+      "author_display_name": "philnewbs",
+      "author_alias": "philnewbs",
+      "developer_response": null
+    },
+    {
+      "id": "1338533471014269",
+      "score": 5,
+      "review_title": "Honest Review",
+      "review_description": "I absolutely love this one!! I probably play this every time I put my headset on. I'm just \"patiently\" waiting for some new levels to be available. I wish the devs would add more rooms but there's a good bit on there ... I just finished all of them. It's a blast and makes you really think. Devs did a wonderful job on this game, thank you for the time you put in this. Please add more rooms more often!!",
+      "date": 1762772907,
+      "review_helpful_count": 8,
+      "author_display_name": "Vitz_75",
+      "author_alias": "Vitz_75",
+      "developer_response": null
+    },
+    {
+      "id": "1282309440391212",
+      "score": 5,
+      "review_title": "Loved these but...",
+      "review_description": "There needs to be more! We've done them all and are awaiting for new puzzles to come out!!!",
+      "date": 1769047377,
+      "review_helpful_count": 2,
+      "author_display_name": "jakeybabyjake",
+      "author_alias": "jakeybabyjake",
+      "developer_response": {
+        "body": "Thank you so much for playing Escape Sim and taking your time to write this review! In the last update we've added 2 new free rooms and we are working on more! ;)",
+        "date": 1778659086
+      }
+    },
+    {
+      "id": "1034023273127504",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "This game is worth it. I hope this company continues making levels as this is the most fun and challenging escape room out. So much fun with multiple players as well. Keep up the great work",
+      "date": 1774210572,
+      "review_helpful_count": 0,
+      "author_display_name": "Bdawgbdawg1",
+      "author_alias": "Bdawgbdawg1",
+      "developer_response": null
+    },
+    {
+      "id": "959505817239172",
+      "score": 5,
+      "review_title": "Want more!",
+      "review_description": "This game is amazing. We love it. We want more on Meta Quest!",
+      "date": 1765410175,
+      "review_helpful_count": 6,
+      "author_display_name": "MrAnubis",
+      "author_alias": "MrAnubis",
+      "developer_response": null
+    },
+    {
+      "id": "870508112802228",
+      "score": 5,
+      "review_title": "Can’t wait for more rooms!",
+      "review_description": "I absolutely love this game! My friends and I always look forward to each new release - solving these puzzles together is such a blast.\n\nIf you enjoy escape rooms and have a few friends to team up with, this game is definitely for you.\n\nCan’t wait for the next rooms to come out! I hope you guys have tone of ideas for new ones.",
+      "date": 1760120691,
+      "review_helpful_count": 12,
+      "author_display_name": "Kateryna2701",
+      "author_alias": "Kateryna2701",
+      "developer_response": null
+    },
+    {
+      "id": "977483338776209",
+      "score": 3,
+      "review_title": "bad connection issues",
+      "review_description": "After update multiplayer doesn't work lobby is slow and friends cant join stuck on joining screen",
+      "date": 1767490381,
+      "review_helpful_count": 1,
+      "author_display_name": "Wetpancake973",
+      "author_alias": "Wetpancake973",
+      "developer_response": null
+    },
+    {
+      "id": "1611538073426605",
+      "score": 5,
+      "review_title": "Amazing Escape Room Experience!",
+      "review_description": "This game is amazing fun with my friends. We look forward to more and more content!  The puzzles, sound, environment, controls are all great. I'm glad the multiplayer experience is smooth and seamless! Thanks!\nP.s. I hope part 2 comes to Quest ❤️",
+      "date": 1762269866,
+      "review_helpful_count": 3,
+      "author_display_name": "BrownBurr",
+      "author_alias": "BrownBurr",
+      "developer_response": null
+    },
+    {
+      "id": "1957069138577327",
+      "score": 1,
+      "review_title": "Multiplayer not working",
+      "review_description": "Multiplayer is not working.\nWhen joining a session, it just stays on \"joining\" screen.\nWhen hosting, it just keeps on \"preparing lobby\"",
+      "date": 1767475019,
+      "review_helpful_count": 0,
+      "author_display_name": "DalleDK",
+      "author_alias": "DalleDK",
+      "developer_response": null
+    },
+    {
+      "id": "1223762853148144",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "Has a lot of very well working escape rooms and even some community created content.",
+      "date": 1764200996,
+      "review_helpful_count": 2,
+      "author_display_name": "Simeonski",
+      "author_alias": "Simeonski",
+      "developer_response": null
+    },
+    {
+      "id": "669226822917018",
+      "score": 5,
+      "review_title": "Five Star Game",
+      "review_description": "My husband and I have been playing this game for a while now.  We LOVE it!  We can’t wait for new DLC’s to become available.  This last DLC was really good.  You really get your money’s worth.\nPlease keep making new escape rooms!",
+      "date": 1760488834,
+      "review_helpful_count": 2,
+      "author_display_name": "Akrh125",
+      "author_alias": "Akrh125",
+      "developer_response": null
+    },
+    {
+      "id": "868147436379567",
+      "score": 5,
+      "review_title": "Love your escape rooms",
+      "review_description": "We need more!!!!  We only have few more left to do!  Thank you!!!  New rooms coming soon?",
+      "date": 1762727965,
+      "review_helpful_count": 2,
+      "author_display_name": "Peachieflynn",
+      "author_alias": "Peachieflynn",
+      "developer_response": null
+    },
+    {
+      "id": "1345813990263228",
+      "score": 5,
+      "review_title": "Great Games",
+      "review_description": "This is a really fun escape room game. Several different add ons but really worth the money. You can either figure it out yourself or there are clue boxes that will basically walk you through each scene. I would recommend this to anyone.",
+      "date": 1759711648,
+      "review_helpful_count": 2,
+      "author_display_name": "IslandGirl1.0",
+      "author_alias": "IslandGirl1.0",
+      "developer_response": null
+    },
+    {
+      "id": "892366540631222",
+      "score": 4,
+      "review_title": "spy dlc",
+      "review_description": "bugs in puzzles,so some puzzles has bugs but support is on reddit,group escape simulator",
+      "date": 1763574928,
+      "review_helpful_count": 0,
+      "author_display_name": "flak88",
+      "author_alias": "flak88",
+      "developer_response": null
+    },
+    {
+      "id": "785773911085208",
+      "score": 5,
+      "review_title": "Best VR Game",
+      "review_description": "I don't typically leave reviews but I must leave one for this game. It's 100% the best VR game I've tried. You can see they put a lot of effort into it and aren't looking for a quick buck. Please add more levels! I'm almost done with all the DLCs. And thank you for this great game.",
+      "date": 1758385503,
+      "review_helpful_count": 0,
+      "author_display_name": "DWiedemann",
+      "author_alias": "DWiedemann",
+      "developer_response": {
+        "body": "Hey DWiedemann, we’re really glad you’re enjoying the game! Thanks a lot for taking the time to leave a review.\nWe’ve just released a new Spy DLC with 4 brand-new rooms, plus a free room called the “70s Room”, which you can find under the Extra category. We hope you’ll have fun with it!",
+        "date": 1758738683
+      }
+    },
+    {
+      "id": "760813079806764",
+      "score": 1,
+      "review_title": "Multi-player option has constant bugs",
+      "review_description": "My sister and I have played several multi-player escape games in the past without issue.  We specifically search for the multi-player feature as we can catch up with each other while playing.  Unfortunately, there are very few choices left for us to pick from.  This is how we came to own ES.\n\nSince purchasing ES 4 days ago, we've spent 5+ hours trying to multi-play beyond 30 seconds into the first room if we can even get there.  We've both been able to play as single-player mode.\n\nThe first issue we haven't been able to reliably resolve is communication. We can communicate  without issue until we attempt to enter the first room.  1 out of 10 times we're able to communicate, and yes, the call switch is on in the Audio tab.\n\nWhen attempting to start a multi-player game 9 times out of 10, the host is able to provide the player code, and then the host cannot enter the game.\n\nOn the very rare occasion both players can enter the first room, within seconds one or both players freeze, lose communications and is booted out to the lobby.  Our longest actual play time has been 30 seconds or so.\n\nThis questioning review doesn't include dozens of attempts to make this work.  I can't tell you how many times one or both of us were booted because the game allegedly was already in progress (not); the PLAY button disappeared after the code was used; booted for playing the wrong version(?); or we could communicate but couldn't see each other.\n\nMy sister and I have played other multi-player escape games without any issues, so I know our Quest 3's are working properly.  I would love to have a bug fix so we could play this game, but barring that or finding a solution, we'll probably return this game before the free trial period ends in 10 days.",
+      "date": 1753531075,
+      "review_helpful_count": 12,
+      "author_display_name": "FergJH",
+      "author_alias": "FergJH",
+      "developer_response": null
+    },
+    {
+      "id": "798982375996345",
+      "score": 3,
+      "review_title": "Could love it more but...",
+      "review_description": "I know that I could really like this game and give it more stars. But it's super frustrating when motions don't work. Somebody needs to tell me the trick to move the lock box in the lab that you find underneath the clock. Trying to hold the box and move the numbers and they just won't move. Must have spent 20 minutes trying to move one number. Super frustrating so I'm not even sure if I'll go back to that room.",
+      "date": 1757653241,
+      "review_helpful_count": 1,
+      "author_display_name": "AuntieV",
+      "author_alias": "AuntieV",
+      "developer_response": null
+    },
+    {
+      "id": "1433869851023574",
+      "score": 5,
+      "review_title": "Amazing has a bunch of rooms",
+      "review_description": "Great escape room to play with friends I just wish they would hurry up with the other maps I got it a few days  ago And am already  buying the dlc and have completed most of the community maps  and all the other  honestly Im addicted  to it and need more  please thank you",
+      "date": 1758122333,
+      "review_helpful_count": 0,
+      "author_display_name": "DVNT_THE_LIVING_GOD.vdt",
+      "author_alias": "DVNT_THE_LIVING_GOD.vdt",
+      "developer_response": null
+    },
+    {
+      "id": "1306121227961958",
+      "score": 5,
+      "review_title": "I love this",
+      "review_description": "I play with my family and just completed all the DLC's including Spy.\nPlease Portal, Among US, Power Wash DLC which are in the PC ver.",
+      "date": 1760354502,
+      "review_helpful_count": 0,
+      "author_display_name": "Carpedian",
+      "author_alias": "Carpedian",
+      "developer_response": null
+    },
+    {
+      "id": "713060841518280",
+      "score": 5,
+      "review_title": "AMAZING GAME!",
+      "review_description": "My friends and I are huge escape room fans, we have played just about every VR escape game out there and this one is definitely in our top 3 ever played games (id even say it might be the favorite!) Rooms all run smoothly with no glitches (so far- we haven't played all the levels yet), puzzles are solvable and the best part is that you can actually play with your friends in the same room instead of just on a party chat while you all do you own rooms separately. The only downside is a lot of the rooms are small, only big enough to comfortably fit 2 people, otherwise it gets pretty cramped. I love how many levels there are. I hope the creators continue to add new levels!",
+      "date": 1752183258,
+      "review_helpful_count": 13,
+      "author_display_name": "DisneyDust",
+      "author_alias": "DisneyDust",
+      "developer_response": null
+    },
+    {
+      "id": "949974871527929",
+      "score": 5,
+      "review_title": "Amazing, detailed, fun, engaging",
+      "review_description": "Great escape rooms. Love the add ons. Purchased all of the content. Not too simple as to be boring. Not impossible or confusing either. Looking forward to more. Highly recommend.",
+      "date": 1767323998,
+      "review_helpful_count": 1,
+      "author_display_name": "Seamartini",
+      "author_alias": "Seamartini",
+      "developer_response": null
+    },
+    {
+      "id": "784162221450587",
+      "score": 5,
+      "review_title": "Definitely worth buying",
+      "review_description": "I love you escape rooms, and it’s even better when I can play them with my siblings.  These rooms are really fun and definitely worth the money",
+      "date": 1758674853,
+      "review_helpful_count": 0,
+      "author_display_name": "jennifer.552771",
+      "author_alias": "jennifer.552771",
+      "developer_response": null
+    },
+    {
+      "id": "703262306214239",
+      "score": 5,
+      "review_title": "So fun",
+      "review_description": "I play it with my husband. We finished them all, and can't wait for the next part.",
+      "date": 1756403994,
+      "review_helpful_count": 1,
+      "author_display_name": "AbsterA",
+      "author_alias": "AbsterA",
+      "developer_response": null
+    },
+    {
+      "id": "699931119877718",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "Love this game really enjoy playing with other friends and we are looking forward to more rooms. When can we expect them? ￼",
+      "date": 1754641649,
+      "review_helpful_count": 0,
+      "author_display_name": "Junex",
+      "author_alias": "Junex",
+      "developer_response": null
+    },
+    {
+      "id": "1338640240769130",
+      "score": 2,
+      "review_title": "Bad VR mechanics, game size too large",
+      "review_description": "I played through all the base content rooms with a friend and enjoyed all of them. Difficulty level was excellent, very rewarding to crack some of the more difficult puzzles. \n\nBut my friend is an experienced VR user. When I let my wife and kids use it, they quickly give up because the VR mechanics are unintuitive and inconsistent. For experienced VR users it's not great but doable but for VR noobs it's frustrating enough where you'll finish the room but not want to play another one. \n\nAnd the game size is way too large for the level graphics in the game. The graphics are very basic and I'm cool with that but I'm not cool with it taking up 15 GB of storage space. If the graphics were much better I could understand but I really have no idea why this game takes so much storage space.",
+      "date": 1746335636,
+      "review_helpful_count": 19,
+      "author_display_name": "RancidTofu",
+      "author_alias": "RancidTofu",
+      "developer_response": null
+    },
+    {
+      "id": "1638886324169926",
+      "score": 4,
+      "review_title": "Great multiplayer game no new content!",
+      "review_description": "We enjoy coop multiplayer escape rooms\nSeems no new content released in a long time. Waiting on mayan and 2 others to unlock. Says coming soon but has been very long !  Please release them! Love playing!",
+      "date": 1746995612,
+      "review_helpful_count": 3,
+      "author_display_name": "Drb.daniel",
+      "author_alias": "Drb.daniel",
+      "developer_response": null
+    },
+    {
+      "id": "626929590332052",
+      "score": 3,
+      "review_title": "More Content?",
+      "review_description": "Are there going to be any more DLC's made available?  I love the game so far and keep checking back but it seems to have dried up.\nUpdate dropped the number of stars as still no new content.  On release promise was new content weekly!",
+      "date": 1744451317,
+      "review_helpful_count": 7,
+      "author_display_name": "RobbieNZ",
+      "author_alias": "RobbieNZ",
+      "developer_response": null
+    },
+    {
+      "id": "699589706160937",
+      "score": 1,
+      "review_title": "Not working!!",
+      "review_description": "Did my software update, turned off headset and back on, and the Mayan add on still says “coming soon”….help!",
+      "date": 1749664182,
+      "review_helpful_count": 1,
+      "author_display_name": "Dudley64",
+      "author_alias": "Dudley64",
+      "developer_response": null
+    },
+    {
+      "id": "699059792848551",
+      "score": 1,
+      "review_title": "Mayan add on",
+      "review_description": "Love all the escape games, just purchased the Mayan one and it just says “coming soon” can’t play it!!!! HELP!!!!",
+      "date": 1749418035,
+      "review_helpful_count": 0,
+      "author_display_name": "VanillaBro",
+      "author_alias": "VanillaBro",
+      "developer_response": {
+        "body": "Make sure you have the latest version of the game",
+        "date": 1749624410
+      }
+    },
+    {
+      "id": "575692995628994",
+      "score": 5,
+      "review_title": "Can’t get enough",
+      "review_description": "Biggest complaint is there are only three DLCs (come on Mayan!). However, it’s taken a while to get to the end of the list of rooms available. \n\nNotes: The DLCs are a little testy at download and we will often have to reinstall before we can get them to work in levels 2 and 4. No idea why it’s always 2 and 4. There have been times (enough to warrant mentioning, but not enough to take away a star) when we go into a room and we can’t hear each other or maybe it disconnects the chat and we have to reboot and start over. Lastly, there are occasional puzzles where the only way to solve them is by using the ? button and even then it makes no sense how we would ever figure it out.\n\nAll of these things are really minor irritations though, and the game is beautifully designed and thought out. Each room is the perfect length for daily together time. The puzzles are fun and challenging, and we eagerly anticipate the next release! Highly recommended!",
+      "date": 1741290642,
+      "review_helpful_count": 12,
+      "author_display_name": "HappyLittleWeirdo",
+      "author_alias": "HappyLittleWeirdo",
+      "developer_response": null
+    },
+    {
+      "id": "802888062902438",
+      "score": 5,
+      "review_title": "So much fun",
+      "review_description": "Played with one additional player in the same room. Amazing experience and nice puzzles.",
+      "date": 1757196098,
+      "review_helpful_count": 0,
+      "author_display_name": "pfandfrei",
+      "author_alias": "pfandfrei",
+      "developer_response": null
+    },
+    {
+      "id": "546966588511315",
+      "score": 1,
+      "review_title": "Magic DLC",
+      "review_description": "Unfortunately many bugs. Often lingers. Magic wands don't work. Third room doesn't work. You can't play multiplayer in that room. Very disappointing because the normal rooms do work as they should.",
+      "date": 1744310038,
+      "review_helpful_count": 2,
+      "author_display_name": "CherryHolland",
+      "author_alias": "CherryHolland",
+      "developer_response": null
+    },
+    {
+      "id": "617780608075170",
+      "score": 3,
+      "review_title": "Fun but please fix the bugs and poor UX",
+      "review_description": "I have played 4 rooms so far. In 2 of them I had problems. There was one in a spaceship where I dropped one of the key cards and it was gone - I had to restart the level. Now I was playing”The Library” and couldn’t figure out why the lit matches were vanishing. The game gave no feedback whatsoever that it was placing them in my inventory - I was not trying to place them there, I was just trying to light them up and toss into the fireplace. The levels are fun and the game overall is fun but these bugs/poor UX can really ruin what would be otherwise an engaging experience.",
+      "date": 1739712646,
+      "review_helpful_count": 5,
+      "author_display_name": "Firehalk88",
+      "author_alias": "Firehalk88",
+      "developer_response": null
+    },
+    {
+      "id": "4045608585672738",
+      "score": 5,
+      "review_title": "Brilliant game",
+      "review_description": "Totally worth the money! Girlfriend and i have been slowly working through all the escape rooms and the designs are just brilliant. Challenging, for us anyways, but not so challenging that we're ever frustrated. Very fun game",
+      "date": 1738653473,
+      "review_helpful_count": 11,
+      "author_display_name": "wKarrde",
+      "author_alias": "wKarrde",
+      "developer_response": null
+    },
+    {
+      "id": "1217418656435272",
+      "score": 5,
+      "review_title": "A blast with friends!",
+      "review_description": "Keep up the great work. Look forward to buying more DLC!!",
+      "date": 1745684576,
+      "review_helpful_count": 0,
+      "author_display_name": "Broha",
+      "author_alias": "Broha",
+      "developer_response": null
+    },
+    {
+      "id": "622581250292342",
+      "score": 5,
+      "review_title": "Finally!",
+      "review_description": "I’ve been wanting to play this for months now. Everyone was saying how great it was on Steam. Now we have it in standalone! Buy it now! There is no escape room game offering even a 1/1000 of the content ER offers\n\nUpdate 1/7/25\nI’m so impressed by the amount AND QUALITY dlc content being consistently released.   The dlc rooms are above and beyond my expectations. Don’t get me wrong, the original rooms are dang good and fun as heck, but the dlc rooms are on a whole other level. They’re reasonably priced too. This is a game that will likely still in my library forever, and that’s something I’ve never said about ANY game. Keep up the great work!",
+      "date": 1736252808,
+      "review_helpful_count": 23,
+      "author_display_name": "PowPow55",
+      "author_alias": "PowPow55",
+      "developer_response": {
+        "body": "Thank you so much for playing and taking your time to write this review! <3",
+        "date": 1738591036
+      }
+    },
+    {
+      "id": "587261047799702",
+      "score": 5,
+      "review_title": "Best escape room game!",
+      "review_description": "By far the best escape room game for meta quest. Great variety of themes and developer is working on adding more FREE add ons as well as paid ones. The paid themes offer you 5 levels per theme, whereas the free ones offer 1 levels per theme which is understandable. They also have Community Made levels to enjoy as well.",
+      "date": 1740844472,
+      "review_helpful_count": 1,
+      "author_display_name": "FartDad86",
+      "author_alias": "FartDad86",
+      "developer_response": null
+    },
+    {
+      "id": "636338288999375",
+      "score": 4,
+      "review_title": "THE BEST!!",
+      "review_description": "My son and I play this together even though it's more so me lol. I like that they have such a large variety of rooms to choose from. On top of that,I like that the rooms give hints when you're stuck. There are a few times where our characters have glitched in a certain area of the rooms or we get kicked out of the room for no reason but not to often. Overall, great game!",
+      "date": 1740355290,
+      "review_helpful_count": 1,
+      "author_display_name": "OTalented",
+      "author_alias": "OTalented",
+      "developer_response": null
+    },
+    {
+      "id": "985261023791643",
+      "score": 4,
+      "review_title": "Good game",
+      "review_description": "Need more room updated 😫 😩 😪 whe\nn are they coming",
+      "date": 1744482753,
+      "review_helpful_count": 1,
+      "author_display_name": "Topgun9mm",
+      "author_alias": "Topgun9mm",
+      "developer_response": null
+    },
+    {
+      "id": "614902561276747",
+      "score": 5,
+      "review_title": "So good and fun",
+      "review_description": "What ive waited for ty devs this is so worththe price and  even buying all DLC caus so cheap and keep adding almost monthly to new free content!! Not sur how to create one yet but whoever has I hav tried all passed some lost some but all so fun and creative!! Wanna see mor community rooms hurry up and get to makinem!😆 if wanna tad off that price I can help just follow if not already and link in my profile, mor then likely hav one on list u want!!😉 Will follow bk and ck daily also so just message follow say I need codes and I will follow bkasap",
+      "date": 1740074868,
+      "review_helpful_count": 0,
+      "author_display_name": "Mommasgotubaby24",
+      "author_alias": "Mommasgotubaby24",
+      "developer_response": null
+    },
+    {
+      "id": "651309957504172",
+      "score": 5,
+      "review_title": "Literally the best.",
+      "review_description": "The best.",
+      "date": 1744265423,
+      "review_helpful_count": 0,
+      "author_display_name": "alceusr",
+      "author_alias": "alceusr",
+      "developer_response": null
+    },
+    {
+      "id": "570363942824244",
+      "score": 5,
+      "review_title": "Interactable Escape Rooms!",
+      "review_description": "Quite excellent. It makes use of its being a video game and does things that real life escape rooms cannot do. Great job! It would be amazing if more community levels made it onto the quest version, but what is there is already great content. Good job!",
+      "date": 1739974451,
+      "review_helpful_count": 1,
+      "author_display_name": "Rattyt",
+      "author_alias": "Rattyt",
+      "developer_response": null
+    },
+    {
+      "id": "1000276245338871",
+      "score": 4,
+      "review_title": "Pretty cool...but",
+      "review_description": "Much better than Mikes Escape Rooms in Horizon in graphics and puzzle complexity. But last couple of times my group has played we've had objects glitching really badly. Objects will disappear or glitch into the walls or carpet where they cant be retrieved and we just have to quit the game.",
+      "date": 1738645645,
+      "review_helpful_count": 0,
+      "author_display_name": "acreativeusername",
+      "author_alias": "acreativeusername",
+      "developer_response": null
+    },
+    {
+      "id": "620560661131066",
+      "score": 4,
+      "review_title": "Awesome game. Just one problem",
+      "review_description": "This game is awesome and I love it so much. I always want to play it. The only problem is that I can only play it on my meta quest and I can’t make escape rooms in vr. I would be very happy if I could",
+      "date": 1740329671,
+      "review_helpful_count": 0,
+      "author_display_name": "Lodgericha",
+      "author_alias": "Lodgericha",
+      "developer_response": null
+    },
+    {
+      "id": "624953590266795",
+      "score": 5,
+      "review_title": "Addictive",
+      "review_description": "This is an amazing game. Very addictive, you can save and continue, which is really good plus you also have a walkthrough if you get stuck",
+      "date": 1741171927,
+      "review_helpful_count": 1,
+      "author_display_name": "donnaporchkennedy",
+      "author_alias": "donnaporchkennedy",
+      "developer_response": null
+    },
+    {
+      "id": "1075576994337820",
+      "score": 3,
+      "review_title": "No Discord room?",
+      "review_description": "I have recently purchased this game and am having issues.\nNormally I could find the answers on the Discord channel, however there doesn't appear to be one?",
+      "date": 1740489543,
+      "review_helpful_count": 0,
+      "author_display_name": "SwishTony",
+      "author_alias": "SwishTony",
+      "developer_response": null
+    },
+    {
+      "id": "3880777825513873",
+      "score": 3,
+      "review_title": "Dlc content set up poorly",
+      "review_description": "Dlc content does not download first time making it a very time-consuming process to reinstall everything individually because it's corrupted I guess. Good game  but this definitely needs to be addressed.",
+      "date": 1740597640,
+      "review_helpful_count": 1,
+      "author_display_name": "I3Fingers",
+      "author_alias": "I3Fingers",
+      "developer_response": null
+    },
+    {
+      "id": "971942334968149",
+      "score": 5,
+      "review_title": "More please!",
+      "review_description": "We are loving these puzzles!  And, we really appreciate being able to continue even if we don't solve before the time runs out. That's a great feature for those of us who spend so much time exploring and too much time being dumb!  Just being able to finish regardless of time is a nice feeling!\n\nWe will buy all of the packs that are released!  We hope you keep up the great work and don't abandon this as has been the case with so many other games. \n\nThank you very much for what you do!\n\n\nPlease develop many many more. We will buy every pack 😊",
+      "date": 1732885709,
+      "review_helpful_count": 41,
+      "author_display_name": "MonkeyMia11",
+      "author_alias": "MonkeyMia11",
+      "developer_response": {
+        "body": "Thank you so much for your support! We’re a small team, but we’re not going anywhere— (at least) one more DLC is coming this year, three next year, plus some free rooms! Thanks for being such an amazing part of our community! ❤️",
+        "date": 1732894367
+      }
+    },
+    {
+      "id": "603404685578987",
+      "score": 1,
+      "review_title": "Could be great... but so much bugs",
+      "review_description": "Important items that goes through the ground, drawers that close when you try to get what's in them and you can't open them back. Lever that glitch into oblivion (Talos principle final test)... Every level I did had a bug that made me start again. So much frustration and disappointement.",
+      "date": 1733866366,
+      "review_helpful_count": 6,
+      "author_display_name": "TheShaderMan",
+      "author_alias": "TheShaderMan",
+      "developer_response": null
+    },
+    {
+      "id": "669344415519968",
+      "score": 1,
+      "review_title": "It not work",
+      "review_description": "The game not work on quest 3",
+      "date": 1741518365,
+      "review_helpful_count": 3,
+      "author_display_name": "BostonLee_K",
+      "author_alias": "BostonLee_K",
+      "developer_response": null
+    },
+    {
+      "id": "516527838202546",
+      "score": 1,
+      "review_title": "Point & click mechanics & overpriced dlc",
+      "review_description": "Updated review: After playing through this game the point and click mechanics have become overwhelmingly annoying. This is a truly pathetic way to make people interact in a VR game. \n\nIt still looks decent, but beyond that this is probably one of the worst VR games I've played and definitely the worst escape room. Did the devs not play The Room, Rooms of Realities, or others where you ACTUALLY interact with the game, not hope your cursor is pointed where you want? \n\nCurrently playing a game in beta testing where the interactions are better than this. \n\nAlso, considering the level of work that went into making this game, charging $6.99 for dlc is too much. Maybe if you patched the game and made hands actually do something, you could justify any costs. \n\nYou're not walkabout mini golf, an actually good game that can charge this price for dlc.",
+      "date": 1731628478,
+      "review_helpful_count": 15,
+      "author_display_name": "Fa1coneri",
+      "author_alias": "Fa1coneri",
+      "developer_response": {
+        "body": "Thank you for your feedback! We wanted to clarify that the cursor mechanic is entirely optional—you can disable it in the settings and play using only the grab interaction, just like in real life. We hope this improves your experience if you decide to give it another try!\n\nAs for the DLC pricing, we believe it reflects the amount of content we provide. Along with the paid DLC, we consistently release free content, including new community rooms every week. The game already features 20+ rooms, and we’re planning to add 10+ free rooms in the coming months.\n\nWe appreciate your support and hope you’ll enjoy the game and its future updates. Thanks for taking the time to share your thoughts!",
+        "date": 1731699315
+      }
+    },
+    {
+      "id": "574733181618330",
+      "score": 1,
+      "review_title": "Multiplayer not working",
+      "review_description": "Bought this game to play with my wife. She is unable to host or join multiplayer rooms, so unfortunately we can't play together.  Going to have to request a refund from Meta :(",
+      "date": 1731868459,
+      "review_helpful_count": 9,
+      "author_display_name": "whiteravenjp",
+      "author_alias": "whiteravenjp",
+      "developer_response": {
+        "body": "Thank you for letting us know about the issue. We’ve thoroughly tested the game and investigated why you might be experiencing connection problems. We even checked out your Twitch stream (great content, by the way!) to see the issue firsthand.\n\nEverything appears to be working fine on our end, including the servers. Could it be possible that you purchased a single copy of the game and are using it on two devices?\n\nLet us know, and we’ll do our best to assist further!",
+        "date": 1732019009
+      }
+    },
+    {
+      "id": "863221709290835",
+      "score": 3,
+      "review_title": "Almost there",
+      "review_description": "I’m a big fan of VR puzzlers, I picked this game up under the premise that it was packed with content that would last me ages. \n\nI flew through the base game+DLCand the 7 (all that’s available at the time of writing) community made levels. I’d seen the store page “stating” “thousands of community levels” from steam so that’s what I thought I was getting. \n\nUnfortunately it seems the community made levels are only getting manually ported at a rate of one game a week. So the thousands of levels promised aren’t actually available.\n\nIf I compare with other puzzlers around the same price point, fisherman’s tale, floor plan, RoomVR or House of Davinci VR (played at gamescom) this game doesn’t have the atmosphere or story to be worth the £15 with the current level of content. It honestly feels like an AppLab game, lots of glitches, including one game breaking bug where I had to restart the level from the beginning.\n\nIf all the steam community levels were available from the get go then instant 5*, as at that point it’s just about puzzle solving not story or atmosphere, however I feel slightly tricked. As we have to wait for the dev team to port the community levels over and also having no choice in the game that’s being ported kinda sucks, the vaporwave community level and the sudoku one just weren’t my vibe and I would have completely avoided them if I had more choice.",
+      "date": 1730219506,
+      "review_helpful_count": 7,
+      "author_display_name": "TerraOmnis",
+      "author_alias": "TerraOmnis",
+      "developer_response": null
+    },
+    {
+      "id": "388940187646285",
+      "score": 1,
+      "review_title": "Rubbish",
+      "review_description": "The game didn't work properly it keep glitching and when I asked for a refund it was rejected don't waste your money",
+      "date": 1729343441,
+      "review_helpful_count": 4,
+      "author_display_name": "Dragon84",
+      "author_alias": "Dragon84",
+      "developer_response": {
+        "body": "Hi Dragon84, sorry to hear you had issues with the game. Could you let us know exactly what didn’t work properly on your device? We'd love to help sort it out. As for the refund, unfortunately, that’s handled by the platform and not something we control.",
+        "date": 1729455040
+      }
+    },
+    {
+      "id": "479797225218783",
+      "score": 1,
+      "review_title": "Cannot do coop",
+      "review_description": "Won’t let me play coop. I host my partner cannot join. Just keeps saying joining",
+      "date": 1731612942,
+      "review_helpful_count": 0,
+      "author_display_name": "CurryQueen",
+      "author_alias": "CurryQueen",
+      "developer_response": {
+        "body": "Hey CurryQueen, \n\nSorry to hear you're having trouble with co-op! Everything seems to be running smoothly on our end, so it might be a temporary issue. \n\nCould you try restarting the game and see if that helps? If the problem persists, please let us know more details (like your platform and any error messages), and we’ll do our best to assist. \nThanks for your patience!",
+        "date": 1731699118
+      }
+    },
+    {
+      "id": "562892176207803",
+      "score": 5,
+      "review_title": "Wow!",
+      "review_description": "This is one of the Must Own Games on Quest! It's the same excitement as Walkabout Minigolf Treasure Hunts but you're trapped in one room with up to 10 of your friends?! I will be buying ALL DLC for this one!",
+      "date": 1728702936,
+      "review_helpful_count": 1,
+      "author_display_name": "M4cheteColletti",
+      "author_alias": "M4cheteColletti",
+      "developer_response": null
+    },
+    {
+      "id": "559080026638562",
+      "score": 5,
+      "review_title": "Top game",
+      "review_description": "This puzzle game sure gets you thinking. I'm\n amazed at how many rooms there are.. it just keeps giving and giving. I've done loads if puzzle games and this one is right up there ..definitely one to buy .",
+      "date": 1729513587,
+      "review_helpful_count": 0,
+      "author_display_name": "suepenny",
+      "author_alias": "suepenny",
+      "developer_response": null
+    },
+    {
+      "id": "549404984299617",
+      "score": 5,
+      "review_title": "Great fun",
+      "review_description": "So me and a friend made it through the first set of rooms in Egypt. The puzzles are a bit easy after you get the hang of what you're doing. Game says up to 8 players, I believe, but the rooms are so small. There is no way to fit that many unless the room gets bigger with the number of people. We only had us 2. You're timed so you can win a trophy if you make it out in the time it allows. You can make your avatar, but not much to choose from as far as hair and such. Clothes are based on the room themes. I believe there are around 25 rooms, I'm not sure. \n   If you walk too close to a wall, your vision disappears till you walk away from it. I believe the hints are for the puzzle you're working on first, so if you have 3 people doing 3 different puzzles, the hints will do one first, then the next. I'm not sure if the hint waits until you're done with the 1st puzzle in order to get the next hint. I'm not sure why you have a satchel to put items in when the room is so small, it's not needed. You can't take the first room items with you to the next room if you're in the same theme. Example--Egypt, room one, we thought taking the magnifying glass could go to the next Egyptian room. Nope.\n   It's very cute. I hoped the puzzles would be challenging, but it was still very entertaining. If you haven't done an escape room before, you may have trouble.\n   Great job Devs, just keep up with the rooms, or people will get bored quickly.",
+      "date": 1728646102,
+      "review_helpful_count": 21,
+      "author_display_name": "Leenie_Grl",
+      "author_alias": "Leenie_Grl",
+      "developer_response": null
+    },
+    {
+      "id": "547340804903243",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "This game consist of fun long escape rooms that you can play single player or multiplayer most of the maps are challenging and hard but still really fun.",
+      "date": 1729719129,
+      "review_helpful_count": 0,
+      "author_display_name": "10101Glitch01010",
+      "author_alias": "10101Glitch01010",
+      "developer_response": null
+    },
+    {
+      "id": "509551312248811",
+      "score": 5,
+      "review_title": "Please add more",
+      "review_description": "Loved this..and need more!!!",
+      "date": 1736638094,
+      "review_helpful_count": 1,
+      "author_display_name": "Debri0529",
+      "author_alias": "Debri0529",
+      "developer_response": null
+    },
+    {
+      "id": "492393030238933",
+      "score": 5,
+      "review_title": "Best escape room!",
+      "review_description": "I love puzzles and I enjoy some escape room games. For me, this is the best way to experience this type of game and this one exceeded my expectations. Great cartoony graphics, clever puzzles. My only small complaint (and isn't a problem) is the timer for each puzzle.",
+      "date": 1725389074,
+      "review_helpful_count": 12,
+      "author_display_name": "Grouken",
+      "author_alias": "Grouken",
+      "developer_response": {
+        "body": "Thank you so much for playing and taking your time to write this review. The timer is totally optional, you can even turn it off in the settings. ;) Enjoy the rest of the game!",
+        "date": 1728936724
+      }
+    },
+    {
+      "id": "488505711012093",
+      "score": 5,
+      "review_title": "Get small escape rooms for tight fun",
+      "review_description": "Lots of current and new content coming. The rooms are small but have pretty good puzzles. Clues are helpful and can be accessed for help. Easy to invite friends and play together.",
+      "date": 1732131203,
+      "review_helpful_count": 0,
+      "author_display_name": "gobbler.man",
+      "author_alias": "gobbler.man",
+      "developer_response": null
+    },
+    {
+      "id": "454100911128154",
+      "score": 3,
+      "review_title": "It’s okay… gots lots",
+      "review_description": "For sure will need a few updates to clear some of the glitching near hints",
+      "date": 1729526922,
+      "review_helpful_count": 0,
+      "author_display_name": "Uhtred2511",
+      "author_alias": "Uhtred2511",
+      "developer_response": null
+    },
+    {
+      "id": "434463256409279",
+      "score": 5,
+      "review_title": "An Instant-buy escape room game!",
+      "review_description": "I bought this game with all the DLCs on steam. The game is incredible with more than 4k community created rooms. After playing the closed beta Quest version for one month, I really look forward to its publish because it's more convenient to play with family or friends.",
+      "date": 1725553784,
+      "review_helpful_count": 15,
+      "author_display_name": "Jackdanni",
+      "author_alias": "Jackdanni",
+      "developer_response": null
+    },
+    {
+      "id": "414047075082244",
+      "score": 5,
+      "review_title": "My new favourite VR game.",
+      "review_description": "I had played Escape Simulator before but couldn't pass up experiencing it in VR. It's been incredibly fun so far revisiting this game and it feels perfect for VR, it looks great and the controls are well optimised. \n\nIt already has a great selection of rooms built in but I'm looking forward to further official rooms made available through DLC. Definitely recommend for any escape room/puzzle fans!",
+      "date": 1729730220,
+      "review_helpful_count": 0,
+      "author_display_name": "jbdrgnstone",
+      "author_alias": "jbdrgnstone",
+      "developer_response": null
+    },
+    {
+      "id": "410208718812287",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "Keep the content coming!",
+      "date": 1731113558,
+      "review_helpful_count": 0,
+      "author_display_name": "Techknickle",
+      "author_alias": "Techknickle",
+      "developer_response": null
+    },
+    {
+      "id": "589094690142369",
+      "score": 5,
+      "review_title": "An Excellent Puzzler!",
+      "review_description": "I'm glad to have taken a chance on this game! The difficulty of the puzzles seem just righg for me, even if I look over the slightest small details and/ or don't connect the dots in my head correctly on occasion (luckily the hint system is there and great, even if I've misinterpreted or even couldn't figure out what it was showing me once or twice.. 😅).\nI also LOVE that there is such a great amount of content to get through broken up into 15 minute rooms (I even immediately bought the DLC for even more) compared to other Escape Room games I have that give around 5 rooms, that you are forced to complete in a single 40-60 minute session or completely resrating from the beginning of said room.\n\nLove it and hope the developers keep adding more quality rooms for years to come! I, and countless others I'm sure, will glady keeo buying them up!",
+      "date": 1733102791,
+      "review_helpful_count": 5,
+      "author_display_name": "Teele891",
+      "author_alias": "Teele891",
+      "developer_response": null
+    },
+    {
+      "id": "588227417110218",
+      "score": 5,
+      "review_title": "Great multiplayer  game",
+      "review_description": "Had a blast with friends trying to  collect all the tokens.\nGlad to see new levels are on the way!",
+      "date": 1728861923,
+      "review_helpful_count": 0,
+      "author_display_name": "Hutchy",
+      "author_alias": "Hutchy",
+      "developer_response": null
+    },
+    {
+      "id": "571132005451441",
+      "score": 5,
+      "review_title": "Fun escape rooms!",
+      "review_description": "Very fun and satisfying game. New maps have been coming out consistently too. :)",
+      "date": 1730927903,
+      "review_helpful_count": 0,
+      "author_display_name": "SpiceyTaxes",
+      "author_alias": "SpiceyTaxes",
+      "developer_response": null
+    },
+    {
+      "id": "565637999841549",
+      "score": 5,
+      "review_title": "Best Escape Room Play",
+      "review_description": "This by far is one of the best puzzle solving,escape room ever..I give them 100 percent on game play,graphics,this is a must have.",
+      "date": 1739386349,
+      "review_helpful_count": 0,
+      "author_display_name": "TempaTantrum",
+      "author_alias": "TempaTantrum",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T14:16:44Z"
+}

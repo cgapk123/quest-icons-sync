@@ -1,0 +1,42 @@
+{
+  "app_id": "5152194664842360",
+  "package_name": "com.PatrickTomasini.BTW",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "BEHIND THE WINDOW",
+  "rating_average": 4.25,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "2343443075796625",
+      "score": 5,
+      "review_title": "Bravo!",
+      "review_description": "A very posh art museum, with atmosphere.",
+      "date": 1654723795,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "539728014612223",
+      "score": 5,
+      "review_title": "Immersive",
+      "review_description": "The app is a nice way to experience the art, and appreciate it at your own pace.",
+      "date": 1656507550,
+      "review_helpful_count": 0,
+      "author_display_name": "Zoran555",
+      "author_alias": "Zoran555",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T14:09:42Z"
+}

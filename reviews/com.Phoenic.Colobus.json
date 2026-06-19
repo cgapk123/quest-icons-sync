@@ -1,0 +1,48 @@
+{
+  "app_id": "25418617827841300",
+  "package_name": "com.Phoenic.Colobus",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Colobus",
+  "rating_average": 4.2,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "916688070895339",
+      "score": 5,
+      "review_title": "Really good fangame",
+      "review_description": "Frogs are cool",
+      "date": 1771034246,
+      "review_helpful_count": 2,
+      "author_display_name": "brb195",
+      "author_alias": "brb195",
+      "developer_response": {
+        "body": "Thanks for your positive review, brb195! We hope you enjoy playing Colobus. - Phoenic Analytics",
+        "date": 1771084714
+      }
+    },
+    {
+      "id": "1212808124170123",
+      "score": 5,
+      "review_title": "cool",
+      "review_description": "cool",
+      "date": 1771014707,
+      "review_helpful_count": 1,
+      "author_display_name": "jeff.hixon.3",
+      "author_alias": "jeff.hixon.3",
+      "developer_response": {
+        "body": "Hello jeff.hixon.3! We're glad that you find that Colobus Is cool. \n-Phoenic Analytics",
+        "date": 1771014804
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T14:14:33Z"
+}

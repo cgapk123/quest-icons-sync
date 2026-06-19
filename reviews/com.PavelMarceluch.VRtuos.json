@@ -1,0 +1,258 @@
+{
+  "app_id": "3827275690649134",
+  "package_name": "com.PavelMarceluch.VRtuos",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "VRtuos",
+  "rating_average": 2.9,
+  "rating_count": 110,
+  "review_count": 44,
+  "reviews": [
+    {
+      "id": "976871845516184",
+      "score": 1,
+      "review_title": "0 stars if i could",
+      "review_description": "Just try to look at the other review",
+      "date": 1772908110,
+      "review_helpful_count": 0,
+      "author_display_name": "ChristoEye",
+      "author_alias": "ChristoEye",
+      "developer_response": null
+    },
+    {
+      "id": "103601635961734",
+      "score": 1,
+      "review_title": "Looks better than how it works",
+      "review_description": "1) When playing without real piano, it has no sounds. (Unlike other vr piano programs like PianoVision or MagicKeys).\n\n2) When I have auto-switch btw controller and handtracking enabled, and started this program, it didn't recognize when I put down the controller (which otherwise works). But I also can't start in hand only mode, as calibrating the piano requires the controller (unlike other mentioned programs where you can use your fingers). So I have to calibrate with controller, then go back to main menu and enable hand then back here...\n\n3) Can't setup my small 26key synth here. Even with the universal calibration, there will be one key length difference in two octaves. Ie if C3 is in good position, C1 will be off by one key. That's pretty bad.",
+      "date": 1673123940,
+      "review_helpful_count": 22,
+      "author_display_name": "katamark",
+      "author_alias": "katamark",
+      "developer_response": null
+    },
+    {
+      "id": "125431906905384",
+      "score": 2,
+      "review_title": "It said I didn't need a keyboard",
+      "review_description": "So if there's a setting if you don't have a piano, then why is it not working with hand tracking or sound? I don't have a piano, but I would like to learn. Why can't you have hand tracking on the keyboard that's on the screen?",
+      "date": 1662077573,
+      "review_helpful_count": 33,
+      "author_display_name": "BMLBK1",
+      "author_alias": "BMLBK1",
+      "developer_response": null
+    },
+    {
+      "id": "114662638008791",
+      "score": 1,
+      "review_title": "Its not that good",
+      "review_description": "When I bought it I can’t even hear anything my oculus was Burning up￼ and I checked my Volume￼ and it was full but I thought it was just my oculus I thought something happened to it but when to go to a different game I can hear I will not recommend this",
+      "date": 1660336641,
+      "review_helpful_count": 7,
+      "author_display_name": "Spicy_Mango1290",
+      "author_alias": "Spicy_Mango1290",
+      "developer_response": null
+    },
+    {
+      "id": "5114288288667567",
+      "score": 5,
+      "review_title": "Great fun",
+      "review_description": "This app is great fun and can make a great learning experience I only wish that it would show when you’ve depressed a note just so you know where your fingers are this could be easily done using the mic to detect the note",
+      "date": 1654354896,
+      "review_helpful_count": 10,
+      "author_display_name": "Daniel_Laraman",
+      "author_alias": "Daniel_Laraman",
+      "developer_response": null
+    },
+    {
+      "id": "127196403146303",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Seems cool app but the piano doesn't make any sound",
+      "date": 1643892116,
+      "review_helpful_count": 0,
+      "author_display_name": "Ivaneski",
+      "author_alias": "Ivaneski",
+      "developer_response": {
+        "body": "To connect your midi piano to VRtuos, use the Companion app. A tutorial on how to use it can be found here: https://vrtuos.eu/#tutorial",
+        "date": 1644064086
+      }
+    },
+    {
+      "id": "463178328936506",
+      "score": 2,
+      "review_title": "Antoinette to bluetooth piano",
+      "review_description": "Doesn't register bluetooth keyboard /input of keystrokes if plugged in either keyboard continues to move around otherwise I looks great but not helpful",
+      "date": 1650749712,
+      "review_helpful_count": 0,
+      "author_display_name": "TommyFHickok",
+      "author_alias": "TommyFHickok",
+      "developer_response": null
+    },
+    {
+      "id": "357527016113392",
+      "score": 4,
+      "review_title": "Midi keyboard",
+      "review_description": "No sound on the companion app either, even if I use the box \"My keyboard doesn't produce sound\". I guess something like (https://virtualpiano.eu) would be nice with a choice of different instrument sounds when you click that box.\n\nUPDATE: I found out it actually works as a workaround for now, to keep the companion app in one browser tab, and another tab open with an online piano to make the sounds. This other one (https://virtualpiano.net) sounds quite good and will play the notes while open in another tab.\n\nALSO: AR passthrough mode please would be neat",
+      "date": 1629824519,
+      "review_helpful_count": 15,
+      "author_display_name": "Lemovision",
+      "author_alias": "Lemovision",
+      "developer_response": {
+        "body": "Hi, the Companion app is for connecting your real MIDI piano, it is not supposed to be a synthesizer. The checkbox is for midi loopback for midi pianos without speakers.\nA synth functionality for the companion app is planned for the future, but there is no date yet.",
+        "date": 1629794262
+      }
+    },
+    {
+      "id": "336432471168009",
+      "score": 4,
+      "review_title": "Great app, great potential",
+      "review_description": "The calibration is a bit difficult at the beginning, but works well. Had a good time playing my keyboard. Unfortunately i can’t connect the app to the companion. That’s really sad, because i would like to use all features. :(",
+      "date": 1622911910,
+      "review_helpful_count": 4,
+      "author_display_name": "Marvinmf",
+      "author_alias": "Marvinmf",
+      "developer_response": null
+    },
+    {
+      "id": "325248802705376",
+      "score": 2,
+      "review_title": "Make it great",
+      "review_description": "the concept is awesome. But it is impossible to play without seeing what we are playing. \nUse the cameras for real view and the job is done \n\nI will be the first to play a lot",
+      "date": 1633210081,
+      "review_helpful_count": 3,
+      "author_display_name": "Metz82",
+      "author_alias": "Metz82",
+      "developer_response": {
+        "body": "If you calibrate your piano correctly, it should line up and make it very easy to play. If that still isn't enough, a passthrough version is currently in beta and it should release by the end of the year.",
+        "date": 1634116073
+      }
+    },
+    {
+      "id": "316102889870164",
+      "score": 4,
+      "review_title": "Don’t know how to import midis",
+      "review_description": "The game is very good, it’s educational and fun. However i had the game on sidequest first, i deleted the game off sidequest and downloaded it on applab. Now i don’t know how to download midis. It can just be me because i deleted the com.PavelMarceluch.VRtuos file. I don’t know if i can do it. I hope i fins a way.",
+      "date": 1619546435,
+      "review_helpful_count": 4,
+      "author_display_name": "RageViking790",
+      "author_alias": "RageViking790",
+      "developer_response": {
+        "body": "You can always try to reinstall the app. After that, you need to launch the app at least once so that all folders can be created. If you can see the default preinstalled midis inapp, you should be able to find the folder itself.\nThanks",
+        "date": 1619601119
+      }
+    },
+    {
+      "id": "311819631127246",
+      "score": 3,
+      "review_title": "Neat",
+      "review_description": "This is a really cool app and i cant wait to see what it can do in the future.  really only 2 bug suggestions. one, id love fo see the notes on ghe keyboard or have the option to do that. and 2 make it a learning thing. start off with one hand and work on chords and then add the left and stuff. \nits really good! the interface is great, more songs would be awesome! i know i can upload but thats really hard to do. \nbut ya great! i cant wait to see whats next with the app!",
+      "date": 1652977999,
+      "review_helpful_count": 2,
+      "author_display_name": "Gomhar",
+      "author_alias": "Gomhar",
+      "developer_response": null
+    },
+    {
+      "id": "251355880092960",
+      "score": 5,
+      "review_title": "Miracle app",
+      "review_description": "I had not played the piano in more than a decade.\n\nWith this app I could immediately play more advanced pieces that I had always wanted to play but could not due to my limited sheet music reading ability!\n\nThis app makes playing the piano fun like a video game and less like a chore. I now play the piano almost everyday again. Thank you VRtuos!\n\nWith that being said, using this app is like using training wheels on a bicycle - fun and easy but it just doesn’t give the same feeling of freedom. I hope one day I will improve to the point that I won’t require VRtuos!",
+      "date": 1617164332,
+      "review_helpful_count": 1,
+      "author_display_name": "arandomnote",
+      "author_alias": "arandomnote",
+      "developer_response": null
+    },
+    {
+      "id": "239284924868841",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Best music app, is just mind-blowing how you can play an ACTUAL PIANO just with this and some midis...is not a substitute to a teacher, but is a good place to start, and i can see someone using this as a tool to teach. It would be great to use this app with the \"new\" AR option.",
+      "date": 1629844895,
+      "review_helpful_count": 1,
+      "author_display_name": "Chewesss",
+      "author_alias": "Chewesss",
+      "developer_response": null
+    },
+    {
+      "id": "214671964046143",
+      "score": 5,
+      "review_title": "College Music Professor review",
+      "review_description": "Nice Job!!  Extremely clever and effective. There is huge potential for this as it develops--it is perfect for people who already play rhythm games and understand that visual aesthetic. As oculus gets better with hand tracking and your app gets updates, I am guessing the alignment accuracy will improve. I wonder if there were a way to see the actual sheet music in addition as that might help solidify playing for those who have some experience in piano, but are not the best music-readers yet. I have had a blast wit this, and multiple times I was thanking you out loud while playing--truly! I am looking forward to seeing where this goes-",
+      "date": 1631587988,
+      "review_helpful_count": 19,
+      "author_display_name": "iopye",
+      "author_alias": "iopye",
+      "developer_response": null
+    },
+    {
+      "id": "209763797609888",
+      "score": 5,
+      "review_title": "This app has potential",
+      "review_description": "Awesome app to learn songs on. Way better than going on YouTube, looking at the tutorial and figuring out where to put your fingers.\n\nHaving a midi piano would probably be more effective to learn on, but it’s still good enough without one.\n\nI can see this improving overtime and I would rather prefer this over simply piano.",
+      "date": 1616323752,
+      "review_helpful_count": 5,
+      "author_display_name": "Kripto137",
+      "author_alias": "Kripto137",
+      "developer_response": null
+    },
+    {
+      "id": "203301091784448",
+      "score": 5,
+      "review_title": "Great app!",
+      "review_description": "Calibration is simple (I use a 61 key Yamaha). Of course, it's simple if you keep the controlers as indicated in the settings picture. In my ignorance I was holding the controllers facing forward, not up, so at first my fingers dissapeared inside the virtual piano while playing. But after I did a proper calibration (simply follow the self-explanatory picture), everything was SMOOTH. You can adjust X,Y,Z axis but if you keep the controlers as shown in picture, there is no need for adjustments. There is literally an infinite amount of midi files to play, free, online. Installation for those files is simple, I have uploaded the files with SideQuest. The app is addictive and incredible simple to use. My 12 years old daughter managed to play Fur Elise using both hands in less than 2 hours, with no previous piano experience. Now she is trying to replay the song without wearing the Quest2.",
+      "date": 1629721570,
+      "review_helpful_count": 14,
+      "author_display_name": "DemonBDC",
+      "author_alias": "DemonBDC",
+      "developer_response": {
+        "body": "Thanks, you made my day! It sounds like you are having a really good time. I wish you both the best of luck!",
+        "date": 1629794101
+      }
+    },
+    {
+      "id": "196805785543228",
+      "score": 2,
+      "review_title": "hate this game",
+      "review_description": "its the worst ever",
+      "date": 1616320320,
+      "review_helpful_count": 2,
+      "author_display_name": "Zaid0",
+      "author_alias": "Zaid0",
+      "developer_response": null
+    },
+    {
+      "id": "185903173817747",
+      "score": 4,
+      "review_title": "its great, but..",
+      "review_description": "I'd like to enable passthrough using this so i can see my hands. It is much MUCH better than looking at a virtual piano. PLEASE take this into consideration!!",
+      "date": 1659564438,
+      "review_helpful_count": 16,
+      "author_display_name": "justin2710_REAL",
+      "author_alias": "justin2710_REAL",
+      "developer_response": null
+    },
+    {
+      "id": "184334730312197",
+      "score": 1,
+      "review_title": "the sound",
+      "review_description": "threre are no sound\nplease fix this",
+      "date": 1621642117,
+      "review_helpful_count": 1,
+      "author_display_name": "meerandCj",
+      "author_alias": "meerandCj",
+      "developer_response": {
+        "body": "There is supposed to be no sound. If you want midi playback, connect the Companion App. (https://vrtuos.eu/#tutorial)",
+        "date": 1621764003
+      }
+    }
+  ],
+  "total": 20,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-19T14:10:04Z"
+}
