@@ -1,0 +1,376 @@
+{
+  "app_id": "7997634810352504",
+  "package_name": "com.JonasSandstedt.LoopOneDone",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Loop One: Done",
+  "rating_average": 4.8823529411765,
+  "rating_count": 51,
+  "review_count": 28,
+  "reviews": [
+    {
+      "id": "1056189520913827",
+      "score": 5,
+      "review_title": "Automation!! 👍",
+      "review_description": "It's SOOOO good!! Huge fan! \nMy only suggestions are:\n\n1. To allow finer control when placing objects. Currently you either have to slowly spread your thumb+pointer to get things to stick, or haphazardly try to place them quickly. Half the time items moves away from where you intended.\n\n2. Also, when selecting belts that are right next to a larger machine, 90% of the time it selects the larger machine. A \"select mode\" before moving items would be cool. So you could tap a belt and then only that belt will move when trying to select/move/set into place.\n\n3. Finer control when recording. For example, when you grab an arm I constantly lose grip and have to restart the recording.\n\n4. When recording, tap the record button again to cancel the recording, so you can easily restart if messed up. (lost control from 3.)\n\n5. More 3D decorative pieces that animate. \n\n6. Finally, a mode where you drag with both hands from a corner of the play area/table and drag over all machines in play, so you can copy/paste/delete/move entire assembly lines at once. \n\nLooking forward to some polish! \nThank you LOD!",
+      "date": 1777143881,
+      "review_helpful_count": 0,
+      "author_display_name": "Mr_Hindsight",
+      "author_alias": "Mr_Hindsight",
+      "developer_response": {
+        "body": "Hey Mr_Hindsight! Thanks a lot for your review and feedback!\n\n1. In the next update, I will add a grid mode, making it much easier to build more precisely. Hand tracking is hard to get good at, as you will drop things when moving them quickly if the release threshold is too low.  But will go through and see if I can refine the release based on the hands' speed.\n\n2. Yeah, I know, I haven't had time to fix this yet. But it's an interesting solution, might be good to have as an option. I will try to go through and adjust the sizes of the colliders on all buildings to make it more accurate and easier to grab items next to them.\n\n3. I assume it's primarily when using hand tracking that this is a problem? But I'll add this to my list to see if I can improve this too.\n\n4. You can press the delete button to delete a recording. Currently, pressing the rec button stops the current recording to the closest segment. But maybe should remove that when the segment is not set to AUTO. Just a bit confusing that it works differently. But maybe it's better to remove that functionality in order to stop a recording faster. Will need to think about that.\n\n5. YEEEZ! It's coming!\n\n6. Yep, this is also coming. I bumped that up in the backlog.\n\nFeel free to join my Discord if you want to suggest more features!",
+        "date": 1777974265
+      }
+    },
+    {
+      "id": "1653737729126029",
+      "score": 5,
+      "review_title": "Superb automation game in vr",
+      "review_description": "From what I know this is the best automation game in VR. Mixed reality justs adds this feeling of you watching over your automated empire in your own living room. Great view and awesom feeling looking at everything moving like in other automation games but this one you build with your own hands (literaly) and in your own house.",
+      "date": 1773605864,
+      "review_helpful_count": 1,
+      "author_display_name": "Medolis",
+      "author_alias": "Medolis",
+      "developer_response": {
+        "body": "Thanks for your kind words! It really motivated me to finish building this game.",
+        "date": 1773902723
+      }
+    },
+    {
+      "id": "1032963489898982",
+      "score": 5,
+      "review_title": "Superb use of mixed reality",
+      "review_description": "If you like factory simulations you will probably enjoy this. Just started playing and understanding the mechanics and have to admit I can't wait to get stuck in to building some complex layouts in my sitting room. I really like the multiple storage slots allowing me to try different things. Gonna have to create drone flight plans for efficiency and collision avoidance. I can sit back on sofa and watch everything just working thinking of ways to improve production. Just brilliant. Many thanks. Jim",
+      "date": 1773596615,
+      "review_helpful_count": 0,
+      "author_display_name": "VarecBo",
+      "author_alias": "VarecBo",
+      "developer_response": {
+        "body": "Thanks a lot Jim! So glad you like it! Please join our Discord if you wanna share your work or suggest features.",
+        "date": 1773903086
+      }
+    },
+    {
+      "id": "803099002883888",
+      "score": 5,
+      "review_title": "Highly recommend!",
+      "review_description": "It's amazing that a simple game like LOD can be so much fun and addictive. It is an early access so of course there are bugs and minor flaws but the future is bright and I can't wait for all fixes and new features to come! \n\nIf you are looking for a game that you just can have installed and pick up playing where and when ever you want this is it! And don't forget to join the discord and get involved with the community and developer. 😁",
+      "date": 1756626022,
+      "review_helpful_count": 9,
+      "author_display_name": "luxwarp",
+      "author_alias": "luxwarp",
+      "developer_response": null
+    },
+    {
+      "id": "627746983688495",
+      "score": 5,
+      "review_title": "This is Chilled out fun",
+      "review_description": "Highly recommend if you are looking for a chilled out MR game, I can see the time passing very quickly playing this and look forward to keep seeing what comes as I complete each mission. If you're not sure about MR games this is a great place to start, 100% give it a go! You've done a great job here and I look forward to keep playing! Thanks!",
+      "date": 1753845650,
+      "review_helpful_count": 6,
+      "author_display_name": "Chilled41",
+      "author_alias": "Chilled41",
+      "developer_response": {
+        "body": "Thanks a lot! I will go full-time developing this game starting September 2025, so then I will have much more time adding new missions and other content. So please stay tuned!♾️1️⃣✅ /Jonas",
+        "date": 1753952852
+      }
+    },
+    {
+      "id": "730678453468906",
+      "score": 4,
+      "review_title": "",
+      "review_description": "I genuinely appreciate the ambitious idea and execution, but I'm afraid the game is still far from a satisfactory level. The gameplay itself is interesting and engaging, but I can't enjoy myself when I'm constantly experiencing issues with object collisions. Some elements are hard to grab. Recording movements is unclear; you have to hit the start of the recording cycle perfectly for it to work. That doesn't make sense, it's frustrating and unnecessarily complicated. Surely this could be done better. Also, recorded movements often end with a different result every x repetitions (the robot passes elements correctly 3 times, only for everything to fall out of its \"hands\" the next time). I'm disappointed because this is a type of game I love, and I was excited to have it on Quest, but unfortunately, it's hard to recommend at the moment. I'll keep my fingers crossed that the bugs get fixed!",
+      "date": 1754765701,
+      "review_helpful_count": 2,
+      "author_display_name": "Roman.Sik",
+      "author_alias": "Roman.Sik",
+      "developer_response": null
+    },
+    {
+      "id": "981746255023739",
+      "score": 5,
+      "review_title": "Satisfactory VR: Ultra Light Edition",
+      "review_description": "This game is terrific! I'm really looking forward into its further development. :)",
+      "date": 1767409921,
+      "review_helpful_count": 0,
+      "author_display_name": "mietaapl",
+      "author_alias": "mietaapl",
+      "developer_response": {
+        "body": "Thanks a lot! Much more in the pipe to be released this year!",
+        "date": 1767632563
+      }
+    },
+    {
+      "id": "710639135471828",
+      "score": 2,
+      "review_title": "Very Early Access",
+      "review_description": "This immediately impressed me. I love automation factory games and this one started off great.... then the tutorial ended... and so did my fun. Wait! That's it!?!?! I was just getting started. I think it should have had at least a few solid levels of gameplay before hitting early access. We all know most EA games never get finished so if this one ever does I'll come back and review it then. Do I recommend it? No... way too short in its current state. But if you're the type who wants to support a project you like then buy it. Just don't expect hours of entertainment... or even a single hour. Fingers crossed they add more soon.",
+      "date": 1754266203,
+      "review_helpful_count": 1,
+      "author_display_name": "balance808",
+      "author_alias": "balance808",
+      "developer_response": {
+        "body": "Hi, Jonas here, the solo dev of this game. I understand the frustration with the game content. And as you say, it is very much early early access. I’m working on this every day, and will start working full-time in September. So you will see much more and frequent updates then. I have many more progression mechanics, new facilities, and materials planned (some are already made but not released yet). If you want to suggest features and help shape the game, please join my Discord. Otherwise, I hope you will like the upcoming updates!",
+        "date": 1754312092
+      }
+    },
+    {
+      "id": "900425449818451",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "This is such a fun and amazing game im sad that I completed the early access but I hope they will add more soon.",
+      "date": 1764271972,
+      "review_helpful_count": 0,
+      "author_display_name": "Prepro1108",
+      "author_alias": "Prepro1108",
+      "developer_response": null
+    },
+    {
+      "id": "755242170997743",
+      "score": 3,
+      "review_title": "Great game but the lag & tracking is bad",
+      "review_description": "As said it’s a very good game, but sadly even with quest game optimizer or quest game tuner once you start to have a bunch of drones, the FPS really tanks… for this amount of money I cannot recommend it. ￼",
+      "date": 1752202475,
+      "review_helpful_count": 2,
+      "author_display_name": "A1ucardMTV",
+      "author_alias": "A1ucardMTV",
+      "developer_response": {
+        "body": "I'm sorry you're having performance issues. All factories are different, so it's hard to know what doesn't work in yours. If you can submit your save file through the Report Bug button, I could take a look at it and see what's wrong. Please DM me on any socials @Sandstedt or Discord, or send an email to support@looponedone.com, as it's not possible to have conversations here 😅.\n\nI'm constantly working on improvements to the game as it's still in Early Access. So it will just be better and better.\n\nThanks for reporting!",
+        "date": 1752435353
+      }
+    },
+    {
+      "id": "1216763363500732",
+      "score": 5,
+      "review_title": "Absolutely excellent - so much fun!",
+      "review_description": "I was so lucky to play this game prior to launch today!  Thank you so much Jonas for sharing your delightful game with me.  And for dedicating the last 4 years to this masterpiece.  I loved testing it. \n\nIt’s fun, clever, well designed and a great challenge.  The attention to design detail and the fun concept of planning, positioning & growing a productive and effective factory is brilliant.  And all this in the comfort of your living room!  And check out the great music.\n\nThis is a wonderful example of a mixed reality game and works equally well with or without controllers. \n\nEverything saves as you go along so you can pick this up for a few minutes or a few hours - I was astounded at how I lost track of time I was having so much fun. \n\nAnd believe me, there is nothing quite as satisfying as tweaking those robot throws :)\n\nIf you are looking for something different, well made & challenging you will totally enjoy this game. \n\nSupport Jonas go buy it!",
+      "date": 1746243852,
+      "review_helpful_count": 19,
+      "author_display_name": "Bliss2121",
+      "author_alias": "Bliss2121",
+      "developer_response": {
+        "body": "Thank you so much for your kind words! 🥰. And thanks for helping testing it out! Still haven’t got time to fix some of your suggestions. But it’s coming!",
+        "date": 1746249356
+      }
+    },
+    {
+      "id": "2052984281866041",
+      "score": 5,
+      "review_title": "I mistakenly purchased, installed . . .",
+      "review_description": "Last night, around 9:15 PM, I mistakenly purchased, installed, and started playing Loop One: Done. When I next glanced at the clock, it was 1:30 AM! Luckily, I had tomorrow off work. As best as I can guess, LOD induces some type of time distortion or Zen state of mind. Once I start playing and fall under its spell, I feel no need to eat or sleep.\n\nI am still figuring out how to use all the objects effectively. But learning and experimenting is part of the fun. Next to planning non-collision drone flight paths, the robot arms are probably the most challenging object to master. Digging it.\n\nI read somewhere that the Quest 3 can store the spatial data for up to 15 locations. I will build factories in the kitchen, office, TV room, garden, and front porch. And yes, I know about keeping the Q3 headset out of the sun.  \n\nRecommending the game is easy. Just make sure you don't have any pressing engagements; you may be a no show.  Loop One: Done is addictingly  fun!",
+      "date": 1746835246,
+      "review_helpful_count": 10,
+      "author_display_name": "Jeffala",
+      "author_alias": "Jeffala",
+      "developer_response": null
+    },
+    {
+      "id": "732593922791110",
+      "score": 5,
+      "review_title": "Make a factory in your living room",
+      "review_description": "Just start building factories and get money from the items that you have created.  Use drones and robots to help you. Let them do the work, so you just have to collect the money. \n\nRecord the drones, how the must fly and the robots, how they must move. That’s it. Easy.\n\nThis is a very chill and pleasant  game. Hope there will be more missions to come.",
+      "date": 1750103078,
+      "review_helpful_count": 1,
+      "author_display_name": "POWERGIRL.BE",
+      "author_alias": "POWERGIRL.BE",
+      "developer_response": null
+    },
+    {
+      "id": "662310916960090",
+      "score": 5,
+      "review_title": "Build a factory while watching YouTube<3",
+      "review_description": "An ADHD dream come true! Perfect for people who like to do something productive while enjoying films or shows.\nThe Quest's browser stays open and you can walk around the room WHILE watching and expanding your cool factory.\nThe physics and mechanics + usability are already 99% perfect.\nI spent several Saturday mornings playing this in early access without any game-breaking issues - zero frustration, just creative fun and relaxation!\nGo get it - there's a sandbox mode too! :3",
+      "date": 1746448346,
+      "review_helpful_count": 7,
+      "author_display_name": "Idontlikephonecalls",
+      "author_alias": "Idontlikephonecalls",
+      "developer_response": null
+    },
+    {
+      "id": "1481229543295600",
+      "score": 5,
+      "review_title": "Factorio in VR!",
+      "review_description": "I can’t believe this doesn’t have more attention, the UI is so responsive and intuitive. The mixed reality really adds something special to this genre of game. Definitely looking forward to more updates!! Well done 💪🏼",
+      "date": 1750995101,
+      "review_helpful_count": 1,
+      "author_display_name": "BeyondTheRift",
+      "author_alias": "BeyondTheRift",
+      "developer_response": {
+        "body": "Thanks a lot! Please share the game and help spread the word! I'm working hard on new content updates, and I will go full-time in September, so then it will go much faster to get things out 😅 /Jonas",
+        "date": 1753953016
+      }
+    },
+    {
+      "id": "822635960936617",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Great game i love the game it very factory like. But I cant play the Simulation for a weird Reason",
+      "date": 1761743722,
+      "review_helpful_count": 0,
+      "author_display_name": "Joshua7000ASD",
+      "author_alias": "Joshua7000ASD",
+      "developer_response": {
+        "body": "Hi! I've just pushed an update that should fix this. Thanks for reporting the bug in-game!",
+        "date": 1761774526
+      }
+    },
+    {
+      "id": "570520746154968",
+      "score": 5,
+      "review_title": "Must play for automation fans",
+      "review_description": "I had the honor to playtest this during development and it’s just great! Everyone who liked factorio or satisfactory is going to love this! And even if you never tried an automation game, give this one a go. The AR is implemented so well, it’s just so cool building all the little compounds and machines all over your room. The fact you program drones and robots by recording how you carry them through the room is so much fun.\nThank you Jonas for such a great game from a genre that i love and that hasnt really had been done in VR, let alone AR, much love :3",
+      "date": 1746272685,
+      "review_helpful_count": 6,
+      "author_display_name": "LuDaBu",
+      "author_alias": "LuDaBu",
+      "developer_response": {
+        "body": "Thank you so much 🥰, and thanks a lot for helping me out with testing!",
+        "date": 1746388591
+      }
+    },
+    {
+      "id": "669860042326440",
+      "score": 5,
+      "review_title": "Big Recommend!",
+      "review_description": "It's a blast to build a cute factory in your living room.\nProgramming drones not to crash into each other and robot arms to throw iron into smelters is so fun, and when the factory grows hard to manage, optimizing the efficiency is super satisfying.\n\nAlso very nice music.",
+      "date": 1746208927,
+      "review_helpful_count": 6,
+      "author_display_name": "CaptainHummus",
+      "author_alias": "CaptainHummus",
+      "developer_response": {
+        "body": "Thanks a lot! More content and music tracks will come in future updates, too!",
+        "date": 1746388648
+      }
+    },
+    {
+      "id": "1074018471298898",
+      "score": 5,
+      "review_title": "Super unique game on the Meta store!",
+      "review_description": "Loop One Done is a very unique game on the Meta store.\nWhilst Automation games are pretty scarce on flatscreen gaming.....they are pretty much non existent in VR!\n\nLoop One Done is set to fill this void in the market. There is something flat screen game just can't do and that's to integrate it into your home environment through MR.\n\nThe concept is pretty simple; build a series of mine/lakes, to extract metal ore/plastics and selling it to unlock new ways to process the raw material (again to currently to sell at EA Launch......Im curious what other uses are planned for them)\nIts an addictive loop that's perfect for anyone that likes a laid back cosy gaming session.\n\nSetting a series of conveyer belts and programming drones to do collection runs becomes more and more hectic as you expand your factory (as you try and make sure there aren't any collision between drones on the route)\n\nThe foundations for a great addictive, unique game are in the EA release.\nThere are two modes at launch\n-  a campaign : which pretty much acts as a tutorial\n-  a sandbox : which allows you to build to your hearts content.\n\nThe developer seems to be very active on the discord site and open to ideas on how how to build on the very solid EA foundations.\nJoin in at this EA stage to help shape the game!\n\nTime see how big I can make my factory, making use off my coffee table and shelving in my room XD",
+      "date": 1746996619,
+      "review_helpful_count": 2,
+      "author_display_name": "Burntbreadman",
+      "author_alias": "Burntbreadman",
+      "developer_response": null
+    },
+    {
+      "id": "628745070145905",
+      "score": 5,
+      "review_title": "Really awesome concept and execution.",
+      "review_description": "My house now is a... factory!!! \n\nDespite being on early access the game is really\nPolished and provides plenty of options to create satisfying loops and just have a good time building up. \n\nGonna play this for a long time!!",
+      "date": 1746692997,
+      "review_helpful_count": 3,
+      "author_display_name": "Matan676",
+      "author_alias": "Matan676",
+      "developer_response": null
+    },
+    {
+      "id": "122245272152016568",
+      "score": 5,
+      "review_title": "Great potential",
+      "review_description": "Saw a post on reddit, and decided to get the game after giving the demo a go.\nIt's a very good game so far, and looks like it will have lots of potential!\n\nLooking forward to future updates and more content!",
+      "date": 1746314589,
+      "review_helpful_count": 3,
+      "author_display_name": "MrTwisterNo1",
+      "author_alias": "MrTwisterNo1",
+      "developer_response": {
+        "body": "Glad you liked it! And more content is coming soon!",
+        "date": 1746388426
+      }
+    },
+    {
+      "id": "649900238211726",
+      "score": 5,
+      "review_title": "Perfect",
+      "review_description": "Perfect form of chill. Just one thing - PLEASE add a continuous mode, that's all I ask. EDIT: Sorry about the typo, I meant continuous music mode. The game is inherently endless, only limited by your space size. Such a gem in a sea of \"unlimited games but no games\"",
+      "date": 1747411070,
+      "review_helpful_count": 1,
+      "author_display_name": "silasb2134",
+      "author_alias": "silasb2134",
+      "developer_response": {
+        "body": "Thanks, glad you liked it! There is a sandbox mode when starting a new save, and there is nothing stopping you to continue playing after you reached the current Early Access ”end of content”. That will also move forward as soon as I add more content. If you have any follow-up question, please write to support@looponedone.com or join my Discord.",
+        "date": 1747394002
+      }
+    },
+    {
+      "id": "668945402786583",
+      "score": 5,
+      "review_title": "I like it",
+      "review_description": "is like factorio and the last clockwinder had a baby for VR.in early acces it only have like a long tutorial when you test every factory then you can do a freewill factory",
+      "date": 1748014170,
+      "review_helpful_count": 1,
+      "author_display_name": "Rataqwe",
+      "author_alias": "Rataqwe",
+      "developer_response": null
+    },
+    {
+      "id": "607098929161662",
+      "score": 5,
+      "review_title": "I'm addicted!!",
+      "review_description": "So I used the 30-minute free trial, and I had to do more. I paid £9.99 for the game. One of the best games I've played by far. I'm looking forward to seeing what's next for this game.",
+      "date": 1747388287,
+      "review_helpful_count": 1,
+      "author_display_name": "Sneaky.Monkey",
+      "author_alias": "Sneaky.Monkey",
+      "developer_response": {
+        "body": "Haha, thanks a lot! I’m working hard on bug fixes and improvements, and then I will switch to adding more content. Thanks for your support!",
+        "date": 1747394292
+      }
+    },
+    {
+      "id": "638470749354119",
+      "score": 5,
+      "review_title": "Great first play",
+      "review_description": "Was hooked when completed the trial. Great tutorial and easy for all ages. Can't wait for more additions.",
+      "date": 1747873822,
+      "review_helpful_count": 1,
+      "author_display_name": "frystar.2025",
+      "author_alias": "frystar.2025",
+      "developer_response": null
+    },
+    {
+      "id": "29674307162184665",
+      "score": 5,
+      "review_title": "So much fun!",
+      "review_description": "I just love this game and how it makes use of mixed reality! Love the crafting, looping and figuring things out!",
+      "date": 1747491163,
+      "review_helpful_count": 1,
+      "author_display_name": "sebrk",
+      "author_alias": "sebrk",
+      "developer_response": null
+    },
+    {
+      "id": "675713588952621",
+      "score": 5,
+      "review_title": "Very cool concept. Fun game",
+      "review_description": "The Factory must grow (in your living room).",
+      "date": 1746223269,
+      "review_helpful_count": 4,
+      "author_display_name": "Bentu_TAP",
+      "author_alias": "Bentu_TAP",
+      "developer_response": {
+        "body": "It needs to, indeed! We need more good training data! 🤖",
+        "date": 1746249510
+      }
+    },
+    {
+      "id": "702390545636150",
+      "score": 5,
+      "review_title": "",
+      "review_description": "If you like factorio, you like loop one done. Loop one done is literally just factorio in vr and it is great. Totally worth the $12 to get it.",
+      "date": 1746751147,
+      "review_helpful_count": 1,
+      "author_display_name": "animalcompanygrandpa",
+      "author_alias": "animalcompanygrandpa",
+      "developer_response": null
+    }
+  ],
+  "total": 28,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-19T11:18:25Z"
+}

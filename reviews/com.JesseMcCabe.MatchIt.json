@@ -1,0 +1,48 @@
+{
+  "app_id": "4384294624941960",
+  "package_name": "com.JesseMcCabe.MatchIt",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Match It",
+  "rating_average": 3.8,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "419553356733585",
+      "score": 4,
+      "review_title": "Insanely hard!!",
+      "review_description": "The campaign is too hard. I can't make it past one of the first levels. There must be a secret control method to beat a level that I don't know about yet because it's virtually impossible to beat the clock on one of the first levels.\n\nArcade was more my bag, although when you get a high score, it doesn't put your name on the leaderboard which is annoying. I don't know which is my score on the leaderboard.\n\nOther than that, there's nice music and it's a fun idea for a puzzle game for a cheap price, but this needs a tutorial because......\n\n1) I had no idea of the controls to start off with and...\n2) If there's other tricks that I should know to beat the early hard level, then a tutorial would help.",
+      "date": 1655930148,
+      "review_helpful_count": 6,
+      "author_display_name": "ARandomChannelGT",
+      "author_alias": "ARandomChannelGT",
+      "developer_response": {
+        "body": "Thanks for the review... I will adjust the campaign times.  I tried to create them based on my own scores, but I have played this game more times than anyone else! :)\n\nI was intentially trying to let users learn the controls instead of giving away too much, but to your point, it may help to get people to play longer if they have some direction.\n\nThe leaderboard is supposed to show your username, but something is wrong with my Oculus integration.  It works in my dev environment, and I thought that it might work once I got approved for live, but it isn't.... working with support to resolve it.",
+        "date": 1656010737
+      }
+    },
+    {
+      "id": "125846146828150",
+      "score": 3,
+      "review_title": "Rounding up from 2.5 for a free game",
+      "review_description": "Simple concept; well executed. Could use a few fine tuning points though. (It's possible some of the following have in-game fixes, but I couldn't figure them out.)\n\nThere didn't seem to be a way to re-center the view, and the menu loaded up behind me when first starting the game. Having some sort of visual indicator to direct me to the menu (or to have it load properly in front) would be helpful.\n\nSeemed to be some music playing in the background, but it was super quiet. If there would have been a way to turn up the music and/or turn down the sound effects, that's a welcome addition.\n\nHaving a star ranking system instead of a flat clear time would be helpful for some of the harder levels. This would let people clear a level \"slower\" for say, 1 star, and then come back to try again for 3 stars. The clear times also didn't seem to match with how easily I was clearing levels. Some I blasted through without ever hearing the countdown start clicking, while on others I had made it only halfway through before the countdown started. Perhaps averaging clear times from other users could help make the experience smoother.",
+      "date": 1659988808,
+      "review_helpful_count": 3,
+      "author_display_name": "aviseras",
+      "author_alias": "aviseras",
+      "developer_response": {
+        "body": "Thanks for the feedback!  I'm not sure what's happening with the reset -- must be a bug or change in the platform that isn't addressed.\n\nGreat idea on the star ranking... do you want a volunteer job in product design?  :)",
+        "date": 1660238471
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:16:24Z"
+}

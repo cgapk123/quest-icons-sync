@@ -1,0 +1,42 @@
+{
+  "app_id": "9505816816177181",
+  "package_name": "com.JakobsGames.EpicGorillaTagHorror",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Epic Horror",
+  "rating_average": 4.3333333333333,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "625777333771734",
+      "score": 5,
+      "review_title": "Sorry about the bugs im working on it",
+      "review_description": "Working on a fix",
+      "date": 1745021239,
+      "review_helpful_count": 15,
+      "author_display_name": "Jakobisnow",
+      "author_alias": "Jakobisnow",
+      "developer_response": null
+    },
+    {
+      "id": "661267879975262",
+      "score": 1,
+      "review_title": "Fixed this game",
+      "review_description": "I can't play because the game had crashed",
+      "date": 1745016298,
+      "review_helpful_count": 1,
+      "author_display_name": "Ethansonic4536",
+      "author_alias": "Ethansonic4536",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:13:56Z"
+}
