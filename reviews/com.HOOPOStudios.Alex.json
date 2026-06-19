@@ -1,0 +1,945 @@
+{
+  "app_id": "25747440251567483",
+  "package_name": "com.HOOPOStudios.Alex",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Alex and the Jets",
+  "rating_average": 4.8583333333333,
+  "rating_count": 240,
+  "review_count": 172,
+  "reviews": [
+    {
+      "id": "1126506937213779",
+      "score": 5,
+      "review_title": "Really fun and charming game",
+      "review_description": "It instantly reminded me of MiniSquadron, an old Android mobile game I used to love. You're flying a small plane, and I'll be honest—it's a bit tricky at first. You have to get used to how the controls feel in 3D space before it really clicks. The fact that it supports both full VR and mixed reality is a great touch, and playing it in MR on Quest 3 looks super cool. Big thanks to the devs for making something so lighthearted and genuinely enjoyable.",
+      "date": 1779777306,
+      "review_helpful_count": 0,
+      "author_display_name": "CosmicDog26",
+      "author_alias": "CosmicDog26",
+      "developer_response": {
+        "body": "Thank you so much for this review!\n\nIt makes us happy every time to read these kind of reviews.",
+        "date": 1779965823
+      }
+    },
+    {
+      "id": "911052014808323",
+      "score": 4,
+      "review_title": "I love it!",
+      "review_description": "GREAT FUN! \nBut I can't use my right joystick. I switched it in the menue but it doesn't work.\n\nAnd I don't hve the clouds witch I can see in your Video. \n\nAn other nice to have would be bombs which you could drop on stuff on the ground.",
+      "date": 1770115881,
+      "review_helpful_count": 2,
+      "author_display_name": "TlowNymus",
+      "author_alias": "TlowNymus",
+      "developer_response": null
+    },
+    {
+      "id": "816029634252687",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Would recommend. Feedback: can you let it do loop the loops and maybe barrel rolls, could be an advanced option. For more progression, maybe you could make it so you need to beat each baddie at every size level. And once that is complete maybe you could record the time for beating each baddie and have a time limit for gold, silver, bronze. What do you think?",
+      "date": 1760619432,
+      "review_helpful_count": 4,
+      "author_display_name": "SlideALot",
+      "author_alias": "SlideALot",
+      "developer_response": {
+        "body": "Hey there!!!\n\nAWESOME ideas. \n\n1. You can do barrel rolls AND loops!\nBarre roll = press movement joystick (L3 by deafult) \nLoop = Hold Movement hand trigger and pull down the jotstick!\n(We can surely do better on communicating how to do it)\n\n2. As for progression - great ideas :) took a note of it and hopefully we will get there in one of the next updates.",
+        "date": 1760851607
+      }
+    },
+    {
+      "id": "1475128633729702",
+      "score": 5,
+      "review_title": "Room Scan Doesn’t Work",
+      "review_description": "I scan my room successfully, confirm it with the game, but then when the game starts it reverts to an old scan from a different room. Unless I can find a solution I’ll have to return it.\n\nThe developer responded quickly with a suggestion to delete my previous room scans. I did this and was able to play the game. This is probably a Meta issue so I won’t fault the game. It’s a fun game for a fair price.",
+      "date": 1757251742,
+      "review_helpful_count": 14,
+      "author_display_name": "TracerVR",
+      "author_alias": "TracerVR",
+      "developer_response": {
+        "body": "Update:\n\nWe're glad you made it!\n\nI hope you enjoy the game for a long time :) \n\nMatan.\n____________\n\nHey there TracerVR!\n\nThank you so much for buying our game! \n\nThere was a Meta Room Scan API update that had made things a bit tricky with room scan. \n\nMy first suggestion is to delete all of the room models from the settings, Scan the room from the \"space setup\" settings and then it should work perfectly. \n\nPlease feel free to reach out to my personal email and I will make sure to make it work for you ASAP.\n\nmatan@hoop-o.com.",
+        "date": 1757324528
+      }
+    },
+    {
+      "id": "679772951835471",
+      "score": 5,
+      "review_title": "Fun Little Shooter Game!",
+      "review_description": "Alex and the Jets worked great for us! It takes some coordination to fly the little guy but once you get it, it's a fun shooter game with Alex flying all around your room. Was a little disorienting when he flies behind me but with some patience, I was able to keep track of him. Aimed more at kids as you're capturing doughnuts and shooting pumpkins but it's very entertaining. Nice to have a shooter that doesn't feel at all violent.",
+      "date": 1759960746,
+      "review_helpful_count": 2,
+      "author_display_name": "VERT33",
+      "author_alias": "VERT33",
+      "developer_response": null
+    },
+    {
+      "id": "775432255251497",
+      "score": 5,
+      "review_title": "Fun VR and MR dogfighting game!",
+      "review_description": "Alex And The Jets is a simple and fun flying game that can be played in VR for Quest 2, Pro, 3 and 3S or in Mixed Reality on Quest 3 and 3S.\n\nIn the game you play as a Squirrel named Alex while dogfighting an enemy gang called The Jets through a series of mini games and fun challenges.\n\nFull review and gameplay footage can be found on my YouTube channel at Assassin32VR.",
+      "date": 1758233991,
+      "review_helpful_count": 5,
+      "author_display_name": "Assassin32VR",
+      "author_alias": "Assassin32VR",
+      "developer_response": null
+    },
+    {
+      "id": "755225387682099",
+      "score": 5,
+      "review_title": "Can not scan room",
+      "review_description": "Update to room scan issues: After some great communication with the developer, all good.\nIf anyone else has issues, I uninstalled app. deleted all room scans, then re-scanned and then finally reinstalled app.\nThanks to Matan, for all his help.\n\nHere's hoping that we could get local multi player in the future, or VR remote multi play. That aside, it's a great little game.",
+      "date": 1759487022,
+      "review_helpful_count": 0,
+      "author_display_name": "TrickyDee42",
+      "author_alias": "TrickyDee42",
+      "developer_response": {
+        "body": "Hey there!\n\nThank you so much for getting our game! \n\nI'm sorry that your first experience wasn't awesome as it should be. \n\nThere was a Meta Room Scan API update that had made things a bit tricky with room scan. \n\nMy first suggestion is to delete all of the room models from the settings, Scan the room from the \"space setup\" settings and then it should work perfectly. \n\nPlease feel free to reach out to my personal email and I will make sure to make it work for you ASAP.\n\nmatan@hoop-o.com..",
+        "date": 1758990542
+      }
+    },
+    {
+      "id": "1226412279289166",
+      "score": 4,
+      "review_title": "It’s ok",
+      "review_description": "Update: \n \nDevs got back to me, (thanks!) and explained a few things.  \n\nI’ll re look at the Ar with the tips. \n\nShort gameplay loops is fine, I get what you said about short plays. \n\nWhat about adding a map in between levels to show the player moving through as they complete the levels/stages.  Imagine, you see a globe 🌎 of where your at and and the next stage pops up on the 🌎  and your little plane flys there then the new stage starts.  Gives a sense of completion while keeping the short loop!  \n\n\n\n———————————————————————-\n\nThe game is cute in a cartoony way, the controls are responsive, the game as a whole looks good.  Suited for young kids. \n\nAfter the first wav of game play I lost interest. It’s not a bad game, just it’s been done so many times. \n\nDevs- think about adding multiplayer support.  \n\nLose the ar since it doesn’t work that good. Something is wrong with the scanning.",
+      "date": 1758373019,
+      "review_helpful_count": 0,
+      "author_display_name": "Wareix",
+      "author_alias": "Wareix",
+      "developer_response": {
+        "body": "Hey there Wareix! \n\nWe appreciate your feedback on this one! \n\nI can understand why you may have lost interest. Out game is built on short game loops with high replayability. \n\nWe don't necessarily aiming for you to play 1 hours straight, but we do aim for you to come back whenever you got 10-15 spare minutes where you jyst want to chill and shot planes 🐿️\n\nThe only thing that is concerning me in your feedback is that you mentioned that the Mixed Reality is not working well. \n\nThe MR mode is actually the main mode and even the reason why we have made this game at first! \nThe experience of having dogfights in your own space is just awesome, so I guess that you are facing some issues with the room scan. \n\nIt may happend for many reasons, but the most common fix is to go to the settings, delete all of the scans, re-scan your area through the main menu's settings (make sure it's as accurate as possible) - and then it should work perfectly. \n\nFeel free to reach out to my personal email if it doesn't make your MR experience tremendously better:\n\nMatan@hoop-o.com",
+        "date": 1758357379
+      }
+    },
+    {
+      "id": "826849026681470",
+      "score": 5,
+      "review_title": "Very funny dogfighting game in VR/AR!!",
+      "review_description": "Yesterday i tried this game...and in a while I found myself controlling a little cartoonish airplane in my room! Firing to enemies, doing acrobatics! Very FUNNY! And graphic is so nice! It works in VR and MR! Strongly adviced!\n\nIeri ho provato questo giochino di aeroplanini...in poco tempo mi son ritrovato a controllare questo aeroplanino, entrare nei cerchi e sparare ai nemici, fare acrobazie! Davvero divertente! Funziona sia in Realtà Virtuale che in Realtà Mista! Consigliato a tutti!!",
+      "date": 1758442114,
+      "review_helpful_count": 1,
+      "author_display_name": "tonystark78",
+      "author_alias": "tonystark78",
+      "developer_response": null
+    },
+    {
+      "id": "816657038201354",
+      "score": 5,
+      "review_title": "Awesome experience",
+      "review_description": "Fast-paced and fun! Alex & Jets combines jetpack flying with shooting challenges, offering smooth controls, creative arenas, and enemies that keep you moving. A great pick for anyone who enjoys action-packed gameplay both in VR and MR",
+      "date": 1758871721,
+      "review_helpful_count": 1,
+      "author_display_name": "Jonnyvr20",
+      "author_alias": "Jonnyvr20",
+      "developer_response": null
+    },
+    {
+      "id": "788340400708461",
+      "score": 3,
+      "review_title": "No Mixed Reality on Quest 2",
+      "review_description": "Got this game the other day. Good fun but was disappointed i could take fund a way to go mixed reality on quest 2 headset.",
+      "date": 1760823857,
+      "review_helpful_count": 1,
+      "author_display_name": "Nitropaul",
+      "author_alias": "Nitropaul",
+      "developer_response": {
+        "body": "Thank you Paul for putting the review and feedback!\n\nUnfortunately, Quest 2 doesn't have Mixed Reality capabilities such as color passthrough and advanced room scan. \n\nTherefore, from a technical perspective, it is not possible to deliver a Mixed Reality experience which will be fun, appealing and captivating like in the Quest 3 and 3S devices. \n\nI hope you would still be able to enjoy our game in VR mode or perhaps upgrade some day to the next generation headsets and enjoy Alex and the Jets on its best form.",
+        "date": 1760851516
+      }
+    },
+    {
+      "id": "1449838642933859",
+      "score": 5,
+      "review_title": "So much fun!",
+      "review_description": "I’m 52 now, but I remember flying my Star Wars ships around the living room. Making shooting sounds with my friends or sisters. I always wished they had real firing weapons so we could shoot the ships out of the air. lol. This is that. I feel like I have a remote control plane like a kid and can finally shoot the ships down. Once you get used to the controls, it’s soo much fun. \n\nI hope there will be more content. \nMore levels \nMore enemies \nMore planes to fly\nUnlock-able upgrades.\n\nDare I wish for multiplayer with 2 quest 3s. \n\nIt’s on the short side, but very much worth the experience.",
+      "date": 1750521720,
+      "review_helpful_count": 27,
+      "author_display_name": "Batsugun21",
+      "author_alias": "Batsugun21",
+      "developer_response": null
+    },
+    {
+      "id": "703751916162462",
+      "score": 4,
+      "review_title": "Suprisingly Addicting!!",
+      "review_description": "Almost perfect for me. Looks like a kids game but deceptively hard. VR option is a game changer. Although MR still looks awesome. I love peoples reactions when i let them try MR. 2 things are preventing me to give a perfect score\n\n- no global leader board\n- very limited skins/cosmetics to buy",
+      "date": 1755766700,
+      "review_helpful_count": 0,
+      "author_display_name": "Ozai14",
+      "author_alias": "Ozai14",
+      "developer_response": {
+        "body": "Thank you Ozai for your feedback!!\n\nAs for the global leader board - when in MR - it's pretty much impossible to measure differences between people as their enviroenment effects directly on the performance and the scoring! \nIt is possible of course on VR though.\n\nI'm just glad to see that you are a skilled player that managed to buy all of the cosmethics ;) \n\nI hope you will keep enjoy the game! \n\nBest regards!",
+        "date": 1755819463
+      }
+    },
+    {
+      "id": "855224374329898",
+      "score": 5,
+      "review_title": "Lots of fun.",
+      "review_description": "Tried this today and it's really fun. Looking forward to playing some more.",
+      "date": 1758375261,
+      "review_helpful_count": 1,
+      "author_display_name": "Megabits",
+      "author_alias": "Megabits",
+      "developer_response": null
+    },
+    {
+      "id": "690350420830817",
+      "score": 5,
+      "review_title": "What an amazing find on the Meta Store!",
+      "review_description": "I'm always searching for new Mixed Reality titles, and this one caught me by surprise - Alex and the Jets is a fantastic game if you wish to spend 30 minutes of your day just to chill! \n\nI always go back to play it. It has become my comfort game. Easy to play, hard to master, but very satisfying once you get the groove of it!\n\nRecommended for all to give it a try. :D",
+      "date": 1751898306,
+      "review_helpful_count": 4,
+      "author_display_name": "Pabmarcondes",
+      "author_alias": "Pabmarcondes",
+      "developer_response": null
+    },
+    {
+      "id": "728584519656430",
+      "score": 5,
+      "review_title": "A really fun arcade style game",
+      "review_description": "I had a blast flying the little plane, both around my room and in VR. Blasting enemies and grabbing power-ups made for some good, simple fun.\n\nWhat really helped was the lack of punishment for crashing into furniture. Without that, it would’ve been a lot tougher to enjoy.\n\nIt would be great to have a dedicated button to slow the plane down for tighter turns. I’d also love a settings toggle to switch from standard turning to angling the plane, so you could pull off loops and barrel rolls for some extra flair.\n\nAll in all, a fun arcade style flying experience and excellent value for money.\n\nOh, and one last tip - try flying the plane straight into your own face. See if you can keep your cool and not flinch.",
+      "date": 1751490382,
+      "review_helpful_count": 4,
+      "author_display_name": "Leehammy",
+      "author_alias": "Leehammy",
+      "developer_response": null
+    },
+    {
+      "id": "29603094086004993",
+      "score": 5,
+      "review_title": "Yes, this really is a 5 STAR game!",
+      "review_description": "Update: The new VR OPTION is really good. Wouldn’t it be great if you could fly into one of those portals that open up, and into a different environment? 👌\n\n\nThis game is charming AF. The really good experiences you get on the Quest platform, are the ones that are designed from the ground up for VR/MR. This is one of them. It would not hit the same way on a flat screen. It has the special ingredient that so many other games are lacking these days:  FUN. The developers who made this little gem really understand the capabilities of the hardware, and have created something magical. If you bought a Quest, you were probably hoping to find games like this.",
+      "date": 1748577724,
+      "review_helpful_count": 15,
+      "author_display_name": "CURTROCK",
+      "author_alias": "CURTROCK",
+      "developer_response": null
+    },
+    {
+      "id": "1474021367382581",
+      "score": 5,
+      "review_title": "Great little game",
+      "review_description": "So much fun seeing who can get the highest score and love that it’s mixed reality so u can see all ur own surroundings while flying the little plane around your house. Well done developers.",
+      "date": 1753710694,
+      "review_helpful_count": 1,
+      "author_display_name": "dawna1987aj",
+      "author_alias": "dawna1987aj",
+      "developer_response": null
+    },
+    {
+      "id": "2910854029098134",
+      "score": 4,
+      "review_title": "Reminds me of Snoopy vs Red Baron!",
+      "review_description": "I am starting to appreciate the potential of MR games having recently been 'wowed' by the quality of Pinball FX VR and First Encounters. \n\nAlex and the Jets is another impressive example that looks amazing with solid looking planes whizzing around your living room.\n\nI had some initial problems with room set up, but the developer was super helpful in checking it was all sorted.\n\nAs for the gameplay itself, it is simple and fun and I am hoping more variety will be added in the future (as it is still early access).\n\nSomething like air races against computer opponents or challenges to    pop the most balloons could spice things up a bit (I would also like to try flying a helicopter😀)\n\nAs a final suggestion, I wondered if it would be possible to adjust the scale of the planes depending on the playing space available, as some rooms can be a bit cramped for manoeuvres (although there is always the VR mode to get around this problem).\n\nAll in all this is fun little MR game that is guaranteed to impress new users.",
+      "date": 1748802347,
+      "review_helpful_count": 5,
+      "author_display_name": "CharlieSayNo",
+      "author_alias": "CharlieSayNo",
+      "developer_response": {
+        "body": "Update: Checking with you Charlie if you have managed to solve this? \n_____________________________________________________________________\n\nHey there Charlie!!\n\nThank you for your feedback and stating this issue.\n\nI am happy that you were intrigued by Alex and the Jets concept, and I am sure you won't be disappointed once you actually play it!\n\nIt seems like the marks of obstacles that should turn off after setting your room didn't turn off. \n\nA quit and return to the game may fix it.\n\nI welcome you to send me an email if a restart won't work and we will sort it out for sure!\n\nmatan@hoop-o.com",
+        "date": 1748683988
+      }
+    },
+    {
+      "id": "639917705865300",
+      "score": 5,
+      "review_title": "Incredible dog fighting fun!",
+      "review_description": "This game is such a blast! The flight controls are super smooth and intuitive so it feels really responsive. The visuals have a vibrant, stylized look that really pops against my living room and I love the different outfits for Alex. Overall it's a chill experience that's really hard to put down. Definitely worth checking out!",
+      "date": 1744110420,
+      "review_helpful_count": 42,
+      "author_display_name": "SiGrossArt",
+      "author_alias": "SiGrossArt",
+      "developer_response": null
+    },
+    {
+      "id": "626990600495405",
+      "score": 5,
+      "review_title": "Just so much fun!",
+      "review_description": "First off…I love it! \n\nIt’s perfect for those times when you don’t have a ton of time to play something. With kids, this is often my situation….or I’ve got to wait for my turn lol So I love these bite sized games. Plus it’s addicting enough to make you want to come back. Gotta try to beat that last score lol\n\nYou get to fly planes around in your living room shooting bad guys…what’s not to like? Try it out! Definitely worth the price! A+++",
+      "date": 1744123578,
+      "review_helpful_count": 26,
+      "author_display_name": "sonicjack.722707",
+      "author_alias": "sonicjack.722707",
+      "developer_response": null
+    },
+    {
+      "id": "1461095411918342",
+      "score": 3,
+      "review_title": "",
+      "review_description": "message for developers: Thanks for the kind and quick reply, but I don't agree with not using collisions and not using static occlusion: a game that doesn't respect collisions and doesn't have static occlusion can't be called a mixed reality game, we can't think that this is experimental, a lot of time has passed and we already have dynamic occlusion.\nI've been using an app that has excellent dynamic occlusion for a long time, so finding yourself in a game that doesn't even respect collisions and doesn't even use static occlusion is not a step backwards, but ten steps backwards!\n\nnot only integrate static occlusion and possibly also dynamic occlusion, but also get to implement lighting effects inside mixed reality (take the light sphere of Figmin Xr as an example, imagine now some similar effect in your game, that creates dynamic lighting for example when missiles hit walls or furniture)\n\nby the way I see that this app uses hand tracking data, really in the future there will also be control via hand tracking.\n\ngoing back to static occlusion, the problem is actually easily solvable, you could let the player choose whether to play integrating static occlusion and collisions with real furniture, or disable it and keep only the walls, or disable everything completely.\n\nyes I tried the VR version, I don't find it satisfying because you have to stay still, you can't move. \n\nmuch better mixed reality!\nBut until you go back to integrating at least the static occlusion like before, my opinion will be negative, I'm sorry, even if this is just a single opinion, I realize it doesn't really matter, but I would like you to think about it, thanks.\n\nFor the rest I know that players have fun like this too, mine is only an opinion to improve this game technically and to take it a step higher, thanks for your kind attention.\n\n-------\n\n\nupdate warning:\n\ndevelopers please read here.\nstatic occlusion does not work properly!\n\nhttps://youtube.com/shorts/DxOJprD3E_4?si=hYBy7wo-5MLrXaTe",
+      "date": 1748285294,
+      "review_helpful_count": 2,
+      "author_display_name": "serpe.massimo",
+      "author_alias": "serpe.massimo",
+      "developer_response": {
+        "body": "I appreciate your strong care in MR Serpe and I respect your strong opinion.\n\nFigminXR is a completely different concept, a world-building app that customization is its bread and butter. The user sets much more precisely it's space and can control where to place objects, which mitigates the challenge of making the game suit every space. \n\nWe don't have this privilege as our game needs a lot of free space with plenty of moving objects, so we have had to make some hard choices. \n\nWe may go and re-examine this in the future, but there are 2 EXTREMLY experienced developers and myself who fine-tuned this system and came to the conclusion that for now, this is the best way to ensure a compelling experience for as many users as we can.\n\nI hope that you can somehow relate and I hope you will play Alex and the Jets long enough to see how eventually it all turns out for the best.\n\nMatan.",
+        "date": 1748535057
+      }
+    },
+    {
+      "id": "2580449128967009",
+      "score": 5,
+      "review_title": "This makes the most of MR",
+      "review_description": "It's a nice little game. I'm not sure how much variety there will be as it's early day's, but it's executed well and it makes good use of the quest 3 MR. I hope it gets expanded, potentially making slaylon courses or maybe some target practice on the walls... My 6 year old son loves it, in moderation of course. No motion Or perception sickness so hopefully ok for him in moderation (wouldn't let him do anything motion sickness prone with his developing little brain)",
+      "date": 1749444633,
+      "review_helpful_count": 1,
+      "author_display_name": "Pete_repeat",
+      "author_alias": "Pete_repeat",
+      "developer_response": null
+    },
+    {
+      "id": "1240169961447913",
+      "score": 5,
+      "review_title": "A Bite Size Game Great For All Ages",
+      "review_description": "Ladies and gentle-squirrels, welcome aboard the Alex and the Jets flight to the ultimate dogfighting adventure! This delightful and most adorable mixed reality dogfighting adventure has just leveled up! Encounter a wide variety of quirky enemies to take down, each with their own unique challenges. Prepare for boss fights that will test your skills and strategy! Collect coins to customize Alex and his airplane with fresh new skins that reflect your style— and looking fabulous! The easy control mechanisms make it simple for anyone to jump right in! With just one thumbstick, you can effortlessly control the altitude and direction of your airplane, allowing Alex to perform animated maneuvers like barrel rolls, wall glides, and loopy doops. And let’s not forget the fantastic power-ups! Keep your aircraft in top shape with maintenance boosts, deploy shields to protect yourself from enemy attacks, and unleash rockets to blast through the opposition! Great interaction with your home environment while bouncing off the floor, walls, ceiling, and furniture; and turbo mode while gliding along the walls. Buckle up, hold on to your acorns, and take off into the skies of adventure! Highly recommended! A true gem from an indie studio! Check out my YT video @misschiefvr",
+      "date": 1744130412,
+      "review_helpful_count": 18,
+      "author_display_name": "MissChiefVR",
+      "author_alias": "MissChiefVR",
+      "developer_response": null
+    },
+    {
+      "id": "1245322867014497",
+      "score": 5,
+      "review_title": "Chaotic Fun You Need",
+      "review_description": "Who knew I needed to play a game like this? \nFrom the moment I started flying with Alex the Squirrel, I was hooked. It isn’t just a VR game — it’s a chaotic, creative thrill ride that takes over your whole space in the best way possible.\n\nYou just want to keep going in and doing better each round. It’s got that \"just one more round\" kind of energy — the kind that keeps you coming back again and again, especially when you almost nailed it last time. It’s genuinely addictive in that fun arcade-style way, where you’re not grinding — you’re just having a blast.\n\nThe game’s world is wild. From the goofy, creative enemies to the magical doughnut power-ups (yes, really), it’s packed with personality. I love how playful and imaginative everything is — it never takes itself too seriously, and that’s part of what makes it such a joy.\n\nBut the real magic? It uses your actual room as the dogfighting arena. That means you're physically ducking, spinning, and diving around your own space to survive. It’s immersive, hilarious, and makes every game feel fresh depending on where you're playing.\n\nIf you're looking for something totally different, totally fun, and totally chaotic — this is it.",
+      "date": 1744126870,
+      "review_helpful_count": 15,
+      "author_display_name": "TheLaughingVeteran",
+      "author_alias": "TheLaughingVeteran",
+      "developer_response": null
+    },
+    {
+      "id": "1047305447352975",
+      "score": 5,
+      "review_title": "Great fun!",
+      "review_description": "This game is fun and great for hand eye coordination.   It is also great for beginner drone pilots to learn the controls when flying toward and away from them.  \n\nMy question is from some descriptions, it appears to be mixed reality, however, I am only able to fly VR.  I have clicked the goggles to switch, but it only plays in VR. I am playing on a Quest 2. Thanks for any help.  Happy Flying!",
+      "date": 1749002775,
+      "review_helpful_count": 1,
+      "author_display_name": "Gmomsy",
+      "author_alias": "Gmomsy",
+      "developer_response": {
+        "body": "Hey there Gmomsy,\n\nHappy to hear that you enjoy the game!! \n\nThe game is indeed built for Mixed Reality, but it is available only while using the Quest 3 and 3S. \n\nUnfortunately the quest 2 doesn't have the needed capabilities (color passthrough and proper room scan) to run MR.",
+        "date": 1749013757
+      }
+    },
+    {
+      "id": "714377344548039",
+      "score": 5,
+      "review_title": "Accessible While Playing Seated",
+      "review_description": "Alex and the Jets, a mixed reality game that truly impressed me. At first, I was a bit sceptical due to the mixed reality aspect, but after learning about the recent update that enhanced the virtual reality mode, I was eager to give it a shot. One of the standout features is how easily playable it is while seated in my wheelchair, whether in mixed reality or VR, you don't need to move around your room. The controls are intuitive, and while mastering flight requires a bit of skill, it becomes a natural ability with just a little practice. The game is incredibly fun and surprisingly relaxing, making it a great choice for those who want to enjoy a gaming session without too much physical exertion. If you're looking for an engaging and stress-free gaming experience, this one is definitely worth checking out!",
+      "date": 1749017323,
+      "review_helpful_count": 1,
+      "author_display_name": "darkripperuk",
+      "author_alias": "darkripperuk",
+      "developer_response": null
+    },
+    {
+      "id": "644761161674778",
+      "score": 5,
+      "review_title": "A fun little MR game!",
+      "review_description": "This is a fun little game that you can play actually IN your living room! It’s pretty cool to fly your plane around in your real space shooting various objects and flying through rings, etc. It really feels like you’re controlling a remote control plane as it bounces off my real life walls, couch, windows, etc. I wish more games would take advantage of the pass through cameras!",
+      "date": 1744142539,
+      "review_helpful_count": 14,
+      "author_display_name": "Gentlemansnine",
+      "author_alias": "Gentlemansnine",
+      "developer_response": null
+    },
+    {
+      "id": "1324403732674213",
+      "score": 5,
+      "review_title": "So very fun. The MR mode is fabulous",
+      "review_description": "I really enjoy this game. It gets a lot harder pretty quick, so pretty sure you won't get bored if you like a challenge. I would love to see a helicopter mode or first person mode, or play with friends. Lots of future options I could see.",
+      "date": 1758314094,
+      "review_helpful_count": 0,
+      "author_display_name": "ZygsterZ",
+      "author_alias": "ZygsterZ",
+      "developer_response": null
+    },
+    {
+      "id": "9640626452659854",
+      "score": 5,
+      "review_title": "Fun short game for all ages",
+      "review_description": "Simple dogfight arcade game that uses your mixed reality space pretty well. Easy to get the hang of, three size options to make better use of your play space and just simple fly around and shoot stuff. You collect coins for cosmetics, but that is it for progression. Do wish there was more to better show your progress or level select so you don't have to do the same waves over and over. But, they have been pretty receptive to feedback and have stated more is to come.",
+      "date": 1744777921,
+      "review_helpful_count": 7,
+      "author_display_name": "Satconcook",
+      "author_alias": "Satconcook",
+      "developer_response": null
+    },
+    {
+      "id": "9828390630559316",
+      "score": 5,
+      "review_title": "Amazing support",
+      "review_description": "Initially, I had a problem and couldn't install the game, so I wrote a short review and gave the game one star. The developer reached out to me within the hour and helped me resolve the technical issue. That's just amazing  customer service!\n\nNow, I've just tested the tutorial, but man, this is what MR was made for. The tutorial alone is magic. Have you ever wondered what it would be to fly an RC-plane indoors? If the answer is YES, then this game is for you!",
+      "date": 1746306860,
+      "review_helpful_count": 3,
+      "author_display_name": "Scientifish",
+      "author_alias": "Scientifish",
+      "developer_response": {
+        "body": "Hey there Scientifish!! \n\nI am really glad that you have faith in our game and think it looks good. I am sure it will not let you down once you will actually play it. \n\nI would love to assist you in installing the app.\nI am sure it is just a technical issue that we can solve together. \n\nIn order to help with this, I need some further information regarding what is exactly preventing the app from being installed.\n\nPlease feel free to reach out to my personal email\n\nmatan@hoop-o.com\n\nor by editing your message in this thread. \n\nI Hope and surely believe we will manage to sort this out ASAP!",
+        "date": 1746294519
+      }
+    },
+    {
+      "id": "639422855520396",
+      "score": 5,
+      "review_title": "The game is so so sooo fun!",
+      "review_description": "I played it first in my tiny room, and then tested it again in the backyard — two totally different experiences, both fun in their own way. Overall, it's the kind of game that makes you go \"Okay, just one more try!\" because you know deep down… you can defeat those other planes!\n\nThe spatial tracking adds a nice layer of challenge and immersion. Great concept, and I'm looking forward to seeing how it evolves.",
+      "date": 1744242718,
+      "review_helpful_count": 8,
+      "author_display_name": "Bioskop",
+      "author_alias": "Bioskop",
+      "developer_response": null
+    },
+    {
+      "id": "2755509098173334",
+      "score": 5,
+      "review_title": "Does it have a loop?",
+      "review_description": "So far i just finished the tutorial and i got to say that the game is simple yet fun. I think i just need more practice on control. \n\nNot sure if it did a barrel roll or I just hit the wall but if it does have that feature then I'll try and recreate that again. Also can it do a loop forward loop and backward to go behind the enemies trailing you?\n\nEdit* saw a clip and u can. Hahaha, and nice new update.",
+      "date": 1746682486,
+      "review_helpful_count": 2,
+      "author_display_name": "ibexer",
+      "author_alias": "ibexer",
+      "developer_response": {
+        "body": "YES YOU CAN!!! \n\nI am so glad you found out how to do it. \n\nFeel free reaching out to me in person and tell me about your loop experience.",
+        "date": 1746710820
+      }
+    },
+    {
+      "id": "1219641466547370",
+      "score": 5,
+      "review_title": "Genius Mixed Reality Idea",
+      "review_description": "Alex and the Jets is a game I never knew I needed. Play as a loving character as you take to the skies and fly a little plane while shooting things all in your own playspace. Mixed Reality always seems to impress me more and more and this game does just that. The real fun here is the Dogfighting between enemies as you fly around and collect power ups. Mastering the controls makes you want to keep progressing to see what kind of acrobatics you can perform all the while making you feel like a fighter pilot. I love how each doughnut gives you a special advantage while fighting leaving you to plan accordingly for whats coming at you. Not only is the dogfighting cool but there is also even big boss battles which really was a nice touch as the game builds up a tension as combat pushes forward. I will say there is even a free roaming mode to practice as well as some cool outfits for your character that you can unlock with coins you collect theoughout gameplay. overall a cool mixed reality game and worth the price.",
+      "date": 1744117828,
+      "review_helpful_count": 8,
+      "author_display_name": "TruGamer4Realz",
+      "author_alias": "TruGamer4Realz",
+      "developer_response": null
+    },
+    {
+      "id": "717560407627795",
+      "score": 5,
+      "review_title": "Flying in your own living room",
+      "review_description": "Jump in your plane, and try to eliminate as many opponents as possible. When you fly through a donut, you will receive a powerup. And all this in your own living room. \n\nA very nice game for young and old.",
+      "date": 1748446244,
+      "review_helpful_count": 2,
+      "author_display_name": "POWERGIRL.BE",
+      "author_alias": "POWERGIRL.BE",
+      "developer_response": null
+    },
+    {
+      "id": "1200360004813552",
+      "score": 5,
+      "review_title": "Fun and very well made!",
+      "review_description": "This game is so much fun. I can tell the developers put a lot of work and effort into it. The graphics are great and the animations have so many nice details. This is probably my favorite mixed reality game so far. As soon as I started playing and saw the realistic responses whenever the plane hit a lamp, other item in my room, or a boundary, I was hooked. The game is relaxing with just the right amount of challenge. Thanks for such a fun mixed reality game!",
+      "date": 1745772905,
+      "review_helpful_count": 3,
+      "author_display_name": "Veronica.25",
+      "author_alias": "Veronica.25",
+      "developer_response": null
+    },
+    {
+      "id": "659216930599833",
+      "score": 5,
+      "review_title": "Sky-High Fun with Alex",
+      "review_description": "This mixed reality VR game is a treat! You pilot a squirrel in a monoplane, soaring through your real-world space in thrilling dogfights. Whether you're indoors or outside, the action can take you from floor to ceiling, literally! The controls are super responsive, and the game is more technical than it first appears — don't be fooled by the cute characters, this one's got depth. The bonus system adds a satisfying sense of progression, and the overall experience is polished, fun, and full of replayability. A clever, engaging title that shouldn't be missed! 🐿️✈️💥",
+      "date": 1744410004,
+      "review_helpful_count": 6,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": null
+    },
+    {
+      "id": "1746448359303962",
+      "score": 5,
+      "review_title": "A Total Blast – Like Mario Kart Took Off",
+      "review_description": "Alex and the Jets is hands down one of the most fun VR games I’ve played in a while. It feels like a classic arcade racer — think Mario Kart meets Top Gun — but the twist is, you're zooming through your own living room! The gameplay is fast, colorful, and full of surprises. The jets are super responsive, and each level brings something new — wild loops, power-ups, and crazy obstacles that’ll have you laughing and ducking in real life.\n\nWhat I love most is how immersive it feels. You’re not just playing in the sky — you're weaving through furniture, dodging lamps, and racing past your couch like it’s a skyscraper. It’s pure arcade joy with a creative twist.\n\nIf you’re looking for something exciting, easy to jump into, and guaranteed to make you smile — Alex and the Jets is it",
+      "date": 1744806707,
+      "review_helpful_count": 4,
+      "author_display_name": "tzvika770",
+      "author_alias": "tzvika770",
+      "developer_response": null
+    },
+    {
+      "id": "602661069603758",
+      "score": 5,
+      "review_title": "Great for all ages",
+      "review_description": "A fun, well made and rewarding game that's suitable for everyone.\n\nWhether you're chasing the fastest times for the leaderboard or just want to cruise around the skies of your front room with a little plane, it's an amazing title that's easy to recommend.",
+      "date": 1744121165,
+      "review_helpful_count": 9,
+      "author_display_name": "LeeHubbz",
+      "author_alias": "LeeHubbz",
+      "developer_response": null
+    },
+    {
+      "id": "9546516202104501",
+      "score": 5,
+      "review_title": "Great fun for kids and adults!",
+      "review_description": "I've played this game for several hours, and it was a blast!\nThe controls have the right balance between precision and challenge,\nand each level brings new things to try out.\nI really like that you can sit and experience this in your living room, with disconnecting from your home.\nRecommended for everyone!",
+      "date": 1744613748,
+      "review_helpful_count": 4,
+      "author_display_name": "YonyK",
+      "author_alias": "YonyK",
+      "developer_response": null
+    },
+    {
+      "id": "1708507706754351",
+      "score": 5,
+      "review_title": "Great Arcade Game!",
+      "review_description": "From gameplay to visuals, especially after practicing the flying - this game is excellent. I love how immersive the MR experience is, and the skins available in the store add a great touch. Boss fights keep things exciting, and overall this just feels like a genuinely great game!",
+      "date": 1744110484,
+      "review_helpful_count": 6,
+      "author_display_name": "joel177",
+      "author_alias": "joel177",
+      "developer_response": null
+    },
+    {
+      "id": "547076165165026",
+      "score": 5,
+      "review_title": "I was really surprised by this game 😯",
+      "review_description": "Ok so when the devs first reached out I said ahhh this doesn't look like my type of game but I always give every game a chance. As I played I became more sucked into the gameplay and fun of it.  To see the planes open a portal and head into your space and start attacking and being able to fly all around your real room is too fun.   This is a great game to pickup and play for 20minutes to an hour easily.  The mechanics are a little hard to get used to at first unless you have grown up racing RC Cars or things like that. I instantly got the handling down because of my past experiences. I do think the game needs a few audio tweaks and enhancements with the music during Boss battles but otherwise it's a great fun game that I ended up liking a lot more than I thought I would.  They do give you multiple options to play the game your way including larger rings to fly through and you can invert the controls as well.",
+      "date": 1744130437,
+      "review_helpful_count": 5,
+      "author_display_name": "TheDarkVRKnight",
+      "author_alias": "TheDarkVRKnight",
+      "developer_response": null
+    },
+    {
+      "id": "3064230793732742",
+      "score": 5,
+      "review_title": "Addictively Fun little Gem",
+      "review_description": "Great little game that addictively chews the time with dog fights against the in-game AI. Yes, it might be a basic game at first glance and impressions, but that doesn’t mean it's any less or takes away the fun factor. \nCould do with more in-game rewards and unlocks and I am sure that will come in time. Would also love to see some sort of multiplayer co-location implemented to be able to play against another family member at the same time I’m sure I’m not the only one with more than one headset in a family household. Hopefully, the developers keep adding and supporting their game and not abandon it. There is a discord group that you can join and contact the developers and give ideas. on game development that is also encouraged by the development team.",
+      "date": 1746812542,
+      "review_helpful_count": 1,
+      "author_display_name": "martystar",
+      "author_alias": "martystar",
+      "developer_response": null
+    },
+    {
+      "id": "9844077398968451",
+      "score": 5,
+      "review_title": "A brilliant use of Mixed Reality",
+      "review_description": "I have to admit, I have had my eye on this game, and was fearful that I had unrealistic expectations, however was delighted to find it every bit as awesome as I had hoped.\nIts just fun, the controls felt strange for a few minutes, and then  you realise you've totally forgotten about the controls and they have become totally natural for the game.\n\nSome sheep got into the garden yesterday, so I went out and flew Alex around them   yesterday (I live in a rural area, and the shrubs needed pruned anyway ;) )Wish I'd recorded that....",
+      "date": 1746707694,
+      "review_helpful_count": 1,
+      "author_display_name": "VR_and_I",
+      "author_alias": "VR_and_I",
+      "developer_response": null
+    },
+    {
+      "id": "4147905055532076",
+      "score": 5,
+      "review_title": "Brilliant!  Fabulous mixed reality fun.",
+      "review_description": "This is a great game. Great graphics, gameplay, controls and sound.Its crying out for same location muliplayer, I just hope the developer gets the support they rightly deserve to implement it. Highly recommended.",
+      "date": 1748270295,
+      "review_helpful_count": 1,
+      "author_display_name": "paulatsolo",
+      "author_alias": "paulatsolo",
+      "developer_response": {
+        "body": "Thank you Paul so much for the kind words. \n\nWe want same location multiplayer too!!! Not for users, for us to play 😂\n\nWe are aiming to get there but I can't promise it in the near future. \n\nFeel free to stay in touch. \n\nMatan@hoop-o.com",
+        "date": 1748276966
+      }
+    },
+    {
+      "id": "678715975327573",
+      "score": 5,
+      "review_title": "Bets game every",
+      "review_description": "From a vr game and a Mr game it’s the best and most fun I had:)",
+      "date": 1750655767,
+      "review_helpful_count": 1,
+      "author_display_name": "RatCatcherVr.YT",
+      "author_alias": "RatCatcherVr.YT",
+      "developer_response": null
+    },
+    {
+      "id": "9908733185857290",
+      "score": 5,
+      "review_title": "Mixed Reality Dogfights!",
+      "review_description": "Was selected in random key giveaway to have opportunity to give Alex a try. \n\nFun mixed reality dogfights featuring a good deal of polish for an early access game.\n\nReally enjoying buzzing around my living room space shooting at rounds of enemies. \n\nGame controls are easy to pick up. I really appreciate the forgiving control scheme. You can bump into walls and objects established in your room scan with no tangible damage to Alex and his plane. \n\nNice art style, animations look great. \n\nThis game is accessible for any age, no concerns about violence.\n\nLooking forward to see how many waves I can get through. \n\nCongrats to the dev team for the Alexcellent early access game!",
+      "date": 1746133660,
+      "review_helpful_count": 1,
+      "author_display_name": "Raist999",
+      "author_alias": "Raist999",
+      "developer_response": null
+    },
+    {
+      "id": "1036953258384506",
+      "score": 5,
+      "review_title": "Great fun",
+      "review_description": "Flying a tiny aeroplane around the house taking on different enemies in dogfights to the death! What a great little game 😎 control's are easy to get the hang of and the visuals are pretty cool, mixed reality games are so much better and this is another one 👌🏼 the younger family members love it,and us older ones lol fun game worth the price I will be going back for more dogfights need more coins for new outfits ,ready my plane 🛩️",
+      "date": 1746203926,
+      "review_helpful_count": 1,
+      "author_display_name": "reefers77",
+      "author_alias": "reefers77",
+      "developer_response": null
+    },
+    {
+      "id": "720145074526682",
+      "score": 5,
+      "review_title": "First time pilot!",
+      "review_description": "Wow, this is awesome! It's fast, exciting and great! Can't stop playing.",
+      "date": 1758262033,
+      "review_helpful_count": 0,
+      "author_display_name": "BertaVR",
+      "author_alias": "BertaVR",
+      "developer_response": null
+    },
+    {
+      "id": "672378422617771",
+      "score": 5,
+      "review_title": "Very funny",
+      "review_description": "Really cute little pilot flying through my room. First a little bit complicated since I controlled the plane with the left controller, changed it to the right one and the fun started. \nI especially love it when the plane bounces against my husband's head or other family members.",
+      "date": 1746165579,
+      "review_helpful_count": 1,
+      "author_display_name": "Dodo25748",
+      "author_alias": "Dodo25748",
+      "developer_response": null
+    },
+    {
+      "id": "678311302033112",
+      "score": 4,
+      "review_title": "Fun app",
+      "review_description": "Fun app with awesome graphics and responsive controls. I just need to fly better - good thing that collisions don't stop the fun!",
+      "date": 1748598582,
+      "review_helpful_count": 1,
+      "author_display_name": "Lordtaskmaster",
+      "author_alias": "Lordtaskmaster",
+      "developer_response": {
+        "body": "Thank you so much Lordtaskmaster!! \n\nWe appreciate your kind words and your joy out of the game. \nIt was clear to us that collisions should definitely feel relatively smooth and not ruin the fun!!\n\nWe have just launched the training mini-games, they are designed to make you become a top-notch pilot!\n\nFeel free sharing your feedback about your progress, we always try to improve our game.\n\nMatan@hoop-o.com",
+        "date": 1748683939
+      }
+    },
+    {
+      "id": "649839344883272",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Unique and fun game with lot of improvement with every update. Clever use.of mixed reality. Highly recommend especially for current price.",
+      "date": 1748463027,
+      "review_helpful_count": 1,
+      "author_display_name": "mnoki",
+      "author_alias": "mnoki",
+      "developer_response": null
+    },
+    {
+      "id": "1426151468565816",
+      "score": 5,
+      "review_title": "Simplistically Fun!",
+      "review_description": "I launched this game not expecting much, but was pleasantly surprised by it. The devs nailed the mechanics, flying feels satisfying, animations are well done, and the level progression is just challenging enough to feel incredibly rewarding",
+      "date": 1746539408,
+      "review_helpful_count": 1,
+      "author_display_name": "YTgreendiamond",
+      "author_alias": "YTgreendiamond",
+      "developer_response": null
+    },
+    {
+      "id": "1218169390313341",
+      "score": 5,
+      "review_title": "Alex and the Jets is pure fun!",
+      "review_description": "Flying around my living room as Alex the squirrel was hilarious and way more epic than I expected. The controls are super easy, the visuals pop, and it’s just the perfect mix of chill and exciting. Definitely one of the coolest mixed reality games on Quest – highly recommend if you want to smile like an idiot while dodging donuts",
+      "date": 1745825812,
+      "review_helpful_count": 1,
+      "author_display_name": "MrProBabe",
+      "author_alias": "MrProBabe",
+      "developer_response": null
+    },
+    {
+      "id": "575386855669039",
+      "score": 5,
+      "review_title": "Wow...one of those pleasant surprises!",
+      "review_description": "I wasn't aware of this game until relatively recently, it piqued my interest as it  promised to offer a lot of things I look for  in a game, Mixed Reality, flying and dogfighting with power ups to collect, variety of adversaries..all this presented in a light hearted cartoon-like style. If you ever dreamed of having  an intense  air drone battle in your living room without the aftermath and carnage of broken furniture or belongings (and drones)...this will do the trick and save your marriage.    I was initially worried as flying games done in mixed reality are hard to pull off and making it playable and engaging, something easy to pick up, yet hard to master, this game seems to have hit  the right formula - it is fun!  It's not a flight sim but an arcade platform style game that involves flight  if that makes any sense. The production quality is very impressive,  kudos to the developers, it seems like great thought has been put into making  the speed of the plane just right and the way it bounces off real life obstacles so that it is forgiving enough to be manageable and not frustrating.  Any cons to the game?Well, there is a bit of a  learning curve  if you're  not familiar with flying a drone. For that,   I highly recommend doing the free flight option in order to get comfortable  with  the controls.   It does make  sense with a little practice. Another request would be if there could be added  a difficulty option to slow down how quickly it throws the tougher foes at you? Then again,  could be that I'm just not that good at  shooting and   would like to feel like I 'm  winning  or lasting a  little bit longer . 😂\nThat being said, I highly recommend giving this game a try , don't pass up  on this gem. Great job!",
+      "date": 1745643367,
+      "review_helpful_count": 1,
+      "author_display_name": "MaxDusty66",
+      "author_alias": "MaxDusty66",
+      "developer_response": null
+    },
+    {
+      "id": "2565955570275236",
+      "score": 5,
+      "review_title": "So much fun!",
+      "review_description": "Following a short tutorial (which you shouldn't skip!) you're being thrown into the action - a small plane flying around your play space, blasting enemies, collecting rewards and gradually seeing how your skill improves.\nExactly the type of MR experience the Quest was made for - and the cartoony nature of it makes it a perfect fit for younger family members, whereas the fun factor will surely check the boxes of VR veterans as well.\nTotally recommended!",
+      "date": 1744281292,
+      "review_helpful_count": 2,
+      "author_display_name": "pashakagan",
+      "author_alias": "pashakagan",
+      "developer_response": null
+    },
+    {
+      "id": "686309567892090",
+      "score": 4,
+      "review_title": "Has possibilities",
+      "review_description": "The game plays very nice and I'm looking forward to see what the developer will do further with this game.",
+      "date": 1748698598,
+      "review_helpful_count": 1,
+      "author_display_name": "Kip7337",
+      "author_alias": "Kip7337",
+      "developer_response": {
+        "body": "Hey there Kip, \n\nThank you so much for your feedback.\n\nThe entire concept of our game is planes and jets! \n\nA helicopter or a drone control mechanic is much different and harder as we aim to make a semi-casual game. Like you have mentioned, plane has its own disadvantages but it still much easier and milder than helicopter. \n\nI can suggest over for you to play \"Sky Runner\". \nSince as we focus on planes, they focus on drone/helicopter like control mechanics. \n\nI appreciate you interest in our game and I am available on my personal email for any further question or feedback you may have.\n\nMatan@hoop-o.com",
+        "date": 1748683765
+      }
+    },
+    {
+      "id": "580745185130295",
+      "score": 5,
+      "review_title": "Really fun time!",
+      "review_description": "I have been really enjoying this game while it was in beta. Now released on the official store, it’s even better. Highly recommend if you enjoy flying around and especially if you like mixed reality type games. This is also a fun one to show friends who have not yet experienced mixed reality!",
+      "date": 1744389369,
+      "review_helpful_count": 2,
+      "author_display_name": "Schreibz",
+      "author_alias": "Schreibz",
+      "developer_response": null
+    },
+    {
+      "id": "2128182604366428",
+      "score": 5,
+      "review_title": "Must buy for Quest users!",
+      "review_description": "Honestly, I wasn't sure what to expect, but this game is so creative! Alex the Squirrel is hilarious, and flying around my room is ridiculously entertaining. I wish there were more levels, but it's still absolutely worth getting. Can’t stop playing it!",
+      "date": 1744709855,
+      "review_helpful_count": 2,
+      "author_display_name": "andy.schwartz1",
+      "author_alias": "andy.schwartz1",
+      "developer_response": null
+    },
+    {
+      "id": "655286513882910",
+      "score": 5,
+      "review_title": "Best Mixed Reality Game!",
+      "review_description": "This is one of the most fun games I've played on my Quest! The flying is super smooth, and the way the plane interacts with my real environment is amazing. Can't wait to show this off to my friends. Definitely worth the price!",
+      "date": 1744115680,
+      "review_helpful_count": 3,
+      "author_display_name": "strikon1",
+      "author_alias": "strikon1",
+      "developer_response": null
+    },
+    {
+      "id": "1042335904776975",
+      "score": 5,
+      "review_title": "Instant favorite – Alex and the Jets is",
+      "review_description": "I wasn’t expecting to love this game as much as I do, but wow — it totally surprised me. Alex and the Jets is one of those games that instantly clicks: fast, chaotic, super playful, and genuinely fun in the way that makes you grin like a kid again.\n\nYou fly around as this little squirrel in a tiny plane, dodging and shooting in a world that feels like it’s happening right in your room. I’ve bumped into my furniture a few times (lol), but even that added to the chaos. The VR controls are tight, super responsive, and the action is just the right mix of challenge and fun.\n\nThe doughnut power-ups? Hilarious and actually useful. Missiles, shields, poison clouds — they keep things fresh every round. And the little side games (flying pumpkins, floating cheese) are weird in the best way. I didn’t expect to care about them, but they’ve become my favorite way to show off to friends.\n\nI also really appreciate that there’s no heavy penalty for crashing into stuff — it keeps things light and makes the game easy to jump into when you just want to blow off steam or do a quick session. It’s definitely on the arcadey side, but in all the right ways.\n\nThis game’s quickly become my go-to comfort play. It’s just pure fun, and that’s rare.\n\nIf you’ve got a Quest and want something creative, clever, and chaotic (in the best way), give this one a go.\n💯 Worth it.",
+      "date": 1751911601,
+      "review_helpful_count": 2,
+      "author_display_name": "kiano.rits",
+      "author_alias": "kiano.rits",
+      "developer_response": null
+    },
+    {
+      "id": "579853458553088",
+      "score": 5,
+      "review_title": "Pilot Life Goals",
+      "review_description": "I didn’t know my dream was to fly a tiny plane around my living room - but here we are. The vibe, the gameplay, the chaos, it’s all I ever wanted and more. Pilot hat not included.",
+      "date": 1744291817,
+      "review_helpful_count": 4,
+      "author_display_name": "jadethecat.2023",
+      "author_alias": "jadethecat.2023",
+      "developer_response": null
+    },
+    {
+      "id": "675317558996483",
+      "score": 5,
+      "review_title": "This is what MR is made for",
+      "review_description": "At first it looks suspicious... So many 5-star reviews? Really?\nBut after trying it, I get it. It's super cool.\nIt honestly feels like there's a real airplane flying right in your living room. Very funny.",
+      "date": 1746202924,
+      "review_helpful_count": 1,
+      "author_display_name": "VirtualJeTzu",
+      "author_alias": "VirtualJeTzu",
+      "developer_response": null
+    },
+    {
+      "id": "660190807168710",
+      "score": 5,
+      "review_title": "Very unique",
+      "review_description": "This is what quest 3 was designed for! Like real toys flying around my own house. Great controls, great gameplay, great game.\n\nHighly recommended",
+      "date": 1744133411,
+      "review_helpful_count": 5,
+      "author_display_name": "illusions_x",
+      "author_alias": "illusions_x",
+      "developer_response": null
+    },
+    {
+      "id": "2373755159670977",
+      "score": 5,
+      "review_title": "A Mixed Reality Magic!",
+      "review_description": "An absolute blast! Magical experience. The flight controls are so smooth and natural, it's a joy to play. Visually stunning with fantastic game design throughout. Whether you're a kid or a grown-up, you've got to try this.",
+      "date": 1744297937,
+      "review_helpful_count": 2,
+      "author_display_name": "avivXR",
+      "author_alias": "avivXR",
+      "developer_response": null
+    },
+    {
+      "id": "700710012444351",
+      "score": 5,
+      "review_title": "So much fun - kids love it!",
+      "review_description": "I've not played it much because my kids are playing it all the time.... It's such a simple concept done awesomely, my 14yr old son's quite addicted now!",
+      "date": 1746687655,
+      "review_helpful_count": 1,
+      "author_display_name": "Gerry-White",
+      "author_alias": "Gerry-White",
+      "developer_response": null
+    },
+    {
+      "id": "651916500979744",
+      "score": 5,
+      "review_title": "Stunningly Good Game",
+      "review_description": "I’m blown away by how polished and engaging this game is! The graphics are charming, and every character feels distinct and well-designed, especially the female pilot, she quickly became my favorite!",
+      "date": 1745831985,
+      "review_helpful_count": 1,
+      "author_display_name": "Omersim.WAS",
+      "author_alias": "Omersim.WAS",
+      "developer_response": null
+    },
+    {
+      "id": "29701947476116063",
+      "score": 5,
+      "review_title": "flying an rc plane inside my living room",
+      "review_description": "Alex and the Jets is a super fun and exciting game. The flying is smooth, the levels are cool, and the graphics look great. It’s easy to play but still keeps you hooked.\n\n I must admit from time to time I'm chasing my cat with the plane, too bad it can't notice it 😆",
+      "date": 1744658413,
+      "review_helpful_count": 1,
+      "author_display_name": "the_duck.2026",
+      "author_alias": "the_duck.2026",
+      "developer_response": null
+    },
+    {
+      "id": "2200820133721791",
+      "score": 5,
+      "review_title": "Fun game!!",
+      "review_description": "Really enjoy this and l love the flying around the room. Like how you can bump into your environment. Really interactive! Can't wait to play again. Great experience and reasonably priced!",
+      "date": 1745779305,
+      "review_helpful_count": 1,
+      "author_display_name": "Gman7575",
+      "author_alias": "Gman7575",
+      "developer_response": null
+    },
+    {
+      "id": "584285594777893",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "This game is so fun and interesting, just amazing game !!!!! 😺",
+      "date": 1747838380,
+      "review_helpful_count": 1,
+      "author_display_name": "Togi1818",
+      "author_alias": "Togi1818",
+      "developer_response": null
+    },
+    {
+      "id": "1379954883256332",
+      "score": 5,
+      "review_title": "Very funny and addictive",
+      "review_description": "Great visuals, exceptional tracking and room scan. Its very entertaining and addictive",
+      "date": 1747124222,
+      "review_helpful_count": 1,
+      "author_display_name": "Karaste3",
+      "author_alias": "Karaste3",
+      "developer_response": null
+    },
+    {
+      "id": "645481071716256",
+      "score": 5,
+      "review_title": "Fabulous Game!",
+      "review_description": "One of the Better if not best, MR flying game! Stunning graphics and awesome mechanics can’t fault it at all. \n\nDog Fights here we come! 🤟",
+      "date": 1744122072,
+      "review_helpful_count": 3,
+      "author_display_name": "TomPlayzVR",
+      "author_alias": "TomPlayzVR",
+      "developer_response": null
+    },
+    {
+      "id": "570584072814572",
+      "score": 5,
+      "review_title": "Very fun dog fighting game!",
+      "review_description": "This game is so much fun! \nI moved to a bigger space to enjoy it more.\nIt has a kids friendly vibe but the dog fights are challenging and a lot of fun.",
+      "date": 1745987697,
+      "review_helpful_count": 1,
+      "author_display_name": "Evyaquest",
+      "author_alias": "Evyaquest",
+      "developer_response": null
+    },
+    {
+      "id": "690362943411583",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Great game with no bugs at all – everything runs smoothly. But be warned: it's not easy to master. Flying takes real skill and practice. If you're up for a challenge and enjoy learning, this one's totally worth it.",
+      "date": 1744722344,
+      "review_helpful_count": 1,
+      "author_display_name": "snopydog",
+      "author_alias": "snopydog",
+      "developer_response": null
+    },
+    {
+      "id": "595627950306889",
+      "score": 5,
+      "review_title": "Woww",
+      "review_description": "This game is amazing!!!! I love Alex !! Love it! and I really can’t wait to get all the skins🛸\nSo freaking cool!!! The more I play the better I get !! Already trying to break my own record🤪",
+      "date": 1745002867,
+      "review_helpful_count": 1,
+      "author_display_name": "Inbari123",
+      "author_alias": "Inbari123",
+      "developer_response": null
+    },
+    {
+      "id": "544329898774092",
+      "score": 5,
+      "review_title": "Dogfights in my house!",
+      "review_description": "What a fun game! Great graphics and animations. Super fun to see the planes and stuff all around me. My son loves it also!",
+      "date": 1744170916,
+      "review_helpful_count": 3,
+      "author_display_name": "Mahane76",
+      "author_alias": "Mahane76",
+      "developer_response": null
+    },
+    {
+      "id": "1306034093804901",
+      "score": 5,
+      "review_title": "Great dog fight from 3rd person view",
+      "review_description": "Fun dog fight using AR and 3rd person view, after few minutes you'll get the movement and start shooting the targets, tactics is a meaningful part of this game.\n\nI hope that pvp or co-op will be added in the future",
+      "date": 1744640969,
+      "review_helpful_count": 1,
+      "author_display_name": "MasterHoDan",
+      "author_alias": "MasterHoDan",
+      "developer_response": null
+    },
+    {
+      "id": "1020769956782833",
+      "score": 5,
+      "review_title": "So much fun seeing Alex flying @home! 😎",
+      "review_description": "I used to fly remote comtrolled airplanes as a kid, and this feels almost like it, but with a fun and arcade element! Gives a sneak peek into the potential of AR and Mixed Reality!\nKeep up the good work!",
+      "date": 1744732346,
+      "review_helpful_count": 1,
+      "author_display_name": "Captain.ISR",
+      "author_alias": "Captain.ISR",
+      "developer_response": null
+    },
+    {
+      "id": "636043029598025",
+      "score": 5,
+      "review_title": "Cheap fun",
+      "review_description": "Game is so simple yet so entertaining",
+      "date": 1747431135,
+      "review_helpful_count": 1,
+      "author_display_name": "Mouthwash.0",
+      "author_alias": "Mouthwash.0",
+      "developer_response": null
+    },
+    {
+      "id": "1133686888513830",
+      "score": 5,
+      "review_title": "Mix reality at the highest level",
+      "review_description": "Amazing mix reality game that is fun and relaxing. Looks good in your room as you lie on the bed and play. The game makes good use of the Quest's capabilities and makes everything look so good.",
+      "date": 1744650288,
+      "review_helpful_count": 1,
+      "author_display_name": "eliav35",
+      "author_alias": "eliav35",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T10:37:58Z"
+}

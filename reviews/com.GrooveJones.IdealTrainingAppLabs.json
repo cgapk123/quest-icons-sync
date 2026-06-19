@@ -1,0 +1,81 @@
+{
+  "app_id": "4207738382653857",
+  "package_name": "com.GrooveJones.IdealTrainingAppLabs",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Virtual Electrical Training (VET)",
+  "rating_average": 1.9,
+  "rating_count": 10,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "1010010495534029",
+      "score": 1,
+      "review_title": "Login is broken, please fix this",
+      "review_description": "can't login",
+      "date": 1766341363,
+      "review_helpful_count": 2,
+      "author_display_name": "GalacticOctopus2614",
+      "author_alias": "GalacticOctopus2614",
+      "developer_response": null
+    },
+    {
+      "id": "681818471678924",
+      "score": 1,
+      "review_title": "Cant log in",
+      "review_description": "Really wanted to try this. But can't log",
+      "date": 1748813597,
+      "review_helpful_count": 2,
+      "author_display_name": "Esz5",
+      "author_alias": "Esz5",
+      "developer_response": null
+    },
+    {
+      "id": "138847102411646",
+      "score": 2,
+      "review_title": "VR Electric training",
+      "review_description": "I can't log in",
+      "date": 1676225711,
+      "review_helpful_count": 5,
+      "author_display_name": "Romeo3791",
+      "author_alias": "Romeo3791",
+      "developer_response": {
+        "body": "Hello, please email ivry-technologies@idealindustries.com about log in information.",
+        "date": 1676654533
+      }
+    },
+    {
+      "id": "27729944163287238",
+      "score": 1,
+      "review_title": "Terrible Presentation",
+      "review_description": "No information whatsoever that would enable anyone to use this. Devs list a website in one of the 2 reviews that is offline.",
+      "date": 1732648385,
+      "review_helpful_count": 5,
+      "author_display_name": "Ravitch",
+      "author_alias": "Ravitch",
+      "developer_response": null
+    },
+    {
+      "id": "105946055579989",
+      "score": 5,
+      "review_title": "Loving it",
+      "review_description": "I got to use it at NTI this year (2022) and saw  some great potential. After diving into it more I'm loving it more!!!\nOne suggestion is to give a task that takes 2 minutes like the room is already sheetrocked and all you need to do is install an outlet something we (training directors) can use for recruitment ie. high schools, job fairs etc.",
+      "date": 1661584054,
+      "review_helpful_count": 1,
+      "author_display_name": "Ohms_490",
+      "author_alias": "Ohms_490",
+      "developer_response": {
+        "body": "We're glad to hear you're enjoying our VET app! After hearing a lot of feedback about a recruitment app, we've released a free app (IDEAL's Virtual Electrician Experience) that can be used for that purpose. To learn more about our newest app and how to download it yourself, visit our app page on our website: https://ivrytechnologies.com/",
+        "date": 1671570759
+      }
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:34:28Z"
+}

@@ -1,0 +1,48 @@
+{
+  "app_id": "7285330041540466",
+  "package_name": "com.HPCGroupUniversityofDuisburgEssen.PiratesQuest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Pirate's Quest - Research Experience",
+  "rating_average": 3.5,
+  "rating_count": 6,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "137019288853247",
+      "score": 5,
+      "review_title": "Nice",
+      "review_description": "I loved the storyline and the art style was great. It flows nicely and the mechanics are pretty smooth. The only thing is that the link to the survey would be nice if it was somehow clickable on the oculus. Other than that this experience was great!",
+      "date": 1648419606,
+      "review_helpful_count": 5,
+      "author_display_name": "Lavender110",
+      "author_alias": "Lavender110",
+      "developer_response": {
+        "body": "Thanks a lot for your feedback! I’ve looked into the idea of making the link clickable. Sadly, this is not easily possible and would then only open the survey in the Oculus browser, which is not what most people want.",
+        "date": 1648934435
+      }
+    },
+    {
+      "id": "116521231033410",
+      "score": 3,
+      "review_title": "Good.. but",
+      "review_description": "It was good, I liked everything about it, just pretty short, I don’t know if it’s supposed to be that short but was for me, took like 5 minutes to complete. Overall great game just short.",
+      "date": 1651147852,
+      "review_helpful_count": 6,
+      "author_display_name": "rahhhh1900",
+      "author_alias": "rahhhh1900",
+      "developer_response": {
+        "body": "Thank you for your feedback!\nYes, it’s rather short (though this depends on how fast you complete the tasks). As I’ve designed this experience with the single purpose of doing a research study on immersive character transitions, I had to limit the complexity to the minimum. Nevertheless, I always try to get the maximum out of the available resources (< 1 month development time as a one-man job). :)",
+        "date": 1651355184
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:38:01Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "29744367248487773",
+  "package_name": "com.HAZEM.PROJECTNEWCOME",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Project Newcome",
+  "rating_average": 4.4285714285714,
+  "rating_count": 7,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "570663452806423",
+      "score": 5,
+      "review_title": "very good",
+      "review_description": "yes",
+      "date": 1746846880,
+      "review_helpful_count": 7,
+      "author_display_name": "hazem.30",
+      "author_alias": "hazem.30",
+      "developer_response": null
+    },
+    {
+      "id": "660952333769584",
+      "score": 5,
+      "review_title": "C00l game",
+      "review_description": "Very fun",
+      "date": 1746750835,
+      "review_helpful_count": 5,
+      "author_display_name": "CuriosSquirrel.84362",
+      "author_alias": "CuriosSquirrel.84362",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:36:58Z"
+}

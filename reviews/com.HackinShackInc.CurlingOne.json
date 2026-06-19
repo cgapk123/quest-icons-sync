@@ -1,0 +1,67 @@
+{
+  "app_id": "9443599825653708",
+  "package_name": "com.HackinShackInc.CurlingOne",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Curling One",
+  "rating_average": 4.375,
+  "rating_count": 8,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1054639714406114",
+      "score": 4,
+      "review_title": "Keep developing!!",
+      "review_description": "You've done a great job with this game, it is a lot of fun! Please keep developing to correct minor glitches and create game modes!! Would be a lot more fun with game modes (10-end & 8-end games, tournament mode, season mode, mixed doubles style, etc.)",
+      "date": 1774745390,
+      "review_helpful_count": 0,
+      "author_display_name": "MetaBruce92",
+      "author_alias": "MetaBruce92",
+      "developer_response": null
+    },
+    {
+      "id": "924424480240746",
+      "score": 3,
+      "review_title": "Fix sweeping, get a 4 star from me",
+      "review_description": "Curling One is interesting, but feels clunky. It does work, but the directions are a bit vague. Trial & Error worked, but alas I scored 0 in 2 ends. The most frustrating bit is the sweep mechanics- you lose contact with the ice so shortly after mid point, good luck adjusting your hunk o' granite. The spin mechanics are snazzy, and like in Black Hole Pool's English, the physics there are good. The object stone reacted as expected when my spinning stone booked it. If the brush was better with understanding where the floor is, I could see me playing this a lot.",
+      "date": 1770516433,
+      "review_helpful_count": 0,
+      "author_display_name": "Zenaxa",
+      "author_alias": "Zenaxa",
+      "developer_response": {
+        "body": "Thanks for the feedback, Zenaxa.  We'd love to hear more about the problem with the broom.  It is designed to adjust its length automatically to ride atop the ice while sweeping.  If this isn't working properly and it's disappearing, that's a bug that we'd like to fix.  Can you tell us which Quest you're using and provide more details of what the broom does when it \"loses contact\"?  Thank you very much!",
+        "date": 1772403109
+      }
+    },
+    {
+      "id": "1924661884580850",
+      "score": 5,
+      "review_title": "Incredibly realistic curling simulation",
+      "review_description": "Physics are excellent, graphics and controls are good, and with its latest update there is now a very challenging set of AI opponents. This simulation is remarkably faithful to real-world curling.",
+      "date": 1689014189,
+      "review_helpful_count": 2,
+      "author_display_name": "therealrick",
+      "author_alias": "therealrick",
+      "developer_response": null
+    },
+    {
+      "id": "108457808892028",
+      "score": 5,
+      "review_title": "Awesome game!",
+      "review_description": "I could play this game all day. If you’ve curled before, you’ll appreciate the responsiveness. Once you get a feel for it, it’s simple and a great way to practice. If you haven’t curled, this gives you a good feel for what it’s like.",
+      "date": 1681576568,
+      "review_helpful_count": 1,
+      "author_display_name": "Chrowen8",
+      "author_alias": "Chrowen8",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:38:31Z"
+}
