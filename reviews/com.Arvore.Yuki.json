@@ -1,0 +1,731 @@
+{
+  "app_id": "2886115781495034",
+  "package_name": "com.Arvore.Yuki",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "YUKI Space Ranger",
+  "rating_average": 4.6730769230769,
+  "rating_count": 260,
+  "review_count": 125,
+  "reviews": [
+    {
+      "id": "4002233726770197",
+      "score": 5,
+      "review_title": "Incredible",
+      "review_description": "Being in this bullet hell is an experience unlike any other, unlocks keep it fresh, and the mixed reality is a fun addition.",
+      "date": 1747469901,
+      "review_helpful_count": 21,
+      "author_display_name": "Crikety",
+      "author_alias": "Crikety",
+      "developer_response": null
+    },
+    {
+      "id": "1122288739300418",
+      "score": 5,
+      "review_title": "Fun bullet-hell game",
+      "review_description": "This is definitely a hidden gem. You control yuki with your controller movement to avoid bullets and shoot down enemies. It can be overwhelming at times, but you unlock powerups to help you along the way.  You'll have a blast moving your whole body to defeat the final boss. Endless mode and MR mode definitely adds a ton to replayability.",
+      "date": 1736198529,
+      "review_helpful_count": 13,
+      "author_display_name": "Deadpoint",
+      "author_alias": "Deadpoint",
+      "developer_response": null
+    },
+    {
+      "id": "512627645268638",
+      "score": 5,
+      "review_title": "Criminally overlooked VR Shmup",
+      "review_description": "This is an incredibly fun shmup that I'll recommend to any fan of Cave or Touhou. I wish the devs would continue developing more modes or sequel considering there really isn't a comparable game in the genre on the platform.",
+      "date": 1735710309,
+      "review_helpful_count": 12,
+      "author_display_name": "herecomes.johnny",
+      "author_alias": "herecomes.johnny",
+      "developer_response": null
+    },
+    {
+      "id": "546384875218558",
+      "score": 5,
+      "review_title": "Mixed Reality? See Update",
+      "review_description": "Ok game but mixed reality doesn't work.  *Update Quick response from developer who is fixing MR problem. This game is fun and beautiful. Really enjoying it.",
+      "date": 1735837916,
+      "review_helpful_count": 11,
+      "author_display_name": "nahli.marie",
+      "author_alias": "nahli.marie",
+      "developer_response": {
+        "body": "Sorry to hear you're facing this issue. We are already looking forward to fixing it as soon as possible.\n\nKeep an eye on our discord server for updates and if you need further assistance with our game\nhttps://discord.gg/JkxWEbK8HD",
+        "date": 1735826875
+      }
+    },
+    {
+      "id": "957328586306260",
+      "score": 1,
+      "review_title": "MR seems to be broken for people",
+      "review_description": "The MR mode freezes before gameplay starts. When this occurs, the buttons no longer have functionality, and I have to force close the app. I left a message on the yuki-bug-report Discord channel. Please help!",
+      "date": 1735033640,
+      "review_helpful_count": 3,
+      "author_display_name": "aj.josephs",
+      "author_alias": "aj.josephs",
+      "developer_response": {
+        "body": "Hi there! Thanks for reporting this issue. Sorry to hear you're facing it.\n\nJust took a look at discord. Thanks for reporting there btw. I've already assigned one of our QA specialists to help you out",
+        "date": 1735826711
+      }
+    },
+    {
+      "id": "1259968271941287",
+      "score": 2,
+      "review_title": "MRcade doesn't work",
+      "review_description": "Fun game but the mixed reality mode doesn't work for me. I have the scan finished and start round 1, but then it just goes unresponsive.",
+      "date": 1735193517,
+      "review_helpful_count": 3,
+      "author_display_name": "Neilpuppy",
+      "author_alias": "Neilpuppy",
+      "developer_response": {
+        "body": "Sorry to hear you're facing this issue. We are already looking forward to fixing it as soon as possible.\n\nKeep an eye on our discord server for updates and if you need further assistance with our game\nhttps://discord.gg/JkxWEbK8HD",
+        "date": 1735826854
+      }
+    },
+    {
+      "id": "458654644002925",
+      "score": 3,
+      "review_title": "Five star game when i can play",
+      "review_description": "Super fun but wildly dumb lol! Totally worth the price! When it works. \nI always get to choose a gameplay option. Then my buttons stop registering. The guides still activate the in game button id like to press, the screen reposition works, and the main menu or options button also works. Neither menu works. Just in this game too, so its not on my controllers. Ill try reinstall it.",
+      "date": 1731108398,
+      "review_helpful_count": 6,
+      "author_display_name": "Garmenarnar",
+      "author_alias": "Garmenarnar",
+      "developer_response": null
+    },
+    {
+      "id": "1273739650458993",
+      "score": 5,
+      "review_title": "Man, it’s good!",
+      "review_description": "I have owned this for a long time and only recently started playing. Seems hard at first, but once you start waving your little character all around, it quickly becomes addictive. Love the unlockables in between runs. I almost beat it today. A+",
+      "date": 1726364919,
+      "review_helpful_count": 15,
+      "author_display_name": "Will-84",
+      "author_alias": "Will-84",
+      "developer_response": null
+    },
+    {
+      "id": "405615869291744",
+      "score": 5,
+      "review_title": "So charming and well done",
+      "review_description": "My younger self would have flipped to play with a toy and have the environment respond. The only MR game I've played that is good. Tons of fun and worth every penny. Do yourself a favor and buy this.",
+      "date": 1721686966,
+      "review_helpful_count": 14,
+      "author_display_name": "SilverSif",
+      "author_alias": "SilverSif",
+      "developer_response": null
+    },
+    {
+      "id": "362833930249746",
+      "score": 5,
+      "review_title": "Very unique game",
+      "review_description": "We definitely need more games in this style the graphics are nice the music is top notch the gameplay is very engaging. The mixed reality mode is a lot of fun as well if you ever enjoyed classics like space harrier or star fox then you will love this",
+      "date": 1720961756,
+      "review_helpful_count": 13,
+      "author_display_name": "TipsySonic",
+      "author_alias": "TipsySonic",
+      "developer_response": null
+    },
+    {
+      "id": "912938726886425",
+      "score": 4,
+      "review_title": "Its fun, but HIGHLY REPETITIVE",
+      "review_description": "Its fun, but and beautifull but HIGHLY REPETITIVE, always replay from the begining,\nIt has huge potential of storyline,\nI manage to purchace all permanent powerup, and seems thats it.. no more NEXT..\n\nI still suggest this game is A MUST HAVE, its still fun",
+      "date": 1706745268,
+      "review_helpful_count": 13,
+      "author_display_name": "YuvieLim",
+      "author_alias": "YuvieLim",
+      "developer_response": {
+        "body": "Yeah, the roguelike factor makes you come back lots of times especially if you want to get all the items and wings in the game.\n\nWe're glad you liked the storyline in the Patrol Mode. Who knows what the future holds? Maybe we'll have some more in the future in this aspect. Time will tell!",
+        "date": 1709213493
+      }
+    },
+    {
+      "id": "900266881477592",
+      "score": 5,
+      "review_title": "Very fun in MR",
+      "review_description": "Only complaint is it feels like the mr mode doesn't get any of the Rougelite features like being able to upgrade your character and it feels pretty easy which makes matches drag on for a while. It'd be cool if we could get the difficulty from the endless mode added in but besides that it's super fun and running around my house zapping monsters is an absolute treat. Highly recommend!!",
+      "date": 1701798896,
+      "review_helpful_count": 24,
+      "author_display_name": "SaiyanPrincessXO",
+      "author_alias": "SaiyanPrincessXO",
+      "developer_response": null
+    },
+    {
+      "id": "323535173935455",
+      "score": 5,
+      "review_title": "Highly recommended",
+      "review_description": "Update: The first time I played this game, it didn't convince me, despite having many good things going for it. (Due to space constraints, I couldn't keep my original words.)\n\nTime passed, and I kept thinking about YUKI. It's worth noting that I practically have the entire Meta catalog, and I don't usually look back on games I've decided to abandon because I didn't like them. In the end, I returned to the game, and I'm really enjoying it.\n\nWhat I mean is that this game has managed to change my mind, and its virtues are so good that they have overcome the bad things. And the truth is, in today's fast-paced times, this doesn't happen often. I believe YUKI has a special magic that not all games have, and that element, the magic, has value in itself to truly make the experience worthwhile.",
+      "date": 1710755610,
+      "review_helpful_count": 23,
+      "author_display_name": "Dr.Ruben",
+      "author_alias": "Dr.Ruben",
+      "developer_response": {
+        "body": "Hi, Malcom!\nThanks for such detailed feedback. We're glad that at least some aspects of our game pleased you.\n\nNow, for some of your points: Most of the MR things you described here are more of an artistic choice than an error per se. This is a valid point tho, 'cause people react differently to every type of choice in games. YUKI passed through a lot of tests with players to see how the final product could resonate with the majority of them, it's not in any shape or form an \"unfinished\" product. The positioning of the controllers, as you mentioned, was tested with many types of profiles and none seemed to dislike it. It's sad it didn't work with you, really :(\n\nUnfortunately, even though more languages were planned for the game, we as an indie developer/publisher had to prioritize other things to release our game. But yeah, It's a very valid point (keep in mind that, as a Brazilian studio, we ourselves are not from an English-speaking country).\n\nNow, about any bug that you could have faced throughout your game, we'd gladly help you solve it. We have a dedicated QA team ready to help players solve any issue that could potentially happen. \nConsider joining our discord channel so our team can help you quickly and directly there: https://discord.gg/JkxWEbK8HD\n\nCheers",
+        "date": 1704992826
+      }
+    },
+    {
+      "id": "378906541341398",
+      "score": 3,
+      "review_title": "Yuki",
+      "review_description": "Nice game .sins having the updates there is  a lot off bugs when playing  hope they could fix this .overall a nice 👌 game with out the bugs",
+      "date": 1702487470,
+      "review_helpful_count": 3,
+      "author_display_name": "51963",
+      "author_alias": "51963",
+      "developer_response": {
+        "body": "Hi there,\nSad to hear that you faced bugs while playing. Can you describe the bugs in detail to help us help you fix them, please?\n\nIf you prefer, we have our official discord channel with our QA team ready to help you out there\nhttps://discord.gg/JkxWEbK8HD",
+        "date": 1704982371
+      }
+    },
+    {
+      "id": "2053211275062042",
+      "score": 1,
+      "review_title": "Cannot get the game to run in MR.",
+      "review_description": "I can not get this game to run in MR? After setting everything up such as room scale, walls, windows etc all I can see in MR is just a health bar and level one but that's it!!!! What am I doing wrong I hope you can help me? I Will obviously change my star rating if I can get MR to work.",
+      "date": 1699002683,
+      "review_helpful_count": 2,
+      "author_display_name": "tfh74",
+      "author_alias": "tfh74",
+      "developer_response": {
+        "body": "Hi there! Thanks for getting in touch, and sorry to hear about this issue. Can you provide more details?\n\nAlso, can you join our discord server? We have a dedicated channel there with our QA team prompt to help you solve this issue quickly.\n\nhttps://discord.gg/JkxWEbK8HD",
+        "date": 1699285629
+      }
+    },
+    {
+      "id": "340855435163464",
+      "score": 5,
+      "review_title": "Love it. Must own for every VR/MR player",
+      "review_description": "👆🏻👆🏻",
+      "date": 1698566972,
+      "review_helpful_count": 15,
+      "author_display_name": "The_Walking_Dad_VR",
+      "author_alias": "The_Walking_Dad_VR",
+      "developer_response": null
+    },
+    {
+      "id": "360137226567054",
+      "score": 2,
+      "review_title": "Didn’t love it",
+      "review_description": "Blah",
+      "date": 1701303948,
+      "review_helpful_count": 1,
+      "author_display_name": "JonathanGrace",
+      "author_alias": "JonathanGrace",
+      "developer_response": {
+        "body": "If you have any constructive criticism for us that could help us create better experiences that meet the standards of all of our customers we would really appreciate it. \n\nIt'd be good to have a structured review to help us bring a good game to the community. Hope we can hear from you.",
+        "date": 1704982880
+      }
+    },
+    {
+      "id": "6882936751768813",
+      "score": 3,
+      "review_title": "How to switch  to MR Mode",
+      "review_description": "Can someone tell me how to get MR mode to work,Ty",
+      "date": 1697339796,
+      "review_helpful_count": 3,
+      "author_display_name": "Handas1111",
+      "author_alias": "Handas1111",
+      "developer_response": {
+        "body": "Hi there!\nOnce your game is updated you have to choose the MRcade Mode in the menu, just like you do with Patrol Mode and Endless Mode when you have to choose one of them. It's the same but with a 3rd option now ;)",
+        "date": 1697466591
+      }
+    },
+    {
+      "id": "307477018474596",
+      "score": 1,
+      "review_title": "Don’t get if you arm limitations",
+      "review_description": "I wish I knew more before I bought it. Beautiful, but unplayable due to the arm movement required. Wow that hurt.",
+      "date": 1692303244,
+      "review_helpful_count": 1,
+      "author_display_name": "Az_D",
+      "author_alias": "Az_D",
+      "developer_response": null
+    },
+    {
+      "id": "581384360645221",
+      "score": 4,
+      "review_title": "Seems ok 4.5/5",
+      "review_description": "I played this for about an hour and was weirdly underwhelmed given the stellar reviews and comparison with other very good games of lower rating. It's cool and well-made, but low on visual and audio effects, and something mades it tedious for me. I think it's the general \"pew-pew\" noise aesthetic. Shooting enemies is not satisfying because they just kinda wiggle like rubber when hit and don't make much (any?) noise or generate lighting effects or anything so it feels empty and flat. Thinking back to Life Force on the NES, this also had the pew-pew, but when you were hitting enemies they popped with a noise and the sweet spot on the boss made very satisfying noises especially when you had lots of upgrades. I somewhat enjoyed the first boss battle but it was easy to figure out and then I felt untouchable.  \n\nIt's kinda fun to fly through stuff, and the patterns of bullets are pretty, but it all felt a little flat and a bit like a vr demo. I don't know I guess I was hoping for a bullet hell game where I upgrade as I go until I am spewing hell while things flash and explode around me. This game felt very quiet and chill, so if that's your jam, go for it!\n\nMinor point, after each episode (stage) I didn't see an option to save and quit, and haven't had the bravery to just quit mid run and lose all the progress yet. If you can't put this down and continue later, I can't play it because I only have a few minutes here and there, and a full run takes like an hour as you get upgraded (?)",
+      "date": 1682944843,
+      "review_helpful_count": 16,
+      "author_display_name": "jack.pants",
+      "author_alias": "jack.pants",
+      "developer_response": null
+    },
+    {
+      "id": "211484931401978",
+      "score": 4,
+      "review_title": "Great game, not for me",
+      "review_description": "Sometimes you play a game and you know it’s good but for some reason it just ain’t your bag. Well, that’s Yuki in a nutshell for me. It’s clearly a quality game. I just don’t really like these type of games I guess.",
+      "date": 1679184065,
+      "review_helpful_count": 9,
+      "author_display_name": "PowPow55",
+      "author_alias": "PowPow55",
+      "developer_response": null
+    },
+    {
+      "id": "112156851733554",
+      "score": 5,
+      "review_title": "This game is a lot of fun!",
+      "review_description": "I’ve seen reviews on this game and it was on my wishlist the only reason I hesitated is the lack of comfort options. First i love the graphics and the gameplay is so much fun tho a bit repetitive even if the levels do regenerate slightly different they’re still pretty repetitive. A random run mode could have made it a bit better by shuffling the levels around in different orders or something. It can also be kind of a grind if you wanna get the the higher level. The lack of comfort options is kinda why I avoided this game, there’s no option to turn off the motion so when your standing it can make you pretty nauseous after a while. It’s not to bad if you play it sitting tho, but it’s easier to play standing. Overall for 20$ this game is worth every penny it’s fun, it gets you moving, and it’s action packed. This is one of those games that makes vr look so good it would be one I would recommend to anyone that’s never tried it before. Hoping for some dlc in the future I would definitely pay for it!\n\nEdit: after the second day my game is stuck syncing so I can’t even start the game unless I completely restart from scratch. Even then I’m afraid of my progress being erased again. Such a shame I was really enjoying this game too and while the game is still fun, I just can’t enjoy it knowing my progress will be lost at any time.\n\nSecond update: I figured out how stop the syncing problem when you close the game it does a cloud sync after about 30 seconds you’ll see it on the app widget. If you turn off the system before it does this final sync it will corrupt your data and I assume it’s the same deal for all cloud based saves. Anyways after figuring a work around I have finally got to enjoy the game again. Really just hoping for some dlc in the future now!",
+      "date": 1671822219,
+      "review_helpful_count": 15,
+      "author_display_name": "rklu.senpai",
+      "author_alias": "rklu.senpai",
+      "developer_response": {
+        "body": "Hi there, first of all, thanks for the kind words about our game. YUKI was a game made with all our hearts and it's great to see it reflected in the overall experience of our players :)\n\nNow, about the issue, you had with syncing. This is more related to the Oculus Cloud system than to our game per se. Since YUKI is cloud saved, if you uninstall and reinstall it again it might fix this issue. But we strongly recommend you open a ticket with oculus to see if they can help you there since it's something on their end.",
+        "date": 1671821970
+      }
+    },
+    {
+      "id": "191157060237103",
+      "score": 4,
+      "review_title": "Cool VR Shmup",
+      "review_description": "A bit low on content, but I only complain because I'd love more. Everything is designed incredibly well, and I love the music.\n\nI hope they are considering a sequel.",
+      "date": 1673448872,
+      "review_helpful_count": 6,
+      "author_display_name": "WesFX",
+      "author_alias": "WesFX",
+      "developer_response": null
+    },
+    {
+      "id": "123015460541991",
+      "score": 5,
+      "review_title": "Fun, Unique Rogelite",
+      "review_description": "The roguelite aspect is where this game shines. It’s really fun upgrading after every death as well as level up and temporarily upgrade each run. It’s also fun to unlock the other playable blade wings. The graphics are good and the music is nice.\n\nThe downside is it’s repetitive. I’m a few hours in and it seems there’s only a few episodes that you play through again and again but start with episode 1 every time. So, you grind level 1 a lot.\n\nOverall, the purchase was well worth it. You’ll get many hours of grinding in. I’ve just found it’s more fun to grind a little each day given each run is the same.",
+      "date": 1664979541,
+      "review_helpful_count": 11,
+      "author_display_name": "Spartacus8",
+      "author_alias": "Spartacus8",
+      "developer_response": null
+    },
+    {
+      "id": "136252609084620",
+      "score": 5,
+      "review_title": "Wow simply wow",
+      "review_description": "I was on the fence about this game for a while but I'm glad I purchased it, the graphics are so good it felt like I was holding an actual toy and made me feel like a big kid, the gameplay is so fun moving your arm's around blasting enemies and I love the soundtrack, I can't wait to get back into it.\nHopefully one day we'll see a possible sequal!!",
+      "date": 1657308697,
+      "review_helpful_count": 8,
+      "author_display_name": "BLOODSHOTsk",
+      "author_alias": "BLOODSHOTsk",
+      "developer_response": {
+        "body": "It's like opening a window to the good old days of childhood when we are holding Yuki as Kimi, right? 😌\n\nOh, about a sequel... well, let's just say no one knows what the future hold, right? 👀",
+        "date": 1664836078
+      }
+    },
+    {
+      "id": "160651229674340",
+      "score": 5,
+      "review_title": "Beautiful Game. Sharing tips",
+      "review_description": "https://youtu.be/vgsWVgVc92U\n\nwatch video clip. Final stage&ending with x ploder\n\nRemember weapon priorities\n1. Fire rate : Power drone, cursed fire rate(2 enough)\n2. Homing : hunter drone(must have except tracking star)\n3. Damage : cursed damage up, damage up\n4. pod's super charge \n5. HP+2, creative healing\n5. Broad range : side drone > missile drone > mg drone\n6. HP+1\n7. shields upgrade, immunity\n8. charge weapon : Do not deceived by seemingly powerful effect. upgraded several missiles are more stronger than double charging missiles(in case of X ploder)\n\nrecommendation weapon rank\n\n\n1. Tracking star\nJust grab shooting button. Homing shuriken destroys enemies\n\n2. K1M1\nFire rate good, Aim well\n\n3. Sonic slasher\nUpgrade fire rate and get power drone&hunter drone\n\n4. X-PLODER\ntoo slow. use charge skill in the early 1 or 2 episodes, but  you will lose without cursed fire rate and power hunter drone\nuseless charging missiles later",
+      "date": 1649680482,
+      "review_helpful_count": 11,
+      "author_display_name": "0_CULUS",
+      "author_alias": "0_CULUS",
+      "developer_response": null
+    },
+    {
+      "id": "335142745313808",
+      "score": 5,
+      "review_title": "Intense fun",
+      "review_description": "If you enjoy high intensity games with a lot of movement, this is the one for you. I was a little hesitant because I only have about a 6*4 area to play in, but that was no big deal. I have been having fun so far. The soundtrack is really good too. Have already recommended to my friends that play Oculus and definitely recommend to you too",
+      "date": 1647650998,
+      "review_helpful_count": 9,
+      "author_display_name": "Chrisischillin",
+      "author_alias": "Chrisischillin",
+      "developer_response": null
+    },
+    {
+      "id": "132785179300368",
+      "score": 5,
+      "review_title": "Fun, good replay.",
+      "review_description": "Other than the patterns that become noticeable, pound for pound, worth it. Endless mode is insane, and it’s not super overwhelming for newer VR player’s enjoy!",
+      "date": 1648869868,
+      "review_helpful_count": 7,
+      "author_display_name": "Gamerinchains",
+      "author_alias": "Gamerinchains",
+      "developer_response": null
+    },
+    {
+      "id": "123093716920184",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Only tried a few rounds so far but it seems like a really clever neat little game. You’re basically doing a dance trying to keep your little handheld Yuki alive while all kinds of stuff comes flying at you. Little bit of an old school arcade feel to it for me. The graphics and color scheme is pretty nice, and that opening loading screen where it’s all space? Gorgeous. Let me hang out there for like an hour lol, it’s amazing.",
+      "date": 1644563405,
+      "review_helpful_count": 10,
+      "author_display_name": "tamarleo",
+      "author_alias": "tamarleo",
+      "developer_response": null
+    },
+    {
+      "id": "123351476883560",
+      "score": 5,
+      "review_title": "A creative use of VR",
+      "review_description": "Before you read anything else, just buy the game and give it a try. This is easily my favorite VR game, and it is an amazing translation of an arcade style game into VR. It’s creative, challenging, rewarding, and just too much fun. Mad mad props to the dev team, you guys did amazing work!",
+      "date": 1644134258,
+      "review_helpful_count": 8,
+      "author_display_name": "Pupua",
+      "author_alias": "Pupua",
+      "developer_response": null
+    },
+    {
+      "id": "4801719183181067",
+      "score": 5,
+      "review_title": "Amazing rouge like",
+      "review_description": "What an amazing experience.\nVisuals are great and its just feels good to play. Although the game is Pretty hard, but very motivating cause of the rewards and lvl ups you get after every run. \nAlso im very into motion sickness but this game is totally fine, could played for hours without feeling sick. \nThumbs up to the Defs",
+      "date": 1636747591,
+      "review_helpful_count": 8,
+      "author_display_name": "Danny83Munich",
+      "author_alias": "Danny83Munich",
+      "developer_response": null
+    },
+    {
+      "id": "173626448160620",
+      "score": 5,
+      "review_title": "I love this game! Almost perfect!",
+      "review_description": "Please partner with CLAMP and make Battle Doll Angelic Layer and/or Cardcaptor Sakura come to life in VR!  Yuki reminds me so much of Angelic Layer, and the tech is finally here to pull it off!\n\nReview time:  as far as this game goes, it’s an immersive forward flight through a storm of bullets; a classic scroller, but head-on.  Simple to master the concept and gameplay, but still challenging and rewarding to play.  You hold your action figure (Yuki) and Pod (an invincible support you can use to grab power-ups) and fly through having Yuki shoot and dodge baddies.  The scenes progress, but there’s variety in what obstacles get thrown at you each time.  When you do get defeated, your points can be used to unlock permanent upgrades (more health, rate of fire, seeker rounds, etc) so you’ll have a slightly easier time the next go.  The visuals are great, but the modeling and movements of Yuki are truly breathtaking and make me want this developer to tackle Angelic Layer all the more... Buy it and enjoy!\n\nA couple things could make it even better:  Please add save points after each stage.  Nothing like slogging through a boss after a couple levels then getting taken out or needing a break and then starting the game over from the beginning.  Meh.  At least make it an option- also this would help people with limited time who can’t live in VR…\n\nPlease add the ability to select from multiple profiles so different people in a family can play.\n\nI’m really looking forward to see what comes next in improvements and content!  Thanks for a great game in Yuki!",
+      "date": 1630861642,
+      "review_helpful_count": 33,
+      "author_display_name": "Eternalgreenknight",
+      "author_alias": "Eternalgreenknight",
+      "developer_response": null
+    },
+    {
+      "id": "1063024791119159",
+      "score": 4,
+      "review_title": "Fun but needs a proper campaign",
+      "review_description": "This game is a lot of fun. It's an old school arcade shooter the kids now call \"bullet hell\"s. They throw a lot at you right away so don't expect any leniency from game. It's brutal right from the start. That is good because it teaches you to just deal with it. I only wish an anime style story was going on behind it all. This game needs a campaign with dialogue.",
+      "date": 1632720084,
+      "review_helpful_count": 5,
+      "author_display_name": "bearboman",
+      "author_alias": "bearboman",
+      "developer_response": null
+    },
+    {
+      "id": "329871465602182",
+      "score": 5,
+      "review_title": "A child once again",
+      "review_description": "Never once did i think when i was a child doing just this exact thing that one day it would all come to life. This game is that. If your looking for something fresh and nostalgic this is for you.. this game is for everyone.. buy it.. now!! 5 Stars great job Devs and thank you!",
+      "date": 1632603825,
+      "review_helpful_count": 5,
+      "author_display_name": "DrunkendJackal",
+      "author_alias": "DrunkendJackal",
+      "developer_response": null
+    },
+    {
+      "id": "324231996130827",
+      "score": 5,
+      "review_title": "What’s not to love?",
+      "review_description": "Amazing graphics and music, well designed game play that randomizes adversaries each time you play. I can’t wait to see the next game that this game studio creates.",
+      "date": 1633985129,
+      "review_helpful_count": 5,
+      "author_display_name": "FluxCapacitor121",
+      "author_alias": "FluxCapacitor121",
+      "developer_response": null
+    },
+    {
+      "id": "4182269701900812",
+      "score": 4,
+      "review_title": "Super Addictive Roguelike Shooter!",
+      "review_description": "🔗 Gameplay with commentary here: https://youtu.be/NMiDzyc3-eE\n\n🔗 Full successful run from over 6 hours of playing the game to progress my character (with ending) here: https://youtu.be/_VwYHj_B198\n\n🔗 My Review article on VR Dynamite.com here: https://vrdynamite.com/yuki-review-for-oculus-quest-buy-or-pass/\n\nThis is a quick overview having sunk over 6 hours into YUKI. For more detail, check out the links above.\n\nPros 🥽\n\n➕ Incredibly addictive arcade-style gameplay\n\n➕ Good variety of characters, abilities, and power-ups to keep things fresh\n\n➕ Accessible and comfortable pick up and play experience\n\n➕ Progression system works well and is balanced\n\nCons 🥽\n\n➖ Can get repetitive despite procedurally generated enemies and obstacles\n\n➖ Could make better use of 360 degree VR as you will be looking forward most of the time\n\n➖ Sometimes feels a little unfair with the number of obstacles on-screen\n\nI am grateful to ARVORE for providing me with a free review copy, but if I had not received one, I would seriously consider buying this game. YUKI gave me that ‘just one more go’ feeling that kept me coming back for more. I had a blast!",
+      "date": 1626975920,
+      "review_helpful_count": 26,
+      "author_display_name": "VRReviews",
+      "author_alias": "VRReviews",
+      "developer_response": null
+    },
+    {
+      "id": "207306948118212",
+      "score": 4,
+      "review_title": "No so a broken game anymore.",
+      "review_description": "Was 5 stars until I get to the last boss with the 4th wing suit and guess what she’s glitched. Unlike after I’ve defeated her 3 attached heads with all the other wing suits I can then attack her body. Oh no we’re not going to let you do that, with the 4th suit you kill her attached heads then she becomes immune to damage no matter how long you fire at her. The first time this happened I thought it was a fluke but the 2nd and 3rd attempts get the same results. Fix this please. \n\nLast update I downloaded was a few days ago shows 208, I checked the store for another update and one doesn’t show available\n\nLatest update installed rushed to last boss, took 2 attempts to take her down was very excited to unlock the new Bladewing. Geez was an anti climactic unlock, the second Bladewing was the best in my opinion only of course. Outside of my gripe the game is stellar and is a disappointing but highly replayable game with great graphics and sound for the Quest 2, one of the HMD’s better titles. Can’t wait to see if there is a difference when I play it on PCVR with the Q2.",
+      "date": 1630129242,
+      "review_helpful_count": 4,
+      "author_display_name": "Gogojutsu",
+      "author_alias": "Gogojutsu",
+      "developer_response": null
+    },
+    {
+      "id": "307274287841105",
+      "score": 3,
+      "review_title": "A VR game without gamefeel ain't much",
+      "review_description": "Yuki is one of the limpest feeling VR action games I've played. The graphics are fine, but there's no juice, no great music bumping, no kick to the shooting, which just makes the whole thing feel underwhelming compared to other great titles. It's not terrible or anything, if you're in the mood for slow & chill, yet difficult, or really like bullet hells or the deliberately corny, anime action figure aesthetic, then get it. Otherwise, if you're a rogue-lite fan, get Until You Fall instead. If you're a shooter fan, get Swarm, Pistol Whip or Super Hot instead.",
+      "date": 1627997302,
+      "review_helpful_count": 12,
+      "author_display_name": "Vegedus",
+      "author_alias": "Vegedus",
+      "developer_response": null
+    },
+    {
+      "id": "171464878499331",
+      "score": 5,
+      "review_title": "Love it!",
+      "review_description": "Nott too many games like shooty skies so this game was a good find.",
+      "date": 1633410032,
+      "review_helpful_count": 5,
+      "author_display_name": "danpride67",
+      "author_alias": "danpride67",
+      "developer_response": null
+    },
+    {
+      "id": "276037794329000",
+      "score": 4,
+      "review_title": "Exhilirating bullet-hell shooter",
+      "review_description": "Like many, I was instantly drawn to Yuki's colourful anime-inspired visuals. The game also has a genuinely sweet concept: you're a child playing with your toy and you imagine yourself fighting waves of yokaliens to save the universe. This is why you're guiding your character with your hand to avoid waves of bullets, and not your head. Who didn't imagine themselves in similar scenarios when you were a child? Well, Yuki lets you live out your childhood fantasies via a rock solid roguelite shooter. \n\nYou will die a lot, but as time goes on, you learn the enemies' attack patterns and will make it to the final level in no time. I also initially played sitting down, but realized how much easier and more fun the game is when you play standing up and move your character all over the room to dodge bullets. It's quite satisfying to completely avoid seemingly-impossible waves of bullets, as I found myself often saying: \"Wow, did I really dodge all of that?\"\n\nYuki took me a few hours to finally beat a run. If there's anything to critique here, it's that the game is currently a bit light on content. While the enemies and objects do change each run, the levels' overall structures do not. There also isn't that much enemy variety. There will apparently be an endless mode added to the game, but I wish that would've been included at launch.\n\nRegardless, Yuki is a lot of fun as the core gameplay loop of permanently unlocking power-ups is quite addictive. I'd also like to say that anyone who is interested but hesitant due to fears of bullet hells should still give this game a try. When you realize you can fully move all over the room to dodge attacks, you'll find them much more manageable. \n\nP.S. if the devs are reading: is there a way to skip the intro text at the start of the game?? I'm referring to the ones explaining how roguelites work. It's a bit annoying to read every time I play, so genuinely wondering if there's a way to skip it. If not, I suggest adding that in an update.",
+      "date": 1627685567,
+      "review_helpful_count": 12,
+      "author_display_name": "jaxijin",
+      "author_alias": "jaxijin",
+      "developer_response": {
+        "body": "Hi, Friend.\nThanks for your feedback. Glad you are enjoying the game! We are working our best to make the endless mode the ideal balance between enjoyable and challenging. It will be worth the wait, trust us ;)\n\nNow about skipping text as you suggested, this option is to be implemented in a future update, don't worry!",
+        "date": 1627919784
+      }
+    },
+    {
+      "id": "604393744282590",
+      "score": 4,
+      "review_title": "Hold on",
+      "review_description": "So in this game you hold the Yuki figure like a child playing with a toy. I have played several games using this mechanic and this is one of the best so far. It seems this game is a tie in for an anime of some sort. Not really sure about that though as I’ve no idea. It’s very anime looking and feeling and there are very anime themes. If you like bullet hells, feeling like a child, frustration in a fun way then this game is for you.",
+      "date": 1627012738,
+      "review_helpful_count": 15,
+      "author_display_name": "Roxtar73",
+      "author_alias": "Roxtar73",
+      "developer_response": null
+    },
+    {
+      "id": "368821798222507",
+      "score": 4,
+      "review_title": "Can't play - synching error",
+      "review_description": "This is easily one of my favorite games on VR, though I only got to play it a few days before I got a syncing message on the app that doesn't allow me to open and even uninstalling the game didn't resolve the issue.\n\nDevs can you please shed some light on why this is happening and how I can get around it",
+      "date": 1629966226,
+      "review_helpful_count": 3,
+      "author_display_name": "JonnyBGooden",
+      "author_alias": "JonnyBGooden",
+      "developer_response": {
+        "body": "Hi there, friend! \nFirst of all we're glad to know that you enjoyed YUKI the most you could before this issue, now let's help you fix it!\n\nAre you on Quest or Quest 2?\nAlso, can you join our discord server? We can give you faster support there!\n\nhttps://discord.gg/QGdzhXNRrr",
+        "date": 1629988218
+      }
+    },
+    {
+      "id": "225752859443067",
+      "score": 4,
+      "review_title": "Its like being a kid again",
+      "review_description": "This game is an absolute surprise to me. I thought it was going to be garbage but its actually pretty good. The rogue-lite aspect has been overplayed abit but it doesnt hurt this game. The music is beautiful. The levels are gorgeous. The colors pop on the screen. I really like the boss battles. I had to take a point off cuz the action hero and the enemies in the world dont really fit together. I wish the action figure would move in your hand and have more life to it. I also would like to be able to pickup different weapons in the levels like most schmups instead of only having one main weapon that gets selected before you run. This game takes you back to being a kid when you played with action figures and flying them around the house. I cant wait to see the future updates to this game beyond the endless mode. Btw...this is way better than Shooty Skies. You need to buy this one if you are a fan of that game.",
+      "date": 1628136511,
+      "review_helpful_count": 8,
+      "author_display_name": "jimgameguru",
+      "author_alias": "jimgameguru",
+      "developer_response": null
+    },
+    {
+      "id": "347807313389141",
+      "score": 4,
+      "review_title": "Nostalgic fun... But gets repetitive.",
+      "review_description": "Cool graphics, fun gameplay, Yuki is adorable and a bullet hell of fun..... These were the things that made me love this game alot.... In the beginning at least.\nBut after playing the game over and over again from the beginning (and yes I know that's the point of rogue like games, but still....) I just kinda lost my interest kinda quickly. Although every level is mixed up when yiu start over again, due to the bullet hell factor you barely notice any difference from your previous playthrough. I think the game is too thin, in comparison with other rogue like games like 'in death' or 'untill you fall' to keep you coming back for more after a while. Although you can upgrade, it still isn't enough to keep my interest.\nDid I have fun with the game ... Definitely yes!\nBut, unfortunately, rogue like games either keep you coming back for more to defeat that last boss you lost from or it gets too repetitive and a bit annoying after a while. And I guess it just tips over to the last side.\n\nOveral it's a fun cool  game.... But it got too repetitive too quickly after a while. I think it's also mostly because it's a 'moving forward on a rail' kinda game that makes it very repetitive. \n\nAlso haptics and sounds are just too weak for a bullet hell game. Needs more kick to it!",
+      "date": 1628682667,
+      "review_helpful_count": 12,
+      "author_display_name": "TVL1977",
+      "author_alias": "TVL1977",
+      "developer_response": {
+        "body": "Hi, friend. Thanks for the feedback!\nYUKI was always envisioned as a game that you make your own path using as many combinations of power-ups, charms and bladewings as you want, and as you said, since it's a roguelite game repetition is key for achieving this.\nThat said, we are always updating the game to make the game even better for everyone that plays (and of course, always listening to our community feedback)\n\nEndless mode is right around the corner, and it will bring more content for everyone to enjoy! It will be worth the wait ;)\n\nWhat about joining our discord server? We have a channel there dedicated to suggestions, and people are always chatting about the game. Not to mention you have some YUKI freebies there https://discord.gg/AZ8fjvuzhc",
+        "date": 1628693879
+      }
+    },
+    {
+      "id": "288935056365834",
+      "score": 4,
+      "review_title": "Reminds me of shooty skies w great look",
+      "review_description": "Shooty skies on hyper drive, I like that you can keep improving your self after each run. I can see this game getting replayed more and more. Well once the updates start to roll in,I’m sure it will become a classic game we all will want.Keep up the great work",
+      "date": 1628160321,
+      "review_helpful_count": 7,
+      "author_display_name": "Sleeplessdreams225",
+      "author_alias": "Sleeplessdreams225",
+      "developer_response": null
+    },
+    {
+      "id": "4225724694178934",
+      "score": 2,
+      "review_title": "Really fun, until it wasn't.",
+      "review_description": "Kind of hard to like an app that you invest a lot in, and then that randomly crashes, taking all your data with it.  The app froze with an endless message that said \"synchronizing.\"  This message remained even after restarting the device.  I was forced to uninstall it and reinstall it.  For whatever reason, it didn't save any of my data.  Which is odd because pretty much any game I have ever played on Quest is smart enough to save my data.  Even when I move from one device to another, such as from a quest to a quest 2, my data was tied to my account and moved with me.\n\nAfter this random error, and forced reinstall, I am back at zero.  Too disheartened to play anymore.  Deleting and moving on.",
+      "date": 1628549031,
+      "review_helpful_count": 3,
+      "author_display_name": "BertochMe",
+      "author_alias": "BertochMe",
+      "developer_response": {
+        "body": "Hi friend. First of all, we're so sorry that you faced this issue and it costed your saved data. We know how these situations can be frustrating. We are investigating it avoid issues like that in the future.\n\nNow, to help you with your saved data, what about joining our discord server and telling us how your saved data was, so we can set you exactly where you are and you can keep enjoying the game? :)\nhttps://discord.gg/QGdzhXNRrr\n\nWe really hope we can help you having fun with YUKI again. Please feel free to reach us again if you have any consideration",
+        "date": 1628612074
+      }
+    },
+    {
+      "id": "167415065514654",
+      "score": 5,
+      "review_title": "Genuinely great experience",
+      "review_description": "This is one of the best games you can get for the quest and for the price don't even think about it just get it!",
+      "date": 1630295494,
+      "review_helpful_count": 6,
+      "author_display_name": "DyingDegree86",
+      "author_alias": "DyingDegree86",
+      "developer_response": null
+    },
+    {
+      "id": "367257615010122",
+      "score": 4,
+      "review_title": "Not quite danmaku but still fun",
+      "review_description": "Bullet patterns change based on run and character type, but there are only 6 stages with 3 bosses. Replayability after all unlocks (which doesn't take too long) doesn't seem high.\n\nStill very fun shooter.",
+      "date": 1629121534,
+      "review_helpful_count": 4,
+      "author_display_name": "shram86",
+      "author_alias": "shram86",
+      "developer_response": null
+    },
+    {
+      "id": "126258063048315",
+      "score": 5,
+      "review_title": "Big mistake",
+      "review_description": "Brought the oculus with me on vacation and just played this game instead of spending time with my friends and family and I don’t regret it.",
+      "date": 1627911503,
+      "review_helpful_count": 11,
+      "author_display_name": "MagnusVonRobotsson",
+      "author_alias": "MagnusVonRobotsson",
+      "developer_response": {
+        "body": "Spending time with your folks is a very important thing! But we can't deny we are happy that YUKI kept you company on your vacation 😄",
+        "date": 1627925435
+      }
+    },
+    {
+      "id": "127899186217284",
+      "score": 5,
+      "review_title": "Yuki",
+      "review_description": "This game is fun, challenging and addicting\nI can't say enough about it.   5- stars !!!",
+      "date": 1628642625,
+      "review_helpful_count": 5,
+      "author_display_name": "Woo_Shang",
+      "author_alias": "Woo_Shang",
+      "developer_response": null
+    },
+    {
+      "id": "200180675415058",
+      "score": 4,
+      "review_title": "Excellent!",
+      "review_description": "Not quite a triple A game, but pretty close. Fantastic graphics, music, and gameplay that doesn't get boring, this is a must buy if you like  shooters.",
+      "date": 1628257248,
+      "review_helpful_count": 3,
+      "author_display_name": "Rojman",
+      "author_alias": "Rojman",
+      "developer_response": null
+    },
+    {
+      "id": "297175305520929",
+      "score": 5,
+      "review_title": "It's like crashlands but space shooter.",
+      "review_description": "So that's what I said\nTherefore buy it.",
+      "date": 1627087918,
+      "review_helpful_count": 9,
+      "author_display_name": "GanjaPharmer",
+      "author_alias": "GanjaPharmer",
+      "developer_response": null
+    },
+    {
+      "id": "518839366047541",
+      "score": 2,
+      "review_title": "Well produced but disappointing.",
+      "review_description": "YUKI is well-produced, and it's clear that a lot of work has gone into it, unfortunately, the shooting itself is rather disappointing. A fatal flaw for a shooter.\n\nFor a full review, search YouTube for 6DOF Reviews :)",
+      "date": 1628184129,
+      "review_helpful_count": 2,
+      "author_display_name": "KarmaMole",
+      "author_alias": "KarmaMole",
+      "developer_response": null
+    },
+    {
+      "id": "198255808987305",
+      "score": 5,
+      "review_title": "Yuki is awe inspiring Space Invaders",
+      "review_description": "Some moments I would catch myself gasping at how beautiful and detailed the world is. This game is a treat, and if I had any friends to share it with, I would have them try this. \n\n\nFun active shooter, can lose a lot of time in it, and feels like a real \"game\" game, (unlockables)\n\n\nI don't like rougelites normally but I had realized Space Invaders and all the old school games like that were also like this too. \n\nTLDR, Yuki is an HD 3D VR space invaders game you can control. Very fun, Buy it, its beautiful.",
+      "date": 1628303250,
+      "review_helpful_count": 1,
+      "author_display_name": "ThatBurgaSAOnumber1player1v1me",
+      "author_alias": "ThatBurgaSAOnumber1player1v1me",
+      "developer_response": null
+    },
+    {
+      "id": "197690695640730",
+      "score": 5,
+      "review_title": "Hello Childhood. I missed you.",
+      "review_description": "If you have every played with action figures before, buy this now. If you're a fan of bullethell games, buy this now. Rouge-likes? Read above.\n\n This game has all that and more. The visuals are breathtaking for the quest 2 and the gameplay is deep enough to keep you playing until your headset dies. YUKI has a very memorable soundtrack that varie based on the stages. I had high expectations from the developer of the pixel ripped series. Somehow they exceeded them. Easily one of the best VR games period.",
+      "date": 1627073608,
+      "review_helpful_count": 8,
+      "author_display_name": "UnseenAccomplice",
+      "author_alias": "UnseenAccomplice",
+      "developer_response": null
+    },
+    {
+      "id": "190030923183570",
+      "score": 5,
+      "review_title": "Cool",
+      "review_description": "Cool",
+      "date": 1628351428,
+      "review_helpful_count": 0,
+      "author_display_name": "Ellipsism",
+      "author_alias": "Ellipsism",
+      "developer_response": null
+    },
+    {
+      "id": "187626206762400",
+      "score": 5,
+      "review_title": "Such a fun game!",
+      "review_description": "The game is beautiful, fun and addictive. It also brings something a bit different to VR and is not another ugly military shooter or the same ol' rhythm game. Well done to the developers!\n\nBefore you buy this game though, you should know that your arms will become jelly after a few runs.",
+      "date": 1627453371,
+      "review_helpful_count": 11,
+      "author_display_name": "TeodoricusBulgaricus",
+      "author_alias": "TeodoricusBulgaricus",
+      "developer_response": null
+    },
+    {
+      "id": "186450930181160",
+      "score": 5,
+      "review_title": "BRAVO",
+      "review_description": "Yuki & Pixel Ripped the BEST games on oculus, you cannot tell me otherwise. Graphics are popping, music is chill, gameplay is incredibly enjoyable. I love this game. Although i wouldn’t mind a Pixel Ripped 2 🤗10/10.",
+      "date": 1627789682,
+      "review_helpful_count": 6,
+      "author_display_name": "VincentVanGoghsEar",
+      "author_alias": "VincentVanGoghsEar",
+      "developer_response": null
+    },
+    {
+      "id": "180414474157417",
+      "score": 5,
+      "review_title": "Non-Pandering VR for 90s Gamers",
+      "review_description": "A lot of VR software uses VR as a gimmick and nothing more. Your gun reloading in FPS games ejecting the cartridge past your head or particle effects whizzing by like in an early 3D summer blockbuster. Yuki uses each of the three controllers available to you to much greater effect. The more you scratch at the surface of this game, the more you unearth. This is a fully realized and designed game experience. It's not here to pander to your cravings for VR gimmicks, it's here to use them as tools to create a fulfilling and complete gameplay experience, the likes of which I have yet to see in any other title on Quest I've played yet.\n\nI'm not a huge shmup enthusiast, but I've dabbled, and respect the genre. I have played Ikaruga, more modern indie bullethell roguelikes, like Enter the Gungeon and Binding of Isaac, and of course, your Galagas and Star Foxes. This game hits a wonderful sweetspot between all of these without sacrificing seemingly any of what makes each of those games great.\n\nWhat I really love about this title is how you attune to it over time. The more you play it, the better you get at it and the more fun you allow yourself to have with the game by playing with style, and even that rewards you. The first few times you play, you will probably stand in one place, strictly moving your arm to avoid danger or aim your weapon. You'll weave Yuki between iron bars, and steer clear far and away from enemy fire. You probably won't even think to move your feet. It's basically just a Star Fox game... isn't it? That's what the reviewers on YouTube will lead you to believe. \n\nBut the real fun comes once you PLAY LIKE A KID. The game's currency of 'creative drive' seems to play in thematically here. As you progress through the game, if you follow Yuki from behind, you'll see yourself piloting her more effectively, using your head as a more of a cinematic camera than just \"your head that you happen to see things from.\" You'll find that grazing as close as you can to enemy fire grants you bonus XP, allowing you to grow stronger earlier, motivating you to do \"cool moves\" (and finding that the bullet patterns are LOVINGLY crafted to encourage you to ride them without ever making it painfully obvious that that's what they want you to do). Before long, you're skipping Yuki over enemy fire, curving her around obstacles, even though there was no direct advantage to curving beyond your own amusement. \n\nSo many reviews of this title just drop in, drop out, and don't even give it the good, deep dive it deserves. They call it a \"fun shooter title\" and move on. But this game's game runs deep, and is full of content I am kept determined to continue discovering. There are some ideas I have for the title, but I still haven't beaten the second boss so I'm waiting to see if these ideas are explored already, but I'm hoping to see some kind of pacifist reward (it's hard to do because the more enemies you don't kill, the more bullets will always be onscreen, but it SEEMS doable) and some payoff for whatever the pink robot is in the after-the-first-boss lobby.",
+      "date": 1629686748,
+      "review_helpful_count": 3,
+      "author_display_name": "HumanBossBattle",
+      "author_alias": "HumanBossBattle",
+      "developer_response": null
+    },
+    {
+      "id": "180255987498641",
+      "score": 5,
+      "review_title": "MUST BUY!!!!!!!!! No SeRiOUSLY!",
+      "review_description": "Let me say I don’t write reviews. But I had to. When a gamer develops a game it’s usually magic. When a VR gamer develops a game for VR you get pixel ripped. Building on the part of pixel ripped when your in a vr starfox , scratch that say you are one of the two gamers who never played any pixel ripped games, YUKI is a rogue light shooter, which brings you back to the childhood of holding action figures and flying them around your room, as you imagine scenarios and story lines with you action figures. This is that. The things you imagined as a kid that were happening when you had your toy in your hand flying it around your room? Is manifested in this game. And the simple mechanics that anyone can just pick it up and play. And you can stand or sit, and the game is so beautiful your forgetting half the time whether to look around or dodge bullets. It’s a bullet hell anime style game like….valkerye meets raiden space shooters, Galaga all of them it’s the epitome of BR to me. Simple fun addictive replay value they checked every single box for me with this game. Thank you 🙏 for getting it. Thank you for understanding what the gamecats have been begging for in a VR title. Meow & swipe. Please continue to support this game please this is a masterpiece. Wait until psvr get its hands on this. You might have a best seller this actually might knock saints and sinners off the #1 spot",
+      "date": 1627160312,
+      "review_helpful_count": 26,
+      "author_display_name": "Double_M_Gaming",
+      "author_alias": "Double_M_Gaming",
+      "developer_response": {
+        "body": "Well, talk about a great review! 😄\nWe're glad that we could channel all these feelings to our players! We know you are thanking us for making YUKI, but really, thank YOU for such a warm perspective on our work!",
+        "date": 1627678377
+      }
+    }
+  ],
+  "total": 60,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T06:58:26Z"
+}

@@ -1,0 +1,78 @@
+{
+  "app_id": "4459695417467896",
+  "package_name": "com.AspenscapeStudios.VRPong",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "VR Pong",
+  "rating_average": 3.5,
+  "rating_count": 6,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "1600065290373846",
+      "score": 1,
+      "review_title": "Disgustingly horrible",
+      "review_description": "This is the worst game I’ve bought for Quest. Ping pong balls disappear in air before coming anywhere close to cups. Truly an unplayable game that wouldn’t be worth $1 but costs $10. Wish I was able to rate it zero stars. Extremely disappointing.",
+      "date": 1648922228,
+      "review_helpful_count": 1,
+      "author_display_name": "therealrick",
+      "author_alias": "therealrick",
+      "developer_response": {
+        "body": "We are very sorry you did not have a good experience playing VR Pong. We are trying to replicate the issue you are describing, but have not been able to in testing. Would you be able to provide more context to the ball disappearing? If it seems that the ball is not being thrown far enough to get to the cups, you can try adjusting the throw sensitivity in the settings (in game or in the main menu). Also, keep in mind that the throwing physics takes into account arm movement, wrist flick and timing of release. Please let us know if this helps fix the issue. You can contact us directly at aspenscapestudios@gmail.com.",
+        "date": 1649100281
+      }
+    },
+    {
+      "id": "1412845042491606",
+      "score": 5,
+      "review_title": "Chill vibes and cup dives",
+      "review_description": "For a game in app labs this game feels and looks good. The music adds a nice atmosphere to some sweet locations. It took a couple minutes to find the sweet spot but I found it a lot better to follow through on the toss. Once I got that I took my opponent to town. I look forward to watching this game develop and enjoying it along the way.",
+      "date": 1649305539,
+      "review_helpful_count": 2,
+      "author_display_name": "Hungoverxtaco",
+      "author_alias": "Hungoverxtaco",
+      "developer_response": null
+    },
+    {
+      "id": "707918070556632",
+      "score": 5,
+      "review_title": "Awesome party game",
+      "review_description": "Don't go into the game thinking it's going to feel exactly like beer pong in real life, it takes some getting used to, but once you figure it out, it's second nature. Our friends all had a blast taking turns playing (can't wait for multiplayer!) Also love that you can change the difficulty and customize the background, cups, and table.",
+      "date": 1648935807,
+      "review_helpful_count": 1,
+      "author_display_name": "MaLyriah",
+      "author_alias": "MaLyriah",
+      "developer_response": null
+    },
+    {
+      "id": "162140319670767",
+      "score": 1,
+      "review_title": "this game is terrible",
+      "review_description": "literally cannot throw the ball without throwing my arm out. The ball doesn't even bounce on the table it goes right through it. The music is horrible and makes me want to put a car muffler right to my eardrums.",
+      "date": 1656992294,
+      "review_helpful_count": 1,
+      "author_display_name": "Jonathan-44",
+      "author_alias": "Jonathan-44",
+      "developer_response": null
+    },
+    {
+      "id": "110432494971629",
+      "score": 4,
+      "review_title": "Fun Party Game",
+      "review_description": "Game play was realistic. Did not have issues previous reviewer had.  Choice of environment/background gives you something interesting to look at when waiting for opponent to complete their turn. Easy to learn, even while drinking.",
+      "date": 1649819092,
+      "review_helpful_count": 2,
+      "author_display_name": "RexDogood",
+      "author_alias": "RexDogood",
+      "developer_response": null
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T06:59:11Z"
+}

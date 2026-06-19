@@ -1,0 +1,42 @@
+{
+  "app_id": "9263104147033446",
+  "package_name": "com.AtomicGamez.MonkeMacabre",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Monke Macabre",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "564915056712974",
+      "score": 5,
+      "review_title": "Fun game",
+      "review_description": "Nice game it’s fun to play",
+      "date": 1741920274,
+      "review_helpful_count": 1,
+      "author_display_name": "Pulse5867",
+      "author_alias": "Pulse5867",
+      "developer_response": null
+    },
+    {
+      "id": "509911435530958",
+      "score": 5,
+      "review_title": "Pretty fun",
+      "review_description": "This game is fun and it's going to get better in future updates",
+      "date": 1731675379,
+      "review_helpful_count": 0,
+      "author_display_name": "Sebastian10000",
+      "author_alias": "Sebastian10000",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:02:22Z"
+}

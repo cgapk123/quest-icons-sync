@@ -1,0 +1,53 @@
+{
+  "app_id": "8364224360295210",
+  "package_name": "com.Avika.AvikaAi",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Avika Mind Health",
+  "rating_average": 1.8,
+  "rating_count": 10,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "767777925775101",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Program never worked!!",
+      "date": 1750255382,
+      "review_helpful_count": 3,
+      "author_display_name": "becnani22",
+      "author_alias": "becnani22",
+      "developer_response": null
+    },
+    {
+      "id": "3970768216472737",
+      "score": 1,
+      "review_title": "Avika",
+      "review_description": "All you get is a pairing code, so where do you use this to activate the app on the quest 3 ?",
+      "date": 1744295586,
+      "review_helpful_count": 8,
+      "author_display_name": "Highfielder",
+      "author_alias": "Highfielder",
+      "developer_response": null
+    },
+    {
+      "id": "1061295052720715",
+      "score": 1,
+      "review_title": "No Access",
+      "review_description": "All I get is an access code and no place to put it.",
+      "date": 1744438038,
+      "review_helpful_count": 3,
+      "author_display_name": "Redeyed4848",
+      "author_alias": "Redeyed4848",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:04:32Z"
+}

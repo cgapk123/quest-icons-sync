@@ -1,0 +1,59 @@
+{
+  "app_id": "7340679912667484",
+  "package_name": "com.ArtisanEffects.Dance",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Dance Fiesta Fitness",
+  "rating_average": 2.6,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "654817244379595",
+      "score": 5,
+      "review_title": "Fun Dance Workout!",
+      "review_description": "Fun dance workout with cool music! App has improved with recent releases so now I recommend! I like accuracy tracking and dance styles 🙂",
+      "date": 1747125413,
+      "review_helpful_count": 3,
+      "author_display_name": "aw.294153",
+      "author_alias": "aw.294153",
+      "developer_response": null
+    },
+    {
+      "id": "452961631244170",
+      "score": 1,
+      "review_title": "Appalling",
+      "review_description": "Does not work..rubbish",
+      "date": 1735241712,
+      "review_helpful_count": 1,
+      "author_display_name": "JoshAussieBoy",
+      "author_alias": "JoshAussieBoy",
+      "developer_response": {
+        "body": "Thank you for your review! We appreciate your feedback and are actively improving the app. Please let us know what bugs you are encountering, and we will resolve the issues as soon as possible.",
+        "date": 1743194360
+      }
+    },
+    {
+      "id": "420671771137697",
+      "score": 1,
+      "review_title": "not worth even 5 dollars!!",
+      "review_description": "Even for free it’s not worth it",
+      "date": 1729638299,
+      "review_helpful_count": 10,
+      "author_display_name": "Anabentes",
+      "author_alias": "Anabentes",
+      "developer_response": {
+        "body": "Thank you for your review! We appreciate your feedback and are actively improving the app. We recently added a scoring system that compares user and character movements to measure dance accuracy. The app also includes new songs and levels. Please let us know if you have specific recommendations for enhancements.",
+        "date": 1743333115
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T06:57:13Z"
+}

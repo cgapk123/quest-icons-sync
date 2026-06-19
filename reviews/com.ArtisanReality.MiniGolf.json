@@ -1,0 +1,45 @@
+{
+  "app_id": "24035653182801483",
+  "package_name": "com.ArtisanReality.MiniGolf",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Cactus Canyon Mini Golf",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "836024999284568",
+      "score": 5,
+      "review_title": "Good but can be better",
+      "review_description": "Great game ane even better concept, love the coyote there to help motivate you to put it in, only problem is that there is 2 holes and both are only about 8 feet long, there is also 2 balls you start with but there is no way to spawn in a new ball also I would love if the remaining part of the game was free, Amazing game would recommend \n-Egb and KinGayMoney",
+      "date": 1762823657,
+      "review_helpful_count": 1,
+      "author_display_name": "ESB_3",
+      "author_alias": "ESB_3",
+      "developer_response": {
+        "body": "Thank you for the review and feedback! Our most recent release contains a third hole to the free game and added functionality to automatically respawn the ball if it falls off the course.",
+        "date": 1764165526
+      }
+    },
+    {
+      "id": "958509133384424",
+      "score": 1,
+      "review_title": "HORIBLE",
+      "review_description": "DO I REALLY HAVE TO PAY TO PLAY THE FULL GAME !ONE STAR THIS GAME SUCKS!",
+      "date": 1770567226,
+      "review_helpful_count": 0,
+      "author_display_name": "PJD430",
+      "author_alias": "PJD430",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T06:57:29Z"
+}
