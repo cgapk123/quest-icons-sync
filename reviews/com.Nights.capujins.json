@@ -1,0 +1,42 @@
+{
+  "app_id": "25224308387222894",
+  "package_name": "com.Nights.capujins",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Primal banana",
+  "rating_average": 3.6666666666667,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "949821381543968",
+      "score": 5,
+      "review_title": "Hi",
+      "review_description": "good game",
+      "date": 1766270580,
+      "review_helpful_count": 1,
+      "author_display_name": "Princiepooo",
+      "author_alias": "Princiepooo",
+      "developer_response": null
+    },
+    {
+      "id": "888813316939549",
+      "score": 1,
+      "review_title": "This game is slop",
+      "review_description": "This game was coded by ai and sucks",
+      "date": 1767651372,
+      "review_helpful_count": 0,
+      "author_display_name": "DjCyriss",
+      "author_alias": "DjCyriss",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T13:39:25Z"
+}

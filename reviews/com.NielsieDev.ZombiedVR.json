@@ -1,0 +1,59 @@
+{
+  "app_id": "5573614662718449",
+  "package_name": "com.NielsieDev.ZombiedVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Zombied VR",
+  "rating_average": 3.1666666666667,
+  "rating_count": 12,
+  "review_count": 12,
+  "reviews": [
+    {
+      "id": "633185212352945",
+      "score": 4,
+      "review_title": "Has potential",
+      "review_description": "While I installed this game while randomly scrolling through the rabbit hole known as app lab, I found it to be somewhat enjoyable. Despite the clunky controls, it could be a great game if executed properly. As I’m learning unity myself, I know how much of a pain gamedev is. I wish you luck in the future, I did enjoy playing this unironically.",
+      "date": 1698358357,
+      "review_helpful_count": 1,
+      "author_display_name": "Forter346",
+      "author_alias": "Forter346",
+      "developer_response": null
+    },
+    {
+      "id": "505412118405514",
+      "score": 3,
+      "review_title": "It's okay I guess",
+      "review_description": "I mean I like the way they added ragdoll physics but it seems kind of basic and pale but overall it's a okay game if you're going to play this game on your free time it's funny how the zombies look like they're straight from a website if you know what I mean AKA downloaded model but it's okay so if you're willing to play this game go ahead no one stopping you just be warned that's kind of a small project so don't think too much of it that's all I have to say.",
+      "date": 1674975584,
+      "review_helpful_count": 5,
+      "author_display_name": "Luigi1vr",
+      "author_alias": "Luigi1vr",
+      "developer_response": {
+        "body": "Hey there, thanks for your review!\nYeah, the ragdolls aren't that impressive yet, and models are indeed from Kenney most likely and the asset store, this is most likely so i can work more on the functionality of the game, but I'm slowly working on changing the models, for some more realistic zombies, and objects for maps too!",
+        "date": 1674986624
+      }
+    },
+    {
+      "id": "205803491971410",
+      "score": 3,
+      "review_title": "Controls are clumsy",
+      "review_description": "Not to bad but the controls are really clumsy and reaching for gun platforms puts you on top of the so you can’t reach the ammo or guns.",
+      "date": 1675379700,
+      "review_helpful_count": 2,
+      "author_display_name": "Zombiemaster76",
+      "author_alias": "Zombiemaster76",
+      "developer_response": {
+        "body": "Thanks for your feedback! I'm currently working on the platforms, they have a small collider issue I've noticed, I\"l try to make the controls less clumsy.",
+        "date": 1675432870
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T13:39:02Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "3857969797574952",
+  "package_name": "com.NextStopWilloughbyInc.Lyte",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Lyte Demo",
+  "rating_average": 3.2,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1919459998248290",
+      "score": 5,
+      "review_title": "Love it!",
+      "review_description": "Too bad it's just a demo. it's a sweet looking game. Very calm and peacefull. Super easy to play.",
+      "date": 1644078238,
+      "review_helpful_count": 0,
+      "author_display_name": "patrickdonoghue",
+      "author_alias": "patrickdonoghue",
+      "developer_response": null
+    },
+    {
+      "id": "187908189895760",
+      "score": 4,
+      "review_title": "Shows promise",
+      "review_description": "Although this game borrows a whole lot from Fujii, it has some unique elements that help it stand in its own feet.\n\nThe mechanics and puzzles are surprising and fun. I just wish the graphics were more detailed and polished.",
+      "date": 1622513286,
+      "review_helpful_count": 3,
+      "author_display_name": "ADLutz",
+      "author_alias": "ADLutz",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T13:37:30Z"
+}
