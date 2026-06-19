@@ -1,0 +1,503 @@
+{
+  "app_id": "9102003653244912",
+  "package_name": "com.Siedan.TableTennisTrainingSim",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Table Tennis Training Simulator(T3S)",
+  "rating_average": 4.744966442953,
+  "rating_count": 149,
+  "review_count": 39,
+  "reviews": [
+    {
+      "id": "1577536584377385",
+      "score": 5,
+      "review_title": "Fantastic – definitely buy it!",
+      "review_description": "You simply have to support such brilliant programmers! \n\nI play eleven Table Tennis every day and sometimes in real life. So I’m well placed to judge the quality of this game. \nThis game has incredibly good physics. All the well-known paddle adapters are supported, and you can start playing straight away without any major adjustments! \nThe AI player settings are incredibly varied, making for a very interesting and varied training experience. \n\nThere are also loads of training sessions that absolute beginners can complete to develop into a table tennis superstar! \n\nBut don’t worry, even very experienced table tennis pros can set the training sessions to be so challenging that they too can improve and get their money’s worth! \n\nAnd then, of course, there’s the multiplayer mode, where you can arrange to meet up in the game and play together, or challenge a random player who’s online to a casual match or a ranked game! \n\nI hope this game attracts lots of followers and fans who use it to train, make friends and practise together!",
+      "date": 1780089189,
+      "review_helpful_count": 3,
+      "author_display_name": "nugget_finder",
+      "author_alias": "nugget_finder",
+      "developer_response": null
+    },
+    {
+      "id": "1206499065871038",
+      "score": 4,
+      "review_title": "Good for single player training session",
+      "review_description": "It is seems really good in simulating real spin, speed and bounce. I found a strange behaviour with backhand topspin on backspin, i miss the ball a lot and the controller does not track well my movements. No issue with backhand topspin when the paddle Is in my line of sight. I dont experience this issue in other games and in real Life playing.",
+      "date": 1780221300,
+      "review_helpful_count": 0,
+      "author_display_name": "Ironros",
+      "author_alias": "Ironros",
+      "developer_response": {
+        "body": "It's most likely a loss of tracking, possibly related to your device or the racket adapter you're using",
+        "date": 1780954929
+      }
+    },
+    {
+      "id": "968078216396463",
+      "score": 5,
+      "review_title": "The most realistic table tennis game in",
+      "review_description": "The physics effects are very realistic, and all the training programs I want are included. After training in the game, I went to the court and found that my skills had improved. This game is very effective as a training framework. I hope that in future updates, custom racket appearances can be added and the hitting sound effects can be optimized.",
+      "date": 1773043738,
+      "review_helpful_count": 18,
+      "author_display_name": "spiral.2026",
+      "author_alias": "spiral.2026",
+      "developer_response": null
+    },
+    {
+      "id": "914439574624013",
+      "score": 5,
+      "review_title": "T3S - a better training tool",
+      "review_description": "I play both 11TT and T3S, but T3S works much better for me. As an amateur without formal coaching, I use it to fix bad habits, build muscle memory and correct form. The realistic feel and ball physics give me total confidence in my training in VR environment.\nRecently, I had a network issue in the online lobby, and the developer himself jumped in to help. He was incredibly kind and stayed with me until the issue was fully resolved. It's a great sim, backed by an even better developer.",
+      "date": 1773071425,
+      "review_helpful_count": 7,
+      "author_display_name": "kzx_39",
+      "author_alias": "kzx_39",
+      "developer_response": null
+    },
+    {
+      "id": "905435675797213",
+      "score": 3,
+      "review_title": "Good but hideous interface and poor gfx",
+      "review_description": "This game has a lot of potential and is growing but has too many shortfalls to be considered a serious contender for best TT game.\n\nThe graphics look like RecRoom....extremely basic shapes with no textures and terrible design. The colour schemes are not good and the game is obvioulsy designed by programmers and not UI focused people.\n\nEven though the graphics are simple it lacks sharpness and has a kind of strange in game atmosphere. Accessing menus is just horrible. It even wants you to skip through empty menus and wants to give you the same information every single time you do something. Sometimes you press a button to close things other time you click an X. It is an awful UI experience.\n\nThe net is super busy with spinning footballs and paddle information. It's all in short hand so you have no idea what any of it means anyway.\n\nThere are so many options and most of them are just not intuitive at all in what they do. You need to go to the Discord and figure it all out. This is not a quick start game by any means and requires a lot of patience just to get going.\n\nThere is even a prominent in game menu that allows you to change all the physics. Great if you're a power user maybe or some kind of professor is simulation theory, but not for the average user. Since they are standardised if you play online it seems utterly pointless anyway.\n\nThe online game is really bad right now. There are no direct connections so you play through a super slow high latency relay. 120FPS doesn't work online at all.\n\n11TT is way better looking with full 120FPS graphics so why a game with minimalist graphics can't run better is anyone's guess.",
+      "date": 1773858737,
+      "review_helpful_count": 3,
+      "author_display_name": "Eqvinox",
+      "author_alias": "Eqvinox",
+      "developer_response": null
+    },
+    {
+      "id": "1059866710539206",
+      "score": 5,
+      "review_title": "Very good VR table tennis",
+      "review_description": "T3S offers the most superior training simulation, enabling the practice of a diverse array of skills. With multiple AI training partners to choose from, it can better replicate real-world match conditions. By playing T3S, I've seen a steady improvement in my table tennis abilities. Additionally, engaging in online matches with fellow netizens adds a great deal of fun to the experience.",
+      "date": 1773044514,
+      "review_helpful_count": 3,
+      "author_display_name": "h1iew",
+      "author_alias": "h1iew",
+      "developer_response": null
+    },
+    {
+      "id": "897381793184545",
+      "score": 5,
+      "review_title": "The best VR table tennis game ever",
+      "review_description": "The most realistic table tennis simulation game. The settings for blades and rubbers achieve hitting and spin effects highly similar to real-life physics. You can efficiently practice and improve your skills, and even compete online against top players from around the world.",
+      "date": 1771382556,
+      "review_helpful_count": 4,
+      "author_display_name": "cdkopen",
+      "author_alias": "cdkopen",
+      "developer_response": null
+    },
+    {
+      "id": "963669303489075",
+      "score": 5,
+      "review_title": "Eleven Table Tennis vs. T3S",
+      "review_description": "The title might be misleading but it's important as some of you might be in the same situation as I was.\nI was playing 11TT for 2 years now, having tons of fun and acquired a decent skill. I am NOT playing in real life and not planning to do so, hence why I was sceptic at first and unsure if this would be something for me. \n\nIn 11TT I was missing some training to improve my skills. Ball machine was ok and also the AI but the AI was always playing similarly. In T3S you can train pretty much everything and the AI almost feels like you would be playing a human, that's very refreshing! \n\nThe physics is a bit different to 11TT but you can adapt to it in like half an hour and I can now play both 11TT and T3S without having to adapt every time, which was my biggest fear. \n\nAfter putting around 2h into T3S, I would indeed prefer 11TT to have the physics of T3S but I can't compare with real life though, so this might just be my personal choice. \n\nI will continue playing both games in parallel.",
+      "date": 1767124566,
+      "review_helpful_count": 27,
+      "author_display_name": "JackMayol",
+      "author_alias": "JackMayol",
+      "developer_response": null
+    },
+    {
+      "id": "1107212305818525",
+      "score": 1,
+      "review_title": "Early days",
+      "review_description": "I have played table tennis for a few years admitedly not to any great standard so when i saw the rave reviews of this game i thought great i,ll try it....very first impressions not good for me...i thought i,d try the ball machine to get the hang of it but sadly so far i cannot....all that happens is the ball gets hammered back to me and occasionally i manage to get it back...defence seems to be the object.",
+      "date": 1781702372,
+      "review_helpful_count": 0,
+      "author_display_name": "dodger.234950",
+      "author_alias": "dodger.234950",
+      "developer_response": {
+        "body": "You can try the missions section — beginners can practice step by step.",
+        "date": 1781744502
+      }
+    },
+    {
+      "id": "1062487813623180",
+      "score": 5,
+      "review_title": "a true training simulator",
+      "review_description": "If what u want is more than a game, this is exactly what ur choice. It has almost perfect physics system. It is hard,but it is real. The friction is so like that in real world,so the training in the simulator is helpful",
+      "date": 1773279766,
+      "review_helpful_count": 2,
+      "author_display_name": "reach334",
+      "author_alias": "reach334",
+      "developer_response": null
+    },
+    {
+      "id": "957164250600668",
+      "score": 5,
+      "review_title": "The best Table Tennis game",
+      "review_description": "I love the feel of this game. Shots feel penetrating and when you play a good player you can really feel the power of his shots unlike other games where all balls are kinda the same speed. In this game you can play the short game if you want to too.\nWonderful thing this is, I hope the multiplayer gets more lively.",
+      "date": 1771668281,
+      "review_helpful_count": 1,
+      "author_display_name": "Libal44",
+      "author_alias": "Libal44",
+      "developer_response": null
+    },
+    {
+      "id": "998425533362053",
+      "score": 5,
+      "review_title": "very good",
+      "review_description": "It's amazing! It's a really great training game, and it keeps getting better with every update.",
+      "date": 1773049953,
+      "review_helpful_count": 3,
+      "author_display_name": "miku3250",
+      "author_alias": "miku3250",
+      "developer_response": null
+    },
+    {
+      "id": "853136621226735",
+      "score": 4,
+      "review_title": "Most useful for serve return training",
+      "review_description": "Close to 11TT physical engine, the best part for me is the Serve return trainings where you can see the paddle movement so you can judge what serve it is, much better than a ball machine. The other better part than 11TT is the AI counterpart play like a real player which can help improve game skills a lot. One thing I don’t like is the table,  ball bouncing on it like on a iron table found in outdoor parks, quite different than a regular tournament table.",
+      "date": 1767060286,
+      "review_helpful_count": 8,
+      "author_display_name": "Kenthemaster",
+      "author_alias": "Kenthemaster",
+      "developer_response": null
+    },
+    {
+      "id": "773138285860563",
+      "score": 5,
+      "review_title": "t3s is very, very good！",
+      "review_description": "T3s is a great game! Real physics, rich gameplay, convenient operation, powerful online communication system, can meet all your table tennis needs!",
+      "date": 1771382365,
+      "review_helpful_count": 2,
+      "author_display_name": "Chengtg",
+      "author_alias": "Chengtg",
+      "developer_response": null
+    },
+    {
+      "id": "892233793468229",
+      "score": 5,
+      "review_title": "Most realistic VR table tennis",
+      "review_description": "The most realistic VR table tennis. And, it is getting better and better after each update. Save me $$$$ for coaching. Very useful for improving the TT skill in real life.",
+      "date": 1764593734,
+      "review_helpful_count": 10,
+      "author_display_name": "c1earwater",
+      "author_alias": "c1earwater",
+      "developer_response": null
+    },
+    {
+      "id": "918151731378118",
+      "score": 4,
+      "review_title": "Background noise distracting",
+      "review_description": "It's good so far, but the incessant ball and paddle sounds coming from another table while I'm trying to train is wildly distracting. I'm sure this is probably done to simulate a club or practice environment, but it's really annoying and makes it hard for me to concentrate as a beginner. \n\nAlso, it's sometimes unclear exactly what counts as a hit that counts, I was pretty confused at times.",
+      "date": 1765302826,
+      "review_helpful_count": 2,
+      "author_display_name": "Bowlingman88",
+      "author_alias": "Bowlingman88",
+      "developer_response": {
+        "body": "You can use the grip button on your controller to pinch and close the sound in the menu at the edge of the table (the game's help button has this information), or you can switch to a different environment. The scoring rules for mission stages are explained in the prompts.",
+        "date": 1765335800
+      }
+    },
+    {
+      "id": "985054041352748",
+      "score": 5,
+      "review_title": "Nice",
+      "review_description": "Nice",
+      "date": 1768582764,
+      "review_helpful_count": 0,
+      "author_display_name": "hhj123456",
+      "author_alias": "hhj123456",
+      "developer_response": null
+    },
+    {
+      "id": "865194416674785",
+      "score": 5,
+      "review_title": "Great practice",
+      "review_description": "This is the best table tennis simulator for practicing your skills.",
+      "date": 1762709202,
+      "review_helpful_count": 3,
+      "author_display_name": "sf.848713",
+      "author_alias": "sf.848713",
+      "developer_response": null
+    },
+    {
+      "id": "848184664287663",
+      "score": 5,
+      "review_title": "unadulterated surprise, love it",
+      "review_description": "I have been playing table tennis on Quest for almost 4 years. T3S has given me a pleasant surprise, with a more delicate touch (even a sense of \"weight\"), more racket parameter settings, and more and more interesting gameplay. It's a very good tt game, highly recommended!\n\nBTW: The action replay function is awesome, I never realized that my serve was so hard to return!  ￣▽￣",
+      "date": 1753337659,
+      "review_helpful_count": 27,
+      "author_display_name": "gary_miller",
+      "author_alias": "gary_miller",
+      "developer_response": null
+    },
+    {
+      "id": "712910631912847",
+      "score": 5,
+      "review_title": "Very good",
+      "review_description": "Although I first started with tt11, which is also very good, with great multiplayer, I must say that after trying TT simulator, I am playing it exclusively.\nObviously, not for multiplayer, but since i prefer training only in VR, and playing in real life, I use it for training.\nMain advantage is that on exercises it shows opponent racket motion, and physics is great too.\nUser interface is not very clear (changing ball place and similar), but many possibilities to practice against offensive, defensive player, yourself, and so on.",
+      "date": 1754743908,
+      "review_helpful_count": 11,
+      "author_display_name": "andreja16",
+      "author_alias": "andreja16",
+      "developer_response": null
+    },
+    {
+      "id": "793059963057604",
+      "score": 5,
+      "review_title": "Great table tennis training tool",
+      "review_description": "I’ve been using this app just a few weeks and already I am beating people IRL that I usually lose to.   You can  truly play proper shots, top spins, loops etc  and they translates seamlessly to real life play. I have only played the tip of the ice berg of all the training drills available,  It’s amazing. 👍😁",
+      "date": 1754429684,
+      "review_helpful_count": 5,
+      "author_display_name": "TheBlackRabbitx",
+      "author_alias": "TheBlackRabbitx",
+      "developer_response": null
+    },
+    {
+      "id": "1271937831358606",
+      "score": 5,
+      "review_title": "PONGORI ADAPTADOR PAD 500",
+      "review_description": "Please enable the PONGORI adapter for Q2\nLEFT HANDLE.\n. Thank you.",
+      "date": 1761218770,
+      "review_helpful_count": 0,
+      "author_display_name": "PEPINHOVR",
+      "author_alias": "PEPINHOVR",
+      "developer_response": null
+    },
+    {
+      "id": "1405515067373784",
+      "score": 5,
+      "review_title": "A lot of fun to play",
+      "review_description": "I've had lots of fun playing T3S so far. The challenges, made me work hard to get stars. The AI seems very realistic, so many different serves. The fast serve, still gets me every time, hope I can master it one day. The higher levels of AI, are insane, I'm never going to find it too easy. The settings let me fine tune everything. Looking forward to the multiplayer update.",
+      "date": 1752503045,
+      "review_helpful_count": 5,
+      "author_display_name": "Way_Out_West",
+      "author_alias": "Way_Out_West",
+      "developer_response": {
+        "body": "Thank you for your kind review! T3S has always been striving for physical realism, and we hope T3S can become a training tool for table tennis enthusiasts.The multiplayer mode will be available soon! Welcome to join our community: https://discord.gg/2Kc2BxSxYp.",
+        "date": 1752712628
+      }
+    },
+    {
+      "id": "1371207830766360",
+      "score": 5,
+      "review_title": "An Ode to Table Tennis",
+      "review_description": "With fantastic features like realistic physics, individual technique training tasks, human recorded AI motions, paddle config screen where you can specify blade/rubber/sponge properties, ball machine but done by AI robot instead of a machine, it's obvious that T3S is made by people who have deep understanding and passion for table tennis as a sport.\n\nIt has built-in support for good/popular adapters like SolidSlime and Bonwasyl.\n\nThe game takes a lot of good community feedback and is still being developed on. I am currently using it to fix my technique weaknesses and then go to other games to \"climb the ladder\". The adaptation is not very difficult. \n\nHighly recommended.",
+      "date": 1747746308,
+      "review_helpful_count": 47,
+      "author_display_name": "SolidSlime",
+      "author_alias": "SolidSlime",
+      "developer_response": {
+        "body": "Thank you for your review! T3S is dedicated to all who truly love table tennis.",
+        "date": 1752715232
+      }
+    },
+    {
+      "id": "732995633226471",
+      "score": 5,
+      "review_title": "Must have for table tennis enthusiasts!",
+      "review_description": "This game takes simulation of a sport to another level! You can actually use this game to improve your IRL skills if you get an adapter with the proper weight it really feels like playing the real thing! Hats off to the developers! Congratulations on this huge achievement! 🏓👍",
+      "date": 1752528029,
+      "review_helpful_count": 4,
+      "author_display_name": "ghostofsakai",
+      "author_alias": "ghostofsakai",
+      "developer_response": {
+        "body": "Thank you for your kind words! T3S has always been striving for physical realism, and we hope T3S can become a training tool for table tennis enthusiasts. Welcome to join our community: https://discord.gg/2Kc2BxSxYp.",
+        "date": 1752712552
+      }
+    },
+    {
+      "id": "1227467565743223",
+      "score": 5,
+      "review_title": "Top Table Tennis Training",
+      "review_description": "It is a top training simulator. My next target is to have same paddle settings like in Eleven TT. Both games make sense. For effective technic training I prefer this game. For a variable training and multiplayer I use Eleven TT. Both are 80% comparable with my real table tennis experience. Only a short time is necessary to  change from one to an other. Table Tennis every time when I want without asking anybody. A dream!",
+      "date": 1751903273,
+      "review_helpful_count": 9,
+      "author_display_name": "Talisker42",
+      "author_alias": "Talisker42",
+      "developer_response": {
+        "body": "Thank you for your review and recognition. You can determine your racket's parameters through the ball-climbing test and rebound height test. In T3S, the simulation of the racket's blade and rubber are handled separately—you can customize the blade's type and material, the rubber's type, sponge thickness, sponge hardness, and the level of built-in tension.\n\nThese physics simulations took us a tremendous amount of effort, as we aimed to model them based on the real-life physics of table tennis rackets. While the setup process might seem a bit involved, once you find the right parameters that match your real-life racket, you'll notice that the in-game feel becomes incredibly close to reality. Our community can be found at https://discord.gg/2Kc2BxSxYp.",
+        "date": 1752713057
+      }
+    },
+    {
+      "id": "701534046371289",
+      "score": 4,
+      "review_title": "An excellent personal coach",
+      "review_description": "T3S offers a wide range of drills and other ways to refine your table tennis skills. Earning stars makes the training fun, and the reaction-based drills — where you respond to specific types of balls using touch and feel — are valuable for IRL play.\n\nThe paddle can be customized down to the smallest detail.\n\nI’d point out a few issues: tracking problems, the missing paddle templates (e.g. Pongori Pad 500), and limited menu options (like turning off the music or calibrating table height), but hopefully these will be addressed in future updates.",
+      "date": 1750231529,
+      "review_helpful_count": 7,
+      "author_display_name": "gaff.cz",
+      "author_alias": "gaff.cz",
+      "developer_response": {
+        "body": "Press and hold the Grip button (middle finger button) on the paddle handle, then tap the music icon on the edge of the table or use the left/right toggle buttons to switch tracks.",
+        "date": 1750254219
+      }
+    },
+    {
+      "id": "1302996044593346",
+      "score": 5,
+      "review_title": "Great!",
+      "review_description": "So, installed it like an hour ago, so far: great physics, nice and clear interface lots of possible games to play (that I hadn't time to check out all of them). So far it feels, looks and plays really great! I am a IRL club player and can tell you, it takes a good technique to loop underpin and that is very satisfying! Also, compared to 11 it feels a bit faster (even compared to the new physics, which are also a lot better. Conclusion for the price you shouldn't think twice! I already love it! Oh, and my adapter(SoSliV2) also works!",
+      "date": 1747665812,
+      "review_helpful_count": 22,
+      "author_display_name": "KevinSchwarz",
+      "author_alias": "KevinSchwarz",
+      "developer_response": {
+        "body": "Thank you for your review! Hope it helps improve your real-life table tennis skills.Our community can be found at https://discord.gg/2Kc2BxSxYp.",
+        "date": 1752714878
+      }
+    },
+    {
+      "id": "638304029375393",
+      "score": 5,
+      "review_title": "INCREDIBLE!",
+      "review_description": "I have been the beta tester of this amazing Table Tennis Training Simulator (T3S) since day 0. Even in the beta days, the game looked very sharp. Now, it has been released, and it is even sharper.\n\nThe game has the most realistic physics among the other VR Table Tennis games. Additionally, the game physics can be adjusted in the settings.\n\nThe game provides various types of training: \n1. A serve training - you can immediately observe your serve and see the ball speed and spins.\n2. A serve receiving training - the game provides various types of serves. You can also watch in the REPLAY mode how you received the serve.\n3. Topspin/backspin/loop to loop/ training - the AI companion will help you to develop the ball exchanging skills through its various types: Attacker (has 3 blade types), Defender (has 2 types, short and long pips if I am not mistaken).\n4. AI rally - very challenging mode. Personally, the offensive+ and chopper are challenging for me.\n5. Tasks is a very interesting and fun mode. It can also be very challenging sometimes. It contains basic and advanced tasks.\n\nThe developers are very passionate about their game and keep improving it. Soon, they are planning to improve the game and port the existing multiplayer feature from the other platform.\n\nTo summarize, the game has a vast number of features that couldn't fit in one review. In my opinion, 15$ is ridiculous for such an amazing game. Well done!\n\nLastly, INCREDIBLE!",
+      "date": 1747721507,
+      "review_helpful_count": 20,
+      "author_display_name": "54m47",
+      "author_alias": "54m47",
+      "developer_response": {
+        "body": "Thank you for your review! T3S is dedicated to all who truly love table tennis.",
+        "date": 1752715329
+      }
+    },
+    {
+      "id": "650503938147775",
+      "score": 5,
+      "review_title": "Huge step forward for VR table tennis!",
+      "review_description": "This game is a huge step forward for VR table tennis, it raises the bar and brings real competition to the space. ETT might be more polished and have solid multiplayer, but when it comes to drills and FUN engaging training, this is just on another level. I had fun discovering my consistency is absolutely terrible yesterday. \n\nI really like the gamification of the drills. They are extremely well designed and I was honestly blown away by many of them. The drill to first generate a serve with enough spin and then practice returning it yourself is just so clever!",
+      "date": 1747758230,
+      "review_helpful_count": 15,
+      "author_display_name": "juukas",
+      "author_alias": "juukas",
+      "developer_response": {
+        "body": "Thank you for your high praise! We're thrilled that everyone can improve their table tennis skills through T3S training!",
+        "date": 1752724846
+      }
+    },
+    {
+      "id": "716264311456632",
+      "score": 5,
+      "review_title": "",
+      "review_description": "I love it - and I'm just a beginner",
+      "date": 1756665278,
+      "review_helpful_count": 1,
+      "author_display_name": "wiredplug",
+      "author_alias": "wiredplug",
+      "developer_response": null
+    },
+    {
+      "id": "680666308458360",
+      "score": 5,
+      "review_title": "Unique coaching possibility",
+      "review_description": "This app has prerecorded demos where you see the correct racket movements of the receiving  player for exactly the same drill that you're about to practice. Now with these demos, If you want to learn how to receive e.g. a pendulum serve, you let the demo play and you step into the position of the receiving  player so that you see his racket almost as if it was you yourself playing. In this position you can copy the correct racket movements by following them with your own racket and this feels as if you 'crept into the skin of a coach' (or perhaps vice versa) and you repeat this until you notice that the movement comfortably sinks in. Then you try the drill  yourself and if some of your shots fail somehow, you repeat the demo as descibed above and then try the drill again. I noticed that this cycle produces correct shots in the shortest possible amount time. Could you think of any coach training you this intimately ? If you find yourself struggeling with a specific shot and you want to single that one out for practice, then hold the grip button on the ball controller and choose an A-B interval so, that you now only have the difficult shot repeated. Have fun !",
+      "date": 1748207691,
+      "review_helpful_count": 6,
+      "author_display_name": "Camff",
+      "author_alias": "Camff",
+      "developer_response": {
+        "body": "Your command of T3S is amazing! The system's tools, when used properly (like for serve and receive practice), can dramatically accelerate your skill development!Our community can be found at https://discord.gg/2Kc2BxSxYp.",
+        "date": 1752714103
+      }
+    },
+    {
+      "id": "1195299048734405",
+      "score": 5,
+      "review_title": "Promising.... Will be even better",
+      "review_description": "Great ball physics and lots of challenging exercises. The developers are constantly improving the game. I'm already looking forward to multiplayer when it's implemented soon. Keep up the great work!",
+      "date": 1747722353,
+      "review_helpful_count": 12,
+      "author_display_name": "bonsaizocker",
+      "author_alias": "bonsaizocker",
+      "developer_response": {
+        "body": "Thanks for your review！",
+        "date": 1752718147
+      }
+    },
+    {
+      "id": "637725512762061",
+      "score": 5,
+      "review_title": "A magnificent training tool",
+      "review_description": "From the moment you start the app you can see the target and the point of it. It doesn't have \"flair\", same way a table tennis robot wouldn't, but that's expected. Instead, you get all the tools you need to improve your table tennis skills IRL.\n\nIt's not coming to substitute 11TT, but to my mind it's a perfect complement.\n\nDevs listen actively in discord for bugs and possible improvements.",
+      "date": 1748113943,
+      "review_helpful_count": 6,
+      "author_display_name": "elhorian",
+      "author_alias": "elhorian",
+      "developer_response": {
+        "body": "Thank you for your thoughtful review! Your understanding of T3S is remarkably profound. While there are numerous table tennis games on the market today, most lack professional training tools. We created T3S specifically to help table tennis enthusiasts elevate their skills to the next level.",
+        "date": 1752714318
+      }
+    },
+    {
+      "id": "731370550051898",
+      "score": 5,
+      "review_title": "Good job!!!",
+      "review_description": "I really like this T3s so much！！！",
+      "date": 1751640239,
+      "review_helpful_count": 3,
+      "author_display_name": "jasonge888",
+      "author_alias": "jasonge888",
+      "developer_response": {
+        "body": "Thank you for your review and recognition.Wishing you success in improving your table tennis skills! Our community can be found at https://discord.gg/2Kc2BxSxYp.",
+        "date": 1752713129
+      }
+    },
+    {
+      "id": "650178874847539",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Great game, many training modes.\nImpressive physics.\nLet's see how will be the multiplayer mode.\nStrong support from the team over discord.\n\nFrom an RL table tennis player and coach.",
+      "date": 1748280316,
+      "review_helpful_count": 4,
+      "author_display_name": "Davidcz1",
+      "author_alias": "Davidcz1",
+      "developer_response": {
+        "body": "Thank you for your review! T3S is dedicated to all who truly love table tennis.",
+        "date": 1752718524
+      }
+    },
+    {
+      "id": "659252587273876",
+      "score": 5,
+      "review_title": "Great game！",
+      "review_description": "The game is set to revolutionize the training methods of amateur table tennis enthusiasts, thereby significantly enhancing the skill level of table tennis enthusiasts.",
+      "date": 1748061988,
+      "review_helpful_count": 4,
+      "author_display_name": "whyakid",
+      "author_alias": "whyakid",
+      "developer_response": {
+        "body": "Thank you for your review and recognition.Competition alone won't elevate your table tennis skills! The optimal ratio is at least 50% dedicated training and 50% match play. Only through disciplined training can you develop correct muscle memory to perform at your peak during competitions.",
+        "date": 1752714529
+      }
+    },
+    {
+      "id": "722097694311929",
+      "score": 5,
+      "review_title": "非常棒",
+      "review_description": "非常棒乒乓模拟器，使我每日练乒乓",
+      "date": 1747821111,
+      "review_helpful_count": 6,
+      "author_display_name": "bds2440w",
+      "author_alias": "bds2440w",
+      "developer_response": {
+        "body": "感谢你的评价！我的微信taoweijiong，欢迎加入我们的社区",
+        "date": 1752714763
+      }
+    },
+    {
+      "id": "737826752073449",
+      "score": 5,
+      "review_title": "Simulator we wanted all this time",
+      "review_description": "Great physics, lots of settings toggle. Nice AI and challenges. I am waiting for online multiplayer mode, this will make this game even better",
+      "date": 1751055502,
+      "review_helpful_count": 2,
+      "author_display_name": "kosmos_tayn",
+      "author_alias": "kosmos_tayn",
+      "developer_response": null
+    }
+  ],
+  "total": 39,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-19T16:46:44Z"
+}

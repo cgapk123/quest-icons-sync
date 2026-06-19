@@ -1,0 +1,42 @@
+{
+  "app_id": "6263921363703032",
+  "package_name": "com.Simli.SimliHub",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Simli VR",
+  "rating_average": 1,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "596557573551275",
+      "score": 1,
+      "review_title": "Bad",
+      "review_description": "It wouldn’t send me the email",
+      "date": 1748367319,
+      "review_helpful_count": 0,
+      "author_display_name": "Wisedrake",
+      "author_alias": "Wisedrake",
+      "developer_response": null
+    },
+    {
+      "id": "414041698454165",
+      "score": 1,
+      "review_title": "Can’t play",
+      "review_description": "It asks for a code and says it was emailed to me and I never gotten a code so had to uninstall it because you can’t do anything without a code.",
+      "date": 1723590281,
+      "review_helpful_count": 1,
+      "author_display_name": "Ashdigit",
+      "author_alias": "Ashdigit",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T16:48:42Z"
+}
