@@ -1,0 +1,56 @@
+{
+  "app_id": "4060061930708435",
+  "package_name": "com.ThunderCorp.MonsterJunctionVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Monster Junction",
+  "rating_average": 3.5,
+  "rating_count": 4,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "247705710594904",
+      "score": 5,
+      "review_title": "Awesome experience, immersive and fun!",
+      "review_description": "Delightful surprise. Recommended !",
+      "date": 1631622083,
+      "review_helpful_count": 3,
+      "author_display_name": "Gabrieli4",
+      "author_alias": "Gabrieli4",
+      "developer_response": null
+    },
+    {
+      "id": "203556648411101",
+      "score": 5,
+      "review_title": "Excellent game!",
+      "review_description": "This is becoming my favorite game on quest! Very immersive, fast and heart pumping! This game puts you in the center of the action, where you fight monsters to survive by using multiple weapons and also throwing all sorts of objects at them. My favorite part is the satisfying sound they make when they pop, a nice crunchy sound. I also love how this game uses great combat physics with all sorts of items like logs, stones and even coconuts. Super fun to play!",
+      "date": 1631844690,
+      "review_helpful_count": 3,
+      "author_display_name": "thundersam",
+      "author_alias": "thundersam",
+      "developer_response": null
+    },
+    {
+      "id": "116337197508032",
+      "score": 2,
+      "review_title": "Buggy demo. Still beta.",
+      "review_description": "Couldn’t even get past the tutorial as the game is buggy. My hand keeps getting stuck on the Back or Next buttons. \nPlease test with beta testers",
+      "date": 1636125821,
+      "review_helpful_count": 1,
+      "author_display_name": "huymetta",
+      "author_alias": "huymetta",
+      "developer_response": {
+        "body": "Sorry you were having trouble, the app was extensively tested with over 20 beta testers with no issues. Can you share a video of your issue? are your controllers fully charged? that sometimes causes weird hand issues when the batteries are very low.",
+        "date": 1636655753
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:54:46Z"
+}

@@ -1,0 +1,725 @@
+{
+  "app_id": "1642239225880682",
+  "package_name": "com.ToastVR.RichiesPlankExperience",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Richie's Plank Experience",
+  "rating_average": 3.755042462845,
+  "rating_count": 3768,
+  "review_count": 2189,
+  "reviews": [
+    {
+      "id": "974604965740719",
+      "score": 2,
+      "review_title": "Issue with add-on",
+      "review_description": "I purchased the Canyon’s Edge add-on a while back and played with no issues. Today when I tried to push the button for it, it said that it had to be purchased and gave this message ‘Visit Developer dashboard and enable the add on the date use check up’\nPlease get it sorted",
+      "date": 1775207410,
+      "review_helpful_count": 13,
+      "author_display_name": "Shaz1408",
+      "author_alias": "Shaz1408",
+      "developer_response": null
+    },
+    {
+      "id": "2741173899570204",
+      "score": 4,
+      "review_title": "Add-on not working – Data Use Checkup no",
+      "review_description": "Hello,\nI purchased your add-on  ( Canyon's Edgeand ) it was working normally before.\nToday it stopped working and I receive this error message:\n“Add-on Data Use Checkup is not enabled.”\nIt seems that the Data Use Checkup is not enabled for this add-on in the developer dashboard.\nCould you please check this and enable it so the add-on works again?\nThank you for your support.\nBest regards,\nTarek",
+      "date": 1766773842,
+      "review_helpful_count": 9,
+      "author_display_name": "tarek.ramadan.9085",
+      "author_alias": "tarek.ramadan.9085",
+      "developer_response": null
+    },
+    {
+      "id": "848921381290284",
+      "score": 3,
+      "review_title": "To expensive",
+      "review_description": "11 pound is very expensive for a game were you walk out on a cliff. Sure its not just that there's a few game modes like stop the nukes and stuff and a few spider levels but it gets boring after 5 min. If we weren't thinking abt the price and this game was mabey 5 pound then it would be 5 start for sure",
+      "date": 1768767467,
+      "review_helpful_count": 3,
+      "author_display_name": "Dandelionfluff",
+      "author_alias": "Dandelionfluff",
+      "developer_response": null
+    },
+    {
+      "id": "1265758138797867",
+      "score": 1,
+      "review_title": "Plank game",
+      "review_description": "Bought the add on and now it won’t work, money back or fix this shocking",
+      "date": 1771083078,
+      "review_helpful_count": 4,
+      "author_display_name": "sPeddr0w",
+      "author_alias": "sPeddr0w",
+      "developer_response": null
+    },
+    {
+      "id": "874036895225530",
+      "score": 5,
+      "review_title": "decent game",
+      "review_description": "its a good game and i had a lot of fun but for everything it includes don't think it should be 15$ maybe 10 pe 5 would be more worth it",
+      "date": 1768430763,
+      "review_helpful_count": 1,
+      "author_display_name": "disweef",
+      "author_alias": "disweef",
+      "developer_response": null
+    },
+    {
+      "id": "916959901502680",
+      "score": 5,
+      "review_title": "Abt the game",
+      "review_description": "5 stars of course, one of my first games ever and it is so fun for the people that are new to vr. Probably one of my fav things when I get someone new to walk the plank 🤣.",
+      "date": 1765734271,
+      "review_helpful_count": 2,
+      "author_display_name": "Linkshane",
+      "author_alias": "Linkshane",
+      "developer_response": null
+    },
+    {
+      "id": "1237745674837476",
+      "score": 3,
+      "review_title": "Meh",
+      "review_description": "Its... Well ok, why you ask. 1. this was prob made in 2020 (5 yrs ago) also why its off the store. 2. Im not scared of hights, Well. I am but I know this isn't real so its not fun. 3. Ummmm..... Ok there's nothing else to say",
+      "date": 1765588133,
+      "review_helpful_count": 1,
+      "author_display_name": "PirateFamily",
+      "author_alias": "PirateFamily",
+      "developer_response": null
+    },
+    {
+      "id": "660551940459171",
+      "score": 4,
+      "review_title": "Great Game,  but ...",
+      "review_description": "I love Richie's Walk The Plank, it's a great game / experience, however the last couple of times after scanning in the plank, we've noticed that when arriving on the top floor, the plank is not always correctly aligned which can be annoying. When it works it's an amazing experience. Developers I'll change my rating to 5 stars if you can fix this issue for me, I have this on two headsets, and it's the same issue on both",
+      "date": 1759944846,
+      "review_helpful_count": 4,
+      "author_display_name": "BlackRealms",
+      "author_alias": "BlackRealms",
+      "developer_response": null
+    },
+    {
+      "id": "852054654262292",
+      "score": 4,
+      "review_title": "Great Santa add on",
+      "review_description": "5 Great short work out holiday add on  but only works on Quest Two.",
+      "date": 1767037790,
+      "review_helpful_count": 1,
+      "author_display_name": "novice.73067",
+      "author_alias": "novice.73067",
+      "developer_response": null
+    },
+    {
+      "id": "891021117428107",
+      "score": 5,
+      "review_title": "OG Classic",
+      "review_description": "This is the original.  Meta - bring this dev back please!!!",
+      "date": 1763014279,
+      "review_helpful_count": 4,
+      "author_display_name": "sirjuxtable",
+      "author_alias": "sirjuxtable",
+      "developer_response": null
+    },
+    {
+      "id": "909798048874563",
+      "score": 1,
+      "review_title": "sukz",
+      "review_description": "game sukz",
+      "date": 1763500829,
+      "review_helpful_count": 2,
+      "author_display_name": "ChemicalWizard",
+      "author_alias": "ChemicalWizard",
+      "developer_response": null
+    },
+    {
+      "id": "789737334230360",
+      "score": 5,
+      "review_title": "Perfect",
+      "review_description": "fun, almost cried when meta took it out the stores",
+      "date": 1761419434,
+      "review_helpful_count": 4,
+      "author_display_name": "moonwatcher6790",
+      "author_alias": "moonwatcher6790",
+      "developer_response": null
+    },
+    {
+      "id": "1456836318871587",
+      "score": 4,
+      "review_title": "Good intro game but severely outdated",
+      "review_description": "Game is good to show off VR but after that you’ll never use it again",
+      "date": 1758435430,
+      "review_helpful_count": 5,
+      "author_display_name": "CMCosMic",
+      "author_alias": "CMCosMic",
+      "developer_response": null
+    },
+    {
+      "id": "816831764841081",
+      "score": 2,
+      "review_title": "6-7",
+      "review_description": "They need to add a little more to the game not just jumping of a plank and a couple of other things.",
+      "date": 1757570221,
+      "review_helpful_count": 2,
+      "author_display_name": "Boomboy4",
+      "author_alias": "Boomboy4",
+      "developer_response": null
+    },
+    {
+      "id": "746384331495467",
+      "score": 5,
+      "review_title": "Great introduction party game for VR!",
+      "review_description": "One of my first games/experiences I use to show off how this can make you feel!",
+      "date": 1755970546,
+      "review_helpful_count": 3,
+      "author_display_name": "VR_Hex",
+      "author_alias": "VR_Hex",
+      "developer_response": null
+    },
+    {
+      "id": "604579792737625",
+      "score": 2,
+      "review_title": "Good but not worth 15 dollars",
+      "review_description": "I heard it was a good experience and by the price I thought it would be a good fun experience but we'll I bought it played it for a few hours then forgot it a month later so I can't get refund so I'm kinda mad that I was a fool and didn't get a refund",
+      "date": 1742342191,
+      "review_helpful_count": 23,
+      "author_display_name": "hostage_eduardo",
+      "author_alias": "hostage_eduardo",
+      "developer_response": null
+    },
+    {
+      "id": "1043071440984764",
+      "score": 3,
+      "review_title": "Not my best day.",
+      "review_description": "2 teeth gone, ambulance ride and a busted up face.  \nI’ve never let it get in my head before, not this time.   \n\nThis will cost me so much money after Er and dentist appointments.",
+      "date": 1742670853,
+      "review_helpful_count": 3,
+      "author_display_name": "Hellokitty2",
+      "author_alias": "Hellokitty2",
+      "developer_response": null
+    },
+    {
+      "id": "612331595286292",
+      "score": 4,
+      "review_title": "Great experience BUT!",
+      "review_description": "Very fun for anyone new to VR. It's best to use a real board in space of course. I liked the minor graphics improvements; better car wheels, new more realistic textures on spiders, which are now really scary, the Santa mode is nicely reworked... BUT it would be really great if the game engine allowed such improvements, so that the graphics were adequate to what Quest 3 can do in 2025. The game still looks quite outdated graphically and the PCVR version from 2016 was completely different, see the comparison videos on youtube. Still missing more detailed textures in the elevator, on the vehicles, missing trees and greenery in the park, the fire is displayed in a very basic way, the skybox image corresponds to Quest 1 or 2, the textures of the surrounding hills are of tragic quality, etc.",
+      "date": 1739827343,
+      "review_helpful_count": 2,
+      "author_display_name": "Mr.Lecher",
+      "author_alias": "Mr.Lecher",
+      "developer_response": null
+    },
+    {
+      "id": "524869730719820",
+      "score": 3,
+      "review_title": "Update",
+      "review_description": "I don’t understand it but there is a good part about it that is the jetpack",
+      "date": 1741708677,
+      "review_helpful_count": 4,
+      "author_display_name": "arloceltic",
+      "author_alias": "arloceltic",
+      "developer_response": null
+    },
+    {
+      "id": "4102272893329918",
+      "score": 5,
+      "review_title": "I credible, one of my first vr games!",
+      "review_description": "Just the best, don't fall for a fake only original!",
+      "date": 1741374422,
+      "review_helpful_count": 2,
+      "author_display_name": "OutlawViking",
+      "author_alias": "OutlawViking",
+      "developer_response": null
+    },
+    {
+      "id": "586064257924034",
+      "score": 5,
+      "review_title": "Content intense is spot on!",
+      "review_description": "Awesome experience! Game is fun and intense. I fall off on purpose..lol. also fun to showoff too family n friends. Soooo funny to watch! Good job!",
+      "date": 1739450564,
+      "review_helpful_count": 2,
+      "author_display_name": "EAGLE069",
+      "author_alias": "EAGLE069",
+      "developer_response": {
+        "body": "Hey Eagle, thanks so much for playing Richie's Plank Experience and for the great review!\n\nWe definitely agree, watching family and friends is definitely one of the highlights. Seeing new players react to walking the plank never gets old! Especially if they've never tried VR before.\n\nWe've got more updates on the way, so be sure to keep an eye out and check out our socials for news on what's coming to Richie's Plank Experience.",
+        "date": 1739429551
+      }
+    },
+    {
+      "id": "1090455552572049",
+      "score": 5,
+      "review_title": "Love this experience",
+      "review_description": "Everything about this game is amazing, I wish the christmas theme would be up all year,but love christmas so much and it would be nice to go back into, even in the summer, it is just very joyfully.  Great job with this, and Max Mustard is also amazing.",
+      "date": 1732910000,
+      "review_helpful_count": 48,
+      "author_display_name": "kermie78",
+      "author_alias": "kermie78",
+      "developer_response": {
+        "body": "Thanks so much for your wonderful review, Kermie! 😄\n\nWe're delighted to hear how much you enjoy the Holiday Update - we're happy to say that the new Santa Simulator should be around for much longer so you can keep playing even outside the holiday season!\n\nIf you would like to chat with the team and other fans, we'd love to see you over on our Discord server: discord.gg/DQqK59B4Nv\n\nWe really appreciate you taking the time to leave a great review.",
+        "date": 1733188996
+      }
+    },
+    {
+      "id": "618843944379969",
+      "score": 5,
+      "review_title": "Awesome Game",
+      "review_description": "Such a fun game! Love it great studio",
+      "date": 1741250724,
+      "review_helpful_count": 2,
+      "author_display_name": "TomPlayzVR",
+      "author_alias": "TomPlayzVR",
+      "developer_response": null
+    },
+    {
+      "id": "602090476311827",
+      "score": 1,
+      "review_title": "",
+      "review_description": "This game is not scary!",
+      "date": 1740134828,
+      "review_helpful_count": 2,
+      "author_display_name": "Vovka74858835",
+      "author_alias": "Vovka74858835",
+      "developer_response": null
+    },
+    {
+      "id": "600469256476777",
+      "score": 1,
+      "review_title": "crash",
+      "review_description": "why is it easily crash in quest 3, fix it, i dont pay for ts",
+      "date": 1740748833,
+      "review_helpful_count": 0,
+      "author_display_name": "haritsnaufaldin",
+      "author_alias": "haritsnaufaldin",
+      "developer_response": null
+    },
+    {
+      "id": "1336730917688126",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Update:\n\nThis game is garbage. All these years he should have become superb. And it continues to cost dearly. Its value does not exceed €5. \n\nThe textures are poor, the graphic details are neglected. The wheels of the parked car and the headlights are without translucent reflections. The street lamps look like textures with PS1 polygon models, the fans are off scale, the air conditioners are ugly, the placement of the wind turbine blades is terrible, the surroundings of the city are horrible, not to mention the city limits. \n\nIt would be necessary to redesign the entire scenario from scratch and improve all the team's technical skills to create a truly excellent graphic experience on Quest 3 which is possible with the right skills and will, this app has just been lucky but technically it's worth very little, just a little above what could be a demo game developed by an indie team.\n\nAh, I forgot the horrible Maori statue in the little square! And the helicopter has gotten worse in its animation in the last few updates, or am I wrong?\nThe colors are also not as good as they should be.\n\nI reinstall it with every new update only to be disappointed! And of course I delete it immediately.\n\n\n\nupdate:\n\nbut it's absurd you can't even center the view! it places the elevator in an absurd place and you don't even have the freedom to move it through the centralization of the view!\none star!\n\n---------\n\n\nI've re-evaluated your graphical improvement efforts and increased it to three stars instead of one, confident that you can do more. what still doesn't convince me: -the wind turbines on the right, in the panorama, their position and the sense of size is not perfect -I would like to see the clouds moving slowly, like in other games, and on the Quest 2 they are still. -the building on the left on the terrace has a fan that is really too huge, it seems unrealistic. -better the street lamps, reflected on the cars. the parked car and its wheels, and the hexagonal disc brakes, and the headlights that are dull, and more. -the dentist must be made better -the spider should have a better texture, but now it is quite monochromatic with low texture details, and has a poor 3D feel. there needs to be more detail in the right places\n\n\n-----\n\nfinally an new update, and instead of finally improving what's there, given all the money you've earned, what do you do? add an obviously paid add-on! In the past you have added Santa Claus but the graphics continue to be almost sufficient in every experience with the app, there is really nothing that is truly of quality, everything has graphics that range from mediocre to adequate. one of the apps I received first and would be happy to return. one of those highly overrated apps. even in the purchase price it should not cost more than five euros. I would have liked to see it improved but it continues to have the usual poor graphics and basic textures, and sometimes even poorly modeled on some details\n\nand furthermore, although the graphics are just sufficient to run on Quest2, it even requires foveated rendering which is quite noticeable, especially in certain situations. not to mention the dentist who seems to have come straight from the PlayStation2 and many little things for example on model cars or street lamps, etc. finally the resolution is 1 when they could have increased it to 1.5 and they also increased the fog to try to hide the poor graphics, especially on the edge of the city the environment is really badly made and the wind turbines continue to look strange, not to mention of the hexagonal hot air balloon and many other things not expressly mentioned here. little has changed graphically since the first time I saw it on quest1\n\n-------\n\nFinally update but.... continues to suck, practically an app that has remained stationary in the past, which does not take into account all the improvements made with the standalone quest in recent years, no graphic improvements here. finally added the possibility to re-center the screen. remained the stupid Maori statue on the square and all the defects already listed\n\n------\n\n\nUpdatee\n\nthis is one of the best selling \"games\", developers you have made a lot of money with this, and after many years since its release you have not invested a single cent for an improvement of the experience, in terms of graphics and more. there are many unrealistic things, spiders seem fake when there is much better around. cars are not perfect. the dentist seems straight out of the first ps1 games, the surroundings of the city are pitiful as background and as details, today we know that quest2 can do much better! it's a shame this app, just think about enjoying the money and do nothing! but I don't expect anything else otherwise you would have already made a nice update worthy of Quest 2! Sin!\n\n\n----\n\nit needs a substantial graphic update, or at least an improvement of many details, such as the spiders that are now absolutely unrealistic, including the big one, plus many things that it is useless to list. it is not tolerable that in 2022 one of the most bought apps has only thought about pocketing money without investing in big graphic improvements that the quest2 is very well able to withstand. in addition to this we need some new gameplay\n\n________\n\nmany years have passed and graphically still not perfect, the spider could be improved and a lot, look at the crashland spiders. the dentist sucks, it seems to come directly from the Playstation 2 .... or 1 !! cars can still be improved, for example in reflexes. the view with the wind turbines in the background is not perfect, it is necessary to review the proportions of the blades and the distance. the terrain around the city is not exactly good, the roads that stop at the end of the city are horrible. the Maori statue is completely out of context. there was work on the release and then nothing more, some updates every now and then where content is added, but you never think about perfecting and improving what is already there",
+      "date": 1733357314,
+      "review_helpful_count": 19,
+      "author_display_name": "serpe.massimo",
+      "author_alias": "serpe.massimo",
+      "developer_response": {
+        "body": "Hi Serpe, \n\n\n\nThank you for taking the time to share such a detailed review. We truly value your feedback and appreciate your passion for the game. It’s clear you’ve spent a lot of time exploring the experience and thinking about ways it can improve.  \n\n\nWhile Richie's Plank Experience was designed to focus on immersion and simplicity, we understand that expectations for graphics and realism on platforms like Quest 2 and Quest 3 have evolved significantly over the years. We’ve taken note of your concerns about specific elements, like the wind turbines, car details, and the spider textures, as well as your suggestions for moving clouds and enhancing city surroundings. These are all valuable insights that help us identify areas where we can improve.\n\n\n\nOur small team has worked hard to bring fun and engaging updates to the game over the years, but we hear your feedback about wanting more significant visual enhancements and updates to the existing features. For example, the recent Holiday Update has significantly overhauled the Christmas-themed city, with massive visual improvements compared to the original version of Santa Simulator. Rest assured, we’ll share this with our team as we continue to discuss future improvements, as we are always seeking to improve the experience as much as possible.\n\n\nWe’re also glad to hear that you’ve noticed some of the changes we’ve made over the years. Your continued interest in our updates motivates us to do better, and we’ll keep striving to improve both the graphics and gameplay experience in ways that make the game even more enjoyable. \n\nThank you again for your honest and detailed feedback. If you have any other suggestions or want to discuss more ideas, feel free to reach out. \n\nAs a smaller development team, we genuinely do listen and take player feedback onboard. Thanks for taking the time to share your thoughts and feedback.",
+        "date": 1733457975
+      }
+    },
+    {
+      "id": "443117368894348",
+      "score": 5,
+      "review_title": "",
+      "review_description": "My grandad fell over",
+      "date": 1733852635,
+      "review_helpful_count": 57,
+      "author_display_name": "Raymondo2012",
+      "author_alias": "Raymondo2012",
+      "developer_response": {
+        "body": "Hey Raymondo2012, thanks for taking the time to leave a review. We know lots of players enjoy sharing Richie's Plank Experience with family, so please make sure all players follow the guidelines and have adequate spotters as well as a safe and clear play space set up. We hope you enjoy playing!",
+        "date": 1734322808
+      }
+    },
+    {
+      "id": "2906157946215306",
+      "score": 1,
+      "review_title": "Was good but stopped working",
+      "review_description": "Worked well at first but now you can't get past the first screen. Tried uninstall reinstall.  Nothing helps",
+      "date": 1733822153,
+      "review_helpful_count": 4,
+      "author_display_name": "robpunzel",
+      "author_alias": "robpunzel",
+      "developer_response": {
+        "body": "Hey Robpunzel, sorry to hear you've been having issues with Richie's Plank Experience. Please get in touch with us at support@toast.com.au and we'll be more than happy to help.",
+        "date": 1734322690
+      }
+    },
+    {
+      "id": "9705690816107946",
+      "score": 2,
+      "review_title": "Overrated for experienced VR users",
+      "review_description": "I don’t know what others get out of this experience, but I got bored and uninstalled it pretty quickly. Maybe it’s fun if you never tried VR before, but otherwise there’s way better games out there.",
+      "date": 1739742766,
+      "review_helpful_count": 1,
+      "author_display_name": "tretti",
+      "author_alias": "tretti",
+      "developer_response": null
+    },
+    {
+      "id": "476605562206921",
+      "score": 1,
+      "review_title": "Richie’s plank expires",
+      "review_description": "It’s not scary and not fun don’t get exited over it for my opinion don’t buy it",
+      "date": 1733161934,
+      "review_helpful_count": 7,
+      "author_display_name": "chazza_2026",
+      "author_alias": "chazza_2026",
+      "developer_response": {
+        "body": "Hey Birthdaycharligh, sorry to hear you've not been thrilled about your experience on the plank. We've seen heaps of terrified players, some of them even too scared to step on the plank.\n\nBut some people are more brave than others. So here's a trophy for your bravery! 🏆",
+        "date": 1733189848
+      }
+    },
+    {
+      "id": "541952242119972",
+      "score": 1,
+      "review_title": "Can't fall off the plank",
+      "review_description": "Can anyone help. This has stopped letting me fall off the plank. I have changed size of scale of room and plank size still not working?",
+      "date": 1729880395,
+      "review_helpful_count": 5,
+      "author_display_name": "Charldance",
+      "author_alias": "Charldance",
+      "developer_response": {
+        "body": "Hey Charldance, sorry to hear you're having issues with your plank experience and being unable to fall off.\n\nCould you please check the options menu and see if you've accidentally disabled plank falling? As that is an option that could have accidentally caused this issue.\n\nI've also passed this onto our development team and they'll be looking into it immediately. Thanks for your patience in the meantime and please keep your app up to date!\n\nIf you have further feedback, please join our Discord (discord.gg/DQqK59B4Nv) or get in touch with us at support@toast.com.au and we'll be happy to help.",
+        "date": 1730073475
+      }
+    },
+    {
+      "id": "1031202212131511",
+      "score": 1,
+      "review_title": "Dont waste your money",
+      "review_description": "Absolutely trash",
+      "date": 1726937377,
+      "review_helpful_count": 6,
+      "author_display_name": "roastbeefboy1",
+      "author_alias": "roastbeefboy1",
+      "developer_response": {
+        "body": "Thank you for giving Richie’s Plank Experience a try, roastbeefboy1.\n\nWe understand that RPE isn’t for everyone, especially if you’re looking for a more intense single-player experience. It's designed to be shared with friends and family, making it a fantastic introduction to VR for newcomers. If you haven't already, it might be worth giving it another shot with some friends or family—sometimes, that can make all the difference!\n\nIf you haven’t played for more than 45 minutes, you should be able to request a refund through Meta’s refund policy. You can find more information here: https://www.meta.com/help/quest/articles/orders-and-purchases/returns/refunds-for-games-apps/\n\nWe’re also actively expanding on RPE, so if you have any suggestions on how we could improve the experience, we’d love to hear from you. Feel free to reach out to us at support@toast.com.au or join our Discord server (discord.gg/42yBxsCZJR).\n\nAnd if you’re after a more robust single-player adventure, you might want to check out our other game, Max Mustard—it’s a platforming game that’s been quite popular with VR players.\n\nThanks again for your feedback!",
+        "date": 1727059165
+      }
+    },
+    {
+      "id": "439985645470135",
+      "score": 1,
+      "review_title": "The game is so overpriced",
+      "review_description": "This game sucks it’s so boring no gameplay it’s so bad 20 bucks are you kidding me",
+      "date": 1719668675,
+      "review_helpful_count": 12,
+      "author_display_name": "Liamn52",
+      "author_alias": "Liamn52",
+      "developer_response": {
+        "body": "Hi weirdo2727,\n\nThank you for playing Richie's Plank Experience and for taking the time to leave your feedback.\n\nWe consider RPE more of an experience than a traditional game. While not all players are captivated by the plank walk, as your review reflects, a glance at the rest of the reviews shows that most players are. RPE is an experience intended to be shared with friends and family. Try sharing the experience with some friends and record their reactions – it's always a blast! Just be sure to spot them so they don’t get injured.\n\nIf you have any suggestions on how we can improve the experience, please email us at support@toast.com.au. As long as you haven't spent over 45 minutes playing RPE and you've not had it installed for too long, you can also request a refund through Meta.\n\nThank you again for your feedback.",
+        "date": 1719797657
+      }
+    },
+    {
+      "id": "402374879627132",
+      "score": 1,
+      "review_title": "Bad",
+      "review_description": "Now I have to wait for two hours to refund it",
+      "date": 1724421557,
+      "review_helpful_count": 1,
+      "author_display_name": "wubberducky",
+      "author_alias": "wubberducky",
+      "developer_response": {
+        "body": "Thank you for sharing your feedback, wubberducky.\n\nWe’re sorry to hear that the experience didn’t meet your expectations. We want every player to have a great time, and we understand that sometimes a game may not be a perfect fit.\n\nIf you’re having trouble with the refund process or need more information on how it works, please visit the Meta support page and search for “refunds for games and apps” (https://www.meta.com/en-gb/help/quest/articles/orders-and-purchases/returns/refunds-for-games-apps/). Remember, as long as you haven’t played the game for over 45 minutes and haven’t had it installed for too long, a refund should be possible.\n\nIf there’s anything else we can assist you with or if you have suggestions on how we could improve, feel free to reach out to us at support@toast.com.au. Thanks again for giving our experience a try.",
+        "date": 1724813886
+      }
+    },
+    {
+      "id": "361228990402090",
+      "score": 1,
+      "review_title": "Beware the EULA",
+      "review_description": "I know that EULAs are a standard thing and that companies often have to put things in them to protect themselves in a reasonable fashion, but I read the EULA for this game and it scared me. Frankly, it should scare you too. Way too many waivers for things that they shouldn't have any right to ask you to waive.\n\nI've never decided to forgo a game based on a EULA, but for this one, I did.\n\nBe VERY cautious before clicking the \"I agree\" button on this one.",
+      "date": 1718496893,
+      "review_helpful_count": 13,
+      "author_display_name": "Skyrunner",
+      "author_alias": "Skyrunner",
+      "developer_response": {
+        "body": "Hi Cobaltix,\n\nThank you for providing your feedback. We’re sorry that the EULA for Richie's Plank Experience caused concern. We understand that EULAs can be daunting, but we include these clauses primarily for player safety and to ensure a smooth experience for everyone.\n\nYou did the right thing by not blindly accepting a EULA you don't agree with. We actually appreciate players like yourself who take the time to review what it says.\n\nIf you decide that the game isn’t for you, please feel free to request a refund through Meta. We totally get it as we want our players to feel comfortable with their purchase. ^_^",
+        "date": 1718688537
+      }
+    },
+    {
+      "id": "2473873066156971",
+      "score": 1,
+      "review_title": "Short overpriced not good",
+      "review_description": "I finished this in 5 minutes super bad grafics they took a screenshot of google maps and pasted it on the floor and their are too many grafics \nGlitches",
+      "date": 1717724982,
+      "review_helpful_count": 5,
+      "author_display_name": "intelegencian",
+      "author_alias": "intelegencian",
+      "developer_response": {
+        "body": "Hi cricketnut,\n\nThank you for sharing your feedback. We're sorry to hear that your experience with Richie's Plank Experience was not up to your expectations.\n\nWe understand your concerns about the graphics and glitches. Our team is actively working on updates to improve the game’s performance and visuals. We appreciate your patience as we strive to enhance the overall experience.\n\nIf you have specific details about the glitches you encountered, please let us know at support@toast.com.au or join our community Discord server (discord.gg/42yBxsCZJR). Your input can help us identify and fix these issues more efficiently.\n\nAs a token of our appreciation for your feedback, we’ve just released an update that includes a special, limited-time offer for our other game, Max Mustard. We hope you'll give it a look and find the offer valuable.\n\nThank you for your support.\n\nBest,",
+        "date": 1717984668
+      }
+    },
+    {
+      "id": "24339548675689956",
+      "score": 1,
+      "review_title": "too little",
+      "review_description": "but enough content even for $9",
+      "date": 1701095607,
+      "review_helpful_count": 2,
+      "author_display_name": "vgergo",
+      "author_alias": "vgergo",
+      "developer_response": {
+        "body": "Hi Vgergo, \nThanks for engaging with our title and providing your review. I'm very sorry to hear that RPE didn't match your expectations. \n\nOur intent with the \"game\" is to be more of an experience that you can share with family and friends, with the addition of minigames and easter eggs to pad out the content. \n\nIf you've got any suggestions for additional content, feel free to hit up our Discord or email me. \n\nE: support@toast.com.au \nD: https://discord.gg/K8JtCDGugq\n\nAll the best!\n\t-Cozi",
+        "date": 1701129608
+      }
+    },
+    {
+      "id": "101449446170864",
+      "score": 1,
+      "review_title": "Disappointed",
+      "review_description": "No where as good as it should be , I feel like I bought a cheap rip off of an actual game.",
+      "date": 1672009054,
+      "review_helpful_count": 1,
+      "author_display_name": "metabeats",
+      "author_alias": "metabeats",
+      "developer_response": null
+    },
+    {
+      "id": "101710622813037",
+      "score": 1,
+      "review_title": "Can’t start game",
+      "review_description": "Game is not letting me accept users agreement therefore I cant start game.",
+      "date": 1672242685,
+      "review_helpful_count": 1,
+      "author_display_name": "Totmd",
+      "author_alias": "Totmd",
+      "developer_response": null
+    },
+    {
+      "id": "103040145985327",
+      "score": 1,
+      "review_title": "Ughhhh",
+      "review_description": "Irritated want to request a refund for this game but there’s no link to request it😡😡",
+      "date": 1669833037,
+      "review_helpful_count": 1,
+      "author_display_name": "cane.73.2022",
+      "author_alias": "cane.73.2022",
+      "developer_response": null
+    },
+    {
+      "id": "109970078505495",
+      "score": 5,
+      "review_title": "Amazing VR experience.",
+      "review_description": "Seeing my wife freak out and scream made it for me.",
+      "date": 1661629669,
+      "review_helpful_count": 3,
+      "author_display_name": "bad.scooter.2022",
+      "author_alias": "bad.scooter.2022",
+      "developer_response": null
+    },
+    {
+      "id": "102505338990749",
+      "score": 1,
+      "review_title": "Terrible game",
+      "review_description": "Don’t buy this, trust me it’s overpriced and overrated it was an okay experience but once you get use to it in VR which only takes like 20mins the game is short and you wasted money.",
+      "date": 1641356915,
+      "review_helpful_count": 2,
+      "author_display_name": "RavenAce1",
+      "author_alias": "RavenAce1",
+      "developer_response": null
+    },
+    {
+      "id": "103417375567746",
+      "score": 1,
+      "review_title": "Not Worth It",
+      "review_description": "I didn’t get a sensation of falling neither was it scary to walk on the plank. I also couldn’t recenter the game so it was difficult to find an area to play.",
+      "date": 1641604822,
+      "review_helpful_count": 1,
+      "author_display_name": "Foliiii",
+      "author_alias": "Foliiii",
+      "developer_response": null
+    },
+    {
+      "id": "100974945814561",
+      "score": 1,
+      "review_title": "Games dont work",
+      "review_description": "I downloaded 4 games and they don't work one saying I played it for over 2 hr",
+      "date": 1641482742,
+      "review_helpful_count": 0,
+      "author_display_name": "izreal167",
+      "author_alias": "izreal167",
+      "developer_response": null
+    },
+    {
+      "id": "102402292322356",
+      "score": 2,
+      "review_title": "Won’t work",
+      "review_description": "The richies experience whenever I go on the plank and jump off in in the sky I don’t fall why does this happen",
+      "date": 1640539119,
+      "review_helpful_count": 1,
+      "author_display_name": "JPBeastMode29",
+      "author_alias": "JPBeastMode29",
+      "developer_response": null
+    },
+    {
+      "id": "101213222442252",
+      "score": 1,
+      "review_title": "Game SUCKS!!!!!",
+      "review_description": "This game was not what I expected.purchased the game and it is terrible.",
+      "date": 1640473271,
+      "review_helpful_count": 2,
+      "author_display_name": "Zb1004",
+      "author_alias": "Zb1004",
+      "developer_response": null
+    },
+    {
+      "id": "104326448556689",
+      "score": 4,
+      "review_title": "Great party game",
+      "review_description": "Great game to play with family and friends with your vr system",
+      "date": 1623517462,
+      "review_helpful_count": 1,
+      "author_display_name": "bulletzsi",
+      "author_alias": "bulletzsi",
+      "developer_response": null
+    },
+    {
+      "id": "109959724372939",
+      "score": 2,
+      "review_title": "Not for kids",
+      "review_description": "PARENTS BE FOREWARNED! I specifically looked for games in the family section of the oculus app. This game seemed fun and somehow I didn’t see the T for teen rating. I let my kids play and monitored it for long enough to feel comfortable with them playing it. Little did I know that the game is set to default to NIGHTMARE MODE. You can turn this off in the settings, but you would have to know to do that in the first place and we saw no warnings to indicate that we should do this. My kids came to me a few minutes later extremely upset by what they had seen in the game. They were terrified!! I don’t think any of us will be getting a decent nights sleep for weeks :(",
+      "date": 1610244957,
+      "review_helpful_count": 5,
+      "author_display_name": "Gershis",
+      "author_alias": "Gershis",
+      "developer_response": null
+    },
+    {
+      "id": "103984061533139",
+      "score": 1,
+      "review_title": "Download not working",
+      "review_description": "Will not download onto oculus quest two! Bought it twice now and still nothing!",
+      "date": 1605379131,
+      "review_helpful_count": 1,
+      "author_display_name": "mprowde",
+      "author_alias": "mprowde",
+      "developer_response": {
+        "body": "Hey there, please email us about this at hello@toast.com.au - we'd love to find out more about this issue and help you get to the bottom of it.",
+        "date": 1605491066
+      }
+    },
+    {
+      "id": "108608817099660",
+      "score": 1,
+      "review_title": "No",
+      "review_description": "Costs to much because it’s only fun for 3 minutes",
+      "date": 1561828782,
+      "review_helpful_count": 9,
+      "author_display_name": "saggymanballs",
+      "author_alias": "saggymanballs",
+      "developer_response": {
+        "body": "Hi Cade, it was designed to be short so it can be used at parties and for seeing reactions from friends and family. Also, I just wanted to make sure you discovered the 3 hero academy missions and the sky brush?",
+        "date": 1571191658
+      }
+    },
+    {
+      "id": "102515882117622",
+      "score": 5,
+      "review_title": "It's great",
+      "review_description": "It's great for a good party starter or family for like 20 minutes. It was full of fun things to do in that amount of time. Would I have bought it if it were for sale? No I don't think it was worth it for a price.",
+      "date": 1626227413,
+      "review_helpful_count": 0,
+      "author_display_name": "DragonHalo",
+      "author_alias": "DragonHalo",
+      "developer_response": null
+    },
+    {
+      "id": "102475405766430",
+      "score": 1,
+      "review_title": "Awful",
+      "review_description": "Awful",
+      "date": 1648850474,
+      "review_helpful_count": 1,
+      "author_display_name": "W4rthy",
+      "author_alias": "W4rthy",
+      "developer_response": null
+    },
+    {
+      "id": "102316082040573",
+      "score": 4,
+      "review_title": "Terror",
+      "review_description": "I saw a YouTube video on this game and i thought it was nothing to be scared of than I bought it and I regret it because it's scary as all hell",
+      "date": 1620621246,
+      "review_helpful_count": 2,
+      "author_display_name": "Not_Frog",
+      "author_alias": "Not_Frog",
+      "developer_response": null
+    },
+    {
+      "id": "102260725771194",
+      "score": 4,
+      "review_title": "Legendary but...",
+      "review_description": "Yep, the game is simple, but it is widely popular and everybody wanna try it. Its fine to spent money on things to entertain people on parties, create this experience. \nI would like more cities, more different real buildings to try ... but well, still fun for me and my kids and other that played too.",
+      "date": 1647804416,
+      "review_helpful_count": 0,
+      "author_display_name": "PracovnaVR",
+      "author_alias": "PracovnaVR",
+      "developer_response": null
+    },
+    {
+      "id": "102242666063769",
+      "score": 5,
+      "review_title": "Great game! (Read for 25% off)",
+      "review_description": "The plank is a hilarious thing to behold when someone tries it for the first time. It really does work showing people what VR is capable of. The Santa simulator (part of the game) is a really nice touch too. The hero missions are also simple but good if you’re bored. Strongly recommend getting this if you plan on showing VR off to your friends. \n\nUse this link for 25% off the game:\nhttps://www.oculus.com/appreferrals/DrAkrasia/1642239225880682/\n\nIf you found this useful, please click the ‘Helpful’ button below!",
+      "date": 1669837848,
+      "review_helpful_count": 691,
+      "author_display_name": "DrAkrasia",
+      "author_alias": "DrAkrasia",
+      "developer_response": null
+    },
+    {
+      "id": "102240377964045",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Truly horrifying",
+      "date": 1577379819,
+      "review_helpful_count": 0,
+      "author_display_name": "Jacob36000",
+      "author_alias": "Jacob36000",
+      "developer_response": null
+    },
+    {
+      "id": "102118688980349",
+      "score": 5,
+      "review_title": "Very good",
+      "review_description": "My family had a lot of fun",
+      "date": 1637971448,
+      "review_helpful_count": 1,
+      "author_display_name": "mc.missile",
+      "author_alias": "mc.missile",
+      "developer_response": null
+    },
+    {
+      "id": "102117516085856",
+      "score": 2,
+      "review_title": "The game",
+      "review_description": "Hello, thought this game was for me but it aint i am very scared of heights cant play at all i freeze cant move to scared can i please get à refund ty",
+      "date": 1670459473,
+      "review_helpful_count": 0,
+      "author_display_name": "Mmeayotte",
+      "author_alias": "Mmeayotte",
+      "developer_response": null
+    },
+    {
+      "id": "101956228413983",
+      "score": 2,
+      "review_title": "Not worth buying, should be free.",
+      "review_description": "You need a big room to walk the plank, then you just jump off, hit the ground and that's it?\nThe mini-games have very basic polygon graphics and glitches.\nScreen went black because I flew into a building, couldn't get out.\nNo instructions for the mini-games, couldn't figure out the fire extinguisher game. \nDisappointing for first VR experience.",
+      "date": 1605783313,
+      "review_helpful_count": 4,
+      "author_display_name": "brettdev",
+      "author_alias": "brettdev",
+      "developer_response": null
+    },
+    {
+      "id": "101728429029383",
+      "score": 5,
+      "review_title": "Gg",
+      "review_description": "Gg￼",
+      "date": 1638568306,
+      "review_helpful_count": 1,
+      "author_display_name": "BloxyBeans",
+      "author_alias": "BloxyBeans",
+      "developer_response": null
+    }
+  ],
+  "total": 60,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T17:57:29Z"
+}

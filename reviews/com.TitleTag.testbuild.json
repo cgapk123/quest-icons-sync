@@ -1,0 +1,53 @@
+{
+  "app_id": "9733492526774338",
+  "package_name": "com.TitleTag.testbuild",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Title Tag V2",
+  "rating_average": 5,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1001548239700668",
+      "score": 5,
+      "review_title": "Best game in the world",
+      "review_description": "This is so fun and also I might get mod",
+      "date": 1767962974,
+      "review_helpful_count": 0,
+      "author_display_name": "mp9.legit.monkey",
+      "author_alias": "mp9.legit.monkey",
+      "developer_response": null
+    },
+    {
+      "id": "905943602608497",
+      "score": 5,
+      "review_title": "nice game",
+      "review_description": "great game!",
+      "date": 1766872888,
+      "review_helpful_count": 2,
+      "author_display_name": "tie.914103",
+      "author_alias": "tie.914103",
+      "developer_response": null
+    },
+    {
+      "id": "872422488848335",
+      "score": 5,
+      "review_title": "game is too fun",
+      "review_description": "i can play for hours",
+      "date": 1766953790,
+      "review_helpful_count": 0,
+      "author_display_name": "jayjayspeed",
+      "author_alias": "jayjayspeed",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:57:00Z"
+}
