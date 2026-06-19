@@ -1,0 +1,276 @@
+{
+  "app_id": "6750166401689690",
+  "package_name": "com.Microsoft.MicrosoftMesh",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Microsoft Mesh",
+  "rating_average": 1.8315789473684,
+  "rating_count": 95,
+  "review_count": 41,
+  "reviews": [
+    {
+      "id": "871203242741228",
+      "score": 1,
+      "review_title": "Only works for business",
+      "review_description": "Very disappointed that it only works for business.",
+      "date": 1762520794,
+      "review_helpful_count": 0,
+      "author_display_name": "FourStoke",
+      "author_alias": "FourStoke",
+      "developer_response": null
+    },
+    {
+      "id": "847783368414971",
+      "score": 1,
+      "review_title": "Non-functioning do not download",
+      "review_description": "App currently crashes immediately after login as of 10/10/25. No resolution provided.",
+      "date": 1760111821,
+      "review_helpful_count": 0,
+      "author_display_name": "Hunybadgar",
+      "author_alias": "Hunybadgar",
+      "developer_response": null
+    },
+    {
+      "id": "583986031466801",
+      "score": 4,
+      "review_title": "Had to change to Horizon Workrooms.",
+      "review_description": "A good App, nice to have meetings in VR. A good link to Teams, easy to join meetings in VR. But when the option to log in to the headset by a code disappeared I can unfortunately not use it on my Quest 3 anymore, I have to go back to VR meetings in Horizon Workrooms instead.",
+      "date": 1741777557,
+      "review_helpful_count": 7,
+      "author_display_name": "JTFK1",
+      "author_alias": "JTFK1",
+      "developer_response": null
+    },
+    {
+      "id": "599324052572733",
+      "score": 1,
+      "review_title": "App on Quest store is not working",
+      "review_description": "For ~10days, the Mesh app is not working anymore on Quest 2. Error message \"Sorry, your current version of Mesh is not supported\". \nImpossible to update. Even uninstall/reinstall does not solve the issue.",
+      "date": 1734603956,
+      "review_helpful_count": 6,
+      "author_display_name": "Flotarius",
+      "author_alias": "Flotarius",
+      "developer_response": null
+    },
+    {
+      "id": "1081823947285478",
+      "score": 1,
+      "review_title": "Just doesn't work.",
+      "review_description": "After going through the silly account linking process, the app just claims there's a problem with my internet connection and refuses to work.  Seeing as how I'm quite sure my internet connection is fine, this tells me their developers don't even know how to do proper error handling or write useful error messages.",
+      "date": 1730469595,
+      "review_helpful_count": 28,
+      "author_display_name": "evilDagmar",
+      "author_alias": "evilDagmar",
+      "developer_response": null
+    },
+    {
+      "id": "617122274807423",
+      "score": 1,
+      "review_title": "",
+      "review_description": "I can't get in. Keeps giving me an error message about not having a license. I have subscribed to office  365. Does no good. Really disappointed. Was looking forward to trying it. But getting in is more headache than it's worth.",
+      "date": 1740416783,
+      "review_helpful_count": 2,
+      "author_display_name": "Slimz1976",
+      "author_alias": "Slimz1976",
+      "developer_response": null
+    },
+    {
+      "id": "337317342743186",
+      "score": 2,
+      "review_title": "A Microsoft WIP",
+      "review_description": "A work in progress from Microsoft so it's very incomplete and will likely always be incomplete. It's mostly functional. You can join meetings (if your enterprise organization has all the setting correct good luck), you can talk to people and hear people. But yikes, it's rough.\n\nFrame rate: it's not good. Make sure you pick as small of an environment as possible. Try not to move your head too much.\nGraphics: Bad. Nothing is anti-aliased and the graphics just don't look good\n\nAudio: It used to be outstanding. But a recent update completely broke the immersion and I get people's voices in the wrong channels. It's also the same as Teams so expect crackly distorted audio because Microsoft can't do audio.\n\nCustomization: Good. Lots of outfits to choose from and body / face customization\n\nEnvironment: Lacking. Very little effort has been made into really leaning into VR space. For example if you have a mixed group of VR and teams members the teams members get put into (super low resolution) squares on a wall. Why not have them represented as something that fits the VR space? A robot with a screen head? A bank of monitors? Holographs? Some effort here could go a long way. There's one environment with bean bags to throw and marshmallows to roast but this environment has the worst frame rate so that's unfortunate.\n\nInterface: A joke. Look, you hide the action bar and you get a popup saying \"Press Ctrl + l to show or hide the action bar\". That's the level of attention that this app has to the interface. Everyone raises their hand all the time when trying to clap. It's just weird how there's such a multi-step process to do a \"clap\". There's a \"seating chart\" but in order to have your character stay seated you have to be very careful to not move too much or else your character will leave the seat and then disappear from the seating chart. Who has ever found the seating chart useful?\n\nMissing features:\n* Push to talk\n* A mic indicator\n* A good way to do a presentation",
+      "date": 1720118675,
+      "review_helpful_count": 2,
+      "author_display_name": "Aesmoridin",
+      "author_alias": "Aesmoridin",
+      "developer_response": {
+        "body": "Hello! Thanks for your feedback on Mesh. We continue to iterate and grow the feature set of Mesh while incorporating feedback from the community as much as possible. We would greatly appreciate any further feedback or details about your experience, or ideas for how we could improve Mesh. Feel free to share with us  https://learn.microsoft.com/en-us/mesh/resources/feedback. Thank you for taking the time.",
+        "date": 1723486399
+      }
+    },
+    {
+      "id": "7476018955857715",
+      "score": 1,
+      "review_title": "Does not work with Microsoft 365 Account",
+      "review_description": "Why do you launch it here, if it does not work for 99% of user accounts?",
+      "date": 1718613113,
+      "review_helpful_count": 8,
+      "author_display_name": "WAGNER.WORKS",
+      "author_alias": "WAGNER.WORKS",
+      "developer_response": {
+        "body": "Hello, we apologize for any inconvenience caused by these login errors. Currently, personal accounts are not supported by Microsoft Mesh. If you have an organizational account with the correct licenses and policies set up, as mentioned in https://aka.ms/meshprep, please do try again with that account. Thank you for your feedback as we continue to improve access to Mesh. For any further assistance or to provide more detailed feedback, please reach out to us https://learn.microsoft.com/en-us/mesh/resources/feedback .",
+        "date": 1722269885
+      }
+    },
+    {
+      "id": "1077771203551665",
+      "score": 1,
+      "review_title": "Crashes with unexpected startup error",
+      "review_description": "Release version still crashes on startup with 'unexpected startup error' after device registration.",
+      "date": 1706395996,
+      "review_helpful_count": 11,
+      "author_display_name": "DanielXR",
+      "author_alias": "DanielXR",
+      "developer_response": {
+        "body": "We apologize for the inconvenience caused by the startup issues with our Mesh app on the Quest Store. We value your feedback and are committed to improving the user experience. Our team is actively investigating this matter. For immediate assistance with unexpected startup errors, please refer to our troubleshooting guide https://learn.microsoft.com/en-us/mesh/resources/mesh-troubleshooting#what-should-i-do-if-the-mesh-app-on-windows-crashes-during-startup-crashes-during-runtime-or-behaves-strangely-during-runtime. Additionally, we would greatly appreciate any further feedback or details about your experience, which can be shared with us https://learn.microsoft.com/en-us/mesh/resources/feedback. Your input is crucial in helping us enhance our app for you and other users.",
+        "date": 1707956251
+      }
+    },
+    {
+      "id": "973665297661627",
+      "score": 1,
+      "review_title": "Doesn’t work",
+      "review_description": "Signed in successfully, unexpected error please restart. Tried multiple times and it simply doesn’t load, I’d give it zero if I could! \n\nShocking. Not even a sensible error message. Well done Microsoft…",
+      "date": 1706618622,
+      "review_helpful_count": 12,
+      "author_display_name": "DebbiekJ",
+      "author_alias": "DebbiekJ",
+      "developer_response": {
+        "body": "Debbie, it's unfortunate to hear that you encountered this error. We strive to provide the best experience and are actively working to fix these errors. We appreciate your feedback and patience during this process. For immediate assistance with unexpected startup errors, please refer to our troubleshooting guide https://learn.microsoft.com/en-us/mesh/resources/mesh-troubleshooting#what-should-i-do-if-the-mesh-app-on-windows-crashes-during-startup-crashes-during-runtime-or-behaves-strangely-during-runtime. Additionally, we would greatly appreciate any further feedback or details about your experience, which can be shared with us https://learn.microsoft.com/en-us/mesh/resources/feedback. Your input is crucial in helping us enhance our app for you and other users.",
+        "date": 1707172032
+      }
+    },
+    {
+      "id": "953660306210508",
+      "score": 1,
+      "review_title": "Big Fail",
+      "review_description": "Infinite “Unexpected startup failure” on startup. Unusable. Does anyone check this stuff before adding to Store?",
+      "date": 1706533845,
+      "review_helpful_count": 2,
+      "author_display_name": "kadeschs",
+      "author_alias": "kadeschs",
+      "developer_response": {
+        "body": "Steven, it's unfortunate to hear that you encountered this error. We strive to provide the best experience and are actively working to fix these errors. We appreciate your feedback and patience during this process. For immediate assistance with unexpected startup errors, please refer to our troubleshooting guide https://learn.microsoft.com/en-us/mesh/resources/mesh-troubleshooting#what-should-i-do-if-the-mesh-app-on-windows-crashes-during-startup-crashes-during-runtime-or-behaves-strangely-during-runtime. Additionally, we would greatly appreciate any further feedback or details about your experience, which can be shared with us https://learn.microsoft.com/en-us/mesh/resources/feedback. Your input is crucial in helping us enhance our app for you and other users",
+        "date": 1707171982
+      }
+    },
+    {
+      "id": "943927084404434",
+      "score": 1,
+      "review_title": "Bring Back Altspacevr! Error Messages!!!",
+      "review_description": "I did everything correctly and still got error codes!! Microsoft, I've been supporting microsoft mesh since Altspace. I know you guys are not still having problems? I had problems then and I'm still having issues today",
+      "date": 1709990172,
+      "review_helpful_count": 9,
+      "author_display_name": "MochaStorm",
+      "author_alias": "MochaStorm",
+      "developer_response": {
+        "body": "Hello, we apologize for any inconvenience caused by this startup error. We are continuously improving our app and hope to reduce the prominence of these errors in the future. For immediate assistance with unexpected startup errors, please refer to our troubleshooting guide at https://learn.microsoft.com/en-us/mesh/resources/mesh-troubleshooting#what-should-i-do-if-the-mesh-app-on-windows-crashes-during-startup-crashes-during-runtime-or-behaves-strangely-during-runtime. Additionally, we would greatly appreciate any further feedback or details about your experience, which can be shared with us at https://learn.microsoft.com/en-us/mesh/resources/feedback. Your input is crucial in helping us enhance our app for you and other users.",
+        "date": 1710786108
+      }
+    },
+    {
+      "id": "905842907809008",
+      "score": 1,
+      "review_title": "Unexpected startup error",
+      "review_description": "Used my enterprise account to sign in and verified with the provided code. On loading, Mesh displayed an error to the effect that an unexpected error had occurred and directed to restart. Closed the app and restarted. Same thing. Restarted the app and quest multiple times including one full shutdown to no avail. Given that this sounds like a common occurrence on the most common VR platform, how is this even rolled out and there is no dev response here? I’d expect this from some small dev shop but not MS. I was curious to try this with my team but can’t recommend it at this juncture.",
+      "date": 1706458599,
+      "review_helpful_count": 60,
+      "author_display_name": "mister.mario",
+      "author_alias": "mister.mario",
+      "developer_response": {
+        "body": "Hello Mario, we apologize for any inconvenience caused by this startup error. We are continuously improving our app and hope to reduce the prominence of these errors in the future. For immediate assistance with unexpected startup errors, please refer to our troubleshooting guide https://learn.microsoft.com/en-us/mesh/resources/mesh-troubleshooting#what-should-i-do-if-the-mesh-app-on-windows-crashes-during-startup-crashes-during-runtime-or-behaves-strangely-during-runtime. Additionally, we would greatly appreciate any further feedback or details about your experience, which can be shared with us https://learn.microsoft.com/en-us/mesh/resources/feedback. Your input is crucial in helping us enhance our app for you and other users.",
+        "date": 1707171821
+      }
+    },
+    {
+      "id": "529828129876898",
+      "score": 5,
+      "review_title": "Worked for me!",
+      "review_description": "I found this to be a very interesting way to be in a Teams meeting.",
+      "date": 1730952724,
+      "review_helpful_count": 1,
+      "author_display_name": "EggarSuit",
+      "author_alias": "EggarSuit",
+      "developer_response": null
+    },
+    {
+      "id": "485088994693632",
+      "score": 4,
+      "review_title": "When is the new update getting live?",
+      "review_description": "We have gotten a new version update 5.2419 for the Mesh app on PC but we don't see the same on Quest yet. It's still having 5.2417 as the version for the Mesh app. May you kindly provide me an update on this?",
+      "date": 1733834479,
+      "review_helpful_count": 2,
+      "author_display_name": "iamswarn786",
+      "author_alias": "iamswarn786",
+      "developer_response": null
+    },
+    {
+      "id": "440950992199207",
+      "score": 1,
+      "review_title": "Can't use it - sign in then crashes",
+      "review_description": "Really wish MS would have someone engaged with community on X/Tiwtter, reddit, elsewhere... this is kind of a dead end until you get it to work and engage the consumers. \nI have licenses, still not letting me login. No representation from Microsoft to be found. :/",
+      "date": 1719332936,
+      "review_helpful_count": 17,
+      "author_display_name": "Cmoney016",
+      "author_alias": "Cmoney016",
+      "developer_response": {
+        "body": "We apologize for the inconvenience caused by the startup issues with our Mesh app on the Quest Store. We value your feedback and are committed to improving the user experience. For immediate assistance with unexpected startup errors, please refer to our troubleshooting guide https://learn.microsoft.com/en-us/mesh/resources/mesh-troubleshooting#what-should-i-do-if-the-mesh-app-on-windows-crashes-during-startup-crashes-during-runtime-or-behaves-strangely-during-runtime. Additionally, we would greatly appreciate any further feedback or details about your experience, which can be shared with us in the app. For details on how to provide feedback look to this link: https://learn.microsoft.com/en-us/mesh/resources/feedback. Your input is crucial in helping us enhance our app for you and other users.",
+        "date": 1722269815
+      }
+    },
+    {
+      "id": "427302163008284",
+      "score": 1,
+      "review_title": "Not for personal MS Account People",
+      "review_description": "I'll give a better review when Microsoft makes this work for the non-corporate folks who just want to collaborate with other like-minded people in VR.",
+      "date": 1710440960,
+      "review_helpful_count": 8,
+      "author_display_name": "VR-JoeF",
+      "author_alias": "VR-JoeF",
+      "developer_response": {
+        "body": "We apologize for any inconvenience or confusion caused by the licensing or policy requirements. To see the license and policy requirements, please visit https://aka.ms/meshprep. This resource should help you and your organization set up your account properly. If you have any further issues or additional questions, please provide us with feedback https://learn.microsoft.com/en-us/mesh/resources/feedback",
+        "date": 1713810096
+      }
+    },
+    {
+      "id": "405366745352179",
+      "score": 1,
+      "review_title": "Doesn’t work",
+      "review_description": "App won’t load. Get an error message when I try to launch it. Sounds like I’m not the only one",
+      "date": 1706841648,
+      "review_helpful_count": 2,
+      "author_display_name": "RedstoneDel",
+      "author_alias": "RedstoneDel",
+      "developer_response": {
+        "body": "We apologize for the inconvenience caused by the startup issues with our Mesh app on the Quest Store. We value your feedback and are committed to improving the user experience. Our team is actively investigating this matter. For immediate assistance with unexpected startup errors, please refer to our troubleshooting guide https://learn.microsoft.com/en-us/mesh/resources/mesh-troubleshooting#what-should-i-do-if-the-mesh-app-on-windows-crashes-during-startup-crashes-during-runtime-or-behaves-strangely-during-runtime. Additionally, we would greatly appreciate any further feedback or details about your experience, which can be shared with us https://learn.microsoft.com/en-us/mesh/resources/feedback. Your input is crucial in helping us enhance our app for you and other users.",
+        "date": 1707186577
+      }
+    },
+    {
+      "id": "371206362294936",
+      "score": 1,
+      "review_title": "",
+      "review_description": "I can't log in there, I keep getting an error. Another VR game that doesn't work from our beloved Microsoft",
+      "date": 1707502004,
+      "review_helpful_count": 0,
+      "author_display_name": "Naxi_wielkodupny",
+      "author_alias": "Naxi_wielkodupny",
+      "developer_response": {
+        "body": "Bargi2077, it's unfortunate to hear that you're encountering errors. We strive to provide the best experience and are actively working to fix these errors. We appreciate your feedback and patience during this process. For immediate assistance with unexpected startup errors, please refer to our troubleshooting guide https://learn.microsoft.com/en-us/mesh/resources/mesh-troubleshooting#what-should-i-do-if-the-mesh-app-on-windows-crashes-during-startup-crashes-during-runtime-or-behaves-strangely-during-runtime. Additionally, we would greatly appreciate any further feedback or details about your experience, which can be shared with us https://learn.microsoft.com/en-us/mesh/resources/feedback. Your input is crucial in helping us enhance our app for you and other users.",
+        "date": 1708471993
+      }
+    },
+    {
+      "id": "356759353967998",
+      "score": 1,
+      "review_title": "Unexpected setup error...",
+      "review_description": "Like so many others",
+      "date": 1706633907,
+      "review_helpful_count": 0,
+      "author_display_name": "pallabgupta",
+      "author_alias": "pallabgupta",
+      "developer_response": {
+        "body": "We apologize for the inconvenience caused by the startup issues with our Mesh app on the Quest Store. We value your feedback and are committed to improving the user experience. Our team is actively investigating this matter. For immediate assistance with unexpected startup errors, please refer to our troubleshooting guide https://learn.microsoft.com/en-us/mesh/resources/mesh-troubleshooting#what-should-i-do-if-the-mesh-app-on-windows-crashes-during-startup-crashes-during-runtime-or-behaves-strangely-during-runtime. Additionally, we would greatly appreciate any further feedback or details about your experience, which can be shared with us https://learn.microsoft.com/en-us/mesh/resources/feedback. Your input is crucial in helping us enhance our app for you and other users.",
+        "date": 1707172047
+      }
+    }
+  ],
+  "total": 20,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-19T12:21:07Z"
+}

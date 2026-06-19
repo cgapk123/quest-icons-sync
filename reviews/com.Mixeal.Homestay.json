@@ -1,0 +1,31 @@
+{
+  "app_id": "8669184929811411",
+  "package_name": "com.Mixeal.Homestay",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Homestay by Mixeal",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "3169855186488739",
+      "score": 5,
+      "review_title": "Posh!",
+      "review_description": "Very very nice environment.",
+      "date": 1741483397,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:25:40Z"
+}

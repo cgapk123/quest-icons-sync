@@ -1,0 +1,502 @@
+{
+  "app_id": "3753844808017398",
+  "package_name": "com.Mixeal.TheFinalOvers",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Final Overs - VR Cricket",
+  "rating_average": 4.3975409836066,
+  "rating_count": 244,
+  "review_count": 192,
+  "reviews": [
+    {
+      "id": "1210116825513167",
+      "score": 5,
+      "review_title": "Amazing game!!!",
+      "review_description": "Amazing game and mechanics! The developers help me get a specialised code to get this at a discounted rate as well! Thankyou",
+      "date": 1780677147,
+      "review_helpful_count": 0,
+      "author_display_name": "Solitude1402",
+      "author_alias": "Solitude1402",
+      "developer_response": null
+    },
+    {
+      "id": "952637664607313",
+      "score": 5,
+      "review_title": "Love the game",
+      "review_description": "Truly lovely game. Better than ibcricket in terms of gameplay, but not in graphics. Would like the team to add some new features:\n\n1. TEST CRICKET\n2. World cup\n3. Ashes, BGT type special tournies\n4. Most important- All time best teams players. The game in which you can bat as Tendulkar will always get more users.",
+      "date": 1772394405,
+      "review_helpful_count": 3,
+      "author_display_name": "BullzEye1986",
+      "author_alias": "BullzEye1986",
+      "developer_response": {
+        "body": "Thanks for the feedback! Test Mode and World Cup are planned. We have also planned a feature where you will be able to update all teams' player names yourself to whatever you like",
+        "date": 1773037082
+      }
+    },
+    {
+      "id": "984498758082348",
+      "score": 1,
+      "review_title": "Unable to Get the bat when i start game",
+      "review_description": "Please resolve the issue of game getting stuck at starting of match where i don’t get the bat to hit the ball (start button), it’s been since last update kindly look into it",
+      "date": 1770906803,
+      "review_helpful_count": 1,
+      "author_display_name": "MMustafa56",
+      "author_alias": "MMustafa56",
+      "developer_response": null
+    },
+    {
+      "id": "869820875874867",
+      "score": 1,
+      "review_title": "Finding difficulty in connecting ball",
+      "review_description": "It used to be my favourite game on meta quest. But now I am unable to hit balls with my bat in Normal mode no matter how many times I have tried. It's not more of a fun game now.",
+      "date": 1770813411,
+      "review_helpful_count": 1,
+      "author_display_name": "princex.172249",
+      "author_alias": "princex.172249",
+      "developer_response": {
+        "body": "Sorry for your experience. I'd like to clarify that we haven't made any changes that affect collision or physics of bat & ball.",
+        "date": 1770896294
+      }
+    },
+    {
+      "id": "1590995035568465",
+      "score": 5,
+      "review_title": "Niceeee! 💪🏻",
+      "review_description": "I didn’t know VR game can feel so real…\n\nThe players, the stadium, the vibe and style \nIn every detail in the game,\nMake it feel like you are in a real stadium\nIn a middle of a game. 🏏 \n\nAnd that-feel-gooood!!! 🤗",
+      "date": 1771000862,
+      "review_helpful_count": 0,
+      "author_display_name": "Amirrozen",
+      "author_alias": "Amirrozen",
+      "developer_response": null
+    },
+    {
+      "id": "954681947725119",
+      "score": 2,
+      "review_title": "Unrealistic",
+      "review_description": "Easy mode is too easy ! Gone one mode up to normal and it’s totally unrealistic. Can’t hit sixes and every nick gets caught. I have played 26 and lost everyone. Ball missing bat and wickets ?? Bowled !!! Crazy and needs sorting. Would not recommend.",
+      "date": 1767094032,
+      "review_helpful_count": 2,
+      "author_display_name": "skidmark1270",
+      "author_alias": "skidmark1270",
+      "developer_response": null
+    },
+    {
+      "id": "3045492662290171",
+      "score": 2,
+      "review_title": "Not liking it anymore",
+      "review_description": "I always play in Normal mode, it was very good and simple... Now normal mode is very hard. I'M UNABLE TO HIT SIXES NO MATTER WHAT HOW MANY TIME I TRY TO HIT HARD.... The last update messed up I guess ... Normal mode matches has become very hard and the bat doesn't sync up with hand gestures sometimes.",
+      "date": 1759873604,
+      "review_helpful_count": 7,
+      "author_display_name": "mogulojuvinay",
+      "author_alias": "mogulojuvinay",
+      "developer_response": null
+    },
+    {
+      "id": "913166841884607",
+      "score": 5,
+      "review_title": "Pro and expert",
+      "review_description": "It’s good fun",
+      "date": 1766527263,
+      "review_helpful_count": 0,
+      "author_display_name": "SriharshaVemuri",
+      "author_alias": "SriharshaVemuri",
+      "developer_response": null
+    },
+    {
+      "id": "873023229222374",
+      "score": 3,
+      "review_title": "Not bad",
+      "review_description": "I bought this based on supporting Cricket makers. I think it’s decent but needs more features and work",
+      "date": 1762087430,
+      "review_helpful_count": 1,
+      "author_display_name": "deepafp",
+      "author_alias": "deepafp",
+      "developer_response": null
+    },
+    {
+      "id": "762740303579175",
+      "score": 4,
+      "review_title": "Great game, maybe the best VR cricket",
+      "review_description": "I love this game, there is a really solid base for this to be the very best of it's kind. I just wish there was a little more depth to the game. I'm really unsure why most VR games seem to be made as a gimmicky arcade game (feature wise) rather than one with in depth features. A career mode would be absolutely incredible or even the ability to play Test cricket. I could be wrong, but I do feel as though the games mechanics are not currently geared up to be able to support test cricket and that's one of my issues with the game, it does feel a little too gung-ho at times. Playing a defensive shot sometimes feels impossible as it seems to go straight up or flying with just a tap. Regardless, it's a fantastic game and I can't wait to see where it goes with future updates. A must have for cricket lovers.",
+      "date": 1753281932,
+      "review_helpful_count": 5,
+      "author_display_name": "HammerVaughany",
+      "author_alias": "HammerVaughany",
+      "developer_response": {
+        "body": "Players like you is the reason this game exists and we get the motivation to take it further. I hear you! You are absolutely right. Currently, the game has a limited depth, and it gets over once you've mastered the current modes. It doesn't have any \"Career\" you can build.\n\nWe recognize this, and that's why we're working on Final Overs 2.0, which won't be a brand new game but a  brand new version of this one.\n\nCareer mode, rewards based on performance, tournaments, world cup, challenges, etc. It's gonna bring a new energy for everyone playing! It's gonna take a few months to completely launch this whole new version, but we're going to push whatever features we build along the way iteratively, so you guys can have early access to everything (of course after internal testing and polishing). Stay tuned, and please feel free to share any other feedback you may have",
+        "date": 1753946484
+      }
+    },
+    {
+      "id": "738830528843828",
+      "score": 5,
+      "review_title": "One of the Best Cricket Games",
+      "review_description": "I been having this game since the time it was free and on the app lab, this game has come a long way and it is honestly so good. You can do anything, but I wish there was an option to Bowl in the game and play as a bowler or Wicketkeeper. I wish that gets added in the future.",
+      "date": 1752559972,
+      "review_helpful_count": 0,
+      "author_display_name": "StrikerFloke",
+      "author_alias": "StrikerFloke",
+      "developer_response": null
+    },
+    {
+      "id": "30820957980824662",
+      "score": 2,
+      "review_title": "Dodgy physics, latest update is broken",
+      "review_description": "Hit the ball when the bat is nowhere near it, or miss the ball when it should have been hit.\nSince the latest update, every boundary is a 6, even when the ball rolls along the ground. If it's stopped by a fielder, then the game considers it a catch. \nIn its current state, it is unplayable, which is a shame, as it was fun prior, despite the still odd physics.",
+      "date": 1748774215,
+      "review_helpful_count": 4,
+      "author_display_name": "Firelord215",
+      "author_alias": "Firelord215",
+      "developer_response": {
+        "body": "UPDATE: This has been fixed!\n\nThanks for the bug report. This issue will be fixed within 2-3 hours from now.",
+        "date": 1751617005
+      }
+    },
+    {
+      "id": "688207264365516",
+      "score": 5,
+      "review_title": "Blazing!",
+      "review_description": "Final Overs Cricket VR is an absolute blast — intense, immersive, and packed with that edge-of-the-seat thrill every cricket fan loves, especially in those final-over moments!\n\nIt would be even more fun if we could take a turn at bowling too. Also, it’d be great to have an option to customize the bat size — the current bat and wicket feel a bit small and thin. A slightly broader bat would really hit the sweet spot!\n\nAdding a few more animations would also bring even more life and excitement to the experience.\n\nOverall, amazing job team — keep up the great work! Loving the vibe!",
+      "date": 1745897810,
+      "review_helpful_count": 2,
+      "author_display_name": "I.M.Groot",
+      "author_alias": "I.M.Groot",
+      "developer_response": null
+    },
+    {
+      "id": "696698086860201",
+      "score": 2,
+      "review_title": "Meh",
+      "review_description": "Dodgy physics and US commentary doesn't really do it for me.",
+      "date": 1751300136,
+      "review_helpful_count": 0,
+      "author_display_name": "ElectricPufferfish5790",
+      "author_alias": "ElectricPufferfish5790",
+      "developer_response": null
+    },
+    {
+      "id": "1878195923008580",
+      "score": 5,
+      "review_title": "Solid Game!",
+      "review_description": "As someone who's played this game since 2022, I can't help but say how good of a game it's been! It just keeps getting better and better, but I have a few recommendations:\n1) Introduce tournaments. Could be either T20's, or World Cups, \n2) Create new \"stadiums\", some fictional...but it would be fun! I'd be super down to play on a Mars map for example haha\n3) career mode would go so hard\n\nKeep it up guys!",
+      "date": 1741066977,
+      "review_helpful_count": 8,
+      "author_display_name": "ArmoLegend",
+      "author_alias": "ArmoLegend",
+      "developer_response": null
+    },
+    {
+      "id": "706067408611054",
+      "score": 5,
+      "review_title": "Great fun",
+      "review_description": "Helps me pick my shots better and practice when the awful English weather stops real life practice \nWorth it!",
+      "date": 1747673308,
+      "review_helpful_count": 0,
+      "author_display_name": "Will_playsvr",
+      "author_alias": "Will_playsvr",
+      "developer_response": null
+    },
+    {
+      "id": "664049649506090",
+      "score": 5,
+      "review_title": "Brilliant game",
+      "review_description": "I've seen this game grow into what is now a fantastic experience. The updates have continually enhanced the gameplay, and with the addition of national teams it is now even more immersive. The stadiums are so realistic, and I can't wait to see what the developers do next. Totally recommend",
+      "date": 1742569226,
+      "review_helpful_count": 3,
+      "author_display_name": "Gameforce",
+      "author_alias": "Gameforce",
+      "developer_response": null
+    },
+    {
+      "id": "680244824625715",
+      "score": 5,
+      "review_title": "Best cricket game for VR",
+      "review_description": "Playing this game for more than 2 years, the developers are constantly improving the game, love the new modes and players with names.",
+      "date": 1746944343,
+      "review_helpful_count": 0,
+      "author_display_name": "VRishalPrabhu",
+      "author_alias": "VRishalPrabhu",
+      "developer_response": null
+    },
+    {
+      "id": "661001349943288",
+      "score": 5,
+      "review_title": "Really good game for Cricket Players",
+      "review_description": "This game everything and is very entertaining and the bowlers are pretty realistic especially the pace. The only thing that is missing is a Test match format which they should add but other than that this game is worth every dollar.",
+      "date": 1743286490,
+      "review_helpful_count": 2,
+      "author_display_name": "Huzayl116",
+      "author_alias": "Huzayl116",
+      "developer_response": null
+    },
+    {
+      "id": "604593002593159",
+      "score": 5,
+      "review_title": "Final Overs Cricket",
+      "review_description": "I’ve been playing Final overs since 3 years and the game has been improved amazingly a lot. I am liking the recent improvements.",
+      "date": 1746389608,
+      "review_helpful_count": 0,
+      "author_display_name": "stargaryean",
+      "author_alias": "stargaryean",
+      "developer_response": null
+    },
+    {
+      "id": "617221804809108",
+      "score": 5,
+      "review_title": "Game review",
+      "review_description": "Good game had a lot of fun while playing it could you please tell me how to play test match in this game it’s doesn’t work on test match?",
+      "date": 1744789274,
+      "review_helpful_count": 0,
+      "author_display_name": "Hundal01",
+      "author_alias": "Hundal01",
+      "developer_response": {
+        "body": "Thanks for the review. We still don't have test mode available yet. Its coming soon though!",
+        "date": 1745214922
+      }
+    },
+    {
+      "id": "1145961163655777",
+      "score": 4,
+      "review_title": "",
+      "review_description": "This now is probably the best cricket game in VR. Got this in its early days, must admit I struggled a bit. There has  been some excellent updates since them days. Still a few things to work on ,but  it's my goto cricket game. Nice work guys.",
+      "date": 1740845558,
+      "review_helpful_count": 3,
+      "author_display_name": "Weeble_UK",
+      "author_alias": "Weeble_UK",
+      "developer_response": null
+    },
+    {
+      "id": "606587449211523",
+      "score": 5,
+      "review_title": "Enjoying alot",
+      "review_description": "Thanks for a good game. Kindly add world cup like event plzzzz",
+      "date": 1745925993,
+      "review_helpful_count": 0,
+      "author_display_name": "pyvenger",
+      "author_alias": "pyvenger",
+      "developer_response": null
+    },
+    {
+      "id": "645232012004335",
+      "score": 5,
+      "review_title": "Very realistic",
+      "review_description": "Very realistic game experience",
+      "date": 1745685947,
+      "review_helpful_count": 0,
+      "author_display_name": "Usman.001",
+      "author_alias": "Usman.001",
+      "developer_response": null
+    },
+    {
+      "id": "573160075884981",
+      "score": 5,
+      "review_title": "Graphics and amazing quality!",
+      "review_description": "The quality and graphics are amazing! Especially the stadiums! The game is smoother and better than any other cricket game I've played!",
+      "date": 1741567414,
+      "review_helpful_count": 2,
+      "author_display_name": "ZainRz7",
+      "author_alias": "ZainRz7",
+      "developer_response": null
+    },
+    {
+      "id": "613564311836520",
+      "score": 2,
+      "review_title": "",
+      "review_description": "Not worth 20 bucks but alright",
+      "date": 1743069611,
+      "review_helpful_count": 1,
+      "author_display_name": "Sidd16",
+      "author_alias": "Sidd16",
+      "developer_response": null
+    },
+    {
+      "id": "631647703156938",
+      "score": 5,
+      "review_title": "Best game for VR for Cricket lover",
+      "review_description": "I will appreciate for making this game for Cricket fans",
+      "date": 1742141187,
+      "review_helpful_count": 0,
+      "author_display_name": "AJITKHARWAR",
+      "author_alias": "AJITKHARWAR",
+      "developer_response": null
+    },
+    {
+      "id": "617182958146385",
+      "score": 5,
+      "review_title": "Absolutely Amazing Game",
+      "review_description": "I'm new to the VR cricket world but boy am I enjoying this game? Such wonderful graphics, commentary and the strokeplay. I would like to suggest though... If you could add haptics when playing a shot, that would be cool. Also the tournament feature would work wonders too. \nKeep it up.",
+      "date": 1745379833,
+      "review_helpful_count": 0,
+      "author_display_name": "BalerionTheBlackDread",
+      "author_alias": "BalerionTheBlackDread",
+      "developer_response": null
+    },
+    {
+      "id": "2800976536770769",
+      "score": 5,
+      "review_title": "Awesome game",
+      "review_description": "The graphics and the gameplay is awesome 👌",
+      "date": 1740419021,
+      "review_helpful_count": 0,
+      "author_display_name": "ashwin.shepherd",
+      "author_alias": "ashwin.shepherd",
+      "developer_response": null
+    },
+    {
+      "id": "598969836636208",
+      "score": 5,
+      "review_title": "",
+      "review_description": "A very good cricket game .it is affordable and much much better than any other cricket games on oculus quest",
+      "date": 1743686749,
+      "review_helpful_count": 0,
+      "author_display_name": "drago.320839",
+      "author_alias": "drago.320839",
+      "developer_response": null
+    },
+    {
+      "id": "794342931613682",
+      "score": 5,
+      "review_title": "Cricket in the USA",
+      "review_description": "I didn't really know what cricket was, certainly didn't know the rules. This game helped me learn the game. Super fun. Had the game for a while now and have seen the upgrades during that time. Awesome devs. Can't wait to see how it grows.",
+      "date": 1661791184,
+      "review_helpful_count": 1,
+      "author_display_name": "vadge",
+      "author_alias": "vadge",
+      "developer_response": null
+    },
+    {
+      "id": "277245157805911",
+      "score": 4,
+      "review_title": "Great game, I'm just rubbish at it! 😂",
+      "review_description": "I got this game as it looked good in the pics and vids. As it's an App Lab game, I knew there would be updates along the way. I've played it several times, but I just can't seem to get the timing right to get a boundary - 4 or 6! If I keep playing long enough, I'll get it I'm sure. Keep up the good work 👍🏼 😁",
+      "date": 1642240275,
+      "review_helpful_count": 1,
+      "author_display_name": "MindlessHero",
+      "author_alias": "MindlessHero",
+      "developer_response": {
+        "body": "As they say, practice makes perfect :D Thanks for the review",
+        "date": 1642243035
+      }
+    },
+    {
+      "id": "289600669552325",
+      "score": 3,
+      "review_title": "Improvements",
+      "review_description": "Fixer or additions = No vibration on controller when hitting + graphics are not so clear + balling missing + Multiplayer missing + more functionality needed in terms of controlling game + accessory replicate bat could be plus point. Over all good app.Hopefully with time it will be near to realistic play. Thanks",
+      "date": 1621123164,
+      "review_helpful_count": 0,
+      "author_display_name": "DJ.UzzY",
+      "author_alias": "DJ.UzzY",
+      "developer_response": {
+        "body": "Thank you very much for your feedback. There is actually vibration on the controller when you hit the ball or ground. It may need to be slightly increased though. We're working on graphics and bringing more stadiums. I've noted all your other points. Thanks so much",
+        "date": 1621128839
+      }
+    },
+    {
+      "id": "119072517526009",
+      "score": 3,
+      "review_title": "Game has good play. But major bugs",
+      "review_description": "My Game gets stuck when i try to change bat grip. cannot click on any manus. Had to restart quest2 to exit game. Delete game after not able to adjust bat grip.",
+      "date": 1658319112,
+      "review_helpful_count": 0,
+      "author_display_name": "tushar131088",
+      "author_alias": "tushar131088",
+      "developer_response": {
+        "body": "Sorry for your bad experience. This issue hasn't been reported before, but I will look into it. In the meantime, I highly encourage you to givei it another try, since the bat alignment functionality can also be used to play with a real bat (by attaching your controller to it)",
+        "date": 1658323801
+      }
+    },
+    {
+      "id": "119072197261648",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Great game of cricket overall need test cricket though 👏",
+      "date": 1638494040,
+      "review_helpful_count": 1,
+      "author_display_name": "ychohanmeta",
+      "author_alias": "ychohanmeta",
+      "developer_response": {
+        "body": "Thank you Adamken! Test Cricket is planned for a future release",
+        "date": 1638689507
+      }
+    },
+    {
+      "id": "119025413527172",
+      "score": 5,
+      "review_title": "Game changer!!",
+      "review_description": "This is the game I've been waiting for. It feels so realistic, you genuinely feel bat on ball. Small touches like having to look up to the bowler to initiate the delivery just makes it immersive and you know its been made by cricket fans for cricket fans. \n\nI love the fact that you are rewarded for good technique and timing. Nothing more satisfying than the odd forward defensive to a great ball.\n\nLooking forward to (hopefully) a multi player so u can bat with your buddy, and improved audio so u can turn off the limited commentary. But these are small points. \n\nA must for cricket fans and probably those who like sports games or racket sports. \n\nThanks for the game, great work!!",
+      "date": 1615592758,
+      "review_helpful_count": 1,
+      "author_display_name": "BGoldy78",
+      "author_alias": "BGoldy78",
+      "developer_response": {
+        "body": "Thank you so much 🙏 feature to mute commentary will be coming soon. While multiplayer is intended and would make the fun 10x greater, it won't be soon due to some technical challenges. We're excited to bring many more updates moving forward",
+        "date": 1615664222
+      }
+    },
+    {
+      "id": "118266340317642",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Very good game, realistic shots, realistic response. The ball comes at you quick. My only issue is when the bat is hard to recalibrate. Be good to see virtual bowling in this at some point to create a full game.",
+      "date": 1616500000,
+      "review_helpful_count": 0,
+      "author_display_name": "Davethereb",
+      "author_alias": "Davethereb",
+      "developer_response": {
+        "body": "Thank you for the feedback. Finding the best alignment for the bat takes some tries, but you can surely find the best fit for you. Bowling is technically very challenging given the limited tracking FOV of Quest, but I'm sure it will be hell of a fun. Will take this on board though",
+        "date": 1616504088
+      }
+    },
+    {
+      "id": "118036286967057",
+      "score": 5,
+      "review_title": "Good gameplay, needs more improvement!",
+      "review_description": "Being the only cricket VR game on Oculus store, this might enjoy many gaming hours from cricket lovers, but this has a lot to improve. Since the initial days when bat orientation was a bit off shots looked unreal,  the game has come a long way since. Stadium, gameplay, replays and options to select bat and control bat orientation is really good. What comes as a surprise is unreal shots now and then, and sometimes your clean placement goes off. The ball which has to hit bat on middle, and which player payed below the eyes, should not hit the stumps instead. There are still room for batting strokes dynamics to improve.\n\nUpdate after playing many more games. The game is getting better with every update. I like the barrage of short balls and Bouncers by fast bowlers especially Archer. But it would be better if game comply with ICC rule of having a maximum over limit of 4 overs per bowler. Plus, there’s no wide or no balls happening in the game, even if bowler bowls far left to leg stump. Having wide balls and runs awarded for same would be really awesome.",
+      "date": 1615935549,
+      "review_helpful_count": 0,
+      "author_display_name": "nktGaur",
+      "author_alias": "nktGaur",
+      "developer_response": {
+        "body": "Thank you so much for a detailed feedback. Wide balls has been a mysterious issue since it works fine for some people and it doesn't for others, but we'll figure it out soon. The ICC rule will also be implemented, but currently it's not a high priority on our list because it doesn't affect the gameplay much.\n\nHowever, we'll make the bowler selection smart so that if a bowler is economical, he gets priority in bowling a spell",
+        "date": 1615986105
+      }
+    },
+    {
+      "id": "117960234390386",
+      "score": 4,
+      "review_title": "Addictive game needs some improvements",
+      "review_description": "This game is really great and very addictive, physics is also amazing, but it needs some improvements, it has some bugs.\n\n1 - game stops working in the middle sometimes, you have to restart.\n\n2 - you hit a shot and it shows 3 runs and commentator says 2 and you get 2.\n\n3 - commentary can be more versatile, they just keep saying same things over and over again regardless of the situation, for example, I need 4 runs of 60 balls, and they still say I need 4s and 6s to win the game.\n\n4 - It should also allow the player to bowl and set the field to make the game more thrilling.",
+      "date": 1664760764,
+      "review_helpful_count": 1,
+      "author_display_name": "hussainsarwar007",
+      "author_alias": "hussainsarwar007",
+      "developer_response": {
+        "body": "Thank you Hussain for the detailed review. We have a very exciting instant multiplayer mode in development, which will allow your opponent to set custom field and bowling. \n\nI have noted all of your other points.",
+        "date": 1664867151
+      }
+    },
+    {
+      "id": "117447777818024",
+      "score": 5,
+      "review_title": "Great Game",
+      "review_description": "I have loved this game. I believe there is a lot to add aswell and would love to see a wicket keeping or bowling mechanic added in the future ( I understand bowling may be difficult). Overall the best game on my quest thus far and will continue to love playing",
+      "date": 1666804834,
+      "review_helpful_count": 1,
+      "author_display_name": "JonnyJussiJanner",
+      "author_alias": "JonnyJussiJanner",
+      "developer_response": {
+        "body": "Thank you! Bowling is coming SOON but not in VR. You can play full matches locally with your family/friends and they will be able to bowl or adjust fielding using their phone.",
+        "date": 1667385220
+      }
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-19T12:25:49Z"
+}

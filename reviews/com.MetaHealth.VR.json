@@ -1,0 +1,34 @@
+{
+  "app_id": "7333113650057987",
+  "package_name": "com.MetaHealth.VR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "MetaHealth VR",
+  "rating_average": 1,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "939997648914797",
+      "score": 1,
+      "review_title": "Having trouble playing!",
+      "review_description": "I can’t login or sign up play this game.",
+      "date": 1777777214,
+      "review_helpful_count": 0,
+      "author_display_name": "PrincessSoraRose",
+      "author_alias": "PrincessSoraRose",
+      "developer_response": {
+        "body": "Thanks for your feedback, SoraRose. Sorry for the trouble.\n\nOur app uses a subscription-based system, and access instructions are inside the virtual environment. We hear your frustration with the login and sign-up process, and we're working to make it more intuitive.",
+        "date": 1778004147
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:18:41Z"
+}

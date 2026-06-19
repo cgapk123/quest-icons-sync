@@ -1,0 +1,42 @@
+{
+  "app_id": "8856539844374985",
+  "package_name": "com.MersusTechnologies.AvatarAcademySingleApp",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Avatar Academy",
+  "rating_average": 4.5555555555556,
+  "rating_count": 9,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1199535074914470",
+      "score": 5,
+      "review_title": "Great for learning",
+      "review_description": "I love this app and can't wait for more content to be added. It's really educational and let's me learn how to do things in a safe environment hands on. The robot arm is also really cool, I didn't think I would get the opportunity to control something like that.",
+      "date": 1741774991,
+      "review_helpful_count": 5,
+      "author_display_name": "jsalicram",
+      "author_alias": "jsalicram",
+      "developer_response": null
+    },
+    {
+      "id": "1518969585725764",
+      "score": 5,
+      "review_title": "Future of training",
+      "review_description": "I was very impressed with not only the quality of the graphics but how well it performed",
+      "date": 1742403232,
+      "review_helpful_count": 2,
+      "author_display_name": "EarlFlynn",
+      "author_alias": "EarlFlynn",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T12:18:34Z"
+}
