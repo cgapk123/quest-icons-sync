@@ -1,0 +1,42 @@
+{
+  "app_id": "25544593951887910",
+  "package_name": "com.BatteryHealthVR.android.AA",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Battery Health VR",
+  "rating_average": 3.8333333333333,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1168269919696717",
+      "score": 1,
+      "review_title": "Terrible",
+      "review_description": "It need 100% battery to check and whenever you turn on your vr it imidately goes to 99% battery if this is changed it will rewrite my review  but for now I can never check it",
+      "date": 1779212111,
+      "review_helpful_count": 2,
+      "author_display_name": "19Lucy",
+      "author_alias": "19Lucy",
+      "developer_response": null
+    },
+    {
+      "id": "1076839218836460",
+      "score": 5,
+      "review_title": "Great app",
+      "review_description": "Great app for checking health status of the headset’s internal battery! easier than having to run tools pc",
+      "date": 1773885434,
+      "review_helpful_count": 1,
+      "author_display_name": "SeriousNBlack",
+      "author_alias": "SeriousNBlack",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:13:57Z"
+}

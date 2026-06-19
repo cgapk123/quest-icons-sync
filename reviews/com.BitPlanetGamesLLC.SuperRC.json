@@ -1,0 +1,972 @@
+{
+  "app_id": "6581889301939786",
+  "package_name": "com.BitPlanetGamesLLC.SuperRC",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Super RC",
+  "rating_average": 3.5330188679245,
+  "rating_count": 212,
+  "review_count": 96,
+  "reviews": [
+    {
+      "id": "1156665157525156",
+      "score": 4,
+      "review_title": "THE best VR RC experience on Quest 3!",
+      "review_description": "As a disabled person who still loves to build RCs irl, This is a great experience. There are times I can't get out in the yard to use my various rc's so this is PERFECT!\n\nFrom building your first track to racing for hours this one really has you covered.\n\nPlease keep adding little things 🙏",
+      "date": 1779821075,
+      "review_helpful_count": 9,
+      "author_display_name": "MMMRC",
+      "author_alias": "MMMRC",
+      "developer_response": null
+    },
+    {
+      "id": "1152420124619837",
+      "score": 5,
+      "review_title": "Very Good game",
+      "review_description": "I wanted a rc car game that had good graphics and mechanics and you get up to 30-10 points every  day which you can get different cars and trucks with your points and there is different maps for specific vehicles 5 stars",
+      "date": 1780284175,
+      "review_helpful_count": 1,
+      "author_display_name": "MCKTM2018",
+      "author_alias": "MCKTM2018",
+      "developer_response": null
+    },
+    {
+      "id": "929323680275256",
+      "score": 1,
+      "review_title": "Let down",
+      "review_description": "So I log into the game and it automatically says game isn't responding and crashed. Ok fine, reload and then I am in. But before you can race you have to build your RC car, mmmkay sure fine. But then you are instructed to put the wheels on. No wheels. Ooook, well I'm done. Nice try, swing and a miss, game must be made by Ford ...",
+      "date": 1771688419,
+      "review_helpful_count": 20,
+      "author_display_name": "OsilusKorps",
+      "author_alias": "OsilusKorps",
+      "developer_response": {
+        "body": "Crash should be resolved in the latest build, just accept the \"Mic\"  popup. There is / was an issue in some cases where the wheels can fall on the floor beside the box. Look beside the package / on the floor. Another possibility is that  they can be removed with the lid. Look inside the lid to see if they are there. Just shake the lid and they shoud fall out. This has also been imporved but not sure if its totaly fixed.",
+        "date": 1772079848
+      }
+    },
+    {
+      "id": "1117628081435487",
+      "score": 5,
+      "review_title": "Rc",
+      "review_description": "Very fun just needs more mp players and updates",
+      "date": 1779127572,
+      "review_helpful_count": 2,
+      "author_display_name": "Gokartking453",
+      "author_alias": "Gokartking453",
+      "developer_response": null
+    },
+    {
+      "id": "1032532129345332",
+      "score": 5,
+      "review_title": "Best game",
+      "review_description": "I never stopped playing this game 10 out of 10",
+      "date": 1780283283,
+      "review_helpful_count": 0,
+      "author_display_name": "Brobash2012",
+      "author_alias": "Brobash2012",
+      "developer_response": null
+    },
+    {
+      "id": "25548574934838058",
+      "score": 5,
+      "review_title": "Hard to start but rewarding",
+      "review_description": "This game is a gem.\nAt first you need getting used of the vr controls, I was struggling as naturally i took the controller in my left hand, but it's actually easier for me grabbing it with the right hand.\nYou can try the game for free and buy the other cars later, just try it but don't give up, when you get the hang of it, it is very good.\nSpecial mention to the music, lets say it's special but really fits the game.\nThere is plenty to do already and the game is in early access.",
+      "date": 1769680927,
+      "review_helpful_count": 7,
+      "author_display_name": "Phuerph",
+      "author_alias": "Phuerph",
+      "developer_response": null
+    },
+    {
+      "id": "877416505055461",
+      "score": 1,
+      "review_title": "The tutorial",
+      "review_description": "Dear person who made this. This games tutorial is hard just tell the people how to move forward and go backwards no one wants to have a long tutorial with a clanker voice yelling at me.\n\n\nit took me 2 hours for me to do the tutorial.",
+      "date": 1769440820,
+      "review_helpful_count": 10,
+      "author_display_name": "TJTornado4",
+      "author_alias": "TJTornado4",
+      "developer_response": null
+    },
+    {
+      "id": "1069742759551148",
+      "score": 1,
+      "review_title": "Bruh",
+      "review_description": "Bro how do u even complete the tutorial like bro it doesnt even work",
+      "date": 1774013711,
+      "review_helpful_count": 3,
+      "author_display_name": "Burping_Dev",
+      "author_alias": "Burping_Dev",
+      "developer_response": null
+    },
+    {
+      "id": "886627807692843",
+      "score": 5,
+      "review_title": "great game",
+      "review_description": "There are a few bugs and it takes longer to get tickets but other then that its a fun game and I hope they a more in through future",
+      "date": 1773356864,
+      "review_helpful_count": 0,
+      "author_display_name": "Legends4545",
+      "author_alias": "Legends4545",
+      "developer_response": null
+    },
+    {
+      "id": "1020131737845228",
+      "score": 1,
+      "review_title": "Sucks",
+      "review_description": "this game is stupid they are so stupid my car bairley touch a bump and its across th make dont play the peaple in dicord are rude",
+      "date": 1771710399,
+      "review_helpful_count": 2,
+      "author_display_name": "clackey84",
+      "author_alias": "clackey84",
+      "developer_response": null
+    },
+    {
+      "id": "983848364810843",
+      "score": 5,
+      "review_title": "Best experience for realistic rcdriving",
+      "review_description": "Best experience for realistic rc driving in virtual reality, tons of activities from racing to bashing around the many maps of the game and it even gets better when bying the additional cars or when making your own tracks cant wait for the game to become even larger as time goes by thank you devs for making the best RC simulator in world!",
+      "date": 1769699883,
+      "review_helpful_count": 1,
+      "author_display_name": "CrimsonArmadillo4706",
+      "author_alias": "CrimsonArmadillo4706",
+      "developer_response": null
+    },
+    {
+      "id": "1070827469441039",
+      "score": 5,
+      "review_title": "Nice",
+      "review_description": "It is vary fun",
+      "date": 1774128188,
+      "review_helpful_count": 0,
+      "author_display_name": "GlacialHammerhead2823",
+      "author_alias": "GlacialHammerhead2823",
+      "developer_response": null
+    },
+    {
+      "id": "998679796667523",
+      "score": 1,
+      "review_title": "the tutorial is impossible",
+      "review_description": "horrible game",
+      "date": 1774050389,
+      "review_helpful_count": 1,
+      "author_display_name": "CHASEtheGOAT18",
+      "author_alias": "CHASEtheGOAT18",
+      "developer_response": null
+    },
+    {
+      "id": "1003113539547782",
+      "score": 1,
+      "review_title": ".",
+      "review_description": "It simply does not work on Q3",
+      "date": 1771616066,
+      "review_helpful_count": 4,
+      "author_display_name": "ekmmiro",
+      "author_alias": "ekmmiro",
+      "developer_response": {
+        "body": "Many many people are able to play just fine. What specificly is happening? It just fails to run when the icon is clicked? There was an issue related to the \"Mic\" popup.  But that should be resolved in the latest build, just accept the \"Mic\" popup.",
+        "date": 1772184961
+      }
+    },
+    {
+      "id": "994048203357010",
+      "score": 5,
+      "review_title": "Nice game",
+      "review_description": "Super fun to play with friends!",
+      "date": 1781799036,
+      "review_helpful_count": 0,
+      "author_display_name": "Adam1014",
+      "author_alias": "Adam1014",
+      "developer_response": null
+    },
+    {
+      "id": "1130295133506688",
+      "score": 1,
+      "review_title": "How to even start the frogging game?!",
+      "review_description": "Stuck on the first screen",
+      "date": 1781280587,
+      "review_helpful_count": 0,
+      "author_display_name": "mararn1618",
+      "author_alias": "mararn1618",
+      "developer_response": null
+    },
+    {
+      "id": "1336037934923411",
+      "score": 1,
+      "review_title": "Worst onboarding experience of any game",
+      "review_description": "Couldnt work out what it wanted me to press regarding the controller.\n\nOpened a box. Couldn't find the wheels. Eventually found the wheels hidden underneath everything. Then the back wheels wouldnt go on.\n\nThe tablet is a nightmare to use as presses don't register half the time.\n\nIf you get to the tutorial and it's a big if then prepare for more frustration. Spent ages again figuring out what it wanted me to do. Especially finding reverse. I think I finally completed the basic tutorials and then gave up. An ordeal.\n\nI want to race a rc car round a track. Let me do that straight away and cut out all the other stuff PLEASE. Give me hints and tips as I drive round the track.\n\nGuys you might have something here but need a serious re-think to onboard players. Simplify the whole process and get people into the main game asap.",
+      "date": 1762125744,
+      "review_helpful_count": 20,
+      "author_display_name": "gregan78",
+      "author_alias": "gregan78",
+      "developer_response": {
+        "body": "UPDATE:  Please come back and check out the new and improved Tutorial.  We'd love it if you gave us a second chance!",
+        "date": 1762380130
+      }
+    },
+    {
+      "id": "1273100458046368",
+      "score": 1,
+      "review_title": "Horible",
+      "review_description": "The tutorial of the game was the worst it would not let me go to the next stage",
+      "date": 1770519759,
+      "review_helpful_count": 2,
+      "author_display_name": "Hoff_House",
+      "author_alias": "Hoff_House",
+      "developer_response": null
+    },
+    {
+      "id": "1181492117133043",
+      "score": 5,
+      "review_title": "Surprised at the amount of content.",
+      "review_description": "I've always wanted to race RC cars around a track, and thanks to this game I can! This is an early access title, which has a few things it needs to iron out. The tutorial and setting up your first RC car are probably the biggest things, but those are easy to fix and the devs are already aware. Pretty much everything else about this game is awesome and feels well polished.\n\nThere are sandbox modes, stunt tracks, skate parks, and racing circuits. There are time trials, and racing series where you race against bots. There is also multiplayer, a shop where you can browse DLC and test drive cars, and you can customize your cars and your players appearance. For an early access title that is this cheap, this is a no brainer, especially if you are into RC cars. I've been having a blast and can't wait to see this game get even better with future updates.",
+      "date": 1760058535,
+      "review_helpful_count": 51,
+      "author_display_name": "Teeepee",
+      "author_alias": "Teeepee",
+      "developer_response": null
+    },
+    {
+      "id": "760589540333532",
+      "score": 5,
+      "review_title": "Very good but missing some things.",
+      "review_description": "I know it's early access so it's totally understandable. This is the best rc game on Oculus but it has some things that I don't like, only one car is free(in my opinion you should have to earn money by doing races to get the cars OR buy them with money, if you are doing this because you use the money as support you could just make a donate board, if someone is ready to spend some money on the cars in sure they'll be happy to donate and maybe get a supporter hat or something like that. I hope the creator sees this🤞",
+      "date": 1763240646,
+      "review_helpful_count": 8,
+      "author_display_name": "ivokillen",
+      "author_alias": "ivokillen",
+      "developer_response": null
+    },
+    {
+      "id": "906820695857267",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "This game is amazing but it needs to get a upgrade it needs more rc cars",
+      "date": 1770872944,
+      "review_helpful_count": 1,
+      "author_display_name": "dirtbike.951964",
+      "author_alias": "dirtbike.951964",
+      "developer_response": null
+    },
+    {
+      "id": "1072857582586733",
+      "score": 4,
+      "review_title": "Great game",
+      "review_description": "Its a great game if you like rc cars and building them",
+      "date": 1779443670,
+      "review_helpful_count": 0,
+      "author_display_name": "PlayfulClownfish2486",
+      "author_alias": "PlayfulClownfish2486",
+      "developer_response": null
+    },
+    {
+      "id": "1625738365225197",
+      "score": 5,
+      "review_title": "Besst game ever!!",
+      "review_description": "The qultey is amazing",
+      "date": 1771010416,
+      "review_helpful_count": 1,
+      "author_display_name": "DeclanGk162",
+      "author_alias": "DeclanGk162",
+      "developer_response": null
+    },
+    {
+      "id": "4341765082770056",
+      "score": 1,
+      "review_title": "Painful",
+      "review_description": "1. The User Interface is horrible, the menus and the tablet are difficult.  \n2. The Graphics are average, without shadow perspective.\n3. The Maps are poor, flat or obstructed from view.\n4. The Physics are inacurrate, too floaty.\n5. The Paywall for other maps and cars is hidden around every corner.\n6. The 'game' tries too hard to simulate real life. Such as opening a box with a box cutter, and assembling a car with 5 wheels... takes way too long.\n7. The Mixed Reality mode is just a passthrough for a square space.\n8. The RC controller always dropping out of my hand, and is just strange to pretend to operate a standard RC controller while holding a two VR controllers.\n\nI applaud the developer for making the Application, but it's another failure to understand that the user just wants to drive RC cars, versus the developer wanting a quick way to generate money.",
+      "date": 1761684290,
+      "review_helpful_count": 10,
+      "author_display_name": "RO4DHOG",
+      "author_alias": "RO4DHOG",
+      "developer_response": {
+        "body": "Come to Discord.gg/BPG and let's discuss.",
+        "date": 1761684508
+      }
+    },
+    {
+      "id": "1086359011223206",
+      "score": 1,
+      "review_title": "Boring",
+      "review_description": "I downloaded the game got in and i had to build the rc car that was a good way to start when i finished that i suggest we can actually walk the the door instead of just teleporting Outside. Second where is every body it said there were like hundreds of people playing but i couldn't find any servers i made my own and nobody joined. We need more fixes.",
+      "date": 1774219650,
+      "review_helpful_count": 0,
+      "author_display_name": "mangotea",
+      "author_alias": "mangotea",
+      "developer_response": null
+    },
+    {
+      "id": "855497563678212",
+      "score": 5,
+      "review_title": "The best RC game on meta",
+      "review_description": "After a somewhat slow tutorial there's near infinite racing and stunt driving to do. I've spent most of my time playing in the sandbox making courses and stunt jumps for myself and my friends. If you like RC cars this is a must have. Every car feels unique and the controls are pretty rock solid once you finally get a feel for them",
+      "date": 1761576706,
+      "review_helpful_count": 9,
+      "author_display_name": "CulttLeader",
+      "author_alias": "CulttLeader",
+      "developer_response": null
+    },
+    {
+      "id": "780510181491483",
+      "score": 2,
+      "review_title": "Good idea but needs work",
+      "review_description": "I have several rc cars in real life and thought this would be good fun to try. I really like the idea of this game and building the rc cars although just adding the wheels was a little bit of a disappointment. I looked for a way to reverse the steering as it is the opposite of how rc remote controls work in real life. I was also a little disappointed with the car that you get at the start as it's quite slow but seems to have a lot of power to spin out on itself, again very different to real life. Also a shame that you have to pay extra to get a different model too.",
+      "date": 1760042991,
+      "review_helpful_count": 20,
+      "author_display_name": "Nitropaul",
+      "author_alias": "Nitropaul",
+      "developer_response": {
+        "body": "UPDATE:  If you get the latest update the control issue you mentioned has since been resolved.  You do have access to 3 cars, in total, for multiplayer.  \n\nPlease join our Discord (Discord.gg/BPG) and we'd be more than happy to assist.",
+        "date": 1760122080
+      }
+    },
+    {
+      "id": "1070082329527370",
+      "score": 1,
+      "review_title": "O",
+      "review_description": "Nop",
+      "date": 1778965805,
+      "review_helpful_count": 0,
+      "author_display_name": "JumpingSquid7162",
+      "author_alias": "JumpingSquid7162",
+      "developer_response": null
+    },
+    {
+      "id": "915623844976264",
+      "score": 3,
+      "review_title": "It’s ok",
+      "review_description": "I would play it more except my X button on my controller doesn’t work, it’s a good game for being free.",
+      "date": 1768611547,
+      "review_helpful_count": 0,
+      "author_display_name": "Killdeer45",
+      "author_alias": "Killdeer45",
+      "developer_response": null
+    },
+    {
+      "id": "955463757647718",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Devs are nice but the cars are a little too pricey and the owner is nice. Also can you guys hook me up with some cars",
+      "date": 1768170176,
+      "review_helpful_count": 0,
+      "author_display_name": "BigBar01",
+      "author_alias": "BigBar01",
+      "developer_response": null
+    },
+    {
+      "id": "1008760405658246",
+      "score": 4,
+      "review_title": "Better than you would think!",
+      "review_description": "Even though they use alot of AI generated stuff and the tutorial needs work, this game is actually REALLY good and will scratch that childhood RC itch. Random idea: have maybe one or two random games on the RC ipad like a flappy bird type thing. I just think it would be a silly cool thing",
+      "date": 1773559446,
+      "review_helpful_count": 0,
+      "author_display_name": "Steel_5",
+      "author_alias": "Steel_5",
+      "developer_response": null
+    },
+    {
+      "id": "891301800241623",
+      "score": 4,
+      "review_title": "It’s a blast",
+      "review_description": "Love this game.  I have always liked RC cars.  There is a little bit of a learning curve to drive the cars.  May be more of a challenge for those who have not driven RC cars before.  Fun tracks.  Build your own.  Race with friends and pick fun at each other when ya crash:)",
+      "date": 1764796763,
+      "review_helpful_count": 1,
+      "author_display_name": "Ariston_Lareaux53",
+      "author_alias": "Ariston_Lareaux53",
+      "developer_response": null
+    },
+    {
+      "id": "4147096575601428",
+      "score": 5,
+      "review_title": "Awesome RC game!",
+      "review_description": "I've been wanting an rc simulator in VR and this one is awesome! It's free to play so why not give it a go? I've purchased all of the dlc so far and each car drives different and they are all super fun! I'd love to be able to download other users tracks at some point but apart from that it's actually so much fun! Also join their discord, the dev is super responsive and very keen to make the game even better. Highly recommend!",
+      "date": 1762230735,
+      "review_helpful_count": 3,
+      "author_display_name": "Krammis76",
+      "author_alias": "Krammis76",
+      "developer_response": null
+    },
+    {
+      "id": "1342439860596486",
+      "score": 5,
+      "review_title": "Amazing game I didn't know I wanted.",
+      "review_description": "One of my favourite games on pc was revolt. You raced RC cars around crazy maps while collecting power ups like rockets and speed boosts. \n\nThis game has activated a deep nostalgia for that game. \n\nSo I hope one day you can add a revolt type racer dlc. You already have the onboard camera view, now you just need circuits through city streets and over desks and through supermarkets (a power up/pickup system would be awesome too.) \nSome crazy hot wheels tracks wouldn't be amiss either. \n\n\nAt the moment the game feels very polished. I enjoy racing around using the on board camera view. It has a lot of content already, although I don't think every map has races yet? Maybe I am wrong. For example I couldn't see any races in the skatepark. \n\nThe single car dlc seems a bit expensive, however I understand what you are going for: free game funded by add-ons. I hope the game is a success and continues to grow. You really have something special here. \n\nNow I need to go track down a copy of revolt.",
+      "date": 1761510446,
+      "review_helpful_count": 4,
+      "author_display_name": "Scooby_Dont",
+      "author_alias": "Scooby_Dont",
+      "developer_response": null
+    },
+    {
+      "id": "839491998822387",
+      "score": 5,
+      "review_title": "RC cars for folks without the space",
+      "review_description": "There's a lot of to like here.  It'll end up with at least 7 DLC cars, which I think is great.  It's a really good mix of the different types out there.  In the end it'll be less expensive than even a cheap RC car, let alone the 1/5 scale ones depicted here.  \n\nAfter the tutorial you're into the the meat and potatoes, which is solid.  There are a couple locations that are just for playing around in, but there are others which contain missions/time trials and/or races for a specific car.  I knew going in that the cars had FPV mode available, but what I didn't know was that they had a ghost car during the time trails.  That impressed me.\n\nI feel like anyone with even a passing interest in RC cars should pick this up, play the single player missions with the starter car, and check out the multiplayer.  I'm guessing you'll like it enough to grab another car (or three haha).  Not the least expensive game in the long run, but a lot less than the other DLC-heavy games.",
+      "date": 1762827588,
+      "review_helpful_count": 2,
+      "author_display_name": "Archangel_01",
+      "author_alias": "Archangel_01",
+      "developer_response": null
+    },
+    {
+      "id": "1492278512071968",
+      "score": 1,
+      "review_title": "Either slow or sick",
+      "review_description": "The car is so difficult to control from remote control view but FPV view gives me so much motion sickness. FPV tunneling option in the setting might help but doesn't seem to do anything when enabled. I see no view tunneling when in FPV mode.\n\nI want to like this game but without more stable FPV camera settings it's basically unplayable.",
+      "date": 1763696251,
+      "review_helpful_count": 1,
+      "author_display_name": "RancidTofu",
+      "author_alias": "RancidTofu",
+      "developer_response": {
+        "body": "There are two settings in the Settings / Comfort tab on the Tablet.  One for FPV mode and one for just walking around.  If you need further assistance contact us on our Discord at Discord.gg/BPG",
+        "date": 1764011259
+      }
+    },
+    {
+      "id": "1387683412696235",
+      "score": 5,
+      "review_title": "THE FUTURE OF TOP RC RACING IN VR!",
+      "review_description": "VR RACING FOR WILD FRIENDS\nSuper RC is the nostalgia of RC cars revisited in an immersive VR version: you assemble your car, build crazy ramps, and compete with friends with up to 8 players.\nThe sandbox mode is particularly successful. It's a real playground: creating tracks, testing impossible jumps, and laughing at the crashes is just perfect for a fun and relaxed session.\nThe multiplayer mode with up to 8 players adds a social dimension and works well.\nIt's great to see your friends racing on the same crazy track.\nThe excellent intro lets you assemble your car right out of the box, using a utility knife! The graphics are beautiful, polished, and inspired, making the game very immersive.\nAn improvable tutorial, sometimes lacking clarity, guides you through several lessons.\nMany camera views are available, from a distance or from inside the car – excellent!\nBit Planet continues to add content (cars, obstacles, modes, customization) and improves the physics and interface. It's a great success for relaxing, laughing, sharing, and having a good time, without aiming for simulation but focusing on pure fun\nTHE FUTURE OF RC RACING IN VR \nStill in early access, Super RC sometimes lacks polish, such as a more explicit tutorial to get started, but its potential is obvious. It will become a must-have for VR \"party racing.\" If you like creative and friendly games, go for it!.",
+      "date": 1761995433,
+      "review_helpful_count": 2,
+      "author_display_name": "Majerik",
+      "author_alias": "Majerik",
+      "developer_response": null
+    },
+    {
+      "id": "1401880758314552",
+      "score": 5,
+      "review_title": "Loving the free to play!",
+      "review_description": "One of my favorite experiences on quest 3 yet.  Controls are a bit difficult to maintain your groove, wishing I could use a xbox/ps4/rc transmitter for better accuracy.  \nGreat job on this title, its a hell of an early access f2p",
+      "date": 1761434596,
+      "review_helpful_count": 4,
+      "author_display_name": "kristian.wiseman",
+      "author_alias": "kristian.wiseman",
+      "developer_response": null
+    },
+    {
+      "id": "1841669889753873",
+      "score": 5,
+      "review_title": "RC cars, what else needs to be said?",
+      "review_description": "Good silly fun.  Cars are pretty realistic, so there's a bit of a learning curve, but it's fun even if you're terrible at it.  Tons of things to do, it's gonna take me some time to fully dig into this.   I especially like the skate parks!  Tons of customization option, especially with the track builder.  I bought the Founder's pack, and I'm enjoying all 4 cars.  Looking forward to them releasing more cars in the future too.",
+      "date": 1760469573,
+      "review_helpful_count": 3,
+      "author_display_name": "SubCog",
+      "author_alias": "SubCog",
+      "developer_response": null
+    },
+    {
+      "id": "858848930638956",
+      "score": 4,
+      "review_title": "The game idea is good, but there is room",
+      "review_description": "The idea of ​​the game is good, and everyone can experience the fun of remote control cars from it. However, as someone who owns an RC car in real life, I feel that the game physics are a bit strange when playing this game. Take GT3 as an example. The rear tire of the remote control car in the game has little grip, and the car's posture is a bit different from that in reality. Moreover, you have to press the front and back of the remote control to have power. Otherwise, the remote control car feels very slow, and it feels like the front and back of the remote control are not linear. I hope that the creative team can improve this problem in the future and add a vehicle adjustment function, so that players can adjust the car to get a better feel.🙏😆",
+      "date": 1760353231,
+      "review_helpful_count": 3,
+      "author_display_name": "larence.731907",
+      "author_alias": "larence.731907",
+      "developer_response": null
+    },
+    {
+      "id": "1619848942334098",
+      "score": 5,
+      "review_title": "Great great game",
+      "review_description": "Great game. I always desired to try driving a rc machine but it is very expensive and tricky. But with this game all my desire come true. I have a little complain to do. The game's specification says that internet is unnecessary but to try the race with other cars in the tracks (not multiplayer but only against robotic gamers) i see internet is necessary. I ask to developers if is it possible to implement a game mode where internet is unnecessary to play in solo mode. This request is because when i go on vacation i do not have an internet connection and i cannot play a competition. I hope in a next release.\nAfter a several hours to play i noted that is quite difficult even in beginner mode. I tried many times but i am not be able to win a race. If this is the level of difficulty of beginner mode i guess that the higher leve will be impossible to pass...\n\nThank you for this awesome game",
+      "date": 1760275935,
+      "review_helpful_count": 3,
+      "author_display_name": "maddon80",
+      "author_alias": "maddon80",
+      "developer_response": {
+        "body": "Please contact us on our Discord (Discord.gg/BPG) we'd love to learn more about the beginner race experiences.",
+        "date": 1760482397
+      }
+    },
+    {
+      "id": "1199736481964768",
+      "score": 5,
+      "review_title": "High Potential",
+      "review_description": "A bit too reduced content, for paid early access. But since the tutorials, challenges and races are well presented and the physics are fun and plausible, ist absolutely worth a Look.",
+      "date": 1760027884,
+      "review_helpful_count": 9,
+      "author_display_name": "DexterMurphy666",
+      "author_alias": "DexterMurphy666",
+      "developer_response": null
+    },
+    {
+      "id": "870718306120906",
+      "score": 5,
+      "review_title": "Rc racing",
+      "review_description": "I gotta say this vr games pretty optimized for what it does it fun physics are actually decent and it whole lot cheaper to be in rc hobby with this game now what's nice about game it in early access till sometime next year so there plenty of time for this game to get better and for them to implement qol and content to it before 1.0 and if we get 1000 members on the discord we may get some content I don't know I thought I read that somewhere on the discord any ways I'll see y'all on the track",
+      "date": 1762136815,
+      "review_helpful_count": 1,
+      "author_display_name": "BubblyHedgehog4733",
+      "author_alias": "BubblyHedgehog4733",
+      "developer_response": null
+    },
+    {
+      "id": "1365985665029087",
+      "score": 5,
+      "review_title": "Potential to become the GOAT VR RC sim",
+      "review_description": "At launch this is 100% sandboxy with different play modes (street, skate parks, indoor racing circuit), a basic car and paid DLCs to expand. The cars feel great, their physics feel rewarding and complex that should scratch the \"easy to start, hard to master\" itch. You can feel the signature attention to the detail of the studio in the level of polish of the cars and their controls. They also added immersive interactions for unboxing the cars and assembling them, which is really cool.\n\nUPDATE: There are two big features that I totally missed and only learned about thanks to the dev's reply to my initial review!! \n\n1- The industrial building where the track editor is has a series of time trials of increasing difficulty, which gives the game a bit of a single player progression. \n\n2- If you open a multiplayer lobby in the street, you can place props from a HUGE library and build obstacle courses and improvised stunt tracks. You can move the light objects by hand or you can use a gravity tool. Incredible stuff that you are likely to miss!!!\n\nOn the negative side, I feel slight frame drops here and there, even when walking around the shop. And I found a couple of annoying bugs: the turning options changing to \"snap turn\" for no apparent reason, or even stopping working. I was also stuck several times when going to a purchasing menu from Meta and not being able to cancel and go back. That's likely an OS problem.",
+      "date": 1760340626,
+      "review_helpful_count": 2,
+      "author_display_name": "Jadranko.K-K",
+      "author_alias": "Jadranko.K-K",
+      "developer_response": {
+        "body": "Hello, thank you for taking the time to write up your thoughts.\n\nWe actually have a full Trials and Races system.  Just go to the Jumper Tracks in the Maps menu to get started!\n\nAlso, there is a sandbox mode that allows you spawn and place down a variety of ramps and props to make your own obstacles courses.  Just go into MP and start either a private or public sandbox server.  We are adding a Sandbox app to the tablet for singleplayer very soon.",
+        "date": 1760272618
+      }
+    },
+    {
+      "id": "923014387560836",
+      "score": 1,
+      "review_title": "It’s not fun",
+      "review_description": "The game made no sense and was way to challenging to play",
+      "date": 1765768006,
+      "review_helpful_count": 0,
+      "author_display_name": "HipHop_fan13",
+      "author_alias": "HipHop_fan13",
+      "developer_response": null
+    },
+    {
+      "id": "1038859945975526",
+      "score": 1,
+      "review_title": "Big hopes",
+      "review_description": "Me and my son are Rc racers so I had big hope and it look promising but sadly we havent been able to test it because it chrashes on our Metaquest 3. Reinstallere twice but nothing helpes",
+      "date": 1771972596,
+      "review_helpful_count": 0,
+      "author_display_name": "RCKID2015",
+      "author_alias": "RCKID2015",
+      "developer_response": {
+        "body": "You can simply accept the \"Mic\" popup and restart the game. It will then work. OR get the latest update. It should be resolved.",
+        "date": 1772079585
+      }
+    },
+    {
+      "id": "2498021610578871",
+      "score": 3,
+      "review_title": "A bit confusing...",
+      "review_description": "I wanted to like this, but even the initial \"how to use controls\" was super clunky, it wasn't clear how to get past the steering control instruction, until finally it told me how to flick the control to \"on\" to progress past the start screen. And then once I assembled the car and took the car outside to attempt to drive it in a straight line, I managed to get the car to rev, but not move forwards. Maybe I missed the instruction but apparently u need to hold 2 buttons to drive forwards.. honestly the whole experience felt too hard.\nThere's a lot of potential, but this game wasn't for me.",
+      "date": 1761205534,
+      "review_helpful_count": 1,
+      "author_display_name": "sack_",
+      "author_alias": "sack_",
+      "developer_response": null
+    },
+    {
+      "id": "837709022759149",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "I can’t believe this game is free there is so much detail and it’s only JUST come out I can’t wait for future updates I’m addicted",
+      "date": 1761954956,
+      "review_helpful_count": 3,
+      "author_display_name": "LeonNG8",
+      "author_alias": "LeonNG8",
+      "developer_response": {
+        "body": "What seems to be the problem?  You can either email us at support@bitplanetgames.com or jump into our Discord (Discord.gg/BPG) we'd be happy to assist.",
+        "date": 1761925571
+      }
+    },
+    {
+      "id": "801171176053384",
+      "score": 5,
+      "review_title": "Super expansive, most of it is free",
+      "review_description": "it is a great game comma with a lot of content available for free. the paid content is separate enough from the main content that you would never need to pay anything to play the game if you don't want to. it's likely still worth it though if you do.",
+      "date": 1762148749,
+      "review_helpful_count": 1,
+      "author_display_name": "Roguesquadronone",
+      "author_alias": "Roguesquadronone",
+      "developer_response": null
+    },
+    {
+      "id": "861618983476049",
+      "score": 2,
+      "review_title": "LET ME RE OPEN BOXES",
+      "review_description": "so i opened the turbo jumper and i want to assemble it again but i cant",
+      "date": 1765062042,
+      "review_helpful_count": 1,
+      "author_display_name": "enriemer",
+      "author_alias": "enriemer",
+      "developer_response": null
+    },
+    {
+      "id": "829712026899748",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "This game is so much better than I thought I thought the game would be a little difficult but the game has performed better than I thought it could use some work like multiplayer. I can express my creativity and have fun with something I like.",
+      "date": 1762140166,
+      "review_helpful_count": 0,
+      "author_display_name": "kole711",
+      "author_alias": "kole711",
+      "developer_response": null
+    },
+    {
+      "id": "915664358295518",
+      "score": 5,
+      "review_title": "This game is bad",
+      "review_description": "This game sucks cause it doesn’t let me load in the game. Fix the game so I can play the game.",
+      "date": 1764257369,
+      "review_helpful_count": 0,
+      "author_display_name": "Luxuryvr2025",
+      "author_alias": "Luxuryvr2025",
+      "developer_response": {
+        "body": "Please jump into our Discord (Discord.gg/BPG) as we are unable to reproduce this issue.",
+        "date": 1764790544
+      }
+    },
+    {
+      "id": "2811249235747407",
+      "score": 5,
+      "review_title": "RC racing",
+      "review_description": "How do you pick the car up I have tried everything after putting the wheels on my first rc car and why are so many vr games so hard to work out how to play them as most games on the quest 3 vr I don't know how to play them never had this problem with the 1st quest vr headset hi thank you for letting me know 👍👍👍",
+      "date": 1760356419,
+      "review_helpful_count": 1,
+      "author_display_name": "severetomb",
+      "author_alias": "severetomb",
+      "developer_response": {
+        "body": "Hi, no need to pick up your car.  Once you go outside the car will be outside waiting for you.",
+        "date": 1760327349
+      }
+    },
+    {
+      "id": "1451379422602494",
+      "score": 5,
+      "review_title": "Free To Play!!",
+      "review_description": "What are you waiting for?! :D\n\nSeriously, best devs ever. And the game's a blast!!",
+      "date": 1761334860,
+      "review_helpful_count": 4,
+      "author_display_name": "baglunch",
+      "author_alias": "baglunch",
+      "developer_response": {
+        "body": "Email us at support@bitplanetgames.com and we'll hook you up.",
+        "date": 1761332742
+      }
+    },
+    {
+      "id": "783085718231887",
+      "score": 3,
+      "review_title": "Multiplayer issues",
+      "review_description": "Update: a dev has reached out to assist me with my issues. Ill update when its resolved.\n\nLike I said, multiplayer is not working. I got a copy for me and my son. We made it through the training and completed all the tasks to unlock multiplayer. I went in eager to have the multiplayer experience, got my private lobby code, got my son to enter it and the join lobby button is non responsive. I got my son to set up a private lobby and i entered the code, same issue. Pain in the butt man! I ensured both the headsets were joinable as well. 2nd issue, when entering the lobby codes that go nowhere... The uppercase button goes back to lowercase everytime.. I tried to enter a lobby code about 6 times, not one single time was there a lowercase letter in any of the codes.. So why even have a uppercase button.. too irritate me? \nOther then those two issues, I'm okay with the playability.. I'm giving one star mostly because im forced to buy two copies of all multiplayer games because i have two headsets.. I jumped through all the hoops, the least you developers could do is ensure i can play the multiplayer part of the game. Its exhausting dealing with crap like this..",
+      "date": 1760297002,
+      "review_helpful_count": 0,
+      "author_display_name": "Gonzo.77",
+      "author_alias": "Gonzo.77",
+      "developer_response": {
+        "body": "Hi, we absolutely want to assist you with this as we've tested Private Games extensively.  Please either send us an email at support@bitplanetgames.com or join our Discord at Discord.gg/BPG and we'd be more than happy to assist you getting this working.\n\nQuick update:  When joining a private server make sure you press the Enter key on the keyboard after entering the code.  (note: the UX for this will be improved in the next update)",
+        "date": 1760453207
+      }
+    },
+    {
+      "id": "876474112221766",
+      "score": 1,
+      "review_title": "Hard",
+      "review_description": "the tutorial is so impossible like no tutorial please aunt hard",
+      "date": 1764214251,
+      "review_helpful_count": 0,
+      "author_display_name": "big_ten_fan",
+      "author_alias": "big_ten_fan",
+      "developer_response": {
+        "body": "Please jump into our Discord (Discord.gg/BPG) to further explain what you find difficult about the tutorial.",
+        "date": 1764790579
+      }
+    },
+    {
+      "id": "845368991995950",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "I did not find any bugs in my playtime physics seem to be good and its something unique",
+      "date": 1761575306,
+      "review_helpful_count": 3,
+      "author_display_name": "TORENCH.VR",
+      "author_alias": "TORENCH.VR",
+      "developer_response": null
+    },
+    {
+      "id": "2024015428436007",
+      "score": 5,
+      "review_title": "Accessibility concern",
+      "review_description": "Already fun to play even in Early Access, I would suggest you add another way to steer the car. I have wrists that point outwards, and it makes it straining to use the wheel to turn the vehicle. I'd prefer using (for example) the right thumbstick for steering.",
+      "date": 1760469085,
+      "review_helpful_count": 1,
+      "author_display_name": "LiamSwooft",
+      "author_alias": "LiamSwooft",
+      "developer_response": null
+    },
+    {
+      "id": "836705185555116",
+      "score": 4,
+      "review_title": "This could be big!",
+      "review_description": "I like the game and the price is really good but the physics and graphics need some work.",
+      "date": 1761424580,
+      "review_helpful_count": 2,
+      "author_display_name": "Distortion73",
+      "author_alias": "Distortion73",
+      "developer_response": null
+    },
+    {
+      "id": "2315849285584832",
+      "score": 2,
+      "review_title": "Good but not great",
+      "review_description": "Driving feels fine, but using the tablet just feels weird. And why cant the game track the amount of laps left instead of time. I know the game orffers a ton of content, and that's good, but I thought the hobby store had others cars I could buy, but i relized that you have to pay real money. Why cant i earn cars through game progression. Games trying to steal my wallet at this point. The game is kinda fun, but it could be totally better (side note sandbox is broken and the help tab didn't give me enough  information).\nedit: game is pay to win and also has ai generated images, moslty in the house",
+      "date": 1768167891,
+      "review_helpful_count": 0,
+      "author_display_name": "EliteCephalopod",
+      "author_alias": "EliteCephalopod",
+      "developer_response": null
+    },
+    {
+      "id": "32130000599947566",
+      "score": 5,
+      "review_title": "More fun than you think",
+      "review_description": "The whole game is built up around the fun of physically holding an RC controller and being free to do what would otherwise break a real physical RC car.",
+      "date": 1761203098,
+      "review_helpful_count": 2,
+      "author_display_name": "GamerSan",
+      "author_alias": "GamerSan",
+      "developer_response": null
+    },
+    {
+      "id": "800592762616814",
+      "score": 5,
+      "review_title": "Great fun and qute challenging",
+      "review_description": "I am new to RC racing but this game certainly feels real. It's great that it includes a track editor. Also pleased that it includes a first person view.",
+      "date": 1760536905,
+      "review_helpful_count": 2,
+      "author_display_name": "flegmatron",
+      "author_alias": "flegmatron",
+      "developer_response": null
+    },
+    {
+      "id": "951065591419270",
+      "score": 5,
+      "review_title": "great game",
+      "review_description": "I randomly found this game and downloaded it cause it was free and I love it you drive an RC car watching it or in the cars view and there's tons of tracks to race on and there's probably gonna be more in the future. \nedit: bought the founders pack gives you a few new vehicles and they are very fun and so are the extra maps",
+      "date": 1767811097,
+      "review_helpful_count": 0,
+      "author_display_name": "xkilla2007",
+      "author_alias": "xkilla2007",
+      "developer_response": null
+    },
+    {
+      "id": "806770138931238",
+      "score": 5,
+      "review_title": "I Like this game",
+      "review_description": "It cool, I all way want a RC game and now mu dream is real",
+      "date": 1761360185,
+      "review_helpful_count": 3,
+      "author_display_name": "aydan.hedez",
+      "author_alias": "aydan.hedez",
+      "developer_response": null
+    },
+    {
+      "id": "683292874840971",
+      "score": 1,
+      "review_title": "a$s tutorial",
+      "review_description": "the tutorial took more than an hour do not get storage wise",
+      "date": 1762025723,
+      "review_helpful_count": 2,
+      "author_display_name": "drew.11514",
+      "author_alias": "drew.11514",
+      "developer_response": {
+        "body": "Please come and check out our new and improved tutorial!",
+        "date": 1762380212
+      }
+    },
+    {
+      "id": "1456876605596870",
+      "score": 5,
+      "review_title": "This is a great sandbox",
+      "review_description": "This is more than an RC car racing game, it's a great sandbox to play around with, great VR physics and jank of the highest caliber. \nLove it!!!!",
+      "date": 1760226940,
+      "review_helpful_count": 2,
+      "author_display_name": "Russ_Blake",
+      "author_alias": "Russ_Blake",
+      "developer_response": null
+    },
+    {
+      "id": "898850929967234",
+      "score": 3,
+      "review_title": "Hope u have money",
+      "review_description": "Everthing is good but i cant belive u have to pay to unlock other rc cars.And after a while using the same car the game gets boring.",
+      "date": 1761581943,
+      "review_helpful_count": 1,
+      "author_display_name": "RougeReaper.8877",
+      "author_alias": "RougeReaper.8877",
+      "developer_response": {
+        "body": "Join our Discord (Discord.gg/BPG) and let's discuss.  Also, you can play multiplayer with all of the race cars and the Crawler for exactly zero dollars.  You don't need to drive the same car forever.",
+        "date": 1761583744
+      }
+    },
+    {
+      "id": "846104495117923",
+      "score": 5,
+      "review_title": "Peak",
+      "review_description": "Super fun",
+      "date": 1772330047,
+      "review_helpful_count": 0,
+      "author_display_name": "sunny_fav",
+      "author_alias": "sunny_fav",
+      "developer_response": null
+    },
+    {
+      "id": "831247190078445",
+      "score": 5,
+      "review_title": "good game, but....",
+      "review_description": "Please fix the tablet controller, it can get on your nerves. I try to use my finger but many times it doesn't work.",
+      "date": 1760296798,
+      "review_helpful_count": 2,
+      "author_display_name": "Pastroh",
+      "author_alias": "Pastroh",
+      "developer_response": null
+    },
+    {
+      "id": "1205909844687726",
+      "score": 4,
+      "review_title": "Its fun but",
+      "review_description": "I cant get past second gear lesson cos the last hoop is to far. PLS make it closer to the jump",
+      "date": 1761857612,
+      "review_helpful_count": 0,
+      "author_display_name": "PirateFamily",
+      "author_alias": "PirateFamily",
+      "developer_response": {
+        "body": "Sure.  Jump into our Discord, if you can.  Discord.gg/BPG",
+        "date": 1761920645
+      }
+    },
+    {
+      "id": "879463281912531",
+      "score": 1,
+      "review_title": "Why",
+      "review_description": "you have to purchase any other car you only start with the crawler",
+      "date": 1762389264,
+      "review_helpful_count": 0,
+      "author_display_name": "dr.bebber",
+      "author_alias": "dr.bebber",
+      "developer_response": {
+        "body": "Hop onto our Discord (Discord.gg/BPG) or email us at support@bitplanetgames.com for assistance.",
+        "date": 1762390965
+      }
+    },
+    {
+      "id": "24899123946443430",
+      "score": 5,
+      "review_title": "Promising game",
+      "review_description": "Still early access, needs some tweaks but it is great!",
+      "date": 1760117106,
+      "review_helpful_count": 3,
+      "author_display_name": "kexar",
+      "author_alias": "kexar",
+      "developer_response": null
+    },
+    {
+      "id": "924448187408064",
+      "score": 5,
+      "review_title": "67game",
+      "review_description": "the best game ever",
+      "date": 1762897861,
+      "review_helpful_count": 0,
+      "author_display_name": "iangghd",
+      "author_alias": "iangghd",
+      "developer_response": null
+    },
+    {
+      "id": "899392836583120",
+      "score": 1,
+      "review_title": "The game is fun but not tutorial",
+      "review_description": "i hate the turning tutorial add a skip tutorial button",
+      "date": 1762097469,
+      "review_helpful_count": 1,
+      "author_display_name": "MasterVanSpidey1",
+      "author_alias": "MasterVanSpidey1",
+      "developer_response": {
+        "body": "Please check out our new and improved tutorial!",
+        "date": 1762380188
+      }
+    },
+    {
+      "id": "1847385529535615",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "A real good game",
+      "date": 1761312385,
+      "review_helpful_count": 2,
+      "author_display_name": "galacticjab",
+      "author_alias": "galacticjab",
+      "developer_response": {
+        "body": "Not planned at all.   If you feel slighted email us at support@bitplanetgames.com and we'll hook you up.",
+        "date": 1761243533
+      }
+    },
+    {
+      "id": "776137695592310",
+      "score": 1,
+      "review_title": "help it movement and hight of your model",
+      "review_description": "IIIIIIIIIIIIIIIIIIIIIIIIIIIII INJURED MYSELF BYE😡",
+      "date": 1761869193,
+      "review_helpful_count": 0,
+      "author_display_name": "one_egg67",
+      "author_alias": "one_egg67",
+      "developer_response": {
+        "body": "Please jump on our Discord (Discord.gg/BPG).  We'd love to learn more.\n\nOr email us at support@bitplanetgames.com",
+        "date": 1761878355
+      }
+    },
+    {
+      "id": "825948796580780",
+      "score": 5,
+      "review_title": "Amazing game!",
+      "review_description": "🏆",
+      "date": 1761339435,
+      "review_helpful_count": 2,
+      "author_display_name": "bstriky",
+      "author_alias": "bstriky",
+      "developer_response": null
+    },
+    {
+      "id": "859729827219418",
+      "score": 1,
+      "review_title": "I regret buying it",
+      "review_description": "It is not working the rings are not counting I wish a refund",
+      "date": 1761165957,
+      "review_helpful_count": 1,
+      "author_display_name": "MonkeyDylz",
+      "author_alias": "MonkeyDylz",
+      "developer_response": {
+        "body": "Please contact us at support@bitplanetgames.com for assistance.",
+        "date": 1761234962
+      }
+    },
+    {
+      "id": "824180154115695",
+      "score": 1,
+      "review_title": "Wish i couls give zero stars",
+      "review_description": "dont get",
+      "date": 1762117478,
+      "review_helpful_count": 0,
+      "author_display_name": "Thad.is.Gr8",
+      "author_alias": "Thad.is.Gr8",
+      "developer_response": {
+        "body": "Hello, please come back  to the game and check our new and improved tutorial!",
+        "date": 1762380159
+      }
+    },
+    {
+      "id": "911086102086691",
+      "score": 3,
+      "review_title": "Interesting game but has control problem",
+      "review_description": "The game is actually fun, and I understand it is still in early stages.\n\nHowever, when I use the other hand to steer the car, it sometime snatch the rc controller away from my hand... and then my race is ruined.\n\nPlease add an option to disable non-dominant hand controller snatch, and this will be solved.",
+      "date": 1764856979,
+      "review_helpful_count": 0,
+      "author_display_name": "EmrysTeitoku",
+      "author_alias": "EmrysTeitoku",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T07:21:14Z"
+}

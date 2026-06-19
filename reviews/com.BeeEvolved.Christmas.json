@@ -1,0 +1,53 @@
+{
+  "app_id": "8583668468339790",
+  "package_name": "com.BeeEvolved.Christmas",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Christmas",
+  "rating_average": 1.5714285714286,
+  "rating_count": 7,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "267651309621119",
+      "score": 1,
+      "review_title": "Not good at all",
+      "review_description": "Lights don’t work, seems pointless, should have been free",
+      "date": 1701797893,
+      "review_helpful_count": 9,
+      "author_display_name": "stephen.bartenfeld",
+      "author_alias": "stephen.bartenfeld",
+      "developer_response": null
+    },
+    {
+      "id": "720582869971255",
+      "score": 1,
+      "review_title": "Doesn’t work",
+      "review_description": "Nothing seems to work, very disappointing",
+      "date": 1701989689,
+      "review_helpful_count": 6,
+      "author_display_name": "KSSRock",
+      "author_alias": "KSSRock",
+      "developer_response": null
+    },
+    {
+      "id": "481050970770833",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Does not work do not buy. No Christmas lights are on",
+      "date": 1671917194,
+      "review_helpful_count": 16,
+      "author_display_name": "moonthirteen",
+      "author_alias": "moonthirteen",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:15:44Z"
+}

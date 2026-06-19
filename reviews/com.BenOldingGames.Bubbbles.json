@@ -1,0 +1,224 @@
+{
+  "app_id": "5536084596429713",
+  "package_name": "com.BenOldingGames.Bubbbles",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Bubbbles",
+  "rating_average": 4.1470588235294,
+  "rating_count": 34,
+  "review_count": 18,
+  "reviews": [
+    {
+      "id": "993868159729374",
+      "score": 5,
+      "review_title": "Well made game, great in mixed reality",
+      "review_description": "I picked this game up ridiculously cheap for the quality of game I received, it's a simple concept but done well. I often gravitate towards games that have a mixed reality option as it feels fantastic to have game graphics in your real world view where the puzzles just float in front of you, it's like the future that I dreamed of as a kid.\n\nThis game looks great, the textures and graphical effects of the spheres are very well done, those transparent crystals in particular look fantastic. This is even more evident when running in a higher resolution using Quest Game Optimizer (QGO). There's enough power-up pickups to make the gameplay more interesting and keep my attention for a while.\n\nSound is very well done, a nice relaxing ethereal soundtrack and audio effects that suit the gameplay and add to the experience.\n\nContrary to what a few other reviews say, I have found the physics and aiming to feel very natural and accurate. The only thing I find odd is trying to control the timed shields which seem to have huge amount of inertia and control lag (guessing this is an intentional gameplay mechanic). It took me a while to actually figure out how to control them and even when I did they are so slow to react that it seems very difficult to successfully reposition them in time to block an incoming ball, perhaps more luck than skill in the regard.\n\nThe ability to change the physical size of the game is useful, I'd like to see even more size options for a giant version that encompasses my entire room (or even play it outside). This might require a change to the ball gun so that it fires smaller balls than the puzzle itself but where they incrementally grow/inflate in size as they head towards the puzzle.\n\nOne graphical suggestion for mixed reality is to display a semi transparent shadow of the puzzle projected onto my real world floor. This would enhance the believability that the puzzle is floating in my room space.\n\nRecommended. Well done to the developer.",
+      "date": 1777855321,
+      "review_helpful_count": 0,
+      "author_display_name": "GrahamJ",
+      "author_alias": "GrahamJ",
+      "developer_response": {
+        "body": "Thanks Graham. I did do an improvement to the physics late last year - various meta and unity updates had changed the feel of it and I think the earlier complaints were valid, but hopefully fixed now.\n\nYou do have some influence over the shield, but what it is trying to do is aim itself towards the most dangerous point i.e. the part of grid closest to the edge.\n\nI could add the shadows to MR, and after getting this nice review, I think i might",
+        "date": 1778610860
+      }
+    },
+    {
+      "id": "817492677400742",
+      "score": 2,
+      "review_title": "Level 2 Game Over?!",
+      "review_description": "Concept is cool but thought it was more like the app bubble games, remove timers and more gameplay options.",
+      "date": 1757557886,
+      "review_helpful_count": 1,
+      "author_display_name": "AJMag",
+      "author_alias": "AJMag",
+      "developer_response": null
+    },
+    {
+      "id": "2355001918194103",
+      "score": 3,
+      "review_title": "Feels like a tech demo",
+      "review_description": "The game suffers from frustrating mechanics that feel overly reliant on luck rather than skill. The constant stream of spinning balls makes it nearly impossible to aim effectively, contributing to an overly chaotic experience, and starting every session at level one quickly becomes monotonous. Instead of offering a relaxed, progressive experience, the game pushes you toward repeatedly chasing high scores. It would be much more engaging if it offered a calmer gameplay style, with a variety of levels showcasing unique backgrounds and themes.",
+      "date": 1742060781,
+      "review_helpful_count": 12,
+      "author_display_name": "vazzler",
+      "author_alias": "vazzler",
+      "developer_response": null
+    },
+    {
+      "id": "660726030450710",
+      "score": 3,
+      "review_title": "AI Cover",
+      "review_description": "I enjoy this game, but I am really disappointing in the use of an AI generated image as the cover for the game and it really put me off of the game. Extremely lazy and disrespectful to artists.",
+      "date": 1745899818,
+      "review_helpful_count": 4,
+      "author_display_name": "LudicrousLizards",
+      "author_alias": "LudicrousLizards",
+      "developer_response": null
+    },
+    {
+      "id": "9965860610114906",
+      "score": 2,
+      "review_title": "Broken game",
+      "review_description": "The game looks cool but the physics are pretty terrible. The ball likes to snap onto the wrong orb so it’s hard to be accurate all the time. Fun for a few minutes… would be cool if the dev put more effort into it. If it’s ever updated I’ll for sure play it as I love bubble popping games.",
+      "date": 1742774456,
+      "review_helpful_count": 4,
+      "author_display_name": "Brownbeard93",
+      "author_alias": "Brownbeard93",
+      "developer_response": null
+    },
+    {
+      "id": "9659147794115298",
+      "score": 4,
+      "review_title": "Living in the future!",
+      "review_description": "Playing this game in pass-thru feels like I'm legit playing 'future games' in some sci-fi movie.\n\nThe gameplay is simple and fun, and looks great! I think it's awesome AF, and my wife (an especially big fan of the Puzzle Bobble arcade games) loves it too. \n\nThis is definitely the sort of thing you can demo to friends and family that's simple to play, but cool to look at, and will get across that \"woah, this feels like gaming in the future\" effect real quick.",
+      "date": 1735956242,
+      "review_helpful_count": 4,
+      "author_display_name": "JP.Saak",
+      "author_alias": "JP.Saak",
+      "developer_response": null
+    },
+    {
+      "id": "1079598470600940",
+      "score": 4,
+      "review_title": "Make them Extra Large!",
+      "review_description": "Yes, it is like puzzle bubbles with tons of special bubbles with unique functions which I am still trying to figure out what is for what 😂. But the game is so much better/clearer when you turn it into size XL! It is like switching from font 2 to font 12 when you read.",
+      "date": 1738812289,
+      "review_helpful_count": 1,
+      "author_display_name": "karen.li.7923",
+      "author_alias": "karen.li.7923",
+      "developer_response": null
+    },
+    {
+      "id": "858681142915540",
+      "score": 5,
+      "review_title": "Awesome.",
+      "review_description": "Very good for a chill or session. Multiplayer co-op would be the bomb.\n\nThe rotation physics is cool, but the way the shot balls settle is infuriatingly unpredictable. I see some kind of momentum or something but it's frustrating to have it land on the spot I aimed for and then mysteriously shift to the neighboring site and mess everything up. I still haven't figured out when this will happen or why.",
+      "date": 1727228670,
+      "review_helpful_count": 7,
+      "author_display_name": "jack.pants",
+      "author_alias": "jack.pants",
+      "developer_response": null
+    },
+    {
+      "id": "1189114115641984",
+      "score": 4,
+      "review_title": "Fun but gets frustrating",
+      "review_description": "The game is fun but the mechanics, physics and aim are too unpredictable. This makes it a frustrating experience. Especially younger players are not used to this many failstates. \n\nI would like to see some options like a permanent laser pointer, a way to turn physics off and to adjust the spawn rate of additional balls flying at the cluster.",
+      "date": 1727548903,
+      "review_helpful_count": 3,
+      "author_display_name": "Ryuzenkiwi",
+      "author_alias": "Ryuzenkiwi",
+      "developer_response": null
+    },
+    {
+      "id": "370677129468615",
+      "score": 5,
+      "review_title": "Relaxing quick simple match-like game",
+      "review_description": "And addictive. But not quite as simple as it first seems. Tricky to advance beyond level 4.  Hoping the developer can elaborate on what causes the game to end - sometimes the game seems to end prematurely, but I’m probably missing something, but I still enjoy playing. Thanks!",
+      "date": 1723218572,
+      "review_helpful_count": 5,
+      "author_display_name": "Jjatdogtown",
+      "author_alias": "Jjatdogtown",
+      "developer_response": null
+    },
+    {
+      "id": "391744793915364",
+      "score": 5,
+      "review_title": "oh boy this will cost me",
+      "review_description": "a lot of my lifetime. this is exactly the stuff i was missing in vr. starting with tetris, countless games like bejeweled, hexagon, candy crush and now i am here shooting tiny balls.\ni feel sorry for buying it discounted, for me it would've been worth the 5!",
+      "date": 1720386166,
+      "review_helpful_count": 5,
+      "author_display_name": "rh1ce",
+      "author_alias": "rh1ce",
+      "developer_response": null
+    },
+    {
+      "id": "2440467116144327",
+      "score": 5,
+      "review_title": "Bubbles",
+      "review_description": "I Love this game!!  It's so good!  My favorite thing to do is play music on the new Amazon prime music app, while popping bubbles in MixedReality!  Fantastic time.",
+      "date": 1727568995,
+      "review_helpful_count": 1,
+      "author_display_name": "solvangman805",
+      "author_alias": "solvangman805",
+      "developer_response": null
+    },
+    {
+      "id": "926045228942264",
+      "score": 5,
+      "review_title": "Super Chill and Addicting",
+      "review_description": "A fun and very chill puzzle game in mixed reality. It's one of those games that you can't really stop playing because you just want to keep getting a better score. This is a game that I will be revisiting quite often especially on days where I just want a chill gameplay.\n\nIf you love a fun, chill puzzle game, then this one is for you.\n\nI only posted a short... but working on a video that showcases MR games and this will be on there.",
+      "date": 1701983464,
+      "review_helpful_count": 1,
+      "author_display_name": "TheLaughingVeteran",
+      "author_alias": "TheLaughingVeteran",
+      "developer_response": null
+    },
+    {
+      "id": "895852028926317",
+      "score": 5,
+      "review_title": "Mixed Reality at its finest.",
+      "review_description": "Bubbbles is one of those games you didnt know you needed in your life. The game has you matching colors and textures of bubbles in a unique, 3d puzzle. You find yourself being sucked into the gameplay almost immediately. Although it is simple to play, gaining a high score has you exercising your mind in the best way possible. Making the wrong move can hinder your next move, which can then lead to a game over instantly. The critical thinking almost makes you feel like you are in a new version of Tetris. The mixed reality version of this game just adds a whole layer to it that is so cool. There is nothing better than seeing a 3D puzzle with all of its colors in your own home. The game does have power ups that you can use such as bombs to clear large sections and even a laser beam to clear a path. The best part is the whole time there are more bubbles flying from ever direction which come in faster and faster over time. The shield power up can help you deflect some of those incoming bubbles and it is my favorite power up. This game is a hidden gem and totally worth the price. If you like puzzles this game is for you. This also makes for a great game to show off VR in a simple way!",
+      "date": 1702010699,
+      "review_helpful_count": 8,
+      "author_display_name": "TruGamer4Realz",
+      "author_alias": "TruGamer4Realz",
+      "developer_response": null
+    },
+    {
+      "id": "661453296071594",
+      "score": 5,
+      "review_title": "Favorite MR title in my library",
+      "review_description": "Bubbbles is the most chill and relaxed I’ve been playing in virtual reality, period.\n\nThe standard visuals of space are tranquil, but having the ability to switch to MR pass through is why I’m giving it 5 stars. I can completely escape my surroundings or add the game to my environment!\n\nThe gameplay itself is fun for all ages and if you like puzzle games and grew up playing Tetris like me, you’ll enjoy every minute of Bubbbles!",
+      "date": 1701526578,
+      "review_helpful_count": 1,
+      "author_display_name": "itstimmarts",
+      "author_alias": "itstimmarts",
+      "developer_response": null
+    },
+    {
+      "id": "493459673262877",
+      "score": 5,
+      "review_title": "Very cool!",
+      "review_description": "This game is a fresh take on the many many variations of candy crush, etc. The graphics are crisp and detailed, the background music is perfect for zoning out, and the challenge of the puzzles is palpable! I have just started, but find it to be quite difficult, especially considering that the puzzle spins and rotates freely every time you blast it with a ball.\n\nOne question I still have is: what exactly determines when you lose? At what point does the puzzle become too big, exactly?\n\nGreat game so far!\n\nl i n k t r . e e / q u a c k b i r t h",
+      "date": 1721066739,
+      "review_helpful_count": 2,
+      "author_display_name": "QUACKBIRTH",
+      "author_alias": "QUACKBIRTH",
+      "developer_response": {
+        "body": "Thank you for the nice review! it gets too big when a bubbble lands that intersects or is outside the forcefield that appears when you get your hand too close. The red glow effects should warn you if any parts are getting close",
+        "date": 1721074593
+      }
+    },
+    {
+      "id": "427243923724854",
+      "score": 5,
+      "review_title": "Hidden gem that deserves more attention!",
+      "review_description": "The classic match-the-coloured-bubbles game but in 3D and VR.\n\nIf you like Tetris, Bejeweled, or ESPECIALLY if you love Bubble Witch Saga, Puzzle Bobble or Bust-a-Move type games, then you're going to LOVE this, as I do!\n\nThere's proper physics involved when you fire your weighted virtual marbles at the target group in front of you, such that when it hits it sends the target bunch spinning, which you can stabilise using the controller's joystick in order to better line up the next shot.\n\nGreat for quick, spontaneous, relaxed, simple, uplifting fun, the authentic physics of this arcade puzzler means the game feels really at home played in mixed reality right in front of you, in the real world, which works great even on the Quest 2.\n\nA real hidden gem!",
+      "date": 1727138850,
+      "review_helpful_count": 3,
+      "author_display_name": "JewelieGB",
+      "author_alias": "JewelieGB",
+      "developer_response": null
+    },
+    {
+      "id": "243628961896983",
+      "score": 5,
+      "review_title": "Chill😌",
+      "review_description": "Such a chill game, if you like matching colors this is definitely the game for you. Whether you’re sitting or standing this game definitely does the trick 👌🏼 You can enlarge or shrink your gameplay to your liking & it has a futuristic space vibe. You can definitely find yourself on this game for a long while!",
+      "date": 1690857107,
+      "review_helpful_count": 1,
+      "author_display_name": "swaveyhussle",
+      "author_alias": "swaveyhussle",
+      "developer_response": null
+    }
+  ],
+  "total": 18,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:16:44Z"
+}

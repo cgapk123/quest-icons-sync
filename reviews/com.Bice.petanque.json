@@ -1,0 +1,53 @@
+{
+  "app_id": "3839702629486357",
+  "package_name": "com.Bice.petanque",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Petanque",
+  "rating_average": 4.75,
+  "rating_count": 4,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "2515407431927336",
+      "score": 5,
+      "review_title": "",
+      "review_description": "awesome duel!",
+      "date": 1653632088,
+      "review_helpful_count": 1,
+      "author_display_name": "ivedonethemath",
+      "author_alias": "ivedonethemath",
+      "developer_response": null
+    },
+    {
+      "id": "1642934769420231",
+      "score": 4,
+      "review_title": "Fun but will need more coding",
+      "review_description": "Glad I purchased this but the AI bot is very hard to beat and I don’t see a way to select its level of difficulty. Also there is no explanation i could find for the purpose of the three spinning wheels that have hieroglyphics on them.",
+      "date": 1654166900,
+      "review_helpful_count": 3,
+      "author_display_name": "therealrick",
+      "author_alias": "therealrick",
+      "developer_response": null
+    },
+    {
+      "id": "1396656327481111",
+      "score": 5,
+      "review_title": "Great atmosphere!",
+      "review_description": "Love the atmosphere and environments!",
+      "date": 1655200670,
+      "review_helpful_count": 0,
+      "author_display_name": "m.a.t.e.o",
+      "author_alias": "m.a.t.e.o",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:18:51Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "25247921284793200",
+  "package_name": "com.BigantoGmbH.RunPan",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "RunPan",
+  "rating_average": 1.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "574563819076959",
+      "score": 1,
+      "review_title": "Bad",
+      "review_description": "The app in general is an amazing idea but its awful it doesnt actually do anything and also it doesnt have much English and you cant change this DONT DOWNLOAD",
+      "date": 1741291705,
+      "review_helpful_count": 14,
+      "author_display_name": "Blue_Rabbit_VR",
+      "author_alias": "Blue_Rabbit_VR",
+      "developer_response": null
+    },
+    {
+      "id": "3197982990342625",
+      "score": 2,
+      "review_title": "Weird Graphical Problems.",
+      "review_description": "Very interesting though, they like, baked the cubemaps onto the diffuse of the whole environment.",
+      "date": 1743710477,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:20:13Z"
+}

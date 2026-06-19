@@ -1,0 +1,48 @@
+{
+  "app_id": "4022787477734360",
+  "package_name": "com.BigTopGameStudio.BTGSMedievalDesigner",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Medieval Designer",
+  "rating_average": 4.4,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "2925837237688323",
+      "score": 4,
+      "review_title": "Great start",
+      "review_description": "Solid design game. Better than another I've played on the official Quest store. \n\nCould use some QoL improvements. I'd like to be able to remove physics from objects I'm not holding (Let a table settle then remove physics so it can't be accidentally bumped but items can still be set on it).  Removing physics as it is seems like a great idea that fixes a lot that can go wrong with object interaction. \n \nI realize no decorating outside is likely a Quest limitation but adding text to signs would be a huge benefit, as would coming back into the game where you left off.",
+      "date": 1627525231,
+      "review_helpful_count": 8,
+      "author_display_name": "S-h-a-w-n",
+      "author_alias": "S-h-a-w-n",
+      "developer_response": {
+        "body": "Thanks for the review! Physics interactions are a tough thing to get right but I'll look into your suggestion there. Decorating outside will not be supported in the main town, but the update that I'm working on is going to be adding districts to the town that you can design entirely as you see fit including building houses and decorating the exteriors. I've been working on the bug where it doesn't place the player where they left off for a while now, but it doesn't seem to be working for whatever reason hopefully I can get that in the next update as well. Thanks again!",
+        "date": 1632511932
+      }
+    },
+    {
+      "id": "356352229436357",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Great game!",
+      "date": 1626129158,
+      "review_helpful_count": 0,
+      "author_display_name": "MegVanHalen",
+      "author_alias": "MegVanHalen",
+      "developer_response": {
+        "body": "Thanks!",
+        "date": 1632511945
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:20:06Z"
+}
