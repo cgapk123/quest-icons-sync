@@ -1,0 +1,81 @@
+{
+  "app_id": "2040676186060625",
+  "package_name": "com.GeorgieffStudio.Blumber",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Blumber",
+  "rating_average": 3.75,
+  "rating_count": 8,
+  "review_count": 8,
+  "reviews": [
+    {
+      "id": "2403266996560618",
+      "score": 3,
+      "review_title": "Feels like a Free Game",
+      "review_description": "I’m all for supporting devs on the go. And this is a good game for sure. By that I mean it works. Maybe this would be worth .99 if I could import my own music. But it’s a single button timing game. This would be great maybe at the table in oculus rooms if oculus ever opens that space up to devs. But only if there was a multiplayer aspect. Where you both built tower at the same time.",
+      "date": 1568208184,
+      "review_helpful_count": 0,
+      "author_display_name": "mrphilipjoel",
+      "author_alias": "mrphilipjoel",
+      "developer_response": {
+        "body": "Thanks for the feedback!\n\nAdding custom music is something I initially thought. However, conducted research led to the conclusion that I'd have legal issues concerning copyright. \n\nI'm also working on integrating multiplayer features, just like the one you suggested. This should be part of the Rift version that is scheduled to release late autumn; I can assure you that work in such direction is ongoing.\n\nAny additional feedback or suggestions could be sent to my email:\nantoan@mit.edu\n\nThanks for your feedback once again!",
+        "date": 1568214133
+      }
+    },
+    {
+      "id": "901945890227622",
+      "score": 5,
+      "review_title": "Love it!",
+      "review_description": "Such a great fun game! Highly recommend - a must have in anyone’s library! Looking forward to future updates! Will you be on Quest as well?",
+      "date": 1586213556,
+      "review_helpful_count": 2,
+      "author_display_name": "saraseadream",
+      "author_alias": "saraseadream",
+      "developer_response": {
+        "body": "Thanks for the positive feedback! I am currently working on a Rift version that will include a fitness part, favouring the usage of 6DOF. Coming really soon!",
+        "date": 1586251712
+      }
+    },
+    {
+      "id": "886904975023218",
+      "score": 1,
+      "review_title": "Boring gameplay and lousy graphics",
+      "review_description": "This doesn’t take advantage of the graphical power of VR. It looks and plays just like a simple iPhone game that came out a few years ago. No fun at all.",
+      "date": 1564333490,
+      "review_helpful_count": 0,
+      "author_display_name": "therealrick",
+      "author_alias": "therealrick",
+      "developer_response": null
+    },
+    {
+      "id": "153621659482590",
+      "score": 3,
+      "review_title": "Good Groundwork, Needs to be Built Upon",
+      "review_description": "Blumber is a nice VR edition of Stacked, but it's lacking some elements to make it a fun distraction. I don't think the beat of the music always syncs with the blocks (Could just be me). Nice sound effects are needed when you place blocks accurately to make it satisfying. Really congratulate the player when they're on a streak. The games not bad, not great, but little changes and additions I think could really improve it.",
+      "date": 1587353542,
+      "review_helpful_count": 0,
+      "author_display_name": "Adriolf",
+      "author_alias": "Adriolf",
+      "developer_response": null
+    },
+    {
+      "id": "119001923095715",
+      "score": 5,
+      "review_title": "Catchy game",
+      "review_description": "Well done to the developer, very catchy game!",
+      "date": 1587222324,
+      "review_helpful_count": 2,
+      "author_display_name": "PaoloBu",
+      "author_alias": "PaoloBu",
+      "developer_response": null
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:21:52Z"
+}

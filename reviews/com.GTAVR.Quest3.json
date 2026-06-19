@@ -1,0 +1,45 @@
+{
+  "app_id": "32090682337189650",
+  "package_name": "com.GTAVR.Quest3",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Grand Quest Auto",
+  "rating_average": 3,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1159573739624774",
+      "score": 5,
+      "review_title": "Glitchy but amazing",
+      "review_description": "Game is awesome, the npcs interact and talk, there’s plenty of traffic, the map is giant, I loved looking at the stars near a hill, it gives GTA San Andreas vibes, I wish the settings saved and that NPCs took more damage to kill, and that they’d fight back, but for now this is a great game to buy if you want to explore and have fun",
+      "date": 1764984212,
+      "review_helpful_count": 48,
+      "author_display_name": "QueenLaura420",
+      "author_alias": "QueenLaura420",
+      "developer_response": null
+    },
+    {
+      "id": "868780986095349",
+      "score": 1,
+      "review_title": "terrible",
+      "review_description": "you are given zero guidance on where to go comma the npcs are extremely glitchy, overall just a terrible experience",
+      "date": 1763696851,
+      "review_helpful_count": 150,
+      "author_display_name": "BlackNoirDeservedBetter",
+      "author_alias": "BlackNoirDeservedBetter",
+      "developer_response": {
+        "body": "Tutorial added. Pedestrian bug fixed",
+        "date": 1768916465
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:16:24Z"
+}
