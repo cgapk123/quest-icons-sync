@@ -1,0 +1,42 @@
+{
+  "app_id": "7422118284501216",
+  "package_name": "com.Kindsty.Spooky",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Social Gorillas",
+  "rating_average": 3.6666666666667,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "251769524687281",
+      "score": 3,
+      "review_title": "Mid",
+      "review_description": "You stick to the ground to much",
+      "date": 1714156049,
+      "review_helpful_count": 22,
+      "author_display_name": "kraakshot",
+      "author_alias": "kraakshot",
+      "developer_response": null
+    },
+    {
+      "id": "459885929907992",
+      "score": 5,
+      "review_title": "Nice",
+      "review_description": "Very cool",
+      "date": 1715631935,
+      "review_helpful_count": 3,
+      "author_display_name": "beastman_122",
+      "author_alias": "beastman_122",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:30:52Z"
+}

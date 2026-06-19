@@ -1,0 +1,45 @@
+{
+  "app_id": "3739776379459536",
+  "package_name": "com.KreisImmersive.Podium",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Espace V",
+  "rating_average": 4.4285714285714,
+  "rating_count": 7,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "2221988077941103",
+      "score": 5,
+      "review_title": "Great experience!",
+      "review_description": "Great experience, loved talking with others from all over the world.  The VR try on was amazing!",
+      "date": 1631921041,
+      "review_helpful_count": 1,
+      "author_display_name": "anete.rosario",
+      "author_alias": "anete.rosario",
+      "developer_response": null
+    },
+    {
+      "id": "270364621759382",
+      "score": 5,
+      "review_title": "Perfect example of a cultural VR space !",
+      "review_description": "This is amazing. The information given, the films which are available, the way the virtual space was conceived - simple, clear, efficient - and the fact you can talk to other visitors. I did not know the \"Alliance Française\" before, and I have learned a lot !\nIt makes me want to go there to see the real building when the construction is over.\n\nWell done !\n\nNote for the developers : I have encountered a technical issue regarding the spatialisation of sound in the films : the sound appeared to be centred at my left so if I wanted to hear properly I had to look left a bit \"too much\", maybe you could re-centre the soundtracks?",
+      "date": 1634384050,
+      "review_helpful_count": 0,
+      "author_display_name": "MotsDits",
+      "author_alias": "MotsDits",
+      "developer_response": {
+        "body": "Hi MotsDits and thanks for the flowers :)\nThanks for letting us know about the bug! We're aiming to fix it in our next release!",
+        "date": 1635260201
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T11:35:39Z"
+}

@@ -1,0 +1,639 @@
+{
+  "app_id": "10039970526115789",
+  "package_name": "com.KorpiGamesOy.VirtualHunter",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Virtual Hunter",
+  "rating_average": 4.2444444444444,
+  "rating_count": 90,
+  "review_count": 56,
+  "reviews": [
+    {
+      "id": "1678708309828628",
+      "score": 5,
+      "review_title": "Best hunter on meta quest",
+      "review_description": "This is by far the best meta quest hunting vr game, besides the fact that the map is the biggest and best looking one on meta quest, the way the animal's react to you is so real. Hunting them and Stockin them, just feels so good, by far my favorite thing is Tracking them and looking at the beautiful world,  and it's so Satisfy when you get your animal. Great job guys 👏 👍",
+      "date": 1779891194,
+      "review_helpful_count": 45,
+      "author_display_name": "robot_builder",
+      "author_alias": "robot_builder",
+      "developer_response": null
+    },
+    {
+      "id": "1112138081990534",
+      "score": 5,
+      "review_title": "🏹 An Immersive Hunting experience!!",
+      "review_description": "Virtual Hunter VR is definitely more of a slow paced and patient hunting experience rather than an arcade shooter. Tracking your prey properly actually matters, and even the type of shot you take can completely affect the outcome of a hunt.\n\nThe realism is what stood out most to me though. How you move through the environment and the amount of noise you make genuinely matters, so rushing around will usually just scare everything away before you even get a chance to line up a shot.\n\nThe atmosphere and environments on Quest 3 are solid too, especially when you’re slowly moving through the forests trying not to disturb the wildlife around you.",
+      "date": 1779987027,
+      "review_helpful_count": 23,
+      "author_display_name": "SinisterEXP",
+      "author_alias": "SinisterEXP",
+      "developer_response": null
+    },
+    {
+      "id": "1623540429711864",
+      "score": 4,
+      "review_title": "Fun hunting in single player vs co op",
+      "review_description": "Good times in single player but in co op seems the game is extremely difficult as the settings don't seem to apply oddly anuff. Last night I enjoyed a more causal hunt and stalk and I saw more game , got nice and close made perfect shots etc etc. In co op this was not the case much fewer animals with very long shots of 200 yds and they were much more spooky and skittish,  didnt enjoy the hrs if co op nearly as much as the difficulty ramp up a ton and comfort game play settings don't seem to work we were stuck in professional mode it seems. But singke player was way more realistic and enjoyable with lots of close up action.",
+      "date": 1780218585,
+      "review_helpful_count": 14,
+      "author_display_name": "greg.boswell.79",
+      "author_alias": "greg.boswell.79",
+      "developer_response": null
+    },
+    {
+      "id": "1151330851395326",
+      "score": 5,
+      "review_title": "Overall 9/10",
+      "review_description": "9/10 game especially since it just released has insane potential if the devs work hard on it Really good game kinda realistic good lodge good shooting mechanics not many gun choices rn but as expected the game just came out lots of variety on the rares in the game huge map not a lot of animal species but enough to keep it fun and then like they are going to add some in the future most likely",
+      "date": 1779912927,
+      "review_helpful_count": 14,
+      "author_display_name": "Clap2good",
+      "author_alias": "Clap2good",
+      "developer_response": null
+    },
+    {
+      "id": "1055203500408194",
+      "score": 5,
+      "review_title": "Surprisingly impressive!",
+      "review_description": "I'm no hunter by any means, but watching so many good reviews by real hunters made me wanna try it out and it was a surprisingly wonderful experience, despite the few glitches which I'm sure will be ironed out gradually.\n\nI absolutely loved the atmosphere, the realism, the change in weather and the open scenery. Of course I had to bump the resolution to 125% on QGO so I could enjoy the better graphics.\n\nThere's obviously a learning curve but the moment you shoot a deer or even a rabbit from a 200m distance, the rush you feel is incredible!",
+      "date": 1780350152,
+      "review_helpful_count": 11,
+      "author_display_name": "Guyooo",
+      "author_alias": "Guyooo",
+      "developer_response": null
+    },
+    {
+      "id": "1566580011473240",
+      "score": 5,
+      "review_title": "IMMERSIVE AND RELAXING HUNTING SIM",
+      "review_description": "Virtual Hunter delivers a surprisingly immersive hunting experience in VR.\nThe weapon handling feels realistic, the wildlife behavior is convincing, and the large open environments create a calm but tense atmosphere during every hunt.\nA great VR simulation for players looking for realism and immersion rather than arcade action.",
+      "date": 1781285423,
+      "review_helpful_count": 6,
+      "author_display_name": "Majerik",
+      "author_alias": "Majerik",
+      "developer_response": null
+    },
+    {
+      "id": "1166888063169490",
+      "score": 1,
+      "review_title": "I didn’t know we were hunting for bugs.",
+      "review_description": "I have been stuck in the Firing Range for too long now. The game is asking me to release the controller which I do but the message remains and the game traps me in the one spot unable to activate the options to escape. \nThe weapon handling is shoddy and an auto-reload would be handy. \nI’m using Metaquest 3 so there shouldn’t be any performance issues. \nI look forward to your 1st official update for this application. \nHowever, not having seen a single animal to hunt yet, I cannot give you more than a one star rating yet.",
+      "date": 1779915018,
+      "review_helpful_count": 11,
+      "author_display_name": "CptFox87",
+      "author_alias": "CptFox87",
+      "developer_response": null
+    },
+    {
+      "id": "122324062070008001",
+      "score": 5,
+      "review_title": "Best VR hunting game to come out",
+      "review_description": "Easily one of the best VR hunting games out there. It feels immersive and unpredictable because every hunt is different and you never really know what you’re going to run into.\n\nYou come over a hill and there’s just a big animal standing there. Then it’s just what do you do, take the shot with your rifle or try to stay hidden and get in closer for a bow shot. That unpredictability is what makes it fun. Highly recommend it.",
+      "date": 1780125015,
+      "review_helpful_count": 9,
+      "author_display_name": "TheBeard_x",
+      "author_alias": "TheBeard_x",
+      "developer_response": null
+    },
+    {
+      "id": "986300914186993",
+      "score": 4,
+      "review_title": "Loving this game",
+      "review_description": "I’ve been playing this game for about a week now, and I’m really enjoying it. I especially love the animal graphics, the way they move, react, and, not least, the sounds they make.\n\nUnfortunately, there are a few places where the animals get stuck and keep running in the same spot. The graphics also stutter occasionally around the edges of the map.\n\nOther than that, I love sneaking through the forest and get a real adrenaline rush whenever I manage to take down my prey. The various challenges \nscattered around the world are also a great addition.\n\nOverall, it’s a fun and challenging game for someone like me who has always dreamed of being a hunter. It’s worth every penny.",
+      "date": 1781291828,
+      "review_helpful_count": 5,
+      "author_display_name": "Viking.Zee789",
+      "author_alias": "Viking.Zee789",
+      "developer_response": null
+    },
+    {
+      "id": "1040715715144100",
+      "score": 5,
+      "review_title": "Just a list of wants, also AMAZING GAME!",
+      "review_description": "The game is fun, some glitching, nothing too bad. The only thing i would want is a 30-06. And a simi auto, 12 gage. And last is a compound bow. Those are the only things I would want for guns. Now, I would love another map or something, just so their can be more animles. Like white tail, elk, moose, malerd and tree duck, and turkey. Those are the only thing I would like to see.",
+      "date": 1780767768,
+      "review_helpful_count": 6,
+      "author_display_name": "75th_lll.Cbasss2.lll",
+      "author_alias": "75th_lll.Cbasss2.lll",
+      "developer_response": null
+    },
+    {
+      "id": "961410253610024",
+      "score": 5,
+      "review_title": "Excellent hunting game !",
+      "review_description": "Hi everyone, there aren't many hunting games worthy of the name, although you could say that this software deserves some additional features or refinements. This game remains by far the best standalone hunting game: I get the same sensations as the hunting games from around 2007. I love it. I wish there were more locations with different seasons, snow, etc.\nThanks again for this game, and congratulations to the entire team!",
+      "date": 1780779124,
+      "review_helpful_count": 6,
+      "author_display_name": "ien.cois.7564",
+      "author_alias": "ien.cois.7564",
+      "developer_response": null
+    },
+    {
+      "id": "1039982395365571",
+      "score": 5,
+      "review_title": "The best hunting game on Quest",
+      "review_description": "So I am a vegetarian and this is against everything I believe in, but it’s VR & not real life, so I was pretty excited to jump into this & give it a go.\nYou definitely need to be patient, I love stealth games & this is next level stealth, walking slowly, crawling around, desperately trying not to make a sound.\nThe tutorial is excellent and teaches you everything you need to know.\nThe hunting lodge is your base and looks so good & the scenic views are amazing, I am now a fully fledged hunter.\nWell done devs, a great hunting simulation.",
+      "date": 1780087259,
+      "review_helpful_count": 7,
+      "author_display_name": "GizmoDemi",
+      "author_alias": "GizmoDemi",
+      "developer_response": null
+    },
+    {
+      "id": "1226142503907270",
+      "score": 5,
+      "review_title": "Hunt Like a Pro in VR! 🏹🦌",
+      "review_description": "irtual Hunter is the first true hunting sim on the Meta Store, and it’s a bold, ambitious entry that nails the realism and patience of the sport. Forget arcade-style chaos—this is serious stealth, where you track, stalk, and strategize in lifelike environments. Animal whistles to attract your preys, prone positions, and a ton of realistic options make every hunt feel deep and immersive.\nThe multiplayer is a huge bonus, letting you and up to five friends coordinate strategies or just hang out in the cozy lodge (where you can proudly display your trophies). It’s early access, but already a solid, immersive experience—perfect for hunting enthusiasts or anyone who wants to skip the 4 AM wake-up and still feel the thrill.\nIf you crave authentic, tactical hunting, this is a must-try. 🌲🎯",
+      "date": 1780571532,
+      "review_helpful_count": 5,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": null
+    },
+    {
+      "id": "26218441174495853",
+      "score": 5,
+      "review_title": "Great game ever played",
+      "review_description": "We Finally got a hunting game that worth getting   i see so much  beautiful landscapes  and different  animals  to hunt for  love my owen cabin in woods so peaceful  and relaxing  they did  a fantastic work beyond and above  if please add more animals  that would be  awesome  like a bear and  few more  that be awesome  im looking forward to updates and what next future holds in this game going   be incredible  and storys you tell poeple you catch in multiplayer mode is so  embrace keep up great work my favorite game now .",
+      "date": 1780695442,
+      "review_helpful_count": 4,
+      "author_display_name": "billygun445",
+      "author_alias": "billygun445",
+      "developer_response": null
+    },
+    {
+      "id": "1460903042740992",
+      "score": 5,
+      "review_title": "Deer Oh Deer… I’m Addicted",
+      "review_description": "This game has a fantastic tutorial and some of the best customisation options I’ve seen in any game, so the developers have clearly put a lot of thought into it.\n\nYou need patience — and lots of it. Stalking animals and waiting for the perfect clear shot without spooking them is essential. You also need to pay close attention to the noise you make while moving across different surfaces, which adds a great level of realism and immersion.\n\nI’d love to see weather effects such as snow and rain added in the future. Maybe they’re already included and I just haven’t played enough yet, but if not, that would make the experience even better.",
+      "date": 1780061701,
+      "review_helpful_count": 6,
+      "author_display_name": "Magicmerlin007",
+      "author_alias": "Magicmerlin007",
+      "developer_response": {
+        "body": "Thank you for the amazing review! The game already has a dynamic weather that creates weather maps for each hunt. The weather can move from clears skies to cloudy to rain and storm! Weather also affects the hunt- rain will cover your scent and dampen your sounds. Happy hunting!",
+        "date": 1780063162
+      }
+    },
+    {
+      "id": "1181454098365041",
+      "score": 4,
+      "review_title": "Very good game but a few niggles",
+      "review_description": "You need a lot of patience with this game, very much like stalking real pray. As realistic as it gets with a massive open world and good graphics. The opening tutorial is good fun and teaches you well on what you should do to get a good kill.\nThe areas for me to improve are:\n1. The binoculars need some work as they are super glitchy.\n2. Animal tracking could be a bit clearer, sometimes when tracking through multiple tracks I found myself going around in circles more than a few times. Maybe a RDR2 style scent trail could be an option?\nAs a whole a great game that once you find the pray, the heart rate races for the kill.",
+      "date": 1781289996,
+      "review_helpful_count": 3,
+      "author_display_name": "Thewonk",
+      "author_alias": "Thewonk",
+      "developer_response": null
+    },
+    {
+      "id": "1006095491973411",
+      "score": 1,
+      "review_title": "WAITED FOR NOTHING",
+      "review_description": "Been waiting for this game for my son to come out and re-downloaded it and all it keeps saying is if you have\n a problem, please report to our discord and then won’t let us push no button or go any further into the game. I do not have a discord. My son doesn’t have a discord if we have a problem with something. Why can’t somebody just call us to fix it or refund my money?",
+      "date": 1780185168,
+      "review_helpful_count": 5,
+      "author_display_name": "Slick3737123",
+      "author_alias": "Slick3737123",
+      "developer_response": {
+        "body": "Hey! We're sorry to hear you have issues with our game. It seems like you are stuck on  at the start screen? There is a \"I understand\"-button that you need to point and press with the trigger. Hope this helps and you can enjoy the hunt! If you do not have a Discord, you can send us an email to virtualhunter.info@gmail.com so we can help you further.",
+        "date": 1780210611
+      }
+    },
+    {
+      "id": "994833336293112",
+      "score": 4,
+      "review_title": "hunting is fun",
+      "review_description": "so i got the game yesterday and so far the only problem I have is that I am finding the movement controls are making it more difficult to get around.\nbut so far the game itself is good the graphics are nice.\ni am going to keep trying to get it sorted out..\n\nPaw Paul",
+      "date": 1780747920,
+      "review_helpful_count": 3,
+      "author_display_name": "Paw-1963",
+      "author_alias": "Paw-1963",
+      "developer_response": null
+    },
+    {
+      "id": "1171748979351005",
+      "score": 5,
+      "review_title": "Great Just great",
+      "review_description": "This is the best hunting game on meta quest by far and ive been playing every day since it came out with my buddys.Ill agree you don’t really know what to do at the start but once you get the hang of it this game becomes addictive 10/10",
+      "date": 1780252568,
+      "review_helpful_count": 5,
+      "author_display_name": "Jameseye",
+      "author_alias": "Jameseye",
+      "developer_response": null
+    },
+    {
+      "id": "3244081532423573",
+      "score": 5,
+      "review_title": "Liked in PC VR, Quest version is great",
+      "review_description": "Played this a lot in PC VR, have been looking forward to the Quest port but wasn't sure if they could pull off the expansive area and nice graphics at all times of day. They did, very well, enough so I'll probably mainly be playing this version going forward. No control issues. Sometimes animals seem to get stuck but I assume they'll fix that in an update sometime, besides which, in the meantime, real animals can get stuck too.",
+      "date": 1779944876,
+      "review_helpful_count": 3,
+      "author_display_name": "davidj.340017",
+      "author_alias": "davidj.340017",
+      "developer_response": null
+    },
+    {
+      "id": "988078537273645",
+      "score": 1,
+      "review_title": "Bad experience",
+      "review_description": "This game has been nothing but trouble for me, I have many hours into playing it and I've lost all my achievements twice, the second time I was very far in the game, now I go into the game and there's no trees, very disappointed this game was not ready to be published, please fix the problems and listen to the people buying them, I'm still having problems with the game, I really like this game, but gave up on it, after the second lose of all my achievements..",
+      "date": 1780685232,
+      "review_helpful_count": 2,
+      "author_display_name": "Sonic.Lee",
+      "author_alias": "Sonic.Lee",
+      "developer_response": {
+        "body": "Hey! I'm sorry to hear you've lost progress to a save issue we've had since release. We've been working on it for a week and finally today caught it. We are making an update that should release later today and fix the issue. \n\nMissing vegetation can be fixed by clearing game cache but we've had reports that loses progress as well. If you can, please join our discord as we will try help people who lost saves get at least some of it back next week. Join Discord here: https://discord.gg/gGmSAA8Prd Thank you for your patience and once again, sorry for the trouble.",
+        "date": 1780687165
+      }
+    },
+    {
+      "id": "1607315491394604",
+      "score": 5,
+      "review_title": "So much fun",
+      "review_description": "I love this game. So much like real life. Felt bad shooting my first deer. Then I got a boar, that was fun. But oh the bugs in your ear, a little too life like. Lol. Will play many hours.",
+      "date": 1781366101,
+      "review_helpful_count": 3,
+      "author_display_name": "NJ-Irishlas",
+      "author_alias": "NJ-Irishlas",
+      "developer_response": null
+    },
+    {
+      "id": "1231541353368070",
+      "score": 4,
+      "review_title": "Really good game some updates needed",
+      "review_description": "It’s a really good game compared to the other hunting games on VR. But they pretty much took the map “ta’arura” or how ever you spell it. There is only red deer and other animals. \nI was hoping to hit white tails and other animals, but a bug I found is they can walk through the ground and trees. And most the time I hit them in the lungs it says flesh hit and they never die. Devs please look and take my advice add different maps and species.￼",
+      "date": 1781408445,
+      "review_helpful_count": 0,
+      "author_display_name": "officialBananaBro",
+      "author_alias": "officialBananaBro",
+      "developer_response": null
+    },
+    {
+      "id": "1019907610570058",
+      "score": 5,
+      "review_title": "Read before you buy",
+      "review_description": "This is the most spot on hunting game in Vr, with different fur types, trophies, the reloading, the noise and wind, it’s all very realistic. The graphics are definitely a significant downgrade from the pc Vr version, but it’s expected on a stand alone headset. The only issue I’ve been having is when I put the gun to my shoulder to stabilize it, the scope fazes through my face and masses up my view a little, so fix that if you guys can! Other than that, I would say, make a meta quest 3 update so those on meta quest 3 can enjoy a mix between the pc Vr and standalone graphics (sunset quest 3 runs graphics better). If you are looking for a hunting game though, this is the one for you!",
+      "date": 1781795798,
+      "review_helpful_count": 1,
+      "author_display_name": "Plat2inum2011",
+      "author_alias": "Plat2inum2011",
+      "developer_response": {
+        "body": "Hey! You can move the scope on the rail to any notch when you place it. Gives you freedom to put it a bit further front so it doesn't clip to your head. There are also offset settings for virtual and physical gunstocks if you're using them! You can also turn virtual stock off and it doesn't snap on your shoulder. Happy hunting!",
+        "date": 1781714308
+      }
+    },
+    {
+      "id": "1164932750035630",
+      "score": 1,
+      "review_title": "Worst game I have purchased.",
+      "review_description": "Went through and got my license. Go back to the lodge and adjust the clock and chose my hunting location. At that time I get a screen saying about making noise when you run and spooking the animals. At that point the game freezes. I have gone through every suggestion AI has given me but nothing gets me any further. I was on the wish list for months waiting to get this game. I have been trying everything for weeks now it’s to late to get a .",
+      "date": 1781032696,
+      "review_helpful_count": 1,
+      "author_display_name": "Jacksuzcash",
+      "author_alias": "Jacksuzcash",
+      "developer_response": {
+        "body": "Hey! Sorry to hear you've had issues with the game. The loading to the map takes a moment but it shouldn't freeze.  Can you join our Discord or send us an email so we can help you better? Thank you!\n\nJoin our discord: https://discord.gg/gGmSAA8Prd or send us an email to virtualhunter.info@gmail.com .",
+        "date": 1781035193
+      }
+    },
+    {
+      "id": "1141415029057231",
+      "score": 5,
+      "review_title": "Best VR Hunting Game",
+      "review_description": "Best hunting game in VR I have experienced! would love to see the addition of Elk, Bear, and maybe even Mountain Lions though!",
+      "date": 1780772030,
+      "review_helpful_count": 6,
+      "author_display_name": "lTplGraybeard",
+      "author_alias": "lTplGraybeard",
+      "developer_response": null
+    },
+    {
+      "id": "1140073212522491",
+      "score": 5,
+      "review_title": "this is a really goodgame  it is so good",
+      "review_description": "i wish that they will add leveraction rifles in cross bows and bears will people say there is levr in action rifles but i went to the store and i see no lever action rifle this is really good game bot can you please llever action rifles",
+      "date": 1780032488,
+      "review_helpful_count": 3,
+      "author_display_name": "JohnMartson",
+      "author_alias": "JohnMartson",
+      "developer_response": null
+    },
+    {
+      "id": "1654320989169028",
+      "score": 1,
+      "review_title": "Doesnt work with pro controller",
+      "review_description": "I only have pro controllers on my quest 3.  The game description just says touch controllers.  It is definitely not compatible with pro  controllers.  So I can not even play it.  Looking for a fix or a refund.",
+      "date": 1780021951,
+      "review_helpful_count": 3,
+      "author_display_name": "frank1the1bunny",
+      "author_alias": "frank1the1bunny",
+      "developer_response": {
+        "body": "Hey! We have received this report few times now and are looking into it. We try fix it as soon as possible. Thank you!\n\nEdit: New update is out and Pro controllers should now work again. Please test again. Thank you and happy hunting!",
+        "date": 1780659158
+      }
+    },
+    {
+      "id": "26745227218419224",
+      "score": 3,
+      "review_title": "Not polished",
+      "review_description": "Wished it was polished because if this game was, I would be happy to pay the 40$ price tag. The game just does not stand toe to toe with other games at this price point.",
+      "date": 1780029195,
+      "review_helpful_count": 4,
+      "author_display_name": "Ozzboro",
+      "author_alias": "Ozzboro",
+      "developer_response": null
+    },
+    {
+      "id": "1354152249942391",
+      "score": 5,
+      "review_title": "Best hunting game on meta",
+      "review_description": "Been playing since it came out a few days ago and already put 50 plus hours in I have to say beat hunting game I have  ever played on meta can’t wait to see what they bring next.",
+      "date": 1780449573,
+      "review_helpful_count": 3,
+      "author_display_name": "beastboy12",
+      "author_alias": "beastboy12",
+      "developer_response": null
+    },
+    {
+      "id": "1149264544938446",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "One of the best games on Metaquest in my opinion, definitely the best hunting game. I would recommend adding a .22LR, and maybe a .375 H&H and adding bears. Overall though, best game I’ve ever played.",
+      "date": 1779944412,
+      "review_helpful_count": 3,
+      "author_display_name": "FIGHTERJETNERD",
+      "author_alias": "FIGHTERJETNERD",
+      "developer_response": null
+    },
+    {
+      "id": "1515714046617098",
+      "score": 5,
+      "review_title": "Great so far!",
+      "review_description": "It takes patience but once you get your first trophy it seems well worth it.  So far I have bagged a red deer and a boar.  I am looking forward to my next hunt.  Good job Dev's it is a solid hunting game with a huge map.  Happy Hunting!",
+      "date": 1779928858,
+      "review_helpful_count": 2,
+      "author_display_name": "APEboys",
+      "author_alias": "APEboys",
+      "developer_response": null
+    },
+    {
+      "id": "1116395084897014",
+      "score": 1,
+      "review_title": "Doesn't work properly",
+      "review_description": "I have been waiting months for this game to come out and I'm so disappointed I just spent 37 dollars something actually for $40 I want my money back",
+      "date": 1779894004,
+      "review_helpful_count": 5,
+      "author_display_name": "ryder666.2025",
+      "author_alias": "ryder666.2025",
+      "developer_response": {
+        "body": "Hey, thanks for playing Virtual Hunter! We’re sorry to hear you’re having trouble. Could you please join our Virtual Hunter Discord and describe the issue in detail? Our team and community are happy to help you get back to hunting as soon as possible.\n\nYou can join Discord here: https://discord.gg/FDRcUyzk6T",
+        "date": 1779895016
+      }
+    },
+    {
+      "id": "1049755300914160",
+      "score": 4,
+      "review_title": "Not bad",
+      "review_description": "It’s pretty good and realistic but the graphics are not that great, I don’t know if it is my headset or the game.",
+      "date": 1779999914,
+      "review_helpful_count": 6,
+      "author_display_name": "TheMorrisins",
+      "author_alias": "TheMorrisins",
+      "developer_response": null
+    },
+    {
+      "id": "35918164187827908",
+      "score": 5,
+      "review_title": "Huge world for hunting in VR",
+      "review_description": "Recommend it as the game is almost identical to the PCVR platform.",
+      "date": 1779889851,
+      "review_helpful_count": 7,
+      "author_display_name": "kkuzma1982",
+      "author_alias": "kkuzma1982",
+      "developer_response": null
+    },
+    {
+      "id": "1109306728937803",
+      "score": 5,
+      "review_title": "❤️❤️❤️",
+      "review_description": "Good game ❤️❤️",
+      "date": 1779889311,
+      "review_helpful_count": 9,
+      "author_display_name": "Savio8",
+      "author_alias": "Savio8",
+      "developer_response": null
+    },
+    {
+      "id": "960445840195336",
+      "score": 5,
+      "review_title": "i love it",
+      "review_description": "I just won a give away from vr_guy and i played the game and its so fun i never went hunting and i always wanted to and because i won this game and its like real hunting i think lol",
+      "date": 1779936210,
+      "review_helpful_count": 2,
+      "author_display_name": "Splinter8944",
+      "author_alias": "Splinter8944",
+      "developer_response": null
+    },
+    {
+      "id": "1026253706572832",
+      "score": 5,
+      "review_title": "Fantastic",
+      "review_description": "Love it so far. Absolutely great. Will give longer review later. Perfect timing, I desired a great hunting game for me and my friend and found this one day before release!",
+      "date": 1779976417,
+      "review_helpful_count": 2,
+      "author_display_name": "Steve5698",
+      "author_alias": "Steve5698",
+      "developer_response": null
+    },
+    {
+      "id": "1140401465823765",
+      "score": 4,
+      "review_title": "MOBILITY",
+      "review_description": "GREAT game...but we really need movement,for example a car or ATV just some sort of mobility instead of just walking",
+      "date": 1780711276,
+      "review_helpful_count": 2,
+      "author_display_name": "Itz_Gavin7",
+      "author_alias": "Itz_Gavin7",
+      "developer_response": null
+    },
+    {
+      "id": "1095003153704699",
+      "score": 5,
+      "review_title": "New favorite VR game",
+      "review_description": "This is by far my new favorite VR game and I highly recommend it to everyone! It's really fun, I can't get enough of it! Best hunting game ever!",
+      "date": 1780014855,
+      "review_helpful_count": 2,
+      "author_display_name": "blindedyounggunbye",
+      "author_alias": "blindedyounggunbye",
+      "developer_response": null
+    },
+    {
+      "id": "1541977570611547",
+      "score": 4,
+      "review_title": "Shotgun",
+      "review_description": "The games cool but the shotguns feel weird no  matter what ammo type you use it just shoots one ball which feels kinda pointless with birdshot",
+      "date": 1781198162,
+      "review_helpful_count": 0,
+      "author_display_name": "something_or_anotther",
+      "author_alias": "something_or_anotther",
+      "developer_response": {
+        "body": "Hey! Each shell has a major difference. Slugs shoot one, buckshot has 9 and birdshot has 119 pellets. They are very much like their real life counterparts!",
+        "date": 1781200762
+      }
+    },
+    {
+      "id": "1190317840825318",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Shot a fallow deer in the lungs and he died from 200ish meters away",
+      "date": 1780071396,
+      "review_helpful_count": 3,
+      "author_display_name": "Archjody",
+      "author_alias": "Archjody",
+      "developer_response": null
+    },
+    {
+      "id": "1026246497023879",
+      "score": 4,
+      "review_title": "No rocks or vegetation",
+      "review_description": "When ever I load into the map I can walk around the map and see other people but I can’t see any rocks ,vegetation or animals it’s all just blank hills.",
+      "date": 1780595259,
+      "review_helpful_count": 0,
+      "author_display_name": "gunzdad78",
+      "author_alias": "gunzdad78",
+      "developer_response": {
+        "body": "Hey. I'm sorry to hear that you've ran into this issue. This was reported in our discord and clearing the game cache worked for them. The save file seems to be corrupted so unfortunately that also means progress is lost. We are aware of this issue and have been working on it since the release nonstop. Thank you for  your patience, we will get it fixed as soon as we can.",
+        "date": 1780594662
+      }
+    },
+    {
+      "id": "1000038316291965",
+      "score": 4,
+      "review_title": "Good game",
+      "review_description": "Great hunting but kicked me before I could claim a giant deer",
+      "date": 1780772387,
+      "review_helpful_count": 2,
+      "author_display_name": "Bern406",
+      "author_alias": "Bern406",
+      "developer_response": null
+    },
+    {
+      "id": "1141945992333380",
+      "score": 5,
+      "review_title": "Multiplayer",
+      "review_description": "Multiplayer not work, why ???",
+      "date": 1779903958,
+      "review_helpful_count": 4,
+      "author_display_name": "AdamPL",
+      "author_alias": "AdamPL",
+      "developer_response": null
+    },
+    {
+      "id": "27924403813829756",
+      "score": 5,
+      "review_title": "Ultimate Hunting Game",
+      "review_description": "Near perfect, well done developers! 😀",
+      "date": 1779911534,
+      "review_helpful_count": 3,
+      "author_display_name": "mnc808",
+      "author_alias": "mnc808",
+      "developer_response": null
+    },
+    {
+      "id": "1148081828385628",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Really fun well made I haven’t experienced a single bug I’m also on quest 2",
+      "date": 1779934760,
+      "review_helpful_count": 2,
+      "author_display_name": "wolfgrant.2023",
+      "author_alias": "wolfgrant.2023",
+      "developer_response": null
+    },
+    {
+      "id": "1321813909902373",
+      "score": 5,
+      "review_title": "Welcome back DH 2005!!",
+      "review_description": "Loving it",
+      "date": 1780113484,
+      "review_helpful_count": 3,
+      "author_display_name": "StocKA",
+      "author_alias": "StocKA",
+      "developer_response": null
+    },
+    {
+      "id": "1205251189330200",
+      "score": 1,
+      "review_title": "One star",
+      "review_description": "My friend was telling me it’s was the best game ever on quest 2. But now we both are unsatisfied.",
+      "date": 1779904881,
+      "review_helpful_count": 1,
+      "author_display_name": "Huntingmaster2014",
+      "author_alias": "Huntingmaster2014",
+      "developer_response": {
+        "body": "Hey! I'm sorry to hear that the game didn't meet your expectations. We officially support only Quest 3 and 3S for now so if played on Quest 2, the experience will not be optimal. We are looking into proper Quest 2 support. Thank you!",
+        "date": 1779906670
+      }
+    },
+    {
+      "id": "1017740707447903",
+      "score": 1,
+      "review_title": "Dissa pointed",
+      "review_description": "I cant ply the gme becaus ethere is no support for queat pro controllers",
+      "date": 1780279101,
+      "review_helpful_count": 1,
+      "author_display_name": "braydent751",
+      "author_alias": "braydent751",
+      "developer_response": {
+        "body": "Hey! We aim to have an update very soon that will add support for them.\n\nEdit: New update is out and Pro controllers should now work again. Please test again. Thank you and happy hunting!",
+        "date": 1780570727
+      }
+    },
+    {
+      "id": "1744525453203172",
+      "score": 1,
+      "review_title": "penoso",
+      "review_description": "basura",
+      "date": 1780489053,
+      "review_helpful_count": 0,
+      "author_display_name": "domingoaracena",
+      "author_alias": "domingoaracena",
+      "developer_response": {
+        "body": "Hey! Unfortunate to hear that you didn't find the game enjoyable. Can you please give us more detailed feedback so we can improve the experience or help if you ran into any issues. Join our discord: https://discord.gg/gGmSAA8Prd or send us an email to virtualhunter.info@gmail.com . Thank you!",
+        "date": 1780489424
+      }
+    },
+    {
+      "id": "1144638632068975",
+      "score": 4,
+      "review_title": "Animals",
+      "review_description": "The best VR hunting game definitely the only problem i have with it is that theres only like 6 animals in the game and im gonna cut them some slack because the game did come out about half a month ago but it only needs mire animals like elk moose or whitetail and definitely bears bears would be awesome in this game. Overall this game is really good and is definitely worth buying if you like hunting just add more animals as the game gets older",
+      "date": 1781657841,
+      "review_helpful_count": 2,
+      "author_display_name": "JCH85458",
+      "author_alias": "JCH85458",
+      "developer_response": null
+    },
+    {
+      "id": "1340585784690351",
+      "score": 5,
+      "review_title": "Definitely has potential, a little buggy",
+      "review_description": "It’s definitely a great hunting game, it has you in this open world you can explore with all kinds of animals you can hunt. Definitely something like big game hunter. In my own experience it was a bit slow in the beginning but that made it so rewarding once I finally got a deer. Onto the buggy part, it’s got minor things like this sort of ghosting effect and I experienced this artifacting effect however of course these issued can be fixed with later updates. It’s definitely got great potential and I can’t wait to see its state in the future.",
+      "date": 1781140452,
+      "review_helpful_count": 2,
+      "author_display_name": "dayday9508",
+      "author_alias": "dayday9508",
+      "developer_response": null
+    }
+  ],
+  "total": 53,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-19T11:35:01Z"
+}
