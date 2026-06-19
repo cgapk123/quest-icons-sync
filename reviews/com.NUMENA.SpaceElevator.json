@@ -1,0 +1,282 @@
+{
+  "app_id": "7107719756007453",
+  "package_name": "com.NUMENA.SpaceElevator",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Space Elevator",
+  "rating_average": 4.6341463414634,
+  "rating_count": 41,
+  "review_count": 33,
+  "reviews": [
+    {
+      "id": "1270714795114664",
+      "score": 5,
+      "review_title": "Good fun, but I'd love a couple features",
+      "review_description": "Overall I have been enjoying it, but I wish it had a couple extra features. \nFrom the building side, I wish you could select multiple items to lock, move, or scale together. May e you can and I'm missing it? Some more tutorial would be helpful. The initial walkthrough of controls is helpful, but a more advanced feature tutorial would be great.\n\nSecond, it's a shame to build something great, and have no means to share it other than screen recording it. Multiplayer would be nice. Or the ability to export as a floorplan would be really neat and would increase the value of building in the app. \n\nI used to use RecRoom for building, and as much as that's obviously not the greatest for architectural design, the Makerpen allows for some really handy build tool features that could be implemented on a platform like this in a really cool way.",
+      "date": 1770278754,
+      "review_helpful_count": 15,
+      "author_display_name": "Lanta360",
+      "author_alias": "Lanta360",
+      "developer_response": {
+        "body": "MULTIPLE SELECT: On the left controller, you should see \"Tool Settings: Select\". The first button is a \"+\" sign next to a cursor arrow. If that is selected, you can click on multiple objects in the scene. The items will stay selected and can then be moved, copied, added to their own layer and locked, etc.\n\n\nSHARING: Aside from screen recordings, you can export all the geometry as an FBX file (UI for this is in the Sandbox, the tabletop that shows the entire scene like a doolhouse).",
+        "date": 1770302659
+      }
+    },
+    {
+      "id": "876485425503726",
+      "score": 4,
+      "review_title": "Very good app",
+      "review_description": "I wish I  had a little bit more furniture options\n￼￼\n￼",
+      "date": 1778286472,
+      "review_helpful_count": 1,
+      "author_display_name": "Rubysapphire8",
+      "author_alias": "Rubysapphire8",
+      "developer_response": {
+        "body": "Hi Rubysapphire8! Point taken and we'll do a review of our libraries to see where we could add more options.",
+        "date": 1778513442
+      }
+    },
+    {
+      "id": "25174023105554330",
+      "score": 4,
+      "review_title": "Could you add low res textures pack?",
+      "review_description": "Like playstation1? Actually we are stuck at level of unreal polygons with almost real textures. Could you add low res textures pack, so we could create classic scènes without need to be too realistic?",
+      "date": 1766684335,
+      "review_helpful_count": 8,
+      "author_display_name": "yans",
+      "author_alias": "yans",
+      "developer_response": {
+        "body": "Hi yans, point taken - really good observation. We added a low res texture pack to our roadmap.",
+        "date": 1769609463
+      }
+    },
+    {
+      "id": "930513993479129",
+      "score": 5,
+      "review_title": "Truly a game for peace",
+      "review_description": "I was having a bad day and I played this game made a house for 3 hours and I just felt like I just woke up.",
+      "date": 1766961402,
+      "review_helpful_count": 8,
+      "author_display_name": "Jaxon2201",
+      "author_alias": "Jaxon2201",
+      "developer_response": {
+        "body": "Wow, thank you for that. THIS is why we're still VR devs.",
+        "date": 1769609589
+      }
+    },
+    {
+      "id": "4283945421883332",
+      "score": 5,
+      "review_title": "The Game Is Amazing",
+      "review_description": "For a free game, the game is very fun. I could easily pay $10-$15 for this. If you don't have a decent amount of patience, I wouldn't recommend playing, it takes a while to build something actually good.",
+      "date": 1763510354,
+      "review_helpful_count": 6,
+      "author_display_name": "CK1263",
+      "author_alias": "CK1263",
+      "developer_response": {
+        "body": "We're super happy to hear you enjoy building stuff inside our app! If you need help with anything, write us anytime on Discord.",
+        "date": 1764004474
+      }
+    },
+    {
+      "id": "932733266371693",
+      "score": 4,
+      "review_title": "Great game and recommend",
+      "review_description": "The game is good and pretty much a sandbox but you build. This is my first day playing the game but one downside is that when you play for at least 30-50 minutes it gets boring.",
+      "date": 1771298240,
+      "review_helpful_count": 0,
+      "author_display_name": "dxdubz",
+      "author_alias": "dxdubz",
+      "developer_response": {
+        "body": "Hi dxdubz! We totally get it. When we made this app, we had in mind people that want to build a house and need a simple tool to explore different designs. Thank you for trying it out nonetheless. And who knows, maybe you'll feel like getting back into it one day.",
+        "date": 1773089364
+      }
+    },
+    {
+      "id": "762407942877067",
+      "score": 4,
+      "review_title": "Amazing potential",
+      "review_description": "Honestly I'm blown away by this app. It's free but I'd easily pay 10 to 15 bucks for it. The controls are responsive and the building system is very intuitive. I'm not finding a snap tool and that's what I desperately need. I spend a lot of time lining up walls and ceilings that could be so much easier if they would just snap together. Mixed reality would be fun as well. It would be great if we could have people/animals to put into our worlds as well. Breath some life into them. Maybe an avatar for ourselves? We build these worlds but they are desolate and empty. They would be so much more enjoyable with people/pets there to interact with. An AI companion? Those are just my ideas, the app as it is is a lot of fun to play with, I'd just like to see my world brought to life. That would be really cool to see. Great job dev team.\n\nUpdate: over a year ago I reviewed this app and there is still no snap tool. Highly disappointing.",
+      "date": 1749790166,
+      "review_helpful_count": 13,
+      "author_display_name": "Mrwhite33376",
+      "author_alias": "Mrwhite33376",
+      "developer_response": {
+        "body": "Hi Mrwhite, thank you for revisiting Space Elevator. We definitely need a snap tool and we are looking for a way to implement it that keeps the focus on ideation.  Our aim with SE is to replicate the way architects use cardboard for sketching: they build quickly and loosely until the overall shape and space feel right. It's a priority on our roadmap, and we hope to be able to release an update with this feature.",
+        "date": 1764618351
+      }
+    },
+    {
+      "id": "620269761166480",
+      "score": 5,
+      "review_title": "Well rounded and easy learning curve.",
+      "review_description": "I work for an architectural firm, and I am accustomed to people using AutoCad and Revit to build spaces. My 7yr old son however has been using Minecraft for years and was looking for something more polished and granular. \n\nThis app was easy for him to get started and yet still has plenty of room for more complex design and advanced features. \n\nI am a fan of the usability without it feeling game-like. Although upon first look it feels kind of like a “home architect” application, I feel this has far more advanced functionality once you start digging into the features… and the rabbit hole runs deep.",
+      "date": 1743896855,
+      "review_helpful_count": 9,
+      "author_display_name": "frombrooklyn.2024",
+      "author_alias": "frombrooklyn.2024",
+      "developer_response": {
+        "body": "Thank you, frombrooklyn! Our goals is to introduce a new way of designing spaces. Older audiences trained on screen-based methods sometimes struggle with a workflow that requires them to move their entire body. But, in our experience, younger audiences who first learn how to design in VR love it and can't imagine working any other way. \n\nAfter all, buildings are spaces for people in motion, so it's only natural to use a tool where you can simulate that with your own body WHILE you ideate. \n\nThank you again, and we hope your son will build beautiful things with Space Elevator!",
+        "date": 1747054917
+      }
+    },
+    {
+      "id": "540276989180094",
+      "score": 4,
+      "review_title": "Very versatile.",
+      "review_description": "Of all the VR based architectural platforms I’ve used, this one has the most flexibility and control (more so than Joyverse and Home Design 3D).  However, some essential items are missing from its repertoire such as a refrigerator in the kitchen furniture items.  More accessories would be nice too and a way to change the color of the car and van.  These extra touches would make this a five star stellar tool for design.",
+      "date": 1743918137,
+      "review_helpful_count": 4,
+      "author_display_name": "Scriber913",
+      "author_alias": "Scriber913",
+      "developer_response": {
+        "body": "Thank you, Scriber913! We're happy to hear that you are enjoying Space Elevator's flexibility and control. We put an awful lot of work into the UI, and we're glad it's coming across. PS: We have added the missing items to our To Do list for the next update.",
+        "date": 1744027692
+      }
+    },
+    {
+      "id": "460661850463840",
+      "score": 5,
+      "review_title": "impressive",
+      "review_description": "“I recently explored Space Elevator on Meta Quest 3, and it’s an impressive application for architecture enthusiasts. The app offers a unique platform to dive into the world of architectural design, allowing users to construct and interact with stunning virtual structures. The level of detail and realism in the designs is truly remarkable, making it an engaging tool for anyone passionate about architecture. Space Elevator stands out as a creative hub, pushing the boundaries of virtual design and offering a fresh perspective on what’s possible in the realm of architecture. Highly recommended for those looking to unleash their creativity!”",
+      "date": 1729516171,
+      "review_helpful_count": 5,
+      "author_display_name": "luke4_400",
+      "author_alias": "luke4_400",
+      "developer_response": null
+    },
+    {
+      "id": "497173976560533",
+      "score": 5,
+      "review_title": "Great - powerful but simple to use",
+      "review_description": "I have used many home design/ 3d layout tools (2D and VR) and this is by far the best blend of capability and simplicity. I can create designs much more quickly than with any other tool I've used. There are still some key features missing here but I have no doubt they will be added. The object interaction approach is a bit unconventional but you soon realize that the UI choices have been well thought through and are extremely appropriate and powerful. The devs have done alot of great work here and I only hope this tool continues to be enhanced.",
+      "date": 1727791874,
+      "review_helpful_count": 6,
+      "author_display_name": "97players",
+      "author_alias": "97players",
+      "developer_response": null
+    },
+    {
+      "id": "1230503568150494",
+      "score": 5,
+      "review_title": "The best Spatial World app you must try",
+      "review_description": "This app \"Space Elevator\" became a part of my life.\nI love imagination. And all of my life is not traditional.\n\nI found all what I need in this App, of course passionate with the new updates. You can open your mind and imagine any thing... any thing, you can draw it with objects, paint what you want. Think about you can build a model for Bali. Trees, seas, and some colored fish. Some streets and temples. Awesome, right? Do you know Inception? The last scene of the room with black walls. You can build it easily, attach beds and tables, put you chair and setdown or get some pretty sleep! I do not want to say a lot of words. I will go to build my new joureny.",
+      "date": 1727286907,
+      "review_helpful_count": 4,
+      "author_display_name": "SmarterGuy",
+      "author_alias": "SmarterGuy",
+      "developer_response": null
+    },
+    {
+      "id": "1270256397757752",
+      "score": 5,
+      "review_title": "Spatial Dream Design tools with Sound!",
+      "review_description": "Basically the only spatial design app that also considers audio a core part of your reality.\n\n\nOverall, Very unique interactions, human intuitive controls, and even placeable audio nodes around your space. You can find the seeds to many great ideas and the tools for your inspiration here. 💡\n\nThough still controller based for now, this app feels   like it's designing for uninitiated humans rather than gamers.",
+      "date": 1726854703,
+      "review_helpful_count": 3,
+      "author_display_name": "jaysilvas",
+      "author_alias": "jaysilvas",
+      "developer_response": {
+        "body": "It may seem a bit counterintuitive, but sound is one of the most powerful design elements for bringing virtual spaces to life. We're thrilled that you're enjoying working with our sound library!",
+        "date": 1726861744
+      }
+    },
+    {
+      "id": "1202597897370612",
+      "score": 4,
+      "review_title": "it's a fun concept but needs more work.",
+      "review_description": "I like where this is going! The idea of how you load files is GENIUS and haven't seen a game do this sort of thing, very fun!\nHowever i think this game is missing some crucial things to being even more enjoyable.\nLike it's missing grid snapping, being able to change ground texture and changing texture size.\nThe main problem with texture/materials i had is how when i tried making ground out of a cube primitive the grass texture was stretched out.\nBut mainly grid snapping in my opinion is the thing that's missing. and being able to set thickness of walls.\nI would even pay for this game if it had those features.\nWill try more of this soon again!",
+      "date": 1713030792,
+      "review_helpful_count": 3,
+      "author_display_name": "Davive184",
+      "author_alias": "Davive184",
+      "developer_response": {
+        "body": "Thank you for trying out our app! Absolutely. We are working on a snapping tool (first step towards that will already be included in the next update) and on allowing users to input wall thickness.",
+        "date": 1715009625
+      }
+    },
+    {
+      "id": "780195384160376",
+      "score": 4,
+      "review_title": "Ever dreamed a \"CAD\" in VR?",
+      "review_description": "Well, this is kind of that, for construction. Pretty basic now, a bunch of tools and pre builded objects, is a good starting point for this app. Will be great to have the ability to import our own .obj , skyboxes and textures, and maybe the ability to export the project. Just 4 stars to stimulate the team behind this project, but 5 stars because is the only app that allows you to do so and is free too.",
+      "date": 1709117996,
+      "review_helpful_count": 3,
+      "author_display_name": "magenONE",
+      "author_alias": "magenONE",
+      "developer_response": {
+        "body": "Hi! Thanks so much for trying our app! We have a rudimentary export to fbx function that we're working on improving (you can find it in the Sandbox), and we're hoping to enable imports in the future. If anything else comes to mind, please let us know!",
+        "date": 1709126095
+      }
+    },
+    {
+      "id": "7109151689200664",
+      "score": 5,
+      "review_title": "Awesome UI/UX",
+      "review_description": "Space Elevator is something special. I wish somebody from the Industrial/Mechanical CAD could use the same principle used there for UI/UX. I have had so much fun following the tutorial.  It is so intuitive. I love the skeuomorphic style for the UI. The guided tutor through voice is awesome. Maybe in future versions, we could have a realistic human too. I left the experience with that delicious feeling of wanting go back to start creating and explore what has been already created by others. Congratulations to the entire NUMENA team. You have a precious diamond nugget in your hands! I want more of it.",
+      "date": 1707584363,
+      "review_helpful_count": 4,
+      "author_display_name": "pereirarb1",
+      "author_alias": "pereirarb1",
+      "developer_response": null
+    },
+    {
+      "id": "1170772827221108",
+      "score": 5,
+      "review_title": "For students",
+      "review_description": "My role is to help teachers explore and integrate XR into curricula. I am very excited about this app. It is absolutely beautiful and intuitive to use. I've told the professors in our Interior Design Degree and Architectural Technology programs about it and I can't wait to hear their feedback. This is exactly the kind of experiential learning we are looking for at colleges and universities. Well done! I can't wait to see what comes next!",
+      "date": 1707164946,
+      "review_helpful_count": 4,
+      "author_display_name": "rtheriault",
+      "author_alias": "rtheriault",
+      "developer_response": null
+    },
+    {
+      "id": "1789139098253650",
+      "score": 5,
+      "review_title": "God mode for architecture and design",
+      "review_description": "This app is so easy to use and the creations I made are elegant and sophisticated. Really thoughtful 3D design which also includes the menus, Spatial Audio and more. The developers thought of every detail.",
+      "date": 1707716644,
+      "review_helpful_count": 4,
+      "author_display_name": "theextendedmind",
+      "author_alias": "theextendedmind",
+      "developer_response": null
+    },
+    {
+      "id": "1208272043773442",
+      "score": 4,
+      "review_title": "Architecture Fun",
+      "review_description": "This game or app really is for a specific audience. Unfortunately it's not me but what I saw I did like. \n\nIt starts off like some kind of mind awareness app and has a really cool and fun tutorial explaining all the controls and mechanics of the game. \n\nWhen you get more into it you realise that it's just a sandbox to create your own rooms and spaces. There are alot of tools to use but found the controls really easy to use and pick up. It's a very well made game and if you enjoy sandbox games where you could make your perfect ct house then this is for you. \n\nFor me personally I need a story and something to keep me going but apart from that it has excellent graphics and made really well",
+      "date": 1726849043,
+      "review_helpful_count": 1,
+      "author_display_name": "WelshGamerVR",
+      "author_alias": "WelshGamerVR",
+      "developer_response": {
+        "body": "Yes, it's a sandbox for spatial designers, but thank you for checking it out nonetheless! And if you ever do want to design a house, we'll be here to help. We plan to add more sample buildings to give you more options to start from.",
+        "date": 1726860574
+      }
+    },
+    {
+      "id": "1137171020977451",
+      "score": 4,
+      "review_title": "",
+      "review_description": "it's quite nice but for example I skipped the tutorial and I wanted to transform the sofa with one of the available materials, I threw a sort of ball with the material on the sofa but it didn't change, but certainly by doing the tutorial I understand how to do it.\n\nI would just like the passthrough because I haven't found it, nor have I found how to make the walls\n\nthen I would have liked that for example once I have generated the chair, I can position it on the floor but without it crossing the floor itself, in fact in the current way in which objects are positioned you have to pay attention to avoid it penetrating the floor",
+      "date": 1706266258,
+      "review_helpful_count": 3,
+      "author_display_name": "serpe.massimo",
+      "author_alias": "serpe.massimo",
+      "developer_response": {
+        "body": "Hi, thank you so much for taking the time to test our app and write the first review. We are still actively developing this app and are really happy about feedback like yours.\nYou can find walls in the construction > surfaces box.\nCurrently not all objects can be painted. We'll look into labeling them in the menu and making more objects paintable in future.\nAt the moment there is no passthrough option unfortunately, but it's a great suggestion.\nWe are working on improving positioning furniture.\nIf you'd like to send additional feedback, you can join our discord server, where we discuss new features and updates: https://discord.gg/xUvh3XyQt5",
+        "date": 1706282945
+      }
+    }
+  ],
+  "total": 20,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-19T13:29:17Z"
+}

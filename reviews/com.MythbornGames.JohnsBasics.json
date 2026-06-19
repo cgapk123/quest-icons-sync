@@ -1,0 +1,56 @@
+{
+  "app_id": "9728424547261512",
+  "package_name": "com.MythbornGames.JohnsBasics",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "John's Basics",
+  "rating_average": 3.6666666666667,
+  "rating_count": 6,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1118148424703883",
+      "score": 1,
+      "review_title": "Can’t play??",
+      "review_description": "The title screen just says “error outdated version” or something like that. Can’t figure out how to play or even IF I can play. It looks neat though.",
+      "date": 1774151370,
+      "review_helpful_count": 2,
+      "author_display_name": "Astrallama333",
+      "author_alias": "Astrallama333",
+      "developer_response": {
+        "body": "Hello, Thank you for this review and we apologise for this issue, this has since been resolved and fixed thank you for letting us know and please update your review according to your true thoughts on the game now that you can play!",
+        "date": 1778078583
+      }
+    },
+    {
+      "id": "4487636388231599",
+      "score": 5,
+      "review_title": "Epic",
+      "review_description": "Epic is a word and this game",
+      "date": 1773443122,
+      "review_helpful_count": 0,
+      "author_display_name": "flyshrek",
+      "author_alias": "flyshrek",
+      "developer_response": null
+    },
+    {
+      "id": "769147482731528",
+      "score": 5,
+      "review_title": "Amazing Game",
+      "review_description": "my oculus shut itself down cuz it got too scared",
+      "date": 1756143635,
+      "review_helpful_count": 13,
+      "author_display_name": "SakeVr1",
+      "author_alias": "SakeVr1",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T13:27:22Z"
+}

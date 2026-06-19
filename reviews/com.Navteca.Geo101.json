@@ -1,0 +1,42 @@
+{
+  "app_id": "1171944206201442",
+  "package_name": "com.Navteca.Geo101",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "GEO101",
+  "rating_average": 2.8421052631579,
+  "rating_count": 19,
+  "review_count": 19,
+  "reviews": [
+    {
+      "id": "2138814716259463",
+      "score": 4,
+      "review_title": "Functional Globe Trotting",
+      "review_description": "It's a simple 'find the country' kinda game, which works well in VR I'd say.",
+      "date": 1632491645,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "883862255104865",
+      "score": 3,
+      "review_title": "Could be improved in many forms",
+      "review_description": "It's interesting, but it could be improved in many forms. For instance:\n\nThe 3D globe in the start page looks much better than the \"inside out\" globe in game.\n\nWe could use the swap gestures to rotate the globe and zoom in and out.\n\nThere could be more information about the countries, or several pages of information. \n\nPictures could be larger higher resolution. \n\nIntegration with Wikipedia would solve some of the problems above.",
+      "date": 1499537196,
+      "review_helpful_count": 3,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T13:31:09Z"
+}

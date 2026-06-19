@@ -1,0 +1,317 @@
+{
+  "app_id": "7631852763493874",
+  "package_name": "com.NeatCorporation.Crossings",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Crossings",
+  "rating_average": 4.093023255814,
+  "rating_count": 43,
+  "review_count": 25,
+  "reviews": [
+    {
+      "id": "1153415344524021",
+      "score": 4,
+      "review_title": "Buggy but good",
+      "review_description": "The game is good but the bugginess is just cranked to an 8. I fell through the floor and I keep lagging like hell while playing multiplayer. The combat is mediocre and not satisfying. I hope the devs push out an update for it. Other than that games pretty good.",
+      "date": 1781302855,
+      "review_helpful_count": 0,
+      "author_display_name": "solidsnake71008",
+      "author_alias": "solidsnake71008",
+      "developer_response": null
+    },
+    {
+      "id": "1203034146207038",
+      "score": 5,
+      "review_title": "Love it...but",
+      "review_description": "The update has caused freezing and a bunch of lagged. Other then that , the gameplay is great and a lot of fun.",
+      "date": 1781601051,
+      "review_helpful_count": 0,
+      "author_display_name": "Jeremyed7",
+      "author_alias": "Jeremyed7",
+      "developer_response": null
+    },
+    {
+      "id": "737701776093554",
+      "score": 5,
+      "review_title": "Fun roguelike with nordic mythos",
+      "review_description": "Overall pretty nice combat, with roguelike elements you would expect to find (randomized encounters and stat boosts). Written after a first proper run, so can't comment on the late game. I liked the weapon-specific combos that apply extra damage or effects. The spells were nice and simple gestures, so they were easy to use even during combat.\n\nOne improvement I'd suggest: Possibility to change the stick movement mode in a way that the movement direction is NOT dependent on where the player is looking at (ie. you move towards where you are looking). I'd prefer movement mode where the stick direction moves you always to the same direction regardless of where you are looking at.",
+      "date": 1775231340,
+      "review_helpful_count": 5,
+      "author_display_name": "reK0n",
+      "author_alias": "reK0n",
+      "developer_response": null
+    },
+    {
+      "id": "1222419453379945",
+      "score": 4,
+      "review_title": "Fun but needs a save system",
+      "review_description": "For players using the Quest battery life is a huge issue for us. My last run I did die trying to fight one of the bosses but I rushed through the entirety of that level because my headset was on 7%\n\nThe save system doesn’t need to be manual (although the would be the best option) but even just adding something like a save stone after defeating a boss so we can save, charge our headset and come back later with a full charge. I don’t want to have to rush through levels avoiding enemies and skipping potential loot just because my headset is low.\n\nBesides that the game is really fun and I would love to play it more but we desperately need a save feature 🙏",
+      "date": 1773293468,
+      "review_helpful_count": 9,
+      "author_display_name": "JayZone-",
+      "author_alias": "JayZone-",
+      "developer_response": {
+        "body": "Really appreciate this - and glad you’re enjoying the game.\n\nThe battery + run length issue on Quest is very real, and a save system (or something like mid-run checkpoints) is definitely high on our list for helping to ease the pain here.\n\nEven though the work to implement a save system is fairly straightforward, it touches a lot of systems in our game, which means it takes a loooot of time. It's on our list, and high up there! But I don't have an ETA on when a patch containing a savepoint function is gonna go live.\n\nTotally get how frustrating it is to rush a run because of battery - and thats definitely not the experience we want either 🙏",
+        "date": 1774541334
+      }
+    },
+    {
+      "id": "1515880306847635",
+      "score": 5,
+      "review_title": "Hm",
+      "review_description": "Great game",
+      "date": 1781787083,
+      "review_helpful_count": 0,
+      "author_display_name": "Matorski",
+      "author_alias": "Matorski",
+      "developer_response": null
+    },
+    {
+      "id": "1556062649014127",
+      "score": 2,
+      "review_title": "Disappointing",
+      "review_description": "I really wanted to like this game and I really TRIED.\n\nThere are some seriously odd design choices in the game, which makes it feel like the developers didnt play it.\n\n1. Smooth turn option - great. Smooth turn speed option - NONE. So you turn like your a tank.\n\n2. You cant steer with your left stick when sprinting, youre just locked to where your looking and that turns you.\n\n3. Only head based movement - when your in a confined boss area with the OP boss just chasing you down not giving you any room to stand and look, it would be nice to be able to run across while looking left to right / around to see the situation. Instead when you look you now run in that direction which now stops you running to where you are aiming.\n\n4. Who thought opening your inventory for health being a button on the same controlling you move with was a good idea. \nAgain when moving to a new position becuase a giant boss is on your toes and 4 other trolls are all fighting you it would be nice to be able to run and take a potion without having yo stop, grab it then start moving again. Died multiple times becuase of this.\n\n5. SPRINTING WITH YOUR WEAPON OUT! why was it a choice to make you have to have no weapon when trying to close the distance fast before an enemy sees you or makes the first move.\n\nFinally for the hour+ I played i felt like 60% of the game wasnt even explained. I was collecting things that just flashed the screen with no hint on what it even did.\n\nWhy could you look down ay your left hand, or tilt your left hand to see your health, OR just be on the screen somewhere as a UI, having to have no weapon out and then hold a button just to view health is another odd choice.\n\nIll be refunding",
+      "date": 1770244351,
+      "review_helpful_count": 6,
+      "author_display_name": "BeatzCreations",
+      "author_alias": "BeatzCreations",
+      "developer_response": {
+        "body": "Appreciate you taking the time to write this out — I can tell you really tried to make it work.\n\nWe’re a small team and Crossings is us trying to make a very physical, deliberate kind of VR combat, which means we made some pretty strong (and sometimes weird) design calls around movement, inventory, and UI. They’re intentional, but that also means they won’t click for everyone.\n\nWe’re still learning where those choices feel interesting versus where they just feel frustrating, and feedback like this genuinely helps. Totally understand refunding if it’s not your thing — and thanks for giving it an honest try.",
+        "date": 1770288512
+      }
+    },
+    {
+      "id": "1949712789295579",
+      "score": 5,
+      "review_title": "Little gem that deserves your attention",
+      "review_description": "Crossings is a tiny package that has a universe to discover. Let's start with the price. Crossings is at a fairly low price. For less than a meal, you can get a very well crafted game. It has several enemy types (not that many to be honest) and several bosses to fight (from the top of my head, I can remember 4). I only did one full run and it was on my second attempt. I was amazed by everything I've encountered.\n\nI am excited to try it again and beat the game several times, using modifiers, trying new weapons, unlocking new cosmetics, finding more hidden secret areas and exploring paths.\n\nThe visuals are sincerely gorgeous. I absolutely love the art style and it shows that the devs cared a lot about their game.\n\nIf you enjoy until you fall, this game is for you. Combo based, parry based and repeatable runs are on the menu.",
+      "date": 1766116556,
+      "review_helpful_count": 45,
+      "author_display_name": "mikael.dufresne",
+      "author_alias": "mikael.dufresne",
+      "developer_response": null
+    },
+    {
+      "id": "1939389516930478",
+      "score": 1,
+      "review_title": "Gets old real fast",
+      "review_description": "Despite being very interested in Crossings I held off on buying it after getting burned by Neat Corporation's \"Budget Cuts Ultimate\", which is a buggy mess that's been abandoned.\n\nI didn't want to give these people more money after losing $20 on Budget Cuts, (the serious issues cropped up after the two hour refund window had closed), but the \"ambient multiplayer\" bit was too much to resist. It sounded like the way \"The Under Presents\" handles multiplayer which is really cool.\n\nUnfortunately I haven't encountered anyone else here yet and after playing it for awhile I know why.\n\nIt gets old real fast.\n\nThe art direction is \"Fantasy 101\" but very pleasing and professional. The characters are well designed and I've encountered several different enemy types in my time with this. The environments are atmospheric and immersive, but unfortunately even after defeating the boss and completing a run, nothing changes. The foggy woods may be all that's here.\n\nThe magic is a bit finicky at first but it's pretty fun once you get the hang of it.\n\nCrossings made a poor initial impression by crashing on the first load. Subsequent loads look unstable with logos popping up right in your face, the world jumping to new positions, etc.\n\nThe UI looks ok at first glance but it has some issues. To open up your items menu you have to press a button on your left controller. That means to use a potion in battle you have to stop moving. You should be able to grab a potion off your belt with either hand. To check your arrow count you have to grab your bow with your right hand and press a button. Not convenient if you're right handed.\n\nLearning the magic was frustrating at first because you're given written instructions and a visual cue so it seems the tutorial has begun but you're just given the beginning of the spell. (Hint, step closer or the demonstration won't progress past the first gesture.)\n\nWhile the combat is fun, the dense enemy AI continually breaks the immersion. Sometimes enemies won't even react when you're firing arrows into them. They'll stand idly facing away from you while you whittle away their health.  Groups of enemies armed with heavy swords can swing away at a barrier without damaging it while you can easily hack through it with the first axe you get in the game.\n\nThey've mapped sprint to the A button and the left stick click. Sprinting's pointless in battle since you can't run while holding a weapon. Why not have \"A\" plus a stick direction be a dodge movement? That would be very useful.\n\nThe clubs feel completely useless. They slowly wobble instead of striking. I get that they're trying to simulate weight but it just doesn't work.  I wonder if you eventually level up and are able to actually use a club?\n\nWhich brings me to my next point, what exactly DO you get from a run besides threads that are used to buy what I believe are just cosmetics and a choice of three power ups for your next run? Your character seems to have no attributes to level up.\n\nI really enjoy roguelikes but this only seems to be the \"die and repeat\" part of the game loop without the progression that makes games roguelikes.\n\nAnd why is this a Quest 3 exclusive?  I got my hopes up that this would be the rare new release that doesn't make you feel like your Quest 3 is just an expensive Quest 2 emulator with pancake lenses, but unfortunately the graphics quality is only on par with the average Quest 2 game.",
+      "date": 1769861705,
+      "review_helpful_count": 4,
+      "author_display_name": "Jioxx",
+      "author_alias": "Jioxx",
+      "developer_response": {
+        "body": "Thanks for writing all of this out — I’m one of the devs on the team, and I really appreciate you taking the time to engage with the game this deeply, and write out all this feedback, even when it didn’t land for you.\n\nWe are a small team with a pretty big ambition: we wanted a very physical, atmospheric VR combat adventure that feels different from the usual patterns. Some of the systems you’re calling out are very intentional but also still evolving. We haven’t always had the time or resources to push every part as far as we’d like yet, and feedback like this helps us see where things feel more frustrating than interesting.\n\nA few specifics you mentioned are very fair. Stability issues and early clarity around magic and UI are on us and things we’re actively improving. Enemy behavior and weapon feel (clubs especially) are areas we’re continuing to tune — VR “weight” and AI density are surprisingly tricky problems, and we’re still iterating.\n\nsome info, if it helps: after defeating a Norn, you can use their eye in the red altar back in the village to modify future runs and unlock tougher enemies and bosses — we know that’s not communicated clearly right now.\n\nAlso yeah, ambient multiplayer definitely depends heavily on player activity as you pointed out, and with the Steam launch and crossplay going live tomorrow, we’re hoping that part of the experience starts to shine more. I’ve personally crossed paths with a few players since launch and it’s been pure magic — very “Journey”-like moments — and I really hope more people get to experience that.\n\nAs for Quest 3 exclusivity: that decision was purely technical. Although it might not look like it, crossings does push larger environments, more detailed textures, and more dynamic systems than anything we’ve made before, and getting it running well on Quest 3 was already a challenge. On PC VR, we’ve been able to push things further with detailed dynamic shadows, volumetric fog, and higher-detail meshes.\n\nI also want to acknowledge your past experience with Budget Cuts Ultimate. I understand how that affected your trust, and I’m not going to brush that aside. All I can really say is that we’re still here, still supporting our games, and still trying to learn and do better with each one.\n\nTotally fair if Crossings isn’t the game you were hoping for — but thank you for giving it a real chance and sharing such thoughtful feedback. It genuinely helps us as we keep working on it.",
+        "date": 1770289882
+      }
+    },
+    {
+      "id": "943949405476392",
+      "score": 3,
+      "review_title": "Fun except for the bugs!",
+      "review_description": "Hello! Great game. \n1st.\nThe reason for the three stars is because during the third run through I was put in this weird purgatory. I can run around, the enemies won't do anything. I can use my magic but nothing happens. It's not lag. It happened twice in the same progression spot of the run so I know it's the game. The first time it happened my friend and I were right next to each other and it just happened. Boom, purgatory. The second time it happened I died to an imposter that was invisible while in this purgatory state(not supposed to be invisible) so I'm not sure if that is the issue or what.  Cannot continue the story until it's fixed which is frustrating. \nMy friend and I got all the way to the wasteland only to be in purgatory and have to start again. Then I did all that gameplay myself to get past the area where it glitched and it did the same thing. Super duper frustrating after putting all that work in to survive only to fail because of the game. :(\n\n2nd. The second reason: The push spell and the crush spell work wonderfully. The lift spell doesn't work reliably. Sometimes it works, most of the time it doesn't. \n\n\n3rd. The third reason is the multiplayer glitches. Sometimes the game will glitch and your partner or yourself will be booted to a separate lobby. If you are far into your run, it is very problematic. You cannot invite your friend back to where you both were and must start all over. Lame!!!\nMy friend and I really enjoy this game together. If it wasn't for the bugs I would give this game a 5/5. \n\nI'll revise once it's fixed! Thanks for making this game so fun!",
+      "date": 1771718769,
+      "review_helpful_count": 1,
+      "author_display_name": "xTwoBirdsx",
+      "author_alias": "xTwoBirdsx",
+      "developer_response": {
+        "body": "Thanks for the detailed feedback - and really glad to hear you and your friend are enjoying the game overall!\n\n1) The “purgatory” issue you described should now be fixed in the latest patch. Please let us know if you still encounter it!\n\n2) The lift spell reliability is something we’re adjusting for the next patch to make it more consistent - we've heard the same feedback from a few other people, so you are not alone!\n\n3) The multiplayer separation issue is something we’re actively working on. It’s a more complex problem, but we know how frustrating it is to lose progress mid-run. It's definitely something we want to fix!\n\nAppreciate you taking the time to write all this up - it really helps us improve the game.",
+        "date": 1774515946
+      }
+    },
+    {
+      "id": "876878921403908",
+      "score": 5,
+      "review_title": "Great fun + some swollen knuckles",
+      "review_description": "Really enjoyed the hour and a half I played this evening. Truly a fun experience, affordable price and loads of potential. Multiplayer isn't integrated yet, as the devs posted about wanting to get it to the quality they desire it to be first which I can appreciate. I was a little too immersed when fighting some bosses full on punched the wall a few times lol.\n\nWill update my review after more gameplay, but I can't imagine it'll change. A satisfying experience for such a low price. Great work devs!",
+      "date": 1766100865,
+      "review_helpful_count": 13,
+      "author_display_name": "YaBoiNickMac",
+      "author_alias": "YaBoiNickMac",
+      "developer_response": null
+    },
+    {
+      "id": "896184523580447",
+      "score": 5,
+      "review_title": "Best Fighting game on quest.",
+      "review_description": "This game actually gives you sort of a challenge, and also has vibrant visuals and bizarre lighting, you can also customize your avatar and play with friends! (Hopefully Soon) Since only right now you can only play with strangers but awesome game.",
+      "date": 1766086850,
+      "review_helpful_count": 15,
+      "author_display_name": "italiano.dev.123",
+      "author_alias": "italiano.dev.123",
+      "developer_response": null
+    },
+    {
+      "id": "4169960703292441",
+      "score": 4,
+      "review_title": "Great game !!",
+      "review_description": "What an excellent title took a few times to get the first boss fight for me ..just wish was a save point..once died sent back to the start 🥴.\nBe nice to add a few things like birds flying around or something ..otherwise very enjoyable \nDefinitely buy guys",
+      "date": 1766207170,
+      "review_helpful_count": 11,
+      "author_display_name": "dosoempire",
+      "author_alias": "dosoempire",
+      "developer_response": null
+    },
+    {
+      "id": "1233894082138986",
+      "score": 5,
+      "review_title": "Excellent and well executed game",
+      "review_description": "Disregard, the negative reviews. This game is really good, has great graphics and a very unique atmospheric design. Enemy AIs are varied, challenging to fight with, and you have the options to upgrade your weapons and learn new magic. ￼ It. Reminds me of the midnight walk, ￼￼ but this time we’re not dealing with puzzles. The music fits the mood and lighting really works well. ￼ Highly recommend. Excellent work from the developers.",
+      "date": 1766561174,
+      "review_helpful_count": 9,
+      "author_display_name": "Shayor",
+      "author_alias": "Shayor",
+      "developer_response": null
+    },
+    {
+      "id": "1024358670752791",
+      "score": 1,
+      "review_title": "Another norse flop",
+      "review_description": "Trying this in alpha was a slog, there was no direction, boring fighting and seemed to just drag on forever. \nNow that the game has released it's even worse. \n\nGraphically crossings still looks good but that's where it starts and stops. The roguelite fatigue here is real and never-ending as you make your way to some pointless conclusion. \nAt $14 this is a cheap games for those looking for something new, but quality and fun is not something you'll find here unless you have no standards. Even when this gets added to the horizon+ catalogue it still won't be worth the money.\n\nReview updated after developer response. CANADIAN PRICING IS $13.99... Don't pretend like pricing is consistent across territories",
+      "date": 1769691521,
+      "review_helpful_count": 0,
+      "author_display_name": "Fa1coneri",
+      "author_alias": "Fa1coneri",
+      "developer_response": {
+        "body": "Fair point — thanks for the correction.We are a small swedish dev team and I honestly defaulted to USD without thinking through regional pricing differences. That one’s on me.\n\nAppreciate you coming back to clarify, even if the game itself still isn’t for you. <3",
+        "date": 1770295222
+      }
+    },
+    {
+      "id": "902601742170162",
+      "score": 5,
+      "review_title": "The game is so much fun. Iam Korean.",
+      "review_description": "I hope for a Korean language patch !!!!\nand we want 4-player multiplayer !!!!",
+      "date": 1769937645,
+      "review_helpful_count": 3,
+      "author_display_name": "GOOGOOGOO",
+      "author_alias": "GOOGOOGOO",
+      "developer_response": {
+        "body": "aaaah i also want 4 player multiplayer! I am going to try to convince my colleagues that we should make that happen.\nWe are planning a language patch, including Korean! thank you for playing the game and enjoying it!",
+        "date": 1770296207
+      }
+    },
+    {
+      "id": "891047646939990",
+      "score": 1,
+      "review_title": "Where is multiplayer!!",
+      "review_description": "When I first read the video of this it said multiplayer co op. After I bout it preorder it I don't see it and also the heading has changed. Like what is this I will see some hollow shadows then slap hands . Like it's a shame games can't be straight forward need to stop using words like co op . Multiplayer when there is none . I bought this game based off of what the introduction presented it self not for something to change after I preorder it . Please tell people the honest straight truth . Because people will read reviews before they buy and to avoid people getting the game thinking it's done type of CO op. If there is not going to be a full CO op I will be fully refunded and rightful so. I was MISLEAD I'm not even talking about a pvp I'm talking about a full campaign as promised even Google says this was suppose to be CO op. This is not right after double checking before I bought only for the greeting to be changed and some how explaining how people can find a faint image of another person or see others along the way . There is no such my friend even verify they went in and saw not one soul . Again I encourage a friend to get cause it stated co op . Is there going to be a CO op in the game sadly disappointed . Like can honestly words like co op . Hord mode .  And actually multiplayer and co-op mean the same thing . Some people will use multiplayer and it'll turn out to be a hord mode well that's not what multiplayer is about and we all know hord mode is completely different from anything .  Where is the CO op . Will there be a CO op . I will erase this once clarification because I was mislead and player should have a right to pick a game on the truth and then make their decision from there not to b mislead I don't know if these developers know how it to feels for a person who loves to play these games basically save these games in their library wish list . Pre paid and expecting what they were told that the game would be and on the waiting list filled with joy waiting for a game to come out only to be let down .",
+      "date": 1766243487,
+      "review_helpful_count": 2,
+      "author_display_name": "jaay23198",
+      "author_alias": "jaay23198",
+      "developer_response": {
+        "body": "Hey - thank you for taking the time to write this, and genuinely sorry for the frustration and disappointment. \n\nTo be completely clear and upfront: the version of Crossings that launched today on Meta Quest is single-player only. Full co-op multiplayer is still coming, and will be added in a free update in the new year, at the same time as the full Steam release. Multiplayer was part of our original plan and messaging, and we should have communicated the timing more clearly earlier - that’s on us.\n\nWe are not canceling co-op, changing it into a different mode, or locking it behind payment - it will be a full co-op experience, included for free, just not ready at launch. If that doesn’t work for you, we completely understand if you choose to refund and come back later when multiplayer is live.\n\nThank you for calling this out, and again - we’re sorry for the confusion. We’re committed to being clearer going forward and will be delivering the co-op experience very soon (like in a month or so).",
+        "date": 1766322429
+      }
+    },
+    {
+      "id": "885033481367269",
+      "score": 3,
+      "review_title": "Weird weapon physics.",
+      "review_description": "Weapons feel way too hefty, the weight of the axe is on the handle when it should be on the head and the club feels like it's 4 times heavier than it actually is, that and the fact that some can't be two-handed makes it not enjoyable.\n\nI won't refund the game because it's still new but i'll give it another try when/if that gets fixed.",
+      "date": 1766200936,
+      "review_helpful_count": 2,
+      "author_display_name": "Byvaery",
+      "author_alias": "Byvaery",
+      "developer_response": {
+        "body": "Appreciate the detailed feedback — weapon weight in VR is honestly a bit of a hidden art.\n\nSince the controllers always weigh the same, we fake weight through inertia, swing resistance, and follow-through, which can feel very differently depending on the weapon and the player. Clubs in particular are something we’re still tuning. You arent alone in feeling they need more love! We’re working on refining the weapon weight feel for future patches, so thanks for being patient with us as we tweak and tune them.",
+        "date": 1769689403
+      }
+    },
+    {
+      "id": "1430377735110471",
+      "score": 4,
+      "review_title": "Good  game/// Except",
+      "review_description": "for some reason your hands go away when holding a weapon. not having hands at least is  big negative.  add hands to holding weapons !!",
+      "date": 1766370533,
+      "review_helpful_count": 7,
+      "author_display_name": "StormShadow612",
+      "author_alias": "StormShadow612",
+      "developer_response": null
+    },
+    {
+      "id": "872229745981193",
+      "score": 4,
+      "review_title": "Another Rouge-like",
+      "review_description": "While the market is very saturated with roguelikes, I thoroughly enjoyed my time with this one so far. the enemies are challenging, and the magic is very satisfying to use.",
+      "date": 1766679222,
+      "review_helpful_count": 4,
+      "author_display_name": "DeepFrydFreedom",
+      "author_alias": "DeepFrydFreedom",
+      "developer_response": {
+        "body": "Thanks for giving it a shot - and for the kind words!\nWe definitely feel you, roguelikes are everywhere right now, so it really means a lot to hear that the combat and magic clicked for you. Glad you enjoyed your time with it so far!",
+        "date": 1769690111
+      }
+    },
+    {
+      "id": "1547664613143855",
+      "score": 5,
+      "review_title": "Fun, atmospheric and challenging",
+      "review_description": "Looks beautiful on the quest 3- the fighting is challenging- not got passed the first boss yet!\nI hope there are some save points!",
+      "date": 1766222375,
+      "review_helpful_count": 5,
+      "author_display_name": "bbbrrromez",
+      "author_alias": "bbbrrromez",
+      "developer_response": null
+    },
+    {
+      "id": "868258509446752",
+      "score": 1,
+      "review_title": "Trash",
+      "review_description": "Not another rogue light Vr game bruh.🙅🙅🙅🙅🙅",
+      "date": 1770334827,
+      "review_helpful_count": 0,
+      "author_display_name": "BAS.ST.ET11",
+      "author_alias": "BAS.ST.ET11",
+      "developer_response": {
+        "body": "Haha, fair enough - roguelites definitely aren’t for everyone 😅\n\nWe’re a small team just trying to make a VR game we think is cool and a bit different, so we knew it wouldn’t land for everyone.\n\nAppreciate you giving it a look either way.",
+        "date": 1774515620
+      }
+    },
+    {
+      "id": "902152445540227",
+      "score": 5,
+      "review_title": "Great fun, but needs a save feature",
+      "review_description": "I played this with my wife and it was really fun. However, if you quit, you lose everything and have to start over from the first stage. Please add a save function.",
+      "date": 1769602708,
+      "review_helpful_count": 6,
+      "author_display_name": "makitom",
+      "author_alias": "makitom",
+      "developer_response": null
+    },
+    {
+      "id": "1281998333692470",
+      "score": 1,
+      "review_title": "Another Crap Game",
+      "review_description": "Doesn't work, Keeps telling me low memory but I can play other games with higher memory",
+      "date": 1766678327,
+      "review_helpful_count": 1,
+      "author_display_name": "RenegadeSoulReaper",
+      "author_alias": "RenegadeSoulReaper",
+      "developer_response": {
+        "body": "Sorry you ran into this - I know thats frustrating.\n\nWe’ve seen this happen on Quest due to a known memory issue in the OS that can affect games using higher memory (like crossings), especially if the headset hasn’t been restarted recently. A quick restart before playing usually helps prevent it. Totally fair if that still makes it a dealbreaker for you, but we wanted to share what’s been working for us and other players.",
+        "date": 1770295636
+      }
+    },
+    {
+      "id": "2847725112085190",
+      "score": 5,
+      "review_title": "Crossings",
+      "review_description": "Awesome game!!! So much to Love about this gem!!! Great job!",
+      "date": 1766117560,
+      "review_helpful_count": 8,
+      "author_display_name": "solvangman805",
+      "author_alias": "solvangman805",
+      "developer_response": null
+    }
+  ],
+  "total": 24,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-19T13:31:29Z"
+}

@@ -1,0 +1,45 @@
+{
+  "app_id": "9690114521049838",
+  "package_name": "com.NPSoftware.VisitAzores",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Visit Azores",
+  "rating_average": 4.875,
+  "rating_count": 8,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1390782855846729",
+      "score": 5,
+      "review_title": "Stunning immersive panoramic views",
+      "review_description": "I've never been to Azores, and I loved watching these incredible panoramic views of several locations directly from my VR headset. The most impressive parts are the 360 videos in which there are people around you and some of them watch you. It really feels like being there. The 3D map is also very intuitive and allows you to quickly jump to another location",
+      "date": 1764446374,
+      "review_helpful_count": 2,
+      "author_display_name": "Irenoyd",
+      "author_alias": "Irenoyd",
+      "developer_response": null
+    },
+    {
+      "id": "1200500901842307",
+      "score": 5,
+      "review_title": "Travel without leaving home!",
+      "review_description": "The Azores are really beautiful! Love the way it was 3D filmed. Really good narration l, too. I love the feature that automatically goes location to location, too. I'll probably never get there IRL but this is the next best thing!",
+      "date": 1757903784,
+      "review_helpful_count": 2,
+      "author_display_name": "Kate.Robbie",
+      "author_alias": "Kate.Robbie",
+      "developer_response": {
+        "body": "Hi! I am glad you liked my app. The auto move feature is meant for elderly people, who may have trouble operating the controller. This way, they can automatically go through all the locations, without needing to point and choose where to go. It also helps to make sure you do not skip any location, as there are quite a few to go thru. If you liked the Azores, try out Visit Madeira, Visit Faroe or Visit North Spain. Currently I am working on Visit Alaska, but that will take a few weeks to complete.",
+        "date": 1757927332
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T13:28:28Z"
+}
