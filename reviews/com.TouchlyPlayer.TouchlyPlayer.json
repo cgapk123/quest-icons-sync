@@ -1,0 +1,86 @@
+{
+  "app_id": "5564815066942737",
+  "package_name": "com.TouchlyPlayer.TouchlyPlayer",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Touchly Volumetric VR Video Player",
+  "rating_average": 3.9,
+  "rating_count": 20,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "3716848061866871",
+      "score": 5,
+      "review_title": "***HIDDEN GEM!!!!***",
+      "review_description": "INCREDIBLE free movie player and works INCREDIBLE with the 3D 6DoF Volumetric features when using the Touchly encoder or other encoders that output depthmap video files. There is a free encoder the dev offers or a \"pro\" version for $10. TOTALLY worth it. It uses motion flow to create the depth map video. You can also use my modified version of DepthAnythingV2 at github[DOT]com/petermg/Depth-Anything-V2-16bit to generate Touchly1 volumetric 6DoF videos from 2D video files.",
+      "date": 1722011528,
+      "review_helpful_count": 10,
+      "author_display_name": "omni_shanker",
+      "author_alias": "omni_shanker",
+      "developer_response": null
+    },
+    {
+      "id": "1058644895690088",
+      "score": 5,
+      "review_title": "Amazing, all 3D-180 videos need this!",
+      "review_description": "This pretty much rescues every stereo-180degree video and makes it a real 3D volume that allows you to move around in naturally without being forced to keep you head level and in one position. Every stereo-180 video file needs to be converted to this format asap.",
+      "date": 1722285055,
+      "review_helpful_count": 5,
+      "author_display_name": "Excesshuman",
+      "author_alias": "Excesshuman",
+      "developer_response": null
+    },
+    {
+      "id": "549651380656845",
+      "score": 5,
+      "review_title": "Glimpse Of The Future",
+      "review_description": "This app is fantastic and provides ways of experiencing videos in VR that I haven’t seen anywhere else. As others mentioned, rendering and moving videos to your headset may be more work then some people are looking for - but if you have the time and interest it’s awesome!",
+      "date": 1681260912,
+      "review_helpful_count": 7,
+      "author_display_name": "chromeblast",
+      "author_alias": "chromeblast",
+      "developer_response": null
+    },
+    {
+      "id": "5944854822267504",
+      "score": 4,
+      "review_title": "High potential with active developer",
+      "review_description": "Rating this four stars as it's a great app, but there's a lot more development and support that needs to happen to really make this something everyone can enjoy and not just the experimental virtual hacker crowds. The developer is very active on the discord and takes feedback and suggestions seriously.",
+      "date": 1677381023,
+      "review_helpful_count": 7,
+      "author_display_name": "Nukemarine",
+      "author_alias": "Nukemarine",
+      "developer_response": null
+    },
+    {
+      "id": "1154542348584785",
+      "score": 5,
+      "review_title": "thankyou ver.0.41",
+      "review_description": "watch only mode so good !",
+      "date": 1674747192,
+      "review_helpful_count": 4,
+      "author_display_name": "wolvesnnn",
+      "author_alias": "wolvesnnn",
+      "developer_response": null
+    },
+    {
+      "id": "7326693880760486",
+      "score": 3,
+      "review_title": "It's works, meh.",
+      "review_description": "There is no option to brows for local files outside of the movies folder and the options to play volumetric video are greyed out.  Probably can only play their own generated videos.  I was looking to play rgbd video.",
+      "date": 1706815530,
+      "review_helpful_count": 2,
+      "author_display_name": "Will-Steele-NYC",
+      "author_alias": "Will-Steele-NYC",
+      "developer_response": null
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:02:03Z"
+}

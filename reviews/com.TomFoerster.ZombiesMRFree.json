@@ -1,0 +1,945 @@
+{
+  "app_id": "24151641901194680",
+  "package_name": "com.TomFoerster.ZombiesMRFree",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Spatial Zombies - Mixed Reality",
+  "rating_average": 4.6354696507291,
+  "rating_count": 2949,
+  "review_count": 644,
+  "reviews": [
+    {
+      "id": "774275292436669",
+      "score": 5,
+      "review_title": "Must Own VR!!!",
+      "review_description": "I only have the free version, but it’s the most fun zombie game I have ever played. Physics are great, in my play space I have a slight dip in the concrete and some zombies trip a bit when they cross it. I love only using the pistol and seeing how far I can go. I will buy the full version soon, I can’t wait to try this out in the multiplayer mode.",
+      "date": 1779043903,
+      "review_helpful_count": 30,
+      "author_display_name": "txvegeta",
+      "author_alias": "txvegeta",
+      "developer_response": null
+    },
+    {
+      "id": "1186481651208221",
+      "score": 1,
+      "review_title": "It has not worked since the last update.",
+      "review_description": "This game has been a major disappointment. We bought it specifically to play together, but we were never able to connect, and now I can't even start a game on my own.\n\nPlease make it easier for people to play together, as that is supposed to be one of the main features of the game.\n\nIn my opinion, the setup process is far too complicated. I spent hours trying different settings recommended in the game, on YouTube, and on forums, but none of them worked.\n\n\nI simply want to play this game with my friend. Please provide a simple and reliable way for players to connect and play together without having to go through complicated configurations.",
+      "date": 1780906670,
+      "review_helpful_count": 5,
+      "author_display_name": "nikolettbel",
+      "author_alias": "nikolettbel",
+      "developer_response": null
+    },
+    {
+      "id": "1116318454903968",
+      "score": 5,
+      "review_title": "immediate bugs in the new update",
+      "review_description": "Hi, I was just about to play when the new update arrived. I'm glad to see this great game continuing to grow.\n\nUnfortunately, the reason I'm writing is because the bugs started appearing almost immediately. I play with manual reload mode because I find it more challenging and fun, and the problem I had was that when I broke ammo crates, the bullets that came out stayed on the ground and weren't picked up, which really hurt my game. Another bug I noticed right away was that when I reloaded any weapon, ALL the bullets were loaded. Also, I don't know if this was actually a bug, but when I bought ammo at the store, it bought all the ammo my money allowed, not just a single pack. Another bug I noticed was purely visual with the walls; they flickered a lot, but nothing really significant.\n\nMoving on to another point, as a personal suggestion that I think would be great for the game: Do you think it would be possible for the ammo crates you get each round to contain not only pistol ammo but also ammo for the weapons you're carrying on your belt? Or at least, could they give you bullets for the weapon you use to break the crate? The reason for this suggestion is that the limited ammo you can buy in the store REALLY falls short in later rounds. And as a final personal suggestion, I think a mechanic like giving you a second of invincibility after taking medication would be fantastic for dealing with super hordes of zombies or a bunch of bosses. especially when they corner you because of the limited space in your room (definitely my situation).\n\nFinally, I must say that I really enjoy your game. It's games like this that make buying meta quests worthwhile. I hope you can add more content in the future, like a workshop or a Pack-a-Punch/Mystery Box that changes location between rooms each round. I wish you all the best. Cheers!",
+      "date": 1780634146,
+      "review_helpful_count": 3,
+      "author_display_name": "iAndroy",
+      "author_alias": "iAndroy",
+      "developer_response": {
+        "body": "Klar, hier ist eine wärmere und noch dankbarere Version:\n\nHi iAndroy,\n\nThank you so much for taking the time to write such detailed and valuable feedback. I really appreciate it. As a solo developer, feedback like this is incredibly helpful, because it gives me a much better understanding of how players experience the game and what I should focus on improving.\n\nI am really sorry about the bugs you ran into, and you were absolutely right to mention them. Issues like this can hurt the experience a lot, especially when playing with manual reload mode, so thank you for pointing them out so clearly.\n\nI released a new update yesterday which should hopefully fix these problems. Objects should now be picked up properly, clips should load the correct amount of ammo into the weapon, and item purchases in the shop should also work correctly now.\n\nI also added 3 seconds of invincibility after taking medication. I thought this was a really good idea, so thank you for suggesting it.\n\nRegarding the ammo system, I have increased the amount of ammo you can purchase as you progress from round to round. In the long run, I think changing the flow to a different system might be the better solution, but I am not completely sure yet what the final concept should look like. I will take a closer look at this over the next few weeks.\n\nThank you so much again for your kind words, your support, and your thoughtful feedback. It really means a lot to me. I am definitely far from being done with the game, and I cannot wait to add more content, haha.\n\nI have also noted your ideas about the mystery box and the workshop, and I will take a closer look at them when I find the time.\n\nAlso, if you ever have more feedback, ideas, or suggestions, please feel free to contact me anytime at ft_studio@outlook.de. I would be very happy to hear from you.\n\nBest,\nTom",
+        "date": 1781173914
+      }
+    },
+    {
+      "id": "1027158856502355",
+      "score": 5,
+      "review_title": "Simple Design, exciting shoot em up.",
+      "review_description": "Played the demo and it felt nice and fun. For the most part the physics felt solid. The melee combat felt a little non-responsive. It was hard to tell if my hit made contact or not at times. Some improvement there would be great. Otherwise, I am looking to buying the pro version for the added guns.",
+      "date": 1781813215,
+      "review_helpful_count": 0,
+      "author_display_name": "endormoon812",
+      "author_alias": "endormoon812",
+      "developer_response": null
+    },
+    {
+      "id": "1085812391291828",
+      "score": 1,
+      "review_title": "Don't waste your money on pro",
+      "review_description": "Worked fine during the free version. Thought I'd support the developer. However it refused to work after I paid for the pro version. Got a refund via meta support in the end. Save your money much better mixed reality games out there for half the price. Home invasion is the one I'd recommend",
+      "date": 1781715740,
+      "review_helpful_count": 0,
+      "author_display_name": "Mattmix22",
+      "author_alias": "Mattmix22",
+      "developer_response": {
+        "body": "Hi Mattmix22,\n\nThank you so much for your valuable feedback. I really appreciate you taking the time to share it, and I am very sorry that you did not enjoy the game as much as I hoped.\n\nI would love to improve the experience for everyone, so if you are open to it, I would really appreciate any more detailed feedback about what exactly happened or what you feel other games are doing better.\n\nYou can reach me anytime at ft_studio@outlook.de.\n\nFeedback like this helps me a lot, and I would genuinely love to learn how I can make the game better for everyone.\n\nBest,\nTom",
+        "date": 1781729708
+      }
+    },
+    {
+      "id": "989830416862439",
+      "score": 5,
+      "review_title": "DEFINITELY go PRO !!!",
+      "review_description": "I've enjoyed the free version, and finally got the PRO upgrade yesterday to unlock the extra weapons. Now I love this game. Works its way up to a high energy FPS bloodfest that will keep your adrenaline going. Seeing zombies crash thru the walls of your own crib is trippy.\n\nI really REALLY wish I could upload jpegs of my frenemies for the zombies, especially for multiplayer.",
+      "date": 1779819682,
+      "review_helpful_count": 2,
+      "author_display_name": "gergozoid",
+      "author_alias": "gergozoid",
+      "developer_response": null
+    },
+    {
+      "id": "1148411991687000",
+      "score": 5,
+      "review_title": "Was 5 stars, now 5 stars again.",
+      "review_description": "Just got a gun stock attachment and couldn't wait to try it. Game now throws an error when loading into a level. Tried clearing data like it recommended, tried recalibrating the room, and nothing. Paid the $8 and was completely worth it but now it won't let me play at all.\n\n***EDIT***\nWithin 24 hours the developer reached out, and had a resolution. If anyone has an issue, definitely reach out.",
+      "date": 1779727307,
+      "review_helpful_count": 2,
+      "author_display_name": "wlndwarrior",
+      "author_alias": "wlndwarrior",
+      "developer_response": {
+        "body": "Hi there,\nThanks a lot for the feedback, and I’m really sorry you’re having trouble loading the game.\n\nCould you please send me an email at ft_studio@outlook.de ? \nI’d be happy to look into this with you and help get it working.\n\nBest,\nTom",
+        "date": 1779686416
+      }
+    },
+    {
+      "id": "1252669051252038",
+      "score": 5,
+      "review_title": "Excellent game",
+      "review_description": "My girlfriend and I love the multiplayer option, classic mode works perfectly for both of us but the adrenaline and the horror mode fails. I know is beta but  I'm looking fwd for the multiplayer released version",
+      "date": 1781486094,
+      "review_helpful_count": 0,
+      "author_display_name": "hectorroberto.trevinorodriguez",
+      "author_alias": "hectorroberto.trevinorodriguez",
+      "developer_response": null
+    },
+    {
+      "id": "1206136022580057",
+      "score": 3,
+      "review_title": "The reason why this game is mid",
+      "review_description": "The reason it is mid is because you need pro for everything and all you can buy without pro is a wrench upgrades for you pistol and a grenade but the game is still fun pls fix your problems pls",
+      "date": 1781373790,
+      "review_helpful_count": 0,
+      "author_display_name": "ShakierRocket84",
+      "author_alias": "ShakierRocket84",
+      "developer_response": {
+        "body": "Hello there,\n\nThank you very much for your valuable feedback. I completely understand that players would love to enjoy all modes and weapons for free.\n\nAt the same time, Spatial Zombies has been in development for many months, and as a solo developer, I would not be able to keep improving and supporting the game without the Pro unlock. It helps me cover the development costs and continue working on new updates, fixes, and improvements.\n\nI really hope you understand, and I truly appreciate your support and feedback.\n\nBest,\nTom",
+        "date": 1781378549
+      }
+    },
+    {
+      "id": "1060969847099320",
+      "score": 5,
+      "review_title": "The best mixed reality zombies game.",
+      "review_description": "Edit: \nPros-  The new update revamps the weapons and adds a couple more automatic guns and melee weapons. \nCons - you can no longer buy more than 1 katana and once you've broken it there is no way to get another. Same goes with machetis. I suggest either making melee weapons unbreakable or back to being able to buy multiple. \nThe addition of new giant type zombies though a good idea i fear they are too much of a bullet sponge and once they start throwing multiple at you it becomes a chore, sucking the fun out.\nI enjoy this game and want it to get better. Looking forward to the next update.👍\n\n\n\nOriginal review:\nThis game is great at turning your living space to your own custom zombies map. For free players the pistol is very satisfying to shoot though if you want to access more weapons you must pay for the pro version. The pro version  adds a katana, a shotgun, an assault rifle and the ability to duel wield pistols. Along with more modes to play which essentially are just different world setting like night/day and music. The night mode is more of a challenge limiting your vision and giving you a flashlight. A few occasional bugs but a few patches and hopefully an update with more weapons/zombie types will only add to the satisfying adrenaline pumping fun that is spatial zombies.",
+      "date": 1774536341,
+      "review_helpful_count": 16,
+      "author_display_name": "andr01d42o",
+      "author_alias": "andr01d42o",
+      "developer_response": null
+    },
+    {
+      "id": "1151954628000552",
+      "score": 5,
+      "review_title": "First and only game",
+      "review_description": "Honestly made me fall in love with vr the game is absolutely awesome, the fact you can turn any room into a zombies map and change difficulties, the free is amazing but honestly recommend buying it for the add ons very much worth it and I dont say that lightly",
+      "date": 1780080051,
+      "review_helpful_count": 0,
+      "author_display_name": "rreid1837",
+      "author_alias": "rreid1837",
+      "developer_response": null
+    },
+    {
+      "id": "1166687459863274",
+      "score": 5,
+      "review_title": "Amazing zombie shooter",
+      "review_description": "This is i say best workout and shooting practice all in one great game keep up good work in creating games like this like the competition highest level I got to was 21 with one pistol",
+      "date": 1781224572,
+      "review_helpful_count": 0,
+      "author_display_name": "7Mvp13",
+      "author_alias": "7Mvp13",
+      "developer_response": null
+    },
+    {
+      "id": "1102031652998748",
+      "score": 5,
+      "review_title": "Thanks, developer",
+      "review_description": "Thanks to the developer. He helped me to work the game and I got to play tons of rounds. It’s real fun. and please support the developer. I think he’s working by himself in order to make this great game so hope you have fun playing a lot of zombie rounds.\n￼",
+      "date": 1780355541,
+      "review_helpful_count": 0,
+      "author_display_name": "C00lkid0075445",
+      "author_alias": "C00lkid0075445",
+      "developer_response": {
+        "body": "Hello there,\n\nI’m really sorry that the game is not loading your space correctly. From what I’ve seen, this is usually caused by a bug with Meta’s Spatial Services, where the headset does not properly provide the space data to the game when Enhanced Spatial Services are enabled.\n\nPlease try the following steps:\n\n1. Open the game  \n2. Go to Space Setup  \n3. Click the Device Permissions button  \n4. Turn off Enhanced Spatial Services  \n5. Restart your headset  \n6. Launch the game again\n\nHopefully this should fix the issue 🙂\n\nIf it still does not work, please feel free to email me at ft_studio@outlook.de and I’ll gladly look into it more closely with you.\n\nAnd if you do get it working, I’d really appreciate it if you could update your rating. It genuinely helps me a lot as a solo indie developer and means a ton to me.\n\nBest,  \nTom",
+        "date": 1779949311
+      }
+    },
+    {
+      "id": "1136289146232923",
+      "score": 5,
+      "review_title": "What happened",
+      "review_description": "I love this game and played for hours upon hou\nrs, now the same room i have been playing in only uses one wall for the zombies to come in i have resized over and over like I did before but nothing changed\nI will try again and have a pro membership",
+      "date": 1779916345,
+      "review_helpful_count": 0,
+      "author_display_name": "WizardZen",
+      "author_alias": "WizardZen",
+      "developer_response": null
+    },
+    {
+      "id": "1088817820992337",
+      "score": 5,
+      "review_title": "A must",
+      "review_description": "Brilliant game a brought the full game so I could play with a mate . The new update adds a whole new way the wave attack ..spot on",
+      "date": 1781633222,
+      "review_helpful_count": 0,
+      "author_display_name": "Northie101",
+      "author_alias": "Northie101",
+      "developer_response": null
+    },
+    {
+      "id": "1001512779723407",
+      "score": 5,
+      "review_title": "Tom…. You are the GOAT",
+      "review_description": "This multiplayer update is fabulous!!!!   My gf and I just had an amazing time playing it together… and she is not a horror games fan.  \n\nShe went pro so we could play. I do hope you can add the ability for me to buy pro for others people soon, cause I really want to share this game with friends. I have people who would love this game and with multiple player… this is a party game streaming to a tv, but they are not really in a position to spend $$ on games, I have NO issues getting it for them though and supporting your good work.\n\nKeep up the amazing work!  And THANK YOU for all the time you put into this!",
+      "date": 1778378559,
+      "review_helpful_count": 0,
+      "author_display_name": "Sentonal",
+      "author_alias": "Sentonal",
+      "developer_response": null
+    },
+    {
+      "id": "1691287668872743",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "Just played the demo for 5min and bought the game, wont disappoint. Highly recommended",
+      "date": 1781514258,
+      "review_helpful_count": 0,
+      "author_display_name": "Jason1971_1946",
+      "author_alias": "Jason1971_1946",
+      "developer_response": null
+    },
+    {
+      "id": "1406592127903392",
+      "score": 5,
+      "review_title": "Love this game!!",
+      "review_description": "I just played the game after not updating it for a few months and I had to come here immediately and say thank you to the dev for continuing to implement such cool upgrades. I love the large zombies. Large boss zombies is something I asked for when I  left a review on the pro version when I bought it and here they are! Variety is the spice of life! This game is such a rush and so much fun. I also like how the ceiling breaks away now too. I wonder if there's any way to have zombie monsters flying in the sky overhead that we have to shoot? Maybe for bonus points or something? Big ol' ugly zombie bats or something? LOL bring on anything that goes bump in the night so I can blast it! Oooh, maybe zombies busting up through the floor!",
+      "date": 1777585868,
+      "review_helpful_count": 0,
+      "author_display_name": "GeeMann",
+      "author_alias": "GeeMann",
+      "developer_response": null
+    },
+    {
+      "id": "1207251659130895",
+      "score": 5,
+      "review_title": "Fun! I've been with it since beta...",
+      "review_description": "You want this game it's amazing! I haven't even upgraded.",
+      "date": 1781802948,
+      "review_helpful_count": 0,
+      "author_display_name": "DNewGuy",
+      "author_alias": "DNewGuy",
+      "developer_response": null
+    },
+    {
+      "id": "975651452050150",
+      "score": 2,
+      "review_title": "Pay to win",
+      "review_description": "The gun is fun but almost everything is locked because we have pay for them but what would be nice is if we had to quest for them just saying",
+      "date": 1780016815,
+      "review_helpful_count": 1,
+      "author_display_name": "b.tch",
+      "author_alias": "b.tch",
+      "developer_response": {
+        "body": "Hello there,\n\nThank you very much for your valuable feedback. I completely understand that players would love to enjoy all modes and weapons for free.\n\nAt the same time, Spatial Zombies has been in development for many months, and as a solo developer, I would not be able to keep improving and supporting the game without the Pro unlock. It helps me cover the development costs and continue working on new updates, fixes, and improvements.\n\nI really hope you understand, and I truly appreciate your support and feedback.\n\nBest,\nTom",
+        "date": 1781254998
+      }
+    },
+    {
+      "id": "1008450089020835",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "I had this game on the 3s, and it was brilliant. Fast forward, and I now have the 3 and just played it with the updates. Its just gone to a whole new level! The devs listened to the feedback and have made the game truly awesome, well done guys",
+      "date": 1774038846,
+      "review_helpful_count": 6,
+      "author_display_name": "Darksoldier6634",
+      "author_alias": "Darksoldier6634",
+      "developer_response": null
+    },
+    {
+      "id": "1092466847280924",
+      "score": 5,
+      "review_title": "Very good game, but Pro version ?",
+      "review_description": "Very good game！I wanted to buy the Pro version, but I found it’s no longer available.\n\nGot it, thanks for the reply. I’d like to ask—if I unlock the Pro version, can it also be shared with another account?",
+      "date": 1776603125,
+      "review_helpful_count": 2,
+      "author_display_name": "Petershit",
+      "author_alias": "Petershit",
+      "developer_response": {
+        "body": "Hey there!\n\nThanks so much for your support, it really means a lot to me 🙏\n\nYou can unlock Pro right inside the free version, and it’s exactly the same experience 😊\n\nDue to store policies, I had to remove the standalone Pro version from the store. If a player already owns it, they can continue using it without any changes, and it will keep receiving updates. It’s just no longer available for new purchases. \n\nThanks again!\n\nBest,\nTom",
+        "date": 1776592392
+      }
+    },
+    {
+      "id": "960670110452709",
+      "score": 5,
+      "review_title": "Absolutely Brilliant Game",
+      "review_description": "First time in my life, I have ever written a review for product until now. By far, this is the single best game I’ve ever played to complain about a glitch on a game that is still in Construction is a bit over the top. I have several hours into this game and not one glitch. I can’t wait to see the final product. Great job creators ￼",
+      "date": 1767036842,
+      "review_helpful_count": 184,
+      "author_display_name": "DoubleEagle81",
+      "author_alias": "DoubleEagle81",
+      "developer_response": null
+    },
+    {
+      "id": "1520418870092263",
+      "score": 4,
+      "review_title": "Hope it keeps going!!",
+      "review_description": "I have to say that by far this is the game I go to in VR. It's not perfect, needs a lot of love but it's getting there. The space detection and level creation is awesome and works recently majority of the time without flaw. The guns are good but honestly the rifles seen so underpowered and almost useless compared to the pistol.\n\nLike any complaint I may have is simply coz this is still being developed and it has gotten upgrades , big ones in the last little bit. So it's getting there!\n\nWorth the time and money. Just needs a CO-OP mode please!! :)",
+      "date": 1774857089,
+      "review_helpful_count": 2,
+      "author_display_name": "AspenHowler",
+      "author_alias": "AspenHowler",
+      "developer_response": null
+    },
+    {
+      "id": "1204119126113626",
+      "score": 1,
+      "review_title": "F",
+      "review_description": "Not vary good🥲",
+      "date": 1781051882,
+      "review_helpful_count": 0,
+      "author_display_name": "CrimsonOrca1545",
+      "author_alias": "CrimsonOrca1545",
+      "developer_response": {
+        "body": "Hello there,\n\nThank you very much for rating the game. I really appreciate you taking the time to share your feedback.\n\nMay I ask what made you not enjoy the game? I would love to understand what did not work well for you, so I can keep improving the game and create a better experience for everyone.\n\nAny details you can share would be very helpful.\n\nBest,\nTom",
+        "date": 1781066119
+      }
+    },
+    {
+      "id": "1040362592493927",
+      "score": 5,
+      "review_title": "i love this game",
+      "review_description": "so guys this game is absolutely fire like this might be the best game i've ever played in my life bro this is so good like literally you get rewards every time you give it a five star review but it's kind of annoying how the boss is um kill you pretty fast",
+      "date": 1774130609,
+      "review_helpful_count": 4,
+      "author_display_name": "Calebnion",
+      "author_alias": "Calebnion",
+      "developer_response": null
+    },
+    {
+      "id": "1180108655176382",
+      "score": 5,
+      "review_title": "Please fix bug.",
+      "review_description": "Was fun while I COULD play it... with new update, it won't even load now. I love this game and would like to continue playing it. Please fix.",
+      "date": 1778438676,
+      "review_helpful_count": 1,
+      "author_display_name": "OzzyBean17",
+      "author_alias": "OzzyBean17",
+      "developer_response": {
+        "body": "Hi there,\nThanks a lot for the feedback, and I’m really sorry you’re having trouble loading the game.\nCould you please send me an email at ft_studio@outlook.de ? \nI’d be happy to look into this with you and help get it working.\n\nBest,\nTom",
+        "date": 1778494714
+      }
+    },
+    {
+      "id": "1811047513612853",
+      "score": 3,
+      "review_title": "Not sure",
+      "review_description": "Good but I only bought it for multi room which doesn't work as expected. I thought it would just flow nicely from each room",
+      "date": 1778349105,
+      "review_helpful_count": 0,
+      "author_display_name": "ANGERSNIPER",
+      "author_alias": "ANGERSNIPER",
+      "developer_response": {
+        "body": "Hi there,\n\nThanks a lot for supporting the game!\n\nYes, the game does have a multi room feature. Please enable it in the game settings and configure each room you want to play in using Space Setup.\n\nOnce that is done, you can freely walk between the rooms and fight zombies in every room.\n\nIf you still run into any issues, feel free to contact me anytime at forstech@outlook.de.\n\nBest,\nTom",
+        "date": 1778352573
+      }
+    },
+    {
+      "id": "1115299261661124",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "I’ve been playing since Christmas and haven’t been able to put it down now I’ve upgraded my guns and levels so it’s definitely a great game and I highly recommend it 👍🏽👍🏽",
+      "date": 1777079828,
+      "review_helpful_count": 0,
+      "author_display_name": "Deboskebo",
+      "author_alias": "Deboskebo",
+      "developer_response": null
+    },
+    {
+      "id": "1053462377860464",
+      "score": 5,
+      "review_title": "Perfect!",
+      "review_description": "👍🏾",
+      "date": 1780366632,
+      "review_helpful_count": 0,
+      "author_display_name": "Nykk.Deetronic",
+      "author_alias": "Nykk.Deetronic",
+      "developer_response": null
+    },
+    {
+      "id": "1512028693833408",
+      "score": 5,
+      "review_title": "Multiplayer mode issue fixed",
+      "review_description": "First i will start by saying this is a really fun game, and now it is even better with the multiplayer working, thanks Tom for the hard work",
+      "date": 1777814530,
+      "review_helpful_count": 0,
+      "author_display_name": "Mr_Magnificennt",
+      "author_alias": "Mr_Magnificennt",
+      "developer_response": null
+    },
+    {
+      "id": "948846747769786",
+      "score": 2,
+      "review_title": "Glitches and broken game",
+      "review_description": "It worked fine on my meta quest 2 until I got the pro version and now it just throws an error about my room.",
+      "date": 1778413302,
+      "review_helpful_count": 0,
+      "author_display_name": "Greenbot2012",
+      "author_alias": "Greenbot2012",
+      "developer_response": null
+    },
+    {
+      "id": "1101255239736252",
+      "score": 5,
+      "review_title": "Great mixed reality zombie shooter",
+      "review_description": "The more i play it, the more i like it.  Tons of fun. The shooting and upgrade system is prefect",
+      "date": 1778290195,
+      "review_helpful_count": 0,
+      "author_display_name": "XLNYC",
+      "author_alias": "XLNYC",
+      "developer_response": null
+    },
+    {
+      "id": "1113377551847879",
+      "score": 5,
+      "review_title": "Good until crashes (Fixed)",
+      "review_description": "Was good playing beginner mode then paid for the pro mode and the game just crashes. Can’t play any mode now. Deleted and re installed but didn’t work.\n\nUpdate: Tom was very helpful and fixed the issue. Great game.",
+      "date": 1775769897,
+      "review_helpful_count": 0,
+      "author_display_name": "MIG_A_TRON",
+      "author_alias": "MIG_A_TRON",
+      "developer_response": null
+    },
+    {
+      "id": "1143211728866346",
+      "score": 1,
+      "review_title": "No Stationary",
+      "review_description": "Will not do Stationary for us that can't walk...sucks!!!",
+      "date": 1778358734,
+      "review_helpful_count": 1,
+      "author_display_name": "Solsimmer1953",
+      "author_alias": "Solsimmer1953",
+      "developer_response": {
+        "body": "Hi there,\nI’m very sorry to hear that the game does not fully meet your expectations.\n\nCould you please share a bit more detail about what you would like to see improved or added? If it is technically possible, I would really like to improve the game so more players can enjoy it.\n\nPlease feel free to contact me at ft_studio@outlook.de so we can discuss this in more detail.\n\nBest,\nTom",
+        "date": 1778494997
+      }
+    },
+    {
+      "id": "1125477037305871",
+      "score": 4,
+      "review_title": "Problem",
+      "review_description": "Me and my dad have the quest 3s and the multiplayer function doesn’t work at all it says 0 players connected but otherwise it’s really fun but please try to fix it",
+      "date": 1776535466,
+      "review_helpful_count": 1,
+      "author_display_name": "imnotannoyed",
+      "author_alias": "imnotannoyed",
+      "developer_response": {
+        "body": "Hi there,\n\nThanks so much for your support, and I’m sorry you’ve been running into multiplayer pairing issues.\nI’ve just released a new version with improved multiplayer. 🙂\n\nAfter updating, you’ll see two connection options:\n\n- Auto mode (recommended): This works the same as before but includes several bug fixes, so it should be more reliable now. I’d love to hear how it performs for you, this is the preferred way to connect.\n\n- Manual mode: In this mode, both players place two markers at the same positions on the ground. These markers are then used to align and synchronize the play space between devices.\n\nPlease let me know how it goes!\n\nBest,\nTom",
+        "date": 1777147462
+      }
+    },
+    {
+      "id": "1053059361220505",
+      "score": 2,
+      "review_title": "Eh... it needs work.",
+      "review_description": "This game has potential, but I wouldn't buy it as is right now. If the pro version only unlocks some modes and weapons, then my 2 biggest problems aren't solved.\n\n1st, I scanned in my hallway that's attached to the living room, and of course, it has doors.  SOOO if you're in the living room, the zombies can spawn out of those doors and just walk through the hallway wall and kill you. So, the game recognizes there's a solid wall there, but the most basic zombies can just walk through them?\n\n2nd, I don't want to talk a bunch of crap about the dev, I know this is a fantasy game, and even with the zombies and autoreloading firearms suspending disbelief, my biggest problem is that fudging grenade. I'm aware the average human hasn't thrown a grenade before, but that fragmentation grenade CANNOT go off in your hand just because you pulled the pin. That's not how grenades work. I'd like to support the dev and purchase the pro version, but until that frag grenade is fixed, it's a thumbs down from me.",
+      "date": 1773948154,
+      "review_helpful_count": 1,
+      "author_display_name": "TridentRage",
+      "author_alias": "TridentRage",
+      "developer_response": null
+    },
+    {
+      "id": "1051748691352503",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "The game is amazing like you get to make your own space and all sorts of crazy stuff it's amazing I love it you should get it Even know that a while the weapons are on pro it's still good it's a Nice little game that you can have",
+      "date": 1774914037,
+      "review_helpful_count": 1,
+      "author_display_name": "sonofzilla",
+      "author_alias": "sonofzilla",
+      "developer_response": null
+    },
+    {
+      "id": "1010563542150047",
+      "score": 5,
+      "review_title": "Pro version",
+      "review_description": "I have the free version and wanted to get the pro version, is there any way to still get it?",
+      "date": 1777326089,
+      "review_helpful_count": 0,
+      "author_display_name": "WinterWitch89",
+      "author_alias": "WinterWitch89",
+      "developer_response": null
+    },
+    {
+      "id": "999915976548512",
+      "score": 5,
+      "review_title": "很棒的游戏",
+      "review_description": "I bought the paid version of the game. The game has been removed from the shelves and can't be played online. Can't you explain why?",
+      "date": 1776681364,
+      "review_helpful_count": 1,
+      "author_display_name": "99WD99",
+      "author_alias": "99WD99",
+      "developer_response": null
+    },
+    {
+      "id": "997014726839386",
+      "score": 5,
+      "review_title": "I HATED VIDEO GAMES",
+      "review_description": "I played my son's VR Game once and bought my own the same night. I play Spacial zombies everyday!!  I love it!!",
+      "date": 1776593272,
+      "review_helpful_count": 1,
+      "author_display_name": "Nikodoc0049",
+      "author_alias": "Nikodoc0049",
+      "developer_response": null
+    },
+    {
+      "id": "1059071337299832",
+      "score": 5,
+      "review_title": "Tff",
+      "review_description": "The game is so fun and cool",
+      "date": 1777930983,
+      "review_helpful_count": 0,
+      "author_display_name": "Shreddedbacon67",
+      "author_alias": "Shreddedbacon67",
+      "developer_response": null
+    },
+    {
+      "id": "954968871043686",
+      "score": 3,
+      "review_title": "Meh",
+      "review_description": "Started playing this again, completely different.  Clearly the devs have never actually handled a rifle or shotgun before,  because they DON'T rotate off your shoulder. Impossible to aim with them in the game, makes no sense that it's easier to use with one hand than two.",
+      "date": 1773597158,
+      "review_helpful_count": 0,
+      "author_display_name": "Seth8565",
+      "author_alias": "Seth8565",
+      "developer_response": null
+    },
+    {
+      "id": "1078867161970340",
+      "score": 5,
+      "review_title": "changing my review because",
+      "review_description": "the game has added so much more features that you can't get without buying the continuation of the game which i think is now worth it this game is really cool now and worth the continuation and i think it deserves five stars now",
+      "date": 1774069123,
+      "review_helpful_count": 1,
+      "author_display_name": "HecticNinja1242013",
+      "author_alias": "HecticNinja1242013",
+      "developer_response": null
+    },
+    {
+      "id": "1188176671035496",
+      "score": 3,
+      "review_title": "The unlock cannot be shared",
+      "review_description": "Great game, but the unlocked Pro version can’t be shared with sub-accounts, so it means we have to buy two copies.",
+      "date": 1778126928,
+      "review_helpful_count": 1,
+      "author_display_name": "outbreak0",
+      "author_alias": "outbreak0",
+      "developer_response": null
+    },
+    {
+      "id": "941813015678627",
+      "score": 4,
+      "review_title": "GOOD $8 solo game, NEEDS COOP/COLOCATION",
+      "review_description": "Haven’t had this much fun on VR since my first VR experience playing beat saber and super-hot. At 8$ its a great deal. I’ve avoided many VR games because i get bad motion sickness right around 30 minutes. The mixed reality eliminates this. Ive played this game multiple times til my headset hits 0% battery. what guy doesn’t wanna get home from work and protect his house from zombies. \n\nGAME HAS POTENTIAL TO BE A $30-$40 TITLE. The game is very basic right now but needs COOP/COLOCATION. 2-4 PLAYERS. MORE WEAPONS that take similar ammo, SMG, auto shotgun, some variety in rifles. Then a cash reward system and THROWABLE ITEMS, noise makers, Molotov’s, grenades rebuildable barricades, and maybe a mystery box. Can anyone say Nacht der untoten? Ive sent clips of this game to my friends and 2 of them were about to go buy a VR and come over to my house for the weekend, because they assumed colocation would already be a thing. \nDEVS YOU ARE SITTING ON A GOLD MINE! If YOU DONT DO IT FIRST SOMEONE ELSE WILL! And yes i am yelling. Me and all the other middle aged boys just want a a way to relive COD zombies IRL in VR.\n\nUPDATE: just got to play the new version just in time for Christmas, money system is awesome also the store menu gives you a minute to refresh or “pause” in between levels. The katana and grenades are awesome!!! Nice touch with the body’s falling apart. It was awesome to see a zombies get skyrocketed into pieces through my ceiling when he was standing on a grenade. Keep up the good work! \nI do miss putting both pistols high on my torso but that isn’t too big of a deal, also i like how you limited the ammo per round and the game seems more challenging now which is awesome.",
+      "date": 1766588796,
+      "review_helpful_count": 24,
+      "author_display_name": "Wreggy866",
+      "author_alias": "Wreggy866",
+      "developer_response": {
+        "body": "Hi there! \nThanks so much for your review, I really appreciate the thoughtful feedback!\n\nI took your suggestions to heart and worked on the points you mentioned.\nI’m happy to share that local co-op multiplayer is now finally in the game, and I’d love to hear what you think about it! \n\nOver the past few months, I’ve also added a variety of new weapons and introduced some boss enemies to make the experience more exciting.\n\nI hope you and your friends have a great time playing! \nThere are also more updates on the way, so stay tuned!\n\nBest,\nTom",
+        "date": 1775804300
+      }
+    },
+    {
+      "id": "955820847618366",
+      "score": 5,
+      "review_title": "My stress level is delightfully high",
+      "review_description": "This is my first review of a game ever, but I love this game. Within an hour of play I purchased the full version. I am sweating by level 8, and my heart is racing at any level higher than that. I have been “surprise attacked” by Zombies that came out of a wall behind me, but I may have my volume down to low to hear the cracking. I texted a buddy, and after a day, he began moving furniture around in his house so that he can have a bigger play area. Thank you for such a fun and entertaining game.",
+      "date": 1769524952,
+      "review_helpful_count": 4,
+      "author_display_name": "wilddawg013",
+      "author_alias": "wilddawg013",
+      "developer_response": null
+    },
+    {
+      "id": "1095596393645481",
+      "score": 2,
+      "review_title": "All guns except pistol are locked.",
+      "review_description": "I was genuinely having fun until I went to the shop to buy a different gun. Litterally every single gun except the pistol were locked behind a paywall.  \n\nI don't like games that force you to buy premium just to access things that should be free in the first place.",
+      "date": 1781196509,
+      "review_helpful_count": 0,
+      "author_display_name": "Jester_Anonymous",
+      "author_alias": "Jester_Anonymous",
+      "developer_response": {
+        "body": "Hello there,\n\nThank you very much for your valuable feedback. I completely understand that players would love to enjoy all modes and weapons for free.\n\nAt the same time, Spatial Zombies has been in development for many months, and as a solo developer, I would not be able to keep improving and supporting the game without the Pro unlock. It helps me cover the development costs and continue working on new updates, fixes, and improvements.\n\nI really hope you understand, and I truly appreciate your support and feedback.\n\nBest,\nTom",
+        "date": 1781254958
+      }
+    },
+    {
+      "id": "1127104490475536",
+      "score": 5,
+      "review_title": "One of the best games on vr",
+      "review_description": "Ever since I’ve started playing it I’ve been addicted it’s definitely one of the best games on vr.",
+      "date": 1774501449,
+      "review_helpful_count": 0,
+      "author_display_name": "SanmanSantana007",
+      "author_alias": "SanmanSantana007",
+      "developer_response": null
+    },
+    {
+      "id": "1016927348177356",
+      "score": 5,
+      "review_title": "Vfhghhb hallucination cff crankshaft deg",
+      "review_description": "Of blending words to glory back and the world is so good and i'm so cute i will not have a good time to be in my vr right but i i have a lot lot to to this but i \nWWE",
+      "date": 1773176030,
+      "review_helpful_count": 1,
+      "author_display_name": "iceman.savage.1981",
+      "author_alias": "iceman.savage.1981",
+      "developer_response": null
+    },
+    {
+      "id": "984361828104462",
+      "score": 5,
+      "review_title": "Multiplayer is Here!!!!!!",
+      "review_description": "Appreciate the update you’re the GOAT!!!!!!!!",
+      "date": 1775387248,
+      "review_helpful_count": 0,
+      "author_display_name": "taytay28189",
+      "author_alias": "taytay28189",
+      "developer_response": null
+    },
+    {
+      "id": "976584832214920",
+      "score": 5,
+      "review_title": "Soooo good!!!",
+      "review_description": "Very nice game zombies are scary. Wish the were more weapons and a coop mode",
+      "date": 1774557472,
+      "review_helpful_count": 0,
+      "author_display_name": "fede.2",
+      "author_alias": "fede.2",
+      "developer_response": null
+    },
+    {
+      "id": "857894430748424",
+      "score": 5,
+      "review_title": "FIVE DAY HONEST REVIEW",
+      "review_description": "So I’ve been playing the game for 5 days now, and overall I think it’s great fun.\n\nZombies – There’s a nice mix of different zombies. Some come at you slowly, while others are fast, which I really like. I’d say there are around five different zombie designs.\n\nWeapons – There’s a great choice of weapons, from pistols to the katana samurai sword, which are both my favourites. The guns have great accuracy and feel true to aim. I think some work could be done to make the katana feel more natural, as sometimes the first swing doesn’t seem to register, but overall it’s still solid.\n\nMixed Reality – The mixed-reality mode is great; I’ve had so much fun playing in my living room. I’d love the option to have just doors and windows, with an optional “break walls” feature you can turn on if you want.\n\nVirtual Reality – Very cool as well! It would be great to have a few more room designs.\n\nControls – Overall, the controls are easy to pick up, and honestly, I don’t think they need much improvement.\n\nI’ve only been playing for 5 days, so I’m not sure how the game was before or how much it’s been improved, but like I said, I’ve had a blast so far and made some cool content. I hope they continue to update the game because it has a lot of potential. Well done, guys 👏",
+      "date": 1766525123,
+      "review_helpful_count": 12,
+      "author_display_name": "MrD4nny",
+      "author_alias": "MrD4nny",
+      "developer_response": null
+    },
+    {
+      "id": "1041355039065721",
+      "score": 5,
+      "review_title": "Game",
+      "review_description": "Greatest game in is the best game i have and now i have pistol in life",
+      "date": 1774572562,
+      "review_helpful_count": 0,
+      "author_display_name": "beer_hunter",
+      "author_alias": "beer_hunter",
+      "developer_response": null
+    },
+    {
+      "id": "903997579474733",
+      "score": 5,
+      "review_title": "Fighting Zombies at home",
+      "review_description": "It's a thrill watching zombies crawl out of the walls! This game works well with passthrough mode and I enjoy mixing the real world with VR. The free version is pretty limited but you can have lots of fun fighting ever increasing waves of zombies.",
+      "date": 1771184237,
+      "review_helpful_count": 0,
+      "author_display_name": "lil_potato_x",
+      "author_alias": "lil_potato_x",
+      "developer_response": null
+    },
+    {
+      "id": "1163999153456183",
+      "score": 5,
+      "review_title": "Fixed!",
+      "review_description": "At first, I had problems with the pro version not loading, but now it has become my new favorite zombie game and possibly even my new favorite VR game. I would 100% recommend this game to anybody thinking about it. I had originally left a 2 star review because it wasn't working, but now I am playing it almost every day.",
+      "date": 1778627314,
+      "review_helpful_count": 0,
+      "author_display_name": "greenbot.2012",
+      "author_alias": "greenbot.2012",
+      "developer_response": null
+    },
+    {
+      "id": "1104604292727978",
+      "score": 3,
+      "review_title": "hi",
+      "review_description": "This game is cool, but I just wish they would make the pro free",
+      "date": 1774157129,
+      "review_helpful_count": 0,
+      "author_display_name": "Shadow2424246",
+      "author_alias": "Shadow2424246",
+      "developer_response": null
+    },
+    {
+      "id": "1093192790539032",
+      "score": 4,
+      "review_title": "Love it!!!",
+      "review_description": "Awesome game, really enjoy playing.",
+      "date": 1774645737,
+      "review_helpful_count": 0,
+      "author_display_name": "CosmicLobster1885",
+      "author_alias": "CosmicLobster1885",
+      "developer_response": null
+    },
+    {
+      "id": "1041879645671777",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Good game, and very suspensful. I just wish it would have a story mode. I like how it finally had an update, and now has bosses!",
+      "date": 1772993598,
+      "review_helpful_count": 0,
+      "author_display_name": "BobbyD1776",
+      "author_alias": "BobbyD1776",
+      "developer_response": null
+    },
+    {
+      "id": "977801935425056",
+      "score": 5,
+      "review_title": "simple and amazing",
+      "review_description": "I do wish you could have more than a pistol on the free mode but still 100%worth the download",
+      "date": 1773464056,
+      "review_helpful_count": 0,
+      "author_display_name": "frog258",
+      "author_alias": "frog258",
+      "developer_response": null
+    },
+    {
+      "id": "1013180248551514",
+      "score": 4,
+      "review_title": "Good game",
+      "review_description": "Good game.  but add more playable weapons for demo",
+      "date": 1774046258,
+      "review_helpful_count": 0,
+      "author_display_name": "FrostedLlama5195",
+      "author_alias": "FrostedLlama5195",
+      "developer_response": null
+    },
+    {
+      "id": "1020040551195696",
+      "score": 5,
+      "review_title": "I like how its boss levels.",
+      "review_description": "Its just a good game",
+      "date": 1774349585,
+      "review_helpful_count": 0,
+      "author_display_name": "Cal1216",
+      "author_alias": "Cal1216",
+      "developer_response": null
+    },
+    {
+      "id": "1109006002289540",
+      "score": 4,
+      "review_title": "pretty good",
+      "review_description": "it's honestly pretty good i even got jump scared",
+      "date": 1773791488,
+      "review_helpful_count": 0,
+      "author_display_name": "GodzEnvy3",
+      "author_alias": "GodzEnvy3",
+      "developer_response": null
+    },
+    {
+      "id": "1008170909050876",
+      "score": 5,
+      "review_title": "Thiz is the most fun i ever had",
+      "review_description": "Its a great workout and so much fun and love the music",
+      "date": 1773696037,
+      "review_helpful_count": 0,
+      "author_display_name": "thesilentkilleth",
+      "author_alias": "thesilentkilleth",
+      "developer_response": null
+    },
+    {
+      "id": "991909357335192",
+      "score": 5,
+      "review_title": "Spatial zombies is the best zombie game!",
+      "review_description": "I was speechless when the game loaded and my home was transformed and zombies started coming in! their movement was impressive and sound was immersive. I was surprised when I turned around and came face to face with a zZombie 😲🤯",
+      "date": 1770590387,
+      "review_helpful_count": 0,
+      "author_display_name": "moca444",
+      "author_alias": "moca444",
+      "developer_response": null
+    },
+    {
+      "id": "903685782831715",
+      "score": 5,
+      "review_title": "Fastest Startup, Simplest Interface",
+      "review_description": "Many zombie games exist, but this game's biggest advantage lies in its extremely fast startup speed and incredibly simple interface and rules. Players can immediately pick up a gun and start shooting zombies without worrying about any complicated settings or operations. I tried the free version and immediately bought the professional version to support the game's development.\n\nI hope there will be more background styles available; currently there are only two. I also hope the VR room design option in the customization settings can be made more realistic.",
+      "date": 1767444848,
+      "review_helpful_count": 3,
+      "author_display_name": "mlms_kuang",
+      "author_alias": "mlms_kuang",
+      "developer_response": null
+    },
+    {
+      "id": "1740077510299902",
+      "score": 4,
+      "review_title": "Paid Twice",
+      "review_description": "Game is excellent started with the free one bought melee weapons after a few days I seen pro so I purchased nothing new or different in the pro version so why was I billed twice??? would have been five stars but paying 8 bucks twice is crazy😁",
+      "date": 1771741348,
+      "review_helpful_count": 1,
+      "author_display_name": "iycman23",
+      "author_alias": "iycman23",
+      "developer_response": null
+    },
+    {
+      "id": "1105020489355303",
+      "score": 5,
+      "review_title": "Gut",
+      "review_description": "Gur",
+      "date": 1774443960,
+      "review_helpful_count": 0,
+      "author_display_name": "LxGetLowPlayer",
+      "author_alias": "LxGetLowPlayer",
+      "developer_response": null
+    },
+    {
+      "id": "1040409395823486",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "awesome gameplay",
+      "date": 1774059603,
+      "review_helpful_count": 0,
+      "author_display_name": "kaifkhan2981",
+      "author_alias": "kaifkhan2981",
+      "developer_response": null
+    },
+    {
+      "id": "1022415814290224",
+      "score": 5,
+      "review_title": "Best game",
+      "review_description": "I like it",
+      "date": 1774223607,
+      "review_helpful_count": 0,
+      "author_display_name": "OG93_COM",
+      "author_alias": "OG93_COM",
+      "developer_response": null
+    },
+    {
+      "id": "1017916894740613",
+      "score": 5,
+      "review_title": "Very fun",
+      "review_description": "Its very fun",
+      "date": 1774229519,
+      "review_helpful_count": 0,
+      "author_display_name": "GoldEagle2434",
+      "author_alias": "GoldEagle2434",
+      "developer_response": null
+    },
+    {
+      "id": "946165961924500",
+      "score": 5,
+      "review_title": "W game",
+      "review_description": "The best",
+      "date": 1774271208,
+      "review_helpful_count": 0,
+      "author_display_name": "bilal.160020",
+      "author_alias": "bilal.160020",
+      "developer_response": null
+    },
+    {
+      "id": "915638684970303",
+      "score": 1,
+      "review_title": "It doesn’t work",
+      "review_description": "This game sucks I tried to play it kept saying setup your space setup I would click confirm and it would say the same thing didn’t even get to try it.",
+      "date": 1768094304,
+      "review_helpful_count": 7,
+      "author_display_name": "Pearcebry",
+      "author_alias": "Pearcebry",
+      "developer_response": {
+        "body": "Hey Pearcebry,\n\nI’m sorry that the space isn’t loading correctly for you.\n\nOver the past few weeks, I’ve submitted several updates to the game focused on improving the stability of space loading. It would be great if you could update the game to the latest version and give it another try.\n\nAlso, please feel free to reach out to me anytime at forstech@outlook.de. I’d be happy to help.\n\nBest,\nTom",
+        "date": 1778139466
+      }
+    },
+    {
+      "id": "1094023997119117",
+      "score": 5,
+      "review_title": "Spatial zombies",
+      "review_description": "This game is addictive ...I freakin love it",
+      "date": 1773490802,
+      "review_helpful_count": 1,
+      "author_display_name": "LeakHustle600",
+      "author_alias": "LeakHustle600",
+      "developer_response": null
+    },
+    {
+      "id": "1081844105002307",
+      "score": 4,
+      "review_title": "Nice",
+      "review_description": "Good game",
+      "date": 1774130165,
+      "review_helpful_count": 0,
+      "author_display_name": "kakouna1975",
+      "author_alias": "kakouna1975",
+      "developer_response": null
+    },
+    {
+      "id": "1055967767595959",
+      "score": 5,
+      "review_title": "H",
+      "review_description": "Yt",
+      "date": 1774136542,
+      "review_helpful_count": 0,
+      "author_display_name": "11op",
+      "author_alias": "11op",
+      "developer_response": null
+    },
+    {
+      "id": "1035120356355724",
+      "score": 5,
+      "review_title": "Handsksr",
+      "review_description": "Najs spel",
+      "date": 1774116715,
+      "review_helpful_count": 0,
+      "author_display_name": "mattias.taskila.9",
+      "author_alias": "mattias.taskila.9",
+      "developer_response": null
+    },
+    {
+      "id": "945530951737762",
+      "score": 5,
+      "review_title": "U",
+      "review_description": "Goo",
+      "date": 1774203519,
+      "review_helpful_count": 0,
+      "author_display_name": "BeastMode6977",
+      "author_alias": "BeastMode6977",
+      "developer_response": null
+    },
+    {
+      "id": "1083037588219252",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Class",
+      "date": 1773946593,
+      "review_helpful_count": 0,
+      "author_display_name": "Sammmmmmy9",
+      "author_alias": "Sammmmmmy9",
+      "developer_response": null
+    },
+    {
+      "id": "1020135421182728",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "The game is fun and cool music but i wish you could play with friends",
+      "date": 1773531001,
+      "review_helpful_count": 0,
+      "author_display_name": "TJsonic10",
+      "author_alias": "TJsonic10",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-19T17:59:09Z"
+}

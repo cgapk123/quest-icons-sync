@@ -1,0 +1,62 @@
+{
+  "app_id": "7033979683312993",
+  "package_name": "com.TooTallProductionsLtd.BardSabreDemo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Bard Sabre - Demo",
+  "rating_average": 4,
+  "rating_count": 4,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "8009516222445827",
+      "score": 3,
+      "review_title": "Interesting, needs more work",
+      "review_description": "I had fun for several pairs of minutes but haven't had the urge since initially playing. It's a fun way to memorize Shakespeare.",
+      "date": 1720478654,
+      "review_helpful_count": 0,
+      "author_display_name": "CaptainPwnHawx",
+      "author_alias": "CaptainPwnHawx",
+      "developer_response": {
+        "body": "Thanks for the review. I agree, it does need more work. I'm working on releasing an updated version later this summer. Iambic Pentameter incoming!",
+        "date": 1721230829
+      }
+    },
+    {
+      "id": "3697561470501186",
+      "score": 5,
+      "review_title": "More Fun Than I Expected",
+      "review_description": "From high school on, I've had respect for Shakespeare.    Looking forward to full game.  I had no idea jogging the memory cells could be so much fun.",
+      "date": 1704575497,
+      "review_helpful_count": 1,
+      "author_display_name": "mbabcox",
+      "author_alias": "mbabcox",
+      "developer_response": {
+        "body": "Excellent! Thank you for taking the time to leave a review Mike. Much appreciated. Very happy you enjoyed the game. More updates are coming soon.",
+        "date": 1704710436
+      }
+    },
+    {
+      "id": "219795741215973",
+      "score": 3,
+      "review_title": "Interesting concept.",
+      "review_description": "The app has a lot of potential. The graphics are great. My biggest comment would be how the sentences are broken up. Maybe use  single words as targets or group words grammatically using commas as a reference point of when to break a sentence into smaller chunks.  For example, the sentence \"to be, or not to be\" would be better split as \"to be\" \"or not to be\" rather than \"to be or\" \"not to be\".",
+      "date": 1705959439,
+      "review_helpful_count": 1,
+      "author_display_name": "MisterLysol",
+      "author_alias": "MisterLysol",
+      "developer_response": {
+        "body": "Thanks Brian. I'm glad you think it has potential. I want the game to punch above its weight in terms of the visuals so it's good to hear you think the graphics are great. Next I am going to experiment with breaking the blocks according to Iambic Pentameter. Cheers, Ed",
+        "date": 1708108529
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T18:00:14Z"
+}
