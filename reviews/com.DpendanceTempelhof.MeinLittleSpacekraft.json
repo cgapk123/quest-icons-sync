@@ -1,0 +1,42 @@
+{
+  "app_id": "4983205568381523",
+  "package_name": "com.DpendanceTempelhof.MeinLittleSpacekraft",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Mein Little Spacekraft",
+  "rating_average": 4,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "417990216912254",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "Very fun and retro. It is simple, and I love it. Highly recommend",
+      "date": 1657667576,
+      "review_helpful_count": 2,
+      "author_display_name": "Gradly",
+      "author_alias": "Gradly",
+      "developer_response": null
+    },
+    {
+      "id": "2343462429128023",
+      "score": 4,
+      "review_title": "Hard to control.",
+      "review_description": "Seemed to have heart, otherwise.",
+      "date": 1654726307,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:19:33Z"
+}

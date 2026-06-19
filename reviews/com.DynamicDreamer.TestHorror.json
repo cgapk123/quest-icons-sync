@@ -1,0 +1,42 @@
+{
+  "app_id": "9068774783238182",
+  "package_name": "com.DynamicDreamer.TestHorror",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Silent Gorillas",
+  "rating_average": 4,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1489952168868536",
+      "score": 3,
+      "review_title": "Not bad",
+      "review_description": "Overall the game is pretty good,  needs more levels and unique monsters but is pretty funny and cool to play.",
+      "date": 1757289448,
+      "review_helpful_count": 0,
+      "author_display_name": "Fire8812",
+      "author_alias": "Fire8812",
+      "developer_response": null
+    },
+    {
+      "id": "812063044669709",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "It’s a good game but needs more levels and more monster in a level",
+      "date": 1757289504,
+      "review_helpful_count": 0,
+      "author_display_name": "phantomdash2",
+      "author_alias": "phantomdash2",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:24:47Z"
+}

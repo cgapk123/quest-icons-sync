@@ -1,0 +1,76 @@
+{
+  "app_id": "29198331713146897",
+  "package_name": "com.Dreamscape.chimpan",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "CHIMPAN'",
+  "rating_average": 4.2,
+  "rating_count": 10,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "944163962121864",
+      "score": 5,
+      "review_title": "GREAT GAME",
+      "review_description": "This game deserves to be more popular I like the beach vibe and the cosmetic’s u can wear\nAnd yea",
+      "date": 1771104576,
+      "review_helpful_count": 3,
+      "author_display_name": "jjmonkeyyyy",
+      "author_alias": "jjmonkeyyyy",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1771337318
+      }
+    },
+    {
+      "id": "1221805666724673",
+      "score": 5,
+      "review_title": "Fun Game",
+      "review_description": "its a pretty fun game made by some friends of mine",
+      "date": 1771416353,
+      "review_helpful_count": 3,
+      "author_display_name": "epicisaw",
+      "author_alias": "epicisaw",
+      "developer_response": {
+        "body": "Hello epicisauce",
+        "date": 1773390347
+      }
+    },
+    {
+      "id": "1040627672463190",
+      "score": 1,
+      "review_title": "Servers don’t work for me",
+      "review_description": "When I open it it says restart game and when I do that it still says restart game.",
+      "date": 1772534926,
+      "review_helpful_count": 0,
+      "author_display_name": "calebthemonk",
+      "author_alias": "calebthemonk",
+      "developer_response": {
+        "body": "Servers are working! However popularity has declined so theres just no people on right\nnow. And the “RESTART GAME” you are seeing is a bug caused by playfab as we were having issues with it when making the current build",
+        "date": 1773390308
+      }
+    },
+    {
+      "id": "1358260895298928",
+      "score": 5,
+      "review_title": "So much fun!",
+      "review_description": "CHIMPAN' is so much fun. It is. It really is. Mhm. Yes. I concur. As definitely not the owner, this game is so much fun.",
+      "date": 1745599429,
+      "review_helpful_count": 6,
+      "author_display_name": "cryptic.on.vr",
+      "author_alias": "cryptic.on.vr",
+      "developer_response": {
+        "body": "This guy is sexy ✌️",
+        "date": 1771337333
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T09:21:23Z"
+}
