@@ -1,0 +1,394 @@
+{
+  "app_id": "8021428604644700",
+  "package_name": "com.TakeITStudio.ElectricianVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Electrician Simulator VR",
+  "rating_average": 4.0350877192982,
+  "rating_count": 57,
+  "review_count": 31,
+  "reviews": [
+    {
+      "id": "1036795402204256",
+      "score": 5,
+      "review_title": "Actually pretty addicting",
+      "review_description": "It took me a while to get used to the mechanics but once I did I fell in love with the game.  My only complaint is there NEEDS to be some sort of Hint mechanic.  There’s a bunch of way to incorporate a hint system. You could even have players buy a hint with the cash they’re earned, that way people can’t abuse it too much.  Other than that minor gripe, I friggin love the game. My favorite Simulator game after PowerWash sim.",
+      "date": 1781680978,
+      "review_helpful_count": 0,
+      "author_display_name": "PowPow55",
+      "author_alias": "PowPow55",
+      "developer_response": null
+    },
+    {
+      "id": "1041982572340234",
+      "score": 1,
+      "review_title": "Horrible first impression.",
+      "review_description": "I've started playing this game a few hours ago. There are no tutorials, and most of the things don't make sense. I'm still stuck on level 3 and can't get past it. I'm gonna try more times, but now, this game is horrible. I may change my opinion some day, but it's gonna stay like this for a while",
+      "date": 1776975993,
+      "review_helpful_count": 5,
+      "author_display_name": "SkyNiteVR",
+      "author_alias": "SkyNiteVR",
+      "developer_response": {
+        "body": "Sorry to hear you're having a rough start. There actually are voice tutorials in the game, but they can be easy to miss at first. They explain the basics and should help you understand what to do. The beginning can feel confusing, but once you get used to the mechanics, it becomes much more enjoyable.\n\nIf you're still having trouble, feel free to join our Discord — the community will be happy to help you get past level 3. Hopefully you’ll give it another shot!\n\nhttps://discord.gg/JYcahh2S",
+        "date": 1777019464
+      }
+    },
+    {
+      "id": "1089119564275938",
+      "score": 5,
+      "review_title": "Epic",
+      "review_description": "As a Electrician myself, ive enjoyed every bit of this so far. Very different installation variables as im in Australia bit still very enjoyable. I would love to donate my time to help  making a DLC or update current game with different installations and fault finding missions.",
+      "date": 1774157778,
+      "review_helpful_count": 13,
+      "author_display_name": "ElectricFerret4",
+      "author_alias": "ElectricFerret4",
+      "developer_response": null
+    },
+    {
+      "id": "1246411824239613",
+      "score": 2,
+      "review_title": "Great until a week ago",
+      "review_description": "So I want to start by saying this game would origin be 5 stars, but now since last week, whenever I start the game, I start in the ceiling. I crouch, and I’m in the floor. I can recalibrate, but it puts me right back to the same issue when I go to the next job. I also now am stuck outside the door to the second job and can’t leave. I have turned off my oculus, deleted and reinstalled but the bug is still there. If it could be fixed in a timely manner, I would highly appreciate that. Otherwise a great game.",
+      "date": 1778500979,
+      "review_helpful_count": 1,
+      "author_display_name": "Yaeger12",
+      "author_alias": "Yaeger12",
+      "developer_response": null
+    },
+    {
+      "id": "1038576465396732",
+      "score": 4,
+      "review_title": "Fun game",
+      "review_description": "I love playing this game just wish it had a hint button on her just in case we get stuck.",
+      "date": 1779593836,
+      "review_helpful_count": 1,
+      "author_display_name": "kedataylor",
+      "author_alias": "kedataylor",
+      "developer_response": null
+    },
+    {
+      "id": "936750039042163",
+      "score": 5,
+      "review_title": "I learned to fix sockets+light switches",
+      "review_description": "I always call someone when I have an electrical problem at home. Now they are calling me to help. \nLucky I got my dad who explains everything very well to help me out. He is a good trainer. And I am sure that I can take his place afterwards.\n\nYou can play at your own pace. No one is rushing you, no timer.\n\nBut you can also help other out, with the other tasks that you can do.",
+      "date": 1771962700,
+      "review_helpful_count": 7,
+      "author_display_name": "POWERGIRL.BE",
+      "author_alias": "POWERGIRL.BE",
+      "developer_response": null
+    },
+    {
+      "id": "1465959085538332",
+      "score": 3,
+      "review_title": "My game keeps crashing, devs please help",
+      "review_description": "So, I bought the toys and smart devices dlc with the game and I made it to the first smart mission with grandpa or whatever. Every time I try to go into it, the game just goes to a black screen and doesn’t load into the level ever. I also tried to fix those little things like the controller and Alexa and stuff but the thing right after the Alexa just doesn’t work since I have to hold trigger to hold it which stops me from going into repair mode. I also did like three of these yesterday and they just didn’t save which might’ve been my fault but please fix these little things for me so that I can actually play the game. I am really enjoying it so far, I will update the review as soon as these things are fixed, thank you.",
+      "date": 1766538120,
+      "review_helpful_count": 13,
+      "author_display_name": "MoGe12",
+      "author_alias": "MoGe12",
+      "developer_response": null
+    },
+    {
+      "id": "1194867615961613",
+      "score": 3,
+      "review_title": "Something is wrong",
+      "review_description": "I tried the first mission and until I saved the game, the tutorial about the wires didn't show up, so I messed around for about 30 minutes.\nNow I have to use the multimeter but I can't fix the probe on the pcb.\nIt seems that controls need more work!",
+      "date": 1769097900,
+      "review_helpful_count": 3,
+      "author_display_name": "ITABOYZ_ABOGGI",
+      "author_alias": "ITABOYZ_ABOGGI",
+      "developer_response": null
+    },
+    {
+      "id": "854013604294062",
+      "score": 5,
+      "review_title": "Now 5 stars. Updated, FIXED!",
+      "review_description": "I gave it 2 stars before everything was wonky and now since the recent update, I can now enter the smart mission, do smart devices repair in shop and few fixes. Thank you so much!",
+      "date": 1768580803,
+      "review_helpful_count": 6,
+      "author_display_name": "deafmonk21",
+      "author_alias": "deafmonk21",
+      "developer_response": null
+    },
+    {
+      "id": "1398306264967283",
+      "score": 5,
+      "review_title": "USEFUL AND FUN, A GREAT VR SIMULATION",
+      "review_description": "Electrician Simulator VR offers an experience that is both fun and surprisingly rich.\nThe concept is simple: you play as a virtual electrician, completing tasks such as fixing outlets, organizing wiring and improving various home installations for unique & fun clients. \nThe game succeeds in showing how important precise actions are. Testing circuits, replacing a switch, and handling components safely.\nIt works remarkably well in VR because every tool, every small part and every wire matters.\nThe missions range from simple setups to more advanced work, and the studio’s light-hearted tone (quirky clients and unexpected situations) helps make everything accessible without feeling too technical.\nThe studio's humor works wonderfully.\nAfter a few hours, I really enjoyed the balance between realistic challenges and pure entertainment.\nWith solid visuals and well-designed interactions, it’s an excellent choice for fans of simulation games and anyone who likes learning-by-doing in VR.\nA smooth, engaging and immersive experience!",
+      "date": 1763080950,
+      "review_helpful_count": 11,
+      "author_display_name": "Majerik",
+      "author_alias": "Majerik",
+      "developer_response": null
+    },
+    {
+      "id": "946913148249384",
+      "score": 4,
+      "review_title": "Fun ish",
+      "review_description": "On the first level i cant remove the switch to fix it so i have been fixing the toys insted still realy fun",
+      "date": 1778437479,
+      "review_helpful_count": 0,
+      "author_display_name": "Jame104",
+      "author_alias": "Jame104",
+      "developer_response": null
+    },
+    {
+      "id": "980068858515975",
+      "score": 5,
+      "review_title": "Recommend if you like these type of game",
+      "review_description": "Its fun i would recommend if you like these type of games its realistic",
+      "date": 1768001489,
+      "review_helpful_count": 2,
+      "author_display_name": "B4jacob",
+      "author_alias": "B4jacob",
+      "developer_response": null
+    },
+    {
+      "id": "964285163428011",
+      "score": 2,
+      "review_title": "Blank screen",
+      "review_description": "Judging from the reviews and past reviews, it seems like they still haven't fixed the blank screen.Well, I guess you'll get a two because that's just unacceptable.And annoying",
+      "date": 1767120269,
+      "review_helpful_count": 1,
+      "author_display_name": "Carnage_zx10r",
+      "author_alias": "Carnage_zx10r",
+      "developer_response": null
+    },
+    {
+      "id": "831585110047393",
+      "score": 5,
+      "review_title": "great mechanics",
+      "review_description": "this game has a lot of intresting and really well made mechanics like placing the wires, connecting wires to electrical boxes, installing bulbs, repairing broken electricial devices and so on - it all does work perfectly in VR.\nAnd the Smart Devices DLC goes even further and let you connect everything wirelessly - just a few click with the smart pilot and you have everything set up. Then you can control the light intensity and color, negate the signal if needed and connect everything to motion sensors or cameras :D",
+      "date": 1762156570,
+      "review_helpful_count": 0,
+      "author_display_name": "KacGaw",
+      "author_alias": "KacGaw",
+      "developer_response": null
+    },
+    {
+      "id": "725996260541342",
+      "score": 5,
+      "review_title": "top 👍😍",
+      "review_description": "After Update 30 october 5 stars \n\nEverything is OK, thank you very much 👍😊\n\n————————————————-\n\nA little difficult at first, but after understanding the operation, the game, the environment and the simulation are great 👍\n\nAfter one week… Loss of a star, because there are bugs, unable to repair the ghost detector of the DLC, a double in purple is displayed and impossible to work 😟\n\nAnd sometimes you have to restart the game several times for play 🙁",
+      "date": 1761872702,
+      "review_helpful_count": 0,
+      "author_display_name": "Claude_fortin",
+      "author_alias": "Claude_fortin",
+      "developer_response": null
+    },
+    {
+      "id": "854620577728927",
+      "score": 5,
+      "review_title": "Amazing Sim!",
+      "review_description": "I purchased Electrician Simulator VR last night(10/12/25) after playing the free 20 minute trial. I immediately loved it as soon as I started playing it, and 20 minutes just wasn’t gonna be enough for me. Considering that the game and DLC was all on sale, I bought it all, the game and all three DLC packs. I ended up playing it for 3 hours straight last night, and only stopped because I had to go to sleep.\nI love it! Everything looks, sounds, and plays excellent. The graphics are superb, especially when playing through Quest Games Optimizer. The audio and narration are top notch. The controls are intuitive, and do precisely what they are supposed to do. The gameplay is fun, and quite rewarding.\nElectrician Simulator VR. It is what it says it is, and it’s done masterfully. You are the neighborhood electrician, and you fix electrical problems. You accept contracts from neighborhood clients, and you travel to their homes to diagnose, and repair their electrical problems. Completing the contracts will earn you money, which can be used in the store to buy many different things. There’s also three side missions with every contract, and completing them will earn you stars.\nYou will repair lights, devices, wiring, outlets, switches, TVs, gadgets, powered toys, drones, gaming consoles and controllers, etc. All kinds of different electric devices, and components that you might find in a house. To do this you’ll use several different tools, and gadgets that an actual electrician would use.\nI highly recommend Electrician Simulator VR for anyone that likes simulator games. This particular one is fantastic.\nAlthough there is one problem that the dev needs to address, and it seems to have started with the Quest V79 update. The first two times I played the trial, I kept getting an error message that read “Electrician Simulator VR not responding.” It gives you an option to close the app, or wait. If you wait the message disappears, then reappears after 5 seconds. Doesn’t matter how many times you hit the “wait” button, it reappears in 5 seconds. If you hit “close app” it does precisely that. After restarting the trial twice the 3rd go was a charm, and I was able to play. I thought the game was so great that I still bought it after dealing with the “not responding” issue. After buying it the game was still playing fine. At some point I needed to stop the game to do something else, and when I came back to my headset and restarted the game, it did it again. I closed the app and restarted it, and it worked fine for the rest of the night.  Other people have complained about this in recent reviews, and it seems to have started with the latest Quest update. Please fix this, dev. It’s not really a game breaker, but it’s annoying. Also keep updating, and adding to this game, please.🙏🏻",
+      "date": 1760407565,
+      "review_helpful_count": 2,
+      "author_display_name": "KY_H3ADHUNT3R",
+      "author_alias": "KY_H3ADHUNT3R",
+      "developer_response": {
+        "body": "Thank you so much for such a detailed comment! I’m really glad you’re enjoying the game - that’s exactly what we were aiming for :) As for the notification issue, it doesn’t appear for every player, but we’re already working on fixing it since we know it can be quite annoying!",
+        "date": 1760433368
+      }
+    },
+    {
+      "id": "1126569969579470",
+      "score": 1,
+      "review_title": "ElectricianVR isn't responding",
+      "review_description": "The game starts normal even plays normal, but this box pops up and says ElectricianVR Isn't responding and your given two choices: Close app or wait, if you click wait the box will pop up every 6 seconds and if you click close obviously it closes game. Its annoying and when it pops up you cant play game until you pick a choice",
+      "date": 1757077528,
+      "review_helpful_count": 11,
+      "author_display_name": "MikeyOoOo42",
+      "author_alias": "MikeyOoOo42",
+      "developer_response": {
+        "body": "That's weird! We haven’t encountered that issue before. However, we managed to reproduce it and in our tests it turned out that if you click “Close” and then launch the game again, it works fine. We’re already working on a proper fix! Please let us know if this temporary workaround helped.",
+        "date": 1757078675
+      }
+    },
+    {
+      "id": "1143532294378165",
+      "score": 4,
+      "review_title": "Outstanding!",
+      "review_description": "For anyone that likes Simulator titles, this game is a concept that is truly enhanced by VR. I have not played the flat version and cannot compare it there, but it sure stands on its own as a fantastic simulator title.\n\nYou can tell a lot of time and care when into the VR interactions, as well as the gameplay. Everything from tracing wires, installing different components and wiring them up, troubleshooting issues, the visualization of the electricity flow, etc.\n\nThe addition of endless mode with randomized jobs is great! I believe the flat version has procedurally generated houses, would be awesome if the developer could clarify on whether the VR version has procedural houses as well. Either way, the randomized jobs are fantastic, you'll always have jobs to do in the game after beating the main campaign.\n\nThe addition of being able to obtain and repair electronic devices when not doing an electrician job is fantastic as well! \n\nA MUST HAVE for any fans of simulator titles. If it looks appealing to you in the screenshots, trailer and description, you will most definitely love it!",
+      "date": 1757723221,
+      "review_helpful_count": 5,
+      "author_display_name": "ChickenMuphy",
+      "author_alias": "ChickenMuphy",
+      "developer_response": null
+    },
+    {
+      "id": "1338530007668837",
+      "score": 5,
+      "review_title": "4.2 stars",
+      "review_description": "It's a fun work Sim style game that does a great job making you feel like an electrician.  Don't forget to shut off the breaker before performing your work😂",
+      "date": 1760483592,
+      "review_helpful_count": 0,
+      "author_display_name": "APEboys",
+      "author_alias": "APEboys",
+      "developer_response": null
+    },
+    {
+      "id": "1118399720251174",
+      "score": 5,
+      "review_title": "Love the game however",
+      "review_description": "Loving the game but there were a few levels that were broken and could not be completed but they have been fixed now but still can’t get three star on the bar level for Winning a game of darts, how do you do it, the level is long winded and when you pick up a dart it spirals out of control then flings somewhere you can’t find it, the plugs on the tvs constantly go under the floor so this mission for now I may leave as a 2 star until something can be done about it, but still a great game, wish there was a little more manual work like screwing instead of just pulling out a socket but I would highly recommend this game",
+      "date": 1757426493,
+      "review_helpful_count": 0,
+      "author_display_name": "UKIIIRAMPAGE",
+      "author_alias": "UKIIIRAMPAGE",
+      "developer_response": {
+        "body": "Thank you so much for the detailed feedback and kind words! We’re really happy you’re enjoying the game overall!",
+        "date": 1760433572
+      }
+    },
+    {
+      "id": "798281970038010",
+      "score": 1,
+      "review_title": "After v79 update not working",
+      "review_description": "Updated the firmware to v79 and the app its no longer working. Keep poppin the message to close rhe app. I closed it, opened it again and it does the same thing.",
+      "date": 1757621489,
+      "review_helpful_count": 3,
+      "author_display_name": "JumpingGoldfish5439",
+      "author_alias": "JumpingGoldfish5439",
+      "developer_response": {
+        "body": "We’re very sorry! We’re aware of the v79 issue and are already working on a fix!",
+        "date": 1760433536
+      }
+    },
+    {
+      "id": "584436688073834",
+      "score": 3,
+      "review_title": "Fun, but needs accessibility options",
+      "review_description": "I believe this has the potential to be a very entertaining game, and for most people, it probably is, but I have some issues with limited mobility and getting the equipment from the belt around your waist is proving difficult. It would be great if there was a way to access equipment with a button press  or radial menu",
+      "date": 1753052368,
+      "review_helpful_count": 8,
+      "author_display_name": "romansboy",
+      "author_alias": "romansboy",
+      "developer_response": null
+    },
+    {
+      "id": "799469719908595",
+      "score": 5,
+      "review_title": "It’s a beginner-friendly electrician gam",
+      "review_description": "Electrician Simulator is a really fun VR game that makes it easy to understand electrical repairs. I remember the PC version had stuff like fixing fans and hair dryers, but I noticed those are missing in the VR version. Does anyone know why? Maybe they’ll come back later as DLC?",
+      "date": 1755746533,
+      "review_helpful_count": 2,
+      "author_display_name": "CINDE",
+      "author_alias": "CINDE",
+      "developer_response": null
+    },
+    {
+      "id": "713107108560627",
+      "score": 3,
+      "review_title": "The main game is fun but the dlc is conf",
+      "review_description": "I like the main game but I’m stuck at the multimeter part because he just says to put the multimeter probes next to the solder points which I tried but it didn’t work also for the this is why I don’t go on vacation level it gives me 0 dollars of budget and now it’s not letting me load saying I don’t have the toys dlc but I bought it and I haven’t refunded it and meta says I own it",
+      "date": 1755905771,
+      "review_helpful_count": 1,
+      "author_display_name": "Macplaysvr",
+      "author_alias": "Macplaysvr",
+      "developer_response": null
+    },
+    {
+      "id": "791358800730619",
+      "score": 5,
+      "review_title": "So cool",
+      "review_description": "Ghhhjj",
+      "date": 1759349896,
+      "review_helpful_count": 0,
+      "author_display_name": "siankov",
+      "author_alias": "siankov",
+      "developer_response": {
+        "body": "Thank you! <3",
+        "date": 1760433382
+      }
+    },
+    {
+      "id": "1038291838371323",
+      "score": 2,
+      "review_title": "Decent",
+      "review_description": "This is decent game, it has alot of potential but you never know what you are doing, there isn't really a tutorial, and the thing you might consider one doesn't help at all, he gives the most vague clues there is.",
+      "date": 1750891844,
+      "review_helpful_count": 2,
+      "author_display_name": "CausticApollo",
+      "author_alias": "CausticApollo",
+      "developer_response": {
+        "body": "Sorry to hear the tutorials felt unclear. Is there any way I can help? Maybe you’d like to describe the issue on our Discord? We’ve reworked the tutorials and haven’t had many issues, unless it’s something related to the latest update (the workbench)?",
+        "date": 1750934909
+      }
+    },
+    {
+      "id": "1041463587904226",
+      "score": 5,
+      "review_title": "Solid VR game",
+      "review_description": "It’s a great game with a lot of potential. It nails the vibe of the job and offers a fun way to unwind while still feeling productive.  The missions give very straightforward objectives like “remove cable” or “buy chandelier,” without clarifying which cable, or exactly where to find the item. A small outline or hint (like, “buy it in the Lights section”) would go a long way for newer players or anyone who missed part of the tutorial. I also encountered a small bug: I bought a chandelier before the game prompted me to, and while it was the correct one, the game didn’t recognize it so I had to resell it and buy the exact same one again after receiving the task. Not a major issue, but worth noting for smoother progression.",
+      "date": 1745051939,
+      "review_helpful_count": 9,
+      "author_display_name": "zerodayx",
+      "author_alias": "zerodayx",
+      "developer_response": {
+        "body": "Thanks for the feedback! Glad you're enjoying the game. Good catch on the chandelier bug - it should be fixed now!",
+        "date": 1750934740
+      }
+    },
+    {
+      "id": "642784912259305",
+      "score": 5,
+      "review_title": "Buggy game",
+      "review_description": "ive never seen more buggy game than this… i cant even complete the first level or whatever it is its so buggy it just doesnt work dont buy it, im returning it",
+      "date": 1750773185,
+      "review_helpful_count": 0,
+      "author_display_name": "Kukycekcze",
+      "author_alias": "Kukycekcze",
+      "developer_response": null
+    },
+    {
+      "id": "600661666464391",
+      "score": 3,
+      "review_title": "Basic for now has potential",
+      "review_description": "Just played this. the game definitely has potential. Looking at the menu, there will be updates in the next few months. June looks promising as it will add a workshop. But you will have to wait till September for endless mode. At the moment, you have access to only wiring. No tools such screwdrivers have been added (hopefully, this will be a future update). This will get boring very quickly without the promised updates.",
+      "date": 1742765172,
+      "review_helpful_count": 18,
+      "author_display_name": "bluearmy2332",
+      "author_alias": "bluearmy2332",
+      "developer_response": {
+        "body": "Thank you for your feedback! We didn’t implement screwdrivers because, while the gameplay with them was interesting at first, it became a bit repetitive over time. Having to take apart and reassemble dozens of outlets and switches made the gameplay unnecessarily long and tedious. We're thinking about adding more variety to the existing systems—there will definitely be plenty of new features in the Workbench update. Besides that, players can look forward to new story missions, new clients, and a few pop culture references! 👀",
+        "date": 1742896150
+      }
+    },
+    {
+      "id": "800500986272313",
+      "score": 4,
+      "review_title": "Amazing",
+      "review_description": "This is an amazing video game probably one of my all time favorites but the screwdriver sometimes doesn't work properly but if that's fixed its the perfect vr game.",
+      "date": 1758809533,
+      "review_helpful_count": 0,
+      "author_display_name": "Jman536",
+      "author_alias": "Jman536",
+      "developer_response": {
+        "body": "Thank you! If you have any issues with the screwdriver, please join our Discord - we’ll do our best to help you!",
+        "date": 1760433488
+      }
+    },
+    {
+      "id": "634675416389811",
+      "score": 4,
+      "review_title": "Pretty decent!",
+      "review_description": "Pretty chill, graphics are good. Would love it to be a bit more educational but decent!",
+      "date": 1742746169,
+      "review_helpful_count": 10,
+      "author_display_name": "andycuz7",
+      "author_alias": "andycuz7",
+      "developer_response": {
+        "body": "Thank you for your kind words! We tried to find a balance between entertainment and education so that the game wouldn’t be too boring or overwhelming. I think that in future updates (Workbench), you’ll be able to learn a few new things. However, our main goal is to tell a story and entertain players. I hope you’ll enjoy the upcoming updates as well!",
+        "date": 1742895676
+      }
+    }
+  ],
+  "total": 31,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-19T17:39:50Z"
+}

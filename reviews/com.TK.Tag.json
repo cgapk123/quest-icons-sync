@@ -1,0 +1,42 @@
+{
+  "app_id": "33633452936300927",
+  "package_name": "com.TK.Tag",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Tag",
+  "rating_average": 3.0714285714286,
+  "rating_count": 14,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1022941624242661",
+      "score": 5,
+      "review_title": "The best game I've ever played",
+      "review_description": "Best game in my life",
+      "date": 1775733407,
+      "review_helpful_count": 9,
+      "author_display_name": "johndeeerekid683",
+      "author_alias": "johndeeerekid683",
+      "developer_response": null
+    },
+    {
+      "id": "1021228217746899",
+      "score": 1,
+      "review_title": "Hate",
+      "review_description": "Terrible I hate it",
+      "date": 1775560796,
+      "review_helpful_count": 4,
+      "author_display_name": "vr.kid.961322",
+      "author_alias": "vr.kid.961322",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:35:24Z"
+}

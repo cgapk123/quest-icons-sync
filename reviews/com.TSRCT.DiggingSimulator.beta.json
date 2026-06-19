@@ -1,0 +1,123 @@
+{
+  "app_id": "4240717449313382",
+  "package_name": "com.TSRCT.DiggingSimulator.beta",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Digging Simulator 2020 - BETA",
+  "rating_average": 2.9714285714286,
+  "rating_count": 35,
+  "review_count": 8,
+  "reviews": [
+    {
+      "id": "1204169049436163",
+      "score": 1,
+      "review_title": "Not good",
+      "review_description": "It's does not look good or real looking I hate it",
+      "date": 1781186171,
+      "review_helpful_count": 0,
+      "author_display_name": "Drakegibs",
+      "author_alias": "Drakegibs",
+      "developer_response": null
+    },
+    {
+      "id": "122162430152016800",
+      "score": 5,
+      "review_title": "Dig",
+      "review_description": "Dig",
+      "date": 1711093816,
+      "review_helpful_count": 1,
+      "author_display_name": "Vincei11",
+      "author_alias": "Vincei11",
+      "developer_response": {
+        "body": "dig",
+        "date": 1725495116
+      }
+    },
+    {
+      "id": "377782500518391",
+      "score": 1,
+      "review_title": "Horrible game",
+      "review_description": "All you do in this game is dig into a staircase where you then find a small dungeon. That’s it. Dual wielding caused be to not be able to teleport, and the game constantly bugs out. Also, In the video you can see a quest/achievement, which isn’t in the game. The little particles that are supposed to be on the shovel aren’t there. Dirt also bugs out, and I escaped the barrier in 3 seconds. Do not get this free game.",
+      "date": 1631033589,
+      "review_helpful_count": 5,
+      "author_display_name": "SeanReadsManga",
+      "author_alias": "SeanReadsManga",
+      "developer_response": {
+        "body": "Hey thanks for the feedback, I've been getting lots of bad reviews on app store after 3/4 average on sidequest, so this direct feedback helps explains it. This was a port to the app store from sidequest, so I could work on some new ideas, but obviously has caused some issues. \n\nSome context - I'm a single developer doing this in my spare time,  trying to make fun concepts to try and for people to try interesting ideas. As a solo dev striking balance between QA and working on new stuff is hard (I've got an original game concept I'm currently working on and shipped touchy feely, a hand tracking experience earlier this year) . That being said, my goal is to make fun stuff, so I'm sorry you had a bad experience. This will actually be really helpful to dive in and debug. \n\nI'll aim for a quality of life update including\n - fix particles and shovel powerup\n - not sure why quest isn't appearing\n - main goal is i'm aiming to implement ability to save hole\n - extending dungeon and more things to collect and explore.\n\nBasically I had to upgrade to VRTK latest stuff, and I think it cooked things more than I thought, and didn't give it the QA it deserved.\n\nFor anyone reading this (as it's had a lot of bad reviews), I'm just one person, trying to make stuff that people might enjoy or find interesting, so just leaving the feedback like this will help me prioritise.\n\nI'm also going to update the copy to reflect this for now.\nThanks everyone and for anyone coming from sidequest or my other games that has given me support working on my passion.",
+        "date": 1631693850
+      }
+    },
+    {
+      "id": "312906001088950",
+      "score": 2,
+      "review_title": "I cant get ?",
+      "review_description": "I got sidequest for this game and it seems fun I just dont know how to get the sidequest version nor this version on sidequest it dirrects me to the applab (  this page) But on this page I \"Purchased\" the game but I cant download it a video on your channal would be helpful. Thank you in advanced if you have read this.",
+      "date": 1688425111,
+      "review_helpful_count": 0,
+      "author_display_name": "Gamer_guy1",
+      "author_alias": "Gamer_guy1",
+      "developer_response": {
+        "body": "hey gamer guy! so once you're purchased in app lab it should show up as an available title on your headset! give it a crack and hit me up me@samueltate.com if you are stuck, we'll figure it out if i have to email you a buid myself :)",
+        "date": 1696674540
+      }
+    },
+    {
+      "id": "259451819421459",
+      "score": 5,
+      "review_title": "Good start with potential 👍",
+      "review_description": "I was expecting a soulless cave digger clone, but was pleasantly surprised. It definitely has some bugs, (you can teleport and see through grass if you slightly move into it) but I had some good fun playing through it. The secrets were fun to explore. I never found a way to use my money though. In the end, I’m looking forward from seeing more from this game.\n\nEdit: Please add smooth locomotion and climbing if possible 🙏",
+      "date": 1632086094,
+      "review_helpful_count": 6,
+      "author_display_name": "Actually29",
+      "author_alias": "Actually29",
+      "developer_response": {
+        "body": "Hey thanks Kirby! I'll 100% add climbing, I was thinking it'd be cool if the dirt was all 'climable'. Alternatively having handholds generate as you create 'faces' could be cool. Aside from that was hoping to make some cool climbing/physics puzzles as I'm using VRTK. I'm not so sure about smooth locomotion on the uneven terrain but can try it! Watch this space :)",
+        "date": 1633642703
+      }
+    },
+    {
+      "id": "202080489017447",
+      "score": 5,
+      "review_title": "Best game on VR",
+      "review_description": "100% best game on any Vr platform",
+      "date": 1662826669,
+      "review_helpful_count": 0,
+      "author_display_name": "BigBoiGorrila",
+      "author_alias": "BigBoiGorrila",
+      "developer_response": null
+    },
+    {
+      "id": "182047730977394",
+      "score": 1,
+      "review_title": "Bad",
+      "review_description": "Horibble",
+      "date": 1662175182,
+      "review_helpful_count": 2,
+      "author_display_name": "ivangoogely",
+      "author_alias": "ivangoogely",
+      "developer_response": null
+    },
+    {
+      "id": "103507775691235",
+      "score": 5,
+      "review_title": "Great idea and fun execution",
+      "review_description": "I enjoyed this. Having to shovel the dirt and then drop it elsewhere was great. The axe was a good idea as an alternative to the shovel.\n\nGood stuff!",
+      "date": 1651398507,
+      "review_helpful_count": 1,
+      "author_display_name": "J_DogVR",
+      "author_alias": "J_DogVR",
+      "developer_response": {
+        "body": "thanks j dog!",
+        "date": 1651891125
+      }
+    }
+  ],
+  "total": 8,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:36:59Z"
+}

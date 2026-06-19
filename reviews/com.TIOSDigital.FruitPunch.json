@@ -1,0 +1,42 @@
+{
+  "app_id": "30420162437583037",
+  "package_name": "com.TIOSDigital.FruitPunch",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Fruit Punch",
+  "rating_average": 5,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1052246330355368",
+      "score": 5,
+      "review_title": "Very fun!",
+      "review_description": "There’s just something satisfying about punching things to bits to music that gets me. \nAlso the music slow time effects are a funny and a nice touch.  \nWould like to see some sort of global leaderboard, I got to level 17 in the new garden level. It gets difficult but I love it.",
+      "date": 1757134499,
+      "review_helpful_count": 1,
+      "author_display_name": "zoocan",
+      "author_alias": "zoocan",
+      "developer_response": null
+    },
+    {
+      "id": "688258607707204",
+      "score": 5,
+      "review_title": "Great job on the update!",
+      "review_description": "\"Jake's update\" rocks!",
+      "date": 1751845095,
+      "review_helpful_count": 2,
+      "author_display_name": "jake.735111",
+      "author_alias": "jake.735111",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T17:34:59Z"
+}
