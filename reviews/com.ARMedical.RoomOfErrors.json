@@ -1,0 +1,42 @@
+{
+  "app_id": "7502438339779368",
+  "package_name": "com.ARMedical.RoomOfErrors",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "RoomOfErrors",
+  "rating_average": 1,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "922975797560561",
+      "score": 1,
+      "review_title": "0/10 would not recommend",
+      "review_description": "It’s only in Korean",
+      "date": 1765744404,
+      "review_helpful_count": 1,
+      "author_display_name": "claaik",
+      "author_alias": "claaik",
+      "developer_response": null
+    },
+    {
+      "id": "770045139536065",
+      "score": 1,
+      "review_title": "Doe snt change languages",
+      "review_description": "doesnt change languages",
+      "date": 1761305095,
+      "review_helpful_count": 2,
+      "author_display_name": "violet.555",
+      "author_alias": "violet.555",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:49:52Z"
+}

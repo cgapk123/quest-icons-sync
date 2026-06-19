@@ -1,0 +1,31 @@
+{
+  "app_id": "3347465252036603",
+  "package_name": "com.Agority.Testing",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Agority ",
+  "rating_average": 2.6,
+  "rating_count": 5,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "347192287262956",
+      "score": 1,
+      "review_title": "Doesn’t seem to work",
+      "review_description": "Dead app",
+      "date": 1643404724,
+      "review_helpful_count": 14,
+      "author_display_name": "MASE1515",
+      "author_alias": "MASE1515",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:54:53Z"
+}

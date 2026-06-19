@@ -1,0 +1,42 @@
+{
+  "app_id": "24474089165607533",
+  "package_name": "com.ARist.ASSRv2",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "ARTIST SLAYER / RUSH",
+  "rating_average": 2.3333333333333,
+  "rating_count": 18,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1016281151574919",
+      "score": 1,
+      "review_title": "This sucks",
+      "review_description": "Its solo laggy",
+      "date": 1772387570,
+      "review_helpful_count": 3,
+      "author_display_name": "IzacEmma",
+      "author_alias": "IzacEmma",
+      "developer_response": null
+    },
+    {
+      "id": "1161401617048835",
+      "score": 2,
+      "review_title": "Has potentiak but way to laggy",
+      "review_description": "The potential is there but its way to laggy especially for a singleplayer game",
+      "date": 1778857676,
+      "review_helpful_count": 0,
+      "author_display_name": "Kawijus",
+      "author_alias": "Kawijus",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:50:16Z"
+}

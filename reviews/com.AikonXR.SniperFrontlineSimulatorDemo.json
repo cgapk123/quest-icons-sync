@@ -1,0 +1,45 @@
+{
+  "app_id": "23863696236623664",
+  "package_name": "com.AikonXR.SniperFrontlineSimulatorDemo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Sniper Frontline Simulator Demo",
+  "rating_average": 2,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "822343827157021",
+      "score": 1,
+      "review_title": "Lame af",
+      "review_description": "This game isn't even worth the free dl! Absolute trash",
+      "date": 1761289871,
+      "review_helpful_count": 0,
+      "author_display_name": "beatsaber830",
+      "author_alias": "beatsaber830",
+      "developer_response": null
+    },
+    {
+      "id": "700736336460223",
+      "score": 1,
+      "review_title": "Hottest rubbish ever!",
+      "review_description": "So I downloaded it because I thought it would be cool and fun! well I was so duckin wrong first level I couldn’t find the bad guys, hot garbage",
+      "date": 1752300793,
+      "review_helpful_count": 1,
+      "author_display_name": "simonghostriley.232822",
+      "author_alias": "simonghostriley.232822",
+      "developer_response": {
+        "body": "Thank you very much for your message. The error is likely due to the enemy location indicator only appearing in the Quest 3 family. We are working to fix this bug.",
+        "date": 1752517522
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T05:55:24Z"
+}
