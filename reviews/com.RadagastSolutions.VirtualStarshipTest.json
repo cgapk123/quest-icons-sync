@@ -1,0 +1,45 @@
+{
+  "app_id": "6197471476996464",
+  "package_name": "com.RadagastSolutions.VirtualStarshipTest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Virtual Starship",
+  "rating_average": 3.75,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "715749634947244",
+      "score": 4,
+      "review_title": "Please HELP/FIX.",
+      "review_description": "Every time I try to load the app on my basically brand new quest two that has had no issues loading other games it freezes. Then send’s me back to the Meta Home Screen I know it was the game that was causing the issue, not meta but overall it’s the most amazing space game I’ve found, definitely worth the buy if they fix the issues note it is early access though so I understand why it has its flaws.",
+      "date": 1749196346,
+      "review_helpful_count": 0,
+      "author_display_name": "TimsVRing",
+      "author_alias": "TimsVRing",
+      "developer_response": {
+        "body": "Very sorry that you are having a problem. I have a Quest 2 headset and will try to reproduce the problem here.",
+        "date": 1749328861
+      }
+    },
+    {
+      "id": "478957708314770",
+      "score": 5,
+      "review_title": "Fantastic",
+      "review_description": "This is a marvellous app! One of the difficult things to do with the vast amount of data we have now is visualising it. This app does a brilliant job of visualising the galaxy using the data collected by ESA’s Gaia mission. The author of the app has a long history in mapping the galaxy and, in creating this app, has opened the door to our galaxy that would otherwise remained closed other than to those who analyse data from Gaia. I really encourage anyone with an interest in our galaxy, or even just curious, to support the app and download it. The controls are intuitive and there is a wealth of information to explore. Awesome work!",
+      "date": 1724318711,
+      "review_helpful_count": 5,
+      "author_display_name": "milkywaykiwisam",
+      "author_alias": "milkywaykiwisam",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T16:05:39Z"
+}
