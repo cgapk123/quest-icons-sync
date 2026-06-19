@@ -1,0 +1,242 @@
+{
+  "app_id": "6476030305773017",
+  "package_name": "com.GoodDay.TF9",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Task Force 9",
+  "rating_average": 3.6060606060606,
+  "rating_count": 33,
+  "review_count": 18,
+  "reviews": [
+    {
+      "id": "1395938862306719",
+      "score": 5,
+      "review_title": "The tactical shooter I been waiting for",
+      "review_description": "This game is janky. I one time got stuck on the wall. There is a weird sound that comes on I think randomly. Like some alarm. AI can be hit or miss but I keep dying so it’s not too bad.\n\nBut I love the level design . So many creative ways to tackle a building. The sledge hammer is actually useful. Lot of walls can be broken.\n\nAnd main thing I love is an AI companion to control. Now this game is like the OG game Rainbow Six or OG Ghost Recon. \n\nThe developer is also cool and very responsive. Only dude making it.\n\nSo many games want you to play with another person. I don’t want to play with people. I want to play on my own time and my own schedule. \n\nThis game is exactly what I wanted from Tactical Assault and Split Second.",
+      "date": 1773966096,
+      "review_helpful_count": 3,
+      "author_display_name": "HBM37",
+      "author_alias": "HBM37",
+      "developer_response": null
+    },
+    {
+      "id": "853209297528203",
+      "score": 5,
+      "review_title": "first and foremost a tactical shooter",
+      "review_description": "Not gonna lie, the graphics are sometimes a bit janky and there are some bugs here and there (you can tell its an indie game) but after i got used to the controls I was locked in. It's first and foremost a tactical shooter so it's not about speedrunning to kill 1000 enemies in 5 seconds, so be warned if that's what you're looking for, this isn't it! You gotta sneak around, watch the enemy to see what they are doing, plan your next move, then make your move when the time is right. The enemy AI is intelligent unlike a lot of other shooters, which is refreshing (I'm honestly tired of stupid AI who just run at you blind and whoever can fire the most shots wins). Gun mechanics are nice, you can't just empty a clip, you gotta take each shot carefully!\n\nI agree with other reviewers that a sidearm would be a nice addition!",
+      "date": 1769240674,
+      "review_helpful_count": 1,
+      "author_display_name": "glennerooo",
+      "author_alias": "glennerooo",
+      "developer_response": null
+    },
+    {
+      "id": "884113447537725",
+      "score": 3,
+      "review_title": "A ok game but ….",
+      "review_description": "A good game but tactical assault vr did\ncome out since. \nAnd now it is just an ok game….\nGood effort however.\nThank you.  \n\nThe NPC AI poses problem.\nI love your approach. Slow game stealth .\nBless you for that. Really. I tried my best to play and stick to it but it felt unsteady.\nWas left wondering if my level was done or not. Might be theAI. Do mot know. \nWill try your game again because i love your philosophy \nThank you.",
+      "date": 1768130006,
+      "review_helpful_count": 0,
+      "author_display_name": "deathoncredit",
+      "author_alias": "deathoncredit",
+      "developer_response": {
+        "body": "You’re right, and I should explain that better. The tutorial doesn’t cover things like how many enemies a noise can attract, which enemies will hold position, or how the AI decides to search, because it’s already too long. Those systems exist and go deeper than what you see early on, but right now they’re not communicated clearly enough, which can make the game feel unstable. I’m working on more creative ways to teach these mechanics during play instead of dumping them upfront. I really appreciate you giving it another shot, And if you’re open to it, I’d genuinely value more feedback on the Discord, since that’s where most of the design iteration is happening.",
+        "date": 1768296267
+      }
+    },
+    {
+      "id": "856988963779969",
+      "score": 2,
+      "review_title": "Can’t go past the advanced tactics",
+      "review_description": "Got to the rappel part then the other door would not open I’ve tried blowing it up using the sledgehammer tried shooting it tried using the teammates but nothing Dk if it’s just a glitch but if anyone knows how to help with this or if I’m missing something \nIt would be appreciated \nThanks",
+      "date": 1767914513,
+      "review_helpful_count": 0,
+      "author_display_name": "Undercoveragent_47",
+      "author_alias": "Undercoveragent_47",
+      "developer_response": {
+        "body": "Hi, Is the issue resolved? If so please reconsider the rating as it has big effects, Thanks.",
+        "date": 1768127912
+      }
+    },
+    {
+      "id": "2558243661178647",
+      "score": 3,
+      "review_title": "Bugs",
+      "review_description": "This game could be a 5 star game. \nBut there’s some game breaking bugs. \nLike having bad guy’s pop up at random . \nAnd sometimes the gun shoots for no reason. Also reloading could feel better.\nAnd when try to  connect the clip the rope doesn’t show: most of the time. So that I can repeal down buildings.",
+      "date": 1753591883,
+      "review_helpful_count": 2,
+      "author_display_name": "Joelartdesigns.IG",
+      "author_alias": "Joelartdesigns.IG",
+      "developer_response": {
+        "body": "Appreciate you pointing this out, Enemy popping I’m aware of and working on aide other developments, but the gun firing by itself and the rappel rope not showing? That’s the first I’m hearing of it, so your feedback is gold.\n\nI’m building this solo, and sometimes bugs only show up for certain setups — if you’re down to help me track it down, I’d love to have you in the Discord:\nhttps://discord.gg/7a5QEhuvFz\n\nWould be awesome to fix it with you and maybe even earn that 5-star in the process 👊",
+        "date": 1753598842
+      }
+    },
+    {
+      "id": "704548039412710",
+      "score": 3,
+      "review_title": "Few issues",
+      "review_description": "Tutorial aspect is good, got to the end of tutorial and wasn’t super impressed, compared to other similar games. No sidearm, vest keeps moving around like it’s connected to the head and not the body, and the hook/rope could be smoother, hard to tell where the rope starts, and hard to grab the hook as the vest moves too much.",
+      "date": 1753067165,
+      "review_helpful_count": 1,
+      "author_display_name": "Tytom98",
+      "author_alias": "Tytom98",
+      "developer_response": {
+        "body": "Thanks for the thoughtful review. \nI’m a solo dev building TF9 as a stealth-first experience, so things like the missing sidearm are by design. That said, I’m actively working on improving the vest and rope feel based on feedback like yours.\n\nIf you’re up for shaping the next update or just want to share ideas, I’d love to have you in the Discord: https://discord.gg/7a5QEhuvFz\n\nHope I can earn that 5 stars next time, your input really helps.",
+        "date": 1753082442
+      }
+    },
+    {
+      "id": "712693438380254",
+      "score": 4,
+      "review_title": "just two requests",
+      "review_description": "This is a great game, but it doesn’t have any form of side arms from what I’ve played so could you please add a pistol a Glock 19 or Beretta would be nice also, can you please add gun customization.￼￼",
+      "date": 1749332214,
+      "review_helpful_count": 12,
+      "author_display_name": "mantis.914",
+      "author_alias": "mantis.914",
+      "developer_response": {
+        "body": "Really appreciate you taking the time to write this — it’s exactly the kind of feedback that helps TF9 keep evolving. The core of the game is built around a single-player stealth experience, but you're not the first to ask about sidearms. Let’s just say… you might be onto something 😉\n\nI’m deep in a redesign phase right now, and ideas like yours are shaping where it goes next. Thanks for being part of the journey — can’t wait for you to show what’s coming.",
+        "date": 1749713915
+      }
+    },
+    {
+      "id": "725577997072840",
+      "score": 5,
+      "review_title": "Problem fixed",
+      "review_description": "I had a problem with the game. I joined their discord server and they fixed the problem for me.",
+      "date": 1752508212,
+      "review_helpful_count": 2,
+      "author_display_name": "jarjar21112022",
+      "author_alias": "jarjar21112022",
+      "developer_response": null
+    },
+    {
+      "id": "567120339817895",
+      "score": 5,
+      "review_title": "5 Stars for what it is.",
+      "review_description": "You can tell this is made by a small company.  But it needs more exposure so I’m gonna give it five stars.  The reasons for this:\n\nActual stealth mechanics \nAI teammate for great solo players who want tactical shooter\nNot quick paced like zero caliber, actual tactical. \nThe controls are intuitive.  \n\nAlthough the game is fairly clunky, the AI enemies are not stupid like contractors and not a fast paced shooter like zero caliber.  It’s more like tactical VR but you don’t need to be online to play tactically and ALOT more intuitive controls compared to Tactical VR.",
+      "date": 1739662346,
+      "review_helpful_count": 17,
+      "author_display_name": "Norseman2024",
+      "author_alias": "Norseman2024",
+      "developer_response": null
+    },
+    {
+      "id": "429482816696997",
+      "score": 5,
+      "review_title": "This game is so good",
+      "review_description": "This game is so good but I think it would be so much better if they added a pistol for when you run out of ammo for the M4\n but I would definitely recommend this game",
+      "date": 1716618301,
+      "review_helpful_count": 10,
+      "author_display_name": "Riley2007",
+      "author_alias": "Riley2007",
+      "developer_response": null
+    },
+    {
+      "id": "1105785167352062",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Nice. Looking. Game.  But. Needs. Work  ,A few. Glitch.   On first. Level   Could not. Open. Door. To. Finish. Game. ,  game. Need. Work. !",
+      "date": 1712612763,
+      "review_helpful_count": 9,
+      "author_display_name": "bigwillie125",
+      "author_alias": "bigwillie125",
+      "developer_response": {
+        "body": "Thanks for the feedback.\nDo you mean the tutorial or the city?\nIn the tutorial, the door opens after you shoot all of the targets, as does the last elevator in the city level.",
+        "date": 1713900730
+      }
+    },
+    {
+      "id": "879726640404027",
+      "score": 4,
+      "review_title": "Great Stealth Action",
+      "review_description": "For an early access game made by a solo developer it is pretty sweet. Task Force 9 is a single player game where you are a member of a special task force to bring down terrorist. You will also have the aid of an AI fire team partner you can strategical move through the game. This is not a run and gun game, you will have to move in silence and use strategy to take down your foes.\nThere is only a few missions to play right now, with more on the way. The few missions you do get feel pretty solid. You do things like using an enemy as a human shield, throw a magazine to distract the enemies and use your AI partner to clear rooms and secure them. I am really enjoying this game so far and can't wait for more levels.",
+      "date": 1700747220,
+      "review_helpful_count": 8,
+      "author_display_name": "IronbugVR",
+      "author_alias": "IronbugVR",
+      "developer_response": null
+    },
+    {
+      "id": "302106272434020",
+      "score": 2,
+      "review_title": "Game Broke After Update",
+      "review_description": "after i have updated the game to the latest version i can no longer start the game everything is blank when in the office at the very start",
+      "date": 1695579285,
+      "review_helpful_count": 3,
+      "author_display_name": "john.79",
+      "author_alias": "john.79",
+      "developer_response": {
+        "body": "Hi John,\n\nWe're pleased to inform you that a fix has been implemented to address the issue you reported. We sincerely apologize for any inconvenience this may have caused. Since this is a pre-release version, please be aware that there may be significant changes. This update encompasses a wide range of improvements that will be fully realized in the near future.\n\nYour feedback is highly valued, and we've taken your input into consideration. If you have a moment, we would greatly appreciate your thoughts on the updated version.\n\nFor further updates on this matter, please refer to our channel: https://discord.gg/gGYDPZsmVN.\n\nThank you for your understanding and patience.\n\nBest regards!",
+        "date": 1695619680
+      }
+    },
+    {
+      "id": "910753630839335",
+      "score": 5,
+      "review_title": "There is a bug",
+      "review_description": "In level 3 of exodus theres a glitch where i cant walk on the floor is that intentional?",
+      "date": 1709924968,
+      "review_helpful_count": 1,
+      "author_display_name": "ToastedLappy",
+      "author_alias": "ToastedLappy",
+      "developer_response": {
+        "body": "Hi, I'm not sure which door you're referring to, but if it's the first one, then yes, it's a lookout post for an alternative route from above. If you're still bothered by it or have any questions, you can reach me on Discord or by email.\nhttps://discord.gg/TNXg3Vvshv\ngooddaystudio.games@gmail.com",
+        "date": 1710177558
+      }
+    },
+    {
+      "id": "728654795949210",
+      "score": 5,
+      "review_title": "Lots of fun",
+      "review_description": "This is a great game. But don't think you can just run and gun through it. I tried. A lot. And failed. You have to use tactics, stealth and your partner. Overall lots of fun and mechanics you don't find in other similar games. Lots of fun and definitely challenging",
+      "date": 1699110181,
+      "review_helpful_count": 3,
+      "author_display_name": "mr.knowwon",
+      "author_alias": "mr.knowwon",
+      "developer_response": null
+    },
+    {
+      "id": "600571772619491",
+      "score": 5,
+      "review_title": "Fun game but",
+      "review_description": "On level 3 on exodus you phase throu the floor",
+      "date": 1736037020,
+      "review_helpful_count": 4,
+      "author_display_name": "duck_2839",
+      "author_alias": "duck_2839",
+      "developer_response": null
+    },
+    {
+      "id": "367203505919396",
+      "score": 5,
+      "review_title": "Great game, amazing Devs",
+      "review_description": "Great game, the devs work hard and listen to the players feedback, which is rare. Gameplay feels great, new things added/fixed with each update. Any fan of VR FPS games will enjoy this title.",
+      "date": 1706386460,
+      "review_helpful_count": 3,
+      "author_display_name": "Lord.Nikon.22",
+      "author_alias": "Lord.Nikon.22",
+      "developer_response": null
+    },
+    {
+      "id": "335223205704362",
+      "score": 5,
+      "review_title": "From MoNsTeR in discord",
+      "review_description": "This game is a fun game with simple yet beautiful mechanics. You do a lot of things right in this game then other game developers don’t, such as making the rooms look realistic with furniture, AI taking cover and having a fast player ttk. This game needs Multiplayer but for now it’s a perfect 5 for me and keep up the good work",
+      "date": 1696865859,
+      "review_helpful_count": 5,
+      "author_display_name": "MonsterB21",
+      "author_alias": "MonsterB21",
+      "developer_response": null
+    }
+  ],
+  "total": 18,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T10:27:55Z"
+}
