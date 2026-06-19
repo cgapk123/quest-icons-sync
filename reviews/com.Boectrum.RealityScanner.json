@@ -1,0 +1,184 @@
+{
+  "app_id": "7118579964857614",
+  "package_name": "com.Boectrum.RealityScanner",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Digitalizer",
+  "rating_average": 2.64,
+  "rating_count": 25,
+  "review_count": 13,
+  "reviews": [
+    {
+      "id": "904283222775076",
+      "score": 3,
+      "review_title": "Dont give up",
+      "review_description": "I am very curious as to how far the developer can take this app. As i do alot of 3d printing work and use several different scanners all pf which take alot of scanning to get a decent model. Be nice for these virtual headsets to atleast get a rough model.\n\nKeep working on it and ill keep checking in to see how far you are going. It will definitly be worth your while if you can get it scanning all objects on a plane like a table so you can select that plane and walk around the table to scan all the objects on it.\n\nVery interesting stuff.",
+      "date": 1768145911,
+      "review_helpful_count": 13,
+      "author_display_name": "Treyarder",
+      "author_alias": "Treyarder",
+      "developer_response": {
+        "body": "Hello!\n\nI agree, the unique approach Digitalizer takes to scanning technology is very innovative and has massive potential.\n\nI can confirm that mesh scanning is on the roadmap, and will unlock a world of scanning possibilities!\n\nPlease consider updating your review after making the most out of Digitalizer and upcoming features, and enjoy!",
+        "date": 1770328401
+      }
+    },
+    {
+      "id": "1456403359418484",
+      "score": 1,
+      "review_title": "Not sure if im missing something...",
+      "review_description": "I tried all the buttons, No menu, No explanation, in this app doesn't do anything. You wave your Wand Over objects and it turns them into super low poly figures made of cubes. And you can't do anything with it. I don't understand the point of this",
+      "date": 1768933221,
+      "review_helpful_count": 3,
+      "author_display_name": "DSOWmusic.com-Jayo",
+      "author_alias": "DSOWmusic.com-Jayo",
+      "developer_response": {
+        "body": "Hi 👋 \n\nThat sounds like Meta’s Depth API service had a malfunction.\n\nLikely being temporary, please ensure you have all camera permissions enabled and update to the latest version.\n\nIf that doesn’t fix it, please let me know and I will continue to investigate the issue thoroughly.\n\nThe intended experience offers extensive real time color scanning capabilities, AR/MR interaction and visualization, and 3D model exporting functionality for use in different software and applications.\n\nPlease update your review after getting to enjoy the Digitalizer experience and its utility sides.\n\nThank you!",
+        "date": 1770328785
+      }
+    },
+    {
+      "id": "1017446668113308",
+      "score": 1,
+      "review_title": "Freezes alot!",
+      "review_description": "i have had a lot of issues with this application every time i use it i have to shut down my system  because it makes it crash",
+      "date": 1770594961,
+      "review_helpful_count": 0,
+      "author_display_name": "Bcope2021",
+      "author_alias": "Bcope2021",
+      "developer_response": {
+        "body": "Hi!\n\nDuring my latest quality control and thorough testing, freezing or crashing did not occur on my Quest 3 device.\n\nThis hints at either faulty recent system updates, or being on an outdated version.\nPlease try updating to the latest OS version to fix potential stability problems, and try again.\n\nIf these issues persist for you, please let me know and I will do my best to address this - contact.worldlens.site\n\nPlease consider updating your review after getting to enjoy the bug-free scanning experience!",
+        "date": 1770733679
+      }
+    },
+    {
+      "id": "4113578905544543",
+      "score": 1,
+      "review_title": "Performance issues, unintuitive controls",
+      "review_description": "Yes, it works. You can scan your hand or room or whatever and get an .obj file--as long as the app doesn't hang or crash from scanning too much. Which actually happens quite often, possibly because the app is generating the voxels as you scan. The output can barely load on Windows' 3D Viewer, and Blender imports a single mesh of unculled triangulated cubes and over 900 materials.\n\nBesides this problematic lack of optimization, the controls are annoying once the novelty wears off. If you want to scan something, you have to \"scan\" it with the handheld \"scanner,\" even though your headset gets depth data from its front sensors. This is reasonable design for small objects or room scanning (using \"infinite range\" mode, I don't know how I triggered it), but unreasonable for my use case where I need the entire depth data from the headset's immediate position.\n\nI don't know, make a \"photo\" mode where the app just digitalizes the headset view and exports it. That would make things so much easier for me.",
+      "date": 1750169303,
+      "review_helpful_count": 17,
+      "author_display_name": "mc4539",
+      "author_alias": "mc4539",
+      "developer_response": {
+        "body": "Hi there!\n\nPerformance was decent (never below 60 fps) when I stress-tested everything, can you try updating Digitalizer / system version and try again?\n\nAs for the scanning itself - a brand new mesh mode is planned, keep an eye out as that should be exactly what you’re looking for!",
+        "date": 1765140021
+      }
+    },
+    {
+      "id": "705114582678780",
+      "score": 4,
+      "review_title": "Great idea, but needs improvements.",
+      "review_description": "The idea is great, but right now the app doesn't seem stable. Most of the time, it hangs (the video feed freezes) when scanning for a bit longer. I'm a bit disappointed that there appears to be a limit on how many voxels you can use. In the app itself, it looks like the oldest voxel cubes are removed and replaced with the newest ones. When you click Export, the app doesn't show any notification or progress - it just seems stuck, and it's unclear whether it's working or not. Ability to export to an actual 3D mesh instead of voxels would be superb!",
+      "date": 1749156894,
+      "review_helpful_count": 4,
+      "author_display_name": "GGodis",
+      "author_alias": "GGodis",
+      "developer_response": null
+    },
+    {
+      "id": "832344935784350",
+      "score": 1,
+      "review_title": "Dose not work",
+      "review_description": "What a waist of $$ can’t scan anything …",
+      "date": 1755573332,
+      "review_helpful_count": 1,
+      "author_display_name": "glennohagan",
+      "author_alias": "glennohagan",
+      "developer_response": {
+        "body": "Hey 👋 \n\nDigitalizer should currently be fully operational, if you have any issues, even if small, please reach out so I may help ASAP - contact.worldlens.site.",
+        "date": 1765139913
+      }
+    },
+    {
+      "id": "1013478027331965",
+      "score": 5,
+      "review_title": "Great idea, and it works!",
+      "review_description": "I purchased it for testing. The new 7 version works and I managed to scan and save .obj-file of my livingroom, using infinite range mode. Didn't have possibility to open it with other app, yet. The scanning is fast! I really like how you can choose which areas are scanned. It saves time and power.\n\nIt's THE 3D-scanning app for meta glasses.\n\nI could see many apps utilizing this functionality.\n\nSuggestions:\n\nBecause import folder limitation in other apps like Gravity Sketch and ShapeLab lite, I couldn't reach the folder where the scan is saved. If I could change the save-folder, I wouldn't need to connect my glasses to computer to move files inside the headset.\n\nCould the Digitalizer support Gaussian Splat method for photorealistic scans?\n\n\nImagine the not so distant future, walking in forest. Scanning some tree or rock. Editing it more or less, and sending the work to 3D-printer through cloud. Monitoring the printing through browser screen, all done with the headset. When you go home, the object might be allready 3D-printed. All the technology for that allready exists. Just need to make workflow possible between the Digitalizer, some 3D-modelling app and 3D-cloud printing services.",
+      "date": 1743228966,
+      "review_helpful_count": 27,
+      "author_display_name": "Taidex",
+      "author_alias": "Taidex",
+      "developer_response": null
+    },
+    {
+      "id": "9556437634484321",
+      "score": 5,
+      "review_title": "A great little app, I love it!",
+      "review_description": "This app is truly astounding!  It allows you to scan an object or voxel your environment in full color.  It is really fun use of the technology of the Quest device.\n\nIt is not perfect (the scan originates from the headset, not the controller, but you move the controller around to scan, which can be confusing at first, and you actually have to look at the side you are scanning - not what the controller is pointing at)\n\nI wish it could handle more points before old points start getting erased, and to switch into a VR mode to see what has been captured.\n\nPlease note, for a while this app did not work due to changes in the Quest API and that is likely where the 1 star ratings come from, this is now a 5 star app and fully functional!",
+      "date": 1747154798,
+      "review_helpful_count": 3,
+      "author_display_name": "panoram.io",
+      "author_alias": "panoram.io",
+      "developer_response": null
+    },
+    {
+      "id": "776765818258763",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Great app",
+      "date": 1754243936,
+      "review_helpful_count": 0,
+      "author_display_name": "CTYN2002",
+      "author_alias": "CTYN2002",
+      "developer_response": null
+    },
+    {
+      "id": "1028135352795453",
+      "score": 1,
+      "review_title": "It doesn't work",
+      "review_description": "It doesn't work, the saved file becomes an empty file, without geometry.",
+      "date": 1749239147,
+      "review_helpful_count": 1,
+      "author_display_name": "ACE_of_Time",
+      "author_alias": "ACE_of_Time",
+      "developer_response": {
+        "body": "Hi 👋 \n\nThis sounds like a File OS issue, can you please try again?\n\nIf it really doesn’t work for you, please reach out so we can investigate - contact.earthquest.site",
+        "date": 1756414259
+      }
+    },
+    {
+      "id": "665698796040292",
+      "score": 5,
+      "review_title": "Thank you all..",
+      "review_description": "Digitalizer is my 2nd Horizon Store app!\n\nEarthQuest being 1st, if you haven’t checked it out, you’re missing out on the best travel experience on the platform!",
+      "date": 1743457536,
+      "review_helpful_count": 5,
+      "author_display_name": "Boectrum",
+      "author_alias": "Boectrum",
+      "developer_response": null
+    },
+    {
+      "id": "676475811729726",
+      "score": 5,
+      "review_title": "Best scanning app in the Horizon Store.",
+      "review_description": "Let's you quickly scan your surroundings! with the option to change the voxel sizes.",
+      "date": 1743200407,
+      "review_helpful_count": 3,
+      "author_display_name": "AkshayCodes",
+      "author_alias": "AkshayCodes",
+      "developer_response": null
+    },
+    {
+      "id": "274211852438860",
+      "score": 3,
+      "review_title": "Cool technology",
+      "review_description": "This is a cool use of the quest 3, but it's a little annoying that you have to switch between hand tracking and controllers, and the scan itself seems like it originates from the headset, not the controller, and the scanner only scans the side of objects you're facing, even though it looks like it can scan all around an object.",
+      "date": 1711491193,
+      "review_helpful_count": 10,
+      "author_display_name": "B0WZEE",
+      "author_alias": "B0WZEE",
+      "developer_response": {
+        "body": "Hey 👋 \n\nDigitalizer is now built around multimodal hand and controller tracking! This means the menu problem you described is now resolved!!\n\nPlease consider updating your review, your feedback matters! 💙\n\nIf you have any questions or suggestions, feel free to join the community! - ( contact.earthquest.site )",
+        "date": 1743183786
+      }
+    }
+  ],
+  "total": 13,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-19T07:28:03Z"
+}
