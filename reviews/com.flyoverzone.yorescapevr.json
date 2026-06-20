@@ -1,0 +1,34 @@
+{
+  "app_id": "7486500954714347",
+  "package_name": "com.flyoverzone.yorescapevr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Yorescape",
+  "rating_average": 3.2222222222222,
+  "rating_count": 9,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "446298745243769",
+      "score": 1,
+      "review_title": "What’s going on?",
+      "review_description": "Not working at all",
+      "date": 1734646275,
+      "review_helpful_count": 5,
+      "author_display_name": "Parajumper",
+      "author_alias": "Parajumper",
+      "developer_response": {
+        "body": "Hello,\n\nSorry to hear you are running into issues! Could you send us an email at contact@flyoverzone.com? We'd love to help get to the bottom of this.\n\n- The Yorescape Team",
+        "date": 1738012706
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T04:40:32Z"
+}

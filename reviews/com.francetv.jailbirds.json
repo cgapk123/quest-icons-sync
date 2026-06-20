@@ -1,0 +1,45 @@
+{
+  "app_id": "5928667770590251",
+  "package_name": "com.francetv.jailbirds",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Jailbirds",
+  "rating_average": 4.25,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1223300388882990",
+      "score": 5,
+      "review_title": "Wonderful",
+      "review_description": "I love what I can see and figure out but like the other review, I too cannot speak French. I love the graphics and the way this was created. For the creators of this adventure. I live in Texas in the United States.",
+      "date": 1727508656,
+      "review_helpful_count": 2,
+      "author_display_name": "Mushroomies",
+      "author_alias": "Mushroomies",
+      "developer_response": null
+    },
+    {
+      "id": "435831766272784",
+      "score": 4,
+      "review_title": "Where is the language button?",
+      "review_description": "Great graphics and music! But unfortunately I haven't figured out how to change the language, so I could only watch it in French (which I don't understand).",
+      "date": 1725170530,
+      "review_helpful_count": 5,
+      "author_display_name": "elimi",
+      "author_alias": "elimi",
+      "developer_response": {
+        "body": "Hi Elimi, where are you from? The app is supposed to be only available in France, in french language. Jailbirds is also available on other platforms as a 6 dof experience in english. Thank you.",
+        "date": 1725270255
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T04:44:59Z"
+}

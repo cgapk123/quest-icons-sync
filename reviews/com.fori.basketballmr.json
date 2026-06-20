@@ -1,0 +1,42 @@
+{
+  "app_id": "23991596023803187",
+  "package_name": "com.fori.basketballmr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Basketball",
+  "rating_average": 4.3333333333333,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1368794871647717",
+      "score": 5,
+      "review_title": "Excellent physics make this a real stea!",
+      "review_description": "A ball. A hoop. And great physics. Perfect for shooting some casual hoops in your own front room. Would love higher frame rate and better ball model, but not a dealbreaker at this price. Highly recommend.",
+      "date": 1765849684,
+      "review_helpful_count": 1,
+      "author_display_name": "gregan78",
+      "author_alias": "gregan78",
+      "developer_response": null
+    },
+    {
+      "id": "1221066369848170",
+      "score": 5,
+      "review_title": "Simple & fun",
+      "review_description": "Great MR hoops experience. I've tried similar games and they tend to be \"overengineered\". This one is beautiful in it's simplicity. Easily recommended!",
+      "date": 1761390918,
+      "review_helpful_count": 2,
+      "author_display_name": "grecocity",
+      "author_alias": "grecocity",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T04:42:51Z"
+}

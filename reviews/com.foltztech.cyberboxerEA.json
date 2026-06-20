@@ -1,0 +1,95 @@
+{
+  "app_id": "24018255321201470",
+  "package_name": "com.foltztech.cyberboxerEA",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Cyber Boxer",
+  "rating_average": 4.5,
+  "rating_count": 8,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "2750085725352692",
+      "score": 5,
+      "review_title": "Seriously impressive solo dev work",
+      "review_description": "I was genuinely impressed by Cyber Boxer. It’s clear a lot of care, skill, and passion went into building this, and it really shows in the experience. The cardio flow is fun, energetic, and gets your heart rate up in a way that feels both engaging and rewarding.\n\nWhat stood out most to me is that this was created by a solo developer. That makes what’s here even more impressive. You can feel the creativity and dedication behind it.\n\nIf you’re into VR fitness or just curious what a passionate indie developer can accomplish, this is absolutely worth checking out. Excited to see where this goes next!",
+      "date": 1774821177,
+      "review_helpful_count": 1,
+      "author_display_name": "jobjstauffer",
+      "author_alias": "jobjstauffer",
+      "developer_response": null
+    },
+    {
+      "id": "751101821421566",
+      "score": 5,
+      "review_title": "UPDATE - Fixed issue on Quest 2",
+      "review_description": "In my last review I wrote about a bug that made the game unplayable for me on my Quest 2. The developer reached out to me and fixed the issue, and sent me a free copy to try it again. After playing the game, I can say it's pretty fun, and a good workout. Plus the rythm style gameplay also adds to the fun factor. Check it out!",
+      "date": 1755612223,
+      "review_helpful_count": 1,
+      "author_display_name": "BubblyMantisShrimp100",
+      "author_alias": "BubblyMantisShrimp100",
+      "developer_response": null
+    },
+    {
+      "id": "1292644445552228",
+      "score": 1,
+      "review_title": "This is not it",
+      "review_description": "I have over 200 vr games and this might be the least effort game I’ve ever played. I don’t like leaving bad reviews but this is like the game you play on a browser when your internet is down. The hits are lagged, you don’t even know if you’re hitting or not, your fists go right through, the graphics are more basic than anything I’ve ever seen, I think it’s the easiest refund of any game I’ve ever played. The music that I tried was good though, but there’s only 2 tracks unlocked and I’m not sure there’s much more anyway…",
+      "date": 1753994241,
+      "review_helpful_count": 0,
+      "author_display_name": "Skillexx",
+      "author_alias": "Skillexx",
+      "developer_response": {
+        "body": "Hello! I'm the solo developer of this game. Thank you for your review. It helps shape the game as I develop it. Your review is a clear indicator that I do not have the TUTORIAL button close enough to the start button, and that some people will miss it and not realize how to play the game. In the next update, I will make visible text with instructions for each game mode, as well as move the TUTORIAL button directly under the START button.\n\nI'd like to address a few of the things you've said in this review, as they are not true. The game functions as should. You have to hit blue targets with your right hand, and red targets with your left. There is a button labeled TUTORIAL to the right of the START button that explains how to play the game. If targets are phasing through your hand, it's becasue you are not hitting the correct target with the correct hand. If you hit the targets correctly, theywill always explode. If you connect the wrong hand to the wrong target, the target will go through your glove and reset the current combo. As for graphics, this game is in early access, meaning there are major changes coming to both UI, Graphics, Game Modes, etc. The EARLY ACCESS version of the game comes with 5 songs, 2 unlocked from the start (There are 15 more songs being made by the music artist for the game as we speak that will be added over the coming weeks). There is a known desync issue right now that can happen on quest headsets.  that is being addressed right now to be patched next update.\n\nThank you for your feedback. It helps me improve the game into something people can enjoy.\n\n-Joseph",
+        "date": 1754029284
+      }
+    },
+    {
+      "id": "756983240824843",
+      "score": 5,
+      "review_title": "I can fight !",
+      "review_description": "Dope game . Learning how to box better and my cardio is going up . I can fight now !",
+      "date": 1754633672,
+      "review_helpful_count": 1,
+      "author_display_name": "Mr.Amazin",
+      "author_alias": "Mr.Amazin",
+      "developer_response": null
+    },
+    {
+      "id": "714290371770694",
+      "score": 5,
+      "review_title": "Lot of fun!",
+      "review_description": "Love how it teaches you to keep your hands up by your face using proper boxing form. Good luck hitting some of those quick combinations if your hands are down below your chin!",
+      "date": 1753851571,
+      "review_helpful_count": 1,
+      "author_display_name": "jake.735111",
+      "author_alias": "jake.735111",
+      "developer_response": {
+        "body": "Thank you! I'm glad you enjoy the game! There's new updates coming soon including a new game mode!\n\n-Joseph",
+        "date": 1754020483
+      }
+    },
+    {
+      "id": "756229370899138",
+      "score": 5,
+      "review_title": "Love this! Great shadow boxing workout!",
+      "review_description": "This is so fun! Exactly what ive been looking for:)",
+      "date": 1753827961,
+      "review_helpful_count": 1,
+      "author_display_name": "OMG_ITS_KENDRA",
+      "author_alias": "OMG_ITS_KENDRA",
+      "developer_response": {
+        "body": "Thank you for your feedback! Glad to hear you enjoy the game!",
+        "date": 1754020512
+      }
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T04:41:19Z"
+}
