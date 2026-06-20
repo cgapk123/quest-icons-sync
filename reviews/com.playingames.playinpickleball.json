@@ -1,0 +1,969 @@
+{
+  "app_id": "5276176159145627",
+  "package_name": "com.playingames.playinpickleball",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Pickleball One",
+  "rating_average": 4.4376278118609,
+  "rating_count": 489,
+  "review_count": 361,
+  "reviews": [
+    {
+      "id": "36399219492996589",
+      "score": 5,
+      "review_title": "Amazing fun",
+      "review_description": "I’ve never been able to play pickleball irl, with having limited courts with where I live. This has given me the opportunity to learn how to play, and lets me get some exercise at the same time. I haven’t seen many people online, but since I’m just now learning how to play, the ai is giving me a good challenge. Definitely recommend this app for anyone looking to get into the sport",
+      "date": 1779324024,
+      "review_helpful_count": 5,
+      "author_display_name": "SprayinAllDay",
+      "author_alias": "SprayinAllDay",
+      "developer_response": {
+        "body": "Thanks for the kind review! Summer months are a bit slow but to find players please join in the evenings - especially on Thursday and Sunday evenings when there are Open Play matches.",
+        "date": 1779384084
+      }
+    },
+    {
+      "id": "1086669621201881",
+      "score": 4,
+      "review_title": "Great pickleball training tool",
+      "review_description": "I am an avid pickleball player playing 3-4 days per week including competitive league and tournament play.  Beyond just being a truly enjoyable game to play, Pickleball One has been a strong training tool for my on the court game as well. The physics are overall pretty realistic.  Top spin, slice and side spin are all fairly true to how they react IRL.  I find that where the game is most beneficial is in practicing hand speed, court positioning and ball placement strategy (especially in 1v1/singles).   As the AI opponents can “get” to almost any ball, it really forces you to be strategic with your shot placement.  That being said, there are definitely some areas where I would love to see some development to take it to the next level.  Some of these may be beyond the scope of where the game is headed but a man can hope.\n\n• Let me choose to be right side or left side player to start a game as opposed to being forced to the start as the right side.\n• There are regularly balls that come through the “middle” that all of sudden your paddle just can’t get to that you could on a previous shot that was not quite middle.\n• I’ve experimented with the FormX adapter and while it is definitely helpful, I would love to see some way to have an adapter or adjust gameplay to allow for using a two-handed backhand.\n• In an advanced mode, let me be positioned to attempt an ATP or Erne when play would lead to these shots.\n• Add a body bag mechanic!  So frustrating watching a shot that would be a winner as it would hit the opponent in the chest, instead sail right through their body.",
+      "date": 1778728066,
+      "review_helpful_count": 3,
+      "author_display_name": "ThePickleBeard",
+      "author_alias": "ThePickleBeard",
+      "developer_response": {
+        "body": "Thanks for the detailed feedback. We will consider all of your suggestions.\n\nSince you are clearly serious about pickleball training, you should definitely check out PickleDrill360 on the Meta Quest Store.\n\nIt is our new Mixed Reality training system designed specifically to help players get high quality reps on all the major shot types and build real consistency through drilling. Unlike Pickleball One, PickleDrill360 requires a Meta Quest 3 or 3S because the entire experience is built around Mixed Reality and real physical movement in your space.\n\nRight now, the drills are primarily ball machine based, allowing you to focus on repetition, footwork, timing, and shot execution. We also have AI partner drills on the roadmap for later this summer.\n\nAnother big advantage is that PickleDrill360 fully supports two handed backhands and ambidextrous play. Feel free to check out www.pickledrill360.com or email hello@pickledrill360.com for more details.",
+        "date": 1778852038
+      }
+    },
+    {
+      "id": "1163577236829301",
+      "score": 4,
+      "review_title": "Great, but ...",
+      "review_description": "Overall this is the best pickleball sim I've tried. The physics are pretty realistic; definitely close enough to scratch that itch. \nThe training modes are solid and the spin/speed is about as realistic as you can ask for. \n\nMy 2 big gripes: \n1) lack of ambidextrous mode. I would like to be able to hand off the paddle to train both hands at the same time. I can use the ball machine on one hand, then swap in the menu after a while, but allowing me to swap hands while pressing middle trigger or something would be top tier.\n\n2) (the bigger complaint) I have a limited space, but I can line it up to meet the needs for a game pretty easily. The problem is that when in training modes or in a match you get teleported back to the starting spot. I wish there was an option to disable the auto teleport. If I need to move I can use the joystick or wall in the physical space. \nThe problem with auto teleport is that without MR in training/matches it's hard to keep track of my physical space and I end up whacking the bejebers out of my hand on a desk corner. \n\nTl;Dr: wonderful game, but could be perfect with a few small tweaks",
+      "date": 1778632887,
+      "review_helpful_count": 2,
+      "author_display_name": "bengineer700",
+      "author_alias": "bengineer700",
+      "developer_response": {
+        "body": "Excellent thoughtful feedback, much appreciated. \n1. If you want ambidextrous play and are serious about pickleball training, please checkout PickleDrill360 in the Meta Quest Store. It is completely in MR and allows you to switch hands, do two handed backhands, etc. Quest 3 or 3S is required.\n2. In VR, please look for and stand on the X on the ground, it will help you physically stay on the correct physical starting position.",
+        "date": 1778710610
+      }
+    },
+    {
+      "id": "972365479066648",
+      "score": 5,
+      "review_title": "Love the Pickle Ball App",
+      "review_description": "I loved learning how to play pickle ball by playing in this app.  We laughed so hard when we figured out the confetti celebration move.  I love and Alabama and have a sister in California and we are able to play and catch up while we play.",
+      "date": 1776283658,
+      "review_helpful_count": 4,
+      "author_display_name": "kat.o.kl1sm",
+      "author_alias": "kat.o.kl1sm",
+      "developer_response": {
+        "body": "Glad you are enjoying the game! Thanks for letting us know. You made our day :-).",
+        "date": 1776303952
+      }
+    },
+    {
+      "id": "1604155717499274",
+      "score": 5,
+      "review_title": "Fun and engaging",
+      "review_description": "Pickleball one app is one of the best on the quest 3 headset it keeps the content fresh and always has updates and activities to participate in and is a good form of exercise lol, this game has so much to offer and was money well spent for my vr collection of games.",
+      "date": 1774574789,
+      "review_helpful_count": 6,
+      "author_display_name": "Namelessfrce",
+      "author_alias": "Namelessfrce",
+      "developer_response": null
+    },
+    {
+      "id": "1214931005027691",
+      "score": 5,
+      "review_title": "Best Game for Training",
+      "review_description": "I use this game to train for real life when i cant go and it is very good, would recommend for beginners",
+      "date": 1780786164,
+      "review_helpful_count": 1,
+      "author_display_name": "SebaMoral",
+      "author_alias": "SebaMoral",
+      "developer_response": null
+    },
+    {
+      "id": "1345797084106601",
+      "score": 5,
+      "review_title": "So much fun.",
+      "review_description": "Easy to use. Great way to learn the rules of Pickleball\n\n\n\n\n\n\nFun game.",
+      "date": 1779811778,
+      "review_helpful_count": 2,
+      "author_display_name": "Illiad-",
+      "author_alias": "Illiad-",
+      "developer_response": null
+    },
+    {
+      "id": "4342204006107328",
+      "score": 4,
+      "review_title": "Fun game with friends",
+      "review_description": "I've had so much fun playing this game with friends especially when it's raining outside and we can't play the real thing at our normal spot. I find the physics really true to real life",
+      "date": 1779553728,
+      "review_helpful_count": 0,
+      "author_display_name": "ChirpChum",
+      "author_alias": "ChirpChum",
+      "developer_response": null
+    },
+    {
+      "id": "1476091530569211",
+      "score": 5,
+      "review_title": "Go-to game for some exercise!",
+      "review_description": "There’s something most of these games miss, whether it’s in a realistic mode or arcade mode, its accuracy. So many top racquet games just don’t behave the way you expect them to when you try certain shots or angles, or give you an accurate reaction based on your input. For Pickleball, this is the one that does it for me, so much so that I’m looking for a good pickleball/tennis attachment for the controller.",
+      "date": 1773000202,
+      "review_helpful_count": 7,
+      "author_display_name": "PoetDameron",
+      "author_alias": "PoetDameron",
+      "developer_response": null
+    },
+    {
+      "id": "1272241105123503",
+      "score": 5,
+      "review_title": "Good App",
+      "review_description": "Enjoying the app. Nice to have when no one is able to play the real thing.",
+      "date": 1779492240,
+      "review_helpful_count": 2,
+      "author_display_name": "FerdDeb",
+      "author_alias": "FerdDeb",
+      "developer_response": null
+    },
+    {
+      "id": "1130567930130299",
+      "score": 5,
+      "review_title": "Great Pickleball Game",
+      "review_description": "Pickleball One offers one of the best sport games that I had experienced. Realistic and I enjoyed the training mode, as it give me a good workout while practicing at the same time. Highly recommended.",
+      "date": 1774465212,
+      "review_helpful_count": 7,
+      "author_display_name": "davidkmg",
+      "author_alias": "davidkmg",
+      "developer_response": null
+    },
+    {
+      "id": "918144047636022",
+      "score": 5,
+      "review_title": "Best Pickleball simulation on the market",
+      "review_description": "I bought Pickleball One and it is a fantastic simulator. I highly recommend it for all pickleball players in irl. The training module's colored zones are great for highly targeted focus on shot placement. It's also fun to play with people all over the world. I frequently have games with internationals outside of the US.  The physics are top notch and quite realistic In fact, I have several times found myself almost forgetting that I was in a virtual world.",
+      "date": 1771550166,
+      "review_helpful_count": 11,
+      "author_display_name": "DowHarris",
+      "author_alias": "DowHarris",
+      "developer_response": {
+        "body": "Thank you so much! Making the experience fun yet realistic is what we strive for. Thanks again. Reading this is a huge boost for our team.",
+        "date": 1771616485
+      }
+    },
+    {
+      "id": "976961191959861",
+      "score": 5,
+      "review_title": "Obie1973",
+      "review_description": "Have been a pickleball lover for a couple yrs maybe more on this app. Love it as you can see from the amount of time spent  playing!",
+      "date": 1776282414,
+      "review_helpful_count": 4,
+      "author_display_name": "Obie1973",
+      "author_alias": "Obie1973",
+      "developer_response": null
+    },
+    {
+      "id": "999892053216484",
+      "score": 1,
+      "review_title": "Terrible learning curve",
+      "review_description": "Tried to play for about 45 minutes through tutorial and hitting balls off the machine and got a pretty good feel for it. Then tried to play a match with AI opponent on easy when I felt ready and got destroyed two times in a row without being able to score a single point. I know I’m not a regular gamer but there should be some grace for people new to s*** like this, I was literally hitting balls fine once I got the hang of it off the machine and then playing the AI opponent on “easy” shouldn’t have been as ridiculously difficult as it was. Waste of money I won’t be getting back.",
+      "date": 1775801993,
+      "review_helpful_count": 0,
+      "author_display_name": "Randerson138",
+      "author_alias": "Randerson138",
+      "developer_response": {
+        "body": "Hmm, that's strange. Not sure what happened. Were you able to get into a rally with the AI? On Easy mode, they usually miss after a couple shots. Feel free to email support@playingames.net and we can meet you in VR, hit casually and discuss what happened and also give some tips. Don't give up, it's really fun. Just ping us.",
+        "date": 1775831281
+      }
+    },
+    {
+      "id": "953687563923951",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Love this game! Play it almost every day…rain, snow, hot weather…still get some exercise in. \nHighly recommend.",
+      "date": 1776260858,
+      "review_helpful_count": 4,
+      "author_display_name": "lakeside099",
+      "author_alias": "lakeside099",
+      "developer_response": null
+    },
+    {
+      "id": "1261677842830264",
+      "score": 5,
+      "review_title": "Like it",
+      "review_description": "I dnjoy that it gives a level of challenge just enough so its not robotic but not overwhelming. I play to randomly stay active. Would easily recommend.",
+      "date": 1774455436,
+      "review_helpful_count": 6,
+      "author_display_name": "iigeo2",
+      "author_alias": "iigeo2",
+      "developer_response": null
+    },
+    {
+      "id": "1080515731814786",
+      "score": 5,
+      "review_title": "Best picklegame by far",
+      "review_description": "This is the closest to reality pickleball game i played so far!",
+      "date": 1776827413,
+      "review_helpful_count": 4,
+      "author_display_name": "noj.26",
+      "author_alias": "noj.26",
+      "developer_response": null
+    },
+    {
+      "id": "1022791534256751",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "This game is awesome, an the meeting new people adds to this. I had reservation about it at first but super happy with it",
+      "date": 1774477054,
+      "review_helpful_count": 7,
+      "author_display_name": "spicydrottning",
+      "author_alias": "spicydrottning",
+      "developer_response": null
+    },
+    {
+      "id": "1313712983925665",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "I bought this game last year because of the price and the good reviews. At 1st I had a few problems with the game but customer support was fast and was able solve it very quickly. It’s not 100% like playing for real thing but it does teach you the basics and it helped my wife with her back swing. I highly recommend this game.",
+      "date": 1771267141,
+      "review_helpful_count": 8,
+      "author_display_name": "Toxicavenger2020",
+      "author_alias": "Toxicavenger2020",
+      "developer_response": {
+        "body": "please email support@playingames.net with the exact issue that you are facing. Certainly, the scoreboard should show up in all scenarios - including private multiplayer matches. Do email us and we can work with you to get this straightened out, in case there is any issue.",
+        "date": 1770949625
+      }
+    },
+    {
+      "id": "1435505121320668",
+      "score": 4,
+      "review_title": "Love so much, except ranking.",
+      "review_description": "I absolutely love playing Pickleball One! The training modules are so helpful for my game, and I really enjoy playing against other people and trying out all the different mini-games. It’s such a fun way to practice when I’m not on the physical courts! 👟✨\nThe only reason I’m giving it 4 stars instead of 5 is the ranked match system. 😔 I’ve tried so many times to get into a ranked match to play where it actually counts, but I end up just hitting the ball back and forth with the AI for 15+ minutes waiting for a connection. I’ve actually never successfully gotten into a ranked match! If the matchmaking was faster and more reliable, this would easily be a 5-star app.",
+      "date": 1776190557,
+      "review_helpful_count": 6,
+      "author_display_name": "made_of_lightning",
+      "author_alias": "made_of_lightning",
+      "developer_response": null
+    },
+    {
+      "id": "1074676359061646",
+      "score": 5,
+      "review_title": "Good, not fully realistic but almost.",
+      "review_description": "I like it,need practice and calibration .",
+      "date": 1776300654,
+      "review_helpful_count": 3,
+      "author_display_name": "FPT62",
+      "author_alias": "FPT62",
+      "developer_response": null
+    },
+    {
+      "id": "1263932522381867",
+      "score": 5,
+      "review_title": "Fun game",
+      "review_description": "Always a lot of fun! I like playing with the bots!",
+      "date": 1774405010,
+      "review_helpful_count": 5,
+      "author_display_name": "ColorMeRosie",
+      "author_alias": "ColorMeRosie",
+      "developer_response": null
+    },
+    {
+      "id": "1014689041737582",
+      "score": 5,
+      "review_title": "Pickle ball",
+      "review_description": "Great way to learn the game and rules",
+      "date": 1777922294,
+      "review_helpful_count": 1,
+      "author_display_name": "jdhartbreak.2023",
+      "author_alias": "jdhartbreak.2023",
+      "developer_response": null
+    },
+    {
+      "id": "2569624340107370",
+      "score": 5,
+      "review_title": "Fun to play.",
+      "review_description": "You're going to have so much fun,  great fun for young and old.",
+      "date": 1776366148,
+      "review_helpful_count": 3,
+      "author_display_name": "RayHagen",
+      "author_alias": "RayHagen",
+      "developer_response": null
+    },
+    {
+      "id": "1624423845268059",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Exercise without leaving home",
+      "date": 1774485584,
+      "review_helpful_count": 5,
+      "author_display_name": "Avengers_Assemble",
+      "author_alias": "Avengers_Assemble",
+      "developer_response": null
+    },
+    {
+      "id": "1367670055381955",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "The dinking mechanics is spot on and compares closely to irl. The forehanded and backhanded drives needs so adjusting due to fixed racket face",
+      "date": 1771752068,
+      "review_helpful_count": 6,
+      "author_display_name": "bohyeur07",
+      "author_alias": "bohyeur07",
+      "developer_response": {
+        "body": "Thanks for playing our game. We are very happy that you are enjoying it! \nIf you would like to rotate the paddle face, you can do so with the \"Paddle Rotation\" setting: https://pickleballone.app/help/settings/paddle-select/ \nAny further doubts, feel free to email us at: support@playingames.net",
+        "date": 1771868793
+      }
+    },
+    {
+      "id": "1115642551626443",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "Great game with really good physics. A small room scale court would be fun .",
+      "date": 1774954672,
+      "review_helpful_count": 2,
+      "author_display_name": "MattLeeee",
+      "author_alias": "MattLeeee",
+      "developer_response": null
+    },
+    {
+      "id": "978274081540521",
+      "score": 5,
+      "review_title": "Pickleball One",
+      "review_description": "Excellent sports game that also can give you a workout.",
+      "date": 1774505649,
+      "review_helpful_count": 3,
+      "author_display_name": "Fandore",
+      "author_alias": "Fandore",
+      "developer_response": null
+    },
+    {
+      "id": "944732501563693",
+      "score": 5,
+      "review_title": "Great game!",
+      "review_description": "Super realistic and great for getting the body up and moving!",
+      "date": 1773083776,
+      "review_helpful_count": 5,
+      "author_display_name": "ifly4food2",
+      "author_alias": "ifly4food2",
+      "developer_response": null
+    },
+    {
+      "id": "1058444654022004",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "This is a great fun game of Pickle ball.",
+      "date": 1775264884,
+      "review_helpful_count": 2,
+      "author_display_name": "GoofyKoala.Mike55",
+      "author_alias": "GoofyKoala.Mike55",
+      "developer_response": null
+    },
+    {
+      "id": "1007402485145202",
+      "score": 4,
+      "review_title": "Realistic and fun.",
+      "review_description": "I haven't played as much as I hoped but have really enjoyed learning the game. Not bad for practice and realistic physics.",
+      "date": 1776358120,
+      "review_helpful_count": 0,
+      "author_display_name": "Gray730",
+      "author_alias": "Gray730",
+      "developer_response": null
+    },
+    {
+      "id": "959420433931047",
+      "score": 4,
+      "review_title": "Good and enjoyable",
+      "review_description": "I,ve played pickleball briefly a few years ago but play a lot of padel so i thought i,d try it....pleasantly surprised the only element i found a bit wierd is the ball reaction off the bat otherwise pretty good.",
+      "date": 1773510625,
+      "review_helpful_count": 0,
+      "author_display_name": "dodger.234950",
+      "author_alias": "dodger.234950",
+      "developer_response": null
+    },
+    {
+      "id": "2041007963960941",
+      "score": 4,
+      "review_title": "awesome game",
+      "review_description": "I really enjoy it. xD",
+      "date": 1776365073,
+      "review_helpful_count": 0,
+      "author_display_name": "acidsound",
+      "author_alias": "acidsound",
+      "developer_response": null
+    },
+    {
+      "id": "1061847527007612",
+      "score": 5,
+      "review_title": "New to pickleball",
+      "review_description": "Seems pretty good so far.",
+      "date": 1774562489,
+      "review_helpful_count": 3,
+      "author_display_name": "KhatTrix",
+      "author_alias": "KhatTrix",
+      "developer_response": null
+    },
+    {
+      "id": "1006119655928419",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "I love it",
+      "date": 1774531356,
+      "review_helpful_count": 3,
+      "author_display_name": "wktfranky",
+      "author_alias": "wktfranky",
+      "developer_response": null
+    },
+    {
+      "id": "1328298809121055",
+      "score": 4,
+      "review_title": "Good trainer",
+      "review_description": "I got this to learn the basics of the game because my sister and her partner have a pickleball court on their property. Not an easy sport.",
+      "date": 1774448025,
+      "review_helpful_count": 0,
+      "author_display_name": "TraceFace59",
+      "author_alias": "TraceFace59",
+      "developer_response": null
+    },
+    {
+      "id": "1055584860960431",
+      "score": 5,
+      "review_title": "I like the fitness routines too",
+      "review_description": "I like the fitness routines too since I have lower back issues. I enjoy the challenges of solo play also.",
+      "date": 1771374043,
+      "review_helpful_count": 6,
+      "author_display_name": "SFYMCA",
+      "author_alias": "SFYMCA",
+      "developer_response": null
+    },
+    {
+      "id": "1002161102981250",
+      "score": 5,
+      "review_title": "10/10",
+      "review_description": "Very realistic",
+      "date": 1773080875,
+      "review_helpful_count": 5,
+      "author_display_name": "3th4nn",
+      "author_alias": "3th4nn",
+      "developer_response": null
+    },
+    {
+      "id": "1047103741816587",
+      "score": 5,
+      "review_title": "I love ir",
+      "review_description": "i absolutely love it",
+      "date": 1772999373,
+      "review_helpful_count": 5,
+      "author_display_name": "acekylberg",
+      "author_alias": "acekylberg",
+      "developer_response": null
+    },
+    {
+      "id": "1041742092353763",
+      "score": 3,
+      "review_title": "Fun",
+      "review_description": "Needs a big area to play but fun! Movement is tricky to get used to.",
+      "date": 1774453711,
+      "review_helpful_count": 0,
+      "author_display_name": "HeyKarnage",
+      "author_alias": "HeyKarnage",
+      "developer_response": {
+        "body": "You only need about a 6 ft × 6 ft space to play comfortably. There are three movement modes available, so once you’re on the court, press the pause button on the left controller to try each one and see what works best for you. Regardless of the mode, you should only need to move about 1–2 feet from your starting position. Look for the X on the floor to know where to stand. If you need help, please feel free to contact us at support@playingames.net",
+        "date": 1774472218
+      }
+    },
+    {
+      "id": "905617731877474",
+      "score": 5,
+      "review_title": "👍",
+      "review_description": "I love it\nonly a couple of glitches but not bad",
+      "date": 1771206105,
+      "review_helpful_count": 6,
+      "author_display_name": "J_J06",
+      "author_alias": "J_J06",
+      "developer_response": null
+    },
+    {
+      "id": "1034455993075726",
+      "score": 5,
+      "review_title": "Great game!",
+      "review_description": "Realistic. Excellent practice and fitness modes. Lots if fun!",
+      "date": 1771170405,
+      "review_helpful_count": 6,
+      "author_display_name": "TDub1977",
+      "author_alias": "TDub1977",
+      "developer_response": null
+    },
+    {
+      "id": "1759884381635781",
+      "score": 4,
+      "review_title": "Great game, needs tweaks",
+      "review_description": "This game is a great \"game\" version of pickleball. The spin physics are a little rough and you have to hit the ball jussssst right to achieve the spin you want, definitely takes getting used to. Outside of that, fun game and nice community. Definitely scratches the itch enough if I can't get my courts",
+      "date": 1765153236,
+      "review_helpful_count": 5,
+      "author_display_name": "mehcromancer",
+      "author_alias": "mehcromancer",
+      "developer_response": null
+    },
+    {
+      "id": "1348526320298989",
+      "score": 5,
+      "review_title": "Top 2 pickleball games",
+      "review_description": "The physics on this feel solid, and you can practice many skills and play AI opponents etc \n\nThis is one of the top 2 pickleball games. I tried all 4 of the major games as of 10/2025, and this is top 2. I'd recommend this one and the other game that just has pickleball in the title. Both games have strengths and weaknesses in comparison to each other but both are the best by far.",
+      "date": 1762291951,
+      "review_helpful_count": 34,
+      "author_display_name": "RDF-DarkMoon",
+      "author_alias": "RDF-DarkMoon",
+      "developer_response": null
+    },
+    {
+      "id": "938374162673088",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "I play PB all the time and find POne an excellent game. I put controllers in bar handles and add lead strips to simulate real paddle weight. Works great. Honestly my game.",
+      "date": 1765727910,
+      "review_helpful_count": 7,
+      "author_display_name": "DeafBoy666",
+      "author_alias": "DeafBoy666",
+      "developer_response": {
+        "body": "very cool! Please share a picture on our Discord - Pickleball One.",
+        "date": 1765754750
+      }
+    },
+    {
+      "id": "900671355953234",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "This game is so much fun!!",
+      "date": 1767055509,
+      "review_helpful_count": 6,
+      "author_display_name": "Bella_3628",
+      "author_alias": "Bella_3628",
+      "developer_response": null
+    },
+    {
+      "id": "818856217543984",
+      "score": 4,
+      "review_title": "I have still confused",
+      "review_description": "I am loving this Pickleball game even though I'm not good at it yet. My concern is when I enter a live Match, I am the only server. My opponent is just there to rally. They don't get the opportunity to serve. It is so confusing and doesn't simulate an actual game. When I set it to play against the AI, it's a real game. I can record a short video, if needed.",
+      "date": 1762528171,
+      "review_helpful_count": 4,
+      "author_display_name": "Godzraregold",
+      "author_alias": "Godzraregold",
+      "developer_response": {
+        "body": "Hi Godzraregold, please reach out anytime at support@playingames.net. Once you enter a live match with another person, the host should press the pause button on their left-hand controller and click Start Match.  Then the scoring, both sides serving, etc. will start.",
+        "date": 1762550202
+      }
+    },
+    {
+      "id": "1251183750364208",
+      "score": 5,
+      "review_title": "Best game for beginner",
+      "review_description": "Everything is fine, but i wish you could add more fitness modes that are beginner friendly",
+      "date": 1764824049,
+      "review_helpful_count": 6,
+      "author_display_name": "killo9",
+      "author_alias": "killo9",
+      "developer_response": {
+        "body": "Thanks for your feedback. Yeah, the fitness modes are a bit intense! \nWe will look into this.",
+        "date": 1764852905
+      }
+    },
+    {
+      "id": "2636341956699188",
+      "score": 5,
+      "review_title": "Excellent physics",
+      "review_description": "Had since first came out. Physics are excellent. Very well maintained and updated. Very Pleased. Would highly recommend!",
+      "date": 1763835822,
+      "review_helpful_count": 7,
+      "author_display_name": "tadewoosh",
+      "author_alias": "tadewoosh",
+      "developer_response": {
+        "body": "Thank you for being a long-term player and supporter!  Folks like you inspire us to keep adding more value.",
+        "date": 1763871343
+      }
+    },
+    {
+      "id": "1180090954245178",
+      "score": 1,
+      "review_title": "Form X Design Paddle Ruined This Game",
+      "review_description": "Game is awesome!\n\nDo not buy the Form X Design paddle! The lock mechanism broke and my control went flying. Only had it for 2 months!!!",
+      "date": 1767003508,
+      "review_helpful_count": 0,
+      "author_display_name": "OctoUltraArch",
+      "author_alias": "OctoUltraArch",
+      "developer_response": {
+        "body": "Sorry, to hear that.  Please leave only reviews of the Game here (not for 3rd party hardware accessories).  Please reach out to FormX on their website and leave a review there if you like. https://formx.design/products/pickleballone",
+        "date": 1767063430
+      }
+    },
+    {
+      "id": "1359507399040992",
+      "score": 5,
+      "review_title": "10/10",
+      "review_description": "I love the game, it helped me get better in real life and in the game. I would recommend this game if you like pickleball. Join the fun!",
+      "date": 1763165361,
+      "review_helpful_count": 7,
+      "author_display_name": "Joe_The_Hillbilly",
+      "author_alias": "Joe_The_Hillbilly",
+      "developer_response": null
+    },
+    {
+      "id": "1561395598186072",
+      "score": 4,
+      "review_title": "Good but needs improbement",
+      "review_description": "I purchased the game after reading many good comments about the game but it's not upto the mark yet. The UI needs much improvement, the environments and game appearance is still not good enough. Doesn't feel premium and definitely not worth the current price.",
+      "date": 1764326822,
+      "review_helpful_count": 1,
+      "author_display_name": "Ashfaq315",
+      "author_alias": "Ashfaq315",
+      "developer_response": null
+    },
+    {
+      "id": "1011674908686193",
+      "score": 1,
+      "review_title": "No at all good",
+      "review_description": "It’s lacking a lot \nI would like to have a refund",
+      "date": 1768352704,
+      "review_helpful_count": 0,
+      "author_display_name": "Karanamesar10",
+      "author_alias": "Karanamesar10",
+      "developer_response": null
+    },
+    {
+      "id": "822842987199504",
+      "score": 5,
+      "review_title": "This is a very fun realistic game",
+      "review_description": "This game has good physics and has a very nice community",
+      "date": 1764115664,
+      "review_helpful_count": 6,
+      "author_display_name": "AmiMaxsniper",
+      "author_alias": "AmiMaxsniper",
+      "developer_response": null
+    },
+    {
+      "id": "1170701428593519",
+      "score": 5,
+      "review_title": "Helped me get better at pickleball irl",
+      "review_description": "i love this game. it is great",
+      "date": 1764918346,
+      "review_helpful_count": 5,
+      "author_display_name": "Mythikalll",
+      "author_alias": "Mythikalll",
+      "developer_response": null
+    },
+    {
+      "id": "852654504603778",
+      "score": 5,
+      "review_title": "This is awesome.",
+      "review_description": "I love this game.  Hands down my favorite thing.  Everyday!!! ❤️",
+      "date": 1763428225,
+      "review_helpful_count": 7,
+      "author_display_name": "BirdieAustin",
+      "author_alias": "BirdieAustin",
+      "developer_response": {
+        "body": "Thanks!!",
+        "date": 1763519564
+      }
+    },
+    {
+      "id": "859628516514452",
+      "score": 4,
+      "review_title": "Best option on quest.",
+      "review_description": "I’m a 4.5 player irl, there’s quite a long list of things wrong with this game if you’re going for realism. However it’s still incredibly fun and the best pickleball option for VR.",
+      "date": 1763519078,
+      "review_helpful_count": 2,
+      "author_display_name": "LocoBD",
+      "author_alias": "LocoBD",
+      "developer_response": {
+        "body": "Glad you are enjoying the game! Please email us at support@playingames.net. We would love to hear about how we can make the game more realistic.",
+        "date": 1763519430
+      }
+    },
+    {
+      "id": "842255541639660",
+      "score": 5,
+      "review_title": "",
+      "review_description": "With a little patience and practice, this game can become very addictive, competitive,and FUN 🤩.",
+      "date": 1762596080,
+      "review_helpful_count": 7,
+      "author_display_name": "Mr.GRiTTs",
+      "author_alias": "Mr.GRiTTs",
+      "developer_response": null
+    },
+    {
+      "id": "718837061253237",
+      "score": 5,
+      "review_title": "This is a good game.I love it keep makin",
+      "review_description": "When are you gonna make more maps?\\nLove the game",
+      "date": 1763448450,
+      "review_helpful_count": 6,
+      "author_display_name": "Haroldcromer",
+      "author_alias": "Haroldcromer",
+      "developer_response": {
+        "body": "Thanks! Yeah, you are correct, we are over-due for new courts! Early in the New Year for sure.",
+        "date": 1763519546
+      }
+    },
+    {
+      "id": "849335048264760",
+      "score": 5,
+      "review_title": "Fun Game",
+      "review_description": "I really enjoy this game!  Great for beginners!",
+      "date": 1762208055,
+      "review_helpful_count": 5,
+      "author_display_name": "Patty_Olson",
+      "author_alias": "Patty_Olson",
+      "developer_response": null
+    },
+    {
+      "id": "779447488026303",
+      "score": 4,
+      "review_title": "Good game, needs work though",
+      "review_description": "I'm new to pickleball so I decided to get this game to learn more about it and practice off the court. The game is fun, but it has some issues. The first issue is the movement, I'm glad it has multiple options but there are issues with the auto-movements and the thumb stick movement. The auto-run/auto-teleport are great, but they never and I mean NEVER let you volley the ball near the net. It always waits to bounce. This is okay for practice, but in matches it's not feasible at all nor does it let you practice. The thumb stick mode also has issues as there is a sprint mode for some reason, I did not believe you should require a sprint button, you should be running by default to get to where you need to go. The boy other issue with the game is the fact that there aren't enough online resources to lay against other people online! Otherwise, the game is fun and worth the purchase",
+      "date": 1757202652,
+      "review_helpful_count": 4,
+      "author_display_name": "Epsilon_0",
+      "author_alias": "Epsilon_0",
+      "developer_response": null
+    },
+    {
+      "id": "1276609947603789",
+      "score": 4,
+      "review_title": "Fun bit",
+      "review_description": "How do you hit a ball out of the air \nHow do you spin a serve or hit for power",
+      "date": 1763496916,
+      "review_helpful_count": 1,
+      "author_display_name": "Timbo14M",
+      "author_alias": "Timbo14M",
+      "developer_response": {
+        "body": "Toss the ball slightly in front of you and make contact out in front for better control. You can add topspin by brushing up on the ball or underspin by brushing down. For more power, focus on hitting through the ball with a flat paddle face.\n\nIf you’d like more tips or want to chat with other players, join our Pickleball One Discord or email us at support@playingames.net, we’re happy to help!",
+        "date": 1763079467
+      }
+    },
+    {
+      "id": "2638723813129955",
+      "score": 4,
+      "review_title": "Fitness Modes!",
+      "review_description": "I like some of the practice and fitness modes. I like a lot of the features. I wish the ball speed and physics were a little more accurate so I can actually use this for real practice. I do like the fitness mode though, and this feature will keep me coming back.",
+      "date": 1758158375,
+      "review_helpful_count": 2,
+      "author_display_name": "Ryan_IRL",
+      "author_alias": "Ryan_IRL",
+      "developer_response": null
+    },
+    {
+      "id": "1450132769644526",
+      "score": 5,
+      "review_title": "Great mix reality view",
+      "review_description": "I can see really well in mix reality which I like. Most games in mix reality don't function well but this pickleball game does a good job. I would recommend this game to a friend.",
+      "date": 1757214068,
+      "review_helpful_count": 5,
+      "author_display_name": "miloMoir",
+      "author_alias": "miloMoir",
+      "developer_response": null
+    },
+    {
+      "id": "1183502603589494",
+      "score": 3,
+      "review_title": "Can’t manually run",
+      "review_description": "If looking for a workout you can manually run in thumb stick movement mode but it has issues. The court position automatically changes/shifts a little after each serve and so you can’t manually run within your boundary throughout the match because you will need to constantly reposition the boundary. If they could stop the court from shifting after each serve this would be fixed.",
+      "date": 1758406601,
+      "review_helpful_count": 0,
+      "author_display_name": "Solarhits",
+      "author_alias": "Solarhits",
+      "developer_response": {
+        "body": "Thanks for the request. We avoid manual run because of safety concerns. Running across large spaces in VR seems dangerous and not encouraged by Meta. So instead, we have created a full court in Mixed Reality - where you can play with a friend and fully run the size of a pickleball court.",
+        "date": 1758663570
+      }
+    },
+    {
+      "id": "781409608388146",
+      "score": 5,
+      "review_title": "Quality PB Game",
+      "review_description": "Every aspect of this game is well done. The tutorial is quick, and teaches the basics. Physics are excellent. Bot matches have difficulty levels, and are balanced. Multiplayer is well done. A great way to play PB in your living room!",
+      "date": 1755974144,
+      "review_helpful_count": 5,
+      "author_display_name": "Buz1",
+      "author_alias": "Buz1",
+      "developer_response": null
+    },
+    {
+      "id": "764443159631894",
+      "score": 5,
+      "review_title": "W Game",
+      "review_description": "Pretty sick. Feels good. Runs good. I especially like the training modes that sync up with music",
+      "date": 1757978724,
+      "review_helpful_count": 6,
+      "author_display_name": "gucciwonk",
+      "author_alias": "gucciwonk",
+      "developer_response": null
+    },
+    {
+      "id": "804469489411717",
+      "score": 2,
+      "review_title": "Just too inaccurate",
+      "review_description": "I wanted to like this and have come back to it many times, but it's just not good enough.\nIf you try to hit with anything other than a mid strength, spin free shot then the ball either comes off the paddle like a rocket or literally just drops straight down at your feet.  Then you can couple that with some wild angles that have no bearing on the actual paddle position.\nThere's also some rule inaccuracies but, ok, I can live with those.\nIf you don't want to play online then good luck with the AI.  If you use auto movement the game will randomly decide that the ball heading straight for your partner would be better played by you, move you across the court towards it while your partner stands there like a mannequin.\nAll that combines for an unenjoyable experience.\nFor reference, I am by no means a great pickleball player, but I do play 3+ times a week and so have a good grasp of how the ball should react off the paddle.",
+      "date": 1757626359,
+      "review_helpful_count": 1,
+      "author_display_name": "RePeteD",
+      "author_alias": "RePeteD",
+      "developer_response": {
+        "body": "Please email support@playingames.net if you've found any rule inaccuracies - we try our best to make sure the rules and game play are close to real life. In terms of physics, please remember that playing with a controller is going to be different from playing with a real paddle. You can do things with your wrist etc. which are not possible with a real paddle. So we recommend either getting a grip adapter or practice keeping the shots in front and being a little more intentional with the follow-through. It is important that the headset is able to track the controller so please play in well-lit spaces. Any more concerns or if you would like to hit with a team member, please email support.",
+        "date": 1758017949
+      }
+    },
+    {
+      "id": "1163400248946107",
+      "score": 5,
+      "review_title": "Best Pickleball Game!",
+      "review_description": "I’ve tried all the VR pickleball games and this one is the best.. The best graphics and physics. The tutorial in the beginning is great! I love the practice and exercise modes too!   I have not tried multiplayer yet so I can’t comment on that.",
+      "date": 1755065353,
+      "review_helpful_count": 5,
+      "author_display_name": "osubeaver5150",
+      "author_alias": "osubeaver5150",
+      "developer_response": null
+    },
+    {
+      "id": "775569308231321",
+      "score": 5,
+      "review_title": "Best Pickleball game",
+      "review_description": "Love this game. Physics and movement options are top notch. Ability to change colour of ball/paddle is brilliant. I’m visually impacted and the large font menus are really clear and simple to navigate.\nGreat game play, lots of options if you just want to play against AI, do training or up your fitness.",
+      "date": 1753824454,
+      "review_helpful_count": 5,
+      "author_display_name": "LCH108",
+      "author_alias": "LCH108",
+      "developer_response": null
+    },
+    {
+      "id": "753461681183443",
+      "score": 5,
+      "review_title": "Great pickleball game",
+      "review_description": "Really enjoy playing this game. The controls are very intuitive. The training and fitness is awesome. Highly recommend if you like pickleball. Would really like if there was a career mode playing tournaments against the bots.",
+      "date": 1755094119,
+      "review_helpful_count": 5,
+      "author_display_name": "GlacialKoala8740",
+      "author_alias": "GlacialKoala8740",
+      "developer_response": null
+    },
+    {
+      "id": "745296411362483",
+      "score": 5,
+      "review_title": "Super fun!",
+      "review_description": "I was super skeptical at first being someone that plays pickleball regularly and competitively but they did a very good job! Obviously not perfect but definitely is close enough to have a lot of fun and scratch the pickleball bug! Hope to see them keep working updating and working on the game. You won’t be disappointed if you buy it.",
+      "date": 1751136355,
+      "review_helpful_count": 15,
+      "author_display_name": "Lanes740",
+      "author_alias": "Lanes740",
+      "developer_response": null
+    },
+    {
+      "id": "1328650895494957",
+      "score": 4,
+      "review_title": "Great Game!",
+      "review_description": "I've never played Pickleball before, but I wanted to learn, so I thought I'd give it a try. I like it so far. I have a feeling it will get boring at some point, so I hope there are enough reasons for me to want to keep playing it. I've only found a few games like that. After a couple of days, I'm not bored yet. I like the training sessions. It would be nice if there was a career mode at some point. It's fairly easy to learn. I'm not sure how it compares to playing IRL.",
+      "date": 1755558004,
+      "review_helpful_count": 0,
+      "author_display_name": "red944porsche",
+      "author_alias": "red944porsche",
+      "developer_response": null
+    },
+    {
+      "id": "770939308829510",
+      "score": 5,
+      "review_title": "Real improvements on the court",
+      "review_description": "Pickleball One isn’t just a game—it’s a training tool that’s seriously elevated my real-life skills. My shot placement, reaction time, and overall strategy have noticeably improved since I started using it. If you’re looking for a fun way to sharpen your skills and see actual progress on the court, this is 100% worth it.",
+      "date": 1750980728,
+      "review_helpful_count": 11,
+      "author_display_name": "Gingersnap96",
+      "author_alias": "Gingersnap96",
+      "developer_response": null
+    },
+    {
+      "id": "667294813144460",
+      "score": 5,
+      "review_title": "Great Game!",
+      "review_description": "I started playing this game from curiosity to try what pickeball is about, and I really like it. Now I really want to play real picleball on the court.",
+      "date": 1754424635,
+      "review_helpful_count": 5,
+      "author_display_name": "GaloDeLagos",
+      "author_alias": "GaloDeLagos",
+      "developer_response": {
+        "body": "Pickleball is a lot of fun in real life as well. Certainly, give it a try. You can use Pickleball One to learn the rules and how scoring is done.",
+        "date": 1754428400
+      }
+    },
+    {
+      "id": "708159902380398",
+      "score": 5,
+      "review_title": "Great way to learn",
+      "review_description": "Just a beginner IRL but this has helped so much training wise—from swing to reaction time and everything in between.  It’s also a fun way to get some games in when real play is not an option.  The fitness part is also just as helpful and fun.",
+      "date": 1752194056,
+      "review_helpful_count": 6,
+      "author_display_name": "1nc0gn1t0",
+      "author_alias": "1nc0gn1t0",
+      "developer_response": null
+    },
+    {
+      "id": "1256827902491777",
+      "score": 4,
+      "review_title": "Great game!",
+      "review_description": "I play pickleball IRL, but I was hesitant about buying it in VR, being unsure of how realistic it would feel and not being able to run around.  It turns out the movement options work very well, and I'm having a lot of fun so far.  The training is helpful, and the fitness part is fast paced and really fun.  The only reason I'm giving four stars and not five is I've had trouble finding many online matches during the day.  I just got the game, so I'm hoping I will find more as I go along.",
+      "date": 1750799664,
+      "review_helpful_count": 9,
+      "author_display_name": "Oilman35",
+      "author_alias": "Oilman35",
+      "developer_response": {
+        "body": "Thanks for the positive review. Please try in the evenings to find more multiplayer matches. Unfortunately, summer is a bit slow in general. You can also join the Pickleball One discord channel to find folks to play with.",
+        "date": 1750893494
+      }
+    },
+    {
+      "id": "1410486853512995",
+      "score": 5,
+      "review_title": "Great Pickleball game !",
+      "review_description": "Way better than Racquet Club. Great Pickleball game !!",
+      "date": 1755552737,
+      "review_helpful_count": 5,
+      "author_display_name": "Lasner46",
+      "author_alias": "Lasner46",
+      "developer_response": null
+    },
+    {
+      "id": "3129348513892993",
+      "score": 4,
+      "review_title": "Great Game could use more multi",
+      "review_description": "The physics are really good. it's actually surprising how close it feels to playing actual pickleball.",
+      "date": 1756069308,
+      "review_helpful_count": 0,
+      "author_display_name": "Kabboomer",
+      "author_alias": "Kabboomer",
+      "developer_response": null
+    },
+    {
+      "id": "755262067477332",
+      "score": 2,
+      "review_title": "Wonky physics",
+      "review_description": "The physics is really weird, very different from reality, cant adjust the paddle bob, etc",
+      "date": 1756318047,
+      "review_helpful_count": 0,
+      "author_display_name": "vincet.448575",
+      "author_alias": "vincet.448575",
+      "developer_response": {
+        "body": "Please email support@playingames.net, we would like to understand what aspect of the physics is not to your satisfaction. Sometimes a setting can make the difference.",
+        "date": 1756396539
+      }
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T20:54:31Z"
+}

@@ -1,0 +1,129 @@
+{
+  "app_id": "992805010809326",
+  "package_name": "com.playsys.qb",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "qb",
+  "rating_average": 3.0625,
+  "rating_count": 16,
+  "review_count": 16,
+  "reviews": [
+    {
+      "id": "265809787105774",
+      "score": 2,
+      "review_title": "6 euro is too much",
+      "review_description": "This is a simple game. Nice but not great. Really not worth 6 euro!",
+      "date": 1465890103,
+      "review_helpful_count": 2,
+      "author_display_name": "Marinden",
+      "author_alias": "Marinden",
+      "developer_response": {
+        "body": "The initial price includes all future level pack releases – at the moment we have released 25 levels, including 2 special boss fights - the double of what we had in the beginning.",
+        "date": 1479219564
+      }
+    },
+    {
+      "id": "1303153399715870",
+      "score": 5,
+      "review_title": "Great game!",
+      "review_description": "It's really a great game! Funny and clever.",
+      "date": 1477071355,
+      "review_helpful_count": 1,
+      "author_display_name": "attu",
+      "author_alias": "attu",
+      "developer_response": {
+        "body": "Thank you Andrea!",
+        "date": 1479221070
+      }
+    },
+    {
+      "id": "1068075033253360",
+      "score": 1,
+      "review_title": "Boring",
+      "review_description": "Poor graphics and boring game. Better to spend 5.99 bucks in a pizza instead of this crap ",
+      "date": 1465676516,
+      "review_helpful_count": 1,
+      "author_display_name": "peterblack",
+      "author_alias": "peterblack",
+      "developer_response": {
+        "body": "Well, and what if you don't like the pizza either? :)\nActually it is sad for me to know that you found the game that way. Did you play the new free level packs we released?",
+        "date": 1479219123
+      }
+    },
+    {
+      "id": "900168006759822",
+      "score": 1,
+      "review_title": "",
+      "review_description": "like a crappy version of smash with blocks.  i thought this was going to be a puzzle game like artstyle wiiware.  instead you just a physics based game based on lobing cubes. ",
+      "date": 1466743058,
+      "review_helpful_count": 2,
+      "author_display_name": "neosporing",
+      "author_alias": "neosporing",
+      "developer_response": {
+        "body": "qb is a puzzle game where you are supposed to test your precision and strategy. Did you unlock power-ups? When having different options to hit the goal, the fun is about making choices, and being in time to make them..or at least this was our initial concept of the game.",
+        "date": 1479220088
+      }
+    },
+    {
+      "id": "884500168354190",
+      "score": 2,
+      "review_title": "",
+      "review_description": "I bought this game because of positive reviews... may be it's me, but I find it boring, really boring.",
+      "date": 1478033279,
+      "review_helpful_count": 1,
+      "author_display_name": "Atruss",
+      "author_alias": "Atruss",
+      "developer_response": {
+        "body": "Sad to hear that you were bored, but do you like puzzle games in general or it's just not your genre? We are collecting all the feedback to better understand what worked and what didn't. This way we can improve this game and do better in the next title, making all our players happy about our productions.",
+        "date": 1479221236
+      }
+    },
+    {
+      "id": "664667680382749",
+      "score": 3,
+      "review_title": "",
+      "review_description": "Well, the game has nothing similar with media traileru see before purchase. This is basically atmospheric point and shoot.",
+      "date": 1484350894,
+      "review_helpful_count": 0,
+      "author_display_name": "konstancij",
+      "author_alias": "konstancij",
+      "developer_response": {
+        "body": "Thanks for pointing out that the trailer was confusing, we have now updated the video with the one showing the real gameplay instead of the atmosphere of the game.",
+        "date": 1490862611
+      }
+    },
+    {
+      "id": "571593393013475",
+      "score": 5,
+      "review_title": "This is a test",
+      "review_description": "Test",
+      "date": 1471390176,
+      "review_helpful_count": 1,
+      "author_display_name": "linj",
+      "author_alias": "linj",
+      "developer_response": null
+    },
+    {
+      "id": "491133574411474",
+      "score": 2,
+      "review_title": "Will be an Oculus freebie one day, wait.",
+      "review_description": "Maybe worth 1 or 2.99 bad graphics &  horribly irritating voices. As well there some robot that for some reason thinks it is absolutely Mandatory to talk to you before and after each level. After level 3 I started looking in one direction and taking out the ear bud that was facing him and hitting the button till he went away. As well no controller support so your forced to have your hand up by the goggles the whole time to fire... Seriously?....... I will try other modes and my one handed VR controller maybe that will work... ",
+      "date": 1465685364,
+      "review_helpful_count": 2,
+      "author_display_name": "joutcast",
+      "author_alias": "joutcast",
+      "developer_response": {
+        "body": "Sorry to hear you so negative about our game.\nFirst, no, we are not going to put the game for free, the development required an effort of many people and this will not lose value. Second, there is the controller support since one of the first updates.\nAs for the graphics, we don't think its as bad as you say, true the level is lower than a console/pc game, but considering that it is rendered in realtime using a smartphone it is not so low. Also during the 2016, the team introduced many optimizations with the consequent possibility to insert more complex shaders, geometries, lights and relate them to the gameplay. As for the voice, if you don't like it so much, you can always skip the dialogues and the irritiating part is somehow a feature for the story development before/after level 13.",
+        "date": 1479219021
+      }
+    }
+  ],
+  "total": 8,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T20:55:23Z"
+}

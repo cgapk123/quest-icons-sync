@@ -1,0 +1,59 @@
+{
+  "app_id": "9481632121928065",
+  "package_name": "com.playingames.playinpickleball.demo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Pickleball Dink",
+  "rating_average": 4.6153846153846,
+  "rating_count": 13,
+  "review_count": 13,
+  "reviews": [
+    {
+      "id": "4169984529952675",
+      "score": 5,
+      "review_title": "Good, but...",
+      "review_description": "How do you adjust your grip quickly? I wish it was controller-free and used hand tracking. So perhaps I could use paddle instead of the controller. I don't know if this is something that could be done but the first to figure that out will rule this space. 3 for now. change to 5 after I get a response",
+      "date": 1749602539,
+      "review_helpful_count": 7,
+      "author_display_name": "FireInTheBowl",
+      "author_alias": "FireInTheBowl",
+      "developer_response": {
+        "body": "Good idea but unfortunately hand tracking is not fast enough as compared to controller tracking. Plus there is no haptic feel. Many of our users get a grip adapter like this one to get the real feel of a paddle: https://formx.design/products/pickleballone",
+        "date": 1749601179
+      }
+    },
+    {
+      "id": "1198286089009571",
+      "score": 5,
+      "review_title": "Thanks for making free",
+      "review_description": "I always wanted to try the game and now I can because I don’t have to pay for it!",
+      "date": 1750486670,
+      "review_helpful_count": 3,
+      "author_display_name": "yummywest",
+      "author_alias": "yummywest",
+      "developer_response": null
+    },
+    {
+      "id": "1039989494887508",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Worst game I've ever played the physics are not good I had my racket go through the ball so many times and the ais are even worse",
+      "date": 1752000074,
+      "review_helpful_count": 0,
+      "author_display_name": "G-manKobee",
+      "author_alias": "G-manKobee",
+      "developer_response": {
+        "body": "G-manKobee, please send us an email with details. support@playingames.net, we would like to understand when this is happening.",
+        "date": 1752154199
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T20:54:39Z"
+}

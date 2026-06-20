@@ -1,0 +1,42 @@
+{
+  "app_id": "1061939523887646",
+  "package_name": "com.planinternational.mynewhome",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "My New Home",
+  "rating_average": 3.9444444444444,
+  "rating_count": 36,
+  "review_count": 36,
+  "reviews": [
+    {
+      "id": "2140865422721059",
+      "score": 5,
+      "review_title": "Upbeat view of life in such situations.",
+      "review_description": "High quality narration and navigational style of play makes it like an adventure. I liked it alot.",
+      "date": 1632710425,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "414978696207042",
+      "score": 5,
+      "review_title": "Great way to learn!",
+      "review_description": "This is an engaging and interactive way to learn about the daily life of children in refugee camps.",
+      "date": 1604510762,
+      "review_helpful_count": 0,
+      "author_display_name": "mpadgett",
+      "author_alias": "mpadgett",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T20:52:21Z"
+}
