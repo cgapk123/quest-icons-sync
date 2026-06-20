@@ -1,0 +1,56 @@
+{
+  "app_id": "8237768159682136",
+  "package_name": "com.pardovimes.shinovr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "ShinoVR",
+  "rating_average": 4.1428571428571,
+  "rating_count": 7,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "878345631440944",
+      "score": 1,
+      "review_title": "Stuck - useless for now. Devs? Hello?",
+      "review_description": "UPDATE: I can't get past the 5th (?) level in the tutorial, in which you're supposed to \"move and look around\" for another glowing square to teleport to. I've moved and looked everywhere that I can. When I fall down (up?) to the floor, the tutorial restarts automatically. A little guidance or a hint would be appreciated.\n\nThere's no discord that I can find, so now I just need to hope that the dev will read this. Otherwise, I'm stuck with an unplayable game. \n\nI love the concept here. Level design is beautiful (although as mentioned in another review, resolution drops out at a certain virtual distance), the soundtrack is fantastic, and gameplay is engaging.\n\nA couple of pet peeves: Sprint function is not only clicking down the left stick (should be swinging elbows for immersion), but in addition, the stick has to be held in the down-clicked position. It's very awkward. Also, there is no smooth turning setting that I could find.\n\nA few fixes and more polish could go a long way.",
+      "date": 1772161166,
+      "review_helpful_count": 1,
+      "author_display_name": "QUACKBIRTH",
+      "author_alias": "QUACKBIRTH",
+      "developer_response": {
+        "body": "Hey! Sorry for the inconvenience.\n\nIf the map you mean is the one where the door opens and you can see the falling water, if you get close to the edge you should see a glowing white square. You need to use the teleport technique there. Once you're on the ceiling, you can cross the whole platform (don't jump or you'll fall), and when you reach the end you can drop down to cross the “abyss” in the room.\n\nI hope that helps! If you still have problems with the level, feel free to contact me at this email and I’ll be happy to help :) vimesentertainment@gmail.com",
+        "date": 1778514961
+      }
+    },
+    {
+      "id": "700451989809660",
+      "score": 5,
+      "review_title": "Portal Meets Zelda",
+      "review_description": "Step into the shoes of a determined shinobi-in-training, where each mission blends clever puzzles, stealthy exploration, and enemy encounters — all leading to the ultimate reward: the Shinobi Mask. The demo was already impressive, and the full release has taken it even further. Some puzzles feel straight out of a Zelda dungeon, requiring patience, backtracking, and those satisfying “aha!” moments. The mechanics evolve naturally as you progress, offering a refreshing and unique experience. A very solid and polished addition to the Meta Store.",
+      "date": 1748005462,
+      "review_helpful_count": 4,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": null
+    },
+    {
+      "id": "712985787858566",
+      "score": 5,
+      "review_title": "Gravity switching puzzler",
+      "review_description": "A very nice gravity switching stealth puzzler.  A bargain at the price for Portal-like fans.\n\nThe only noticeable downside is there's a very obvious drop off in texture quality along a hard line a short distance away from you.  It could do with anisotropic filtering being on.  Even if only on the Quest 3, if the 2 isn't up to it (though it's not very graphically intensive).\n\nThe only other thing I'd like to see is more a QoL thing and that is an indicator to know which way is down. (unless keeping track is considered part of the challenge!)",
+      "date": 1757533580,
+      "review_helpful_count": 2,
+      "author_display_name": "Targetbsp",
+      "author_alias": "Targetbsp",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T20:20:07Z"
+}

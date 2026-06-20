@@ -1,0 +1,508 @@
+{
+  "app_id": "6849182851823457",
+  "package_name": "com.overlay.figmin.prod",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Figmin XR | Mixed Reality",
+  "rating_average": 4.3108808290155,
+  "rating_count": 193,
+  "review_count": 116,
+  "reviews": [
+    {
+      "id": "1166991929831465",
+      "score": 5,
+      "review_title": "Add ability to upload 3D models directly",
+      "review_description": "The app is amazing! The only feature I'd add is the ability to upload 3D models directly from the device (either Meta Quest or Apple Vision Pro), instead of only relying on Sketchfab.",
+      "date": 1780388067,
+      "review_helpful_count": 3,
+      "author_display_name": "GlacialPossum6946",
+      "author_alias": "GlacialPossum6946",
+      "developer_response": {
+        "body": "We have plans to add this in the future, but there is a workaround to do this *today*\n\nYou'd need to install a local web server on your personal computer, then access any 3d models you add there from figmin xr.\nWe have instructions on how to do this in our development guide in \nwww.figmin.com/api\nIt's pretty easy to do, give it a try.",
+        "date": 1780674239
+      }
+    },
+    {
+      "id": "25008572102151661",
+      "score": 5,
+      "review_title": "One of best",
+      "review_description": "A creative playground thats powerful despite the playful appearance.",
+      "date": 1770883081,
+      "review_helpful_count": 7,
+      "author_display_name": "Martindkmeta",
+      "author_alias": "Martindkmeta",
+      "developer_response": null
+    },
+    {
+      "id": "732052426669448",
+      "score": 5,
+      "review_title": "One of my favorite VR apps",
+      "review_description": "This app is one of my favorites, but I have one issue and one on my knees begging request.\nQuestion,  why did you guys disable the ability to play more than one YouTube video at once. \nNext here are a few suggestions, please give us a working browser support, and next can you allow us yo stream videos and or music?\nI am really into immersion and allowing me to pipeline ambiance sounds takes it to the next level.",
+      "date": 1760309516,
+      "review_helpful_count": 23,
+      "author_display_name": "MrXeXes",
+      "author_alias": "MrXeXes",
+      "developer_response": {
+        "body": "YouTube only allows playback of videos through their website, and the web browser in Quest only allows 1 video at a time so that's the reason why.\n\nNext year we do plan to allow you to stream your own videos/audio though so that will let you playback multiple tracks \n\nThanks for your review <3",
+        "date": 1764779171
+      }
+    },
+    {
+      "id": "843842428805007",
+      "score": 4,
+      "review_title": "Youtube feature change",
+      "review_description": "Why I can't play multiple youtube videos simultaneously? I used to do it before.\nNow if there are multiple youtube videos only one can be played, others get paused automatically.",
+      "date": 1757207144,
+      "review_helpful_count": 10,
+      "author_display_name": "BollywoodGamerz",
+      "author_alias": "BollywoodGamerz",
+      "developer_response": null
+    },
+    {
+      "id": "636934876177739",
+      "score": 3,
+      "review_title": "Please Bring Back Occlusied a feature",
+      "review_description": "Pros:\n✔️ Great concept\n✔️ Clean UI\n\nCons:\n❌ “Occlusion” feature removed\n❌ “Depth Passthrough” no longer available\n\nWhy 2⭐ Instead of 5⭐:\nI specifically bought this app for these two features.\nRemoving them ruined the main use-case for me.\n\nRequest:\nPlease bring back “Occlusion” and “Depth Passthrough” in future updates.",
+      "date": 1750615427,
+      "review_helpful_count": 20,
+      "author_display_name": "PoThink07",
+      "author_alias": "PoThink07",
+      "developer_response": {
+        "body": "Nothing has changed in the app. If you are having issues with room mapping likely the permissions of the app have been changed in the OS settings.\n\nIf you need help we are on discord:\ndiscord.gg/Fjt6aSgS8j",
+        "date": 1750780793
+      }
+    },
+    {
+      "id": "675061659030014",
+      "score": 5,
+      "review_title": "Cool",
+      "review_description": "Great game. Other creative things to do and put in your room would be fun too, like 2d painting, etc",
+      "date": 1752112306,
+      "review_helpful_count": 10,
+      "author_display_name": "JohnnyProphet",
+      "author_alias": "JohnnyProphet",
+      "developer_response": null
+    },
+    {
+      "id": "577230102144663",
+      "score": 5,
+      "review_title": "Innovative and lots of utility",
+      "review_description": "I went looking for an app that could help me decorate my bedroom and this delivered way above my expectations. So much room for creativity here. Lovely UI, thousands of models you can import. Apps like this show how powerful VR is beyond just gaming. It allows you to be efficient and productive whilst still feeling like you're having fun.",
+      "date": 1742696910,
+      "review_helpful_count": 20,
+      "author_display_name": "Wisebaxter",
+      "author_alias": "Wisebaxter",
+      "developer_response": null
+    },
+    {
+      "id": "537189646155689",
+      "score": 5,
+      "review_title": "Just get the freaking game already",
+      "review_description": "￼ this game is awesome and if you’re looking at this right now, just go freaking buy the game. Why are you looking at this? The price might be “absurd.” but it’s worth it if you have a Meta quest three, but if you’re still willing to buy it if you have a Meta quest two it’s still fun I make myself think like you’re in your own head and everything else is grey and the things you’re thinking about glows overall the game is fire so get it ￼￼",
+      "date": 1748404218,
+      "review_helpful_count": 10,
+      "author_display_name": "MasterLLmar",
+      "author_alias": "MasterLLmar",
+      "developer_response": null
+    },
+    {
+      "id": "1351388926050947",
+      "score": 5,
+      "review_title": "Joy abounds!!",
+      "review_description": "WOW!! I mean WOW!!! I don’t even know where to begin, but WOW! I was in a little bit of a funk the night that I decided that I needed to try this app so I went ahead and bought it and boy was I glad I did! There is SOOO much more to this experience than I can even write about, but I will tell you that I had a real kick out of batting balloons all over my living room, breaking open a piñata in my basement,  growing a giant tree in my kitchen, and making a dancing squirrel dance on top of my dogs’ heads, as well as putting sparklers around my dining room and making the floor lava. Being that I am not a super young person, I almost laughed at the joy that these ridiculous things brought me, but I will say that they made me feel like a kid again, and I tend to go back to this app over and over again, especially when I need extra joy in my day. Thank you so much to the devs, this is SUCH a fun app!!!",
+      "date": 1736903448,
+      "review_helpful_count": 35,
+      "author_display_name": "mm0901",
+      "author_alias": "mm0901",
+      "developer_response": {
+        "body": "Thank you for your kind words!, makes us so happy to hear.\n\nHave a great day friend!",
+        "date": 1736886334
+      }
+    },
+    {
+      "id": "493478473857804",
+      "score": 1,
+      "review_title": "Very Glitchy",
+      "review_description": "This is a cool game when it works I downloaded it for my daughter, but the applications drawing in the air don't show up. And when you select other selections, they don't all work properly for some reason. Doesn't matter how many times I get out and go back in to it nothing ever seems to work properly.\nFeel like it was a true waste of money.\n\nBe Ware....",
+      "date": 1737848470,
+      "review_helpful_count": 12,
+      "author_display_name": "Buddy.1",
+      "author_alias": "Buddy.1",
+      "developer_response": {
+        "body": "There's an issue in Horizon OS V72 that makes some brush strokes appear invisible.\nTo fix it turn off Content Adaptive Brightness in experimental settings.\n\nBesides that the app is working correctly, if you still have issues we can assist you on Discord:  https://discord.gg/83BzE2xh or email us: support at overlaymr.com",
+        "date": 1738086820
+      }
+    },
+    {
+      "id": "9201642366597841",
+      "score": 5,
+      "review_title": "This app is must have for MR",
+      "review_description": "Especially the Sketshfab objects you can bring to real life via MR, and view the scene in the same saved place.",
+      "date": 1740363310,
+      "review_helpful_count": 5,
+      "author_display_name": "adilhdr",
+      "author_alias": "adilhdr",
+      "developer_response": null
+    },
+    {
+      "id": "503959169471671",
+      "score": 2,
+      "review_title": "Parental Warning",
+      "review_description": "This app was suggested under \"family fun\" and it looked like something my kids would love. However they have open access to YouTube through this and can view anything on there. One of my sons also cautioned that there's \"a lot of inappropriate stuff you can see\" and not to let the younger one on it without it being casted to the TV. Total bummer because this looks amazing but I'm not down to let my kids have open access to YouTube or the internet. I need to spend some more time exploring this but it would be amazing if they made content restrictions more clear on here.",
+      "date": 1735255995,
+      "review_helpful_count": 18,
+      "author_display_name": "Itsmycircus",
+      "author_alias": "Itsmycircus",
+      "developer_response": null
+    },
+    {
+      "id": "498850583311426",
+      "score": 5,
+      "review_title": "This is a freaking awesome game!!",
+      "review_description": "I have passed this game up so many times until there was a sale on. I took that chance, and voila, I was amazed how awesome this game is!! The possibilities are endless! The devs did an awesome job on this game! What will make this game a lot better is having multiplayer. Sending Positive Vibes their way. I can't wait to see what the next update will have. Keep up the good work, guys! This is a must buy app if you want to let your imagination run wild.",
+      "date": 1757157653,
+      "review_helpful_count": 26,
+      "author_display_name": "ThatOneGamer1021",
+      "author_alias": "ThatOneGamer1021",
+      "developer_response": {
+        "body": "Sending good vibes your way as well friend!",
+        "date": 1733857619
+      }
+    },
+    {
+      "id": "598484902924204",
+      "score": 5,
+      "review_title": "Super Neat",
+      "review_description": "This app is so much fun! You can sit and enjoy it right from your couch. I created clouds and sun shine all around me while sitting in my living room.",
+      "date": 1737667290,
+      "review_helpful_count": 10,
+      "author_display_name": "EastMa222",
+      "author_alias": "EastMa222",
+      "developer_response": null
+    },
+    {
+      "id": "600318719194191",
+      "score": 5,
+      "review_title": "Best sandbox you’ve ever played!",
+      "review_description": "I COULD write some lengthy review, but all you need to know is that it turns your home into a sandbox game, and a great one at that! Amazing customizations and endless possibilities.",
+      "date": 1735111287,
+      "review_helpful_count": 9,
+      "author_display_name": "Jammersmurph",
+      "author_alias": "Jammersmurph",
+      "developer_response": null
+    },
+    {
+      "id": "617665917406528",
+      "score": 3,
+      "review_title": "Was 5⭐️ now only 1⭐️",
+      "review_description": "I was enjoying open brush so much that when I came back around to figmin xr and saw it was powered by tilt brush i immediately recognized the potential. It was the best purchase to date. However last month my effects brush will not show up in pass through unless there is paint, another 3d object or a screen. Which defeats the purpose of pass through. Im not just a casual figmin user Im dependent on it for my employment and probably will remain so for awhile and would really appreciate some answers from developers asap please 😭 \nI thought it was my headset so I tried open brush for a temporary solution only to find no luck there either. This gave me hope that it was not my quest. \nAlso it works just  fine on my quest2 pass through in black n white. \nApparently Im not the only one either. I started a Reddit column on the topic. If I lose a big client over a bug i will be very upset. \n\nAsides that it’s a must have especially if you are creative or artsy\n\nEdit: this started happening wayyy before v72. Thank you for fast response I will update to 3* if it is a meta problem I will bring back to 5* \nTy",
+      "date": 1736297074,
+      "review_helpful_count": 2,
+      "author_display_name": "Prometheus3030",
+      "author_alias": "Prometheus3030",
+      "developer_response": {
+        "body": "Meta has rolled out a V72 update with a fix, HOWEVER it can still happen if you have the following experimental setting turned on: \"Content Adaptive Brightness\", so make sure it's off\n\nWe are sorry for your troubles but it was out of our control.",
+        "date": 1737822859
+      }
+    },
+    {
+      "id": "8602390306550296",
+      "score": 4,
+      "review_title": "Loving it",
+      "review_description": "Created several interesting XR rooms. Control system is kinda funky. Not sure in what universe we need small spinning thumbnails when large stationary ones would be fine. \n\nAlso, is there an undo button? A group items button? I might be missing things by being thick. \n\nBrilliant fun, but tricky to master.",
+      "date": 1734288246,
+      "review_helpful_count": 3,
+      "author_display_name": "TheDirector50",
+      "author_alias": "TheDirector50",
+      "developer_response": {
+        "body": "We don't have grouping yet but it's high on our list so it's coming, Figmin XR is constantly being improved we are on our 23rd major update by now.\n\nThanks for your review👍",
+        "date": 1734458087
+      }
+    },
+    {
+      "id": "1002492681769416",
+      "score": 5,
+      "review_title": "🫡",
+      "review_description": "🫡 just by the game",
+      "date": 1740620241,
+      "review_helpful_count": 1,
+      "author_display_name": "musicMonk2",
+      "author_alias": "musicMonk2",
+      "developer_response": null
+    },
+    {
+      "id": "563367183524983",
+      "score": 1,
+      "review_title": "The game is broke",
+      "review_description": "Won’t let me play it  it crashes my headset",
+      "date": 1755182961,
+      "review_helpful_count": 0,
+      "author_display_name": "imisswhereisshine.vr",
+      "author_alias": "imisswhereisshine.vr",
+      "developer_response": null
+    },
+    {
+      "id": "9087408581290326",
+      "score": 5,
+      "review_title": "Best sandbox mixed reality experience",
+      "review_description": "I  constantly use this app - it connects with sketchfab so you can search for any 3d models and drag them in and they're all textured and rendering beautifully in mixed reality. The controls for grabbing and moving/scaling/rotating are absolutely perfect - you can put your controllers into the object like you'd expect but you can also grip them with a laser and manipulate them it's insanely intuitive and smooth. Grab with 2 hands and it rotates and scales and moves perfectly it's like magic. There's also a voxel object for making voxel art, you can draw 3d lines like in tilt brush, add animated gifts, give everything physics, it's a hell of a sandbox. There's so much you can do with this to have fun in mixed reality like the trailer shows.",
+      "date": 1730596534,
+      "review_helpful_count": 16,
+      "author_display_name": "DavoDivide",
+      "author_alias": "DavoDivide",
+      "developer_response": null
+    },
+    {
+      "id": "1315758669387867",
+      "score": 3,
+      "review_title": "Good MR Game but has UI related issues",
+      "review_description": "It could be great MR Voxel editor but PLEASE fix the laser pointer for UI elements. There's no other way to pick color and you have to \"Equip\" the Color UI and then try to press on the pick color button. it's REALLY hard to click on it cos it keeps selecting color instead of actually pressing on the button. :/\nEDIT: This still hasn't been fixed...",
+      "date": 1728134730,
+      "review_helpful_count": 6,
+      "author_display_name": "Davive184",
+      "author_alias": "Davive184",
+      "developer_response": null
+    },
+    {
+      "id": "8356840211049104",
+      "score": 5,
+      "review_title": "SO FUN!!",
+      "review_description": "All-around fantastic for artists and fun-lovers alike. I can do \"life\" sketches of full-sized 3D scans of musculature, and then I can turn my room into a ball pit and throw fireballs at my roommate's head.\n\nWhat more could ya ask for??\n\nThere's SO much potential for creativity and fun, as well as a browser to experience what others have made with the app!",
+      "date": 1726257198,
+      "review_helpful_count": 13,
+      "author_display_name": "MistaBeans",
+      "author_alias": "MistaBeans",
+      "developer_response": null
+    },
+    {
+      "id": "3923315514619027",
+      "score": 1,
+      "review_title": "Utterly terrible",
+      "review_description": "Not much to say. Extremely awkward dated. Bad ux philosophy. Terrible. Wretched.",
+      "date": 1735155804,
+      "review_helpful_count": 3,
+      "author_display_name": "derekdavidkent",
+      "author_alias": "derekdavidkent",
+      "developer_response": null
+    },
+    {
+      "id": "497187836163500",
+      "score": 1,
+      "review_title": "Worst vr game",
+      "review_description": "Most people have this to play with the 3d models, so I signed in with my account then logged in on the game, it never worked... I've tried so many times that I've Gavin up on this game.",
+      "date": 1721328172,
+      "review_helpful_count": 5,
+      "author_display_name": "RatchedRasBerry35",
+      "author_alias": "RatchedRasBerry35",
+      "developer_response": {
+        "body": "Please log into sketchfab through Settings - Account - Sketchfab, as explained in the video tooltip.\n\nDo *NOT* log in through the browser directly in www.skechfab.com, that will definitely not work.",
+        "date": 1722347336
+      }
+    },
+    {
+      "id": "1036727174678939",
+      "score": 5,
+      "review_title": "unable to search",
+      "review_description": "game was a lot fun for a few weeks but now everytime i search all i get is \"search error code: 408\". so now i am unable to create any scenes. There's no desciption of what that error is | \n\nEdit: searching error has fixed itself. looks like it is a temporary thing that happens on sketchfab sometimes. other than the error that was getting, it's a very fun game",
+      "date": 1720623930,
+      "review_helpful_count": 2,
+      "author_display_name": "Sigurd_Ragnarsson",
+      "author_alias": "Sigurd_Ragnarsson",
+      "developer_response": {
+        "body": "That's an internet connection issue, if you'd like further help feel free to reach us on Discord or at support@overlaymr.com",
+        "date": 1720116761
+      }
+    },
+    {
+      "id": "947087670299625",
+      "score": 5,
+      "review_title": "Fantastic tool for any XR creative",
+      "review_description": "As a designer in the industry, Figmin is a hidden gem in terms of creative XR tooling. It is so well designed and allows me to get into a flow state much easier than alternative tools. Highly reccomend to anyone who is interested in spatial creation and design.",
+      "date": 1712617722,
+      "review_helpful_count": 12,
+      "author_display_name": "maoshmellow",
+      "author_alias": "maoshmellow",
+      "developer_response": null
+    },
+    {
+      "id": "2135293766820441",
+      "score": 1,
+      "review_title": "It's really great app",
+      "review_description": "But not working correctly.Last time I opened it was 3 weaks ago.And I opened  it today, there are still horrible bugs on the text creations.I wont open this app never maybe.",
+      "date": 1713256141,
+      "review_helpful_count": 2,
+      "author_display_name": "ghost.3969",
+      "author_alias": "ghost.3969",
+      "developer_response": null
+    },
+    {
+      "id": "265868249935975",
+      "score": 1,
+      "review_title": "not worth 20$",
+      "review_description": "This game should cost $5, seriously! When you turn it on you get about 50 things and that's it. You have to make two accounts to load more stuff.... I played 13 minutes and would most likely flush this game down the toilet.",
+      "date": 1709529028,
+      "review_helpful_count": 5,
+      "author_display_name": "nogive",
+      "author_alias": "nogive",
+      "developer_response": {
+        "body": "Are you reviewing the right app?\n\nFigmin XR is not a game, though you certainly can play with it.  We give you tools to create & collect in mixed reality.\n\nWe do not require an account to make use of the app either, you can optionally use one for publishing content",
+        "date": 1709564503
+      }
+    },
+    {
+      "id": "212818028586668",
+      "score": 1,
+      "review_title": "Could use more info about uploading",
+      "review_description": "Uploading assets in this app is real pain, since it says that you can upload direct link from you computer but doesn’t give you any clarification regarding to how to do that. I’ve been trying to upload simple image from my computer. I’ve tried to use both reddit account link as well as links from google drive, google photos and and random photos from google search. Each time I tried this I’ve got the error message. I also tried to drop my phot from my device directly to browser and this link is acceptable for some reason, but then you can’t  use your asset in the app cause it just wont load. The only solution I’ve came with was to convert the image into gif format and upload it on Giphy. I understand that I am missing something but It shouldn’t be my job to understand how your app or platform is working guys. Please make a normal tutorial on uploading assets on your platform, so “stupid” users like me could actually create scenes they want without much headache.",
+      "date": 1706886975,
+      "review_helpful_count": 15,
+      "author_display_name": "Ganjafaclub",
+      "author_alias": "Ganjafaclub",
+      "developer_response": {
+        "body": "Sorry to hear you run into troubles. We do have a tutorial on this, visible within the Learn section of the app as well as in this YouTube video:\n\nhttps://www.youtube.com/watch?v=9QWM-iQgN7s\n\nIn essence, for the moment Figmin XR does not support the upload of any files (for copyright and PG 13 reasons). You must find somewhere to upload them and then get the URL and import it through www.figmin.com\n\nIt's very important to know, that the URL must end in .PNG, .JPG or .GIF  Google drive will not work because of this.\n\nThis will likely change at some point but for the moment you can't upload your files to our servers.",
+        "date": 1706895250
+      }
+    },
+    {
+      "id": "688510323234054",
+      "score": 5,
+      "review_title": "A must have for MR experiences",
+      "review_description": "Not only does this app provide you tools and lessons on how to create amazing projects for creating mixed reality environments, but also gives you the chance of downloading projects from the community directly through the app. \n\nGreat for showing people that visitas you, a showcase of the XR technology. Great app!",
+      "date": 1699151398,
+      "review_helpful_count": 1,
+      "author_display_name": "GianlucaUrso",
+      "author_alias": "GianlucaUrso",
+      "developer_response": null
+    },
+    {
+      "id": "357827129923849",
+      "score": 5,
+      "review_title": "A Hidden Gem in Mixed Reality",
+      "review_description": "I had reservations about trying Figmin XR initially. When I looked at the advertisements, I found them cute but not particularly intriguing. However, everything changed when I acquired the Meta Quest 3. With only a few games available, I thought, 'Why not give it a shot?' And let me tell you, it's the hidden features that truly shine. There's an abundance of VR objects, options, and activities that exceed your imagination.\n\nI transformed my office into a personal sanctuary filled with quirky paintings, objects, and statues. It almost feels like I'm becoming a mixed reality enthusiast because there's so much to explore. Once you've designed your dream room, you can save it and revisit it whenever you like. It's incredibly calming, especially for someone with a creative mind. The possibilities are endless.\n\nWhile there's a slight learning curve, they've made the app user-friendly. It's something you can take your time with, gradually exploring and building up your virtual world. I'm thrilled with my decision to get this app; it's perhaps the best $19.99 I've ever spent. Whether you're a creative soul or simply seeking a zen-like experience while becoming a digital artist or virtual antique collector, this app is a must-try.",
+      "date": 1697352178,
+      "review_helpful_count": 34,
+      "author_display_name": "MPRachel",
+      "author_alias": "MPRachel",
+      "developer_response": null
+    },
+    {
+      "id": "1670898583402256",
+      "score": 5,
+      "review_title": "For the MR Artists (with Multiplayer)",
+      "review_description": "25Percent C0DE tiny(dot)cc(slash)j1revz\nFor artists and those who are interested in MR Art, really cool, even with co-located Multiplayer!",
+      "date": 1700317830,
+      "review_helpful_count": 0,
+      "author_display_name": "Bismikey",
+      "author_alias": "Bismikey",
+      "developer_response": null
+    },
+    {
+      "id": "3374156022802745",
+      "score": 4,
+      "review_title": "Missing one essential feature",
+      "review_description": "Okay this app is quite amazing it really is quite amazing and if you have a Quest Pro you have to get it. Even on the Quest 2 this is amazing. However one severe lacking feature of this is to be able to import your own models from the headset. Currently it allows you to import freely downloadable models from Sketchfab however that is very limiting. You really need to enable users to load and import their own local models from the headset that would make this complete in my opinion. I did find a way of loading my own models by copying over the files from sketchfab that it downloads to the headset but this is hacky and really shouldn't be needed to be done by the end user. Developer please add this feature to your amazing application and thus complete the experience for all of us!!! Thank you and great job on this amazing application!!",
+      "date": 1676479474,
+      "review_helpful_count": 54,
+      "author_display_name": "omni_shanker",
+      "author_alias": "omni_shanker",
+      "developer_response": {
+        "body": "Glad you are enjoying the app!\n\nYou can import your own 3D models without using the search function by uploading them to Sketchfab with private visibility & downloadable. \nAfter that you can use www.figmin.com to import the web-link of the private 3d model into Figmin XR.\n\n:)",
+        "date": 1677430193
+      }
+    },
+    {
+      "id": "653943062972923",
+      "score": 3,
+      "review_title": "Jank",
+      "review_description": "Doesn't feel ready for release. I would only recommend at first day release if you have a tolerance for jank. Ignore youtube functionality its only 360p. 2d from reddit works flawlessly. Gifs from reddit look good but the other gif menu are pretty lame 1990s photoshop style. Figmin objects are hit n miss, mostly voxel. Sketfab works well but on quest 2 you will want to limit it to under 3 high poly sketch. Currently sketchfab viewer seems to be best use case scenario. Quest pro has more memory so maybe it works better on there. Also unfortunately it seems NSFW reddits are ignored for import so scratch off another potential use case scenario",
+      "date": 1666747480,
+      "review_helpful_count": 29,
+      "author_display_name": "Broke_Mexican",
+      "author_alias": "Broke_Mexican",
+      "developer_response": {
+        "body": "Figmin XR is rated 13+ and no adult content is permitted or available through our search functions.",
+        "date": 1667927558
+      }
+    },
+    {
+      "id": "1872838886392252",
+      "score": 5,
+      "review_title": "Finger Painting at its finest!",
+      "review_description": "As a VR artist who's been in the scene for over 5 years, this is actually the first time I've gotten the chance to use Open Brush in this way purely through hand tracking. So if you're looking for an aspect of embodied creation that requires no controls, this is a handy way to do it and feel like you're one with the brushes. Having previously tried Figmin on Tilt 5, the UI/UX controls translate nicely across both platforms and so I was able to pick things up very quickly as well. Have fun y'all!",
+      "date": 1667961824,
+      "review_helpful_count": 7,
+      "author_display_name": "Bingko",
+      "author_alias": "Bingko",
+      "developer_response": null
+    },
+    {
+      "id": "5635031216595448",
+      "score": 2,
+      "review_title": "Good but needs more improving",
+      "review_description": "Overall this is a fun little app with some great functionality but there are some bugs:\n\n - I have fully mapped out my room in the Quest Pro settings including doors/windows/table and lots of “other” boxes to cater for collision with random other furniture in the room. Problem is the physics in Figmin does not recognise these “other” types from the Quest room mapping settings and so things like balls that should collide with these boxes just ignore them, ruining the illusion somewhat.\n\n - My settings for “use room mapping” are not remembered at game startup. Other settings with these “remember” checkboxes also fail to actually persist across game startups.\n\nIf these things could be ironed out it would be appreciated.",
+      "date": 1667677968,
+      "review_helpful_count": 10,
+      "author_display_name": "Tankshell",
+      "author_alias": "Tankshell",
+      "developer_response": {
+        "body": "Hi, the issue with furniture has been fixed and we have added a room mapping widget right on the main menu so it's easy to turn on and off.\n\nThanks for your feedback",
+        "date": 1668642000
+      }
+    },
+    {
+      "id": "5573820076041411",
+      "score": 4,
+      "review_title": "Great work!",
+      "review_description": "The app is very interesting although it would be great to be able to watch YouTube videos in 8k 360/180 degrees and 360 panoramic images in 8k.\nIf that were possible it would deserve 10 stars.",
+      "date": 1667072108,
+      "review_helpful_count": 6,
+      "author_display_name": "3de3",
+      "author_alias": "3de3",
+      "developer_response": null
+    },
+    {
+      "id": "5858597034197410",
+      "score": 5,
+      "review_title": "Great AR app, best on Quest!",
+      "review_description": "Figmin continues to be one of the best AR creation tools, the latest release on Quest is the best version yet! Excited to see this product continue to evolve!",
+      "date": 1666751558,
+      "review_helpful_count": 6,
+      "author_display_name": "DB_Blake",
+      "author_alias": "DB_Blake",
+      "developer_response": null
+    },
+    {
+      "id": "290540560565979",
+      "score": 4,
+      "review_title": "Seriously, This app is truly addictive.",
+      "review_description": "I really want to give this game 5 stars, but there is one thing missing...\nRequest to the devs. The only thing preventing this game from reaching perfection, is the fact that the game pauses when you try to bring up the meta browser. Many other games I play don't do this.  Could you add a fix, whereby you can still see the 'augments'  moving when you use the Oculus menu ingame, it would be a 'big' quality of life improvement, and an extra selling point to the game. Being able to sit in my newly augmented reality space whilst browsing the web is a major part of mixed reality. Apart from that, thank you, for all your hard work, It truly is an app with endless possibilities.",
+      "date": 1698708772,
+      "review_helpful_count": 19,
+      "author_display_name": "dark-illusion46",
+      "author_alias": "dark-illusion46",
+      "developer_response": null
+    },
+    {
+      "id": "278612628657948",
+      "score": 5,
+      "review_title": "Great App!",
+      "review_description": "Figmin XR is a really great app that I have a lot of fun with. I love painting and creating sculptures. I can highly recommend this app. Thanks to the developers!\n\nUnfortunately, I have a problem loading my objects from the VR glasses to my computer. I created web links within the VR glasses. On the homepage Figmin-com in the browser I see my web links as a barcode. When I scan these (e.g. with the iPhone), I get the message that no usable data was found. I have tried several barcode scanners. I can't see my models. Can anyone help?\n\nThank you for your feedback!",
+      "date": 1709475274,
+      "review_helpful_count": 3,
+      "author_display_name": "eisperle",
+      "author_alias": "eisperle",
+      "developer_response": {
+        "body": "Our mobile apps for both iPhone and Android are well into development and are coming out great, it won't be too long before you can see you creations on other devices, but for the moment they can only be experienced on the 6 platforms what we support.\n\nThanks for your review!",
+        "date": 1709481806
+      }
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-20T20:11:25Z"
+}

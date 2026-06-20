@@ -1,0 +1,42 @@
+{
+  "app_id": "1725243257523071",
+  "package_name": "com.paniclobster.Test",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Panic Lobster",
+  "rating_average": 3.7142857142857,
+  "rating_count": 7,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "2138816726259262",
+      "score": 2,
+      "review_title": "Didn't work or needed hard login.",
+      "review_description": "Ergo, I can't tell you what this is, or why the lobster is so panicked.",
+      "date": 1632491811,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "1068287160181827",
+      "score": 5,
+      "review_title": "Helps me focus",
+      "review_description": "Prepping for talks can be really nerve wracking, even if it's not your first time. I used this app to help my prepare for my talk at FITC and many more work presentations. \n\nHighly recommended, makes the actual presentation on the day of a breeze!",
+      "date": 1573844861,
+      "review_helpful_count": 1,
+      "author_display_name": "MCDopsa",
+      "author_alias": "MCDopsa",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T20:18:43Z"
+}

@@ -1,0 +1,45 @@
+{
+  "app_id": "1433622983379399",
+  "package_name": "com.paramlabs.dominogearvr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Domino VR",
+  "rating_average": 2.7142857142857,
+  "rating_count": 21,
+  "review_count": 21,
+  "reviews": [
+    {
+      "id": "1322668684477772",
+      "score": 2,
+      "review_title": "Add Gear VR controller support",
+      "review_description": "Controls are awful, but there is a lot of potential with the GearVR controller. Twist, Turn, place, Switch, Erase... all can be done without navigating the irritating menus.",
+      "date": 1496851368,
+      "review_helpful_count": 2,
+      "author_display_name": "StainedPupil",
+      "author_alias": "StainedPupil",
+      "developer_response": null
+    },
+    {
+      "id": "841996629291428",
+      "score": 3,
+      "review_title": "Good idea. Not very well executed",
+      "review_description": "It had potential to be fun. But the graphics are very rudimentary and the controls and interface are not user friendly.\n\nSuggestion: swipe forward aft to rotate the whole room/floor (instead of rotating the one piece in your hand). This way you can view the set from different angles and it would make it easier to position new pieces. Note that you wouldn't need to rotate each piece anymore. Just leave them in a standard 30 degree to the user point of view.",
+      "date": 1493471288,
+      "review_helpful_count": 12,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": {
+        "body": "Dear Mike,\nWe are really glad to receive your feedback. Yes this is just a launch of this game and there will be many learnings. We constantly thrive to make our games more user friendly. We are going to introduce the controller version very soon and that will change the game 360 degrees. Hope you would love that.\nThanks,\nTeam Param Labs",
+        "date": 1493458930
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T20:19:39Z"
+}
