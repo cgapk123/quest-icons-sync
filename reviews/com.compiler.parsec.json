@@ -1,0 +1,42 @@
+{
+  "app_id": "23875755805345130",
+  "package_name": "com.compiler.parsec",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Parsec Battle",
+  "rating_average": 3.5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "3581189688832165",
+      "score": 3,
+      "review_title": "Nobody is playing it",
+      "review_description": "I will change my review if someone actually plays it. You can't play unless someone else is on. So far...((crickets))",
+      "date": 1687057776,
+      "review_helpful_count": 3,
+      "author_display_name": "FireInTheBowl",
+      "author_alias": "FireInTheBowl",
+      "developer_response": null
+    },
+    {
+      "id": "234675082829139",
+      "score": 4,
+      "review_title": "Good",
+      "review_description": "I mean its Good but only if someon is playing it with you. Without any other players you cant do anything",
+      "date": 1689343682,
+      "review_helpful_count": 3,
+      "author_display_name": "Maciopek123",
+      "author_alias": "Maciopek123",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:37:41Z"
+}

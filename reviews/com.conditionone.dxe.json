@@ -1,0 +1,42 @@
+{
+  "app_id": "1509345109134392",
+  "package_name": "com.conditionone.dxe",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Open Rescue",
+  "rating_average": 3.25,
+  "rating_count": 8,
+  "review_count": 8,
+  "reviews": [
+    {
+      "id": "2007198276087775",
+      "score": 4,
+      "review_title": "Save the piggies!",
+      "review_description": "I support animal rights, but I think the best way to help them is to in fact, kill all humans.",
+      "date": 1618175560,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "862575487267410",
+      "score": 5,
+      "review_title": "Five for Free",
+      "review_description": "By Condition One. Virtual portal for animal-rights videos. TRT 1 hr",
+      "date": 1530498963,
+      "review_helpful_count": 5,
+      "author_display_name": "matthewmuhl",
+      "author_alias": "matthewmuhl",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:37:58Z"
+}

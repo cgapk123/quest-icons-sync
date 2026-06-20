@@ -1,0 +1,56 @@
+{
+  "app_id": "7516637915127003",
+  "package_name": "com.cosmolab.realracer",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "AAA Driver",
+  "rating_average": 3.75,
+  "rating_count": 4,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "782564947481222",
+      "score": 2,
+      "review_title": "Needs work",
+      "review_description": "Great car details but needs work on training mode and sound Glitches,\nan actual driver training mode would be very valuable",
+      "date": 1756770725,
+      "review_helpful_count": 2,
+      "author_display_name": "BetaTesterVR",
+      "author_alias": "BetaTesterVR",
+      "developer_response": null
+    },
+    {
+      "id": "1624538088219963",
+      "score": 3,
+      "review_title": "Nice but a few bugs",
+      "review_description": "Pretty good graphics for Q3 standalone, but could be better, less pixelated.  Having some problems seeing menus without backing up my view.  Also, my steering knob sometimes becomes disconnected from the wheel and cannot be reconnected.  Only fix is to restart back to main menu.  Overall, a pretty good start for early release but need a bit more work imho.",
+      "date": 1747523645,
+      "review_helpful_count": 3,
+      "author_display_name": "TomCgcmfc",
+      "author_alias": "TomCgcmfc",
+      "developer_response": {
+        "body": "Thank you so much for your honest feedback and for taking the time to write a detailed review.\n\nI’m sorry about the issues you experienced, especially with the steering knob and menu visibility. I will look into these bugs right away, and aim to provide a fix within the next 5 days. I’m also continuously working to improve the graphics and overall experience on Quest 3. Your feedback is extremely valuable to me as a developer. If you have any more suggestions or encounter any other problems, please let me know anytime. Thanks again for supporting early access!",
+        "date": 1747608758
+      }
+    },
+    {
+      "id": "508862912299798",
+      "score": 5,
+      "review_title": "Awesome VR Experience.",
+      "review_description": "It’s very good for their first crack at VR it’s a lot of fun and more immersive then the normal games.",
+      "date": 1742427551,
+      "review_helpful_count": 4,
+      "author_display_name": "spring.76727",
+      "author_alias": "spring.76727",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:40:41Z"
+}

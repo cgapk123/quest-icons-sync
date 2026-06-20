@@ -1,0 +1,45 @@
+{
+  "app_id": "7403017269823070",
+  "package_name": "com.cosmolab.vr.title1",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Amusement Rides",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "546886498511803",
+      "score": 1,
+      "review_title": "Waste of money",
+      "review_description": "I purchased it and its not even worth the money\nGraphics are bad and moreover makes you nauseous.\nI requested for a refund and they are not processing it, although I am eligible under the refund policy \n\nDO NOT BUY THIS🗑️",
+      "date": 1739323791,
+      "review_helpful_count": 8,
+      "author_display_name": "mohit499.2023",
+      "author_alias": "mohit499.2023",
+      "developer_response": {
+        "body": "We apologize for the inconvenience. We will provide better service. Thank you.",
+        "date": 1739858091
+      }
+    },
+    {
+      "id": "452883634564393",
+      "score": 5,
+      "review_title": "Loving it so far, Just awesome",
+      "review_description": "The graphics are better than the video above.\nIt's crazy how good activities are packed into A virtual reality game. I love these activities they just keep getting better.",
+      "date": 1735683346,
+      "review_helpful_count": 9,
+      "author_display_name": "spring.76727",
+      "author_alias": "spring.76727",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:40:50Z"
+}

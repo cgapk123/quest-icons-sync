@@ -1,0 +1,45 @@
+{
+  "app_id": "9381687885216038",
+  "package_name": "com.cosmolab.vr.tbht",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Heart Beat Hero",
+  "rating_average": 3.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "639484039251328",
+      "score": 4,
+      "review_title": "Please fix floor height",
+      "review_description": "Fun to play and love the various weapons!\n\nBut PLEASE have a setting to adjust floor height.  I'll set it in the game opener with the thumb stick but then the floor level is just below my knees when I'm behind the drums and I have to reach my arms high to make drum contact.  \n\nAnd when I exit back to the main menu, the original game opener where I'm able to adjust the floor height is gone.\n\nJust needs a setting to calibrate player height or being able to adjust the floor inside the game.",
+      "date": 1747690558,
+      "review_helpful_count": 1,
+      "author_display_name": "jake.735111",
+      "author_alias": "jake.735111",
+      "developer_response": {
+        "body": "Thank you so much for the kind words and for enjoying the gameplay and weapon variety!\n\nYou're absolutely right — the current floor calibration method is limited, especially after transitioning between scenes. We're adding a setting to adjust player height or floor level from the in-game menu, and this will be included in the May 22 update.\n\nYour feedback really helps us prioritize quality-of-life improvements like this. Thanks again for taking the time to share your thoughts!",
+        "date": 1747784076
+      }
+    },
+    {
+      "id": "445986208587469",
+      "score": 5,
+      "review_title": "awesome game!",
+      "review_description": "There are many things to enjoy.",
+      "date": 1734833720,
+      "review_helpful_count": 2,
+      "author_display_name": "spring.76727",
+      "author_alias": "spring.76727",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:40:47Z"
+}
