@@ -1,0 +1,803 @@
+{
+  "app_id": "4677037565709635",
+  "package_name": "com.immerVR.immerGallery",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "immerGallery",
+  "rating_average": 4.6470588235294,
+  "rating_count": 170,
+  "review_count": 110,
+  "reviews": [
+    {
+      "id": "27351548294530398",
+      "score": 5,
+      "review_title": "My favorite media viewer!",
+      "review_description": "This is an outstanding media viewer, and so much more. It supports a large amount of formats, has tons of customization options, and weekly free 3D galleries to download and keep. \n\nBeing able to float in a hot air balloon inside a 360 photo from my drone, with birds fluttering around and my own music playing is totally surreal, and this app makes it so easy to do.\n\nThe dev is also highly responsive, sadly not something I can say for many of my Quest apps.\n\nI've been using this app for years now, and it still receives regular updates and new features. \n\nOh, and it has a built-in 3D camera so you can use your Quest 3 to take 3D photos. How cool is that! \n\nHighly recommended!",
+      "date": 1781253244,
+      "review_helpful_count": 0,
+      "author_display_name": "StephenV",
+      "author_alias": "StephenV",
+      "developer_response": null
+    },
+    {
+      "id": "1194616350400818",
+      "score": 5,
+      "review_title": "An older (82) New QUEST 3 user",
+      "review_description": "I was able to get an actual human response to a query about an SMB connection issue within 24 hours,  pointing me gently to the correct menu option. Unusual theses days and appreciated. I am hoping to be able to view my ancestry photo collection and all the new wonderful 3D and 360 photos from users around the world and the immerGalery higher‑resolution rendering definitely improves the VR experience. Looking forward to spending more time immersing myself in this wonderful technology and sharing it with other users. Gary Labelle Ottawa Canada.",
+      "date": 1781182927,
+      "review_helpful_count": 0,
+      "author_display_name": "JAGL",
+      "author_alias": "JAGL",
+      "developer_response": null
+    },
+    {
+      "id": "1083720641501925",
+      "score": 5,
+      "review_title": "My favorite app!",
+      "review_description": "I love my photo collection, and I'm a big fan of 3D/stereo photography.  Using this app is a wonderful way to browse and appreciate all of my photographs, and more!  The developers are always improving the product and adding new features.  If you have any interest in experiencing and appreciating photography in VR, you must try this out!",
+      "date": 1780401838,
+      "review_helpful_count": 1,
+      "author_display_name": "PunchySphynx237",
+      "author_alias": "PunchySphynx237",
+      "developer_response": null
+    },
+    {
+      "id": "964019239485057",
+      "score": 5,
+      "review_title": "Would recommend 100%",
+      "review_description": "Great app, nice clean interface, good facilities for downloads and sharing, makes it very easy for creators, collaborators and customers to see the photos/videos. \n\nSome room for improvement-of course.  Thumbnails are so large that you can’t fit 2 rows of photos so it would be nice to see a bit more when browsing",
+      "date": 1774903620,
+      "review_helpful_count": 2,
+      "author_display_name": "LupiliaStarshine",
+      "author_alias": "LupiliaStarshine",
+      "developer_response": {
+        "body": "Many thanks for your great review. I am very happy that you like the app so much.\n\nThat is a very good point about the thumbnail size. I want thumbnails to be large enough to make images easy to distinguish, but seeing more at once can also make browsing easier.\n\nI have added an option to adjust the thumbnail size to my to-do list for a future update. Thanks again for the helpful feedback!",
+        "date": 1776974407
+      }
+    },
+    {
+      "id": "25923494260608659",
+      "score": 1,
+      "review_title": "Not worth it",
+      "review_description": "It's expensive and the only thing it can do that free ones don't is it will turn your photos and videos into 3d, but you have to pay for that too. You get one free photo a day and one free video total. You can't view your gallery with someone else unless the other party has the same files on there end, which the free apps do as well. You can a way better deal turning your pictures to 3d somewhere else",
+      "date": 1768965418,
+      "review_helpful_count": 15,
+      "author_display_name": "JimyBee",
+      "author_alias": "JimyBee",
+      "developer_response": {
+        "body": "Thanks for the feedback, Jimy. A few of the statements in your review are not correct, and we want to clarify them for accuracy.\n\nFree conversions: It is not “one free video total.” You can create one free 20-second preview video conversion per day. For photos, users start with 5 free conversions and then receive 1 additional free photo conversion per day. More conversions are available via in-app purchases, which helps cover the ongoing server costs of 2D to 3D processing.\n\nMore than conversions: immerGallery is not only about 2D to 3D. It also includes features that many free viewers do not offer, such as VR slideshows with your own audio and voice-overs, layered special effects, strong automatic image and video format detection, and support for formats like iPhone Spatial Photos and .mpo. There are many more features listed on the immerVR website.\n\nMultiplayer: Multiplayer is designed for synchronized VR viewing and navigation. Each participant needs access to the same files so switching slides stays smooth and does not depend on the slowest connection. We are not aware of a free VR gallery app that offers the same synchronized navigation experience, but we are happy to review any examples.\n\nIf you have questions or need help, you can reach us on Discord or by email (support@immervr.com).",
+        "date": 1772536158
+      }
+    },
+    {
+      "id": "1080894195105740",
+      "score": 1,
+      "review_title": "This is shi#",
+      "review_description": "Don't buy.",
+      "date": 1776794835,
+      "review_helpful_count": 1,
+      "author_display_name": "ShadowyPufferfish1237",
+      "author_alias": "ShadowyPufferfish1237",
+      "developer_response": {
+        "body": "We are sorry the app did not meet your expectations. If there was a specific problem, we would be glad to hear it. You can reach us on Discord or at support@immervr.com",
+        "date": 1776974166
+      }
+    },
+    {
+      "id": "869374069016770",
+      "score": 5,
+      "review_title": "Best app to browse photos",
+      "review_description": "ImmerGallery was the first app I bought for my new Quest 3 and I have not been disappointed. It makes life really easy, especially with browsing your photo collection through secure Samba (after you set it up).\nI also liked that the developer added a new functionality to the app that I requested and made sense, ability to scale the photos in size, not only in space. \nThe atmospheric settings are also very nice when browsing photos.",
+      "date": 1768072008,
+      "review_helpful_count": 7,
+      "author_display_name": "AstralFields",
+      "author_alias": "AstralFields",
+      "developer_response": {
+        "body": "Many thanks for your great review! I am very happy that everything works well with SMB image viewing! Also thanks for your feedback suggestion of the extra photo scale slider which I happily implemented and can now benefit all users.",
+        "date": 1772536762
+      }
+    },
+    {
+      "id": "1236152711735612",
+      "score": 5,
+      "review_title": "Excellent solution for 3D MPO images",
+      "review_description": "I own a Fujifilm W3 3D camera for more than 12 years now that produces 3D images in the MPO format. I can view images on an old projector with shutter glasses but that is an inconvenient solution. The native Meta OS can't read MPO, and an older VR player I purchased on the Meta store  has become buggy after not being updated since 2022. \n\nImmerGallery to the rescue ! The software renders my Fuji MPO 3D images beautifully and the user interface is excellent. It really makes the images feel alive, much better than my dim projector. I will definitely use my Fuji W3 camera more these days, hoping it won't break. Five stars all the way ! Danke nach Germany !",
+      "date": 1767580596,
+      "review_helpful_count": 6,
+      "author_display_name": "Paradroid44",
+      "author_alias": "Paradroid44",
+      "developer_response": {
+        "body": "1000x Thanks for your great review! It's great to see that even for the older 3D cameras you can get great value from immerGallery as we are supporting even the older image formats like .mpo.",
+        "date": 1772536839
+      }
+    },
+    {
+      "id": "1275587597791350",
+      "score": 5,
+      "review_title": "It works as intended",
+      "review_description": "I've had the app for a year and it is great for viewing 3d photos.  it was one of the first app that allowed me to use my quest 3 as a 3d video camera.  i bought it on sale and wouldn't say full price is worth it for casual users.",
+      "date": 1770584852,
+      "review_helpful_count": 0,
+      "author_display_name": "Roomyplains",
+      "author_alias": "Roomyplains",
+      "developer_response": {
+        "body": "Many thanks for your great review! I am very happy you found good usage of the 3D Camera feature using the front cameras of Quest. Indeed, we were the very first ones offering that feature and still update this with the new Meta Camera Passthrough API updates, e.g., recently we added the 1280x1280 resolution for the \"Easy Camera\" in the app.",
+        "date": 1772536605
+      }
+    },
+    {
+      "id": "32675312655447879",
+      "score": 5,
+      "review_title": "Great app for viewing 3D photos",
+      "review_description": "Definitely a 5 star app!  immerGallery does an excellent job of optimally displaying the 3D photos I took with my cameras, which is my primary use.  I particularly like the  \"immerGenerator\" app, which allows each of my photos to be individually set for virtual curved screen mode, and to be able to specify my preferred screen size.  Extra high resolution display mode can be enabled for each image.  Very nice!\n\nI also enjoy the ability to efficiently identify \"favorite\" photos, display a GPS map of where the photo was taken (if the camera provides GPS information), and to optionally display my text description of each photo.  I like immerGallery's \"multiplayer\" mode, which allows multiple users to collaborate in viewing the a set of photos.\n\nThese are the features of immerGallery that I use the most, plus there are many other features that I am still learning to use.  Overall, this app is the best tool I have used for displaying 3D photos, and I highly recommend it.",
+      "date": 1765517536,
+      "review_helpful_count": 6,
+      "author_display_name": "dv3d",
+      "author_alias": "dv3d",
+      "developer_response": {
+        "body": "Many thanks for your this great review! Fantastic that you also use our free immerGenerator tool to create custom VR slideshows with optimized settings for the ideal way you want to present your content!",
+        "date": 1772536919
+      }
+    },
+    {
+      "id": "857719646954219",
+      "score": 5,
+      "review_title": "Impressive Photo (and more) viewer",
+      "review_description": "Amazing full function image viewer.  My 2D photos look amazing.  Much better than on any of my other Quest 3 image viewers.  The slideshow works flawlessy.  I can size and zoom on images.  Text on images (e.g. comic books) read in perfect resolution.  The apps included 3D images are fantastic.  Many come with narration.  The app gives free weekly 3D images as reward (have to claim for free each week or can buy sets later).\n\nI flawlessly stream my Images from my PC using SMB, so no need to use up your headset storage \n\nDeveloper support is fast, professional and personable. The app is regularly updated with updates and new features.",
+      "date": 1765124643,
+      "review_helpful_count": 7,
+      "author_display_name": "Perley_Gates",
+      "author_alias": "Perley_Gates",
+      "developer_response": {
+        "body": "Thank you very much for your great review! I am very happy you noticed the very high image quality that immerGallery achieves! There has been quiet some work and fine tuning for all supported VR devices to tweak that to be highly optimized.",
+        "date": 1772537000
+      }
+    },
+    {
+      "id": "793300670151800",
+      "score": 5,
+      "review_title": "Excellent viewer and Support",
+      "review_description": "We use IMMERGallery for our rapid testing of spatial video compositing files -- It is a fantastic tool.   When we had some challenges with a new file format, we received near-instant support from Daniel and were able to have the issue resolved quickly.   Highly recommend.",
+      "date": 1760390825,
+      "review_helpful_count": 6,
+      "author_display_name": "zyntroPICS",
+      "author_alias": "zyntroPICS",
+      "developer_response": {
+        "body": "Many thanks for your great review! I am very happy we were able to get the support topic solved so quickly and that you enjoy immerGallery so much for your videos!",
+        "date": 1772537074
+      }
+    },
+    {
+      "id": "1308030047770771",
+      "score": 5,
+      "review_title": "Great App!",
+      "review_description": "This really is the best way to view 3D photography on Meta Quest.\n\nPhotos are automatically recognized as 3D/Spatial and displayed effortlessly. \n\nOn top of this, there is consistent support and development. With features such as rewards for logging in, in the format of free bundles of 3D content, and new features being added regularly. \n\nAlso when I ran into a small issue support was quick and extensive.\n\nThis is a must have app to really fully enjoy spatial content with the Quest. Highly recommend !!",
+      "date": 1759049737,
+      "review_helpful_count": 4,
+      "author_display_name": "yokkabai",
+      "author_alias": "yokkabai",
+      "developer_response": null
+    },
+    {
+      "id": "1556186352034028",
+      "score": 5,
+      "review_title": "the viewer we deserve",
+      "review_description": "Finally an app to take the opportunities seriously again that lie in the VR photo/video experience! Great to see them tackling multiuser - and PCVR, soon - too - I want to share my growing VR180 photo collection with remote friends and family over a chat and a shared cup of coffee.",
+      "date": 1756815996,
+      "review_helpful_count": 7,
+      "author_display_name": "psb",
+      "author_alias": "psb",
+      "developer_response": null
+    },
+    {
+      "id": "844612222062243",
+      "score": 2,
+      "review_title": "Frustrating",
+      "review_description": "No simple way to upload no upload button just got it looks good but can’t get started  !completed as not a computer expert not user friendly just spent long time trying  to working it out !",
+      "date": 1759668441,
+      "review_helpful_count": 1,
+      "author_display_name": "BeetleJuiceUK",
+      "author_alias": "BeetleJuiceUK",
+      "developer_response": {
+        "body": "Thanks you very much for purchasing immerGallery, and I am sorry for the rough start. When you mention an \"upload button\", do you mean adding your own files to Quest? On Quest, files are copied (not uploaded in-app). We have a short video: \"How to copy files to Quest\" on our website immerVR.com. In any case, please email me at support@immerVR.com and I am certain we can resolve this together.",
+        "date": 1759692927
+      }
+    },
+    {
+      "id": "654076194465936",
+      "score": 5,
+      "review_title": "Very Creative VR Image Viewer",
+      "review_description": "I was using the demo version for a few months and was mesmerised by the way the images were treated to their fantasies.  Audio commentaries, geo mapping, enhancing the stills with video effects truly enhance the image viewing experience.  The huge library of serene images from around the world are truly captivating and hold me spell bound as I enjoy my virtual travelling to places I may have never been able to visit.\n\nIt is a very creative and innovative paradigm in bringing life to still images and making them more pleasurable to view and enjoy..\nbettering watching a VR video\n\nThanks.  Keep up the wonderful job going.  Hope to see more new features and enhancements coming soon.",
+      "date": 1753718324,
+      "review_helpful_count": 7,
+      "author_display_name": "Krips50",
+      "author_alias": "Krips50",
+      "developer_response": {
+        "body": "Thank you very much for your great review! I am very happy you like the app so much and enjoy our unique features like the interactive map, based on GPS data, the voice-overs and more.",
+        "date": 1754833334
+      }
+    },
+    {
+      "id": "732361806619100",
+      "score": 4,
+      "review_title": "Captured 3D photo with ghosting",
+      "review_description": "I used a 3D camera and found a problem, when taking 3D photos and videos, there will be shadows on the left and right sides of the photo, this may be due to the distance between the two cameras caused by the edge information of the two eyes is not synchronized, resulting in insufficient overlap and ghosting, can it be solved?",
+      "date": 1751459954,
+      "review_helpful_count": 3,
+      "author_display_name": "billiontoast",
+      "author_alias": "billiontoast",
+      "developer_response": {
+        "body": "Thanks for using immerGallery! I'm very sorry about the issue you reported. Could you please check that, in the Meta settings of your Quest, under Camera, you have Image Stabilization set to Off?\n\nWhat you described might be caused by that setting. When you move your headset quickly, it tries to stabilize the motion by shifting the image based on the movement. With faster movements, it may not have the necessary pixels to fill in the image, which leads to black pixels.\n\nIf switching stabilization off doesn't solve the issue, please email me at support@immervr.com with more details.",
+        "date": 1751665040
+      }
+    },
+    {
+      "id": "4256178694661624",
+      "score": 5,
+      "review_title": "Impressive",
+      "review_description": "After not being able to get the camera working (my fault, needed to enable access to mic), i'm really impressed. Only used easy camera so far and look forward to enabling advanced. Thanks. 👍",
+      "date": 1758452846,
+      "review_helpful_count": 0,
+      "author_display_name": "SonTplus",
+      "author_alias": "SonTplus",
+      "developer_response": null
+    },
+    {
+      "id": "773663125835122",
+      "score": 1,
+      "review_title": "Black rectangle on screen",
+      "review_description": "Can't get rid of Black screen on recording 3d photo..ang black screen kn playback..it says reboot to get rid and it's the same upon rebooting.",
+      "date": 1759037073,
+      "review_helpful_count": 0,
+      "author_display_name": "QuirkySeaLion5446",
+      "author_alias": "QuirkySeaLion5446",
+      "developer_response": {
+        "body": "Update March 2026: This was a known bug through the older Meta Camera Passthrough APIs. It has been fixed from Meta's side and now also works without issues in newer immerGallery versions. If you like to try again, please feel free to contact me at support@immervr.com for a new test version.",
+        "date": 1772537178
+      }
+    },
+    {
+      "id": "710811412125097",
+      "score": 5,
+      "review_title": "Fantastic",
+      "review_description": "Amazing, easy to use app for viewing vr images made with Canon dual fisheye lenses. Very great and helpful costumer service. Couldn't recommend it more!",
+      "date": 1756970202,
+      "review_helpful_count": 1,
+      "author_display_name": "Anthony9494",
+      "author_alias": "Anthony9494",
+      "developer_response": null
+    },
+    {
+      "id": "604922842700881",
+      "score": 5,
+      "review_title": "Awesome for 360 pics",
+      "review_description": "That’s simply that . I watched tons of tutorials on how to watch my own private 360 pictures on my quest 3 , but whatever I did , my 72mp 360 pictures , as nice as they are on tv or laptops , were showing very poorly in the native image viewer . \nI was kind of short of options as many video players promise to let you watch pics but they are in fact very limited.\nSo I gave ImmerseGallery a try. Ok , don’t get me wrong , it’s pricey , 30 bucks are not always easy to put out when it comes to something you could expect as a native feature of your VR headset .\nBut hear me out , it is frankly worthy of the price . Seriously, all my 360 pics are nice and crispy , as if they have been upscaled, and without any degradation. That’s a revelation.\nI still don’t know for videos , gonna try this soon , but if you are looking for a very good image viewer , that’s the way to go .",
+      "date": 1742990575,
+      "review_helpful_count": 11,
+      "author_display_name": "Monsieur_Nobody",
+      "author_alias": "Monsieur_Nobody",
+      "developer_response": null
+    },
+    {
+      "id": "603964785964450",
+      "score": 5,
+      "review_title": "Best photo viewer, conversion is magical",
+      "review_description": "I use it to watch 3d photos shot by iPhone,”\nThis is first app able to open heic without converting it to sbs elsewhere \nAlso no issues detecting half/full sbs, almost any picture opened as it should\n\nAnd conversion of 2d images to 3d is beautiful\n(1 free per day, and if you want you can buy credits and convert any number of photos. Price is acceptable )\nYes, some artifacts often, but overall it is as immersive as it can be now\nMaybe covertion to spatial on apple vision pro is better, but i have quest3 and this app do what i want for sure.\n\nI caught some problems while trying to convert many photos at once, but splitting them into groups by 50 fixed that issues\n\nI am happy to recomend this app to all my friends and they also amazed by 3d pictures of places we were 10 years ago",
+      "date": 1744109409,
+      "review_helpful_count": 5,
+      "author_display_name": "Shiny.Dawkins",
+      "author_alias": "Shiny.Dawkins",
+      "developer_response": {
+        "body": "Thank you very much for your great review! I am very happy that you like it so much! Indeed, opening the .heic images directly saves a lot of work. I am also very happy that you like the spatial conversions so much bringing the 2D images to 3D! There was indeed a server memory issue a few days before your review where it might have failed with 100 images for conversion. This should be fixed now. Please feel free to try it again. If it fails, please be assured that after 24h the StereoGold is added back if the converted results are not delivered. Many thanks!",
+        "date": 1745594329
+      }
+    },
+    {
+      "id": "1032843108666435",
+      "score": 5,
+      "review_title": "Best Media Viewing App for VR Content",
+      "review_description": "A brilliant app with many handy features. The auto-detection feature works well.  I don't have to tag or label the content beforehand. Occasionally, the aspect ratio is wrong, but easily corrected. The voice control feature is pretty cool. Once you start using it, you won't look back. VR180 content from my Canon dual fisheye lens looks amazing. Disable the lens mask option in the EOS VR utility when converting your images to equirectangular format. There's a special option in ImmerGallery that crops the images slightly to hide the camera lens which are captured in the original photo. Highly recommended.",
+      "date": 1742271228,
+      "review_helpful_count": 12,
+      "author_display_name": "stephenoz",
+      "author_alias": "stephenoz",
+      "developer_response": null
+    },
+    {
+      "id": "742092262328277",
+      "score": 3,
+      "review_title": "Seems good except….",
+      "review_description": "I cannot remove black rectangle when attempting to take 3d pics.  Followed all advice to get rid of it to no avail.  Any help before I get a refund?",
+      "date": 1758137350,
+      "review_helpful_count": 0,
+      "author_display_name": "VegasMike5857",
+      "author_alias": "VegasMike5857",
+      "developer_response": {
+        "body": "Update March 2026: This was a known bug through the older Meta Camera Passthrough APIs. It has been fixed from Meta's side and now also works without issues in newer immerGallery versions. If you like to try again, please feel free to contact me at support@immervr.com for a new test version.",
+        "date": 1772537211
+      }
+    },
+    {
+      "id": "682762381576783",
+      "score": 5,
+      "review_title": "Best panoramic image viewer for MQ3",
+      "review_description": "I switched from another panoramic image viewer to ImmerGallery because the user interface and features are far superior to any others we've tried. The developer is responsive and obviously uses his own product so knows what makes a good panoramic image viewer. I highly recommend this software.",
+      "date": 1744836373,
+      "review_helpful_count": 3,
+      "author_display_name": "Oculus6oculus",
+      "author_alias": "Oculus6oculus",
+      "developer_response": {
+        "body": "Thank you very much for your great review! I am very happy you like the app so much. It is indeed amazing how great panoramas can look in VR.",
+        "date": 1745797547
+      }
+    },
+    {
+      "id": "1161685238738159",
+      "score": 5,
+      "review_title": "Image viewer that works great",
+      "review_description": "I was looking for an app that would let me view images from my NAS on the Quest, and this does the job beautifully! Being able to play audio files alongside the images is a big bonus as well.\n\nOne feature I would love to see is the ability to 'shuffle' or randomise the image viewing order. Being able to select multiple image source folders would also be a great addition.",
+      "date": 1741532902,
+      "review_helpful_count": 7,
+      "author_display_name": "sradders",
+      "author_alias": "sradders",
+      "developer_response": null
+    },
+    {
+      "id": "606069405788950",
+      "score": 5,
+      "review_title": "Best 3D Viewer and great support!",
+      "review_description": "Great app!  It does everything that other have said, but I just want to say that their support is great!  Fast and informative!",
+      "date": 1744666437,
+      "review_helpful_count": 1,
+      "author_display_name": "ytripleseven",
+      "author_alias": "ytripleseven",
+      "developer_response": {
+        "body": "Many thanks for your great review! Also I am very happy about your compliments regarding the service. I am always happy to help!",
+        "date": 1745797606
+      }
+    },
+    {
+      "id": "1619787445341935",
+      "score": 5,
+      "review_title": "Beautiful image viewer w cool features",
+      "review_description": "Fantastic app! Try it out for free - they have a demo version where you can already watch 3D and panoramic images on your Quest.\n\n- It’s the only image viewer you will need - it detects all formats and provides the best immersive environment for viewing them.\n- Has separate favourites folders so you can tailor what guest viewers are going to see.\n- You get a free 2D to 3D photo conversion each day (plus 10 previews!) - actually quite impressed by the effect.\n\nI love the amount of details that went into the design - if you have a fear of heights or spiders, there are actually settings that will guard you against feeling overwhelmed by the experience. I also love the ambient colouring of the background of your images and the smooth transitions between images which makes for very pleasant and nausea-free viewing.\n\nLast not least, the developer is really passionate about his product, very open to feedback, and really took time to address and resolve questions I had.",
+      "date": 1736417638,
+      "review_helpful_count": 7,
+      "author_display_name": "jodoberliner",
+      "author_alias": "jodoberliner",
+      "developer_response": null
+    },
+    {
+      "id": "1030925322126991",
+      "score": 5,
+      "review_title": "Works perfectly",
+      "review_description": "I own a VR180 Lenovo Mirage camera, and needed a way to experience my immersive pictures with the Quest. The default Quest picture app used to be able to render them, but not anymore.\n\nFortunately this app exists and it works perfectly. I can see my pictures again!",
+      "date": 1735983706,
+      "review_helpful_count": 7,
+      "author_display_name": "BoDlulu",
+      "author_alias": "BoDlulu",
+      "developer_response": null
+    },
+    {
+      "id": "543715742147722",
+      "score": 5,
+      "review_title": "Stunning Spatial Memories",
+      "review_description": "immerGallery is the perfect app for anyone who owns a Meta Quest and wants to effortlessly enjoy a spatial/3D viewing experience. It has been a fantastic (and uncomplicated) tool for reliving all of my current VR180/360 memories plus classic stereoviews going back decades and enjoying them in the visual beauty of VR. Works flawlessly for video and images.",
+      "date": 1733837856,
+      "review_helpful_count": 9,
+      "author_display_name": "Calico3D",
+      "author_alias": "Calico3D",
+      "developer_response": null
+    },
+    {
+      "id": "1341793507174786",
+      "score": 1,
+      "review_title": "To many in app purchases,",
+      "review_description": "Bought this app based by 5 star reviews, had it for 2 years, notice greed, increased in app purchases, bugs in app not fixed, I would recommend to stay away from this app, 5 star reviews possibly fake.",
+      "date": 1735398698,
+      "review_helpful_count": 8,
+      "author_display_name": "marklck",
+      "author_alias": "marklck",
+      "developer_response": {
+        "body": "Hi Mark,\n\nThanks for your review. I am sorry that you seem to be unhappy regarding the in-app purchases. As you have been using the app for two years already, you surely noticed that we added lots of new features and updates for everyone. Recent examples: multiplayer mode to watch images together, free weekly and monthly reward galleries when you regularly use the app and spatial image conversions.\n\nAll of these provide additional benefit for users who made a one-time purchase of immerGallery. However, all of these also introduce additional running cost on our side, not only in time, but also financially for the servers (multiplayer traffic and voice, hosting with traffic, compute for conversions). Nevertheless, you can use all these without any extra cost after the one-time purchase of the app.\n\nYou can optionally spend money through in-app purchases on the following items:\n\n1) Premium DLCs: East Germany and Egypt. These contain various high-quality 3D images with voice-overs explaining the historical backgrounds about these regions. If you are not interested in these, there is no need to purchase them. You can still fully use the app.\n\n2) Missed Rewards: as mentioned, you can collect all reward galleries for free. However, you need to use the app during the specific week to claim each reward. If you miss it, you can purchase missed rewards after a few months, based on how many you have missed within a four-month period.  If you are not interested in these, there is no need to purchase them. You can still fully use the app.\n\n3) Spatial Conversions: Each day you use the app, you receive one StereoGold for a free 2D to 3D image conversion. These will add up, you don't have to use them on the same day. However, if you want to convert more images, which increases the load on our servers, you can optionally purchase additional StereoGold for more conversions. If you are not interested in that, there is no need to purchase it. You can still fully use the app.\n\nRegarding bugs: If you have encountered any bugs, please let me know through support@immerVR.com or any of the social media channels. Everyone who has reported a bug or had a question about the app received a prompt reply, usually within 24 hours.",
+        "date": 1736084442
+      }
+    },
+    {
+      "id": "533789126481849",
+      "score": 5,
+      "review_title": "Outstanding app",
+      "review_description": "I love everything about this app! It is excellent as it is but also has great potential moving forward. You can connect some effects and sounds to your images, allowing cool ideas like narrated tours or (like in my case) viewing photos with an added “atmosphere” to them. It’s a five-star app and a must in your Quest.",
+      "date": 1736097355,
+      "review_helpful_count": 1,
+      "author_display_name": "Pmrquest65",
+      "author_alias": "Pmrquest65",
+      "developer_response": null
+    },
+    {
+      "id": "912038044363215",
+      "score": 5,
+      "review_title": "My Top Player App!!",
+      "review_description": "I own every paid player app and several free ones that I have tested in multiple scenarios over the past couple of years and this app is by far the most outstanding and usable in multiple situations. I found it difficult to imagine that there were so few quality apps available to simply view images and to have flexibility and how they were viewed and to modify them. Having discovered this app, my congratulations to the design team who are exceptional in both their understanding and in their execution of this player.\n\nOne of the most enjoyable features is how static images are viewed generating a surrounding field of complementary colors drawn from the images themselves. This makes the viewing much more enjoyable and engaging. The ability to wrap the screen on 2-D images, especially panoramic engages a much more immersive experience.\n\nI have been working on animations in VR and also in AI and the challenge has been to be able to have a player with sufficient speed adjustments to be able to view Works in VR and then determine the optimum viewing speed. This is the only app I have found that allows as wide range of speeds making review and analysis much easier and effective.\n\nI am looking forward to the continuing development of their video player and its features as I use this app on a dai",
+      "date": 1733717158,
+      "review_helpful_count": 9,
+      "author_display_name": "Randall.A.Hayward",
+      "author_alias": "Randall.A.Hayward",
+      "developer_response": null
+    },
+    {
+      "id": "477806192090756",
+      "score": 5,
+      "review_title": "Great App and Support",
+      "review_description": "Strongly recommend. The app itself and the great support by the ImmerVR Team.",
+      "date": 1733671251,
+      "review_helpful_count": 5,
+      "author_display_name": "Avatarzzz437",
+      "author_alias": "Avatarzzz437",
+      "developer_response": null
+    },
+    {
+      "id": "471373659384554",
+      "score": 5,
+      "review_title": "Incredible App!!",
+      "review_description": "The ability to turn your quest 3 into a 3d camera and video camera makes this app a must buy. Also their follow up and customer service is outstanding. Thank you!!!",
+      "date": 1727913610,
+      "review_helpful_count": 2,
+      "author_display_name": "GamerDad4Life",
+      "author_alias": "GamerDad4Life",
+      "developer_response": {
+        "body": "Thanks a lot for this great review! I am very happy you were able to use our 3D camera feature of Quest 3 and hope you got cool 3D photos out of it.",
+        "date": 1733096915
+      }
+    },
+    {
+      "id": "1647064426073404",
+      "score": 5,
+      "review_title": "Fantastic",
+      "review_description": "This app is much needed if you like creating and viewing your own 3d media. I love how you can make it more immersive by adding sound and special effects. I have some old Cardboard camera 360 images which I view in 2d. It would be nice if I could make them stereoscopic which I think the old Google app used to do. I am now taking spatial video on my iPhone 15 pro and also spatial photos using the Spatialify iphone app. Currently I need to export them from the app as side by side versions so ImmerGallery can view them. I export to dropbox which I load up in the MetaQuest browser to download to the headset. It would be good in the future if ImmerGallery recognised Apple’s spatial format for both video and photos so no conversion is needed. I see this is already promised for video in the future. Keep up the good work! Even basic stuff like sorting by date is so useful and woefully missing from Metas Files app.",
+      "date": 1722686944,
+      "review_helpful_count": 11,
+      "author_display_name": "Markazzy",
+      "author_alias": "Markazzy",
+      "developer_response": {
+        "body": "Thank you very much for your great review! It's great to read that you can use it with so many sources. The iPhone Spatial Photos support is meanwhile added, please check the latest 1.3.0+ version. We are also working on Apple Spatial Video support for future updates.",
+        "date": 1733096631
+      }
+    },
+    {
+      "id": "3681953715407876",
+      "score": 5,
+      "review_title": "Excellent app and great support!",
+      "review_description": "I bought this app to view old Fuji 3D pictures and was surprised not only by it's quality and ease of use, but also it's ability to modify the image format to correct (in the case of people like me) 3D photos taken with the wrong settings. I was able to view photos that I never thought I would see again! It also supports 180/360 degree. The developer is super helpful and friendly, and I look forward to seeing where this app goes in the future.",
+      "date": 1717126608,
+      "review_helpful_count": 12,
+      "author_display_name": "impossiPaul",
+      "author_alias": "impossiPaul",
+      "developer_response": {
+        "body": "Many thanks for your great review! I am very happy to read that your Fuji W1/W3 images are working out of the box in our app - as it should be. Many thanks also for the great compliment to me as developer.",
+        "date": 1717662002
+      }
+    },
+    {
+      "id": "504220105391282",
+      "score": 5,
+      "review_title": "Fantastic update!",
+      "review_description": "Just when I thought ImmerGallery couldn't get any better, you go and add video playback! Awesome! Thank you. I know there are other video players out there...and I own several of them but it's so nice to have one inside your app as well along with picture viewing all in one app. I have zero buyer's remorse after purchasing ImmerGallery awhile back. I bought all the DLC pic packs as well. The free pic packs you get after using the app once a week is genius.",
+      "date": 1719812280,
+      "review_helpful_count": 4,
+      "author_display_name": "JaymzLkLr",
+      "author_alias": "JaymzLkLr",
+      "developer_response": {
+        "body": "Many thanks for your great review! I am very happy you explored the DLCs as well! As you have probably seen, that premium content took a lot of extra work to capture and to add the voice-overs with historic content. I am glad this is used and people can experience East Germany and Egypt through app in such an immersive way.",
+        "date": 1724369303
+      }
+    },
+    {
+      "id": "1202999474455912",
+      "score": 5,
+      "review_title": "Great visual quality and overall UX",
+      "review_description": "This app is easily the best way to view any 360 or VR180 images you may have. Where the built-in Quest media viewer seems to cut down the resolution when viewing immersive panos, ImmerGallery displays them at full resolution to great effect. It also has a much easier-to-navigate user interface, as well as more options for image projections and layouts, and effects like audio and animations. I was pleasantly surprised to find out-of-the-box support for .mpo files, which meant I could even view the 10-year-old pictures off my old Nintendo 3DS on a big 3D screen!\nAlso, it has a built-in platform for downloading VR photos, of which there’s an excellent variety of free photos and some paid ones. There’s new free content added regularly, and it’s definitely worth checking out.\nI can confirm the developers are also very responsive: when I reported a minor visual bug in a recent version, I got a response the same day and a fix not long after!\n(Also, they recently added a video player- I haven’t even tried that yet!)",
+      "date": 1719535559,
+      "review_helpful_count": 3,
+      "author_display_name": "Booksds",
+      "author_alias": "Booksds",
+      "developer_response": {
+        "body": "Thanks a lot for your great review! I am very happy that you like the app so much! It's great to go back to old captures like your old 3DS .mpo files and revisit these times! I hope they do look reasonably well in VR!",
+        "date": 1724369220
+      }
+    },
+    {
+      "id": "438404212412808",
+      "score": 5,
+      "review_title": "simply the best",
+      "review_description": "Great app for viewing al of your 2d and 3d pictures, from (I have quest 2) on board storage or SMB, and with videos now included, really looking forward to the SMB connections for these, and the USB connection ability that is coming, will be marvellous for the pictures and videos. It will make this app the go to app for all media. Also very importantly the developer is very reachable and friendly (Facebook) and quick to help or take requests for extra/new abilities for the app. I have the paid for app and it is very good value.",
+      "date": 1719838462,
+      "review_helpful_count": 1,
+      "author_display_name": "roger.489302",
+      "author_alias": "roger.489302",
+      "developer_response": {
+        "body": "Thanks a lot for your great review and for sharing your experience with the app! Yes, video support was a big step and it will get better with every update. SMB and USB support is still ahead and will be great once it works for everyone.",
+        "date": 1724369422
+      }
+    },
+    {
+      "id": "1168362447819562",
+      "score": 5,
+      "review_title": "Fantastic app!",
+      "review_description": "Very comprehensive app, lots of controls and image quality is great. Very powerful : )\n\nJust some small requests, for 2d images, it would be great if the options let you move it further back in space by default .i turned the distance to max, and they still seemed a little close for me, especially for vertical images.\n\nAlso, I might have missed this in the options, but would be great if it would be possible to move forward or backwards with hand gestures, as well as controllers and voice.",
+      "date": 1718434513,
+      "review_helpful_count": 1,
+      "author_display_name": "TinyDancer7919",
+      "author_alias": "TinyDancer7919",
+      "developer_response": {
+        "body": "Many thanks for your great review! Thanks also for your feedback on the zoom out values. I will look into allowing a bit more zoom out.\n\nHand tracking is currently not supported, but you could try using the app completely controller free through voice control (enabled under Settings). We have a video on our YouTube immerVR channel that shows the basic usage and on our immerVR website, we have a full list of commands in the FAQ.\n\nFor example: \"Open three\" (opens third image). \"Next\" (switches to next image). \"Zoom out\" and so on.",
+        "date": 1718482699
+      }
+    },
+    {
+      "id": "470733115429707",
+      "score": 5,
+      "review_title": "Brilliant App",
+      "review_description": "This ticks all the boxes and is an example of a great product with a great company behind it. If you are interested in anything to do with 3D photography and creating some stunning shows and tours then this is a must, as stated elsewhere this is reason enough to get a headset. I can't wait for the standalone generator app.",
+      "date": 1716628918,
+      "review_helpful_count": 2,
+      "author_display_name": "KieronUK",
+      "author_alias": "KieronUK",
+      "developer_response": {
+        "body": "Thanks a lot for your great review! I am very happy to hear that everything works very well for you regarding 3D photos and VR slideshows. The dedicated visual generator tool will also launch soon, maybe this June or latest July 2024.",
+        "date": 1717662078
+      }
+    },
+    {
+      "id": "266479786549466",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Great VR photo viewer from a passionate developer team. The app is comfortable to use and offers a wide range of features that make you literally dive into the scenes. I particularly love the birds effect for some of my landscape photos. There are regular updates and the app is constantly being expanded. It's also fun and inspiring to browse the impressive sample galleries.",
+      "date": 1716560279,
+      "review_helpful_count": 2,
+      "author_display_name": "Trockenfleisch",
+      "author_alias": "Trockenfleisch",
+      "developer_response": {
+        "body": "Many thanks for your great words about my app! I am very happy that you like the special effects so much! It really brings life into static images.",
+        "date": 1717662166
+      }
+    },
+    {
+      "id": "1117432162914706",
+      "score": 5,
+      "review_title": "Best App for VR Photos",
+      "review_description": "Just love it!  The SMB functionality is great!  I love how I can view all my saved network pictures on the big screen.  The demo pictures and free downloads are fabulous.   Thanks!!",
+      "date": 1714515820,
+      "review_helpful_count": 1,
+      "author_display_name": "larry.klapper.562",
+      "author_alias": "larry.klapper.562",
+      "developer_response": {
+        "body": "Fantastic to hear that SMB works so well on your side and that you are very happy with our included pictures! With our free weekly rewards, there will always be plenty more to watch. Thanks a lot for your review!",
+        "date": 1717662245
+      }
+    },
+    {
+      "id": "3610916642497277",
+      "score": 5,
+      "review_title": "Great app for 3D stereo and VR!",
+      "review_description": "I wasn't expecting much for the relatively small price and \"unofficial\" tag, but was amazed at the quality of this software... and the DEMO alone was worth the price! Excellent VR from around the world with music and narration (which you can add to yours!) as well as \"plain\" stereo and VR360 (best I've seen). Seems like they are constantly upgrading and are quick to answer questions. I wouldn't hesitate to highly recommend.",
+      "date": 1713041784,
+      "review_helpful_count": 1,
+      "author_display_name": "mad52",
+      "author_alias": "mad52",
+      "developer_response": {
+        "body": "Many thanks for your great review! We are very happy that you like the demo and full version so much. Indeed, adding music and narration elevates the immersive galleries to an even better experience. Enjoy!",
+        "date": 1713443167
+      }
+    },
+    {
+      "id": "178807248653076",
+      "score": 3,
+      "review_title": "Scanning UPNP servers takes forever",
+      "review_description": "I really want to recommend this software but I cannot right now. Right now the only method that allows you to watch your gallery is either download it from internet or copy it to internal memory of your device. Local media server scanning takes 15-30 minutes in my case and it wont be that of a problem if it was only one time but when you add pictures to your gallery you need to rescan again in order to watch them. Moon vr player literally takes 3 seconds to scan your server as it should be.",
+      "date": 1702235881,
+      "review_helpful_count": 2,
+      "author_display_name": "celldweller02",
+      "author_alias": "celldweller02",
+      "developer_response": {
+        "body": "I am very sorry for the trouble you had regarding UPnP. As you noticed, we do a deep scan of all files and folders in advance. The benefit is that you will only see folders to navigate through if they ever contain any relevant images that can be display. There will be no empty folders you browse in and back out again. The drawback is the slower speed. We do save the results for the next time you start the app. As you mentioned correctly, if you change the content on the UPnP server, it has to rescan. I know that is not ideal today and that is the main reason why this is still under the \"Experimental\" tab and has the \"beta\" tag on it. \n\nSMB, also in beta, might work a bit faster as it generally reacts quicker than most UPnP setups.\n\nSorry for the issues! I am aware of it and at some point, we will offer an optional immediate mode as well (no pre-scanning).\n\nI still hope you are able to enjoy some of the other features of the app in the mean time.",
+        "date": 1702244458
+      }
+    },
+    {
+      "id": "102801916195492",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "The app displays 2D, 3D and 360° images in excellent quality and performance. It is easy to use and importing your own images is child's play. Highly recommended!",
+      "date": 1687072193,
+      "review_helpful_count": 1,
+      "author_display_name": "Durchschnittstyp",
+      "author_alias": "Durchschnittstyp",
+      "developer_response": {
+        "body": "Thanks a lot for your great review! It's great to hear that you like our high quality and fast performance so much!",
+        "date": 1687560724
+      }
+    },
+    {
+      "id": "711144940503206",
+      "score": 1,
+      "review_title": "Impossible to upload your own images!",
+      "review_description": "If you have a MAC the process for uploading your own images is a complete pain in the neck. What a waste of money (and time). Refund!",
+      "date": 1674030109,
+      "review_helpful_count": 2,
+      "author_display_name": "gigikami",
+      "author_alias": "gigikami",
+      "developer_response": {
+        "body": "Hi Gigi,\n\nThanks for trying our app and sorry for the frustration! For accessing your files from the Quest on Mac, you have to install Android File Transfer first. Meta describes this here: https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/using-your-headset/transfer-files-from-computer-to-headset/\n\nAfter running Android File Transfer, you can plugin your USB cable with the Quest. A popup dialogue will show on the Quest if you allow it to access your data, please confirm that. \n\nThe second way for data transfer as we show in our video \"Three Ways to Copy Your Images for immerGallery to your Quest 2\" on YouTube is to use SideQuest. There is a macOS Version as well. \n\nI am very sorry for the trouble you had. But I would like to ask you to reconsider the current review. The statement “Impossible to upload your own images!” is not true and it appears that the critique is targeted towards the support on Macs for Meta devices, which as a small independent developer team in Germany is out of our control.\n\nI would still be happy to get in contact with you directly. Please email me at support@immerVR.com.\n\nThanks!  \n Daniel",
+        "date": 1675029166
+      }
+    },
+    {
+      "id": "272060385927892",
+      "score": 5,
+      "review_title": "You will never  regret buying this app!",
+      "review_description": "The best VR image viewer I ever used! Thank you so much for this great app!",
+      "date": 1708818383,
+      "review_helpful_count": 2,
+      "author_display_name": "user.711",
+      "author_alias": "user.711",
+      "developer_response": {
+        "body": "Thanks a lot for leaving such a great review! Please enjoy the app!",
+        "date": 1713443435
+      }
+    },
+    {
+      "id": "205972165924584",
+      "score": 5,
+      "review_title": "Best picture viewer in the VR World",
+      "review_description": "I love to take 360 spherical panorama pictures with my Drone. Watching them with immerGallery on the Quest 3 is an  amazing experience, way better than looking at those photos on even the biggest monitor. Stand in the Air and look around, up and down is so amazing. Very nice are those special effects like adding music and other things floating in the picture. Love the Santa cruising around that christmas season. Lots of options to choose for a better experience. Only the way of bringing the files via USB from the PC to the headset should  be more easy, but that is a problem with the headset itself. Most times my PC don´t recognice the Headset as a file location. But i think immerGallery is on the way to be a No1 application for picture viewing. Wish Daniel and his team all the best! You´re doing an amazing Job.",
+      "date": 1702878626,
+      "review_helpful_count": 2,
+      "author_display_name": "Spookymike77",
+      "author_alias": "Spookymike77",
+      "developer_response": null
+    },
+    {
+      "id": "188248571028868",
+      "score": 4,
+      "review_title": "Great but...",
+      "review_description": "Great app, but it needs to be easier to access user's own pictures. Hope that the developers can add the function to access images on local network or the Internet. This is very useful because I believe most users would not put all their images in the headset.\n\n--- update 2023/11/20 ---\n\nAs the developer said, I can enable SMB in experimental settings. But I need to manually add IP address to access the device on my local network. The scan button seems not work for me.\n\nAnd I found this app does not support some character codes, for example, it cannot show Chinese characters in the SMB explorer.\n\nThere is another problem: This app can only show 500 images in one folder, which needs to be improved in the future.",
+      "date": 1700788814,
+      "review_helpful_count": 0,
+      "author_display_name": "zyd232",
+      "author_alias": "zyd232",
+      "developer_response": {
+        "body": "Thanks for your review! For accessing images from your local network, please try enabling UPnP and SMB (Samba) under Settings - Experimental. These features are still in beta, but in most cases should work fine. Please let me know if that works for you.\n\n--- update 2023/11/24 --- \nThanks for the update! Regarding the SMB scan: Could you please after a scan go to Help - Send log to developers. Or please feel free to contact me at support@immerVR.com so we can find out what is going wrong. \n\n--- update 2024/02/18 --- \nCould you please try version 1.2.4c or later regarding the Chinese characters? It should work now. Thanks for your feedback!",
+        "date": 1708264796
+      }
+    },
+    {
+      "id": "186792527857133",
+      "score": 5,
+      "review_title": "Super VR photo viewer & beyond",
+      "review_description": "I am not a pro photographer, but I am not a rookie either. Few months ago I decided to try to play with VR180 format, so I got a Canon R5 with dual fisheye lens. I searched around for the best way to watch my VR180 photos, but there is not much to choose from. It looks like the immerGallery app and Quest3 are the best available options. Initially I expected to use immerGallery only for VR180 viewing. But it turns out that this software is much more useful. Within few days I expanded its utilization to all types of still images.... be it 2D or 3D, flat, cylinder or sphere formats. By now I have been using this app for several hours each day to preview, select, sort, inspect or simply enjoy hundreds of photos taken during recent trips with multiple cameras (R5 VR180 rig, Panasonic 3D1, Fuji W3, RH1, Canon S90 dual cam rig, swipe panoramas).This app became my tool of choice for most of my photo viewing activities. The other important thing is that this app has a very good support. Since I started using it there were already two upgrades ... one with new features and the other with a bug fix and performance improvement. I highly recommend this app as a very intuitive, user-friendly and quite versatile photo  viewing software. Heck, with only few point&click Quest controller moves I was able to quickly assemble a slideshow with built-in background music, sounds and visual effects.",
+      "date": 1703994497,
+      "review_helpful_count": 1,
+      "author_display_name": "triptick",
+      "author_alias": "triptick",
+      "developer_response": null
+    },
+    {
+      "id": "186394273763447",
+      "score": 4,
+      "review_title": "Very good, but not perfect",
+      "review_description": "It recognizes 3d photos straight from my fuji 3d camera!\nBut it does not fully supports Google cardboard vr photos (2d instead of 3d, no sound). 3D panoramas works after manually converting with cardboard camera converter.\nOverall, very nice and well though out app.",
+      "date": 1660560558,
+      "review_helpful_count": 0,
+      "author_display_name": "Powered_JJ",
+      "author_alias": "Powered_JJ",
+      "developer_response": {
+        "body": "Thanks for your review! We are happy that it worked great with the images from your Fuji 3D camera. We are sorry that for Google Cardboard Camera photos we currently only support the 2D version (but with automatic pole filling!) and not the audio. If you like to email us at support@immervr.com, we can provide you with a workaround on how to extract the audio from the original .jpg file and how to use that to play in immerGallery. We would be happy to help!",
+        "date": 1662940798
+      }
+    },
+    {
+      "id": "180290285168927",
+      "score": 5,
+      "review_title": "Must-have for high-resolution stills",
+      "review_description": "I use it for 360°-2D-pictures with 32768x16384 Pixels and it works fine. The immersive impression is fantastic. Recently I added 3D-pictures by the Canon Double Fisheye - no problem. Thanks to the staff and their work!",
+      "date": 1701800557,
+      "review_helpful_count": 0,
+      "author_display_name": "tib.met.2023",
+      "author_alias": "tib.met.2023",
+      "developer_response": {
+        "body": "Thanks a lot for your great review! We are very happy to hear that it works so well even with very high-res content!",
+        "date": 1702244082
+      }
+    },
+    {
+      "id": "179594678027887",
+      "score": 5,
+      "review_title": "The best 180/360° viewer I found!",
+      "review_description": "With the Quest2, I primarily wanted to be able to view self-created 180°/3D and 360°/2D photos and videos, now in better quality than with the Oculus Go. The 'TV Viewer' of the Oculus/ Meta Quest 2 manages this very hesitantly, but it is no joy! For each image stored in the memory, for example, you have to manually specify the projection mode 180/360 and 3D/2D again. And the next day the Quest internal browser can't remember: for each object you have to specify these meta-information again! Not so with immer-VR: the browser reads this information from the metadata of the images, (if not contained an AI in the app try to set correct mode!) and immediately displays them correctly! From all well-known camera manufacturers: Insta360, Theta, Xiaomi Mi, Vuze and 2D photos anyway. The operation and display of the controller assignment is also very nicely solved in the app! Even the possibility of creating slide shows with your own sound (mp3 file) for each picture! I have searched in vain for all this with many other viewers. If I had always discovered this App earlier, I could have saved myself a lot of time: a real revelation for me! As a newcomer to the shop, you can save another 25% with the code WELCOME25. I also think it's great that it's a one-off price and not a subscription model! Thanks a lot for that App!",
+      "date": 1672942677,
+      "review_helpful_count": 1,
+      "author_display_name": "mini.hahn",
+      "author_alias": "mini.hahn",
+      "developer_response": {
+        "body": "Thanks a lot for your great and detailled review! Great to read that it does work with all of your images as expected!",
+        "date": 1673056027
+      }
+    },
+    {
+      "id": "178002984746825",
+      "score": 5,
+      "review_title": "Finally a solution for Google Cardboard!",
+      "review_description": "I've been searching for a better way to enjoy my old Google Cardboard Camera 360° photos on my Quest 2 and this is exactly what I was looking for! This app will allow you to view Google's Cardboard Camera VR images natively in mono 360° VR. However, if you first convert them to top-bottom stereoscopic images (google 'Cardboard Camera Converter') then you can view them in full 3D 360° VR. With the automatic image format detection and ability to navigate through folders (albums), it's such a great way to easily view all my photo memories.",
+      "date": 1666126051,
+      "review_helpful_count": 2,
+      "author_display_name": "WorldInMyEyes",
+      "author_alias": "WorldInMyEyes",
+      "developer_response": {
+        "body": "Thanks a lot for your great review! We are very happy that you are enjoying your Google Cardboard Camera photos in immerGallery! The hint with the Cardboard Camera Converter is great for converting the VR360 stereo .vr.jpg files into a common format like top/bottom.",
+        "date": 1666259026
+      }
+    },
+    {
+      "id": "159411186565187",
+      "score": 5,
+      "review_title": "Amazing APP for VR 3D slide shows",
+      "review_description": "immerGallery is an amazing APP for the Quest to create and view VR 3D slideshows. It is the first and only tool so far that offers all the necessary features for creating an interactive VR 3D Slide Show.\n\nImages are assigned special attributes within the APP itself; one can even have rain or snowfall appearing on them.\n\nIn addition, there is a File Generator on the webpage, which allows for setting the displaying seconds for each slide, indicating texts, sound recordings and music, including geographical maps, among other features. All the files just need to be in the same folder on the Quest under Pictures or Downloads and be named accordingly. Of course, this folders can then be zipped and sent to other users to have them watch the show on their devices.\n\nAs a stereoscopic photographer, I am particularly grateful for the inclusion of 3D MPO and JPG files into the program. The developer is very helpful with answering questions and including customer's suggestions into the updates, if possible.\n\nTo sum it up: immerGallery is a highly professional application for the Quest and corresponds to Meta's efforts to use the device not only for gaming but also for working purposes. As such, companies can create own product advertisement galleries in immersive VR 3D. For private purposes, immerGallery's slide shows of one's travel experiences in this format can provide more details to the audience.",
+      "date": 1653514053,
+      "review_helpful_count": 1,
+      "author_display_name": "Claudita7",
+      "author_alias": "Claudita7",
+      "developer_response": {
+        "body": "Thanks a lot for your very detailed review! For us, it was at first a surprise how large and active the low-field-of-view 3D photo community is and that they are using their camera daily! We are very happy to support all these formats from .MPO to .jpg-SBS to .jps - all with automatic image format detection.",
+        "date": 1656444162
+      }
+    },
+    {
+      "id": "158711543761100",
+      "score": 5,
+      "review_title": "great tool!",
+      "review_description": "As an art scholar, I also analyze spatial art, but have had the problem of documenting its spatiality. With the help of immerGallery, I have been able to easily navigate and view 3D images of art installations captured with my camera. A real quantum leap for my work!",
+      "date": 1678694872,
+      "review_helpful_count": 2,
+      "author_display_name": "ewattolik",
+      "author_alias": "ewattolik",
+      "developer_response": null
+    },
+    {
+      "id": "144162604974939",
+      "score": 5,
+      "review_title": "It gets the important stuff right!",
+      "review_description": "After being impressed by the free demo, I bought the full version. And it actually gets my images displayed without tweaking and fixing image formats and so on. It just works and shows you your photos. Of course there is a lot more to it, quality is as good as it can be on a Quest, it’s self explaining and intuitive. The dev is responsive as well… very curious what the future holds for is. I really like the map view being attached to the controller, it’s a neat idea.",
+      "date": 1662490889,
+      "review_helpful_count": 2,
+      "author_display_name": "sabuty",
+      "author_alias": "sabuty",
+      "developer_response": {
+        "body": "Thanks a lot for getting the full version of immerGallery and your great review! It's great to hear that our automatic image format detections works so well!",
+        "date": 1662940862
+      }
+    },
+    {
+      "id": "143512995287393",
+      "score": 5,
+      "review_title": "Great 3D and 2D picture viewer",
+      "review_description": "Just wanted to leave a review here:  Immersive pictures in general, especially 360° ones, are an experience everyone should get to see at least once. Standing in one makes you sad that it isn't possible with current technology to have them come to life as real 3D environments, to walk around in. Regardless, being able to have access to images like this is pretty amazing already. And this app does a great job at giving just that access. As someone who hasn't had a VR headset for very long, the app luckily was fairly easy to use. It took me a little bit to figure out some controls, but I was definitely able to navigate without issues or feeling overwhelmed at any point, and that's the most important part. Looking forward to testing out more features of the app, and what more may be added in the future.",
+      "date": 1675015764,
+      "review_helpful_count": 0,
+      "author_display_name": "philex.8008",
+      "author_alias": "philex.8008",
+      "developer_response": {
+        "body": "Thanks a lot for your great review! We are happy about the great immersion you had watching our 360° images! We also hope that in the future movements in such images will become more common! Until then, we will provide more cool photos and features with our next updates.",
+        "date": 1675029373
+      }
+    }
+  ],
+  "total": 60,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T10:34:06Z"
+}

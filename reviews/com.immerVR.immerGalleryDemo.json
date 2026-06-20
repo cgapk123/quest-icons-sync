@@ -1,0 +1,273 @@
+{
+  "app_id": "4598517593539197",
+  "package_name": "com.immerVR.immerGalleryDemo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "immerGallery Demo",
+  "rating_average": 4.8135593220339,
+  "rating_count": 59,
+  "review_count": 41,
+  "reviews": [
+    {
+      "id": "1504951244129198",
+      "score": 3,
+      "review_title": "I want to love this app, but...",
+      "review_description": "Day 1 - downloaded and installed the app. Spent about half hour trying to find some menu or something that would allow me  to select the folder on my headset from which the viewer accesses photos. Could not find anything. Thought the app just didn't work \nDay 2 - someone from the app team emailed and told me that the app only draws images from a specific file on your headset (/Pictures) There appears to be no way to change  this. Spent about an hour manually transfering photos from my /downloads folder to my /Pictures folder. Re launched the app and was able to view a few photos and play with the modify image features  a bit. Briefly considered buying the app\nDay 3 - Went to the Clean Up function and deleted all the random images I had opened in the app (you can only view a sideshow of 10 images with the demo)\nTried to open some new images. App not working again.  Went back into my quest files to see if I could discover anything changed. Evidently the app had deleted the entire/photos folder! Why??? Now not only does this app not function again, but all apps that view or load images using the /pictutes folder are non functional. \nDay 4 - searching the internet for information on how to retrieve  or re create lost folders on meta quest headset without doing a full factory  reset,  and exploring file manager apps on side quest to re create a  /Pictures folder. Really wishing I hadn't tried out this demo \nDay 6 -The one positive thing I will say is that the Devs are very responsive.  Someone emailed me and helped me find a sideload app to the install the missing file and the app is functional again... but what a painful and circuitous path to simply view a few photos!\nI am told that in the full version there is a menu that allows you to navigate to other folders besides the /pictutes folder.\nPlease put this in the demo version! I'm not sure I will ever buy the full version because of my bad experience with the demo",
+      "date": 1768190230,
+      "review_helpful_count": 3,
+      "author_display_name": "stonecraftarts",
+      "author_alias": "stonecraftarts",
+      "developer_response": {
+        "body": "As sent to you over email after your message through immerGallery - Help:\nThank you very much for trying the immerGallery Demo. I am very sorry that you had issues displaying your own images.\n\nThe demo version is limited to showing the first 10 images in your Quest /Pictures folder. This folder is the default location for images on Android-based systems like Meta Horizon OS.\n\nIn the full version, you can navigate more freely if your images are not located within /Pictures. There is a setting under Settings > Advanced called Start Location that can be changed from /Pictures to root. After restarting the app, it will start from the root folder of the operating system.\n\nIn the free demo, you can view 25 images from the Sample Gallery, and likely 100 or more via Download > Included. You can also view your own images if you move them to /Pictures, but only the first 10 images (sorted alphanumerically) will appear. If you would like to test more of your own images, you can remove the first 10 images in that folder and replace them with 10 different images. There does need to be a limitation in the demo compared to the full version, and the restricted folder browsing is likely the limitation you encountered to find your images if they are located elsewhere or only in subfolders of /Pictures.\n\nI would be very grateful if you could give it another try. Many users seem to be happy with what immerGallery does. I am also on Discord (the server can be found on the immerVR website) if you need any further help, and you can also reach me here by email.\n\nThanks!\n  Daniel",
+        "date": 1767908287
+      }
+    },
+    {
+      "id": "1809271119458687",
+      "score": 5,
+      "review_title": "Get excited for the full version!",
+      "review_description": "This demo showcases 3D images and contains a lot of demo images to look at. So even if you are not a 3D photographer, this app is a nice thing to have in your library and to show other people how cool 3D images are. It also allows to view and test a few of your own images.\n\nI am happy that this app works decent on the Quest1. I hope this viewer will continue to work on it for some time to come. I highly recommend!",
+      "date": 1675282221,
+      "review_helpful_count": 1,
+      "author_display_name": "MetaMorbo",
+      "author_alias": "MetaMorbo",
+      "developer_response": {
+        "body": "Thanks a lot for your great review! We are excited that you like our 3D images so much! We want to continue supporting Quest 1 as long as reasonably possible.",
+        "date": 1680094662
+      }
+    },
+    {
+      "id": "1104637177527538",
+      "score": 5,
+      "review_title": "Fantastic app!",
+      "review_description": "Simply the best for looking at VR photos!",
+      "date": 1712581560,
+      "review_helpful_count": 0,
+      "author_display_name": "larry.klapper.562",
+      "author_alias": "larry.klapper.562",
+      "developer_response": {
+        "body": "Thanks a lot for your great review!",
+        "date": 1713442618
+      }
+    },
+    {
+      "id": "861194729036918",
+      "score": 5,
+      "review_title": "Great way to share and view VR photos",
+      "review_description": "It's a great app, though I feel like the price is a little high. If you take a lot of 3D photos or really enjoying looking at those taken by other people, it’s not much to spend in the grand scheme of things. The user interface could use some polish, but it does a good job. I haven’t seen another VR app that lets you tell stories with your photos this way, so that alone makes it worth looking at. If you aren't ready to take the plunge, try this free demo first. Good stuff!",
+      "date": 1698605049,
+      "review_helpful_count": 0,
+      "author_display_name": "pnw123",
+      "author_alias": "pnw123",
+      "developer_response": null
+    },
+    {
+      "id": "782731193270897",
+      "score": 5,
+      "review_title": "The \"must have\" app for your pictures",
+      "review_description": "Great to have an app to present images (normal 3D, VR 3D, 3D360 and monoscopic 360) mixed together with music and additional information. It´s way easier than programming a VR Tour with a tour-software which costs a lot. This is the app the VR image enthusiast was waiting for.",
+      "date": 1677384567,
+      "review_helpful_count": 0,
+      "author_display_name": "Horizonterweiterer",
+      "author_alias": "Horizonterweiterer",
+      "developer_response": {
+        "body": "Thanks a lot for your great review! We find it wonderful that you enjoy programming the VR tours with our software so much.",
+        "date": 1680094721
+      }
+    },
+    {
+      "id": "768232914925255",
+      "score": 5,
+      "review_title": "Simply great",
+      "review_description": "The demo app really is something you have to experience. There are plenty of galleries that show the excellent quality the app has to make looking at photos a wonderful treat. The galleries in themselves also give you lots of insight in how to make 180 0r 360 photography work at its best. It really made me wanting to dive into 180 photography on a more professional level. And I know I'm assured of a simply great app to look at my photos in the best possible way.",
+      "date": 1682596610,
+      "review_helpful_count": 0,
+      "author_display_name": "roger999_",
+      "author_alias": "roger999_",
+      "developer_response": {
+        "body": "Thanks a lot for your great review! We are very happy that you like our sample photos so much!",
+        "date": 1687560828
+      }
+    },
+    {
+      "id": "702589790990839",
+      "score": 5,
+      "review_title": "Finally an image viewer for my headset",
+      "review_description": "There is a big gap missing on all the VR headsets: Being able to view 180 or 360 images easily without messing with image formats as I can do with pictures on my PC. ImmerGallery is trying to close that gap. The UI is a bit old school, but totally usable. The maker of the app promised to improve over time, and the updates in the last weeks are promising. I will buy the full version to test it with my Vuze XR device.",
+      "date": 1650893998,
+      "review_helpful_count": 1,
+      "author_display_name": "StefanLandvogt",
+      "author_alias": "StefanLandvogt",
+      "developer_response": null
+    },
+    {
+      "id": "642058034278173",
+      "score": 5,
+      "review_title": "This works really good!",
+      "review_description": "The visual quality is much more detailed then i anticipated, even with the Quest 1, and the pictures have a very real sense of depth.\nThe effects are a neat feature and especially the rain effect seems natural.\n\nAfter playing with the Quest 1 for some time the pictures seemed so \"real\" that they even had an uncanny quality to me.\nI'll definitely get the full version",
+      "date": 1667946775,
+      "review_helpful_count": 0,
+      "author_display_name": "Dredanox",
+      "author_alias": "Dredanox",
+      "developer_response": {
+        "body": "Thanks a lot for the review! We are very happy that you liked our demo and that the experience is even on Quest 1 feeling like \"real\".",
+        "date": 1669244561
+      }
+    },
+    {
+      "id": "617603387005743",
+      "score": 5,
+      "review_title": "What I've been looking for!",
+      "review_description": "This is the app I've been looking for for a long time. When I travel, I usually take a lot of photos, and since last year I have been using a Canon RF 5.2 Dual fisheye to create 3D photos in VR180 format. This application is exactly what I need for comfortable viewing of photos, I can share my impressions with my family and friends. Thanks a lot!",
+      "date": 1688388071,
+      "review_helpful_count": 1,
+      "author_display_name": "AlexB_6526888",
+      "author_alias": "AlexB_6526888",
+      "developer_response": null
+    },
+    {
+      "id": "617218193497201",
+      "score": 5,
+      "review_title": "Great app to watch immersive pictures",
+      "review_description": "Gives you a phantastic immersive experience. The tour through the collection of sample pictures is already fun and impressive. Being able to add effects to them and upgrade old 2D pictures is cool. I look forward to testing the full version with my own pictures.",
+      "date": 1671388152,
+      "review_helpful_count": 0,
+      "author_display_name": "psychognom",
+      "author_alias": "psychognom",
+      "developer_response": {
+        "body": "Thanks a lot for leaving us the great review here! We are excited and happy that you played around and added new effects to classical 2D images to make it more immersive in our app!",
+        "date": 1671623697
+      }
+    },
+    {
+      "id": "583694693143102",
+      "score": 5,
+      "review_title": "The best VR Photo Gallery out there!!!",
+      "review_description": "The app runs great. Is well polished. And the quality of the Photos with the background info is a great feature that i highly recommend!",
+      "date": 1654674431,
+      "review_helpful_count": 2,
+      "author_display_name": "ZuiBurner",
+      "author_alias": "ZuiBurner",
+      "developer_response": {
+        "body": "Thanks a lot for your great review! We are very happy that you liked the app and the photos coming with it!",
+        "date": 1656444616
+      }
+    },
+    {
+      "id": "581215067046793",
+      "score": 5,
+      "review_title": "Please try this demo",
+      "review_description": "I don't just owhn the demo, I have finally bought the app as well. Finally there is a simple app to create my own slide shows - for traditional 2D fotos or 3D fotos (if you have a special camera or an app for your smart phone). It is very easy for users  to get from picture to picture - just move the button to the right (or left if you want to go back) ... the programm does the rest austomatically (and it will get the format right - which other apps can't do). So you can mix 2D and 3D pictures or even 360° .  You can add a voice over or sound special effects (in a browser app) to create your own specia user experience. There are also some special effects (in the app itself) that allows you to add rain, snow or butterflies to your picture as well as some sound effects. Please try the free demo with loads of pictures to browse through - you will love it!",
+      "date": 1659721558,
+      "review_helpful_count": 2,
+      "author_display_name": "TahitiTea",
+      "author_alias": "TahitiTea",
+      "developer_response": {
+        "body": "Thanks a lot for your review! We are very happy that you like our app!",
+        "date": 1662940545
+      }
+    },
+    {
+      "id": "528410948713492",
+      "score": 5,
+      "review_title": "A must for all VR and 3D photographers",
+      "review_description": "A must for all VR and 3D photographers. Anyone who wants to create a high-quality slide show for their VR glasses is in the right place and can enrich it with geo-tagging and individual sound clips. Compared to the usual PC software for slide shows on the TV, the price is fully justified. Behind it is a highly committed team that responds excellently to the wishes of the users. For example, the use of stereoscopic 3D images in mpo format was added very well and quickly. MPO files can now be imported perfectly and without conversion into SBS images. Thumbs up and keep it up!",
+      "date": 1649230370,
+      "review_helpful_count": 8,
+      "author_display_name": "dirk.reitze",
+      "author_alias": "dirk.reitze",
+      "developer_response": null
+    },
+    {
+      "id": "479268074898975",
+      "score": 5,
+      "review_title": "Simply the best",
+      "review_description": "Once I had seen the demo version, I was so impressed that I had to get the the full version and apply all of it's functions to my own 3D pictures.  The immergallery  app, met all my expectations and on top of that surprised me with a newlsy included video play function at no extra cost. I can now live my hobby of 3D in a spatial world to the fullest.. The support ( I had a minor query) as mentioned by many happy users, is excellent. So what are you waiting for?",
+      "date": 1721490262,
+      "review_helpful_count": 0,
+      "author_display_name": "peter.dorn.5667",
+      "author_alias": "peter.dorn.5667",
+      "developer_response": null
+    },
+    {
+      "id": "317684547844133",
+      "score": 5,
+      "review_title": "Great way to test immerVR",
+      "review_description": "I first used the demo version to test immerVR. It allowed to test all critical features of immerVR and, as I was very satisfied with the product, I purchased the full version thereafter.",
+      "date": 1702296858,
+      "review_helpful_count": 0,
+      "author_display_name": "matthias.83652",
+      "author_alias": "matthias.83652",
+      "developer_response": {
+        "body": "Many thanks for getting the full version and leaving this great review here!",
+        "date": 1713442746
+      }
+    },
+    {
+      "id": "293602863215662",
+      "score": 5,
+      "review_title": "Great!",
+      "review_description": "ImmerGallery is an intuitive VR app that is unique. It lets you experience photos in a very special way. The demo images are very impressive and an immersive experience is possible. I will definitely get the full version.",
+      "date": 1690742040,
+      "review_helpful_count": 0,
+      "author_display_name": "ionamaron",
+      "author_alias": "ionamaron",
+      "developer_response": null
+    },
+    {
+      "id": "287736604212200",
+      "score": 5,
+      "review_title": "Excellent",
+      "review_description": "The free Demo app allows all the features of the full app to be experienced, even including viewing of one's own images (up to a limit of 10).   I now have the full app which I am using with the Quest 3 headset.",
+      "date": 1697620252,
+      "review_helpful_count": 0,
+      "author_display_name": "ian.365505",
+      "author_alias": "ian.365505",
+      "developer_response": null
+    },
+    {
+      "id": "205962625925538",
+      "score": 5,
+      "review_title": "Great trial for a interesting APP",
+      "review_description": "As a hobby photographer it was interesting to find this APP. First i loaded this amazing preview and was quickly surpriesed how nice looking possibilities it offers. Switched to the full version immediately.",
+      "date": 1702877689,
+      "review_helpful_count": 0,
+      "author_display_name": "Spookymike77",
+      "author_alias": "Spookymike77",
+      "developer_response": {
+        "body": "Many thanks for leaving such a great review and for continuing with the full version!",
+        "date": 1713442725
+      }
+    },
+    {
+      "id": "174434342389889",
+      "score": 5,
+      "review_title": "The best program for viewing 3D images!!",
+      "review_description": "I recently tried out a fantastic program for viewing stereoscopic and spherical images on my Quest 2 system. \nThe interface is not only visually appealing but also incredibly user-friendly, making it a breeze for newcomers to navigate. I was very happy when I found that the program easily opens all my stereoscopic images, including those old Google .vr.jpg images from a long time ago, which was key for me because I have a lot of photos of this type from a long time ago. \nI highly recommend it to everyone! If you have an insta 360 or similar cameras, or a 3D camera, or you have collections of spherical images - this program is a MUST HAVE program for you!",
+      "date": 1698434075,
+      "review_helpful_count": 0,
+      "author_display_name": "yuri.zhmaylo",
+      "author_alias": "yuri.zhmaylo",
+      "developer_response": null
+    },
+    {
+      "id": "171595359376850",
+      "score": 5,
+      "review_title": "Great multi_format images viewing app",
+      "review_description": "ImmerGallery app seams to be a  really good viewer for images in different formats ... at least that's what this demo version suggests. It has a nice and intuitive UI and provides several features to spice up the slideshow presentation. I will be definitely getting the full version of this app.",
+      "date": 1701977335,
+      "review_helpful_count": 0,
+      "author_display_name": "triptick",
+      "author_alias": "triptick",
+      "developer_response": null
+    }
+  ],
+  "total": 20,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-20T10:34:16Z"
+}

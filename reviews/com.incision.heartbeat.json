@@ -1,0 +1,90 @@
+{
+  "app_id": "7402671033184262",
+  "package_name": "com.incision.heartbeat",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Heartbeat",
+  "rating_average": 3.6666666666667,
+  "rating_count": 9,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "544581842067148",
+      "score": 5,
+      "review_title": "Mindblowing anatomy in mixed reality",
+      "review_description": "I am a VR player of more than 5 years and I have tried many medical apps on the Quest store and I gotta say, this is definitely one of the best experiences out there, especially for the anatomy explorer. Look forward to future updates!",
+      "date": 1735995881,
+      "review_helpful_count": 2,
+      "author_display_name": "MattStanfield219",
+      "author_alias": "MattStanfield219",
+      "developer_response": {
+        "body": "Hi, thank you so much for your feedback! We are thrilled to hear that you enjoyed the Anatomy Scene - it’s one of our favourite features of the app as well. We have put a lot of thought into designing an engaging and interactive experience for users to explore complex anatomical structures, and it’s great to hear that you've found it valuable. Hearing users like you enjoying this feature really helps us continue improving and expanding the experience. If you have any other suggestions for how we can make it better or if there are specific features you would like to see added, we’d love to hear your thought!",
+        "date": 1736762011
+      }
+    },
+    {
+      "id": "509485318911518",
+      "score": 1,
+      "review_title": "No hand tracking",
+      "review_description": "I have tried everything. I just get an error message that it can’t track my hands.",
+      "date": 1733009238,
+      "review_helpful_count": 1,
+      "author_display_name": "MojoFilter",
+      "author_alias": "MojoFilter",
+      "developer_response": {
+        "body": "Hi, thank you for your inquiry! Our app uses hand tracking to precisely capture fine hand movements during chest compressions, rescue breath and other interactions. \n\nTo enable hand tracking, go to Settings > Movement Tracking > Hand Tracking and toggle it On. If you still encounter any issues, feel free to reach out to us at contact@incisionxr.com for assistance.",
+        "date": 1733644181
+      }
+    },
+    {
+      "id": "1145519226918356",
+      "score": 2,
+      "review_title": "Poor Hand Tracking",
+      "review_description": "Constantly loses the hands and I have to keep tapping the controllers together to get them back. Please update the software. Also got the end of the stethoscope stuck in the tray and was unable to remove it without going back to the home screen.",
+      "date": 1736711571,
+      "review_helpful_count": 0,
+      "author_display_name": "smileyvr.2026",
+      "author_alias": "smileyvr.2026",
+      "developer_response": {
+        "body": "Hi, thank you for your feedback! Our app is built on top of Meta's native hand tracking API to deliver the best possible hand tracking experience, which is inherently tied to the capabilities of the Meta Quest 3/3S's hardware. That said, hand tracking's performance can be significantly influenced by a variety of external factors, such as lighting conditions, hand visibility and device settings. Make sure you are in a well-lit environment, keep your hands within the field of view and avoid low battery situations, which could throttle the device's performance. If you continue to experience issues with hand tracking, please don't hesitate to reach out to us at contact@incisionxr.com.",
+        "date": 1736761046
+      }
+    },
+    {
+      "id": "479947195205487",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "fun app with hand tracking!!",
+      "date": 1732161939,
+      "review_helpful_count": 4,
+      "author_display_name": "Shepperd",
+      "author_alias": "Shepperd",
+      "developer_response": {
+        "body": "Hi, thank you for your feedback! We're thrilled to hear you enjoyed the app and found the hand-tracking feature fun. It's a core part of our design to create an immersive and intuitive medical educational experience.",
+        "date": 1733644690
+      }
+    },
+    {
+      "id": "452905647914346",
+      "score": 5,
+      "review_title": "Pretty Neat",
+      "review_description": "Actually pretty cool to see blood pumping out when I do CPR lol",
+      "date": 1732169989,
+      "review_helpful_count": 6,
+      "author_display_name": "chrischan.285886",
+      "author_alias": "chrischan.285886",
+      "developer_response": {
+        "body": "Hi, thank you for your feedback! We're glad you enjoyed the visual feedback of blood pumping out of the heart during CPR—it’s one of our favorite features too! Our goal is to create an educational experience that is both intuitive and interactive, helping users immediately grasp the science behind CPR by visually demonstrating how the heart and lungs are compressed and how blood pumps out during chest compressions. Your feedback is invaluable as we continue to develop tools that make medical education both impactful and engaging!",
+        "date": 1733645364
+      }
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T10:36:22Z"
+}

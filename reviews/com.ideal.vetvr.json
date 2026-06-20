@@ -1,0 +1,42 @@
+{
+  "app_id": "5339445809507696",
+  "package_name": "com.ideal.vetvr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "IDEAL's Virtual Electrician Experience (IVEE)",
+  "rating_average": 2.5,
+  "rating_count": 12,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "586625683900167",
+      "score": 1,
+      "review_title": "Nothing to do",
+      "review_description": "Screwdrivers don’t even work all it has you do is bassicaly test voltage and then it says your ready to be an electrician",
+      "date": 1733022859,
+      "review_helpful_count": 11,
+      "author_display_name": "Monke.cracker",
+      "author_alias": "Monke.cracker",
+      "developer_response": null
+    },
+    {
+      "id": "411830388446648",
+      "score": 3,
+      "review_title": "Electrical experiences",
+      "review_description": "I would like to get the full program for my employees. How can I get help with this",
+      "date": 1714433933,
+      "review_helpful_count": 6,
+      "author_display_name": "Romeo3791",
+      "author_alias": "Romeo3791",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T10:30:02Z"
+}

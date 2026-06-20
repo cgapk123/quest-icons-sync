@@ -1,0 +1,767 @@
+{
+  "app_id": "5917120145021341",
+  "package_name": "com.igalia.wolvic.metastore",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Wolvic",
+  "rating_average": 3.3869209809264,
+  "rating_count": 367,
+  "review_count": 108,
+  "reviews": [
+    {
+      "id": "927469887002590",
+      "score": 3,
+      "review_title": "Back Button Skips History",
+      "review_description": "I’ve been using Wolvic because it allows desktop mode on a website I frequent, unlike the default browser. For the past 3 weeks when I click the back arrow or press the back button on my controller, it sometimes skips the actual previous page and will jump to the first page or an earlier page I visited on that tab. I checked the history and it remains in tact, so I’d expect a normal back functionality. This gets annoying if there’s something I’m wanting to reference one page before and it skips as if I never went to that page. Loved the app before this. \n\nThings I’ve tried:\n- clearing all data\n- uninstall/reinstall of Wolvic\n- switching the dominant hand controller\n- power cycle",
+      "date": 1781721014,
+      "review_helpful_count": 0,
+      "author_display_name": "TribeCalledX_8",
+      "author_alias": "TribeCalledX_8",
+      "developer_response": null
+    },
+    {
+      "id": "1080105191852463",
+      "score": 1,
+      "review_title": "Impossible to sign in websites",
+      "review_description": "Please, please, please, let me sign in websites because the software keyboard disappears when pressing any letter in the ID/PSW box, and it never appears again.",
+      "date": 1777199195,
+      "review_helpful_count": 9,
+      "author_display_name": "ElectricPuffin7110",
+      "author_alias": "ElectricPuffin7110",
+      "developer_response": {
+        "body": "The new HorizonOS update broken the on screen keyboard. Thanks to the user reports we got aware of the issue and proceed to roll out an urgent fix for 1.8.3 release. Please retry with the new package.",
+        "date": 1777305339
+      }
+    },
+    {
+      "id": "1167506689775079",
+      "score": 4,
+      "review_title": "Could you add cursor gesture controls?",
+      "review_description": "Could you add cursor gesture controls? This would greatly improve efficiency and user experience.\nSwipe up or down on the right side to adjust volume.\nSwipe right on the cursor to fast-forward, and swipe left to rewind.",
+      "date": 1778853588,
+      "review_helpful_count": 2,
+      "author_display_name": "Alvis2025",
+      "author_alias": "Alvis2025",
+      "developer_response": null
+    },
+    {
+      "id": "1063153873542176",
+      "score": 3,
+      "review_title": "pretty good but",
+      "review_description": "i really love this app and thought it was pretty good but it won't let me use the microphone and the reason why i hate that it's because i cannot spell and i have to use the meta quest mic in order to write reviews etc but since i can't use it it's impossible for me to visit websites so if the devs sees this review please fix it",
+      "date": 1772685508,
+      "review_helpful_count": 12,
+      "author_display_name": "Sky72999",
+      "author_alias": "Sky72999",
+      "developer_response": null
+    },
+    {
+      "id": "1168600223005176",
+      "score": 1,
+      "review_title": "unusable for videos",
+      "review_description": "Often starts from the beginning like when switch resolution",
+      "date": 1780594265,
+      "review_helpful_count": 0,
+      "author_display_name": "PunchySalmon2222",
+      "author_alias": "PunchySalmon2222",
+      "developer_response": null
+    },
+    {
+      "id": "901220576419131",
+      "score": 4,
+      "review_title": "Useful to watch 3D SBS from YouTube",
+      "review_description": "It's basically a web browser with 3D half SBS support.\n\nThough, UX/UI is a little confusing (enabling 3D mode a little complicated, I would prefer something similar to Virtual Desktop).\n\nAlso, Devs, please add the \"3D full SBS\" support.",
+      "date": 1770845138,
+      "review_helpful_count": 5,
+      "author_display_name": "333hronos",
+      "author_alias": "333hronos",
+      "developer_response": null
+    },
+    {
+      "id": "953319001191236",
+      "score": 5,
+      "review_title": "No issues for me.",
+      "review_description": "Essentially like using Firefox on your PC. Browser extensions also work like uBlock Origin. Log in to your Mozilla account and import bookmarks, browser history and logins and passwords.\n\nSo happy to have access to a version of one of my favourite web browsers on my Quest 3, and not stuck with meta's browser or chrome.\n\nSo far no issues streaming videos from the services I use, but I am concerned DRM nonsense might affect the app in the future. I should be able to stream paid content on my Quest 3 the same as I can on my phone or Google powered TV.\n\nI've noticed a lot of services disabling streaming HD resolutions if you watch through a browser, especially Firefox based ones.\n\nIt's stupid, and only punishing paying users. Not the people stealing the content. But hey that's not Mozilla and Wolvic's fault. If you're having issues, complain to your streaming service about it.",
+      "date": 1765784702,
+      "review_helpful_count": 14,
+      "author_display_name": "RabidRaccoon",
+      "author_alias": "RabidRaccoon",
+      "developer_response": null
+    },
+    {
+      "id": "913266467899194",
+      "score": 3,
+      "review_title": "Needs more extensions…",
+      "review_description": "I wish this browser would support more extensions, you know extension like Read Aloud: A text to Speech Voice Reader, so that I’m able to listen to articles on the website! Please being Read Aloud: A text to Speech Voice Reader to this browser! Also, the app has tendency to crash because saying the headset has low memory. Please optimize the app!",
+      "date": 1768704096,
+      "review_helpful_count": 2,
+      "author_display_name": "BruceTranVN",
+      "author_alias": "BruceTranVN",
+      "developer_response": null
+    },
+    {
+      "id": "887141737101825",
+      "score": 3,
+      "review_title": "Fails to render vid players not youtube",
+      "review_description": "If im on news sites or some click bait sites, I see the video places controls in bad places where you can't click the play button. The UI screws up if it is not a video player from a major site like YOUTUBE. If it's an embedded player on a page, you can't play the video many times. Sucks.",
+      "date": 1764471314,
+      "review_helpful_count": 5,
+      "author_display_name": "Oatografia",
+      "author_alias": "Oatografia",
+      "developer_response": {
+        "body": "Thanks for your comment. We would appreciate if you could contact us and share some examples of websites that are not working. You can use the feedback form for that, for example.",
+        "date": 1764761963
+      }
+    },
+    {
+      "id": "1135024216361810",
+      "score": 3,
+      "review_title": "I kinda like it",
+      "review_description": "But i love the beat saver thingy to 3 stars",
+      "date": 1780029541,
+      "review_helpful_count": 0,
+      "author_display_name": "yeepbomb",
+      "author_alias": "yeepbomb",
+      "developer_response": null
+    },
+    {
+      "id": "925288230669269",
+      "score": 3,
+      "review_title": "Meta Browser is much better",
+      "review_description": "No need for this app, it has no added benefit to the already installed Meta Browser, also it has less compatibility with online video streaming",
+      "date": 1767048340,
+      "review_helpful_count": 4,
+      "author_display_name": "philipxzero",
+      "author_alias": "philipxzero",
+      "developer_response": null
+    },
+    {
+      "id": "805429065763533",
+      "score": 3,
+      "review_title": "Suddenly Stopped working with many VR si",
+      "review_description": "Not sure what happened but I have been enjoying using Wolvic for some time now. \nThis week , only about half the sites are working with VR . The sites are saying to adjust settings in your browser but there aren't any to what it pertains to.  Were there any updates in the last week ? I checked the WebXR and it's unchanged.  What else to check ?  Very disappointed as this was an excellent VR browser.\n\n\nUpdate : I was able to fix the issue . I had to select Desktop mode and all worked fine after . \n\nThanks",
+      "date": 1760411866,
+      "review_helpful_count": 30,
+      "author_display_name": "Mr427",
+      "author_alias": "Mr427",
+      "developer_response": {
+        "body": "Thanks for the report. We were not aware of the issue. Could you share with us an example of an experience failing? You can send us a feedback form from the browser or update this feedback message with that, and we will investigate it.",
+        "date": 1759920264
+      }
+    },
+    {
+      "id": "839551375902288",
+      "score": 1,
+      "review_title": "Consistently crashing.",
+      "review_description": "Sometimes it'll be fine for an hour or two, but then once it starts crashing it's just gone. It doesn't save any kind of persistent data, so if you crash you lose the entire session - Any tabs you've opened, anything like that. Is it an issue with Meta OS? I can't imagine maintaining a functional browser is that difficult, but I am constantly wishing I had a better alternative, paid or free.",
+      "date": 1759986561,
+      "review_helpful_count": 7,
+      "author_display_name": "Tydorius",
+      "author_alias": "Tydorius",
+      "developer_response": null
+    },
+    {
+      "id": "834023796464522",
+      "score": 3,
+      "review_title": "Not working now",
+      "review_description": "I've been using this app because it has some better options than the native Browser app, but now, everytime I search for something, it crashes. I erased the app, factory reseted the headset, even downgraded the OS and still not working\n\nReally sad to see this happening",
+      "date": 1762533242,
+      "review_helpful_count": 1,
+      "author_display_name": "Chief2401",
+      "author_alias": "Chief2401",
+      "developer_response": {
+        "body": "We are not seeing this behavior in any of our tests. If you want to contact us using the feedback form in the app, we will work with you to figure out what is happening.",
+        "date": 1763552769
+      }
+    },
+    {
+      "id": "950290194831232",
+      "score": 3,
+      "review_title": "Awful functioning",
+      "review_description": "Every time I try to move the screen into a different spot it just disappears and then I have to recalibrate so this app is a piece of crap ￼",
+      "date": 1765287754,
+      "review_helpful_count": 0,
+      "author_display_name": "Goldensouls",
+      "author_alias": "Goldensouls",
+      "developer_response": {
+        "body": "We've just released a fix for that. Please retry with the updated version",
+        "date": 1765487102
+      }
+    },
+    {
+      "id": "831132170090747",
+      "score": 1,
+      "review_title": "Piece of junk",
+      "review_description": "Wow I wish there was a better committee within meta to review this stuff that winds up being total crap put on their platform. \nYour are way better off going with the default browser or doing the APK support and metaquest to choose another.",
+      "date": 1762186541,
+      "review_helpful_count": 1,
+      "author_display_name": "glovemtb77",
+      "author_alias": "glovemtb77",
+      "developer_response": {
+        "body": "Thanks for your comment. We would appreciate if you could point to the issues that make you not like Wolvic, so that we can take that as input to continue improving it. Regards",
+        "date": 1762191929
+      }
+    },
+    {
+      "id": "898479053337899",
+      "score": 3,
+      "review_title": "View is too 'in your face'",
+      "review_description": "With apps like Play'A you can set the VR view back a bit (using the joystick) so that it's easier to see everything without having to look at your feet and the sky because the default view is very 'in your face' and I keep trying to step back.\nI tried to recenter using the meta button but that does not work.\nNote that I am referring to streaming VR content, not watching on a floating VR flat screen which I know how to move backwards. \nI hope that you can upgrade this on what is otherwise a 4-5 star app.",
+      "date": 1760309706,
+      "review_helpful_count": 1,
+      "author_display_name": "LiamQuest444",
+      "author_alias": "LiamQuest444",
+      "developer_response": {
+        "body": "We don't have control of WebXR experiences. Authors decide where to place the objects in the virtual world. Is there any experience that you specially dislike?",
+        "date": 1761219216
+      }
+    },
+    {
+      "id": "2530812580613497",
+      "score": 4,
+      "review_title": "It supports ublock",
+      "review_description": "I had been using this app for quite a while, mainly for uBlock - because let’s be honest, today’s internet is almost unusable without ad blockers and other junk filters. As a browser, it did a pretty good job. My main issues were the ugly low-resolution skyboxes and the forced “immersive” mode, since pass-through wasn’t supported.\nEventually, I moved on from Wolvic to MS Edge for Android, which supports pass-through and also has uBlock along with other extensions. And it's simply better.",
+      "date": 1755142979,
+      "review_helpful_count": 9,
+      "author_display_name": "Luke.Ash",
+      "author_alias": "Luke.Ash",
+      "developer_response": null
+    },
+    {
+      "id": "875437288981111",
+      "score": 4,
+      "review_title": "Working",
+      "review_description": "Feels like Firefox with some adds missing.",
+      "date": 1762112547,
+      "review_helpful_count": 0,
+      "author_display_name": "quetzalquatl",
+      "author_alias": "quetzalquatl",
+      "developer_response": null
+    },
+    {
+      "id": "708195959049795",
+      "score": 3,
+      "review_title": "Fix or No?",
+      "review_description": "I downloaded this app and it worked perfectly fine and I loved it. Something happened and I got signed out of my Mozilla account. I can no longer get signed back in.... Tried uninstalling and reinstalling but no luck.... Is there a data folder stored somewhere I also need to remove? Or is everyone experiencing the same issue? Would love to start using again if we can get this resolved... Let me know please. Thanks!",
+      "date": 1754049602,
+      "review_helpful_count": 7,
+      "author_display_name": "EyeslowDro",
+      "author_alias": "EyeslowDro",
+      "developer_response": {
+        "body": "Thanks for your feedback. Could you contact us with the feedback form of the app and sharing your email? If you do that we can work with you to find a solution. This is working for us and we do not have other reports so far about failiures.",
+        "date": 1754486351
+      }
+    },
+    {
+      "id": "830483266175953",
+      "score": 1,
+      "review_title": "Horrible",
+      "review_description": "When downloading any content it bricks your headset",
+      "date": 1761160608,
+      "review_helpful_count": 0,
+      "author_display_name": "Raphi125",
+      "author_alias": "Raphi125",
+      "developer_response": {
+        "body": "What do you mean the bricks the headset? Could you share some more information about what causes the problem?",
+        "date": 1761219123
+      }
+    },
+    {
+      "id": "806994672501596",
+      "score": 2,
+      "review_title": "Stopped supporting vr video",
+      "review_description": "As above, says i need to change permission. Cannot find any settings for that",
+      "date": 1759830672,
+      "review_helpful_count": 0,
+      "author_display_name": "enigma_2373",
+      "author_alias": "enigma_2373",
+      "developer_response": {
+        "body": "Thanks for the report. Could you share with us an example of an experience failing? You can send us a feedback form from the browser or update this feedback message with that, and we will investigate it.",
+        "date": 1761133370
+      }
+    },
+    {
+      "id": "775773312040769",
+      "score": 5,
+      "review_title": "Very Good",
+      "review_description": "I watch all my 3D movies on this. Very pleased",
+      "date": 1755984837,
+      "review_helpful_count": 3,
+      "author_display_name": "pinballvr.2025",
+      "author_alias": "pinballvr.2025",
+      "developer_response": null
+    },
+    {
+      "id": "711307705388809",
+      "score": 5,
+      "review_title": "Tip for watching DRM streaming",
+      "review_description": "This browser apparently handles DRM requests more solid. Streaming services like SkyShowtime which don’t work in any other browser or apps, works like a charm in Wolvic. The implementation for 3D videos when streaming is also very flexible. \n\nCan’t comment on other specific functions as I primarily use it for streaming.",
+      "date": 1748243094,
+      "review_helpful_count": 21,
+      "author_display_name": "NicoHermesNL",
+      "author_alias": "NicoHermesNL",
+      "developer_response": null
+    },
+    {
+      "id": "952451751274319",
+      "score": 5,
+      "review_title": "So good",
+      "review_description": "It works like a dream but it has a little bit of glitches",
+      "date": 1764343491,
+      "review_helpful_count": 0,
+      "author_display_name": "wildwolfsk",
+      "author_alias": "wildwolfsk",
+      "developer_response": null
+    },
+    {
+      "id": "640706385783118",
+      "score": 3,
+      "review_title": "Normally good",
+      "review_description": "I usually use this over the quest browser 10/10 times but right now its broken and i cant use half the websites i want because they have cloudfare human verification and it fails every time so i cant sign in. would have been 5 stars if it were not for this issue. i tried clearing cache and deleting and redownloading and a load of other things but nothing worked",
+      "date": 1743546993,
+      "review_helpful_count": 39,
+      "author_display_name": "Lwright126",
+      "author_alias": "Lwright126",
+      "developer_response": {
+        "body": "We are talking to Cloudflare to fix this problem. And we think we are very close to be able to get it back working. Stay tuned and thanks for your understanding.",
+        "date": 1744300566
+      }
+    },
+    {
+      "id": "727244396531125",
+      "score": 1,
+      "review_title": "Login",
+      "review_description": "Can't create a login or use my Firefox login just get an \"unexpected error\"",
+      "date": 1747674831,
+      "review_helpful_count": 9,
+      "author_display_name": "CAPTPaxo",
+      "author_alias": "CAPTPaxo",
+      "developer_response": {
+        "body": "We have released a new version that fixes this. Please check it out and if you confirm it solves the previous problem, we would appreciate if you reconsider your review. Thanks!",
+        "date": 1749794877
+      }
+    },
+    {
+      "id": "609922092215641",
+      "score": 5,
+      "review_title": "Works great!",
+      "review_description": "It works just fine for me.",
+      "date": 1750496301,
+      "review_helpful_count": 2,
+      "author_display_name": "MurkYouAII",
+      "author_alias": "MurkYouAII",
+      "developer_response": null
+    },
+    {
+      "id": "687703507758663",
+      "score": 1,
+      "review_title": "Doesn't even install.",
+      "review_description": "Won't even send a code to my email to install. Looked everywhere, including junk folder. Just does not send.",
+      "date": 1747569676,
+      "review_helpful_count": 0,
+      "author_display_name": "Fritzface",
+      "author_alias": "Fritzface",
+      "developer_response": null
+    },
+    {
+      "id": "718771737478431",
+      "score": 2,
+      "review_title": "Trash",
+      "review_description": "Doesn’t even open.",
+      "date": 1746482898,
+      "review_helpful_count": 3,
+      "author_display_name": "Nemesis_2k7",
+      "author_alias": "Nemesis_2k7",
+      "developer_response": {
+        "body": "We have lots of users and we haven't seen this issue in most of them. Could you clarify which is your configuration? Is this issue still happening in 1.8.2? We would appreciate if you contact us through Wolvic's contact form to help us fix the issue.",
+        "date": 1749796457
+      }
+    },
+    {
+      "id": "616253874901621",
+      "score": 1,
+      "review_title": "Breaks quest 3 internet connection",
+      "review_description": "As soon as I run the app and try to access any website, internet connection on the whole quest 3 just stops working, uninstalling the app gets the internet working again.",
+      "date": 1741790329,
+      "review_helpful_count": 8,
+      "author_display_name": "figareo",
+      "author_alias": "figareo",
+      "developer_response": {
+        "body": "Apps cannot break internet connection in the device. Could you please recheck that it was not a problem on your connection/provider?",
+        "date": 1749801511
+      }
+    },
+    {
+      "id": "524577514077968",
+      "score": 1,
+      "review_title": "It does nothing",
+      "review_description": "When I start a video it just shows the opening frame and the sound playing in the background. Nothing I can do with it. Not responding to any buttons on my controllers and needs to force quit. And it happens 100% of the time. I'm using a Quest 2. \n\nUpdate: After more than 2 months, it's still the same... I played with the settings in the app, but doesn't matter what I do with the 3D settings, still not working.",
+      "date": 1738004680,
+      "review_helpful_count": 19,
+      "author_display_name": "rapid.phoenix",
+      "author_alias": "rapid.phoenix",
+      "developer_response": {
+        "body": "Thanks for the update on your feedback. Could you write us a message explaining which website are you using to play the videos? We would like to investigate the issue. Video playback is working well for the use cases that we have tested.",
+        "date": 1738348586
+      }
+    },
+    {
+      "id": "660427713465508",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Good app",
+      "date": 1746218377,
+      "review_helpful_count": 1,
+      "author_display_name": "khalil.sh",
+      "author_alias": "khalil.sh",
+      "developer_response": null
+    },
+    {
+      "id": "601790396358293",
+      "score": 5,
+      "review_title": "Gyjfdgfbf7fsbkhfhmv9*n",
+      "review_description": "Great!",
+      "date": 1744567433,
+      "review_helpful_count": 4,
+      "author_display_name": "EricRiver",
+      "author_alias": "EricRiver",
+      "developer_response": null
+    },
+    {
+      "id": "572770485910451",
+      "score": 2,
+      "review_title": "Not comfortable to use",
+      "review_description": "you can only move your window left and right, not up or down. Also the menu navigation bar is constantly in the way of my passthrough keyboard with absolutely no way to hide or move it. Simply not comfortable to use and not enough customization to fix it",
+      "date": 1737456071,
+      "review_helpful_count": 5,
+      "author_display_name": "NateJoe",
+      "author_alias": "NateJoe",
+      "developer_response": {
+        "body": "We have updated the window movement with the 1.8.0 update that has just been release. We would appreciate if you could test it and give us updated feedback. We will look into the issue of the passthrough keyboard not being comfortable to use. Thanks for your suggestions.",
+        "date": 1738348635
+      }
+    },
+    {
+      "id": "999575178644381",
+      "score": 5,
+      "review_title": "Update Oculus 3S Works",
+      "review_description": "I’m very happy the developers fixed the issue . Now I can see the controllers and browse .\nBetter browser than the default one from Meta with pop up blockers and privacy settings.",
+      "date": 1732722506,
+      "review_helpful_count": 17,
+      "author_display_name": "Alienmerchant",
+      "author_alias": "Alienmerchant",
+      "developer_response": null
+    },
+    {
+      "id": "2388385688164651",
+      "score": 3,
+      "review_title": "Better than default browser",
+      "review_description": "Just simply having adblock is a gamechanger. \n\nHowever, the biggest usecase I have for the browser is netflix, and unfortunately it seems like netflix isn't supported by this browser. If it gets updated to support it, this would be an instant 5/5 app.\n\nOther than that, the UI could use a bit of an upgrade, such as resizing windows easier and moving window further/closer using thumb triggers (for some reason oculus CV1 had this feature but they removed it at some point). I also wish the window size of each \"window\" stayed consistent when you flick through windows, right now if you do multi-windows and have 1 vertical and 1 horizontal screen, when you switch windows it doesn't respect the screen it was originally on and instead simply pops out on your current window, making it awkward to use 2 screens of different sizes at once.",
+      "date": 1734499061,
+      "review_helpful_count": 18,
+      "author_display_name": "Holo-",
+      "author_alias": "Holo-",
+      "developer_response": null
+    },
+    {
+      "id": "1125435619098657",
+      "score": 3,
+      "review_title": "could be better as a productivity app",
+      "review_description": "Need the ability to pinch a corner, drag around the browser window, and look as multiple windows side-by-side. I don't like how it's a dedicated app that can't be used within the oculus OS with multiple apps side-by-side. I'm not looking for an immersive VR experience with just wolvic taking over the screen, I want to use this like I do on a pc with Firefox on one monitor and another app running on a second monitor... Basically I just need oculus browser with Firefox add-ons so I can run ublock origin.",
+      "date": 1731426629,
+      "review_helpful_count": 3,
+      "author_display_name": "evilbbbanana",
+      "author_alias": "evilbbbanana",
+      "developer_response": null
+    },
+    {
+      "id": "1092308765572654",
+      "score": 5,
+      "review_title": "Great for watching youtube in bed!",
+      "review_description": "Thanks for this guys it's just what I needed.",
+      "date": 1728778578,
+      "review_helpful_count": 3,
+      "author_display_name": "James_M",
+      "author_alias": "James_M",
+      "developer_response": null
+    },
+    {
+      "id": "561320482965938",
+      "score": 1,
+      "review_title": "stupid",
+      "review_description": "why does this exist we have the meta browser which feels wayyy better",
+      "date": 1728248900,
+      "review_helpful_count": 0,
+      "author_display_name": "rambleon",
+      "author_alias": "rambleon",
+      "developer_response": {
+        "body": "Wolvic is a privacy-oriented open source browser that tries to be an alternative to the official browser in Meta platforms. Our funding is limited, though, and depends on contributions from companies and individuals. If you could give us feedback on which specific things your are missing or dislike, we can try to keep that in mind for the future roadmap. Thanks!",
+        "date": 1732711410
+      }
+    },
+    {
+      "id": "374918119035432",
+      "score": 1,
+      "review_title": "Everything is worse than meta browser",
+      "review_description": "And didn't respond to the feedback or update their product very often.\nIt has a reason for being rated less than 4 stars.",
+      "date": 1723003002,
+      "review_helpful_count": 3,
+      "author_display_name": "HenrySuen",
+      "author_alias": "HenrySuen",
+      "developer_response": null
+    },
+    {
+      "id": "309248345615764",
+      "score": 3,
+      "review_title": "It’s good but…",
+      "review_description": "It’s good but I just don’t see me using this game if I need to look something up but it is a good game to add on the browser adventure.\n\nIMPROVE: the normal browser is a fast and easy way to look stuff up instead of going into this game but you can improve that but I only came up with one way 1: you know how the normal browser is like a app that is in like just your menu kind of like camera well you can maybe become a app like that and I would give you a five star it would just be awesome.\n\nAnd I gave it a three star because it is a pretty cool game and idea and it has all those cool features but I just don’t see myself using it as often.",
+      "date": 1721692115,
+      "review_helpful_count": 2,
+      "author_display_name": "meta.juju",
+      "author_alias": "meta.juju",
+      "developer_response": null
+    },
+    {
+      "id": "373738762478312",
+      "score": 1,
+      "review_title": "why",
+      "review_description": "it actually sucks and we already have the default browser which is 500 times better",
+      "date": 1717444175,
+      "review_helpful_count": 4,
+      "author_display_name": "matthewbyrd2112",
+      "author_alias": "matthewbyrd2112",
+      "developer_response": {
+        "body": "Could you comment on what you would expect Wolvic to improve? Thanks!",
+        "date": 1717602363
+      }
+    },
+    {
+      "id": "1200152367686849",
+      "score": 1,
+      "review_title": "NOT VERY GOOD WHEN IT COMES TO PRIVACY",
+      "review_description": "When you clean the user data, reset the browser, and then uninstall the app, you think everything is reset and clean. But if you reinstall the app, it has the old data you cleared and reset, like you old favourites and browser history. Also, if you have two devices linked to one account (home and work in my case), whatever you do in one Wolvic browser shows up in the other Wolvic browser on the other device. THIS BROWSER IS NOT VERY GOOD WHEN IT COMES TO PRIVACY!!!!!",
+      "date": 1724019601,
+      "review_helpful_count": 18,
+      "author_display_name": "SunnyDays321",
+      "author_alias": "SunnyDays321",
+      "developer_response": {
+        "body": "Have you ever installed Wolvic from APKs different from the ones distributed though the Meta store ? I'm asking this because I've observed a similar issue when sideloading dev versions of Wolvic for testing. \n\nPerhaps data from those versions can't be removed properly using the System settings, even when doing fresh installs. \n\nIn any case, we have filed an issue in the development github, just in case you want to follow the discussion there. \n\nhttps://github.com/Igalia/wolvic/issues/1523\n\nThanks for the feedback in any case.",
+        "date": 1724513077
+      }
+    },
+    {
+      "id": "416042638025058",
+      "score": 1,
+      "review_title": "Hate it",
+      "review_description": "For some reason as soon as I joined the game it put me on po#njub so I flaged it and reported it",
+      "date": 1714954408,
+      "review_helpful_count": 2,
+      "author_display_name": "leathal_reaper115",
+      "author_alias": "leathal_reaper115",
+      "developer_response": {
+        "body": "Sorry but this is absolutely impossible. The only web that is loaded by default is the Wolvic start page. Please do reconsider your rating as it is totally inaccurate.",
+        "date": 1714996529
+      }
+    },
+    {
+      "id": "6842422559148496",
+      "score": 4,
+      "review_title": "Cannot install on Quest 3",
+      "review_description": "I cannot install it on my Quest 3 despite it showing in the store.  The Get button is grayed out.  I liked this on my Quest 2 and would like to continue using it on my Quest 3.  It is a good alternative that supports ad blocking extensions, which is a plus.",
+      "date": 1697101118,
+      "review_helpful_count": 152,
+      "author_display_name": "kupkrazy",
+      "author_alias": "kupkrazy",
+      "developer_response": {
+        "body": "We will very soon release a version with support for the Quest 3. Stay tuned and thanks for your comment.\n\nUpdate: Version 1.5.1 with Quest 3 support is out.",
+        "date": 1697976385
+      }
+    },
+    {
+      "id": "323598120839615",
+      "score": 5,
+      "review_title": "It's the best corn browser there is",
+      "review_description": "If you're into watching corn this is the browser for you I mean that's all I use it for and it does perfect so I don't know why it's such a little star and I think people should stop expecting a lot out of it and just watch corn with it I literally named this browser corn browser y'all keep up the good work and I'll keep up the hard work stroking Don't Come Easy... oh yeah and before you go watch some corn make sure you have your hand tracking off that could really ruin the experience",
+      "date": 1717194370,
+      "review_helpful_count": 32,
+      "author_display_name": "official.country.lunatic",
+      "author_alias": "official.country.lunatic",
+      "developer_response": null
+    },
+    {
+      "id": "1216233179779630",
+      "score": 1,
+      "review_title": "It just does not work",
+      "review_description": "Go to play a vr video. Timeline starts, shows time moving. Screen is just black. No video. Tried multiple sites and videos. Nothing on screen just black, no sound. \n\nWhy did they remove firefox? It was the only browser that actually worked. The one video I got working in 4k looked great flat, but in vr mode it was pixelated and low quality, looked nothing like firefox vr quality;",
+      "date": 1701282194,
+      "review_helpful_count": 12,
+      "author_display_name": "thezeek93",
+      "author_alias": "thezeek93",
+      "developer_response": {
+        "body": "Mind sharing which videos are not working for you? If you want to maintain privacy you can always use the feedback form which is totally anonymized",
+        "date": 1701349108
+      }
+    },
+    {
+      "id": "209889774972869",
+      "score": 1,
+      "review_title": "Very buggy and very few settings",
+      "review_description": "The application crashes if the running video starts stretching there are no settings for opening recent tabs (or they are hidden). few backgrounds. few windows. why did the app exit at all AppLab?",
+      "date": 1679295770,
+      "review_helpful_count": 5,
+      "author_display_name": "Shinobeer",
+      "author_alias": "Shinobeer",
+      "developer_response": {
+        "body": "Thanks for your comment. There is a button in the main menu, always present under the active window, to see the open tabs. Is that what you meant? Regarding the video that crashes, could you share a link to it? If we can reproduce the issue we will try to fix it. Also, what do you mean by few windows?",
+        "date": 1679342038
+      }
+    },
+    {
+      "id": "271490966041199",
+      "score": 1,
+      "review_title": "Browser mute sound at Music site",
+      "review_description": "Soundcloud, nhaccuatui and zingmp3 have this problem. Tried every method to fix it and still not working. Please fix this",
+      "date": 1710129188,
+      "review_helpful_count": 1,
+      "author_display_name": "omega.58982",
+      "author_alias": "omega.58982",
+      "developer_response": {
+        "body": "Mind retrying with 1.6.1. It should be already working and perhaps you could reconsider the rating :)",
+        "date": 1717409775
+      }
+    },
+    {
+      "id": "257495587450453",
+      "score": 5,
+      "review_title": "Great alternative to built in browser",
+      "review_description": "I like the tab management and greater customization of the screen size, especially full screen mode. I especially like how full screen videos look. Not curved and super in your face with no clear ability to resize like in the meta browser.",
+      "date": 1711305024,
+      "review_helpful_count": 2,
+      "author_display_name": "fuzetsu",
+      "author_alias": "fuzetsu",
+      "developer_response": null
+    },
+    {
+      "id": "236297619556480",
+      "score": 5,
+      "review_title": "The Best",
+      "review_description": "The best VR browser that have been ever made...And it's free!",
+      "date": 1705516857,
+      "review_helpful_count": 0,
+      "author_display_name": "artemis34",
+      "author_alias": "artemis34",
+      "developer_response": null
+    },
+    {
+      "id": "226729120026287",
+      "score": 2,
+      "review_title": "No immersive 180 video",
+      "review_description": "Good resolution and desktop browsing. The feature of 180 video is bugged. It just stretches the image. No immersion.",
+      "date": 1680193648,
+      "review_helpful_count": 6,
+      "author_display_name": "SkyHighTrooper",
+      "author_alias": "SkyHighTrooper",
+      "developer_response": {
+        "body": "Yeah, it'll be fixed in 1.3.3. Stay tunned!",
+        "date": 1680878900
+      }
+    },
+    {
+      "id": "222056224320263",
+      "score": 3,
+      "review_title": "Can't move window",
+      "review_description": "Can't use it on sofa laying down, windows is always centered vertically",
+      "date": 1705382545,
+      "review_helpful_count": 3,
+      "author_display_name": "martinslabais",
+      "author_alias": "martinslabais",
+      "developer_response": {
+        "body": "Newer versions of Wolvic have new window management features that would solve the use case you are describing. \n\nPlease, upgrade to 1.7.0 and lets us know your opinion.\nThanks.",
+        "date": 1724514610
+      }
+    },
+    {
+      "id": "221397390491365",
+      "score": 1,
+      "review_title": "Worked yesterday, now crashes on startup",
+      "review_description": "I've been using this to surf the web on my quest, since it's possible to get adblock.\nIt has worked fine, mostly. VR-Videos are buggy. Either won't play at all, or is missing either sound or image.\nNow the app doesn't work.\nIt worked fine last night, but now it doesn't start at all. Tried uninstalling and reinstalling the app. Tried rebooting my Quest 2. Nothing.",
+      "date": 1681656135,
+      "review_helpful_count": 22,
+      "author_display_name": "Karlo1337",
+      "author_alias": "Karlo1337",
+      "developer_response": {
+        "body": "It seems the problem is related to the recent Meta Quest 2 v51 upgrade. The problem is not reproducible in the previous v50 and several users have confirmed here that the crashes have started to happen after the upgrade. \n\nhttps://github.com/Igalia/wolvic/issues/606\nhttps://github.com/Igalia/wolvic/issues/613",
+        "date": 1681771547
+      }
+    },
+    {
+      "id": "220400264255507",
+      "score": 5,
+      "review_title": "Fantastic browser with smooth video",
+      "review_description": "I am a longtime fan of Gecko (Firefox) based browsers, and Wolvic brings that same polish to XR. This is a free and open source software tour de force for XR. The video experience really stands out for me. While the Quest browser Chromium reskin is a good effort from Meta, it has had an issue of flickering and inconsistent full screen video that has been lingering for years. This makes it nonviable for streaming service content from providers that do not have apps for the Quest. Wolvic on the other hand is buttery smooth with full screen video, and a joy to watch on. The other great thing about this being a full Firefox Android experience is the ability to use any and all Firefox add-ons on the browser for enhanced privacy and quality-of-life features. With this and Firefox Sync compatibility, it makes for an extremely compelling option. It’s multipane approach to tabs is interesting and may catch on in the space, but only time will tell. I wish it had better default virtual environments, but beyond that, it is close to perfect.",
+      "date": 1687971284,
+      "review_helpful_count": 19,
+      "author_display_name": "thomasbombadil",
+      "author_alias": "thomasbombadil",
+      "developer_response": null
+    },
+    {
+      "id": "219528223960434",
+      "score": 3,
+      "review_title": "Ok",
+      "review_description": "Ok for a web but it freezes",
+      "date": 1679149600,
+      "review_helpful_count": 2,
+      "author_display_name": "Bartus",
+      "author_alias": "Bartus",
+      "developer_response": {
+        "body": "Thanks for your feedback. Could you expand on what exactly freezes in this release? Feel free to report it here or in https://github.com/Igalia/wolvic We will also be happy to talk to you more directly in info@wolvic.com",
+        "date": 1679341793
+      }
+    },
+    {
+      "id": "196875606844001",
+      "score": 5,
+      "review_title": "Good browser, needs Luna compatibility.",
+      "review_description": "Nice browser, would be really nice if it was compatible with Luna Cloud gaming…",
+      "date": 1704000174,
+      "review_helpful_count": 3,
+      "author_display_name": "CipherMnemonic",
+      "author_alias": "CipherMnemonic",
+      "developer_response": {
+        "body": "Luna is only compatible with Chromium browsers. We're preparing a new version using Chromium as backend.",
+        "date": 1710429668
+      }
+    },
+    {
+      "id": "188890674034681",
+      "score": 5,
+      "review_title": "Works Well for HBO and 360 Vids",
+      "review_description": "I use this browser mainly for HBO and 360 videos - and for watching purchases made on YouTube since YouTube VR's interface is so messed up. Tip: When you watch a video in Wolvic, change the environment to \"void\" for a better experience. \n\nI have not had any issues so far, and the developers actively work on fixing bugs -- unlike the browser included with the Meta Quest. Wolvic is based on Firefox so you can sync it with Firefox on your computer, and it works pretty great. If anyone happens to get a bug, I encourage you to tell the developers since they do take the time to fix issues they find.",
+      "date": 1682880319,
+      "review_helpful_count": 19,
+      "author_display_name": "Ooman7",
+      "author_alias": "Ooman7",
+      "developer_response": null
+    },
+    {
+      "id": "187503397787327",
+      "score": 4,
+      "review_title": "Thanks for this important project",
+      "review_description": "It’s important to have alternative browsers in VR so thanks to the team for working on this. \n\nWhat I’d love to see - higher definition availability. There are times when only 1440 is available so it’d be nice to see that bumped up. Cool project though for sure. I’m Please keep building!",
+      "date": 1704262841,
+      "review_helpful_count": 8,
+      "author_display_name": "JoeyyRocket",
+      "author_alias": "JoeyyRocket",
+      "developer_response": null
+    }
+  ],
+  "total": 60,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T10:31:37Z"
+}

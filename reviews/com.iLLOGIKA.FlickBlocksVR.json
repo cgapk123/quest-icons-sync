@@ -1,0 +1,81 @@
+{
+  "app_id": "4835966216440525",
+  "package_name": "com.iLLOGIKA.FlickBlocksVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Flickblocks",
+  "rating_average": 4,
+  "rating_count": 10,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "720100832546529",
+      "score": 4,
+      "review_title": "Amazing and has a lot of potential",
+      "review_description": "As much as I love Cubism, it's a chill game. So chill that it can make ice cubes.\n\nFlickblocks is the anti-thesis of that. Not really a puzzler, but then again Tetris is a pseudo-puzzler. Combine the Zen like mood of Cubism and the frenetic pace of Tetris, then you'll get Flickblocks.\n\nThere has to be some improvements though, to make this a 5-star game. Roomscale is limiting, and may turn off players who have limited space. Also, controllers are needed to a game that barely requires more than two buttons (one for each hand). \n\nIf hand-tracking and non-roomscale option is added, then I can see this game as a must-have in your library, belonging to the ranks of Beat Saber and Pop:One.",
+      "date": 1654882099,
+      "review_helpful_count": 1,
+      "author_display_name": "nastyjman",
+      "author_alias": "nastyjman",
+      "developer_response": null
+    },
+    {
+      "id": "3324966481067034",
+      "score": 5,
+      "review_title": "A great game",
+      "review_description": "Tetris with a twist",
+      "date": 1654644468,
+      "review_helpful_count": 0,
+      "author_display_name": "Gilagassi1",
+      "author_alias": "Gilagassi1",
+      "developer_response": null
+    },
+    {
+      "id": "2263884490443859",
+      "score": 5,
+      "review_title": "Fun challenging game",
+      "review_description": "First, thank you developers for this fun game, I love playing it everytime. \nGreat job 👍.   Please continue to add more gameplay, one suggestion is to have more maps and new colorful outdoor environments if possible.\nAllow to have longer play times,  or unlimited time ⏲️  \n  Thank you 🙏.",
+      "date": 1663366369,
+      "review_helpful_count": 0,
+      "author_display_name": "bryanlo",
+      "author_alias": "bryanlo",
+      "developer_response": null
+    },
+    {
+      "id": "396137605888377",
+      "score": 2,
+      "review_title": "Fine concept, horrible execution",
+      "review_description": "While a competitor to QubeFall is always welcome, this game is unfortunately aggravating because the blocks often fall to areas on the ground that are well outside of your Guardian instead of accounting for it. They also come from two different angles that aren't anywhere near as predictable as QubeFall's spawn point, and they come way too fast for the game to be enjoyable.\n\nThere is also no indicator of when the blocks on the floor will cause the game to end, such as a changing color aura or a faster beeping sound. They also don't even always connect to the grid and still fall even when they give a positional preview.\n\nThe instant falling that they do, instead of floating in midair, is really jarring and kills the fun of figuring out positioning of blocks on the table.\n\nJust get QubeFall on SideQuest instead, until this is massively improved with way slower-moving blocks so that you can last for 15 min per session instead of 2.",
+      "date": 1655678711,
+      "review_helpful_count": 1,
+      "author_display_name": "Dymonika",
+      "author_alias": "Dymonika",
+      "developer_response": {
+        "body": "Thank you for the feedback !\n\nThis prototype has been created with very limited resources and still has a lot of rough edges. Yet, the issues you are bringing up are very interesting (playspace limitations, block falling through, end game condition...) and could really improve the game.\n\nThose are definitely in the list of things we would like to address in future iterations :)",
+        "date": 1655745792
+      }
+    },
+    {
+      "id": "177620954666516",
+      "score": 3,
+      "review_title": "The block is out of reach",
+      "review_description": "It seems that it is made so that the block can not be reached unless it moves, but it is not very interesting.\nIt's more fun to fall from directly above the table.\nThe game is over when the blocks reach the blocks on the table.",
+      "date": 1655654181,
+      "review_helpful_count": 0,
+      "author_display_name": "Panasony1008",
+      "author_alias": "Panasony1008",
+      "developer_response": {
+        "body": "Thank you for your feedback.\nThis prototype has been designed to make people move to make use of roomscale.\nIt requires a quite large playspace at the moment and it is something we want to address in future iterations.",
+        "date": 1655744130
+      }
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T10:28:14Z"
+}
