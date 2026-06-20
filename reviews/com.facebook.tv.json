@@ -1,0 +1,53 @@
+{
+  "app_id": "1925714304166869",
+  "package_name": "com.facebook.tv",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Facebook Watch",
+  "rating_average": 2.6875,
+  "rating_count": 96,
+  "review_count": 96,
+  "reviews": [
+    {
+      "id": "368767080314541",
+      "score": 1,
+      "review_title": "No more UI?",
+      "review_description": "Now needs Oculus TV just to work.",
+      "date": 1530083321,
+      "review_helpful_count": 12,
+      "author_display_name": "thyechean",
+      "author_alias": "thyechean",
+      "developer_response": null
+    },
+    {
+      "id": "112727060247673",
+      "score": 1,
+      "review_title": "Doesn't work",
+      "review_description": "Can't watch any videos",
+      "date": 1578179434,
+      "review_helpful_count": 47,
+      "author_display_name": "kaylakateri",
+      "author_alias": "kaylakateri",
+      "developer_response": null
+    },
+    {
+      "id": "111095796953227",
+      "score": 1,
+      "review_title": "Doesn't work",
+      "review_description": "It doesn't work on Galaxy S10",
+      "date": 1568913263,
+      "review_helpful_count": 7,
+      "author_display_name": "Gjera",
+      "author_alias": "Gjera",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:21:39Z"
+}

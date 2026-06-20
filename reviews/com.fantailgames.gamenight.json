@@ -1,0 +1,788 @@
+{
+  "app_id": "8603854472983065",
+  "package_name": "com.fantailgames.gamenight",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Game Night",
+  "rating_average": 4.4915254237288,
+  "rating_count": 118,
+  "review_count": 61,
+  "reviews": [
+    {
+      "id": "1100066143182937",
+      "score": 1,
+      "review_title": "Cant play co op",
+      "review_description": "Well I bought the game and can get both devices in game but they won't connect. Both on the same wifi and have all permissions granted....",
+      "date": 1774845053,
+      "review_helpful_count": 4,
+      "author_display_name": "ddubya",
+      "author_alias": "ddubya",
+      "developer_response": {
+        "body": "Update: Turns out Meta's App Sharing feature is broken (again!). The bug is that it prevents loading of room data or saving spatial anchors on the App Shared profile. We've reported it and they say they're working on a fix.\n\nWorkaround:\n1. Turn off App Sharing on your secondary headset\n2. Uninstall the game from both profiles the secondary headset (to be safe)\n3. Reinstall the game on your primary profile on the secondary headset (the one that owns the game)\n4. Run the game from the same primary profile on both headsets\n\nMost games don't allow running from the same profile but we do fortunately. This strategy lets you play on as many headsets as you like, whereas App Sharing only allows one (when it works at all).",
+        "date": 1775594582
+      }
+    },
+    {
+      "id": "971073612747495",
+      "score": 5,
+      "review_title": "🎉 The Ultimate MR Party Game!",
+      "review_description": "Game Night is a fantastic co-op multiplayer mixed-reality experience where up to 4 players can join in the same physical space (chaos and wild!!!). The variety of mini-games is huge — fun, family-friendly, and perfect for all ages. It offers hours of gameplay, tons of replayability, and is one of the best ways to show new friends what a VR headset can really do.\n\nSpectator mode is a great bonus, and the AR approach means far less motion sickness, making it accessible to everyone. It’s also an awesome way to connect with your kids, laugh together, and enjoy some friendly competition.\n\nA super fun, under-recognized gem — it is time to change that!",
+      "date": 1765138815,
+      "review_helpful_count": 16,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": {
+        "body": "Congrats you left our 100th review, and wow what a nice one!",
+        "date": 1765181209
+      }
+    },
+    {
+      "id": "26252927197651456",
+      "score": 5,
+      "review_title": "Great party game",
+      "review_description": "Really enjoyed this with the kids well worth the price",
+      "date": 1773922186,
+      "review_helpful_count": 0,
+      "author_display_name": "hollowgrave",
+      "author_alias": "hollowgrave",
+      "developer_response": null
+    },
+    {
+      "id": "1086143791255702",
+      "score": 5,
+      "review_title": "So funny !!!! A must buy",
+      "review_description": "If you are lucky enough to own more than one headset, you must buy this game !!!\nI shared the app with my daughter on her headset (she has a secondary account) and it worked perfectly.\nI just wish there were more games, I would be happy to buy a DLC with some new games :)\nYou have to show this game to your friends, it's a great way to understand and enjoy mixed reality.\nCongrats to the dev, you made a GREAT job !!!",
+      "date": 1777134787,
+      "review_helpful_count": 0,
+      "author_display_name": "FloMartin",
+      "author_alias": "FloMartin",
+      "developer_response": null
+    },
+    {
+      "id": "931149083416888",
+      "score": 5,
+      "review_title": "Funny entertaining game",
+      "review_description": "If you usually play with your family or friends, this game is a must have! Mixed reality minigames which will cause more than a smile on your faces, while you see your friend saving fishes from sharks in your living room, matching teddy bears' color while dancing or hacking some blobs on a virtual table.\nIt does exactly does it says. 👌",
+      "date": 1768476409,
+      "review_helpful_count": 1,
+      "author_display_name": "Boccali",
+      "author_alias": "Boccali",
+      "developer_response": null
+    },
+    {
+      "id": "831730139799476",
+      "score": 5,
+      "review_title": "A blast for all ages!",
+      "review_description": "So much fun! I hosted this game at the Armageddon Expo last week and we had people play from little kids through to grandmas, all enjoying it. It was also great that people in wheelchairs could play several of the minigames, making it really accessible. So many parents actually played VR together with their kids, which is a rarity these days. I strongly recommend everyone give Game Night a try, and can't wait to see what new mini-games the developers add next :)",
+      "date": 1762118751,
+      "review_helpful_count": 8,
+      "author_display_name": "VRNZ-1",
+      "author_alias": "VRNZ-1",
+      "developer_response": {
+        "body": "Thanks so much, it's so great to hear that the game is fun for folks in wheelchairs - that's the first time it has been tested that way to the best of my knowledge. I'm glad our efforts to make the game as accessible as possible have paid off.\nStay tuned for the next minigame, not far off now...",
+        "date": 1763428716
+      }
+    },
+    {
+      "id": "854950471040834",
+      "score": 5,
+      "review_title": "Exceeded expectations!",
+      "review_description": "I was looking for a co-op game I could play with my kids that wasn't another shoot-em-up, and someone suggested this. I am BLOWN AWAY with it! I didn't even know it was possible to have two Quests working in the same mixed reality like this. We both see the game elements and can interact with each other's real life movements in our space. This is some truly incredible use of the technology, and I just wish more people could experience it without being in the same room. Not enough people own multiple Quests yet in the same home.",
+      "date": 1763705798,
+      "review_helpful_count": 5,
+      "author_display_name": "Thehappygildens",
+      "author_alias": "Thehappygildens",
+      "developer_response": {
+        "body": "I know right, I counted at one point that there were 10+ Mixed Reality shooters, which was roughly 50% of all designed for Mixed Reality games on Quest (better now fortunately). We wanted to make something more unique and wholesome for the whole family. \nHaha, you think 2 players is fun, just wait until you can get 4 people playing together, it's chaos!\nAlas, we've not figured out how to add online play yet (someone has to invent this technique first). The challenge is that we use the whole room to play, furniture and all. If players are in different rooms with different layouts it creates a challenge of how to match up the gameplay. We'll keep thinking about it though...",
+        "date": 1764189921
+      }
+    },
+    {
+      "id": "25193861873640933",
+      "score": 4,
+      "review_title": "Great Mixed Reality Party Game",
+      "review_description": "The 6 games that are included currently are quite fun and are a great showcase for how mixed reality games can be done. I had a great time this Thanksgiving playing with 4 family members: 7 year old, 29 year old, 32 year old and a 62 year old and we were all having a lot of fun.\n\nThat being said, some handicapping would be nice since grandpa and the kiddo both came in last every time. It would be nice if you could make it easier for some players like making points worth more or adding extra fish/tracks/carrots/etc.\n\nThere were some bugs we ran into as well. The penguins and the bunnies had a habit of clipping out of bounds occasionally with no easy way of getting them back in bounds. I'd recommend having either a reset button near the timer or detect if they've clipped out of bounds and auto-respawn them in bounds.\n\nOverall it was a fun time. I'm hopeful to see some more mini games and features which will make this a must buy.",
+      "date": 1764397953,
+      "review_helpful_count": 3,
+      "author_display_name": "Jarom",
+      "author_alias": "Jarom",
+      "developer_response": {
+        "body": "I'm so glad you had a fun Game Night during Thanksgiving!\n\nYeah, the games are currently pretty skill-based without catch up (luck) mechanics. We'll have to do a pass across all of the games to make them feel more fair.\n\nIn the meantime, I'd suggest introducing some house rules. The parents play with one hand tied behind their back, or they have to hop/skip. \n\nAs you point out there are challenges with losing the bunny and hockey puck. We've actually put a great deal of time into trying to automatically detect when things exit the play area (actually spent longer on this than the total time it took to make the hockey game). It's very challenging and we'll get better. The hockey puck does automatically reset if it gets lost too long, but a button as you suggest would make this easier/quicker. \n\nI'm happy to say we're currently beta testing our next minigame, so check back soon for  the official release. Then we'll be shifting focus back to other quality of life features.",
+        "date": 1764615747
+      }
+    },
+    {
+      "id": "887043121148690",
+      "score": 5,
+      "review_title": "Must-have VR game",
+      "review_description": "This game is great, especially for 2-4 local players.  I have played with people from 8 to 65 and everyone had a great time.  The game interactions are very intuitive making it easy for new VR players.  The developer continues to add new minigames.",
+      "date": 1760975129,
+      "review_helpful_count": 3,
+      "author_display_name": "tiegjas",
+      "author_alias": "tiegjas",
+      "developer_response": {
+        "body": "Thanks Tiegjas, so glad you've been enjoying Game Night with your friends and family. It isn't a Game Night if some people can't play, so we put a lot of effort into making every minigame as obvious as possible. We set ourselves the challenge of doing this with nothing to read (no instructions). Looks like this has paid off.\nStay tuned, new minigame just around the corner...",
+        "date": 1763428868
+      }
+    },
+    {
+      "id": "1264683745422477",
+      "score": 1,
+      "review_title": "Love the game HATE THE FKING GIANT RED H",
+      "review_description": "WHY ARE MY HANDDS OVERBLOTTEE BY THE GIANT FOAM FINGER HANDS?! WTF IS THIS RETARDED FEATURE FOR? HOW DO YOU DISABLE IT?",
+      "date": 1764549722,
+      "review_helpful_count": 0,
+      "author_display_name": "PoweredByCoffee5000",
+      "author_alias": "PoweredByCoffee5000",
+      "developer_response": {
+        "body": "Update: We just found a very rare bug that would cause the spectator hands to remain on if you disconnect and reconnect to the game multiple times. Hopefully this fixes the issue you were seeing. Thanks for reporting it!\nWe've also done a major overhaul of the spectator system to much include better messaging and now allowing players to join an active tournament whether they were there or not at the beginning. \n\nYou've activated spectator mode:\nThis is for folks that don't want to play, but still want to watch the fun, or for recording the game.\n\nYou enter spectator mode when you either move your player token on the couch before the game starts (a warning is displayed), or you join a minigame after it was already started (everyone must be in game and ready when you start the tournament). Just end the current minigame and restart the tournament.",
+        "date": 1770861066
+      }
+    },
+    {
+      "id": "789280954269597",
+      "score": 5,
+      "review_title": "Great game with family",
+      "review_description": "Absolutely worth every penny this game is what mixed reality is all about moving around in a safe way the augmented reality is awesome easy games to play for kids n bigger kids as myself it gets kids active this is what parents shud b promoting active gaming take the controllers away everything is hand based its dirt cheap active devs looking to create a great expierence for all must buy game",
+      "date": 1758080135,
+      "review_helpful_count": 6,
+      "author_display_name": "Rednirt91",
+      "author_alias": "Rednirt91",
+      "developer_response": {
+        "body": "Lots of people say that Mixed Reality is a gimmick, but Game Night here is to prove that getting people moving is such a strong feature and if that were the only value that MR brings, it's totally worth it!\nHope you continue to have fun as we slowly add more games :)",
+        "date": 1763438711
+      }
+    },
+    {
+      "id": "744469451743082",
+      "score": 5,
+      "review_title": "Fun with a sprinkle of more fun on top.",
+      "review_description": "Had the pleasure of meeting the developers at Armageddon Expo in Auckland where we got to try this game. My son enjoyed it so much I bought a copy on the spot. The game is so much fun it didn't take me long to aquire a second headset so we could play together; that's when it shined the most! This game is an insane amount of fun in multiplayer. Kudos to the team for incoporating so may unique and fun ideas into Game Night!.",
+      "date": 1757105794,
+      "review_helpful_count": 5,
+      "author_display_name": "GDaddyDawgg",
+      "author_alias": "GDaddyDawgg",
+      "developer_response": null
+    },
+    {
+      "id": "707652329108570",
+      "score": 5,
+      "review_title": "Super fun and weird",
+      "review_description": "I love this game.\nThe entire room fills with water and a fish like Nemo appears. Scoop up the fish with your hands, and drop the fish in the net on the floating boat.\nTry to get more fish into the net.\nSo funny.\nThe fish jump, and then there's a cartoon shark.\nHe is so fast at eating fish if they jump out of your hands.\n\nThere's a balloon bunny that you need to hit, to eat the floating carrots all over the room.\n\nMany other games.\n\nThis is so unique and fun.",
+      "date": 1756760235,
+      "review_helpful_count": 4,
+      "author_display_name": "AbsterA",
+      "author_alias": "AbsterA",
+      "developer_response": null
+    },
+    {
+      "id": "1223318189705629",
+      "score": 1,
+      "review_title": "Hoping I’m wrong",
+      "review_description": "I purchased this game for everyone in my family with an oculus, but after having a difficult time setting up, we learned that we all had to be in the same room, or on the same WiFi. My family is all around the States and we play cooperative games together. It was a bummer.",
+      "date": 1767489934,
+      "review_helpful_count": 0,
+      "author_display_name": "JaneStreet",
+      "author_alias": "JaneStreet",
+      "developer_response": {
+        "body": "Yeah sorry I have bad news for you, Game Night can only be played from the same location on the same WiFI. We'd absolutely love to support online play but it just isn't possible as it is played in your real room (furniture and all), it doesn't work if everyone is in a different room with a different layout. \nIf you do bring the family together for special events though I promise it'll be worth it.",
+        "date": 1768263799
+      }
+    },
+    {
+      "id": "845771448629485",
+      "score": 5,
+      "review_title": "Fantastic Family Fun 😁",
+      "review_description": "This is the ultimate family VR game. Up to 4 players in a mixed reality setting so casting to a TV, makes it just as much fun for the other people that are just watching too. Easy to play games, so great for all ages with bright and cheerful graphics. Energetic, lots of moving around, splatting, catching and slapping various creatures that are bouncing or swimming around the room. So much fun for family parties. 5*",
+      "date": 1766869451,
+      "review_helpful_count": 1,
+      "author_display_name": "Mayazukii",
+      "author_alias": "Mayazukii",
+      "developer_response": null
+    },
+    {
+      "id": "977009942158251",
+      "score": 3,
+      "review_title": "Loading",
+      "review_description": "So far can’t get past the loading screen I see the couch and early access menu screen. Would love to play it looks so fun. I have the meta quest 2 headset if helps. Thank you!",
+      "date": 1768268182,
+      "review_helpful_count": 0,
+      "author_display_name": "Shadow3692",
+      "author_alias": "Shadow3692",
+      "developer_response": {
+        "body": "Update: We've submitted a number of fixes for this issue since your report. Love to hear if it resolved your issue loading the game.\n\nThanks so much for your bug report. It should work fine on the Quest 2, we've been hunting this issue for a while now with no luck. \nI'd love it if you could contact us on support@fantailgames.com or pop onto our Discord so we can work it out.\n\nIn the meantime, somethings to try:\n1. Go to Horizon OS Settings > Privacy & Safety > Device Permissions\n2. Press the Delete and Clear buttons.\nThis fixes most issues caused my Meta's OS. After this you'll need to redo the room scan when you next launch the game.",
+        "date": 1770861191
+      }
+    },
+    {
+      "id": "715197978350637",
+      "score": 5,
+      "review_title": "made my daughter want to play meta again",
+      "review_description": "i have been trying to figure out how to get my daughter back into playing meta on our second device. she is 13 and has mostly played gorilla tag. We played this on friday night and had such a great time we were both laughing out loud and bumping into each other in the room! i *do* recommend a fresh room scan as we had some stuff out of place and were tripping over it! i said out loud: this is exactly what i want vr to be!  thank you! i really appreciate this and hope i can get my husband to play as well. ps my crappy lack of capitalization is due to using dictation 😄",
+      "date": 1756123882,
+      "review_helpful_count": 2,
+      "author_display_name": "peace5777",
+      "author_alias": "peace5777",
+      "developer_response": {
+        "body": "Thanks so much for you're review, it's so heartwarming to us to know how much people are enjoying it with their families! It's why we love doing what we do.\nI'm happy to report that we've just added our 6th game too: Penguin Ice Hockey",
+        "date": 1756440459
+      }
+    },
+    {
+      "id": "25969518359298438",
+      "score": 1,
+      "review_title": "Can’t install",
+      "review_description": "Kept trying to install the game on 2 of my quest 3 headsets and couldn’t get it installed. Keeps saying downloading and completes but immediately goes back to telling me to download it again.",
+      "date": 1767244725,
+      "review_helpful_count": 0,
+      "author_display_name": "XxAirWalker26xX",
+      "author_alias": "XxAirWalker26xX",
+      "developer_response": {
+        "body": "Update: Meta have updated to HorizonOS 85, worth giving it another try, perhaps they've fixed whatever was causing your issue installing Game Night.\n\nSorry you've had troubles installing Game Night. Unfortunately, this is a problem with Meta store rather than Game Night. \n\nTry the following:\n1. Making sure that your OS is fully up to date. Game Night requires at least v81.\n2. Check that you haven't run out of space on your headset.\n3. Uninstall the game from all profiles on the headset and reinstall from the one you want to play from. We've noticed as Meta OS bug that prevents games being installed on multiple profiles at the same time on the same headset.\n4. Try restarting the headsets\n\nPlease contact support@fantailgames.com or join our Discord and we'll figure out what's going wrong.",
+        "date": 1770861122
+      }
+    },
+    {
+      "id": "1854823208774944",
+      "score": 5,
+      "review_title": "Fantastic family fun",
+      "review_description": "Superb tech and implementation, a hoot of a game and a fantastic support team behind it",
+      "date": 1759442959,
+      "review_helpful_count": 1,
+      "author_display_name": "DocDave21",
+      "author_alias": "DocDave21",
+      "developer_response": {
+        "body": "Thanks for the support, we mostly feel like we're bashing our heads against the monolithic task it is bringing a colocated Mixed Reality party game to life. It's very motivating to hear you're enjoying it. Now if you could just tell all your friends...lol",
+        "date": 1763430867
+      }
+    },
+    {
+      "id": "4070937926494327",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "This should've been the Wii Sports of the Quest 3 if Meta knew what they were doing. Utilizes everything cool and modern about pass through in a really simple and highly polished package. It would be greater with even more content though, so I encourage anyone to buy the game to support the team.",
+      "date": 1753346952,
+      "review_helpful_count": 3,
+      "author_display_name": "Kelsonk",
+      "author_alias": "Kelsonk",
+      "developer_response": {
+        "body": "Thank you so much for your kind review. If you love Wii Sports you're going to love our next minigame, it's the most sporty yet! Check back soon",
+        "date": 1753792578
+      }
+    },
+    {
+      "id": "723891917472042",
+      "score": 5,
+      "review_title": "Amazing family game",
+      "review_description": "Amazing and easy game to play with the family. No hard invites or game rooms to find and join. Auto connects with the same wifi connection so even younger users can easily join, theres tons of fun and interactive games of all variations that tickle all parts of our exploration/creative minds.  I really can't wait for the creator to develop and make more mini games, ive never played such a \"plug in play\" game with my kids.",
+      "date": 1753137821,
+      "review_helpful_count": 3,
+      "author_display_name": "Chochosw",
+      "author_alias": "Chochosw",
+      "developer_response": {
+        "body": "Your wish has come true, we've just added our 6th minigame: Penguin Ice Hockey. \n\nThanks for calling out our auto-join feature and the plug and play. It was a great deal of effort, but we wanted everyone to be able to get into the game and start playing as fast as possible. Simple games are anything but simple to make.",
+        "date": 1756440669
+      }
+    },
+    {
+      "id": "817319378140316",
+      "score": 3,
+      "review_title": "Fantastic but needs fixed!",
+      "review_description": "Wonderful game love it great family fun however my little ones have a problem with the fish game you can set the table hight and it effects the smile monster play area but does not effect the water hight... Little ones can't reach the boat ☹️",
+      "date": 1762729666,
+      "review_helpful_count": 0,
+      "author_display_name": "MageFries",
+      "author_alias": "MageFries",
+      "developer_response": {
+        "body": "Update: We've added some more improvements for our smaller players. I'd love to hear if this has improved the experience for your family. :) \n\nHi MageFries, I'm so glad you're enjoying Game Night with your family. Thanks for the suggestion to make the game easier to play for our shorter players. We've just updated the game to base the water height off the shortest players estimated height (you need to give it a few seconds in the tournament start area to calculate). \nDo let us know if it works for your family ^_^",
+        "date": 1770861368
+      }
+    },
+    {
+      "id": "2508509852843899",
+      "score": 4,
+      "review_title": "multiplayer on shared account issue",
+      "review_description": "This game is great. I bought 4 Quests and bought GameNight twice. Once for me and once for my wife, and we have shared accounts for my two kids. Unfortunately, unlike every other game i have on my Quest, GameNight doesn't seem to allow my kids to play the shared game. I read in your reaction on Mace584 that this actually SHOULD work. I tried to put both games on the same account like you proposed there, but then I got the message that the game was already running on the other Quest. Can this be fixed? I love the game but buying it 4 times for some casual gameplay is a bit much.",
+      "date": 1745612087,
+      "review_helpful_count": 15,
+      "author_display_name": "QNeo",
+      "author_alias": "QNeo",
+      "developer_response": {
+        "body": "Yeah, totally you can play with 2 copies of Game Night and 4 headsets. I've updated the response to Mace584 with more detailed instructions how to work Meta's SharedApps feature. \n\nDad's headset has \"Dad\" as primary profile. AppSharing turned off. Launch from Dad\nChild A's headset has \"Dad\" as primary profile, and \"Child A\" as secondary account. AppSharing turned on. Launch from Child A\nMum's headset has \"Mum\" as primary profile. AppSharing turned off. Launch from Mum\nChild B's headset has \"Mum\" as primary profile, and \"Child B\" as secondary account. AppSharing turned on. Launch from Child B\n\nHonestly, Meta made it pretty confusing. On the plus side, this configuration will work for all of your other games.\n\nThe other way is to turn OFF App Sharing on all devices. Have \"Dad\" or \"Mum\" profile on all headsets. Then launch from the shared profile on all headsets. Fewer games support this strategy however.",
+        "date": 1745826167
+      }
+    },
+    {
+      "id": "1449744732939486",
+      "score": 4,
+      "review_title": "Please add MORE CHALLENGES soon",
+      "review_description": "Love playing this with my kid, but we finish it fast. It needs lots more game modes",
+      "date": 1752938437,
+      "review_helpful_count": 1,
+      "author_display_name": "DJ.Veasy",
+      "author_alias": "DJ.Veasy",
+      "developer_response": {
+        "body": "Thanks DJ, \nWe're so glad you enjoyed it! \nI'm happy to report we've just added our 6th game: Penguin Ice Hockey. I hope you're ready for some sporty action that'll really get you moving.",
+        "date": 1756440755
+      }
+    },
+    {
+      "id": "610070452196266",
+      "score": 5,
+      "review_title": "Game is great, support from devs as well",
+      "review_description": "This review has been edited, see bottom for details.\n\nFirstly the games are fun and innovative and work in a variety of environments (a clear space is ideal, but furniture is not the end of the world.)\n\nGetting it to work multiplayer as intended is tricky and online instructions are insufficient.\n\nFirst you must use the same account on both headsets, two different profiles will not recognize each other in game.  Second, you must turn off APP sharing. This can be annoying as App sharing is required for other games to work multiplayer on my two headsets, but once i turned off app sharing i was able to play the game with my daughter. \n\nVery minor thing to note: height difference can matter, my daughter is very young and so on the fish game she was under water and couldn’t get the fish high enough to go into the boat.\n\nI also found the meta hand tracking to fail frequently and have trouble staying on, but i believe this is the meta and not the game. I was able to play several rounds with my daughter before this became too much of a hassle, and these rounds were really fun.\n\nI recommend the game, it is short but has replayability so long as the hand tracking stays working.\n\nThe original review was negative based on how unclear it was to connect multiplayer. The in game instructions are very light on detail and online guides were unhelpful or incorrect.  That said, the game team were very responsive and helpful, gave me the tip i needed to make it work, and i gave the game a second chance.  I’m glad i did.  kudos to the team for a great game and great customer support.",
+      "date": 1747668213,
+      "review_helpful_count": 3,
+      "author_display_name": "Mace584",
+      "author_alias": "Mace584",
+      "developer_response": {
+        "body": "The error you're getting is from Meta's App Sharing system (not our game). Have copied the email response here for others that may run into the same issue.\n\nThere are two strategies for running the game on two (or more) headsets using one purchased copy of the game:\n\n1) Meta's AppSharing feature only allows the game to be shared on one extra device. So when using Meta's AppSharing you have to have 1 copy of the game for every 2 headsets. \nHave your main profile that purchased the game (Jim) on device A and device B. Device B has AppSharing turned on with a secondary profile (Bob). Launch with Jim on device A and Bob on device B and you'll be away laughing. If you attempt to run from Jim with both headsets you'll get the popup you mentioned.\n\n2) I don't know if it's a workaround, but we've found if better to TURN OFF Meta's App Sharing feature. Then you can play Game Night from the same profile (Jim) using as many headsets as you like at the same time. You must turn app sharing off though for this to work. So purchase once, play on as many headsets as you're willing to add your profile too. Most games don't support this (they prefer to block this strategy for the $$), but we wanted everyone in the family to be able to play the game together without having to buy loads of copies.\n\nTo conclude, this is the way Meta's system works. It's a bit weird and confusing, but we have no control over it, so it is what it is.",
+        "date": 1745813374
+      }
+    },
+    {
+      "id": "9196702957081957",
+      "score": 5,
+      "review_title": "High hopes",
+      "review_description": "Really, really hope these guys can get some more mini games out soon. The three in the EA are immense fun and it's even pushing us to buying a third and fourth headset maybe for family games (we have two right now), but definitely needs more games.\n\nThe bunny game has occasional issues for us where a carrot doesn't spawn in the demo section so you can't proceed. A skip button would resolve this.\n\nEDIT - we got a 4th headset so my wife could play with the kids and myself. It simply won't work with 4 players though. We always end up with 3 on one board and the 4th on another. We've reset WiFi, reinstalled the game, reset spacial, nothing.\n\nEdit 2 - I'm gonna put the stars back because while we may be having some problems, this developer is so responsive and keen to help out it needs recognising.",
+      "date": 1739690394,
+      "review_helpful_count": 20,
+      "author_display_name": "benville",
+      "author_alias": "benville",
+      "developer_response": {
+        "body": "Thanks for your review. We added a 4th minigame last month, and we've just dropped our newest game. I hope you're ready to conga conga conga!\n\nI'm glad we got to the bottom of the issue you were having (bluetooth turned off on one device), and we've patched it now so that it'll warn people if bluetooth is turned off and to turn it back on. Really appreciate your time helping to get to the bottom of it and make our game better.",
+        "date": 1741931325
+      }
+    },
+    {
+      "id": "691529407366378",
+      "score": 5,
+      "review_title": "So good",
+      "review_description": "Unbelievably fun game with friends. Only a few minigames but they are super well made. \nFor under 10 Bucks it‘s great.",
+      "date": 1746384117,
+      "review_helpful_count": 2,
+      "author_display_name": "RandeyMarsh",
+      "author_alias": "RandeyMarsh",
+      "developer_response": null
+    },
+    {
+      "id": "667352559050492",
+      "score": 5,
+      "review_title": "Brilliant!",
+      "review_description": "This game is so fun playing it with family! I just really wish there was a lot more minigames! \n\nAs for the gameplay, it’s so easy to use and understand, the tracking is on point, the gameplay is elite and it’s honestly everything you want in a family fun game!\n\nSuggestion: I definitely suggest you have themed “maps” or game modes or even team games for when it’s more than 2 players!\n\nJust pleaseeee release more games asap!",
+      "date": 1741504152,
+      "review_helpful_count": 5,
+      "author_display_name": "Shazza_Pow",
+      "author_alias": "Shazza_Pow",
+      "developer_response": {
+        "body": "Thanks for all these really great suggestions! We definitely have plans for more team/social games. \n\nWe just released a new game, and it's super fun (ok, I'm biased I made it). Match 3 Conga Conga Conga!",
+        "date": 1741931247
+      }
+    },
+    {
+      "id": "1367578651238850",
+      "score": 4,
+      "review_title": "Great Fun, But Needs More Games!",
+      "review_description": "This is loads of fun with a small group, but you need a good amount of surrounding space, especially for the train game. Would be a lot more fun with a couple more minigame options. The Plushie Conga line was the reason I bought this and it really delivers!",
+      "date": 1745003475,
+      "review_helpful_count": 1,
+      "author_display_name": "SAR_SEER",
+      "author_alias": "SAR_SEER",
+      "developer_response": {
+        "body": "Haha, I'm so glad you enjoyed the Plushie Conga minigame, I put a lot of love into that one. \nThings have slowed down a little over the Easter period, but rest assured that more wild and wonderful minigames are in the works. \n\nAlso, I totally hear you about the train game requiring a bit more space. We initially intended you to be able to drive it up and over furniture, but that introduced a number of usability issues. Hopefully we'll be able to solve it.",
+        "date": 1745486067
+      }
+    },
+    {
+      "id": "634586403072272",
+      "score": 5,
+      "review_title": "Great fun for the family",
+      "review_description": "Really good mixed reality game, very easy to grasp, the games are fun. My nine year old daughter loves this game. Co-location multiplayer is where it's at!",
+      "date": 1745244574,
+      "review_helpful_count": 2,
+      "author_display_name": "Basilisk",
+      "author_alias": "Basilisk",
+      "developer_response": {
+        "body": "Yeah! Co-location for the win!",
+        "date": 1745486233
+      }
+    },
+    {
+      "id": "523529647520458",
+      "score": 1,
+      "review_title": "not working",
+      "review_description": "No matter where my boundary is the game play board sits in the middle of a real shelf and unplayabale unless i move it. I cant get the game play to set up anywhere else. \n\nThe train runs through the kitchen island. \n\nThis was not easy or fun.",
+      "date": 1741058699,
+      "review_helpful_count": 2,
+      "author_display_name": "Whatdawut",
+      "author_alias": "Whatdawut",
+      "developer_response": {
+        "body": "Update: We've made a huge host of improvements to the game that should fix the issues you ran into. Meta have also greatly improved there scene setup feature. It's great time to give it another go and try all the new games.\n\nSorry you've run into troubles. Sounds like you need to rerun Meta Quest's system \"Settings > Environment Setup > Space Setup\"). When you scan the room make sure that everything that you want to be an obstacle is outlined and labelled such as kitchen island and shelves.\n\nWe've now completely reimplemented how objects are placed in the scene, both the game board and other objects that are spawned. You'll find that it understands your space much better now.",
+        "date": 1770861468
+      }
+    },
+    {
+      "id": "584951354698243",
+      "score": 5,
+      "review_title": "An excellent game. Even for granny!",
+      "review_description": "Seriously. This is an amazing fun, laugh out loud, experience for the whole family on Quest 3.   Simple to play and outstanding mixed reality. Like others, I really hope that they release more games. Can't wait to buy them.",
+      "date": 1740743501,
+      "review_helpful_count": 2,
+      "author_display_name": "prem.de.la.creme",
+      "author_alias": "prem.de.la.creme",
+      "developer_response": null
+    },
+    {
+      "id": "578755338659202",
+      "score": 5,
+      "review_title": "love it!",
+      "review_description": "How many minigames will you develop? Too little now.",
+      "date": 1742883669,
+      "review_helpful_count": 3,
+      "author_display_name": "nohch",
+      "author_alias": "nohch",
+      "developer_response": {
+        "body": "Thanks for your review. Our initial goal is to get to 8 action-based minigames, then we have plans for social deduction based minigames if we find success. Reviews like yours helps us a lot, tell your friends, join the discord and together we can make an entirely new genre of XR game!",
+        "date": 1742932300
+      }
+    },
+    {
+      "id": "1378038123358613",
+      "score": 3,
+      "review_title": "Has promise, obviously early access",
+      "review_description": "Needs the ability to connect with people not on your own wifi network. My kids would love to be able to play, but one will be leaving for college. Or to play with their grandma who has a headset, but lives 7 hours away.",
+      "date": 1738047029,
+      "review_helpful_count": 4,
+      "author_display_name": "schillil",
+      "author_alias": "schillil",
+      "developer_response": {
+        "body": "I'm right there with you, we'd love to be able to support remote/online multiplayer, however at this time it is impossible. The challenge is that if everyone is playing in different sized/shaped rooms with different furniture how do you create a shared space experience where you feel like you're in the same room together. \n\nSo far the only answer to this has been using portals (like Party Versus or Home Sports) where you play next to each other through a wall, but don't share the same space. We are thinking about how to solve this problem and when we invent a solution we'll roll it out.\n\nIn the meantime though, Game Night is intended to be a shared experience you can have with the family at events when you get everyone together. In our increasingly disconnected world, if Game Night encourages people to meet up in real life a little more I'll call that a big win.",
+        "date": 1738094413
+      }
+    },
+    {
+      "id": "3862015124016944",
+      "score": 4,
+      "review_title": "Great way to introduce others to VR",
+      "review_description": "Fun game. There are only a few mini-games, but hopefully more will be added at no cost. As it is, cost is a little high, but I have high hopes for this one!",
+      "date": 1741270937,
+      "review_helpful_count": 1,
+      "author_display_name": "ZoeyAttitude",
+      "author_alias": "ZoeyAttitude",
+      "developer_response": {
+        "body": "Update: Just wanted to let you know that Game Night now features 7 minigames. Give it a go and see what you think of the new content.\n\nThanks for your support and investing in us during our Early Access phase. \nGood news, we have a whole new free minigame being added to the game next week with plenty more planned",
+        "date": 1770862181
+      }
+    },
+    {
+      "id": "513924791802812",
+      "score": 1,
+      "review_title": "Local multiplayer does not work",
+      "review_description": "Meta support was useless...\n\nHave multiple headsets paid for game on each headset. Game freezes and doesn't detect headsets that join the game from the same room on the same wifi. Contacted meta and was told that game does not support multiplayer... what??!!\n\nSee below.\n\n﻿Meta Store Support Bot (12/25/2024, 3:32:30 PM): Thanks for contacting Meta Store Support. This chat should not be used for sharing sensitive personal information such as credit card numbers. \nMeta Store Support Bot (12/25/2024, 3:32:30 PM): Pick a product below or type a question to get started. \nMeta Store Support Bot (12/25/2024, 3:32:30 PM): Button Selections:\n\tMeta Quest\n\tMeta Portal\n\tSmart Glasses\n\tAccounts\n\tOrders and Returns \nBrian (12/25/2024, 3:40:03 PM): How do we play multiplayer? I just bought 2 headsets and spent ober a thousand dollars and theres no clear way for me to play games with my daughter. Do I have to buy two sets of each game? We tried a simple game called game night. Paid and downloaded to one headset then tried to find it in the app store on the second headset and it was nowhere to be found. Spent 2 hours and finally had to send a referral link to the second headset and buy another instance of the game. It still doesnt work. The game freezes up. It says both headsets need to join but when we try that we just end up in 2 separate instances of the game. Please help, I'm ready to return this entire system. It feels like it wasn't really thought out. \nMeta Store Support Bot (12/25/2024, 3:40:04 PM): Once you’ve added an additional account to your Meta Quest headset, you can share purchased apps from your admin account with additional accounts on the device by turning on App Sharing. \nMeta Store Support Bot (12/25/2024, 3:40:04 PM): Select to learn more: \nMeta Store Support Bot (12/25/2024, 3:40:05 PM): Button Selections:\n\tTurn App Sharing (on/off)\n\tUsing App sharing on different devices \nBrian (12/25/2024, 3:40:31 PM): This is not helpful \nMeta Store Support Bot (12/25/2024, 3:40:32 PM): Our live support agents can further assist you. \n\nBefore we connect you with a live agent, we need additional information. \nMeta Store Support Bot (12/25/2024, 3:40:32 PM): Please select your product. \nMeta Store Support Bot (12/25/2024, 3:40:32 PM): Button Selections:\n\tMeta Quest\n\tMeta Portal\n\tSmart Glasses\n\tAccounts\n\tOrders and Returns \nBrian (12/25/2024, 3:40:38 PM): Meta Quest \nMeta Store Support Bot (12/25/2024, 3:40:38 PM): Type a brief description of the issue you're having. \nBrian (12/25/2024, 3:40:58 PM): Can't play multiplayer with second headset \nHarvey (12/25/2024, 3:42:40 PM): Hi Brian. Thank you for contacting the Meta Store Support. My name is Harvey and I'll be assisting you today. I hope you are doing fine apart from your concern today. The reference number for your inquiry is 07704636. \nHarvey (12/25/2024, 3:42:55 PM): Please do not close or switch from your account browser tab during this chat session, as it will disconnect us. \nBrian (12/25/2024, 3:42:59 PM): Ok. Thank you \nHarvey (12/25/2024, 3:43:03 PM): How may I assist you today? \nBrian (12/25/2024, 3:43:41 PM): We have 2 headsets and want to play multiplayer but there doesn't seem to be a clear way to make this happen \nBrian (12/25/2024, 3:43:58 PM): We tried with a simple game called game night \nBrian (12/25/2024, 3:44:45 PM): It says to have both headsets start the game for multiplayer but it doesn't work and we both just end up with 2 separate game instances \nBrian (12/25/2024, 3:45:45 PM): We've spent multiple hours and have had to charge the headsets multiple times and still haven't been able to play \nHarvey (12/25/2024, 3:46:09 PM): I see. Thank you for bringing this to our attention I will assist you with this today. \nHarvey (12/25/2024, 3:46:26 PM): Just to confirm the name of the game is Game Night? \nBrian (12/25/2024, 3:46:33 PM): Yes \nBrian (12/25/2024, 3:47:42 PM): We installed it on one headset and then went to search for the same game in the app store and it wouldn't show up. Spent several hours and finally had to send a referral for the game from the first headset and the the app store finally found it. \nHarvey (12/25/2024, 3:48:28 PM): Alright no worries Brian. I will look into this for you today. \n\nJust to make sure on the other headset there is a different account logged in and not the same account is that correct? \nBrian (12/25/2024, 3:49:05 PM): Yes we have two separate accounts logged into each headset \nHarvey (12/25/2024, 3:49:23 PM): I see. Not to worry Brian, allow me to check on this on my end. I will need 3-5 minutes to do so. \nBrian (12/25/2024, 3:49:46 PM): I ended up having to buy the game twice. Is that supposed be required? \nBrian (12/25/2024, 3:52:56 PM): But to be clear even with two copies it still doesn't seem to make the multiplayer work \nHarvey (12/25/2024, 3:57:17 PM): Thank you for patiently waiting Brian. \nHarvey (12/25/2024, 3:58:49 PM): In order to be able to play the game in multiplayer mode, Both of the accounts must purchase the game and own the game in their own account and the game must also allow multiplayer to be allowed on the game. \nHarvey (12/25/2024, 3:59:11 PM): May I know the name of the game that you were trying to play multiplayer from the Game night bundle? \nBrian (12/25/2024, 4:01:20 PM): That's insane. So for large family's with 3 or 4 kids they have to shell out hundreds of more dollars for each game in order for the kids to play together after already spending 600 on each headset? \nHarvey (12/25/2024, 4:02:35 PM): I understand your concern Brian, however this is how the multiplayer option works both accounts must have purchased the game into their accounts to be able to play against each other. \nBrian (12/25/2024, 4:03:14 PM): Ok well back to my issue. It still doesn't seem to work after buying separate copies. \nHarvey (12/25/2024, 4:03:48 PM): I see. May I know which game are you trying to do multiplayer on the Game night bundle? \nBrian (12/25/2024, 4:06:06 PM): It is a Balloon game. The game board has a button that indicates multiplayer and it says to have each headset start the game. But when we do that we end up with two instances of the game starting \nHarvey (12/25/2024, 4:07:21 PM): I see. May you please reconfirm the name of the game? \nBrian (12/25/2024, 4:07:37 PM): Game night \nBrian (12/25/2024, 4:07:52 PM): That's what the icon shows \nHarvey (12/25/2024, 4:10:00 PM): Alright thank you for the confirmation. \nHarvey (12/25/2024, 4:11:16 PM): Upon checking the game that you are referring to does not support online multiplayer that is why you are unable to play online. \nBrian (12/25/2024, 4:11:46 PM): The game has a multiplayer button on the game board \nBrian (12/25/2024, 4:12:04 PM): It says to have both headsets in the same room start the game \nHarvey (12/25/2024, 4:12:06 PM): May you please share a screenshot of the game from your end ? \nBrian (12/25/2024, 4:12:40 PM): I'm chatting on my phone. How tmdo I share a screenshot? \nHarvey (12/25/2024, 4:14:55 PM): I see. No worries Brian. However just to let you know if you are referring to the game Game night and according to your description the one with balloons its does not support on online multiplayer mode. \nHarvey (12/25/2024, 4:17:38 PM): Thank you for the confirmation. \nHarvey (12/25/2024, 4:17:38 PM): Online multiplayer is not supported as everyone's rooms are different sizes and shapes. Plus, there’s no substitute for playing together in person! ‎ \nHarvey (12/25/2024, 4:17:38 PM): You can also refer to this link <linkremoved per comment policy>\nBrian (12/25/2024, 4:18:35 PM): The game table shows multiplayer though \nHarvey (12/25/2024, 4:19:47 PM): I understand Brian, however Online multiplayer is not supported. That is why it keeps pushing back on your end. \nBrian (12/25/2024, 4:20:09 PM): The game also advertises that it is for family game nights. Is this false advertising? \nBrian (12/25/2024, 4:20:40 PM): It even shows people with multiple headsets playing in the same game space \nBrian (12/25/2024, 4:21:48 PM): Ok. I'm about ready to return this system and get a refund \nHarvey (12/25/2024, 4:24:01 PM): I understand your frustration Brian. The game does not support online multiplayer and it will push back if you try and connect. However you can try and get other games that can allow you to get connected to your family members. \nBrian (12/25/2024, 4:25:55 PM): I'm not interested. We've wasted hours and about $1500 on headsets and games. This system was clearly not fully thought out. I'm returning it and requesting a refund for all the games that were purchased. \nBrian (12/25/2024, 4:26:38 PM): This has been a major waste of time on for Christmas. \nHarvey (12/25/2024, 4:27:49 PM): I apologize for any inconvenience caused Brian. Just to confirm, did you request for a refund for the games? \nHarvey (12/25/2024, 4:28:02 PM): have you done that from your end? \nBrian (12/25/2024, 4:28:06 PM): Not yet but I plan to \nBrian (12/25/2024, 4:29:00 PM): I'm going to go enjoy dinner with my family now and play on our old system that actually makes it convenient for us all tonplay \nHarvey (12/25/2024, 4:30:00 PM): Apart from this is there anything else that I can assist you with today? \nBrian (12/25/2024, 4:30:06 PM): No thank you",
+      "date": 1735162833,
+      "review_helpful_count": 6,
+      "author_display_name": "b70dubquest",
+      "author_alias": "b70dubquest",
+      "developer_response": null
+    },
+    {
+      "id": "544834165114281",
+      "score": 5,
+      "review_title": "Awesome MR family fun!!",
+      "review_description": "Your and your kids are going to love it! \n\nMixed reality family mayhem! That’s FUN \n\nBattle with one another to get the most points batting a giant fish to eat carrots or trying to catch fish to place into the boat before your opponents or the “SHARK” eats them! \n\nThis is immense fun! And so well done once your room is set up the fish literally bounce off your sofa or your tv it’s so realistic! And you’re going to have so much fun laughing who said VR can’t bring you together and have fun! \n\nThis app certainly has the fun factor! Well done my kids can’t wait to see what next levels are to be unlocked! \n\nIt’s great makes me feel like a kid again and it’s a good price also.",
+      "date": 1732183789,
+      "review_helpful_count": 21,
+      "author_display_name": "TomPlayzVR",
+      "author_alias": "TomPlayzVR",
+      "developer_response": {
+        "body": "I'm so glad you enjoyed the game! The fishing game is definitely the crowd favourite. \nHere's a little secret if you haven't discovered it. Try throwing the fish into the boat from a distance. It's hard but you get bonus points!",
+        "date": 1732484417
+      }
+    },
+    {
+      "id": "502050342997428",
+      "score": 1,
+      "review_title": "Doesn't Work for 2/4 Headsets + issues",
+      "review_description": "The game only worked for 2 of our 4 headsets. We purchased 4 copies. We tried everything but the game did not work on 2 of the headsets. We are tech savvy gaming professionals and tried everything we could think of. The hands stayed red and we could see the game board but could not play it. We spent all afternoon troubleshooting. The 2 headsets that did get the game working, only worked sporadically and we could not get them to play the same game together. It ended up being a waste of money and a lot of stress.",
+      "date": 1735864216,
+      "review_helpful_count": 3,
+      "author_display_name": "DNADetective",
+      "author_alias": "DNADetective",
+      "developer_response": {
+        "body": "Update: Hey there, just wanted to let you know that we've fixed a whole range of issues over the last year as well as adding a whole bunch of new games. Hopefully it should be a stress free experience now.\n\nHey there, very sorry that you've been having so much trouble getting the game running and the stress caused. Obviously we really want to fix these issues you've been running into. I know you've already sunk a lot of time into this but it'd really help if we could chat through the issues and get to the root cause, either on our discord or via email: \nsteven@fantailgames.com\nhttps://discord.com/invite/mDWR7yjXy4",
+        "date": 1770861932
+      }
+    },
+    {
+      "id": "586367411010011",
+      "score": 4,
+      "review_title": "",
+      "review_description": "This game is very fun has a lot of potential but we can not figure out how to get it to be multiplayer,  it would be fantastic if we could get the multiplayer to work and they need a lot more games too, this will be a great game when these things are fixed and more games added",
+      "date": 1734803549,
+      "review_helpful_count": 3,
+      "author_display_name": "Juterbuter",
+      "author_alias": "Juterbuter",
+      "developer_response": {
+        "body": "Update: Just wanted to let you know that a lot has changed in the last year, loads of new minigames and improvements to the multiplayer (though it is still local multiplayer only if that was the issue you were running into back in the day). \n\nGlad you found it fun single player. More minigames are in the pipe, stay tuned...\n\nPop onto the discord or mail me support@fantailgames.com and we'll figure out what went wrong with the multiplayer.",
+        "date": 1770862069
+      }
+    },
+    {
+      "id": "592348316687281",
+      "score": 5,
+      "review_title": "Extremely FUN!!",
+      "review_description": "I just played a game and what can I say: it's extremely FUN!!\n\nI'm sweaty and excited here, hahahah, it's been a few months since I played anything and what an incredible surprise! I'm being really honest, I loved it!\n\nEspecially the fish and slime game!! I want to play this with a friend, it must be even better!!\n\nAnd it worked perfectly on my Quest 2! Congratulations to everyone who participated, you did a job that can change the way we play!!🔥🔥🔥",
+      "date": 1732899996,
+      "review_helpful_count": 7,
+      "author_display_name": "GustavoRamoss",
+      "author_alias": "GustavoRamoss",
+      "developer_response": {
+        "body": "Thank you so much for your kind review. I'm happy to say we've just added a 6th game: Penguin Ice Hockey. Come back and try it, I'm sure you'll love it!",
+        "date": 1756440322
+      }
+    },
+    {
+      "id": "513413208514302",
+      "score": 5,
+      "review_title": "Shark was the winner ☺️",
+      "review_description": "This game is lots of fun, the effects and physics are done so well but hats off to the charaters qnd art, the shark in the fishing game was favourite). we cannot wait for further releases. You can play the game on your own, (I tried to post higher score), but it’s way more fun with others especially kids!\nWe will be playing this game over the holidays and hoping to see more content soon.\nIt’s really easy to pick up and inter generational so I can see any family member partaking in this, including grandma and grandpa.\nWell done guys and keep it up!",
+      "date": 1732865650,
+      "review_helpful_count": 7,
+      "author_display_name": "Metawolfnz",
+      "author_alias": "Metawolfnz",
+      "developer_response": null
+    },
+    {
+      "id": "1246305106483711",
+      "score": 5,
+      "review_title": "Pure fun",
+      "review_description": "I discovered this masterpiece by chance\nI can't describe how fun is this game specially with family and friends\nGraphics 5/5\nFun 5/5\nHand tracking accuracy 5/5\nMixing between reality and unreal objects 5/5\nPlay again 5/5\nMy only concern is that the game is short, I wish you developers adding some mini games on the nearly future\nBecause I really like the game and it's my 1st time from my childhood to see my parents laughing from the bottom of their heart\nThank you for making our days\nThe game deserve every dollar I spent on it\nGreetings from Egypt🤲",
+      "date": 1734286373,
+      "review_helpful_count": 2,
+      "author_display_name": "Arabian_Gladiator",
+      "author_alias": "Arabian_Gladiator",
+      "developer_response": null
+    },
+    {
+      "id": "2291397331216430",
+      "score": 5,
+      "review_title": "Surprised by the single player mode!",
+      "review_description": "I played it in single player and was surprised how relaxing and fun it was. It didn’t feel lonely without other people but was more like a fun time playing with toys, especially the rabbit balloon game!\n\nI just can’t wait for there to be more games in it :D",
+      "date": 1732877209,
+      "review_helpful_count": 6,
+      "author_display_name": "SunsetExorcist",
+      "author_alias": "SunsetExorcist",
+      "developer_response": null
+    },
+    {
+      "id": "913879334255196",
+      "score": 5,
+      "review_title": "MR party night fun!!!!!",
+      "review_description": "MR fun for all the family!! (Players do have to be in the same area, and on the same wifi though)\nSolo play for high scores and share and compare with others scores.\n\nA great collection of immersive MR games to suit all players. Gives you a work out too lol\n\nLove the art style in the game for the designs used, fun and cheerful.\n\nLove the physics and how they interact with your environment in MR. Things bounce off your TV, Furniture ect..\n\nA nice and easy introduction to VR/MR for people of all ages.\n\nSplat, bash and catch your way through the various mini games.",
+      "date": 1734260744,
+      "review_helpful_count": 2,
+      "author_display_name": "Bloodangel1068",
+      "author_alias": "Bloodangel1068",
+      "developer_response": null
+    },
+    {
+      "id": "1001617148669586",
+      "score": 5,
+      "review_title": "Mad family fun",
+      "review_description": "This is the ultimate party game experience! Packed with hilarious mini-games, quirky challenges, and endless fun, it’s perfect for friends and family. Easy to pick up, impossible to put down. A guaranteed hit for any gathering!  I can see this been a hit for parents and kids playing together in MR for some great family time.",
+      "date": 1732473295,
+      "review_helpful_count": 7,
+      "author_display_name": "Magicmerlin007",
+      "author_alias": "Magicmerlin007",
+      "developer_response": null
+    },
+    {
+      "id": "606289495401532",
+      "score": 5,
+      "review_title": "FAMILY FRIENDLY GAME FUN",
+      "review_description": "This is my early access review of GAME NIGHT.\nWith Christmas just around the corner, what could be better than some family fun.\n\nPlayed in mixed reality and hand tracking its plays so well, the first game was a bouncy rabbit shaped ballon and you had to get it to eat or hit carrots, I can believe how incredible the graphics were, it felt like the balloon was literally real.\n\nI had so much fun, kids will absolutely adore this game.\nI have so much more to delve into, thank you to the devs for bringing this to our attention.\n\nDefinitely a buy for harmless family fun.",
+      "date": 1732438233,
+      "review_helpful_count": 6,
+      "author_display_name": "GizmoDemi",
+      "author_alias": "GizmoDemi",
+      "developer_response": null
+    },
+    {
+      "id": "522996607556286",
+      "score": 5,
+      "review_title": "Good fun with laughter all around",
+      "review_description": "WOW, what a fun game. We were all laughing playing. There is something for everyone. \n\nThe mixed reality works seamlessly, and the hand tracking was flawless. \n\nThis is going to be a game night favourite. The whole family was able to play, and with Christmas around the corner, there will be no better game.\n\nAs this is the beta, I can not wait for the updates. We'll done developers keep up the fantastic work.",
+      "date": 1733045148,
+      "review_helpful_count": 3,
+      "author_display_name": "Mrsclb124",
+      "author_alias": "Mrsclb124",
+      "developer_response": null
+    },
+    {
+      "id": "597311099615399",
+      "score": 5,
+      "review_title": "Game Night review",
+      "review_description": "Game Night is a fantastic VR experience that brings a whole new level of fun to your virtual reality gaming sessions. Whether you're flying solo or enjoying the action with a friend, this game is sure to deliver hours of entertainment.\n\nOne of the standout features of Game Night is its intuitive use of your hands instead of relying on traditional VR controllers. This makes the gameplay feel more immersive and natural, as you can literally interact with the environment around you. From picking up objects to high-fiving your friend, the hands-on controls enhance the experience in a way that traditional controllers just can't match.\n\nOverall, Game Night is a must-try for VR enthusiasts, especially if you're looking for a game that brings people together for an unforgettable time. Whether you're playing alone or with a friend, the hands-on controls and engaging gameplay make it an instant favorite.",
+      "date": 1733611213,
+      "review_helpful_count": 2,
+      "author_display_name": "Tilldogz",
+      "author_alias": "Tilldogz",
+      "developer_response": null
+    },
+    {
+      "id": "8327865380652023",
+      "score": 5,
+      "review_title": "Beautiful multiplayer co-located game",
+      "review_description": "Love a good party game, the graphics and high production value are amazing with full use of the room and you can tell the developer paid close attention to detail with the hand interactions and in-game onboarding tutorials. Game Night feels very much in the spirit of the original Magic Leap vision for mixed reality that I'm long familiar with. Looking forward to the content updates for this!",
+      "date": 1733261932,
+      "review_helpful_count": 2,
+      "author_display_name": "slukasxr",
+      "author_alias": "slukasxr",
+      "developer_response": null
+    },
+    {
+      "id": "3977733102549273",
+      "score": 5,
+      "review_title": "Fantastic party game.",
+      "review_description": "Played this with my son and daughter. Brilliant fun. Superb use of mixed reality. Only downside is wanting more mini games. Fantastic family fun, had us all laughing. Christmas day fun for the family me thinks. Highly recommended.",
+      "date": 1732465636,
+      "review_helpful_count": 6,
+      "author_display_name": "paulatsolo",
+      "author_alias": "paulatsolo",
+      "developer_response": {
+        "body": "We already have 5 more games prototyped. Though they each take a while to polish up and made easy to pick up and play. Hopefully the next should be available in Jan. \nYou can follow along with how it's coming along on our Discord:\nhttps://discord.com/invite/mDWR7yjXy4",
+        "date": 1732870731
+      }
+    },
+    {
+      "id": "463863266818731",
+      "score": 5,
+      "review_title": "Game Night - Game Right",
+      "review_description": "I had a lot of fun playing this game with the family. I feel the mixed reality style games are a step ahead of virtual reality and I look forward to more levels in the forthcoming months. I did not win any of the games but I did manage to save a lot of fish, so who cares about points.",
+      "date": 1733554888,
+      "review_helpful_count": 2,
+      "author_display_name": "1066Michael",
+      "author_alias": "1066Michael",
+      "developer_response": null
+    },
+    {
+      "id": "1053137896571690",
+      "score": 4,
+      "review_title": "Short but really fun!",
+      "review_description": "It only has 3 mini games, but they are really fun and super easy for anyone who wants to try VR.",
+      "date": 1737857874,
+      "review_helpful_count": 1,
+      "author_display_name": "Ayameda",
+      "author_alias": "Ayameda",
+      "developer_response": {
+        "body": "Update: We're now up to 7 minigames. Love to hear your thoughts on the new ones!\n\nI have great news for you. We've just added a new minigame. Woohoo. Rest assured more are on the way.",
+        "date": 1770862114
+      }
+    },
+    {
+      "id": "579710671496693",
+      "score": 5,
+      "review_title": "Very fun, mixed reality mini games",
+      "review_description": "Fun game with single player and family options . Very nice, mixed reality graphics and quick moderate workout too!",
+      "date": 1736293444,
+      "review_helpful_count": 2,
+      "author_display_name": "novice.73067",
+      "author_alias": "novice.73067",
+      "developer_response": null
+    },
+    {
+      "id": "516485031540406",
+      "score": 5,
+      "review_title": "Fun fun.",
+      "review_description": "We really enjoyed playing the multiplayer game with four adults. We were all laughing our heads off and diving around the place trying to outdo each other. Love the graphics and the game play. Easy to follow and fun for all ages.",
+      "date": 1732442539,
+      "review_helpful_count": 5,
+      "author_display_name": "Gillianz",
+      "author_alias": "Gillianz",
+      "developer_response": null
+    },
+    {
+      "id": "484553971415197",
+      "score": 5,
+      "review_title": "Top Christmas gift for MR FANS",
+      "review_description": "Game Night is impressive! It has glossy, realistic, colourful, crisp graphics which I really enjoy.\nThe game uses mixed reality and fits into the available space in the room, so it's easy to move around confidently without bumping into things. Mind you, that shark sure does like lurking in my pot plants. \nI especially like the murky glove that encases your hand when you tap the wrong thing. What a hoot!\nThe levels are good, clean fun, and I'm looking forward to future levels and environments. \nFamilies will thoroughly enjoy this app amongst their Christmas gifts.",
+      "date": 1734247679,
+      "review_helpful_count": 1,
+      "author_display_name": "Beebarz",
+      "author_alias": "Beebarz",
+      "developer_response": null
+    },
+    {
+      "id": "504736176053169",
+      "score": 2,
+      "review_title": "Interesting mixed reality game.",
+      "review_description": "Cool game but I had multiple issues where hand tracking just stopped working mid game and was only resolved by closing out or restarting the headset. Hopefully there is a fix in the future that can resolve it.",
+      "date": 1732312746,
+      "review_helpful_count": 12,
+      "author_display_name": "FoamyMouthDog",
+      "author_alias": "FoamyMouthDog",
+      "developer_response": {
+        "body": "Thanks for providing the detailed feedback on our discord. We've looked into this issue extensively and found that unfortunately it is a Meta Horizon OS issue and there is no workaround we can make it the game. We've made Meta aware of the issue and will hopefully they'll fix ASAP. \n\nThe best workaround is to ensure you have the latest system update. We've provided some suggestions on discord how to reduce the likelihood of encountering this very rare issue.",
+        "date": 1732765880
+      }
+    },
+    {
+      "id": "365722026633348",
+      "score": 5,
+      "review_title": "A very promising friends and family game",
+      "review_description": "My partner and I had a lot of fun playing Game Night, the games are very creative and sometimes challenging. It makes good use of available space and blends VR with pass-through smoothly! Looking forward to future updates with more game types!",
+      "date": 1733212760,
+      "review_helpful_count": 2,
+      "author_display_name": "AndyPantys",
+      "author_alias": "AndyPantys",
+      "developer_response": null
+    },
+    {
+      "id": "3998909870351986",
+      "score": 5,
+      "review_title": "Family fun",
+      "review_description": "Played this with my wife it's so fun and hilarious watching someone get frustrated 😅",
+      "date": 1733777082,
+      "review_helpful_count": 4,
+      "author_display_name": "E1nhart",
+      "author_alias": "E1nhart",
+      "developer_response": {
+        "body": "lol, you know you can play cooperatively too right?",
+        "date": 1734661924
+      }
+    },
+    {
+      "id": "2233486490363131",
+      "score": 5,
+      "review_title": "Heaps of fun",
+      "review_description": "Awesome game, very well made and good fun for the family! Can’t wait for more content",
+      "date": 1732086903,
+      "review_helpful_count": 9,
+      "author_display_name": "ETD_Adrian",
+      "author_alias": "ETD_Adrian",
+      "developer_response": {
+        "body": "Thanks so much for your review. We definitely have more content on the way. Maybe pop over to our discord, I bet you have ideas for new minigames you'd like to share ^_^",
+        "date": 1732484306
+      }
+    },
+    {
+      "id": "490704510794670",
+      "score": 5,
+      "review_title": "Good fun",
+      "review_description": "Awesome game, good graphics and a good laugh",
+      "date": 1732920130,
+      "review_helpful_count": 2,
+      "author_display_name": "Anthony9021",
+      "author_alias": "Anthony9021",
+      "developer_response": null
+    }
+  ],
+  "total": 60,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-20T02:23:02Z"
+}

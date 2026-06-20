@@ -1,0 +1,64 @@
+{
+  "app_id": "24839504592312185",
+  "package_name": "com.example.retrocalc",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "RetroCalc Calculator",
+  "rating_average": 4.5,
+  "rating_count": 4,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "836036352902600",
+      "score": 5,
+      "review_title": "It works completely fine",
+      "review_description": "the app fully works and i have found it completely convenient ￼",
+      "date": 1779120226,
+      "review_helpful_count": 0,
+      "author_display_name": "Panda_shinobi",
+      "author_alias": "Panda_shinobi",
+      "developer_response": null
+    },
+    {
+      "id": "1045103355342431",
+      "score": 3,
+      "review_title": "Does not work",
+      "review_description": "Anything done with a value after pressing = gives incorrect values.\n\naka 700 x 12 = 8400. 8400 / 365 = 4380 according to this \" calculator\"",
+      "date": 1770689219,
+      "review_helpful_count": 1,
+      "author_display_name": "ChuckZuck",
+      "author_alias": "ChuckZuck",
+      "developer_response": null
+    },
+    {
+      "id": "681021175059152",
+      "score": 5,
+      "review_title": "Helps Me With Calculations.",
+      "review_description": "Like finding how many levels a stat in Perfect Tower will go up.",
+      "date": 1761354091,
+      "review_helpful_count": 3,
+      "author_display_name": "alec.693727",
+      "author_alias": "alec.693727",
+      "developer_response": null
+    },
+    {
+      "id": "2606383419742773",
+      "score": 5,
+      "review_title": "Beautiful",
+      "review_description": "Beautiful and very useful",
+      "date": 1760103782,
+      "review_helpful_count": 2,
+      "author_display_name": "Quinho",
+      "author_alias": "Quinho",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:18:41Z"
+}

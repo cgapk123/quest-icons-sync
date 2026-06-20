@@ -1,0 +1,67 @@
+{
+  "app_id": "6113695908674751",
+  "package_name": "com.explayn.Chemistry",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Explayn Chemistry",
+  "rating_average": 4.7142857142857,
+  "rating_count": 7,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "141296692174442",
+      "score": 4,
+      "review_title": "Are there only 6 lessons?",
+      "review_description": "Enjoyed the lessons but can’t go past 6.",
+      "date": 1677048350,
+      "review_helpful_count": 6,
+      "author_display_name": "Grahmps",
+      "author_alias": "Grahmps",
+      "developer_response": {
+        "body": "Yes, but we are working hard to add more lessons, and more interactivity in the lessons!",
+        "date": 1677181438
+      }
+    },
+    {
+      "id": "804435851692045",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Really great! I’m hoping there is more!",
+      "date": 1696192180,
+      "review_helpful_count": 0,
+      "author_display_name": "mamabearlappin",
+      "author_alias": "mamabearlappin",
+      "developer_response": null
+    },
+    {
+      "id": "181218821619600",
+      "score": 4,
+      "review_title": "An extremely interesting course.",
+      "review_description": "Immersed in learning chemical knowledge and able to demonstrate chemical structures. Looking forward to having more courses in the future with increased interactivity, as that would make it even more enjoyable.\" It will be more useful if I can talk to AI teacher(like chatGPT).",
+      "date": 1690012775,
+      "review_helpful_count": 0,
+      "author_display_name": "Wang_Shi",
+      "author_alias": "Wang_Shi",
+      "developer_response": null
+    },
+    {
+      "id": "147007318215373",
+      "score": 5,
+      "review_title": "A unique learning experience!",
+      "review_description": "A highly innovative experience for grasping the fundamentals of chemistry. It effectively utilizes the strengths of the VR medium (manipulation, expressive avatar teacher, impressive settings, useful 3d objects…)",
+      "date": 1676287166,
+      "review_helpful_count": 2,
+      "author_display_name": "Nicosteeg",
+      "author_alias": "Nicosteeg",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:19:24Z"
+}
