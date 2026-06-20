@@ -1,0 +1,95 @@
+{
+  "app_id": "6377840832333455",
+  "package_name": "com.artisoft.crackthecode",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Coding Blocks",
+  "rating_average": 4.1111111111111,
+  "rating_count": 9,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "384296391430341",
+      "score": 5,
+      "review_title": "I love this game",
+      "review_description": "I really like to solve puzzles and doing it in VR is extra cool. Many riddles were pretty easy, but some of them required more thinking. But at least earning those nice badges doesn't come easy, and I got them all. \nThe look of the game is the combination of sci-fi (the room) and some old fashioned games (the holograph I think). It's awesome, that I can grab and throw almost anything, it's useful when waiting for the fox to complete the level.\nLooking at the comments I have the feeling, that it's so easy to blame the game if you cannot solve puzzle, I will not comment that.\nAnd lastly, when I completed the last level and earned the last badge I wished there were more - I hope in the future we will get some bonus levels.",
+      "date": 1721039264,
+      "review_helpful_count": 6,
+      "author_display_name": "luca.427413",
+      "author_alias": "luca.427413",
+      "developer_response": null
+    },
+    {
+      "id": "415677967865875",
+      "score": 2,
+      "review_title": "I gv up",
+      "review_description": "Now I see others had issues I can fo puzzle games even the most challenging but never will I grt what's going on n game. I hate to b difficult but tried discord dev commented bk hints instead of explaining what these symbols even do so basically got nowhere and hav tried my tries out never gv up normally but now stuck w it or would just refund. So confused even trying every single block no sense at all omg plz help w thus game explaining anything would b something.",
+      "date": 1714106830,
+      "review_helpful_count": 1,
+      "author_display_name": "Mommasgotubaby24",
+      "author_alias": "Mommasgotubaby24",
+      "developer_response": {
+        "body": "I think you missed the \"coding\" part of the game description. You are coding a program, and coding rules apply. There is main part of the code </> which starts the program. You have blocks to control the fox, but also blocks to execute another parts of the code (like procedure, loop) that doesn't control the fox, only the program flow. After executing another part of the code, flow returns to </> and continues.\nSo I recommend starting from the beginning, but this time without guessing.",
+        "date": 1716011755
+      }
+    },
+    {
+      "id": "191837187352537",
+      "score": 5,
+      "review_title": "Puzzle games with a sweet fox",
+      "review_description": "Logic puzzles, but it's more coding than problem solving. I like all the graphics, the cutest thing is the fox that is happy when we pet it. You can attract objects, but it does not help you solve tasks. There's no hint there anywhere. The tasks themselves go from easier to more difficult, and at some point it gets really difficult. It's nice that there are different boards and we can see how our fox walks on them, just as we program him. Cool breakouts that unlock as you play. You can shoot, throw at a target, or drive a toy car. It's useful to take a break from puzzles for a while.",
+      "date": 1704711243,
+      "review_helpful_count": 8,
+      "author_display_name": "mice.593392",
+      "author_alias": "mice.593392",
+      "developer_response": {
+        "body": "Thanks for the comment. If you need hints for some levels, then join us on Discord.",
+        "date": 1704711553
+      }
+    },
+    {
+      "id": "534647489734294",
+      "score": 5,
+      "review_title": "Sometimes pretty easy, sometimes not",
+      "review_description": "I like that riddles are more and more challenging. Also introducing new blocks is done in a nice way. I like the voice, that gives some hints, I needed to reveal solution only once in the whole game, so I congratulate myself :)\nGame requires thinking, but don't get confused with first 15 riddles, that are really simple - later it will be more difficult.",
+      "date": 1737547828,
+      "review_helpful_count": 0,
+      "author_display_name": "FrostPhoenix",
+      "author_alias": "FrostPhoenix",
+      "developer_response": null
+    },
+    {
+      "id": "270970692759017",
+      "score": 4,
+      "review_title": "needed some help",
+      "review_description": "Some levels were too difficult and I needed some help",
+      "date": 1710481748,
+      "review_helpful_count": 2,
+      "author_display_name": "pkotyv.2024",
+      "author_alias": "pkotyv.2024",
+      "developer_response": null
+    },
+    {
+      "id": "172739462591766",
+      "score": 5,
+      "review_title": "Becomes difficult",
+      "review_description": "At the beginning everything seems very easy. But after 20 or so levels, some of them are really challenging.",
+      "date": 1701362739,
+      "review_helpful_count": 7,
+      "author_display_name": "alikhosh.100995",
+      "author_alias": "alikhosh.100995",
+      "developer_response": {
+        "body": "Thanks for the comment. In case of any problems with some levels please join us on Discord.",
+        "date": 1701367165
+      }
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:03:04Z"
+}

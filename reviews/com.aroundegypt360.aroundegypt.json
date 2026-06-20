@@ -1,0 +1,64 @@
+{
+  "app_id": "2152729071412401",
+  "package_name": "com.aroundegypt360.aroundegypt",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Around Egypt",
+  "rating_average": 3.8571428571429,
+  "rating_count": 7,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "3136059293168585",
+      "score": 5,
+      "review_title": "Amazing views of Egypt",
+      "review_description": "The virtual tours take you around Egypt in a private tour in great quality I love it",
+      "date": 1592331396,
+      "review_helpful_count": 1,
+      "author_display_name": "attefable",
+      "author_alias": "attefable",
+      "developer_response": null
+    },
+    {
+      "id": "306966813648933",
+      "score": 5,
+      "review_title": "Loving it",
+      "review_description": "The tours look really amazing and app is really easy to use",
+      "date": 1591737814,
+      "review_helpful_count": 0,
+      "author_display_name": "34ML",
+      "author_alias": "34ML",
+      "developer_response": null
+    },
+    {
+      "id": "175288723496794",
+      "score": 3,
+      "review_title": "Keeps crashing",
+      "review_description": "It’s great the only problem is that it keeps crashing on me. Because of this I had to uninstall it.",
+      "date": 1563754073,
+      "review_helpful_count": 2,
+      "author_display_name": "tchudante",
+      "author_alias": "tchudante",
+      "developer_response": null
+    },
+    {
+      "id": "129670241655703",
+      "score": 1,
+      "review_title": "Image loading is too slow",
+      "review_description": "사진 하나하나 불러오는데도 시간이 엄청 오래 걸려서 제대로 다 둘러보기 힘드네요.",
+      "date": 1567916696,
+      "review_helpful_count": 1,
+      "author_display_name": "billywagner",
+      "author_alias": "billywagner",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:02:23Z"
+}
