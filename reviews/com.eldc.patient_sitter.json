@@ -1,0 +1,42 @@
+{
+  "app_id": "24614337024852521",
+  "package_name": "com.eldc.patient_sitter",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Patient Sitter",
+  "rating_average": 1,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "853059797901057",
+      "score": 1,
+      "review_title": "Help",
+      "review_description": "It\nkeep asking me to log in and i can't log in i don't know what that is",
+      "date": 1766987764,
+      "review_helpful_count": 4,
+      "author_display_name": "NeonSeahorse1332",
+      "author_alias": "NeonSeahorse1332",
+      "developer_response": null
+    },
+    {
+      "id": "930653183466257",
+      "score": 1,
+      "review_title": "login issues",
+      "review_description": "How will i login with no account..",
+      "date": 1768069700,
+      "review_helpful_count": 0,
+      "author_display_name": "LarissaMKR",
+      "author_alias": "LarissaMKR",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:05:12Z"
+}

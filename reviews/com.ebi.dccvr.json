@@ -1,0 +1,34 @@
+{
+  "app_id": "25243862388575703",
+  "package_name": "com.ebi.dccvr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Drone Core Command",
+  "rating_average": 2.5,
+  "rating_count": 2,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "995693136462335",
+      "score": 1,
+      "review_title": "Does not work",
+      "review_description": "First thing it asks is to open core inventory, I am using controllers, I turn my left palm upwards as the diagram shows and NOTHING HAPPENED.\nThen it moves onto some bs rubbing your thumb and finger again something I can't do with controllers!\nI thought it looked good I'm always up for trying something new.\nDon't waste your download space",
+      "date": 1777730887,
+      "review_helpful_count": 0,
+      "author_display_name": "Stalker001122",
+      "author_alias": "Stalker001122",
+      "developer_response": {
+        "body": "thanks for your feedback! \nI've just pushed an update that improves controller compatibility.  Should be much easier to open your inventory now when pointing your virtual palm upwards.  Even added some button support if you prefer not to rotate your hand upward :)\nthe thumb and finger diagram in the game settings is to explain micro gestures to players new to hand tracking, however, i've got the game updated to show snap turning helpers for folks using controllers.  thanks again, cheers!\n\n[Update] a quick update here for folks new to this game - there have been a number of changes and improvements over the past month or so to smooth out onboarding for both controllers and hand tracking that played out well during playtests.  would be interested to hear your thoughts if you're up for it!",
+        "date": 1781664818
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:02:20Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "26691746190486059",
+  "package_name": "com.eet.weather.quest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Weather Now",
+  "rating_average": 5,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1116255768239514",
+      "score": 5,
+      "review_title": "Best weather app on quest",
+      "review_description": "Oh wow, awesome app with a lot of details. Easy to navigate and understand what are the conditions like outside. Definitely recommend!",
+      "date": 1778874722,
+      "review_helpful_count": 7,
+      "author_display_name": "Nacherev",
+      "author_alias": "Nacherev",
+      "developer_response": null
+    },
+    {
+      "id": "1134634076402949",
+      "score": 5,
+      "review_title": "Not a bad app",
+      "review_description": "The app works well",
+      "date": 1780854399,
+      "review_helpful_count": 2,
+      "author_display_name": "Titothepro",
+      "author_alias": "Titothepro",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:03:39Z"
+}

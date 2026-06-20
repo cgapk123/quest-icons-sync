@@ -1,0 +1,45 @@
+{
+  "app_id": "7559660774126220",
+  "package_name": "com.entonos.MarbleMechanics",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Marble Mechanics",
+  "rating_average": 2.6666666666667,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "820363831164593",
+      "score": 5,
+      "review_title": "Fun and challenging",
+      "review_description": "I’ve been having a lot of fun with this game! I am a novice player so I have a learning curve. So initially I found controls hard but as you look at Controllers you see the tools and tips change. Once I got the hang of it I had a LOT of fun. it was fun and challenging to build different runs. My favorite is the beach 🏖️  the possibilities are endless here, so you can get lost in this little world! Definitely worth it!",
+      "date": 1761685461,
+      "review_helpful_count": 1,
+      "author_display_name": "NeonWREN4623",
+      "author_alias": "NeonWREN4623",
+      "developer_response": null
+    },
+    {
+      "id": "4070747629814362",
+      "score": 2,
+      "review_title": "Game has potential.",
+      "review_description": "Idea is great. I hope will be many different track. Its only few and physics are totally inadequate.  But game has potential",
+      "date": 1758755637,
+      "review_helpful_count": 0,
+      "author_display_name": "jakub81",
+      "author_alias": "jakub81",
+      "developer_response": {
+        "body": "Thank you for your review!  \n\nIn sandbox (select lightbulb icon from Menu), you can grab various base pieces from a box (point and grab). While grabbing, you can edit the piece, making it longer/shorter, tighter/larger turns, etc. You can even duplicate or delete. It is true that you cannot edit pieces in Puzzles- those are fixed pieces. Which other pieces would you suggest?  \n\nWe could not use Unreal's physics engine on this hardware and reach required frame rate. Instead, for each piece we force the marbles to roll according to gravity along a spline that corresponds to the center of each piece. Marbles can reverse directions or even fall off. They can also collide with other marbles. Funnels are handled by solving the Lagrange equations for a marble rolling in a funnel. For marbles not touching a piece, they obey Unreal physics. We are always looking for ways to improve the physics. What would you say are the largest shortcomings in physics?",
+        "date": 1760386665
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:08:16Z"
+}

@@ -1,0 +1,59 @@
+{
+  "app_id": "5617087244990181",
+  "package_name": "com.ebi.mageworksQuest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "MageWorks",
+  "rating_average": 3,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1001379945804178",
+      "score": 2,
+      "review_title": "Would be cool if I could play",
+      "review_description": "Can't get past the part in the tutorial when you have to kill caroonish skeletons with your newly-acquired lightning spell. They just keep on coming, forever and ever, without a prompt for what to do next. \n\nAt least there's an in-game option to quit. Some paid games don't even have that.",
+      "date": 1779656679,
+      "review_helpful_count": 0,
+      "author_display_name": "QUACKBIRTH",
+      "author_alias": "QUACKBIRTH",
+      "developer_response": {
+        "body": "the key to getting past each part of the tutorial is in the poem that's displayed and read to the player.  in any case, thanks for giving the game a shot!",
+        "date": 1779923396
+      }
+    },
+    {
+      "id": "1344432707584226",
+      "score": 2,
+      "review_title": "Buggy",
+      "review_description": "Generic is something i can forgive for a free game... Buggy is not. I couldn't use the workshop to craft a staff because two of the three stations bugged out and broke. \n\nthe rest of the game is not interesting enough to make up for it. Not worth your time imo.",
+      "date": 1779489351,
+      "review_helpful_count": 0,
+      "author_display_name": "mungy",
+      "author_alias": "mungy",
+      "developer_response": {
+        "body": "it's been a minute since i've done some ux iteration on that crafting workshop.  i suppose i should revisit that sometime soon.  it's doable, it's just not clear what exactly to do, lol.",
+        "date": 1779923141
+      }
+    },
+    {
+      "id": "316891261061100",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Throwing spells around at enemies is super fun. You can also craft a staff and 3D print it!",
+      "date": 1698682830,
+      "review_helpful_count": 2,
+      "author_display_name": "Crossedkiller",
+      "author_alias": "Crossedkiller",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:02:23Z"
+}

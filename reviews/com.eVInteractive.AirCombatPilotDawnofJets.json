@@ -1,0 +1,963 @@
+{
+  "app_id": "3677727965681410",
+  "package_name": "com.eVInteractive.AirCombatPilotDawnofJets",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Dawn of Jets",
+  "rating_average": 4.6053130929791,
+  "rating_count": 527,
+  "review_count": 334,
+  "reviews": [
+    {
+      "id": "1175777572279951",
+      "score": 5,
+      "review_title": "Love this sim",
+      "review_description": "I don't buy many games from Meta and do most from PC and Steam. But I took my chances with this one based solely on the developer saying \"multiplayer coming\"  and I sure hope it has team play to tackle missions or team death matches together and not just one-on-one dog fighting!!  I have every MSFS and the graphics are better but just flying isn't fun, this game brings the fun. And the cockpit details are great, & plenty of planes to fly.   Ratings are spot on as a 5-star game. Don't listen to those who cry and rate low because the multiplayer isn't here yet, the rest don't want the dev to rush out a game with flaws.  Till then I am beating missions and learning the planes.",
+      "date": 1780261625,
+      "review_helpful_count": 8,
+      "author_display_name": "Bad__Grandpa",
+      "author_alias": "Bad__Grandpa",
+      "developer_response": null
+    },
+    {
+      "id": "978076655136927",
+      "score": 5,
+      "review_title": "Great flight physics and alot of fun !",
+      "review_description": "This game has the perfect balance between realism and other gameplay elements that make it alot of fun to come back to and progress. Stand alone flying in VR  is an exhilarating experience. Many of these apps on the Quest 3 don’t get the balance right. DoJ is fun to play and keeps you engaged while the flight physics challenges you to get better at actually flying what feels like a real aircraft. The game runs really well and I’m excited to see how the game evolves the multiplayer experience.",
+      "date": 1781154662,
+      "review_helpful_count": 2,
+      "author_display_name": "97players",
+      "author_alias": "97players",
+      "developer_response": null
+    },
+    {
+      "id": "1655165005747596",
+      "score": 5,
+      "review_title": "Reach for the Skies !!!",
+      "review_description": "This game is terrific..The sensation of flight is spot on.Also the visuals for standalone are great.The handling and cockpit of each plane are all unique....loads of mission variety for each aircraft and the combat feels intense and challenging..The cockpits are all interactive and work really well in a way only VR can deliver..A brilliant Flight sim and top game..Hats off to the Developers..👍👍",
+      "date": 1777920596,
+      "review_helpful_count": 11,
+      "author_display_name": "Avenger70",
+      "author_alias": "Avenger70",
+      "developer_response": null
+    },
+    {
+      "id": "1163549240174977",
+      "score": 5,
+      "review_title": "Outright the best I’ve played on Quest 3",
+      "review_description": "Stumbled across this game on Reddit in search of a vr flight simulation and it has surpassed all expectations. The flight mechanics, the planes, graphics (increase in settings if you have a quest 3/3s), the missions, the challenges, free roam and overall gameplay is top notch. Surprisingly a great learning tool for anyone who wants to get into flight simulations, it gave me a decent crash course on how to fly a plane, land etc. Battling bombers, anti aircraft defence systems and other fighter jets is incredible, overall a top notch experience about 12 hours of gameplay so far and loving it",
+      "date": 1779346346,
+      "review_helpful_count": 4,
+      "author_display_name": "GTVR_69",
+      "author_alias": "GTVR_69",
+      "developer_response": null
+    },
+    {
+      "id": "1081409108395115",
+      "score": 5,
+      "review_title": "Best flight sim",
+      "review_description": "Dawn of jets is the most realistic, interactive flight sim on Meta. I wish the people that made this title would do one for WW2 fighters and one  for more recent jets. I have already waisted money on several titles that don’t match up to this one. Watching for new releases from these people.",
+      "date": 1778455096,
+      "review_helpful_count": 6,
+      "author_display_name": "Hunterkiller68",
+      "author_alias": "Hunterkiller68",
+      "developer_response": null
+    },
+    {
+      "id": "1102364846290720",
+      "score": 3,
+      "review_title": "Review",
+      "review_description": "I have recently purchased this game and my thoughts on it are simple it's a bit janky a bit finicky it doesn't feel the smoothest but it is a good game now compared to the other most popular flights him being virtual fighter maneuvers vfm is simply a better game I feel this one is overpriced for being almost $25 being only a sent off it doesn't feel like the quality I would expect this is a subjective point yes I know but comparing this game to vfm again that game is only $15 and yet does virtual hotas much better is much smoother to fly and feels more natural I feel that dawn of jets should have been priced similar to that game in conclusion the game feels a bit overpriced and isn't really astonishing it's just fine",
+      "date": 1777843179,
+      "review_helpful_count": 3,
+      "author_display_name": "Marcus_Atilius_Regulus",
+      "author_alias": "Marcus_Atilius_Regulus",
+      "developer_response": null
+    },
+    {
+      "id": "1092395933965818",
+      "score": 1,
+      "review_title": "Important",
+      "review_description": "Fir those waiting for the multiplayer...I sold my headset over a year ago ...and I had bought the game around 8 months before that....and it's still not here. I seen someone commented just a day ago so I figured I'd let you know I've been waiting for a year and a half.",
+      "date": 1780430283,
+      "review_helpful_count": 1,
+      "author_display_name": "Navajo",
+      "author_alias": "Navajo",
+      "developer_response": {
+        "body": "THIS REVIEW IS INACCURATE:  Multiplayer has been available for quite some time now, and we have a very active community online.  I'm not sure what led you to believe this.  Perhaps you are thinking about a different game?   This review also shows that you have somehow downloaded v1.0.107, which is the most recent version and includes updates and even improvements to previous multiplayer releases.  I'm not sure how you would be able to show 1.0.107 without having a headset.  Perhaps the person you sold your headset to is still using your account?  You may want to check on that.",
+        "date": 1781115921
+      }
+    },
+    {
+      "id": "1131739210025030",
+      "score": 5,
+      "review_title": "Awesome game!",
+      "review_description": "Takes a bit to figure out what's going on.... but once you do, wow! From amazing flight controls to amazing visuals. 👏",
+      "date": 1780012887,
+      "review_helpful_count": 2,
+      "author_display_name": "aquanut102",
+      "author_alias": "aquanut102",
+      "developer_response": null
+    },
+    {
+      "id": "1022919387574736",
+      "score": 1,
+      "review_title": "Game is very well done",
+      "review_description": "The game’s multiplayer experience has significantly declined in quality. Adjustments like increasing the hit multiplier to extreme levels (50–100) have made combat feel unbalanced and often unfair, as players have little to no opportunity to defend themselves. Additionally, the armor system appears ineffective under these conditions, further diminishing strategic gameplay.\n\nAnother major issue is being eliminated from beyond visible range immediately after spawning, which creates a frustrating and discouraging experience. Instead of promoting skill-based competition, the current environment seems to encourage kill farming for leaderboard rankings.\n\nThe community’s misuse of customizable settings has contributed to these problems. To preserve fairness and integrity in multiplayer, gameplay-altering settings should be restricted to private matches. This would help prevent exploitation and restore a more balanced, competitive experience for all players.",
+      "date": 1775100278,
+      "review_helpful_count": 5,
+      "author_display_name": "1.AppleFan",
+      "author_alias": "1.AppleFan",
+      "developer_response": {
+        "body": "I appreciate your frustration, but to be fair, we provide these settings so people can set up matches however they want.  It seems that you are joining games that don't match your preferred play style.  I'd suggest that if you don't like the settings, you can very easily create a server of your own at any time.  This way you will be in control of the settings and can configure the multiplayer experience to your liking.   You could even use a term like \"default settings\" in the game name to attract like-minded players.\n\nI hope you can understand that if we limited changing settings to only private matches, that would likely generate hundreds of complaints on the other side of the argument.  This puts us in a bit of a no-win situation.  As such, we feel we need to continue to let players set up public matches as they see fit.\n\nPerhaps we can somehow provide a preview of key settings before joining a session.  Would that help?  Also, understand that there is absolutely no ranking penalty for joining a session, and then leaving it if you notice you don't like the parameters.\n\nUltimately, I do feel bad that you felt it necessary to give us a 1* rating because of how other people choose to play the game.  (1* is effectively a death sentence on the Quest store.)   While I rarely ask people to reconsider, I would suggest that at least this issue is within your power to avoid by creating your own session.  That said, if for you this issue overwhelms all the other aspects of the game (graphics, feeling-of-flight, scenery, cockpit detail, single-player missions, challenges, etc.) then please leave your rating as-is.",
+        "date": 1775161481
+      }
+    },
+    {
+      "id": "983050961569141",
+      "score": 5,
+      "review_title": "Superp game",
+      "review_description": "Its all what i wished for for a combat jets simulation and i really like how intreactive the cockpit is . Just some suggestions for the puplisher , please add an option to buy game currency so i can by jets fast and add a dlc for modran jets like f16 and f18.\nSalute ... Major kretus",
+      "date": 1775720077,
+      "review_helpful_count": 4,
+      "author_display_name": "kretus9111",
+      "author_alias": "kretus9111",
+      "developer_response": null
+    },
+    {
+      "id": "1707352030243818",
+      "score": 5,
+      "review_title": "Good but difficult",
+      "review_description": "This game is great. Graphics look good, sounds are amazing, and zero glitches. What a relief.\n\nIts definitely a simulatior, so of you are looking for more of an arcade experience you may get frustrated. I guess its a blend of simulatior/arcade but definitely leans towards sim. \n\nI highly recommend.",
+      "date": 1770580439,
+      "review_helpful_count": 50,
+      "author_display_name": "Kill3r_Chihulahula",
+      "author_alias": "Kill3r_Chihulahula",
+      "developer_response": null
+    },
+    {
+      "id": "1844623713068478",
+      "score": 4,
+      "review_title": "Starts strong with Weak finish",
+      "review_description": "Starts strong with good flight characteristics but the tier 2 and 3 jets handle like a 747 even at times feel as though you are swinging in a hammock and backing up! I have played many hours and ranked up to General and bought all the Jets.Some of the battles are good but others are overwhelming for one jet especially when they handle so poorly.The aiming could be better especially on the MiG.\nOverall I think if the Devs.would improve on what they have and forget about making this a multi player,it would be a Great game.",
+      "date": 1772461902,
+      "review_helpful_count": 15,
+      "author_display_name": "andme2",
+      "author_alias": "andme2",
+      "developer_response": null
+    },
+    {
+      "id": "1146856821850812",
+      "score": 5,
+      "review_title": "This game is amazing",
+      "review_description": "it reminds me of the old Rogue Squadron but in VR and with the first jet aircraft.",
+      "date": 1779997335,
+      "review_helpful_count": 2,
+      "author_display_name": "Pastroh",
+      "author_alias": "Pastroh",
+      "developer_response": null
+    },
+    {
+      "id": "1120690304451451",
+      "score": 5,
+      "review_title": "Very Promising",
+      "review_description": "Initially I gave it 4 stars. But I updated my review. I give you your 5 stars. You deserve it. The longer I experiment with this game/sim, the more I understand it's a piece of art and love. Well done!",
+      "date": 1776497911,
+      "review_helpful_count": 4,
+      "author_display_name": "luc.998806",
+      "author_alias": "luc.998806",
+      "developer_response": null
+    },
+    {
+      "id": "1011305502076108",
+      "score": 2,
+      "review_title": "Not what I expected",
+      "review_description": "The looks may look impressive but sometimes the controls are not responsive to when your gripping and such, the training and the jet moves as fast as a push bike, and the training is definitely tedious, if you are looking for a good fun plane game like I was then please look elsewhere.\nP. S theirs is no free trial that's not very good at all and you have to play a few hours of this boring dull lifeless game I'm very disappointed will not recommend it at all, also have to wait for my refund in 14 days not happy at all. 😡😡😡",
+      "date": 1777737309,
+      "review_helpful_count": 0,
+      "author_display_name": "garyufc1969",
+      "author_alias": "garyufc1969",
+      "developer_response": {
+        "body": "Sorry you did not like the game.  I do suggest you get a refund as it sounds like this type of \"sim-lite\" game is not up your alley.  Our speeds are generally quite realistic, and you may be looking for a more \"arcade\" feel where the planes move artificially fast.  Unfortunately, I can't think of anything on the Quest that fits the bill.  You may need to search for PC games.\n\nRegarding the controls, we haven't had other complaints, so it is possible there is some misunderstanding.  If you don't like the VR controls, you can also easily use the thumbsticks to fly instead.  \n\nAs for the training missions, you can pretty much work through them in about 15 minutes.  Without a little training, 90% of players will be completely lost as how to operate some important functions in the jets.",
+        "date": 1777906137
+      }
+    },
+    {
+      "id": "1176821028840820",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Great game. But id like to see an update for maps please!",
+      "date": 1779306341,
+      "review_helpful_count": 2,
+      "author_display_name": "qubeejo",
+      "author_alias": "qubeejo",
+      "developer_response": null
+    },
+    {
+      "id": "1005199499340859",
+      "score": 5,
+      "review_title": "Amazing… would give it more than 5*!",
+      "review_description": "So I have only recently got a meta quest 3… I have tried a few games and played some Xbox on a flat screen then I found this… I can safely say that it have not played anything else since I found this gem… the fact that this is possible with the onboard processor is unbelievable. The multiplayer mode is brilliant (even if I spend most of the time respawning!). I have been interested in flight simulation on PC for may years putting time in to the original Falcon (well most of the series really) and SU25 to mention just a couple of the early ones! This is my first real foray into VR flight sims and I’m hooked! \n\nThe community I have met online are all really great people, always happy to help with advice and coaches! (Possibly they just want a bigger challenge lol)\n\nTo the developers… thank you! Keep up the good work!! \n\nOh and being a Brit please can you look into adding another Brit jet… possibly one that may be a bit more competitive in multi player!! Thanks again!!! \n\nSee you in the sky…..",
+      "date": 1771083180,
+      "review_helpful_count": 18,
+      "author_display_name": "Iceratz",
+      "author_alias": "Iceratz",
+      "developer_response": null
+    },
+    {
+      "id": "971148198964021",
+      "score": 2,
+      "review_title": "Mission progress reset...",
+      "review_description": "Ok.. Grindy... , But upgraded to the 2nd plane and it reset the progress for the \"trainer\".. The planes all seem to have their own missions... Thats kinda crazy..  I went right back to VTOL...",
+      "date": 1778880668,
+      "review_helpful_count": 0,
+      "author_display_name": "Seed0FdeatH",
+      "author_alias": "Seed0FdeatH",
+      "developer_response": {
+        "body": "Just FYI: you only need to complete 1 training mission on the second jet.  (There are 5 but you can pick any one you like.) The shortest one only takes about 90 seconds. Just so you know, after you get past the first two jets, you don't have to do any more training.  I'm sorry you didn't find anything else to like about the game.  Perhaps you can still get a refund?",
+        "date": 1779141623
+      }
+    },
+    {
+      "id": "1216095811578047",
+      "score": 5,
+      "review_title": "Super fun",
+      "review_description": "Probably the best PVE jet game on quest",
+      "date": 1779373285,
+      "review_helpful_count": 2,
+      "author_display_name": "Yuyiro",
+      "author_alias": "Yuyiro",
+      "developer_response": null
+    },
+    {
+      "id": "1002714079601936",
+      "score": 3,
+      "review_title": "Great game",
+      "review_description": "It's by far the best flight sim on the quest store but it could use a one improvement in my opinion \n\nThere's no way to turn off the infinite ammunition that I'm aware of",
+      "date": 1776732737,
+      "review_helpful_count": 2,
+      "author_display_name": "donnie430",
+      "author_alias": "donnie430",
+      "developer_response": null
+    },
+    {
+      "id": "1135275902994382",
+      "score": 4,
+      "review_title": "Fun",
+      "review_description": "I like the game not easy to play but really fun I hope there will be an expansion sooner than later.",
+      "date": 1777590046,
+      "review_helpful_count": 0,
+      "author_display_name": "403medgrow",
+      "author_alias": "403medgrow",
+      "developer_response": null
+    },
+    {
+      "id": "973512342517579",
+      "score": 5,
+      "review_title": "Excellent!",
+      "review_description": "The flight physics are neither excessively realistic and punishing nor overly simplified. The overall balance is well judged.\n\nHowever, on rare occasions, stall behavior appears to deviate from reality. Even at high altitude, the aircraft can sometimes become completely uncontrollable, inevitably resulting in a fall. In addition, the behavior of CPU-controlled enemy aircraft differs significantly from that of skilled online pilots and still leaves considerable room for improvement.\n\nThere are several issues with the beta version of online battles. First, unlike in offline play, the sound indicating that you have been hit is either inaudible or far too quiet. There are instances where you can be shot down without ever realizing you were taking damage. Furthermore, in free flight mode, measures are needed to prevent players from attacking others while they are still defenseless—before takeoff or immediately after takeoff—behavior that is likely the result of a lack of basic online etiquette.\n\nIn offline play, the difficulty varies substantially depending on the mode, resulting in an overall sense of imbalance. I am not particularly good at memorizing maps, so I do not feel confident that I can earn a STAR in Jungle Dash 3. Realistically, I would need to document the characteristics of every ring and have my wife assist with navigation. Jungle Running, on the other hand, is simply too long in terms of stages; it is so lengthy that I have little motivation to attempt it again.\n\nJungle Defense is heavily influenced by its randomly changing weather conditions, which can dramatically alter the level of difficulty. If you notice clear skies immediately after starting, it is advisable to exit and restart at once. Without cloudy skies or nighttime conditions, enemy aircraft are extremely difficult to spot, making the challenge significantly harder. The mode becomes manageable by aligning your strategy with enemy spawn timing and flight areas. Ignore minor enemies at first and",
+      "date": 1771737196,
+      "review_helpful_count": 6,
+      "author_display_name": "Misiz",
+      "author_alias": "Misiz",
+      "developer_response": null
+    },
+    {
+      "id": "1384163873457760",
+      "score": 5,
+      "review_title": "Tops even Simple Planes",
+      "review_description": "Jumping in the cockpit in this app for the first time, I was very impressed with the feel and detail. The physics feel great for a standalone sim. Stalling is not quite there yet. Where it really shines is in the missions and most importantly the multiplayer. The scenery feels large because the dogfight keeps you engaged. The graphics are as good as can be. Especially the sunset missions feel really good. Do yourself a favour and fly for an hour with a view to refund. I bet you won’t. I didn’t.",
+      "date": 1771012424,
+      "review_helpful_count": 5,
+      "author_display_name": "pickacardanycard",
+      "author_alias": "pickacardanycard",
+      "developer_response": null
+    },
+    {
+      "id": "1324691782835082",
+      "score": 5,
+      "review_title": "Fantastic game",
+      "review_description": "Just love this ..had it since day one & it just keeps getting better \n\nGreat work all involved \n\nCarl",
+      "date": 1775345261,
+      "review_helpful_count": 3,
+      "author_display_name": "BehindBlueEyes",
+      "author_alias": "BehindBlueEyes",
+      "developer_response": null
+    },
+    {
+      "id": "1592681982019891",
+      "score": 5,
+      "review_title": "OMG If ever you wanted to be a pilot",
+      "review_description": "This is the vr game for you hitting switches in your plane just like a real pilot this flying game is a wild ride make me forget about my back pain . The dog fights in multiple player beyond expectations ....\n  10 stars",
+      "date": 1771292989,
+      "review_helpful_count": 8,
+      "author_display_name": "Homeskillet.40RNDs",
+      "author_alias": "Homeskillet.40RNDs",
+      "developer_response": null
+    },
+    {
+      "id": "1055913150930207",
+      "score": 5,
+      "review_title": "✈️🔥  A Must-Have Jet Combat Simulation",
+      "review_description": "Dawn of Jets is a superb jet simulation that absolutely nails the balance between realism and fun. The training is especially well done, gradually building your skills and confidence while keeping things engaging as you learn how to properly pilot a jet.\n\nCustomization is impressive, the aircraft roster is fantastic, and the sheer variety of missions is mind-boggling. Everything feels polished and thoughtfully designed, making the experience feel flawless from start to finish. It’s serious without being overly arcade-like, which makes every flight feel rewarding.\n\nThe studio also launched multiplayer a few months back and is clearly active, regularly adding content and improving the game. If you enjoy flight sims in VR, this one is an absolute must-have. 🚀✈️",
+      "date": 1770545415,
+      "review_helpful_count": 6,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": null
+    },
+    {
+      "id": "1258567339442314",
+      "score": 4,
+      "review_title": "Not without it's charm",
+      "review_description": "This is a fun game if you like flight Sims and want something you can jump into quickly without having to get through the hoops of VR setups on your PC.\n\nThe flight physics leave a bit to be desired, particularly at slow flight. There is no stalling or trick maneuvering. I've even had points where I had the aircraft flying backwards and even sideways. Made for a good laugh. \n\nI'd still recommend it. It's fun.",
+      "date": 1765916683,
+      "review_helpful_count": 48,
+      "author_display_name": "Destructofest",
+      "author_alias": "Destructofest",
+      "developer_response": {
+        "body": "Yeah, we know we don't handls stalls well at all right now, and that is something we will be improving in the future now that multiplayer is out.  Thanks for sticking with it.  Fun is the main goal, but we will keep trying to improve the physics and realism as we can!",
+        "date": 1765920601
+      }
+    },
+    {
+      "id": "852615427576575",
+      "score": 5,
+      "review_title": "Brilliant",
+      "review_description": "As a pilot and avid flight sim fan, this is a brilliant production. From the accurate cockpit instruments to flight dynamics, it's a credit to all involved.\nFor immersive game play it's a hoot, my only suggestion would be that you should be able to sell aircraft in your hanger to recoup funds.\nI look forward to updates for more cockpit functionality and especially multi player.\n\nUpdate !! Beta testing for multi player has been released. Again, just more brilliance. For a stand alone sim Dawn of Jets keeps getting better.",
+      "date": 1768473044,
+      "review_helpful_count": 12,
+      "author_display_name": "shaun.omalley",
+      "author_alias": "shaun.omalley",
+      "developer_response": null
+    },
+    {
+      "id": "1038297882704624",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "It’s a challenge but loving every minute I play.",
+      "date": 1775989836,
+      "review_helpful_count": 2,
+      "author_display_name": "xJCDz",
+      "author_alias": "xJCDz",
+      "developer_response": null
+    },
+    {
+      "id": "844541305143564",
+      "score": 5,
+      "review_title": "Outstanding",
+      "review_description": "Dawn of Jets VR isn’t just a great flight combat game it’s one of the best communities you’ll find in VR.\n\nFrom the moment you jump into multiplayer, you’re welcomed by an incredibly friendly, passionate, and helpful player base. New pilots are guided, veterans squad up without ego, and matches feel more like organised dogfights with friends than chaotic lobbies. Voice chat is full of callouts, banter, and genuine teamwork, which makes every session memorable and keeps you coming back for “just one more match.”\n\nWhat truly sets Dawn of Jets VR apart, though, is how hands-on and approachable the development team is. The devs are actively involved with the community, listening to feedback, flying alongside players, and constantly improving the game. You can feel that this is a passion project updates are meaningful, communication is clear, and player suggestions actually matter.\n\nOn the gameplay side, the flight mechanics are outstanding. The controls strike a perfect balance between realism and accessibility, making dogfights intense without being overwhelming. Each aircraft feels distinct, responsive, and powerful, and mastering different planes is genuinely rewarding. Whether you’re pulling tight turns, lining up a perfect shot, or narrowly escaping an enemy tail, the combat feels thrilling and skill-based.\n\nVisually, Dawn of Jets VR looks fantastic. The planes are beautifully detailed, environments are crisp and immersive, and the sense of speed and altitude in VR is excellent. Explosions, tracer fire, and sky battles all come together to create a convincing and adrenaline-fueled aerial experience.\n\nDawn of Jets VR delivers top-tier VR dogfighting, but its real strength lies in its amazing multiplayer community and developer support. If you’re looking for a VR game where skill, teamwork, and passion shine and where the devs truly care this is an absolute must-play. ✈️🔥\n\nMy call sign - iceman",
+      "date": 1765940695,
+      "review_helpful_count": 41,
+      "author_display_name": "TomPlayzVR",
+      "author_alias": "TomPlayzVR",
+      "developer_response": {
+        "body": "Wow... I don't know what to say - I just sent this to the team.  Reviews like this make all the struggle feel worthwhile.  I'll find you on Discord to thank you properly.  We'll try to get some time to join in over the holidays.  Hope to see you in the air.",
+        "date": 1765988071
+      }
+    },
+    {
+      "id": "949486464922007",
+      "score": 5,
+      "review_title": "More please",
+      "review_description": "Would love to see new career missions maybe involving certain World War II battles like the Pearl Harbor invasion with the Japanese zero fighter plane for example also may be flying some bombers B2 five with belly Tourette’s and tail. Tourette’s would be really cool. Definitely would like to see more upgrade options for the plane planes. Also, I thought that maybe an actual working ejection seat would also be really cool. The pilot gets ejected and parachutes down from there. I’m not sure where you could take it, but I think it would be really cool.",
+      "date": 1770491809,
+      "review_helpful_count": 5,
+      "author_display_name": "Jakers881977",
+      "author_alias": "Jakers881977",
+      "developer_response": null
+    },
+    {
+      "id": "943967655466328",
+      "score": 5,
+      "review_title": "Honest review",
+      "review_description": "So I enjoy playing the game the environment is great the cockpit view is great and most of the buttons in the cockpit have a working function and for new players like myself there’s also a help button and seat adjustments for comfort is really great I had a lot of fun taking out enemy shooting from AA guns,sinking ships with torpedos  and blowing up buildings for mission’s and also air combat is really fun the plane physics are amongst the top rated flight games I have played from having the correct take off speed and working gauge clusters the have a purpose I can’t complain the devs thought about everything, the new update for multiplayer is great and I 100% recommend giving this game a try.",
+      "date": 1765926970,
+      "review_helpful_count": 37,
+      "author_display_name": "Duck_731",
+      "author_alias": "Duck_731",
+      "developer_response": {
+        "body": "Thanks - so happy you are enjoying multiplayer.  Sorry it took so long!",
+        "date": 1765928385
+      }
+    },
+    {
+      "id": "731389763353223",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "The graphics of the cockpit are actually insane. This game is definitely one of my favorite games now, and definitely worth the money. It took me a sec to figure out how to start the jets, but that’s my fault. Since there aren’t many options on quest anymore, and all the “good” games cost so much, this game actually most likely got me into quest more.\nThe community is actually really nice, and they helped me out in a public lobby when I needed it. This game is definitely a 10/10. Just amazing game, nothing else to say.",
+      "date": 1767409408,
+      "review_helpful_count": 17,
+      "author_display_name": "Blitzy_VR",
+      "author_alias": "Blitzy_VR",
+      "developer_response": null
+    },
+    {
+      "id": "25920602030886224",
+      "score": 5,
+      "review_title": "Totally worth it. Just buy it, already.",
+      "review_description": "If you do flight sims and you do VR, this is worth your time and attention.  The only one so far that really provides a sense of scale to the world of flight, with large terrain befitting the high speed of the aircraft.  It's immediately engaging, and rewards your attention to honing your skills as much as you want to push yourself.\n\nIt's worth your money and worth your time.",
+      "date": 1767908370,
+      "review_helpful_count": 11,
+      "author_display_name": "ptom",
+      "author_alias": "ptom",
+      "developer_response": {
+        "body": "Hey, thanks for the review!  Yeah, it was a challenge getting the Quest to run the large terrain.  We hope to add a few larger and more detailed worlds in the near future for folks with Quest 3 / 3s.",
+        "date": 1767973605
+      }
+    },
+    {
+      "id": "1357908822776390",
+      "score": 5,
+      "review_title": "Great game play, need better missions",
+      "review_description": "One of the best flight games in standalone.\n\nWould be a perfect game if they actually had real combat missions based on the Korean War than just hand holding carnival ride style mission with no context to some type of story. \n\nGame play is excellent but lack of any real historical missions is irritating. \nGraphics are amazing for under 1 gig of space. \n\nPeople who want PvP will like it which I don’t care for. And the single player is just a glorified tutorial which is still fun.\n\n\nAfter playingAces  of Thunder . I’m blown away how much better this game is . So much more cockpit activity",
+      "date": 1770464825,
+      "review_helpful_count": 4,
+      "author_display_name": "HBM37",
+      "author_alias": "HBM37",
+      "developer_response": {
+        "body": "Sorry you didn't like the mission structure.  If we make some profit on this one, then story-based missions  may be something we do in the future.  As small  indie developer, however, story-based missions were just so far beyond what our budget could support that we couldn't even consider it.  That requires a production commitment that was too much for us to handle, particularly after engineering everything else we did to get something of this level running on the Quest.  In fact, I don't think there is another flight game on Quest that has story-based missions.  Most have semi-algorithmic missions, which we really didn't want to do.  So, instead, we opted for hand-crafted missions, which was a task in itself.  Hopefully in the future!!  Fell free to join us over on Discord if you have other suggestions:  https://discord.gg/4ZTqhAw28Y",
+        "date": 1769966093
+      }
+    },
+    {
+      "id": "1021766841017640",
+      "score": 5,
+      "review_title": "Epic",
+      "review_description": "Such a great game for the VR, the best flight sim available, looking forward to the full game",
+      "date": 1772396006,
+      "review_helpful_count": 6,
+      "author_display_name": "Red5standingby34",
+      "author_alias": "Red5standingby34",
+      "developer_response": null
+    },
+    {
+      "id": "912168061650278",
+      "score": 5,
+      "review_title": "One of the best flying games",
+      "review_description": "Highly recommend if you’re looking for a flying game to play! I think the ratings and reviews speak for themselves but I’ve been absolutely hooked on this game so far",
+      "date": 1770674704,
+      "review_helpful_count": 7,
+      "author_display_name": "Dufy_Duf",
+      "author_alias": "Dufy_Duf",
+      "developer_response": null
+    },
+    {
+      "id": "988362227690692",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "Well done to devs.  beautiful game.....thank you👏👏👏👏 and i think some missions are almost impossible......and how do you do thepitchblack night missions. i cant see anything andalways end up crashing the plane.",
+      "date": 1770215310,
+      "review_helpful_count": 5,
+      "author_display_name": "NowHere77",
+      "author_alias": "NowHere77",
+      "developer_response": null
+    },
+    {
+      "id": "985720724615037",
+      "score": 5,
+      "review_title": "Like a war film",
+      "review_description": "I remember as a child I snuck up on a school night to watch” the bridges at Toko Ri” and William Holden flew a blue plane like the one in this game.Even has 209 on it.That is so awesome.I love this game and being able to carry out very Dangerous missions.I never dreamed  I’d experience something this cool in my. Life.Thanks for making that happen developers.",
+      "date": 1766174398,
+      "review_helpful_count": 17,
+      "author_display_name": "Bonsean132",
+      "author_alias": "Bonsean132",
+      "developer_response": null
+    },
+    {
+      "id": "853028771236989",
+      "score": 5,
+      "review_title": "Best VR game",
+      "review_description": "I got bored of VR for a while and I haven’t used my oculus for about 6 months. I found this game online and decided to buy it and it was the best purchase ever. Everything is so detailed and you can tell that the devs worked super hard on this game. This game got me back in to vr and is the most fun I’ve ever had on vr. One thing I’d want them to improve on is graphics but I understand how hard that would be. If you are thinking about buying it buy it. Trust me you won’t regret it",
+      "date": 1766886855,
+      "review_helpful_count": 11,
+      "author_display_name": "warnugget309",
+      "author_alias": "warnugget309",
+      "developer_response": {
+        "body": "Thanks so much!  We have heard from a good handful of people that said Dawn of Jets sort of re-energized their interest in the Quest.  \n\nAs for the graphics, while we think already far surpass the competition, we are always working to squeeze a little more performance out of the hardware.  The game was originally optimized for the Quest 2, so future updates will make more use of the extra power of the Quest 3 and 3s.\n\nFeel free to join us on Discord: https://discord.gg/4ZTqhAw28Y",
+        "date": 1767034788
+      }
+    },
+    {
+      "id": "1353124563507577",
+      "score": 3,
+      "review_title": "Game gets boring fast",
+      "review_description": "After initial novelty, this game gets dull with it's limited type of gameplay. \nMostly dogfights, shooting stuff and lots of swirling around.",
+      "date": 1772713458,
+      "review_helpful_count": 2,
+      "author_display_name": "captqbec",
+      "author_alias": "captqbec",
+      "developer_response": {
+        "body": "Ha - that's kinda what a combat flight sim is about ;-) .  Can you tell us what you are looking for?  A big, story-based campaign is probably beyond what a Quest game's budget can afford, and we didn't want to do procedural missions like our competitors.    Are there other games you felt had a better mission setup that we should look at?\n\nYou can contact us over on Discord at https://discord.gg/4ZTqhAw28Y",
+        "date": 1773336557
+      }
+    },
+    {
+      "id": "877990824698806",
+      "score": 5,
+      "review_title": "Awesome Flight Experience",
+      "review_description": "We came from Warplanes & gunship.  This game has awesome graphics, varied maps with awesome terrain, the jets all fly and shoot different for different experiences.  Once multiplayer hit, this game went from an option to a MUST HAVE!  The community is awesome as well & the Developers are super responsive!!",
+      "date": 1765924735,
+      "review_helpful_count": 18,
+      "author_display_name": "Pops.182",
+      "author_alias": "Pops.182",
+      "developer_response": null
+    },
+    {
+      "id": "1439564974348152",
+      "score": 5,
+      "review_title": "Worth the money",
+      "review_description": "The detail inside the cockpit is fantastic. Controls feel about right. Took the throttle off the thumb stick control as it also controls the rudder. When engaging the rudder it always decreases throttle.\nThe scenery is good, not too detailed as to make the quest laggy, but is enough to convince your brain you are flying. \nAll in all, well worth the purchase so far and I'm looking forward to earning my way through the planes\nI tried the multiplayer but need to be more practiced. It seems like fun though.\nLooking forward to this game going forward further",
+      "date": 1766750295,
+      "review_helpful_count": 10,
+      "author_display_name": "jambreo",
+      "author_alias": "jambreo",
+      "developer_response": null
+    },
+    {
+      "id": "927801330420136",
+      "score": 5,
+      "review_title": "BRAVO ZULU From RCAF Pilot",
+      "review_description": "I flew the CT-114 Tutor in the RCAF and I have to say the realism of flying the T-Bird is astonishing.  I have only had the VR headset for a few weeks and am amazed.\n\nOne glitch I hope someone can help with…I have lost all sound.   I tried to silence the music but lost all sound.   Now even when I selected music sound full volume again, I can’t get any sounds at all, music or aircraft. \n\n(Look up Bravo Zulu in Air Force lingo…means well done 😃)",
+      "date": 1767807046,
+      "review_helpful_count": 6,
+      "author_display_name": "Planejane737",
+      "author_alias": "Planejane737",
+      "developer_response": {
+        "body": "Wow, this is so great to hear!  As you progress through the game you will even find a few classic RCAF liveries.  I think for the F-86 Sabre.  (I wish I could post screenshots here for you.)   As for the sound, I have not heard of this issue before.  Maybe try nudging each one of the audio sliders just a little to see if that overrides any bad data that may have crept into your settings.  We'd love it if you would join our Discord group - we have a few pilots there, and we can more directly help you with the audio issue if needed: https://discord.gg/4ZTqhAw28Y",
+        "date": 1767809297
+      }
+    },
+    {
+      "id": "1609145990094303",
+      "score": 5,
+      "review_title": "Brilliant Game.",
+      "review_description": "I was a bit critical in my first review untill the developer explained it to me so I have tried the game again and I am very happy with it.\nI would love to see more modern jets hopefully it a future update.\nThere's hours and hours of different  scenarios to try and I recommend this game. There is a free flight scenario to practice blowing houses up.",
+      "date": 1767044784,
+      "review_helpful_count": 8,
+      "author_display_name": "pfearn2303",
+      "author_alias": "pfearn2303",
+      "developer_response": {
+        "body": "I think there might be a misunderstanding about the progression mechanism in the game.  The \"Challlenge\" missions, like the ring course you mention, are totally optional.  You don't need to collect any of the stars on the Challenges missions to progress.   \n\nIn general, you should focus on the \"Career\" missions during the start of the game.  You can usually earn enough to buy a new jet after completing about 1/2 the objectives available to the jet you currently have.  (We purposfully tried to make the Career progression easy-ish as we gain nothing by making it to hard ;-) )  I recommend getting a new jet soon, rather than fully upgrading your existing jet.  You can always go back to a previous jet and finish it's Career missions later if you like.\n\nThen, as you earn more, you can buy more upgrades and go tackle the tougher Challenge missions if you like.  BTW: if you ever find yourself low on $, people tend to fly the Full Pattern Landing Challenges as a quick way to earn some cash.  But this typically isn't necessary.  BTW: All of those stars are achievable, but many of the harder ones require you to come back later when you have a faster, upgraded Jet.  That goes to show how much faster the better jets are!\n\nWe really want to make sure you are happy with the game.  There is a great community on Discord that is happy to help out, and we often answer questions directly.  I can easily post screenshots to help walk you through things if needed.  Join us here: https://discord.gg/4ZTqhAw28Y",
+        "date": 1767040609
+      }
+    },
+    {
+      "id": "1022700517574682",
+      "score": 5,
+      "review_title": "Holy so worth it",
+      "review_description": "I love it making yt videos on it i wish all buttons have a use and wish it had ejecting seat for the f84 and many a b52 with co op seats i really love this game hope for more features soon",
+      "date": 1769307512,
+      "review_helpful_count": 6,
+      "author_display_name": "femboy_f104",
+      "author_alias": "femboy_f104",
+      "developer_response": null
+    },
+    {
+      "id": "971306056063394",
+      "score": 5,
+      "review_title": "Good.",
+      "review_description": "I love this game. Whoever made this game did an amazing job and I like how detailed the cockpit is but you guys really should add more modern fighter jets I just feel like that would be cool.",
+      "date": 1769995300,
+      "review_helpful_count": 4,
+      "author_display_name": "jack_323",
+      "author_alias": "jack_323",
+      "developer_response": null
+    },
+    {
+      "id": "883940747707006",
+      "score": 4,
+      "review_title": "Great game",
+      "review_description": "This game is amazing. You get what you’re paying for. Lots of fun with friends. The only thing I’d critique is the plane selection, it’s mostly older planes so I’d like to see some more modern planes added that can pick up some more speed.",
+      "date": 1769030896,
+      "review_helpful_count": 4,
+      "author_display_name": "Caden8316",
+      "author_alias": "Caden8316",
+      "developer_response": null
+    },
+    {
+      "id": "851389341133660",
+      "score": 5,
+      "review_title": "Really Like it As New to Plane gaming",
+      "review_description": "Personally I am a totally new gamer never really seriously played this kind of game before. I really like it! But I fully understand this is still in development. A few thinkings from my point of view:\n1. The game menu sometimes seems buggy I just cannot select options \n2. I feel like it may be a good idea to add some weapon training for new gamers like me to learn how to use weapons efficiently\n3. The task design seems somehow repetitive. I am thinking if it is possible to have a random sandbox mode to let you configure a certain kind of tasks or even support mods in the future to allow external map\nOverall this is a great game!! Even though it is not a fully finished game I have already been really enjoying it! Thanks and happy new year!",
+      "date": 1767758199,
+      "review_helpful_count": 5,
+      "author_display_name": "DustinZhou319",
+      "author_alias": "DustinZhou319",
+      "developer_response": null
+    },
+    {
+      "id": "1074723659048010",
+      "score": 1,
+      "review_title": "Dawn of jets",
+      "review_description": "Not a fan of sims where you have to do the same mission over and over and over to get new content, on a scale of 1-10 I give this sim a 4.",
+      "date": 1773264366,
+      "review_helpful_count": 0,
+      "author_display_name": "Racer994566",
+      "author_alias": "Racer994566",
+      "developer_response": {
+        "body": "Sorry you didn't like our game.   We set out to make the best looking and flying game on the Quest, and I feel we succeeded there by a wide margin.  We also decided we wanted to have only \"hand-crafted\" missions, because most of the other sims on the Quest use some sort of procedural generation, and the games end up feeling very \"mechanical.\"\n\nSo while some games may have more missions, they are all extremely similar to one another.  We have several dozen different missions, each with with different difficulty levels that change the targets and threats as you progress through new aircraft.  I think what you are looking for might be beyond the budgets afforded to standalone titles.  I'd love to chat more about this to see what we could have done to make this more interesting to you within the budget we had to work with.  Feel free to join our Discord at https://discord.gg/4ZTqhAw28Y",
+        "date": 1773336300
+      }
+    },
+    {
+      "id": "981730528348033",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "I’ve had the game since early access and I really enjoyed the realistic gameplay however one of the first things I had realized was there were no rear mirrors this made checking my 6 a bit uncomfortable but it wasn’t too much trouble. I also think it would be cool if there were multiplayer campaigns in the future.",
+      "date": 1766724996,
+      "review_helpful_count": 7,
+      "author_display_name": "Human5326",
+      "author_alias": "Human5326",
+      "developer_response": null
+    },
+    {
+      "id": "916039348260442",
+      "score": 5,
+      "review_title": "Wow!",
+      "review_description": "I love it. It’s fantastic.\nI’m actually surprised to see a flight sim of this quality on Quest 3.\nI’m a huge fan of Xplane 11 on steam, because it can be fully downloaded and played offline.\nThis Is currently the closest experience on an independent headset.\nI love it.\n\nP.S. This is incredible but still…\nI’d like to see Dawn of Jets : Flight Sim. Forget the combat, never mind the missions, just the globe as complete as you can make it, with as many airport’s as could be done.\nThat would be awesome…\n\nVery attentive and helpful developers!",
+      "date": 1767301743,
+      "review_helpful_count": 5,
+      "author_display_name": "TheTardis69",
+      "author_alias": "TheTardis69",
+      "developer_response": {
+        "body": "Thanks for the review, and glad to hear you like the game!  You're about to like it a lot more...  open up the options menu, click the \"HD\" tab, and disable \"Radial Target Pointers.\"  If you have other questions or ideas, feel free to join our Discord community: https://discord.gg/4ZTqhAw28Y",
+        "date": 1767299194
+      }
+    },
+    {
+      "id": "870570939014677",
+      "score": 5,
+      "review_title": "Loving this app, but…",
+      "review_description": "I use the controller’s joystick as the plane’s stick, but only the right controller allows this. The problem is the same thumb that is controlling the stick is the same thumb that I need to press the button to fire, so I must constantly move my thumb between controlling the aircraft and firing weapons and this is very difficult. Is it not possible to allow users to choose which controllers do which functions? Or maybe allow the triggers on each controller to fire weapons instead of the A button only… *Currently, you must be gripping the throttle to use the trigger on the left controller and must be gripping the stick to use the trigger on the right controller. Can’t the triggers be opened up to use anytime?\n\nI just purchased this app and am ‘seated’ in the cockpit about 3’ above the seat. How can I adjust my position? I am not able to fly planes like this. *I’m using a Quest 2, if that matters.\n\nThanks for the response. I found them. I was positioned so high that I couldn’t even see, or reach, those buttons previously. I like to use my Oculus while seated at my desk. I moved farther away from desk and was finally able to adjust position.",
+      "date": 1770275045,
+      "review_helpful_count": 3,
+      "author_display_name": "chris.pearson",
+      "author_alias": "chris.pearson",
+      "developer_response": {
+        "body": "*Update* - Great to hear!  Yeah, it's tricky to play \"cockpit\" style games at a desk or on a couch :-)  Because of that, we also added a few \"quick action\" buttons to the pause menu for operations that might be tricky to reach while on a couch, etc. \n\nEach jet has a set of 5 buttons that allows you to adjust your seat position, and it will be saved for each different jet.  That said, it sounds like you may need to use the Oculus button to recenter your view once you are in the cockpit.  Perhaps you moved around during the loading screen or the lighting conditions in your room changed significantly.  Also note that the entire game should be played while sitting, even while in the hangar.  (That is, don't start by standing up and then sit down once you are in a jet.)",
+        "date": 1768236623
+      }
+    },
+    {
+      "id": "24617501714592371",
+      "score": 5,
+      "review_title": "Take to the skies!",
+      "review_description": "I've played a few plane/jet vr games, ultrawings,  ww2 fighters, and even Microsoft flight sim using a pcvr set up, and this ranks among them easily as far as technical and mechanics fair, great vibrant graphics, smooth motion with a weighted feel to the stick, enough switches and toggles to satisfy the detailed ocd gamer among us, and a nice easy arcade feel to combat, and along with some lovely graphical touches here and there makes this a genuinely fun title to own! I was lucky enough to win access to this game and this is a non-biased review :) I even got a little motion sick when barrel rolling so the immersion worked too 😆",
+      "date": 1767727465,
+      "review_helpful_count": 4,
+      "author_display_name": "eonie316",
+      "author_alias": "eonie316",
+      "developer_response": null
+    },
+    {
+      "id": "916440288224894",
+      "score": 5,
+      "review_title": "Awesome graphics",
+      "review_description": "Awesome graphics and as close as you can get to actually flying a real plane! So much fun i play it all the time! I highly recommend playing Dawn of Jets!",
+      "date": 1768976908,
+      "review_helpful_count": 6,
+      "author_display_name": "Brambo1983",
+      "author_alias": "Brambo1983",
+      "developer_response": null
+    },
+    {
+      "id": "1006385992547321",
+      "score": 5,
+      "review_title": "Aces High",
+      "review_description": "I’m new to VR and this is my first flight sim. Boy it doesn’t disappoint.  Great graphics and interaction with the aircraft. I Absolutely love this game!",
+      "date": 1768864720,
+      "review_helpful_count": 6,
+      "author_display_name": "BigLofty66",
+      "author_alias": "BigLofty66",
+      "developer_response": null
+    },
+    {
+      "id": "3149799055228216",
+      "score": 5,
+      "review_title": "Amazing details!",
+      "review_description": "At first I was a bit disappointed that there was no quick game like with Warplanes to fight right away. However, I have to say, it was good to get acquainted with the plane first. I saw it as a kind of tutorial and it was really fun. Except the mission to fly through the rings LOL that was really annoying. Dawn of Jets has a lot of attention to detail. Just tried to get closer to the cockpit in the first plane and WOW the details incl. reflections are outstanding!",
+      "date": 1766580540,
+      "review_helpful_count": 5,
+      "author_display_name": "S4mstr03m",
+      "author_alias": "S4mstr03m",
+      "developer_response": null
+    },
+    {
+      "id": "899543789406458",
+      "score": 5,
+      "review_title": "Pretty good",
+      "review_description": "Overall it's a great game for its price, the missions are fun, the feel of the aircraft are nice, the slow speed mechanics are a bit jank but I have every confidence in the devs they'll fix it and make what is already the best standalone flight sim even better than before",
+      "date": 1767243456,
+      "review_helpful_count": 4,
+      "author_display_name": "glitchwalker2",
+      "author_alias": "glitchwalker2",
+      "developer_response": null
+    },
+    {
+      "id": "944941412046121",
+      "score": 3,
+      "review_title": "Good but bugged",
+      "review_description": "Great game but no crash physics and the menu sometimes doesnt work",
+      "date": 1772954299,
+      "review_helpful_count": 0,
+      "author_display_name": "alfman12321",
+      "author_alias": "alfman12321",
+      "developer_response": {
+        "body": "I'm sorry that seems to have had such an impact (pun intended) on your experience.  We know this is a weak point and are working to add better crash effects in upcoming releases.   I'd hope that the quality of the rest of the game, particularly compared to other sims on the Quest, would make up for that at least a bit.\n\nAs for the menus that \"sometimes don't work\", can you give us some more information?  We don't have any widespread reports of issues like this, so I'd like to see if we can narrow down your issue.   Best place to chat with us is over on our Discord at: https://discord.gg/4ZTqhAw28Y",
+        "date": 1773336507
+      }
+    },
+    {
+      "id": "926528107215589",
+      "score": 5,
+      "review_title": "Excellent dogfight sim!",
+      "review_description": "Excellent sim. Great community. Can't wait to see further developments! Worth every penny",
+      "date": 1769119969,
+      "review_helpful_count": 6,
+      "author_display_name": "DadPeanut",
+      "author_alias": "DadPeanut",
+      "developer_response": null
+    },
+    {
+      "id": "897341749519878",
+      "score": 5,
+      "review_title": "love the details could get more planes ￼",
+      "review_description": "Great Game love the details, but I would love to see for them to add more planes  ￼￼maybe even at some point add civilian planes or like commercial planes just for free flights  ￼ if it would all have the same details, I would love to buy it as well😮‍💨!!!\n￼￼",
+      "date": 1766428315,
+      "review_helpful_count": 3,
+      "author_display_name": "Tima.09",
+      "author_alias": "Tima.09",
+      "developer_response": null
+    },
+    {
+      "id": "1524287312189132",
+      "score": 4,
+      "review_title": "Good but needs work graphically.",
+      "review_description": "The plane cocpits and handling are brilliant, the dogfights are decent but can get a bit boring.the texture of the ground and water are pretty good for standalone but the trees and buildings look like paper triangles and monopoly houses. \nConsidering the ground textures are flat, the building and trees look off. The game needs some bloom fx and cockpit shadows for a bit more immersion too. \nThe best map is the Pacific island and the size of the maps are decent. And amount of content is good for the price. Needs a bitore polish and it would be pretty epic. I do however play PCVR and have been spoilt. Keep up the good work though devs. Defo going in the right direction with this one.",
+      "date": 1767909181,
+      "review_helpful_count": 1,
+      "author_display_name": "Russ_Blake",
+      "author_alias": "Russ_Blake",
+      "developer_response": {
+        "body": "Hey, thanks for the review!  We are constantly working to improve the graphics, but I'm afraid effects like shadows and bloom are just way beyond what the Quest can handle at the scales we are operating.  As it is, our cockpit alone draws more triangles than other games do in their whole scene! ;-)  (If you check out our competition, you will see what I mean. )   And the details on the terrain are a issue also.  We opted to have thousands of simple objects (trees, houses) rather than a few high-detailed objects.  The Quest just isn't powerful enough to do both.   All that said, we are working to optimize even more and should be able to improve the detail - at least for Quest 3 / 3s users - in the near future.  Feel free to join us on Discord: https://discord.gg/4ZTqhAw28Y",
+        "date": 1767914966
+      }
+    },
+    {
+      "id": "813758747860254",
+      "score": 4,
+      "review_title": "its ok",
+      "review_description": "ok so I have had this game for awhile not and at first its really really fun, the graphics are really good on it and the flight physics are pretty good, my only pet pev of this game is the missions NEVER change, even when your purchase a new jet your ending up down the EXACT same missions all over again only with a different plane and it gets very repetitive and boring after while, tonight I decided to uninstall the game as doing the same missions over and over and over and over again it just getting to boring for me now, until they can add some new content in this game im kinda done with it for now, its not worth paying full price for, wait till it goes on sale if you want to get it",
+      "date": 1759484841,
+      "review_helpful_count": 95,
+      "author_display_name": "JediMike7",
+      "author_alias": "JediMike7",
+      "developer_response": null
+    },
+    {
+      "id": "845716025123344",
+      "score": 5,
+      "review_title": "The best",
+      "review_description": "I got this game for the first time and it was majestic and was really fun to play and I would recommend it for others to play.Very fun.",
+      "date": 1768611219,
+      "review_helpful_count": 3,
+      "author_display_name": "joshua.145072",
+      "author_alias": "joshua.145072",
+      "developer_response": null
+    },
+    {
+      "id": "953354037350784",
+      "score": 4,
+      "review_title": "Prop planes",
+      "review_description": "I know this is dawn of JETS but... I believe a few classic prop planes would be great.",
+      "date": 1771207228,
+      "review_helpful_count": 1,
+      "author_display_name": "StartledBull13",
+      "author_alias": "StartledBull13",
+      "developer_response": null
+    },
+    {
+      "id": "880449981243431",
+      "score": 5,
+      "review_title": "Want  to fly a jet?? Well here's your ch",
+      "review_description": "I bought this game due to how much my husband loves the game. That being said, the G's on the feedback are stupendously insane. You really DO A FEEL ALL THE G's.. I love this game.",
+      "date": 1767458896,
+      "review_helpful_count": 3,
+      "author_display_name": "DJMEL_JAMZ",
+      "author_alias": "DJMEL_JAMZ",
+      "developer_response": null
+    },
+    {
+      "id": "958426180680585",
+      "score": 4,
+      "review_title": "Great but minor glitch",
+      "review_description": "Overall, me and my dad (a trained pilot) find this game amazing. However, my dad is getting very annoyed at the fact that every time the game glitches, the throttle goes back up to full no matter what it was before. I must admit, I do find it a bit annoying because it happened to me at random times. But overall, I love this game.",
+      "date": 1766862893,
+      "review_helpful_count": 1,
+      "author_display_name": "Poppie_Therian22",
+      "author_alias": "Poppie_Therian22",
+      "developer_response": null
+    },
+    {
+      "id": "957588317439119",
+      "score": 2,
+      "review_title": "Wast of $",
+      "review_description": "Whenever you buy a new jet. The missions start over again. Guns over heat too quickly. Not enough upgrades. Each mission needs to have its own levels of difficulty that can be adjusted.",
+      "date": 1768959117,
+      "review_helpful_count": 1,
+      "author_display_name": "JessieHailey13",
+      "author_alias": "JessieHailey13",
+      "developer_response": null
+    },
+    {
+      "id": "891877667348411",
+      "score": 5,
+      "review_title": "Amazing game with few flaws",
+      "review_description": "Great cockpits, surprisingly convincing clouds and, for the most part, the landscape as well. Partially the environment looks too \"cartoonish\", \"too saturated\", \"too green\" (Jungle and Pacific). Less colorful would be more realistic imho, like \"Home Base\". Good contact to the developers.\nI'm looking forward to the new updates, which will improve flight behavior, especially during stalls. It's strange to stay vertically in the air for a long time.😄🙈\nFurther when I shoot at a target with the gun, I can hear the hits clearly in my cockpit. That can't be realistic. \n\nPS: larger areas/worlds would be really nice",
+      "date": 1769377121,
+      "review_helpful_count": 1,
+      "author_display_name": "Entity999",
+      "author_alias": "Entity999",
+      "developer_response": null
+    },
+    {
+      "id": "973199062534567",
+      "score": 5,
+      "review_title": "A must have for aviation enthusiasts.",
+      "review_description": "I went into this game sceptical but came out amazed, with a (almost) fully interactive cockpit, it gives a higher level of immersion, 5 stars!!!!",
+      "date": 1767315055,
+      "review_helpful_count": 4,
+      "author_display_name": "KezzaRewe",
+      "author_alias": "KezzaRewe",
+      "developer_response": null
+    },
+    {
+      "id": "942684115594704",
+      "score": 4,
+      "review_title": "Ok but needs work",
+      "review_description": "Needs to be more fair. How can the bullets com from the top of the npc plane. Also, why dont the cpu planes stall? Add a difficulty level. Game is supposed to be fun for my son. He can progress because the game expects for him to fly like a pro out the box. Some kids just wanna have fun.",
+      "date": 1766952884,
+      "review_helpful_count": 0,
+      "author_display_name": "Lilweb703",
+      "author_alias": "Lilweb703",
+      "developer_response": {
+        "body": "Sorry your son is finding this tricky.  Balancing a game's difficulty for a wide audience is always a challenge and the dogfighting was the trickiest part.  The majority of our users report a good level of balance, but as the game attracts a wider audience we may need to make accommodations to different age groups.  As such, we will certainly consider adding a difficulty level (slightly easier enemies, slightly less damage to the player, etc.)  I'd love to know how old your son is so we can start to gather some info on this.  See the Discord link below.\n\nPlease note that you don't need to complete every mission to progress.  I'm pretty sure you should be able to skip all the dogfighting missions and still be able to buy the next jet.  If you find this is not the case, it would be very useful to know which jet you are stuck on so we can take a look.\n\nBTW: The bullets from NPC planes should always fire \"forward.\"  We have not had any reports of the bullets flying up from the enemies.  If there is any way you could capture that on video, that would be a HUGE help.\n\nWe invite you to join us on Discord if you have any more questions or if you manage to capture a video of that issue:  https://discord.gg/4ZTqhAw28Y  We have a pretty good community there and I tend to answer questions daily.\n\nThanks!",
+        "date": 1767034602
+      }
+    },
+    {
+      "id": "1243973280914331",
+      "score": 4,
+      "review_title": "Best standalone combat sim!",
+      "review_description": "Love the flight model and you can tell the devs put passion into this. What's more, the game runs at a constant 90fps on default settings, and with highest graphics, 70 on the quest 3. Its so good and multiplayer is fun! I can't wait to see how big this game will grow",
+      "date": 1767217864,
+      "review_helpful_count": 0,
+      "author_display_name": "Flyinryan145",
+      "author_alias": "Flyinryan145",
+      "developer_response": {
+        "body": "Thanks for the review!  Let us know what we could improve/add to earn that 5th star from you!  Feel free to reach out on Discord at: https://discord.gg/4ZTqhAw28Y",
+        "date": 1767221910
+      }
+    },
+    {
+      "id": "877352025469445",
+      "score": 4,
+      "review_title": "Surprise fun",
+      "review_description": "Dawn of Jets has exceeded my expectations already. Not normally a game I would purchase but was gifted by the amazing team at Meta Quest giveaways, promotions, and referrals. I am only on the 3 rd tutorial but dang this game is sick. If you experience Vr or motion sickness this game is not for you . My stomach was twisting the entire time I was flying a jet. This game has pure potential . Hopefully the rest of the flight is just as amazing .",
+      "date": 1766930664,
+      "review_helpful_count": 1,
+      "author_display_name": "Chopsicuss",
+      "author_alias": "Chopsicuss",
+      "developer_response": null
+    },
+    {
+      "id": "3839122086220314",
+      "score": 3,
+      "review_title": "Not very immersive",
+      "review_description": "So the controls feel ok and decent content but I been flying in msfs2020 and dcs and I know its not that good but i dont feel immersed in here idk what it is maybe low textures on land cause the graphics take a big hit like feels quest 1 graphics... warplanes I feel immersed but here not as much I may check it later down road after a graphical update if ever has one but for now I refund",
+      "date": 1765948854,
+      "review_helpful_count": 2,
+      "author_display_name": "sh0ck3r34",
+      "author_alias": "sh0ck3r34",
+      "developer_response": null
+    },
+    {
+      "id": "947255745143807",
+      "score": 5,
+      "review_title": "add tracking missile",
+      "review_description": "Can someone please add track missile",
+      "date": 1768584546,
+      "review_helpful_count": 3,
+      "author_display_name": "Rift66112",
+      "author_alias": "Rift66112",
+      "developer_response": null
+    },
+    {
+      "id": "906976469172043",
+      "score": 4,
+      "review_title": "Most realistic game on quest so far!",
+      "review_description": "I love the way the game feels real at times and physics are there and are so cool but the only issue i have is the startup on the plane not being as realistic as i wanted but either way the game is great!",
+      "date": 1767827437,
+      "review_helpful_count": 0,
+      "author_display_name": "Salvgersifepsxb",
+      "author_alias": "Salvgersifepsxb",
+      "developer_response": null
+    },
+    {
+      "id": "984624081392587",
+      "score": 5,
+      "review_title": "It’s a very good game",
+      "review_description": "I play it for fun I’m into planes and this mechanic makes it realistic and fun",
+      "date": 1767696153,
+      "review_helpful_count": 3,
+      "author_display_name": "Crowbot08",
+      "author_alias": "Crowbot08",
+      "developer_response": null
+    },
+    {
+      "id": "1471842300777148",
+      "score": 5,
+      "review_title": "Loved it",
+      "review_description": "I was really impressed by the detail of the cockpit and how real the flying felt. I've only done the first 7 training missions so far, but loved how smooth the graphics were and even just learning to control the jet for landing is so much fun.\n\nWorks great with Quest Games Optimizer too, razor sharp graphics.\n\nCan't wait to go back in and do more missions and flights!",
+      "date": 1760490512,
+      "review_helpful_count": 14,
+      "author_display_name": "AC_Reality",
+      "author_alias": "AC_Reality",
+      "developer_response": null
+    },
+    {
+      "id": "913473188517603",
+      "score": 5,
+      "review_title": "Thanks to the wife for buying me this",
+      "review_description": "Fantastic sim loving everything \n\n about it 😃 Now loving the multiplayer thanks to the developers keep it up",
+      "date": 1765997900,
+      "review_helpful_count": 4,
+      "author_display_name": "GDtomo",
+      "author_alias": "GDtomo",
+      "developer_response": null
+    },
+    {
+      "id": "970184429507833",
+      "score": 3,
+      "review_title": "DECENT EFFORT BUT NEEDS WORK",
+      "review_description": "Had this for a while now.\nGot bored very quickly\nThe jets are slow and do not reflect the jets speed accurately. \nNO updates for a while,no new missions,no new planes abd missions get repetitive and boring over the long term.\nTerrain is very sparsely dotted with trees and looks empty..\nCockpits look detailed and decent,textures could do with updating also.\nRecommended to buy when cheap in a sale",
+      "date": 1767724877,
+      "review_helpful_count": 0,
+      "author_display_name": "Busband1",
+      "author_alias": "Busband1",
+      "developer_response": {
+        "body": "Sorry you didn't like the game.  I can guarantee that the jets actually fly at the \"correct\" speeds - we do not fake speeds or do any velocity scaling like other games do.  The only thing we do is make the trees and terrain details a little larger than normal so they don't flicker on the low-ish res screen of the Quest.  If it feels \"slow\" to you, it's likely due to the limitations on how much detail we can put on the terrain on the Quest.  BTW: We released a massive update for multiplayer last month.  Now that we are done with that, we will be focusing on more jets, worlds and missions.",
+        "date": 1767730729
+      }
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T02:01:56Z"
+}
