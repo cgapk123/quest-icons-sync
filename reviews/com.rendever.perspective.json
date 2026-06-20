@@ -1,0 +1,59 @@
+{
+  "app_id": "2025621397464993",
+  "package_name": "com.rendever.perspective",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Perspective",
+  "rating_average": 3.2,
+  "rating_count": 5,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "2054669184815752",
+      "score": 5,
+      "review_title": "Super interesting!!",
+      "review_description": "I don't generally write reviews but this was so cool - I walked through my house and the whole place was a coloring book!! That was my favorite filter by far. If you walk around just be careful, cause everything has a slight zoom effect :)",
+      "date": 1516742827,
+      "review_helpful_count": 3,
+      "author_display_name": "krand7",
+      "author_alias": "krand7",
+      "developer_response": null
+    },
+    {
+      "id": "1191948170941049",
+      "score": 2,
+      "review_title": "Camera Fails to work",
+      "review_description": "The filters are good but...\nAlthough this claims to be touch pad compatible it is only the trigger that works. You still have to move your head to select buttons.\nThe camera just creates a black blank image in my S7 edge.",
+      "date": 1518014426,
+      "review_helpful_count": 1,
+      "author_display_name": "Sir_Daclan",
+      "author_alias": "Sir_Daclan",
+      "developer_response": {
+        "body": "Hey! The app just needs permission to use the camera. If you go to Settings -> Apps -> Perspective -> Permissions and turn the Camera permission on then everything should work properly for you :)",
+        "date": 1519800044
+      }
+    },
+    {
+      "id": "174861433338684",
+      "score": 2,
+      "review_title": "Photo function don't work",
+      "review_description": "It would be the better filter app out there if wasn't for an essential thing - I can't take any photos with it. The app only generates a black image without anything on it.\n\nI've checked the permissions and everything is checked.\n\nReviewed on my S7",
+      "date": 1525657015,
+      "review_helpful_count": 0,
+      "author_display_name": "danlessa",
+      "author_alias": "danlessa",
+      "developer_response": {
+        "body": "Thanks for letting us know - photos should be working on the S7 if you have all permissions enabled. We'll do some digging and check back in with you!",
+        "date": 1526573023
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T22:20:28Z"
+}
