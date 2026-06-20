@@ -1,0 +1,936 @@
+{
+  "app_id": "9799350046742128",
+  "package_name": "com.mydearest.madsurgeon",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "MAD SURGEON -Goblin Hospital-",
+  "rating_average": 4.8333333333333,
+  "rating_count": 732,
+  "review_count": 105,
+  "reviews": [
+    {
+      "id": "769420799572054",
+      "score": 5,
+      "review_title": "Such wonders I will show them!!",
+      "review_description": "Hello there I am poisedanubisvr M.D and I have to say my patients and my viewers enjoy my… rather unorthodox way of making people “beautiful”, what this game is?…. In my opinion marvellous, I just hope that the devs will add more to it.. perhaps allow for the manipulation of the teeth and mouth, or perhaps the capability to turn my “patients into something… less humanoid.. I try my best but I’m limited by reality lol, please please please please give me more, my psychopathy demands it.",
+      "date": 1773126777,
+      "review_helpful_count": 11,
+      "author_display_name": "Poisedanubis85",
+      "author_alias": "Poisedanubis85",
+      "developer_response": null
+    },
+    {
+      "id": "1046915565180928",
+      "score": 5,
+      "review_title": "cool",
+      "review_description": "i like how they collaged with devils roulette",
+      "date": 1779304443,
+      "review_helpful_count": 1,
+      "author_display_name": "twiddlefingerfan",
+      "author_alias": "twiddlefingerfan",
+      "developer_response": null
+    },
+    {
+      "id": "1032993429897405",
+      "score": 5,
+      "review_title": "Best game",
+      "review_description": "Physics are cool",
+      "date": 1781284156,
+      "review_helpful_count": 0,
+      "author_display_name": "Skysoldier1214",
+      "author_alias": "Skysoldier1214",
+      "developer_response": null
+    },
+    {
+      "id": "926178426724616",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "10 out of 19",
+      "date": 1774639655,
+      "review_helpful_count": 0,
+      "author_display_name": "hoogin.boogen",
+      "author_alias": "hoogin.boogen",
+      "developer_response": null
+    },
+    {
+      "id": "981960008335001",
+      "score": 4,
+      "review_title": "I think it's a good idea",
+      "review_description": "It's a good idea but kids should not play. I bought this game for my son.",
+      "date": 1771303017,
+      "review_helpful_count": 3,
+      "author_display_name": "spiderkier",
+      "author_alias": "spiderkier",
+      "developer_response": null
+    },
+    {
+      "id": "1182501481611128",
+      "score": 5,
+      "review_title": "Game",
+      "review_description": "Good fun game",
+      "date": 1781730738,
+      "review_helpful_count": 0,
+      "author_display_name": "adolfrzzlerq",
+      "author_alias": "adolfrzzlerq",
+      "developer_response": null
+    },
+    {
+      "id": "1017499151226902",
+      "score": 5,
+      "review_title": "funny",
+      "review_description": "funnnny",
+      "date": 1781846217,
+      "review_helpful_count": 0,
+      "author_display_name": "MTcat56",
+      "author_alias": "MTcat56",
+      "developer_response": null
+    },
+    {
+      "id": "1125357427335679",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "good",
+      "date": 1781527752,
+      "review_helpful_count": 0,
+      "author_display_name": "Eren2212",
+      "author_alias": "Eren2212",
+      "developer_response": null
+    },
+    {
+      "id": "990492820818307",
+      "score": 3,
+      "review_title": "Huh?!",
+      "review_description": "Is there a way to get to the main menu like with all the characters in the back round? did i get scammed?",
+      "date": 1771203375,
+      "review_helpful_count": 0,
+      "author_display_name": "luckycoinlepurcan321",
+      "author_alias": "luckycoinlepurcan321",
+      "developer_response": null
+    },
+    {
+      "id": "974277548449996",
+      "score": 5,
+      "review_title": "Its good",
+      "review_description": "Is fun but gets slightly boring",
+      "date": 1771899395,
+      "review_helpful_count": 0,
+      "author_display_name": "redvortex42",
+      "author_alias": "redvortex42",
+      "developer_response": null
+    },
+    {
+      "id": "930912946123622",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Gooooooood",
+      "date": 1772148569,
+      "review_helpful_count": 0,
+      "author_display_name": "Char12345_",
+      "author_alias": "Char12345_",
+      "developer_response": null
+    },
+    {
+      "id": "1134694919726079",
+      "score": 5,
+      "review_title": "fun",
+      "review_description": "mnnnhjytyk",
+      "date": 1780147927,
+      "review_helpful_count": 0,
+      "author_display_name": "PuppetLord23",
+      "author_alias": "PuppetLord23",
+      "developer_response": null
+    },
+    {
+      "id": "1122308524289095",
+      "score": 5,
+      "review_title": "I like",
+      "review_description": "Yee",
+      "date": 1771189790,
+      "review_helpful_count": 0,
+      "author_display_name": "JohnPorksHairyAss",
+      "author_alias": "JohnPorksHairyAss",
+      "developer_response": null
+    },
+    {
+      "id": "907280922234500",
+      "score": 5,
+      "review_title": "Ogaboga",
+      "review_description": "5 stars",
+      "date": 1770857273,
+      "review_helpful_count": 0,
+      "author_display_name": "lilybear.531265",
+      "author_alias": "lilybear.531265",
+      "developer_response": null
+    },
+    {
+      "id": "912654951297925",
+      "score": 5,
+      "review_title": "It is nice",
+      "review_description": "It is so nice",
+      "date": 1769920555,
+      "review_helpful_count": 0,
+      "author_display_name": "TheoNick1",
+      "author_alias": "TheoNick1",
+      "developer_response": null
+    },
+    {
+      "id": "1090940200772245",
+      "score": 5,
+      "review_title": "Fun game",
+      "review_description": "Good\n\n\nyhgjduryf\n\n\ngreAr",
+      "date": 1778187622,
+      "review_helpful_count": 0,
+      "author_display_name": "LaughingPygmyGoat5566",
+      "author_alias": "LaughingPygmyGoat5566",
+      "developer_response": null
+    },
+    {
+      "id": "1108882768971725",
+      "score": 5,
+      "review_title": "Nice game",
+      "review_description": "Rhis game gave me a awsome expiernce thats all.",
+      "date": 1777319671,
+      "review_helpful_count": 0,
+      "author_display_name": "BOgdunhadaniceday2",
+      "author_alias": "BOgdunhadaniceday2",
+      "developer_response": null
+    },
+    {
+      "id": "953338211196054",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "Super fun and hilarious the physics could be better",
+      "date": 1767367129,
+      "review_helpful_count": 0,
+      "author_display_name": "ToSlow24",
+      "author_alias": "ToSlow24",
+      "developer_response": null
+    },
+    {
+      "id": "1242039311136990",
+      "score": 3,
+      "review_title": "Ok",
+      "review_description": "Not too bad.",
+      "date": 1767669244,
+      "review_helpful_count": 0,
+      "author_display_name": "fate_js",
+      "author_alias": "fate_js",
+      "developer_response": null
+    },
+    {
+      "id": "890458456982356",
+      "score": 3,
+      "review_title": "Good game",
+      "review_description": "Pretty fun game buy good stuff tho",
+      "date": 1765653832,
+      "review_helpful_count": 1,
+      "author_display_name": "XxXxDeLeonxXxX",
+      "author_alias": "XxXxDeLeonxXxX",
+      "developer_response": null
+    },
+    {
+      "id": "1018680964671005",
+      "score": 4,
+      "review_title": "Mad surgeon such good game",
+      "review_description": "Good game",
+      "date": 1774413524,
+      "review_helpful_count": 0,
+      "author_display_name": "chorisobrito",
+      "author_alias": "chorisobrito",
+      "developer_response": null
+    },
+    {
+      "id": "1082346571619665",
+      "score": 5,
+      "review_title": "I really like",
+      "review_description": "Its fun",
+      "date": 1774148422,
+      "review_helpful_count": 0,
+      "author_display_name": "Slungus2",
+      "author_alias": "Slungus2",
+      "developer_response": null
+    },
+    {
+      "id": "879922574690649",
+      "score": 5,
+      "review_title": "yep",
+      "review_description": "Perfect",
+      "date": 1765761176,
+      "review_helpful_count": 0,
+      "author_display_name": "climatecontrl",
+      "author_alias": "climatecontrl",
+      "developer_response": null
+    },
+    {
+      "id": "868809966319242",
+      "score": 5,
+      "review_title": "Don’t get 0 stars",
+      "review_description": "No",
+      "date": 1763774047,
+      "review_helpful_count": 3,
+      "author_display_name": "chacingdragons",
+      "author_alias": "chacingdragons",
+      "developer_response": null
+    },
+    {
+      "id": "921137420837532",
+      "score": 5,
+      "review_title": "Amzing game",
+      "review_description": "This game is so much fun i love it",
+      "date": 1772985736,
+      "review_helpful_count": 0,
+      "author_display_name": "ScarJill",
+      "author_alias": "ScarJill",
+      "developer_response": null
+    },
+    {
+      "id": "1089165317602825",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Best game ever as a newbie",
+      "date": 1772602019,
+      "review_helpful_count": 0,
+      "author_display_name": "milanto49",
+      "author_alias": "milanto49",
+      "developer_response": null
+    },
+    {
+      "id": "909803868649521",
+      "score": 5,
+      "review_title": "Its a fun game",
+      "review_description": "it's a creative game lots of weird and funny things to make",
+      "date": 1771774570,
+      "review_helpful_count": 0,
+      "author_display_name": "chikennugets6767",
+      "author_alias": "chikennugets6767",
+      "developer_response": null
+    },
+    {
+      "id": "980129351854980",
+      "score": 5,
+      "review_title": "Awsome",
+      "review_description": "W game",
+      "date": 1772166742,
+      "review_helpful_count": 0,
+      "author_display_name": "TRIDENTusa",
+      "author_alias": "TRIDENTusa",
+      "developer_response": null
+    },
+    {
+      "id": "949255474946278",
+      "score": 5,
+      "review_title": "Extrodenary, epic, and cool",
+      "review_description": "Ya like violence? play this! ya wanna be a surgeon? play this!",
+      "date": 1771037431,
+      "review_helpful_count": 0,
+      "author_display_name": "Shavey13",
+      "author_alias": "Shavey13",
+      "developer_response": null
+    },
+    {
+      "id": "1268403885346381",
+      "score": 5,
+      "review_title": "it's a good game",
+      "review_description": "does you buy stuff is so good and i just like it",
+      "date": 1771121417,
+      "review_helpful_count": 0,
+      "author_display_name": "NUGZZ369",
+      "author_alias": "NUGZZ369",
+      "developer_response": null
+    },
+    {
+      "id": "1024849354041136",
+      "score": 5,
+      "review_title": "Amazing fr",
+      "review_description": "Very good game :)",
+      "date": 1771455078,
+      "review_helpful_count": 0,
+      "author_display_name": "Blaze_TheBear13",
+      "author_alias": "Blaze_TheBear13",
+      "developer_response": null
+    },
+    {
+      "id": "1567732401161574",
+      "score": 4,
+      "review_title": "Fun",
+      "review_description": "Its kind of interesting",
+      "date": 1771267845,
+      "review_helpful_count": 0,
+      "author_display_name": "luca23.2024",
+      "author_alias": "luca23.2024",
+      "developer_response": null
+    },
+    {
+      "id": "1084964411356267",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Very good",
+      "date": 1771509213,
+      "review_helpful_count": 0,
+      "author_display_name": "Cheeseman1234567",
+      "author_alias": "Cheeseman1234567",
+      "developer_response": null
+    },
+    {
+      "id": "885373797149725",
+      "score": 5,
+      "review_title": "Hu",
+      "review_description": "Nn",
+      "date": 1762996961,
+      "review_helpful_count": 0,
+      "author_display_name": "MG9000",
+      "author_alias": "MG9000",
+      "developer_response": null
+    },
+    {
+      "id": "1003121936215010",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "Its a game",
+      "date": 1771117032,
+      "review_helpful_count": 0,
+      "author_display_name": "G00Fyweirdo",
+      "author_alias": "G00Fyweirdo",
+      "developer_response": null
+    },
+    {
+      "id": "1015711808290826",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Good game",
+      "date": 1771005482,
+      "review_helpful_count": 0,
+      "author_display_name": "Gringotsgoblin",
+      "author_alias": "Gringotsgoblin",
+      "developer_response": null
+    },
+    {
+      "id": "1022660947595233",
+      "score": 5,
+      "review_title": "Gggg",
+      "review_description": "Vrfh",
+      "date": 1770942469,
+      "review_helpful_count": 0,
+      "author_display_name": "theomcadam",
+      "author_alias": "theomcadam",
+      "developer_response": null
+    },
+    {
+      "id": "956045527590770",
+      "score": 5,
+      "review_title": "is actually hard to say have fun this is",
+      "review_description": "just amazing overall it was fun \nhow to stuff to do it was just insanely fun",
+      "date": 1769186477,
+      "review_helpful_count": 0,
+      "author_display_name": "twinboss4004555",
+      "author_alias": "twinboss4004555",
+      "developer_response": null
+    },
+    {
+      "id": "1034316103089703",
+      "score": 4,
+      "review_title": "Nice game",
+      "review_description": "nice game",
+      "date": 1770051275,
+      "review_helpful_count": 0,
+      "author_display_name": "Witek1001",
+      "author_alias": "Witek1001",
+      "developer_response": null
+    },
+    {
+      "id": "852342997963472",
+      "score": 5,
+      "review_title": "best",
+      "review_description": "Best gameeeee i ever played",
+      "date": 1760808492,
+      "review_helpful_count": 1,
+      "author_display_name": "jeremy9179",
+      "author_alias": "jeremy9179",
+      "developer_response": null
+    },
+    {
+      "id": "738056002491706",
+      "score": 5,
+      "review_title": "Crazy",
+      "review_description": "Most chaotic surgery game I've played\n\nI took off all of his organs his head and all his limbs and somehow his heart is still beating😞",
+      "date": 1753881389,
+      "review_helpful_count": 14,
+      "author_display_name": "jarjar21112022",
+      "author_alias": "jarjar21112022",
+      "developer_response": null
+    },
+    {
+      "id": "849395658255917",
+      "score": 5,
+      "review_title": "E",
+      "review_description": "E",
+      "date": 1760886744,
+      "review_helpful_count": 1,
+      "author_display_name": "BreadBunny",
+      "author_alias": "BreadBunny",
+      "developer_response": null
+    },
+    {
+      "id": "794315500154437",
+      "score": 5,
+      "review_title": "ciii",
+      "review_description": "Vary Fun",
+      "date": 1760360486,
+      "review_helpful_count": 0,
+      "author_display_name": "TDOGGYIshere",
+      "author_alias": "TDOGGYIshere",
+      "developer_response": null
+    },
+    {
+      "id": "940213722505215",
+      "score": 5,
+      "review_title": "i love being a surgeon",
+      "review_description": "so this game is amazing i only rated because i want a chainsaw",
+      "date": 1766905426,
+      "review_helpful_count": 0,
+      "author_display_name": "GlowingHawk8999",
+      "author_alias": "GlowingHawk8999",
+      "developer_response": null
+    },
+    {
+      "id": "948718584986982",
+      "score": 5,
+      "review_title": "Poor patient",
+      "review_description": "I just sell evrything for the gun",
+      "date": 1767178382,
+      "review_helpful_count": 0,
+      "author_display_name": "Pbb2985",
+      "author_alias": "Pbb2985",
+      "developer_response": null
+    },
+    {
+      "id": "887546527546261",
+      "score": 5,
+      "review_title": "fun",
+      "review_description": "I got this 1day a go and im having a lot of fun.",
+      "date": 1767049416,
+      "review_helpful_count": 0,
+      "author_display_name": "Rhettman0308",
+      "author_alias": "Rhettman0308",
+      "developer_response": null
+    },
+    {
+      "id": "783813568152439",
+      "score": 5,
+      "review_title": "Um favorite vr game",
+      "review_description": "Love it",
+      "date": 1758927686,
+      "review_helpful_count": 0,
+      "author_display_name": "idk.what.my.name.is.852087",
+      "author_alias": "idk.what.my.name.is.852087",
+      "developer_response": null
+    },
+    {
+      "id": "924747424054955",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "W game fr",
+      "date": 1767162169,
+      "review_helpful_count": 0,
+      "author_display_name": "MAd_ViLLaiN_DOOM",
+      "author_alias": "MAd_ViLLaiN_DOOM",
+      "developer_response": null
+    },
+    {
+      "id": "801411059721714",
+      "score": 5,
+      "review_title": "Get it",
+      "review_description": "GET IT NOW",
+      "date": 1758571644,
+      "review_helpful_count": 0,
+      "author_display_name": "brodie375",
+      "author_alias": "brodie375",
+      "developer_response": null
+    },
+    {
+      "id": "733370829867639",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Very good",
+      "date": 1756899907,
+      "review_helpful_count": 1,
+      "author_display_name": "martin_sickopants",
+      "author_alias": "martin_sickopants",
+      "developer_response": null
+    },
+    {
+      "id": "879489581921395",
+      "score": 5,
+      "review_title": "I love this game so much",
+      "review_description": "W",
+      "date": 1766200189,
+      "review_helpful_count": 0,
+      "author_display_name": "Bot.Test.1",
+      "author_alias": "Bot.Test.1",
+      "developer_response": null
+    },
+    {
+      "id": "1277762610677505",
+      "score": 2,
+      "review_title": "Has potential",
+      "review_description": "This game has potential, but currently it gets boring really fast. There is no explanation of how to do anything except buy materials. There’s no explanation of how to move on to the next patient or get enough money to buy the more expensive items.",
+      "date": 1752734708,
+      "review_helpful_count": 1,
+      "author_display_name": "Saphirav",
+      "author_alias": "Saphirav",
+      "developer_response": null
+    },
+    {
+      "id": "856669644204870",
+      "score": 5,
+      "review_title": "Ts tuffy",
+      "review_description": "Ts tuffy",
+      "date": 1764286107,
+      "review_helpful_count": 0,
+      "author_display_name": "GamerHen",
+      "author_alias": "GamerHen",
+      "developer_response": null
+    },
+    {
+      "id": "1240273164658033",
+      "score": 5,
+      "review_title": "Dksn",
+      "review_description": "Dhx\nEbjehejssj",
+      "date": 1763598801,
+      "review_helpful_count": 0,
+      "author_display_name": "DJV16",
+      "author_alias": "DJV16",
+      "developer_response": null
+    },
+    {
+      "id": "29175943698717975",
+      "score": 5,
+      "review_title": "Hilarious",
+      "review_description": "The funniest surgeon games on vr and for only being 7$ great game I especially lovethe way you can just cut there limbs of. 5 stars",
+      "date": 1745584981,
+      "review_helpful_count": 36,
+      "author_display_name": "jediditty",
+      "author_alias": "jediditty",
+      "developer_response": {
+        "body": "Thanks for the review, we're happy to hear you're enjoying the game!",
+        "date": 1749013029
+      }
+    },
+    {
+      "id": "840487285819207",
+      "score": 5,
+      "review_title": "Very fun",
+      "review_description": "my friend showed me the game",
+      "date": 1762709764,
+      "review_helpful_count": 0,
+      "author_display_name": "sky1.4",
+      "author_alias": "sky1.4",
+      "developer_response": null
+    },
+    {
+      "id": "718142150748618",
+      "score": 5,
+      "review_title": "Confused",
+      "review_description": "I'm very confused on what to do i kinda just got thrown in developers if you see this please explain i want to enjoy the full potential of this game.",
+      "date": 1748208522,
+      "review_helpful_count": 7,
+      "author_display_name": "METALx79",
+      "author_alias": "METALx79",
+      "developer_response": {
+        "body": "Thanks for the review! \n\nIn Mad Surgeon: Goblin Hospital, you are the mad surgeon, modifying your Goblin patients as you desire! Cut off their limbs and replace them with a manner of diabolical replacements as you create your ideal, Frankenstein goblin. Hop into the game and start cutting!",
+        "date": 1749013658
+      }
+    },
+    {
+      "id": "902935366230480",
+      "score": 5,
+      "review_title": "Fire🪖",
+      "review_description": "so good",
+      "date": 1762704959,
+      "review_helpful_count": 0,
+      "author_display_name": "ReduceTheRedRush",
+      "author_alias": "ReduceTheRedRush",
+      "developer_response": null
+    },
+    {
+      "id": "854861543732074",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Fun",
+      "date": 1762659165,
+      "review_helpful_count": 0,
+      "author_display_name": "FNAFFAN5125",
+      "author_alias": "FNAFFAN5125",
+      "developer_response": null
+    },
+    {
+      "id": "861688260363784",
+      "score": 5,
+      "review_title": "So fun",
+      "review_description": "Fun",
+      "date": 1762646545,
+      "review_helpful_count": 0,
+      "author_display_name": "chilldude333",
+      "author_alias": "chilldude333",
+      "developer_response": null
+    },
+    {
+      "id": "841205065746941",
+      "score": 5,
+      "review_title": "Cool",
+      "review_description": "Peak game",
+      "date": 1761917409,
+      "review_helpful_count": 0,
+      "author_display_name": "Nuggets2014",
+      "author_alias": "Nuggets2014",
+      "developer_response": null
+    },
+    {
+      "id": "703432246188880",
+      "score": 5,
+      "review_title": "Wwwwww",
+      "review_description": "So fun",
+      "date": 1753189694,
+      "review_helpful_count": 1,
+      "author_display_name": "CEOGrimace",
+      "author_alias": "CEOGrimace",
+      "developer_response": null
+    },
+    {
+      "id": "1013993247590495",
+      "score": 5,
+      "review_title": "This game is so much fun!!",
+      "review_description": "I highly recommend this game it's a lot of fun confusing at first but it's the best 7$ I've spent on a game! :)",
+      "date": 1751229885,
+      "review_helpful_count": 0,
+      "author_display_name": "Sierra13actual",
+      "author_alias": "Sierra13actual",
+      "developer_response": {
+        "body": "Thank you for the review! We’re happy to hear you’re enjoying the game.",
+        "date": 1751252425
+      }
+    },
+    {
+      "id": "914969921688213",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Best game ever",
+      "date": 1761416597,
+      "review_helpful_count": 0,
+      "author_display_name": "Noah1818",
+      "author_alias": "Noah1818",
+      "developer_response": null
+    },
+    {
+      "id": "810803898224528",
+      "score": 5,
+      "review_title": "Awsome",
+      "review_description": "Goated",
+      "date": 1761529956,
+      "review_helpful_count": 0,
+      "author_display_name": "BonQuiQui07",
+      "author_alias": "BonQuiQui07",
+      "developer_response": null
+    },
+    {
+      "id": "601145133092030",
+      "score": 1,
+      "review_title": "Terrible",
+      "review_description": "Really bad! The game would not give the correct height.Gameplay was boring",
+      "date": 1750269613,
+      "review_helpful_count": 1,
+      "author_display_name": "Philip0510",
+      "author_alias": "Philip0510",
+      "developer_response": {
+        "body": "Thank you for the feedback. We're sorry to hear you haven’t been enjoying the game. Do you mean you couldn't reach areas due to your character being too short? We can look into fixing that if it's an issue!",
+        "date": 1750297715
+      }
+    },
+    {
+      "id": "669687289562107",
+      "score": 5,
+      "review_title": "I love this",
+      "review_description": "A very cool,good fun and down right amazing this is good if you want to play a cheap game that’s really fun.",
+      "date": 1748453016,
+      "review_helpful_count": 3,
+      "author_display_name": "master.queef.637611",
+      "author_alias": "master.queef.637611",
+      "developer_response": {
+        "body": "Thanks for the review, we're happy to hear you're enjoying the game!",
+        "date": 1749012664
+      }
+    },
+    {
+      "id": "732510089956784",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "this is my first time playing i'm now learning the basics so yeah",
+      "date": 1759482264,
+      "review_helpful_count": 0,
+      "author_display_name": "toptyler46",
+      "author_alias": "toptyler46",
+      "developer_response": null
+    },
+    {
+      "id": "608277085713430",
+      "score": 4,
+      "review_title": "",
+      "review_description": "I enjoy it , good price hope it updates in the future, think you'd enjoy it 👍👍👍👍👍",
+      "date": 1750389091,
+      "review_helpful_count": 1,
+      "author_display_name": "Tombstone5512",
+      "author_alias": "Tombstone5512",
+      "developer_response": {
+        "body": "Thank you for the review! We’re happy to hear you’re enjoying the game. We're working on future updates, so please stay tuned!",
+        "date": 1750393230
+      }
+    },
+    {
+      "id": "986473133468587",
+      "score": 5,
+      "review_title": "Best $7 I’ve spent",
+      "review_description": "This game is so fun to play. Mixing and matching the goblins parts like Frankenstein is a really cool concept. Great work. 👌",
+      "date": 1745802118,
+      "review_helpful_count": 8,
+      "author_display_name": "LittleAJO",
+      "author_alias": "LittleAJO",
+      "developer_response": {
+        "body": "Thanks for the review and kind words, we're happy to hear you're enjoying the game!",
+        "date": 1749012773
+      }
+    },
+    {
+      "id": "866340816555654",
+      "score": 4,
+      "review_title": "Hm",
+      "review_description": "Yay",
+      "date": 1760234706,
+      "review_helpful_count": 0,
+      "author_display_name": "FakeThugsNoLove",
+      "author_alias": "FakeThugsNoLove",
+      "developer_response": null
+    },
+    {
+      "id": "1129924742577164",
+      "score": 5,
+      "review_title": "Its chaotic",
+      "review_description": "Its really good and chaotic because you can sell all the goblins organs",
+      "date": 1758843146,
+      "review_helpful_count": 0,
+      "author_display_name": "CasemoneyTH21",
+      "author_alias": "CasemoneyTH21",
+      "developer_response": null
+    },
+    {
+      "id": "736134125617181",
+      "score": 5,
+      "review_title": "Good I love it it’s my favorite game",
+      "review_description": "It’s so fun people can talk it’s little bit scary",
+      "date": 1750617311,
+      "review_helpful_count": 0,
+      "author_display_name": "jaxvr1584",
+      "author_alias": "jaxvr1584",
+      "developer_response": {
+        "body": "Thank you for the review! We’re happy to hear you’re enjoying the game.",
+        "date": 1750669055
+      }
+    },
+    {
+      "id": "792268950641753",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "The best purchase i ever made on my quest 3",
+      "date": 1758877196,
+      "review_helpful_count": 0,
+      "author_display_name": "Maverick8619",
+      "author_alias": "Maverick8619",
+      "developer_response": null
+    },
+    {
+      "id": "607623469108528",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "Fun\nThe only way I could do this was if you had to do the whole process and",
+      "date": 1747793524,
+      "review_helpful_count": 3,
+      "author_display_name": "TEC12",
+      "author_alias": "TEC12",
+      "developer_response": {
+        "body": "Thanks for the review, we're happy to hear you're enjoying the game!",
+        "date": 1749012728
+      }
+    },
+    {
+      "id": "657984327397586",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "I’ve been playing this game for a few hours but it is really good",
+      "date": 1747170084,
+      "review_helpful_count": 4,
+      "author_display_name": "CoolGuyMcflurry",
+      "author_alias": "CoolGuyMcflurry",
+      "developer_response": {
+        "body": "Thanks for the review, we're happy to hear you're enjoying the game!",
+        "date": 1749012750
+      }
+    },
+    {
+      "id": "635064316362920",
+      "score": 5,
+      "review_title": "Such a good game it's a masterpiece",
+      "review_description": "Super good for people who love gore games",
+      "date": 1748069343,
+      "review_helpful_count": 3,
+      "author_display_name": "DAVIDBOXEDU8",
+      "author_alias": "DAVIDBOXEDU8",
+      "developer_response": {
+        "body": "Thanks for the review, we're happy to hear you're enjoying the game!",
+        "date": 1749012719
+      }
+    },
+    {
+      "id": "776400738894975",
+      "score": 5,
+      "review_title": "Peak",
+      "review_description": "Its legal in here",
+      "date": 1759111869,
+      "review_helpful_count": 0,
+      "author_display_name": "grimreaper02270",
+      "author_alias": "grimreaper02270",
+      "developer_response": null
+    },
+    {
+      "id": "726884417184523",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "Hvhfhddrdvhdfddd",
+      "date": 1758987253,
+      "review_helpful_count": 0,
+      "author_display_name": "Preston34344",
+      "author_alias": "Preston34344",
+      "developer_response": null
+    },
+    {
+      "id": "1396093454993994",
+      "score": 5,
+      "review_title": "Game is really fun",
+      "review_description": "I like the game it’s fun but i think it’s meant for ￼ psychos if you like Dexter Morgan you will like the game￼ ￼",
+      "date": 1748407270,
+      "review_helpful_count": 1,
+      "author_display_name": "LILxJACKAL",
+      "author_alias": "LILxJACKAL",
+      "developer_response": {
+        "body": "Thanks for the review, we're happy to hear you're enjoying the game! We promise it's meant for everyone ;)",
+        "date": 1749012700
+      }
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T18:27:37Z"
+}

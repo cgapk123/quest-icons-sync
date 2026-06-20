@@ -1,0 +1,53 @@
+{
+  "app_id": "7435011103180126",
+  "package_name": "com.munki.monkey",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Munki",
+  "rating_average": 4.7142857142857,
+  "rating_count": 7,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "383577894671845",
+      "score": 5,
+      "review_title": "My Cousin made this game",
+      "review_description": "It's Good",
+      "date": 1715821869,
+      "review_helpful_count": 2,
+      "author_display_name": "Gus_Lava",
+      "author_alias": "Gus_Lava",
+      "developer_response": null
+    },
+    {
+      "id": "381569611701218",
+      "score": 3,
+      "review_title": "WinterVR",
+      "review_description": "Nobody ever online now but really good game",
+      "date": 1720370987,
+      "review_helpful_count": 0,
+      "author_display_name": "LilVex14",
+      "author_alias": "LilVex14",
+      "developer_response": null
+    },
+    {
+      "id": "299439486361465",
+      "score": 5,
+      "review_title": "A good game",
+      "review_description": "\"monkey noises\" MUNKI",
+      "date": 1698083385,
+      "review_helpful_count": 3,
+      "author_display_name": "EaxI",
+      "author_alias": "EaxI",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T18:23:48Z"
+}

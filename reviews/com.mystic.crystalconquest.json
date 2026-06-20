@@ -1,0 +1,104 @@
+{
+  "app_id": "25080401538211096",
+  "package_name": "com.mystic.crystalconquest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Crystal Conquest",
+  "rating_average": 3.8076923076923,
+  "rating_count": 26,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "928038106634097",
+      "score": 2,
+      "review_title": "Horrible performance",
+      "review_description": "It looks like a good game from the trailer but it runs at 10 FPS and has massive lag spikes just from turning around too fast. I know it is not finished but making having it lag before I can see what is good about a game due to a lack of optimisation for the most important part of a game's player retention, the tutorial, is inexcusable.",
+      "date": 1775569852,
+      "review_helpful_count": 7,
+      "author_display_name": "Littlebigwave",
+      "author_alias": "Littlebigwave",
+      "developer_response": {
+        "body": "Thanks for the feedback. The tutorial area runs at 72 FPS on a Quest 3. The Quest 2 is lower but not literally 10 FPS unless you're seeing a rare bug. Our next patch will have smoother turning and performance improvements with the spell effects. Also we will be making some big performance improvements for the Quest 2 soon after that. We hope to see you back after we've made these improvements. And if you're hitting a bug, feel free to reach out on our Discord and we'll get to the bottom of it",
+        "date": 1776152206
+      }
+    },
+    {
+      "id": "986315601227622",
+      "score": 3,
+      "review_title": "Feels like early stage of  deveopment",
+      "review_description": "I like the ide of the game. It is simple. On quest 2 with v83 there was a lot of lag. It needs better maps, more perks and missing a jump/crouch function. Aiming was ok, have to be precise when shooting. It can go a different way if not carfull. Overall so far easy to play.",
+      "date": 1769518025,
+      "review_helpful_count": 12,
+      "author_display_name": "KwaTeMatra",
+      "author_alias": "KwaTeMatra",
+      "developer_response": {
+        "body": "Heyo, Thank you for the honest feedback! \n\nYou’re right that the game is still in its early stage of development. We're still working on always improving performance and stability on standalone, and we’re actively working on optimizations to improve frame rate and reduce lag across different Quest hardware, especially Quest 2!\n\nWe also appreciate the notes around movement and aiming. We've heard a few reviews like yours, and are going to make things more interaction-based and really aim for more natural/VR movement stuff!\n\nWe’d love for you to join our Discord and share more detailed thoughts — many of our recent updates have come directly from player suggestions like yours!\n\nThanks again for trying Crystal Conquest, and we hope you’ll check back in as we continue improving it!",
+        "date": 1769645271
+      }
+    },
+    {
+      "id": "1110400338817095",
+      "score": 3,
+      "review_title": "Mid",
+      "review_description": "The game it self is good it's just a quality the bugs\n1 game blacks out every 5 seconds\n2 even in pvp, there's still n npc is not real people.",
+      "date": 1775809030,
+      "review_helpful_count": 0,
+      "author_display_name": "lostmango947",
+      "author_alias": "lostmango947",
+      "developer_response": {
+        "body": "Thanks for the honest feedback — we appreciate you taking the time to share and check us out!\n\nWe’re actively working on improving stability and bug fixes in upcoming updates. If you’re able to share more details, so we can fix issues like the black screen. (When it happens, device type, game mode, etc.) In our Discord, that would help us track it down faster.\n\nOn the PvP side, we’re currently focusing on improving matchmaking and getting more players into games together.\n\nReally glad to hear you like the core game though — we’re continuing to build on it and improve the experience. Hope you’ll check back in after a few updates!",
+        "date": 1777779551
+      }
+    },
+    {
+      "id": "1098444553341557",
+      "score": 5,
+      "review_title": "So good",
+      "review_description": "The first few minutes were so good, especially since I like elemental power games.",
+      "date": 1774233072,
+      "review_helpful_count": 4,
+      "author_display_name": "IRL_Sas10",
+      "author_alias": "IRL_Sas10",
+      "developer_response": {
+        "body": "Thank you so much for the review! That really keeps us going! We just added a new character and will continue to update the game!",
+        "date": 1774999425
+      }
+    },
+    {
+      "id": "832780226595837",
+      "score": 3,
+      "review_title": "Good game but...",
+      "review_description": "the game is fun but the enemys are so hard to kill and theres no players playing, And there is only like 5 moves on each element",
+      "date": 1765576771,
+      "review_helpful_count": 26,
+      "author_display_name": "deltaruneFan12250",
+      "author_alias": "deltaruneFan12250",
+      "developer_response": {
+        "body": "Thank you for your thoughtful review!\n\nYou brought up some good points and we are working on them. We are always balancing difficulty and will be focusing more on promotion as time goes on to bring in more players.\n\nAlso, you can unlock two additional moves for each element and there will soon be many more to come!\n\nFeel free to join us on Discord and share any additional feedback you might have.\n\nWe hope to see you back soon!",
+        "date": 1769148780
+      }
+    },
+    {
+      "id": "1035248452995556",
+      "score": 3,
+      "review_title": "weaker enemies !!",
+      "review_description": "please make the enemies easier to defeat even in practice mode. U NEED TO DO THIS or make the uh spells easier \n.",
+      "date": 1769996640,
+      "review_helpful_count": 2,
+      "author_display_name": "invinc12212",
+      "author_alias": "invinc12212",
+      "developer_response": {
+        "body": "Thanks for the honest feedback — this is the kind of input that helps us build Early Access! \n\nWe actually just released an update which directly targets several of the things you mentioned: We tuned enemy difficulty, spell reliability, clearer blocking behavior, stronger NPC allies, and overall combat consistency. We’ve also improved tutorials to help newer players ramp faster, so hopefully that helps!\n\nIf you decide to jump back in, we’d love to hear how the latest patch feels — and if anything still feels off, our Discord is where feedback turns into changes quickest. Appreciate you checking the game out!",
+        "date": 1776658121
+      }
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T18:29:29Z"
+}

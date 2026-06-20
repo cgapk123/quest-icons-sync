@@ -1,0 +1,45 @@
+{
+  "app_id": "8976353619137157",
+  "package_name": "com.mydearest.badbunnybonanza",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Bad Bunny Bonanza",
+  "rating_average": 4.7619047619048,
+  "rating_count": 21,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1045205155333119",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Good",
+      "date": 1771352410,
+      "review_helpful_count": 0,
+      "author_display_name": "vinYeep",
+      "author_alias": "vinYeep",
+      "developer_response": null
+    },
+    {
+      "id": "23909385862036034",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "My kid enjoys it.",
+      "date": 1751122558,
+      "review_helpful_count": 7,
+      "author_display_name": "BuckleBean",
+      "author_alias": "BuckleBean",
+      "developer_response": {
+        "body": "Thank you for the review! We're happy your child is having a great time :)!",
+        "date": 1751510515
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T18:25:37Z"
+}
