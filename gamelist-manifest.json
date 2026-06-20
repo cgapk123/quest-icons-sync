@@ -1,0 +1,24 @@
+{
+  "updated_at_utc": "2026-06-20T17:44:06.559267+00:00",
+  "source": "vrsrc.fyi",
+  "api_url": "https://vrsrc.fyi/api/games",
+  "output_file": "VRP-GameList.txt",
+  "game_count": 2620,
+  "api_total_count": 33549,
+  "content_sha256": "9027e4ef2eb8a9302f07ffc3e0fd360996f194c8c91f16294b66a27e379e586a",
+  "file_size_bytes": 305053,
+  "format": {
+    "delimiter": ";",
+    "columns": [
+      "Game Name",
+      "Release Name",
+      "Package Name",
+      "Version Code",
+      "Last Updated",
+      "Size (MB)",
+      "Downloads",
+      "Rating",
+      "Rating Count"
+    ]
+  }
+}

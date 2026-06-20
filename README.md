@@ -211,3 +211,61 @@ https://raw.githubusercontent.com/cgapk123/quest-icons-sync/main/reviews/com.bea
 - 请控制 `--max-apps` 和 `--meta-min-interval`，避免 Meta 限流
 - [OculusDB API](https://oculusdb.rui2015.me/api/docs) 无评论正文
 
+## VRP 游戏列表同步（sync_gamelist.py）
+
+从 [vrsrc.fyi](https://vrsrc.fyi/) 官方 API 自动同步 `VRP-GameList.txt`，供 Rookie / VRP_download / casting_exe 等程序直接 HTTP 调用。
+
+### 输出
+
+```
+VRP-GameList.txt         # 游戏列表（UTF-8 BOM，分号分隔 CSV）
+gamelist-manifest.json   # 更新时间、条目数、SHA256 等元数据
+```
+
+调用示例：
+
+```
+https://raw.githubusercontent.com/你的用户名/quest-icons-sync-push/main/VRP-GameList.txt
+```
+
+### 本地测试
+
+```bash
+cd quest-icons-sync-push
+
+# 在线拉取并生成
+python sync_gamelist.py --save-cache
+
+# 离线（使用 .cache/vrsrc_api_cache.json）
+python sync_gamelist.py --offline
+```
+
+### GitHub Actions
+
+仓库内已有 `.github/workflows/sync-gamelist.yml`：
+
+| 触发方式 | 说明 |
+|----------|------|
+| `workflow_dispatch` | Actions 页面手动 Run workflow |
+| `cron: 0 6 * * *` | 每天 UTC 06:00 自动检测更新 |
+
+- 从 `https://vrsrc.fyi/api/games` 拉取全量数据
+- 与仓库内现有 `VRP-GameList.txt` 做 SHA256 比对
+- **有变化才 commit + push**，无变化则跳过
+
+### 字段格式
+
+```
+Game Name;Release Name;Package Name;Version Code;Last Updated;Size (MB);Downloads;Rating;Rating Count
+```
+
+| 列 | 来源 |
+|----|------|
+| Game Name | `friendlyname` / `gamename` |
+| Release Name | `releasename` |
+| Package Name | `packagename` |
+| Version Code | `versioncode` |
+| Last Updated | `releasedutc` |
+| Size (MB) | `sizebytes` 转 MB |
+| Downloads / Rating / Rating Count | `0`（vrsrc API 不提供镜像侧统计） |
+
