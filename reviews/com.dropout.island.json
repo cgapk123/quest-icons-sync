@@ -1,0 +1,779 @@
+{
+  "app_id": "8387152738076399",
+  "package_name": "com.dropout.island",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Banners & Bastions",
+  "rating_average": 4.8008658008658,
+  "rating_count": 231,
+  "review_count": 67,
+  "reviews": [
+    {
+      "id": "1022840823595811",
+      "score": 5,
+      "review_title": "Highly recommended",
+      "review_description": "A Very addictive strategy game. Great fun defending\nyour kingdom.  Hand tracking at its best. A must for vr players of all ages. Beware to become engrossed. I am top of the leaderboard but I'm stuck on a level.very very difficult if not impossible, so I stay defeated.",
+      "date": 1780987366,
+      "review_helpful_count": 1,
+      "author_display_name": "suepenny",
+      "author_alias": "suepenny",
+      "developer_response": null
+    },
+    {
+      "id": "1087632314425769",
+      "score": 5,
+      "review_title": "Good North",
+      "review_description": "I was a bit but off by this initially because I thought it looked a lot like a great game called Bad North, but I saw people saying it was turn-based, and I felt that wouldn't work.\nI'm glad I tried it anyway, because it is real time and not turn-based. It is a whole lot like Bad North, but on a bigger scale, which I'm glad of!\nThis game is a lot of fun and a great quality game! The diorama style works perfectly for VR, and the use of hand-tracking works really well! Occasionally it doesn't know who you're grabbing but for tbe most part it works smoothly!\nI like the variety of units and enemies, the different settings and such, the upgrades, the heroes, the card approach, the towers...\n\nNow it isn't exactly a tower defense game but it is a defensive strategy game.\n\nYet it is still lacking in some regards, as there are frustrating difficulty spikes. On the 2nd chapter there's one level that I cannot get 3 stars on however much I level up and it's midway through the chapter.\nSometimes the levels are so widespread that it is hard to form chokepoints and get a good strategy.\nUnits like the spearmen are a bit inconsistent with how they keep enemies at bay and they are very easily steamrolled at times even when you wouldn't expect them to be. There is a bit of a height advantage but not a massive one, especially if you set your troops up at the tol of a hill, and then the enemy unexpectedly circumvents you.\nThe card system is cool but you don't really get enough points each round to spend them well.\nThe barricades are pointless to purchase because it's more productive to spend those precious points on units. The barricades need to be worth 1 point and allow you to get more than 1 card each round. \nThe farms are a cool idea to get more points each round but they are far too expensive. They should be 2 or 3 points each instead of 5.\nThe Knight and Ranger units are awesome, but they make the earlier units useless when you have access to them. Reinforcements are a cool addition, even though they're wild. Great how you can add some shields to them!\n\nThe powers of fireballs and a volley of arrows are really good! And how they look is so cool! The heroes themselves add a great unique dynamic. Each with their own strengths and weaknesses and their personal powers. Even though I still don't know what the warrior's Rally cry actually does. That's something that needs a description.\nBut also cool how they get stronger as each wave comes!\nSorry. I don't have discord and wanted to get my suggestions out somehow. Ha.\n\nThis is a brilliant game. Just needs some of those balances round the edges to truly shine! Such a cool and impressive game, something you can play anywhere! Please keep making more and keep working at it! This is the innovative games that VR should be about!",
+      "date": 1774693491,
+      "review_helpful_count": 11,
+      "author_display_name": "H_Bomb_MB",
+      "author_alias": "H_Bomb_MB",
+      "developer_response": {
+        "body": "Thank you for this wonderful in-depth review & feedback! Lots of great notes here. Just to quickly answer your question regarding the warrior hero's \"Rally Cry\" skill, it gives allied troops a damage boost if they are inside the affected area! Though I agree it's not super obvious right now, so we'll try to improve it with future updates. Cheers!",
+        "date": 1775767051
+      }
+    },
+    {
+      "id": "980129018332698",
+      "score": 5,
+      "review_title": "4 and 1/2 stars",
+      "review_description": "Sooo fun!! BUT upgrades run out quick. That sucks but love the game.",
+      "date": 1780287624,
+      "review_helpful_count": 2,
+      "author_display_name": "Alschu",
+      "author_alias": "Alschu",
+      "developer_response": null
+    },
+    {
+      "id": "1677041910135309",
+      "score": 4,
+      "review_title": "The first 100 stars are fun",
+      "review_description": "Really good tower defense.  Seems it doesn't have an end.  Funny to say a game is too long (?).  After doing the whole upgrade thing,  it gets repetitive.   How many worlds is there to finish the game ?  I see people with like 400 stars.  That mean there is at least another 100 battles.  I love finishing games,  Is there an end ?",
+      "date": 1775764075,
+      "review_helpful_count": 0,
+      "author_display_name": "CoolRib_",
+      "author_alias": "CoolRib_",
+      "developer_response": {
+        "body": "Thank you! That's correct - currently the campaign does not have an end; it is endless. We'd love to add a finite campaign too, but it first requires creating a bit more unique content (e.g. more bosses, more enemies, etc). Stay tuned for updates in the future! :D",
+        "date": 1775766750
+      }
+    },
+    {
+      "id": "1026049390588879",
+      "score": 5,
+      "review_title": "Very Good TDG!",
+      "review_description": "Been playing this game a lot. Love the graphicis. Worth the price and easily kills boredom. Very high quality. So far I've had no glitches. Only improvement I would make is adding the ability to tilt it (flip it towards me) so when I'm lying on my back, I could play it more easily. But awesome game indeed!",
+      "date": 1772989180,
+      "review_helpful_count": 4,
+      "author_display_name": "Vamperion750",
+      "author_alias": "Vamperion750",
+      "developer_response": {
+        "body": "A way to tilt the tabletop is indeed a pretty good idea. Thanks! :)",
+        "date": 1775767223
+      }
+    },
+    {
+      "id": "1301756452099439",
+      "score": 5,
+      "review_title": "This is what I have been looking for !!!",
+      "review_description": "Perfect 🥰🤗😉, I hope it is like super nes POPULOUS and levels forever !!!",
+      "date": 1777938016,
+      "review_helpful_count": 2,
+      "author_display_name": "MajorDubage",
+      "author_alias": "MajorDubage",
+      "developer_response": null
+    },
+    {
+      "id": "1036393956232352",
+      "score": 5,
+      "review_title": "GG",
+      "review_description": "Great game recommend to all",
+      "date": 1777854329,
+      "review_helpful_count": 1,
+      "author_display_name": "MiniAraugi",
+      "author_alias": "MiniAraugi",
+      "developer_response": null
+    },
+    {
+      "id": "1685573509560098",
+      "score": 5,
+      "review_title": "Bad North for VR",
+      "review_description": "I just started this game and couldn't help but draw direct comparisons to a game I loved on PC called Bad North. I didn't really expect much but am blown away by the game play and how intuitive the controls are. The graphics are super cute and I love the little dance your soldiers do after a successful campaign! This is my first VR tower defense game ive played and am very pleasantly impressed.",
+      "date": 1778816912,
+      "review_helpful_count": 2,
+      "author_display_name": "Opwinner",
+      "author_alias": "Opwinner",
+      "developer_response": null
+    },
+    {
+      "id": "1250876617238170",
+      "score": 5,
+      "review_title": "Really fun",
+      "review_description": "i'm really impressed how this game is so well done, i'm just starting but i can't wait to show my wife.\nWell done guys",
+      "date": 1773516367,
+      "review_helpful_count": 2,
+      "author_display_name": "helladarion",
+      "author_alias": "helladarion",
+      "developer_response": null
+    },
+    {
+      "id": "973605805203101",
+      "score": 5,
+      "review_title": "one of my favorite games right now!",
+      "review_description": "10 out of 10 game would recommend, i love real time strategy games",
+      "date": 1772387927,
+      "review_helpful_count": 3,
+      "author_display_name": "Ctm2021",
+      "author_alias": "Ctm2021",
+      "developer_response": null
+    },
+    {
+      "id": "1006245118740470",
+      "score": 5,
+      "review_title": "I love the game",
+      "review_description": "It's really fun to play, has a nostalgia about it.\n\nLove the upgrades and rewards systems etc. \n\nI do have one issue.. There does not seem to be any height setting? The map is at eye level for me and that's uncomfortable.\nI'm not willing to stand and play such a small bubble of a map, would be better in seated play.",
+      "date": 1778826873,
+      "review_helpful_count": 1,
+      "author_display_name": "Stalker001122",
+      "author_alias": "Stalker001122",
+      "developer_response": {
+        "body": "Thank you, glad you're having fun! Good news: you can absolutely adjust the tabletop and position it wherever you'd like! When you're in the main menu, or during preparation phase (not during battle), you can pinch & drag the dashed line that shows up around the base of the tabletop to move it anywhere! Give it a try. If you'd like, you can also join our Discord and I'll send you a screenshot/video of how to do it! Cheers!\nhttps://www.notsuspicious.biz/discord",
+        "date": 1778854974
+      }
+    },
+    {
+      "id": "976285268905962",
+      "score": 5,
+      "review_title": "Amazing buy this game",
+      "review_description": "Looks very good is very fun and strategic in a way. Kind of reminds me of tabs. If I don’t have anything that I would want more from this game is maybe some more cards but still 10 out of 10 love the game.￼￼",
+      "date": 1769820240,
+      "review_helpful_count": 3,
+      "author_display_name": "MikeTheGreat.XD",
+      "author_alias": "MikeTheGreat.XD",
+      "developer_response": null
+    },
+    {
+      "id": "917748274499578",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Great game",
+      "date": 1774736294,
+      "review_helpful_count": 1,
+      "author_display_name": "Nerfuser1",
+      "author_alias": "Nerfuser1",
+      "developer_response": null
+    },
+    {
+      "id": "870885716115950",
+      "score": 5,
+      "review_title": "Love it, although…",
+      "review_description": "I love the game, the graphics, music and concept…\nBut, one thing I would love to see would be a sort of multiplayer (Coop or maybe even Versus).\nOr an endless mode, with a bigger map and harder and harder waves.\nAfter all, the game is awesome and I would love to see more content getting added later on… ❤️",
+      "date": 1766519611,
+      "review_helpful_count": 6,
+      "author_display_name": "The__German__Guy",
+      "author_alias": "The__German__Guy",
+      "developer_response": null
+    },
+    {
+      "id": "1168318531955229",
+      "score": 5,
+      "review_title": "Kingdom Rush? No",
+      "review_description": "But an awesome tower defense title non the less!\nCute, effective and sharp graphics m/presentation.\n\nEasy to understand but interesting gameplay. \n\nA wonderful handtracked war game!\n\nThe new dragon boss is a great addition, keep up the good work\n\nUpdate! Love the new Heroes and Bestiary.\nThat said, I hope you guys add the Skeleton to the bestiary.",
+      "date": 1765848316,
+      "review_helpful_count": 7,
+      "author_display_name": "Qipper",
+      "author_alias": "Qipper",
+      "developer_response": null
+    },
+    {
+      "id": "850694808136671",
+      "score": 5,
+      "review_title": "Adorable Deadly Dioramas",
+      "review_description": "Even though I was playing in MR, the outside world ceased to exist and I got sucked in.  The only clue that many hours had passed was when the low battery warning came on the headset.  Handtracking is excellent too.  Leave your controllers on the shelf and enjoy!",
+      "date": 1765948205,
+      "review_helpful_count": 5,
+      "author_display_name": "RadiantTapir7510",
+      "author_alias": "RadiantTapir7510",
+      "developer_response": null
+    },
+    {
+      "id": "1096600793544209",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "this game is awesome the game play is great you just can't get enough of this game",
+      "date": 1780257423,
+      "review_helpful_count": 1,
+      "author_display_name": "Mikeseesall",
+      "author_alias": "Mikeseesall",
+      "developer_response": null
+    },
+    {
+      "id": "1330366979185040",
+      "score": 5,
+      "review_title": "simple and fun",
+      "review_description": "i like it :)",
+      "date": 1780942318,
+      "review_helpful_count": 1,
+      "author_display_name": "jakey1970",
+      "author_alias": "jakey1970",
+      "developer_response": null
+    },
+    {
+      "id": "1428360285763276",
+      "score": 5,
+      "review_title": "I love it play until my oculus is dead",
+      "review_description": "For sit and play its great",
+      "date": 1778755688,
+      "review_helpful_count": 2,
+      "author_display_name": "HUBBDADDY7559",
+      "author_alias": "HUBBDADDY7559",
+      "developer_response": null
+    },
+    {
+      "id": "916950768163347",
+      "score": 4,
+      "review_title": "A nice little surprise",
+      "review_description": "I'm not generally one for turn based strategy but wanted to check this out as it is from the same people behind airspace defender.\n\nIt's surprisingly fun and challenging, with a simple, clean look and interface. Everything works well and there's something charming about the retro feel to this game.\n\nThere's nothing negative to say really. It could maybe do with some minor refinement like more varied sound effects which I assume will be handled as it is still in development but I do wish the devs would include the ability to resize the dome and not just move it. \n\nAll in all it's a fun little game which is already very polished and will definitely appeal to strategy enthusiasts and even gamers like me just looking for something a little different.",
+      "date": 1764171123,
+      "review_helpful_count": 3,
+      "author_display_name": "Krykoyd",
+      "author_alias": "Krykoyd",
+      "developer_response": {
+        "body": "Thank you! Yep, more refinement and new features are on the way - stay tuned! Resizing the dome is definitely a common request. We'll try to include that in a future update. Cheers!",
+        "date": 1764321180
+      }
+    },
+    {
+      "id": "1043749538832360",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Good",
+      "date": 1778981353,
+      "review_helpful_count": 1,
+      "author_display_name": "suwo1918",
+      "author_alias": "suwo1918",
+      "developer_response": null
+    },
+    {
+      "id": "900359123167504",
+      "score": 3,
+      "review_title": "Sadly far from Perfect",
+      "review_description": "This game is clearly unbalanced. Success in most levels feels almost entirely random, depending on the cards you’re offered. The difficulty spikes too quickly, and the whole experience becomes frustrating because it never feels like skill matters—only luck. It’s a shame, because there’s a lot of wasted potential here.",
+      "date": 1765137502,
+      "review_helpful_count": 1,
+      "author_display_name": "Roman.Sik",
+      "author_alias": "Roman.Sik",
+      "developer_response": {
+        "body": "Hey Roman! Sorry to hear you've had a frustrating experience, that sucks! Please join our Discord and let us know which enemies you're struggling with, so we can help you out with some tips. :) Success in battle shouldn't feel random... your skill actually plays a significant role. Don't forget to invest in upgrades as you complete levels, so you can keep up with the escalating difficulty. You can also re-do your upgrades at any time to try different strategies. Let us know how it goes! www.notsuspicious.biz/discord",
+        "date": 1765651475
+      }
+    },
+    {
+      "id": "815667408306863",
+      "score": 4,
+      "review_title": "I really like it!",
+      "review_description": "It's my first tower defense genre experience and it looks amazing in VR, the only problem is upgrades tree, after getting 106 stars you are done with upgrades and you don't feel progression after all, I hope you guys will add more cool stuff in future😇",
+      "date": 1764146388,
+      "review_helpful_count": 1,
+      "author_display_name": "Delikatesla",
+      "author_alias": "Delikatesla",
+      "developer_response": {
+        "body": "Thanks! More content is on the way, stay tuned for updates! :)",
+        "date": 1764162285
+      }
+    },
+    {
+      "id": "885111464050065",
+      "score": 5,
+      "review_title": "this game is just the best",
+      "review_description": "this game is just the best i like everything about it",
+      "date": 1766878907,
+      "review_helpful_count": 1,
+      "author_display_name": "CJ081831",
+      "author_alias": "CJ081831",
+      "developer_response": null
+    },
+    {
+      "id": "763357273529320",
+      "score": 5,
+      "review_title": "A MUST HAVE FOR STRATEGY ENTHUSIASTS!",
+      "review_description": "I feel like a God of War towering over the kingdom  and literally leading the army to victory with just the tips of my fingers! The magic abilities are epic and it’s intriguing learning which unit is affective / non affective against certain enemy troops. If you enjoyed Airspace Defender, you’re definitely going to like this as well. Highly recommend! 🙌",
+      "date": 1756410987,
+      "review_helpful_count": 22,
+      "author_display_name": "TheAwkwardTwinkieVR.2025",
+      "author_alias": "TheAwkwardTwinkieVR.2025",
+      "developer_response": null
+    },
+    {
+      "id": "821464837078375",
+      "score": 5,
+      "review_title": "Great strategy game",
+      "review_description": "There is a lot to love about this game and I wish there were more like it in VR. It is a fun & polished game that fans of strategy and tower defence games will like. \n\nI love the art style, the game mechanics and the sound design. The hand tracking works brilliantly and overall it is a great experience. \n\nI would like to see more variety in units/cards, enemy types and level design. The levels and gameplay can get a bit ‘samey’ after you have been playing for a while. It would be nice to get some different biomes for purely aesthetic reasons also. I hope that in future updates this might be addressed.",
+      "date": 1759348326,
+      "review_helpful_count": 4,
+      "author_display_name": "B-Man88",
+      "author_alias": "B-Man88",
+      "developer_response": null
+    },
+    {
+      "id": "662042616925598",
+      "score": 5,
+      "review_title": "Don't think, just grab it!",
+      "review_description": "Hey, did you play Bad North? Did you like it? Want to play it in VR, then this is for you!\nDidn't play Bad North but like strategy games in VR, then this for you!\nEither way this is well worth grabbing and having in your collection, so easy to keep going back to and having hours disappear! I love it!",
+      "date": 1757572131,
+      "review_helpful_count": 9,
+      "author_display_name": "Chilled41",
+      "author_alias": "Chilled41",
+      "developer_response": null
+    },
+    {
+      "id": "1343444127790273",
+      "score": 5,
+      "review_title": "Get comfy, prepare to lose a few hours",
+      "review_description": "I didn't think I would get wrapped up in this game because mixed reality and hand tracking games usually mean frustration for me, but Banners and Bastions bucks that trend. The hand tracking works really well with a mere 40 watt bulb over my head while I curl up in my rocking chair. The levels are fun and not every attempt is easy, but if you fail, take heart, maybe the cards and enemies will go your way the next time. No two attempts have been the same. It has that roguelike addiction that makes you say \"just one more level and then I'll quit for the day\" and before you know it, hours have sped by. 5/5 for me. I'm not sure why this game is early access. It's a gem!",
+      "date": 1756665079,
+      "review_helpful_count": 11,
+      "author_display_name": "Phaenomenal",
+      "author_alias": "Phaenomenal",
+      "developer_response": null
+    },
+    {
+      "id": "4284000138523808",
+      "score": 5,
+      "review_title": "Brilliantly addictive",
+      "review_description": "I can't put it down. There are a lot of levels so this is hours of game play. I struggled a  bit at first to get the tactics right, but then everything clicked and I am now getting through levels and collecting those stars!\n\nThe balance is great. Each type of troop has it own strengths and weaknesses and you soon learn how to best combine them to get the best outcome.\n\nThere have been a couple of frustrating moments when the hand tracking has been off (even in a bright room) which meant I couldn't pick up the banner to move my troops, but I understand that the ability to use controllers is coming soon.\n\nThis is an easy recommendation, just get it and say goodbye to hours and hours - great value!",
+      "date": 1758992702,
+      "review_helpful_count": 3,
+      "author_display_name": "Stellarat",
+      "author_alias": "Stellarat",
+      "developer_response": null
+    },
+    {
+      "id": "825621983226901",
+      "score": 5,
+      "review_title": "Kingdom Rush meets Bad North",
+      "review_description": "This game is absolutely taking influence from both games and I am all here for it. With the blend of pre-planning, reinforce, firestorm, and skill tree from kingdom rush with the soldier groups, real-time action, and art style of Bad North. This game somehow feels like a sequel to both, and anyone who has played either would greatly enjoy this game, the difficulty curve feels just right (to me). And this is only the surface of the gameplay, not even mentioning the impeccable sound design. I haven't played it too much but I can already tell I'm in love. 20/10 would pay double for something of this quality. The 4.9 stars do not lie.\nP.S. The trailer kind of makes it seem like more of a rougelite than it actually is.",
+      "date": 1758143752,
+      "review_helpful_count": 4,
+      "author_display_name": "Toast__64",
+      "author_alias": "Toast__64",
+      "developer_response": null
+    },
+    {
+      "id": "1285259803075919",
+      "score": 5,
+      "review_title": "Tremendous game!!!",
+      "review_description": "Exactly what i was looking for! The first turnbased style strategy game in mixed reality.\nIts relaxing, but still tensing! Difficult and extremely addictive! Also easy to quickly pick up a game.\nIt reminds me of Advance Wars.\nJust really good and fitting this platform.\nI hope to see more of this style strategy game.\nDouble recommend this for your Quest 3 library!\nDon't even doubt to pick it up! It's fantastic!!!",
+      "date": 1759134380,
+      "review_helpful_count": 2,
+      "author_display_name": "RobtheRobbert",
+      "author_alias": "RobtheRobbert",
+      "developer_response": null
+    },
+    {
+      "id": "1113233280986466",
+      "score": 5,
+      "review_title": "What a great game!",
+      "review_description": "Love the gfx style… the gameplay is a tactical strategy game, but also like a tower defence.\nBetween each round, you use coins to buy cards/units, which you then place on the map surrounding your castle and village buildings, with the aim of defending them against the oncoming enemy onslaught!\n\nIt shows you the entry points for enemies on the map, and the routes they will take.. so you know where to plan and place your units. Then you click start, to watch the action play out in realtime, and you are also able to move units around the map to reinforce areas.\n\nYou have some powers at your disposal too, to use such as reinforcements and fireballs ect..\n\nUnit types have upgrade trees too, which you use coins from advancing, to buy the upgrades for each unit as you choose.\n\nYou can play in MR and also VR and you are able to position the playing areas height and position by holding on the dashed line around the outside of the playing area.\n\nIt’s one of them “must have one more go” kind of games.\n\nIf you like RTS or tower defense… then this is a must have.",
+      "date": 1757177388,
+      "review_helpful_count": 6,
+      "author_display_name": "Bloodangel1068",
+      "author_alias": "Bloodangel1068",
+      "developer_response": null
+    },
+    {
+      "id": "752290264636974",
+      "score": 5,
+      "review_title": "A must-have VR/MR experience!",
+      "review_description": "Banners & Bastions is one of the best mixed reality strategy games I’ve played on Quest. Addictive gameplay, smooth mechanics, and a great skill tree system make it incredibly fun and rewarding.\n\nHuge potential for the future with new biomes, units, and powers. An absolute must-have in your library.\n\n🙏 Thanks to the developers for this amazing game!",
+      "date": 1756424696,
+      "review_helpful_count": 10,
+      "author_display_name": "darkstan",
+      "author_alias": "darkstan",
+      "developer_response": null
+    },
+    {
+      "id": "848253071696217",
+      "score": 5,
+      "review_title": "A Modern Classic in VR Strategy!",
+      "review_description": "I’m usually not a fan of hand tracking, but when it’s done well and truly adds a new dimension to gameplay, it can be a game-changer. Banners & Bastions achieves exactly that. It perfectly blends nostalgia with innovation, reminding me of classics like Lemmings and Advance Wars, yet confidently standing on its own with smart twists and a modern VR approach.\n\nThe visuals are crisp, the animations are charming and fun to watch, and the progression feels smooth — levels are well balanced to gradually increase challenge without ever feeling unfair. On top of that, the studio’s commitment to quality is obvious: this isn’t a rushed release, but a highly polished experience designed to make players happy and engaged for hours.\n\nIf you enjoy clever strategy, creative gameplay, and a title that shows what VR hand tracking can really achieve, Banners & Bastions is a must-play. Highly recommended!",
+      "date": 1758179256,
+      "review_helpful_count": 2,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": null
+    },
+    {
+      "id": "24867590012866686",
+      "score": 4,
+      "review_title": "Easy to learn, hard to master RTS in VR",
+      "review_description": "A mix of tower defense and RTS which is a genre we don't see much of in VR. The mixed reality view makes it feel like playing a tabletop game that has come to life. The goal of the game is to defend your home base by deploying small groups of units such as soldiers, archers, pikemen etc. \n\nYou can also build defensive structures such as watch towers, walls to block pathways and vines to slow enemy movement. This RTS works well in VR and is paced well for the control method, for instance when you pick up and move a unit the game will go into slow-mo, so you have time to accurately position your troops without worrying about the Quest3's finger tracking. \nUnits can be moved anywhere and will attack when enemies are in range so you don't need to constantly give orders and can simply focus on positioning. \n\nCons are the finger tracking can be janky at times and there's also no controller support (yet). Performance can also dip when there's many units on screen. Fortunately you can use QGO to reduce the refresh rate and resolution. \n\nIt's also one of the best value games I've seen considering you can easily sink hours into this game for such a small price.",
+      "date": 1757920099,
+      "review_helpful_count": 2,
+      "author_display_name": "Verociity",
+      "author_alias": "Verociity",
+      "developer_response": {
+        "body": "Thank you for this excellent review! I'm happy to report that controller support is coming in the next update. 🔥 Performance should also get better over time, as we keep optimizing things. Stay tuned! Cheers!",
+        "date": 1758288907
+      }
+    },
+    {
+      "id": "780608358044085",
+      "score": 5,
+      "review_title": "part RTS, part tower defence, all fun",
+      "review_description": "I'm a sucker for diorama games, and this is a really fun one.  Not gonna lie - seeing hordes of little dudes is just kind of adorable.  The goal is to defend your castle and two houses, each of which earns you a star at the end of the battle, though if your castle falls, it's game over, man.  (Game over!)  The upgrades range from things like making your folks walk a bit faster to impressively beefing up your fireball attack and increasing the size of your squads.  They've hinted that there's at least one more upgrade on the way, and I'm guessing they'll think of a couple more besides.  After all, those slots on the upgrade board won't fill themselves!  There's no story other than what you give it.  My headcanon is that I'm a warror-mage directing the troops, calling in the reserve forces, and launching the occasional firestorm.",
+      "date": 1756570007,
+      "review_helpful_count": 4,
+      "author_display_name": "Archangel_01",
+      "author_alias": "Archangel_01",
+      "developer_response": null
+    },
+    {
+      "id": "804628622235832",
+      "score": 5,
+      "review_title": "Bad North VR?!",
+      "review_description": "When I first got the Quest 3 yrs ago, I was thinking of all the games that would work well in VR and one of the first games that came to mind was Bad North, they def put their own spin on it and it’s fantastic, hopefully it’s not a one and done and they add more content 👍",
+      "date": 1757134588,
+      "review_helpful_count": 3,
+      "author_display_name": "RyN7o2",
+      "author_alias": "RyN7o2",
+      "developer_response": null
+    },
+    {
+      "id": "799477599235940",
+      "score": 4,
+      "review_title": "Love this game , but…",
+      "review_description": "So this is my first twr defense game and I think I made the right choice .  I love that it’s mixed reality. The hand track works really well. I would like to see more vibrant color  it looks really drab , more cards as in units would be nice. Also I can’t seem to find an exit from a battle . When I try and play some levels I have received 2 stars . Well if one of the  buildings blow and I still have 3 rounds why can’t I start over or exit ?? I find it annoying I have to play the level out and get nothing . That one has really bothered me  trying to get these last stars on some of the harder levels .",
+      "date": 1758244855,
+      "review_helpful_count": 1,
+      "author_display_name": "smokethief",
+      "author_alias": "smokethief",
+      "developer_response": {
+        "body": "Thank you! Glad you're having fun! More cards and units are coming, stay tuned for updates! 🫡 To exit or restart a battle, you can use the left hand system pinch (i.e. have the palm of your left hand facing you, then pinch when you see the \"menu\" icon show up). This will bring up the pause menu, just like in Airspace Defender! :) As for the colors looking \"drab\", I think I know what you're referring to. Even though the artstyle for this game is intentionally desaturated, I actually don't think that's the issue. The issue you're alluding to is probably a lack of HDR. In Airspace Defender, we employed HDR, bloom and other tricks to make the game assets feel \"grounded\" in the real world. That's why that game has deep contrasts, true blacks, visually striking explosions, and so on. But that consumed a lot of our performance budget. For B&B, we went with a different set of trade-offs: we allocated more of the performance budget to other things. That said, we might still try HDR in the future, to make the tabletop feel less like a \"fake\" virtual object, and more like a \"realistic\" toy that belongs in the real world, if that makes sense. Thanks for the great feedback. Cheers!",
+        "date": 1758288315
+      }
+    },
+    {
+      "id": "32337433132522805",
+      "score": 5,
+      "review_title": "Fun and well executed",
+      "review_description": "Both from an interaction and gameplay perspective this game ia auper well executed. Not Suspicious really figured out how to translate mobile gameplay gameplay to MR in a way that feels native to the medium. Highly recommended!",
+      "date": 1756563505,
+      "review_helpful_count": 4,
+      "author_display_name": "tovanbo",
+      "author_alias": "tovanbo",
+      "developer_response": null
+    },
+    {
+      "id": "752642921009634",
+      "score": 2,
+      "review_title": "Absurd Difficulty Spike Just After 2 Hrs",
+      "review_description": "If you're a casual gamer like me, I'd skip this one. It tricks you into thinking it's something it's not. I was really enjoying this game. Then I hit a level that I've wiped on about 20 times. I cannot see a way to beat it. I end up with a few archers or a tower on its last legs or a couple patches of thorns as the board fills with enemies around the last wave. This is in stark contrast to every level before this one. I'm genuinely not sure if this is some high effort trolling on the part of the developers. On my last attempt, three birds killed my 9 archers. Like, how does that even make sense? What are these birds? I laughed and gave up. Like I said, this must be some elaborate joke on the part of the developers. It's so unbalanced. I'd return it and move on, but as I said, I was just over the 2 hour window. So a warning to others like me is the next best option. But hey, if you know how to play these games, you'll probably dig it.",
+      "date": 1756533121,
+      "review_helpful_count": 2,
+      "author_display_name": "BongHits420x69",
+      "author_alias": "BongHits420x69",
+      "developer_response": {
+        "body": "Thanks for the feedback! We definitely want the difficulty curve to be approachable for casual players, so if that isn't the case right now, you can expect some tweaks to the curve with future updates. The levels are procedurally generated, so there can be edge cases we haven't seen yet. If you could share more details about the level you got stuck on, that would be helpful. :) Thank you! As for how to deal with the ravens: try deploying melee reinforcements to lure the ravens while the archers attack from behind! 🔥",
+        "date": 1756569155
+      }
+    },
+    {
+      "id": "755220851017509",
+      "score": 5,
+      "review_title": "It’s magnificent",
+      "review_description": "The hand tracking is spot on and the gameplay is so much fun. And the hidden bonus is how little memory space is required.",
+      "date": 1760733232,
+      "review_helpful_count": 1,
+      "author_display_name": "The_Homel4nder",
+      "author_alias": "The_Homel4nder",
+      "developer_response": null
+    },
+    {
+      "id": "1370458267833934",
+      "score": 5,
+      "review_title": "Excellent strategy game",
+      "review_description": "5-stars. This game is super addicting, fun, and challenging.\n\nI hope they expand in the future, but for the price tag, it was an excellent buy.",
+      "date": 1760288831,
+      "review_helpful_count": 1,
+      "author_display_name": "ZeusWillis",
+      "author_alias": "ZeusWillis",
+      "developer_response": null
+    },
+    {
+      "id": "820289134508913",
+      "score": 5,
+      "review_title": "goat",
+      "review_description": "goat",
+      "date": 1761357875,
+      "review_helpful_count": 1,
+      "author_display_name": "D3ni",
+      "author_alias": "D3ni",
+      "developer_response": null
+    },
+    {
+      "id": "744314542106695",
+      "score": 5,
+      "review_title": "Like a tiny kingdom in your room 😃",
+      "review_description": "It's been pretty fun to take it up from time to time and progress through the game, yet I've not seen all it has to give, so looking forward to finding out!",
+      "date": 1758468524,
+      "review_helpful_count": 1,
+      "author_display_name": "goldtester",
+      "author_alias": "goldtester",
+      "developer_response": null
+    },
+    {
+      "id": "3155086697973386",
+      "score": 5,
+      "review_title": "Brilliant",
+      "review_description": "super fun strategy game with a simple but beautiful graphical style.  this is one of my top mixed reality games so far.",
+      "date": 1757357386,
+      "review_helpful_count": 2,
+      "author_display_name": "Beacon84",
+      "author_alias": "Beacon84",
+      "developer_response": null
+    },
+    {
+      "id": "812136098642996",
+      "score": 4,
+      "review_title": "Exceptional, but not perfect yet.",
+      "review_description": "Love the game and controls, but let us resize the world and make battleground bigger. Scale is what this game would benefit the most since it's a strategy. Has the potential of being the very first one!",
+      "date": 1757139485,
+      "review_helpful_count": 1,
+      "author_display_name": "Alex900802",
+      "author_alias": "Alex900802",
+      "developer_response": {
+        "body": "Resizing the tabletop is indeed a highly requested feature. We'll try to add it with future updates. 🫡 Stay tuned! Cheers!",
+        "date": 1758289627
+      }
+    },
+    {
+      "id": "1793379462055565",
+      "score": 5,
+      "review_title": "Great game,Great touch control.",
+      "review_description": "Fantastic love this so much .Mixed reality works great. The touch system is first class 👏.  Great work, Devs.",
+      "date": 1756796934,
+      "review_helpful_count": 2,
+      "author_display_name": "Bintryin",
+      "author_alias": "Bintryin",
+      "developer_response": null
+    },
+    {
+      "id": "799888409883846",
+      "score": 5,
+      "review_title": "Fun fun fun!",
+      "review_description": "What a cool game, not to mention probably the best hand track of any game I have played on Quest 3 so far.\nThis game reminds me a little bit of Mushroom Wars for PS3 that I used to own. \nHighly recommend. We definitely need more games like this in VR",
+      "date": 1764072987,
+      "review_helpful_count": 1,
+      "author_display_name": "BezTozsamosci85",
+      "author_alias": "BezTozsamosci85",
+      "developer_response": null
+    },
+    {
+      "id": "708350712370607",
+      "score": 5,
+      "review_title": "Such an addictive fun game",
+      "review_description": "Love playing strategy games and this one is both light and fun. I play it in quick sessions and it rewarding everytime.",
+      "date": 1756440255,
+      "review_helpful_count": 2,
+      "author_display_name": "Majed6",
+      "author_alias": "Majed6",
+      "developer_response": null
+    },
+    {
+      "id": "808551915667622",
+      "score": 5,
+      "review_title": "I LOVE THIS GAME",
+      "review_description": "I just loved this mixed reality game. If the battery lasted, I could play it for hours and hours. The graphics are amazing. It's definitely worth it ❤️",
+      "date": 1757406900,
+      "review_helpful_count": 1,
+      "author_display_name": "agata.192360",
+      "author_alias": "agata.192360",
+      "developer_response": null
+    },
+    {
+      "id": "812463344760333",
+      "score": 5,
+      "review_title": "Best Chill Tabletop XR Game",
+      "review_description": "Reviewish Video: https://youtu.be/U5ylk8H34jE",
+      "date": 1756852165,
+      "review_helpful_count": 1,
+      "author_display_name": "JJBonta",
+      "author_alias": "JJBonta",
+      "developer_response": null
+    },
+    {
+      "id": "1162461269036128",
+      "score": 5,
+      "review_title": "A hidden gem",
+      "review_description": "I can't believe this game hasn't received more attention. What a great mixed reality tower defense game. The game is very easy to learn with just the right amount of difficulty. This game has a variety of different strategies you can go with with different power ups for troops and abilities. I love how the game allows you to command your troops during the battle, it really adds a lot of strategy to game. During my first play session I killed my Bobo external battery and my quest battery. I can't recommend this game enough, it's really fun.",
+      "date": 1758083632,
+      "review_helpful_count": 3,
+      "author_display_name": "Teeepee",
+      "author_alias": "Teeepee",
+      "developer_response": null
+    },
+    {
+      "id": "1131165665650377",
+      "score": 5,
+      "review_title": "Great MR strategy game!",
+      "review_description": "Have a trans-Atlantic flight coming up and was looking for a game to play in MR while on it/waiting at airport. This game has been phenomal so far, and being in MR let's me keep track of my surroundings. Fun progression system and short battles make it great for knocking out a round or two at night after work. Uses hand tracking and runs smooth. Highly recommend if you think you like an fun easy RTS/Tower game.",
+      "date": 1759639331,
+      "review_helpful_count": 1,
+      "author_display_name": "LilMayoGaming",
+      "author_alias": "LilMayoGaming",
+      "developer_response": null
+    },
+    {
+      "id": "815493124334486",
+      "score": 5,
+      "review_title": "Welp, color me impressed",
+      "review_description": "Hands down the best TD game I’ve played in VR. Wasn’t a fan of Iron Guard. This has MUCH more action than any td I’ve ever played. The hand tracking works near perfectly.  That said, I hope controllers will be added. Also wish there were more cards… like another 10? Can’t wait to see where this goes. For $10 you can’t beat it",
+      "date": 1758088513,
+      "review_helpful_count": 2,
+      "author_display_name": "PowPow55",
+      "author_alias": "PowPow55",
+      "developer_response": null
+    },
+    {
+      "id": "807619885009683",
+      "score": 5,
+      "review_title": "One for the library",
+      "review_description": "This is a compact, immersive strategy defence game built from the ground up for mixed reality. Banners & Bastions is easy to recommend for anyone curious about MR gaming, intuitive, immersive, and creative, This is a standout example of what mixed reality gaming can be on the Quest 3",
+      "date": 1759354687,
+      "review_helpful_count": 1,
+      "author_display_name": "Piperdlkkl",
+      "author_alias": "Piperdlkkl",
+      "developer_response": null
+    },
+    {
+      "id": "763596603509239",
+      "score": 5,
+      "review_title": "Creative!!!",
+      "review_description": "This game has a lot of potential for new items and bosses and creative mode, where you get to make your own terrain, make your own kingdom and choose what monsters come and if you have infinite health, that would be a really cool feature, but besides that the game is awesome ￼!!!",
+      "date": 1757822497,
+      "review_helpful_count": 2,
+      "author_display_name": "That_Guy533",
+      "author_alias": "That_Guy533",
+      "developer_response": null
+    },
+    {
+      "id": "799435693257001",
+      "score": 5,
+      "review_title": "Banners &Bastions",
+      "review_description": "New to VR.Table top game with good graphics.Still working out gameplay and tactical strategy but enjoying the game very much 😄😄😄",
+      "date": 1760008254,
+      "review_helpful_count": 1,
+      "author_display_name": "capauau",
+      "author_alias": "capauau",
+      "developer_response": null
+    },
+    {
+      "id": "1229427292555236",
+      "score": 5,
+      "review_title": "I Came, I Built, I Conquered.",
+      "review_description": "Banners & Bastions is a brilliant mix of strategy and immersion in VR! Building, commanding, and defending feels smooth and satisfying, and the battles are epic without being overwhelming. It’s easy to learn but has tons of depth once you get into it. The art style is charming, the gameplay is addictive, and every match feels like a new story unfolding. If you love strategy games, this is an absolute gem for the Quest",
+      "date": 1757011525,
+      "review_helpful_count": 1,
+      "author_display_name": "Magicmerlin007",
+      "author_alias": "Magicmerlin007",
+      "developer_response": null
+    },
+    {
+      "id": "24232727143089517",
+      "score": 5,
+      "review_title": "Very fun",
+      "review_description": "It looks like there is a strong inspiration from bad north, which is a plus.\nI burnt through the battery of my quest twice today (because the game is addictive but also it eats the battery like crazy, it must be the hand tracking)\nI would prefer that we could use the controllers, i am not the biggest fan of hand tracking.\nVery promising game.",
+      "date": 1756472995,
+      "review_helpful_count": 1,
+      "author_display_name": "Phuerph",
+      "author_alias": "Phuerph",
+      "developer_response": null
+    },
+    {
+      "id": "823425063687973",
+      "score": 5,
+      "review_title": "Another success from Not Suspicious",
+      "review_description": "If you enjoyed airspace defender, you will really enjoy this, they have nailed this genre.\nMixed reality strategy at its best.\nMove around the battlefield, deploying units, send fireballs and come out on top.\nDefinitely one for your collection if you like this type of game.",
+      "date": 1757089972,
+      "review_helpful_count": 1,
+      "author_display_name": "GizmoDemi",
+      "author_alias": "GizmoDemi",
+      "developer_response": null
+    },
+    {
+      "id": "766543306544235",
+      "score": 5,
+      "review_title": "Strategy at its best",
+      "review_description": "Its a great strategy game with great graphics and they seem to have the hand controls working well,. Its a great game to goto for a quick round and then carry on later. Its easy to play but hard to master.",
+      "date": 1756462722,
+      "review_helpful_count": 1,
+      "author_display_name": "sitac72",
+      "author_alias": "sitac72",
+      "developer_response": null
+    },
+    {
+      "id": "4197460343866307",
+      "score": 5,
+      "review_title": "nice atmosphere and very polished",
+      "review_description": "Lovely music reminding me of the game Carcassonne which really helps set the mood.   Lots of upgrade options.",
+      "date": 1756657182,
+      "review_helpful_count": 2,
+      "author_display_name": "Tiddles451",
+      "author_alias": "Tiddles451",
+      "developer_response": null
+    },
+    {
+      "id": "1297448755062633",
+      "score": 5,
+      "review_title": "Great Game!",
+      "review_description": "Perfect game for hands only mixed reality play. So fun - just like Bad North but in VR. Good progression tree and difficulty curve is right on. Definitely recommend!",
+      "date": 1756673284,
+      "review_helpful_count": 1,
+      "author_display_name": "SnortyPig",
+      "author_alias": "SnortyPig",
+      "developer_response": null
+    },
+    {
+      "id": "802591918904493",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "Fantastic game, just hoping for Quest Achievements!",
+      "date": 1756443743,
+      "review_helpful_count": 2,
+      "author_display_name": "M4cheteColletti",
+      "author_alias": "M4cheteColletti",
+      "developer_response": null
+    },
+    {
+      "id": "24370002605974947",
+      "score": 5,
+      "review_title": "Wonderful little gem",
+      "review_description": "A must have for any strategy fan. I am really curious what the dev will add during early access.",
+      "date": 1756829993,
+      "review_helpful_count": 1,
+      "author_display_name": "backstaia",
+      "author_alias": "backstaia",
+      "developer_response": null
+    },
+    {
+      "id": "806206665906320",
+      "score": 5,
+      "review_title": "Awesome game",
+      "review_description": "Fun strategy game",
+      "date": 1756525965,
+      "review_helpful_count": 1,
+      "author_display_name": "th3fan",
+      "author_alias": "th3fan",
+      "developer_response": null
+    }
+  ],
+  "total": 66,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T01:59:32Z"
+}

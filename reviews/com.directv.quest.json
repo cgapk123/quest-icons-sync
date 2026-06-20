@@ -1,0 +1,42 @@
+{
+  "app_id": "24418313917809516",
+  "package_name": "com.directv.quest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "DIRECTV: Live TV & Streaming",
+  "rating_average": 4.4285714285714,
+  "rating_count": 7,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "931862353088502",
+      "score": 3,
+      "review_title": "Decent but just a web app.",
+      "review_description": "The app itself is okay. I have found almost no bugs so far except for one when I open the app and a channel plays but some of it is cut off and I have to scroll to the right to see it. The streaming quality is actually amazing but when installing I thought it would be a similar experience to what the pluto TV quest app offers with it's immersive environment but this app is just a web app meant for a keyboard and mouse. It's not even specialized for the quest it just opens up the website to directv. I could do that with the quest browser. I think they should add an immersive mode like what pluto TV has and the regular AR mode like it is currently but more optimized for the quest. I use the Quest 3S.",
+      "date": 1777516874,
+      "review_helpful_count": 9,
+      "author_display_name": "dontka",
+      "author_alias": "dontka",
+      "developer_response": null
+    },
+    {
+      "id": "26762337293432974",
+      "score": 5,
+      "review_title": "Solid app for DirecTV users",
+      "review_description": "As a DirecTV customer I've been hoping for a Quest app.  Works well and does have the ability to toggle from a large,  movable AR screen to a much larger and simple immersive function.  No bugs and easy to use.",
+      "date": 1777846053,
+      "review_helpful_count": 5,
+      "author_display_name": "cieldumort",
+      "author_alias": "cieldumort",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:54:27Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "6219553501426064",
+  "package_name": "com.dva.TrimOn",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Trim On",
+  "rating_average": 3.4,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "604599322607673",
+      "score": 5,
+      "review_title": "Livia",
+      "review_description": "Closest thing to the real thing! Best way to practice away from my dinghy. Thanks Lars",
+      "date": 1745681048,
+      "review_helpful_count": 0,
+      "author_display_name": "hugostenny",
+      "author_alias": "hugostenny",
+      "developer_response": null
+    },
+    {
+      "id": "115674508296264",
+      "score": 5,
+      "review_title": "Fantastic!",
+      "review_description": "Really love this innovative and interactive way to learn and improve sailing techniques.",
+      "date": 1693220278,
+      "review_helpful_count": 2,
+      "author_display_name": "capecodjenn",
+      "author_alias": "capecodjenn",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:00:36Z"
+}

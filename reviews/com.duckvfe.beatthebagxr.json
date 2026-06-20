@@ -1,0 +1,134 @@
+{
+  "app_id": "8690137184383596",
+  "package_name": "com.duckvfe.beatthebagxr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Beat The Bag",
+  "rating_average": 2.4166666666667,
+  "rating_count": 12,
+  "review_count": 9,
+  "reviews": [
+    {
+      "id": "998046653389731",
+      "score": 5,
+      "review_title": "Perfect for my gym!",
+      "review_description": "Love the game. It's perfect if you want to beat the s#!t of of a boxing bag while having fun. My clients love it. Obviously there are things that could improve but WOW this is exactly what I was hoping for. Keep improving the game guys, it'll catch on. We'll done.",
+      "date": 1771791948,
+      "review_helpful_count": 0,
+      "author_display_name": "TheanHeyneke",
+      "author_alias": "TheanHeyneke",
+      "developer_response": null
+    },
+    {
+      "id": "931210786740804",
+      "score": 1,
+      "review_title": "Can't sign up",
+      "review_description": "I'm not sure if this app has been abandoned. I even tried to sign up for a membership, but I keep getting an error that \"Subscription use data check up not enabled.\" Fairly tech-savvy so pretty frustrated that I could not get this to work. GREAT CONCEPT though. Would love for it to work.",
+      "date": 1766065774,
+      "review_helpful_count": 3,
+      "author_display_name": "salman.likethefish",
+      "author_alias": "salman.likethefish",
+      "developer_response": {
+        "body": "Thanks for alerting to this.  It should be working now!",
+        "date": 1767479285
+      }
+    },
+    {
+      "id": "685576467382662",
+      "score": 1,
+      "review_title": "Did not work at all + mandatory subscrip",
+      "review_description": "This didn't work for me in the slightest and I you must start a 7 day free trial with link to a payment. I'm still trying to figure out how to cancel. Man I hate that I have to figure out how to wade through all the crap to cancel something that didn't work even a little bit.",
+      "date": 1743732504,
+      "review_helpful_count": 7,
+      "author_display_name": "SmileyPAIN",
+      "author_alias": "SmileyPAIN",
+      "developer_response": {
+        "body": "In what way didn't it work?  Were you not able to spawn an enemy at all by looking at Start Button?  Was it a hand tracking issue?  Were you wearing full boxing gloves?  Any additional info is helpful.  NOTE, if you put the controllers down OUTSIDE of your player boundary, hand tracking will not initiate.  So you have to put the controllers down within your player boundary in order for the Quest to initiate hand tracking.  I don't know if that was your issue or not, any elaboration is helpful.",
+        "date": 1744904891
+      }
+    },
+    {
+      "id": "1315799722795261",
+      "score": 3,
+      "review_title": "Neat stuff, needs work",
+      "review_description": "I loved the idea of AR boxing practice at home but wanted the feeling of hitting something real, not just shadow boxing at fake digital targets all the time. This app isn't perfect, kinda janky, not the prettiest, but it's a pretty cool start. I wouldn't call it a \"game\" yet really, there's very few features besides plopping an opponent over your bag and fighting them. But it gets the job done, you get to hit a real bag with the added bonus of it punching back at you to test your dodging and footwork.\n\nSeveral uninformed reviews here complaining about the subscription or calling it a \"scam\". It's not a scam, it does exactly what the videos show. Developers don't work for free, what do you expect? Every fitness app on Quest has a sub or asks to pay for more content. Hopefully with some resources the devs can polish this up more and add more modes and features. For now I think it's still a pretty cool at-home training tool for anybody who really likes boxing and can put up with a little jank.",
+      "date": 1737587795,
+      "review_helpful_count": 5,
+      "author_display_name": "vogon5",
+      "author_alias": "vogon5",
+      "developer_response": null
+    },
+    {
+      "id": "3320214008115796",
+      "score": 1,
+      "review_title": "This is a literal scam.",
+      "review_description": "You can't do anything unless you pay a subscription of around 10 USD per month. That means you cannot even try if it works without paying. I know its free but not even allowing to try it means the devs know how bad it is. The \"good\" reviews are obviously fake.",
+      "date": 1735805384,
+      "review_helpful_count": 4,
+      "author_display_name": "Chavsny",
+      "author_alias": "Chavsny",
+      "developer_response": {
+        "body": "All subscription-based apps are free to install.  Starting a subscription begins the 7-day free trial.",
+        "date": 1736698328
+      }
+    },
+    {
+      "id": "593432593173744",
+      "score": 5,
+      "review_title": "Pretty cool app",
+      "review_description": "Not sure how or why this is free but if u have a heavy bag give this a whirl. Red gloves are a must for optimal hand tracking.  I use a q2 in a dimly lit basement and hand tracking is decent enuff. (I’ll improve lighting in short order). I’ve used my heavy bag more in the past week than I had in last decade due to this app.  I feel guilty using it for $0 tbh.   I hope they add more/better reactionary features.",
+      "date": 1733877683,
+      "review_helpful_count": 4,
+      "author_display_name": "keller999",
+      "author_alias": "keller999",
+      "developer_response": null
+    },
+    {
+      "id": "534258085987680",
+      "score": 3,
+      "review_title": "I hope yall see this",
+      "review_description": "This is an awesome implementation...I feel like with a bit more polish you guys could be on to something great....xr for this seems appropriate but I think yall could still put the bag in full vr...atleast here you could possibly give the character a full body...and the environment could change too....I think you guys should be more ambitious because there's tons of ground to gain here with very little opposition!",
+      "date": 1729539018,
+      "review_helpful_count": 6,
+      "author_display_name": "Khafzone",
+      "author_alias": "Khafzone",
+      "developer_response": {
+        "body": "Thanks Khafzone, do you mean like a digital punching bag?  The problem with putting the bag in full vr is that then you can't see your punching bag!  Did you play it with the punching bag or shadow boxing?  Some users play it shadow boxing which is fine but nowhere near the full experience of using it with a punching bag which is what it's made for.  Thanks for your insight, it's super helpful as we continue to release updates!",
+        "date": 1729556161
+      }
+    },
+    {
+      "id": "559468690574249",
+      "score": 1,
+      "review_title": "Disappointing",
+      "review_description": "I tried this app with a hanging heavy bag and my 14oz gloves. Tracking for punching and dodging is horrible.",
+      "date": 1735242299,
+      "review_helpful_count": 1,
+      "author_display_name": "Willie.Pete",
+      "author_alias": "Willie.Pete",
+      "developer_response": {
+        "body": "Try it with red hand wraps or red inner gloves.  Tracking your hands while wearing full boxing gloves is basically impossible without wearing additional trackers.  Your thumb needs to be exposed at minimum for the headset to pick up your hands.  Also red gloves track noticeably better than other colors.",
+        "date": 1735248291
+      }
+    },
+    {
+      "id": "530927609816258",
+      "score": 5,
+      "review_title": "Wicked",
+      "review_description": "Games too sick fun competitors and great workout",
+      "date": 1730532693,
+      "review_helpful_count": 1,
+      "author_display_name": "gomezveinz",
+      "author_alias": "gomezveinz",
+      "developer_response": null
+    }
+  ],
+  "total": 9,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:00:12Z"
+}
