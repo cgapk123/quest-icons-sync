@@ -1,0 +1,1116 @@
+{
+  "app_id": "4943314079118424",
+  "package_name": "com.moonvr.moonvrhome",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Moon Portal: Enter Immersive Worlds",
+  "rating_average": 3.9593023255814,
+  "rating_count": 344,
+  "review_count": 91,
+  "reviews": [
+    {
+      "id": "1032091529997645",
+      "score": 1,
+      "review_title": "Can't create custom 360 images",
+      "review_description": "​I purchased this app specifically to create a simple \"White Void\" 360-degree environment to use in Moon VR, as I hate watching movies against a pitch-black background. However, it is currently impossible to create your own custom 360 images in Moon Portal. You are forced to choose from images made by others, and the experience of scrolling through them is painfully slow and clunky.\n​I even tried downgrading to the older version to use the AI generation feature, but the AI is useless. No matter how many times I prompted for a \"pure empty white void,\" it kept giving me sky backgrounds filled with clouds. This app is practically worthless for custom needs. Don't waste your money.\n\n​Also, a message to the Moon VR developers: You should have added a simple feature to change the background color to white or gray in the first place. If you had any consideration for the terrible ghosting and glare issues on Quest 3, you’d know how necessary this is. It’s not even a difficult feature to implement. Oh, and one more thing—when on earth are you going to add screen rotation for the Theater mode?",
+      "date": 1777814446,
+      "review_helpful_count": 6,
+      "author_display_name": "gnr2045s",
+      "author_alias": "gnr2045s",
+      "developer_response": null
+    },
+    {
+      "id": "2531448763995441",
+      "score": 1,
+      "review_title": "I absolutely hate EVERYTHING about this",
+      "review_description": "I purchased Moon VR Player AND the Moon VR Portal apps because I wanted to be able to watch movies in my own custom 360 photo of my old house. In the previous versions of Moon Portal and Moon VR, this was absolutely possible. Since some recent update, a function that was ALREADY a part of the application was removed. I tried to go to their “Legacy Version” to restore this functionality, but when I entered my login information, I was met with the message that it was not possible to join the group because that version is either too old or no longer available. This is kind of my last straw with everything associated with Meta/Oculus. I spent money on a product that offered a feature that I enjoyed, and they chose to remove that very feature. Not just this app, but EVERYTHING related to Meta makes me sick and hate this stupid timeline we are in where features are removed after you pay for something. I absolutely hate EVERYTHING about this, I will never spend another dime on this stupid company that gives and then takes away from loyal customers. I hope your company fairs as poorly as you treat your customers. Never again.\n\nUpdate on April 25, 2026: So you mention AGAIN that the feature was removed, but the GOOD NEWS is that I can watch movies in a 360 environment made with AI slop? No! I bought a 360 camera LITERALLY for the purpose of watching stuff in my own custom JPEG background, and you charged EXTRA for me to have that feature, which I was OK with. But now you took that feature away! How much trouble would it be to just allow me to import images that are ALREADY on the headset? It's literally a JPEG! God, what a waste of time and money!",
+      "date": 1777140481,
+      "review_helpful_count": 11,
+      "author_display_name": "LittleFishChan",
+      "author_alias": "LittleFishChan",
+      "developer_response": {
+        "body": "Just to clarify for anyone reading — there might be a bit of confusion between Player Environment and the old Quest Custom Home environments.\nThe Custom Home feature is no longer supported by Quest, so unfortunately we can’t bring it back.\n\nSo the good news is you can still watch movies in the 360 environments you got from Portal. Just tested it myself, works great! Here's how:\n\nhttps://moonvrplayer.com/blog/192/quest-pico-exclusive-share-moon-portal-s-virtual-environments-with-moon-player",
+        "date": 1777025052
+      }
+    },
+    {
+      "id": "981685327782384",
+      "score": 1,
+      "review_title": "Waste of money.",
+      "review_description": "Do not buy this, it doesn't do what you think it does. You also cant get a refund because it's not eligible.",
+      "date": 1778620335,
+      "review_helpful_count": 3,
+      "author_display_name": "DROID2X",
+      "author_alias": "DROID2X",
+      "developer_response": null
+    },
+    {
+      "id": "947509681781775",
+      "score": 2,
+      "review_title": "Wasting my time！",
+      "review_description": "I took the opportunity of the discount to purchase this software as well as MoonVR, and even stayed up late into the early morning to study how to use them. However, the result was extremely disappointing – the feature for switching between scenes is no longer available. Was there no explanation provided at all? As a result, I had to search through a lot of information to find out about this issue, and the FAQ on the official website doesn’t contain any updated information either.The customer service of the official account can't be found anywhere, so take a step back in terms of use. Since it is agreed that the Chinese version of the results will stay in the test suit and will not be updated, only 360 scenes will be downloaded, and 3d scenes can't be downloaded and can only be previewed. In moonvr, I just stare at a few pictures and switch back and forth, and I can't turn around yet. The experience is really bad.It seems that time has passed for a long time, and with the problems I mentioned above, I really doubt that you have begun to mess up. The score can be changed, You know that.",
+      "date": 1767291733,
+      "review_helpful_count": 11,
+      "author_display_name": "suyu047",
+      "author_alias": "suyu047",
+      "developer_response": null
+    },
+    {
+      "id": "838601378713172",
+      "score": 2,
+      "review_title": "Half works; half donkey rating",
+      "review_description": "As of November 11th, 2025: the customize feature is not available on Quest 3 on the latest upgrade. Since half the reason why I bought this app was the ability to create customized environments, they get a half rating. \n\nIf the customize feature is ever activated, I might edit my review. My time has value, and vr vaporware in 2025 is not acceptable. \n\nAlso, note that you cannot go up or down. Any environments with different levels will be treated as if you are on an infinite plane.\n\nIf you fear heights, be aware that some places have you suspended in the air!",
+      "date": 1762393996,
+      "review_helpful_count": 14,
+      "author_display_name": "Farlo.Feydragon",
+      "author_alias": "Farlo.Feydragon",
+      "developer_response": {
+        "body": "Sorry about that. Due to updates in the Quest system and developer SDK, some older features are no longer supported on the latest OS, and we were forced to discontinue a few legacy functions — including customized environments.\n\nTo help users who still want those features, we’ve kept a legacy version available. On the app’s main screen, you’ll see three buttons in the upper left corner — tap the middle one, then select Legacy Version to roll back.",
+        "date": 1762831172
+      }
+    },
+    {
+      "id": "1588517135494153",
+      "score": 3,
+      "review_title": "Moon portal",
+      "review_description": "Hello. I'm talking about Moon portal, the idea is very cool... But we need even more content to be able to navigate through the portal, because we use the portal both indoors and outdoors. I also want to see the Quality (Graphics.) Thank you.",
+      "date": 1765025001,
+      "review_helpful_count": 4,
+      "author_display_name": "maris.smildzins",
+      "author_alias": "maris.smildzins",
+      "developer_response": {
+        "body": "Thank you for your suggestions. Every scene in Moon Portal is fully 3D and requires a lot of time for modeling and optimization. It takes a long time to build them. Thank you for understanding.",
+        "date": 1765424006
+      }
+    },
+    {
+      "id": "922409574290830",
+      "score": 1,
+      "review_title": "Very disappointed",
+      "review_description": "Not much to do and what they have is poor quality \"if it works\" I would like my money back if possible.",
+      "date": 1764220964,
+      "review_helpful_count": 5,
+      "author_display_name": "PokieZholie",
+      "author_alias": "PokieZholie",
+      "developer_response": {
+        "body": "Sorry to hear this. We’re actively improving content quality and stability.\nIf you need assistance, please contact info@moonvrhome.com.\nRefunds are handled through the Meta Store.",
+        "date": 1765521516
+      }
+    },
+    {
+      "id": "910961332106537",
+      "score": 1,
+      "review_title": "Dont save anything",
+      "review_description": "I can't save any on quest 3.   Nothing appears in the moon player either",
+      "date": 1767351649,
+      "review_helpful_count": 1,
+      "author_display_name": "Fastmeta1",
+      "author_alias": "Fastmeta1",
+      "developer_response": {
+        "body": "plz follow this instructions:\n\nhttps://moonvrplayer.com/blog/192/quest-pico-exclusive-share-moon-portal-s-virtual-environments-with-moon-player",
+        "date": 1767680351
+      }
+    },
+    {
+      "id": "808665105671783",
+      "score": 5,
+      "review_title": "Moon portal",
+      "review_description": "for me i loved the fact i could export enviroments that i liked, which was what i wanted to enjoy my movies",
+      "date": 1762560626,
+      "review_helpful_count": 6,
+      "author_display_name": "shear1963.2024",
+      "author_alias": "shear1963.2024",
+      "developer_response": {
+        "body": "Thank you❤️ LOVE FROM MOON",
+        "date": 1762831206
+      }
+    },
+    {
+      "id": "1411770543443339",
+      "score": 1,
+      "review_title": "2nd try 1 year later after disapointment",
+      "review_description": "Back months / maybe a year later - \n\nNo improvements whatsoever..\n\nWorld still has a transparent look where you can partly see your room through the 360 image which just ruins it.\n\n90% of the world's are super low quality (even though it says loading high quality or something while loading)\n\nHaving a snap turn for the portal makes it a car crash to line up in your room. Why have a smooth move on the left and then a snap on the right instead of a smooth turn to easily line up the portal.\n\nUpon walking back out of a portal and into the real world you walk through part of the 360 image (hard to explain unless you try it) but it's more jank and ruins the idea even more.\n\nI've paid for this twice now so I can't refund it again without going through Meta and explaining how poor the app is but I will make sure I sort that out.\n\nMy advice - don't buy this.",
+      "date": 1754147762,
+      "review_helpful_count": 19,
+      "author_display_name": "BeatzCreations",
+      "author_alias": "BeatzCreations",
+      "developer_response": {
+        "body": "We’re truly sorry that the experience didn’t meet your expectations, and we regret the frustration it has caused.\n\nThe issues you mentioned — such as the semi-transparent visuals, low image quality, snap turn behavior, and the glitch when exiting the portal — are all known bugs related to current technical limitations. Our team has been actively working to resolve them, and we’re continuously pushing updates to improve the overall experience.\n\nAs for the inability to refund your second purchase, this is a policy set by Meta. Unfortunately, as developers, we don’t have control over their refund system, though we understand your frustration.\n\nWe genuinely appreciate your feedback. It helps us make the app better, and we hope you’ll consider revisiting it in the future as we continue to improve.",
+        "date": 1754291887
+      }
+    },
+    {
+      "id": "874334399086833",
+      "score": 1,
+      "review_title": "Don't waste your money",
+      "review_description": "It's a really bad app, poor quality images and a half baked app. Can't even get a refund, even though I purchased it less than 2 hours ago, and less than the 14 day limit.",
+      "date": 1759677380,
+      "review_helpful_count": 3,
+      "author_display_name": "CoCo1980",
+      "author_alias": "CoCo1980",
+      "developer_response": {
+        "body": "What issues are you experiencing?\nPlease let us know so we can help resolve them. You can contact us via email at info@moonvrhome.com\n\nAlso, please note that all refund policies are set by Meta. As developers, we have no authority to modify or override Meta’s refund rules.",
+        "date": 1759978121
+      }
+    },
+    {
+      "id": "772175249307039",
+      "score": 5,
+      "review_title": "Time travel is the core",
+      "review_description": "I enjoy the time travel feature in Moon Portal. It should be the core feature, as it help me to see how certain places have changed over time, like Times Square, it’s amazing to watch the transformation. However, some images don't quite line up perfectly, and I hope the devs can refine that in future updates. Despite that, it’s still an incredible feature.\n\nI personally love seeing what has stayed the same through the years. The contrast between the old and new really brings history to life in a way I didn’t expect.",
+      "date": 1754545558,
+      "review_helpful_count": 6,
+      "author_display_name": "boydivines",
+      "author_alias": "boydivines",
+      "developer_response": null
+    },
+    {
+      "id": "719328901266026",
+      "score": 5,
+      "review_title": "I like immersive scenes like this",
+      "review_description": "I bought this mainly to use with Moon Player. The environment feels calm and well designed. It's a relaxing way to watch videos in VR and it's creative in a way I haven't seen in other apps.",
+      "date": 1754301517,
+      "review_helpful_count": 14,
+      "author_display_name": "Flav0429",
+      "author_alias": "Flav0429",
+      "developer_response": null
+    },
+    {
+      "id": "685413227996422",
+      "score": 5,
+      "review_title": "Frequent updates",
+      "review_description": "Standalone purchase with plenty of updates. I paid once and Moon Portal keeps evolving with new features regularly.",
+      "date": 1754537737,
+      "review_helpful_count": 5,
+      "author_display_name": "tabiryan",
+      "author_alias": "tabiryan",
+      "developer_response": null
+    },
+    {
+      "id": "780137851842556",
+      "score": 5,
+      "review_title": "Promising",
+      "review_description": "Walking through portals transported me into breathtaking scenes",
+      "date": 1754460701,
+      "review_helpful_count": 3,
+      "author_display_name": "annamaemi",
+      "author_alias": "annamaemi",
+      "developer_response": null
+    },
+    {
+      "id": "743727658824033",
+      "score": 5,
+      "review_title": "Time Travel is exactly what I want",
+      "review_description": "More spots please. I enjoy the time travel concept and would love to see more about it.",
+      "date": 1754457746,
+      "review_helpful_count": 2,
+      "author_display_name": "yanyanchan",
+      "author_alias": "yanyanchan",
+      "developer_response": null
+    },
+    {
+      "id": "628357833703877",
+      "score": 1,
+      "review_title": "Game not working",
+      "review_description": "I purchased this game and it was working fine. Now it's outside the refund timeframe and I can't get anyone to help me figure out why it's not working right anymore.",
+      "date": 1751250735,
+      "review_helpful_count": 3,
+      "author_display_name": "MoDollaz",
+      "author_alias": "MoDollaz",
+      "developer_response": {
+        "body": "We’re sorry, but the version you’re currently using — 1.7.2 (as shown in your comment history) — is a very outdated version. You should open the Horizon Store and update the app immediately.\n\nAlso, you emailed us at 10:31 AM on June 30th, and we replied at 10:39 AM — just 8 minutes later. So we’re genuinely confused as to why you would say “I can’t find anyone for help.”\n\nWe fully acknowledge that our app still has room for improvement, but this comment has left us quite puzzled and confused.",
+        "date": 1751267369
+      }
+    },
+    {
+      "id": "595127176928183",
+      "score": 1,
+      "review_title": "Skylight Portal Doesn’t Work",
+      "review_description": "I bought this app specifically for the Skylight Portal, but it simply doesn’t show up. After restarting the app several times, it occasionally appears, but the content is distorted and doesn’t align with the actual ceiling. That defeats the whole purpose of having a skylight experience. Very disappointing.\n\nAlso, the transparent floor window shown in the promotional video is nowhere to be found in the app.",
+      "date": 1748275156,
+      "review_helpful_count": 3,
+      "author_display_name": "blend23",
+      "author_alias": "blend23",
+      "developer_response": {
+        "body": "We’re sorry for the confusion. The floor window is a feature exclusive to the Vision Pro version of the app and is not available on the Quest version. We have never claimed in any of our promotional videos that this feature is included in the Quest version. You may have seen a demonstration of the Vision Pro version in a video from a third-party creator.",
+        "date": 1748428809
+      }
+    },
+    {
+      "id": "652127377972923",
+      "score": 5,
+      "review_title": "Promising App",
+      "review_description": "This app has a lot of potential! The portal feature combined with custom scenes is super creative and really fun. Would love to see more new 3D environments added!",
+      "date": 1743998849,
+      "review_helpful_count": 28,
+      "author_display_name": "FrostedDolphin8003",
+      "author_alias": "FrostedDolphin8003",
+      "developer_response": {
+        "body": "Thank you for your support! We will continue to add new features and experiences.",
+        "date": 1744715775
+      }
+    },
+    {
+      "id": "632018972983433",
+      "score": 5,
+      "review_title": "new thrill is a lot of fun",
+      "review_description": "The new roller coaster thrill is a lot of fun , promising game",
+      "date": 1744254092,
+      "review_helpful_count": 26,
+      "author_display_name": "Augety46",
+      "author_alias": "Augety46",
+      "developer_response": {
+        "body": "Thank you for your support! We will continue to add new features and experiences.",
+        "date": 1744715768
+      }
+    },
+    {
+      "id": "122277770318000538",
+      "score": 5,
+      "review_title": "a fairly promising app",
+      "review_description": "it's good and fun.  the portal and roller coaster thirlls are fun to play",
+      "date": 1744265178,
+      "review_helpful_count": 24,
+      "author_display_name": "maryjbainn",
+      "author_alias": "maryjbainn",
+      "developer_response": {
+        "body": "Thank you for your support! We will continue to add new features and experiences.",
+        "date": 1744715762
+      }
+    },
+    {
+      "id": "1346511923045419",
+      "score": 5,
+      "review_title": "A Mixed Reality Standout!",
+      "review_description": "This is where mixed reality excels and it's absolutely brilliant! The portal section is truly something special. You have a portal door within your space, including the tardis for example, and when the door opens you're presented with your chosen scene INSIDE the door which you can then walk into (OMG) and it's truly a wonderful experience. This is just one section of the app. There is also a skybox creater where you can also view other people's creations as well as a walk the plank type experience set high amongst the sky scraper. Highly recommended!!!",
+      "date": 1736899156,
+      "review_helpful_count": 34,
+      "author_display_name": "JetSetMike",
+      "author_alias": "JetSetMike",
+      "developer_response": {
+        "body": "Thank you so much for your heartfelt and thorough review! It truly makes my day to hear you enjoyed the Mixed Reality Portal, skybox creater and plank skywalk as much as I do! Your recommendation inspires me to keep innovating and delivering more fun. Thanks again for sharing your kind words! 😊",
+        "date": 1736930161
+      }
+    },
+    {
+      "id": "541612862361311",
+      "score": 1,
+      "review_title": "Garbage",
+      "review_description": "This app is so buggy and so f****** frustrating to navigate to the point where within MINUTES you will start to get physically agitated to the point where you're nose burns. Not user friendly,  you lose prompts for nothing and I'm gonna tell you before you buy this, they CLAIM there's lots of environments but it's just 360 photos. The ONLY reason to get it is to edit the environments from sidequest because most of them ore here. oh wait, TOO BAD EDITING A GOME ENVIRONMENT DOESNT WORK AND IS NOT USER FRIENDLY! Well at least you can float 3 thousand f****** feet above EVERY SINGLE ENVIRONMENT on the photos section. This crap should be free. If it isn't on sale for under 1.00 don't buy. I am so angry I spent money on and got lied to about what this was SUPPOSED to be.",
+      "date": 1735152114,
+      "review_helpful_count": 15,
+      "author_display_name": "Alaz_04",
+      "author_alias": "Alaz_04",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nThanks for your feedback. As we state in the App, we’re now working hard on a major overhaul of the user experience. Hope you’ll give us another shot after the upcoming updates. Stay tuned!\n\nIf you need any help, feel free to reach out here: https://discord.gg/HwZr7kgRyF. I'll figure out what we can do for you on editing homes, which I personally love, ASAP.\n\nOf course, if you’re still not satisfied, we completely respect your decision to request a refund. Thank you again for giving us a try!",
+        "date": 1746596293
+      }
+    },
+    {
+      "id": "631285220059789",
+      "score": 1,
+      "review_title": "Doesn’t work on 3",
+      "review_description": "Doesn’t work at all apart from random 3d stills - will request refund but will buy once bugs sorted",
+      "date": 1742151310,
+      "review_helpful_count": 2,
+      "author_display_name": "Tangleha",
+      "author_alias": "Tangleha",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n-----------\nSorry for the bad experience, but I can't understand or reproduce the issue(Doesn’t work on 3) on my end. Could you provide more details?\n\t1.\tPlease activate both controllers and click on the input field using the raycast to enter an email to sign up or log in.\n\t2.\tMake sure you're using the admin account on the device instead of a secondary/multiple account.\n\t3.\tWhat's your system version?\n\t4.\tYou're also welcome to try out the beta version in the Beta Channel. (App Settings > Installed version information > Release Channels > Beta).\n\nOf course, I completely understand if you prefer to request a refund. However, if you find the improvements helpful, I’d be truly grateful if you could reconsider your rating, since it means a lot to a small developer like me.\n\nThank you so much for your time, and feel free to join our Discord server for further help: \nhttps://discord.gg/HwZr7kgRyF",
+        "date": 1746595726
+      }
+    },
+    {
+      "id": "598523000002352",
+      "score": 1,
+      "review_title": "Well…",
+      "review_description": "This one is broken for me and my Quest 3. Unusable. I have to power off the headset because it just freezes and blocks catastrophically, so to speak, the system. Waiting for an update that fixes the thing and we will see then.",
+      "date": 1739031759,
+      "review_helpful_count": 3,
+      "author_display_name": "Mcflannagan",
+      "author_alias": "Mcflannagan",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nHi Mcflannagan, could you confirm if the freeze happens after applying a Custom Home? If so, do you see a system popup saying “The ShellEnv keeps stopping”? This usually indicates a system memory limitation, meaning the device can’t run the Custom Home properly. In this case, you can uninstall it from APP Library > Unknown Sources. It’d be much appreciated if you could let us know which Custom Homes aren’t working on your device due to memory limits. \n\nIf the freeze happens within our app, please provide more details, such as your system version, the screen you were on, and what action triggered the issue. We’d love to help! Feel free to reach out here: https://discord.gg/HwZr7kgRyF",
+        "date": 1746596190
+      }
+    },
+    {
+      "id": "530872486781000",
+      "score": 1,
+      "review_title": "Do not work !",
+      "review_description": "Just installed this version bu did not work at all … can not scroll down eithes select the ambients. Would like to have my money back!\nRgds.",
+      "date": 1738869818,
+      "review_helpful_count": 3,
+      "author_display_name": "paulo.46409",
+      "author_alias": "paulo.46409",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nHi, thanks for reaching out.\n\nIf you prefer, you can request a refund here:\nhttps://www.meta.com/help/quest/articles/orders-and-purchases/returns/refunds-for-games-apps/\n\nBTW could you clarify what exactly isn’t working?\n\nFor scrolling down, as mentioned in the app, this issue is due to Quest system SDK updates. We recommend using both controllers and scrolling with the thumbstick instead of pressing the trigger and dragging.\n\nAs for 'select the ambients', if you mean selecting an environment from the list, please hold the controller steady and short-press the trigger without dragging or moving, as that might cause unintended scrolling.\n\nIf you're referring to selecting background music in 'Customize', we acknowledge that this feature has issues after the system update due to low usage. We’re working on a major app update that will resolve these problems—thank you for your patience!\n\nIf you need any help, feel free to reach out here: https://discord.gg/HwZr7kgRyF",
+        "date": 1746596207
+      }
+    },
+    {
+      "id": "942094844723329",
+      "score": 1,
+      "review_title": "Not working",
+      "review_description": "I try to get on this game, and it is not working. It\n just cuts off. Ever since I purchased this game it has not worked. I would like a refund",
+      "date": 1737783605,
+      "review_helpful_count": 3,
+      "author_display_name": "ihavebundleXeodon",
+      "author_alias": "ihavebundleXeodon",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nHi, thanks for reaching out.\n\nYou can refund Apps here:\nhttps://www.meta.com/help/quest/articles/orders-and-purchases/returns/refunds-for-games-apps/\n\nBy the way could you please provide more details about how the App doesn't work?\nDetails for example:  \n**Specific scenario**: Device, system version, steps leading to the error, error messages, etc. \n**Expectations**: Features or improvements you’d like to see in the app.  \n\nYour patience and support mean the world to us, and feedback like yours drives our growth!",
+        "date": 1746596221
+      }
+    },
+    {
+      "id": "8859287647523038",
+      "score": 1,
+      "review_title": "Full of mutant AI “porn”",
+      "review_description": "First experience was being dumped to the generative skybox preview interface, and half of the skyboxes were 18+ generated images of “sexy”“women” with one arm, three legs, or torsos merging together and one eye perfectly rendered and the other a giant blob. It’s not sexy, it’s disturbing. There is a report button, but nobody seems to be using it or acting on it.  \n\nNo filtering system for backgrounds, so kids could have easily been exposed to this imagery which would have required intervention ranging from therapy, to the “talk,” to an explanation beyond the birds and bees, pulling out an anatomy book and explaining that no, there is no “third foot” that grows out of women’s thighs. \n\nDisappointing app all around. The AR portal is useless. You have a portal that takes up half your room that you can’t interact with or enter and a UI that ruins the immersion. Instead of cycling through interesting worlds, you have to pick one from a pop-up interface and wait as it loads. You view it for 5 seconds, get bored, and pick another one. And again, there’s no interactivity so there’s nothing to do in the app, just sit there. \n\nThe home gallery might be interesting but it’s filled with low quality offerings and the home becomes boring quickly anyway. \n\nDidn’t try the plank experience, but didn’t want to as I’d have to expose my family to the rest of this terrible app.  \n\nMy advice? Remove the AI generation and curate the content. Add interactivity everywhere.  And get rid of the “adult” content or have much better consent monitoring and filtering.",
+      "date": 1732710378,
+      "review_helpful_count": 12,
+      "author_display_name": "thesamurai.2025",
+      "author_alias": "thesamurai.2025",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nThanks so much for taking the time to share your detailed feedback! It’s clear you’ve really thought about your experience, and while we’re sorry the app didn’t meet your expectations, we genuinely appreciate your insights—they help us make things better.\n\nAs a small team, every review has a big impact on how others see our app. We’re grateful that many users are enjoying it, but we also know not everyone’s experience will be the same. Your feedback points out a few areas we’re already working on, including:\n\t•\tContent Moderation: We realize our content moderation tools may have missed some things. We’ll make sure to review and address it as quickly as we can. While we can’t fully control AI-generated results, we’re and will be more actively improving our filtering and curation to avoid inappropriate content. Perfecting this takes some serious human effort, especially for a small team, but we’re on it!\n\t•\tContent Quality: We’re focused on curating higher-quality experiences to make the app even more fun and engaging.\n\t•\tInteractivity and Immersion: We’re all about making the app more interactive and dynamic, so users stay excited and immersed.\n\nWe’re constantly improving, including a full UX and GUI overhaul that’s already in the works. We’re so grateful for the support and patience from our community—it really helps us grow!\n\nThat said, if you feel the app still isn’t the right fit for you, we totally understand. You can explore the refund option through the store platform if needed, but we’d hate to see you go.\n\nThanks again for the thoughtful feedback—it really means a lot to us, and we’re listening! Hope you’ll give us another shot after the next update. Stay tuned!",
+        "date": 1746596315
+      }
+    },
+    {
+      "id": "26839740072336440",
+      "score": 5,
+      "review_title": "Great app!  Lots of fun!",
+      "review_description": "I am really enjoying your new app.  The new thrills section is a lot of fun, and I look forward to seeing how you continue to add on to it.  It is frightening for me because I am afraid of heights and I love that. I also love the mixed reality portals and the skyboxes.  I am still learning how to use it, but it is a lot of fun.  Please continue improving your app.",
+      "date": 1727554127,
+      "review_helpful_count": 35,
+      "author_display_name": "Jaye.Riccisongbird",
+      "author_alias": "Jaye.Riccisongbird",
+      "developer_response": {
+        "body": "Thank you Jaye so much for your kind words! Just returned from vacation, and seeing your feedback was such a wonderful surprise. We're 'thrilled' to hear you're enjoying the new 'thrills' section, especially with the added excitement of heights! The mixed reality portals and skyboxes are some of our favorite features too. We're committed to making the app even better, and Your support means a lot! Enjoy exploring!",
+        "date": 1728355673
+      }
+    },
+    {
+      "id": "1284960546080989",
+      "score": 2,
+      "review_title": "",
+      "review_description": "If I paid , heheh asked me again for login in ? I firget the password and them why I have to go for the wed side  instead to do in my email? I don’t know witch one is the wed side .",
+      "date": 1735196275,
+      "review_helpful_count": 1,
+      "author_display_name": "alfred.mancilla.37",
+      "author_alias": "alfred.mancilla.37",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nThanks for your feedback. The \"Website\" refers to https://moonvrhome.com/, which is noted in Account Settings. You can reset your password there—it’s actually quicker and easier than doing it in VR.\n\nWe’re a small team, and while we know there’s room for improvement, we’re now working hard on a major overhaul of the user experience. Hope you’ll give us another shot after the upcoming updates. Stay tuned! If you need any help, feel free to reach out here: https://discord.gg/HwZr7kgRyF \nThank you again for your understanding and patience!",
+        "date": 1746596276
+      }
+    },
+    {
+      "id": "397467320125543",
+      "score": 1,
+      "review_title": "Disappointing apps",
+      "review_description": "I was misled by some Chinese bloggers who claimed that the five generation attempts would refresh every day. In reality, only five generation attempts is free and who using AI photo generator will known this equal to nothing.\n\nMoreover, the quality of the visuals is extremely disappointing—it feels like you’re looking at a flat 360-degree photo. Even with 8K resolution, the image quality is terrible.\n\nWhile the “Portal” feature might sound like a great selling point, the user interface is clunky and full of bugs. Overall, it’s definitely not worth the price.",
+      "date": 1728730464,
+      "review_helpful_count": 9,
+      "author_display_name": "M3L.Son",
+      "author_alias": "M3L.Son",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nHi M3L.Son, I'm sorry to hear that you were misled by outside sources, , but the resulting low rating might not be entirely fair. Our product description clearly mentions the 5 generations issue. Plus, we offer access to all of our image resources, which are typically reserved for subscribers, for free.\nAs for the image quality, personal preferences vary. We've provided some of the best AI-generated skybox visuals on the market, and many users are happy with the results. With AI-generated content, the more users engage, the more we can improve.\n\nAs for the other features, we strive to provide as much value as possible for a fair price. Many users enjoy the variety of fun tools we offer, and we aim for high cost-effectiveness. However, being a small team, balancing numerous features means not every aspect will be perfect right away. But if you're willing to grow with us, we’ll continue to improve over time.\n\nThat said, if our product isn’t quite what you’re looking for, we respect your decision and are happy to process a refund.\n\nThank you for giving us a try!",
+        "date": 1746596336
+      }
+    },
+    {
+      "id": "532522633273829",
+      "score": 3,
+      "review_title": "we need Chinese",
+      "review_description": "WE NEED CHINESE",
+      "date": 1736171434,
+      "review_helpful_count": 0,
+      "author_display_name": "rakusuiyumetoku",
+      "author_alias": "rakusuiyumetoku",
+      "developer_response": {
+        "body": "中文等本地化已经上线一段时间啦，另外欢迎尝试Beta版，分享您的感受和想法！\nLocalization has been live for a while now! Feel free to try out the Beta version of the overhaul and share your thoughts!\n-------\n感谢反馈！中文本地化已经在做啦！本来打算等整体改版完（更流畅的用户体验）再做本地化，总之我们会尽快上中文的！感谢支持，敬请期待。 Thank you for the feedback. Localization work is in progress! Stay tuned!",
+        "date": 1742798154
+      }
+    },
+    {
+      "id": "1142348803900343",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Not a good app don’t get it ￼",
+      "date": 1734149606,
+      "review_helpful_count": 2,
+      "author_display_name": "Darrinof",
+      "author_alias": "Darrinof",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nSorry for the late reply, as we state in the App, we're now working hard on a major overhaul of the user experience. \n\nCould you give me more details on your experience?\n\nIf you need any help, feel free to reach out here: https://discord.gg/HwZr7kgRyF\n\nOf course, if you’re still not satisfied, we completely respect your decision to request a refund. Thank you again for giving us a try!",
+        "date": 1746596304
+      }
+    },
+    {
+      "id": "447501565103480",
+      "score": 5,
+      "review_title": "Moon VR",
+      "review_description": "Awesome app. Desert island app. If you like meta quest environments like Cyber City, Blue Hills Gold Mine, etc and don't have a Steam and Sidequest capable $1,000 gaming computer, this is the app. Tons of free virtual environments. Additional AI generates are available for money but you only get 5 free ones and they go fast. Really fast like I think I inadvertently generated one or else they just added one more to the count without me generating anything. Anyways, the free ones more than make up for that. This app is a must have.",
+      "date": 1725904720,
+      "review_helpful_count": 36,
+      "author_display_name": "nautilus.657413",
+      "author_alias": "nautilus.657413",
+      "developer_response": {
+        "body": "Hi Dave, just wanted you to know that we've updated a Skywalk challenge experience and feel free to check it out. BTW don't hesitate to reach out you have any question about the ai generations.\n--------\nHi nautilus, thank you so much for your kind words and support! We’re really happy you’re loving the environments and think our App is a must-have. I hear you on the AI generations and will definitely share that with the team to see how we can improve it.\n\nWe are working hard to add new portals, worlds, and more exciting features in future updates. Stay tuned!\nSo grateful and honored to have users like you! \n\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1730363152
+      }
+    },
+    {
+      "id": "439845925883141",
+      "score": 1,
+      "review_title": "Didn’t Even Work",
+      "review_description": "I wasted my money. I followed the instructions carefully. When they didn’t work, I had to search for a YouTube video to explain how to even get the app to work, Which was extremely difficult. It took me two days to get it working. When I was finally done, I downloaded a custom home, and all I got was a white screen. I want a refund!",
+      "date": 1728848234,
+      "review_helpful_count": 3,
+      "author_display_name": "insanekaboom",
+      "author_alias": "insanekaboom",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nHi Dylan, just wanted to let you know that the white screen issue with custom homes has been fixed over the past few weeks. Feel free to check it out!\n---------\nHi insanekaboom, thank you for your feedback, and I’m really sorry for the frustration. If you're referring to the custom homes installation, please note that due to recent frequent system updates, this feature is temporarily incompatible with version 68 and above, as stated in the app. We are actively working on updates, and we kindly ask for your patience; we’ll let you know once this issue is resolved.\n\nAs for the complexity of the process, we all know that just getting through the process puts you ahead of many people, which is much admirable. The complexity is unfortunately due to system limitations, but we’ve tried to make it as user-friendly as possible with in-VR preview and download options—at least it’s more convenient than having to use a computer and then find out that the experience wasn’t what you expected  after installation. Believe me, once you get the hang of it, the process becomes much easier. \n\nIf you need any help, feel free to reach out here and I will walk you through the journey of custom homes: https://discord.gg/HwZr7kgRyF\n\nOf course, if you’re still not satisfied, we completely respect your decision to request a refund. Thank you again for giving us a try!",
+        "date": 1746596326
+      }
+    },
+    {
+      "id": "428348737032644",
+      "score": 1,
+      "review_title": "Ai slop",
+      "review_description": "Some worlds aren't even 3d, the ui is awful, AI slop.\n\nSTICK WITH SIDE QUEST CUSTOM WORLDS AND SAVE YOURSELF THE HASSLE AND MONEY",
+      "date": 1728260946,
+      "review_helpful_count": 7,
+      "author_display_name": "Olitheocco",
+      "author_alias": "Olitheocco",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nHi Olitheocco , thank you for your feedback, and we're sorry you didn’t enjoy the experience. We do our best to explain the app’s features in the PDP, including the AI-generated scenes. If it’s not for you, we fully respect that—you’re welcome to request a refund.",
+        "date": 1746596344
+      }
+    },
+    {
+      "id": "847682914181486",
+      "score": 5,
+      "review_title": "Amazing !",
+      "review_description": "Amazing ! Can you add mixed reality portal with richie's plank expérience world !? Please please please !! Thanks you\n\n\n\"Thanks for the update, Skywalk. The ending is surprising, even for a VR veteran 😆. I hope Skywalk will be available in Portal Mixed Reality soon.\"",
+      "date": 1727455704,
+      "review_helpful_count": 2,
+      "author_display_name": "nanaki210488",
+      "author_alias": "nanaki210488",
+      "developer_response": {
+        "body": "Thank you nanaki so much for your amazing feedback! We always strive to listen to our users, and it’s great to see we’re on the same page.  I'm glad you enjoyed Skywalk—it’s awesome to hear it surprised even a VR veteran like you! We're committed to enhancing the experience and adding more fun content, including mixed reality features, and keeping things simple and enjoyable. Stay tuned!",
+        "date": 1728356277
+      }
+    },
+    {
+      "id": "411369325389107",
+      "score": 1,
+      "review_title": "NOT FOR KIDS",
+      "review_description": "This app has pornographic content with no way to turn it off and no warning!!! Image getting this for a child and having no clue it would be on there. Disgusted.",
+      "date": 1723755679,
+      "review_helpful_count": 7,
+      "author_display_name": "Warsports",
+      "author_alias": "Warsports",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nHi, we’ve completed another round of content filtering. Please feel free to check it and share your feedback with us!\n-----\nHi Warsports, we sincerely apologize for your experience! This should never have happened. It seems that the AI content review wasn't accurate enough and we take your concerns very seriously. Already working on better content filters and parental controls to prevent this from happening. Thank you for bringing this to our attention and stay tuned!\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1746596369
+      }
+    },
+    {
+      "id": "926069132546522",
+      "score": 1,
+      "review_title": "Dissappointed",
+      "review_description": "99% of the 3D homes are available free on the sidequest store. Most of the custom homes offered are just gross AI generated skyboxes. You can place some basic assets to customize about a dozen homes that support it but it has 0 Quality of life enhancements. The asset menu is a single basic list, and placing them has no collision detection so they easily clip through the floor. I'd skip it. The only thing it does better then sidequest is give the ability to preview a custom app quickly before installing it, but I'm not sure it's worth 10$ and the fact they're free apps makes the whole experience feel shady. Did the creators authorize their custom apps to be used for this one?",
+      "date": 1711550972,
+      "review_helpful_count": 17,
+      "author_display_name": "Makeavoy",
+      "author_alias": "Makeavoy",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nWe're sorry to hear about your disappointment. Developing 3D features and AI generation comes with its costs, and we understand that it may not meet everyone's expectations. Besides 3D homes and AI-generated content, we also offer Portal experiences and many other features. We appreciate your feedback and will continue working to enhance our app. Thank you for sharing your thoughts with us.",
+        "date": 1746596381
+      }
+    },
+    {
+      "id": "7019008744894736",
+      "score": 1,
+      "review_title": "Really disappointed",
+      "review_description": "I'm very disappointed. With the skyboxes I see a lot of AI-made environments as far as I can tell, with many strange errors and also many scantily clad ladies and gentlemen. Would be nice if you could search or that there are filters or categories, like with the home environments. The home environments have some good 360 photos but also some very grainy ones. A lot custom made ones are available on SideQuest.  \n\nI expected much more from this. The mixed reality portal is cool, but the quality of the 3D backgrounds is disappointing. The AI created environements have stitching errors, unlogically placed items, roads leading to nowhere etc. I had really hoped for better quality environments that work as home environments, so are created with that in mind and not a lot of 360 images and photos that are sometimes of too low quality to use for this or have errors, deformed objects etc.",
+      "date": 1710151146,
+      "review_helpful_count": 9,
+      "author_display_name": "VortexFzs",
+      "author_alias": "VortexFzs",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nHi there, thank you for sharing your thoughts. We're so sorry to hear that your experience didn't meet expectations. We're a small team but strive to deliver a better experience. We appreciate your feedback, and we're actively working on improving the quality of AI-generated environments, addressing stitching errors, and enhancing the overall content curation.  We've taken note of your suggestions regarding search, filters, and categories. Thank you so much!\n\n If you have more insights or specific preferences, feel free to share with us, and stay tuned for the future updates.\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1746596399
+      }
+    },
+    {
+      "id": "1449703225621845",
+      "score": 5,
+      "review_title": "Wow",
+      "review_description": "Very impressive app, I really enjoyed the new MR portal and custom skybox's. I look forward to seeing where this goes and more. I hope other devs are taking notes and ideas about MR portals to different worlds and universes. this is a whole different ballgame for VR/MR. I'll love to see more AI and MR portal content for moon vr home soon.",
+      "date": 1708466621,
+      "review_helpful_count": 10,
+      "author_display_name": "Aaronb3600",
+      "author_alias": "Aaronb3600",
+      "developer_response": {
+        "body": "Thanks for supporting us! Hope you enjoy the magic with MoonVR! We'll keep improving the App and creating fun with all of you. \nSo grateful and honored to have users like you! \n\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1708495645
+      }
+    },
+    {
+      "id": "3769790803299634",
+      "score": 5,
+      "review_title": "Amazing experience!",
+      "review_description": "I really loved the concept, there are some bugs obviously because it is in early development but please fix ASAP! Please add a new portal style \"Anywhere Door\" just like in AVP.",
+      "date": 1710500056,
+      "review_helpful_count": 3,
+      "author_display_name": "X_FRST",
+      "author_alias": "X_FRST",
+      "developer_response": {
+        "body": "Thank you so much for your support! We're over the moon to hear that you like our app, and it means the world to us!\n\nOnce we wrap up our ongoing projects, we'll address these issues you mentioned promptly. So grateful to have users like you with us!\n\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1710760241
+      }
+    },
+    {
+      "id": "396093623092502",
+      "score": 5,
+      "review_title": "Cool experience & rly need more!",
+      "review_description": "They've got like 50+ great environments and after I literally tried every one, I especially enjoy the house with pool(not large enough tho) and the anime skies which remind me of Ghibli or Miyazaki Hayao ! Now all my favs are lying in my ‘Virtual Environment’ list on my quest 2 and I can easily download more of them and change my home, GOOD FOR YOU Moon home! need more feeds…\ncould you release more with background music? or create sth like Quicksilver's slow motion sence?\n------\nJust try the latest update. Wow, so many more environments added and also ai skyboxes! The portal and 3d objects are quite impressive...and quest 3 passthrough is so amazing. Keep it going!",
+      "date": 1706692182,
+      "review_helpful_count": 22,
+      "author_display_name": "vii.qiuio",
+      "author_alias": "vii.qiuio",
+      "developer_response": {
+        "body": "Thanks for supporting us! Hope you enjoy the magic with MoonVR! We'll keep improving the App and creating fun with all of you. \nSo grateful and honored to have users like you! \n\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1706695631
+      }
+    },
+    {
+      "id": "203917686145280",
+      "score": 5,
+      "review_title": "goodness",
+      "review_description": "please add oficial support",
+      "date": 1706260112,
+      "review_helpful_count": 19,
+      "author_display_name": "oliveira.880987",
+      "author_alias": "oliveira.880987",
+      "developer_response": {
+        "body": "Thank you so much for your support! We're over the moon to hear that you like our app, and it means the world to us!\n\nWe hope you continue to have a great experience, and if you ever have suggestions or specific things you love about the app, please share them with us. We're grateful to have users like you with us!\n\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1706494767
+      }
+    },
+    {
+      "id": "359225920052953",
+      "score": 1,
+      "review_title": "Confused",
+      "review_description": "The app claims to have 10,000 high quality homes.   However when you click the homes button you are offered a total 189 homes of which only 93 are 3D, very few would meet anyone’s definition of high quality and all are available on side quest for free.     The rest are just AI generated 2d pics or blurring 2d home snaps that I guarantee you don’t want as your home environment.  I would happily pay £5 for a single stand alone home environment of the quality of the default quest home environments such as the desert terrace. Thus £7.99 for hundreds should be an absolute steal yet I am struggling to recommend this app.    I’m not applying for a refund because I’m hoping it will show it’s worth in time but right now it’s a one star app that needs to stay in the App Lab.",
+      "date": 1704722270,
+      "review_helpful_count": 6,
+      "author_display_name": "CPaulStewart",
+      "author_alias": "CPaulStewart",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nHi CPaulStewart, we appreciate your feedback and apologize for any confusion.\nWe appreciate your detailed feedback. It seems there might be a disconnect in the interpretation of the term \"homes.\" Our aim is to offer a diverse range of virtual environments, including 3D homes and panoramas(skyboxes, which could also be customized in Quest Home). \n\nRegarding 'high quality', you're absolutely right. While not every piece meets that standard, we acknowledge the need for improvement and are committed to enhancing our content. We'll work on refining our content creation and recommendations to showcase more exceptional environments.\n\nOur intention is to cater to various preferences, and we value your input. And we're striving to offer a more refined experience. Stay tuned for updates, and feel free to share any specific preferences you have. We're here to make it right!\n\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1746604301
+      }
+    },
+    {
+      "id": "221773271022519",
+      "score": 1,
+      "review_title": "Money scam",
+      "review_description": "Only 5 generated AI (not so good) skybox... And the quality is just bad...",
+      "date": 1707176796,
+      "review_helpful_count": 3,
+      "author_display_name": "robots023",
+      "author_alias": "robots023",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nHi robots023, we appreciate your feedback. \n\nWe provide 5 free ai generation trials as we said in our store product page. But you can access the member-only gallery which has tens of thousands of skyboxes.\n\nAI generation indeed comes with costs, and we've incorporated various features beyond AI. We encourage you to explore these aspects. \n\nIf you still find the app doesn't align with your expectations, you're eligible for a refund. As a small team, we kindly request reconsideration before leaving a negative review.\n\nThank you for your understanding.\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1746604277
+      }
+    },
+    {
+      "id": "196536173531973",
+      "score": 5,
+      "review_title": "I love this",
+      "review_description": "I Just wish I could figure it out. I've spent HOOOOURS trying to go through every step. But I must admit my ADHD really doesn't help so I lose concentration and get really frustrated. I just wish there was an easier guide for people like me that would make it more helpful (Videos are a no go I get too bored and I have to take my headset on and off and that gets annoying) I REALLY WANNA USE MY WORLD! still giving it 5 stars cause it's my fault I can't figure it out :(",
+      "date": 1701215425,
+      "review_helpful_count": 8,
+      "author_display_name": "PinkyxBrewster",
+      "author_alias": "PinkyxBrewster",
+      "developer_response": {
+        "body": "Thank you so much for the love! We must admit that navigating through every step can be a bit challenging, so your patience and feedback is much appreciated.\n\nWe're still working on some up-to-date tutorials. For now this video is still helpful→ https://www.youtube.com/watch?v=clv4y9fmSlU\n\nWe'd love to walk u through this process step by step if you join us on discord:\nhttps://discord.gg/HwZr7kgRyF",
+        "date": 1701247642
+      }
+    },
+    {
+      "id": "202912866245485",
+      "score": 5,
+      "review_title": "good",
+      "review_description": "really awsome",
+      "date": 1706012597,
+      "review_helpful_count": 2,
+      "author_display_name": "qymll",
+      "author_alias": "qymll",
+      "developer_response": {
+        "body": "Thanks for supporting us qymll! Hope you enjoy the magic with MoonVR! We'll keep improving the App and creating fun with all of you. \nSo grateful and honored to have users like you! \n\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1706152794
+      }
+    },
+    {
+      "id": "715128723870286",
+      "score": 1,
+      "review_title": "Money Scam",
+      "review_description": "Boasts having AI generated capabilities, but fails to mention you get only FIVE lifetime attempts, unless you want to pay for more. You’re better off creating the images yourself",
+      "date": 1701141119,
+      "review_helpful_count": 4,
+      "author_display_name": "Camodude1239",
+      "author_alias": "Camodude1239",
+      "developer_response": {
+        "body": "Hi, sorry about the misinformation. We've updated our product page.\n\nThe cost for AI-generated-content(image and text) is indeed quite high. And unfortunately, subscription is unavailable for apps on Applab. Not being accepted into the Oculus store means a lack of income.That's why, at the moment, we provide users with 5 free generations only and offer in-app purchases (IAP) for those who need more.\n· Typically, access to community AI content is a feature reserved for subscribed members. However, at this early stage, we want to inspire users to create and share interesting content. So, we've opened up access to community AI-generated content for all users. We hope you all enjoy exploring and creating in our community!",
+        "date": 1701247956
+      }
+    },
+    {
+      "id": "893145569174441",
+      "score": 5,
+      "review_title": "Definitely reccomend",
+      "review_description": "It’s an awesome experience and I would recommend it to y’all. Pick it up if you have some money and you wanna get something for your quest.",
+      "date": 1702593261,
+      "review_helpful_count": 2,
+      "author_display_name": "JND_SoCool",
+      "author_alias": "JND_SoCool",
+      "developer_response": {
+        "body": "Thanks for supporting us! Hope you enjoy the magic with Moon! We'll keep improving the App and creating fun with all of you. \nSo grateful to have users like you! \n\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1702866842
+      }
+    },
+    {
+      "id": "206073735903229",
+      "score": 3,
+      "review_title": "smh",
+      "review_description": "missing importent info, not user friendly, no real direction on how to use the app.  Hard to understand.  not everyone is tech savy 🙄",
+      "date": 1703572836,
+      "review_helpful_count": 0,
+      "author_display_name": "ScottyCerv401",
+      "author_alias": "ScottyCerv401",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nHi there!  We're sorry to hear about your experience, and we genuinely appreciate your feedback. \n\nAs a small team, we do face resource constraints, but we're actively working on enhancing user-friendliness and providing clearer guidance. \nWe just release an update to make the app more accessible and will keep workin' on it. Give it another try!\n\nYour patience is valued as we make improvements. For additional assistance, please check out our FAQ on our official website. https://moonvrhome.com/faq\n\nThank you for your understanding! 🙏",
+        "date": 1746604330
+      }
+    },
+    {
+      "id": "122153623916016979",
+      "score": 5,
+      "review_title": "best 10 dollars of my life",
+      "review_description": "great app love it",
+      "date": 1704158629,
+      "review_helpful_count": 2,
+      "author_display_name": "blurrrgaming",
+      "author_alias": "blurrrgaming",
+      "developer_response": {
+        "body": "Thanks for supporting us! Hope you enjoy the magic with MoonVR! We'll keep improving the App and creating fun with all of you. \nSo grateful and honored to have users like you! \n\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1704176187
+      }
+    },
+    {
+      "id": "297788969747321",
+      "score": 5,
+      "review_title": "just awesome",
+      "review_description": "wont be in app lab long, its too good",
+      "date": 1699527060,
+      "review_helpful_count": 20,
+      "author_display_name": "JMFP403",
+      "author_alias": "JMFP403",
+      "developer_response": {
+        "body": "Thank you soooo much for your fantastic feedback! We're thrilled to hear that you find our app awesome and your support means a lot to us!\n\nWe hope you continue enjoying your experience, and if you have any suggestions or if there's anything specific you love about the app, feel free to let us know. We appreciate having users like you on board!",
+        "date": 1699603358
+      }
+    },
+    {
+      "id": "1293667394655273",
+      "score": 5,
+      "review_title": "So much value and wow factor!",
+      "review_description": "Such a great app for customization. The  new updates are really amazing with the portals. This really helps make your home environment come alive!",
+      "date": 1700710098,
+      "review_helpful_count": 3,
+      "author_display_name": "RgordonR",
+      "author_alias": "RgordonR",
+      "developer_response": {
+        "body": "Thank you soooo much for your fantastic feedback! We're thrilled to hear that you find our app valuable and your support means a lot to us!\n\nWe hope you continue enjoying your experience, and if you have any suggestions or if there's anything specific you love about the app, feel free to let us know. We appreciate having users like you on board!",
+        "date": 1700726426
+      }
+    },
+    {
+      "id": "211063822019680",
+      "score": 5,
+      "review_title": "how has meta not approved this app",
+      "review_description": "see above",
+      "date": 1699927853,
+      "review_helpful_count": 19,
+      "author_display_name": "YummiestPaper",
+      "author_alias": "YummiestPaper",
+      "developer_response": {
+        "body": "Thank you sooo much for your incredible feedback! We're over the moon to hear that you like our app, and your support means the world to us!\n\nWe hope you continue to have a great experience, and if you ever have suggestions or specific things you love about the app, please share them with us. We're grateful to have users like you with us!",
+        "date": 1699951248
+      }
+    },
+    {
+      "id": "157188644152453",
+      "score": 5,
+      "review_title": "Finally",
+      "review_description": "this is exactly what i have been looking for. Thanks",
+      "date": 1700939623,
+      "review_helpful_count": 2,
+      "author_display_name": "SpiRichual777",
+      "author_alias": "SpiRichual777",
+      "developer_response": {
+        "body": "Thanks for supporting us! Hope you enjoy the magic with Moon! We'll keep improving the App and creating fun with all of you. \nSo grateful to have users like you! \n\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1701248164
+      }
+    },
+    {
+      "id": "270776239207353",
+      "score": 5,
+      "review_title": "love the skybox results",
+      "review_description": "unfortunately, since updating to v57 on quest 2 the new saved skyboxes don't show up anymore",
+      "date": 1695530500,
+      "review_helpful_count": 20,
+      "author_display_name": "Mr.TurtleVR",
+      "author_alias": "Mr.TurtleVR",
+      "developer_response": {
+        "body": "Thank you for bringing this to our attention! We're sorry to hear about the issue you've encountered with the saved skyboxes not showing up after the update to v57 on Quest 2. \nOur team couldn't reproduce the problem, but we will keep monitoring this situation closely. \n\nIf you have any more feedback or questions, please don't hesitate to reach out. \nFeel free to join our discord server and stay tuned for the latest update! \nhttps://discord.gg/HwZr7kgRyF\nThanks for your support!",
+        "date": 1695700782
+      }
+    },
+    {
+      "id": "327650413133386",
+      "score": 5,
+      "review_title": "perfect",
+      "review_description": "works as intended👍",
+      "date": 1696189237,
+      "review_helpful_count": 18,
+      "author_display_name": "ScurvyScallywag917",
+      "author_alias": "ScurvyScallywag917",
+      "developer_response": {
+        "body": "Thanks for rating us! Hope you enjoy the magic with Moon! We'll keep improving the App and creating fun with all of you. \n\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1696926157
+      }
+    },
+    {
+      "id": "214770718326416",
+      "score": 3,
+      "review_title": "help",
+      "review_description": "have purchased this but how do i install it to my quest 3?",
+      "date": 1700828905,
+      "review_helpful_count": 1,
+      "author_display_name": "avincentgarland",
+      "author_alias": "avincentgarland",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nHi, does it work out? You need install our App on your Quest: App Library\n-------\nHi, if you're asking about installing custom homes, we're still working on some up-to-date tutorials. \nFor now this video is still helpful tho↓\nhttps://www.youtube.com/watch?v=clv4y9fmSlU\n\nWe'd love to walk u through this process step by step if you join us on discord:\nhttps://discord.gg/HwZr7kgRyF",
+        "date": 1746604354
+      }
+    },
+    {
+      "id": "1247691345896192",
+      "score": 5,
+      "review_title": "Just what I need it for my skybox",
+      "review_description": "The skybox is a complicated place and I have been wanting to personalize it. This app lets you do that although there are many steps, you have to go through to get to where you can finally install your personalized skybox, it is very much worth it. If you’re having problems, just reread the directions. Thank you for this app. And thank you for all the updates you have been making!",
+      "date": 1694289780,
+      "review_helpful_count": 3,
+      "author_display_name": "AprilPvd",
+      "author_alias": "AprilPvd",
+      "developer_response": {
+        "body": "Thanks so much for taking the time to leave us a 5-star rating and sharing your feedback! Enjoy your magic journey with Moon! Again, we will keep you updated in the discord server. ❤",
+        "date": 1694703092
+      }
+    },
+    {
+      "id": "282130197702884",
+      "score": 4,
+      "review_title": "Amazing App!",
+      "review_description": "First, the bad. When using the AI and designing people the faces are jacked up. It wasn't as bad before but recently the faces are sometimes all nose or three eyes or basically a mis-mash of skin. It happened in all of the categories I chose. So it's not limited to one category. \nTwo, a lot of times when you save an AI generated image, it doesn't always save. I basically pop into my files to see if it saves now. It's usually 1 out of the 10 we can do daily. \nThree- The keyboard. Oh man. It's buggy. I have to pretty much check every letter because it messes up a lot. ALOT. And it sucks to not be able to just move the cursor. If you have a large description and want to change just say the third sentence, you're screwed. You have to either type it all over again or delete from the end all the way back to where you need to edit. That's a HUGE pain. If you could copy the keyboard in Horizon Worlds, that would be a great upgrade. \nThat's all the criticism I have. The 10 images daily isn't my cup of tea, but if you didn't limit it I would probably die from thirst because I'd never stop creating new environments! \n\nNow the good: Everything. I know what I said before but I also realize that it's AI. It's basically sorcery. A program makes my words into a huge image. How the hell can I complain about that! My feedback is because I'm asking for perfection. Lol. This app is really amazing. I use the Hogwarts environment and I just stare at it. It's amazing. Then being able to take a pic and use it as a skybox is unreal. I broke my girlfriend's brain when I used a pic of her and made it my background! This app is incredible and I would pay for it if you made a premium version without hesitation. Keep up the outstanding work.",
+      "date": 1688793215,
+      "review_helpful_count": 17,
+      "author_display_name": "Triggatron",
+      "author_alias": "Triggatron",
+      "developer_response": {
+        "body": "Thank you Triggatron, for your feedback and support. That means a lot to us! \nAs a small team, we are committed to continuously improving and addressing your mentioned issues. We are actively working on optimizing the AI generation and will check the saving functionality and the keyboard issues. \nYour feedback regarding the keyboard in Horizon Worlds and a premium version is noted, and we will consider it for future upgrades to provide a smoother user experience.\n\nAgain, thank you for your feedback and for being a part of our incredible community. Keep creating and enjoy the outstanding work you're doing with our app! \nFeel free to join our discord server and stay tuned for the latest update! \nhttps://discord.gg/HwZr7kgRyF",
+        "date": 1689217744
+      }
+    },
+    {
+      "id": "699904381997685",
+      "score": 5,
+      "review_title": "its good",
+      "review_description": "nice costomization easy to use \n\nwould not recomend people in custom sky's\n\n\nthe only problem is that the ai dose not like boy's.",
+      "date": 1694849044,
+      "review_helpful_count": 3,
+      "author_display_name": "zuki22",
+      "author_alias": "zuki22",
+      "developer_response": {
+        "body": "Thanks for the positive review and enjoy the magic with Moon! We'll keep improving the App and creating fun with all of you. Join us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1694703343
+      }
+    },
+    {
+      "id": "247734748173186",
+      "score": 1,
+      "review_title": "Help",
+      "review_description": "Can't really give this any kind of review as it doesn't even let me sign up! - After typing in my email address & password it tells me it is sending me a code to activate ect, no matter how many times we've tried we don't get the code at all. Shame really as this has been recommended many times to us and we feel like we are missing out.",
+      "date": 1691970525,
+      "review_helpful_count": 2,
+      "author_display_name": "Martinos1989",
+      "author_alias": "Martinos1989",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nHi, we've released a bunch of updates including mixed reality portal and bugfixes since you left a review here. Feel free to give it a try. Thanks a lot for your support!\n------\nWe apologize for the inconvenience!\nDue to issues with our email service provider, new users were temporarily unable to receive verification codes for registration or password resets on the weekend. Fortunately the issue is FIXED.\n\nThank you for your understanding and enjoy your magic journey with Moon!\n\nFeel free to join our discord server and stay tuned for the latest update! \nhttps://discord.gg/HwZr7kgRyF",
+        "date": 1746604398
+      }
+    },
+    {
+      "id": "337991745469228",
+      "score": 2,
+      "review_title": "can't open",
+      "review_description": "stuck at checking data start screen",
+      "date": 1696900551,
+      "review_helpful_count": 1,
+      "author_display_name": "daveshark",
+      "author_alias": "daveshark",
+      "developer_response": {
+        "body": "Please check out the latest Overhaul version of our App and feel free to share your thoughts!\n\n----------\nWe're so sorry to hear about the issue you're facing. Our team couldn't reproduce this problem. To better assist you, could you please check a few things for us?\n\n1. Network Connection: Ensure you have a stable internet connection.\n2. App Version: Make sure you are using the latest version of our app. Outdated versions may have compatibility issues.\n3. System Version: Confirm that your Quest's system is up to date.\n\nIf the issue persists after checking these factors, we recommend joining our Discord community, for more real-time assistance and troubleshooting. \nhttps://discord.gg/HwZr7kgRyF\n\nPlease feel free to reach out, and we'll do our best to resolve this for you. Thank you for your understanding!",
+        "date": 1746604388
+      }
+    },
+    {
+      "id": "5559815654121429",
+      "score": 5,
+      "review_title": "Some great environments",
+      "review_description": "Meta needs to add support for custom homes like this to the stock firmware.",
+      "date": 1687741842,
+      "review_helpful_count": 5,
+      "author_display_name": "nupraptor",
+      "author_alias": "nupraptor",
+      "developer_response": {
+        "body": "Thank you for the positive feedback! We appreciate your suggestion regarding support for custom homes in the stock firmware of Meta. \nAnd we're constantly working on improving our app and introducing new features, and your input is valuable to us. If you have any further feedback or ideas, please feel free to share. Thank you again and have a great day!",
+        "date": 1687747249
+      }
+    },
+    {
+      "id": "1213876365958600",
+      "score": 5,
+      "review_title": "Great way to see virtual environments",
+      "review_description": "Hopefully the process of easily changing virtual environments gets more streamlined and the fact that we’ve gone this long without any way to change it without the use of side loading is ridiculous. This app easily allows users to preview virtual environments before going through the hassle of downloading them through side quest. Glad I got it definitely worth it no reason not to have it.",
+      "date": 1682821531,
+      "review_helpful_count": 7,
+      "author_display_name": "CaptainKidd3737",
+      "author_alias": "CaptainKidd3737",
+      "developer_response": {
+        "body": "Thank you so much CaptainKidd! Glad you like our App and we'll keep improving it. \n\nBTW, we sincerely suggest you stay on V50 to avoid the installation bug.\n\nAs for the installation bug on V51+, we’re communicating with Oculus Team and seeking possible solutions and we’re working on a new way to make effortless installation. Stay tuned!\nhttps://discord.gg/HwZr7kgRyF\n————————\nUpdate: the bug is fixed and the in-vr installation feature is back! Feel free to try it!",
+        "date": 1689217912
+      }
+    },
+    {
+      "id": "676160871009395",
+      "score": 5,
+      "review_title": "good stuff",
+      "review_description": "good stuff",
+      "date": 1688263420,
+      "review_helpful_count": 4,
+      "author_display_name": "Cool_Bob",
+      "author_alias": "Cool_Bob",
+      "developer_response": {
+        "body": "Thank you for the positive feedback! \nAnd we're constantly working on improving our app and introducing new features, and your input is valuable to us. If you have any further feedback or ideas, please feel free to share. Thank you again and have a great day!",
+        "date": 1688353093
+      }
+    },
+    {
+      "id": "227649979828750",
+      "score": 5,
+      "review_title": "Silly Little App",
+      "review_description": "This is a silly little app that adds to the fun of Quest 2 experience. What is it? Basically it is a database and installer of custom home environments. Many of the environments are themed from movie/TV, games, anime and the like. Most of the themes are available in versions from app lab but Moon VR Home allows you to load them directly to your headset without having to sideload them. True you could sideload SideQuest to your headset and install them directly that way but Moon VR Home has a twist. You can customize a few of the environments. Customization includes adding images (stock and your own uploaded/screenshots), skyboxes (background scenes in windows), background music/sounds, and 3D models.\nThe developers continue to add features and port/add environments so the boredom factor is low to nil.\nLots of fun to be had. Check it out.",
+      "date": 1679151051,
+      "review_helpful_count": 28,
+      "author_display_name": "NomadsAnIsland",
+      "author_alias": "NomadsAnIsland",
+      "developer_response": {
+        "body": "Thanks a lot for your support! We will continue to improve the app and bring you more fun!",
+        "date": 1679369804
+      }
+    },
+    {
+      "id": "768445495069069",
+      "score": 5,
+      "review_title": "Fun!",
+      "review_description": "Nice to mix up the homescreen and even pull in your own photos from Quest 2 directory is neat",
+      "date": 1684931226,
+      "review_helpful_count": 3,
+      "author_display_name": "laurieowen",
+      "author_alias": "laurieowen",
+      "developer_response": {
+        "body": "Thank you so much laurieowen! Glad you like our App; we'll keep improving it and rolling out new features. Let's create something fun together! \nJoin us on Discord to get the latest updates!\nhttps://discord.gg/HwZr7kgRyF",
+        "date": 1689217801
+      }
+    },
+    {
+      "id": "301130538922568",
+      "score": 5,
+      "review_title": "Brilliant app",
+      "review_description": "Great for personalising headset but how do you scroll through various environments? Says 1/22 at the bottom of the Home Screen but can’t scroll through to next page",
+      "date": 1680005097,
+      "review_helpful_count": 16,
+      "author_display_name": "weebso",
+      "author_alias": "weebso",
+      "developer_response": {
+        "body": "Sorry for the inconvenience on UX and thank you for joining us on discord & leaving feedback!\nYou can Hover on the panel and push Thumbstick/R  forward or back to turn pages.",
+        "date": 1680066943
+      }
+    },
+    {
+      "id": "167492796162713",
+      "score": 5,
+      "review_title": "Support this one!",
+      "review_description": "Great app!  If you are looking to help the developers I found it very difficult to “upvote” this from the device.  Instead I’ve used my phone app - I encourage others to do the same as I feel some of these gems on app lab are being looked over due to the restrictions on voting and sharing free apps.    Great interface - just got started but would love to fully hide the interface (not just minimize it).",
+      "date": 1679779282,
+      "review_helpful_count": 5,
+      "author_display_name": "MetaMiler",
+      "author_alias": "MetaMiler",
+      "developer_response": {
+        "body": "Hi, thanks so much for your support and helpful discoveries!",
+        "date": 1681108140
+      }
+    },
+    {
+      "id": "130667699952066",
+      "score": 5,
+      "review_title": "Finally what I wanted!",
+      "review_description": "Spectacular application.\nFor the first time I had the opportunity to feel like I was in MY home.\nI managed to thrill my son who literally went crazy when he found himself in Peach's castle!\nAnd I too went crazy with joy when I had the opportunity to FINALLY recreate an environment that was at least plausible to the real one of my real spaces.\n\n If I now appreciate the Quest 2 more, it is thanks to the work of this team.\nThanks guys!",
+      "date": 1678873057,
+      "review_helpful_count": 9,
+      "author_display_name": "Stugabaranda",
+      "author_alias": "Stugabaranda",
+      "developer_response": {
+        "body": "Thanks a lot for your support! We will continue to improve the app!",
+        "date": 1679029907
+      }
+    },
+    {
+      "id": "1924962637838624",
+      "score": 5,
+      "review_title": "Nice Home App",
+      "review_description": "Love this little app. The way you can check out your home environment before you load is super cool. You can customize your home too! Give it a try you won't be sorry especially if you like to change it up once in awhile.",
+      "date": 1680976826,
+      "review_helpful_count": 3,
+      "author_display_name": "okeyone",
+      "author_alias": "okeyone",
+      "developer_response": {
+        "body": "Hi there, thank you so much for your support! We will continue to improve the app and develop more features!\nFeel free to join our Discord server: https://discord.gg/HwZr7kgRyF",
+        "date": 1689218395
+      }
+    },
+    {
+      "id": "242362588244571",
+      "score": 3,
+      "review_title": "Unable to install environments on V51",
+      "review_description": "So I had Moon home installed after seeing a You Tube review and spent some time going through a few 3D homes and added a few to the list. Then was told I need to install a separate Home installer. Searched online and then read a message that it's not possible on V51. So I've already updated to V51 before I even install this. Perhaps you should make this clear on the store page. Bit disappointing to find right now it's useless for me but I can see the potential. When you fix will update and add stars, but please change the store listing so others don't waste time :)",
+      "date": 1681306184,
+      "review_helpful_count": 1,
+      "author_display_name": "mond_uk",
+      "author_alias": "mond_uk",
+      "developer_response": {
+        "body": "Thank you for the kind reminder and sorry for the inconvenience. We'll try our best to fix the bug with the Oculus team. Stay tuned!\nhttps://discord.gg/HwZr7kgRyF\n————————\nUpdate: the bug is fixed and the in-vr installation feature is back! Feel free to try it!",
+        "date": 1689217940
+      }
+    },
+    {
+      "id": "1605305746564749",
+      "score": 5,
+      "review_title": "All environments at your fingertips",
+      "review_description": "Awesome app that has loads of custom environments for your quest. You can save a list of environments then download and install all at once.\n\nThe recent update allowed to teleport anywhere in the environment which is awesome to see little details that where not possible with the limited teleport meta has. Hope meta allows more teleport options in future.\n\nGreat work guys",
+      "date": 1674034306,
+      "review_helpful_count": 5,
+      "author_display_name": "CrimsonSky3000",
+      "author_alias": "CrimsonSky3000",
+      "developer_response": {
+        "body": "Hi there, thank you so much for your support! We will continue to improve the app to a higher standard!",
+        "date": 1675075028
+      }
+    },
+    {
+      "id": "764858964720304",
+      "score": 5,
+      "review_title": "Good for previewing homes!",
+      "review_description": "I am a huge fan of actually being able to preview the homes before you download them as this is something I have been missing. The UI is easy to explore and you can quickly filter by theme to sort through the wide range of existing homes. I hope to see loads more homes added to this in the future as I like to change my VR homes depending on my mood/season.",
+      "date": 1659542919,
+      "review_helpful_count": 4,
+      "author_display_name": "ROBYER1",
+      "author_alias": "ROBYER1",
+      "developer_response": {
+        "body": "Hi there! Thanks a lot for your support! We will definitely add more homes to enrich our app! We assure you that Moon VR Home will become better and include more kinds of environment in the future:) Btw, you can join our discord to leave your comments or environment requirements anytime! The discord link can be found in the website of Moon VR Home, we are waiting for you in discord!",
+        "date": 1659596593
+      }
+    },
+    {
+      "id": "399555365610296",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "I like the App very much and use it daily, The Resolution of the Pictures could be higher but i am sure they are working on it.",
+      "date": 1660063839,
+      "review_helpful_count": 6,
+      "author_display_name": "akiraklein",
+      "author_alias": "akiraklein",
+      "developer_response": {
+        "body": "Thanks for your support and review! We will work on the resolution problem and we believe higher resolution will be achieved soon!",
+        "date": 1660121380
+      }
+    },
+    {
+      "id": "450320733674949",
+      "score": 4,
+      "review_title": "Moon vr",
+      "review_description": "Love the app just can’t seem to download the 3d ones there’s no download option? and after the update they have gone, still a great app for home environments tho",
+      "date": 1660307963,
+      "review_helpful_count": 3,
+      "author_display_name": "sPeddr0w",
+      "author_alias": "sPeddr0w",
+      "developer_response": {
+        "body": "Hi there, thanks for your support and review! We have temporarily taken down those 3D scenes that were not available for download, but have updated a number of downloadable ones, you can try the latest ones!",
+        "date": 1660542886
+      }
+    },
+    {
+      "id": "130289746364890",
+      "score": 5,
+      "review_title": "An impressive app!!",
+      "review_description": "An impressive app, so many amazing environments. I really enjoy using my quest 2 on a sunset beach or a tropical forest :) Look forward to more environments in the future!!",
+      "date": 1658371569,
+      "review_helpful_count": 5,
+      "author_display_name": "Summer0406",
+      "author_alias": "Summer0406",
+      "developer_response": {
+        "body": "Thank you for your support! We will continue to improve our product!",
+        "date": 1659594736
+      }
+    },
+    {
+      "id": "1494541164449863",
+      "score": 3,
+      "review_title": "Has Potential, But Needs Work to Shine",
+      "review_description": "This app is a promising showcase that needs some polish. I can see why it’s on App Lab and not the main store just yet. I really love the mixed reality on Q3 and the ability to create a portal in your room and describe a location to travel to…very cool stuff. But this would be so much better if the Devs would incorporate a keyboard with voice functions like the existing Quest keyboard. I don’t want to type in long descriptions when I could just speak them. \n\nSome other portal door options would also be amazing. Obviously, I would love to be able to actually enter the portal completely if I choose and become immersed in my creation. Currently, it’s a little tricky to be able to fully immerse yourself but I love seeing the portal door back to my room off in the distance. So much potential! Imagine if you could enter a portal and have the world come alive around you…cars zooming down the street, the noise of a rainy city…like you landed in the middle of a scene in action. One day! \n\nIn the meantime, I hope the Devs keep working on this app and polishing the experience so it eventually finds its way onto the main store. I think some users are longing for experiences where they can just immerse themselves in cool environments. There are so many games on the store, but not as many experiences that just allow you to bask and immerse yourself in the magic of VR. Moon could be one of those apps.",
+      "date": 1700533792,
+      "review_helpful_count": 0,
+      "author_display_name": "BluSkyler",
+      "author_alias": "BluSkyler",
+      "developer_response": {
+        "body": "Thank you for your thoughtful and detailed feedback! We're thrilled that you see the potential in our app and glad you find it cool! \n\nVoice functions are definitely something we're considering, and more portal door options are on our radar. We love your vision of fully immersing yourself. It's something we're exploring for future updates. Stay tuned for updates as we work towards offering even more magical experiences. Thank you for being part of our journey! So honored to have users like you!\nJoin us on discord anytime you need: https://discord.gg/HwZr7kgRyF",
+        "date": 1700634340
+      }
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T18:14:00Z"
+}

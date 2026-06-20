@@ -1,0 +1,73 @@
+{
+  "app_id": "2379075352124947",
+  "package_name": "com.moonstar.probowling",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Pro Bowling Social",
+  "rating_average": 2.7142857142857,
+  "rating_count": 7,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "975003222880059",
+      "score": 1,
+      "review_title": "Horrible",
+      "review_description": "The graphics, pin physics, controls and overall gameplay are all terrible. I can’t even imagine that any further coding can redeem this failed bowling simulation.",
+      "date": 1574529695,
+      "review_helpful_count": 17,
+      "author_display_name": "therealrick",
+      "author_alias": "therealrick",
+      "developer_response": {
+        "body": "Thank you for your comments. We are sorry to hear that you didn't like our game. We are continuously improving our game. Since Oculus Go and Gear VR controller have no positional tracking, sense of ball handling may feel a little different from real life but you may get used to it. We hope you enjoyed multiplayer features of our game, voice chat and social gameplay and we hope that you will give our game a second chance.",
+        "date": 1574537813
+      }
+    },
+    {
+      "id": "179571867230331",
+      "score": 1,
+      "review_title": "Pro bowling",
+      "review_description": "No one ever challenges me . I wished I  didn't purchase this game",
+      "date": 1607452905,
+      "review_helpful_count": 4,
+      "author_display_name": "Spirit2017",
+      "author_alias": "Spirit2017",
+      "developer_response": null
+    },
+    {
+      "id": "112014386951393",
+      "score": 3,
+      "review_title": "Bowling",
+      "review_description": "The graphics and background are good.....but aiming the bowl is completely off.",
+      "date": 1575947794,
+      "review_helpful_count": 4,
+      "author_display_name": "angela.m.gillis",
+      "author_alias": "angela.m.gillis",
+      "developer_response": {
+        "body": "Thank you for your comments, please reorient your controller whenever you are having aiming problems. To reorient the controller, press and hold the Home button (most bottom button on the controller) until the circle fills up. When the circle disappears, the controller is reoriented. We plan to add optional visual aiming assistance for future versions.",
+        "date": 1575997391
+      }
+    },
+    {
+      "id": "106254044330587",
+      "score": 3,
+      "review_title": "2 player mode",
+      "review_description": "Is there a 2 player mode were i can play with my wife she has her own vr set",
+      "date": 1583848746,
+      "review_helpful_count": 4,
+      "author_display_name": "cintron216",
+      "author_alias": "cintron216",
+      "developer_response": {
+        "body": "Hello and thank you for comment and rating. Although there is no peer to peer mode in our game, if second player starts the game as soon as the first player's waiting room is loaded, game will match you with each other, since your geolocations and start times are close to each other.",
+        "date": 1587813669
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T18:13:43Z"
+}

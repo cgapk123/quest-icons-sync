@@ -1,0 +1,42 @@
+{
+  "app_id": "8469456826403551",
+  "package_name": "com.movione.MoviePassScreeningRoom",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "MoviePass Screening Room",
+  "rating_average": 2.9090909090909,
+  "rating_count": 11,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "954141536782035",
+      "score": 5,
+      "review_title": "Great start",
+      "review_description": "I like the idea.  Could use some more explicit instructions on how the controllers work and the ability to adjust the screen would be nice. But I like watching the trailers inside the headset.  Hopefully one day it can connect to a library to purchase or rent the movies.",
+      "date": 1737763878,
+      "review_helpful_count": 10,
+      "author_display_name": "converseman",
+      "author_alias": "converseman",
+      "developer_response": null
+    },
+    {
+      "id": "599350889926511",
+      "score": 3,
+      "review_title": "",
+      "review_description": "No point in getting just a library with trailers hopefully they make it so renting or buying movies are possible",
+      "date": 1741573674,
+      "review_helpful_count": 2,
+      "author_display_name": "agent.da.boss.913291",
+      "author_alias": "agent.da.boss.913291",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T18:14:51Z"
+}

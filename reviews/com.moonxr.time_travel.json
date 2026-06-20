@@ -1,0 +1,587 @@
+{
+  "app_id": "24837566725845304",
+  "package_name": "com.moonxr.time_travel",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Revisit: Time Travel with Google Earth",
+  "rating_average": 4.4567901234568,
+  "rating_count": 162,
+  "review_count": 43,
+  "reviews": [
+    {
+      "id": "1109805868887641",
+      "score": 5,
+      "review_title": "Good trip",
+      "review_description": "Just explored all the curated 2026 World Cup venues in VR  … and my bucket list got a lot longer.  Time Travel(rift effects) is unique and easy. One location I visited brought back memories from when I stayed there during the COVID lockdown. Seeing it full of life again felt surreal, almost like walking through a movie, especially with the YouTube 360 videos mixed in. Nostalgic...The local radio adds a nice touch too. My only suggestion: maybe don't start with hard rock by default. Then again, changing stations takes two seconds, so not a big deal. The blue dot street view is not stable, the dev said it mostly depends on google. So, dear Google: if you're not going to release a proper Street View app for Quest, please open up more content and features to third-party developers. Oh, definitely try the HD mode. It's easily the clearest street-view experience I've seen in VR so far.",
+      "date": 1780660149,
+      "review_helpful_count": 6,
+      "author_display_name": "CrimsonMantisShrimp4081",
+      "author_alias": "CrimsonMantisShrimp4081",
+      "developer_response": {
+        "body": "Thx! ❤️",
+        "date": 1781490924
+      }
+    },
+    {
+      "id": "1097963653406197",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "This is a great app. I was able to see my hometown for the first time in many years, and select different years to see building that are not there anymore. I think with improvements, this could be even better. I don’t like the point and select footprint thing to move. I would much rather use the stick in the direction I want to go, and be on a track. I think it’d be amazing to invite people to stand next to you, and one person have sole control of movement. That would really enhance the user experience. Overall, it’s great to stand there and see things! Different immersion than looking at your phone screen.",
+      "date": 1780334233,
+      "review_helpful_count": 3,
+      "author_display_name": "SwitchHoward",
+      "author_alias": "SwitchHoward",
+      "developer_response": {
+        "body": "Thx! Yeah being able to revisit your hometown and see buildings that are gone now is exactly the kind of experience we hoped Revisit could bring, so I'm really happy to hear that.\n\nAnd thanks for the suggestions too! The stick movement and shared-travel ideas are both great points. We've actually talked about similar ideas before, so who knows. 😄\n\nReally appreciate you taking the time to share your thoughts. \nFeel free to join our Discord anytime if you need a hand or have ideas, feedback, or stories to share:\nhttps://discord.gg/AmCyjVdp4G",
+        "date": 1780544178
+      }
+    },
+    {
+      "id": "1068473623013844",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "I was part of the early beta testers and I found my old car from 10 years ago parked in front of my garage on the map. It felt surreal to travel back in time in VR like that. big props to the devs for making this happen.",
+      "date": 1776159403,
+      "review_helpful_count": 33,
+      "author_display_name": "StuwartZ1783",
+      "author_alias": "StuwartZ1783",
+      "developer_response": {
+        "body": "Thx!",
+        "date": 1776652070
+      }
+    },
+    {
+      "id": "1518255266305715",
+      "score": 5,
+      "review_title": "TOP TIME TRAVEL!",
+      "review_description": "Revisit VR is a fascinating and unique experience that lets you explore real places through time. The Time Rift feature is incredibly satisfying, and the ability to visit any location adds endless possibilities. A must-try for exploration lovers.",
+      "date": 1776369655,
+      "review_helpful_count": 10,
+      "author_display_name": "Majerik",
+      "author_alias": "Majerik",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1776652079
+      }
+    },
+    {
+      "id": "1137945769398897",
+      "score": 5,
+      "review_title": "So many memories",
+      "review_description": "Seeing the apartment I lived in over 10 years ago… the restaurant where I used to work… sharing old memories with family… looking at these places in VR feels so much more real than just using Google Maps",
+      "date": 1778664950,
+      "review_helpful_count": 4,
+      "author_display_name": "CinderXxx",
+      "author_alias": "CinderXxx",
+      "developer_response": {
+        "body": "Thx ❤️",
+        "date": 1778727720
+      }
+    },
+    {
+      "id": "991082020752147",
+      "score": 5,
+      "review_title": "Grandpa loves it",
+      "review_description": "My grandpa really loves it. He hurt his knee before, so he can’t travel far anymore. He likes sitting on the couch using it to relive his life, sharing stories and memories from his past with us. There aren’t many VR experiences that he can enjoy for over an hour without getting tired, but this one he can.",
+      "date": 1770276111,
+      "review_helpful_count": 86,
+      "author_display_name": "JackieSi",
+      "author_alias": "JackieSi",
+      "developer_response": {
+        "body": "Thx ❤️",
+        "date": 1770621408
+      }
+    },
+    {
+      "id": "1149546498237473",
+      "score": 1,
+      "review_title": "Floating menu is in the way!!",
+      "review_description": "Absolutely frustrating when trying to view something that the floating menu keeps covering. There's no option to minimize it or close it, it stays in front of you so you cant actually see anything unless you uncomfortably look from the side and strain your eyes.",
+      "date": 1779055749,
+      "review_helpful_count": 1,
+      "author_display_name": "TheRealSykotic",
+      "author_alias": "TheRealSykotic",
+      "developer_response": {
+        "body": "You can hide the entire UI by pressing the B button on the controller.\n\nWhen you first launch the app, there’s a very clear tutorial explaining this, and you can also find the same guide again through the Help button at the bottom of the menu.\n\nWe’ve tried our best to make the instructions as clear and visible as possible, so we’re sorry that you still missed them.",
+        "date": 1779072714
+      }
+    },
+    {
+      "id": "1046127275241892",
+      "score": 1,
+      "review_title": "Fake fraud",
+      "review_description": "This app does not work the way they say it does I punched in my address it wouldn't even find it I punched in all the addresses where I used to live could not find nothing the only thing you get is New York City back 15 years ago who cares what it look like 15 years ago I could go on anything and find New York City 15 years ago",
+      "date": 1772231324,
+      "review_helpful_count": 15,
+      "author_display_name": "chrisn1972",
+      "author_alias": "chrisn1972",
+      "developer_response": {
+        "body": "Our data is sourced from Google Maps. Please double-check that your input is accurate. You can also select a location directly on the map.",
+        "date": 1772420092
+      }
+    },
+    {
+      "id": "1055466227645163",
+      "score": 4,
+      "review_title": "Great for the most part",
+      "review_description": "Installed this and spent most of my evening exploring NYC. I love, LOVE the immersive experience and the ability to “time travel” is honestly amazing. Would be even better if the time travel went farther back though. For example, how cool would it be to be able to go back in time to see Battery Park and the financial district prior to 9/11? What an amazing way to honor those we lost that day. Overall, very pleased, but will keep my fingers crossed for updates that go farther back than 2009.",
+      "date": 1773882066,
+      "review_helpful_count": 5,
+      "author_display_name": "emily.woodard1",
+      "author_alias": "emily.woodard1",
+      "developer_response": {
+        "body": "Hi, all of REVISIT’s data comes from Google Maps, so there’s very limited data available from before 2009. We’re exploring adding other data sources to help fill in the timeline.",
+        "date": 1773888347
+      }
+    },
+    {
+      "id": "1132953543230346",
+      "score": 4,
+      "review_title": "pretty cool",
+      "review_description": "good job guys this is a really fun app to use nostalgic",
+      "date": 1778061930,
+      "review_helpful_count": 4,
+      "author_display_name": "cBizzle904",
+      "author_alias": "cBizzle904",
+      "developer_response": {
+        "body": "Thx❤️",
+        "date": 1778209346
+      }
+    },
+    {
+      "id": "952116911319016",
+      "score": 5,
+      "review_title": "Big improvement this update",
+      "review_description": "I’ve always liked Google Maps style apps. The time comparison is a great idea.\nThis update finally lets you move around in Street View. And the HD mode looks really clear and the improvement is easy to see.\nOverall it just feels better to use. Loving it so far.",
+      "date": 1768982736,
+      "review_helpful_count": 41,
+      "author_display_name": "NeonSquirrel543",
+      "author_alias": "NeonSquirrel543",
+      "developer_response": {
+        "body": "🩷",
+        "date": 1769400847
+      }
+    },
+    {
+      "id": "1061635647029458",
+      "score": 1,
+      "review_title": "It's Junk",
+      "review_description": "I purchased this. It will not recognize, or let me click on a location to visit that place. As far as time travel for images provided in the app, it won't work.  A complete waste of my $4.99. Please do not buy, this us a scam app.",
+      "date": 1772319754,
+      "review_helpful_count": 6,
+      "author_display_name": "debhale911",
+      "author_alias": "debhale911",
+      "developer_response": {
+        "body": "Please check your internet connection. In some regions and at certain times, Google’s services may be unstable. You can email us at support@revisitvr.com with your country or region so we can help investigate the network connectivity issue.",
+        "date": 1772420309
+      }
+    },
+    {
+      "id": "25441623485446508",
+      "score": 4,
+      "review_title": "Promising",
+      "review_description": "*Updated Review . . . . . \nMy go to street map is always ‘Wander’ but this one looked interesting so I thought I’d give it a go. \nThe concept is good but at the moment it lacks basic settings like ‘Turn Speed’ ‘Satellite Map’ options ect. \nThe initial images weren’t good but after the developer suggested changing to ‘Beta’ I can now see that they are on a par with Wander. \nUpdates appear to be coming out fairly frequently which is good to see.",
+      "date": 1767938689,
+      "review_helpful_count": 30,
+      "author_display_name": "Guvner57",
+      "author_alias": "Guvner57",
+      "developer_response": {
+        "body": "🩷",
+        "date": 1769400855
+      }
+    },
+    {
+      "id": "1005335882667512",
+      "score": 1,
+      "review_title": "Horrible not at all what was expected",
+      "review_description": "So I got this app to find old restaurant that had burned down  now every what I got was a scam I traveled back to the year 2007 five prior to to restaurant burning …  yet the google image was from 2021 … so how is that even possible :(. How do I get a refund ?",
+      "date": 1772405606,
+      "review_helpful_count": 3,
+      "author_display_name": "Khemi89",
+      "author_alias": "Khemi89",
+      "developer_response": {
+        "body": "All of our data comes from Google Maps. In comparison mode, you will see Street View images from two different time periods. You need to fully switch the Street View image to 2007 in order to see that year. It’s possible that you may have mistaken the 2021 Street View for 2007.",
+        "date": 1772420431
+      }
+    },
+    {
+      "id": "991335300732284",
+      "score": 5,
+      "review_title": "Very cool app",
+      "review_description": "Clean, elegant, easy to use, and the experience is great.",
+      "date": 1773052241,
+      "review_helpful_count": 15,
+      "author_display_name": "Dancinggggg",
+      "author_alias": "Dancinggggg",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1773730348
+      }
+    },
+    {
+      "id": "883947357861337",
+      "score": 5,
+      "review_title": "This is very promising..",
+      "review_description": "Once they work out the connection problems this is going to be a great program",
+      "date": 1769741290,
+      "review_helpful_count": 28,
+      "author_display_name": "klind.2022",
+      "author_alias": "klind.2022",
+      "developer_response": {
+        "body": "Thanks a ton!😊\nYeah… the connection issue is a tricky one! Please do let me know if you run into any problems or have any feedback. I'd love to hear it.\nHappy Time Traveling! 🚀✨",
+        "date": 1769843477
+      }
+    },
+    {
+      "id": "1008399389025409",
+      "score": 5,
+      "review_title": "seniors",
+      "review_description": "Easy for seniors to use.",
+      "date": 1773801465,
+      "review_helpful_count": 6,
+      "author_display_name": "CheerfullyBird",
+      "author_alias": "CheerfullyBird",
+      "developer_response": {
+        "body": "THX!",
+        "date": 1774495904
+      }
+    },
+    {
+      "id": "909872738881903",
+      "score": 5,
+      "review_title": "Took me back to my college days",
+      "review_description": "Saw this app on TikTok where someone was revisiting places they used to live, so I tried it out. I lived in London for a few years, found my old college and the cafes I used to go to, and seeing how that area has changed was actually pretty interesting.",
+      "date": 1766569123,
+      "review_helpful_count": 27,
+      "author_display_name": "SunnyMiko",
+      "author_alias": "SunnyMiko",
+      "developer_response": null
+    },
+    {
+      "id": "991319107387999",
+      "score": 5,
+      "review_title": "Boutique",
+      "review_description": "It’s lightweight, but the idea is solid. The VR Google Maps concept is clever and nicely fills the gap left by the lack of an official VR version of Google Earth. The price feels fair, and it’s a great entry-level app for Quest 3s users.",
+      "date": 1766045814,
+      "review_helpful_count": 26,
+      "author_display_name": "Ss007dear",
+      "author_alias": "Ss007dear",
+      "developer_response": null
+    },
+    {
+      "id": "905080179358075",
+      "score": 5,
+      "review_title": "Stands out from other Google Maps apps",
+      "review_description": "The side-by-side view of different dates is cool. It makes changes in streets super easy to notice, and the time rift animation is really fun to play with. I have not seen other VR map apps do this.",
+      "date": 1766563029,
+      "review_helpful_count": 24,
+      "author_display_name": "GlacialPorcupine1123",
+      "author_alias": "GlacialPorcupine1123",
+      "developer_response": {
+        "body": "thx🩷",
+        "date": 1768186104
+      }
+    },
+    {
+      "id": "798440560030137",
+      "score": 5,
+      "review_title": "Magnificent",
+      "review_description": "Very good idea and very well implemented. Search for a location on the map or enter an address, and you can set the current photo back years with a single swipe, if Google took pictures back then. I had network problems with the app, but the developer took me by the hand and solved it. Thank you very much for that, I am thrilled.",
+      "date": 1763803978,
+      "review_helpful_count": 59,
+      "author_display_name": "Ebehr",
+      "author_alias": "Ebehr",
+      "developer_response": {
+        "body": "Thank you — and we also really appreciate your detailed feedback. It helped us finally track down and fix the network issue!❤️",
+        "date": 1763953909
+      }
+    },
+    {
+      "id": "1031546123374252",
+      "score": 1,
+      "review_title": "NOT worth the $$$$!!!!",
+      "review_description": "The state I was looking for was New Mexico.\n\nThe city I was looking for was Albuquerque.\n\nWere you able to see them?",
+      "date": 1773161441,
+      "review_helpful_count": 0,
+      "author_display_name": "steve_tessler",
+      "author_alias": "steve_tessler",
+      "developer_response": {
+        "body": "Hi, in our testing, Albuquerque can be searched normally and everything is working as expected. Here is our screen recording for reference:\nhttps://imgur.com/gallery/revisit-BM19iDR\n\nIf possible, please join our Discord so we can help resolve your issue more efficiently:\nhttps://discord.gg/AmCyjVdp4G",
+        "date": 1773374438
+      }
+    },
+    {
+      "id": "903027782896409",
+      "score": 1,
+      "review_title": "Poor performance, missing features.",
+      "review_description": "Missing a lot of features. \nCan't move around, \nalways have to use the map. \nImages don't line up.\nRandomly face new direction \nMap doesn't work properly. \nSlow load speed\nPoor image quality (no enhancement like other apps)\n\nThere are other apps that are much better,.\n\nDon't expect any meaningful support or features to be implemented in a timely manner once they have your $.",
+      "date": 1764102200,
+      "review_helpful_count": 9,
+      "author_display_name": "Projectosaurus",
+      "author_alias": "Projectosaurus",
+      "developer_response": {
+        "body": "Thank you for your feedback and suggestions! REVISIT is still in Early Access and has only been out for about a month, so many features are still in development. The move around feature you mentioned is actually planned for the next major update (and it’s already listed on the Help page inside the app).\n\nAs for line up issues, that’s caused by Google Street View images not being aligned on their end — unfortunately, that’s something we can’t fix ourselves.\n\nLastly, we want to point out that REVISIT has been live for only one month and has already received 4 updates (update logs are visible in the Meta Store). We’ve fixed over 10 user-reported bugs during this time. So the last part of your comment simply does not reflect the facts.",
+        "date": 1764136763
+      }
+    },
+    {
+      "id": "840302709176878",
+      "score": 5,
+      "review_title": "Wow, nice",
+      "review_description": "It actually runs on my Quest 2, that’s awesome.",
+      "date": 1766741264,
+      "review_helpful_count": 18,
+      "author_display_name": "GlacialAardvar",
+      "author_alias": "GlacialAardvar",
+      "developer_response": null
+    },
+    {
+      "id": "872596329277624",
+      "score": 5,
+      "review_title": "Surprised",
+      "review_description": "Even though it’s still in early access, it really surprised me. I was able to see my old school in VR, the streets from 10 years ago, and even the old SUV I used to drive.",
+      "date": 1765349975,
+      "review_helpful_count": 40,
+      "author_display_name": "EdgyAngel",
+      "author_alias": "EdgyAngel",
+      "developer_response": {
+        "body": "Thank you❤️",
+        "date": 1765423585
+      }
+    },
+    {
+      "id": "906353702562785",
+      "score": 5,
+      "review_title": "impressive app",
+      "review_description": "i truly appreciate this time travel via google earth",
+      "date": 1766102049,
+      "review_helpful_count": 18,
+      "author_display_name": "radu_macphee96",
+      "author_alias": "radu_macphee96",
+      "developer_response": null
+    },
+    {
+      "id": "855021597690659",
+      "score": 5,
+      "review_title": "Brought back so many memories",
+      "review_description": "This app really brought back so many memories… My old school, the convenience store I used to go to all the time, the museums I visited — I even found exhibitions I missed back then. Seeing all of this in VR feels so much more vivid than just looking at it on Google.",
+      "date": 1761276116,
+      "review_helpful_count": 32,
+      "author_display_name": "Sanderssssss",
+      "author_alias": "Sanderssssss",
+      "developer_response": null
+    },
+    {
+      "id": "832963009492053",
+      "score": 4,
+      "review_title": "Updated my review",
+      "review_description": "EDIT: Developer was quick to respond to my previous review. I figured out that if I go to the Meta App on my phone and launch the app it works now and I can later launch it from my headset without the phone app. So if you're having the same issue as me this might be your fix.\n\nApp is pretty cool. I like the effect in between two images. My only real issue is I can't hit certain buttons with my right controller, I have to use the left because it's farther away from the menus.\n\nWould be nice if \"now\" was selected with left controller and \"later\" or whatever from right controller. \n\nNot sure if there's different rift animations, but that would be cool.\n\nPrevious review: Bought app and never used it. It won't open. The start button is greyed out. I rebooted, I reinstalled, same crap. It won't let me refund saying I used it more than 2 hours when I never opened it once. Can't find a way to contact the dev.",
+      "date": 1762254127,
+      "review_helpful_count": 10,
+      "author_display_name": "ChungKingCanSuckIt",
+      "author_alias": "ChungKingCanSuckIt",
+      "developer_response": {
+        "body": "Thank you for your feedback! Revisit is still in its early stages — our dev team has many ideas and features we haven’t implemented yet, and there are definitely some areas that need improvement. I’ll make sure to pass your suggestions along to the team. ❤️",
+        "date": 1762313921
+      }
+    },
+    {
+      "id": "940460075807243",
+      "score": 5,
+      "review_title": "Great Start",
+      "review_description": "Putting Google Earth into the Quest is such a cool idea — otherwise I’d only be able to browse it on the web.",
+      "date": 1764579151,
+      "review_helpful_count": 24,
+      "author_display_name": "Toutma",
+      "author_alias": "Toutma",
+      "developer_response": {
+        "body": "Thank you❤️",
+        "date": 1764755507
+      }
+    },
+    {
+      "id": "837435856119934",
+      "score": 5,
+      "review_title": "VR Time Travel is Great",
+      "review_description": "The concept of VR time travel is really cool — it’s amazing to see old VR photos from more than a decade ago. I even let my grandpa, who has limited mobility, try it out, and he absolutely loved “traveling” with it.",
+      "date": 1760946612,
+      "review_helpful_count": 48,
+      "author_display_name": "Gracias118858817",
+      "author_alias": "Gracias118858817",
+      "developer_response": {
+        "body": "Thank you so much! ❤️\nWe’re really happy to hear that your grandpa enjoyed VR Time Travel. That’s exactly why we built it — to bring back memories and make exploration possible for everyone.",
+        "date": 1761042649
+      }
+    },
+    {
+      "id": "24878111385173409",
+      "score": 4,
+      "review_title": "Great start and interesting premise.",
+      "review_description": "Great idea and well implemented to A/B a scene on Google streetview. BUT many times, the A/B shows the opposite side of the street - hopefully this is something the dev can address. Also, I would suggest to the dev to have a settings menu to allow the user to turn off music.",
+      "date": 1761033208,
+      "review_helpful_count": 20,
+      "author_display_name": "Genericat",
+      "author_alias": "Genericat",
+      "developer_response": {
+        "body": "Thank you for your suggestion.\n\nSome Google Street View photos are slightly misaligned by default, which can affect the viewing experience. I’ll pass this feedback along to our development team.\n\nAlso, we’ll be adding a music toggle option in a future update.",
+        "date": 1761044096
+      }
+    },
+    {
+      "id": "122318580896000538",
+      "score": 5,
+      "review_title": "Nice idea",
+      "review_description": "It feels really cool to go back in time in VR. I got to see VR photos of my home and my school from years ago — super nostalgic.",
+      "date": 1763017282,
+      "review_helpful_count": 23,
+      "author_display_name": "maryjbainn",
+      "author_alias": "maryjbainn",
+      "developer_response": {
+        "body": "Thx!",
+        "date": 1763364585
+      }
+    },
+    {
+      "id": "893112103886178",
+      "score": 5,
+      "review_title": "All works fantastic!",
+      "review_description": "5 stars, all the problems I had are fixed",
+      "date": 1763984643,
+      "review_helpful_count": 23,
+      "author_display_name": "SimaoAndTania",
+      "author_alias": "SimaoAndTania",
+      "developer_response": {
+        "body": "❤️ 0.0.4(Street View Navigation) is coming soon this week! Stay tuned!",
+        "date": 1764051239
+      }
+    },
+    {
+      "id": "826885513280392",
+      "score": 2,
+      "review_title": "Not ready yet",
+      "review_description": "I tried a couple of locations and most were not available. The ones that were often had big glitches like the same side of the street being on both sides or the past and present images not overlapping at all. I'd like a refund if possible, this shouldn't have been put out until it was ready.",
+      "date": 1763860319,
+      "review_helpful_count": 2,
+      "author_display_name": "IanBoothby",
+      "author_alias": "IanBoothby",
+      "developer_response": {
+        "body": "Hi! Are both the blue lines and dots not working? Cuz Dots(user content) tend to be unstable. Please try zooming in and click on the line instead.\n\nIf it doesn't work, may I ask where you’re located?\nIn theory, version 0.0.3 should have already fixed the network issue.\nCan you confirm which version this problem started with?\n\nAlso, all of our Street View images come directly from Google, so if the old and new views don’t line up perfectly, that’s because the original Google imagery itself isn’t aligned — it’s not something we can control.\n\nHey, if you can join our Discord and share the logs, that'd be super helpful! https://discord.gg/X5pZxBdcgn",
+        "date": 1763983564
+      }
+    },
+    {
+      "id": "983534778169971",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Good app I like it",
+      "date": 1766571524,
+      "review_helpful_count": 7,
+      "author_display_name": "RadiantBluebird6754",
+      "author_alias": "RadiantBluebird6754",
+      "developer_response": null
+    },
+    {
+      "id": "869860539549309",
+      "score": 1,
+      "review_title": "Not worth the money. Awkward not working",
+      "review_description": "I keep getting a network error and when it does load, it takes ages. I’m in Scotland and one you can do similar on wander but thought this would be cool. Wish I could get my money back.",
+      "date": 1763759803,
+      "review_helpful_count": 4,
+      "author_display_name": "Sidsophie",
+      "author_alias": "Sidsophie",
+      "developer_response": {
+        "body": "Are both the blue lines and dots not working? Cuz Dots(user content) tend to be unstable. Please try zooming in and click on the line instead.\n\nIf it doesn't work, may I ask where you're located?\n\nThat’s really strange. Version 0.0.3 just fixed this issue, so it shouldn’t be happening anymore. Can you confirm which version this problem started with?\nWe’ll look into whether there’s any network problem specifically affecting the Scotland region.\n\nHey, if you can join our Discord and share the logs, that'd be super helpful!  https://discord.gg/X5pZxBdcgn",
+        "date": 1763983588
+      }
+    },
+    {
+      "id": "800967639774105",
+      "score": 3,
+      "review_title": "Needs couple of tweaks",
+      "review_description": "I really like its simplicity and will be nice to show people new to vr. \n\nOnly problems. When I look to click on the close x button. The whole menu moves.\n\nI was looking at my old street, I was looking north on the new street view but the old one was facing south. So It didn't line up. Could you add a correction system for us to line up ourselves please.\n\nLooking forward to what's to come with this. \n\nDefinitely an app to own.",
+      "date": 1761733414,
+      "review_helpful_count": 2,
+      "author_display_name": "Youthio",
+      "author_alias": "Youthio",
+      "developer_response": {
+        "body": "Thanks for sharing your idea! The concept of manually aligning Google Street View scenes is really inspiring — we’ll look into it.",
+        "date": 1761816168
+      }
+    },
+    {
+      "id": "791770757362702",
+      "score": 5,
+      "review_title": "nice app",
+      "review_description": "VR Google Map is cool, I like it.",
+      "date": 1762315324,
+      "review_helpful_count": 17,
+      "author_display_name": "CrimsonGoose8911",
+      "author_alias": "CrimsonGoose8911",
+      "developer_response": null
+    },
+    {
+      "id": "944172628774693",
+      "score": 2,
+      "review_title": "HATE IT",
+      "review_description": "it’s just not for me.",
+      "date": 1766519969,
+      "review_helpful_count": 0,
+      "author_display_name": "funnytimmy",
+      "author_alias": "funnytimmy",
+      "developer_response": {
+        "body": "?why say this?",
+        "date": 1766554926
+      }
+    },
+    {
+      "id": "1559181121734903",
+      "score": 3,
+      "review_title": "Its ok",
+      "review_description": "There is an app called WANDER that can do the same thing, and actually walk through the street.",
+      "date": 1761860601,
+      "review_helpful_count": 5,
+      "author_display_name": "philrcdr",
+      "author_alias": "philrcdr",
+      "developer_response": {
+        "body": "Thank you for your suggestion, actually this feature will be available in the next big version update.",
+        "date": 1762138390
+      }
+    },
+    {
+      "id": "1595950521761879",
+      "score": 3,
+      "review_title": "Doesn't work on...",
+      "review_description": "Doesn't work on metaquest pro",
+      "date": 1764181023,
+      "review_helpful_count": 2,
+      "author_display_name": "Eleftheria3",
+      "author_alias": "Eleftheria3",
+      "developer_response": {
+        "body": "Hi,  could you be more detailed about how it doesn't work?\n\nWorking on the new feature now, will check it asap!\n\nFor possible loading errors, are both the blue lines and dots not working? Cuz Dots(user content) tend to be unstable. Please try zooming in and click on the line instead.\n\nIf it doesn't work, may I ask where you're located?\n\nThat’s really strange. Version 0.0.3 just fixed this issue, so it shouldn’t be happening anymore. Can you confirm which version this problem started with?\nWe’ll look into whether there’s any network problem specifically affecting the Scotland region.\n\nHey, if you can join our Discord and share the logs, that'd be super helpful!  https://discord.gg/X5pZxBdcgn\n\nThanks for your report and support!!!",
+        "date": 1764325370
+      }
+    },
+    {
+      "id": "840757382456440",
+      "score": 5,
+      "review_title": "Nostalgia in me",
+      "review_description": "I saw the pizza place I used to go to back in my school days and some of the places I traveled to. It’s really cool.",
+      "date": 1762322721,
+      "review_helpful_count": 24,
+      "author_display_name": "GlacialSeaTurtle1794",
+      "author_alias": "GlacialSeaTurtle1794",
+      "developer_response": {
+        "body": "❤️",
+        "date": 1764039053
+      }
+    }
+  ],
+  "total": 42,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-20T18:14:06Z"
+}
