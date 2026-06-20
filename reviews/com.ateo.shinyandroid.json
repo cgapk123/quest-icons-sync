@@ -1,0 +1,59 @@
+{
+  "app_id": "1371929766155309",
+  "package_name": "com.ateo.shinyandroid",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Shiny",
+  "rating_average": 3,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1239613486095329",
+      "score": 5,
+      "review_title": "Thanks for the update",
+      "review_description": "The update makes it a lot more enjoyable for me. No mire lag when the song starts and you can deactivate the soundeffects to enjoy the pure music.\nAlso the inclusion of music is nice, the tracks are just a bit long.",
+      "date": 1477910589,
+      "review_helpful_count": 0,
+      "author_display_name": "TigrisCallidus",
+      "author_alias": "TigrisCallidus",
+      "developer_response": {
+        "body": "Thanks for the feedback - we're glad you enjoy the game.",
+        "date": 1477910635
+      }
+    },
+    {
+      "id": "551054381762148",
+      "score": 1,
+      "review_title": "Where. Is my music",
+      "review_description": "Cant fins my music, need to explore all my folders",
+      "date": 1472358343,
+      "review_helpful_count": 0,
+      "author_display_name": "Sergiousz",
+      "author_alias": "Sergiousz",
+      "developer_response": {
+        "body": "Thank you for your feedback - we have included a file browser in Version 1.3 as well as our own Shiny music. Enjoy!",
+        "date": 1477909920
+      }
+    },
+    {
+      "id": "133081251227183",
+      "score": 3,
+      "review_title": "I like it but...",
+      "review_description": "I'd really like a non game option. Why can't i just watch the graphics for ten minutes and not have to stress out over the game?",
+      "date": 1560642127,
+      "review_helpful_count": 4,
+      "author_display_name": "parkerowens1",
+      "author_alias": "parkerowens1",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:05:02Z"
+}

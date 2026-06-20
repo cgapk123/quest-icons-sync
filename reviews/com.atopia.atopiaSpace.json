@@ -1,0 +1,42 @@
+{
+  "app_id": "5677798892278901",
+  "package_name": "com.atopia.atopiaSpace",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Atopia",
+  "rating_average": 3.6666666666667,
+  "rating_count": 9,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "997950392720519",
+      "score": 4,
+      "review_title": "Educational",
+      "review_description": "A mixture of different museum/art gallery collections. Its been done quite well. We totally need more like this in VR, could do with a little optimisation in places but overall very good, hope more exhibits get added over time",
+      "date": 1780181239,
+      "review_helpful_count": 4,
+      "author_display_name": "johnny_programmer",
+      "author_alias": "johnny_programmer",
+      "developer_response": null
+    },
+    {
+      "id": "2582791682072765",
+      "score": 5,
+      "review_title": "A great platform for art",
+      "review_description": "I realy enjoyed the environemts and exhibitions in this app. It allows you to immerse yourself in art without leaving your house.\n\nAlso you have quick access to information related to artwork, which is super cool",
+      "date": 1748420467,
+      "review_helpful_count": 6,
+      "author_display_name": "BigBadPanda",
+      "author_alias": "BigBadPanda",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:05:56Z"
+}

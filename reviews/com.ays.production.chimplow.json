@@ -1,0 +1,42 @@
+{
+  "app_id": "25464736003211489",
+  "package_name": "com.ays.production.chimplow",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Chimplow",
+  "rating_average": 4.4761904761905,
+  "rating_count": 21,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "947440025121622",
+      "score": 5,
+      "review_title": "Cool",
+      "review_description": "cooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooool jeu",
+      "date": 1769632823,
+      "review_helpful_count": 8,
+      "author_display_name": "Alpha.animalcompany",
+      "author_alias": "Alpha.animalcompany",
+      "developer_response": null
+    },
+    {
+      "id": "967147123145954",
+      "score": 5,
+      "review_title": "Très tuff",
+      "review_description": "Tres tuff twin",
+      "date": 1769721644,
+      "review_helpful_count": 1,
+      "author_display_name": "tuffestcocogt",
+      "author_alias": "tuffestcocogt",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:07:54Z"
+}

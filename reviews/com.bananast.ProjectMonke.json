@@ -1,0 +1,42 @@
+{
+  "app_id": "9628635003924893",
+  "package_name": "com.bananast.ProjectMonke",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Project Monke",
+  "rating_average": 4.5,
+  "rating_count": 8,
+  "review_count": 8,
+  "reviews": [
+    {
+      "id": "653048681230355",
+      "score": 5,
+      "review_title": "GIVE MEH MOD",
+      "review_description": "Give me mod",
+      "date": 1749773586,
+      "review_helpful_count": 24,
+      "author_display_name": "CoZy44",
+      "author_alias": "CoZy44",
+      "developer_response": null
+    },
+    {
+      "id": "709362985222886",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Hi",
+      "date": 1751933541,
+      "review_helpful_count": 0,
+      "author_display_name": "AlphaRamos",
+      "author_alias": "AlphaRamos",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:09:50Z"
+}

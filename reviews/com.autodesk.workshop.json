@@ -1,0 +1,106 @@
+{
+  "app_id": "6311586865616787",
+  "package_name": "com.autodesk.workshop",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Autodesk Workshop XR",
+  "rating_average": 3.5,
+  "rating_count": 24,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "1018199744703500",
+      "score": 5,
+      "review_title": "Nice App",
+      "review_description": "I like using immersive visualization \nAlso xr ..\nBut I till now I am unable to use it on site.\nCan anyone help me.\n\nAlso sorry to tell that I unknowingly reported one reviewer but can't undo it",
+      "date": 1768109504,
+      "review_helpful_count": 1,
+      "author_display_name": "JiyaMomin",
+      "author_alias": "JiyaMomin",
+      "developer_response": null
+    },
+    {
+      "id": "786377261217965",
+      "score": 1,
+      "review_title": "Big problem",
+      "review_description": "Big problem. Before Autodesk support, with its very large mental limits, was able to solve the problem with the code, I ran out of 30 days of testing. Since then, I am completely quitting Autodesk and switching to SolidWorks.",
+      "date": 1755024124,
+      "review_helpful_count": 3,
+      "author_display_name": "PricklyPenguin8304",
+      "author_alias": "PricklyPenguin8304",
+      "developer_response": {
+        "body": "We’re sorry to hear your trial experience with Workshop XR was frustrating. Thank you for taking the time to try it and share your feedback. Since September 8, all trials have been refreshed, so you’re welcome to start a new 30-day trial and see the latest updates in action. Feel free to reach out to support at https://www.autodesk.com/support",
+        "date": 1757531738
+      }
+    },
+    {
+      "id": "1209745387444734",
+      "score": 5,
+      "review_title": "So far, impressive",
+      "review_description": "I was able to test this tool with some Revit models. It has been a great experience so far. I am using it as part of a workflow connecting Forma, adding my models in Revit and either creating issues or just exploring. \n\nMy only criticism is the navigation. I am not sure if it is to reduce cyber sickness, but it's distracting when you are doing a translation (moving back and forward). \n\nI like the teleportation tool, moving from workshop to any area. I will keep testing it but I see a lot of po\ntential to showcase this with clients.",
+      "date": 1746103380,
+      "review_helpful_count": 4,
+      "author_display_name": "Robble.Dobble",
+      "author_alias": "Robble.Dobble",
+      "developer_response": null
+    },
+    {
+      "id": "1241909803971274",
+      "score": 2,
+      "review_title": "No converted data",
+      "review_description": "There is no data, like converted with IrisVR from a NWD.",
+      "date": 1744823944,
+      "review_helpful_count": 0,
+      "author_display_name": "Mark4533",
+      "author_alias": "Mark4533",
+      "developer_response": {
+        "body": "We're sorry to hear this was your experience, Mark4533. \n\nWorkshop XR currently supports Navisworks, Revit, and IFC projects from Autodesk Docs and should connect live to their associated data like Issues, Categories, 3D views, and Properties into VR.\n\nFeel free to reference our Help Center for more information. https://help.autodesk.com/view/WKSXR/ENU/",
+        "date": 1745524452
+      }
+    },
+    {
+      "id": "550791997954735",
+      "score": 5,
+      "review_title": "Awesome!",
+      "review_description": "It's an absolute game-changer! I'd say the potential with this tool is immense. Overall I find that the UI is intuitive and interactive, making it easier for anyone to jump in the model and start collaborating. I also love that it works so smooth and seamless with ACC. This is really just a whole new level. Awesome update, Autodesk! Keep up the amazing work!! (And hopefully EU Server Storage also will be activated soon ;D )",
+      "date": 1737518958,
+      "review_helpful_count": 2,
+      "author_display_name": "Yslvai",
+      "author_alias": "Yslvai",
+      "developer_response": {
+        "body": "Yslvai, we're glad to hear you're enjoying Workshop XR. Great news - with our 2.5 release, you can now access your ACC projects stored in the EU!",
+        "date": 1738870885
+      }
+    },
+    {
+      "id": "466897626369865",
+      "score": 5,
+      "review_title": "Farcon",
+      "review_description": "\"It's not 100% there yet, but we believe this is the future. We are testing it and are optimistic about the evolution of project presentations on the Meta Quest.'",
+      "date": 1729727177,
+      "review_helpful_count": 9,
+      "author_display_name": "leo_farconelis",
+      "author_alias": "leo_farconelis",
+      "developer_response": null
+    },
+    {
+      "id": "969878821371295",
+      "score": 5,
+      "review_title": "WXR FTW!",
+      "review_description": "This application begins to solve a bunch of my team's workflow issues. Very excited to continue to experience the development unfolding with this awesome productivity app. It's not hard to see the impact to the industry WXR will have. This new functionality will likely have teams returning to leverage ACC features that they were slow to access or adopt at release. Nicely done Autodesk, nicely done.",
+      "date": 1710881202,
+      "review_helpful_count": 19,
+      "author_display_name": "AMPOLVT",
+      "author_alias": "AMPOLVT",
+      "developer_response": null
+    }
+  ],
+  "total": 7,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:06:41Z"
+}
