@@ -1,0 +1,122 @@
+{
+  "app_id": "1195599640458896",
+  "package_name": "com.liftofflabs.proto",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Galaxy Golf",
+  "rating_average": 3.45,
+  "rating_count": 20,
+  "review_count": 20,
+  "reviews": [
+    {
+      "id": "1351572298922461",
+      "score": 1,
+      "review_title": "PAID FOR WINT WORK !!",
+      "review_description": "Played for the game few years ago on samsung vr still here on my account but cannot load it so RIP off really once you pay you own it so should get access to it stuff like this puts me of the oculus vr stuff n makes me consider not buying a quest 2 or 3",
+      "date": 1668645154,
+      "review_helpful_count": 2,
+      "author_display_name": "michael.careyjnr",
+      "author_alias": "michael.careyjnr",
+      "developer_response": null
+    },
+    {
+      "id": "1269742036420038",
+      "score": 1,
+      "review_title": "No controller support for my ipega",
+      "review_description": "Cuz of this i can't do the second hole...",
+      "date": 1483468325,
+      "review_helpful_count": 1,
+      "author_display_name": "palmpje",
+      "author_alias": "palmpje",
+      "developer_response": null
+    },
+    {
+      "id": "1162061420521244",
+      "score": 5,
+      "review_title": "Fun and challenge",
+      "review_description": "Love it.  Hope they update to add more.",
+      "date": 1472178553,
+      "review_helpful_count": 3,
+      "author_display_name": "POP2VR",
+      "author_alias": "POP2VR",
+      "developer_response": null
+    },
+    {
+      "id": "1080905512031724",
+      "score": 5,
+      "review_title": "Really cool!",
+      "review_description": "I've had my Gear VR for a year, and this is the first game outside of Minecraft that I can see myself going back to. Also, thanks a ton for including controller support! Rotating the planets seems a little slow, but I'm assuming that it'd make you sick if it went any faster.\n\nOverall, great job! I can't wait to see what you do next!",
+      "date": 1482951674,
+      "review_helpful_count": 3,
+      "author_display_name": "TheKingOfSpain",
+      "author_alias": "TheKingOfSpain",
+      "developer_response": null
+    },
+    {
+      "id": "698045643680236",
+      "score": 4,
+      "review_title": "Fun game",
+      "review_description": "Beautiful graphics and fun gameplay. No motion sickness and its completely relaxing. Buy it if you like golf and puzzles. I subtract one star because the game doesn't seem to support gamepad control for now (in fact, rotation tracking doesn't work when a controller is connected, and I'd have to turn off the Bluetooth controller before I can rotate the planets again). Will give a full 5 stars if I can play using gathering gamepad.",
+      "date": 1479011574,
+      "review_helpful_count": 3,
+      "author_display_name": "pikachuchuu",
+      "author_alias": "pikachuchuu",
+      "developer_response": {
+        "body": "That's curious – gamepad should have full compatibility. With gamepad controls you spin the planet with one of the sticks and shoot with A. What model gamepad do you have; that might be part of the problem?",
+        "date": 1481666543
+      }
+    },
+    {
+      "id": "559495227577633",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Game did not work with my Bluetooth controller. Also could not rotate the second hole to ever be able to place the ball on the tee. So basically spent $5 to play the first hole once and then end the game with frustration.",
+      "date": 1485011820,
+      "review_helpful_count": 4,
+      "author_display_name": "pscharf",
+      "author_alias": "pscharf",
+      "developer_response": null
+    },
+    {
+      "id": "518731951807351",
+      "score": 2,
+      "review_title": "I'm sorry",
+      "review_description": "\"Ditch the golf clubs\"... indeed. \n\nLight on the physics, and light on the golf.  I didn't spend much time on this game, but from what I could tell: you are able to predict your shots with 100% accuracy, other planets are visible but do not attract, there is only one \"point\" in gravity and even that point I'm not certain is behaving as a gravitational attractor would.  When I played there were only two courses available. \n\nIn short, a really cool idea but light on execution. Not what I was expecting.",
+      "date": 1506347944,
+      "review_helpful_count": 4,
+      "author_display_name": "Phaserlight",
+      "author_alias": "Phaserlight",
+      "developer_response": null
+    },
+    {
+      "id": "310691455954207",
+      "score": 3,
+      "review_title": "",
+      "review_description": "Nice game and great effects. A good showcase for what is possible. As ever with such games more courses would be welcome. With just two 9 hole courses I can see it quickly becoming stale.",
+      "date": 1474410948,
+      "review_helpful_count": 2,
+      "author_display_name": "gameforceking",
+      "author_alias": "gameforceking",
+      "developer_response": null
+    },
+    {
+      "id": "186045135385487",
+      "score": 1,
+      "review_title": "No for Go",
+      "review_description": "I love this game on the rift, but on the Oculus Go the controls are almost completely broken. No gamepad support either, at least for xbone gamepad. Please fix this so it can be played on the Go and I will gladly reevaluate.",
+      "date": 1527224455,
+      "review_helpful_count": 8,
+      "author_display_name": "thethirdtype",
+      "author_alias": "thethirdtype",
+      "developer_response": null
+    }
+  ],
+  "total": 9,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T16:52:04Z"
+}

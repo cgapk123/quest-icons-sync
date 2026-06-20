@@ -1,0 +1,42 @@
+{
+  "app_id": "1267305453346375",
+  "package_name": "com.livelike.vr.swisscup.ovr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "SRF Live 360° - Cupfinal",
+  "rating_average": 1.5,
+  "rating_count": 4,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "2141276852679916",
+      "score": 1,
+      "review_title": "Broken.",
+      "review_description": "Like the BT sort app, it has a very similiar loading environment, which is the only part that functions anymore.",
+      "date": 1632753984,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "854465878044503",
+      "score": 2,
+      "review_title": "2D only",
+      "review_description": "It's not 3D. And the main camera image is weirdly bent. Not even close to NextVR.",
+      "date": 1495302171,
+      "review_helpful_count": 3,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T16:54:52Z"
+}

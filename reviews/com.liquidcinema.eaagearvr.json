@@ -1,0 +1,42 @@
+{
+  "app_id": "1441572095934452",
+  "package_name": "com.liquidcinema.eaagearvr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "EAA 360",
+  "rating_average": 3,
+  "rating_count": 18,
+  "review_count": 18,
+  "reviews": [
+    {
+      "id": "862546813936944",
+      "score": 5,
+      "review_title": "Five for Free",
+      "review_description": "Virtual portal for airplane-related videos.",
+      "date": 1530496054,
+      "review_helpful_count": 8,
+      "author_display_name": "matthewmuhl",
+      "author_alias": "matthewmuhl",
+      "developer_response": null
+    },
+    {
+      "id": "265240033996827",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Majid",
+      "date": 1506278332,
+      "review_helpful_count": 2,
+      "author_display_name": "said.majid.39794",
+      "author_alias": "said.majid.39794",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T16:53:38Z"
+}

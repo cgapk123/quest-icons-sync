@@ -1,0 +1,42 @@
+{
+  "app_id": "1360758617303204",
+  "package_name": "com.loftysky.f360taiwan",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Foodie 360º visits Taiwan",
+  "rating_average": 3.2222222222222,
+  "rating_count": 9,
+  "review_count": 9,
+  "reviews": [
+    {
+      "id": "834198896745470",
+      "score": 1,
+      "review_title": ":(",
+      "review_description": "Flat 360 video, not 3D.",
+      "date": 1498910653,
+      "review_helpful_count": 4,
+      "author_display_name": "Denisio7",
+      "author_alias": "Denisio7",
+      "developer_response": null
+    },
+    {
+      "id": "115504606088855",
+      "score": 5,
+      "review_title": "",
+      "review_description": "fast food without subtitles!:)",
+      "date": 1538344213,
+      "review_helpful_count": 2,
+      "author_display_name": "DeTToX",
+      "author_alias": "DeTToX",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T16:56:06Z"
+}

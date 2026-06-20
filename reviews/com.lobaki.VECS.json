@@ -1,0 +1,42 @@
+{
+  "app_id": "6478509572275736",
+  "package_name": "com.lobaki.VECS",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "V.E.C.S.",
+  "rating_average": 4.5,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "831542993179055",
+      "score": 3,
+      "review_title": "A few components should be added.",
+      "review_description": "There’s no transformers, diodes, and transistors. Isn’t bad but with those components it would be even better.\nAnd no AC current.",
+      "date": 1765660263,
+      "review_helpful_count": 3,
+      "author_display_name": "TRUTHOVERFEAR",
+      "author_alias": "TRUTHOVERFEAR",
+      "developer_response": null
+    },
+    {
+      "id": "628043473732717",
+      "score": 5,
+      "review_title": "Fun way to learn circuits",
+      "review_description": "Love the idea. Interface for building and testing circuits is great. SPDT switches don't currently work, no flow when in the left position. Since the tutorials use those switches, you immediately get stuck. Also I would love to see more explanation in the tutorials other than \"Try this, what happens? Why do you think that happens?\" and then no discussion of the science or theory. Then more development...additional components, tutorials, pre-configured circuits you can select and then test. I hope this app gets additional work as it could be a really great learning tool.",
+      "date": 1747385305,
+      "review_helpful_count": 31,
+      "author_display_name": "Dojomi",
+      "author_alias": "Dojomi",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T16:55:57Z"
+}

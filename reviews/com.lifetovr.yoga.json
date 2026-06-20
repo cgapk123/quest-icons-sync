@@ -1,0 +1,42 @@
+{
+  "app_id": "5339484616153495",
+  "package_name": "com.lifetovr.yoga",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Yoga",
+  "rating_average": 1,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1163937437957910",
+      "score": 1,
+      "review_title": "Terrible App",
+      "review_description": "Really? A few clips in a rectangle? No immersion and 10.0p?? Asking to refund.",
+      "date": 1714222163,
+      "review_helpful_count": 30,
+      "author_display_name": "TonyFromJerzey",
+      "author_alias": "TonyFromJerzey",
+      "developer_response": null
+    },
+    {
+      "id": "780482613835299",
+      "score": 1,
+      "review_title": "For the price, sadly, not much there",
+      "review_description": "Too few poses offered, just a video of a person doing that pose over and over. Getting a refund and checking back in a few years from now maybe. Always hoping for a set of poses doable from a wheelchair. I'd pay for that even if it's just videos, no instruction.",
+      "date": 1697078148,
+      "review_helpful_count": 18,
+      "author_display_name": "Dharma_Bum",
+      "author_alias": "Dharma_Bum",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T16:51:55Z"
+}

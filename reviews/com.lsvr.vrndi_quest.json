@@ -1,0 +1,73 @@
+{
+  "app_id": "6966949150022496",
+  "package_name": "com.lsvr.vrndi_quest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "VR.NDI Untethered",
+  "rating_average": 2.875,
+  "rating_count": 8,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "24447504601542801",
+      "score": 5,
+      "review_title": "I love the app but...now it's fixed",
+      "review_description": "As promised the app is now working wonderfully although I only get to see proxy version but that's okay it's not crashing anymore.\nI can only hope that meta isn't going to break it again.\nEver since version 76 it has stopped working. \nI still do get the error message, \"too low memory for vr.ndi for Quest\".\nThe weird thing is sometimes it's for apps like YouTube which I had not opened up or used at all.\nThanks so much guys for stepping in and taking care of this for me. I use it everyday and I love it there's a few things I'd like to see. \nLike the 3D VR 180 completely blocks out my view it'd be nice if there was a window for my keyboard so that I could easily hit play and pause while watching.",
+      "date": 1758608868,
+      "review_helpful_count": 0,
+      "author_display_name": "3dguy",
+      "author_alias": "3dguy",
+      "developer_response": null
+    },
+    {
+      "id": "848989611620714",
+      "score": 3,
+      "review_title": "NDI HX Supported?",
+      "review_description": "I'm able to get uncompressed NDI streams working, but anytime I try to connect to an NDI HX stream i get a black screen with text telling me that the decoder was not found. Is this a known issue? I think my NDI setup is working properly otherwise",
+      "date": 1757918158,
+      "review_helpful_count": 0,
+      "author_display_name": "Spenzer4Hire",
+      "author_alias": "Spenzer4Hire",
+      "developer_response": {
+        "body": "Unfortunately, NDI HX is not supported as it requires an NDI Advanced License which would make the app price 10x higher.",
+        "date": 1760016743
+      }
+    },
+    {
+      "id": "765729749692217",
+      "score": 1,
+      "review_title": "connects but image is broken",
+      "review_description": "As there is no documentation for this its difficult to know if I am doing anything wrong on my end.  But using nobe.display in resolve is correctly sending out an NDI signal.  This is being seen and picked up in the quest 2 device...however the image coming through is garbled angled lines...like its not mapping or displaying it correctly.",
+      "date": 1758750894,
+      "review_helpful_count": 0,
+      "author_display_name": "BarefootSupe",
+      "author_alias": "BarefootSupe",
+      "developer_response": {
+        "body": "What is the resolution that you are sending? Also, be sure to use the correct projection format for your video. Documentation is available through our website, or here: https://docs.google.com/document/d/1vFI9pNKhtdONcOa6RQ1Aa9w2iIXYvvgoHLlu42WtMyk/edit?tab=t.0#heading=h.9dgc4kzd7exz",
+        "date": 1760016821
+      }
+    },
+    {
+      "id": "765000846692776",
+      "score": 1,
+      "review_title": "2D Windows not working",
+      "review_description": "Just purchased - can get NDI feeds working without an issue but everything is stuck in 360 or 180 degree mode - there is no way to just view 2D windows , the source just disapears",
+      "date": 1754930322,
+      "review_helpful_count": 0,
+      "author_display_name": "Acsriot",
+      "author_alias": "Acsriot",
+      "developer_response": {
+        "body": "Sorry! This was a result of a recent patch to hopefully fix some of the out of memory errors. Version 3.1.4 is in review and corrects this regression. It should be live shortly.",
+        "date": 1755009700
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T16:56:58Z"
+}
