@@ -1,0 +1,31 @@
+{
+  "app_id": "7748586231897100",
+  "package_name": "com.brodog.brodogstest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "brodog's test",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "555274880357156",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "I like it",
+      "date": 1728250278,
+      "review_helpful_count": 1,
+      "author_display_name": "GDylan2323",
+      "author_alias": "GDylan2323",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:22:03Z"
+}

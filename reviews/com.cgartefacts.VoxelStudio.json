@@ -1,0 +1,45 @@
+{
+  "app_id": "10078971035451603",
+  "package_name": "com.cgartefacts.VoxelStudio",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Voxel Studio: 3D Blocks Made Easy",
+  "rating_average": 4.4,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "633418469847173",
+      "score": 2,
+      "review_title": "Botched UX",
+      "review_description": "Disappointed.",
+      "date": 1743171617,
+      "review_helpful_count": 1,
+      "author_display_name": "retro.dirk",
+      "author_alias": "retro.dirk",
+      "developer_response": {
+        "body": "Hi there, can you be a bit more specific about what's not working for you on the UX front?\nWe're still in early access and we're actively pushing updates to fix bugs and add new features. \nYou can also join our discord to get support if you need it (link's in the website page)\n\nThanks and hope to be able to fix what's not working for you.",
+        "date": 1743365926
+      }
+    },
+    {
+      "id": "2631830747010594",
+      "score": 5,
+      "review_title": "By far the simplest way to draw voxels",
+      "review_description": "This is by far the simplest way to draw voxels in VR. I also love the ability to remix stuff other people made.",
+      "date": 1740038930,
+      "review_helpful_count": 2,
+      "author_display_name": "cgiteach",
+      "author_alias": "cgiteach",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:27:18Z"
+}

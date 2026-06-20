@@ -1,0 +1,101 @@
+{
+  "app_id": "26010917241877521",
+  "package_name": "com.boxingdrills.vr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Boxing Drills VR",
+  "rating_average": 4.9166666666667,
+  "rating_count": 12,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "1098777989991913",
+      "score": 5,
+      "review_title": "Amazing game 👏",
+      "review_description": "This game is great it has multiple drills helping you build your foundation of what works. The basics. This is the only boxing game on vr that actually trains footwork. I would like to ask for a few features out of the game for the future. \n\n1. Orthodox and southpaw drills: every time I do a drill I half to go to the settings to switch to southpaw to get my touch of both sides I would like to see drills where I can go between both in the same drill.\n\n2. Warm up mode: there's days im sore or trying to just warm up and the pads dont move on if you dont hit hard enough. We need a warm up mode before begginer cause even in begginer some days its hard to hit that pad hard enough without resistance.\n\n3. If this isn't the creator style im fine with it but instead of a sparring mode like most boxing games a character like indicator in which the moves apply. Like slipping punches into a left hook. I would like to maybe practice slipping those punches with an actual character punching at me and firing that hook just to give me an indicator on where the chin is after slipping and training to avoid punching the shoulder.\n\nI think this game is a great tool and I cant wait to see what else they put in this game if they dont add any of this stuff no worries and they might have already I haven't explored the entirety of this game yet but im just thinking of some fresh ideas I think about while playing.",
+      "date": 1779508517,
+      "review_helpful_count": 5,
+      "author_display_name": "DunceDwarf",
+      "author_alias": "DunceDwarf",
+      "developer_response": {
+        "body": "Hi DunceDwarf, love the ideas and feedback and will add them to the backlog.  Funny enough I had just started experimenting with a sparring mode vs an NPC and had the same thought that you did about using it in drills, because implementing a competent fighter AI is a huge amount of work and has already been done elsewhere.",
+        "date": 1779594800
+      }
+    },
+    {
+      "id": "1095059077025797",
+      "score": 5,
+      "review_title": "The app I was looking for",
+      "review_description": "Most games are fitness apps about just striking on targets or boxing games where you do bags and fights etc, but none was addressing the basic drills. \nThis is addressing it really well. Feeling like a personal trainer with pads where you train dodging,  combos, footwork. Really recommend.",
+      "date": 1778429315,
+      "review_helpful_count": 2,
+      "author_display_name": "reaper_invictus",
+      "author_alias": "reaper_invictus",
+      "developer_response": {
+        "body": "Thanks so much for the kind review, it was what we were looking for at one point as well and when we didn't find it we decided to build it.  We have some exciting new stuff planned too so please keep up your training!",
+        "date": 1778458634
+      }
+    },
+    {
+      "id": "1132930726577463",
+      "score": 5,
+      "review_title": "Very good!",
+      "review_description": "Very good! This app is a really great and unique one.",
+      "date": 1779703762,
+      "review_helpful_count": 2,
+      "author_display_name": "napalazo",
+      "author_alias": "napalazo",
+      "developer_response": null
+    },
+    {
+      "id": "1067398623130097",
+      "score": 4,
+      "review_title": "Thanks",
+      "review_description": "Thanks. Great game for drills. It just need more easier drills. Like only one punch (jab drill, cross drill, etc.)",
+      "date": 1776981828,
+      "review_helpful_count": 2,
+      "author_display_name": "Rbvk",
+      "author_alias": "Rbvk",
+      "developer_response": {
+        "body": "That's a good idea, we will consider it for a future update. We have been thinking how best to implement a tutorial mode to teach each punch and one punch drills could be a good start.  Please join the discord if you would like to participate in implementation details, the feedback from users really helps",
+        "date": 1777365970
+      }
+    },
+    {
+      "id": "784993338013294",
+      "score": 5,
+      "review_title": "Good for boxing",
+      "review_description": "Please keep working on the game and fix the discord",
+      "date": 1774656754,
+      "review_helpful_count": 5,
+      "author_display_name": "therealfook",
+      "author_alias": "therealfook",
+      "developer_response": {
+        "body": "Hi thanks for the review!  We have fixed the URL, the previous one had a default expiry, appreciate the heads up on this!",
+        "date": 1774822685
+      }
+    },
+    {
+      "id": "1136057842922055",
+      "score": 5,
+      "review_title": "Great workout app",
+      "review_description": "Great app. I get a nice workout. The only thing what I miss is a virtual trainer who shows me what to do.",
+      "date": 1778020653,
+      "review_helpful_count": 1,
+      "author_display_name": "Lonestar_Texas",
+      "author_alias": "Lonestar_Texas",
+      "developer_response": {
+        "body": "Thanks for the feedback!  We have discussed internally about different ways we could implement a virtual trainer.  If you have any suggestions please join the discord, as your opinion would be highly valued cheers!",
+        "date": 1778054840
+      }
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:20:53Z"
+}

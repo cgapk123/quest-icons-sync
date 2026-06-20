@@ -1,0 +1,963 @@
+{
+  "app_id": "3635172946605196",
+  "package_name": "com.brink.vr.oculus.quest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "BRINK Traveler",
+  "rating_average": 4.457930007446,
+  "rating_count": 1343,
+  "review_count": 638,
+  "reviews": [
+    {
+      "id": "1147063438493318",
+      "score": 5,
+      "review_title": "An app with a big future",
+      "review_description": "This program has great potential, thanks to a very hard-working team. I managed to discuss my questions privately with the developers. They are incredibly fair, honest, and dedicated.",
+      "date": 1781042297,
+      "review_helpful_count": 4,
+      "author_display_name": "mikrophone11",
+      "author_alias": "mikrophone11",
+      "developer_response": {
+        "body": "Thank you for your feedback and updating your review - we continue to work hard to make the app even better, and we take all of our users feedback to heart!",
+        "date": 1781111450
+      }
+    },
+    {
+      "id": "1228143859433938",
+      "score": 5,
+      "review_title": "Very very impressed!",
+      "review_description": "This app is very very impressive. I didn’t know the quest 3 was capable of visuals like this. Would def recommend quest 3 resolution or better cause even as is, it def struggled a bit to look perfectly clear. They did an amazing job though and I’m very impressed. Clean visuals, super optimized, lots of locations.\nTreat this more as a neat experience that you do once every few months during winters, but that you can also use as your meta environment if you want to do anything fun or productive in the headset without going to some random world.\n\nImperfect, but I love the effort and appreciate how much work goes into this app!!",
+      "date": 1771824750,
+      "review_helpful_count": 37,
+      "author_display_name": "Altegano",
+      "author_alias": "Altegano",
+      "developer_response": null
+    },
+    {
+      "id": "1729914188388200",
+      "score": 5,
+      "review_title": "Must have app!",
+      "review_description": "The environments are really pristine and crisp, they have a great sense of scale. On top of that, it has a virtual tour guide which is powered by an LLM and I can just ask it anything about the place I'm at an sit will give me a good answe. Truly magical.",
+      "date": 1774568315,
+      "review_helpful_count": 6,
+      "author_display_name": "MattsMattson",
+      "author_alias": "MattsMattson",
+      "developer_response": null
+    },
+    {
+      "id": "998381000027215",
+      "score": 5,
+      "review_title": "Amazing,stunning,and thrilling",
+      "review_description": "I was amazed by the stunning beauty and reality of the places that i visited. The places take your breath away. To experience many stunning places that i know i would never be able to go to  in my life time but to be in vr is amazing. The world has many stunning places of nature this app shows what is out there. The information about each place is also very interesting. This is my favourite place to be .",
+      "date": 1772235999,
+      "review_helpful_count": 13,
+      "author_display_name": "Aquaneon",
+      "author_alias": "Aquaneon",
+      "developer_response": null
+    },
+    {
+      "id": "1334763361893048",
+      "score": 5,
+      "review_title": "Fantastic locations",
+      "review_description": "Detailed and informational for places around the world. I use QGO to get even more details out of this app",
+      "date": 1778358351,
+      "review_helpful_count": 2,
+      "author_display_name": "WarpedTrekker",
+      "author_alias": "WarpedTrekker",
+      "developer_response": null
+    },
+    {
+      "id": "941690935050118",
+      "score": 5,
+      "review_title": "So beautiful!",
+      "review_description": "My first experience was loading the sequoia forest, and I was shocked at how realistic it felt. I had just been visiting the redwoods, so it was magical to see big trees again. It didn’t look 100% real, but it was real enough for me. That is my favorite place to visit whenever I launch the game. One time, I loaded a snowy mountain and once the image appeared, I practically fell over because I was on top of the mountain! I love how we can teleport to different locations within one area. My one recommendation would be to have more teleportation spots within each location. Overall, a wonderful experience! I plan to get all future releases of new places to visit.",
+      "date": 1771477400,
+      "review_helpful_count": 13,
+      "author_display_name": "GigiPug",
+      "author_alias": "GigiPug",
+      "developer_response": null
+    },
+    {
+      "id": "1376565267673995",
+      "score": 5,
+      "review_title": "have to have it",
+      "review_description": "This app is amazing",
+      "date": 1779167797,
+      "review_helpful_count": 2,
+      "author_display_name": "DannyKing007",
+      "author_alias": "DannyKing007",
+      "developer_response": null
+    },
+    {
+      "id": "1072757182582324",
+      "score": 5,
+      "review_title": "Wonderful, realistic views, fun to use",
+      "review_description": "The app is easy to use, interactive and educational.  You can pick up objects and, talk on walkie talkies, take virtual photos and save them. Love it! Can't wait for more locations!",
+      "date": 1773874667,
+      "review_helpful_count": 5,
+      "author_display_name": "DancingChipmunk6677",
+      "author_alias": "DancingChipmunk6677",
+      "developer_response": null
+    },
+    {
+      "id": "1055540524315172",
+      "score": 5,
+      "review_title": "Very good",
+      "review_description": "Good value for the money, there are a lot of locations and they're rendered well. Keep adding more!",
+      "date": 1776983588,
+      "review_helpful_count": 2,
+      "author_display_name": "BRT94",
+      "author_alias": "BRT94",
+      "developer_response": null
+    },
+    {
+      "id": "1434868418294432",
+      "score": 4,
+      "review_title": "Great visuals, but mixed user experience",
+      "review_description": "-- EDIT 2026 Feb 13: issue 1 is being addressed, therefore I'm changing my review score from 3 to 4 stars. Original review below. --\n\nThis app has some fantastic locations and is one of my favorites for showing VR to friends and family, as well as returning and enjoying the locations myself.\nUnfortunately, there are quite some issues that (I hope) can easily be fixed:\n\n1. No offline mode! Without WiFi, it is only possible to visit a few locations and none of the already downloaded ones (!), even though the store page advertises \"Internet connection not required\".\n2. If there is an update available for a downloaded location, there is no option to visit that location before applying the update. (Note: the updates are huge, basically the same size as a fresh download of the location (500MB-1GB), which does not seem justified given that almost nothing seems to change between updates).\n3. No option to cancel the download of a location while it is running.\n4. Some voiced translations to other languages seem to be generated with AI and are sometimes poor quality (pronunciation, emphasis). At the very least, I want the option to disable AI voices.",
+      "date": 1770983437,
+      "review_helpful_count": 38,
+      "author_display_name": "Kilotesla",
+      "author_alias": "Kilotesla",
+      "developer_response": {
+        "body": "Thanks for your feedback and updating your review!  Our hotfix update (v1.8.3) is out now and the offline mode issue you noted is fixed - so all users can still travel to previously downloaded locations if disconnected from Wi-Fi.  More improvements are in the works, and we hope you continue enjoying the experience in the meantime.",
+        "date": 1771618984
+      }
+    },
+    {
+      "id": "982216308304479",
+      "score": 4,
+      "review_title": "It's impressive!",
+      "review_description": "I don't tend to leave many reviews but this definitely deserves a good one. The graphics are great for a Quest 3 without the need of a PC. I've pretty much just started exploring the areas (still getting used to how it works and whatnot) what really is impressive is the darkness, it looks great on rocks etc. The only reason I gave it 4 stars is because to me in my opinion, the sky feels a bit disconnected to the ground, I love looking at the night sky but here it doesn't look as realistic unfortunately but I'm willing to add an extra star if this was to change. Overall definitely worth a purchase.",
+      "date": 1768000505,
+      "review_helpful_count": 10,
+      "author_display_name": "LongJohnJelly",
+      "author_alias": "LongJohnJelly",
+      "developer_response": null
+    },
+    {
+      "id": "869562882866522",
+      "score": 3,
+      "review_title": "Beautiful but limited",
+      "review_description": "My experience using this so far has been disappointing, since there are only 1-3 spots to stand in each location, and you can't move around much at all.  So the exploration is extremely limited.  This is especially frustrating if you've already been to the location in real life - don't expect to re-live it. I have been to Bryce Canyon and did not like how restrictive these views are.  There isn't even one wide view looking out over the beautiful formations.  You are stuck on a path where you want to continue walking to see what's around the bend, and you can't.  You also can't see the same area at night under the stars, which I experienced in real life (Wall Street), and it was amazing - developers might want to think about adding some of these different options.  I have also always wanted to visit Arches, so I was excited to check that one out, but again I was disappointed being stuck so near/under a couple of different arches where you cannot see the full picture or context of the space you're in.  I would love if the developers could add a few different views or angles of each space, along with a wide shot to show a 3D picturesque view of each destination.",
+      "date": 1768106027,
+      "review_helpful_count": 8,
+      "author_display_name": "megleonard327",
+      "author_alias": "megleonard327",
+      "developer_response": {
+        "body": "Thanks for your feedback - we totally understand the desire to explore even further in these beautiful locations.  Please keep in mind that the 3D scanned environments in BRINK Traveler push the processor of the Quest to its limits.  To achieve the level of photorealism we aim for, we have to focus detail within specific walkable areas - otherwise we wouldn't be able to maintain the visual fidelity that makes the locations feel real.  It's a hard technical constraint we try our best to strike a balance with.  That said, we are constantly working on more (free) updates to increase walkable areas and add new points of view. We hope you can continue to enjoy the experience with this in mind!",
+        "date": 1768155047
+      }
+    },
+    {
+      "id": "1392819899251828",
+      "score": 5,
+      "review_title": "One of my favourite apps",
+      "review_description": "The team did something really special here. I don’t meditate or sit around and look at nature, but I love using this app.\n\nThe worlds are very well crafted and beautiful. It really makes me feel calm and relaxed. Keep up the fantastic work!",
+      "date": 1769516212,
+      "review_helpful_count": 6,
+      "author_display_name": "alexbxby",
+      "author_alias": "alexbxby",
+      "developer_response": null
+    },
+    {
+      "id": "1225667586203159",
+      "score": 4,
+      "review_title": "Love it! I'd like more tips in settings",
+      "review_description": "I'm getting hooked by this app, even though don't use my quest2 much because i'm too sensitive to the motion sickness.  Everywhere is so beautiful and I love some of the little surprises.  It was tricky figuring out hand motions. i couldn't find any hand tutorial for this app. (There are a couple hints within it.)  I love not  using controllers and the watch and compass work great with just hands.  To move around, you pinch with forefinger and thumb and then pull sideways or forward.  (like you are pulling the scene in the direction you want to move. Probably younger folks would do this intuitively. ) To find your photos, use the Metaquest App on phone and tap the goggles, then at top, tap metaquest and scroll down.  You can download them to your phone photos with no watermark.  (I couldn't find help inside the app for this.)  i like to use them to show friends what it looks like inside.",
+      "date": 1770039714,
+      "review_helpful_count": 2,
+      "author_display_name": "beckteck",
+      "author_alias": "beckteck",
+      "developer_response": null
+    },
+    {
+      "id": "862075943079745",
+      "score": 5,
+      "review_title": "What a great app and wonderful support",
+      "review_description": "I was having trouble getting this app up and running. I am new to the Oculus 3 so I emailed the support team for this app and within a day I had a response. They seemed truly concerned that I was having problems and wanted me to have a great experience. Well it came down to uninstalling it and reinstalling it. It works great and you really feel like you are in the places you can go. I highly recommend this app if you enjoy exploring",
+      "date": 1766815425,
+      "review_helpful_count": 10,
+      "author_display_name": "llastrong618",
+      "author_alias": "llastrong618",
+      "developer_response": null
+    },
+    {
+      "id": "1051076198090611",
+      "score": 5,
+      "review_title": "Amazing travel app",
+      "review_description": "Best i ever tried",
+      "date": 1773947810,
+      "review_helpful_count": 3,
+      "author_display_name": "MartanBarman",
+      "author_alias": "MartanBarman",
+      "developer_response": null
+    },
+    {
+      "id": "998089693380862",
+      "score": 5,
+      "review_title": "Downloads slow",
+      "review_description": "Downloads take a long time,\n and locations are not downloaded even if I leave the headset on long enough that it should have been. Consequently, limited to three locations. I do have internet, though lower speed.  Using Quest 3.\nSupport team gave quick response and fix so doing better now.",
+      "date": 1769610180,
+      "review_helpful_count": 2,
+      "author_display_name": "ALF172",
+      "author_alias": "ALF172",
+      "developer_response": {
+        "body": "You can queue multiple locations to download one after another in BRINK Traveler, so downloads continue in the background while you explore other destinations. However, if you want them to keep downloading while your headset is removed, you’ll need to adjust the Quest’s default sleep behavior - by default, it pauses all running apps after a few seconds once the headset is taken off.\n\nTo prevent this, open the Settings app on your Quest and go to:  Settings > Device > Power > Auto Sleep  then select a longer sleep time. This will let BRINK Traveler (and its downloads) continue running while your headset isn't being worn.  Please reach out to us at contact@brinkxr.com and we can assist further so you can enjoy the rest of the experience!",
+        "date": 1769531217
+      }
+    },
+    {
+      "id": "1174897831442171",
+      "score": 5,
+      "review_title": "One of my favorites for relaxing!",
+      "review_description": "I have had this app since the beginning and it is in heavy rotation. I mainly use my Quest 3 to be immersed in beautiful landscapes.  I often just go in for a few minutes several times a week to look at mountains, lakes and waterfalls to relax  I have several favorites and absolutely love the app and look forward to more locations.  i just have one very small comment- the rainbow in one of the Iceland scenes- i would prefer  an option to turn it off\nBut otherwise outstanding app!",
+      "date": 1768871116,
+      "review_helpful_count": 10,
+      "author_display_name": "gschizzy2021",
+      "author_alias": "gschizzy2021",
+      "developer_response": null
+    },
+    {
+      "id": "814493721752016",
+      "score": 5,
+      "review_title": "The best",
+      "review_description": "That feeling you want from great environments to explore or watch movies in. This is it, the visuals, audio and night and day options are fantastic. Not every app is handing out heavy updates for FREE. Im always coming back to check out the new locations and never fails to leave me feeling ok after a bad day. Top tier",
+      "date": 1762001851,
+      "review_helpful_count": 96,
+      "author_display_name": "nuttsonyafaze",
+      "author_alias": "nuttsonyafaze",
+      "developer_response": null
+    },
+    {
+      "id": "880825478181913",
+      "score": 5,
+      "review_title": "Relaxing",
+      "review_description": "Well crafted environments ranging from fairly to quite realistic that relax you and transport you away from the darkness and greyness of the winter, for example. Highly recommended!",
+      "date": 1769438976,
+      "review_helpful_count": 4,
+      "author_display_name": "watson_wat_son",
+      "author_alias": "watson_wat_son",
+      "developer_response": null
+    },
+    {
+      "id": "1552968425871533",
+      "score": 5,
+      "review_title": "Its feels real",
+      "review_description": "as an old vr user (8 years a go ) this is the only app that can gives you the feeling of being inside the earth , so many places quality is good everything is perfect",
+      "date": 1767724950,
+      "review_helpful_count": 9,
+      "author_display_name": "MoreAda",
+      "author_alias": "MoreAda",
+      "developer_response": null
+    },
+    {
+      "id": "955198764343061",
+      "score": 5,
+      "review_title": "Amazing!!!",
+      "review_description": "where else can you see the scenery like this! It feels like i am really there! Beautiful ---  absolutely beautiful. I am speechless.",
+      "date": 1768798290,
+      "review_helpful_count": 6,
+      "author_display_name": "zedagamer.2024",
+      "author_alias": "zedagamer.2024",
+      "developer_response": null
+    },
+    {
+      "id": "2893584097505616",
+      "score": 5,
+      "review_title": "Brink Traveler is Mind-blowing!",
+      "review_description": "Brink is my go to app to show those new to VR how amazing it can be. It is a fantastic way to visit multiple scenic locations around the world.\nI use it as a backdrop for work, using Microsoft's Windows App for the Quest. I can work from such lovely location.\n\nI would beg the developers to give us a volume slider for the music and ambient sounds. I have to turn them off because they are too loud if I have  my volume set right for YouTube or a work meeting and I would love to turn them down a bit instead. I would also love for them to spend some time multitasking with multiple 2D apps so they can feel some of the pain points and do a bit optimizing for that use case.\n\nI can't believe I am saying this, but if it would help there be more locations like the mind-blowing Sequoia National Park location, go ahead and charge $1 to $5 for new locations. Whatever it takes to get more of them sooner!",
+      "date": 1764011947,
+      "review_helpful_count": 14,
+      "author_display_name": "JorgTheElder",
+      "author_alias": "JorgTheElder",
+      "developer_response": null
+    },
+    {
+      "id": "1519889549231104",
+      "score": 5,
+      "review_title": "Top tier VR travel",
+      "review_description": "They go above and beyond to offer something new and innovative with loads of free updates. It feels a bit limited in it's scope compared to Google Earth VR but the added features make up for it. Using the walkie talkie to ask AI questions about my surroundings blew my mind.",
+      "date": 1767106879,
+      "review_helpful_count": 3,
+      "author_display_name": "Ryuzenkiwi",
+      "author_alias": "Ryuzenkiwi",
+      "developer_response": null
+    },
+    {
+      "id": "1058338694022393",
+      "score": 5,
+      "review_title": "No additional subscription, fun",
+      "review_description": "App is great, mis posted previous about subscription - totally free and fun",
+      "date": 1771195929,
+      "review_helpful_count": 2,
+      "author_display_name": "QuirkyWombat6053",
+      "author_alias": "QuirkyWombat6053",
+      "developer_response": {
+        "body": "Thanks for updating your review.  To reiterate for others who might see this - BRINK Traveler is a one-time purchase and doesn't have any sort of a subscription or anything like that.  We even release frequent updates for free in appreciation of our great users.  We hope you continue enjoying our app!",
+        "date": 1771204550
+      }
+    },
+    {
+      "id": "1024058020787610",
+      "score": 4,
+      "review_title": "Wonderfull high resolution 360.",
+      "review_description": "Wonderfull to see all those places in high resolution. Moving space is a bit limited. Still can jump to other places in the erea! Its fun and gives nicly guided info.",
+      "date": 1773023652,
+      "review_helpful_count": 0,
+      "author_display_name": "UtCollector77",
+      "author_alias": "UtCollector77",
+      "developer_response": null
+    },
+    {
+      "id": "858295979990233",
+      "score": 5,
+      "review_title": "AWESOME ON QUEST 3!",
+      "review_description": "This game looks absolutely STUNNING on quest 3! My brain can literally get tricked into thinking it’s real. The environments are so realistic and detailed and it makes all the other game environments look so basic and blend. My only complaint is that the environments lack variety, with many similar looking mountains and deserts, it could definitely use more waterfalls and oceans and more variety in locations. Still, this is a great app for anyone who wants to travel in VR!\n\nUPDATE: Changed my review to 5 stars! I found out that you can travel between locations in an environment (I shouldn’t have skipped the tutorial lol) and scan points of interest to get more info about the location. This is a killer feature! It can always use even more locations but this is the BEST travel app in VR currently!",
+      "date": 1763431260,
+      "review_helpful_count": 15,
+      "author_display_name": "timpooh",
+      "author_alias": "timpooh",
+      "developer_response": {
+        "body": "Thanks for your review and feedback!  You'll be happy to know we're continuing to expand the variety of locations with Giant Sequoias coming in late November, and an Icy Glacier in December - hope you continue to enjoy!",
+        "date": 1763230921
+      }
+    },
+    {
+      "id": "878480282023637",
+      "score": 2,
+      "review_title": "It’s ok",
+      "review_description": "It is ok but could be better. The picture have been modified substantially and it takes away from the experience. I would prefer not being able to walk around in exchange for a higher picture quality. The colors are not true to life.",
+      "date": 1767834581,
+      "review_helpful_count": 1,
+      "author_display_name": "PedroField",
+      "author_alias": "PedroField",
+      "developer_response": {
+        "body": "Hi, just to clarify, the locations featured in our app are not modified.  Each location in BRINK Traveler is the result of high-resolution 3D scanning we conduct ourselves.  We travel to every site personally to capture these environments in order to create an experience that feels as close as possible to how it felt when we stood there in person.  Is there something specific that you're seeing that you could provide feedback on?  Please get in touch with us at contact@brinkxr.com - and please consider revisiting your rating with this in mind.",
+        "date": 1767843766
+      }
+    },
+    {
+      "id": "932303156631701",
+      "score": 5,
+      "review_title": "Experience God!",
+      "review_description": "Prayer is the channel which makes the invisible God visible. This app is a great resource to help elevate your prayer life. Take in creation and touch the Creator with the fingers of your soul.",
+      "date": 1767459676,
+      "review_helpful_count": 3,
+      "author_display_name": "TonyNolan",
+      "author_alias": "TonyNolan",
+      "developer_response": null
+    },
+    {
+      "id": "984113128114606",
+      "score": 3,
+      "review_title": "No search bar",
+      "review_description": "I thought i would be able to go to whatever destination I wanted but it does not seem to give this option...I wanted to go to the mountains of glencoe Scotland.....maybe I'm missing something, ??",
+      "date": 1769074974,
+      "review_helpful_count": 0,
+      "author_display_name": "everettcampbell",
+      "author_alias": "everettcampbell",
+      "developer_response": {
+        "body": "Hi, there may be some confusion.  BRINK Traveler isn’t an open-world or Google Maps-based app.  It’s a curated collection of high-resolution 3D scans of real-world locations that our team captures on-site specifically for VR.  This is what enables the level of visual detail and 3D immersion that’s unique to our app, and far beyond what broad map-based experiences offer.\n\nThe app currently features 56 curated 'spots' to visit via the Locations menu and Compass.  We’re also constantly adding new locations as free content updates.  Glencoe is a beautiful area that’s on our list of places to capture for the app, and our users support is what makes it possible.  Stay tuned, and we hope you can continue enjoying the experience in the meantime!",
+        "date": 1769231562
+      }
+    },
+    {
+      "id": "863091093558629",
+      "score": 5,
+      "review_title": "Transporting experience",
+      "review_description": "The first time the 3D vista opened in front of me, I was impressed  with its perfect lighting, highly detailed textures, and subtle effects like moving clouds, fog, and animated birds. It looked really good. This was better than I was expecting-life-like even. \nNot everything is of the same quality however. The older locations in the app look a lot more blurry and lack things like animated water. Obviously, the developers have been improving over time. Even still, the vegetation and plant life can come across as flat pixelated sprites that are far too stiff. It’s not enough to really distract, but it could definitely be improved. And stands in stark contrast to the otherwise breathtaking realism. \nIf you are looking for a realistic and beautiful place to sit in VR, perhaps with a cup of coffee, this is a huge recommend. The northern lights seen in night view on some maps is probably worth the price on its own. \nIf on the other hand you want to hike through these landscapes or play any sort of game, this is not that app.",
+      "date": 1764427279,
+      "review_helpful_count": 4,
+      "author_display_name": "UnivacOne",
+      "author_alias": "UnivacOne",
+      "developer_response": null
+    },
+    {
+      "id": "914609945070689",
+      "score": 5,
+      "review_title": "Great for Want to be Nature Enthusaists",
+      "review_description": "This game is very relaxing and very informative it makes you wanna visit the nature and plan the trips to these nature heritage sites worth the every price!",
+      "date": 1766945357,
+      "review_helpful_count": 3,
+      "author_display_name": "Beamero",
+      "author_alias": "Beamero",
+      "developer_response": null
+    },
+    {
+      "id": "814175031787373",
+      "score": 5,
+      "review_title": "Really Like It",
+      "review_description": "This is soo good.. I just installed and tried few locations. I sat on my chair and start looking at the views.. Lol Its amazing! the best part is its like mediation. Can't wait for more locations! Its like finding a peace in 3D environment. Hats off guys!! Great work.",
+      "date": 1763654514,
+      "review_helpful_count": 6,
+      "author_display_name": "saqibcreate",
+      "author_alias": "saqibcreate",
+      "developer_response": null
+    },
+    {
+      "id": "789074890963762",
+      "score": 5,
+      "review_title": "Shay",
+      "review_description": "Beautiful locations - After the developer politely explained, I am updating my review, I still think the navigation is a bit messy, however I got used to some of the gadgets and it feels more natural now. The scenery itself is outstanding, Greece is crazy crazy... Would love to See Bora Bora, Tahiti in various locations on this paradise island. Overall breathtaking.",
+      "date": 1761318018,
+      "review_helpful_count": 15,
+      "author_display_name": "tcmardoc",
+      "author_alias": "tcmardoc",
+      "developer_response": {
+        "body": "BRINK Traveler includes a short (under 3-minute) tutorial designed to help first-time users get familiar with the controls, but we also allow you to skip it at any time if you prefer to explore freely.  You’re completely free to move at your own pace and enjoy the scenery without interacting with any prompts or using any of the added features.  We work hard to provide the best experience for users of all ability levels, so please reconsider leaving a 1 star review like this and give the app another try with this in mind.",
+        "date": 1761316227
+      }
+    },
+    {
+      "id": "25633274089612034",
+      "score": 5,
+      "review_title": "Stunning",
+      "review_description": "This is the best app of this type available. Really amazing detail and some lovely locations.\n\nNote to the devs: Thanks for continuing to add new locations! Are there any plans to 3D scan historical landmarks? I would love to be able to visit the Giza pyramids or the coliseum in Rome! I imagine getting permission to 3D scan places like this would be very difficult though!",
+      "date": 1762315556,
+      "review_helpful_count": 5,
+      "author_display_name": "gregore",
+      "author_alias": "gregore",
+      "developer_response": null
+    },
+    {
+      "id": "24987278517605263",
+      "score": 5,
+      "review_title": "amazing realism",
+      "review_description": "The worlds have become amazingly realistic, especially after the update with the dolomites. Wish the developpers would allow walking further with the thumbstick, cause physically it's actually possible, i tried that and walked like a 100metres out of the border zone.",
+      "date": 1762880303,
+      "review_helpful_count": 5,
+      "author_display_name": "Sander74",
+      "author_alias": "Sander74",
+      "developer_response": null
+    },
+    {
+      "id": "925899063938977",
+      "score": 5,
+      "review_title": "need larger exploration area",
+      "review_description": "plz update new maps with larger exploration area, you could even make it paid DLC — I’d definitely pay for it",
+      "date": 1766572220,
+      "review_helpful_count": 3,
+      "author_display_name": "good.0720",
+      "author_alias": "good.0720",
+      "developer_response": {
+        "body": "We hear you!  BRINK Traveler pushes the processing power of the Quest headset to it's limits to achieve the realistic 3D graphics you see in each location.  As technology improves, the walkable area of the newer locations has been steadily increasing, and the newly released Vatnajökull Glacier location features our largest walkable area yet at over 10 meters in any direction!  More great locations with large walkable areas are in the works for the coming year - we hope you continue enjoying the experience!",
+        "date": 1766734303
+      }
+    },
+    {
+      "id": "855519894314464",
+      "score": 5,
+      "review_title": "Fantastic app",
+      "review_description": "Brink tTraveller is fantastic. I just wish there were more locations – please keep them coming! Also if the area around which one can navigate were just slightly bigger would be excellent too. I really like this app. ￼￼",
+      "date": 1761931729,
+      "review_helpful_count": 10,
+      "author_display_name": "jameshead67.2024",
+      "author_alias": "jameshead67.2024",
+      "developer_response": null
+    },
+    {
+      "id": "723764967414819",
+      "score": 4,
+      "review_title": "It good but",
+      "review_description": "Ok, I do like this app, the graphics are quite good and some of the scenery is spectacular. It does feel like you are really there. However there seems to be an issue when it comes to downloading the different scenery’s. I start to download one and then when I remove my headset for a few minutes to take a break, I then put the headset back on and the downloading musts mysteriously stops, I then have to start again which is really annoying. I have plenty of space on my meta quest 3. developers? Is there any way I can just simply set it to download all the scenes at once and leave it over night without it keep cancelling the downloads? The only way that seems to work is to download one at a time without removing my headset.\nUPDATE, Developer responded to me with advice to resolve my issue above, all sorted now. Thank you for your advice.",
+      "date": 1761602714,
+      "review_helpful_count": 7,
+      "author_display_name": "Pmrb1968",
+      "author_alias": "Pmrb1968",
+      "developer_response": {
+        "body": "You can queue multiple locations to download one after another in BRINK Traveler, so downloads continue in the background while you explore other destinations. However, if you want them to keep downloading while your headset is removed, you’ll need to adjust the Quest’s default sleep behavior - by default, it pauses all running apps after a few seconds once the headset is taken off.\n\nTo prevent this, open the Settings app on your Quest and go to:  Settings > Device > Power > Auto Sleep  then select a longer sleep time. This will let BRINK Traveler (and its downloads) continue running while your headset isn't being worn.  Please reach out to us at contact@brinkxr.com and we can assist further so you can enjoy the rest of the experience!",
+        "date": 1761349875
+      }
+    },
+    {
+      "id": "848097071730154",
+      "score": 1,
+      "review_title": "Social is bugged",
+      "review_description": "Got this to try it for a date night, cant even get everyone in the same session. Wasnt too pleased after buying it twice.",
+      "date": 1766544304,
+      "review_helpful_count": 2,
+      "author_display_name": "JohnnyBigBuckets",
+      "author_alias": "JohnnyBigBuckets",
+      "developer_response": {
+        "body": "Hi, we're not seeing any issues with Social mode currently - could you please reach out to us at contact@brinkxr.com so we can assist with whatever the issue might be?",
+        "date": 1766547970
+      }
+    },
+    {
+      "id": "809264548947738",
+      "score": 5,
+      "review_title": "(Game does not respond)- now its working",
+      "review_description": "Does not start. Game does not respond. Uninstalling did not help. A few month ago it worked. There was no reply to an email sent directly to the manufacturer's website.\n\nThanx for help, now it works. \n\nIts an issue with Meta's latest OS version that's related to the Guardian setup. Set up ‚Roomscale' guardian boundary on the headset, and not 'Stationary'? \nThat fixed the problem.\n\nVery good app for exploring the world. Outstanding graphics and very beautiful locations.",
+      "date": 1764672736,
+      "review_helpful_count": 1,
+      "author_display_name": "Ebehr",
+      "author_alias": "Ebehr",
+      "developer_response": {
+        "body": "Hi.  There's currently an issue with Meta's latest OS version that's related to the Guardian setup.  Could you please confirm that you have a 'Roomscale' guardian boundary set up on your headset, and not just 'Stationary'?  Other users have reported that this fixes the issue for them.  We haven't seen any emails at contact@brinkxr.com - so please reach out to us if that still doesn't work!",
+        "date": 1764658737
+      }
+    },
+    {
+      "id": "980475845139523",
+      "score": 1,
+      "review_title": "Disappointing",
+      "review_description": "Was expecting more than ViewMaster level 3D in some locations.\nDeveloper promised refund but meta refused my request.",
+      "date": 1770398592,
+      "review_helpful_count": 1,
+      "author_display_name": "Frankcooky",
+      "author_alias": "Frankcooky",
+      "developer_response": {
+        "body": "Every location in BRINK Traveler features extremely high resolution 3D environments with room-scale walkable areas.  The app pushes the 3D graphics of the Quest to it's very limits, and we aim for 1:1 photorealism with the real world locations as we scanned them.  You're welcome to a refund to the app at any time if it isn't for you - just reach out to us at contact@brinkxr.com and we'll assist.",
+        "date": 1768714277
+      }
+    },
+    {
+      "id": "1204892054884476",
+      "score": 5,
+      "review_title": "Brink",
+      "review_description": "Love the app but after the new update my controllers do not work on your app, they work in the ui but not on your game shame really \n\nPro controllers don’t work !!!!!!\n\nupdate on the hot fix working fine thanks to the devs great app 5 stars",
+      "date": 1763854848,
+      "review_helpful_count": 2,
+      "author_display_name": "sPeddr0w",
+      "author_alias": "sPeddr0w",
+      "developer_response": null
+    },
+    {
+      "id": "942307585623128",
+      "score": 5,
+      "review_title": "Absolutely excellent",
+      "review_description": "This app is one of the reasons I bought Meta Quest 3 for my child and me :). Absolutely worth it. Regards to developers.",
+      "date": 1764622045,
+      "review_helpful_count": 4,
+      "author_display_name": "PunchySphynx3706",
+      "author_alias": "PunchySphynx3706",
+      "developer_response": null
+    },
+    {
+      "id": "1505200830744173",
+      "score": 5,
+      "review_title": "Great but...",
+      "review_description": "Best standalone graphics. My only complaint is that even though i keep updating the locations, it keeps telling me i need to update many locations almost each time i visit the app. Which means delays when i'm trying to show the app to people.",
+      "date": 1762496649,
+      "review_helpful_count": 3,
+      "author_display_name": "MockingbirdWizard",
+      "author_alias": "MockingbirdWizard",
+      "developer_response": null
+    },
+    {
+      "id": "1136279641961870",
+      "score": 5,
+      "review_title": "Brink is just brilliant!",
+      "review_description": "This app just gets better and BETTER!!! It frequently updates and adds other areas. Soooo worth the money. Wonderfully immersive and quite breathtaking. I can't praise it enough and would give WAY more stars if I could!",
+      "date": 1762972800,
+      "review_helpful_count": 6,
+      "author_display_name": "marian1948",
+      "author_alias": "marian1948",
+      "developer_response": null
+    },
+    {
+      "id": "822815797583226",
+      "score": 2,
+      "review_title": "Blurry",
+      "review_description": "I dont understand some of the reviews about the visuals. For me it looks terrible! Its very low resolution....blurry......it feels like 720p max. Even the small pictures with information that pops up is very low resolution. It gets a little bit better with QGO, but still the visuals are really bad. Not enjoyable at all.",
+      "date": 1761046116,
+      "review_helpful_count": 3,
+      "author_display_name": "WiEaWr",
+      "author_alias": "WiEaWr",
+      "developer_response": {
+        "body": "Hi, this definitely doesn't sound right - BRINK Traveler is known for having some of the highest resolution visuals available on the Meta Quest - and we even run at a higher resolution than default on Quest 3 and 3S.  Please reach out to us at contact@brinkxr.com so we can see if there's an issue we can assist with.",
+        "date": 1761182894
+      }
+    },
+    {
+      "id": "920467317806805",
+      "score": 4,
+      "review_title": "Great App...have never seen others in it",
+      "review_description": "I visit from time to time. I make sure I am public as I would love to interact with others. But I have never seen anyone else in any of the settings. The only ones that have the icon indicating people are in them are the ones in which I am in...alone. 🙁 Are the public servers really working?? Brink Traveler? More like Lonely Planet.😉\nREQUEST: Can you do Cadillac Mountain in Acadia? When we visited with reserved entry time a few years ago, it was socked in with rain and in the clouds. We never were able to experience it for real. This would be a great alternative.",
+      "date": 1762988805,
+      "review_helpful_count": 0,
+      "author_display_name": "drew.124811",
+      "author_alias": "drew.124811",
+      "developer_response": null
+    },
+    {
+      "id": "839002079302347",
+      "score": 5,
+      "review_title": "One of the best",
+      "review_description": "You just got your first VR-Heatset? You want to show off with it to your friends? Then THIS is the app to go. Photo-realistic landscapes, pure beauty, easy and self-explanatory navigation. Must-BUY !!",
+      "date": 1762605047,
+      "review_helpful_count": 3,
+      "author_display_name": "PestLegion",
+      "author_alias": "PestLegion",
+      "developer_response": null
+    },
+    {
+      "id": "825715640632870",
+      "score": 4,
+      "review_title": "Improvement idea",
+      "review_description": "The app is cool, but could you please added ability to draw sketch in sketchbook, by my own hands, pansil and paints? it will be cool to have ability to open browser and youtube using scenarious as background, and  increase the area of traveling) thanks!",
+      "date": 1763858992,
+      "review_helpful_count": 0,
+      "author_display_name": "ZenO_viY",
+      "author_alias": "ZenO_viY",
+      "developer_response": null
+    },
+    {
+      "id": "2762805780734760",
+      "score": 4,
+      "review_title": "Explicit description of exotic places",
+      "review_description": "Explicit description of exotic places not commonly visited by most travelers. See it for yourself and be thrilled by the experience. Needs more content.",
+      "date": 1763896867,
+      "review_helpful_count": 2,
+      "author_display_name": "ZEUSAMAN",
+      "author_alias": "ZEUSAMAN",
+      "developer_response": null
+    },
+    {
+      "id": "1133281928698938",
+      "score": 5,
+      "review_title": "Superb",
+      "review_description": "I recently installed the app, and I am amazed at how they managed to pull this type of graphics on the Quest 3.  There is really nothing to complain about, as every location looks gorgeous.  I guess one thing I would give as feedback is to add more non-cliffside and rocky places. Seems like it's the main theme of things.",
+      "date": 1756482257,
+      "review_helpful_count": 26,
+      "author_display_name": "n00bish",
+      "author_alias": "n00bish",
+      "developer_response": null
+    },
+    {
+      "id": "894260817095247",
+      "score": 5,
+      "review_title": "Wow!",
+      "review_description": "I am truly an utterly blown away! What an incredible experience! I only traveled to a few locations so far and the quality, speed, fluidity ￼and immersion￼ is top-notch! ￼I. Am. Impressed!!",
+      "date": 1761833845,
+      "review_helpful_count": 4,
+      "author_display_name": "patrocluspolemistis",
+      "author_alias": "patrocluspolemistis",
+      "developer_response": null
+    },
+    {
+      "id": "941678342363580",
+      "score": 1,
+      "review_title": "Refund now",
+      "review_description": "Garbage, I want a refund!  Refund this now!",
+      "date": 1767307355,
+      "review_helpful_count": 0,
+      "author_display_name": "zorzlar",
+      "author_alias": "zorzlar",
+      "developer_response": {
+        "body": "If you have constructive feedback or ran into an issue, reach out to us at contact@brinkxr.com - we’re a small dev team but we genuinely respond to every message.  Our app is enjoyed by thousands of users daily and is the highest-rated travel app on the Meta Quest.  If the app simply isn't for you, a refund can be processed directly by the Meta store.  Please reconsider leaving 1-star reviews like this if your issue is about how refunds work rather than the app itself.",
+        "date": 1767378236
+      }
+    },
+    {
+      "id": "4087401424905334",
+      "score": 5,
+      "review_title": "Fantastic",
+      "review_description": "it is fantastic, with regular updates. I would just put the environment sound much louder",
+      "date": 1764698238,
+      "review_helpful_count": 2,
+      "author_display_name": "spicyswiss33",
+      "author_alias": "spicyswiss33",
+      "developer_response": null
+    },
+    {
+      "id": "886003594589272",
+      "score": 5,
+      "review_title": "Beautiful",
+      "review_description": "Great alternative to low quality VR videos for seeing the world. The Dolomites are my favorite.",
+      "date": 1763154763,
+      "review_helpful_count": 4,
+      "author_display_name": "runningdown",
+      "author_alias": "runningdown",
+      "developer_response": null
+    },
+    {
+      "id": "3698083257154804",
+      "score": 5,
+      "review_title": "Stopped working but fine now",
+      "review_description": "As one who uses his quest around once a week, the last update prevented the app from loading. Now all is good. I love to use this app always after meditation practice to take myself to different places. Side note, just wanted to put it out there if the audio can be disabled so I can just relax in the beauty of nature...",
+      "date": 1763259743,
+      "review_helpful_count": 1,
+      "author_display_name": "sandman44",
+      "author_alias": "sandman44",
+      "developer_response": {
+        "body": "Hi - following up again - could you please reach out to us at contact@brinkxr.com so we can assist and make sure you can enjoy the app asap!  Thanks!",
+        "date": 1763235208
+      }
+    },
+    {
+      "id": "1160161386312107",
+      "score": 5,
+      "review_title": "Unstuck 🙃",
+      "review_description": "Was Stuck on loading screen 🥺 but everything works just fine now 🙃",
+      "date": 1763904138,
+      "review_helpful_count": 3,
+      "author_display_name": "Driunia",
+      "author_alias": "Driunia",
+      "developer_response": null
+    },
+    {
+      "id": "877052464829809",
+      "score": 5,
+      "review_title": "Aurora",
+      "review_description": "Please add the aurora",
+      "date": 1765515151,
+      "review_helpful_count": 2,
+      "author_display_name": "liability56",
+      "author_alias": "liability56",
+      "developer_response": {
+        "body": "You'll be happy to know our three Iceland locations have auroras!  Travel to either Landmannalaugar, Vatnajokull, or Haifoss and switch to night mode from your watch.  Look up and you can't miss them!",
+        "date": 1766008894
+      }
+    },
+    {
+      "id": "813724744869101",
+      "score": 5,
+      "review_title": "2021-2025 Omg",
+      "review_description": "Decided to revisit the app and wow 😳 was not expecting the upgrade over what I experience on quest 2 in 2021. Any traveler will love this app.",
+      "date": 1762508804,
+      "review_helpful_count": 3,
+      "author_display_name": "SaoGalaxy",
+      "author_alias": "SaoGalaxy",
+      "developer_response": null
+    },
+    {
+      "id": "785947234612623",
+      "score": 5,
+      "review_title": "Simply the Best",
+      "review_description": "Even better than the ral photos and videos. Most crisp environment in Meta Quest you can experience!",
+      "date": 1762221276,
+      "review_helpful_count": 4,
+      "author_display_name": "shy.yi",
+      "author_alias": "shy.yi",
+      "developer_response": null
+    },
+    {
+      "id": "1346737830571991",
+      "score": 5,
+      "review_title": "a lot of beautiful content",
+      "review_description": "this is VR at its best - excellent visuals and a huge amount of amazing locations, a must buy",
+      "date": 1761983661,
+      "review_helpful_count": 4,
+      "author_display_name": "cincologne",
+      "author_alias": "cincologne",
+      "developer_response": null
+    },
+    {
+      "id": "670346026156068",
+      "score": 5,
+      "review_title": "its amazing!",
+      "review_description": "Best looking app on meta quest, no doubt! good job everyone! 👑",
+      "date": 1762416201,
+      "review_helpful_count": 4,
+      "author_display_name": "Mathiasone",
+      "author_alias": "Mathiasone",
+      "developer_response": null
+    },
+    {
+      "id": "723676617499744",
+      "score": 1,
+      "review_title": "Absolutely hate the menus and controls.",
+      "review_description": "I am halfway laying/sitting in my bed when using my quest and it is absolutely impossible to use this app while doing this. The bottom of the menus are so far down that there is no way to click them and there is no way to move them either.\n\nI cannot stress how bad this experience was - I had no way to travel away from the starting location. I could bring up the watch and I could click the globe and I could see the pictures at the bottom of my view if I got into an extremely uncomfortable position and really strained my back, but there was no way to click on any of the pictures, so I had absolutely no idea what to do from there. it looked like there was a bar to move things around, but that bar was even further down and there as absolutely no way to get to it from the position that I was in.\n\nI did change the mode to sitting, but it made absolutely no difference.\n\nRight now I see no choice but to ask for a refund.",
+      "date": 1753964915,
+      "review_helpful_count": 19,
+      "author_display_name": "PsycronDK",
+      "author_alias": "PsycronDK",
+      "developer_response": {
+        "body": "Hi, we're saddened to hear this.  While it's true our app wasn't designed for laying in bed (we highly encourage room-scale movement within the locations to feel the full 3D depth and parallax) we have been working on an new update which enables you to travel by only using your controller's joysticks and buttons - no gestures.\n\nIf you're willing to give us a chance, please reach out to us at contact@brinkxr.com and we'll give you early access to this new update so you can enjoy the entire experience while laying down.  Thanks!",
+        "date": 1753981352
+      }
+    },
+    {
+      "id": "745517328219855",
+      "score": 5,
+      "review_title": "A museum of real world locations",
+      "review_description": "I really like this app.  There's technically a little gamification, but it's mostly locations you can hang out in to experience the location, solo or multiplayer, though it has an optional narrator to give you a little flavor.  They've been adding locations multiple times a year, and they've verified that more are on the way.  Each location has a night mode, and you can superimpose the constellations on the stars.  It has an walkie talkie you can use to ask question related to the environment.  Sounds like hand tracking will be added before long.",
+      "date": 1752728205,
+      "review_helpful_count": 32,
+      "author_display_name": "Archangel_01",
+      "author_alias": "Archangel_01",
+      "developer_response": null
+    },
+    {
+      "id": "834600676184793",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "One of the best VR apps.",
+      "date": 1761653027,
+      "review_helpful_count": 3,
+      "author_display_name": "Krabman0",
+      "author_alias": "Krabman0",
+      "developer_response": null
+    },
+    {
+      "id": "829367750250038",
+      "score": 5,
+      "review_title": "10/10 Experience",
+      "review_description": "Great quality, beautiful locations, and fun/simple interactions. This is one of the best VR experiences I’ve seen. I’m genuinely excited for the future updates. Thank you to the Brink Traveler Team for the hard work and dedication!!",
+      "date": 1756441897,
+      "review_helpful_count": 7,
+      "author_display_name": "purplerican",
+      "author_alias": "purplerican",
+      "developer_response": null
+    },
+    {
+      "id": "764143163233947",
+      "score": 5,
+      "review_title": "Wonderful",
+      "review_description": "Really cool app! The imagery is very impressive and truly makes you feel like you’re there. It’s a great alternative to visiting in person if you can’t afford the trip or aren’t able to go. To the developer — keep up the great work!",
+      "date": 1754778194,
+      "review_helpful_count": 11,
+      "author_display_name": "pding12",
+      "author_alias": "pding12",
+      "developer_response": null
+    },
+    {
+      "id": "2106694456478153",
+      "score": 2,
+      "review_title": "Not really worth it",
+      "review_description": "I suppose the fact you can join friends is ok but to call it a traveller is stretching it a bit. When you can only walk 20 feet or so is hardly a traveller, it's more a meeting place with different themed places.\nSo if that's. Your thing then go ahead, if your looking for a travelling app then this is not for you.",
+      "date": 1750672238,
+      "review_helpful_count": 28,
+      "author_display_name": "gaznjule",
+      "author_alias": "gaznjule",
+      "developer_response": null
+    },
+    {
+      "id": "798216036705761",
+      "score": 5,
+      "review_title": "Awesome!",
+      "review_description": "Visit beautiful locations around the world in wonderful detail with this app. Very immersive and informative!",
+      "date": 1756603663,
+      "review_helpful_count": 5,
+      "author_display_name": "IzikM327",
+      "author_alias": "IzikM327",
+      "developer_response": null
+    },
+    {
+      "id": "811315032057467",
+      "score": 4,
+      "review_title": "Brink Travelers",
+      "review_description": "I heard so much about this application. But I was only able to view one city. Venice.   Where is all the other cities that I heard you can travel? Im disappointed with this application.",
+      "date": 1757906080,
+      "review_helpful_count": 0,
+      "author_display_name": "jupiter2025.7",
+      "author_alias": "jupiter2025.7",
+      "developer_response": {
+        "body": "Are you thinking of a different app and meant to leave this review there?  Our app (BRINK Traveler) doesn't feature Venice like you described - or any other cities for that matter - we focus on spectacular 3D scans of natural locations from around the world as noted in our product description and trailers.  Please reach out to us at contact@brinkxr.com if you have any questions.",
+        "date": 1758130647
+      }
+    },
+    {
+      "id": "767793053078981",
+      "score": 5,
+      "review_title": "nice app, but not for me.",
+      "review_description": "Nice app for people who likes staring at nature view. But not for me.\n\nI give it 5 stars because it actually do the job for those who likes just watching nature.",
+      "date": 1755619381,
+      "review_helpful_count": 4,
+      "author_display_name": "CuriousLionfish8736",
+      "author_alias": "CuriousLionfish8736",
+      "developer_response": null
+    },
+    {
+      "id": "723214594203320",
+      "score": 2,
+      "review_title": "Lots of potential but…",
+      "review_description": "So the atmosphere is top notch but the huge down side is very low number of places you can visit for that money. As well the exploration is very limited sadly cause environment looks beautiful…also a thing that i don’t like there are no beaches or so just mostly places that are on top of cliffs and need to be downloaded on top of it each time you wanna visit a  new location.",
+      "date": 1748477938,
+      "review_helpful_count": 33,
+      "author_display_name": "themarkora",
+      "author_alias": "themarkora",
+      "developer_response": {
+        "body": "That's disappointing to hear, especially since BRINK Traveler currently includes 50 highly immersive 3D scanned real-world environments - with many new locations being added regularly for free since our launch over 3 years ago.  The app also features wide variety of locations, including two iconic beaches: Navagio Beach in Greece and Dune du Pilat in France.  Locations can be downloaded or deleted individually to keep the app size reasonable on your headset.  We're passionate about growing this app with regular free updates and new diverse destinations, and hope you'll reconsider your rating with this in mind.",
+        "date": 1748623702
+      }
+    },
+    {
+      "id": "719507274584994",
+      "score": 3,
+      "review_title": "Okay but limited locations",
+      "review_description": "I like the places they have. Real nice images and feel and I really enjoy the narrator option. \n\nThe locations are very limited though. Only a couple dozen.",
+      "date": 1755096095,
+      "review_helpful_count": 3,
+      "author_display_name": "etarnackicat",
+      "author_alias": "etarnackicat",
+      "developer_response": null
+    },
+    {
+      "id": "738006729386490",
+      "score": 5,
+      "review_title": "Keeps getting even better!",
+      "review_description": "I loved this already but am so happy with the new additions!  What a wonderful relaxing break to my day and I love that I don't have to solve anything or follow any steps to enjoy.",
+      "date": 1751324081,
+      "review_helpful_count": 13,
+      "author_display_name": "AnnaMay2000",
+      "author_alias": "AnnaMay2000",
+      "developer_response": null
+    },
+    {
+      "id": "692921980355236",
+      "score": 5,
+      "review_title": "Traveling with friends is amazing!",
+      "review_description": "The multiplayer feature takes Brink Traveler to another level of fabulous! My sister (who lives 1400 miles away from me) and I “travel” together all the time! It’s so fun…we (our avatars )take selfies, chat,  and just hang out and enjoy the scenery together!",
+      "date": 1746587524,
+      "review_helpful_count": 60,
+      "author_display_name": "GreenAcres4",
+      "author_alias": "GreenAcres4",
+      "developer_response": null
+    },
+    {
+      "id": "1022508003415129",
+      "score": 5,
+      "review_title": "Very relaxing!",
+      "review_description": "This app is great! Such a nice break load into these great locations, just sit down and take it all in. Sometimes I just listen to a podcast and chill in the different locations! 😊",
+      "date": 1751361657,
+      "review_helpful_count": 10,
+      "author_display_name": "Kattefizen",
+      "author_alias": "Kattefizen",
+      "developer_response": null
+    },
+    {
+      "id": "590157577522412",
+      "score": 5,
+      "review_title": "Love this app! Nothing else compares!",
+      "review_description": "Everything looks great and very few if any apps come close to how this looks on the quest. I love everything about this app, but please bring in more oceans. Another suggestion might be to start a campfire in some spots and possibly offer a dusk or sunset in addition to day and night.",
+      "date": 1746137884,
+      "review_helpful_count": 24,
+      "author_display_name": "LagrimaGitana",
+      "author_alias": "LagrimaGitana",
+      "developer_response": null
+    },
+    {
+      "id": "660003987198543",
+      "score": 5,
+      "review_title": "Wow!",
+      "review_description": "This game is the most incredible experience! I have tears in my eyes-- in a good way. My fave person is a new, above- knee amputee, and having the chance to see some of these marvels is life- changing. \nThank you!!",
+      "date": 1748130933,
+      "review_helpful_count": 15,
+      "author_display_name": "NerdyGypsy",
+      "author_alias": "NerdyGypsy",
+      "developer_response": null
+    },
+    {
+      "id": "709218282278889",
+      "score": 5,
+      "review_title": "Brink Traveler",
+      "review_description": "I only bought this yesterday but already I am loving it.\nIt is well thought out, easy to use and looks amazing.",
+      "date": 1751136873,
+      "review_helpful_count": 6,
+      "author_display_name": "sarahbloggz",
+      "author_alias": "sarahbloggz",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T01:21:57Z"
+}

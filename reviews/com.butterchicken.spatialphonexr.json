@@ -1,0 +1,1014 @@
+{
+  "app_id": "9110996082255121",
+  "package_name": "com.butterchicken.spatialphonexr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Spatial Phone : Mirror & Control",
+  "rating_average": 3.4142857142857,
+  "rating_count": 210,
+  "review_count": 96,
+  "reviews": [
+    {
+      "id": "27777297635228107",
+      "score": 4,
+      "review_title": "1 star removed from perfection.",
+      "review_description": "Very useful if you want 3rd party web apps running in Meta quests new \"seamless multitasking\" my intent was/is it to run it with a couple of DAWS and Strudel (music) in a window while using VR DJing apps.  However, it's cumbersome for these reasons\n- the code to connect is too long to type with alpha numeric / and capitalisation. There needs to be a copy paste or \"set your pin\" mechanic. This is even more crucial in a performance / live demo environ \n- the keyboard is not working even with accessibility turned on (samsung m33 5g). Could it be some new Meta HoS update breaking the input? Mic and sound are fine.\n- latency compensation slider would be nice \n- pan knob for left/right for mic and audio a good frill to have.\n\nOverall great as a solution seeing how scrcpy would need some hacking and the other one is patreon powered.",
+      "date": 1781523468,
+      "review_helpful_count": 4,
+      "author_display_name": "Dirrogate",
+      "author_alias": "Dirrogate",
+      "developer_response": null
+    },
+    {
+      "id": "969352362935912",
+      "score": 4,
+      "review_title": "Awesome app..",
+      "review_description": "**UPDATE** the app or headset will cause a disconnect when not viewed for approximately 20 minutes or so or if your phone screen gets closed or times out. Spatial phone mega your phone to be open/ awake.. so make sure to have it set to not go to sleep for however long you'd like to saves it through your headset.\n\nTo keep it from disconnecting, an option I was shown was to use the multitasking tab feature that the meta Quest has. It's where you open your meta quest menu from your right controller (usually by pressing and holding the button with the three lines) then you can just pin that menu above your head and out of sight. It is pretty cool to have full access to your phone through this app. Anything that you can do on your phone, you can do through this app.. send text messages, make calls, watch shows and movies, play games, emails, etc.",
+      "date": 1774549376,
+      "review_helpful_count": 36,
+      "author_display_name": "Mustang_T",
+      "author_alias": "Mustang_T",
+      "developer_response": null
+    },
+    {
+      "id": "1188115207714554",
+      "score": 5,
+      "review_title": "Works great",
+      "review_description": "Works great on iPhone, although I wish I could just click on the screen rather than having the separate touch surface",
+      "date": 1781106099,
+      "review_helpful_count": 0,
+      "author_display_name": "olieollyollie",
+      "author_alias": "olieollyollie",
+      "developer_response": null
+    },
+    {
+      "id": "967143699825166",
+      "score": 5,
+      "review_title": "Great app with low latency",
+      "review_description": "I currently use it for my drone but it's also possible to play games. Due to its low latency i can fly without any big problem. Contact with dev is really good, he anwsers all the questions immediately.",
+      "date": 1775426015,
+      "review_helpful_count": 7,
+      "author_display_name": "xPietru",
+      "author_alias": "xPietru",
+      "developer_response": null
+    },
+    {
+      "id": "1105335212653855",
+      "score": 2,
+      "review_title": "Do not buy, do not recommend",
+      "review_description": "The app works, but barely. It cumbersome to setup and start. The window on the quest is not adjustable and is small for much of what you want to do. The “control your phone” is terrible and very misleading from the description, it doesn’t work well at all and controlling your Iphone with it is nearly impossible. The app only gets two stars because it does technically display your phone on the quest. Just with none of the functionality they make it seem like and literally zero customization of even the basic window. Not worth half this price. And there is free apps that can do everything this does.",
+      "date": 1773285817,
+      "review_helpful_count": 7,
+      "author_display_name": "Lucas_Norber",
+      "author_alias": "Lucas_Norber",
+      "developer_response": {
+        "body": "You can resize the window on Quest by dragging the corners.\n\nYou can also control your iPhone on it. I’ve attached a video to help you set it up: https://youtu.be/Ubx-NrR_iJ4?si=R9ZjDP7ETT_HhAHr\n\nIf you’re still facing the issue mentioned above, I can offer a free 1-on-1 call to help debug and fix it via Discord (https://discord.gg/99qgmSxUZ9) or email gulzar.dev@outlook.com",
+        "date": 1773487856
+      }
+    },
+    {
+      "id": "1127965320408294",
+      "score": 1,
+      "review_title": "Help i pay for this and it does not work",
+      "review_description": "this app does not work and i want a refund",
+      "date": 1781008054,
+      "review_helpful_count": 1,
+      "author_display_name": "idomeudou144",
+      "author_alias": "idomeudou144",
+      "developer_response": null
+    },
+    {
+      "id": "1534620338248173",
+      "score": 5,
+      "review_title": "Simply awesome.",
+      "review_description": "Perfect way to watch my cctv from whilst not breaking the immersion..Definately worth the money",
+      "date": 1779748651,
+      "review_helpful_count": 0,
+      "author_display_name": "munamunamike",
+      "author_alias": "munamunamike",
+      "developer_response": null
+    },
+    {
+      "id": "1129638743558923",
+      "score": 5,
+      "review_title": "Does what it does",
+      "review_description": "It works and the only problem i could see with it is the setup time but thats because its nessessary",
+      "date": 1776791817,
+      "review_helpful_count": 2,
+      "author_display_name": "foidincinerator",
+      "author_alias": "foidincinerator",
+      "developer_response": null
+    },
+    {
+      "id": "1586819665682453",
+      "score": 5,
+      "review_title": "Awesome app that does what it's meant to",
+      "review_description": "Honest and helpful review. No bot and no sponsor or affiliate. \n\nFirst, you are looking at this app and the reviews for specific reason. Maybe you were tired of taking off your headset to check your phone to see if you received any messages or to check a message that you just heard a notification for. Maybe you're tired of turning on passthrough to look at your phone (if you have a Quest 3). Maybe you wanna watch YouTube or Disney+ or something else that's compatible (Netflix is not), while you're playing a game or on another app.\n\nAt first, because I didn't understand a couple of things. I thought the app wasn't going to meet my need. But I figured it out (user error). \n\nHere we go: \n\nGot an Android OS phone. Install, fine. App opens. Used the code that comes up in the first pop up window on the Quest that you then type into your phone, and it connects. Now...there are a couple of important things for you as the user to know and understand so you don't misunderstand like I did: \n\n1) Go to your Quest settings and make sure that the option for the seamless multitasking is turned on (or whatever it is called on yours). If you dont do this, it won't work.\n\n2) Your phone screen will have to stay on. So whether you switch your timeout to a longer time frame or to always on, you have to do it. Obviously, you'd want to keep your phone plugged into a charger. If the phone screen is not on, then it won't do what it was designed to do.\n\n3) Logging into the app. First, download the app on your phone (durr). The first time you open this VR app and the app on your phone, you get a window where you are given a code. Simply remember that code or use passthrough, and put it into the app on your phone. Then log in. Then click on the \"Start Casting\" button at the bottom, choose if the entire screen is shared or a specific app, and keep your phone on the entire time you want to see it. After you leave the VR app or lock your phone, you'll have to log in again, *BUT...the first pop up window for logging in will show a new code...do  NOT input that code. The app already remembers your code. So just click on the green login button and start casting.\n\n4) Your can't use your Quest controllers to control what you are looking at. It is a viewing only app. You'd have to pair controllers with your phone to be able to do that and we know that is not possible. So if you want to navigate through your phone, use passthrough and get to the app you want to have open in VR while you play a game on VR or whatever you do in there. \n\nNote: Netflix doesn't project because Android doesn't allow it to be streamed due to DRM. But a ton of apps work perfectly. \n\nIn conclusion, although it's not perfection, it is the best app for what we all came here to check. So, it's well worth it! Plus, the direct support both here and on discord is excellent, fast, and very helpful. Thanks guys!",
+      "date": 1769382582,
+      "review_helpful_count": 18,
+      "author_display_name": "LVillan2025",
+      "author_alias": "LVillan2025",
+      "developer_response": {
+        "body": "Firstly you don't have to type in any code if you are on the same wifi network. Your phone code will automatically show up on quest.\n\nYou can increase the display timeout to prevent the phone from sleeping this way you don't have to pair your phone.\n\nLet me know if you are still facing this issue",
+        "date": 1769332424
+      }
+    },
+    {
+      "id": "4814666462093343",
+      "score": 3,
+      "review_title": "Works now but developer did help",
+      "review_description": "After setting up twice more it works. Not as nice visually as immersed but immersed does not let you inter act so trade off I guessJust as title says can connect but just black screen. iPhone screen never is showing. The immersed app works I thought a pay app would be better but no luck\nAfter setting up twice more it works. Not as nice visually as immersed but immersed does not let you inter act so trade off I guess",
+      "date": 1773004324,
+      "review_helpful_count": 1,
+      "author_display_name": "Macthstick",
+      "author_alias": "Macthstick",
+      "developer_response": {
+        "body": "are you using any sort of vpn or on a restricted network?\nCan you please try disabling it.\nIf it doesn't work I can provide 1-1 support over call gulzar.dev@outlook.com",
+        "date": 1772738889
+      }
+    },
+    {
+      "id": "1025681143968170",
+      "score": 4,
+      "review_title": "Good",
+      "review_description": "Application working in one WiFi but without internet ? Is it possible ?",
+      "date": 1776055612,
+      "review_helpful_count": 2,
+      "author_display_name": "nikitorator",
+      "author_alias": "nikitorator",
+      "developer_response": {
+        "body": "internet is only required to complete the handshake then you can switch of the internet and use it with your WiFi",
+        "date": 1776517919
+      }
+    },
+    {
+      "id": "907897842409381",
+      "score": 1,
+      "review_title": "No use on iPhone 17 pro max",
+      "review_description": "I bought this app to try and have my phone mirrored and controlled in VR. I have my phone on same network as quest 3. I have connected on Bluetooth. I have assisted touch enabled. I can see my phone on the quest but I cannot interact with it at all. Either with controller or hand tracking. \n\nComplete waste of money.",
+      "date": 1766916379,
+      "review_helpful_count": 17,
+      "author_display_name": "TheGate2017",
+      "author_alias": "TheGate2017",
+      "developer_response": {
+        "body": "There will be a touchpad on the right which will allow you to control.\n\nI'm attaching a video to help you setup on ios\n\nhttps://youtu.be/Ubx-NrR_iJ4 ?si=R9ZjDP7ETT_HhAHr\n\nLet me know if you are still facing issue. I can setup a free 1-1 call to help and debug your issue on discord https://discord.com/invite/99qgmSxUZ9 or via email gulzar.dev@outlook.com",
+        "date": 1768935070
+      }
+    },
+    {
+      "id": "1432004982047469",
+      "score": 3,
+      "review_title": "Did not work as expected",
+      "review_description": "Connected to the same network throughout the house.   its constantly having me turn off Bluetooth forget the device and pair it again.  I can set the screen to not time out to a longer time but then have to change it back every time.  I haven't been able to control anything with touch pad that comes up other than the home button.  It could be me, but I haven't been able to get it to work as advertised.  I have an iPhone 17 pro max.",
+      "date": 1771386092,
+      "review_helpful_count": 0,
+      "author_display_name": "Ivanrules",
+      "author_alias": "Ivanrules",
+      "developer_response": {
+        "body": "You can follow this video to help you set up the controls: https://youtu.be/Ubx-NrR_iJ4?si=R9ZjDP7ETT_HhAHr\n\nIf that doesn’t work for you, I can debug it with you one-on-one on a Discord call: https://discord.gg/99qgmSxUZ9, or you can email me at gulzar.dev@outlook.com",
+        "date": 1771432819
+      }
+    },
+    {
+      "id": "893960207138645",
+      "score": 4,
+      "review_title": "Amazing!!!",
+      "review_description": "I think the people who are saying the app doesn’t work properly didn’t set it up correctly. I have a iPhone 12 and I use it for everything! It’s a whole new experience! Worth it in my opinion! Just a few suggestions otherwise it would be 5 star!",
+      "date": 1766825314,
+      "review_helpful_count": 8,
+      "author_display_name": "ShadowyTuna8850",
+      "author_alias": "ShadowyTuna8850",
+      "developer_response": null
+    },
+    {
+      "id": "1088702177648645",
+      "score": 1,
+      "review_title": "Nothing but rubbish , i want my money",
+      "review_description": "It is absolutely garbage, just let android Mirroing support.",
+      "date": 1773667550,
+      "review_helpful_count": 0,
+      "author_display_name": "J.Badwal",
+      "author_alias": "J.Badwal",
+      "developer_response": {
+        "body": "you can control your phone by giving permission in the accessibility settings. If you are still facing issue happy to help you over discord https://discord.com/invite/99qgmSxUZ9 or email gulzar.dev@outlook.com",
+        "date": 1774164536
+      }
+    },
+    {
+      "id": "25746114488374180",
+      "score": 1,
+      "review_title": "Zero stars...",
+      "review_description": "Does not work with my Pixel... I set up all permissions and it does not let me control the phone in my Meta Quest... It also disconnects repeatedly... Garbage app I want my money back...",
+      "date": 1768797763,
+      "review_helpful_count": 4,
+      "author_display_name": "ViLesix",
+      "author_alias": "ViLesix",
+      "developer_response": {
+        "body": "the app is not officially supported on iPad. but you can follow this video (https://www.youtube.com/watch?v=Ubx-NrR_iJ4) to set it up on your iPad. For the screen disconnection issue you should increase the app display timeout, that'll prevent your device from sleeping. If you are still facing issue I can setup 1-1 call on discord https://discord.gg/99qgmSxUZ9 or on email gulzar.dev@outlook.com",
+        "date": 1768932667
+      }
+    },
+    {
+      "id": "895542616344245",
+      "score": 1,
+      "review_title": "Complete waste of time for iPhone",
+      "review_description": "This will NOT allow you to watch things like Apple TV or Netflix or prime from your phones installed apps. They are not compliant for streaming media through this app or process. \nDo yourself a favour and don’t waste your money. THIS WILL NOT STRAM MEDIA FROM ANY streaming app due to DRM restrictions.",
+      "date": 1766923365,
+      "review_helpful_count": 4,
+      "author_display_name": "opc2pb",
+      "author_alias": "opc2pb",
+      "developer_response": {
+        "body": "Unfortunately, Apple enforces DRM restrictions that prevent content from services like Netflix and Apple TV from being streamed. If Apple allows this in the future, it will work automatically.",
+        "date": 1766848001
+      }
+    },
+    {
+      "id": "979662278566515",
+      "score": 5,
+      "review_title": "During a game",
+      "review_description": "So i want to see my phone in a vr game but i have to go to the menu to see it and if my phone turns off i have to start it all over again like i don't get it.",
+      "date": 1769548932,
+      "review_helpful_count": 0,
+      "author_display_name": "BuckyBoy013",
+      "author_alias": "BuckyBoy013",
+      "developer_response": {
+        "body": "Hello,\n\nTo use this app inside vr, enable seamless multi tasking. \nI'm attaching a video to help you setup, incase you've this option disabled https://youtu.be/W9Ecw2we_uc?si=YGzFox9_Ip5c3nwi",
+        "date": 1769765735
+      }
+    },
+    {
+      "id": "914422348427454",
+      "score": 1,
+      "review_title": "Meta quest 3s",
+      "review_description": "I bought this app to watch via my phone(samsung s21 fe) at my meta quest 3s basketball games using the eon tv streaming app.But even that i did many settings nothing happened,only black screen.i also send an email but no response,I just lost 10€...",
+      "date": 1767791813,
+      "review_helpful_count": 0,
+      "author_display_name": "ShadowyMongoose3932",
+      "author_alias": "ShadowyMongoose3932",
+      "developer_response": {
+        "body": "Unfortunately that app is DRM protected which android os restricts from sharing ot on quest. If in future android os allows it it'll work without any update.\n\nIf that app is your primary usecase you can easily request a refund",
+        "date": 1767896368
+      }
+    },
+    {
+      "id": "1919265559014278",
+      "score": 5,
+      "review_title": "Handy app",
+      "review_description": "I like this app to bring my Samsung phone into my games..watch videos on browser while playing golf+...works great for what I wanna do",
+      "date": 1769187103,
+      "review_helpful_count": 1,
+      "author_display_name": "galacticjab",
+      "author_alias": "galacticjab",
+      "developer_response": null
+    },
+    {
+      "id": "979070925283125",
+      "score": 1,
+      "review_title": "Not good for iOS",
+      "review_description": "Really laggy and you can’t just click on things you want you have to use this weird onscreen touch pad makes no sense . Useless app wouldn’t recommend for iOS .",
+      "date": 1767993581,
+      "review_helpful_count": 0,
+      "author_display_name": "clippa720",
+      "author_alias": "clippa720",
+      "developer_response": {
+        "body": "This is not the expected experience. Happy to debug and and fix it for you on a 1-1 call.\nContact gulzar.dev@outlook.com or on discord https://discord.com/invite/99qgmSxUZ9",
+        "date": 1768334647
+      }
+    },
+    {
+      "id": "836667412872730",
+      "score": 5,
+      "review_title": "works pretty dang good",
+      "review_description": "now i'm not gonna see it didn't come without a few complications but honestly once everything got up and running i've been using it since and i'm using it right now actually. not one regret on this purchase absolutely worth it",
+      "date": 1766455354,
+      "review_helpful_count": 1,
+      "author_display_name": "RoxasReborn",
+      "author_alias": "RoxasReborn",
+      "developer_response": null
+    },
+    {
+      "id": "615647228303074",
+      "score": 3,
+      "review_title": "Its A giant leap For quest 3",
+      "review_description": "Its A needed tool, and hopefully we will receive updates on needed tool apps whenever meta sends us hardware updates. It consumes a lot of time having to manually go to the app on your phone and stream a code then manually go to the app on your quest and manually enter the code, Then sometimes the app just shuts off by itself and you have to do it all over again. I'd like my quest 3 and Samsung Galaxy A23  to be smart enough to  do without a window and show my actual phone like it shows the quest 3 controllers also, when not in passthrough.",
+      "date": 1762530879,
+      "review_helpful_count": 4,
+      "author_display_name": "MrCoryEasleySr",
+      "author_alias": "MrCoryEasleySr",
+      "developer_response": {
+        "body": "Hello,\n\nYou don't have to type any code if you are on the same network. It'll automatically appear on quest.\n\nTo prevent it from shutting you can increase the display timeout",
+        "date": 1762677427
+      }
+    },
+    {
+      "id": "933351069867497",
+      "score": 3,
+      "review_title": "the quality is disappointing",
+      "review_description": "Terrible quality, but there's almost no delay.",
+      "date": 1769376987,
+      "review_helpful_count": 0,
+      "author_display_name": "mars3024",
+      "author_alias": "mars3024",
+      "developer_response": {
+        "body": "you can increase the quality by disabling the high performance mode. Let me know if this fixes for you. For additional assistance you can contact me on discord https://discord.gg/99qgmSxUZ9 or via email gulzar.dev@outlook.com",
+        "date": 1769424771
+      }
+    },
+    {
+      "id": "997359763452374",
+      "score": 1,
+      "review_title": "Bad App- does NOT work properly with iOS",
+      "review_description": "Basically you can’t control your phone with this, totally useless app, $12 straight to the trash",
+      "date": 1768079457,
+      "review_helpful_count": 0,
+      "author_display_name": "guipirika",
+      "author_alias": "guipirika",
+      "developer_response": {
+        "body": "This is not the expected experience. Happy to debug and and fix it for you on a 1-1 call.\nContact gulzar.dev@outlook.com or on discord https://discord.com/invite/99qgmSxUZ9",
+        "date": 1768334746
+      }
+    },
+    {
+      "id": "972435562609048",
+      "score": 2,
+      "review_title": "As for now cast works control doesn't",
+      "review_description": "Spent 40 minutes trying to fix whatever could of been wrong... I cannot control my phone atall Ititerally only casts what I do onto my vr screen. Waste of penny's unless im missing something..",
+      "date": 1766361763,
+      "review_helpful_count": 1,
+      "author_display_name": "bartholomule92",
+      "author_alias": "bartholomule92",
+      "developer_response": {
+        "body": "Hello\n\nIf you are using an Android device, you need to grant permission in the accessibility settings for the control feature to work. \n\nI can setup a 1-1 video call to help you set up. My email is gulzar.dev@outlook.com and https://discord.gg/99qgmSxUZ9",
+        "date": 1766487195
+      }
+    },
+    {
+      "id": "837952282741964",
+      "score": 3,
+      "review_title": "Please fix this!",
+      "review_description": "Please add the cursor screen on top of the actual phone screen so we won’t have to look at two screens at once. It’s counterproductive and would aid us in other apps while just looking at one screen and making sure the cursor doesn’t stay in one position. If the cursor is used in a “new state” everytime you enter the cursor screen it would help a ton. Instead of trying to fidget with it on our end you (team) could make the cursor screen restart to a new point of the screen without trying to re-adjust yourself and catch it in a good orientation. For example if I am on instagram and I swipe up my hand is outside of the cursor box. That means when I come from the right side to like the post or video I am watching the cursor will go from the top of the screen (where I left the screen) and zoom to the left. So now my original intention was to like the post but now the cursor is on the top left of my phone screen and I have to hover to the cursor screen from the top left to guide it back down. Please update this and everything else will be flawless. For anyone that doesn’t know you have to connect to WiFi,Bluetooth and then turn on “assistive touch” on your phone for this to function. TEAM please try to overlay the cursor screen on top of the phone screen. Thank you for your time.",
+      "date": 1763013693,
+      "review_helpful_count": 2,
+      "author_display_name": "XDWIZ",
+      "author_alias": "XDWIZ",
+      "developer_response": {
+        "body": "Hello,\n\nThanks for taking your time to provide a detailed feedback.\nI've plan's to add the iPhone cursor on the bottom of phone.",
+        "date": 1763222868
+      }
+    },
+    {
+      "id": "978089238715778",
+      "score": 1,
+      "review_title": "Unable to use touchpad",
+      "review_description": "see title",
+      "date": 1769022330,
+      "review_helpful_count": 0,
+      "author_display_name": "Juan94c",
+      "author_alias": "Juan94c",
+      "developer_response": {
+        "body": "you can follow this video to help you setup https://youtu.be/Ubx-NrR_iJ4?si=OOubKNQ3U3TXjb1s let me know if you still have issues. I'll be happy to debug your issue over a live call",
+        "date": 1769332215
+      }
+    },
+    {
+      "id": "822372670244942",
+      "score": 5,
+      "review_title": "Works, but…",
+      "review_description": "This app works on iphone via a modified screen-recording functionality, which actually works pretty well. There is some latency which is to be expected but it is not too bad. \n\nThere are some issues with audio coming out of the phone as well as the headset, which is a bit of a pain, you can turn it down but it won’t go mute completely, just the lowest volume setting. Headset volume works independently, you can have it as loud as you want through the headset to drown out the quiet phone. Setup is pretty easy honestly, the code can be annoying to type in but the autoconnect for devices on the same network works well. \n\nOne thing I wish could be worked around is that streaming apps like Netflix and Disney+ don’t work, they show a black screen, same as regular screen recording does if you try to record streaming apps. I really hope a future update can figure out some kind of work-around for this, because it would be a huge plus for this app. However, for now, “streaming” from a browser window will work just fine.",
+      "date": 1759891992,
+      "review_helpful_count": 7,
+      "author_display_name": "MullybucksVR",
+      "author_alias": "MullybucksVR",
+      "developer_response": null
+    },
+    {
+      "id": "837358785551506",
+      "score": 1,
+      "review_title": "Dont buy",
+      "review_description": "Will waste money looks nothing like in ad you will get 2 screens on ocolus one will act like touchpad very laggy as well",
+      "date": 1764524898,
+      "review_helpful_count": 0,
+      "author_display_name": "Bojarcoo",
+      "author_alias": "Bojarcoo",
+      "developer_response": {
+        "body": "Hello,\n\nCan you make sure you are connected on the same WiFi network for best performance ?\nDue to apple's limitations it's only possible for touch feature to work iphone using dual screen approach.\n\nHappy to help you over call if you are still facing. Email gulzar.dev@outlook.com",
+        "date": 1764595098
+      }
+    },
+    {
+      "id": "1314252316752674",
+      "score": 3,
+      "review_title": "iPhone user: Good start",
+      "review_description": "Got this to use with iPhone since I saw some strong potential. It’s a good start, but there is still more work ahead. Some things I’ve noticed which I hope can be addressed in the future, but some of these things just could be the results of limitations with iOS.\n\n1. Phone display and control panel are separate windows which I don’t believe is an issue with android.\n\n2. I use steelseries headphones that can do 3.5mm and Bluetooth simultaneously. If I try to play music from my phone, neither connection will receive the audio.\n\n3. It is a little annoying having to forget the Bluetooth connection between my phone and headset and reconnect every time I want to do a new remote session.\n\n4. Haven’t been able to have the remote session show while playing a VR game,  I’m not sure whether to blame iOS or the VR game for that one.\n\n\nHopefully these things can be fixed for iPhone, though I can understand some of these things being limitations with trying to make this work with iOS.",
+      "date": 1758472307,
+      "review_helpful_count": 3,
+      "author_display_name": "JPGR94",
+      "author_alias": "JPGR94",
+      "developer_response": {
+        "body": "Hello,\n\nThanks for trying out this app. I’m constantly working on improving the user experience.\n\n1/ Unfortunately, Apple doesn’t allow external developers to control screens the way Android does. This is the only method I could get working. I’m exploring ML-based movements, but that still seems a bit far-fetched.\n\n2/ Which app are you trying to play music from? Ideally, music should play on the Quest if you start it from your iPhone. I’ve tested with YouTube and Spotify.\n\n3/ I know this is cumbersome. Unfortunately, this is a Quest OS issue, and I’m working with the Meta team to get it fixed.\n\n4/ To use this alongside your game, you should enable multitasking mode.\n\nFor updates, you can follow on Discord https://discord.com/invite/99qgmSxUZ9 or email me at gulzar.dev@outlook.com.",
+        "date": 1758486334
+      }
+    },
+    {
+      "id": "638081249302361",
+      "score": 5,
+      "review_title": "only one phone",
+      "review_description": "il faut continuer a utiliser l'écran de votre téléphone . L'appli ne fait qu'afficher votre écran de téléphone dans une fenêtre meta. La qualité du casting est nul dans un navigateur et donc encore plus nul dans OBS. Un lien direct OBS serait super !  Le logiciel ne suporte que 1 téléphone: pas plusieurs téléphones !",
+      "date": 1753621336,
+      "review_helpful_count": 18,
+      "author_display_name": "lionel06300b",
+      "author_alias": "lionel06300b",
+      "developer_response": null
+    },
+    {
+      "id": "1575083070322884",
+      "score": 1,
+      "review_title": "App makes no sense",
+      "review_description": "The phone app looks like malware and immediately tries to sell a \"pro\" version before doing anything useful.",
+      "date": 1758574445,
+      "review_helpful_count": 6,
+      "author_display_name": "ShadowDale",
+      "author_alias": "ShadowDale",
+      "developer_response": {
+        "body": "What issue are you facing with the app ?\nHappy to help",
+        "date": 1758716493
+      }
+    },
+    {
+      "id": "902667519587614",
+      "score": 4,
+      "review_title": "Doesn’t work!",
+      "review_description": "I have tried everything to get this app to work and it doesn’t! Don’t spend your money.",
+      "date": 1763615810,
+      "review_helpful_count": 1,
+      "author_display_name": "Lumu81",
+      "author_alias": "Lumu81",
+      "developer_response": {
+        "body": "Hello,\n\nWhat issue are you facing? \n\nHappy to help over discord https://discord.com/invite/99qgmSxUZ9 or email gulzar.dev@outlook.com",
+        "date": 1761841930
+      }
+    },
+    {
+      "id": "2087579628440284",
+      "score": 5,
+      "review_title": "Does what is expected",
+      "review_description": "Easy to setup, works fine, do the job",
+      "date": 1761217687,
+      "review_helpful_count": 2,
+      "author_display_name": "Azinheira",
+      "author_alias": "Azinheira",
+      "developer_response": null
+    },
+    {
+      "id": "780809178454834",
+      "score": 5,
+      "review_title": "Works well on iPhone",
+      "review_description": "Finally a good mirror for iPhone, controls work also, just more workaround, but it’s there if you really needed it. So it’s fine by me! Great job!",
+      "date": 1757972910,
+      "review_helpful_count": 2,
+      "author_display_name": "franrod78",
+      "author_alias": "franrod78",
+      "developer_response": null
+    },
+    {
+      "id": "732050819988206",
+      "score": 4,
+      "review_title": "Good for setting stuff",
+      "review_description": "Keeps me from having to take off my headset when logging into accounts and needing to do 2step MFA stuff. It has a bit of a lag, can be blurry, you have to remember to activate it in advance, some apps cause it to crash especially if it tries to open your camera and it feels a bit odd interfacing with something that is recording what you do like the Quest. However all around great for what I need. Wish this was standard for the Oculus because I'd like that piece of mind that what I'm doing is safe and secure. Also it's a bit expensive, I'd say it's worth more $5-8",
+      "date": 1753608918,
+      "review_helpful_count": 5,
+      "author_display_name": "datallos",
+      "author_alias": "datallos",
+      "developer_response": null
+    },
+    {
+      "id": "706687622242591",
+      "score": 5,
+      "review_title": "Black screen, stream causes phone freeze",
+      "review_description": "Hi I found some problems,\n\n+casting speed display fps\n+ accessibility options enabling at the app to allow integrated vr controls causes crashes, in menu, \n+wifi connection status on 2.4 or 5ghz display need,\n+ linking to cast in meta causes android app to crash and terminate on android which I have to relaunch spatial app again\n+ I need app zoom in scale + and - menu button, \n+I need resolution mode with selected box to emulate resolution size drop box with auto apply, for example, 1080p, 2k, 3k, 4k in android and iPhone and meta headset spatial menu option resolution selection with video options to apply \n\nI need smooth portrait and landscape at the click of a button on, even if it displays on virtual portrait or landscape \n\nI need spatial virtual box to have a lock and unlocked box, I need fixed position display box locked, on android app and iPhone and on the meta virtual headset application next to the virtual application while running on projected(casting) virtual box, so the so it does not move around, in other words it's like running vlc in windows with the option \"always on top\"\n\nI keep getting a black screen, the update claims to stop black screen but still no help \nMy phone freezes during streaming button is pressed\n\nKeep up the good work👍",
+      "date": 1754209956,
+      "review_helpful_count": 15,
+      "author_display_name": "teo.12263",
+      "author_alias": "teo.12263",
+      "developer_response": {
+        "body": "Thanks for the detailed review.\n\nA few things you mentioned are already supported in the app:\n\nTo resize windows, just drag the corner of the screen using your Quest controller.\n\nI’ve optimized casting to be as fast as possible. If you're on the same Wi-Fi network, you don't need to enter a code — the device will automatically appear.\n\nMost phones don’t have 4K screens, so casting at that resolution isn’t currently possible.\nChanging orientation is supported in most apps and can be triggered when there's a dedicated functionality for it.",
+        "date": 1753735959
+      }
+    },
+    {
+      "id": "836717119518171",
+      "score": 5,
+      "review_title": "Sick App!",
+      "review_description": "Love it!  Here’s a YouTube URL showing how it works: https://youtu.be/Ubx-NrR_iJ4?feature=shared",
+      "date": 1757664734,
+      "review_helpful_count": 1,
+      "author_display_name": "InStoreDemo",
+      "author_alias": "InStoreDemo",
+      "developer_response": {
+        "body": "hello,\n\nWhat issue are you facing?",
+        "date": 1757621765
+      }
+    },
+    {
+      "id": "658654207336847",
+      "score": 5,
+      "review_title": "Landscape view DJI drone FPV",
+      "review_description": "Using Samsung s25 ultra with quest 3 to fly mavic pro drone. I haven't fully tested the app with drone flying but so far the setup seems ok. The developer is actively trying to improve the app and is helpful. For drone pilots this could be a good work around for FPV first person view.",
+      "date": 1750329105,
+      "review_helpful_count": 17,
+      "author_display_name": "zapback100",
+      "author_alias": "zapback100",
+      "developer_response": null
+    },
+    {
+      "id": "730433163484391",
+      "score": 5,
+      "review_title": "Works but a bit clunky",
+      "review_description": "It works with iPhone but it puts a giant mouse pad to use your iPhone. A second screen to take up space while in other apps. Hopefully that pad will be able to be layered on the virtual phone screen so that it’s hidden out of site. Thanks dev this is a game changer!",
+      "date": 1753481968,
+      "review_helpful_count": 3,
+      "author_display_name": "Pr4life990",
+      "author_alias": "Pr4life990",
+      "developer_response": null
+    },
+    {
+      "id": "1054945549856195",
+      "score": 1,
+      "review_title": "FALSE ADVERTISING",
+      "review_description": "Don't be fooled by the main video ad!  The video suggests that you can scroll on your phone in meta and therefor not have to touch your phone.   Basically showing that it takes input from Meta.  This is false advertising right here.  This App is worthless as it simply records your phone screen including the mic and you get horrific feedback.",
+      "date": 1746567216,
+      "review_helpful_count": 84,
+      "author_display_name": "BlaikoBits",
+      "author_alias": "BlaikoBits",
+      "developer_response": {
+        "body": "Hello,\nUpdate: 10/6/2025 You can now control your iphone using the spatial phone app. Please consider revising your review \n\n\nIt's clearly mentioned in the description that control from VR is not supported on iOS due to Apple API restrictions. However, I've found a way to get the control working on iOS. I'm currently beta testing it and will update it on the Meta Store soon. You can try the beta build by contacting me on Discord at https://discord.gg/99qgmSxUZ9 or via email at gulzar.dev@outlook.com.",
+        "date": 1749582207
+      }
+    },
+    {
+      "id": "731674293351824",
+      "score": 5,
+      "review_title": "Great App, Have Reasonable Expectations",
+      "review_description": "fantastic app! unfortunately people in these reviews don't understand that this app is truly a beta app and is still being fine-polished, so they are over harsh. The developer is extremely responsive and can be reached easily over discord if anything goes wrong.",
+      "date": 1749811785,
+      "review_helpful_count": 10,
+      "author_display_name": "mfielding92",
+      "author_alias": "mfielding92",
+      "developer_response": null
+    },
+    {
+      "id": "741628759037764",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "Its awesome had to reboot my headset b4 it worked but its been good since ... The dev is onto of things to help Very active and helpful",
+      "date": 1756070233,
+      "review_helpful_count": 1,
+      "author_display_name": "SinisterMouse",
+      "author_alias": "SinisterMouse",
+      "developer_response": {
+        "body": "Hello \n\nAre you using a VPN?\nI'll be happy to debug and fix this for you.\nI can provide free one-on-one support on Discord: https://discord.gg/99qgmSxUZ9 or via email: gulzar.dev@outlook.com.",
+        "date": 1755932508
+      }
+    },
+    {
+      "id": "657312260805766",
+      "score": 5,
+      "review_title": "No more missing important calls",
+      "review_description": "Gone are the days were i ignore my phone in vr out of fear of scam calls. Now I can see exactly who is calling. I am able to fully interact with my phone in vr albiet still a bit lower quality than irl phone, but its nice to be able to use it with in any app. I wish spatial tv was like that too.\n\nThe dev has been great with support on the issues I did experience via discord. Truly look forward to more features for the app.\n\nNow hopefully meta will allow me to keep a panel ingame with out having their UI bar as well as this would go great with this app.",
+      "date": 1750350494,
+      "review_helpful_count": 4,
+      "author_display_name": "I69420247I",
+      "author_alias": "I69420247I",
+      "developer_response": null
+    },
+    {
+      "id": "24608415302178867",
+      "score": 4,
+      "review_title": "How to Control from the app",
+      "review_description": "i have an android phone, app is mirroring well but cant control with meta controller",
+      "date": 1756503610,
+      "review_helpful_count": 1,
+      "author_display_name": "Dadof562",
+      "author_alias": "Dadof562",
+      "developer_response": {
+        "body": "Hello,\n\nTo use the control on Android you need to grant permission in the accessibility settings. Happy to help you on a live call if you are still facing this issue email : gulzar.dev@outlook.com",
+        "date": 1756543396
+      }
+    },
+    {
+      "id": "708166639043978",
+      "score": 4,
+      "review_title": "Works well all things considered",
+      "review_description": "Considering how locked down the Apple iOS system is it does a pretty good job to workaround it , don’t expect android level of control As this is the unfortunate price of being on Apple , but if you want to view your phone in vr dashboard , and the beta does add control of the phone in the vr environment it’s still a little funky , but again that’s the nature of the work around , it’s not perfect but it’s better than nothing at all and the developer is active in helping and responding to feature requests , you just need to remember it’s limits , who knows where it will go from here but it’s a good start , happy to have anything at all as my Vive xr had nothing for Apple support",
+      "date": 1750290413,
+      "review_helpful_count": 2,
+      "author_display_name": "Hound.Dog",
+      "author_alias": "Hound.Dog",
+      "developer_response": null
+    },
+    {
+      "id": "729792862911981",
+      "score": 2,
+      "review_title": "Phone mirror",
+      "review_description": "Till I read the fine print which wasn’t obvious, I didn’t know that this did not allow you to control your phone from your headset. Only the headset only the phone controls the headset you can watch movies and blah blah blah why I could do that on the heads up without this expensive pilot garbage on my system",
+      "date": 1749486235,
+      "review_helpful_count": 3,
+      "author_display_name": "Art1959",
+      "author_alias": "Art1959",
+      "developer_response": {
+        "body": "Hello,\n\nThe phone control feature for iPhone is currently in beta. I've added you to the beta track so you can try it out. Please consider updating your review after giving it a try.",
+        "date": 1749493333
+      }
+    },
+    {
+      "id": "704098659443266",
+      "score": 4,
+      "review_title": "Works on iPhone, mostly",
+      "review_description": "This app is brilliant in concept. I've been wanting a way to look at my iphone when I'm in VR and Meta doesn't have a way to to integrate notifications natively, so this has been a much needed tool! The only issue is that I'm not able to actually control my phone, so if I want to do something on the phone, I have to pick it up still. That's on Apple for not making the controls available to developers, but it's still worth mentioning. \n\nIf you're looking for a way to keep track of your iPhone notifications, this is well worth the money in my opinion.",
+      "date": 1746035523,
+      "review_helpful_count": 18,
+      "author_display_name": "Donny.Queue",
+      "author_alias": "Donny.Queue",
+      "developer_response": null
+    },
+    {
+      "id": "682467724955354",
+      "score": 3,
+      "review_title": "It's ok",
+      "review_description": "It's ok, a little laggy but that's probably my internet connection playing a part. Only really problem I have is the screeching noise when I connect everything up, I have to move my phone out of the room just to use it on the headset.",
+      "date": 1752609951,
+      "review_helpful_count": 0,
+      "author_display_name": "TheGoldenTeacher92",
+      "author_alias": "TheGoldenTeacher92",
+      "developer_response": {
+        "body": "The screeching noise you mentioned could be because of the mic, you can disable from your iphones mic settings or just disable the permission altogether",
+        "date": 1752622093
+      }
+    },
+    {
+      "id": "1315675920154236",
+      "score": 5,
+      "review_title": "NEAT",
+      "review_description": "I like it,  is it ideal to use with iPad or iPhone?",
+      "date": 1755594210,
+      "review_helpful_count": 1,
+      "author_display_name": "0riginella",
+      "author_alias": "0riginella",
+      "developer_response": {
+        "body": "hello\n\nit's optimised for iPhone, but it should work with an ipad too !",
+        "date": 1755594502
+      }
+    },
+    {
+      "id": "598187173388682",
+      "score": 4,
+      "review_title": "good but needs work still",
+      "review_description": "the app does everything you would expect it to for the most part you can control your phone on it and check your messages or watch youtube or whatever but you should probably know a few things first:\n\n1) it doesnt support discord calls so if you want to use it for that then you cant (i tested with my friend and he could hear me but i couldnt hear him)\n\n2) apps that block screen recording like netflix wont work and spotify doesnt work either (but yt music does)\n\n3)it has a slight bit of jank to use like having to disconnect to change the app settings however once you're connected it actually works quite well even though i'm using an old phone and an outdated wifi 5 modem\n\noverrall i'm pretty happy with it tbh and the support is excellent too even though i think it's a single dev project!",
+      "date": 1748875186,
+      "review_helpful_count": 3,
+      "author_display_name": "eyescream64",
+      "author_alias": "eyescream64",
+      "developer_response": null
+    },
+    {
+      "id": "563295590207863",
+      "score": 5,
+      "review_title": "Super Responsive Dev - 5/5",
+      "review_description": "Works as advertised, think Windows Remote Desktop but for your phone. Good app and amazing capabilities given the limitations of trying to run an Android phone remotely via VR so there are some quirks, i.e. 1) when you start the app, don't press the \"back\" button on the first launch from the VR app or physical phone, because that shuts the app down on the phone and glitches the app in VR; 2) phone screen must remain on in order to use it in VR because if it turns off, VR will also show a black screen mirroring the phone, where you will have to wake it up again and put in your passcode/biometric/unlock pattern; 3) the phone app settings requires permissions that are not asked during install and first time launch, where they can only be found in the \"Accessibility\" settings on the Android phone, and such.\n\nHaving said that this is probably the only kind of app that does this and kudos to the dev for making this work. Dev is super responsive on Discord with my problems and personally helped me out when I was stuck. Well done and looking forward to better versions in the future!",
+      "date": 1743365458,
+      "review_helpful_count": 37,
+      "author_display_name": "LordBritish666",
+      "author_alias": "LordBritish666",
+      "developer_response": null
+    },
+    {
+      "id": "688323900667436",
+      "score": 4,
+      "review_title": "This is awesome",
+      "review_description": "Control works now in iPhone, just need to toggle Assistive touch, and works like a charm. This is so usefull when you need to charge your phone and leave the room, you can still use your phone inside VR Games too!",
+      "date": 1750218759,
+      "review_helpful_count": 2,
+      "author_display_name": "Ivanchwelo",
+      "author_alias": "Ivanchwelo",
+      "developer_response": null
+    },
+    {
+      "id": "662966223560986",
+      "score": 5,
+      "review_title": "Brilliant app, excellent support",
+      "review_description": "This app is a must if you are looking to have your phone in the VR realm.\n\nI tried a cheaper version of this type of app and although I consider myself to be of a technical mind, the set up was awful and over my head so gave up.\n\nAlways an unknown one these sort of apps and true to form I had a challenge.  However this guys support is second to none, excellent and can't praise enough.  He was fast at replying, got straight to the issue which was a quick setting change and bingo,  up and running.\n\nApp is exactly as described and a perfect compliment to being in headset.\n\nFrom my experience you should have no qualms or worries on setting up and getting it to work as the developer is first class on support.\n\nThank you for this app.",
+      "date": 1744800342,
+      "review_helpful_count": 13,
+      "author_display_name": "SJL777",
+      "author_alias": "SJL777",
+      "developer_response": null
+    },
+    {
+      "id": "700999906429056",
+      "score": 4,
+      "review_title": "Works well mostly",
+      "review_description": "Works well for the better part. I will add that extra star once you make it compatible with use of VPN on phones.",
+      "date": 1750875507,
+      "review_helpful_count": 2,
+      "author_display_name": "Hitchikingsailor07",
+      "author_alias": "Hitchikingsailor07",
+      "developer_response": null
+    },
+    {
+      "id": "651141748090211",
+      "score": 5,
+      "review_title": "Easy to use",
+      "review_description": "This app is hella easy man a 10 years old can do it in their sleep i love this app i can keep track of all my phone notifications and texts￼ as while",
+      "date": 1751173212,
+      "review_helpful_count": 1,
+      "author_display_name": "Chrisrose626",
+      "author_alias": "Chrisrose626",
+      "developer_response": null
+    },
+    {
+      "id": "1140807074480828",
+      "score": 5,
+      "review_title": "Solid and exactly what I need!",
+      "review_description": "Honestly I'm pretty impressed with the app so far. The stream is nice and clear assuming your WiFi is good enough, it does play through a pop up window and I hope for an app one day maybe built like how YouTube uses the roomscan to put the screen on the wall in your room. I use it for watching movies through my phone and itd exactly what I've been  looking for. Im excited to see what the developer does with it!",
+      "date": 1748125040,
+      "review_helpful_count": 1,
+      "author_display_name": "LucidTorment",
+      "author_alias": "LucidTorment",
+      "developer_response": null
+    },
+    {
+      "id": "629941883532498",
+      "score": 5,
+      "review_title": "Useful and Works great",
+      "review_description": "Recently the developer released the iphone companion app for this software and it works wonderfully very nice to be able to see my phone screen in the headset without having to take my headset off just to see if i got a text or other notification. Developer is also very helpful and answered my questions very quickly, thanks again.",
+      "date": 1743437179,
+      "review_helpful_count": 10,
+      "author_display_name": "Santeeag0",
+      "author_alias": "Santeeag0",
+      "developer_response": null
+    },
+    {
+      "id": "1062758262408245",
+      "score": 3,
+      "review_title": "Squished screen",
+      "review_description": "Whenever I turn my phone sideways when I'm running this app the phone screen will turn completely into 1/3 of the width that it was no amount of turning will fix it and I'm wondering if the developers could look into this?",
+      "date": 1748556638,
+      "review_helpful_count": 0,
+      "author_display_name": "SuperiorityVR",
+      "author_alias": "SuperiorityVR",
+      "developer_response": {
+        "body": "Hello \n\nWhich device are you using can you disable high performance mode and try again?",
+        "date": 1748588354
+      }
+    },
+    {
+      "id": "696335922949145",
+      "score": 5,
+      "review_title": "See my heart rate tracking while I play!",
+      "review_description": "Now that the move app is being discontinued I need to find a solution to see my heart rate while playing.  This is a great tool for me to see my heart rate tracking on my phone while playing.  The app works great and the developer is super responsive to any email questions.",
+      "date": 1746108809,
+      "review_helpful_count": 2,
+      "author_display_name": "KMKelly241",
+      "author_alias": "KMKelly241",
+      "developer_response": null
+    },
+    {
+      "id": "537501916120384",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Spatial Phone is so useful! Sometimes I get really lost in VR and lose track of time, or don't notice that I've gotten a text from my wife. As long as I keep my phone screen on and unlocked, it's really easy to pop back to it and check! It's so simple to set up. I've also been lazy about setting up YouTube on my quest and sometimes as I'm browsing, or anything else within Quest home, I will put on a video or some music in the background. I highly recommend this!",
+      "date": 1739981519,
+      "review_helpful_count": 39,
+      "author_display_name": "veecheech",
+      "author_alias": "veecheech",
+      "developer_response": null
+    },
+    {
+      "id": "718930681301355",
+      "score": 5,
+      "review_title": "Phone spatial app",
+      "review_description": "Works great any problems email and he gets back to you and sorts them out 👍",
+      "date": 1750427330,
+      "review_helpful_count": 1,
+      "author_display_name": "Russmac1234",
+      "author_alias": "Russmac1234",
+      "developer_response": null
+    },
+    {
+      "id": "1451216486324185",
+      "score": 3,
+      "review_title": "CONTROL???",
+      "review_description": "I am using a Quest 3 With an Android phone and it mirrors my phone, but I cannot.\nControl it within VR Using the controllers. Is it possible to do that?",
+      "date": 1748481572,
+      "review_helpful_count": 0,
+      "author_display_name": "CORA606b",
+      "author_alias": "CORA606b",
+      "developer_response": {
+        "body": "Hello \n\nTp use control feature you need to give permission in the accessibility settings.",
+        "date": 1748495250
+      }
+    },
+    {
+      "id": "667686292445207",
+      "score": 4,
+      "review_title": "Great app, almost perfect!",
+      "review_description": "Great app, amazing customer service, almost perfect!\n\n I downloaded the app a few weeks back and the issue I had appeared to freeze after a few seconds of mirroring - obviously not great...\n \nHowever, the app designer has offered an unreal level of incredible after care service 👏 continuous support included and hour of online support too! \n\nIt appears that my phone was disconnecting the stream (appearing to freeze) when in actual fact I was swiping a back button causing the app to stop the stream!\n\nCan sometimes be slow response when controlling via the 'control phone from VR' function. Sometimes requiring a 'force stop' of the phone app can resolve these types of issues.",
+      "date": 1740747539,
+      "review_helpful_count": 14,
+      "author_display_name": "WindyMillerVR",
+      "author_alias": "WindyMillerVR",
+      "developer_response": null
+    },
+    {
+      "id": "720399431145801",
+      "score": 2,
+      "review_title": "Not as good as I thought",
+      "review_description": "Purchased this to use with my Drone app and didn't like the screen is really small",
+      "date": 1748796685,
+      "review_helpful_count": 0,
+      "author_display_name": "Memo8",
+      "author_alias": "Memo8",
+      "developer_response": {
+        "body": "Hello \n\nYou can resize the windows to increase the screen size.\n\nIf you are still facing issues I can provide help on discord https://discord.com/invite/99qgmSxUZ9 or via email at gulzar.dev@outlook.com",
+        "date": 1748811628
+      }
+    },
+    {
+      "id": "648941618301891",
+      "score": 5,
+      "review_title": "Exactly what I was looking for.",
+      "review_description": "What a fantastic app, it does exactly what it claims with 1st class support on Discord.\n\nI had a few issues which was a me thing and got everything sorted in minutes with the help from the creator on Discord.  Nothing was too much trouble.  Thank you.",
+      "date": 1745924128,
+      "review_helpful_count": 1,
+      "author_display_name": "DutchHawkins",
+      "author_alias": "DutchHawkins",
+      "developer_response": null
+    },
+    {
+      "id": "1322427429011076",
+      "score": 4,
+      "review_title": "Good, but something weird is going on...",
+      "review_description": "Dads listen up! this is the ultimate babycall app 😅 You can literally have this up as video monitoring device while playing because the app allowed for mic passthrough. Cool stuff when the VR time is sparse and best enjoyed while the little ones sleep 😂 the app itself is good, it's kinda hit or miss if it autoupdates the join room code thing from each session. I don't think the stream is fast enough to do anything other than scroll carefully on the phone. With some delay. Other than that for me its great to keep track of time and or if I've gotten a message or whatever. It has happened before so just having the phone in the nearby while playing is super nice.\n\nOne thing that happened multiple times today that it seemed to black out my passthrough very occasionally, I had a remote desktop open and the app itself. Don't know why that happened but it was annoying so I had to close the app for my productivity session.",
+      "date": 1743712718,
+      "review_helpful_count": 2,
+      "author_display_name": "S1MONSAYS",
+      "author_alias": "S1MONSAYS",
+      "developer_response": null
+    },
+    {
+      "id": "1293028235105428",
+      "score": 4,
+      "review_title": "Super Awesome app",
+      "review_description": "This is what I have been looking for years. A way to bring my phone to VR. \n\nIt works great on portrait mode but landscape is stubborn, you will have to try several times and it will do it eventually. \n\nYou can multitask,  I have fiver internet lowest speed,  5G router,  Samsung s24, quest 3s, V72.\nMy router is about 25 feet away and 2 walls in between. \n\nI gave it 4 stars because is not multi-touch. \n\nLatency is ok 👌 considering is wireless. \n\nGaming is great,  I love playing my light gun 🔫 games on a big screen. \n\nAwesome app.",
+      "date": 1742869715,
+      "review_helpful_count": 3,
+      "author_display_name": "yordin.herrera.33",
+      "author_alias": "yordin.herrera.33",
+      "developer_response": null
+    },
+    {
+      "id": "660773320442654",
+      "score": 4,
+      "review_title": "Why is paying the audio from the mic?",
+      "review_description": "The app is ok, do what needs to do, but why is recording the mic? Every time that I touch the phone I hear the sounds of the touch, or I can speak with myself if I want and hear my voice in the meta. Or if I leave the phone in other room I can hear what they are speaking. \nI guess it’s not supposed to be like this but it’s.",
+      "date": 1744589837,
+      "review_helpful_count": 0,
+      "author_display_name": "Muadiv",
+      "author_alias": "Muadiv",
+      "developer_response": {
+        "body": "Hello \n\nYou can disable mic permission from the phone setting \nExample video https://youtube.com/shorts/MSN5Lczkmhk?si=CJV4TT_09EjO0Rbn\n\nOr deny permission when it asks during fresh install.",
+        "date": 1744606713
+      }
+    },
+    {
+      "id": "599535339905967",
+      "score": 4,
+      "review_title": "Good option",
+      "review_description": "I like that you can get your phone mirrored on the quest for easy access to several social apps that arent available in the quest store and dont feel like logging into via the browser, plus being able to get at your texts.  \n\nConnecting is slightly annoying having to type in a long code that I can barely read on my phone in passthrough.  What would be nice here is a qr code that the quest app could read off of your phone with an option for the text code as a backup option.  This would make the connection experience much more pleasant as a user.  \n\nThe app can also be slightly laggy on the screen mirroring, but don't want to say for sure until I test further on a few different wifi networks.  So please don't base your decision to purchase this great app on that comment.",
+      "date": 1741916194,
+      "review_helpful_count": 4,
+      "author_display_name": "BigA3k",
+      "author_alias": "BigA3k",
+      "developer_response": null
+    },
+    {
+      "id": "1282686139705147",
+      "score": 4,
+      "review_title": "Keep an eye on things while in vr",
+      "review_description": "The number one thing that would draw me out of a VR session would be my phone. I would hear a text or call or message and have to pause things to check. Not any more. I can connect to my phone and still play a round of Walkabout without interruption. Or if I'm using the Quest browser and need to sign into a site I can access my password manager or read the text code I need to enter to get access. So many uses. Now if they can enable making and taking calls from the headset then they get my 5th star.",
+      "date": 1738368797,
+      "review_helpful_count": 22,
+      "author_display_name": "RickC61",
+      "author_alias": "RickC61",
+      "developer_response": null
+    },
+    {
+      "id": "597858826753118",
+      "score": 1,
+      "review_title": "Total BS",
+      "review_description": "I paid it with high expectations, and it doesn't cast video content, or even websites. Total waste of money...",
+      "date": 1747424830,
+      "review_helpful_count": 1,
+      "author_display_name": "RadiantPufferfish3085",
+      "author_alias": "RadiantPufferfish3085",
+      "developer_response": {
+        "body": "Hello,\n\nYou should be able to cast all kinds of videos unless they are DRM-protected, like Netflix. In such cases, the system prevents screen capture.\n\nWebsite capturing should work fine unless DRM-protected content is being played.\n\nIf you're still facing issues, I’d be happy to provide free support via Discord https://discord.com/invite/99qgmSxUZ9 or email gulzar.dev@outlook.com",
+        "date": 1747449168
+      }
+    },
+    {
+      "id": "3769784716499367",
+      "score": 5,
+      "review_title": "Works perfectly now!",
+      "review_description": "This works exactly like I hoped it would, it's definitely worth buying if you want an app to see and control your phone inside your headset. I actually think it works so well the developer should be charging more for it!\n\nI bought this app on the release date (yesterday) and there was an issue with the Android app not connecting properly. I messaged the developer and they fixed it immediately and now the android app works. I can see the person before me rated this app only 1 star, which I think was hasty as now everything's fixed. If you're not sure then I'd say just buy it, as you can always get a refund within 2 weeks if you decide you don't want to use your phone in VR.",
+      "date": 1737063210,
+      "review_helpful_count": 35,
+      "author_display_name": "meshuggahlad",
+      "author_alias": "meshuggahlad",
+      "developer_response": null
+    },
+    {
+      "id": "671009226095874",
+      "score": 3,
+      "review_title": "App is not working on headset",
+      "review_description": "After connecting to phone the headset app just shows black does not show phone screen",
+      "date": 1747405981,
+      "review_helpful_count": 0,
+      "author_display_name": "T_loww_eyed",
+      "author_alias": "T_loww_eyed",
+      "developer_response": {
+        "body": "Hello \n\nAre you using VPN or on a restrictive network?\nCan you try turning it off and try again?\n\nIf you are still facing issue. I can provide 1-1 help on discord https://discord.com/invite/99qgmSxUZ9 or via email gulzar.dev@outlook.com",
+        "date": 1747407280
+      }
+    },
+    {
+      "id": "675793712285395",
+      "score": 3,
+      "review_title": "good app needs to be better for mobile g",
+      "review_description": "needs better connection for mobile gaming",
+      "date": 1747877203,
+      "review_helpful_count": 0,
+      "author_display_name": "muddylipskin",
+      "author_alias": "muddylipskin",
+      "developer_response": null
+    },
+    {
+      "id": "1353081012582257",
+      "score": 5,
+      "review_title": "black screen on my quest3",
+      "review_description": "update 23/02/2024 : Butter Chicken is so cute , he solve hotspot problem and add HD for me app working great , dont wait for\n...\n...\n21/02/2024 : I share internet hot spot from my s24ultra to my quest3 for outdoor work and want to use spatial phone but  screen is black in my quest 3 , sometimes connection fail",
+      "date": 1740314589,
+      "review_helpful_count": 4,
+      "author_display_name": "coco.ubon",
+      "author_alias": "coco.ubon",
+      "developer_response": null
+    },
+    {
+      "id": "9082505838536896",
+      "score": 4,
+      "review_title": "Good proof of concept 🤷🏼‍♂️",
+      "review_description": "I’d hold off on buying this app if you're expecting a flawless experience. Aspect ratio switching (landscape to portrait) is buggy, and latency spikes can be frustrating. It also has Android input accessibility/security hurdles, making setup a hassle.\n\nRight now, Windows Phone Link + Virtual Desktop is a more reliable option. This feels early access and needs time to mature. You’ll also want high-end Wi-Fi and a flagship phone for the best experience.\n\nOn the plus side, the developer has a Discord for support, so improvements are likely. But for now? It’s not quite there yet. \n\n\n---\n\nEdit: While my review reflects my experience, I don’t want to outright discourage anyone from buying it. If you're considering this product, you’ll need a can-do attitude and an understanding that certain security mechanisms—particularly with Google and Meta—are outside the developer’s control. That said, supporting developers is key if we want products like this to improve and thrive.",
+      "date": 1738790352,
+      "review_helpful_count": 10,
+      "author_display_name": "electricsushi",
+      "author_alias": "electricsushi",
+      "developer_response": {
+        "body": "Thank you for using the app and for your feedback!\n\n- I initially planned to implement automatic resizing when switching between portrait and landscape, but Meta doesn't provide an API for developers to do that.\n\n- For latency spikes, try lowering the quality from the Spatial app. I've considered and tested this on a wide variety of smartphones, which is why the quality option exists. In the future, there will be dedicated hardware encoder support, making it even more responsive.\n\n- There's no way for developers to simulate controls without enabling accessibility permissions. I wish Google made this process simpler, but I understand why they don’t—it’s a very sensitive permission, and they want to prevent users from granting it accidentally.\n\n- You don't need a flagship phone to have a good experience. By adjusting the quality settings, even a mid-range phone can provide an enjoyable experience.",
+        "date": 1738763132
+      }
+    },
+    {
+      "id": "649903001540124",
+      "score": 1,
+      "review_title": "No work as expect",
+      "review_description": "Lag, always disconnect",
+      "date": 1747034333,
+      "review_helpful_count": 0,
+      "author_display_name": "iamphol",
+      "author_alias": "iamphol",
+      "developer_response": {
+        "body": "Are you using over local network ?\n\nIf you are still facing issue happy to help you live on discord https://discord.com/invite/99qgmSxUZ9 or via email gulzar.dev@outlook.com",
+        "date": 1747382079
+      }
+    },
+    {
+      "id": "522210747645917",
+      "score": 5,
+      "review_title": "Awesome app to control your phone!",
+      "review_description": "I've tried many \"control your phone\" apps on the quest and this one tops them all.  Well, the others don't even really work or have severe limitations.  \"Spatial Phone\" is small, resource friendly and works as it should.  The developer is active with his users adding, helping and troubleshooting on discord.  The price is exceptional for what it does.  No more tipping your headset up to read your phone.  I like my phone bright which doesn't always work well with passthrough mode so having the phone \"inside\" my headset is awesome!",
+      "date": 1737754111,
+      "review_helpful_count": 10,
+      "author_display_name": "IamHerk",
+      "author_alias": "IamHerk",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T01:23:08Z"
+}

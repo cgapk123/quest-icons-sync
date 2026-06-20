@@ -1,0 +1,981 @@
+{
+  "app_id": "6320120764784270",
+  "package_name": "com.bowie.earthquest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "WorldLens: All-in-One Virtual Travel",
+  "rating_average": 4.3209169054441,
+  "rating_count": 698,
+  "review_count": 397,
+  "reviews": [
+    {
+      "id": "1075870895614757",
+      "score": 5,
+      "review_title": "Already one of my favourite apps",
+      "review_description": "The first 24 hours of using this app has been mindblowing.  It's been a while since i visited Google Earth, but being able to do so in VR is an amazing experience which makes you feel like a god.  it's made me realise that I was only interested in flightsims for the pleasure of viewing the earth from above, and now I don't need to learn the science of aeronautical aviation to do so.  \n\nI love that you don't need controllers to fly around the world.  3D buildings in the major cities I have visited have really added to the realism of the experience.  I'm very encouraged by the dedication of the developer, who based on reviews appears to be constantly refining this app.  I have very little to suggest, although a variety of audio tracks would be good - would it be possible for audio even to vary appropriately according to geography?\n\nUpdate (15/01/26): This app just keeps getting better and better with frequent significant updates from the developer.  I can only assume that some of the low ratings on here are a deliberate attempt to steer people away.  Easily one of the top 3 apps/games that I use on Quest 3.\n\nUpdate: (8 May 2026):  With AI now installed, the app just got even better!",
+      "date": 1778488311,
+      "review_helpful_count": 48,
+      "author_display_name": "Gazonymous",
+      "author_alias": "Gazonymous",
+      "developer_response": null
+    },
+    {
+      "id": "1029728922849721",
+      "score": 5,
+      "review_title": "Amazing Developer",
+      "review_description": "Anytime that seems to be filled with apps that want to grab your money and then disappear, this app stands out as the gold standards for what others should hold themselves to. The developer keeps the app updated, without asking you to buy an upgrade package or anything else. This is how it should be, I hope that others will support a developer who is so considerate of his customers. PS this freaking app is amazing",
+      "date": 1778654201,
+      "review_helpful_count": 15,
+      "author_display_name": "SitNgrin",
+      "author_alias": "SitNgrin",
+      "developer_response": null
+    },
+    {
+      "id": "1704029077276012",
+      "score": 5,
+      "review_title": "Impeccable Google Earth VR Standalone",
+      "review_description": "I have tried 4 different Google Earth VR type of experiences and this one wins hands down. It is not bogged down by unnecessary features or bloat. It does everything you want from this type of experience, has good customization, great performance/stability, and multiplayer. Can't recommend enough especially for the price",
+      "date": 1778615359,
+      "review_helpful_count": 14,
+      "author_display_name": "Lordconcon",
+      "author_alias": "Lordconcon",
+      "developer_response": null
+    },
+    {
+      "id": "26910558088595385",
+      "score": 5,
+      "review_title": "You GOTTA try this.",
+      "review_description": "Imagine Google Street View, but in 360 degrees in VR. Then, it uses ai to make the scenery 3D (not always perfectly, as ai is guessing what to apply 3D to, but well worth the experience overall). This dev taps into breathtaking magic that will have you enchanted for hours on end. Visit your old home as it was last year. Or 2015. Or 2009. Crazy good.",
+      "date": 1779426510,
+      "review_helpful_count": 8,
+      "author_display_name": "Genericat",
+      "author_alias": "Genericat",
+      "developer_response": null
+    },
+    {
+      "id": "1290345369865939",
+      "score": 5,
+      "review_title": "Best Earth app on Meta!",
+      "review_description": "This have 3D  Street view images right now and virtual AI that you can ask what ever you want to with map. It could like take you different locations etc.\n\nThis even have multiplayer but I have not yet tried it because I don't have anybody to play with!\n\nBest relaxing \"game\" of all time. Easily you need to purchase this one  when getting Quest VR glasses",
+      "date": 1777626178,
+      "review_helpful_count": 16,
+      "author_display_name": "GMsupr",
+      "author_alias": "GMsupr",
+      "developer_response": null
+    },
+    {
+      "id": "1170788929443146",
+      "score": 5,
+      "review_title": "BEST GOOGLE EARTH EXPERIENCE IN META",
+      "review_description": "I was impressed when I first purchased this, but two years on it’s even better. The ongoing updates and clear dedication from the developer continue to elevate the experience. It’s the kind of app you naturally keep coming back to, easily my go-to in VR, its so incredibly immersive. In my opinion, nothing else on the Meta Quest store quite compares. A big credit to the developer Boa for the passion and commitment behind WorldLens, truly outstanding work and game - WorldLens your all in one Virtual Travel. (13th May 2026)",
+      "date": 1778671680,
+      "review_helpful_count": 9,
+      "author_display_name": "DE.JS",
+      "author_alias": "DE.JS",
+      "developer_response": null
+    },
+    {
+      "id": "1063588240178627",
+      "score": 5,
+      "review_title": "Love the App!",
+      "review_description": "Love the app, it's very fun to be able to see the world in VR, especially cool that you can see pictures from different years. I'm hoping that one day the dev will add a feature in that allows you to see all the streetview pictures that are available close by your location, maybe as translucent spheres or something. There are times when i know a really cool picture is close by because i have seen it before, but i have a lot of trouble finding it again. I can use my computer to look it up on google maps and then come back and try to find it but its not convenient. EDIT: That's great to hear I'm glad that feature is in there, thanks very much!",
+      "date": 1779499451,
+      "review_helpful_count": 5,
+      "author_display_name": "snowmamba.2024",
+      "author_alias": "snowmamba.2024",
+      "developer_response": {
+        "body": "Hi!\n\nThe B / Y hotkeys on your controllers can be used to load the closest imagery to your current in-app location.\n\nAs suggested, you can also view, browse, and load Street View and Community Imagery coverage directly from the map:\n\n1. Enlarge the map.\n2. Toggle the Street View map layer in the top right corner.\n\nTap to Go lets you load any path (blue line) or spot (blue dot) captured on Google Maps.\n\nFor saving the content, you can use ‘Bookmarks’ in ‘Location’ (📍).\n\nI hope this helps!\n\nSupport: https://contact.worldlens.site",
+        "date": 1779487103
+      }
+    },
+    {
+      "id": "1693054885349124",
+      "score": 5,
+      "review_title": "Easily the best google earth app",
+      "review_description": "I’ve been following this app for awhile now. It just keeps getting better. In addition to atmospheric time of day and amazing render distance, there’s 8k detail street view (now with spatial 3d that computes on the device!), graphical and control options, multiplayer.  None of the other Google earth apps even come close to the level of quality \n\nUPDATE: I was having issues with disconnecting from the google servers occasionally but it turns out after talking to developer (who is incredibly helpful and communicative) it was my crappy ATT internet not their app. Oops and thanks for being so patient. Devs like this make me want to support all their work",
+      "date": 1779667909,
+      "review_helpful_count": 5,
+      "author_display_name": "panthemusicalgoat",
+      "author_alias": "panthemusicalgoat",
+      "developer_response": null
+    },
+    {
+      "id": "1742750690438862",
+      "score": 5,
+      "review_title": "Totally worth it!!!",
+      "review_description": "This exceeds expectations. Flying around cities, scenic places, epic.   Getting low memory app force close after about an 40 min session on a quest 2.   Possible memory leak ?    Only thing preventing me from giving 5 stars.   But don't let that stop you from getting it...  Amazing experience overall.\n\n*** update i believe recent updates to meta OS have resolved this issue.   Raising to 5 stars.  Ive since upgrade to a quest 3 and the app performs great.",
+      "date": 1779129001,
+      "review_helpful_count": 4,
+      "author_display_name": "KP_VAN",
+      "author_alias": "KP_VAN",
+      "developer_response": null
+    },
+    {
+      "id": "1682995349365554",
+      "score": 5,
+      "review_title": "Google Earth VR with More Features",
+      "review_description": "Love Google Earth VR over the years so finally decided to pick up WorldLens so I can sit out in the garden and explore. I went in expecting complicated menus and unfriendly UI but it was far from it. Really impressive app, great Menus, Controls and UI which are easy to understand along with features like 3D street view which works a treat, really nostalgic and a bit tearful (I have got something in my eye honest) going back and seeing grandparents house in 3D or using it with the back in time feature. I hope the PSVR2 version is still in the making as I shall be purchasing again no doubt.",
+      "date": 1778726352,
+      "review_helpful_count": 5,
+      "author_display_name": "JonnyJamesC",
+      "author_alias": "JonnyJamesC",
+      "developer_response": null
+    },
+    {
+      "id": "1013776354946237",
+      "score": 5,
+      "review_title": "The best app on my Quest !",
+      "review_description": "Truly amazing to be able to fly anywhere in the world and visit any spot whether it be a tropical island, the city, or the mountains in just minutes. What makes this the best app I’ve ever downloaded is the street view feature. There appears to be an infinite amount of spots you can find all across the world with different views and some of the most beautiful images in full 360 view. I’ve been on mountains overlooking all of Hawaii, on a boat riding through downtown Hong Kong, right next to the Egyptian pyramids the list goes on. The best $10 I’ve ever spent!",
+      "date": 1781504997,
+      "review_helpful_count": 1,
+      "author_display_name": "JHLtiger",
+      "author_alias": "JHLtiger",
+      "developer_response": null
+    },
+    {
+      "id": "27162719896691334",
+      "score": 5,
+      "review_title": "Better than Google Earth VR",
+      "review_description": "Active dev, better than GEVR (that has been abandoned for around 8 years at this point anyways), constantly new features and improvements in all matters, including performance.\nEven has implemented AI 3D Street View!\nUnfortunately, is constantly negative in his updates, whining about bad reviews (which ironically causes this one).\nThere was one instance that really annoyed be, but that alone wouldn't make me rate this lower (not allowing \"breaking\" 3D SV fixed position). It's just OVER and OVER not listening to what users wants and constant crying and whining.\nStill going to give 5/5 for the software itself, it is an amazing piece of work, but dear heavens he is not kind towards his users, which directly reflects his ratings.\nI tried to warn him.",
+      "date": 1779035076,
+      "review_helpful_count": 3,
+      "author_display_name": "AtlasRedux",
+      "author_alias": "AtlasRedux",
+      "developer_response": {
+        "body": "Hi,\n\nThank you for the kind words and for taking the time to share feedback!\n\nShowing kindness matters a lot to me, so I’m sorry that the earlier communication gave the wrong impression. English is not my first language, and my explanation at the time may not have come across as intended. My intention was not to dismiss the suggestion. I was trying to explain why it was not available at launch, and why I was concerned about how it could affect the user experience if enabled by default.\n\nAfter you left, your suggestion post was automatically removed, and I was unable to reach you. Because of that, I recreated the post myself so the idea could still be tracked for development.\n\nI also want to clarify that when I mention reviews or feedback publicly, my intention is not to complain. Reviews help guide the project, so I sometimes ask users to elaborate or share their thoughts, especially when I need to understand what can be improved.\n\nUser feedback has been extremely important to the project. I always appreciate it and try to make sure suggestions are tracked, even when I cannot implement something immediately. I apologize again for the confusion, and I’ll continue working to communicate more clearly going forward.",
+        "date": 1779057530
+      }
+    },
+    {
+      "id": "1123743030830171",
+      "score": 3,
+      "review_title": "Needs head control option",
+      "review_description": "This is one of the apps I was most excited about when I got my headset, but I am unable to use my hands and arms due to a disability. I was hoping that the options for control would include the option to point with the headset and then just pull the trigger to move. That would allow me to enjoy travel despite using a wheelchair and not having any use of my limbs. I hope future updates will include this option so that more people can enjoy this amazing app. ￼",
+      "date": 1781356696,
+      "review_helpful_count": 0,
+      "author_display_name": "EdgyShrew6625",
+      "author_alias": "EdgyShrew6625",
+      "developer_response": {
+        "body": "Hi,\n\nThank you for sharing this feedback. Making virtual travel available to as many people as possible is very important.\n\nWorldLens is designed to keep exploration as direct and natural as possible. Street View can be entered using the B / Y buttons, and 3D navigation allows users to go anywhere in the world without relying on menu interactions.\n\nFor movement, WorldLens currently supports traditional VR head-based movement with Thumbstick Input Mode (Traditional Controls) in Main Menu Hub Settings (⚙️). This avoids the need to point with the controller or move the arm, but navigation still requires thumbstick input. An option where users can look at a destination and confirm movement with no hand input is not currently available.\n\nA fully hands-free navigation option could be helpful for users with limited mobility, and it has been noted for future updates.\n\nIf useful, World AI can automatically handle teleportation through speech requests, making navigation more accessible and convenient.\n\nThank you again for taking the time to share your experience. I would appreciate it if you could update your review after trying the available input modes, as one of them may be better suited to your needs.\n\nFor additional assistance or suggestions: https://contact.worldlens.site",
+        "date": 1781391396
+      }
+    },
+    {
+      "id": "1661839811671529",
+      "score": 5,
+      "review_title": "Rushing to purchase the game",
+      "review_description": "I read about the AI that can change 2D street view into 3D. And from the reviews I was just rushing to purchase the game in a minute. And then it's been my favorite apps since then. Of course the street view 3D is not perfect yet but I think the developer is trying their best. Because there's some improvements and updates for free.. keep up the good work and and I hope this will become more people's number one app.\n\nI haven't tried the social function yet. I really appreciate if we can meet people in the most natural way like meeting in a place and talk about it. Gonna explore more",
+      "date": 1780916947,
+      "review_helpful_count": 1,
+      "author_display_name": "Hindarto.ID",
+      "author_alias": "Hindarto.ID",
+      "developer_response": null
+    },
+    {
+      "id": "1063267176870346",
+      "score": 5,
+      "review_title": "A bridge to my most cherished memories",
+      "review_description": "Whenever I feel like \"flying\" around the world, World Lens is my go-to app. For me, it is much more than a technical marvel; it is a way to revisit the places I traveled to with my late beloved Gisela. It feels like flying back to our shared moments, making the memories feel incredibly close and alive.\n\nThe way the app uses Street View imagery to create such a gripping, immersive experience is truly wonderful. I highly recommend getting the AI integration add-on: it is worth every penny. It acts as the icing on the cake, providing deep insights into every building and landscape I rediscover. It turns my Meta Quest into a personal time machine and a teleportation device. Truly an outstanding and deeply moving piece of software!",
+      "date": 1775224166,
+      "review_helpful_count": 19,
+      "author_display_name": "memoriam.2024",
+      "author_alias": "memoriam.2024",
+      "developer_response": null
+    },
+    {
+      "id": "1189701684216777",
+      "score": 5,
+      "review_title": "Great Google Earth app",
+      "review_description": "I have both this and Fly and I would stick with this one over that if not for two reasons;\n\n1. I've already purchased all of the extra content for Fly, so now I have to keep it\n2. This app keeps crashing after using it for a while and I have to give the Meta Quest a hard reset to get it going again, which is why I had to knock a star off of an otherwise perfect five star rating.\n\nThis is definitely the better of the two apps, by far, but that crashing problem needs to be fixed, pronto. \n\nUpdate: I seem to have fixed the problem by resetting the app at the title screen. I did tweak the 3D quality my first play through which may have altered the app's stability, but after I reset it the issue seemed to have been solved. It started the app over again in outer space, but as a plus it works again now and I found a cool little secret out there. It turns out street view works out there by allowing you to explore the ISS (International Space Station) complete with a blurred out astronaut floating in one of the rooms. How awesome is that! Thanks for the help guys, I really enjoy this app and was upset that it suddenly had a problem, I'm glad we were able to fix it.",
+      "date": 1779240081,
+      "review_helpful_count": 2,
+      "author_display_name": "ghost.chaser631",
+      "author_alias": "ghost.chaser631",
+      "developer_response": {
+        "body": "Hi!\n\nThank you for reporting that the crashing issue has been resolved on the latest version.\n\nIt’s also possible that a much older version had some lingering data. Resetting likely cleared that issue and ensured everything is now properly updated, so you should have the intended experience moving forward.\n\nPlease consider updating the review title, as it may still reflect the original issue.\n\nThank you for your patience, and I apologize for the inconvenience.\n\nhttps://contact.worldlens.site",
+        "date": 1779215393
+      }
+    },
+    {
+      "id": "1086167501244713",
+      "score": 5,
+      "review_title": "Exactly what you hope it would be",
+      "review_description": "This is google earth in standalone VR. It is amazing, decent internet is needed, and let me say even now there is bugs. I have GB internet, Wifi 7 with boosters and it can still drop, but I think its more the meta 3 than the app (often I will put music on a browser, while playing which may be my issue. HOWEVER, not enough to impact my rating. I have spent more time in this app than any other. The AI in it is a little clunky and not well intergrated but okay. Want to travel to places you have never been, look around a place you are going to visit? Coffee at Giza? Veiws from Mount Everest? You can walk about in streetveiw, and see all the different years mainly from 2012, (not all streets) the only travel app you will need. Incredible. I bought the AI to support the Devs, but you dont need it.",
+      "date": 1776158872,
+      "review_helpful_count": 10,
+      "author_display_name": "Simmy789",
+      "author_alias": "Simmy789",
+      "developer_response": {
+        "body": "Hi!\n\nHappy to hear your feedback!\n\nIf you don’t mind, can you please share the bug you’ve encountered at [contact.worldlens.site]?\n\nv49 releases soon, fixing all reported bugs since v48, but I want to personally make sure that it is resolved.\n\nThank you!",
+        "date": 1776172623
+      }
+    },
+    {
+      "id": "27114231384879927",
+      "score": 3,
+      "review_title": "Decent app",
+      "review_description": "WorldLens is a decent application for traveling between different locations around the world. Unfortunately there are still many problems with the user interface (really ugly to look at and too cumbersome to use) and the entire graphic design of the app that still has that \"childish\" look and doesn't do justice to all the work done regarding navigation (even the logo of the application is horrible, it seems drawn by an elementary school child...). There is really a lot of work to do from this point of view to make the application with a modern user interface in step with today's times.",
+      "date": 1778399162,
+      "review_helpful_count": 3,
+      "author_display_name": "DJM",
+      "author_alias": "DJM",
+      "developer_response": {
+        "body": "Hi!\n\nI am glad you enjoy WorldLens for traveling around the world!\n\nAfter the full release in early 2026, WorldLens began moving toward a revamped, professional-grade design, featuring a new user interface that performs strongly across multiple usability benchmarks. The new UI/UX direction has received very positive feedback specifically regarding design and ease-of-use in recent months.\n\nThe description of the UI as “childish” does not appear to reflect the current version of WorldLens. If you haven’t yet tried the new UI, or if this feedback is based on an outdated build, please check that the latest version is installed.\nSimilar feedback was last received for an old, experimental build from 8 months ago. That was an Early Access version and is completely unrelated to the current consumer-facing WorldLens project.\n\nThe design goal is modern, professional, and aligned with the experience - simple, clean, intuitive world exploration.\n\nConstructive feedback on UI/UX is always useful and is taken seriously. To share feedback on the app’s UI and design, or for any questions, contact:\n\ncontact.worldlens.site\n\nPlease consider updating the review after trying the latest version of WorldLens!",
+        "date": 1778940485
+      }
+    },
+    {
+      "id": "1016152251590406",
+      "score": 5,
+      "review_title": "enjoying",
+      "review_description": "There is nothing I play that I bought this app. lol, I even managed to get a family member to move away from flat earth, with the help of the app, true story. \n\nThis app has given me a clearer perception of how big our planet really is and how spectacular it really is. I spend hours wandering around the world, exploring and admiring. It's really worth every cent. :)",
+      "date": 1776765717,
+      "review_helpful_count": 11,
+      "author_display_name": "BOSSnian",
+      "author_alias": "BOSSnian",
+      "developer_response": null
+    },
+    {
+      "id": "939373992349387",
+      "score": 5,
+      "review_title": "The World under your fingertips!",
+      "review_description": "I installed WorldLens couple of weeks ago, and I use it multiple times a week. Especially in the evenings before bed when I want to relax and explore the World a bit! I plan to use it with my sister who is in a different country to see some locations that we want to book holidays to ;) You can join the experience with 3 friends. \n\nNavigation:\nI love how easy it is to navigate, flying around in 3D space, seeing the buildings in 3D and being able to land into the StreetView is amazing! \nThe controls for flying and talking are customisable. \n\nGraphics and quality:\nHere as well there are many  options to choose from, different scalings, quality tiers. You can adjust the fidelity of the experience to fit the performance of your headset. I am on Quest Pro and most of the higher end settings are smooth. \n\nMap labels: \nThe 3D map contains dynamic labels that show you the main locations and the longer you look at the region you can see more granular details/names/etc. They don't stand in the way, they dynamically appear and disappear in such way that it does not get in the way.\n\nWorld AI: (one-time in-app purchase)\nThis feature hits it out of the park. You are not flying alone, the AI assistant is there to tell you about the region, about what you see, tells about history of locations / buildings. And if you tell it to bring you somewhere it will teleport you there automatically. - no more blind roaming. It can be activated with a button and you interact with it by asking questions and talking. \n\nMini-map:\nYou have a nice handy minimap on your left hand and if activated you can see more details about the locations you are flying over. You can zoom in and out and make it smaller or larger - very useful! \n\nDiscord server:\nDeveloper is active on the Liberty Works VR discord server. Any questions you might have you get an answer in matter of hours. Very nice and well up-kept place with sneak-peaks to future updates, features and extensive FAQ. \n\nI fully recommend this app!",
+      "date": 1776517349,
+      "review_helpful_count": 7,
+      "author_display_name": "VIVES.Matt",
+      "author_alias": "VIVES.Matt",
+      "developer_response": null
+    },
+    {
+      "id": "3243966519101741",
+      "score": 1,
+      "review_title": "Don't pay for the AI feature",
+      "review_description": "Just trying to use the newly touted feature for depth in street view, couldn't find it anywhere in the app. Forums led me to think it was behind the AI pay to unlock, but couldn't find official information either way. Paid the unlock, it's just mic stuff I don't want or need. Still can't find the newly advertised functionality anywhere. Anyway, don't pay for the AI unlock, wish I could get refunded the $7.\n*Update in response to the developer reply: it is 100% impossible to get a refund for an in-app purchase on Quest. I'm just out the $7 forever over the unclear app design.",
+      "date": 1779983875,
+      "review_helpful_count": 0,
+      "author_display_name": "davidj.340017",
+      "author_alias": "davidj.340017",
+      "developer_response": {
+        "body": "Hi, thank you for the feedback.\n\nI sincerely apologize for any confusing or incorrect information you may have found online. Official information is always available through the store update posts, the website, or https://contact.worldlens.site\n\nTo clarify, the new 3D Street View feature is included at no additional cost. World AI is the only available add-on, and it is not required for 3D Street View.\n\nAfter updating to v49 or newer, you can enable 3D ‘Street View Quality’ in ‘Preferences’ (⚙️).\n\nEnter Street View or Community Imagery, and the 3D environment should generate after a few seconds.\n\nWorld AI is a multimodal AI travel assistant that can automate tours, visualize surroundings for location-aware insights, access real-time information, and more.\n\nThe purchase screen includes this information to help avoid misunderstandings.\n\nRegarding refunds, they are handled by Meta’s platform services. Developers do not have access to issue refunds, so I recommend submitting a refund request directly to Meta.\n\nI’d appreciate any additional feedback so I can help prevent this type of confusion in the future. Thanks!",
+        "date": 1780436537
+      }
+    },
+    {
+      "id": "1137854406084464",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "I use it on my meta quest 3 and I have to say it's great. I'm just trying it out for now and I don't know what graphics quality to set to be safe for the device, but you can see every place on earth and still be at home. 5*",
+      "date": 1781027560,
+      "review_helpful_count": 1,
+      "author_display_name": "Chozepo",
+      "author_alias": "Chozepo",
+      "developer_response": null
+    },
+    {
+      "id": "1041819852358325",
+      "score": 5,
+      "review_title": "Such a polished app",
+      "review_description": "The street view in 3d is amazing. It also lets you move about that in 6dof. Remarkable and innovative. Like instantly going anywhere and being there. Jesus is my Lord and Savior.",
+      "date": 1779328516,
+      "review_helpful_count": 4,
+      "author_display_name": "Jesusavesoulstill",
+      "author_alias": "Jesusavesoulstill",
+      "developer_response": null
+    },
+    {
+      "id": "1220460223560847",
+      "score": 5,
+      "review_title": "Best you’re gonna get on the meta quest!",
+      "review_description": "Worldlens stands as the king of google-earth style experiences on the standalone quest. Everything runs extremely well on a standard quest 3, I don’t notice any lag or performance drops. There’s a few key features that stand out to me that make this worth the buy over other apps like Fly. \n\n1. The UI. \n\nSuper smooth and easy to navigate, which I do find is a problem with other google earth apps. \n\n2. The movement.\n\nIt’s hard to describe, but it feels very natural, much less clunky and much more intuitive than the alternatives. \n\n3. The time travel feature. Worldlens is the only app on the meta quest utilizing google earth’s data that I’ve found thus far that have the ‘time travel’ function. What this mean, essentially, is that when you’re in street view, you can set the year you’d like to see google street view photos of and it will change to match your Selection. It can be super nostalgic to visit childhood spots and see how they were when you were young and I love that it’s an option here.\n\n4. It has a ‘time of day’ feature that’s super well implemented, so you can walk through the maps early morning or during other times of day. I’d recommend toying around with it as it can be really pretty, and I also appreciate that it’s not forced on you and can be turned on or off.  \n\nIt’s google earth on the quest, done right.",
+      "date": 1770742595,
+      "review_helpful_count": 109,
+      "author_display_name": "caramelmacchiato18",
+      "author_alias": "caramelmacchiato18",
+      "developer_response": null
+    },
+    {
+      "id": "1159916380536793",
+      "score": 4,
+      "review_title": "Good when it works",
+      "review_description": "When it works it does a reasonable job of replicating Google Earth VR. Updating my review as the developer has made a lot of changes to fix issues with earlier versions.",
+      "date": 1779148964,
+      "review_helpful_count": 4,
+      "author_display_name": "Saneman1970",
+      "author_alias": "Saneman1970",
+      "developer_response": null
+    },
+    {
+      "id": "1041535249050975",
+      "score": 5,
+      "review_title": "I'm a happy user",
+      "review_description": "I hesitated a long time to write a review because a review should add the objectivity of comparison. In the end I'm writing the review because I don't feel the need to compare this app with a similar one. \nThe app is good enough for my eyesight, good enough for the processing speed of my VR Glasses. Good enough for my Fresnel lenses and my internet speed. I'm spending 10-15 hours a week traveling, flying, smiling. When I hear the ambient music I'm already the dog of Pavlov, it sets me in travel mode right away. \nThe developer is active and responsive on Discoord, I hope all the time he spend is time well worth [and I mean also financially].\nGotta go now. Places to visit, screens to record. Bye\n\nUpdate april 2026: I had to leave my VR away a couple of months and when I came back I was pleasantly surprised. I liked the updates (SCI-FI hovering labels, got a little bit worried when all the city names dissapeared from the aerial view but I understood that rendering them took a lot of CPU plus they were redundant with the map). Overall I'm still a happy user. Only thing I'm not happy is my headset that can't keep up with all features at MAX. Yes, I'm on the red with all the warnings :-) But it works!!!",
+      "date": 1775368735,
+      "review_helpful_count": 9,
+      "author_display_name": "RadiantFinch1832",
+      "author_alias": "RadiantFinch1832",
+      "developer_response": null
+    },
+    {
+      "id": "1106357039238932",
+      "score": 4,
+      "review_title": "Little bugs",
+      "review_description": "Upscale 3D imagery button sometimes will be inverted. Sometimes will be hang up. Graphic quality is not high enough, but 3D street view is amazing!",
+      "date": 1781832412,
+      "review_helpful_count": 0,
+      "author_display_name": "hker.Wilson",
+      "author_alias": "hker.Wilson",
+      "developer_response": {
+        "body": "Hi,\n\nThank you for your feedback!\n\nIf you notice any bugs related to ‘Upscale 3D Imagery’ or any other features, even minor ones, please report them here:\n\nhttps://contact.worldlens.site\n\nAfter a thorough investigation, I have not been able to reproduce the inverted state bug you mentioned, so your feedback would be greatly appreciated.\n\nTo improve graphical quality in WorldLens, please give ‘How to Use’ (?) a quick read. ‘3D Quality Range’ in ‘Preferences’ (⚙️) increases the detail range, allowing for more immersive visuals.\n\nPlease keep in mind that, depending on your device, the expected performance impact will be displayed. This makes it easier to find a good balance between visual quality and performance.\n\nThank you as well for the feedback on 3D Street View. A lot of work is being done to ensure the best possible 3D reconstruction process.\n\nIf you have the chance, please take a minute to report the bug you encountered. At WorldLens, all bugs are taken seriously and addressed as quickly as possible.\n\nThank you!",
+        "date": 1781871550
+      }
+    },
+    {
+      "id": "1093260377195063",
+      "score": 5,
+      "review_title": "Wish I bought it sooner.",
+      "review_description": "For the price of 2 gallons of gas, you can travel the world and feel like you are really there. I love WorldLens. I have used it to travel to places where I use to work, vacation and live. It's crazy, but you get an emotional connection when you revisit these places in VR. I have used this app to visit countries and locations that are hot topics in the news. It makes you a more connected person when you can put on your Meta Quest, run WorldLens, and fly thousands of miles away to see first hand, The Strait of Hormuz, for example. This app is very well thought out and easy to use. If you have questions, the developer is eager to help. If META developed WorldLens, they would have thrown 25 developers and 1 billion dollars into the project and it would not have turned out this good!",
+      "date": 1774818054,
+      "review_helpful_count": 10,
+      "author_display_name": "SoulMan2014",
+      "author_alias": "SoulMan2014",
+      "developer_response": null
+    },
+    {
+      "id": "1095124243689389",
+      "score": 5,
+      "review_title": "Incredible",
+      "review_description": "I am obsessed with this game! I find myself lost for hours exploring the world seeing places I’ve never been. The 3D map is my favorite part.",
+      "date": 1778442793,
+      "review_helpful_count": 5,
+      "author_display_name": "Nivanfield18",
+      "author_alias": "Nivanfield18",
+      "developer_response": null
+    },
+    {
+      "id": "1029180480277095",
+      "score": 5,
+      "review_title": "Something Google wish they created",
+      "review_description": "This app genuinely surprised me in the best way. It does so many things that Google’s version just… doesn’t. Being able to rename bookmarks with meaningful names instead of random coordinates or generic street labels makes a huge difference when you actually use the app often. Moving around feels intuitive whether you’re using the controllers or just your hands, and the Street View experience is smooth, stable, and super immersive. The graphics look great and run incredibly well on the Quest 3.\n\nI also love that it’s a fully native app — no PC, no Steam, no cables, nothing. You just put on the headset and go. And the support team? Honestly one of the friendliest I’ve dealt with. They respond quickly and actually care. Big thanks to Boe for the help.\n\nHighly recommended. It’s one of those apps that just makes the Quest feel even more magical.",
+      "date": 1772896149,
+      "review_helpful_count": 21,
+      "author_display_name": "elsonfbs",
+      "author_alias": "elsonfbs",
+      "developer_response": null
+    },
+    {
+      "id": "26481422118214793",
+      "score": 5,
+      "review_title": "I enjoy this",
+      "review_description": "Really nice app. I was having trouble with the 3D rendering but I just had to boost the settings way up and it ended up looking really good. Also I found out that you can just hit the I think b or y button to go directly into street view which was so much better than having to keep putting the left controller up to your head. Also when I had a problem with the game I asked a question in the discord and the developer got back to me really really fast so I appreciate that.",
+      "date": 1774800676,
+      "review_helpful_count": 5,
+      "author_display_name": "TheOnlyMidnight",
+      "author_alias": "TheOnlyMidnight",
+      "developer_response": null
+    },
+    {
+      "id": "1022946686974007",
+      "score": 5,
+      "review_title": "Impressive 3d models of every street",
+      "review_description": "this aplication its very very good",
+      "date": 1780330268,
+      "review_helpful_count": 2,
+      "author_display_name": "CTYN2002",
+      "author_alias": "CTYN2002",
+      "developer_response": null
+    },
+    {
+      "id": "1307202861350147",
+      "score": 5,
+      "review_title": "Very good",
+      "review_description": "My second favourite app of its kind I spend hours at a time lost in exploring.",
+      "date": 1777666276,
+      "review_helpful_count": 5,
+      "author_display_name": "WhiteGoffin",
+      "author_alias": "WhiteGoffin",
+      "developer_response": null
+    },
+    {
+      "id": "948111244755952",
+      "score": 5,
+      "review_title": "The Best",
+      "review_description": "Don't bother with the competition, this is it!",
+      "date": 1778137028,
+      "review_helpful_count": 5,
+      "author_display_name": "rxyzx",
+      "author_alias": "rxyzx",
+      "developer_response": null
+    },
+    {
+      "id": "1180764268446434",
+      "score": 5,
+      "review_title": "Multi-player is cool",
+      "review_description": "Solid VR Google Earth",
+      "date": 1779136133,
+      "review_helpful_count": 4,
+      "author_display_name": "Jackdeath3",
+      "author_alias": "Jackdeath3",
+      "developer_response": null
+    },
+    {
+      "id": "816190038182679",
+      "score": 5,
+      "review_title": "Amazing Easy To Use",
+      "review_description": "Travel the world. \nSeriously travel the world.\n\nIf you programmers could￼ add a way to visit museums and buildings then you would have no competition you would totally be the top dog.  \n\nLike for instance the Smithsonian Institute has a free VR visitation from their website, but you have to use a browser ￼\nIf you could just find the free links and somehow use the links’s with a browser on your app. You would have no competition because that’s what everybody really wants. ￼\n\nThanks for your fast feedback, but can you give me an example of how to visit a museum? ￼ I can’t seem to figure it out. ￼",
+      "date": 1774190855,
+      "review_helpful_count": 4,
+      "author_display_name": "Zabbb",
+      "author_alias": "Zabbb",
+      "developer_response": {
+        "body": "Hi!\n\nFeedback noted 👍\n\nPlease note that WorldLens supports both Google Street View and Community Imagery, which includes all immersive official and user-uploaded indoor content, such as museums, restaurants and other buildings.\n\nThis content is also fully navigable when captured with multiple images! visualize buildings and their coverage using the Enlarged Map’s Street View Coverage Overlay feature, and start exploring both outdoors and indoors with one tap!\n\nFor any questions or additional feedback, feel free to reach out directly for faster communication - [https://contact.worldlens.site]\n\nEnjoy exploring 🌍",
+        "date": 1774184686
+      }
+    },
+    {
+      "id": "1034671723068985",
+      "score": 1,
+      "review_title": "Faux. Bidon. Ridicule",
+      "review_description": "Ne vous attendez pas à quelque chose comme Google Street View. Les images sont de faible qualité, très plates, et donnent l’impression de dater des années 80. Franchement, un 10 $ mal investi.\n\nDon’t expect anything like Google Street View. The images are low quality, very flat, and feel like they’re straight out of the 80s. Honestly, a poorly spent $10.",
+      "date": 1776110316,
+      "review_helpful_count": 0,
+      "author_display_name": "Madkafortwo",
+      "author_alias": "Madkafortwo",
+      "developer_response": {
+        "body": "Hi there,\n\nWorldLens provides the full Google Street View experience, using the high equirectangular 8K resolution.\n\nIt also includes all Google Maps features, such as user-uploaded Community Imagery, Time Travel, Tap to Go Maps and more. Offering the all-in-one exploration experience with higher VR quality.\n\nIf you came across a low-resolution image, it was most likely part of Community Imagery. This content is user-uploaded, just like on Google Maps, and its quality depends entirely on the camera used when capturing it.\n\nYou can disable ‘Community Imagery’ from the ‘Preferences’ (⚙️) menu, which will leave only the high-quality official Street View content.\n\nIf you only explored the 3D Earth view, note that it is based on Google Earth data. While it is the largest and highest quality digital twin of the planet, not all regions have high-resolution 3D coverage yet, as the coverage is constantly growing.\n\nIf you have any feedback or questions, feel free to reach out directly for support. Your feedback is at the heart of WorldLens. 💙\n\n[contact.worldlens.site]\n\nPlease consider updating your review after getting to experience WorldLens’ Street View modes, features and realistic experiences!",
+        "date": 1779116193
+      }
+    },
+    {
+      "id": "2827009610972865",
+      "score": 5,
+      "review_title": "Feature Request: Add Laser Pointer for H",
+      "review_description": "Hello,\nI really enjoy using WorldLens on Meta Quest 3. It’s an amazing experience to explore the world this way.\nI would like to suggest adding a laser pointer (or visible pointer) when using hand tracking.\nPointing only with a finger is sometimes not precise enough, especially when selecting distant locations or navigating.\nA simple visual pointer (similar to controller laser) would make navigation much easier and more intuitive.\nThank you for your great work and for considering this improvement.\nBest regards\n\n\nHello,\nThank you for your detailed reply, I really appreciate it.\nI understand your point about hand tracking being more natural and intuitive for navigation. However, I would like to clarify my suggestion a bit more.\nMy idea is mainly for situations where multiple people are in the same room and one person is guiding others (for example showing a place or explaining something). In this case, a visible laser pointer or highlighting tool would be very helpful, because others could clearly see exactly what the guide is pointing at.\nWithout a visible pointer, it is sometimes difficult for others to follow precisely, especially when pointing at distant locations.\nSo the goal is not to replace your current system, but to add an optional visual pointing tool for shared or guided experiences.\nThank you again for your work — WorldLens is truly a fantastic experience.\nBest regards",
+      "date": 1774623462,
+      "review_helpful_count": 2,
+      "author_display_name": "petr.vitovsky.35",
+      "author_alias": "petr.vitovsky.35",
+      "developer_response": {
+        "body": "Hi,\n\nThank you! Your feedback has been noted!\n\nContact: contact.worldlens.site",
+        "date": 1779110783
+      }
+    },
+    {
+      "id": "1134933516360129",
+      "score": 3,
+      "review_title": "Really cool but not robust enough.",
+      "review_description": "It's a really cool app and worth the asking price.  The image quality is exceptionally good. I like the feeling of \"flying\" which the app does very well.\n\nHowever, it can be a bit daunting to find locations.  The search also feels extremely rudimentary.  The keyboard is missing symbol key's so finding a business with an \"&\" in it is virtually impossible.\n\nWhen you do insert an address it'll just hover you above it leaving you to actually find the building instead of putting a pin on it so you know exactly where to look.\n\nI was a HUGE fan of EarthQuest and felt that was perfect.  Had a huge map that was searchable and felt like Google Earth / Maps which was perfect for exploring.\n\nSo for now, while a very good app it falls short as what I personally purchased it for it doesn't do very well.",
+      "date": 1775978413,
+      "review_helpful_count": 1,
+      "author_display_name": "Jahno_Kestt",
+      "author_alias": "Jahno_Kestt",
+      "developer_response": {
+        "body": "Hi there,\n\nThat was an experimental software originally released 3 years ago to designed to help gather feedback. All of its well-received features remain part of the full release. The “large searchable map” you mentioned is of course included. It can be expanded by tapping the icon in the top-right corner.\n\nWorldLens provides multiple ways to navigate anywhere on the planet, with precision down to the millimeter level.\n\nThe recently introduced ‘Tap to Go’ feature allows you to go anywhere from continental to street level with a single tap.\n\n‘Search for Place’ (🔍), located under ‘Location’ (📍), integrates the full Google search engine to support smart location searches. You can enter a specific address or place and press “Enter,” or select from the autocomplete suggestions to reach your destination quicker.\n\nAll symbols (including &) are also available with the latest update. Simply tap the input field to switch to the system keyboard, giving access to every native character to write with.\n\nThis should clarify the confusion. The functionality you are looking for is still available, WorldLens builds upon location services with improved ease of use.\n\nFor further questions or feedback, you can always reach out directly for faster support: [contact.worldlens.site]\n\nIf possible, please consider updating your review after exploring these features. I value your feedback and want to ensure the best possible experience.",
+        "date": 1779111013
+      }
+    },
+    {
+      "id": "991040774094768",
+      "score": 5,
+      "review_title": "My favorite app",
+      "review_description": "Love this app, It's like Google earth only better. You can fly around above the ground to look at place and if you see something of interest you can drop down to street view and from there you can take picture that are high quality. I've found every place I ever lived and it brings back so many memories. You can also fly up in space and get on the space station. It's an excellent app at a very reasonable price.",
+      "date": 1771785849,
+      "review_helpful_count": 7,
+      "author_display_name": "KYLALX",
+      "author_alias": "KYLALX",
+      "developer_response": null
+    },
+    {
+      "id": "936906195894119",
+      "score": 1,
+      "review_title": "Blurry not working properly",
+      "review_description": "everything is blurry, it can't be fixed. the only thing that's sharp is the Street view.. I'm disappointed",
+      "date": 1777291667,
+      "review_helpful_count": 1,
+      "author_display_name": "User111ACh",
+      "author_alias": "User111ACh",
+      "developer_response": {
+        "body": "Hello there!\n\nGoogle Earth is the largest and highest quality 3D mapping platform. New 3D coverage is added frequently, but if you’ve found an area that hasn’t yet been captured in high quality 3D, consider sending feedback on Google Maps.\n\nIf you would like to experience more realistic 3D graphics, I recommend enabling ‘Upscale 3D Imagery’ in the ‘Preferences’ (⚙️) tab. This will upscale close-range 3D content to deliver 4x higher detail.\n\nTo balance performance, range of 3D detail and loading speed, please see ‘How to Use’ (?).\n\nFor absolute immersion, many users rely on Google Street View and Community (user-uploaded) Imagery. With maximum display rendering resolution and uncompressed 8k fidelity, the experience is like being truly there!\nWith the launch of v49, all Google Street View and Community Imagery can now optionally be experienced as real 3D environments, rather than traditional photo spheres. Check out the ‘3D’ ‘Street View Quality’ mode in ‘Preferences’.\n\nIf you have any questions or feedback, please let me know\nhttps://contact.worldlens.site\n\nPlease update your review after getting to explore WorldLens’ realistic experiences.\nEnjoy 🌍!",
+        "date": 1779116392
+      }
+    },
+    {
+      "id": "1449618189877598",
+      "score": 5,
+      "review_title": "Go anywhere, see all, learn everything",
+      "review_description": "I love this app.  I can go anywhere instantly and the detail is great.  It's kinda addicting, but in a good way.  Hand/eye coordination a must; a bit of a learning curve with the controllers, but well worth it!",
+      "date": 1772291855,
+      "review_helpful_count": 5,
+      "author_display_name": "brian.conrad.165",
+      "author_alias": "brian.conrad.165",
+      "developer_response": null
+    },
+    {
+      "id": "928386777024497",
+      "score": 5,
+      "review_title": "Truly the Best Google Earth VR Clone",
+      "review_description": "As someone who has tried both Wonder and Wooorld, this truly is the best Google Earth VR clone for standalone. Funny enough, I actually like this one a little more than Google Earth VR because the controls are much more intuitive and just make more sense. Also, the obvious fact that it's on standalone and I don't have to touch my pc to play it...\n\n5/5 from me. I would highly recommend!",
+      "date": 1765921294,
+      "review_helpful_count": 66,
+      "author_display_name": "Daniel_C137",
+      "author_alias": "Daniel_C137",
+      "developer_response": null
+    },
+    {
+      "id": "982877450852029",
+      "score": 5,
+      "review_title": "Giving it a shot",
+      "review_description": "I spent hours in Google Earth back with my Rift but can only use it now through Steam on my PC. I read great reviews about this app and the developer. I hope to love this as much as GE.\n\nEdit: Ok, so overall this is better than GE but missing some useful items. I can see the improvements over GE.",
+      "date": 1770949317,
+      "review_helpful_count": 4,
+      "author_display_name": "MiamiL1fe",
+      "author_alias": "MiamiL1fe",
+      "developer_response": null
+    },
+    {
+      "id": "835035889703239",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "2025/01/31:\nEarth Quest VR is a fantastic way to explore our planet!  I just started using it yesterday and I'm already hooked.  The ability to virtually travel to different locations and experience them in such an immersive way is truly amazing.  It's like having Google Earth, but so much more engaging.  Great job, developer!  I can't wait to see what you add in future updates. Highly recommend this app to anyone curious about the world.\n2025/12/19 update:\nI bought World Lens almost a year ago, and it was actually the very first app I purchased for my Meta Quest 3. One of the main reasons I bought the headset was to explore places all around the world, and World Lens delivers exactly that. I’ve always been a fan of Google Earth, and having a truly immersive, VR version of that experience feels like a dream come true.\n\nThe app is a joy to use. The controls are well thought out, the settings are flexible, and the library of bookmarks is impressively large and easy to explore. I particularly enjoy the AI features: it presents interesting facts about the places you’re looking at and even helps you figure out where you are if you get a bit lost on the map. The integration with real Google Maps data is another big plus and adds a lot to the sense of authenticity.\n\nWhat really deserves special praise, though, is the developer. World Lens is clearly a labour of love. The (lone) developer is incredibly active on Discord, answering questions quickly and consistently, listening to feedback, fixing bugs, and rolling out new features on a regular basis. It’s rare to see this level of dedication and responsiveness.\n\nA year on, I’m still very pleased with World Lens, and it continues to improve over time. An easy five stars, and highly recommended for anyone who enjoys exploring the world in VR.",
+      "date": 1766156247,
+      "review_helpful_count": 37,
+      "author_display_name": "dmarcel",
+      "author_alias": "dmarcel",
+      "developer_response": null
+    },
+    {
+      "id": "1119704411227365",
+      "score": 5,
+      "review_title": "Honestly Surprised by How Good This Is",
+      "review_description": "I wasn’t sure what to expect when I bought WorldLens, but it quickly became one of my go-to VR apps. The navigation is incredibly smooth, and finding any city or landmark is straightforward. I was so impressed that I also picked up the World AI add-on, and it’s a real game-changer. The AI automatically responds in whatever language you speak, gives you quick facts about places, helps you get oriented, and instantly teleports you to whatever city or location you simply name out loud. In short, it’s basically Google Earth on steroids. If you’re into virtual travel, exploring the world from your couch, or just want a high-quality, relaxing VR experience, this app is absolutely worth it. Zero regrets here.",
+      "date": 1779371014,
+      "review_helpful_count": 3,
+      "author_display_name": "CosmicDog26",
+      "author_alias": "CosmicDog26",
+      "developer_response": null
+    },
+    {
+      "id": "1527000578417157",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "A great app to explore the world. I like that you can fly from above. If you ever wanted to feel like a bird or Superman, this is it. Flying over my neighborhood, I saw houses with pools that I had no idea. Flying also makes it easier to find the parts of countries  worth seeing. The clarity is excellent. There are options available to adjust it for speed vs sharpness. Initially I had some difficulty using the virtual hands. I believe that was a device issue. Once corrected, I could use my virtual hands to do everything, press all the menu buttons, type into the keyboard, go from flying to street view and surprisingly able to use my virtual hands while in street view. The  feature to watch the day progress into night and day again is cool.",
+      "date": 1767559864,
+      "review_helpful_count": 14,
+      "author_display_name": "Nobecat",
+      "author_alias": "Nobecat",
+      "developer_response": {
+        "body": "Thank you for your feedback!\n\nAssistance: contact.worldlens.site",
+        "date": 1779108886
+      }
+    },
+    {
+      "id": "25802127632714379",
+      "score": 5,
+      "review_title": "Fantastic!",
+      "review_description": "This app is the best maps app by far. I've bought all of them and they're now uninstalled - except for this one. I literally spend hours in this app. The developer cares about this app and it shows. Flying and getting to street view level is so quick and easy. Love the new keyboard! The whole interface is well thought out. The bookmarks section is wonderful. Love this app and all of its features. I recommend purchasing the AI feature (it's a one time purchase of a few dollars). I always use this feature and have learned so much from the millions of questions I ask it. It's like travelling with a really knowledgeable buddy. I highly recommend this app. Well done dev!",
+      "date": 1768032468,
+      "review_helpful_count": 9,
+      "author_display_name": "PV19",
+      "author_alias": "PV19",
+      "developer_response": null
+    },
+    {
+      "id": "973492519179438",
+      "score": 5,
+      "review_title": "World Lens - fun and useful",
+      "review_description": "This app is a blast. I have found out a lot about the area I live in, let alone all the exploring I’ve done all over the world. I like to do an initial roam of an area, then research on YouTube and Wikipedia, then go back into the app to check out specific sites or follow recommendations for scenic routes. It took me a minute to adjust to the new default navigation method, but all good. I enjoy the integrated AI functionality. Best app in my opinion and the one I spend the most time in. Actual travel is not practical right now, so this has been tremendously satisfying as an alternative. It’s also so efficient, safe and inexpensive in comparison.",
+      "date": 1770037221,
+      "review_helpful_count": 3,
+      "author_display_name": "Umtaliwill",
+      "author_alias": "Umtaliwill",
+      "developer_response": null
+    },
+    {
+      "id": "1906820303238831",
+      "score": 5,
+      "review_title": "Must-have app for Quest owners",
+      "review_description": "Don't listen to the review-bombers.  WorldLens is an amazing Google Earth experience.  Beautiful graphics, good performance, intuitive controls, and multiplayer.  Belongs in every Quest owner's library.  Easily worth the price.",
+      "date": 1767799960,
+      "review_helpful_count": 12,
+      "author_display_name": "SubCog",
+      "author_alias": "SubCog",
+      "developer_response": null
+    },
+    {
+      "id": "1518317266554732",
+      "score": 5,
+      "review_title": "Updated review now 5 star",
+      "review_description": "Originally gave this a one star due to clunky controls and poor graphics and forgot to mention it wouldn’t centre stuck looking over my left shoulder trying to use it, I did get a response from the developer and following that left it two days then went back for another try and found it worked perfectly, loaded up centred, controls available that weren’t there when first downloaded and graphics great, can only assume that when first downloaded there was a glitch with the headset that prevented it running correctly so have no problems giving it a 5 star review.",
+      "date": 1778578023,
+      "review_helpful_count": 2,
+      "author_display_name": "AnXLKebab",
+      "author_alias": "AnXLKebab",
+      "developer_response": {
+        "body": "Hello there!\n\nWorldLens offers enhanced Google Earth 3D quality, leveraging AI technology to enhance and improve 3D fidelity.\nThis feature comes disabled by default, so feel free to enable ‘Upscale 3D Imagery’ in ‘Preferences’ (⚙️).\n\nYou can use WorldLens’ Street View integration to immerse yourself in Google’s 8k imagery anywhere on Earth, now available in 3D!\nEnter Street View by moving the Street View Bubble to your head or toggle the full experience using B / Y on your controllers!\n\nRegarding controls: By default, WorldLens offers classic, traditional VR controls. Feel free to choose your preferred Input Mode in the Hub (Main Menu) instead.\n\nIf you have any questions or feedback, I’ll be happy to listen and do my best to ensure you have the best possible experience: [contact.worldlens.site]\n\nPlease consider updating your review after getting to enjoy everything WorldLens has in store!",
+        "date": 1779116570
+      }
+    },
+    {
+      "id": "958665187328047",
+      "score": 5,
+      "review_title": "World lens",
+      "review_description": "Its one of the better travel apps although it could be a little more straightforward some clearer instructions with a better layout and it would be just about perfect I wonder if they all got together and combined the features if I would ever have to board another plane again? For people who can't travel for a variety of reasons ability cost time etc. Its a blessing thanks folks at world lens please keep up the great work I look forward to the future .",
+      "date": 1768448260,
+      "review_helpful_count": 3,
+      "author_display_name": "Just_Johnny1970",
+      "author_alias": "Just_Johnny1970",
+      "developer_response": null
+    },
+    {
+      "id": "874614479077739",
+      "score": 5,
+      "review_title": "Worth the VR headset in a first place",
+      "review_description": "I played lots of games and apps on my Quest, and most of them are one time thing that I won't remember after a while. Vrchat and Worldlens are the only reason I come back to VR because of endless exploration.  Actually, with this app, I am more prepared when I need to get on a road to remember the route and turns, and in vr, it is almost like I am there. It's worth every dollar.",
+      "date": 1766963122,
+      "review_helpful_count": 9,
+      "author_display_name": "Justeeeek100500",
+      "author_alias": "Justeeeek100500",
+      "developer_response": null
+    },
+    {
+      "id": "1573655197000926",
+      "score": 5,
+      "review_title": "I have Wander 、 Wooorld 、FLY,",
+      "review_description": "I have Wander 、 Wooorld 、FLY. This one is best and you should buy AI add-on. It will like a personal tourguide, take you to the local  trip and explation everyting you want to know.",
+      "date": 1768742372,
+      "review_helpful_count": 9,
+      "author_display_name": "thomas188",
+      "author_alias": "thomas188",
+      "developer_response": null
+    },
+    {
+      "id": "1024369730755514",
+      "score": 5,
+      "review_title": "Amazing app! I have some requests :)",
+      "review_description": "First of all I have Purchased Worldlens as Google earth VR no longer supports other people's photo imagery on pc, however Worldlens/Earthquest does and it's very good on quest 3, runs very well.\n\nMy main request is to be able to fly like Google earth vr, using motion controls for the right controller (Up and down) I always found that more intuitive than using the thumbstick.\n\nAnd a bit of a random one, but It would be amazing if we could add our own custom music by inserting a MP3 file from a folder, Regardless the music you have on here already is incredibly good, almost mario galaxy like on some tracks!\n\nKeep up the good work! \n\nThanks.",
+      "date": 1769401183,
+      "review_helpful_count": 1,
+      "author_display_name": "Lloydy127",
+      "author_alias": "Lloydy127",
+      "developer_response": {
+        "body": "Hello 👋 \n\nThe specified controls are already available! Check out (Hybrid) Thumbstick Input Mode in the Hub (Main Menu) Settings.\n\nTo listen to any audio while using WorldLens, WorldLens has background playback support.\n\nToggle in-app Music off, open up any music provider or audio in the background, and enjoy!\n\nIf you have any other questions or feedback, don’t hesitate to let me know directly!\n\n(contact.worldlens.site)\n\nThank you!",
+        "date": 1769436026
+      }
+    },
+    {
+      "id": "888753534330369",
+      "score": 5,
+      "review_title": "Excellent",
+      "review_description": "This app is fantastic and I hope the developers continue to make improvements. Flying through the world in VR is much better than doing it on Google Earth. It makes it more real, it brings back memories and most importantly it makes you get emotional. The integration with street view is really well done and just intuitive. Some suggestions: a scale option would be nice, so you can quickly toggle the model to 1:1 size. That'd make it more real when you are at ground level. The upscale option is cool, I think caching (saving textures and geometry to internal storage) might be a good option to add if someone has for example a Quest 3 and has lots of storage space. That would mean that if you revist areas your experience improves. I think some sound effects would be cool, like the sound of wind through your ears as you boost through the sky. I would like the option to increase speed for smooth turn. I think over time adding in gaussian splats of areas could be super cool. There's so much you can do with this and the title can grow and improve and expand as you go. So much much potential. This has been the most fun fly around Google Earth type experience and much more intuitive than MS Flight Simulator.",
+      "date": 1767856949,
+      "review_helpful_count": 5,
+      "author_display_name": "RiverReeves",
+      "author_alias": "RiverReeves",
+      "developer_response": {
+        "body": "Hi 👋 \n\nThank you for your kind words!\n\nYou can already switch scaling to 1:1, 75:1 and everything in between, walking on  sidewalks at Human-Size is just magical! Scaling and base speed settings are in the ‘Experience’ (👤) category.\n\nCaching Google data offline unfortunately is against their rules, WorldLens caches 3D and Street View data as long as you’re using the app though so you should have the smoothest loading experience possible.\n\nSound effects like crickets at night and birds are already integrated, but only at certain times of day. Feel free to adjust time of day In ‘Preferences’.\n\nRotating faster with Smooth Rotation is noted! The base speed is currently balanced to offer the sweet spot of perceived smoothness, comfort, and speed. Thankfully, the speed is pressure sensitive, so tilt your Thumbstick less to rotate slower, and more to rotate faster.\n\nGaussian Splatting does look like the next big thing, however for now, there’s no single database that offers nearly the same level of quality and coverage as Google Earth. That doesn’t mean it can’t still succeed as a feature in WorldLens though 👀\n\nIf you have more feedback or questions, do let me know!\n\ncontact.worldlens.site",
+        "date": 1779109107
+      }
+    },
+    {
+      "id": "885821254624529",
+      "score": 5,
+      "review_title": "Great app. Great developer.",
+      "review_description": "Not only is the app itself very good, but the developer, through Direct Messages, is responsive and listens to the community, making constant updates. The application is extremely intuitive.",
+      "date": 1770648249,
+      "review_helpful_count": 3,
+      "author_display_name": "foguerafoguera",
+      "author_alias": "foguerafoguera",
+      "developer_response": null
+    },
+    {
+      "id": "25746080488407836",
+      "score": 1,
+      "review_title": "What a swizz!",
+      "review_description": "This is borderline fraud. There is no \"time travel\" feature, and the locations look like melted papier maiche. It doesn't even make you human size or remotely close to the ground. Avoid.",
+      "date": 1772814343,
+      "review_helpful_count": 1,
+      "author_display_name": "andywade",
+      "author_alias": "andywade",
+      "developer_response": {
+        "body": "Hi there!\n\nRest assured, everything is real and official, please ensure you’re using the latest version of WorldLens VR, avoid knock-offs or clones of the original experience.\n\nWorldLens is a user-first project, always working to offer the best possible experience with community feedback at the heart, therefore you’ll never find misleading marketing here!\n\nAccessing the Time Travel panel is very simple, all you have to do is press the Menu Button on your Controller, or the virtual (blue) Menu Button while in Street View. Instead of fully closing it, the UI will switch between the menu, Time Travel, and closed states.\n\nNote: The Street View Bubble quick preview doesn’t support Time Travel, you must first enter the full Street View experience using the X / Y hotkeys or ‘Toggle Street View’ in ‘Location’ (📍) if you’re using Hand Tracking. See ‘How to Use’ (?).\n\nWorldLens is also a top user choice for human scale and on-ground experiences, leaving panoramic content aside. You can go “on foot” exploring any city or place on sidewalks, walkways or just any given grounds, all in immersive Google Earth 3D. Doing so is possible by default, but you can always readjust your ‘Scale’ in the ‘Experience’ (👤)  tab!\n\nAbout 3D fidelity:\n\nWorldLens delivers 4x enhanced Google Earth 3D with the new ‘Upscale 3D Quality’ feature. Try it out!\n\nAlthough it is the largest, highest quality and ever-growing 3D mapping platform in the world, some areas on Earth may have yet to be released in full 3D. Consider submitting feedback to Google.\n\nIf you want to experience better, more realistic graphics, I recommend first enabling ‘Immersive Mode’, ‘Haze’ and ‘Upscale 3D Imagery’ in the ‘Preferences’ (⚙️) tab.\n\nTo balance performance, distant 3D level of detail and loading speed, please see ‘How to Use’ (?).\n\nI am always available to offer support at [contact.worldlens.site].\n\nPlease update your review after getting to experience WorldLens VR, your review matters greatly and I hope we can address this confusion.",
+        "date": 1779115231
+      }
+    },
+    {
+      "id": "938105246052881",
+      "score": 5,
+      "review_title": "The best of them all.",
+      "review_description": "Don’t normally write reviews but felt compelled to give a\nBig thumbs up to my experience of this. I have “Wander” and Google “Fly” and although they are very similar but does everything much better with ease of use. It’s so polished and immersive ( even the music is atmospheric and matches the experience ). I personally have used it for hiking and finding some great fishing and campspots. You can literally spend hours just checking out those spots that you once visited years ago or where you plan to go.  \n\nIt’s well supported by the developer too. Well done. What a great app.",
+      "date": 1767880981,
+      "review_helpful_count": 4,
+      "author_display_name": "patienceman.2u",
+      "author_alias": "patienceman.2u",
+      "developer_response": null
+    },
+    {
+      "id": "1388972006303284",
+      "score": 4,
+      "review_title": "Great but could be better!",
+      "review_description": "The quality is great and worth purchasing. Definitely one of the best Earth apps.\n\nControls can be a bit fiddly - they should implement a more Google Earth / Maps like navigation. It's also a little frustrating not being able to search locations and see road names etc.\n\nI would also like more flexibility over the graphics, e.g. I feel the fog isn't strong enough and atmospheric effects could be stronger too. London feels like the countryside with such lack of smog!",
+      "date": 1769121615,
+      "review_helpful_count": 2,
+      "author_display_name": "alexbxby",
+      "author_alias": "alexbxby",
+      "developer_response": {
+        "body": "Hi!\n\nv48 just launched, introducing ‘Tap to Go’, the Google Earth / Maps navigation feature, which should be exactly what you’re looking for!\n\nIf you meant input controls, those are completely up to you! Feel free to choose your preferred Input Mode in the Hub (Main Menu) Settings.\n\n‘Search for Place’ uses Google Maps’ most capable search engine, and long with their satellite imagery maps, landmarks, road names, etc. are visible at any distance. Feel free to enlarge the Map for the full navigation experience!\n\nFor top-notch graphical immersion, please enable ‘Immersive Mode’ and check out the ‘Haze’ feature in ‘Preferences’. Keep in mind that smog / haze densifies when near the ground (to keep visibility at higher altitudes), that is where Haze reaches realistic conditions.\n\nEnjoy! Please consider updating your review after getting the most out of WorldLens!\n\nv48 has so much in store too, to stay up to date, ask questions, report or suggest, don’t hesitate to reach out - contact.worldlens.site",
+        "date": 1770644009
+      }
+    },
+    {
+      "id": "991912197341705",
+      "score": 4,
+      "review_title": "Great App!",
+      "review_description": "It's a great app, could spend hours in there checking out places I've visited etc, I bought the add-on \"world ai\" I dont see any extra features on the app, could do with a tutorial!",
+      "date": 1772319092,
+      "review_helpful_count": 1,
+      "author_display_name": "SierraTango2773",
+      "author_alias": "SierraTango2773",
+      "developer_response": {
+        "body": "Hi!\n\nActually, there is no full-on documentation or tutorial yet due to the sole reason that there has been too little demand for it.\n\nA tutorial is planned, thanks for the feedback!\n\nEverything is designed to be as intuitive and easy to use as possible, guiding the user towards features and content as they go.\n\nWorld AI is accessible on the AI tab (shown as a digital cloud icon when unselected). That’s typically how you obtain the Add-on, ensuring that users are aware of its location.\n\nIf you have any questions or feedback on any particular aspect of WorldLens, please share, feedback is at the core of the project!\n\n[contact.worldlens.site] \n\nPlease consider updating your review after getting to experience everything WorldLens has to offer, your review and feedback matter greatly.\n\nThanks!",
+        "date": 1779110431
+      }
+    },
+    {
+      "id": "962517170281145",
+      "score": 5,
+      "review_title": "This app rocks!!",
+      "review_description": "I love that I feel like I'm flying. Sometimes I even \"land and take off\" from different airports. The views are amazing. The graphics keep improving and the new updates just make the experience top notch. This is my go to app for showing new users the Quest experience. Keep up the good work devs.",
+      "date": 1768362101,
+      "review_helpful_count": 3,
+      "author_display_name": "Kal.Rizzian",
+      "author_alias": "Kal.Rizzian",
+      "developer_response": null
+    },
+    {
+      "id": "122317233122007922",
+      "score": 2,
+      "review_title": "Not great on occulus 2.",
+      "review_description": "I looked at this app yesterday having installed it months ago. I thought I'd take a look as remember seeing the advert again and was looking forwards to seeing sights like Google earth.\nI didn't find the controls very easy to navigate at all and would have liked to see a tutorial to guide you through how the app works.\nNonetheless I eventually found a way of zooming in down to ground level to view London, UK.\nI was very disappointed with the graphics and would liken it more to a Minecraft world than to the graphics shown on the advert.\nI'm guessing that you show the occulus 3 graphics when showcasing.\nIt would help to know how it is going to look for users of occulus 2 as there are most likely a fair few of us still about looking for quality apps.\nIf i'd looked at the app when I purchased it, I would have been asking for a refund as I can just go on Google earth on my tablet and see places as if photographed.\nIs there a better way of using the app or a way of getting the graphics better (Nelson's Column was just an oblong with no detail!).\nAny help would be greatly appreciated 👍",
+      "date": 1766403920,
+      "review_helpful_count": 6,
+      "author_display_name": "Nickkarateguy",
+      "author_alias": "Nickkarateguy",
+      "developer_response": {
+        "body": "Hi!\n\nI am aware that this is an old review,\nJust wanted to let you know that the experience has greatly improved since, check it out!\n\nContact: contact.worldlens.site",
+        "date": 1779062016
+      }
+    },
+    {
+      "id": "1450666810396073",
+      "score": 1,
+      "review_title": "Bad Controls",
+      "review_description": "I used to love this app in Worlds/Lens VR, but the recent update changed the controls and made everything far less intuitive. Previously, I could just use my hand to move naturally wherever I wanted. Now I’m forced to use both joysticks, and it really limits the speed and freedom of flying around the environment. The original hand-movement controls were the main reason I used this app. Please consider adding an option to switch between the old control style and the new one so users can choose what works best for the them.",
+      "date": 1765247877,
+      "review_helpful_count": 8,
+      "author_display_name": "vitalpilot",
+      "author_alias": "vitalpilot",
+      "developer_response": {
+        "body": "Hey there!\n\nControls are always up to you! A new input mode was added in v47 but you do not have to use it if you don’t want to!\n\nYou can switch back to your own controls in the Main Menu (Hub) Settings 👍\n\nIf you need help with anything else or have any questions, don’t hesitate to reach out directly - contact.worldlens.site\n\nPlease update your review after choosing your preferred controls back! Enjoy 🌍!",
+        "date": 1765249377
+      }
+    },
+    {
+      "id": "1974660553097346",
+      "score": 4,
+      "review_title": "Good app but need some important add",
+      "review_description": "everything is fine, I really like flying, but there is one big disadvantage, it is impossible to see from a height where you can land and see the panorama, there are no signatures and street names, or I have not found how to turn it on/ off.",
+      "date": 1768662030,
+      "review_helpful_count": 2,
+      "author_display_name": "alex.densvenske",
+      "author_alias": "alex.densvenske",
+      "developer_response": {
+        "body": "Hi!\n\nViewing Street View or Community Imagery coverage is now available.\n\nFeel free to enable the Street View Coverage Overlay feature located at the top right of the Enlarged Map.\n\nThe functionality has been expanded with Tap to Go. Allowing Street View coverage to be viewed and loaded with a click.\n\nSupport: contact.worldlens.site\n\nPlease consider updating your review after getting to use this feature. Enjoy!",
+        "date": 1779114276
+      }
+    },
+    {
+      "id": "820691021137073",
+      "score": 5,
+      "review_title": "Go Anywhere and Even Time Travel",
+      "review_description": "You can go anywhere in the world and view it all like you're there and time is frozen. Really incredible stuff. Also love the fact you can see places from different points in time, as long as there are Google Earth records. The hand tracking still needs a lot of work, so I'd definitely recommend using controllers, but it's still great. I have a feeling it's just going to continue to get better and better.",
+      "date": 1765103740,
+      "review_helpful_count": 8,
+      "author_display_name": "ElectricBluebird8675",
+      "author_alias": "ElectricBluebird8675",
+      "developer_response": null
+    },
+    {
+      "id": "810823121666659",
+      "score": 5,
+      "review_title": "Must buy app",
+      "review_description": "Whether you want to see places you won't be able to visit in real life or just be able to easily explore the world, this is the most polished map app. Yes, it sometimes lags when flying but it doesn't deter from the unbelievable experience.\n\nPS: On Quest 3 / 3S, I recommend these graphics settings as a best balance between visuals and performance:\nResolution multiplier: 1.4x\nDraw distance: 60%\nLoading strength: 6 or 8",
+      "date": 1762204916,
+      "review_helpful_count": 31,
+      "author_display_name": "MazeMan111",
+      "author_alias": "MazeMan111",
+      "developer_response": null
+    },
+    {
+      "id": "1011718875356138",
+      "score": 5,
+      "review_title": "simply flawless",
+      "review_description": "body text",
+      "date": 1771093651,
+      "review_helpful_count": 3,
+      "author_display_name": "traveller_gt",
+      "author_alias": "traveller_gt",
+      "developer_response": null
+    },
+    {
+      "id": "928982916969008",
+      "score": 5,
+      "review_title": "Favorite  travel",
+      "review_description": "Its Google earth 3D. I absolutely love it. Can go back in time to 2007 with Google earth. I can visit places i grew up and see it in 3D. I truly enjoy it.",
+      "date": 1768603560,
+      "review_helpful_count": 3,
+      "author_display_name": "furg1024",
+      "author_alias": "furg1024",
+      "developer_response": null
+    },
+    {
+      "id": "893817653200405",
+      "score": 1,
+      "review_title": "It falls short on immersion",
+      "review_description": "EDIT: The developer has no intentions to bring new forms of navigation, such as an airplane, a glider, a dragon like the FLY game, or a Jetpack like Wooorld. For this reason, I pass and will stick to Wooorld.\n\nWhile I like the game, it does not have any planes - a dealbreaker for me. I've read in Discord that the developer has no interest in adding a plane, not even a simple one with a cockpit and arcadish physics. Feels like a whim, it's almost a logical thing to do, but we might never see a plane in this game (hope I'm wrong though).\n\nThis honestly kills the game for me, and I cannot keep playing; it can't be that hard to add a plane/helicopter with simple physics, it'd even be awesome to fly in the cockpit with my wife or solo. - the Fly game which's similar to this one has a Dragon (not a plane yet sadly).\n\nBut bear in mind when buying, it's just pointing and transition (there's no fly feeling). I'll happily update my review when there's a plane I can fly and it's not just me with floating hands pointing",
+      "date": 1768047282,
+      "review_helpful_count": 1,
+      "author_display_name": "matiQs",
+      "author_alias": "matiQs",
+      "developer_response": {
+        "body": "Hi! Thank you for the feedback, it has been noted!\n\nI’m mainly following demand and prioritizing based on it, so your feedback will help a lot.\n\nSome of the feedback was part of larger demand and it has already been implemented. It’s ‘Traditional Controls’, the default VR control scheme for 3D navigation, perfect for plane-like control, try it out!\n\nWorldLens should offer a more immersive 3D world experience with the new upscaling technology. I’d love to hear your thoughts!\n\nContact: contact.worldlens.site",
+        "date": 1779109697
+      }
+    },
+    {
+      "id": "936464976223700",
+      "score": 5,
+      "review_title": "Perfect",
+      "review_description": "I mean,  I go ANYwhere I WANT to go. Ohhhhhhhhh yeah.  Fun to navigate.",
+      "date": 1769604320,
+      "review_helpful_count": 3,
+      "author_display_name": "MistorGator39",
+      "author_alias": "MistorGator39",
+      "developer_response": null
+    },
+    {
+      "id": "808989968974736",
+      "score": 5,
+      "review_title": "This is my favorite app for my MQ3",
+      "review_description": "Worldlens offers some amazing enhancements for your VR experience in Google Earth.  I started using this app because it allows me to use Google Earth in VR without having to be tethered to PCVR.   Although I do suggest using a swivel chair for super smooth turns, you can absolutely use this app while stationary.  Right hand and the visor do most of the driving while your left hand has a control panel that can be minimized. Controls include compass, street map, web lookup, location address/GPS coordinates, bookmarks, and a bunch of ways to tweak performance and experience. A strong WiFi connection helps speed up rendering but I've used the app without problem on \"less than speedy\" shared pubic WiFi.   With Wordlens and Google Earth being routinely updated you will never run out of places to go in this absolute time vampire. Currently running WorldLens on a MetaQuest 3.",
+      "date": 1763953195,
+      "review_helpful_count": 7,
+      "author_display_name": "EarlofYeet",
+      "author_alias": "EarlofYeet",
+      "developer_response": null
+    },
+    {
+      "id": "825195147346908",
+      "score": 3,
+      "review_title": "Janky and arcane UI",
+      "review_description": "Initially I couldn't get this app going. There were zero graphical indications what to do and despite pushing every button on my controller there was no response. Gave up and came back another day and it still did not respond to my controllers. Was about to refund but this time I put down the controllers and somehow hand tracking triggered something and I got into a menu although I have NO idea what I did. Subsequently the controllers (kinda) worked. Tried exploring and it was really cool until at some point a help screen popped up and I could not find any way to close it despite some very confusing text telling me how to close it. I tried every possible button but ultimately I had to force kill the app to get out of it. Please improve or standardize your UI or perhaps offer a walkthrough video showing how to use the interface. I am not new to VR but this app has totally left me guessing what is going on.\n\nOne further comment, Meta does not provide a support contact here and the company website redirects to Discord. I am sure I am not the only person who doesn't want to sign up and learn how to use Discord just to contact you. Give me a support email address and I'll send my support questions directly to you instead of here.",
+      "date": 1759640428,
+      "review_helpful_count": 77,
+      "author_display_name": "SunMoon420",
+      "author_alias": "SunMoon420",
+      "developer_response": {
+        "body": "Hi, there was an issue with the one-time intro that prevented it from showing and has now been fixed.\n\nI apologize for the confusion caused due to this error.\n\nAt the time, the app was in Early-Access.\nPlease download the full release version and try again 👍\n\nThe UI has also received a redesign update that makes things more simple and intuitive, recent user feedback showed positive input and the UX/UI should now be noticeably improved.\n\nPlease update your review after getting to use WorldLens, I apologize for the inconveniences caused.\n\nEmail support: contact.worldlens.site",
+        "date": 1779113269
+      }
+    },
+    {
+      "id": "1375787254289788",
+      "score": 1,
+      "review_title": "Monumental Downfall",
+      "review_description": "Incredible decline in quality. From poor controls to constant UI updates that degrade the experience and never deliver on simple, intuitive schemes. Bad user experience flow. Ignorance to user input. Was wonderful to begin with but has overall decreased in satisfaction",
+      "date": 1767657468,
+      "review_helpful_count": 1,
+      "author_display_name": "VyleR",
+      "author_alias": "VyleR",
+      "developer_response": {
+        "body": "Hi!\n\nI am aware that this is an older review,\nJust wanted to let you know that the experience has greatly improved since.\n\nCheck out the new controls, UI and user experience flow, and let me know your thoughts!\n\nContact: contact.worldlens.site",
+        "date": 1779109006
+      }
+    },
+    {
+      "id": "26160323196892891",
+      "score": 5,
+      "review_title": "Wonderful app with constant development",
+      "review_description": "I am really enjoying this app.",
+      "date": 1767798846,
+      "review_helpful_count": 7,
+      "author_display_name": "punkbuddy89",
+      "author_alias": "punkbuddy89",
+      "developer_response": null
+    },
+    {
+      "id": "1017456014780943",
+      "score": 1,
+      "review_title": "World VR",
+      "review_description": "Crappie doesn't load properly",
+      "date": 1771608011,
+      "review_helpful_count": 1,
+      "author_display_name": "Unpredictable",
+      "author_alias": "Unpredictable",
+      "developer_response": {
+        "body": "Hello!\n\nEverything is currently operational, perhaps Google had a little server hiccup, can you try again?\n\nIf you have any issues or if there’s anything I can help with, please let me know - contact.worldlens.site\n\nPlease update your review after getting to enjoy WorldLens, your feedback and review are greatly appreciated 💙🌍",
+        "date": 1779114585
+      }
+    },
+    {
+      "id": "876816101916184",
+      "score": 5,
+      "review_title": "The \"killer app\" for my Quest 3",
+      "review_description": "The title essentially, highly recommended",
+      "date": 1769021467,
+      "review_helpful_count": 3,
+      "author_display_name": "watson_wat_son",
+      "author_alias": "watson_wat_son",
+      "developer_response": null
+    },
+    {
+      "id": "1442929237395367",
+      "score": 5,
+      "review_title": "Very pleasently surprised",
+      "review_description": "I am a long time wander user but this app is realy good. Highly recommend.",
+      "date": 1767467287,
+      "review_helpful_count": 4,
+      "author_display_name": "ManitouRob2",
+      "author_alias": "ManitouRob2",
+      "developer_response": null
+    },
+    {
+      "id": "3809878909312763",
+      "score": 5,
+      "review_title": "Ignore the goofballs, an amazing app",
+      "review_description": "This is by far the closest thing you are going to find to the PCVR Google Earth app on standalone. I've been using this application since early access days, and it was great then and even better today.",
+      "date": 1762316642,
+      "review_helpful_count": 14,
+      "author_display_name": "MarkMe2525",
+      "author_alias": "MarkMe2525",
+      "developer_response": null
+    },
+    {
+      "id": "1396888361775740",
+      "score": 5,
+      "review_title": "GOOGLE EARTH 3D!",
+      "review_description": "TRAVEL THE EARTH FROM YOUR LIVING ROOM, IT'S NOW POSSIBLE\nSeeing the entire Earth from your headset is breathtaking, with stunning graphics, freedom, and guaranteed curiosity.\nTRAVEL THROUGH SPACE AND TIME\nWorldLens is a game-changing VR application for exploration enthusiasts.\nI was impressed by the visual quality: cities are modeled in highly detailed 3D, and switching to \"Street View\" with high-resolution images (up to 8K) offers a truly immersive experience. \nVISIT YOUR HOMETOWN IN VR\nThe \"Time Travel\" mode lets you see places from your childhood as they were!\nMultiplayer support allows you to share your discoveries with friends and travel together, making the experience social and fun.\nBy default, the experience is extremely smooth, so you don't need to change anything unless you want higher quality or faster loading times. The \"How to Use\" section provides more details on this. A high-speed internet connection is not required for an optimal experience, unlike some other apps.\nHere, it's not intense gameplay that's sought after, but wonder, discovery, and visual \"wow.\" \nIf you're looking for a peaceful escape, free exploration, or simply to revisit your hometown from a fresh perspective, WorldLens truly delivers.",
+      "date": 1762927108,
+      "review_helpful_count": 4,
+      "author_display_name": "Majerik",
+      "author_alias": "Majerik",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T01:20:47Z"
+}

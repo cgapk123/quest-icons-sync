@@ -1,0 +1,59 @@
+{
+  "app_id": "5570330959688310",
+  "package_name": "com.byv.TheCatapult.QuestVr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "The Catapult",
+  "rating_average": 4.08,
+  "rating_count": 25,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "426521337206569",
+      "score": 2,
+      "review_title": "The fun ends with the first boss fight",
+      "review_description": "The first levels make fun, but boss fights ruin the game. They are way to hard and require lifetime sucking try & error. Hint for lv10: first shoot the canon, then the yellow spike pins. I stopped the game at lv20 because it's to frustrating. The game would be much better if the devs lower the boss difficulty or give the player usefull hints where to shoot.",
+      "date": 1726062782,
+      "review_helpful_count": 5,
+      "author_display_name": "Krisch0815",
+      "author_alias": "Krisch0815",
+      "developer_response": null
+    },
+    {
+      "id": "2564402497083906",
+      "score": 4,
+      "review_title": "pretty fun, pretty simple",
+      "review_description": "It looks nice and feels fun to play. The first 9 levels are too easy, then suddenly level 10 (boss) is way too hard. Shooting the bird man requires my hand/controller to almost touch my floor, which I prefer not to do.",
+      "date": 1723561369,
+      "review_helpful_count": 1,
+      "author_display_name": "JimZM",
+      "author_alias": "JimZM",
+      "developer_response": {
+        "body": "Thank you very much for your feedback and rating. We will take your wishes into account when working on the game.",
+        "date": 1723616232
+      }
+    },
+    {
+      "id": "615369207112513",
+      "score": 1,
+      "review_title": "Boring",
+      "review_description": "No chance to beat the Level 10 Boss.\nMaybe if you buy ingame coins to upgrade your stuff.\n\nlame",
+      "date": 1675750229,
+      "review_helpful_count": 1,
+      "author_display_name": "Max_Pain",
+      "author_alias": "Max_Pain",
+      "developer_response": {
+        "body": "Hello BadBoys_Mad_Mechanic.\n\nThanks for your feedback.\nWe found a bug in boss number 10.\nWe have already fixed the error, now everything should beat in order.\nWe are very sorry that you had a negative experience.\n\nWe are always ready to discuss the problem in our discord: https://discord.gg/BJqXNVncfd\nHave a good game.",
+        "date": 1675850767
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:23:32Z"
+}
