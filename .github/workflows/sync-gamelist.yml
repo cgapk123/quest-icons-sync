@@ -1,0 +1,46 @@
+name: Sync VRP GameList
+
+on:
+  schedule:
+    # 每天 UTC 06:00 检测 vrsrc.fyi 是否有更新
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: sync-gamelist
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  OUTPUT_FILE: VRP-GameList.txt
+  MANIFEST_FILE: gamelist-manifest.json
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Sync from vrsrc.fyi
+        id: sync
+        run: python sync_gamelist.py --save-cache
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "${OUTPUT_FILE}" "${MANIFEST_FILE}"
+          if git diff --staged --quiet; then
+            echo "No VRP-GameList changes"
+            exit 0
+          fi
+          git commit -m "Sync VRP-GameList from vrsrc.fyi $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
