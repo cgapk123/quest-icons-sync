@@ -1,0 +1,975 @@
+{
+  "app_id": "7486934774707264",
+  "package_name": "com.gbls.bndk.realityOS",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "The Spatial App",
+  "rating_average": 3.5059760956175,
+  "rating_count": 251,
+  "review_count": 143,
+  "reviews": [
+    {
+      "id": "1062538310278583",
+      "score": 3,
+      "review_title": "Great start",
+      "review_description": "I just got this app not too long ago and love it. But I’m getting errors about the browser not being supported soon for prime and also hbo max doesn’t work at all. How long will the coming soon apps and widgets take?",
+      "date": 1777427523,
+      "review_helpful_count": 1,
+      "author_display_name": "Mr_mercedes",
+      "author_alias": "Mr_mercedes",
+      "developer_response": null
+    },
+    {
+      "id": "980948571765517",
+      "score": 2,
+      "review_title": "Started a project and got bored",
+      "review_description": "It’s such a waste of money. I should have trusted my gut! Everything in the UI is so fake sharp. It really doesn’t work very well and the only thing that barely saves it is the access to apple tv and plex. But really this is poor and no update for 8 months i should have seen that red flag and ran… silly old me.\n\nPlus i saw a video about widgets coming soon, one year on they are still coming soon.",
+      "date": 1769295478,
+      "review_helpful_count": 24,
+      "author_display_name": "GerryB2023",
+      "author_alias": "GerryB2023",
+      "developer_response": null
+    },
+    {
+      "id": "989636180905464",
+      "score": 1,
+      "review_title": "So bad its not funny",
+      "review_description": "biggest waste of $10 i have ever spent in my life \nyou can't even us the keyboard in it because whenever you try to it turns white and you cannot use it like most of the stuff in there the keyboard is only one of many which do not work",
+      "date": 1772745996,
+      "review_helpful_count": 2,
+      "author_display_name": "caleb_smith20103",
+      "author_alias": "caleb_smith20103",
+      "developer_response": null
+    },
+    {
+      "id": "879078858628098",
+      "score": 1,
+      "review_title": "Doesn't work, doesn't work as advertised",
+      "review_description": "The browser is outdated, you disguised the UI string as a Galaxy S9 so the android apps aren't working and flat out can't log into Microsoft as well. Great idea, poor execution. I'd like a refund. I was excited and actually counting on this app to work. You have other disappointed customers in here you haven't responded to after 2-3 months. So your customer service is crap too.",
+      "date": 1764128499,
+      "review_helpful_count": 71,
+      "author_display_name": "Ninja47",
+      "author_alias": "Ninja47",
+      "developer_response": null
+    },
+    {
+      "id": "1052314497957707",
+      "score": 3,
+      "review_title": "Great start needs improvements",
+      "review_description": "feels like it's kinda cool i like a lot of the ideas but some failed execution keeps it from reaching its full potential. as an example i can't access hbo max or paramount because the browser is out of date \noverall pretty cool just need some work",
+      "date": 1771179966,
+      "review_helpful_count": 2,
+      "author_display_name": "daddywarchief83",
+      "author_alias": "daddywarchief83",
+      "developer_response": null
+    },
+    {
+      "id": "1061750693687840",
+      "score": 1,
+      "review_title": "Such a waste of money",
+      "review_description": "There is barely any apps and it may look cool at first but its not and most of the stuff is coming soon [one star]",
+      "date": 1777527652,
+      "review_helpful_count": 2,
+      "author_display_name": "maverkade",
+      "author_alias": "maverkade",
+      "developer_response": null
+    },
+    {
+      "id": "1946979789243414",
+      "score": 2,
+      "review_title": "Outdated Browser",
+      "review_description": "The outdated browser makes it useless for me. I do like the concept though.",
+      "date": 1771793696,
+      "review_helpful_count": 2,
+      "author_display_name": "dhoward1968",
+      "author_alias": "dhoward1968",
+      "developer_response": null
+    },
+    {
+      "id": "961828607010157",
+      "score": 5,
+      "review_title": "Work really well!",
+      "review_description": "Works decently well! 5 stars to push the awesome emulation of a Vision Pro with only Meta Quest.",
+      "date": 1767630798,
+      "review_helpful_count": 3,
+      "author_display_name": "AlexGrimoire",
+      "author_alias": "AlexGrimoire",
+      "developer_response": null
+    },
+    {
+      "id": "890124450250225",
+      "score": 5,
+      "review_title": "I love this but sport channels?",
+      "review_description": "add sports apps and you can log in to and watch on vr for example f1 you can have the video or live playing with the leader board and a 3d track and when you look at the drive pov shows up please would be cool",
+      "date": 1764073489,
+      "review_helpful_count": 4,
+      "author_display_name": "visual_interference",
+      "author_alias": "visual_interference",
+      "developer_response": null
+    },
+    {
+      "id": "978016765388097",
+      "score": 5,
+      "review_title": "Best app",
+      "review_description": "I would recommend to buy for such a cheap price when your bored or just in bed you can so much!! It’s also like an apple vision pro!",
+      "date": 1767206146,
+      "review_helpful_count": 1,
+      "author_display_name": "Rezz219",
+      "author_alias": "Rezz219",
+      "developer_response": null
+    },
+    {
+      "id": "791786520688209",
+      "score": 4,
+      "review_title": "A promising app for productivity",
+      "review_description": "The Spatial App on the Meta Quest 3 is one of the most exciting experiences I’ve tried so far. I love the way apps can be created and launched directly through the browser, and the seamless iCloud integration makes navigation smoother and more convenient than the default Meta Quest interface. The multi-window setup also deserves praise — it’s more productive and visually polished than MetaOS, making daily use feel fresh and efficient.\nThat said, the app still struggles in some important areas. Settings often reset back to default on their own, which can be frustrating, and performance drops are especially noticeable during video playback. The built-in browser is also limited, with no compatibility for popular \napps like Spotify, which restricts its potential as a full workspace replacement.\nDespite these issues, I use Spatial every day because its core ideas are brilliant and clearly ahead of what MetaOS currently offers. I just wish updates came more frequently, with expanded configuration options and long-promised features that have been “coming soon” for far too long. With more polish and consistency, Spatial has the potential to become the ultimate productivity app for VR.",
+      "date": 1758927158,
+      "review_helpful_count": 16,
+      "author_display_name": "campoi.dev",
+      "author_alias": "campoi.dev",
+      "developer_response": null
+    },
+    {
+      "id": "932763686584042",
+      "score": 4,
+      "review_title": "add the lighting effect",
+      "review_description": "Please add the lighting effect similar to the spatial tv app. That would be great",
+      "date": 1766460764,
+      "review_helpful_count": 1,
+      "author_display_name": "KarnBenipal",
+      "author_alias": "KarnBenipal",
+      "developer_response": null
+    },
+    {
+      "id": "899381509926682",
+      "score": 1,
+      "review_title": "Doesn't work!",
+      "review_description": "Start the app and nothing happens. Waste of time.",
+      "date": 1765004326,
+      "review_helpful_count": 2,
+      "author_display_name": "RadiantSeal6840",
+      "author_alias": "RadiantSeal6840",
+      "developer_response": null
+    },
+    {
+      "id": "835340836322462",
+      "score": 3,
+      "review_title": "It’s Good, but not great",
+      "review_description": "Sure, you can watch stuff on it but some of the things say browser is out of date so you cannot sign in so I would recommend the developers to update the browser but other than that, it’s basically just an iPhone",
+      "date": 1758074599,
+      "review_helpful_count": 6,
+      "author_display_name": "Slyfighter_M",
+      "author_alias": "Slyfighter_M",
+      "developer_response": null
+    },
+    {
+      "id": "684347174763061",
+      "score": 2,
+      "review_title": "It’s Ehhh",
+      "review_description": "I got this app thinking it would be better for me in the long run but the more I use it the more I hate it. Now being honest I wanted to like it I really did but It’s completely pointless to have this app when my Quest 3 does everything the app does already. It’s buggy and if I could get a refund I would!!! Some of the Apple apps are ok but as soon as you close the app it logs you out so you have to log back in every time you open the app which is frustrating.",
+      "date": 1750848586,
+      "review_helpful_count": 68,
+      "author_display_name": "Th3Assassin07",
+      "author_alias": "Th3Assassin07",
+      "developer_response": null
+    },
+    {
+      "id": "2475029429498606",
+      "score": 3,
+      "review_title": "Needs Work",
+      "review_description": "I paid to see what it was like. Well interesting app but needs work and other reviews say devs aren't doing much. My issue it doesn't save any of your settings and acts like a direct short to your battery. If you watch one YouTube video have a battery pack ready. I'm uninstalling it until there are some updates then will reavaluate. I don't recommend this app now.",
+      "date": 1747944194,
+      "review_helpful_count": 39,
+      "author_display_name": "okeyone",
+      "author_alias": "okeyone",
+      "developer_response": {
+        "body": "Thanks for the review! Let us address your concerns:\nThe app is continously being worked on with an aim for monthly updates. Settings can be saved, to address it please reinstall your app. It can be a battery drain if multiple windows are open, unfortunatelly it is an issue across all third party immersive browsers.\nDon't worry, we're updating our app with updates and bug fixes as fast as we can.",
+        "date": 1748358032
+      }
+    },
+    {
+      "id": "737165499475556",
+      "score": 2,
+      "review_title": "Disappointing",
+      "review_description": "Majority of apps complain the browser is out of date and it won't work. Also really slow at loading. So basically is a defective, almost useless app that could have been great. How about a decent browser.. is it that hard!!??",
+      "date": 1752980108,
+      "review_helpful_count": 3,
+      "author_display_name": "Ryan_F30",
+      "author_alias": "Ryan_F30",
+      "developer_response": {
+        "body": "Hey! Yes, it's really challenging. We are actively working on improving the browser! Will update the community trough discord with every new development!",
+        "date": 1753358170
+      }
+    },
+    {
+      "id": "716088374931740",
+      "score": 1,
+      "review_title": "I need a refund this app sucks",
+      "review_description": "VERY BAD",
+      "date": 1757884795,
+      "review_helpful_count": 0,
+      "author_display_name": "GoofyPossum4986",
+      "author_alias": "GoofyPossum4986",
+      "developer_response": null
+    },
+    {
+      "id": "625155290689020",
+      "score": 5,
+      "review_title": "THIS APP SUCKS!!!",
+      "review_description": "I was just in my quest. Right? And I thought “Hey! I wanna watch my favorite shows and listen to music!” I bought it BUT IT ONLY SHOWED APPLE MUSIC AND I WANTED EVERYTHING ELSE! SCAMMING ME OUT OF TEN QUEST CASH LEAVING ME WITH NOTHING. I am so upset.",
+      "date": 1748393074,
+      "review_helpful_count": 11,
+      "author_display_name": "rexyyyyyyyyyy",
+      "author_alias": "rexyyyyyyyyyy",
+      "developer_response": null
+    },
+    {
+      "id": "1671013240225360",
+      "score": 1,
+      "review_title": "Things the developer needs to know",
+      "review_description": "This is nothing like Apple. I have to keep signing in all the time.  I’ve tried two times today and I can’t get in. Your Apple TV app won’t even let me watch my Payed content any way. Fix it so that we don’t have to sign in every time. ￼",
+      "date": 1750097909,
+      "review_helpful_count": 4,
+      "author_display_name": "KaraZorEl57",
+      "author_alias": "KaraZorEl57",
+      "developer_response": {
+        "body": "Hi there! Sorry to hear that our app didn't fit your expectations. Our intention is to give you the closest feeling to an Apple Quality that our team of 2 can achive with the power of the Meta Quest 3.\n\nAs stated in our product page, our app works with webapps, thus some experiences like Apple TV relies on the web version of Apple TV+ which doesn't let you play Itunes media. This is a limitation we can never overcome.\n\nAs for signing in, we haven't encountered this issue before. Can you let us know in detail through our Discord group? You can sign up from our website thespatial.app",
+        "date": 1750438069
+      }
+    },
+    {
+      "id": "1318117795913682",
+      "score": 5,
+      "review_title": "The Spatial App is Pure Magic!",
+      "review_description": "We just have to say… WOW. The Spatial App has truly transformed our daily VR experience. What started as a promising concept has evolved into a polished, powerful, and incredibly immersive tool that we now use every single day. Whether we’re watching movies in stunning cinema mode, placing web apps all around our space for productivity, or simply vibing in a chill ambient environment, this app nails it on all fronts.\n\nThe improvements over the last few months have been insane. Everything is smoother, snappier, more intuitive—and let’s be honest—it’s giving Apple Vision a serious run for its money. The UI is sleek, the environments are breathtaking, and the ability to cast, multitask, and customize our digital workspace feels like the future has finally arrived.\n\nWe love how we can switch between relaxing movie nights (Disney+, Prime, YouTube—yes please!) and full-on productivity sessions with virtual monitors, widgets, and custom web apps. It’s like having a digital spaceship cockpit tailored to your vibe.\n\nHonestly, this app is THE reason we keep coming back to our Quest headset. It’s not just a utility—it’s an experience. Meta, take a bow. The Spatial App is our new favorite companion in the VR universe.",
+      "date": 1744183515,
+      "review_helpful_count": 58,
+      "author_display_name": "issradio",
+      "author_alias": "issradio",
+      "developer_response": {
+        "body": "We cannot thank you enough for this review! We will bring more updates and cool features so you have something new to keep coming back to.",
+        "date": 1747820030
+      }
+    },
+    {
+      "id": "888396347692500",
+      "score": 3,
+      "review_title": "Spotify not working",
+      "review_description": "spotify is not supported with this app :(",
+      "date": 1764474370,
+      "review_helpful_count": 0,
+      "author_display_name": "Isidro_Loco",
+      "author_alias": "Isidro_Loco",
+      "developer_response": null
+    },
+    {
+      "id": "651339491404753",
+      "score": 3,
+      "review_title": "This is a great start not to hate..but",
+      "review_description": "What ever the the resolution is it’s low  some aspects remind me of the spatial computer in gamer the movie 2009 so it’s great but Iwant to watch the 4k content Iowanin as close to 4k as possible not 480i 30fps but in all seriousness this is a cool app just poorly rendered especially the pc link",
+      "date": 1747913653,
+      "review_helpful_count": 4,
+      "author_display_name": "ofozzybearo",
+      "author_alias": "ofozzybearo",
+      "developer_response": {
+        "body": "Hi there! Appreciate the feedback. We're trying to improve the resolution of The Spatial App. We're comfortable where we are, but it can be better.",
+        "date": 1748357419
+      }
+    },
+    {
+      "id": "608363609034368",
+      "score": 3,
+      "review_title": "I'm having issues with \"My apps\" button",
+      "review_description": "I like the concept, but when clicking on \"My apps\", it just opens a gray screen. The only thing visible is the \"X\" in the top left. It behaves differently when I'm casting to my phone. When opening the \"My apps\" while casting, it shows an error page with an upside-down android in the top left. Also can't find a way to edit the apps displayed. There are many that I would like to remove.",
+      "date": 1747359932,
+      "review_helpful_count": 3,
+      "author_display_name": "Chimpzilla",
+      "author_alias": "Chimpzilla",
+      "developer_response": {
+        "body": "Hi there! We'll look into this issue as it shouldn't work like this. Apologies and stay tuned for the update.",
+        "date": 1747818050
+      }
+    },
+    {
+      "id": "699952003200471",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Netflix not supported even in browser ,difficulty in using controls like making screen large and small going to previous video  environment is ok but it would great if imporoved in resolution",
+      "date": 1749328770,
+      "review_helpful_count": 2,
+      "author_display_name": "FrostedFox1476",
+      "author_alias": "FrostedFox1476",
+      "developer_response": null
+    },
+    {
+      "id": "657111490822699",
+      "score": 4,
+      "review_title": "Cinema mode for other apps",
+      "review_description": "Please bring cinema mode for other apps like web browser as well.\nThankyou.  App with great potential",
+      "date": 1749662760,
+      "review_helpful_count": 2,
+      "author_display_name": "stance7",
+      "author_alias": "stance7",
+      "developer_response": {
+        "body": "Thanks for the suggestion and the kind words! We'll add this feature idea to our roadmap.",
+        "date": 1751278269
+      }
+    },
+    {
+      "id": "581881221685503",
+      "score": 5,
+      "review_title": "An amazing, great and highly promising a",
+      "review_description": "The first time I saw this application, it directly ignited my greatest initial intention for purchasing the quest3 - a budget alternative to the Apple vision pro\nYou know, most of us can't afford Apple's vision pro. So I want to simulate and achieve a similar effect through some third-party software.\nFirst, I hope that most of the frames can have the texture of frosted glass like vision pro.\nSecondly, I hope to add an app store similar to one, and be able to customize the software layout of the software bar and the software I need. If it's rather difficult to implement, I think we can first create a replacement version. For instance, we can establish a link to the existing software on the device and open it directly. This is actually a good alternative solution.\nThirdly, immersive environments can have more realistic elements or add customizable sky boxes that allow users to achieve their own customization\nFourth, it is hoped that the spatial video in the album application can be optimized to approach the ui interface like vision pro\nIf the above functions can be updated or a budget version solution can be adopted, then this software will enable quest3 to experience 99% of the functions of vision pro at one-tenth of the price. Zhejiang is destined to be a great project. Science and technology are not aloof; they serve the people! Come on, developers!",
+      "date": 1747216240,
+      "review_helpful_count": 1,
+      "author_display_name": "wukaifei1029",
+      "author_alias": "wukaifei1029",
+      "developer_response": null
+    },
+    {
+      "id": "619402164594507",
+      "score": 5,
+      "review_title": "Worth it for sure",
+      "review_description": "The UI is really clean and so are the windows. The sticky notes, clock ect are a nice touch and the new environments seems really sharp and nice. I surprise myself on how much i use this app than the main quest windows. I was able to get it on sale for 7 which is even better.",
+      "date": 1747251927,
+      "review_helpful_count": 1,
+      "author_display_name": "nuttsonyafaze",
+      "author_alias": "nuttsonyafaze",
+      "developer_response": null
+    },
+    {
+      "id": "604607366075189",
+      "score": 4,
+      "review_title": "Very nice",
+      "review_description": "It is a really cool application, if you shearch something I tested many others applications but this one is the best with not the more active community but you still have one and they trie their best to develop the app because it is an alpha app and they are always adding uptades like the latest one is adding different lights in function of your videos when your are in cinema mode because yes their is one. So it is a bit expensive but still definitely worth the price for an OS like that.😊",
+      "date": 1745354141,
+      "review_helpful_count": 2,
+      "author_display_name": "Undersc0re",
+      "author_alias": "Undersc0re",
+      "developer_response": null
+    },
+    {
+      "id": "632169569977552",
+      "score": 4,
+      "review_title": "Meta Backup bug and constant loading",
+      "review_description": "The app is really cool! I liked it. But the issue with backup bug really got me and I deleted it. Hope developers will fix it, it’s really annoying. When you first download app, and without using it you go to settings and do the backup in Meta Quest cloud – than backup is ok. It works out just fine. And you can after turn off your headset without troubles. But if you actually used the app and you opened several apps within it and logged in, when you exit it and want to make backup of the app you face trouble. It crushes and writes that “The backup for the Spatial App was too large and could not be uploaded”. But there actually only 11,6 kB! You think ok, fine, I can live without backup, and go to turn off your headset. But no! When you turn off the headset it writes that the updates for your apps are currently downloading and you can’t turn off your headset (you can force it though anyway, but the problem with notification stays). And so I tried to leave my headset for a whole day so it could upload this miserable update (that actually backup) for the Spatial App, but it never worked. It was lasting forever, just bug. It stuck. I tried to reload and other many stuff but it didn’t fix the problem. I was delaying app three times and downloading it back, and every time the same thing. But as soon as I delete app —  the problem miraculously solves and I can turn off the headset like before without it stopping me and saying that “updates are currently trying to be uploaded”. The problem was exactly in this app (when you already worked within it and did some log ins in provided apps and services, if not – it’s fine), not others. So yeah the app really conflicts with Meta backup stuff (at least for me,  I persistently were trying to fix it, because I liked the app so much, but unfortunately I didn’t succeed).",
+      "date": 1744311750,
+      "review_helpful_count": 2,
+      "author_display_name": "Lizyndrik_lynx",
+      "author_alias": "Lizyndrik_lynx",
+      "developer_response": null
+    },
+    {
+      "id": "659492203917716",
+      "score": 1,
+      "review_title": "Does nothing",
+      "review_description": "All I get is a blank screen and a white thingy around my fingers. Doesn’t appear to do anything at all. I can’t even exit the app. \n\nUseless.",
+      "date": 1748583968,
+      "review_helpful_count": 0,
+      "author_display_name": "UselessDetails",
+      "author_alias": "UselessDetails",
+      "developer_response": null
+    },
+    {
+      "id": "679535088576862",
+      "score": 4,
+      "review_title": "Spatial app",
+      "review_description": "Apple TV does not let me view my library and I hope we get iOS 26 update. Love everything else about the app.",
+      "date": 1749696912,
+      "review_helpful_count": 0,
+      "author_display_name": "Gilpint",
+      "author_alias": "Gilpint",
+      "developer_response": null
+    },
+    {
+      "id": "588825460652319",
+      "score": 5,
+      "review_title": "Dope, but…",
+      "review_description": "UPDATE: 02/17/25. The latest update is pretty good. The app seems snappier and more responsive . Many fixes to app issues. Can’t wait until we receive new apps, widgets, and or features. All I’ve ever asked for was timely progression and they seem to be on the right track. Thanks developers. It’s appreciated.\n\n\nUPDATE: 02/05/2025.  ￼It may be time to cut m￼y losses with this app. ￼When I first bought my Quest this and 5 or 6 o￼ther productivity apps were my first downloads. At the time, this was one of the most impressive apps I’ve ever tried and thought bad reviews weren’t being fair . After all, it was only $10. Now, 6 or 7 months later, this app performs the worst of all those original apps. The other app teams not only implement updates to fix issues but also add new features . Somehow, nothing has seemingly improved on this app. Only promises. I’m not mad but beyond disappointed. I’ll probably just uninstall it so I don’t waste my time opening it to check for updates. Dang. This sux.\n\nUPDATE: 01/12/2025.  I know things take time and seen one of the developers mentioned they are working on the next update and haven't forgotten about us.  That said,  I can't get my bluetooth keyboard to work with this app.  Never has.  I want this to be my go-to app SOOOOO bad but it lacks a some key features.  That said, Rome wasn't built in a day and I'm rooting for you to make this the best app on the Meta Q3.\n\nI really enjoy this app and for $10, I think it’s awesome. The only thing I hope gets added is the ability to add or take away apps. Some of the apps on it I don’t use and wish I could replace them with other ones. Also, it’ll be nice to rearrange apps to your liking.",
+      "date": 1739848999,
+      "review_helpful_count": 15,
+      "author_display_name": "K.Bumble",
+      "author_alias": "K.Bumble",
+      "developer_response": null
+    },
+    {
+      "id": "632456059303928",
+      "score": 5,
+      "review_title": "It has improved",
+      "review_description": "When I first bought this app, I was disappointed in the multiple bugs it had; however, since then, it has improved a lot. A good amount of small bugs have also been fixed, and the app does work very well; however, I do have feedback for the devs. For some reason, when you click the search button on the side of the Disney+ app, it takes you to a “page not found” screen, but besides that, it works really well. It would be nice to have some more customization, maybe allow people to re-arrange apps. It would also be nice if there was an App Store, where people could toggle on and off what supported apps they want on their Home Screen, so there would not be any unused apps cluttering the Home Screen. However, I do fell that this is a very useful app, and besides more customization and one or two bug fixes, the app is almost perfect.",
+      "date": 1737434049,
+      "review_helpful_count": 53,
+      "author_display_name": "Zach62910",
+      "author_alias": "Zach62910",
+      "developer_response": {
+        "body": "Hi! Thank you for your feedback. We added the bug to our list, and the re-arrange is on our roadmap! If you want to get casual development updates join our discord server!",
+        "date": 1738844130
+      }
+    },
+    {
+      "id": "661470380039438",
+      "score": 3,
+      "review_title": "HBO Max doesn't work",
+      "review_description": "Can anybody help it says browser is not supported?",
+      "date": 1747747520,
+      "review_helpful_count": 1,
+      "author_display_name": "Torbjorn76",
+      "author_alias": "Torbjorn76",
+      "developer_response": {
+        "body": "Hi there! We'll look into this issue. If you want instant update please join our Discord. The link to it is found on www.thespatial.app",
+        "date": 1747818126
+      }
+    },
+    {
+      "id": "745589918630267",
+      "score": 5,
+      "review_title": "Amazing but needs a few things",
+      "review_description": "First off the keyboard is really buggy so I don’t know if you can fix it though.\n\nNext please add a password manger app.\n\nAlso please Bluesky as app.\n\nThis game is amazing keep updating it!\n\nplease add a wether app.",
+      "date": 1753142510,
+      "review_helpful_count": 0,
+      "author_display_name": "Po.20",
+      "author_alias": "Po.20",
+      "developer_response": {
+        "body": "Hey! Thank you for the feedback, we will try to include everything in the long run!",
+        "date": 1753358109
+      }
+    },
+    {
+      "id": "702871395587427",
+      "score": 5,
+      "review_title": "This is the only app I use",
+      "review_description": "This is the only app I use to watch series and movies the immersion you have here nowhere esle you get it! all dark and the colours around the screen is unbeliveble.",
+      "date": 1743966267,
+      "review_helpful_count": 2,
+      "author_display_name": "LazyGab",
+      "author_alias": "LazyGab",
+      "developer_response": null
+    },
+    {
+      "id": "652168130857755",
+      "score": 5,
+      "review_title": "Love it just one thing",
+      "review_description": "I’m trying to log into TikTok and it just won’t work it keeps saying maximum number of attempts try again later \nI’ve waited 24 hours and still not working",
+      "date": 1745283778,
+      "review_helpful_count": 0,
+      "author_display_name": "ikball7",
+      "author_alias": "ikball7",
+      "developer_response": {
+        "body": "Hi there! We'll investigate this issue. Join our discord if you haven't yet through our website www.thespatial.app",
+        "date": 1747820110
+      }
+    },
+    {
+      "id": "618942550818622",
+      "score": 3,
+      "review_title": "Great first attempt.",
+      "review_description": "I love the UI, but there a few things that need working on. Have Remote Desktop connect to my Mac instead of just working with PC’s, let me grab and stretch a window from any point, not just via a small bar at the bottom, and fix the YouTube app so it works and is supported. It would also be nice if the windows didn’t open on top of previous ones.",
+      "date": 1738420093,
+      "review_helpful_count": 10,
+      "author_display_name": "Zedd1988",
+      "author_alias": "Zedd1988",
+      "developer_response": {
+        "body": "Hey there, thanks for the feedback!\n\nWe are working on fixes for the current YouTube (and Google) login issues, releasing next week.\n\nFor the Remote Desktop we recommend Google Remote Desktop for now as our offering is currently in Alpha testing.",
+        "date": 1739474446
+      }
+    },
+    {
+      "id": "544708682060753",
+      "score": 4,
+      "review_title": "To consider in the next update",
+      "review_description": "1. The keyboard shortcuts don’t add in\n2. I get a security alert when using the web browser, YouTube app this alert says Google does not support the browser \n3.  The keyboard does not have a swipe function.\n4. Weather app would be amazing \n5.  When you open a new window it overlaps on top of another app, tilting would be better.\n6. Include the ability to move the window from the top bar as well as the bottom. \n7. Refine the Remote Desktop to work with Mac as well as windows   \n\nOverall there is some amazing potential for this app to awesome.  \nIt’s an amazing first attempt, hence HWB I purchased it as would love to see it progress to the next level",
+      "date": 1737316865,
+      "review_helpful_count": 16,
+      "author_display_name": "OBIONE72",
+      "author_alias": "OBIONE72",
+      "developer_response": null
+    },
+    {
+      "id": "510730678799779",
+      "score": 5,
+      "review_title": "Awesome 🤩",
+      "review_description": "This app offers better multitasking than the default Quest menu! Now I can listen to YouTube Music while using ChatGPT, browsing the internet, and enjoying other apps seamlessly.",
+      "date": 1740792635,
+      "review_helpful_count": 7,
+      "author_display_name": "Don.101",
+      "author_alias": "Don.101",
+      "developer_response": null
+    },
+    {
+      "id": "677036365269552",
+      "score": 4,
+      "review_title": "Lot’s of potential",
+      "review_description": "Recently purchased the app. This has a lot of potential and I look forward to more updates, including the ability to install apps and remove the ones not used.",
+      "date": 1743730055,
+      "review_helpful_count": 0,
+      "author_display_name": "KetoneTemplar",
+      "author_alias": "KetoneTemplar",
+      "developer_response": null
+    },
+    {
+      "id": "1001610812064137",
+      "score": 4,
+      "review_title": "Awesome app with one caveat",
+      "review_description": "I love this app. Great design and it's quite intuitive. There's just one major issue...it's a massive battery drainer.",
+      "date": 1741659149,
+      "review_helpful_count": 3,
+      "author_display_name": "MechaCMK",
+      "author_alias": "MechaCMK",
+      "developer_response": null
+    },
+    {
+      "id": "495130653690702",
+      "score": 3,
+      "review_title": "Apple TV app doesn’t work",
+      "review_description": "I tried to play any Apple TV show thru this app, but it always give me an error message. So it doesn’t work for me for Apple TV app. Amazon Prime, Apple Music seems to work",
+      "date": 1736597351,
+      "review_helpful_count": 7,
+      "author_display_name": "JackyWong",
+      "author_alias": "JackyWong",
+      "developer_response": null
+    },
+    {
+      "id": "520133231192473",
+      "score": 1,
+      "review_title": "I can’t login to anything",
+      "review_description": "I love the app idea. However, I want to be able to login to my apps such as YouTube, Spotify, etc… but it won’t save. It says try again and just makes me retype",
+      "date": 1739317012,
+      "review_helpful_count": 1,
+      "author_display_name": "Shanemardi",
+      "author_alias": "Shanemardi",
+      "developer_response": {
+        "body": "Hey there! We are sorry about your issue. We'll release an update next week including fixes to login. Stay tuned!",
+        "date": 1739472702
+      }
+    },
+    {
+      "id": "495404893662332",
+      "score": 1,
+      "review_title": "developers dont do anything anymore",
+      "review_description": "abandoned app sadly...",
+      "date": 1734914071,
+      "review_helpful_count": 13,
+      "author_display_name": "Gabana44",
+      "author_alias": "Gabana44",
+      "developer_response": {
+        "body": "Hey there! Since 2024 this review has been made irrelevant due to us releasing features like: Color matching backlight, My apps, the Grasslands 3D environment, and more.",
+        "date": 1747819251
+      }
+    },
+    {
+      "id": "1133542921463442",
+      "score": 1,
+      "review_title": "Keyboard does not load web keyboard",
+      "review_description": "Keyboard does not work. It looks like the keyboard is not loaded with the app package but rather pulled from the web when you use the app. When you open the keyboard keep getting a message that the website for the keyboard has an error and could not load. \nCan’t write at all due to this issue. Unable to sign in or do anything that requires text input",
+      "date": 1729468399,
+      "review_helpful_count": 0,
+      "author_display_name": "Ferchis1",
+      "author_alias": "Ferchis1",
+      "developer_response": {
+        "body": "Hi. We encountered an issue with our cloud service. It should be okay now!",
+        "date": 1729667412
+      }
+    },
+    {
+      "id": "497858050067618",
+      "score": 1,
+      "review_title": "Don’t waste $10",
+      "review_description": "Although the developers have tried really hard to come up with a feel of Vision Pro, but the app miserably fails. Lot of glitches , keyboard doesn’t work . Drains battery really fast",
+      "date": 1730568087,
+      "review_helpful_count": 2,
+      "author_display_name": "alio.kind",
+      "author_alias": "alio.kind",
+      "developer_response": null
+    },
+    {
+      "id": "448252895035328",
+      "score": 2,
+      "review_title": "Virtual keyboard does not load",
+      "review_description": "Spent a couple of hours trying to get the keyboard to load. Looked on google and cannot find any support for this app. The website on the meta page does not load.\n\nWhen I open the virtual keyboard, it shows a white screen and it says Web page not available the web page at web address...... could not be loaded because ERR_CONNECTION_REFUSED\n\nNot been able to test the app at all as I have spent all my time since downloading, trying to get this keyboard to work.",
+      "date": 1728493665,
+      "review_helpful_count": 0,
+      "author_display_name": "Chesterflaps",
+      "author_alias": "Chesterflaps",
+      "developer_response": {
+        "body": "Hey! Can you reach out to us trough discord so we can take a look into this issue?",
+        "date": 1729077491
+      }
+    },
+    {
+      "id": "3872444676300365",
+      "score": 1,
+      "review_title": "Keyboard doesn’t work, same for widgets",
+      "review_description": "Keyboard opens a browser window that give an ssl error.\nAnd all widgets, open a small window to heroku with the message: Nothing to see here.\n\nSo in it’s current state the app is absolutely unusable. \nUseless and a waste of money",
+      "date": 1729465390,
+      "review_helpful_count": 0,
+      "author_display_name": "TattlingElk",
+      "author_alias": "TattlingElk",
+      "developer_response": {
+        "body": "Hi. We encountered an issue with our cloud service. It should be okay now!",
+        "date": 1729667422
+      }
+    },
+    {
+      "id": "433070843212771",
+      "score": 3,
+      "review_title": "Urgent updates",
+      "review_description": "Very good application but I have complaints. I would like to see the browser which is opening the accesses to the “apps” updated because many accesses say they do not support the current browser, such as Twitch for example that I cannot enter the section because the browser does not support it. I would also like to be able to see browser options in the settings, such as saved passwords, history and so on. This must be an urgent update because the slowness when opening the “apps” is noticeable.",
+      "date": 1723866099,
+      "review_helpful_count": 8,
+      "author_display_name": "Emilioupari",
+      "author_alias": "Emilioupari",
+      "developer_response": null
+    },
+    {
+      "id": "507197132468883",
+      "score": 1,
+      "review_title": "I cant login to YouTube",
+      "review_description": "It's showing error",
+      "date": 1730981327,
+      "review_helpful_count": 0,
+      "author_display_name": "Juancho2023",
+      "author_alias": "Juancho2023",
+      "developer_response": {
+        "body": "Hi! You can bypass the compatibility issues with google login if you enable the 'Request desktop site' from the settings!",
+        "date": 1731063561
+      }
+    },
+    {
+      "id": "386419107887749",
+      "score": 3,
+      "review_title": "buggy",
+      "review_description": "Keep experiencing this bug where whenever I open the app, Instagram automatically pops up and I can’t interact with it nor close the tab. Also a tiktok window automatically opens which is super tiny and also impossible to interact with. Would be cool if there was a button to force quit all open windows while in the app.",
+      "date": 1723789933,
+      "review_helpful_count": 5,
+      "author_display_name": "travisbordner",
+      "author_alias": "travisbordner",
+      "developer_response": null
+    },
+    {
+      "id": "8170072009726911",
+      "score": 5,
+      "review_title": "It’s excellent but could be better!",
+      "review_description": "I was skeptical when I purchased this because Meta is already pushing their user interface to be more like Apple interface. Meta demonstrated their plans at last year’s conference; long before Apple’s was introduced to the world. This app holds a huge amount of potential as it currently works pretty well and is currently a home run but it has its bugs. I’m guessing it will get better as long as we, the users, report bugs as we see them and make recommendations for enhancements.\n\nPersonally, I loved that I could open up multiple windows, put up a lot of google windows (email, photos, YouTube), close the app, re open it and see everything in its place again! Bravo!!!\n\nI would like to see the browser support all major streaming apps... And/Or I would like to be able to use Meta’s browse because it already supports Netflix, HBO Max, Airlines in house movies and much more. The Google browser is nice but I wasn’t able to log into Netflix so it clearly has a ways to go.\n\nProbably the best feature of this app is its persistence. Setup a bunch of windows, close the app, re open it and everything returns to where you had them… Bravo!!! Meta doesn’t have that!!! Personally, I would love to be able to name my setup, save multiple configurations and re load from a list, but I’m very happy having at least one persistent interface!!! \n\nI’m hopeful development will continue and I will be recommending to friends.\n\nP.S. The interface is so immersive that I was starting to worry about how much time I was spending in it. After a bit of digging I finally realized that the app has widgets with both a clock and a timer widget so I planted one of each within my field of view. Bravo again!!! Very nice attention to detail and your users’ needs! \n\nP.S.2 I was happy to see Twitch as an option, I was able to use Twitch, but I wasn’t able to log into my account. Hopefully the developers test all apps by logging out and logging back in (manually not via save) because users should be able to log into anything you include in your interface.\n\nP.S.3 After playing with the app a bit I realized that I’d like to be able to rotate my view to place a different screen in front of me. I eventually realized that sliding the thumb stick to the left did exactly that. Unfortunately, it jumps 45 degrees at a time, this amount isn’t user configurable and there isn’t a slide right to counter it (so a full 360 takes 8 clicks). I would really like a finer amount of control (perhaps a drag or user defined) and the ability to adjust in either direction. Regardless, this is a great feature and a good start!",
+      "date": 1724265292,
+      "review_helpful_count": 13,
+      "author_display_name": "Robear777",
+      "author_alias": "Robear777",
+      "developer_response": null
+    },
+    {
+      "id": "390461614152481",
+      "score": 1,
+      "review_title": "Filled with glitches!!!",
+      "review_description": "Glitched and crashed often for me. I was hoping for an experience like what I had with Apple Vision Pro and it wasn't even close. I love my Quest 3, but I didn't need this App and wish I hadn't purchased it!",
+      "date": 1723618803,
+      "review_helpful_count": 2,
+      "author_display_name": "Gary.7777",
+      "author_alias": "Gary.7777",
+      "developer_response": {
+        "body": "Hi Gary! Thank you for your feedback. We are trying to fix everything you guys experience. You can report these glitches trough discord!",
+        "date": 1723705399
+      }
+    },
+    {
+      "id": "438086982711199",
+      "score": 3,
+      "review_title": "It’s good",
+      "review_description": "It’s really good just i can’t use my google to login to my TikTok, hand tracking also is a little buggy, but on the home it works perfectly fine",
+      "date": 1724963666,
+      "review_helpful_count": 0,
+      "author_display_name": "DEXO_edits",
+      "author_alias": "DEXO_edits",
+      "developer_response": null
+    },
+    {
+      "id": "978588377605540",
+      "score": 5,
+      "review_title": "Great App with one big BUT!",
+      "review_description": "Love this app. Gives you the same effect as the Vision Pro costing $3000 less. After using it for 2 days and logging into my email, Amazon, Google, and Apple accounts, I realized I just gave away the keys to my kingdom.  Can the developers or anyone else see my passwords? Where are they stored to log back in each time? Until I get an answer for this my use of this app will be minimal.",
+      "date": 1718556621,
+      "review_helpful_count": 20,
+      "author_display_name": "Saw_Dust01",
+      "author_alias": "Saw_Dust01",
+      "developer_response": null
+    },
+    {
+      "id": "1240992873921517",
+      "score": 1,
+      "review_title": "Will not load some app pages",
+      "review_description": "Will not load some web pages, type keys sometimes skip, will not recommend, do not buy.",
+      "date": 1723005333,
+      "review_helpful_count": 0,
+      "author_display_name": "marklck",
+      "author_alias": "marklck",
+      "developer_response": {
+        "body": "Thank you for your feedback. If you can provide some feedback on discrod, we can check out what can be the issue!",
+        "date": 1723034561
+      }
+    },
+    {
+      "id": "415675651620750",
+      "score": 4,
+      "review_title": "Amazing app but has 3 issues",
+      "review_description": "The app overall is amazing. The interface is flawless and it really does stand out from anything else out there but…… 2 issues-\n1) Everytime I connect my wireless AirPods and use the Spacial app, the sound is choppy and buggy, there’s is definitely a bug there somewhere. I disconnect the headphones and it’s back to normal. This only happens in the app and does not occur in the native quest browser or any other app. Because if this I can’t watch video in public places using the Quest. \n\n2) I wish there was a way to bookmark a website and then add it to the App Library. Or even move the apps around in different locations in the library. \n\n3) Need an airplane mode where the things remain stationary and the apps just don’t fall back somewhere in the air. \n\nOther than that, it’s good work honestly. I love the app.",
+      "date": 1722461881,
+      "review_helpful_count": 1,
+      "author_display_name": "DannyP22",
+      "author_alias": "DannyP22",
+      "developer_response": null
+    },
+    {
+      "id": "364268980095757",
+      "score": 1,
+      "review_title": "YouTube can only play upto 360p",
+      "review_description": "I have meta quest 3, in the spatial app, YouTube app is only able to play 360p there is no option to increase quality more than 360p",
+      "date": 1718548653,
+      "review_helpful_count": 5,
+      "author_display_name": "Bindassdrravi",
+      "author_alias": "Bindassdrravi",
+      "developer_response": null
+    },
+    {
+      "id": "446360114646459",
+      "score": 2,
+      "review_title": "Error logging into website",
+      "review_description": "Bought the app after watching a review of it on YouTube and thought it was a fantastic idea. I knew it is in the beginning phase, but I wanted to support it and so I picked up the app. Very nice as I expected, but I found out after a few minutes of exploring that the website is not accessible. The Faq in the headset also has a connection error. I tried to join their Discord and also found that It is down. Any update will be appreciated. 2 stars for now and will update.",
+      "date": 1716149289,
+      "review_helpful_count": 3,
+      "author_display_name": "FettyHustle707",
+      "author_alias": "FettyHustle707",
+      "developer_response": {
+        "body": "Hi!\n\nThank you for the feedback! I will reach out to you on discord to check out this issue!",
+        "date": 1716193520
+      }
+    },
+    {
+      "id": "332513843274732",
+      "score": 3,
+      "review_title": "Potential here",
+      "review_description": "It looks really good, everything is on there (app wise) however I would like the ability to delete apps that I don't intend to use. One massive issue I seem to be getting which is really putting me off from using it is that I keep getting black screen tearing? It's literally stopping me from using it, which is a massive shame as it looks so good. It seems to go back to normal when I restart the headset but I don't want to keep doing that just to use one app.",
+      "date": 1715455721,
+      "review_helpful_count": 5,
+      "author_display_name": "LongJohnJelly",
+      "author_alias": "LongJohnJelly",
+      "developer_response": {
+        "body": "Thanks for the feedback! We will check what the issue can be. If you can provide us some more information trough our discord that would be super helpful!",
+        "date": 1715592062
+      }
+    },
+    {
+      "id": "296590046879905",
+      "score": 3,
+      "review_title": "Nice ui but poor functionality",
+      "review_description": "First of all, it’s dedicated app, not launcher. \n\nThis app contains bookmarks for browser and some widgets. \n\nIt looks great, but you can’t use it daily. Better to use default meta launcher and multi-window functionality for default browser.\n\nIt is nice toy, not feature.",
+      "date": 1717422163,
+      "review_helpful_count": 3,
+      "author_display_name": "arxalex",
+      "author_alias": "arxalex",
+      "developer_response": null
+    },
+    {
+      "id": "440268171951423",
+      "score": 4,
+      "review_title": "Hmm okay so",
+      "review_description": "Okay so this app is great so far. It was hard for me to access some of the app at first cause the keyboard didn't just pop up. When I clicked to text screen. I had to open it which was fine. I have and Android. I do have and old apple account which use for apple tv. But I do wish this app was more Android based. Apple already has a medium for there vr/ar. Goggles. This quest and I want something you can only get on the quest or threw and Android based system. The hand tracking was a little laggy but maybe cause I on quest 2. The remote desktop was kinda cool. It take a little getting use to though. I've on used a vison pro once. I held my attention for like 2 hour then I was like okay what now. Now I used my quest through the pandemic. I was able to chop it up with my friends who had a head set too.. not really into the online meeting people. This app is dope but don't make look like apples stuff let make something that puts apple to shame and show what the quest is capable of. That's all I have say for now!!!",
+      "date": 1716601058,
+      "review_helpful_count": 1,
+      "author_display_name": "D3V3LON",
+      "author_alias": "D3V3LON",
+      "developer_response": null
+    },
+    {
+      "id": "430658446443173",
+      "score": 5,
+      "review_title": "This should be Default OS for Quest 3!!",
+      "review_description": "Great work team, this should be default OS of meta quest. Not sure what meta developers are doing, their progress is too slow. 100% worth the purchase. You guys nailed it! Can’t wait for Immersive Environments!",
+      "date": 1717863954,
+      "review_helpful_count": 1,
+      "author_display_name": "bhavsec",
+      "author_alias": "bhavsec",
+      "developer_response": null
+    },
+    {
+      "id": "340016302523646",
+      "score": 4,
+      "review_title": "Very cool app",
+      "review_description": "Yo, the app is cool but the twitch login and twitch interactions doesn't work. I'm counting on fixing that problem in the next update and when I would find any more bugs i will report it to u. U done a great job making this app. I appreciate it",
+      "date": 1717148025,
+      "review_helpful_count": 0,
+      "author_display_name": "Tsuakashi",
+      "author_alias": "Tsuakashi",
+      "developer_response": null
+    },
+    {
+      "id": "297209853467927",
+      "score": 5,
+      "review_title": "The best potential for productivity 🚀",
+      "review_description": "Must try.\n\nThis is the first productivity app that behaves in a really fluid and intuitive way. All other competitors out there are janky and just not beautiful to look at - while spatial basically brings the Apple Vision Pro feeling to your Quest.\n\nI'm using this almost daily for work. I'm hoping for more supported apps (like Slack or Discord) but what you don't have natively, you can just open in the browser. I can't wait to see where this app evolves in the future.",
+      "date": 1712764454,
+      "review_helpful_count": 25,
+      "author_display_name": "Hargrey",
+      "author_alias": "Hargrey",
+      "developer_response": null
+    },
+    {
+      "id": "415580611293269",
+      "score": 5,
+      "review_title": "Meta UI Game Changer",
+      "review_description": "The Spatial App has exceeded my expectations in several key areas. Here is the run down;\n\nUser Interface (UI): The Ul is solid, intuitive, and user-friendly. It's easy to navigate, very smooth and responsive.\n\nFlexibility: One of the standout features is the flexibility and customization. The app allows extensive customization, spatial anchoring and persistence of different apps and widgets enabling for specific needs and preferences to be met.\n\nVisuals: The animations of icons, apps and widgets are exceptionally clear and vivid! Every detail is rendered beautifully, which enhances the overall aesthetic and premium feel it gives.\n\nWidgets: The inclusion of widgets was a huge delightful surprise! They make essential information readily available at a glance.\n\nThe Spatial App on Quest 3 is a powerful tool that combines a robust Ul, vivid animations, and a high degree of customizability, making it a must-have for Quest 3 users. \n\nAspects needing improvements: \n- Keyboard voice type support\n- Browser folders for organizing marked pages\n- Twitch App didn't work at all\n- Support curved screens\n- More menu customization \n- More widgets\n- Smoother video streaming for movie and TV show apps\n- Listening to audio via Bluetooth headsets produce popping sounds",
+      "date": 1716323254,
+      "review_helpful_count": 2,
+      "author_display_name": "Aliyakov.Albarackovich",
+      "author_alias": "Aliyakov.Albarackovich",
+      "developer_response": null
+    },
+    {
+      "id": "326592960542443",
+      "score": 5,
+      "review_title": "Great App",
+      "review_description": "Thanks. Should be baked into the os.  Could a function be added to save the desktop layout, widgets and open apps for the next visit?",
+      "date": 1718591680,
+      "review_helpful_count": 0,
+      "author_display_name": "kittenlover_1",
+      "author_alias": "kittenlover_1",
+      "developer_response": null
+    },
+    {
+      "id": "365487679975958",
+      "score": 4,
+      "review_title": "Decent app",
+      "review_description": "Would love to see this in my custom homes!!!!!!!!!!!!!!!  Please add this feature!!!!!",
+      "date": 1718837350,
+      "review_helpful_count": 0,
+      "author_display_name": "xXSM0KEXx",
+      "author_alias": "xXSM0KEXx",
+      "developer_response": null
+    },
+    {
+      "id": "306521489204617",
+      "score": 5,
+      "review_title": "Really great app",
+      "review_description": "If we say that the Meta Quest3 has 60% of the experience of Vision Pro in spatial computing, then this app pushes it to 70%.\n\nIt doesn't have gesture tracking for now, but I hope this will happen in the next version. The window positioning is still a little buggy when you are walking in the room.\n\nIt’s a really great app for me. Keep onward ;)",
+      "date": 1713085379,
+      "review_helpful_count": 16,
+      "author_display_name": "v3nf4n",
+      "author_alias": "v3nf4n",
+      "developer_response": null
+    },
+    {
+      "id": "341188225737818",
+      "score": 5,
+      "review_title": "Can't wait to see what's next!",
+      "review_description": "Really loving this app so far! I love filling my entire room with all of my favorite go-to apps so I can have instant access to them. This is a game changer.",
+      "date": 1716471582,
+      "review_helpful_count": 0,
+      "author_display_name": "RangerRaccoon",
+      "author_alias": "RangerRaccoon",
+      "developer_response": null
+    },
+    {
+      "id": "340272829165499",
+      "score": 2,
+      "review_title": "Disappointing",
+      "review_description": "I feel like I wasted my money.\n\nI appreciate the developers' attempt, but this application will never provide the same experience as the AVPs.\n\nOn Apple TV I cannot change the language of the movie, nor the subtitles. Yes, it is possible to do it in the Disney+ application. But the experience is very limited, it is displayed as in a browser. The same happens with Apple Music, or with the Photos app.",
+      "date": 1716028161,
+      "review_helpful_count": 0,
+      "author_display_name": "fermiogomez",
+      "author_alias": "fermiogomez",
+      "developer_response": null
+    },
+    {
+      "id": "325578650637548",
+      "score": 3,
+      "review_title": "Baterry % fast down",
+      "review_description": "Good app, but baterry % very fast down, uff )",
+      "date": 1716491498,
+      "review_helpful_count": 3,
+      "author_display_name": "patress18",
+      "author_alias": "patress18",
+      "developer_response": null
+    },
+    {
+      "id": "307083952445680",
+      "score": 1,
+      "review_title": "Won’t even start.",
+      "review_description": "Waste of money, won’t even start. Shows start up logo and nothing after that.",
+      "date": 1716583240,
+      "review_helpful_count": 2,
+      "author_display_name": "iamsabigill",
+      "author_alias": "iamsabigill",
+      "developer_response": {
+        "body": "Thank you for your feedback! For the first launch you should be seeing our tutorial. We will check what the issue can be here, and fix it as soon as possible! Nothing works when you click the A button ? For quick responses reach out to us on our Discord!",
+        "date": 1716621963
+      }
+    },
+    {
+      "id": "415921611052549",
+      "score": 4,
+      "review_title": "Great starting point",
+      "review_description": "Love the potential there, but some missing features make it less than ideal \nthe absence of a windows remote desktop is honestly the biggest let down so far, but also the limited app pool (no webapps, just an handful preset in the app itself) and the missing hand occlusion, left controller interaction on the keyboard and hand controls for the screens are pretty big issues so far, nothing that the devs can't fix in the future toh so I'm more than happy to support this!",
+      "date": 1713436223,
+      "review_helpful_count": 0,
+      "author_display_name": "Jay_Cans1",
+      "author_alias": "Jay_Cans1",
+      "developer_response": null
+    },
+    {
+      "id": "311765718683911",
+      "score": 4,
+      "review_title": "Good but not perfect",
+      "review_description": "The app works fairly well most of the time but it can be a bit slow, laggy and buggy. The “apps” are cool but held back by the fact that they are really just websites. I do think this app has a lot of potential but it’s not there yet",
+      "date": 1715193975,
+      "review_helpful_count": 0,
+      "author_display_name": "YeetusTaken",
+      "author_alias": "YeetusTaken",
+      "developer_response": null
+    },
+    {
+      "id": "306596342539294",
+      "score": 1,
+      "review_title": "",
+      "review_description": "It’s not responding to open the applications!",
+      "date": 1715109049,
+      "review_helpful_count": 2,
+      "author_display_name": "Mezmzz",
+      "author_alias": "Mezmzz",
+      "developer_response": {
+        "body": "Hi! We released an update that should fix this issue! If you restart your application it should work fine!",
+        "date": 1715161562
+      }
+    },
+    {
+      "id": "436377155645235",
+      "score": 5,
+      "review_title": "Quest is the better headset, period",
+      "review_description": "Spatial away we go!",
+      "date": 1713371658,
+      "review_helpful_count": 2,
+      "author_display_name": "LunchAndJosh",
+      "author_alias": "LunchAndJosh",
+      "developer_response": null
+    },
+    {
+      "id": "298706399986289",
+      "score": 2,
+      "review_title": "Need more work",
+      "review_description": "Right handed control, really? We need to be able to choose between the left and right hand at the very least 😏\n\nThat app is just a browser, nothing quite different from Reality Browser...",
+      "date": 1713425366,
+      "review_helpful_count": 0,
+      "author_display_name": "Renaud13x6t",
+      "author_alias": "Renaud13x6t",
+      "developer_response": {
+        "body": "Thank you for your feedback. We are already working on the primary hand switch, and we will release it as soon as possible.",
+        "date": 1713426259
+      }
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T07:58:09Z"
+}

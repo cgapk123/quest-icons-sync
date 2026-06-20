@@ -1,0 +1,146 @@
+{
+  "app_id": "2008190295965331",
+  "package_name": "com.galacticcauldron.minesofdoom.arizona1867",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Mines of Doom: Arizona 1867",
+  "rating_average": 4.0666666666667,
+  "rating_count": 15,
+  "review_count": 15,
+  "reviews": [
+    {
+      "id": "3500261986720201",
+      "score": 5,
+      "review_title": "Awesome update!",
+      "review_description": "The new update is awesome! I really love how each character has its own way to play. The new rest area is very cool, they allow you to slow your pace and grind some levels to get more exp and gold before progressing so you can choose your own pace. I hate those spiders, but the caverns are beautiful :D I'm enjoying this game a lot, but it would be really cool to get this game on Quest! Good job!",
+      "date": 1605980992,
+      "review_helpful_count": 4,
+      "author_display_name": "Voormas",
+      "author_alias": "Voormas",
+      "developer_response": {
+        "body": "Thank you for your feedback! We are working on a Quest version, stay tuned!",
+        "date": 1606822860
+      }
+    },
+    {
+      "id": "1006418633204528",
+      "score": 4,
+      "review_title": "Great Rogue Lite game",
+      "review_description": "I have come back to my Go for this game. I’ve been really enjoying it, and wish you guys would make it compatible with the Quest. Excited to see this game develop more. Please keep it up.",
+      "date": 1605541795,
+      "review_helpful_count": 2,
+      "author_display_name": "ARCHMOWiE",
+      "author_alias": "ARCHMOWiE",
+      "developer_response": {
+        "body": "Thank you for your feedback! That's the plan, we hope to have news soon :D Enjoy!",
+        "date": 1605786846
+      }
+    },
+    {
+      "id": "513160509642117",
+      "score": 1,
+      "review_title": "Mines of Doom: 1867",
+      "review_description": "Doesn’t work on Go!",
+      "date": 1604772516,
+      "review_helpful_count": 1,
+      "author_display_name": "JamesConant",
+      "author_alias": "JamesConant",
+      "developer_response": {
+        "body": "Hello James! This game is exclusively for Go, it should work. Maybe the installation was corrupted? Could you try to uninstall and download again? All the games are revised by Oculus before they are published, so I guess there was a problem with the installation or with your device. Greetings!",
+        "date": 1604824552
+      }
+    },
+    {
+      "id": "400535654308738",
+      "score": 3,
+      "review_title": "Rougelike that shows a lot of potential",
+      "review_description": "An early access rougelike that shows a lot of potential to become a really solid game down the road. All the bits and pieces are there and I'm looking forward to seeing how it develops. Gave it a solid 3 for now, with the option to raise the score as it progresses. \n\nI really don't understand the inventory system though. I can't seem to place the items on the cards into any inventory slots, but that's something that's still \"work in progress\" I assume. Anyway, jolly good work!",
+      "date": 1604174889,
+      "review_helpful_count": 2,
+      "author_display_name": "fredrik.back",
+      "author_alias": "fredrik.back",
+      "developer_response": {
+        "body": "Thank you for your feedback! We are working on a guide but it isn't ready yet.\n\n\nYou can pickup a card and release it on your body to pickup the item, then:\n\n\n* if you can't equip it (some shields and armors) it is scrapped and you will get some dollars\n\n\n* if you have a free slot it is equipped (you can equip only 1 of some items like belts or bracers, up to 2 from others like rings or trinkets and you can have up to 4 consumables)\n\n\n* if there are no free slots another item is replaced and the old item is dropped to the ground.\n\nYou can manually remove items by pointing them on the inventory and once it is in your hand releasing the card.\n\n\nTo use potions you need to pickup up it from the ground or inventory, then shake the card to convert it in the real item and finally you need to approach it to your mouth to drink it.\n\n\nThere are quick 3 slots for weapons, left and right thigh for one handed weapons and a back slot for two handed weapons (this one is harder to see ingame because you must grab it over your shoulder, and the gunslinger doesn't have a starter two hands weapon)\n\n\nEnjoy!",
+        "date": 1604314707
+      }
+    },
+    {
+      "id": "369535701414916",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "Fun title, plenty of options",
+      "date": 1629563871,
+      "review_helpful_count": 6,
+      "author_display_name": "rcbridendolph",
+      "author_alias": "rcbridendolph",
+      "developer_response": {
+        "body": "Thank you rcbridendolph! We are finishing an enhanced version for Oculus Quest with more content and new characters, stay tuned!",
+        "date": 1631725278
+      }
+    },
+    {
+      "id": "215331959943459",
+      "score": 2,
+      "review_title": "Newest update has pros and cons.",
+      "review_description": "Previously this game was very high up on my list of games on my oculus go, but then the update came out... while the devs did a fantastic job with the new characters, the mines are now just a cluster of traps that are very hard to avoid, even when using the teleport mode. maybe i am missing something, but i can't take two steps without immediately dying to three traps at once.",
+      "date": 1605754382,
+      "review_helpful_count": 0,
+      "author_display_name": "RMMC_VR",
+      "author_alias": "RMMC_VR",
+      "developer_response": {
+        "body": "Hi MaximusMC_VR! I've just double checked and the traps algorithm hasn't changed, could be a stroke of really bad luck? We have added a new option to reset the dungeon with a new seed, this will change the map, monsters and traps (beware! all the experience, money and items you got on this map will be lost). You can find \"Reset\" at the left side of the inventory book, under \"restart\").",
+        "date": 1605786730
+      }
+    },
+    {
+      "id": "210329120654836",
+      "score": 4,
+      "review_title": "Good game in development",
+      "review_description": "I really enjoy this game, about an hour or so of play time so far. Obviously with it being in early access it has plenty of bugs and glitches. I have encountered an error when trying to access doors it will say that I am in combat when I'm not or even after all the enemies are killed, preventing me from completing the stage. Another thing I'd like to point out is the lack of tutorials, half of the time I'm trying to figure out how to use abilities or what they even do, and not to mention I almost always activate an ability with no clear direction on what it does or how I did it. The game is fun though, even with its bugs I've enjoyed most of the time playing it. All I ask is maybe a \"how to play\" section because even though it's pretty straight forward, some mechanics could use a little explenation, and maybe a co-op mode (wishful thinking, I know) would be kinda neat. I would definitely recommend this game if you're looking to kill time with an fps game.",
+      "date": 1605395728,
+      "review_helpful_count": 4,
+      "author_display_name": "Legit_A7X",
+      "author_alias": "Legit_A7X",
+      "developer_response": {
+        "body": "Thank you for your feedback! We have fixed a lot of bugs and added a new mechanic: \"Escape\", if you are haven't attack or be attacked by any enemy for 20s all encounters will be reset. We have added a simple-text ingame guide (accesible from the selection skill and the inventory book, H marker in the right bottom corner) with a detailed explanation of the mechanics and all class features! Enjoy!",
+        "date": 1605787018
+      }
+    },
+    {
+      "id": "191537249134475",
+      "score": 4,
+      "review_title": "Multiplayer",
+      "review_description": "Make it multiplayer",
+      "date": 1606094991,
+      "review_helpful_count": 1,
+      "author_display_name": "dynamite76",
+      "author_alias": "dynamite76",
+      "developer_response": {
+        "body": "Hi dynamite76! We are considering it, but it isn't in the roadmap at the moment. Enjoy!",
+        "date": 1606823013
+      }
+    },
+    {
+      "id": "177833304055243",
+      "score": 5,
+      "review_title": "Thnk u developer",
+      "review_description": "Nice graphic   good music   beautiful menu , but hard  to play !     Please play it for 15 minutes and put its video in youtube for biginers like me , thank you .",
+      "date": 1607207257,
+      "review_helpful_count": 3,
+      "author_display_name": "massoodbehnood",
+      "author_alias": "massoodbehnood",
+      "developer_response": {
+        "body": "Hi massoodbehnood! we have a video guide planned but It isn't ready yet. We have a guide section on our website (www.minesofdoom.com), there you can find details about each character too. If you have some questions you can contact us via Twitter @GalacticCauldrn too! Thank you for your support!",
+        "date": 1607252338
+      }
+    }
+  ],
+  "total": 9,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T07:55:23Z"
+}
