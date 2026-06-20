@@ -1,0 +1,42 @@
+{
+  "app_id": "3827073997371267",
+  "package_name": "com.senselab.io.spaces.applab",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Senselab Spaces",
+  "rating_average": 3.6,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "424624379946398",
+      "score": 5,
+      "review_title": "Cool Idea!",
+      "review_description": "Looking forward for more content.",
+      "date": 1710947522,
+      "review_helpful_count": 1,
+      "author_display_name": "fleecenode",
+      "author_alias": "fleecenode",
+      "developer_response": null
+    },
+    {
+      "id": "182469050974515",
+      "score": 1,
+      "review_title": "I hate it",
+      "review_description": "It bad",
+      "date": 1664410549,
+      "review_helpful_count": 0,
+      "author_display_name": "SMRFF",
+      "author_alias": "SMRFF",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T23:44:56Z"
+}

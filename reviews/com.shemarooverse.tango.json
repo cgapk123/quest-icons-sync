@@ -1,0 +1,42 @@
+{
+  "app_id": "24713277871682853",
+  "package_name": "com.shemarooverse.tango",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Tango Charlie",
+  "rating_average": 3.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "990342940837268",
+      "score": 5,
+      "review_title": "Great Experience !",
+      "review_description": "This open-world VR game looks fantastic. It truly feels like I’m fully immersed in a war zone as an officer. The experience feels incredibly realistic, and all the interactions are smooth and well-executed.",
+      "date": 1773908751,
+      "review_helpful_count": 2,
+      "author_display_name": "InionVR.CH",
+      "author_alias": "InionVR.CH",
+      "developer_response": null
+    },
+    {
+      "id": "942203098304692",
+      "score": 2,
+      "review_title": "Moche et peu realiste",
+      "review_description": "A ameliorer",
+      "date": 1774178551,
+      "review_helpful_count": 0,
+      "author_display_name": "SamFichier",
+      "author_alias": "SamFichier",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T23:50:08Z"
+}
