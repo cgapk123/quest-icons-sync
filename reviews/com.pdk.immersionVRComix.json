@@ -1,0 +1,76 @@
+{
+  "app_id": "1428450880592282",
+  "package_name": "com.pdk.immersionVRComix",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "immersionVR comix",
+  "rating_average": 2.7272727272727,
+  "rating_count": 11,
+  "review_count": 11,
+  "reviews": [
+    {
+      "id": "2449943471697741",
+      "score": 4,
+      "review_title": "Good app",
+      "review_description": "With the recent update the image quality has been improved, the comics are centered and a bit curved and, definitely, the app has become useful. It's not perfect yet, but it's a first step. . (tested on Oculus Go)",
+      "date": 1527269281,
+      "review_helpful_count": 5,
+      "author_display_name": "altairsound",
+      "author_alias": "altairsound",
+      "developer_response": {
+        "body": "altairsound,\n Appreciate the re-review after the latest update.\n Email us at immersionvr@optusnet.com.au if you have any suggestions that you feel would improve the app.\nCheers",
+        "date": 1527341816
+      }
+    },
+    {
+      "id": "147622969430841",
+      "score": 2,
+      "review_title": "It still needs a lot of work",
+      "review_description": "It does read cbr and cbz files fine.  Importing data is via USB only or downloading from a website into the download folder.  You then have to import the files one at a time by looking at each file for several seconds while the circular progress bar fills up to be sure that is the file you wanted to highlight.  Basically it's really slow and tedious.  If your comic books done have clearly labeled cover art you cannot tell which one is which chapter of which volume.  Sitting alphabetically helps very slightly.  Again you have to gaze at a comic several seconds for it to open a preview to show a zoomed in view of the cover art instead of quick pop ups using the pointer and showing the name of the file as text under the image which would have been fast and convenient.  I am hoping it improves.  It would be nice if it could connect to network drives, ftp, or even ubooquity servers to load files.  It would be good if it groups chapters together in volumes",
+      "date": 1528537805,
+      "review_helpful_count": 4,
+      "author_display_name": "ShawnDevin",
+      "author_alias": "ShawnDevin",
+      "developer_response": {
+        "body": "ShawnDevin,\n  Thanks for your comments.\n  Comics can be also imported by selecting the folder where they are located and then using the Import All icon in the browser footer. This will import all new comics in this directory and any subdirectories as well.\n  Alternatively, if you download comics into the /Comics folder they will be imported automatically into your library when using immersionVR comix next time.\n  \n  Based on your comments, we have made changes to the application so that it now displays the name of the selected comic in the library as well as speeding up comic\nselection to less than a second. \n\n  Note, support for comics using the pdf format will also be available in the next release which is due out in the next couple of weeks.\n  \n  Connection to external servers for download of comics requires changing the application to require permissions to the internet that is currently not required. We are however currently investigating various external sources of comics that may be available in a later version of immersionVR comix.\n  \n  Cheers.\n\n[Update] The latest version has now been released providing comic names on selection, support for PDF, right to left reading for manga and other enhancements",
+        "date": 1529975097
+      }
+    },
+    {
+      "id": "147050789775352",
+      "score": 2,
+      "review_title": "No LAN ftp support",
+      "review_description": "Good in terms of cbr and cbz compatibility, but there is no support for LAN sharing. I don't add my entire comic library onto my Oculus Go, so as to avoid filling up my device storage. I keep my library on my PC in a network-shared folder, so I can access my comics on my other devices on my network by simply using ftp to get whichever one I want. It would be nice if the app could scan ftp folders/drives on the network for comic files.",
+      "date": 1562989010,
+      "review_helpful_count": 1,
+      "author_display_name": "Zaroz",
+      "author_alias": "Zaroz",
+      "developer_response": {
+        "body": "Hi Zaroz - we are working on a few things at the moment and providing network access is on the list. As the Oculus GO is portable and not always connected to a network we would be looking at the option to read over the network or to download to the device and read.",
+        "date": 1581718847
+      }
+    },
+    {
+      "id": "112399076375109",
+      "score": 3,
+      "review_title": "It's not so good for a large collection.",
+      "review_description": "I'm gonna give it 3 stars because in terms of functionality it does what it is supposed to. It takes you ti a peaceful atmosphere where you can read your comics in peace. Now for the downside. If you try to import a big comic library it will freeze up and then freeze again if you try to go back into it. You're left with having to uninstall the program and try importing again. The only solution to trying to import a big folder is to do it one book at a time, which is rather tedious and will drain your battery before you finish it you're using a GearVR. I see that the team here is working on this project so I hope the problem of large libraries is one they fix. A couple of other things that I think could make this app better is the ability to sort your comics by folder like ComiCat does. The ability to use the remote would not be bad either.",
+      "date": 1535061085,
+      "review_helpful_count": 1,
+      "author_display_name": "bill.spears",
+      "author_alias": "bill.spears",
+      "developer_response": {
+        "body": "Robert,\n Appreciate your feedback.\n We have identified an issue with large imports and are currently making changes to overcome the issue. This update should be available in the next few days. \n Could you email us at immersionVR@optusnet.com.au as we have a few questions regarding your specific issue.\n \n The remote controller can be used to control a number of functions within immersionVR comix e.g.when reading, swiping left pages backwards whereas swiping right or clicking the trigger button pages forwards.\n Refer to the website for full details - http://immersionvr-reader.com/faq \n \n Sorting by categories is something we are looking into and is one of a number of improvements we are investigating.\nCheers.",
+        "date": 1535456188
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T20:30:34Z"
+}
