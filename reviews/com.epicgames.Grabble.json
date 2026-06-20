@@ -1,0 +1,56 @@
+{
+  "app_id": "4737808899661568",
+  "package_name": "com.epicgames.Grabble",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Grabble",
+  "rating_average": 4.4285714285714,
+  "rating_count": 7,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "2343450932462506",
+      "score": 5,
+      "review_title": "Very funky music and fairly fun to play,",
+      "review_description": "I suppose. Probably not the best grappler, I dunno. I liked it.",
+      "date": 1654724799,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "182512280781384",
+      "score": 5,
+      "review_title": "Good I guess",
+      "review_description": "(Edit) Ok, after playing this for a while, I think this game is really good! Once you get the hang of how the grapples work, you can be swinging lightspeed. I think there should be more backgrounds and color palettes. It would also be cool if there were better game modes, for instance, one where you have to dodge lethal cubes. Final thing, is the music. I don't like how you can only choose from two different songs.",
+      "date": 1654004256,
+      "review_helpful_count": 1,
+      "author_display_name": "Idonknow4971",
+      "author_alias": "Idonknow4971",
+      "developer_response": {
+        "body": "Thanks for the feedback! ...and for updating your review after playing more! Grabble seems to take a few tries to really get into, but we will be adding a set of tutorial levels soon to help people get up to speed more quickly. We are working on some of the other suggestions that you had and also adding a whole new music system that should add a lot of variety and keep things exciting.",
+        "date": 1654481219
+      }
+    },
+    {
+      "id": "148205647752958",
+      "score": 3,
+      "review_title": "The grabber",
+      "review_description": "I don't get very far I don't know it's me but there's not enough time to grab or the grabber don't work well.  Need a update.",
+      "date": 1657384968,
+      "review_helpful_count": 1,
+      "author_display_name": "vrann42",
+      "author_alias": "vrann42",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:12:39Z"
+}

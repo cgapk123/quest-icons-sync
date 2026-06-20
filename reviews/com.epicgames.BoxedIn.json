@@ -1,0 +1,53 @@
+{
+  "app_id": "6503282986351965",
+  "package_name": "com.epicgames.BoxedIn",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Boxed In",
+  "rating_average": 3.3333333333333,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "948680156136947",
+      "score": 5,
+      "review_title": "Great first level",
+      "review_description": "Looking forward to more",
+      "date": 1680486132,
+      "review_helpful_count": 0,
+      "author_display_name": "Tailslide",
+      "author_alias": "Tailslide",
+      "developer_response": null
+    },
+    {
+      "id": "750156986510170",
+      "score": 1,
+      "review_title": "The worst VR game ever!",
+      "review_description": "The guy who made it is dumb.",
+      "date": 1681512139,
+      "review_helpful_count": 0,
+      "author_display_name": "ChewyThePug",
+      "author_alias": "ChewyThePug",
+      "developer_response": null
+    },
+    {
+      "id": "269156842953354",
+      "score": 4,
+      "review_title": "Lol",
+      "review_description": "Gut",
+      "date": 1713110078,
+      "review_helpful_count": 0,
+      "author_display_name": "paulcool18",
+      "author_alias": "paulcool18",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:12:07Z"
+}

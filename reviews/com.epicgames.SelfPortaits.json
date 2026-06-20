@@ -1,0 +1,42 @@
+{
+  "app_id": "4319278921463739",
+  "package_name": "com.epicgames.SelfPortaits",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Self Portrait",
+  "rating_average": 3.8,
+  "rating_count": 5,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "2343450255795907",
+      "score": 5,
+      "review_title": "Poignant",
+      "review_description": "Not very spooky.",
+      "date": 1654724703,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "333286928910808",
+      "score": 2,
+      "review_title": "Meh",
+      "review_description": "The forms are pretty, but very basic. The movement seems to be an afterthought... very uninspiring.",
+      "date": 1651703745,
+      "review_helpful_count": 2,
+      "author_display_name": "CIDIKUS",
+      "author_alias": "CIDIKUS",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:13:23Z"
+}
