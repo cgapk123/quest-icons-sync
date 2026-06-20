@@ -1,0 +1,67 @@
+{
+  "app_id": "7860400317363640",
+  "package_name": "com.resolve.quest.store",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Resolve BIM VR",
+  "rating_average": 4.2631578947368,
+  "rating_count": 19,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "3455024571461017",
+      "score": 5,
+      "review_title": "Great app for visualizing construction",
+      "review_description": "Very helpful to see structures & details and have the ability to walk around prior to starting a construction project",
+      "date": 1738709747,
+      "review_helpful_count": 5,
+      "author_display_name": "mdemi",
+      "author_alias": "mdemi",
+      "developer_response": null
+    },
+    {
+      "id": "389359457601893",
+      "score": 1,
+      "review_title": "Costs 3x the price of Revit!!!",
+      "review_description": "I was super excited for this app. In the other reviews, you'll see it's a pretty legit experience. And it's free! No brainer vs. Arkio. Then I realized it's only free to use the demo and a single seat is 3x the price of an annual Revit license.\nThis would be a positive review if the price point was around $20/month.\nConsider my brakes pumped.",
+      "date": 1726496769,
+      "review_helpful_count": 25,
+      "author_display_name": "QPKdesign",
+      "author_alias": "QPKdesign",
+      "developer_response": {
+        "body": "Sorry to hear this is out of your budget range!\n\nA few notes: \n\nThe cost of Resolve is not just for a VR viewer app. It covers: a growing integration ecosystem with top BIM platforms, model and issue syncing with CDEs, team management and most importantly... continued development of the most advanced BIM rendering tech for wireless VR headsets like Quest! Other apps require you buy PCs with expensive GPUs to open the files that Resolve can handle on a Quest. Resolve just needs a Quest to run.\n\nAs of 2024 a standard Revit license is $2,910 so a single Resolve license is not 3X the price.\n\nThere are cheaper apps to consider if you're working on small projects with simple designs and budget constraints. We hope those meet your needs!",
+        "date": 1729296696
+      }
+    },
+    {
+      "id": "121933450889992",
+      "score": 5,
+      "review_title": "uh",
+      "review_description": "is it weird that i play this for fun and not because i'm an architect?",
+      "date": 1684664662,
+      "review_helpful_count": 78,
+      "author_display_name": "Stemyyx",
+      "author_alias": "Stemyyx",
+      "developer_response": null
+    },
+    {
+      "id": "426112230193568",
+      "score": 5,
+      "review_title": "Best App for large models so far.",
+      "review_description": "The Algorithm to reduce the geometry does its job very well. So even very big models with every last BIM detail work without stuttering and smooth.",
+      "date": 1715753270,
+      "review_helpful_count": 5,
+      "author_display_name": "VROOM2026",
+      "author_alias": "VROOM2026",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T22:38:54Z"
+}

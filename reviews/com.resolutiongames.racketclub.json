@@ -1,0 +1,960 @@
+{
+  "app_id": "6022041731249559",
+  "package_name": "com.resolutiongames.racketclub",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Racket Club",
+  "rating_average": 4.3,
+  "rating_count": 920,
+  "review_count": 528,
+  "reviews": [
+    {
+      "id": "2011218090276498",
+      "score": 5,
+      "review_title": "5.0+ Pickleball Player..This is LEGIT",
+      "review_description": "Played college tennis and a 5.0 pickleball player and this is the most realistic racket game I’ve ever played.  They nailed the swing mechanics and movements.  Bought a VR pickleball paddle accessory and it makes it even more realistic.  The game recognizes quick in the moment grip changes, can hit topspin, slice, etc.  it’s absolutely nuts how realistic this game is.  My only 2 wishes:\n1) Make tournament mode for pickleball!\n2) ditch the need to drop the ball with the other controller…Simply utilize hand tracking to drop the ball…that way, you can  put two hands on the racket (if you’re using an accessory) to make it even more realistic.",
+      "date": 1775514374,
+      "review_helpful_count": 26,
+      "author_display_name": "VRinTexas",
+      "author_alias": "VRinTexas",
+      "developer_response": {
+        "body": "Thank for taking the time.\n\nOur previous test with mixed mode (hand tracking for one hand and controller for the other) showed unviable performance and battery drain from the hand tracking, but we can try again!",
+        "date": 1775666772
+      }
+    },
+    {
+      "id": "1138294546025398",
+      "score": 4,
+      "review_title": "Uneven",
+      "review_description": "I’ve been playing tennis and ping-pong my entire life and I realize in order to play on a real tennis court. You’d need an open space the size of at least half a tennis court to play it on which is not realistic They did a good job melding racquetball, and tennis together. My issue is the table tennis, which I can never seem to find anyone to play against and you can’t play against AI.   ￼",
+      "date": 1777426097,
+      "review_helpful_count": 4,
+      "author_display_name": "CharlesNYN0",
+      "author_alias": "CharlesNYN0",
+      "developer_response": null
+    },
+    {
+      "id": "969332222275219",
+      "score": 1,
+      "review_title": "Bad Physicals",
+      "review_description": "The game's been out for a while and fundamental problems still haven't been fixed. The AI ​​is terrible. The physics are awful. Wii games were better 20 years ago. The AI ​​opponent can hit impossible shots by simply swinging the racket through their body.",
+      "date": 1774849011,
+      "review_helpful_count": 5,
+      "author_display_name": "padlord",
+      "author_alias": "padlord",
+      "developer_response": null
+    },
+    {
+      "id": "1102530816269252",
+      "score": 4,
+      "review_title": "T-1000 bots",
+      "review_description": "I've played this game for a couple days now on horizon+. First off it looks really cool and has a lot going on with it that is really fresh, intriguing and works well! It accommodates for your playspace as best it can and has a great world to it. The physics seem to work pretty well too! I love all that, so it has a great foundation. I'm sure playing against others is great! But I'm trying to get in to it and play in my own time to practise against bots...and there is the problem. These elite magical bots!\n\nI mean, i selected the easiest option. But these AI opponents are insane even at that difficulty. I have played about 100 games in the last couple days and I haven't been able to win a single one. The frustration has defeated my stubbornness at this point.\nNot only are the bots good, they are incredible with the best precision and power for every single hit. They just have random glitches occasionally where they are so determined to hit the ball that they end up helping you out. But for the most part, laser focus and they return every hit perfectly. While I'm scrambling around and struggling to react, they are on it! The only way I can hope to make a point against them is if I manage to do a perfect shot in the very corner that glitches them out somehow, or if I do some wild shot that shouldn't really work. I really don't know how people are beating them. I'm no pro, but I set it to easy I thought.\nPlus, they don't just hit the ball well, they literally contort their arms in some monstrous fashion, spinning their arm around effortlessly or going through their own body! I hit a power shot that bounces off the back wall at such a speed and they look me square in the eye, not checking the ball at all, calmly twist their arm behind their back and bust trough their chest like a xenomorph, matching the ball off the back wall and hitting it accurately back at me! How?! This shows how dangerous the AI uprising will be. Sometimes it throws me off with their expression when they do this and makes me burst out laughing. But I hate it. It's ridiculous. It gets me really mad. I keep telling all the characters to be quiet. Even the coach comes along with a pep talk after a match and I literally say out loud \"I don't wanna hear it!\" While skipping every conversation. This is such a cool game but the AI is preposterous! You guys need to address this. If you do then I would buy this game straight up! Make it fair. I would encourage friends to buy it, they come round and we play it. But those bots anger me so much. Anyone who manages to beat them, I salute you! But I can't keep playing it with those bots. I'm sorry, I want to support VR games as much as possible, I understand the hard work and everything. I want to leave good reviews. But man. Sorry.",
+      "date": 1775643093,
+      "review_helpful_count": 2,
+      "author_display_name": "H_Bomb_MB",
+      "author_alias": "H_Bomb_MB",
+      "developer_response": null
+    },
+    {
+      "id": "1084249551435321",
+      "score": 1,
+      "review_title": "Garbage",
+      "review_description": "I may not be the best player but this game is\nawful it has rules that only apply to the player and not the Ai and you cant even play table tennis 1/10 would not recommend",
+      "date": 1775939309,
+      "review_helpful_count": 4,
+      "author_display_name": "Quantum_Drifter",
+      "author_alias": "Quantum_Drifter",
+      "developer_response": null
+    },
+    {
+      "id": "1072663532597888",
+      "score": 5,
+      "review_title": "Amazing game and community",
+      "review_description": "My favourite game by far. The pursuit to improve and master different shots is addictive. Although it doesn't feel like much exercise at first you can definitely get a sweat on after a few games. The online community is amazing, top players are more than happy to give advice during games. Like how to return the seemingly impossible super spin shots.",
+      "date": 1774812283,
+      "review_helpful_count": 2,
+      "author_display_name": "Basilisk",
+      "author_alias": "Basilisk",
+      "developer_response": {
+        "body": "Thanks!",
+        "date": 1775034454
+      }
+    },
+    {
+      "id": "1008781375658390",
+      "score": 4,
+      "review_title": "Why no badminton?",
+      "review_description": "there's literally pictures of shuttlecocks in the menu but there's no badminton available i would give five stars if you make badminton available i like spinminton though it's fun",
+      "date": 1772495307,
+      "review_helpful_count": 12,
+      "author_display_name": "JoeySkullz",
+      "author_alias": "JoeySkullz",
+      "developer_response": null
+    },
+    {
+      "id": "1123614214166543",
+      "score": 5,
+      "review_title": "Lildeb26",
+      "review_description": "Really like this game.can anyone help me found the discord or send me the link to it I would really appreciate it.",
+      "date": 1778047184,
+      "review_helpful_count": 0,
+      "author_display_name": "Terclay2000",
+      "author_alias": "Terclay2000",
+      "developer_response": {
+        "body": "Sure: Menu > Settings > About, you'll find the Discord code there. Otherwise here it is:\nhttps://discord.gg/sqJu9vazUK",
+        "date": 1778055473
+      }
+    },
+    {
+      "id": "1166371849886846",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "Best room scale game . Great workout and realistic physics .",
+      "date": 1777855724,
+      "review_helpful_count": 0,
+      "author_display_name": "MattLeeee",
+      "author_alias": "MattLeeee",
+      "developer_response": null
+    },
+    {
+      "id": "980704391803796",
+      "score": 5,
+      "review_title": "KB’s love for racket club",
+      "review_description": "I love the game cos you get to play with friends and meet new people with a variety of aviators and game modes every one is different with the colour of their hair to what thy were",
+      "date": 1775589756,
+      "review_helpful_count": 0,
+      "author_display_name": "thekingkenz",
+      "author_alias": "thekingkenz",
+      "developer_response": null
+    },
+    {
+      "id": "2796539944071896",
+      "score": 4,
+      "review_title": "Very Fun Game",
+      "review_description": "I play Spinminton a lot however the AI opponents seem to be weak, even when I choose world class. I'm not sure if it's an issue on my end or not. Also, it would be very helpful if you can allow changing the rules during matches with AI.",
+      "date": 1775429684,
+      "review_helpful_count": 0,
+      "author_display_name": "karamfa",
+      "author_alias": "karamfa",
+      "developer_response": null
+    },
+    {
+      "id": "933188093048943",
+      "score": 5,
+      "review_title": "Love this game",
+      "review_description": "Its really good and have great controls.",
+      "date": 1777628069,
+      "review_helpful_count": 0,
+      "author_display_name": "Milkau_Vieira",
+      "author_alias": "Milkau_Vieira",
+      "developer_response": null
+    },
+    {
+      "id": "1062250123645883",
+      "score": 1,
+      "review_title": "I cant move",
+      "review_description": "Even though i activate the option to move with left stick, I cant do it inside games, only in main menu",
+      "date": 1775426416,
+      "review_helpful_count": 2,
+      "author_display_name": "demo4cide",
+      "author_alias": "demo4cide",
+      "developer_response": null
+    },
+    {
+      "id": "1076065482259676",
+      "score": 5,
+      "review_title": "Very good",
+      "review_description": "Excellent",
+      "date": 1778687608,
+      "review_helpful_count": 0,
+      "author_display_name": "ClumsyGuitarist",
+      "author_alias": "ClumsyGuitarist",
+      "developer_response": null
+    },
+    {
+      "id": "1056406457559003",
+      "score": 5,
+      "review_title": "One of the best",
+      "review_description": "One of the best VR  sports games available so far.",
+      "date": 1775753981,
+      "review_helpful_count": 2,
+      "author_display_name": "MMDDOOM",
+      "author_alias": "MMDDOOM",
+      "developer_response": null
+    },
+    {
+      "id": "1067722456414378",
+      "score": 2,
+      "review_title": "Unable to select any other games",
+      "review_description": "It doesn’t allow to play any other games except pickleball",
+      "date": 1773632905,
+      "review_helpful_count": 4,
+      "author_display_name": "Metaquest3jay",
+      "author_alias": "Metaquest3jay",
+      "developer_response": null
+    },
+    {
+      "id": "1236895271968298",
+      "score": 1,
+      "review_title": "Triable",
+      "review_description": "Take￼ five seconds to see what your ￼appoint is doing so you have to just gess￼ and hope that you hit the ball. So stupid",
+      "date": 1773528680,
+      "review_helpful_count": 2,
+      "author_display_name": "fryingpanguy",
+      "author_alias": "fryingpanguy",
+      "developer_response": null
+    },
+    {
+      "id": "958996687062088",
+      "score": 3,
+      "review_title": "Well…",
+      "review_description": "It’s fine I just don’t really like it",
+      "date": 1776649782,
+      "review_helpful_count": 0,
+      "author_display_name": "FROGG11",
+      "author_alias": "FROGG11",
+      "developer_response": null
+    },
+    {
+      "id": "993096293876586",
+      "score": 3,
+      "review_title": "Needs Joystick Movement for Small Spaces",
+      "review_description": "The game should allow joystick movement for people with limited space. The game is frustrating and borderline unplayable to me. I constantly miss shots because I have to worry about my surroundings. I’ve already hit objects multiple times and passthrough does absolutely nothing to help.",
+      "date": 1767140306,
+      "review_helpful_count": 12,
+      "author_display_name": "aurevoirchaos",
+      "author_alias": "aurevoirchaos",
+      "developer_response": null
+    },
+    {
+      "id": "822854917586779",
+      "score": 5,
+      "review_title": "Possible The Best Racket game on VR",
+      "review_description": "I am playing this game for about a month now and honestly if i sum up experience in one word it just \"wow\". pickleball, box tennis, table tennis, spinminton(badminton alternative) each of these games are so much fun to play. talking about community its the nicest gaming community you can get so many players all around the world. if you thinking of buying it just buy you will not regret also join racket club discord community to join all other players",
+      "date": 1763727113,
+      "review_helpful_count": 52,
+      "author_display_name": "ThenKim",
+      "author_alias": "ThenKim",
+      "developer_response": null
+    },
+    {
+      "id": "1680165096697009",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Came over from eleven table tennis past 4 years ...\n Kicking myself for not coming over here years ago . I love it . So neat !!!!",
+      "date": 1771359006,
+      "review_helpful_count": 3,
+      "author_display_name": "LankylotLizard",
+      "author_alias": "LankylotLizard",
+      "developer_response": {
+        "body": "Thx :)",
+        "date": 1771665998
+      }
+    },
+    {
+      "id": "859248987107781",
+      "score": 1,
+      "review_title": "Not playung as a guy",
+      "review_description": "If a game doesn't bother with a woman avatar then I'm out. None of my guy friends would appreciate having to play as a woman (I know there's a small percentage that do that on purpose, but my friends are the normal kind). I got to try it as part of the Meta subscription but I would definitely not pay for it. There's plenty of other racket games...",
+      "date": 1770795259,
+      "review_helpful_count": 2,
+      "author_display_name": "LilyRp",
+      "author_alias": "LilyRp",
+      "developer_response": {
+        "body": "You must have missed the female body option:\nIn the avatar editor go to Body -> select Type 2",
+        "date": 1770808147
+      }
+    },
+    {
+      "id": "935279255839228",
+      "score": 5,
+      "review_title": "Love pickleball",
+      "review_description": "Been playing this version of pickleball and compared to the other competition this one is the best amongst the others!",
+      "date": 1770747513,
+      "review_helpful_count": 4,
+      "author_display_name": "steevonator",
+      "author_alias": "steevonator",
+      "developer_response": null
+    },
+    {
+      "id": "894110070083800",
+      "score": 5,
+      "review_title": "Great Racket Games",
+      "review_description": "Best racket sports game available due to realistic movement. I especially like the pickleball. Better than other similar games.",
+      "date": 1772942718,
+      "review_helpful_count": 1,
+      "author_display_name": "SDBuckeye13",
+      "author_alias": "SDBuckeye13",
+      "developer_response": {
+        "body": "Thank you for taking the time.",
+        "date": 1773054563
+      }
+    },
+    {
+      "id": "1210138271005885",
+      "score": 1,
+      "review_title": "I just have problems with it",
+      "review_description": "Let me start by saying the game is good, in fact it's really good, and fun. What's not fun is the size of the court, which cannot be changed as far as I am aware. This makes the game almost impossible for me to play, as the court is right to my walls, and the gap line on the court is blocked by my dressers. I don't have a small bedroom by the way, it is relatively big, and yet the court just doesn't fit in a good way for me to play without the fear of hitting something. Another problem I had with the game is the ai opponents you go against in single player mode. For me at least, it seems that it is 50/50 when going against an ai, which 50% of the time will be an ai that has no idea what it is doing, allowing me to win easily, while the other 50% is an ai that hits all my shots and follows up with hard corner shots that are not possible for me to hit because of said lack of room on the court. One last personal issue I have is the fact that the game seems really really difficult for myself since I am left handed. I've played every sport in this game in real life, and never have I had a problem going against real people who are right handed. However, it seems like the bots immediately adapt to the fact that I am left handed, and proceed to only hit shots into the right corner. This happens almost every match I play, and I cannot do anything about it. It seems like an unfair advantage for something I cannot control. Overall, if there is a way to make the court smaller for single player mode, I'd love an answer for that, but i honestly feel like I have to steer away from this game because of its many faults I have encountered.",
+      "date": 1764650399,
+      "review_helpful_count": 15,
+      "author_display_name": "Fire_Tech",
+      "author_alias": "Fire_Tech",
+      "developer_response": null
+    },
+    {
+      "id": "900870669780457",
+      "score": 5,
+      "review_title": "big drop from 5star to Negative -3stars",
+      "review_description": "Honesty out loud.. 700houre on my tab...would like to read all this information carefully! Mms with 700+ Hours of training,\ngame itself is like a halfway baked pizza with wrong topping, and when finally getting the pizza.. baker comes and takes a slice of the pizza and that is the half of it, and tells you this!\n You can buy  a new pizza...\ni did order a full game and after a few updates later.. (the items in game they took away all the things what came with the game rackets, clothes, everything) and now selling back the stuff as DLC! \nWOOOW nah that took it to an other level of shift from alright to a AAA nonsense game! So the only thing i go back is the community. But the colors of the development team is very much like a huge amount of shame there but they dont care about you guys. They have no empathy in it game has huge amount of errors deep in game code and this is what they been focusing on..this game should be free to be honest and the DLC should be free this much its worth and carefull with controlers because the floor space is moving and shifting position by it self makes you hit walls and furniture if not careful so your boundary is not securely optimized..  \n\nbe careful about buying this one, there is alot better games than this one trust me. i want",
+      "date": 1766536582,
+      "review_helpful_count": 4,
+      "author_display_name": "SabutonX",
+      "author_alias": "SabutonX",
+      "developer_response": null
+    },
+    {
+      "id": "4330327803867480",
+      "score": 2,
+      "review_title": "Used to be a 5 star game",
+      "review_description": "Updates are ruining this game. Devs ideas to generate revenue are to gate previously free stuff behind expensive microtransactions. The few new things they add are not interesting - like the grossly expensive racket skins that are universally ugly. Now they are introducing a new update soon where you have to pay to select courts that have been free for the previous life of the game. It's ridiculous - keep the previous courts free. Make some dope new ones if you want to charge money for them. I'm beginning to wonder what exactly my original purchase price bought. Will the sports themselves soon retroactively become gated behind microtransactions, and all of a sudden my original purchase was just 25 bucks to get into your ugly cartoon world so I can walk around and do nothing without paying another 20 bucks to swing a racket? At its core, the actual game is so so fun. Shame that it's being mismanaged so poorly with terrible decisions. I truly recommend people stay far away from this one unless you want to be simultaneously disappointed and nickel-and-dimed to death for every little thing you want to do.",
+      "date": 1763244088,
+      "review_helpful_count": 20,
+      "author_display_name": "wKarrde",
+      "author_alias": "wKarrde",
+      "developer_response": {
+        "body": "Hey, you got things wrong.\nWe did not change the access to courts. You will keep access to all courts, as before, which is random pick. We're adding a shop item to unlock the ability to specify which private you want to go to.\nAnd the price is set to motivate you to play to unlock it by earning coins by playing.",
+        "date": 1764320787
+      }
+    },
+    {
+      "id": "1095752183616438",
+      "score": 4,
+      "review_title": "just a couple tweaks",
+      "review_description": "The gameplay in Racket Club is really solid, and the physics feel basically perfect. Hitting the ball just feels right, which is the most important thing.\n\nI just wish there were more options for courts. It would be really nice to have realistic sizes for badminton, pickleball, and tennis, plus a no-wall mode so it feels more like real play. Not sure if there are limitations, but it would add a lot.\n\nAI matches could also use more customization. You can’t really change the rules like you can in player matches, which is a bit limiting. The AI itself is fine, maybe slightly better animations would help, but it’s not a big issue.\n\nAlso, having a proper shuttlecock for badminton instead of just a tennis ball would make it feel more complete.\n\nOverall, really fun and solid, just needs a bit more variety and options. I’d give it a 4/5.",
+      "date": 1777138235,
+      "review_helpful_count": 0,
+      "author_display_name": "Jhovotron",
+      "author_alias": "Jhovotron",
+      "developer_response": null
+    },
+    {
+      "id": "2702005323465736",
+      "score": 2,
+      "review_title": "Good but?",
+      "review_description": "The table tennis choice I cannot play against bots if you enter labs in club you don’t have a menu to choose to play bots and if you use menu button and u choose play bots table tennis isn’t there only under ball machine anyone know what to do please?\n\nThanks",
+      "date": 1766035063,
+      "review_helpful_count": 4,
+      "author_display_name": "john.gaul.549",
+      "author_alias": "john.gaul.549",
+      "developer_response": {
+        "body": "No TT bots sorry.",
+        "date": 1766068626
+      }
+    },
+    {
+      "id": "1535889577958374",
+      "score": 1,
+      "review_title": "Be aware for microtransactions",
+      "review_description": "This used to be very fun untill the foundation update took away all my rackets and put them behind a paywall",
+      "date": 1770649486,
+      "review_helpful_count": 1,
+      "author_display_name": "pummetje",
+      "author_alias": "pummetje",
+      "developer_response": {
+        "body": "Hi,\n- when we brought all unlocked rackets to the shop, we also gave you total physics value tuning control which you didn't have before,\n- you can earn coins freely at a very a moderate grind completing play missions\n- the clubs' run on servers, and with our most active players having in excess of 1000+ playing hours, we had to try something to sustain the game for as long as possible.",
+        "date": 1770715652
+      }
+    },
+    {
+      "id": "919197344382575",
+      "score": 5,
+      "review_title": "very nice community",
+      "review_description": "great game every body is friendly",
+      "date": 1771971420,
+      "review_helpful_count": 1,
+      "author_display_name": "Pipo2011",
+      "author_alias": "Pipo2011",
+      "developer_response": null
+    },
+    {
+      "id": "824700337403650",
+      "score": 1,
+      "review_title": "Unable to connect to server",
+      "review_description": "Since two months now, I am unable to use the app.\nAs soon as I launch the app, it starts to load and after about a minute, it shows error: unable to connect to server. \nI would really love to change my reviews if you fix this please.",
+      "date": 1764856670,
+      "review_helpful_count": 5,
+      "author_display_name": "akshsuri",
+      "author_alias": "akshsuri",
+      "developer_response": {
+        "body": "- Do you remember if you had passed the tutorial? \n- If yes, do you remember the name you had created so that we can check your player data?\n- Had you played a beta? and if yes, could you confirm you are on Live? (Settings > Privacy > Installed App > Racket Club > Release Channels)  \n- Have you tried uninstalling-reinstalling?",
+        "date": 1764859230
+      }
+    },
+    {
+      "id": "1171936458420996",
+      "score": 3,
+      "review_title": "AI opponent lacks expression",
+      "review_description": "The game mechanics are smooth and natural, but the lack of expressions on the NPCs and AI opponents makes the gameplay feel dull and monotonous. This is the game's biggest flaw. The developers should add some expressions to the NPCs and AI: for example, smiling when scoring, feeling disappointed when losing, and showing various expressions of panic when points are thrown away; and some mutual feedback dialogue after each match..",
+      "date": 1764474858,
+      "review_helpful_count": 3,
+      "author_display_name": "HKRaymondNG",
+      "author_alias": "HKRaymondNG",
+      "developer_response": null
+    },
+    {
+      "id": "1222044326678645",
+      "score": 5,
+      "review_title": "Great fun and a great workout.",
+      "review_description": "The game is responsive and plays really well. The physics feel great with velocity, spin, and elasticity of surfaces and rackets. Having 4 sports in one is a huge bonus too compared to some of the competing titles in this space.\nI'd note that the game really does demand a LOT of space though - An option to move around with the thumb sticks during matches would be helpful for playing in tighter spaces.\n\nThe only issue I had was that I couldn't work out how to switch from the default sport (Box Tennis) to the other 3 sports for career mode. The UI is clear on everything else besides that, but this key function eludes me after my first 90 minutes of play.\n\nOverall, I'd recommend it for the single player alone. I also took a quick look at the PvP social space and it seems fairly populated, so i'm looking forward to trying that in the future.",
+      "date": 1774679358,
+      "review_helpful_count": 0,
+      "author_display_name": "Aspidites_AU",
+      "author_alias": "Aspidites_AU",
+      "developer_response": null
+    },
+    {
+      "id": "869592982907996",
+      "score": 5,
+      "review_title": "The definitive VR Pickleball experience",
+      "review_description": "Having tested several titles, Racket Club is hands down the best implementation of Pickleball in VR. The developers have mastered the feel and it works really well in MR for VR.\n\nThe game adapts brilliantly to your actual room space, meaning you aren’t constantly worried about hitting a wall. You do need a decent size play area but they have other games like box tennis if space is an issue. \n\nThe Social Aspect:\nThe community is fantastic. If you are in the UK or Europe, the clubs come alive in the early evenings and late at night. It is easy to find a match and the vibe is generally very welcoming. The club is a superb idea and makes for an amazing environment to meet people and find games. \n\nRoom for Growth:\nWhile the physics are great, the pickleball single player experience is currently weak. There is no sense of progression, career mode, or tournaments to keep you hooked. For players hoping to learn pickleball before trying multiplayer it would be quite boring. Furthermore, the bots while good for warm ups seem allergic to the kitchen. As any Pickleball player knows, the kitchen is essential for strategy, and the AI’s refusal to engage there limits its use as a training tool. There is also a ball machine if you want to practice specific shots.\n\nVerdict:\nAn essential purchase for Pickleball or racket sport lovers who want multiplayer , but I am hoping the developers flesh out single player pickleball . This game deserves to be huge, I hope more pickleball players find it.",
+      "date": 1764414345,
+      "review_helpful_count": 6,
+      "author_display_name": "SparklePerl",
+      "author_alias": "SparklePerl",
+      "developer_response": null
+    },
+    {
+      "id": "1581848339732144",
+      "score": 5,
+      "review_title": "Legit fun",
+      "review_description": "This game is fun. Casual yet engaging. Feels like I’m actually playing racket games with people from all around the world. Great game and a must try in my opinion.",
+      "date": 1768120785,
+      "review_helpful_count": 1,
+      "author_display_name": "theericklein",
+      "author_alias": "theericklein",
+      "developer_response": null
+    },
+    {
+      "id": "885787757612243",
+      "score": 5,
+      "review_title": "Oddly addictive",
+      "review_description": "This game is ridiculously good , and I haven’t even played against other people yet.",
+      "date": 1769388664,
+      "review_helpful_count": 0,
+      "author_display_name": "Neezyk",
+      "author_alias": "Neezyk",
+      "developer_response": {
+        "body": "Thx for taking the time to let other know",
+        "date": 1769425744
+      }
+    },
+    {
+      "id": "980675541791656",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Every time I move my head in game the entire court moves I cannot seem to change this. Only happens sometimes. Very fun",
+      "date": 1768251343,
+      "review_helpful_count": 0,
+      "author_display_name": "CuriousHeron1275",
+      "author_alias": "CuriousHeron1275",
+      "developer_response": null
+    },
+    {
+      "id": "884773403999723",
+      "score": 5,
+      "review_title": "Smooth game",
+      "review_description": "You can easily spend a lot of time in this game. A nice surprise on Quest 2, that it runs smooothly even if the resolution is set to the higher 2048px.",
+      "date": 1766127317,
+      "review_helpful_count": 2,
+      "author_display_name": "cxmnmain",
+      "author_alias": "cxmnmain",
+      "developer_response": null
+    },
+    {
+      "id": "967100253150632",
+      "score": 1,
+      "review_title": "Aweful",
+      "review_description": "stupid scoring rules",
+      "date": 1769555016,
+      "review_helpful_count": 0,
+      "author_display_name": "BishBash5",
+      "author_alias": "BishBash5",
+      "developer_response": {
+        "body": "When playing against other players, you can turn off the 'ultra rally' rule that you don't seem to like :)",
+        "date": 1769608267
+      }
+    },
+    {
+      "id": "1587929359326458",
+      "score": 5,
+      "review_title": "Brilliant l//updated read below",
+      "review_description": "Had this game now since it came out bought it for my 2 sons aswell and we love it took a little getting used to at first but within the first 20 mins or so that was it. Still not understanding the rules just yet as never played pickleball etc but never the less we absolutely have a scream on this game Highley recommended, Update// spinminton has a serve time glitch so your losing points i hope this can be fixed as this mode is brilliant",
+      "date": 1762450129,
+      "review_helpful_count": 3,
+      "author_display_name": "davestark1977",
+      "author_alias": "davestark1977",
+      "developer_response": null
+    },
+    {
+      "id": "912369321959533",
+      "score": 2,
+      "review_title": "Why is this game so hard",
+      "review_description": "Its so hard to play general ai",
+      "date": 1767109487,
+      "review_helpful_count": 3,
+      "author_display_name": "sullysboy24",
+      "author_alias": "sullysboy24",
+      "developer_response": null
+    },
+    {
+      "id": "950612514798898",
+      "score": 5,
+      "review_title": "Best game",
+      "review_description": "Best",
+      "date": 1767307633,
+      "review_helpful_count": 3,
+      "author_display_name": "prathameshmeta01",
+      "author_alias": "prathameshmeta01",
+      "developer_response": null
+    },
+    {
+      "id": "846341941902625",
+      "score": 2,
+      "review_title": "To much cheese",
+      "review_description": "Positive is was free to try and will give you some exercise. \n\nNow the negatives……\n\nI can only speak for the sandbox tennis. The game has inconsistent mechanics with what is a good shot and what is not. Too much RNG with the bots. The mechanics need to be improved greatly. \n\nThen there is the coaching pep talk before and after a match. Nothing like a fake program telling you how you should be. Remove the fake coach.\n\nGame overall seemed annoying and boring.",
+      "date": 1762866737,
+      "review_helpful_count": 2,
+      "author_display_name": "Tennisjunkie101",
+      "author_alias": "Tennisjunkie101",
+      "developer_response": null
+    },
+    {
+      "id": "779307918607510",
+      "score": 1,
+      "review_title": "Very disappointed!",
+      "review_description": "The mechanics of this game and the graphics are actually really….BUT here are the main issues on why I feel like this game was not worth $25 of my money:\n\n1. It only allows a tournament in one game type, which is box tennis \n2. There is literally never anybody online to play against, regardless of the game type or level of play. I spent countless hours trying to find a singles or doubles game in any type of game mode, and after five days, only two were found \n3. There’s no ability to see who else is online on the game so one could interact and engage with them to where then they could invite one another into an actual.\n4. The game is $25, so it just will be a complete disappointment if you end up playing bots the entire time that you are engaged with this game\n￼",
+      "date": 1759959776,
+      "review_helpful_count": 9,
+      "author_display_name": "Buckeye4Truth",
+      "author_alias": "Buckeye4Truth",
+      "developer_response": null
+    },
+    {
+      "id": "1062237196977531",
+      "score": 5,
+      "review_title": "Best experience yet",
+      "review_description": "Couldn’t stop playing and hope I burned some calories!!!",
+      "date": 1776395352,
+      "review_helpful_count": 1,
+      "author_display_name": "Vskihome12",
+      "author_alias": "Vskihome12",
+      "developer_response": null
+    },
+    {
+      "id": "863167962829035",
+      "score": 3,
+      "review_title": "opponent lacks expression",
+      "review_description": "The game is good and energetic, with natural mechanics, but the NPCs and AI are too stiff, and the opponents have no expressions, making it feel like playing against zombies. This is the biggest weakness.",
+      "date": 1764474350,
+      "review_helpful_count": 1,
+      "author_display_name": "LingHKvr",
+      "author_alias": "LingHKvr",
+      "developer_response": null
+    },
+    {
+      "id": "704971445990524",
+      "score": 1,
+      "review_title": "Do not get",
+      "review_description": "when you hit the ball it goes flying and i play all the sport in this game and it suck so\n bad",
+      "date": 1763331793,
+      "review_helpful_count": 6,
+      "author_display_name": "IMWARMACHINE15",
+      "author_alias": "IMWARMACHINE15",
+      "developer_response": null
+    },
+    {
+      "id": "676517968803587",
+      "score": 1,
+      "review_title": "Match with A.I.???",
+      "review_description": "Is there a way to just play a simple match sith the A.I.  Correct me if I'm wrong but it seems like the only options are to PRACTICE with A.I. or be forced to play matches with STRANGERS only.  I'm not antisocial or anything, but sometime I just want to play a SIMPLE match with the A.I.   Is there ANY way to do that...especially with the table tennis game???",
+      "date": 1758937726,
+      "review_helpful_count": 7,
+      "author_display_name": "PatricKirkwood0415",
+      "author_alias": "PatricKirkwood0415",
+      "developer_response": {
+        "body": "Table Tennis, as well, as Pickleball and Spinminton were additions after the game's launch. The single player Career is only available for Box Tennis.\nTable Tennis, the latest addition, doesn't have its bots ready yet.",
+        "date": 1759067955
+      }
+    },
+    {
+      "id": "835076609683669",
+      "score": 5,
+      "review_title": "Why It’s My Go-To VR Sport",
+      "review_description": "As someone who has spent over a year with Racket Club on Meta Quest, it has undeniably become my favorite VR game—a true \"must-play\" that I find myself coming back to multiple times a day. While I've mostly stuck to playing against the AI, the core gameplay loop is just so compelling that it has replaced other titles like Eleven Table Tennis as my primary VR sport.\n\nWhat Makes It So Addictive?\n\nThe game's strongest feature is its physics. The ball feels incredibly realistic and predictable, which makes for a satisfying and fun experience. The game is never frustrating because the ball reacts exactly as you'd expect, which is a huge credit to the developers. It's an excellent way to get a solid workout and get your body moving.\nAnother major positive is the development team. They are extremely responsive and dedicated to improving the game. I experienced an issue that I reported to them, and they resolved it quickly, which shows how much they care about their community.\nPoints of Critique and Room for Improvement\nWhile the game is fantastic, there are a few areas that could use some polish.\n\n * AI Opponents: The difficulty curve within a single tournament is quite steep. The third AI opponent can be surprisingly strong, and even after playing for a year, I can still struggle to beat them in the third-hardest tournament. Also, no matter how I adjust the settings, the AI avatars look a bit strange in their movements, which can break the immersion.\n * Ranking System: The ranking system could be more transparent. It’s hard to track how points are awarded or deducted. For example, when you lose, it's not clear how many points you've lost, and even when you win a tournament, the points don't seem to update immediately on the leaderboard. It would be helpful to have a clearer display of how points are gained or lost for winning or losing at different stages of a tournament.\n * Tournament Variety & Coach: I've only ever played the tennis-style game in tournaments, and I’m unsure if it's possible to change the sport to Spin Minton which I'd love to see. Additionally, the coach character repeats the same lines over and over, which can get annoying, and you're forced to click through his dialogue to start a new match.\n * Multiplayer Connection: On the rare occasions that I've tried multiplayer, the experience wasn't great. Despite having a good internet connection, the lag makes it difficult to play, as the opponent's movements can appear glitchy. This has kept me from engaging more in multiplayer matches.\nDespite these minor issues, Racket Club has captured a formula that makes it highly repeatable and fun. I'm constantly impressed with its ability to keep me engaged, and it stands out as the best sports titles on the Meta Quest platform.",
+      "date": 1757596278,
+      "review_helpful_count": 14,
+      "author_display_name": "Mellowcide",
+      "author_alias": "Mellowcide",
+      "developer_response": {
+        "body": "Thank you for taking the time to update your review",
+        "date": 1757601986
+      }
+    },
+    {
+      "id": "925158250679679",
+      "score": 5,
+      "review_title": "Perfect",
+      "review_description": "The best Racket VR",
+      "date": 1765410602,
+      "review_helpful_count": 2,
+      "author_display_name": "Gino.77",
+      "author_alias": "Gino.77",
+      "developer_response": null
+    },
+    {
+      "id": "1183559513583803",
+      "score": 4,
+      "review_title": "Need extra wide court option",
+      "review_description": "Game is a lot of fun and would be amazing if there was an extra wide option for singles matches. Basically take the wide option and add another half court of width to it and it would be perfect for cardio workout! Also a 2 vs 1 option on the doubles court would be great too.",
+      "date": 1758415960,
+      "review_helpful_count": 6,
+      "author_display_name": "Solarhits",
+      "author_alias": "Solarhits",
+      "developer_response": null
+    },
+    {
+      "id": "946335808564857",
+      "score": 1,
+      "review_title": "BRO",
+      "review_description": "THIS SHI AS",
+      "date": 1765740673,
+      "review_helpful_count": 1,
+      "author_display_name": "JohnDrPepper",
+      "author_alias": "JohnDrPepper",
+      "developer_response": {
+        "body": "Sometimes all it takes is a well crafted, elaborated review like this one, really a window into human intelligence, to feel part of a global community of racket sports lovers.",
+        "date": 1765810634
+      }
+    },
+    {
+      "id": "25378022315168615",
+      "score": 3,
+      "review_title": "Black screen.",
+      "review_description": "Tried uninz\nstall and reinstalling game, it doesnt work.",
+      "date": 1763877493,
+      "review_helpful_count": 2,
+      "author_display_name": "CaptainPwnHawx",
+      "author_alias": "CaptainPwnHawx",
+      "developer_response": null
+    },
+    {
+      "id": "25317790507840588",
+      "score": 5,
+      "review_title": "Hugh quality title.",
+      "review_description": "It is like Eleven Table Tennis to me. Every bit as good. It scratches that itch. Thanks.",
+      "date": 1764029602,
+      "review_helpful_count": 1,
+      "author_display_name": "4StarGamer",
+      "author_alias": "4StarGamer",
+      "developer_response": null
+    },
+    {
+      "id": "785775427953922",
+      "score": 1,
+      "review_title": "Bad Game Performance",
+      "review_description": "The game online mode never seem to find players or takes forever to load, and hitting the ball with the racket is a nightmare most the time It goes through it like a ghost.. even when you hit it with the tip you can litterly see it pass through the racket! Ball control is a nightmare.",
+      "date": 1757967349,
+      "review_helpful_count": 5,
+      "author_display_name": "ZegoMoon",
+      "author_alias": "ZegoMoon",
+      "developer_response": null
+    },
+    {
+      "id": "1365093792292138",
+      "score": 4,
+      "review_title": "Re-review - good fun game!",
+      "review_description": "OK, when I first got this game it was impossible to get past the intro tutorial but this has been fixed and I've been enjoying the game for a few days.\n\nI like it!  I've only played against the AI so far, but did venture into the Club though I could only see 2 people walking about - not sure if that means there were only 2 people available to play but I actually prefer playing AI in VR!\n\nThe game can be played in a relatively small play area, which is good.  I know pickleball IS a game... I think the other 2 are dev's invention but good fun and make good use of most peoples' play area.\n\nI cannot currently find the table tennis option as it's not on the menu of sports you can play.  Some reference to 'Labs' in the listing description - does this mean it's not yet in the game? Confusing!\n\nFinally, I have an idea that some of my overhead fast smashes may be losing tracking as I'm missing far more often than I think I should be.  Maybe this is a limitation of the hardware (Quest 3) to track behind the head?\n\nIn any case, it's a good fun game that is accessible at the lower difficulty levels and therefore likely to continue to provide challenge as I (hopefully) get better at it.",
+      "date": 1757247309,
+      "review_helpful_count": 4,
+      "author_display_name": "peterboulton",
+      "author_alias": "peterboulton",
+      "developer_response": {
+        "body": "Thank you for taking the time to update your review. Really appreciated!\n\nYes, over tracking could be an issue, but the fix is always the correct advice for racket sport: keep your eye on the ball at impact, don't raise your head too soon.",
+        "date": 1757262960
+      }
+    },
+    {
+      "id": "892794890580413",
+      "score": 1,
+      "review_title": "DO NOT BUY WASTE OF £18",
+      "review_description": "because when i hit the ball it goes through my racket",
+      "date": 1762777507,
+      "review_helpful_count": 2,
+      "author_display_name": "Llamainapyjama",
+      "author_alias": "Llamainapyjama",
+      "developer_response": null
+    },
+    {
+      "id": "802640695767581",
+      "score": 4,
+      "review_title": "Nice game",
+      "review_description": "I do like the game, great idea, feel n graphics are good too. I wish I had a bigger space to play so I could enjoy it fully, but it's very useful to have the pass through mode too.\nI've always loved tennis and I love that it's contained to a small court with box around it.\n\nI found that I can play sitting down because you can adjust the position of the court, however I do wish it had a seated mode where you could move with the thumb sticks.\n\nI also wish I could pause a Match but I can't, the menu opens but doesn't pause the game.\n\nIf I could adjust the court size to my play space that would be awesome.",
+      "date": 1757536815,
+      "review_helpful_count": 3,
+      "author_display_name": "Stalker001122",
+      "author_alias": "Stalker001122",
+      "developer_response": null
+    },
+    {
+      "id": "693857003821837",
+      "score": 5,
+      "review_title": "Tennis, but not as you know it!",
+      "review_description": "After putting time into eleven vr and e sports tennis i came across Racket Club and this is definitely now my go to! The feeling of being i inside the court, playing squash x tennis plus other racket games is immersive. A small friendly community awaits you and the discord seems active still. Best played outside or with some space,  they have got everything just right with tight physics imo. See you out there 🎾",
+      "date": 1756880033,
+      "review_helpful_count": 4,
+      "author_display_name": "Biscuits",
+      "author_alias": "Biscuits",
+      "developer_response": null
+    },
+    {
+      "id": "737247078889320",
+      "score": 1,
+      "review_title": "Amazing game, but bad AI is killing it",
+      "review_description": "Racket Club is an amazing game, it's super engaging and if you like competitive games like tennis, you'll spend countless hours playing. Unfortunately AI of the game is very frustrating - in tournament mode (that's my favourite part of the game) AI is switching between modes if you win or lose. The problem is the gap between the modes, it's huge: in one it's hard to lose a point, but in another AI is switching in god mode and it's hard to win a point. I don't understand why it's so hard to make more gradual difficulty increase or set specific difficulty (I know it's available in one game, but I want to play the seasons). So yeah, to prevent your frustration I'm changing my review from 5 to 1 until it's going to be improved",
+      "date": 1751661280,
+      "review_helpful_count": 45,
+      "author_display_name": "fremdev",
+      "author_alias": "fremdev",
+      "developer_response": null
+    },
+    {
+      "id": "780933598172050",
+      "score": 5,
+      "review_title": "Best VR Game",
+      "review_description": "It has 4 racket sports, all of them feel really good.\nVery good multiplayer implementation.\nNo downside very good sport game.\nI love it!",
+      "date": 1759437820,
+      "review_helpful_count": 2,
+      "author_display_name": "Kror_de",
+      "author_alias": "Kror_de",
+      "developer_response": null
+    },
+    {
+      "id": "1246676187525358",
+      "score": 3,
+      "review_title": "Need more ai options",
+      "review_description": "There isn't any ai for pickelball, tennis, or pingpong",
+      "date": 1759366246,
+      "review_helpful_count": 5,
+      "author_display_name": "007crazypig",
+      "author_alias": "007crazypig",
+      "developer_response": null
+    },
+    {
+      "id": "763367303258851",
+      "score": 5,
+      "review_title": "Game is very fun!",
+      "review_description": "This game is an extremely fun game to play! You can play all sorts of games that are very realistic and easy to learn but hard to master. Also, the dev team is incredible. They fixed a bug that I brought to their attention within 12 hours. Massive round of applause.",
+      "date": 1756848151,
+      "review_helpful_count": 2,
+      "author_display_name": "Drago1709",
+      "author_alias": "Drago1709",
+      "developer_response": null
+    },
+    {
+      "id": "763101240229814",
+      "score": 5,
+      "review_title": "Really good game",
+      "review_description": "I think they should have a shuttlecock to make it really realistic",
+      "date": 1761669100,
+      "review_helpful_count": 1,
+      "author_display_name": "sethmac20",
+      "author_alias": "sethmac20",
+      "developer_response": null
+    },
+    {
+      "id": "730366140157949",
+      "score": 5,
+      "review_title": "Amazing for racket sport fans!!!",
+      "review_description": "If you like racket sports this is the game for you. It has everything you could possibly want and more! And there are a bunch of different sports!!! It just keeps getting better with the constant support of the developers. \n\n10/10 you need to play this!",
+      "date": 1754055247,
+      "review_helpful_count": 4,
+      "author_display_name": "Daanesteijn",
+      "author_alias": "Daanesteijn",
+      "developer_response": null
+    },
+    {
+      "id": "747399964481963",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "I regret calling this an alright game, it was just a heat of the moment thing. But truly this game is really fun, there were some ups and downs like me losing to the “worst people” in the career to beating the no.6,2, and 1 on the leaderboard. But overall this game is really good and I recommend it. I don’t have to say much about the club because I always get on late and there’s no one ever in there but when I’m on early theres a lot of people and the community is really great. God bless ❤️‍🩹✝️.",
+      "date": 1751935634,
+      "review_helpful_count": 4,
+      "author_display_name": "Alex11Zay",
+      "author_alias": "Alex11Zay",
+      "developer_response": {
+        "body": "Thank you for coming back to share this with potential new players!",
+        "date": 1756566911
+      }
+    },
+    {
+      "id": "1450929862942120",
+      "score": 1,
+      "review_title": "What?",
+      "review_description": "I wanted a game where I could play pickleball, badminton and table tennis with my kids. This is not it. Only thing you could do was stand in a glass box & play what I can only assume was the worlds smallest tennis ever. Tried to go to the online section, thinking it would be different. Nope. There was  only pickleball & table tennis- again, in a glass box - which makes ZERO sense. Idk what I expected for 4.5stars, but this def ain’t it.  I do know I certainly expected to be able to play badminton, pickleball & tennis, as was advertised in the store - I got absolutely none of those things. What I got was  trapped in a glass surrounded mini court with rules & play that made zero sense.",
+      "date": 1749326672,
+      "review_helpful_count": 16,
+      "author_display_name": "Y0NDU",
+      "author_alias": "Y0NDU",
+      "developer_response": null
+    },
+    {
+      "id": "702042289661865",
+      "score": 5,
+      "review_title": "Loving the Spinminton",
+      "review_description": "I’m not one to play in the club very often. I just do AI bots, which works for me. I know the game shines in its social aspects, but man, I really love playing by myself and getting the kind of workout I want no matter what time of day or night it is, with no pressure at all to win. So please, please, please keep supporting and improving the AI options. The mixed reality is absolutely perfect in this. I’ve been taking care of my dog that has cancer for the past 6 months, so it was really important to me that anything I did on the Quest had to have MR - and this did it very well. \n\nDiscovered Spinminton had AI bots, which wasn’t there before when I last played about 4 months ago. And now there’s table tennis? Can’t wait to see that with AI some day soon lol. Looking good!!",
+      "date": 1747372254,
+      "review_helpful_count": 28,
+      "author_display_name": "Okamikizuna",
+      "author_alias": "Okamikizuna",
+      "developer_response": null
+    },
+    {
+      "id": "709119795141663",
+      "score": 1,
+      "review_title": "TOO Good",
+      "review_description": "I have really enjoyed playing Racket Club. However the AI has Now become too competitive and strong for me to play. Even as I choose the beginner, or easy mode the game ends in 5 minutes with a loss, and the tournaments are also too difficult.",
+      "date": 1753742796,
+      "review_helpful_count": 7,
+      "author_display_name": "JayaJai",
+      "author_alias": "JayaJai",
+      "developer_response": {
+        "body": "On the home court you can set the level of the AI.\nWhen on that court, open the menu and look to the left.",
+        "date": 1749618587
+      }
+    },
+    {
+      "id": "675739158953553",
+      "score": 5,
+      "review_title": "My Sport Game of the Year 2025",
+      "review_description": "Eleven Table Tennis was my favorite for a long time. Then Racket Club came along and almost completely replaced it. That's because the game is more versatile and makes me sweat even more. \n\nI also think the idea with the clubs is very well implemented and brings the social factor more to the fore (only if you want it) \n\nEveryone I showed the game to was enthusiastic (even non-sporty people!). So I can recommend it with a clear conscience to anyone who wants to combine exercise with fun.",
+      "date": 1748952658,
+      "review_helpful_count": 6,
+      "author_display_name": "Disarstar",
+      "author_alias": "Disarstar",
+      "developer_response": null
+    },
+    {
+      "id": "1109616377659837",
+      "score": 5,
+      "review_title": "VR Masterclass",
+      "review_description": "This game is just amazing. There are certain VR games, you can just tell the developers care and want to make it the best experience possible. This is one of those games. It’s fun, challenging, the mechanics are perfect. It has all the customizable settings you could ask for. This is the one.",
+      "date": 1749076333,
+      "review_helpful_count": 2,
+      "author_display_name": "grecocity",
+      "author_alias": "grecocity",
+      "developer_response": {
+        "body": "Thank you for taking the time. We certainly care :)",
+        "date": 1749112362
+      }
+    },
+    {
+      "id": "734504409736258",
+      "score": 5,
+      "review_title": "Fun game really good mechanics",
+      "review_description": "Feels awesome as someone who has played a lot both pickle ball and tennis it feels just like real life",
+      "date": 1750473677,
+      "review_helpful_count": 3,
+      "author_display_name": "5YNC0",
+      "author_alias": "5YNC0",
+      "developer_response": null
+    },
+    {
+      "id": "1036665125050240",
+      "score": 5,
+      "review_title": "BEST VR fun for all ages, dont miss it!",
+      "review_description": "I have been playing the game since the beginning of the beta phase and it has quickly become my No. 1 daily fun exercise in VR. You can pick up the rackets and instantly have fun with your friends or others online at your similar skill level OR you can push yourself to constantly improve skills and be very competitive like any other real racket sports.\n\nThe game also has really good social features with its unique club set up so that you can meet, talk, and play the people around the world in a very realistic CLUB environment, yes, you have a club opening for you 24/7 and it is FREE, how cool it is, thanks for the power of VR!",
+      "date": 1745994179,
+      "review_helpful_count": 4,
+      "author_display_name": "tim611",
+      "author_alias": "tim611",
+      "developer_response": null
+    },
+    {
+      "id": "661143559759932",
+      "score": 5,
+      "review_title": "WOW AFTER THE LATEST UPDATE!",
+      "review_description": "This update significantly elevates the game especially with the official integration of Pickleball. So loved in Beta but now includes officially refined rules and noticeably improved ball physics and feels awesome to play. The player community remains a strong asset of this game and the new court customization options, along with the ability to play all 3 games now with AI opponents is also great. The club environments are now impressively expansive and visually appealing. Maybe with the new design, I would suggest that clubs should be allowed to have 20 players instead of 15. They've added Table Tennis in Beta and it is a welcome addition with some realistic gameplay potential. While the racket tracking and ball physics itself require further refinement (especially when compared to the industry benchmark Eleven Table Tennis), the core mechanics are promising. To think that I purchased this game when it only had the original racket ball game is mind blowing. A big thank you to the developers for the improvements and additions to this game making it one of the best racket sports games in the store. Highly recommend to anyone who enjoys racket sports.",
+      "date": 1740555670,
+      "review_helpful_count": 60,
+      "author_display_name": "VK_Virtual",
+      "author_alias": "VK_Virtual",
+      "developer_response": null
+    },
+    {
+      "id": "1180100370230560",
+      "score": 5,
+      "review_title": "So fun I hurt my Achilles",
+      "review_description": "5 Stars for pickleball. Super fun. \n\nPlayed a lot of pickleball, while overtraining running. Recommend stretching your Achilles carefully, especially if your playing just in your socks/bare feet. As my legs weren’t used to being athletic not in shoes. \n\n\nI'm not sure how the virtual curency in this game works. But I would like to be able to change my name freely, or within some reason.\n\nFor box tennis though, if someone has high spin racket it is super unbalanced and becomes much less a game of skill.\n\nPickleball is balanced since everyone has the\nNet code/lag could probably be improved.",
+      "date": 1745872709,
+      "review_helpful_count": 4,
+      "author_display_name": "Hansel_needGod.com",
+      "author_alias": "Hansel_needGod.com",
+      "developer_response": {
+        "body": "So overall pretty fun eh? Glad you liked it :)\nIn the next update we're removing racket unlocks for Box Tennis. It'll be like currently for Table Tennis where you can tune your racket however you want within the limits.",
+        "date": 1743800973
+      }
+    },
+    {
+      "id": "565466669989590",
+      "score": 5,
+      "review_title": "Racket Club is a smash hit - Must Buy!",
+      "review_description": "I found Racket Club while scrolling Reddit, looking for something that could be a solid alternative to Supernatural but also work as a way to train during the week for my weekend pickleball games. I ended up getting way more than I expected.\n\nThis game is unreal in how well it pulls you into the court, whether you’re playing in AR or full VR. The gameplay is so tight it actually feels like I’m holding a real paddle. I’ve even caught myself looking up paddle attachments because of it. It’s also one of the few games where I completely lose track of time and have to force myself to take a break.\n\nThe community is awesome. Tons of talented players at every skill level, so you’ll always find a good match. And if you’re playing solo, the AI bots and training modes are just as fun. I’ve spent hours rallying with the machine and always walk away feeling like I got an insane workout.\n\nOn top of that, the game’s take on racket sports with the added wall mechanics makes it both more challenging and more inviting at the same time. If you’re into racket sports or just want a fresh way to stay active in VR, grab this game. You won’t regret it.",
+      "date": 1740524828,
+      "review_helpful_count": 20,
+      "author_display_name": "ChasenHorizons",
+      "author_alias": "ChasenHorizons",
+      "developer_response": null
+    },
+    {
+      "id": "625930147259676",
+      "score": 5,
+      "review_title": "Simply Magnificent",
+      "review_description": "No one would believe when I say that I purchased a VR device just by looking at the gameplay of Racket Club in youtube. It was pretty new when I purchased the game and it only had Box Tennis but now there are a total of 4 game modes. And with the purchase of only one game, you can play 4 different game modes. And that’s not the best part. The physics involved, the community within the game, all the people you compete with, are really amazing and I can not think of any other VR game as of now. Nothing comes even close to this one. You can take my word for it. If you want to have more competitive  games or if you are looking for casual games, Just go for it guys. You will not be disappointed.",
+      "date": 1740673143,
+      "review_helpful_count": 16,
+      "author_display_name": "Milo.24",
+      "author_alias": "Milo.24",
+      "developer_response": null
+    },
+    {
+      "id": "607785865743343",
+      "score": 5,
+      "review_title": "So Fun - Best Racket Game",
+      "review_description": "Only had this game for like a week, but I am loving it. It's the game I look forward to playing the most in my headset. The physics on the main games are really great. I like how even though I live in a small apartment, I can still easily fit the Box Tennis court in my space. You do use real movement which is nice, but it feels very natural, and again you don't need much space for this. Only played a few online matches so far, but the few I have played have been fun and the people friendly. I like the MR part, so I don't worry about running into stuff in real life. Feels very life like where I am often hitting the ball in anger after I lose a point like I could in real life, or trying to kick the ball. Devs keep adding to this game. They just added ping pong, it's in beta and a bit rough right now, but I am sure they will get it right once it goes live at some point. Knowing Dev's keep adding more games to this, not just improvements, means you get a true value for your money.",
+      "date": 1740982314,
+      "review_helpful_count": 13,
+      "author_display_name": "Witwicky",
+      "author_alias": "Witwicky",
+      "developer_response": null
+    },
+    {
+      "id": "1263936462115688",
+      "score": 5,
+      "review_title": "Fun, easy to learn,",
+      "review_description": "Difficult to master. Love the game!!",
+      "date": 1750009675,
+      "review_helpful_count": 1,
+      "author_display_name": "Leadboots1",
+      "author_alias": "Leadboots1",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T22:37:36Z"
+}
