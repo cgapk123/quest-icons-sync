@@ -1,0 +1,948 @@
+{
+  "app_id": "8378725502157946",
+  "package_name": "com.dance.edend",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Dance Eden",
+  "rating_average": 4.6620689655172,
+  "rating_count": 290,
+  "review_count": 143,
+  "reviews": [
+    {
+      "id": "1903483523667670",
+      "score": 5,
+      "review_title": "Slowing down option wanted",
+      "review_description": "I love this game for all the many options and customizations it provides. It is even possible to slow down the action in practice mode, so that for an old man like me it is easy to follow the moves of the instructor.",
+      "date": 1780320497,
+      "review_helpful_count": 3,
+      "author_display_name": "gonzo_first",
+      "author_alias": "gonzo_first",
+      "developer_response": {
+        "body": "Thank you for the feedback!\n\nYou can slow down the instructor's movements in Practice Mode. Simply enter the Studio and adjust the speed setting to a slower playback speed.\n\nWe're glad you're enjoying the game, and we appreciate your support!",
+        "date": 1780285676
+      }
+    },
+    {
+      "id": "1173653209155977",
+      "score": 1,
+      "review_title": "No",
+      "review_description": "I say no there is no levels noone plays online just a girl you follow super boring",
+      "date": 1780042512,
+      "review_helpful_count": 0,
+      "author_display_name": "boogie181985",
+      "author_alias": "boogie181985",
+      "developer_response": {
+        "body": "Thank you for sharing your feedback. We're sorry to hear the experience didn't meet your expectations.  If you're looking for other players to join in, we'd love to have you in our Discord community where you can find people to play and share the experience together.",
+        "date": 1780286310
+      }
+    },
+    {
+      "id": "1577550866869011",
+      "score": 4,
+      "review_title": "It's great, but...",
+      "review_description": "I've spent quite some times with Dance Eden and have somewhat mixed feelings. I love the ambition and the overall scope of an idea, but I want learning and connecting with other dancers in real time, rather than competing against the rank. \nThere is no shortage in variety of music / routines and most of the new routines coming with the recent update are beginner friendly (very legible coach moves). Compared to Dance Central the game features much more sophisticated choreography both in sequencing and orientation of full-body moves. However presently it implements motion guidance with respect to the upper body gestures only. This approach worked for Dance Central because the game deliberately minimized turns, footwork and other forms of playing with body-balance. \nLet' me be clear, I like the chory, but I find a singular scoring scheme distracting as it overemphasizes hand waving over maintaining body balance. In the ideal word I'd like to have multiple complementary guidance systems, eg. for hand-waving, footwork, turns... that would help a dancer selectively focus on and practice with some of the dance-elements while keeping others untracked.  \nMore realistically though, a dance demo mode - where player could see the coach performing from different perspectives (while not dancing themselves), dynamic floor foot-prints (the way it's made in dance Dance Guru, and other partnered dance apps) and other cues so a player could 'parse' the dance (and find their rhythm), rather than being constantly 'corrected' into the 'right' moves by the 'whims' of technologically contingent tracking algorithm.",
+      "date": 1770876517,
+      "review_helpful_count": 10,
+      "author_display_name": "synpost",
+      "author_alias": "synpost",
+      "developer_response": null
+    },
+    {
+      "id": "896589223213979",
+      "score": 1,
+      "review_title": "Don’t buy it, it’s not worth that much",
+      "review_description": "Not worth the money. Very disappointed.The way it’s all laid out is crap. They need to bring back Dance Central… now that was a kila dance game.",
+      "date": 1774234254,
+      "review_helpful_count": 1,
+      "author_display_name": "melziminx",
+      "author_alias": "melziminx",
+      "developer_response": {
+        "body": "Hi melziminx, thank you for taking the time to share your experience. We're truly sorry that our game didn't meet your expectations and left you feeling disappointed.\n\nWe completely understand your love for Dance Central, it's truly an iconic and influential dance game, and it has been a great source of inspiration for our own work.\n\nWe've noted your feedback about the interface layout, and our team will carefully evaluate and work on optimizing it in future updates. We're committed to listening to our players and continuously improving the game.\n\nThank you again for your honest feedback, and we hope to have the chance to earn back your trust with our future improvements.",
+        "date": 1774874158
+      }
+    },
+    {
+      "id": "1476524210655901",
+      "score": 1,
+      "review_title": "Not worth it",
+      "review_description": "9 months after my original review. They have added some more songs, but they are just as bad as the first batch. Without a single well known song, it's just bad indy stuff. I have given up any hope this game might become worth the price I paid.\n\nOriginal: This game still needs a lot of work. As it sits right now it's not worth the price tag. And it definitely needs a collection of popular songs, tho I can imagine licensing for that could be challenging. I'd say give it a solid year more of development.",
+      "date": 1766425468,
+      "review_helpful_count": 2,
+      "author_display_name": "MrLotto",
+      "author_alias": "MrLotto",
+      "developer_response": {
+        "body": "Hi MrLotto,\n\nThanks for the honest update. You were actually spot on in your original review regarding the licensing challenges. We did approach major labels, but the cost for a single popular hit is often around $150,000 per year—a price impossible for an indie VR studio like ours to sustain.\n\nHowever, we didn't want that to stop the music. Instead, we poured our limited resources into handpicking and licensing 78 energetic indie tracks specifically suited for dancing.\n\nWhile they may not be famous radio hits, we genuinely believe these artists deserve to be heard and that every level offers a unique, fun challenge. We hope you might find a few hidden gems in this massive collection that make the game worth your time.",
+        "date": 1766455037
+      }
+    },
+    {
+      "id": "755286821008976",
+      "score": 2,
+      "review_title": "Not for beginners",
+      "review_description": "For someone who wants to learn to dance, this is not the app to do it. There are no instructions other than to follow the instructor, who moves way too fast for beginners. There is no progression system where you first learn a few basic movements, then progress to more complex combinations. You just have to do the entire routine at full speed, which is discouraging for someone who hasn't even mastered the basics. Honestly, I can learn to dance better by watching YouTube videos.\n\nIf you are an advanced or experienced dancer, then this app may be for you. Otherwise, there's a steep learning curve to just get the basic movements.",
+      "date": 1758560172,
+      "review_helpful_count": 41,
+      "author_display_name": "KickingAss88",
+      "author_alias": "KickingAss88",
+      "developer_response": {
+        "body": "Hi KickingAss88,\n\nThank you for your honest feedback. We completely understand your frustration regarding the steep learning curve and the lack of instructions for beginners.\n\nWe took your feedback to heart and have just released a major update to address exactly this! We have introduced a brand-new Basic Dance Tutorial level designed to help players master the movements step-by-step before hitting full speed.\n\nAdditionally, we've added 17 new songs to the library. We hope these changes make the learning process much smoother and more enjoyable. We would love for you to give it another try!",
+        "date": 1766452046
+      }
+    },
+    {
+      "id": "834405862527853",
+      "score": 1,
+      "review_title": "Not for me",
+      "review_description": "I believe the game is great for learning to dance certain dance moves, however I did not recognise any song in the game. All the songs are very bad in my opinion. As a man, I feel very odd doing some of these dance moves. I believe my girlfriend will enjoy this game. It would be nice if they put better songs and catered to all genders rather than just one.",
+      "date": 1763347942,
+      "review_helpful_count": 1,
+      "author_display_name": "Dalia_Mike13",
+      "author_alias": "Dalia_Mike13",
+      "developer_response": {
+        "body": "Hi, Dalia_Mike13, thank you for your feedback. Due to the small size of the current VR market and our studio's limited budget, we simply cannot afford the high licensing fees for popular hit music. As far as we know, the licensing fee for a single popular song starts at around $150,000 per year, which far exceeds what a dance VR game can reasonably bear. Despite this, we have done our best to select the most suitable music for dancing within our budget. The game currently includes 55 free songs covering various dance styles such as jazz, hip-hop, and Zumba. You can find them in the game by filtering with dance style tags. Additionally, we are continuously working on introducing more music and developing new dance levels, which we plan to add as free content updates to the official release in the near future. We hope you will enjoy them. Thank you once again for your understanding and support of Dance Eden.",
+        "date": 1763353300
+      }
+    },
+    {
+      "id": "889463447581730",
+      "score": 5,
+      "review_title": "best game",
+      "review_description": "How about we get Michael Jackson and Bruno Mars music pack, that would be awesome and more 90s and 2000s hip hop",
+      "date": 1763729977,
+      "review_helpful_count": 4,
+      "author_display_name": "wilson.29935",
+      "author_alias": "wilson.29935",
+      "developer_response": null
+    },
+    {
+      "id": "894113107109040",
+      "score": 5,
+      "review_title": "5/5 Would Recommend",
+      "review_description": "GUYS ADD K-POP DEMON HUNTERS SONGS, EVERYONE LOVES THE MOVIE!!!! MAKE MORE PEOPLE HAPPY WITH K-POP DEMON HUNTERS SONGS EVERYONE WILL LOVE IT🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩",
+      "date": 1760700922,
+      "review_helpful_count": 3,
+      "author_display_name": "Alberta611tt",
+      "author_alias": "Alberta611tt",
+      "developer_response": null
+    },
+    {
+      "id": "856983380156112",
+      "score": 1,
+      "review_title": "Songs are boring",
+      "review_description": "Honestly they need more hype songs",
+      "date": 1765083644,
+      "review_helpful_count": 1,
+      "author_display_name": "cutebeast",
+      "author_alias": "cutebeast",
+      "developer_response": {
+        "body": "Hi cutebeast,\n\nThank you for the honest feedback. We completely agree that a dance game needs high-energy, \"hype\" music to be fun.\n\nWe actually looked into licensing the famous mainstream hits you are likely thinking of. However, the cost for a single top-tier song is often around $150,000 per year—a price tag that is simply impossible for a small indie studio like ours.\n\nWe didn't want to give up, though. Instead of buying one expensive song, we used our resources to handpick and license 105 energetic indie tracks. We selected them specifically for their beat and danceability.\n\nWe know they aren't famous radio hits, but we believe there are some real hidden gems in that collection that offer a great workout. We hope you'll explore the list and find a few that get you moving!",
+        "date": 1766453155
+      }
+    },
+    {
+      "id": "712821905244763",
+      "score": 4,
+      "review_title": "Had to let myself have fun",
+      "review_description": "This isn’t the easiest to follow. The moves aren’t explicitly explained. The first time I tried it I was a little defeated. I took a break and then remembered… it’s dancing! I don’t have to hit every move. And now I’m having fun. Maybe I’ll get better? Maybe not. Doesn’t matter. I get some different movement.",
+      "date": 1751941642,
+      "review_helpful_count": 38,
+      "author_display_name": "Nicoleissketchy",
+      "author_alias": "Nicoleissketchy",
+      "developer_response": null
+    },
+    {
+      "id": "847851458403597",
+      "score": 2,
+      "review_title": "Not fun at all",
+      "review_description": "Very disappointed with the bad music, absolutely nothing that gets my energy going, no bass at all, bad songs with squeaky voices",
+      "date": 1758343145,
+      "review_helpful_count": 5,
+      "author_display_name": "GoldTiger6185",
+      "author_alias": "GoldTiger6185",
+      "developer_response": null
+    },
+    {
+      "id": "748262878380333",
+      "score": 5,
+      "review_title": "Good until i couldn't play 😢",
+      "review_description": "Favorite game, but needs these updates.",
+      "date": 1761105289,
+      "review_helpful_count": 0,
+      "author_display_name": "agatha.65R",
+      "author_alias": "agatha.65R",
+      "developer_response": null
+    },
+    {
+      "id": "699268403269690",
+      "score": 5,
+      "review_title": "Great game, but it needs more songs",
+      "review_description": "I'm crazy about this game; I'm literally addicted to it. It's not only fun and therapeutic but also helps with weight loss. However, I sincerely hope it can add more songs or albums and regularly provide online playback of popular songs or new releases, but preferably with a greater variety. After all, what else is there to play after purchasing it? Unless more content is added, and I don't mean just one or two, it will be very boring, and I truly don't like that because I'm crazy about this game.",
+      "date": 1751632240,
+      "review_helpful_count": 7,
+      "author_display_name": "alyssa00",
+      "author_alias": "alyssa00",
+      "developer_response": null
+    },
+    {
+      "id": "705797449293258",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "i just got this game today and it’s been difficult to want to put it down! even w difficult levels, it gives me a challenge. loving this game!!",
+      "date": 1757078312,
+      "review_helpful_count": 0,
+      "author_display_name": "jacqueline0",
+      "author_alias": "jacqueline0",
+      "developer_response": null
+    },
+    {
+      "id": "818232698039833",
+      "score": 5,
+      "review_title": "Fun and good for exercise",
+      "review_description": "that game is soooooooo cool i love that game thats best game ever but only wen you love music or just love that",
+      "date": 1760407249,
+      "review_helpful_count": 0,
+      "author_display_name": "althea.332340",
+      "author_alias": "althea.332340",
+      "developer_response": null
+    },
+    {
+      "id": "859179190616055",
+      "score": 5,
+      "review_title": "100 Million Achievement ❤️‍🔥❤️‍🔥❤️‍🔥❤",
+      "review_description": "Made my day! I keep coming back to DANCE EDEN time and time again! There’s nothing quite like it❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥",
+      "date": 1761827386,
+      "review_helpful_count": 0,
+      "author_display_name": "Adeleeeee",
+      "author_alias": "Adeleeeee",
+      "developer_response": null
+    },
+    {
+      "id": "919211971264669",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Honestly, the game has good quality, good songs. But you have to pay for it, but that's good cause you get some free songs. That's good cause then you can like try out something. And then you can buy it",
+      "date": 1762518759,
+      "review_helpful_count": 0,
+      "author_display_name": "elizabeth.1w",
+      "author_alias": "elizabeth.1w",
+      "developer_response": null
+    },
+    {
+      "id": "687536271099300",
+      "score": 5,
+      "review_title": "Just a suggestion",
+      "review_description": "I love this game so much but I have one suggestion, you should add Coldplay songs, like The Scientist, A Sky Full of Stars, Viva La Vida, Paradise, etc. You don't have to do it but I think that lots and lots of people would love it because coldplay is a very popular band and has very popular songs and it would bring more people to your game because the songs are so popular, you don't have to do it but I think that you should think about it!",
+      "date": 1747361205,
+      "review_helpful_count": 23,
+      "author_display_name": "zalthar8888",
+      "author_alias": "zalthar8888",
+      "developer_response": null
+    },
+    {
+      "id": "768290386378717",
+      "score": 5,
+      "review_title": "no doubt 5 stars",
+      "review_description": "Love this game. Great work out, fun, and adjustable difficulty settings keep it interesting. Devs should add a way to make song suggestions. If you add the Kpop Demon Hunter album to this game. . .You would be rolling in cash",
+      "date": 1761307692,
+      "review_helpful_count": 0,
+      "author_display_name": "afra.18AA",
+      "author_alias": "afra.18AA",
+      "developer_response": null
+    },
+    {
+      "id": "635114739695765",
+      "score": 5,
+      "review_title": "What can I say…",
+      "review_description": "This game is a ton of fun and also works well for exercise   I always look forward to songs they add in the future.",
+      "date": 1752237574,
+      "review_helpful_count": 3,
+      "author_display_name": "By52dance",
+      "author_alias": "By52dance",
+      "developer_response": null
+    },
+    {
+      "id": "714017601785902",
+      "score": 5,
+      "review_title": "Good r",
+      "review_description": "I love this game so much I only have one problem with it but even then it is not horrible this game has a grate  I ask to add more songs that are updated with the new style of difficulty or rework them",
+      "date": 1749213975,
+      "review_helpful_count": 7,
+      "author_display_name": "CampbellLayla",
+      "author_alias": "CampbellLayla",
+      "developer_response": null
+    },
+    {
+      "id": "895914323596562",
+      "score": 5,
+      "review_title": "This game is fun but hard",
+      "review_description": "I think this was my first experience of oculus, it was fantastic... and I'm still playing it. It's just great!",
+      "date": 1762431163,
+      "review_helpful_count": 0,
+      "author_display_name": "zalthar999",
+      "author_alias": "zalthar999",
+      "developer_response": null
+    },
+    {
+      "id": "787666074425005",
+      "score": 5,
+      "review_title": "An exercise I can enjoy",
+      "review_description": "It's a good game. I love games with good music",
+      "date": 1755260307,
+      "review_helpful_count": 0,
+      "author_display_name": "alisa23",
+      "author_alias": "alisa23",
+      "developer_response": null
+    },
+    {
+      "id": "766375209881440",
+      "score": 5,
+      "review_title": "songs",
+      "review_description": "need more top hit songs makes it more fun if your more interested in the song",
+      "date": 1752843837,
+      "review_helpful_count": 2,
+      "author_display_name": "james.419028",
+      "author_alias": "james.419028",
+      "developer_response": null
+    },
+    {
+      "id": "735670056297443",
+      "score": 5,
+      "review_title": "Best game ever",
+      "review_description": "An exercise I can enjoy",
+      "date": 1755261948,
+      "review_helpful_count": 1,
+      "author_display_name": "katherin23",
+      "author_alias": "katherin23",
+      "developer_response": null
+    },
+    {
+      "id": "828420517021906",
+      "score": 5,
+      "review_title": "I LOVE THIS GAME",
+      "review_description": "The games great and fun but I cant find alot of songs to my taste, please add some sort of way to get more songs from mods",
+      "date": 1760613685,
+      "review_helpful_count": 0,
+      "author_display_name": "alice.33RR2",
+      "author_alias": "alice.33RR2",
+      "developer_response": null
+    },
+    {
+      "id": "630647913476403",
+      "score": 5,
+      "review_title": "Workout",
+      "review_description": "This app is amazing, I use it for workout warm up. It is also a blast to play!",
+      "date": 1751628846,
+      "review_helpful_count": 2,
+      "author_display_name": "lukeluki",
+      "author_alias": "lukeluki",
+      "developer_response": null
+    },
+    {
+      "id": "4164923547065871",
+      "score": 2,
+      "review_title": "This game needs work",
+      "review_description": "It has great potential but at this moment not playable for average or beginner level persons (If you are an advanced or professional dancer ot is for you).\n\n\nAs a an egineer and product tester here are my Suggestions to developers:\n- music list needs songs tailored for beginners and intermediate level users that can easily follow instructions. At the moment you have either extremely hard or expert levels. \nEasy mode would be one that have approximately 7-10 different moves for entire song (at the moment it feels like song have 50+ different moves which rarely repeats. \n\n- add practice mode where coach would help you practice moves without music and only when you master one move then progreess to another and after learning approximately five moves you could start combining into a set of moves. That way players could anticipate dance moves in the song afterwards .\n\n- replayability is the key here and if the game is too hard for average joe he will not play and wont recommend to his friends. Most people would play this game in groups of two or more people and having locked songs that could only be unlocked via solo mode is not going to help to anyone but the andvanced players . \n\n- let non-host users to jnteract with song list so they could help with choosing the song (current lock out of the interface does not help for groups of people to pick a song). Or create voting/suggest a song feature. \n\n- please fix the scale of other player’s head (it is disproportionately smaller than their body) \n\n- remove confirmation dialog window for achievements really annoying when you need to claim progression twice. \n\nThis is the obvious list of suggestion after an hour play. \nAs mentioned before it has potential but it needs to be begginer and intermediate level friendly.",
+      "date": 1742059915,
+      "review_helpful_count": 47,
+      "author_display_name": "crazylit",
+      "author_alias": "crazylit",
+      "developer_response": {
+        "body": "Hi, thank you for your detailed feedback! We’d like to address each of your points:\nRegarding song difficulty, we understand that some songs may not be beginner-friendly. To address this, we are planning to introduce a basic mode specifically designed for beginners. We are currently developing entry-level stages with lower difficulty, ensuring each song includes no more than 8 moves to help players get started more easily.\nAs for the practice mode, this feature is already available in the game! You can use it to repeatedly practice specific dance segments that you find challenging. We encourage you to try it out and share your thoughts with us!\nRegarding the song list voting feature for non-host players, we will carefully evaluate its feasibility to enhance the multiplayer experience.\nWe have identified and fixed the issue with disproportionate head sizes in the latest update.\nThank you again for your support and valuable suggestions for DanceEden! If you’d like to stay updated and engage with us more directly, feel free to join our Discord community for real-time discussions and updates: https://discord.com/invite/danceeden. 😊🎶",
+        "date": 1742531128
+      }
+    },
+    {
+      "id": "585648614642323",
+      "score": 5,
+      "review_title": "I love this game",
+      "review_description": "This game is so fun, but I wish they were more songs you can play for free, so having to pay for them Maybe some Britney Spears and Lady Gaga￼ it would just be great but overall great game￼",
+      "date": 1747361527,
+      "review_helpful_count": 5,
+      "author_display_name": "kitty45o",
+      "author_alias": "kitty45o",
+      "developer_response": null
+    },
+    {
+      "id": "736388886218718",
+      "score": 5,
+      "review_title": "Such an underrated game",
+      "review_description": "This game is definitely one of the must-have vr games",
+      "date": 1752843714,
+      "review_helpful_count": 1,
+      "author_display_name": "octavial",
+      "author_alias": "octavial",
+      "developer_response": null
+    },
+    {
+      "id": "698472399627309",
+      "score": 5,
+      "review_title": "Good dance app",
+      "review_description": "Just like just dance on switch",
+      "date": 1750885092,
+      "review_helpful_count": 2,
+      "author_display_name": "war555444",
+      "author_alias": "war555444",
+      "developer_response": null
+    },
+    {
+      "id": "806367622566657",
+      "score": 5,
+      "review_title": "Super cool game",
+      "review_description": "Beatifull game",
+      "date": 1761032728,
+      "review_helpful_count": 0,
+      "author_display_name": "agnes206_LK",
+      "author_alias": "agnes206_LK",
+      "developer_response": null
+    },
+    {
+      "id": "1145617223970785",
+      "score": 4,
+      "review_title": "Better than just dance",
+      "review_description": "More innovative than just dance VR. I felt the dance was choreographed well and not too difficult to follow if slowed down a bit. It's a bit glitchy, especially in the menus. The robot sometimes sits in front of the song choice I'm trying to view. Choosing appearance options could be a better UI. It kept resetting the colours, my avatars head kept randomly becoming huge compared to the body... While I was looking at things that had nothing to do with head size. But it's definitely got potential. More known music would be great as well.",
+      "date": 1740960538,
+      "review_helpful_count": 19,
+      "author_display_name": "amberinie",
+      "author_alias": "amberinie",
+      "developer_response": {
+        "body": "Thank you for your love and support for Dance Eden! We truly appreciate your feedback, and we’d like to address each of your points:\n\nWe're introducing new beginner dance tutorial maps to help players with little to no dance experience get into the game more easily. In the meantime, you can also use the Practice Mode, where you can slow down the speed to practice at a more comfortable pace.\n\nRegarding the issue of the robot sometimes blocking your view, you can try using the side button on your controller to move the robot to a different position. That said, we take your feedback seriously and are working on an update to improve the robot’s positioning detection to prevent it from overlapping with important UI elements.\n\nWe've identified and fixed the avatar appearance issues, including the color resetting and head size glitch, and we’ll be rolling out a patch soon to resolve these problems.\n\nAs for adding more well-known music, we completely understand the demand! Since we’re still a small studio with a limited budget, licensing popular tracks is a challenge, but we're doing our best to improve the music selection over time.\n\nOnce again, thank you for your support! If you’d like to stay updated and engage with us more directly, feel free to join our Discord community for real-time discussions and updates. 😊🎶",
+        "date": 1740969540
+      }
+    },
+    {
+      "id": "702902586234227",
+      "score": 5,
+      "review_title": "Best game ever",
+      "review_description": "I love that game, probably one of the best vr game. You will not regret buying it",
+      "date": 1749820236,
+      "review_helpful_count": 1,
+      "author_display_name": "wilson.831202",
+      "author_alias": "wilson.831202",
+      "developer_response": null
+    },
+    {
+      "id": "657874870750800",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Multiplayer is fun",
+      "date": 1751628589,
+      "review_helpful_count": 0,
+      "author_display_name": "christopher0",
+      "author_alias": "christopher0",
+      "developer_response": null
+    },
+    {
+      "id": "1079191397302628",
+      "score": 3,
+      "review_title": "Could be great",
+      "review_description": "I like the game but the practice mode sucks. It doesn’t show you how to do the dance moves and is the same as the regular game mode. If it actually showed you how to do the dance then It would be ten times better. This game right now is not for beginners like me.",
+      "date": 1743310088,
+      "review_helpful_count": 5,
+      "author_display_name": "amberrose123",
+      "author_alias": "amberrose123",
+      "developer_response": {
+        "body": "Thank you so much for your feedback! We're happy to hear that you enjoy the game, and we’re sorry that the difficulty has been a challenge for you. We’re actively working on beginner-friendly tutorial levels to help players better learn and master the basics of dancing.\n\nAs for the practice mode, its design is intended to analyze your past performance in the main game mode and highlight specific dance segments where improvement is needed. This way, you can focus on practicing individual moves repeatedly to refine your overall performance.\n\nWe’d love to hear more of your thoughts and suggestions! Feel free to join our Discord community to share your feedback and stay updated on our latest events. Thanks again for your support—we truly appreciate it!\nJoin our Discord here: https://discord.gg/danceeden",
+        "date": 1743406367
+      }
+    },
+    {
+      "id": "593015453891732",
+      "score": 5,
+      "review_title": "",
+      "review_description": "The current number of NPCs (Non-Player Characters) in the game is still limited. If more NPC interactions could be added—such as virtual audience members, dance partners, or mentors—it would make the game more vibrant and engaging. Imagine dancing alongside NPCs on a virtual stage or receiving guidance from virtual mentors—how cool it would be!",
+      "date": 1741355401,
+      "review_helpful_count": 7,
+      "author_display_name": "charlotte.532239",
+      "author_alias": "charlotte.532239",
+      "developer_response": null
+    },
+    {
+      "id": "592875083905807",
+      "score": 5,
+      "review_title": "MOD support!!!",
+      "review_description": "I’m really excited to see that the game has added MOD support! This allows players to create their own dance maps and custom content. As someone who loves hands-on creativity, I finally get to design my own dance scenes—I’ve already made three dance maps! I’m looking forward to seeing more amazing player-created content in the future!",
+      "date": 1741091133,
+      "review_helpful_count": 10,
+      "author_display_name": "sarah.91135",
+      "author_alias": "sarah.91135",
+      "developer_response": null
+    },
+    {
+      "id": "754833974371288",
+      "score": 5,
+      "review_title": "I'M SO EXITED!!!",
+      "review_description": "I'm so excited to play this game ᕕ(՞ᗜ՞)ᕗ",
+      "date": 1749214300,
+      "review_helpful_count": 0,
+      "author_display_name": "ChapmanElla1",
+      "author_alias": "ChapmanElla1",
+      "developer_response": null
+    },
+    {
+      "id": "655354017663250",
+      "score": 5,
+      "review_title": "Best game in VR",
+      "review_description": "Got a vr mainly for this game and I wasn't disappointed",
+      "date": 1748611310,
+      "review_helpful_count": 1,
+      "author_display_name": "raile527",
+      "author_alias": "raile527",
+      "developer_response": null
+    },
+    {
+      "id": "605244132668396",
+      "score": 5,
+      "review_title": "Help! This game cured my social anxiety",
+      "review_description": "Last night  my friends dragged me into a DANCE EDEN multiplayer room and there I was with a bunch of strangers in dinosaur costumes dancing to 'Glorious Land'... I was super nervous at first  but after an hour of just letting loose and dancing, I was laughing so hard my stomach hurt! Now I feel weird if I don't get on and dance for a bit every day!",
+      "date": 1741870024,
+      "review_helpful_count": 4,
+      "author_display_name": "pagP",
+      "author_alias": "pagP",
+      "developer_response": {
+        "body": "Thank you for your kind words! It’s great to know that you’re having fun with Dance Eden! We’re continuously working to enhance the experience, and we’d love for you to join our Discord community to share your thoughts and dance with fellow players!",
+        "date": 1743415825
+      }
+    },
+    {
+      "id": "686495631207698",
+      "score": 5,
+      "review_title": "AMAZING!!",
+      "review_description": "lights just go crazy, overall an awesome game that anybody will 100% enjoy",
+      "date": 1748000480,
+      "review_helpful_count": 1,
+      "author_display_name": "bell.lee",
+      "author_alias": "bell.lee",
+      "developer_response": null
+    },
+    {
+      "id": "513677208506198",
+      "score": 5,
+      "review_title": "⭐️⭐️⭐️⭐️⭐️",
+      "review_description": "From neon-lit cyberpunk cities to ethereal fantasy forests, every scene is packed with immersive details. But the real standout is the MOD support: players can unleash their creativity to build mind-blowing custom stages. This isn’t just a dance game—it’s a sandbox for limitless creation where I can shape the world exactly how I imagine it!!!",
+      "date": 1741358306,
+      "review_helpful_count": 5,
+      "author_display_name": "regina.185502",
+      "author_alias": "regina.185502",
+      "developer_response": null
+    },
+    {
+      "id": "752114467974659",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "This game brought my joy, and it is an overall 10/10 game. You should 100% get this game it will be worth it, and you will not regret it at all. There are a lot of GOOD songs and and you can switch the level of hardness of the song based on your skill level. You can also play online going against people and try to be the best, GET THIS GAME",
+      "date": 1752237016,
+      "review_helpful_count": 1,
+      "author_display_name": "sabina.4",
+      "author_alias": "sabina.4",
+      "developer_response": null
+    },
+    {
+      "id": "621152787742435",
+      "score": 5,
+      "review_title": "",
+      "review_description": "My mom says I look like an electrified octopus.\nThe game is super fun and has great potential. I hope they can add more easy-to-learn dances and more songs. I really like the scenes and the moves of the lead dancer, which are very clear to me. Overall, it deserves a five-star rating🕺💥🕺💥😂 😂 😂 😂 😂 😂 😂",
+      "date": 1742385305,
+      "review_helpful_count": 2,
+      "author_display_name": "Lucas63",
+      "author_alias": "Lucas63",
+      "developer_response": {
+        "body": "Thank you for your support! We're so happy to hear that you're enjoying Dance Eden! We'll continue working hard to make the game even better. Feel free to join our Discord community to share your thoughts and connect with other players! 🎶💃",
+        "date": 1743415763
+      }
+    },
+    {
+      "id": "627225453815095",
+      "score": 5,
+      "review_title": "More songs needed",
+      "review_description": "Please add songs at a faster pace.",
+      "date": 1748001013,
+      "review_helpful_count": 1,
+      "author_display_name": "harryHarry28",
+      "author_alias": "harryHarry28",
+      "developer_response": null
+    },
+    {
+      "id": "740156735838133",
+      "score": 5,
+      "review_title": "Awesome game",
+      "review_description": "If you ever played dance central (I still play it to this day) then you will have a good blueprint on how to play this game. I enjoy it very much and I’m excited for its evolution. One issue is when playing it in MR mode the top song I think it’s called home doesn’t stop playing it’s annoying. Most of the songs are alright, I feel there should be less slow songs and more danceable songs. I know it’s expensive to add licensed artists but if you added more EDM, hip hop or reggaeton songs I can see this app improving. There are people complaining that it has a steep learning curve and sure if you never played a dance game before then yea it’s all rather alien to you. The tutorial in it is alright but a story would improve the experience more. The movement tracking is also an issue, I don’t like the sphere tracking, it’s not always accurate. Just dance has a better tracking solution and I hope they can do one similar to it. The 5 stars I rated this game is mostly for the potential not the current state.",
+      "date": 1751049087,
+      "review_helpful_count": 0,
+      "author_display_name": "ZRow",
+      "author_alias": "ZRow",
+      "developer_response": null
+    },
+    {
+      "id": "692603413345504",
+      "score": 1,
+      "review_title": "Not Dance Challenge",
+      "review_description": "Don’t like the songs, the dance moves are just so so miss Dance Challenge it was a great game.",
+      "date": 1746111969,
+      "review_helpful_count": 0,
+      "author_display_name": "Chadwiick2277",
+      "author_alias": "Chadwiick2277",
+      "developer_response": null
+    },
+    {
+      "id": "695953213592806",
+      "score": 5,
+      "review_title": "The Best!",
+      "review_description": "Pretty fun game but you should add a katseye album",
+      "date": 1761304947,
+      "review_helpful_count": 0,
+      "author_display_name": "daisy1daisy",
+      "author_alias": "daisy1daisy",
+      "developer_response": null
+    },
+    {
+      "id": "535904669612407",
+      "score": 5,
+      "review_title": "cool!!!",
+      "review_description": "For beginners, these dance moves present a certain level of challenge, but they also offer rich learning value. However, they provide clear action demonstrations and patient guidance to help beginners understand the essentials of the moves. It's really cool.",
+      "date": 1739190934,
+      "review_helpful_count": 5,
+      "author_display_name": "jacob.738118",
+      "author_alias": "jacob.738118",
+      "developer_response": null
+    },
+    {
+      "id": "601742505840481",
+      "score": 5,
+      "review_title": "Dance Delight",
+      "review_description": "a VR dance game that has brought the joy of movement and rhythm to my life. It's accessible and engaging, allowing even those without a dance background, like myself, to experience the fun of dancing. The game's variety of songs and dance styles make it a delightful way to exercise while enjoying music. It's a game that makes dancing enjoyable for everyone.",
+      "date": 1735386251,
+      "review_helpful_count": 17,
+      "author_display_name": "KTSAMA",
+      "author_alias": "KTSAMA",
+      "developer_response": null
+    },
+    {
+      "id": "569330066264760",
+      "score": 5,
+      "review_title": "5⭐️ but a few recommendations",
+      "review_description": "Five stars for sure, i have never given a game five stars before this game is absolutely great! i feel that more rock song artists would make this game even better",
+      "date": 1740145741,
+      "review_helpful_count": 5,
+      "author_display_name": "lily.352350",
+      "author_alias": "lily.352350",
+      "developer_response": null
+    },
+    {
+      "id": "527735350424257",
+      "score": 5,
+      "review_title": "",
+      "review_description": "This game has a bit of a learning curve—you kinda gotta follow the lead dancer once to figure out what all the icons mean. But once you get familiar with the songs, it becomes super fun and keeps you hyped the whole time. It's an awesome dancing game, and I'd totally recommend it to my friends to play together!",
+      "date": 1736306920,
+      "review_helpful_count": 10,
+      "author_display_name": "OldMads2024",
+      "author_alias": "OldMads2024",
+      "developer_response": null
+    },
+    {
+      "id": "605332635991780",
+      "score": 5,
+      "review_title": "International Cringe Dance Cultural Exch",
+      "review_description": "Just yesterday a Japanese player taught me otaku dance moves then today a Brazilian dude showed me samba   Now my dance style is like a chaotic mashup but somehow everyone’s flooded with likes   What’s going on",
+      "date": 1742214821,
+      "review_helpful_count": 2,
+      "author_display_name": "mabel.244063",
+      "author_alias": "mabel.244063",
+      "developer_response": {
+        "body": "We truly appreciate your support! It’s amazing to hear that you’re enjoying Dance Eden! We’re always striving to improve the game, and your feedback means a lot to us. Join our Discord to share your experience and stay updated on future updates!",
+        "date": 1743415795
+      }
+    },
+    {
+      "id": "632579523268202",
+      "score": 5,
+      "review_title": "Love this game",
+      "review_description": "I love it and enjoy the music. This helps me with physical therapy to keep me moving",
+      "date": 1757682591,
+      "review_helpful_count": 0,
+      "author_display_name": "hannah.i",
+      "author_alias": "hannah.i",
+      "developer_response": null
+    },
+    {
+      "id": "631772496684585",
+      "score": 5,
+      "review_title": "It’s fun!!!",
+      "review_description": "It really and as kinda of a good work out",
+      "date": 1757682274,
+      "review_helpful_count": 0,
+      "author_display_name": "iris.241115",
+      "author_alias": "iris.241115",
+      "developer_response": null
+    },
+    {
+      "id": "728769836982631",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "Fantastic game, easy to mod, easy you play, had it for a couple weeks and play it every other day. Really recommend it",
+      "date": 1751024355,
+      "review_helpful_count": 0,
+      "author_display_name": "bblythe",
+      "author_alias": "bblythe",
+      "developer_response": null
+    },
+    {
+      "id": "605766508513419",
+      "score": 5,
+      "review_title": "Dance to your heart's content!",
+      "review_description": "This VR dancing game is so stunning!  Once I put on the device, I was instantly placed in a dreamy dance floor.  The graphics are exquisite, the music is dynamic, and there are abundant dance steps that match the rhythm perfectly.  The motion tracking is highly precise, and every time I raise my hand or turn around, it can give accurate feedback.  It enables me to immerse myself in it to the fullest, enjoy the fun of dancing and release my vitality and passion.  It's undoubtedly the top choice for VR game enthusiasts!",
+      "date": 1735126911,
+      "review_helpful_count": 9,
+      "author_display_name": "Ezra7983",
+      "author_alias": "Ezra7983",
+      "developer_response": null
+    },
+    {
+      "id": "533786946354801",
+      "score": 5,
+      "review_title": "GOOD",
+      "review_description": "Dance Eden is a great game, perfect for dancing at home during leisure time. It's also very user-friendly for beginners, allowing players who have never learned dance to quickly get started and enjoy the game. I give it a rating of 5 out of 5",
+      "date": 1736405238,
+      "review_helpful_count": 6,
+      "author_display_name": "837337102",
+      "author_alias": "837337102",
+      "developer_response": null
+    },
+    {
+      "id": "519955071089268",
+      "score": 5,
+      "review_title": "This game made me want to buy a FBT set!",
+      "review_description": "I played other VR Rhythm games before, but this one is different. This game requires you to do actual dance moves, using your head and limbs, which is far more complicated than shooting or swinging a saber, but much more funnier to play. And thanks to the devs, the tracking on Quest 3 worked fine when I danced.  I noticed there are many moves that require leg moves, they could be done with headsets only, but now I really want to try them out with FBT. The game has coop mode, I guess I'll try them later after improving myself a bit. Fantastic game!",
+      "date": 1735270073,
+      "review_helpful_count": 9,
+      "author_display_name": "Blytbee",
+      "author_alias": "Blytbee",
+      "developer_response": null
+    },
+    {
+      "id": "1077935247417191",
+      "score": 3,
+      "review_title": "Niet beginnersvriendelijk",
+      "review_description": "It looks great. However, I do not find the game beginner-friendly. I did a beginner song but this went way too fast. I know there is a practice mode, but the movements are not explained in that either. You just have to set it to a slower speed and then the coach moves slower. However, there is no breakdown of the movement (or I am missing something). I do not find setting it to a lower speed the best way to practice at all. I prefer that 1 movement is explained completely and that you can then imitate it, after which it goes to full speed at a certain point. So first practicing per move, then simple combinations and after that the songs etc. I am a bit overwhelmed right now.",
+      "date": 1735467819,
+      "review_helpful_count": 4,
+      "author_display_name": "Life_Is_Energy",
+      "author_alias": "Life_Is_Energy",
+      "developer_response": {
+        "body": "Thank you so much for your valuable feedback!\nWe really appreciate your suggestions, and we’ll definitely consider them as we look into improving the practice mode, based on what’s feasible within the current development scope. Some of these changes could work well and improve the experience, while others may be more challenging to implement. Rest assured, we’ll continue working on making the overall experience better and more beginner-friendly.\n\nIn the meantime, feel free to join our Discord channel at https://discord.gg/danceeden to chat with other players and developers. We’d love to hear more of your thoughts as we continue to improve the game!",
+        "date": 1735541117
+      }
+    },
+    {
+      "id": "669597539561308",
+      "score": 5,
+      "review_title": "Idea!!!",
+      "review_description": "I love the game because it has really good songs, lots a background, and avatars!",
+      "date": 1755261592,
+      "review_helpful_count": 0,
+      "author_display_name": "maggieoo",
+      "author_alias": "maggieoo",
+      "developer_response": null
+    },
+    {
+      "id": "572532329268285",
+      "score": 5,
+      "review_title": "Fun fun fun!!!!!!",
+      "review_description": "This is one of the best rhythm games in virtual reality, featuring a vast selection of songs and creative MODs. I highly recommend this game to most people.",
+      "date": 1737554919,
+      "review_helpful_count": 6,
+      "author_display_name": "ulysses.208126",
+      "author_alias": "ulysses.208126",
+      "developer_response": null
+    },
+    {
+      "id": "556844994173234",
+      "score": 5,
+      "review_title": "A very easy to learn game",
+      "review_description": "This dance game really amazed me because it made me feel like I was there, dancing gracefully to the music and my dance instructor. I could also see in the mirror of the game whether my movements were standard, and dress myself up in the game. The music is also my favorite music, and the difficulty is not very difficult compared to others, which is very friendly to me. I cannot do dance that is too difficult now. This game won't do this to me, its difficulty is just right for me.",
+      "date": 1735543968,
+      "review_helpful_count": 6,
+      "author_display_name": "allen.7213",
+      "author_alias": "allen.7213",
+      "developer_response": null
+    },
+    {
+      "id": "525681170635221",
+      "score": 5,
+      "review_title": "",
+      "review_description": "What surprises me is that the game has added a \"create mod\" feature, which is like a godsend for players to tailor their own dance experience. Every time a new hit song starts, I'm instantly plunged into a vibrant dance world, and the room scene has become more visually appealing and convenient.",
+      "date": 1735916567,
+      "review_helpful_count": 4,
+      "author_display_name": "julia.691237",
+      "author_alias": "julia.691237",
+      "developer_response": null
+    },
+    {
+      "id": "587377344452414",
+      "score": 5,
+      "review_title": "DE!!!",
+      "review_description": "I really enjoy playing Dance Eden; it helps me exercise better. I recommend the stage scenes, even though you need to achieve an S rating to unlock them, but I love the lighting",
+      "date": 1738764118,
+      "review_helpful_count": 3,
+      "author_display_name": "amerlia.273611",
+      "author_alias": "amerlia.273611",
+      "developer_response": null
+    },
+    {
+      "id": "554767221044527",
+      "score": 5,
+      "review_title": "An absolute treasure!",
+      "review_description": "This dancing VR game is an absolute treasure! It's so much fun! I was initially worried that VR dancing would be dull, but once I started playing, I just couldn't put it down. The dance moves in the game are designed to be really interesting. There are not only common pop dance steps, but also all kinds of wacky and incredibly creative moves. What's more, this game has an abundance of beautiful outfits. It's really awesome!",
+      "date": 1735182260,
+      "review_helpful_count": 5,
+      "author_display_name": "jim.168133",
+      "author_alias": "jim.168133",
+      "developer_response": null
+    },
+    {
+      "id": "583021968216850",
+      "score": 5,
+      "review_title": "",
+      "review_description": "I enjoy playing this with my sister. The dancing is a great workout. Highly recommend the mod songs. Keep up the good work, guys! I hope to see some different stages one day",
+      "date": 1737194645,
+      "review_helpful_count": 3,
+      "author_display_name": "penelope.571557",
+      "author_alias": "penelope.571557",
+      "developer_response": null
+    },
+    {
+      "id": "564553976752083",
+      "score": 5,
+      "review_title": "More easy dances",
+      "review_description": "For those who are new to dance games, it could use a better onboarding process. This is definitely aimed at dance veterans. But the good news is that the score really doesn't matter. If you're close enough, the game will generously give you a good or great score. Practice makes perfect, and dance like no one's watching😁😁😁😁",
+      "date": 1745500901,
+      "review_helpful_count": 1,
+      "author_display_name": "pop.pop2",
+      "author_alias": "pop.pop2",
+      "developer_response": null
+    },
+    {
+      "id": "666475423213384",
+      "score": 5,
+      "review_title": "Love the game but it's limited",
+      "review_description": "This is a great game. Really fun, good cardio workout",
+      "date": 1749215464,
+      "review_helpful_count": 0,
+      "author_display_name": "belen.265926",
+      "author_alias": "belen.265926",
+      "developer_response": null
+    },
+    {
+      "id": "654272024437324",
+      "score": 5,
+      "review_title": "Best game ever",
+      "review_description": "I let my son play and he loved it 🥰 He started playing and then done well",
+      "date": 1748610577,
+      "review_helpful_count": 1,
+      "author_display_name": "198456451pop.363223",
+      "author_alias": "198456451pop.363223",
+      "developer_response": null
+    },
+    {
+      "id": "486654151204579",
+      "score": 5,
+      "review_title": "Good dance game",
+      "review_description": "Good dance game, very calorie-consuming, two dances and sweat. You can do it with a lot of people. Nice. It would be nice if I could give you some nice clothes every day",
+      "date": 1735111157,
+      "review_helpful_count": 5,
+      "author_display_name": "catcat514",
+      "author_alias": "catcat514",
+      "developer_response": null
+    },
+    {
+      "id": "527115313815545",
+      "score": 5,
+      "review_title": "The fitness effect is quite good.",
+      "review_description": "I love this game; the multiplayer system is really great. I'm not good at dancing, but I've learned a lot by following the lead dancer. I hope more new songs and dances will be added.",
+      "date": 1734965089,
+      "review_helpful_count": 5,
+      "author_display_name": "luna.117794",
+      "author_alias": "luna.117794",
+      "developer_response": null
+    },
+    {
+      "id": "631323610055414",
+      "score": 5,
+      "review_title": "DANCEEDEN!!!",
+      "review_description": "Who knew dancing in thin air could feel this electrifying! The motion capture is so precise, even my finger twitches resonate with the drumbeats. Every time I nail the beat, it's like high-fiving the music itself",
+      "date": 1742561780,
+      "review_helpful_count": 0,
+      "author_display_name": "madelineMA",
+      "author_alias": "madelineMA",
+      "developer_response": {
+        "body": "We're thrilled to hear that you’re enjoying Dance Eden! We’re committed to continuously improving the game, and we’d love for you to join our Discord community to share your experiences and connect with other players. Thank you for your support! 🎶💃",
+        "date": 1743415706
+      }
+    },
+    {
+      "id": "462635023595950",
+      "score": 5,
+      "review_title": "That's awesome!",
+      "review_description": "As a music lover, I really enjoy the music in it. There are so many dance moves, and I might give it a try when I have some free time.",
+      "date": 1728714012,
+      "review_helpful_count": 10,
+      "author_display_name": "mellww",
+      "author_alias": "mellww",
+      "developer_response": null
+    },
+    {
+      "id": "659047723320072",
+      "score": 1,
+      "review_title": "Music",
+      "review_description": "I found it hard to dance to music I have never heard before.  For me, none of the music was relatable.  Maybe for others this will not be a big deal.",
+      "date": 1740890939,
+      "review_helpful_count": 0,
+      "author_display_name": "Jleighty",
+      "author_alias": "Jleighty",
+      "developer_response": {
+        "body": "Hi, thanks for your feedback!\nAs a small but growing studio, we unfortunately can’t afford the high licensing costs of popular music at the moment—sorry that the selection didn’t quite meet your expectations. That said, we’re always on the lookout for great, danceable tracks that are both enjoyable and affordable, so we’d love for you to give it another shot!\nAlso, we’ve recently added a MOD feature, so if you have favorite songs, you can create your own dance maps. We think it could be a fun way to personalize your experience and bring some exciting surprises!\nThanks again for trying the game, and we appreciate your support!",
+        "date": 1741055052
+      }
+    },
+    {
+      "id": "439572059246245",
+      "score": 5,
+      "review_title": "",
+      "review_description": "DANCE!! 💃💃💃💃💃💃 \n🎃🎃🎃",
+      "date": 1730293394,
+      "review_helpful_count": 0,
+      "author_display_name": "1666661w",
+      "author_alias": "1666661w",
+      "developer_response": null
+    },
+    {
+      "id": "439186685947407",
+      "score": 4,
+      "review_title": "The dance experience is unique",
+      "review_description": "Among countless VR games, this dance one is truly unique.\n\nFirst, it's the most immersive I've played. Real-time feedback on actions is excellent. Players know instantly if they're on track and can adjust. It boosts interactivity and fun.\n\nSecond, two modes—practice and stage. Practice hones skills. Stage offers real-stage excitement. Different scenes for dancing with friends enhance social and playable aspects.\n\nAlso, many songs of various styles. From pop to classical, it caters to different tastes. Adds variety and challenge.\nIn conclusion, this VR dance game is highly worth playing for its immersion, modes, songs, and social nature.",
+      "date": 1728742721,
+      "review_helpful_count": 8,
+      "author_display_name": "ki140118",
+      "author_alias": "ki140118",
+      "developer_response": null
+    },
+    {
+      "id": "434056569793519",
+      "score": 5,
+      "review_title": "a game that is eye-catching",
+      "review_description": "This dance game is amazing! The rich song library and diverse dance styles allow me to find my favorite tracks every time. The graphics are stunning, the rhythm is strong, and the smooth gameplay immerses me completely in the joy of dancing.",
+      "date": 1728655758,
+      "review_helpful_count": 8,
+      "author_display_name": "jackes_029",
+      "author_alias": "jackes_029",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T01:47:57Z"
+}

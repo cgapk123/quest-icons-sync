@@ -1,0 +1,42 @@
+{
+  "app_id": "4020753624694111",
+  "package_name": "com.dataart.WatchmakersZoo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Watchmaker's Zoo",
+  "rating_average": 2.3333333333333,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1484569186509913",
+      "score": 4,
+      "review_title": "Blue Snake",
+      "review_description": "Great game, just too short. Would be great to see more though!",
+      "date": 1775946587,
+      "review_helpful_count": 0,
+      "author_display_name": "bertieboot",
+      "author_alias": "bertieboot",
+      "developer_response": null
+    },
+    {
+      "id": "1230986348114394",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "I enjoyed this puzzle adventure and the puzzle's were very unique and fun to solve. I would like to see free movement instead of teleport and would love to see more puzzles as well. Perhaps in the future. Thank you very much",
+      "date": 1728450562,
+      "review_helpful_count": 4,
+      "author_display_name": "Mushroomies",
+      "author_alias": "Mushroomies",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:48:44Z"
+}

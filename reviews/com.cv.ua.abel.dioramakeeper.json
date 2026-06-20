@@ -1,0 +1,48 @@
+{
+  "app_id": "34870799595899214",
+  "package_name": "com.cv.ua.abel.dioramakeeper",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Diorama keeper",
+  "rating_average": 3,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "2840774699619338",
+      "score": 4,
+      "review_title": "Fun but difficult",
+      "review_description": "Cool concept and interesting gameplay, but it was a bit hard for me personally. It would be great to have more hints during the game. The shooter mechanics were surprisingly fun.",
+      "date": 1779091891,
+      "review_helpful_count": 0,
+      "author_display_name": "loderuner",
+      "author_alias": "loderuner",
+      "developer_response": {
+        "body": "Hello, thank you for the feedback! More improvements have just been pushed in update v0.7.0.",
+        "date": 1779378390
+      }
+    },
+    {
+      "id": "1507601110909921",
+      "score": 2,
+      "review_title": "Doesn't make sense",
+      "review_description": "Game seems cool but...the main menu i wasn't really sure what to press to play the game. I pressed one thing and it played a cinematic so I tried the other and im playing. Switching from isometric to first person is cool but not being able to move in first person is odd. And then I get to the very first puzzle a key and no matter what I do (pretty sure I tried every combo) I cant unlock the door. Unfortunately gonna try to get refund on this one :/",
+      "date": 1778631702,
+      "review_helpful_count": 0,
+      "author_display_name": "jakenut86",
+      "author_alias": "jakenut86",
+      "developer_response": {
+        "body": "Hello, thank you for the feedback! I'm going to make the menu items more intuitive. I was trying to avoid text titles entirely, but I see your point. I’ll also look into adding an option to enable first-person movement. Regarding the lock puzzle: when you rotate the key, each pin lifts a corresponding plate based on the key's shape settings. All plates must be perfectly aligned to allow the orange lock bolt to slide into the next position. And yes, you have to do this twice, just like a real lock.\nUpdate: in v0.5.0 - Added more menu labels and an option to skip certain puzzles.",
+        "date": 1778773409
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:45:59Z"
+}

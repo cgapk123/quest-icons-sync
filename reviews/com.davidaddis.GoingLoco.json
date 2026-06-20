@@ -1,0 +1,89 @@
+{
+  "app_id": "7178858828899298",
+  "package_name": "com.davidaddis.GoingLoco",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Going Loco",
+  "rating_average": 4.7,
+  "rating_count": 10,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "723468243575199",
+      "score": 5,
+      "review_title": "Awesome Puzzle game with great graphics",
+      "review_description": "This is a amazing as puzze game with cool as Graphics!",
+      "date": 1748523277,
+      "review_helpful_count": 1,
+      "author_display_name": "skyvuc",
+      "author_alias": "skyvuc",
+      "developer_response": null
+    },
+    {
+      "id": "592570947264912",
+      "score": 3,
+      "review_title": "Nice Puzzle But!!!",
+      "review_description": "you move it round great but not up or down , that a bit of a pain..",
+      "date": 1736775438,
+      "review_helpful_count": 0,
+      "author_display_name": "CoolGary",
+      "author_alias": "CoolGary",
+      "developer_response": {
+        "body": "Hi, thanks for trying Going Loco! I'll add this feature in the next release. :)\n\nEdit: It's in! Please update to version 0.1.2 or later and you can change the level height in the settings, or use the new \"Auto Height\" feature which keeps it at a comfortable level based on your starting position.",
+        "date": 1737231464
+      }
+    },
+    {
+      "id": "1636449416961370",
+      "score": 5,
+      "review_title": "Fun transport themed strategy puzzle",
+      "review_description": "This game puts an AR twist on a fun transport themed strategy game. Your goal is to fix roads, train tracks and airport runways to direct vehicles safely to their destinations. As more paths and vehicles of different speeds come into play, the challenge ramps up in the best way. If you’re into strategy games that make you think and adapt, this one’s a must-try. Looking forward to conquering the next set of levels!",
+      "date": 1737556690,
+      "review_helpful_count": 1,
+      "author_display_name": "foottoby",
+      "author_alias": "foottoby",
+      "developer_response": null
+    },
+    {
+      "id": "1148013747328968",
+      "score": 5,
+      "review_title": "Lovely Puzzle Experience",
+      "review_description": "Really pleasantly surprised with the amount of content on early access. It's a comforting but engaging puzzle game based on creating success routes for cars and trains. The levels are nice and I'm excited to see as more depth comes into play. Being able to see your pieces before starting is great to, I can plan my routes and then execute (and sometimes fail).\n\nFinding out there's an MR mode was the cherry on top! Love it.",
+      "date": 1736680641,
+      "review_helpful_count": 1,
+      "author_display_name": "FinnDlee",
+      "author_alias": "FinnDlee",
+      "developer_response": null
+    },
+    {
+      "id": "564054033449457",
+      "score": 5,
+      "review_title": "Engaging Puzzle Fun with a Strategic Twi",
+      "review_description": "This game is a delightful mix of puzzle-solving and strategy! The goal of repairing roads to guide vehicles to their destinations is simple at first but becomes satisfyingly complex as multiple paths and vehicles with varying speeds are introduced. The challenge of organizing the perfect route adds a layer of craziness, balanced beautifully by the peaceful background environment and engaging music.\n\nIt’s a game that keeps your brain active and your creativity flowing. Highly recommended for anyone who enjoys thoughtful, strategic gameplay with a touch of chaos. Can’t wait to tackle more levels! 🚗🛠️",
+      "date": 1736278406,
+      "review_helpful_count": 4,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": null
+    },
+    {
+      "id": "520615911141137",
+      "score": 5,
+      "review_title": "A delightful puzzling experience",
+      "review_description": "This game gets its hooks into you early, the well thought out mechanics  of moving the pieces of road and track becomes strangely therapeutic - I found myself replaying levels to get perfect scores whilst enjoying the occasional train crash!! Definitely worth picking up",
+      "date": 1737466671,
+      "review_helpful_count": 1,
+      "author_display_name": "wakefield.156223",
+      "author_alias": "wakefield.156223",
+      "developer_response": null
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:48:58Z"
+}

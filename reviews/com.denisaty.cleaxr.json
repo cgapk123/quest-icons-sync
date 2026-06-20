@@ -1,0 +1,53 @@
+{
+  "app_id": "7425501237555359",
+  "package_name": "com.denisaty.cleaxr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "CleaXR",
+  "rating_average": 2,
+  "rating_count": 9,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1316105399466783",
+      "score": 2,
+      "review_title": "",
+      "review_description": "This is great except for one major flaw, you can't set the width of the head. My vacuums head is a good 1.5 times wider than the default width, so this is pretty much useless for me and anyone with a bigger vacuum.",
+      "date": 1745936666,
+      "review_helpful_count": 13,
+      "author_display_name": "69Human69",
+      "author_alias": "69Human69",
+      "developer_response": null
+    },
+    {
+      "id": "460621623801255",
+      "score": 4,
+      "review_title": "Well, it works",
+      "review_description": "Only 2 issues; brush head width isn’t accurate, mounting controller to vacuum is an issue. The mapping however works fairly well. I’m sure a 3D printed controller mount would fix one of the issues. Devs need to look into the width issue though.",
+      "date": 1729897904,
+      "review_helpful_count": 10,
+      "author_display_name": "Slayer1703",
+      "author_alias": "Slayer1703",
+      "developer_response": null
+    },
+    {
+      "id": "955267783194286",
+      "score": 2,
+      "review_title": "Only shows path in tiny window",
+      "review_description": "I would actually give this five stars if I wasn’t looking through a 5 inch window of my progress with metrics on it.",
+      "date": 1736135075,
+      "review_helpful_count": 0,
+      "author_display_name": "Ninjatoots1999",
+      "author_alias": "Ninjatoots1999",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:52:02Z"
+}
