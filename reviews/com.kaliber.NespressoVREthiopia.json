@@ -1,0 +1,42 @@
+{
+  "app_id": "1940525362686304",
+  "package_name": "com.kaliber.NespressoVREthiopia",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Nespresso AAA Experience",
+  "rating_average": 2.25,
+  "rating_count": 4,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "2002074723266797",
+      "score": 3,
+      "review_title": "I drink mud.",
+      "review_description": "Conceivably you could give these workers more money and reduce the quality of the coffee, and everyone would be fine.",
+      "date": 1617634731,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "1016787708497964",
+      "score": 2,
+      "review_title": "Just a promotional video.",
+      "review_description": "This app plays a short Nespresso 360° promo video, showing where their coffee beans come from, how they care about the environment, the local community and so on.",
+      "date": 1529947750,
+      "review_helpful_count": 0,
+      "author_display_name": "FunKing",
+      "author_alias": "FunKing",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T14:00:47Z"
+}

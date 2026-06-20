@@ -1,0 +1,67 @@
+{
+  "app_id": "6769625629744456",
+  "package_name": "com.junglevr.crazycookvrtest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Crazy Cook",
+  "rating_average": 4.125,
+  "rating_count": 8,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "5188446331243414",
+      "score": 2,
+      "review_title": "Tricked by the good art",
+      "review_description": "Art is good but the programming is bad.  Which means slashing is not satisfying.  Framerate is too low.  Just a poorly made game.",
+      "date": 1653589845,
+      "review_helpful_count": 4,
+      "author_display_name": "RCollaborator",
+      "author_alias": "RCollaborator",
+      "developer_response": {
+        "body": "Hello,  Are you using a Quest 1 ? As it only works for Quest 2, not 1. \nI know it says Quest and Quest 2 but Meta has to change as it to only Quest 2. \nYou can ask for your money back. \nBest !",
+        "date": 1654616894
+      }
+    },
+    {
+      "id": "2212759422214531",
+      "score": 5,
+      "review_title": "Very fun game !",
+      "review_description": "Design is great. Lot's of fun with the fam.",
+      "date": 1654616407,
+      "review_helpful_count": 4,
+      "author_display_name": "HelloFlogamingvr",
+      "author_alias": "HelloFlogamingvr",
+      "developer_response": null
+    },
+    {
+      "id": "453848424393696",
+      "score": 5,
+      "review_title": "Cool game",
+      "review_description": "It’s fun and it’s free but it needs more modes other than that nice game",
+      "date": 1731460179,
+      "review_helpful_count": 2,
+      "author_display_name": "Tucker8276",
+      "author_alias": "Tucker8276",
+      "developer_response": null
+    },
+    {
+      "id": "370959669430296",
+      "score": 5,
+      "review_title": "Fun for kids!",
+      "review_description": "This is my child's favorite game on VR right now",
+      "date": 1719598809,
+      "review_helpful_count": 2,
+      "author_display_name": "Megan7908",
+      "author_alias": "Megan7908",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T13:59:31Z"
+}

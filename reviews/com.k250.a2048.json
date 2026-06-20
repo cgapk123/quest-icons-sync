@@ -1,0 +1,34 @@
+{
+  "app_id": "24089711247392519",
+  "package_name": "com.k250.a2048",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "2048",
+  "rating_average": 3,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1078541942005088",
+      "score": 3,
+      "review_title": "Controls need work",
+      "review_description": "The micro gestures work well, but there was no explanation of how to use them and I had to google it; an in-game tutorial would be welcome. also I keep accidently activating the teleport one that moves the board around and in getting it back to where i wanted it its making moves. Controller support would be appreciated as an option as well, but if the teleport to move the board could be disabled as an option that would be better than it currently is.",
+      "date": 1774849421,
+      "review_helpful_count": 2,
+      "author_display_name": "chamtong",
+      "author_alias": "chamtong",
+      "developer_response": {
+        "body": "Hi there! Thank you so much for taking the time to share this feedback — it's incredibly helpful and honestly spot-on.\n\nYou're absolutely right that the micro gestures need a proper introduction. Nobody should have to go on a side quest (pun intended) just to figure out how to play! An in-game tutorial is now on our to-do list.\n\nAs for the accidental teleport moving the board around and sneaking in unwanted moves — I totally get how frustrating that must be. That's actually going to be the first thing we tackle: adding an option to disable teleport-to-move so your board stays right where you want it.\n\nYour suggestions are genuinely awesome, and we really appreciate players like you who help us make the app better. Stay tuned for updates! 🙏",
+        "date": 1775572501
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T13:59:52Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "10025541290877942",
+  "package_name": "com.jungle.forest.tour.tulip",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Jungle - Virtual Forest Tour",
+  "rating_average": 1.5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "935256075735467",
+      "score": 1,
+      "review_title": "Worst Purchase Ever",
+      "review_description": "I was denied a refund for the worst game ever! It didn't work. The graphics were horrible. AI slop rendering would look better and probably function better too.",
+      "date": 1771131485,
+      "review_helpful_count": 2,
+      "author_display_name": "caychelle",
+      "author_alias": "caychelle",
+      "developer_response": null
+    },
+    {
+      "id": "845594171660137",
+      "score": 2,
+      "review_title": "Doesn't work",
+      "review_description": "Starts off in jungle but cannot move at all.  You are in a fixed scene.",
+      "date": 1763932725,
+      "review_helpful_count": 0,
+      "author_display_name": "User06066",
+      "author_alias": "User06066",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T13:59:25Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "6129291603780330",
+  "package_name": "com.kento.tomonari.KarakuriKengeki",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "KARAKURI KENGEKI",
+  "rating_average": 2.6666666666667,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "365971253260753",
+      "score": 2,
+      "review_title": "Respawn system is bad",
+      "review_description": "Having to respawn at the first level means that I cant get past level 3.",
+      "date": 1719068179,
+      "review_helpful_count": 1,
+      "author_display_name": "minipixel",
+      "author_alias": "minipixel",
+      "developer_response": null
+    },
+    {
+      "id": "322858087476533",
+      "score": 5,
+      "review_title": "The best wording game",
+      "review_description": "Samurai game for $15 on the quest",
+      "date": 1711404668,
+      "review_helpful_count": 4,
+      "author_display_name": "animal.rivals.is.king",
+      "author_alias": "animal.rivals.is.king",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T14:02:23Z"
+}
