@@ -1,0 +1,48 @@
+{
+  "app_id": "5326454217425484",
+  "package_name": "com.mai.bodymap",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "BodyMap for Anatomy and Medical Education",
+  "rating_average": 3.7391304347826,
+  "rating_count": 23,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "407529942453101",
+      "score": 1,
+      "review_title": "Nope",
+      "review_description": "I understand a lot of work goes into creating and designing such experience and they have the right to charge a fee to access this work but I wish the required annual subscription was mentioned here or at the time of download.",
+      "date": 1730420655,
+      "review_helpful_count": 68,
+      "author_display_name": "egyuno",
+      "author_alias": "egyuno",
+      "developer_response": {
+        "body": "Thank you for taking the time to share your feedback. We appreciate your recognition of the work that goes into creating our app. We strive to be fully transparent about our pricing - all subscription details are available on our pricing page: https://www.mai.ai/pricing. To ensure everyone can try our app risk-free, we offer a free trial period with no obligations. This allows users to fully explore all features before making any commitment. If you'd like to discuss this further or need any assistance, please contact our support team at support@mai.ai. We're always here to help!",
+        "date": 1730425490
+      }
+    },
+    {
+      "id": "411552575372018",
+      "score": 3,
+      "review_title": "Annual Cost",
+      "review_description": "Looks like this cost $149 per year.",
+      "date": 1724091253,
+      "review_helpful_count": 37,
+      "author_display_name": "scott1.574394",
+      "author_alias": "scott1.574394",
+      "developer_response": {
+        "body": "Thank you for your feedback! BodyMap's annual personal subscription is $80. We believe this price reflects the extensive development and ongoing updates that go into creating a high-quality, interactive 3D anatomy learning experience that goes beyond traditional textbooks or static images. We're confident that the depth of learning and engagement BodyMap provides makes it a valuable investment for anyone serious about mastering anatomy.",
+        "date": 1747178941
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T17:00:29Z"
+}

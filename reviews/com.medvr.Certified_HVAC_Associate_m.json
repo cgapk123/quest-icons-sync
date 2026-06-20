@@ -1,0 +1,42 @@
+{
+  "app_id": "8458895237544178",
+  "package_name": "com.medvr.Certified_HVAC_Associate_m",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "HVAC Associate",
+  "rating_average": 3.3333333333333,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "26384439237863725",
+      "score": 1,
+      "review_title": "HVAC",
+      "review_description": "How do I gain access to the training",
+      "date": 1776120983,
+      "review_helpful_count": 1,
+      "author_display_name": "chuck8701",
+      "author_alias": "chuck8701",
+      "developer_response": null
+    },
+    {
+      "id": "605274736008342",
+      "score": 3,
+      "review_title": "Need a username and password",
+      "review_description": "I thought it was going to be something you could just jump in to, but i can't even find a way to create an account",
+      "date": 1745187691,
+      "review_helpful_count": 18,
+      "author_display_name": "Mymommylovesme",
+      "author_alias": "Mymommylovesme",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T17:05:54Z"
+}

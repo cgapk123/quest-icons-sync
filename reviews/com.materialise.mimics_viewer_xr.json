@@ -1,0 +1,34 @@
+{
+  "app_id": "8131103160254825",
+  "package_name": "com.materialise.mimics_viewer_xr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Mimics Viewer XR",
+  "rating_average": 4,
+  "rating_count": 2,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "588096024377993",
+      "score": 3,
+      "review_title": "AR",
+      "review_description": "I prefer this on the HoloLens because of the AR function. I think this would be much more useful in a clinical setting if the background in the Quest app was enabled for AR for Quest 3.",
+      "date": 1740434462,
+      "review_helpful_count": 0,
+      "author_display_name": "rotoranger",
+      "author_alias": "rotoranger",
+      "developer_response": {
+        "body": "Following up on users' feedback, the app now supports passthrough mode on Quest 3, allowing for an AR-style experience similar to HoloLens. This makes it more practical in clinical and real-world settings. Thank you for helping us improve!",
+        "date": 1751528584
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T17:02:54Z"
+}

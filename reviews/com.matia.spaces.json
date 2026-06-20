@@ -1,0 +1,48 @@
+{
+  "app_id": "7371461499647257",
+  "package_name": "com.matia.spaces",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "CoDo Spaces",
+  "rating_average": 3.7,
+  "rating_count": 10,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "524443320753206",
+      "score": 4,
+      "review_title": "Lots of potential. Beautiful locations.",
+      "review_description": "Beautiful locations (only saw the first 10 free ones) \nRefreshingly simple interface.\n\nNeeds a way to sort the destinations.",
+      "date": 1735492677,
+      "review_helpful_count": 4,
+      "author_display_name": "maglor.2023",
+      "author_alias": "maglor.2023",
+      "developer_response": {
+        "body": "Thanks for the feedback. The latest update (v 1.1) has a new feature that allows you to save and sort destinations!",
+        "date": 1738289365
+      }
+    },
+    {
+      "id": "1483827039000876",
+      "score": 1,
+      "review_title": "Way too buggy!",
+      "review_description": "This requires hand tracking and won’t work at all with the controllers! And the hand tracking is so buggy, I had to tap my controllers together literally every second just to press a button because my hands kept disappearing. When I clicked travel one time, it reset my home location to the current one that I was trying to get out of and there was no way to get the original home back without uninstalling and reinstalling the app. The travel is completely random, you can’t save any locations and can only visit four a day. But you have to be careful because the hand tracking is so buggy that clicking the travel button can reset your home location. The hand tracking eventually stopped working completely, and I couldn’t even quit the app. Why on earth are controllers disabled? This is definitely not a relaxing app when it’s so difficult to keep the hand tracking working, tapping controllers together like the Energizer Bunny and having to crook my neck to get to the menu. \n\nIf regular controllers were implemented as well as the normal way to access the menu and quit the app, I’d add a few stars. But right now it’s way too much of a pain. I didn’t even try the social aspect of it. There should also be a way of choosing locations rather than it being random and have the ability to save favorites. The app is an OK concept with pretty enough locations but there’s nothing original about it except the inability to use controllers and the fact that the user has basically no control or ability to make choices. This definitely is not ready for the Meta Store yet, not sure how this got approved. I can’t believe they are actually asking for money for a subscription for this when it’s a bare bones app that doesn’t even work!",
+      "date": 1730807474,
+      "review_helpful_count": 6,
+      "author_display_name": "Alicia_Wonderland",
+      "author_alias": "Alicia_Wonderland",
+      "developer_response": {
+        "body": "We really appreciate the feedback!\n\nHere's a few comments:\n\n1) You can get back to previous spaces, including the original space, from the 'View Previous Spaces' panel (3rd option in the app settings)\n2) You can manually specify your Home space in the Settings - this is where you will return every time you relaunch the app\n3) It's troubling to hear that hand-tracking is so buggy. We are using Meta's default implementation but we will continue to try to improve the responsiveness and stability\n4) Saving and managing favorite spaces is totally on our agenda (remember we're still in beta!), as is creating and modifying user groups and private rooms! We are also working on a companion mobile app to manage this in a more comfortable way because typing and editing information in VR is still awkward.\n5) This app is intentionally bare-bones to keep the interface and concept simple and easy to use. We also have a more complex, modular version that includes wellness modules like co-walking, breathing and brain games: look for CoDo Fit on the app store.\n6) The app is completely free to use for 30 minutes! Beyond that we ask users to help support the bandwidth and maintenance costs with a very modest subscription that you can cancel at any time.",
+        "date": 1734919673
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T17:02:59Z"
+}

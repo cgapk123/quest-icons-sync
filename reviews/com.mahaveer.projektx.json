@@ -1,0 +1,31 @@
+{
+  "app_id": "1469400176440180",
+  "package_name": "com.mahaveer.projektx",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Projekt X",
+  "rating_average": 4,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "808898062608288",
+      "score": 5,
+      "review_title": "Great concept",
+      "review_description": "Fun. Gets quite difficult at the later stages",
+      "date": 1502357269,
+      "review_helpful_count": 5,
+      "author_display_name": "Mully128",
+      "author_alias": "Mully128",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T17:00:22Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "9277146442386260",
+  "package_name": "com.medvr.Certified_HEV_Technician",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "HVAC Technician",
+  "rating_average": 3.25,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "790130944183843",
+      "score": 1,
+      "review_title": "Hvac",
+      "review_description": "app is completely unusable,contacted developer and wwas told i need to pay $150 get a link sent to access it",
+      "date": 1758312903,
+      "review_helpful_count": 3,
+      "author_display_name": "EdgyPuma3731",
+      "author_alias": "EdgyPuma3731",
+      "developer_response": null
+    },
+    {
+      "id": "764863626006191",
+      "score": 2,
+      "review_title": "Login",
+      "review_description": "I can't login",
+      "date": 1753921596,
+      "review_helpful_count": 5,
+      "author_display_name": "dkg1874",
+      "author_alias": "dkg1874",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T17:05:49Z"
+}

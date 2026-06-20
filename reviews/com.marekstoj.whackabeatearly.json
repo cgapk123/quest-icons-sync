@@ -1,0 +1,42 @@
+{
+  "app_id": "7494000624045896",
+  "package_name": "com.marekstoj.whackabeatearly",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Whack A Beat",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "521419557720398",
+      "score": 1,
+      "review_title": "Needs a lot more development",
+      "review_description": "Once the game loads it goes straight into it, when the timer is up the game is over for a very brief period, just long enough to see your score, then it begins again automatically. There’s no way of adding a player name or seeing a score board. It’s literally whack whack whack repeat. The environment is an eternal horizon, I think it could be made better by making you feel like you’re at a fair for example. Maybe have different levels so you progress to having 2 or even 3 rows where moles pop up from. Maybe even make it so you unlock different mallets.",
+      "date": 1735384251,
+      "review_helpful_count": 2,
+      "author_display_name": "2_chucks",
+      "author_alias": "2_chucks",
+      "developer_response": null
+    },
+    {
+      "id": "537057029485426",
+      "score": 1,
+      "review_title": "Needs more development",
+      "review_description": "Basic and very little instruction on how to play or even an indication of a leader board or top score. Downloads quickly but that’s about it.",
+      "date": 1735539103,
+      "review_helpful_count": 1,
+      "author_display_name": "GalacticNarwhal7208",
+      "author_alias": "GalacticNarwhal7208",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T17:01:50Z"
+}
