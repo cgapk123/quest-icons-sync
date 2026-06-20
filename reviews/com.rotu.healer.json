@@ -1,0 +1,150 @@
+{
+  "app_id": "9182199965125002",
+  "package_name": "com.rotu.healer",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Healer",
+  "rating_average": 4.2631578947368,
+  "rating_count": 19,
+  "review_count": 11,
+  "reviews": [
+    {
+      "id": "3008281249362908",
+      "score": 4,
+      "review_title": "Healer",
+      "review_description": "Fun game!  🫠🤙",
+      "date": 1780373302,
+      "review_helpful_count": 0,
+      "author_display_name": "solvangman805",
+      "author_alias": "solvangman805",
+      "developer_response": null
+    },
+    {
+      "id": "1423292416185677",
+      "score": 1,
+      "review_title": "Seems broken?",
+      "review_description": "This is the first quest 3 game I have ever had a problem with. You start the game it seems to run ok until you get to a level where a planet is being bombarded by asteroids. I think the idea is to simply shoot them. If I could ... I'm placed inside a black box. You get a sense of something going on outside of the room which is now a black box. Floor, ceiling and walls are featureless black surfaces. So the game becomes unplayable. I've seen another reviewer have similar problems and i have rescanned the room when asked in the game. I'm hoping some sort of update will fix it because now it's unplayable. Yet any other game I purchase from the meta shop runs like a dream. If an update fixes it I would be happy to update the rating. Finally not everyone uses discord so any advice should be as a reply to this review so others can benefit if they suffer the same fate.\n\nUpdate march 2026:\n\nThis meta app is so unintuitive I am unable to reply to the developers response.... Anyway cleared room as suggested. Rescanned room. Same problems! No better.",
+      "date": 1773865942,
+      "review_helpful_count": 6,
+      "author_display_name": "Hornbydd",
+      "author_alias": "Hornbydd",
+      "developer_response": {
+        "body": "What you’re describing sounds like one of the mixed-reality room setup bugs we’ve been tracking that affects a small number of users. In certain cases, the Quest’s play space data can cause the environment to render incorrectly, which results in the “black box” room you’re seeing.\n\nThe quick fix that usually resolves this is to reset your Quest play room / boundary and rescan your room, then launch the game again. That clears the spatial data the game relies on.\n\nWe’re also actively working on an update that addresses this issue directly, so even if the reset doesn’t solve it on your end, a patch should fix it soon.\n\nThanks again for reporting it here, feedback like this helps us track down these edge cases. If resetting the play space works for you, we’d love to hear back!",
+        "date": 1773703087
+      }
+    },
+    {
+      "id": "1410401327268184",
+      "score": 5,
+      "review_title": "Heal and collect!",
+      "review_description": "This is one of the best mixed reality games of all time! Great fun to just go in, whack a few things around and form planets, heal dimensional tears and continue till you can’t do it anymore. \n\nand when you fail, do it again, this time you’ll do it better!! 👀",
+      "date": 1765486980,
+      "review_helpful_count": 15,
+      "author_display_name": "cloganart",
+      "author_alias": "cloganart",
+      "developer_response": null
+    },
+    {
+      "id": "880059804974148",
+      "score": 5,
+      "review_title": "Interesting, but feels incomplete",
+      "review_description": "2025-12-20 Update - Per the publisher, this is an \"Early Access\" release, though Meta advertised the game as a New Release. I'll bump this to a 5/5 with the understanding that it's not a full release and the \"bones\" are indeed there for a pretty fun game. To the publisher - apologies for the misunderstanding. \n\n--- Original review follows ---\n\nOk so straight from the release notes: \"No long tutorials. No hand-holding. Just an immediate, beautiful disaster.\" \n\nThe game feels more \"unfinished\" than a well designed game that doesn't need tutorials. \n\nAs someone who isn't a stranger to games, it took a few levels to even figure out what was intended gameplay...and on 3 out of  the first 5 playthroughs, I had to exit to main menu and restart because the game seemed to think I still need to clear more germs / orbs / aliens / whatever they are, but nothing existed for me to do. After about 10 minutes of waiting/searching each time, I gave up and restarted.\n\nWith the above said, the gameplay itself is fairly enjoyable (when it's working) and the graphics are cute. The creatures/avatars you collect are cute, though the names are minimal effort to be creative. But that's ok, if the gameplay is fun, who needs overly creative names?\n\nThe puzzles I've encountered so far are extremely easy, possibly intended for a very young audience? Maybe they get better if I play more, but ... I'm not clear what makes this \"rogue-lite\".  \n\nIf it feels like I'm unimpressed with the game, it's more that I feel like it should still be in Early Access. It feels incomplete. But it's also cute and fun, and could be built into something really special.\n\nI'll probably give it a few more attempts, maybe I'm just missing something key in the gameplay. I don't see it being my go-to VR game to grab though.",
+      "date": 1766256138,
+      "review_helpful_count": 5,
+      "author_display_name": "1Unidentifiable1",
+      "author_alias": "1Unidentifiable1",
+      "developer_response": {
+        "body": "Hi 1Unidentifiable1,\nWe’re still in Early Access, which means we’re currently elbow-deep in tightening bolts, polishing levers, and occasionally hitting things with a wrench until they behave. Glad to hear the bones are fun.\nAnd hey, just swapping the first and last letters of famous names isn’t creative? In our defense, the spoonerisms make us laugh.\nHop over to our Discord and tell us the number one thing you want to see next. We'll do our best to make it happen! https://discord.gg/CM8cR7nWXs\n\nAlso, because you’re one of the first 300 brave reviewers, your username will be immortalized inside the game as a hidden Easter egg!\n\nThanks for helping us heal the universe (or make it slightly worse in a fun way).",
+        "date": 1765917376
+      }
+    },
+    {
+      "id": "866302996147639",
+      "score": 5,
+      "review_title": "Fun and Immersive!",
+      "review_description": "As far as mixed reality experiences go, this is one of my favorites! The way the game utilizes your living space is really engaging, and the gameplay is fun as well. Highly recommend this one!",
+      "date": 1768526625,
+      "review_helpful_count": 3,
+      "author_display_name": "LilyKissKari",
+      "author_alias": "LilyKissKari",
+      "developer_response": null
+    },
+    {
+      "id": "884012914149580",
+      "score": 5,
+      "review_title": "This is fun!",
+      "review_description": "It's different than I expected, and lots of fun for this 66 yr old. Fast-paced and different every time I go in. I usually play sitting games and this gets me up and moving. The graphics are amazing.",
+      "date": 1765498769,
+      "review_helpful_count": 10,
+      "author_display_name": "Lettie2443",
+      "author_alias": "Lettie2443",
+      "developer_response": null
+    },
+    {
+      "id": "868239189027923",
+      "score": 5,
+      "review_title": "different mixed reality shooter",
+      "review_description": "a shooter roguelite where you chip away at your IRL surroundings to reveal more gameplay and ethereal biomes. Imagine Space Pirate Trainer meets First Encounters!",
+      "date": 1765991763,
+      "review_helpful_count": 10,
+      "author_display_name": "DuderSeb",
+      "author_alias": "DuderSeb",
+      "developer_response": null
+    },
+    {
+      "id": "1515432603077132",
+      "score": 1,
+      "review_title": "Broken - Refunding",
+      "review_description": "I was really looking forward to this since the first trailer was shown as MR stuff is super interesting when done well, and works great for showing people VR for the first time.\n\nShame not this game.\n\nLaunched the game, accepted the use of my scanned play space and then it was just black.. I assumed loading so waited then as I turned my head i realised that is a black giant wall across the middle of my room.\n\n(Just to clarify i dont have a wall going directly across the centre of my room.\n\nI put my head through the wall and could see my room on the other side.\n\nI walked through the black wall and on the opposite side it wasnt black so I thought ah maybe just a glitch.\n\nStarted a new game, was greated with a paint red cylinder thing in the centre of the room which then blocked half of the options and just had a hint ? In the centre.\n\nI reached over and just clicked whatever I could just to try to game (if that was even possible)\n\nA mode started, i shot twice out of the hand cannon things and soon found out the \"wall\" it created for me was still then so the bullet holes were now floating in the centre of my room.\n\nYes I restarted the app.\nYes I restarted the headset.\nYes I checked the scan room and all my furniture was perfectly scanned like it always have been.\n\nNo im not clearing my room scan to scan again as most likely it wont fix it, and the game should just work as intended.\n\nAfter the long wait it turned out to be a purchase that will be refunded very shortly.\n\nDisappointing.\n\n(DEV REPLY UPDATE)\n\nIm sorry but im not deleting my scans and rescanning my room when no other MR app has any issues at all. Everything is scanned correctly and this is the only game that places a full size black wall across the middle of my play space.",
+      "date": 1765481514,
+      "review_helpful_count": 3,
+      "author_display_name": "BeatzCreations",
+      "author_alias": "BeatzCreations",
+      "developer_response": {
+        "body": "Sorry to hear your experience has been so disappointing, especially after you were looking forward to the MR features! That black wall glitch and the blocking issues sound incredibly frustrating, particularly since you’ve already tried restarting everything.\n\nWe really want to get this issue resolved for you (and prevent it for others!), as it sounds like the game isn't interpreting your room data correctly. If you're willing to give us a shot before issuing a refund, please join our Discord, try rescanning the room, and remove any additional rooms if they are set up on the headset. \n\nI bet we can help you figure out how to get going: \nhttps://discord.gg/gvM6esfJ93",
+        "date": 1765480660
+      }
+    },
+    {
+      "id": "825861253601507",
+      "score": 5,
+      "review_title": "Fun MR Done Right",
+      "review_description": "MR looks great and turns your room into a full game zone. The bubble popping feels super fun and the minigames keep things fresh.",
+      "date": 1765487032,
+      "review_helpful_count": 7,
+      "author_display_name": "gshturman",
+      "author_alias": "gshturman",
+      "developer_response": null
+    },
+    {
+      "id": "1388736479417470",
+      "score": 5,
+      "review_title": "Cosmic Chaos, Bubble Therapy",
+      "review_description": "Healer is chaotic, gorgeous, and addictive—bubbles, critters, and cosmic nonsense you won’t want to quit once you start.",
+      "date": 1766012650,
+      "review_helpful_count": 4,
+      "author_display_name": "PCVRandQuest",
+      "author_alias": "PCVRandQuest",
+      "developer_response": null
+    },
+    {
+      "id": "1561374271777687",
+      "score": 5,
+      "review_title": "I love all the creatures!",
+      "review_description": "on my way to finding all those cosmic critters- i like how the game changes with every decision I make. It feels like a new world opens up from inside my room!",
+      "date": 1765497245,
+      "review_helpful_count": 2,
+      "author_display_name": "punktvr",
+      "author_alias": "punktvr",
+      "developer_response": null
+    }
+  ],
+  "total": 11,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T23:00:41Z"
+}

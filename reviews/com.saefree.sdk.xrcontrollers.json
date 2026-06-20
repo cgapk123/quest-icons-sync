@@ -1,0 +1,741 @@
+{
+  "app_id": "9466043016832655",
+  "package_name": "com.saefree.sdk.xrcontrollers",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Slice Art Engine",
+  "rating_average": 4.7808988764045,
+  "rating_count": 534,
+  "review_count": 62,
+  "reviews": [
+    {
+      "id": "1107704802419943",
+      "score": 5,
+      "review_title": "I love this game!",
+      "review_description": "Only 0.99 a month? Very satisfying game great for getting unwanted topics off your head. Although I do have some suggestions for full release. First, you should add sound effects for the slicing. Next, you should add different lasers with different powers, red would be fire like, the limb you slice would have fire spreading all over the body burning the pixel people, blue would be ice freezing the pixel people giving you a more powered slice, yellow would be electricity after the slice lightning would strike where yoy slice. Last, you should give the pixel people abilities with an ai they can fight back with, the diffrent colors woyld have different abilities!",
+      "date": 1777126364,
+      "review_helpful_count": 35,
+      "author_display_name": "Monke.films.2023",
+      "author_alias": "Monke.films.2023",
+      "developer_response": {
+        "body": "Thanks! You have a very vivid imagination, and I strive to provide the best kind of technological foundation to make such dreams come true. I'm hoping more game developers become aware of this technology, which is meant for them so they can create much better games like the one you described.",
+        "date": 1777328288
+      }
+    },
+    {
+      "id": "1168469453005679",
+      "score": 3,
+      "review_title": "Good but needs work.",
+      "review_description": "Me personally this game is good, but it does need some fixing me personally I know I’m saying this again, but the game needs a way to move some music and maybe some like falling features yeah other than that this game is pretty good and very very satisfying. ￼",
+      "date": 1778018035,
+      "review_helpful_count": 9,
+      "author_display_name": "EKing14",
+      "author_alias": "EKing14",
+      "developer_response": {
+        "body": "I'll fix the movement issue soon, it's setup in a way so it is disabled if stick drift is detected. Music is low priority at the moment, I'm a solo dev. I'm interested in fall physics where the dismembered piece breaks into voxels like in Tron.",
+        "date": 1778117181
+      }
+    },
+    {
+      "id": "1095417946991868",
+      "score": 5,
+      "review_title": "Hi",
+      "review_description": "i love this game so much because like it's literally so real but i don't know how to um subscribe so yeah i love this game a lot it's like a $10 ten bro 10 out of 10 and the only thing that's kinda confusing is the fact that the the gray one you can't even slice it you should make AA gun that's um easy to like shoot and like get it like i want a gun in the game that's for free.",
+      "date": 1779482264,
+      "review_helpful_count": 3,
+      "author_display_name": "stalin120979",
+      "author_alias": "stalin120979",
+      "developer_response": {
+        "body": "Thanks! You can subscribe in the Meta Store home page for Slice Art Engine, website or headset. There is also a Subscription option in game when you toggle with X. Not sure what you mean by the gray one, there should definitely be a gray dummy you can slice. Let me know if you need more help.",
+        "date": 1779490458
+      }
+    },
+    {
+      "id": "1026446697223741",
+      "score": 5,
+      "review_title": "coolest free game",
+      "review_description": "So bro I love this game the mechanics are so cool and refined! I’m a game dev myself and I really want this game to continue getting worked on. So i was wondering if maybe i could help you with the game. I’m free on weekends and I know a lot of unity stuff and have some good scripts for the project. I have a lot of really good ideas to. And if you did let me help I don’t need any credited or money i just want to work for free and expand the game! I’m old enough for this kind of stuff as well, don’t want to leave my age in this review though. I would love to buy the supporter thing as well.",
+      "date": 1773705880,
+      "review_helpful_count": 47,
+      "author_display_name": "5StarLemon",
+      "author_alias": "5StarLemon",
+      "developer_response": {
+        "body": "Thanks! A Unity/UE engine plugin is something I've had in mind for a long time so that other devs can implement Slice Art Engine into their games. I'm waiting for a large enough demand from devs or a capable game studio in order to work on such a plugin. In the meantime, I'm pushing the capabilities of the tech for gamers to enjoy in VR.",
+        "date": 1773934210
+      }
+    },
+    {
+      "id": "989061146977368",
+      "score": 1,
+      "review_title": "Not sure what happened?",
+      "review_description": "So many positive reviews, but the game crashes, barely functions in the first place, movement is weird, no camera rotation, it's a mess and I don't want to get a subscription for something like that.",
+      "date": 1777200927,
+      "review_helpful_count": 8,
+      "author_display_name": "ramyitey",
+      "author_alias": "ramyitey",
+      "developer_response": {
+        "body": "Sorry the recent updates were made to address a previous small percent of crashes, but it made things worse. I am working to get this under control. The most recent update should work for you, if not please check back again in May 2026.",
+        "date": 1777328164
+      }
+    },
+    {
+      "id": "1101861743018840",
+      "score": 5,
+      "review_title": "fire game",
+      "review_description": "also fire game",
+      "date": 1780415028,
+      "review_helpful_count": 7,
+      "author_display_name": "bobbob.197190",
+      "author_alias": "bobbob.197190",
+      "developer_response": null
+    },
+    {
+      "id": "1044385578765606",
+      "score": 5,
+      "review_title": "This game is good!",
+      "review_description": "I really like that you are able to change the color of the blood or the inside color, and basically do whatever you want with it.",
+      "date": 1777469456,
+      "review_helpful_count": 7,
+      "author_display_name": "mr.RIOT271",
+      "author_alias": "mr.RIOT271",
+      "developer_response": null
+    },
+    {
+      "id": "1165396689988421",
+      "score": 3,
+      "review_title": "Subscribe",
+      "review_description": "I get it’s VERY cheap to subscribe but I want to do the regeneration for free because it looks fun.",
+      "date": 1780512543,
+      "review_helpful_count": 1,
+      "author_display_name": "NightOrbit",
+      "author_alias": "NightOrbit",
+      "developer_response": {
+        "body": "Slow Regen is free, press the Left Trigger. Also pls support if you can.",
+        "date": 1780560983
+      }
+    },
+    {
+      "id": "1190820510773754",
+      "score": 5,
+      "review_title": "i love this game so much",
+      "review_description": "you could like slice people in the game and do fun stuff in there",
+      "date": 1779678085,
+      "review_helpful_count": 2,
+      "author_display_name": "Anthonycis",
+      "author_alias": "Anthonycis",
+      "developer_response": null
+    },
+    {
+      "id": "1130740576795843",
+      "score": 5,
+      "review_title": "Very nice",
+      "review_description": "Nice",
+      "date": 1781981142,
+      "review_helpful_count": 0,
+      "author_display_name": "GalacticSpiderMonkey9184",
+      "author_alias": "GalacticSpiderMonkey9184",
+      "developer_response": null
+    },
+    {
+      "id": "1142309965632162",
+      "score": 5,
+      "review_title": "Add npc",
+      "review_description": "The game is awesome but please add a weapon arsenal and maybe an npc! pls  or a set of arms for the player so it is more immersive",
+      "date": 1779476092,
+      "review_helpful_count": 1,
+      "author_display_name": "terminat0r.2023",
+      "author_alias": "terminat0r.2023",
+      "developer_response": {
+        "body": "The weapons avail right now are Lightsaber and Magnum. Work In Progress are: 9mm Pistol, Sub Machine Gun, Laser Torch Gun, Cursed/Derez Slice, Cleave.",
+        "date": 1779491027
+      }
+    },
+    {
+      "id": "1207275592462742",
+      "score": 5,
+      "review_title": "A cool games",
+      "review_description": "I love is game",
+      "date": 1781408062,
+      "review_helpful_count": 0,
+      "author_display_name": "wertyuikk",
+      "author_alias": "wertyuikk",
+      "developer_response": null
+    },
+    {
+      "id": "1170007012852802",
+      "score": 5,
+      "review_title": "best game",
+      "review_description": "this is the best thing ever i unlock the pistol",
+      "date": 1778627604,
+      "review_helpful_count": 3,
+      "author_display_name": "jessica.bullard.2026",
+      "author_alias": "jessica.bullard.2026",
+      "developer_response": null
+    },
+    {
+      "id": "1020074117630068",
+      "score": 5,
+      "review_title": "CoOK the game is good",
+      "review_description": "Cooool game",
+      "date": 1781281010,
+      "review_helpful_count": 0,
+      "author_display_name": "ruben.212020",
+      "author_alias": "ruben.212020",
+      "developer_response": null
+    },
+    {
+      "id": "1016226734340672",
+      "score": 5,
+      "review_title": "tuff game",
+      "review_description": "Its a good game if like to cut stuff",
+      "date": 1780958062,
+      "review_helpful_count": 1,
+      "author_display_name": "STINKY_MAN488",
+      "author_alias": "STINKY_MAN488",
+      "developer_response": null
+    },
+    {
+      "id": "1140722835790906",
+      "score": 5,
+      "review_title": "The best game ever",
+      "review_description": "It’s so satisfying ￼",
+      "date": 1780765030,
+      "review_helpful_count": 1,
+      "author_display_name": "brandiernst2012",
+      "author_alias": "brandiernst2012",
+      "developer_response": null
+    },
+    {
+      "id": "1039968328693661",
+      "score": 4,
+      "review_title": "Ollie",
+      "review_description": "Good",
+      "date": 1781164857,
+      "review_helpful_count": 0,
+      "author_display_name": "CrushTheRebels",
+      "author_alias": "CrushTheRebels",
+      "developer_response": null
+    },
+    {
+      "id": "1131839046686598",
+      "score": 5,
+      "review_title": "cool",
+      "review_description": "cool game",
+      "date": 1780777433,
+      "review_helpful_count": 1,
+      "author_display_name": "skadwam9000",
+      "author_alias": "skadwam9000",
+      "developer_response": null
+    },
+    {
+      "id": "1429391212282043",
+      "score": 5,
+      "review_title": "Jjbgjjjjjhhhggghhhghhhgggggggggghnjmnhhj",
+      "review_description": "Ygj fv dv gmthh",
+      "date": 1778600932,
+      "review_helpful_count": 2,
+      "author_display_name": "Link88an",
+      "author_alias": "Link88an",
+      "developer_response": null
+    },
+    {
+      "id": "1174210819090312",
+      "score": 5,
+      "review_title": "good",
+      "review_description": "what is a fun game but i wish it had multiplayer so people can 1v1",
+      "date": 1778671757,
+      "review_helpful_count": 1,
+      "author_display_name": "wally.west.1947",
+      "author_alias": "wally.west.1947",
+      "developer_response": null
+    },
+    {
+      "id": "1146048468585448",
+      "score": 5,
+      "review_title": "AMAZING APP but...",
+      "review_description": "Are you guys working on limb falling physics if not, you should definitely add limb falling physics.",
+      "date": 1777942189,
+      "review_helpful_count": 1,
+      "author_display_name": "Dinodex1230",
+      "author_alias": "Dinodex1230",
+      "developer_response": null
+    },
+    {
+      "id": "1098162853385461",
+      "score": 4,
+      "review_title": "I beg of you owner of this game",
+      "review_description": "PLEASE MAKE GUN AND THE SUBSCRIPTIONS FREE I NEED IT ITS SO COOOOOL",
+      "date": 1777220709,
+      "review_helpful_count": 2,
+      "author_display_name": "Nuggy521xxx",
+      "author_alias": "Nuggy521xxx",
+      "developer_response": null
+    },
+    {
+      "id": "1035858702954288",
+      "score": 1,
+      "review_title": "off advertised",
+      "review_description": "this game was not one of the children the trailer one star",
+      "date": 1778350043,
+      "review_helpful_count": 0,
+      "author_display_name": "23Danny5554318964",
+      "author_alias": "23Danny5554318964",
+      "developer_response": null
+    },
+    {
+      "id": "1158257387368395",
+      "score": 5,
+      "review_title": "good",
+      "review_description": "i like this game",
+      "date": 1778895574,
+      "review_helpful_count": 1,
+      "author_display_name": "AWebbie",
+      "author_alias": "AWebbie",
+      "developer_response": null
+    },
+    {
+      "id": "1063755443497049",
+      "score": 5,
+      "review_title": "So happy",
+      "review_description": "So love it..",
+      "date": 1778950174,
+      "review_helpful_count": 1,
+      "author_display_name": "darwin123456789.2026",
+      "author_alias": "darwin123456789.2026",
+      "developer_response": null
+    },
+    {
+      "id": "1125365260657151",
+      "score": 5,
+      "review_title": "Sigma",
+      "review_description": "is it super relaxing and fun",
+      "date": 1778286084,
+      "review_helpful_count": 1,
+      "author_display_name": "GioGio6617",
+      "author_alias": "GioGio6617",
+      "developer_response": null
+    },
+    {
+      "id": "921470840634030",
+      "score": 5,
+      "review_title": "Great for me",
+      "review_description": "This game is great for me because i have ADHD and this helps wit my stress",
+      "date": 1772593010,
+      "review_helpful_count": 13,
+      "author_display_name": "king_bog",
+      "author_alias": "king_bog",
+      "developer_response": null
+    },
+    {
+      "id": "1037771956093638",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "I like it",
+      "date": 1777753087,
+      "review_helpful_count": 1,
+      "author_display_name": "king64990",
+      "author_alias": "king64990",
+      "developer_response": null
+    },
+    {
+      "id": "1026139103915879",
+      "score": 5,
+      "review_title": "This game is sooooooo sadisfying",
+      "review_description": "it cuts soo smoth",
+      "date": 1772375991,
+      "review_helpful_count": 9,
+      "author_display_name": "PointyCanary3739",
+      "author_alias": "PointyCanary3739",
+      "developer_response": null
+    },
+    {
+      "id": "856892024040722",
+      "score": 5,
+      "review_title": "good game love it",
+      "review_description": "so smooth so good they should add a bat next",
+      "date": 1772339402,
+      "review_helpful_count": 4,
+      "author_display_name": "Rublock1226",
+      "author_alias": "Rublock1226",
+      "developer_response": null
+    },
+    {
+      "id": "1338634408174875",
+      "score": 5,
+      "review_title": "Coolest game but i wish;",
+      "review_description": "Maybe you could make the subscription $4.99 for the whole year and maybe add some more weapons to the people who did not get the subscriptions. its just my opinion so you don't really need to do it. Overall, good job on the game!",
+      "date": 1779751457,
+      "review_helpful_count": 0,
+      "author_display_name": "SpicyPorcupine333",
+      "author_alias": "SpicyPorcupine333",
+      "developer_response": null
+    },
+    {
+      "id": "945530455311412",
+      "score": 3,
+      "review_title": "All the fun stuff is paywalled.",
+      "review_description": "All the good slicing (like the fast regen voxel slicing they show off on their tiktok) requires a subscription. It's good otherwise.",
+      "date": 1768181964,
+      "review_helpful_count": 14,
+      "author_display_name": "Pirpul",
+      "author_alias": "Pirpul",
+      "developer_response": {
+        "body": "Solo dev here, the subs help push this toward full-time development. Core slicing stays free.",
+        "date": 1768249818
+      }
+    },
+    {
+      "id": "984395490801753",
+      "score": 4,
+      "review_title": "Great sword engine",
+      "review_description": "Good slicing mechanics and amazing physics the only thing i feel should be changed is the subscription as many people tend to forget about it. Instead i think you should make it into a ten or twenty dollar purchase. Other than that its an amazing game with great replayability.",
+      "date": 1778604419,
+      "review_helpful_count": 0,
+      "author_display_name": "RANDOMSUSHI",
+      "author_alias": "RANDOMSUSHI",
+      "developer_response": null
+    },
+    {
+      "id": "964173480123887",
+      "score": 5,
+      "review_title": "The best",
+      "review_description": "The best",
+      "date": 1772658469,
+      "review_helpful_count": 3,
+      "author_display_name": "Ryder02967",
+      "author_alias": "Ryder02967",
+      "developer_response": null
+    },
+    {
+      "id": "1139851885877790",
+      "score": 5,
+      "review_title": "close game i've ever seen in my wholeco",
+      "review_description": "the physics in this game are i've never seen physics like this in my whole life this is amazing dude keep doing this this is \n\nawesome",
+      "date": 1780788436,
+      "review_helpful_count": 1,
+      "author_display_name": "Siah.2013",
+      "author_alias": "Siah.2013",
+      "developer_response": null
+    },
+    {
+      "id": "1228696133655008",
+      "score": 5,
+      "review_title": "best game ever",
+      "review_description": "it's so sad nothing can beat this with satisfying stuff",
+      "date": 1781301623,
+      "review_helpful_count": 1,
+      "author_display_name": "PointyLynx4160",
+      "author_alias": "PointyLynx4160",
+      "developer_response": null
+    },
+    {
+      "id": "1191933277337543",
+      "score": 5,
+      "review_title": "Hi",
+      "review_description": "I love the game \nits good and fun",
+      "date": 1781842352,
+      "review_helpful_count": 0,
+      "author_display_name": "Jamesrhc",
+      "author_alias": "Jamesrhc",
+      "developer_response": null
+    },
+    {
+      "id": "1141441282388050",
+      "score": 5,
+      "review_title": "good",
+      "review_description": "good 10/10",
+      "date": 1781667850,
+      "review_helpful_count": 0,
+      "author_display_name": "Blackout.2016",
+      "author_alias": "Blackout.2016",
+      "developer_response": null
+    },
+    {
+      "id": "1127202233813484",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "me love",
+      "date": 1781284036,
+      "review_helpful_count": 1,
+      "author_display_name": "kingcheese202",
+      "author_alias": "kingcheese202",
+      "developer_response": null
+    },
+    {
+      "id": "1240834989106507",
+      "score": 5,
+      "review_title": "fun",
+      "review_description": "fun",
+      "date": 1781137895,
+      "review_helpful_count": 0,
+      "author_display_name": "monkeymiles3012",
+      "author_alias": "monkeymiles3012",
+      "developer_response": null
+    },
+    {
+      "id": "1229238060263926",
+      "score": 5,
+      "review_title": "amazing",
+      "review_description": "well now stuff isn't broke in my house",
+      "date": 1780204060,
+      "review_helpful_count": 0,
+      "author_display_name": "verity666333",
+      "author_alias": "verity666333",
+      "developer_response": null
+    },
+    {
+      "id": "1013791034509303",
+      "score": 5,
+      "review_title": "Very i mean very satisfing phsyics",
+      "review_description": "Very good keep pushing this game out there",
+      "date": 1779976126,
+      "review_helpful_count": 1,
+      "author_display_name": "toetickler2585",
+      "author_alias": "toetickler2585",
+      "developer_response": null
+    },
+    {
+      "id": "1149445611582461",
+      "score": 5,
+      "review_title": "My New Favourite",
+      "review_description": "Awesome Asmr Game",
+      "date": 1780396243,
+      "review_helpful_count": 1,
+      "author_display_name": "Cheese10089",
+      "author_alias": "Cheese10089",
+      "developer_response": null
+    },
+    {
+      "id": "1170998542758020",
+      "score": 5,
+      "review_title": "the game is so fun",
+      "review_description": "The game is so good and i have a lot of fun.",
+      "date": 1779323078,
+      "review_helpful_count": 0,
+      "author_display_name": "Josiel_06947",
+      "author_alias": "Josiel_06947",
+      "developer_response": null
+    },
+    {
+      "id": "1085331761334804",
+      "score": 5,
+      "review_title": "i love it",
+      "review_description": "it's so good i love it so much",
+      "date": 1779477553,
+      "review_helpful_count": 0,
+      "author_display_name": "RyanButLord69",
+      "author_alias": "RyanButLord69",
+      "developer_response": null
+    },
+    {
+      "id": "1081409385064790",
+      "score": 5,
+      "review_title": "savage pride",
+      "review_description": "so satisfied",
+      "date": 1779715062,
+      "review_helpful_count": 0,
+      "author_display_name": "ARMINArlet",
+      "author_alias": "ARMINArlet",
+      "developer_response": null
+    },
+    {
+      "id": "1197255853462817",
+      "score": 5,
+      "review_title": "love it",
+      "review_description": "i love the gooner",
+      "date": 1779508731,
+      "review_helpful_count": 0,
+      "author_display_name": "MOE_VR7968",
+      "author_alias": "MOE_VR7968",
+      "developer_response": null
+    },
+    {
+      "id": "1140209019174731",
+      "score": 5,
+      "review_title": "567",
+      "review_description": "Lkjh",
+      "date": 1779691254,
+      "review_helpful_count": 0,
+      "author_display_name": "JOBVR",
+      "author_alias": "JOBVR",
+      "developer_response": null
+    },
+    {
+      "id": "983694797936376",
+      "score": 5,
+      "review_title": "Is it free?",
+      "review_description": "It says try for 0.99¢ but there is another option to download/install",
+      "date": 1778451410,
+      "review_helpful_count": 0,
+      "author_display_name": "Werrpy2008",
+      "author_alias": "Werrpy2008",
+      "developer_response": {
+        "body": "there are free tech demos to try, and a pay option to help fund development.",
+        "date": 1778473398
+      }
+    },
+    {
+      "id": "1011734495367618",
+      "score": 5,
+      "review_title": "My liken about this game.",
+      "review_description": "I like how you can slice through the dummy it helps me relive my anger",
+      "date": 1778276663,
+      "review_helpful_count": 1,
+      "author_display_name": "rudyyaman",
+      "author_alias": "rudyyaman",
+      "developer_response": null
+    },
+    {
+      "id": "1689412666067293",
+      "score": 5,
+      "review_title": "this game is really good and cool",
+      "review_description": "i think everybody would like love this game",
+      "date": 1778448168,
+      "review_helpful_count": 0,
+      "author_display_name": "Ironman655",
+      "author_alias": "Ironman655",
+      "developer_response": null
+    },
+    {
+      "id": "1049931694880915",
+      "score": 5,
+      "review_title": "Idk",
+      "review_description": "Play pp",
+      "date": 1779040688,
+      "review_helpful_count": 0,
+      "author_display_name": "mario64.2023",
+      "author_alias": "mario64.2023",
+      "developer_response": null
+    },
+    {
+      "id": "1098040116728027",
+      "score": 5,
+      "review_title": "Yp.",
+      "review_description": "Yo",
+      "date": 1778972255,
+      "review_helpful_count": 0,
+      "author_display_name": "luis.181171",
+      "author_alias": "luis.181171",
+      "developer_response": null
+    },
+    {
+      "id": "1090510500817395",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Please add more, like a sandbox",
+      "date": 1778284198,
+      "review_helpful_count": 0,
+      "author_display_name": "Oli.coolguy12",
+      "author_alias": "Oli.coolguy12",
+      "developer_response": {
+        "body": "Absolutely, there is a lot more work in progress like  laser-gun, animation support, enhanced physics for dismemberment, and more.",
+        "date": 1778341837
+      }
+    },
+    {
+      "id": "993656289849673",
+      "score": 5,
+      "review_title": "Best",
+      "review_description": "Super saticfiing",
+      "date": 1778526335,
+      "review_helpful_count": 0,
+      "author_display_name": "gabeH2024",
+      "author_alias": "gabeH2024",
+      "developer_response": null
+    },
+    {
+      "id": "1127659817093775",
+      "score": 5,
+      "review_title": "Бебе",
+      "review_description": "Очееь крутоъъ",
+      "date": 1778257052,
+      "review_helpful_count": 0,
+      "author_display_name": "Tiselita",
+      "author_alias": "Tiselita",
+      "developer_response": null
+    },
+    {
+      "id": "1093577063840099",
+      "score": 5,
+      "review_title": "so fun and stafing game ever",
+      "review_description": "i love it and i need the gun",
+      "date": 1778255209,
+      "review_helpful_count": 0,
+      "author_display_name": "Niceuy777",
+      "author_alias": "Niceuy777",
+      "developer_response": null
+    },
+    {
+      "id": "1148454888349366",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "So hy",
+      "date": 1778442584,
+      "review_helpful_count": 0,
+      "author_display_name": "candycan090",
+      "author_alias": "candycan090",
+      "developer_response": null
+    },
+    {
+      "id": "1031773416695261",
+      "score": 1,
+      "review_title": "Why did I get this",
+      "review_description": "When I loaded in the game instantly crash",
+      "date": 1777858551,
+      "review_helpful_count": 0,
+      "author_display_name": "St1tch2487",
+      "author_alias": "St1tch2487",
+      "developer_response": {
+        "body": "I'm so sorry, the loading phase crash is a known issue. I just updated the app, please see if that helps. If not, I am working hard to get this issue corrected within a few weeks.",
+        "date": 1777938265
+      }
+    },
+    {
+      "id": "1024122400794060",
+      "score": 5,
+      "review_title": "10/10",
+      "review_description": "Super",
+      "date": 1778307684,
+      "review_helpful_count": 0,
+      "author_display_name": "Armiadildo",
+      "author_alias": "Armiadildo",
+      "developer_response": null
+    },
+    {
+      "id": "842266318961559",
+      "score": 5,
+      "review_title": "Precision Slicing Demo",
+      "review_description": "Slice Art Engine is a fascinating demo exploring the art of slicing with a strong focus on precision. Every cut is tracked with detailed metrics — pixels touched, FPS, and other metadata — making it a promising foundation for future sword fighting games.",
+      "date": 1757793573,
+      "review_helpful_count": 9,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": {
+        "body": "Thanks for the feedback! I really focus on a strong foundation for game devs to build on.",
+        "date": 1768249871
+      }
+    },
+    {
+      "id": "972094629310216",
+      "score": 5,
+      "review_title": "",
+      "review_description": "It’s so fun",
+      "date": 1765998212,
+      "review_helpful_count": 8,
+      "author_display_name": "wahid.wagstaff2025",
+      "author_alias": "wahid.wagstaff2025",
+      "developer_response": {
+        "body": "Glad you liked it!",
+        "date": 1768249838
+      }
+    }
+  ],
+  "total": 62,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T23:07:38Z"
+}

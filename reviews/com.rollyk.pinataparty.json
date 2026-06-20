@@ -1,0 +1,67 @@
+{
+  "app_id": "1754893891296534",
+  "package_name": "com.rollyk.pinataparty",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Piñata Party",
+  "rating_average": 3.7037037037037,
+  "rating_count": 27,
+  "review_count": 27,
+  "reviews": [
+    {
+      "id": "2115060218634913",
+      "score": 4,
+      "review_title": "Colorful and inviting.",
+      "review_description": "You can't eat the candy though and have to run really fast to get it.",
+      "date": 1629907129,
+      "review_helpful_count": 5,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "1733217480111593",
+      "score": 5,
+      "review_title": "More levels pls",
+      "review_description": "It's short. Also there is no random players online. I wish single player mode was little better. Also hitting a pinata alone is kind of annoying because need to hit many times to start a game.",
+      "date": 1553305982,
+      "review_helpful_count": 7,
+      "author_display_name": "jaroslaww",
+      "author_alias": "jaroslaww",
+      "developer_response": null
+    },
+    {
+      "id": "124212778604664",
+      "score": 4,
+      "review_title": "Great game",
+      "review_description": "I enjoyed playing this game, it really pumps you up..makes you feel like a kid again. I only had one issue..why isn't it available to play from the oculus rooms menu? It's a multiplayer game and oculus rooms lists your  multiplayer games from your library to play with friends..sadly that one isn't amongst the list..",
+      "date": 1545019311,
+      "review_helpful_count": 8,
+      "author_display_name": "blacksapphire6915",
+      "author_alias": "blacksapphire6915",
+      "developer_response": {
+        "body": "Great suggestion! Integrating Rooms is definitely a priority. We're working on it.",
+        "date": 1548439770
+      }
+    },
+    {
+      "id": "114074257902920",
+      "score": 5,
+      "review_title": "Wow",
+      "review_description": "Awesome",
+      "date": 1648241562,
+      "review_helpful_count": 2,
+      "author_display_name": "wolfgirl_moon",
+      "author_alias": "wolfgirl_moon",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T22:59:16Z"
+}

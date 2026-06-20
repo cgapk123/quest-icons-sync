@@ -1,0 +1,76 @@
+{
+  "app_id": "24272826598996072",
+  "package_name": "com.rr.litlit",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "2LIT",
+  "rating_average": 2.2,
+  "rating_count": 5,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1358228059557433",
+      "score": 3,
+      "review_title": "Meta Quest Sucks",
+      "review_description": "So I’m convinced the Quest headsets are just over priced pieces of crap. The devs of this game are solid and fast to respond. There’s an issue with the game that’s been worked out by the devs, but still is broken on the Quest 3. So it seems like a headset problem, instead of a problem with the game itself.",
+      "date": 1780149940,
+      "review_helpful_count": 0,
+      "author_display_name": "TomKalEl",
+      "author_alias": "TomKalEl",
+      "developer_response": {
+        "body": "It might be bit of both in this case :D ..But yeah Meta OS update to the new UI style had some issues with some  devices with much older OS that I had to manage so there is random stuff sometimes, then one can hope that factory reset helps.",
+        "date": 1780211884
+      }
+    },
+    {
+      "id": "1128794723656352",
+      "score": 1,
+      "review_title": "Worst game ever",
+      "review_description": "Lit 1 was alright for a free game, so I was hyped for lit 2 when I saw it was coming. But the „tutorial“ if you can call it that is way to long and teaches you nothing. After that you can’t do anything, I accidentally choose a woman skin and now there is no option to change it. The game has barley any cars and is very unfinished, biggest waste of money ever. The whole map is also filled with ai slop wich I don’t think looks professional. Please do NOT buy this game!!!",
+      "date": 1780841365,
+      "review_helpful_count": 0,
+      "author_display_name": "Elias_EE",
+      "author_alias": "Elias_EE",
+      "developer_response": {
+        "body": "I understand you frustration, skippin intro part is going to be added. There´s many controls that need to be baked into the intro to cover them all, so there´s definetely room for improvement. Gender skin can be changed freely in the city just entering dedicated hospital entrances, hospital icon can be seen in the navigator. Game will have more cars once all systems are updated to work the best way possible for users. Thanks for your feedback and I hope you were able to get a refund in time.",
+        "date": 1780933217
+      }
+    },
+    {
+      "id": "1664202431497204",
+      "score": 1,
+      "review_title": "Still needs a lot of work",
+      "review_description": "What happened game is glitchy and none of the stuff that you see in advertising is playable in the game",
+      "date": 1781593525,
+      "review_helpful_count": 0,
+      "author_display_name": "Big_Tonyoo",
+      "author_alias": "Big_Tonyoo",
+      "developer_response": {
+        "body": "Streetbike is playable, ATV is playable, Jetski is playable, Police car plus many other cars are playable. They can be purchased through the laptop on the garage table check that out. Sure few cars are on the expensive side and economy is a key feature to be broadened along with the car roster. Game is early access and it´s about to evolve just like original LIT did.",
+        "date": 1781679351
+      }
+    },
+    {
+      "id": "2032147354079109",
+      "score": 1,
+      "review_title": "Early access",
+      "review_description": "I'm on a quest 3 I'm Stuck on the cruise ship can not get on the bicycle at the start so can't give a full review",
+      "date": 1780348069,
+      "review_helpful_count": 1,
+      "author_display_name": "bluewave.2023",
+      "author_alias": "bluewave.2023",
+      "developer_response": {
+        "body": "In the latest version you are able to wait out that phase, it has weird issues of not detecting even though it´s been adjusted several times and worked in all my tests. So wait for like 5minutes and story will proceed. Report back also if you encounter similar issues along the way. Other option is to clear game data to make sure you´re not locked by some progress parameter that is now somehow set wrong, it should not be the case but always possible. Thanks for reporting this!",
+        "date": 1780390356
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T23:02:00Z"
+}
