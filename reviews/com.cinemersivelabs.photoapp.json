@@ -1,0 +1,213 @@
+{
+  "app_id": "8267831776652398",
+  "package_name": "com.cinemersivelabs.photoapp",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Parallax",
+  "rating_average": 4.6585365853659,
+  "rating_count": 41,
+  "review_count": 17,
+  "reviews": [
+    {
+      "id": "1043743415490545",
+      "score": 5,
+      "review_title": "Great music",
+      "review_description": "Would love to know all the names of the music.",
+      "date": 1778995113,
+      "review_helpful_count": 0,
+      "author_display_name": "Hopperjasper",
+      "author_alias": "Hopperjasper",
+      "developer_response": null
+    },
+    {
+      "id": "1081511601704600",
+      "score": 5,
+      "review_title": "Good app",
+      "review_description": "Travel around world",
+      "date": 1771828950,
+      "review_helpful_count": 1,
+      "author_display_name": "SillyMacaw1825",
+      "author_alias": "SillyMacaw1825",
+      "developer_response": null
+    },
+    {
+      "id": "821164631090902",
+      "score": 3,
+      "review_title": "Like a ViewMaster toy",
+      "review_description": "This is a collection of photos in 3D, like you'd have on a ViewMaster toy. The imagery is only in front of you; not surround. Moving your head left and right (not turning it) lets you see a bit behind things and people. Not bad, but nothing to rave about. Some of the scenery is absolutely stunning, though, so I'll keep it installed.",
+      "date": 1765007744,
+      "review_helpful_count": 0,
+      "author_display_name": "AlomWare.com",
+      "author_alias": "AlomWare.com",
+      "developer_response": null
+    },
+    {
+      "id": "1276111581253086",
+      "score": 2,
+      "review_title": "Some great. Some not.",
+      "review_description": "Some of the images are great! But... mostly it's a photo dump (like when someone goes on vacation and just dumps all their photos on FB w/o weeding out the duplicates and duds). It doesn't track which ones you've already seen. And now with the newest update my Favorites are gone! And no more ability to favorite images ( in the past I could share them w/ my husband, and go back and enjoy the good ones again). Now it's just too much - endless photos, hardly organized, not tracking what you've seen.",
+      "date": 1753470483,
+      "review_helpful_count": 3,
+      "author_display_name": "Sunny_hopes",
+      "author_alias": "Sunny_hopes",
+      "developer_response": {
+        "body": "Hi Sunny_hopes, thanks for trying the app and the feedback!\nWe have now a preselected album with cherry-picked photos (the first one). And other albums are for those who want a more in-depth experience (we've switched to chronological order in those). I can assure you that we've spent multiple hours, even days, organizing these albums and selecting the photos from tens of thousands of raw photographs we have captured.\nAs for the Favorities, we have decided to get rid of those, as we saw very few people using them, while they required some costly infrastracture on our end to maintain not justified by a free app. We are sorry this worsened the experience for you.",
+        "date": 1755253195
+      }
+    },
+    {
+      "id": "3187935811383132",
+      "score": 3,
+      "review_title": "OK, but far from the state of the art",
+      "review_description": "Some apps are pushing the boundaries of photogrammetry / light field / NeRF / Gaussian Splatting / and other 6 DoF techniques. Unfortunately, this isn't one of them. Looks like these images came out from an AI depth estimation model with simple slicing and bad inpainting. Most images are full of artifacts, often visible at the starting position, and getting much worse as you move around (and the area you can move is very restricted).",
+      "date": 1754311570,
+      "review_helpful_count": 0,
+      "author_display_name": "FunKing",
+      "author_alias": "FunKing",
+      "developer_response": {
+        "body": "Hi, thank you for your feedback. All techniques you mention work from _multiple_ input viewpoints. It means that they are confined to static scenes (with some dynamic elements added post-hoc via CG) or videos captured in volumetric studios. In contrast, our app uses _single_ shots, and thus can capture spontaneous and interesting moments in the dynamic world. Thus, we have lots of 6DoF photographs  capturing Italian carnivals, sea waves in Iceland, crowds in Varanasi, etc. Would be great if you consider providing concrete examples of 6DoF content like this in VR in other apps, or updating your review. Thanks.",
+        "date": 1755252413
+      }
+    },
+    {
+      "id": "3329197160554540",
+      "score": 4,
+      "review_title": "Pretty decent.",
+      "review_description": "IIRC (if I recall correctily))",
+      "date": 1753298448,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "2841186126073560",
+      "score": 5,
+      "review_title": "This was incredible",
+      "review_description": "I don't know what I was expecting, but I certainly didn't expect such authentic realistic feeling of being transported to a real location. This is much better than spatial 3d photos. The scale and depth are fantastic!",
+      "date": 1742292993,
+      "review_helpful_count": 13,
+      "author_display_name": "Edigs",
+      "author_alias": "Edigs",
+      "developer_response": null
+    },
+    {
+      "id": "1759639591638689",
+      "score": 1,
+      "review_title": "Just pictures, not even 360",
+      "review_description": "Menu is clunky. Couldn't change the scene. It was just some pic of a place in GB. When I turned my head, I saw my room. Wasn't 360. Glad it was free and I didn't waste money",
+      "date": 1746558802,
+      "review_helpful_count": 2,
+      "author_display_name": "Seanerdawg",
+      "author_alias": "Seanerdawg",
+      "developer_response": null
+    },
+    {
+      "id": "1071613521394295",
+      "score": 5,
+      "review_title": "amazing!",
+      "review_description": "this is definitely the way to go when it comes to “stereo photo” viewing on a headset - would love to see how foliage and reflection is been improved! And of course, a tool to allow everybody with a dual camera smartphone to generate their own images",
+      "date": 1742382988,
+      "review_helpful_count": 6,
+      "author_display_name": "01077",
+      "author_alias": "01077",
+      "developer_response": null
+    },
+    {
+      "id": "660999219842254",
+      "score": 4,
+      "review_title": "Nice, but limited",
+      "review_description": "Great photos, and you feel like you're there until you look to the sides at all. I'd say the angle is roughly 160 degrees. Also not sure how they are 6dof, considering you can't move around or tilt them in any way, or change perspective.\n\nCool free app, but I wouldn't pay for it.",
+      "date": 1742074851,
+      "review_helpful_count": 4,
+      "author_display_name": "QUACKBIRTH",
+      "author_alias": "QUACKBIRTH",
+      "developer_response": null
+    },
+    {
+      "id": "698717456067411",
+      "score": 5,
+      "review_title": "Great!",
+      "review_description": "I love it. So much fun. You feel like you're actually there. So nice to see the world 🌎 ☺️ 💕",
+      "date": 1745491421,
+      "review_helpful_count": 2,
+      "author_display_name": "AlicElaine",
+      "author_alias": "AlicElaine",
+      "developer_response": null
+    },
+    {
+      "id": "1254806282812838",
+      "score": 5,
+      "review_title": "Great!",
+      "review_description": "Great selection of 3D immersive photos.  I feel like I am actually there.  Definitely makes me feel relaxed and calm especially after coming home after a long day.  I like the music too!",
+      "date": 1753573084,
+      "review_helpful_count": 0,
+      "author_display_name": "yuwen.wang",
+      "author_alias": "yuwen.wang",
+      "developer_response": null
+    },
+    {
+      "id": "646496688537299",
+      "score": 5,
+      "review_title": "Parallax",
+      "review_description": "Great. Exhilarating. Wonderful. Surpasses all expectations.",
+      "date": 1743496329,
+      "review_helpful_count": 5,
+      "author_display_name": "nautilus.657413",
+      "author_alias": "nautilus.657413",
+      "developer_response": null
+    },
+    {
+      "id": "610691128790085",
+      "score": 5,
+      "review_title": "Space Album",
+      "review_description": "The photo has a very strong sense of three-dimensionality, especially the rocks, which seem to be standing right in front of me.",
+      "date": 1742352540,
+      "review_helpful_count": 4,
+      "author_display_name": "user.764669",
+      "author_alias": "user.764669",
+      "developer_response": null
+    },
+    {
+      "id": "990943942993854",
+      "score": 5,
+      "review_title": "WOW",
+      "review_description": "Just wow - simply next level experience. Super impressed by the quality",
+      "date": 1742341062,
+      "review_helpful_count": 5,
+      "author_display_name": "grtkachenko",
+      "author_alias": "grtkachenko",
+      "developer_response": null
+    },
+    {
+      "id": "593486043692606",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Great immersion, like being there!",
+      "date": 1741983500,
+      "review_helpful_count": 7,
+      "author_display_name": "damon.mannion",
+      "author_alias": "damon.mannion",
+      "developer_response": null
+    },
+    {
+      "id": "1050904116865616",
+      "score": 5,
+      "review_title": "Looks very realistic!",
+      "review_description": "👍",
+      "date": 1742068675,
+      "review_helpful_count": 5,
+      "author_display_name": "abreslav",
+      "author_alias": "abreslav",
+      "developer_response": null
+    }
+  ],
+  "total": 17,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:31:08Z"
+}

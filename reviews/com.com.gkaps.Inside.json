@@ -1,0 +1,34 @@
+{
+  "app_id": "24512259981706691",
+  "package_name": "com.com.gkaps.Inside",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Inside",
+  "rating_average": 4.6666666666667,
+  "rating_count": 3,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1956049238121669",
+      "score": 5,
+      "review_title": "Delightful, beautiful, very hard",
+      "review_description": "Thank you!",
+      "date": 1694451428,
+      "review_helpful_count": 2,
+      "author_display_name": "Philozu",
+      "author_alias": "Philozu",
+      "developer_response": {
+        "body": "Thanks to you for play!",
+        "date": 1694322578
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:35:36Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "6813933945401724",
+  "package_name": "com.cislune.Simmoon",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "SimMoon",
+  "rating_average": 1.7272727272727,
+  "rating_count": 11,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1668008780520430",
+      "score": 1,
+      "review_title": "Unable to drive the rover",
+      "review_description": "When you press the red button to drive the rover, you're not even sitting in the rover. Resetting the view does not help. There's no way to drive the rover.",
+      "date": 1749997599,
+      "review_helpful_count": 4,
+      "author_display_name": "oculusness",
+      "author_alias": "oculusness",
+      "developer_response": null
+    },
+    {
+      "id": "668494116343994",
+      "score": 1,
+      "review_title": "One star glitches every time",
+      "review_description": "Glitches every time I try to drive the car 🚗 can not ever really flout",
+      "date": 1746391460,
+      "review_helpful_count": 10,
+      "author_display_name": "Lenn0n_vr",
+      "author_alias": "Lenn0n_vr",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:31:32Z"
+}

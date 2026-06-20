@@ -1,0 +1,125 @@
+{
+  "app_id": "4980372358731824",
+  "package_name": "com.cinemersivelabs.photoview",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Cinemersive Photos",
+  "rating_average": 4.125,
+  "rating_count": 16,
+  "review_count": 9,
+  "reviews": [
+    {
+      "id": "3187935411383172",
+      "score": 3,
+      "review_title": "OK, but far from the state of the art",
+      "review_description": "Some apps are pushing the boundaries of photogrammetry / light field / NeRF / Gaussian Splatting / and other 6 DoF techniques. Unfortunately, this isn't one of them. Looks like these images came out from an AI depth estimation model with simple slicing and bad inpainting. Most images are full of artifacts, often visible at the starting position, and getting much worse as you move around (and the area you can move is very restricted).",
+      "date": 1754311548,
+      "review_helpful_count": 6,
+      "author_display_name": "FunKing",
+      "author_alias": "FunKing",
+      "developer_response": {
+        "body": "Hi, thank you for your feedback. All techniques you mention create content from _multiple_ input photographs/frames taken from different viewpoints. It means that they are confined to static scenes (with some dynamic elements added post-hoc via computer graphics) or videos captured in volumetric studios. In contrast, our app uses _single_ shots, and thus can capture spontaneous and interesting moments in the dynamic world with people in motion, flying birds, flowing water, etc. Please consider providing concrete examples of 6DoF content like this in other VR apps, or updating your review. Thanks.",
+        "date": 1755374556
+      }
+    },
+    {
+      "id": "740428198940869",
+      "score": 5,
+      "review_title": "Stunning beautiful immersive photos",
+      "review_description": "I thoroughly enjoyed looking at the highly immersive, 3D photos. Hope the developers keeps adding more stunning photos of mother nature, different countries culture, monuments, beautiful parks, night view of skyline.\n\nIf we can take such immersive pics via the app through met quest 3 or our mobile it would be a game changer. I will be ready to pay to get that upgrade.",
+      "date": 1752434323,
+      "review_helpful_count": 4,
+      "author_display_name": "Khiladi2025",
+      "author_alias": "Khiladi2025",
+      "developer_response": null
+    },
+    {
+      "id": "1296234111864094",
+      "score": 4,
+      "review_title": "Nice app but…",
+      "review_description": "…. There’s only a couple hundred images of others people’s photos which looks great. Other good thing is that it’s a free app. \n\nThat being said I don’t know if there’s future downloads or if the user can upload their own images.",
+      "date": 1752451761,
+      "review_helpful_count": 4,
+      "author_display_name": "Bender_2112",
+      "author_alias": "Bender_2112",
+      "developer_response": {
+        "body": "Hi, thank you for your feedback. We now have an app with a much bigger collection of photographs called Parallax. It is still free. Unfortunately, we do not have the capacity to convert user photographs at the moment.",
+        "date": 1755374640
+      }
+    },
+    {
+      "id": "24085499194469368",
+      "score": 4,
+      "review_title": "Very nice",
+      "review_description": "It's very good with some beautiful pics..I recognize a lot of places from my round the world backpacking trip but it could be good if some place names were added. It also needs more content so looking forward to seeing how it develops.",
+      "date": 1753720125,
+      "review_helpful_count": 1,
+      "author_display_name": "Maccyb123",
+      "author_alias": "Maccyb123",
+      "developer_response": null
+    },
+    {
+      "id": "607077379153533",
+      "score": 3,
+      "review_title": "Looks good",
+      "review_description": "I thought I could see the photos we took from our phone in 3D. When you look at the pictures in the app, the pictures are good but we can't upload them ourselves so 4 GB of storage is too much for this app.",
+      "date": 1741822684,
+      "review_helpful_count": 3,
+      "author_display_name": "cuma_omay",
+      "author_alias": "cuma_omay",
+      "developer_response": null
+    },
+    {
+      "id": "557412484115342",
+      "score": 4,
+      "review_title": "They didn't lie",
+      "review_description": "I thought I could access photos from cellphone, vr cameras, etc...\nYou can view photos taken from cell phones, vr cameras, etc...but not YOUR photos taken from cellphones, vr cameras, etc...",
+      "date": 1735519879,
+      "review_helpful_count": 4,
+      "author_display_name": "pirate.772963",
+      "author_alias": "pirate.772963",
+      "developer_response": null
+    },
+    {
+      "id": "537487752774693",
+      "score": 1,
+      "review_title": "Upload not shown",
+      "review_description": "Just got this there is nothing obvious to show you how to upload your photos so a struggling straight away not a good start maybe a wast of my time will press on now trying to work it out 🙄",
+      "date": 1735309561,
+      "review_helpful_count": 1,
+      "author_display_name": "BeetleJuiceUK",
+      "author_alias": "BeetleJuiceUK",
+      "developer_response": null
+    },
+    {
+      "id": "1129740405429094",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Excellent images but need to add many more like these",
+      "date": 1735407817,
+      "review_helpful_count": 2,
+      "author_display_name": "amazingworld2020",
+      "author_alias": "amazingworld2020",
+      "developer_response": null
+    },
+    {
+      "id": "3676144682650417",
+      "score": 5,
+      "review_title": "Absolutely Incredible",
+      "review_description": "I should point out that the menu is pretty lacking (no way to preview images). However, the technology on display here is absolutely incredible. It is absolutely worth checking out. Some of the visuals are just stunning and the 6dof is revolutionary.",
+      "date": 1727587572,
+      "review_helpful_count": 5,
+      "author_display_name": "gameking231",
+      "author_alias": "gameking231",
+      "developer_response": null
+    }
+  ],
+  "total": 9,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:31:11Z"
+}

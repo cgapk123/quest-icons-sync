@@ -1,0 +1,42 @@
+{
+  "app_id": "23939027859015802",
+  "package_name": "com.chronicbite.livrodemo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Livro Demo",
+  "rating_average": 2.75,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "295668390290346",
+      "score": 1,
+      "review_title": "Contains a memory leak",
+      "review_description": "When i flipped through a few pages the book basically started flickering, i got a low memory warning from my quest and the app crashed",
+      "date": 1712912908,
+      "review_helpful_count": 1,
+      "author_display_name": "r3fined",
+      "author_alias": "r3fined",
+      "developer_response": null
+    },
+    {
+      "id": "246076225255749",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Doesn’t work with Google drive to read comics",
+      "date": 1709158314,
+      "review_helpful_count": 0,
+      "author_display_name": "mcg.54727",
+      "author_alias": "mcg.54727",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:30:53Z"
+}

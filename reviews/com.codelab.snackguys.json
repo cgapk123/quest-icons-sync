@@ -1,0 +1,59 @@
+{
+  "app_id": "7472332056165220",
+  "package_name": "com.codelab.snackguys",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Snack Guys",
+  "rating_average": 3.5555555555556,
+  "rating_count": 9,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "2187434248316499",
+      "score": 5,
+      "review_title": "Very impressive!",
+      "review_description": "So far I’ve got through something like five or six levels. They were big, colourful and challenging. But I at least have found no way to save progress. I had to start all over again the second time in the game.",
+      "date": 1725662464,
+      "review_helpful_count": 1,
+      "author_display_name": "Philozu",
+      "author_alias": "Philozu",
+      "developer_response": {
+        "body": "Thank you very much for your review, our team was very excited, we haven't really implemented a way to save progress yet, but we will provide it as soon as possible! I'm glad you liked the levels, color and challenges.",
+        "date": 1729154074
+      }
+    },
+    {
+      "id": "806051744851762",
+      "score": 5,
+      "review_title": "Share your feedback",
+      "review_description": "\"Hey gamers! Drop your feedback in this channel – let’s make this game epic together!\"",
+      "date": 1722630497,
+      "review_helpful_count": 1,
+      "author_display_name": "drdib",
+      "author_alias": "drdib",
+      "developer_response": null
+    },
+    {
+      "id": "468604386207534",
+      "score": 4,
+      "review_title": "Cool",
+      "review_description": "🤖👾🌿🌿",
+      "date": 1729382839,
+      "review_helpful_count": 1,
+      "author_display_name": "patric.demarco",
+      "author_alias": "patric.demarco",
+      "developer_response": {
+        "body": "Thank you for reviewing, but \"Fix the game\" was a little vague, as we couldn't identify the reason for this comment, could you pinpoint what went wrong? Was it the mechanics? shooting system? Did you run out of ammo during the match? Enemy? Did you manage to expose all the joystick buttons? Did a multiplayer or connection error occur? delay? Please give me your feedback really, thank you in advance!",
+        "date": 1729154824
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:34:07Z"
+}
