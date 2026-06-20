@@ -1,0 +1,475 @@
+{
+  "app_id": "6308914842477595",
+  "package_name": "com.heresphere.vrvideoplayer",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "HereSphere VR Video Player",
+  "rating_average": 4.3525179856115,
+  "rating_count": 139,
+  "review_count": 71,
+  "reviews": [
+    {
+      "id": "1009072958358768",
+      "score": 5,
+      "review_title": "Please add copy/paste to browser",
+      "review_description": "This thing would be 100% perfect if the web browser would let you paste into form fields. Still worth every penny, so awesome.",
+      "date": 1778233609,
+      "review_helpful_count": 1,
+      "author_display_name": "oddmanhypo",
+      "author_alias": "oddmanhypo",
+      "developer_response": null
+    },
+    {
+      "id": "1042579482282797",
+      "score": 5,
+      "review_title": "Top",
+      "review_description": "Nice handling",
+      "date": 1778789274,
+      "review_helpful_count": 0,
+      "author_display_name": "Xiltactic",
+      "author_alias": "Xiltactic",
+      "developer_response": null
+    },
+    {
+      "id": "1302711098584823",
+      "score": 5,
+      "review_title": "100% My Go To browser.",
+      "review_description": "Browse during playback, customize commands, stream from a local source...  Yes, you can dig nerd-deep into Heresphere, and you also don't have to.  Recommended.",
+      "date": 1774071803,
+      "review_helpful_count": 2,
+      "author_display_name": "fasterdisco",
+      "author_alias": "fasterdisco",
+      "developer_response": null
+    },
+    {
+      "id": "1804339776882015",
+      "score": 2,
+      "review_title": "Struggles with new mp4 encoders",
+      "review_description": "Tested on multiple wifi setups (so def not a wifi setting issue), seems to get stuck when playing newer mp4 files, AV1 and HEVC (older h264s play fine). The video plays for around 5-10sec and the  gets stuck for around 5sec and then continues playing until it gets stuck again",
+      "date": 1766787144,
+      "review_helpful_count": 25,
+      "author_display_name": "al23x",
+      "author_alias": "al23x",
+      "developer_response": null
+    },
+    {
+      "id": "972907969236562",
+      "score": 5,
+      "review_title": "Dream App to watch several movies",
+      "review_description": "Heresphere is a fabulous App to watch several movies on multi-screens. I had no issue at all to connect with my gaming computers (one laptop and one desktop). Two clicks are enough on the computers.  Heresphere directly recognized the computers and all my movies were available for watching.  I also have the impression that the clarity and color of the movies are enhanced. I convert 2D movies into 3D movies with a third party software and those plays superbly on Heresphere. I can even plays two 3D movies side by side to scrutinize the effect of various 3D converting settings.  Heresphere is a bit more difficult to master because it is far more complex and has much more options and functions than competitors which are more basic.  However, I had a question concerning some functions of the app and contacted Heresphere with the contact form on their website and received a clear reply the next day. For all those reasons 5 stars are deserved.",
+      "date": 1769165223,
+      "review_helpful_count": 3,
+      "author_display_name": "FanBernie1",
+      "author_alias": "FanBernie1",
+      "developer_response": null
+    },
+    {
+      "id": "927106893819424",
+      "score": 2,
+      "review_title": "only useful for geeks",
+      "review_description": "I cannot recommend this for movie watching, it cannot compare to movie players like 4XVR or Skybox.\n\nThe player has so complex interface with so many options dusplayed as icons (without any text or tooltip) that it was completely confusing. The long standalone instructions text does not help much either.\nI sucessfully connected to server with SMB and played 3D SBS video file in the end, but there was no sound. I went through all hundreds menu options, but it seemed the audio codec was missing.\n\nThe player may have many features and adjustments for handling audio files, but it was clearly designed for a specific use not for watching movies. I found other players like 4XVR or Skybox much more user friendly and capable of playing any 2D or 3D movies with sound.",
+      "date": 1766857675,
+      "review_helpful_count": 13,
+      "author_display_name": "Ondrej1234567890",
+      "author_alias": "Ondrej1234567890",
+      "developer_response": null
+    },
+    {
+      "id": "874295602440023",
+      "score": 5,
+      "review_title": "Great app for VR video！",
+      "review_description": "I’ve been using the demo version for a while, and now I’m here to purchase the paid version. Even though I know the free and paid versions have the same features, it’s precisely because of that that I want to pay to support such an excellent app. This is my go-to choice for watching VR videos—you guys truly deserve it!",
+      "date": 1764819449,
+      "review_helpful_count": 10,
+      "author_display_name": "DeathSmiles",
+      "author_alias": "DeathSmiles",
+      "developer_response": null
+    },
+    {
+      "id": "26070140889318933",
+      "score": 1,
+      "review_title": "Fuuuuck",
+      "review_description": "Too defficute",
+      "date": 1773434569,
+      "review_helpful_count": 1,
+      "author_display_name": "SpriteMilk",
+      "author_alias": "SpriteMilk",
+      "developer_response": null
+    },
+    {
+      "id": "882851611588283",
+      "score": 4,
+      "review_title": "Developers please add",
+      "review_description": "It would be great if you had the option of having the name or image of video displayed",
+      "date": 1769304707,
+      "review_helpful_count": 2,
+      "author_display_name": "Ninjatooven",
+      "author_alias": "Ninjatooven",
+      "developer_response": null
+    },
+    {
+      "id": "1101362506385442",
+      "score": 1,
+      "review_title": "Not working in vr 180",
+      "review_description": "Stuck in flat mode, can not make it into vr mode like 180 or 360. Just looks like flat screen like tv.",
+      "date": 1772748982,
+      "review_helpful_count": 0,
+      "author_display_name": "kai070707",
+      "author_alias": "kai070707",
+      "developer_response": {
+        "body": "If you go into the video settings, you can change the projection setting to equirectangular, fisheye, or one of the other VR video formats. You can add \"_180\" or \"_360\" to the filename for equirectangular videos, and \"_F180\", \"_MKX200\", etc for fisheye videos.",
+        "date": 1772822559
+      }
+    },
+    {
+      "id": "3856777974452771",
+      "score": 5,
+      "review_title": "IMO the best video player out there",
+      "review_description": "Lots of features and quality playback. Highly endorsed.",
+      "date": 1770846427,
+      "review_helpful_count": 0,
+      "author_display_name": "jamesber50",
+      "author_alias": "jamesber50",
+      "developer_response": null
+    },
+    {
+      "id": "738789128847728",
+      "score": 5,
+      "review_title": "Best VR player!",
+      "review_description": "Been using this app for years now and havent found anything that comes close. It can be overwhelming at first cause of the options but you can make the quality of streaming and graphics so much better. Try the demo and give it a shot, the dev definitely deserves my praise!",
+      "date": 1751544941,
+      "review_helpful_count": 18,
+      "author_display_name": "crazystrangernl",
+      "author_alias": "crazystrangernl",
+      "developer_response": null
+    },
+    {
+      "id": "1466391967748264",
+      "score": 5,
+      "review_title": "Best video player ever",
+      "review_description": "Perfect interface, not laggy. Everything work like a charm.",
+      "date": 1759533852,
+      "review_helpful_count": 1,
+      "author_display_name": "Twisty59",
+      "author_alias": "Twisty59",
+      "developer_response": null
+    },
+    {
+      "id": "719444837925898",
+      "score": 5,
+      "review_title": "best player ever",
+      "review_description": "only drawback is when editing key bindings and inputting values each click is treated like a double click and the same number is input twice. I'm not sure what is causing it :(",
+      "date": 1756400798,
+      "review_helpful_count": 1,
+      "author_display_name": "poyito",
+      "author_alias": "poyito",
+      "developer_response": null
+    },
+    {
+      "id": "1159195875976610",
+      "score": 5,
+      "review_title": "Must have for VR Content Consumption!",
+      "review_description": "There are a few different video players for VR, but there is only one you should use, and that's heresphere. The player is the most stable, configurable, codec-compatible and feature-rich player on the market and well worth it's price if you often watch content in VR. It even has a built-in browser for sites like Youtube which offer 3D content!",
+      "date": 1746747272,
+      "review_helpful_count": 9,
+      "author_display_name": "Khilendel",
+      "author_alias": "Khilendel",
+      "developer_response": null
+    },
+    {
+      "id": "1344315676812142",
+      "score": 1,
+      "review_title": "It’s sad",
+      "review_description": "It’s very sad to have the best app for movies , the quality es amazing , better than moon VR , but why 24 dollar if the app doesn’t support dolby audio ? It’s sad very sad , why this app called video player if I can’t watch video without audio , normally all movies have Dolby audio . I love the  app , but without audio it’s worth, I want my money back . Wow  . Please pay the the dolby copyright , your work deserve because is amazing, don’t waste your time if you don’t want to pay Dolby copyright. Thank you",
+      "date": 1742685312,
+      "review_helpful_count": 52,
+      "author_display_name": "alfred.mancilla.37",
+      "author_alias": "alfred.mancilla.37",
+      "developer_response": null
+    },
+    {
+      "id": "1317893773394175",
+      "score": 5,
+      "review_title": "Best player great support.",
+      "review_description": "My support request was answered within a few hours and resolved.",
+      "date": 1759490285,
+      "review_helpful_count": 0,
+      "author_display_name": "dfriday",
+      "author_alias": "dfriday",
+      "developer_response": null
+    },
+    {
+      "id": "1568816843829314",
+      "score": 5,
+      "review_title": "The best VR video player out there!",
+      "review_description": "The best VR video player i’ve tried and keep using since 2023. Super easy to use, packed with features, and everything just works without a hassle.\n\nAlso, huge shoutout to the dev - really kind and helpful. You can tell they actually care about the app and the people using it.\n\nIf you're into watching videos in VR, definitely give this one a go. Totally worth it.",
+      "date": 1743760805,
+      "review_helpful_count": 2,
+      "author_display_name": "stockmind",
+      "author_alias": "stockmind",
+      "developer_response": null
+    },
+    {
+      "id": "1132015988637119",
+      "score": 4,
+      "review_title": "",
+      "review_description": "I found this media player amazing to use. However the videos must come from Internal device in which the problem lies with about of storage space. I'm having problems trying to connect my hard drive to the Device In which is easier to do on skybox.\nFor example, you can plug a USB c.\nDrive To obtain the videos stored However, no luck with this app. Nevertheless it has amazing pass through and Viewing, i'd like the other players. It's just lacking the connection to external hard drives. If they added that feature, this would be one hell of a app 1 above all.\nUnfortunately, does not have that option yet. Still waiting on it.\nMy Advice is if you can merge sky box and this app Any corporate both of the great features has to Achieve when hell of a app for virtuality and mix reality like the other.",
+      "date": 1734128538,
+      "review_helpful_count": 14,
+      "author_display_name": "smartask1",
+      "author_alias": "smartask1",
+      "developer_response": null
+    },
+    {
+      "id": "635074179178434",
+      "score": 5,
+      "review_title": "Best player dont bother looking elsewher",
+      "review_description": "If you're serious about vr this is the player hands down worth every penny",
+      "date": 1733516836,
+      "review_helpful_count": 4,
+      "author_display_name": "emmaelza",
+      "author_alias": "emmaelza",
+      "developer_response": null
+    },
+    {
+      "id": "453028854566038",
+      "score": 1,
+      "review_title": "No HEVC? so i have to reencode 2TB?",
+      "review_description": "i got this because it was well reviewed and supports smb shares, but this app doesn't play anything using x265/HEVC and if you haven't noticed, that codec makes considerably smaller files so that's what i always use and this thing can't play it.\n\nplays on apple vision pro fine without even needing a third party application but i feel pretty annoyed i bought this and it can't play anything i have encoded. absurd.",
+      "date": 1730732880,
+      "review_helpful_count": 10,
+      "author_display_name": "GravitonLance",
+      "author_alias": "GravitonLance",
+      "developer_response": {
+        "body": "h265/HEVC is supported. Are you perhaps playing MV-HEVC (multiview HEVC) or are you using a different file container than mp4?",
+        "date": 1730939534
+      }
+    },
+    {
+      "id": "26882640654716477",
+      "score": 5,
+      "review_title": "Allways install app",
+      "review_description": "Really  great video player quick to update with new function if needed . One off my always  install apps",
+      "date": 1727394604,
+      "review_helpful_count": 0,
+      "author_display_name": "tola5",
+      "author_alias": "tola5",
+      "developer_response": null
+    },
+    {
+      "id": "377398872129332",
+      "score": 5,
+      "review_title": "add",
+      "review_description": "Chinese",
+      "date": 1722945084,
+      "review_helpful_count": 8,
+      "author_display_name": "ppen",
+      "author_alias": "ppen",
+      "developer_response": null
+    },
+    {
+      "id": "305131406014072",
+      "score": 4,
+      "review_title": "I have one inconvenience to report",
+      "review_description": "Thank you for developing such a great app.\nThere is one inconvenience I've encountered. \nI experience a significant loading delay when accessing a 4TB NAS via SMB.\nWhen accessing the NAS from my phone, laptop, or Skybox player, the list appears within a second.\n\nHowever, when accessing it through HereSphere, the loading time is extremely long.\nThe NAS's SMB version is set to 2, and there are a large number of files and folders.",
+      "date": 1714804199,
+      "review_helpful_count": 10,
+      "author_display_name": "user.20232",
+      "author_alias": "user.20232",
+      "developer_response": null
+    },
+    {
+      "id": "3676509052598162",
+      "score": 5,
+      "review_title": "Great player, use it almost daily",
+      "review_description": "For me this app works perfectly. Yes it can be a bit slow scanning SMB shares but it warms you about this when you try to. I playback 25Gb movies over SMB flawlessly (via a Synology NAS, for the folks who say that doesn’t work). \n\nLove this app, it’s better than Skybox.",
+      "date": 1715531346,
+      "review_helpful_count": 9,
+      "author_display_name": "philrigby",
+      "author_alias": "philrigby",
+      "developer_response": null
+    },
+    {
+      "id": "8029495107066613",
+      "score": 2,
+      "review_title": "Broken Synology SMB functionality",
+      "review_description": "After a while of constaint playback lockups (not due to network speed) I just assumed the SMB functionality was broken. All my media is on a Synology NAS and works great with similar apps on the Quest accessing the exact same files. I decided to try a Windows share as a test and it works fine, so it appears this app has issues with Synology network shares.",
+      "date": 1707267343,
+      "review_helpful_count": 25,
+      "author_display_name": "knapman",
+      "author_alias": "knapman",
+      "developer_response": null
+    },
+    {
+      "id": "3664787253801488",
+      "score": 1,
+      "review_title": "Doesn’t work",
+      "review_description": "The application hangs while trying to access SMB shares and playback is choppy on web sources (YouTube, etc.). It seems this app does not work properly.",
+      "date": 1708808573,
+      "review_helpful_count": 12,
+      "author_display_name": "aburkh",
+      "author_alias": "aburkh",
+      "developer_response": null
+    },
+    {
+      "id": "158145424043983",
+      "score": 5,
+      "review_title": "⚡HereSphere VR Video Player & 2５％ OFF⚡",
+      "review_description": "Best of the best VR video player.\nVideo details can be fine-tuned and precise settings can be made. Even when watching videos with subtitles, it shows superior performance compared to other players. It also supports settings profiles so you can conveniently load settings that vary depending on the content you have set.\n\nAlso, if you watch R18-rated videos through Virtual Desktop or Airlink, I can confidently say that there is no better player. The Sharpness feature is truly awesome.\n\n⚡che1.𝚋𝚒𝚘.𝚕𝚒𝚗𝚔⚡\nHere is the 𝟸𝟻% OFF link for HereSphere VR Video Player\nCopy and paste or type the link above into the browser address bar, and accept before purchasing. \nThen you can instantly get 𝟸𝟻% off in the official Quest Store.\n\n\nWas this helpful? \nIf so, plz press the 👍 button. :)",
+      "date": 1698787281,
+      "review_helpful_count": 4,
+      "author_display_name": "Cheruli",
+      "author_alias": "Cheruli",
+      "developer_response": null
+    },
+    {
+      "id": "7223523937737509",
+      "score": 5,
+      "review_title": "Best VR Video Player",
+      "review_description": "I've tried multiple video players for the Quest 2 but Heresphere is by far the best one. The picture quality is much better than the others, especially using the Sharpen feature. It takes a little bit of learning to be able to use, but it has a ton of settings that will allow you to customize video playback to your needs. Highly recommend!",
+      "date": 1701716874,
+      "review_helpful_count": 3,
+      "author_display_name": "poolopoolo",
+      "author_alias": "poolopoolo",
+      "developer_response": null
+    },
+    {
+      "id": "7092149460841674",
+      "score": 5,
+      "review_title": "Single best video player, no contest",
+      "review_description": "There is no better video player, period. Have been using it since long before it was available on App Lab, and it just blows every single other player out of the water in every way.",
+      "date": 1699678880,
+      "review_helpful_count": 4,
+      "author_display_name": "AtlasRedux",
+      "author_alias": "AtlasRedux",
+      "developer_response": null
+    },
+    {
+      "id": "1013190363060484",
+      "score": 5,
+      "review_title": "Simply the best",
+      "review_description": "This is the best player available, the stereoscopic view is automatically adjusted very sensibly but you can fine tune it too if you need.\nThe developer has regular support and updates, improving features, stability and performance.\n\nThank you!",
+      "date": 1698020918,
+      "review_helpful_count": 1,
+      "author_display_name": "mitchins",
+      "author_alias": "mitchins",
+      "developer_response": null
+    },
+    {
+      "id": "907871297552844",
+      "score": 1,
+      "review_title": "Unable to connect to SMB",
+      "review_description": "This player can't connect to SMB share while other player apps have no issue.",
+      "date": 1704377394,
+      "review_helpful_count": 1,
+      "author_display_name": "KipOlsenXyphon",
+      "author_alias": "KipOlsenXyphon",
+      "developer_response": {
+        "body": "Is your SMB share set up to use SMB2 or SMB3? Currently, HereSphere only supports SMB2 and SMB3, and not SMB1. Also, using a username and password is recommended, as well as manually inputting the share folder name.",
+        "date": 1704700341
+      }
+    },
+    {
+      "id": "883798930158137",
+      "score": 4,
+      "review_title": "unable to play A video from Quest3",
+      "review_description": "some videos that worked well on Quest 2 are not working on Quest 3\ni dont know why\nplease fix it",
+      "date": 1708169808,
+      "review_helpful_count": 0,
+      "author_display_name": "bbs686",
+      "author_alias": "bbs686",
+      "developer_response": {
+        "body": "I think there is an issue with Quest 3 not being able to decode VP9 videos over 4k resolution. You might need to transcode the video to h264 or h265 encoding. Seems to be a limitation of the hardware or Quest 3 OS issue.",
+        "date": 1708970323
+      }
+    },
+    {
+      "id": "878471757274965",
+      "score": 5,
+      "review_title": "Everyone needs this VR Video Player",
+      "review_description": "This Video Player gets the most out of your VR headset. Unbelievable how much more sharpness and clearity were possible. Can’t wait to get a Quest 3 for this player do even more enhance the experience.",
+      "date": 1691340070,
+      "review_helpful_count": 2,
+      "author_display_name": "mx200201",
+      "author_alias": "mx200201",
+      "developer_response": null
+    },
+    {
+      "id": "842287471300927",
+      "score": 5,
+      "review_title": "Great App, Awesome Developer!",
+      "review_description": "Best app for streaming. The developer is very helpful and quick to respond!",
+      "date": 1722185958,
+      "review_helpful_count": 0,
+      "author_display_name": "enGL_",
+      "author_alias": "enGL_",
+      "developer_response": null
+    },
+    {
+      "id": "810587780829644",
+      "score": 1,
+      "review_title": "Wont load",
+      "review_description": "Won't load for some reason 😕 \nI had the free version from itchio for ages and decided to upgrade, so maybe that has something to do with why it won't load but I can't find any lingering files that might be causing a problem.\nSo sadly I've got to refund it 😢",
+      "date": 1707419098,
+      "review_helpful_count": 2,
+      "author_display_name": "Matty_Reloaded",
+      "author_alias": "Matty_Reloaded",
+      "developer_response": {
+        "body": "Is your Quest OS updated?",
+        "date": 1707437422
+      }
+    },
+    {
+      "id": "802102251719103",
+      "score": 5,
+      "review_title": "Best VR video player available.",
+      "review_description": "Best and most advanced video player available, i tried every one, but HereSphere is the best of all of them.",
+      "date": 1701556416,
+      "review_helpful_count": 0,
+      "author_display_name": "Klimaus",
+      "author_alias": "Klimaus",
+      "developer_response": null
+    },
+    {
+      "id": "775463901260197",
+      "score": 5,
+      "review_title": "Nice player",
+      "review_description": "Thx",
+      "date": 1697678058,
+      "review_helpful_count": 0,
+      "author_display_name": "ganapoly",
+      "author_alias": "ganapoly",
+      "developer_response": null
+    },
+    {
+      "id": "755386249683073",
+      "score": 5,
+      "review_title": "Best VR Video Player",
+      "review_description": "In the beginning the UI seems a bit overwhelming, but it's worth to get used to it.\nYou've got plenty of parameters to tweak. The sharpening parameter blew my mind. You can get image clarity that no other player can offer.\nIf you've got problems, there is a very responsive Discord community.\n\nSuggestions for improvement:\n- Better color correction parameters. I really like the Pigasus parameters\n- Add Timewarp",
+      "date": 1697052136,
+      "review_helpful_count": 9,
+      "author_display_name": "Aelicious",
+      "author_alias": "Aelicious",
+      "developer_response": null
+    },
+    {
+      "id": "730180138877069",
+      "score": 5,
+      "review_title": "Best VR player in the market",
+      "review_description": "Best VR player in the market",
+      "date": 1691598895,
+      "review_helpful_count": 1,
+      "author_display_name": "user_443025866456299",
+      "author_alias": "user_443025866456299",
+      "developer_response": null
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-20T09:33:38Z"
+}

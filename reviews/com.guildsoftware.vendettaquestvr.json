@@ -1,0 +1,326 @@
+{
+  "app_id": "4340670129365944",
+  "package_name": "com.guildsoftware.vendettaquestvr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Vendetta Online",
+  "rating_average": 4.4878048780488,
+  "rating_count": 41,
+  "review_count": 27,
+  "reviews": [
+    {
+      "id": "1210312868829164",
+      "score": 5,
+      "review_title": "True native space MMO in VR. Excellent",
+      "review_description": "Okay so you just want to lay in bed and explore a vast Universe and do some mining, shooting, and just relax? Well this is the game for you. Combine avorion, eve online, everspace and the new game spacecraft, then you get vandetta online. This game should be higher up on search results for space games etc. Just buy it and install it. You won't regret it if you are into space games with freedom to play however you want. Highly recommend!",
+      "date": 1781349854,
+      "review_helpful_count": 0,
+      "author_display_name": "luxwarp",
+      "author_alias": "luxwarp",
+      "developer_response": null
+    },
+    {
+      "id": "1061938896995345",
+      "score": 5,
+      "review_title": "Devs are amazingly helpful!",
+      "review_description": "I recently complained about an update compatibility issue breaking the functionality of the quest controllers. I submitted a question on the website asking if the Quest controller support was removed. The devs quickly got in contact with me and worked the problem, helped me troubleshoot the issue, reproduced the problem in house, determined that it was a compatibility issue with the Meta Quest test server version (because I'm a dummy and forgot I had selected this option), and rolled out a patch to fix the issue, all within 2 days. I was blown away by the speed with which they responded and helped, and the level of dedication. I'm embarrassed that I jumped to submitting a negative review. I guess I had become jaded about tech companies and game devs not really being interested in the satisfaction of the customers. So I'd like to retract any of my previous negative comments, and apologize to the devs for taking out my bad mood on them. And I'd also like to say that I love this game. It's the best way to experience true Newtonian flight physics on stand-alone Meta Quest.\n\nI highly recommend selecting \"Aim to fly, HUD lock to ship,\" for use with Flight Assist Off mode.  With yaw, pitch, and roll tied to the orientation of the right Quest controller, you're freed up to assign all thruster directions and throttle controls to the sticks.  The level of ship control you can achieve is really unmatched on the Quest.  Really take the time to dial in your control scheme. You won't be disappointed.",
+      "date": 1772183384,
+      "review_helpful_count": 11,
+      "author_display_name": "ThePaintedCar",
+      "author_alias": "ThePaintedCar",
+      "developer_response": null
+    },
+    {
+      "id": "947652491764592",
+      "score": 5,
+      "review_title": "The only MMO Space Sim on Standalone",
+      "review_description": "This game is incredible. You fly around in your space ship in a massive open map galaxy while completing missions and earning credits to upgrade your ship and equipment. This game has everything you would expect from a space MMO- mining asteroids, trading, deliveries, and fast pace space combat. It's awesome. If you don't have a PC, but need to scratch that space flight sim, then this is the game for you. Best way to describe it is like an Elite Dangerous for standalone. Now with that being said I do have a few critiques.\n\n1. The default controls they have set up on the Quest controllers are not very intuitive. You have to play around with them in the settings to see what works best for you. Not a huge deal, but could be a potential turn off for someone first trying the game. \n\n2. The cockpit of your spaceship leaves something to be desired.. you're essentially just floating in a glass box. Even when you look completely behind you, it's literally just a glass box, no ship at all. It would really help with immersion if they added a little more to the cockpit. I understand that visibility is a factor here, but it could still be improved. I should see the inside of my spaceship when I turn my head around. \n\n3. Not really a problem, but I did find it strange that you have to restart some of the missions if you log out in the middle of them. Never played a MMO that does that before.",
+      "date": 1767316540,
+      "review_helpful_count": 3,
+      "author_display_name": "Daniel_C137",
+      "author_alias": "Daniel_C137",
+      "developer_response": null
+    },
+    {
+      "id": "1325494619163879",
+      "score": 3,
+      "review_title": "Misleading it's not adapted",
+      "review_description": "Although probably a great game if you have the flight sticks and such but it's not adapted to standalone VR fully at all this game is extremely outdated compared to even the basics like warplanes although it is an old game so has to be given some leeway for that \n\nIt's \"adaptation\" to VR is that you can look around with the headset that's it no in game flight controls just analog sticks although it does really work I was just hoping to be able to press the cockpit buttons but the cockpit is just a HUD realistically everything is bound to the controllers minus your looking and the whole game tutorial constantly tells you to press \"m\" or \"t\" \n\nThis isn't a VR game but rather a PC port into VR. \n\nThis game is good and fun but just not the experience I was looking for.",
+      "date": 1759251646,
+      "review_helpful_count": 8,
+      "author_display_name": "SKoGODLY",
+      "author_alias": "SKoGODLY",
+      "developer_response": {
+        "body": "I definitely agree that our tutorials should improve, and they will continue to do so. Most of the initial tutorials are completely Quest-custom (and do not make any keyboard references), but there are later-stage missions that are shared across multiple platforms, at the moment.\n\nHowever, I disagree with the fundamental characterization of the game. The fact that we don't have VR-actuated controls is not an accident, or some kind of \"PC history\" limitation, it's very intentional. You cannot actuate a \"virtual control\" in a timely manner, and this is a real-time space combat simulator. Every control needs to be bound to an actual hard button on a controller. If you spend some time playing the game, it will quickly become obvious why this is necessary.\n\nThe fact that we made this choice has nothing to do with the game's \"age\". Everything about the game, including our in-house custom engine technology, has been continuously updated. It is reasonable to suggest that we may be the most technologically advanced title on the Quest. \n\nThe game is absolutely designed for \"standalone VR\" usage on the Quest, with the Quest controllers. We do not expect players to have \"flight sticks\".\n\nThe game is unlikely to ever be intended for \"captured hand-motion\" input, as the latency (delay) and lack of tactility of contact would make any combat a futile effort. You need to be able to feel the buttons, feel that you've pressed them successfully, and not have to \"think\" about this in order to be successful in this game.",
+        "date": 1768865830
+      }
+    },
+    {
+      "id": "1236532254542424",
+      "score": 3,
+      "review_title": "Partially adapted to VR",
+      "review_description": "This is a decent non-VR game that feels only halfway adapted to VR. There are still many references to keyboard controls, poorly translated missions in Spanish (possibly due to incorrect UTF-8 encoding), and a broken interface where ship components stick out on the left side. I'll wait for these issues to be fixed—games shouldn't be released in this unfinished state.",
+      "date": 1746380080,
+      "review_helpful_count": 29,
+      "author_display_name": "javifuen2000",
+      "author_alias": "javifuen2000",
+      "developer_response": {
+        "body": "Sorry to hear you had a bad experience. Your review is a bit perplexing, we regret that you were unable to report these issues directly. We do rapidly patch any known problems, usually once a week. I'll respond as best I can:\n\n- We're one of the oldest VR games, we're definitely heavily adapted to VR. However, many of our users enjoy \"hybrid\" play and use non-standard controllers and keyboards, so we may provide some additional control references in some tutorial cases, especially those that are across both Quest and Rift. That said, the main Quest onboarding tutorial is obviously very heavily focused on Quest controllers, specifically. What is considered \"normal\" for other games may not be the best solution for our particular userbase.\n\nNonetheless, we are always striving to improve our game whenever we can, so if there was something particularly jarring about a given mission, we would like to fix that.\n\n- Our game is translated actively by a native Spanish speaker. I'm genuinely surprised you encountered issues. We have no encoding problems that we're aware of. Now, we do have about 350,000 words of text maintained across 20 languages, so a bit under seven million translated words, with mission updates and event changes resulting in some fluctuation and periodic re-translation. This is where we greatly appreciate any reports people are willing to provide. We're a small studio, operating a large, multi-platform and complex game, so we benefit from direct reports whenever possible. (I say \"direct reports\", because we can rarely get enough information from review feedback to resolve problems, we usually need to ask direct questions).\n\n- I'm not sure what you're referencing in terms of \"a broken interface where ship components stick out on the left side\". This sounds pretty strange. We have heard about a recent UI word-wrapping problem in one case? That should be addressed later this week, but again, we only had it reported this past Saturday.\n\nIt's difficult to articulate how technologically different our game is from practically every other game. This is a completely custom-server, custom-engine and custom-renderer MMORPG that updates concurrently across six platforms, every week. This is very, very unusual. And, while our rapid updates are generally positively received by our users (fast fixes, rapid changed based on player feedback), it also means there are opportunities for new bugs every week.\n\nSo, while I appreciate where you're coming from with your \"unfinished game\" comment, Vendetta Online will *never* be finished, and that's by-design. We've been pushing weekly updates since 2002 (roughly 23 years), and while we have a pretty good track record of keeping things solid, I definitely won't claim that we're perfect.\n\nIf you encounter problems in the future, please feel free to reach out via any of our different channels (\"Bugs Forum\", Discord, direct email, etc), we'll try to help, or to resolve the issue as soon as we can.",
+        "date": 1752642653
+      }
+    },
+    {
+      "id": "1328977478336168",
+      "score": 5,
+      "review_title": "Well worth a look",
+      "review_description": "An older sci-fi MMO brought back to life in VR.  I've only played it on the VR version and so far it's a fun play, there's a fair amount of depth in the ships, the add-ons, and your personal character progression. \n\nThe gameplay loop might be a bit basic I am seeing similar types of missions popping up repeatedly.  Though the space combat is quite fun, so you definitely do need to customize your controls a little bit and find out what settings work for you the best. \n\nLooks like there's regular events, options for people who want to do PVP, doesn't appear to be a crafting system per say but there's definitely resource gathering etc.\n\nIt's definitely a game you'll probably have more fun with friends than solo but at the moment I'm having fun just on my own.\n\nIt's a freemium model, so you can play completely free (minus the initial purchase) and you do earn a currency required for some types of equipment/ships.  You can of course buy that currency if you wish but I have had no real need.  I don't suspect that changing anytime soon.  There appears to be also a standard subscription model like most MMOs that gets rid of that if it annoys you.",
+      "date": 1744881079,
+      "review_helpful_count": 9,
+      "author_display_name": "Ihrie",
+      "author_alias": "Ihrie",
+      "developer_response": null
+    },
+    {
+      "id": "528724260330003",
+      "score": 5,
+      "review_title": "Open space mmo VR",
+      "review_description": "As an older gamer I grew up with elite this is basically X2 in VR in an mmo setting.\n\nThere are 3 factions in a very vast world it has commerce, pvp, pve mining and player VS AI.\n\nIt has faction based events like defend the capitol ship.\n\nIt's a slower paced game, fairly relaxing and easy to get into.\n\nDevs are updating this and appear to be moving away from the old model and pushing vr and the quest option.\n\nIt's surprisingly good for quest gfx wise and size wise.\n\nIf your into Sci fi then this is definitely your game.\n\nI have some videos up on slightlymad79 YouTube \n\nhttps://youtu.be/YcNkszXMHxM?si=rxOV2bp76z-4pjPe\n\nIf you do purchase some of the controls need to be manually set like target nearest enemy as they were not made for quest, you also need to raise your floor level in boundary options to your Knees if your playing seated or you will not be seated in the cockpit correctly.",
+      "date": 1739027210,
+      "review_helpful_count": 41,
+      "author_display_name": "SleepHatman",
+      "author_alias": "SleepHatman",
+      "developer_response": null
+    },
+    {
+      "id": "609987622194359",
+      "score": 5,
+      "review_title": "Longtime Player",
+      "review_description": "VO was Made for VR. 100%. Just a few small frictions: i really think (only) Bars should have shared presence for players in vr. Ill take a barebone stock asset avatar model with its polygon skin colored to match nation and no interactibility besides spatial voice audio, not asking for anything extensive or involved: i know how against even walkable planets some ppl have been. As for bugs: i personally fly without the background on, i find it more immersive to be surrounded by darkness, but it turns back on every time i restart the game in VR: its possible other settings are reverting too. My mate had an issue where undocking without a battery broke his UI, and trying to buy a light sub on my acct crashed my ui as well: the meta store claims not to support gem or sub purchases, so i had to buy my sub on mobile. \nThe default controller scheme also seems to be widely hated. I can share mine on the forums soon to offer an alternative.\nI look forward to the day VO in VR is running 500+ people fleets and we finally justify you giving us player owned, built and deployable stations, so we can truly own our own space in the 'Verse.\nAlso, the lore makes me cry. It's great.",
+      "date": 1742541574,
+      "review_helpful_count": 2,
+      "author_display_name": "Atmatan",
+      "author_alias": "Atmatan",
+      "developer_response": null
+    },
+    {
+      "id": "1886631351744925",
+      "score": 2,
+      "review_title": "Bad control system terrible HUD...",
+      "review_description": "If you've ever played elite dangerous you know What the inside of a spaceship should look like and feel like. The interface on this is not for VR. I feel like it is designed for a flat screen and then retrofitted very badly for VR. The interface is terrible. The keys that you have to hit on the controller are not intuitive and hard to remember..  The radar system with the whole front and back thing is horrible. It is 2D disguised as 3D and that is why you have to have two one for the front and one for the back. I am looking now to figure out how to return this.",
+      "date": 1733462655,
+      "review_helpful_count": 15,
+      "author_display_name": "TheFatherMind",
+      "author_alias": "TheFatherMind",
+      "developer_response": {
+        "body": "Sorry to hear you didn't like the game. The button control layout is pretty easy to customize however you like, but the defaults work well for us. Our Heads Up Display (HUD) is intended for maximum situational awareness, for tactical combat purposes, which means an emphasis on visibility, versus large areas of \"aesthetic ship internals\" blocking your vision. Additionally, no native Quest app can render the kinds of detailed cockpits you find on PC titles, not at any usable framerate. The radar is not \"disguised\" as anything, it is a 3D representation of the objects around you. Splitting front/back halves the visual clutter and makes it easier to react and avoid \"tracking\" missiles without directly seeing them (we are a real 6-DOF, true-physics simulation). Understand, we have environments where 300 NPCs may aggro on you at once, the level of chaos in fighting that many adversaries at once may be.. different from what you are used to. As noted by other reviewers, our game has been around a long time, and designs like the HUD are based on iteration and player feedback over tens of thousands of combat hours. The HUD is also highly configurable via an open programmable \"plugin\" system.",
+        "date": 1737240739
+      }
+    },
+    {
+      "id": "1245724206505774",
+      "score": 5,
+      "review_title": "Awesome game",
+      "review_description": "I've been waiting for a true Free roaming game,the space to explore is ridiculous,the flight controls are easy and fun,combat is very intense.",
+      "date": 1737923470,
+      "review_helpful_count": 4,
+      "author_display_name": "TheMadLamb",
+      "author_alias": "TheMadLamb",
+      "developer_response": null
+    },
+    {
+      "id": "567737323081141",
+      "score": 4,
+      "review_title": "Use a gamepad or HOTAS",
+      "review_description": "This is as close to Elite as I can find on standalone.\nThere is also a certain charm to a game 2 decades old.",
+      "date": 1736528321,
+      "review_helpful_count": 2,
+      "author_display_name": "seanvance",
+      "author_alias": "seanvance",
+      "developer_response": null
+    },
+    {
+      "id": "251959981328208",
+      "score": 5,
+      "review_title": "This blew me away",
+      "review_description": "I've been playing this game on PC for 21 years and I was really taken by surprise at how amazing it is in VR 3D. You can adjust the flight style and the deadzones in the settings to meet your comfort level which I suggest doing after you finish the tutorial and then just fly around and enjoy the view.",
+      "date": 1708194752,
+      "review_helpful_count": 12,
+      "author_display_name": "CommodoreSpence",
+      "author_alias": "CommodoreSpence",
+      "developer_response": null
+    },
+    {
+      "id": "295204026878606",
+      "score": 3,
+      "review_title": "Budget no man’s sky needs some make-up",
+      "review_description": "From what I know this has been around for a long time on other devices. \nI recently bought and have had a decent time with a couple frustrating instances. You need a bit of an imagination to make this work because the look and mechanics of the game are really dated. You can have a great time but most of it is just stationary flying in a direction for minutes at a time with not much going on around you, which is expected from space exploration but lacks any sort of real excitement. \n\nIt may be the best for its time but without taking steps to upgrade this heavyweight. It sits on the back of the shelf behind all the shiny new titles.\n\nEven with official release this will be for a niche market that are either already hardcore vendetta players or people who enjoy the retro feel and text of an older game. \n\n6/10",
+      "date": 1706188171,
+      "review_helpful_count": 14,
+      "author_display_name": "CaryWeight",
+      "author_alias": "CaryWeight",
+      "developer_response": null
+    },
+    {
+      "id": "2252122931645414",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Great Game!!! Thank you for the update!! Please keep going, I'm on a Quest 3.  Would love to see you make this the best it could be on the Oculus quest 3.",
+      "date": 1704590841,
+      "review_helpful_count": 7,
+      "author_display_name": "solvangman805",
+      "author_alias": "solvangman805",
+      "developer_response": null
+    },
+    {
+      "id": "159584597246172",
+      "score": 4,
+      "review_title": "Woah!",
+      "review_description": "So far I’m only doing the beginner tutorial section but I’m well impressed. Very VERY immersive. I’m gonna go back on later and do more so will update my review but so far I’m linking it. Can see myself spending a LOT of time in this game. Really hope the Devs keep updating and adding content.",
+      "date": 1701427323,
+      "review_helpful_count": 2,
+      "author_display_name": "PuggiTheGreat",
+      "author_alias": "PuggiTheGreat",
+      "developer_response": null
+    },
+    {
+      "id": "651921317118506",
+      "score": 5,
+      "review_title": "Just wow",
+      "review_description": "I completely agree that there are not enough such games in the quest store. A deep game with a huge number of quests: delivery, escort, research, espionage, cargo transportation, mining, border protection, pirating, big battles with dozens of ships, war and much more. There are a lot of plot branches, and all this online in a live galaxy. An absolute must have.\n\nPS You can enable shadows in the settings. Quest 2 can do it.",
+      "date": 1696770649,
+      "review_helpful_count": 10,
+      "author_display_name": "ezobnin",
+      "author_alias": "ezobnin",
+      "developer_response": null
+    },
+    {
+      "id": "1007235677355615",
+      "score": 5,
+      "review_title": "A hidden gem",
+      "review_description": "Quest needs more games like this, with depth, hundreds of hours of playtime. Feels like a small Elite Dangerous in VR. Highly recommended.\n\nHope in the future they add interactive cockpits with virtual Hotas, virtual buttons and switches to control things like flight assistant, target selection, etc. Would also be nice if docking was more challenging like in Elite Dangerous, and if stations interiors were different from station to station. But overall I am impressed with the game, and I highly recommend it to any space inthusiast.",
+      "date": 1684186665,
+      "review_helpful_count": 14,
+      "author_display_name": "Luke.sFather",
+      "author_alias": "Luke.sFather",
+      "developer_response": null
+    },
+    {
+      "id": "877161500173507",
+      "score": 5,
+      "review_title": "Wow",
+      "review_description": "I though from the few review it has its a scam according to quality of game.\nNO!\nIt will blow your mind!\nI know its a 10+ years old game (engine) but its reworked for Quest and its even cross play multi!\nYou gonna get a full length pc quality Space Sim!",
+      "date": 1676537444,
+      "review_helpful_count": 4,
+      "author_display_name": "itsdanivegan",
+      "author_alias": "itsdanivegan",
+      "developer_response": null
+    },
+    {
+      "id": "213840637685190",
+      "score": 5,
+      "review_title": "Like Elite Dangerous on the quest!",
+      "review_description": "Great game, played it on my phone but no it’s in VR! \n25% off if you want to use.\nGood luck commanders!",
+      "date": 1672222733,
+      "review_helpful_count": 6,
+      "author_display_name": "Jalapeno_Monsta",
+      "author_alias": "Jalapeno_Monsta",
+      "developer_response": null
+    },
+    {
+      "id": "125217353448095",
+      "score": 5,
+      "review_title": "Awesome!",
+      "review_description": "Bit expensive for an applab game but worth it to have vendetta online in native Oculus quest 2. Take my money! 8D\n\n(Suggest for developers : You should announce it in your official page (and other media) and put a link to oculus store as done in others versions. Oculus quest is a best seller with a lot of people wanting this game working in native mode. Thank you very much for your work!",
+      "date": 1649873014,
+      "review_helpful_count": 15,
+      "author_display_name": "JandroJan",
+      "author_alias": "JandroJan",
+      "developer_response": null
+    },
+    {
+      "id": "9554602317945402",
+      "score": 5,
+      "review_title": "Really nice game",
+      "review_description": "I have been playing VO for a long time in VR i started e Samsung VR , this app is awesome and i hope they keep adding more and more nice stuff to it",
+      "date": 1687091369,
+      "review_helpful_count": 3,
+      "author_display_name": "JR.G",
+      "author_alias": "JR.G",
+      "developer_response": null
+    },
+    {
+      "id": "5726939580724097",
+      "score": 5,
+      "review_title": "Just Amazing",
+      "review_description": "Closest thing on Quest to \"The Oasis.\" \nI like mmorpg games that allow you to go where you want to go, and do what you want to do. Zenith is the best one so far that is featured on a planet, and this game is hands down the best over all. It just works. There is so much content that you can get lost in it for literally months and never do even a small portion of the available missions. It is truly massive and has a massive userbase. \n\nThis should not be in AppLab, this should be a regularly featured app, and Meta should be promoting it, because, more than any other app available, this one shows off the potential of virtual reality. This is an app that makes the Quest a must have device.\n\nIncidentally, I play using a Quest Pro 2, and wow! Just wow! The graphics are breathtaking. I want to fly up to asteroids just to admire how real they look. \n\nMore than any other game, this one makes you feel like you are somewhere else.",
+      "date": 1671592478,
+      "review_helpful_count": 11,
+      "author_display_name": "BertochMe",
+      "author_alias": "BertochMe",
+      "developer_response": null
+    },
+    {
+      "id": "2148313385339114",
+      "score": 5,
+      "review_title": "Nice :)",
+      "review_description": "This game is a lot of fun. I played it on PC and it's even better in VR.\n\n\nTo the developers, please add multiple languages",
+      "date": 1679265875,
+      "review_helpful_count": 3,
+      "author_display_name": "Jeex01",
+      "author_alias": "Jeex01",
+      "developer_response": null
+    },
+    {
+      "id": "1425970784479970",
+      "score": 5,
+      "review_title": "Works great other than controller issues",
+      "review_description": "Its kind of expensive considering all the bugs it still has but if your a fan of VO its well worth it. Really it actually seems to be working great other than some stick dead zone issues on the quest 2 controllers.  Cant move the X axis on the sticks without also moving the Y axis or vice versa so you gota bind it so that theres only 1 axis bound per stick to make it playable with the quest 2 controllers but works just fine if you have a bluetooth gamepad you just gota bind all the controlls to something that makes sense because it defaults to something weird and unplayable. Hopefully theyll iron out all the kinks soon. I would love to see VO come back as a great VR game. I started playing it many years ago wen it first came out and had alota fun with it but havent really messed with VO recently since more modern sims have come out like elite dangerous and stuff but if I could get this running good natively on my quest 2 ill definitely start playing it alot agin and I think itll do well on the meta store and get alot of people playing it agin even at a higher price point once they get it fixed and get it out there.",
+      "date": 1666740490,
+      "review_helpful_count": 5,
+      "author_display_name": "WingManSC",
+      "author_alias": "WingManSC",
+      "developer_response": null
+    },
+    {
+      "id": "569598114987170",
+      "score": 5,
+      "review_title": "A must buy!",
+      "review_description": "A MUST BUY!\n\nFor the hard-core space simmer you'll find nothing better. \n\n25% off codes here cause I couldn't find one anywhere on the internet.\n\nhttps://www.oculus.com/appreferrals/Trinitarian/4340670129365944/?utm_source=2",
+      "date": 1670931246,
+      "review_helpful_count": 7,
+      "author_display_name": "Trinitarian",
+      "author_alias": "Trinitarian",
+      "developer_response": null
+    },
+    {
+      "id": "247323958245276",
+      "score": 5,
+      "review_title": "",
+      "review_description": "awesome game",
+      "date": 1690904132,
+      "review_helpful_count": 2,
+      "author_display_name": "Chuckles2023",
+      "author_alias": "Chuckles2023",
+      "developer_response": null
+    },
+    {
+      "id": "112373781734456",
+      "score": 5,
+      "review_title": "PC - Mobile - Now VR <3",
+      "review_description": "Best Game I have ever played. All around just amazing. The VR version is great so far and I have no doubts that it will just get better & better.",
+      "date": 1672516049,
+      "review_helpful_count": 4,
+      "author_display_name": "DyttocS",
+      "author_alias": "DyttocS",
+      "developer_response": null
+    }
+  ],
+  "total": 27,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-20T09:30:06Z"
+}

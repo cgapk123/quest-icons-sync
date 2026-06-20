@@ -1,0 +1,261 @@
+{
+  "app_id": "1181750045204379",
+  "package_name": "com.hanginghatstudios.pigasuslite",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Pigasus VR Media Player (Lite)",
+  "rating_average": 2.3627450980392,
+  "rating_count": 102,
+  "review_count": 102,
+  "reviews": [
+    {
+      "id": "2140529019421366",
+      "score": 5,
+      "review_title": "Quite functional and well done.",
+      "review_description": "Plays videos, does it well. Consider if if you need such an app for GO.",
+      "date": 1632674787,
+      "review_helpful_count": 2,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "2073051119598260",
+      "score": 5,
+      "review_title": "Work great",
+      "review_description": "I've been using the light version for two months now, now I'd like to see how good the paid version is.",
+      "date": 1514978706,
+      "review_helpful_count": 0,
+      "author_display_name": "dindo74",
+      "author_alias": "dindo74",
+      "developer_response": null
+    },
+    {
+      "id": "1984770821784213",
+      "score": 5,
+      "review_title": "The best player for Oculus Go, but...",
+      "review_description": "It's immersive feeling when you're watching a movie in this environment, but... after 5 mins the screen moves to the left and you need to recalibrate it. Fix it, please!",
+      "date": 1528369772,
+      "review_helpful_count": 1,
+      "author_display_name": "hrustals",
+      "author_alias": "hrustals",
+      "developer_response": {
+        "body": "Hi hrustals\n\nWhat you're experiencing is the drift that happens on occasion within the Oculus Go and is not caused by the Pigasus app. You'll experience this drift from time to time in all apps on the Go (and Gear VR) if you spend enough time looking in one direction (as is the case with media viewer apps like Pigasus). The next update will tie the \"home button controller reorientation function\" to also reorientate the scene too. Hopefully this will provide a nice convenient way for you to reset the scene quickly whenever you experience this drift.",
+        "date": 1528446987
+      }
+    },
+    {
+      "id": "1384394518574278",
+      "score": 1,
+      "review_title": "Could not install",
+      "review_description": "Does not install on gear vr",
+      "date": 1610723474,
+      "review_helpful_count": 9,
+      "author_display_name": "scottishforce",
+      "author_alias": "scottishforce",
+      "developer_response": null
+    },
+    {
+      "id": "1376629192443198",
+      "score": 4,
+      "review_title": "3D playback (works great on mede8er 3D)",
+      "review_description": "I see you support SBS and OU playback but do you think it will be possible for full-3D ISO in the future at all?",
+      "date": 1518126351,
+      "review_helpful_count": 3,
+      "author_display_name": "raregoblin",
+      "author_alias": "raregoblin",
+      "developer_response": {
+        "body": "Hi raregoblin\n\nThanks for your comment. This is definitely a possibility. I'll consider looking into it for future support in the app (in both the full and Lite version).",
+        "date": 1517222292
+      }
+    },
+    {
+      "id": "1361173633971542",
+      "score": 5,
+      "review_title": "You NEED this!",
+      "review_description": "Store unlimited VR media on ur PC, and play over network to Gear (install free PS3 media server on PC). SO much faster and easier than copying​ media to SD card. Good player too. Tip: turn off encoding in PS3 if u can't play movies.",
+      "date": 1496257582,
+      "review_helpful_count": 1,
+      "author_display_name": "ChrisZA",
+      "author_alias": "ChrisZA",
+      "developer_response": null
+    },
+    {
+      "id": "1281937931904258",
+      "score": 5,
+      "review_title": "This is great!",
+      "review_description": "Works with Plex on my Shield TV and let's me stream movies to the Gear VR. Nice job! I like the light reflecting on to the seats. Paired my phone with my Bluetooth sound bar and subwoofer and made the experience even better.",
+      "date": 1492270709,
+      "review_helpful_count": 1,
+      "author_display_name": "batch2k1",
+      "author_alias": "batch2k1",
+      "developer_response": null
+    },
+    {
+      "id": "1186972224719627",
+      "score": 5,
+      "review_title": "Perfect for Plex",
+      "review_description": "Works with Plex like a charm. I plan to buy the full version to test 3D as well.\nAre there more theaters in the paid version?",
+      "date": 1483795441,
+      "review_helpful_count": 0,
+      "author_display_name": "SaschaV313",
+      "author_alias": "SaschaV313",
+      "developer_response": {
+        "body": "Very glad to hear that you're happy with Pigasus. Both the paid and Lite version only have the one theater at the moment (excluding the void theater). There is the possibility of more theaters coming in future updates but for the immediate time being we're concentrating on improving existing app functionality and providing new features that will hopefully help to improve the overall user experience.",
+        "date": 1483947259
+      }
+    },
+    {
+      "id": "896565898710834",
+      "score": 1,
+      "review_title": "Zero stars",
+      "review_description": "No functionality AT ALL. Just a shell of the product.",
+      "date": 1703789578,
+      "review_helpful_count": 0,
+      "author_display_name": "Chicago_Househead",
+      "author_alias": "Chicago_Househead",
+      "developer_response": null
+    },
+    {
+      "id": "834830190008072",
+      "score": 3,
+      "review_title": "Theater with bad graphics",
+      "review_description": "Theater is not realistic at all. Much worse than the stock Oculus Video app. The advantage of this one is supposed to be the ability to stream from your computer, something that MoonPlayer already does (without the bad graphics around you).",
+      "date": 1492383727,
+      "review_helpful_count": 1,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": {
+        "body": "Hi MikeUrilorib. Thank you for your comment. Pigasus Streaming Theater is a dedicated UPNP/DLNA streaming media player. Its purpose is to enable you to easily access and play your media hosted by your local media server. You need to have a media server set up on your PC or NAS to take advantage of the app.\n\nPlease see the Pigasus FAQ for additional information and help: http://hanginghatstudios.com/pigasus-faq",
+        "date": 1492378906
+      }
+    },
+    {
+      "id": "739123142948004",
+      "score": 1,
+      "review_title": "False claims in description",
+      "review_description": "Does not allow 3d playback of images or video.",
+      "date": 1515828260,
+      "review_helpful_count": 3,
+      "author_display_name": "BigDaddyFireFox",
+      "author_alias": "BigDaddyFireFox",
+      "developer_response": {
+        "body": "Hi BigDaddyFireFox\n\nThank you for your comment and apologies for any confusion in the app description.\n\nThe app description summaries' what Pigasus (i.e. the full app) does, which also pertains to Pigasus Lite. While the description does go on to list some of the main features offered by Pigasus (some of which is available in Pigasus Lite also), it does clearly state in the first paragraph that \"The Lite version is a scaled down version with some non essential features disabled\".\n\n3D playback of images and video is supported. Just not in the Lite version.\n\nAgain, apologies if you felt misled by the app description.",
+        "date": 1515919297
+      }
+    },
+    {
+      "id": "616489758701047",
+      "score": 2,
+      "review_title": "",
+      "review_description": "All funtion locked . No SMB funtion",
+      "date": 1528120902,
+      "review_helpful_count": 3,
+      "author_display_name": "mengte.lin",
+      "author_alias": "mengte.lin",
+      "developer_response": null
+    },
+    {
+      "id": "555696761452789",
+      "score": 1,
+      "review_title": "Unfortunately very unstable",
+      "review_description": "The lite version was very unstable.  Crashing every few minutes. \n\nI would like to have seen more hints about what the full version does.  For example,  show only one image,  or only the first 30 seconds of a video in 360. \n\nBut until the stability issues are solved I can't recommend trying the full version.",
+      "date": 1517331165,
+      "review_helpful_count": 2,
+      "author_display_name": "JeffC1776",
+      "author_alias": "JeffC1776",
+      "developer_response": {
+        "body": "Hi JeffC1776\n\nSorry to hear about the stability issues you're experiencing with Pigasus Lite. Please drop me an email at pigasus@hanginghatstudios.com so that I may try to help you troubleshoot the source of your stability issues. If there is a stability issue with the app I'd really like to get to the bottom of it and fix it asap.\n\nIn the mean time, do you have any smart devices on your network? Some smart devices which piggy back onto the UPNP protocol have been known in the past to broadcast bad packets which Pigasus picks up, causing it to crash. Usually a firmware update on the smart device in question is enough to fix the issue.",
+        "date": 1517400980
+      }
+    },
+    {
+      "id": "383318865508481",
+      "score": 5,
+      "review_title": "Favorite theater app",
+      "review_description": "This is my current favorite theater app, since it has a nice way to navigate a long list of files and seems to correct chromatic abberations and play at 72hz. My only complaint is the movie theater screen seems smaller than both Oculus Video and Skybox, and I can see movies aren't filling the entire screen. Sitting closer makes me feel underneath the movie.",
+      "date": 1527391572,
+      "review_helpful_count": 5,
+      "author_display_name": "zjibben",
+      "author_alias": "zjibben",
+      "developer_response": null
+    },
+    {
+      "id": "273348906449872",
+      "score": 5,
+      "review_title": "Really need to purchase for viewing",
+      "review_description": "It worth it and seems to work fine with no need to convert.",
+      "date": 1490912582,
+      "review_helpful_count": 1,
+      "author_display_name": "wolfen51",
+      "author_alias": "wolfen51",
+      "developer_response": null
+    },
+    {
+      "id": "260963008018987",
+      "score": 5,
+      "review_title": "More Screen Size at Max in Void Theater",
+      "review_description": "Hey dev team! I really appreciate your nice pigasus player.\nBut, I think max screen size in Void theater is not so big.\nAs you know VR fans want to have really big screen like IMAX.\nSo, plz give us more big size screen in Void theater.\nWe think that you dev team can make Void theater's Max screen size at least 2times larger than current Max screen size in Void theater.\nBecause VR has a great advantage in huge size comparing with its crystal clear rivals QHD/UHD/4K/8K monitors.\nI really hope that in the next Update you dev team will size-up the maximum Void screen at least 2times larger than current Maximum size in Void theater.\nThanks in advance...",
+      "date": 1533091696,
+      "review_helpful_count": 10,
+      "author_display_name": "qtam",
+      "author_alias": "qtam",
+      "developer_response": null
+    },
+    {
+      "id": "191307625201129",
+      "score": 1,
+      "review_title": "Literally the worst",
+      "review_description": "Can't do anything without paying, cant even view local images",
+      "date": 1567898750,
+      "review_helpful_count": 4,
+      "author_display_name": "elizabethdelacroix",
+      "author_alias": "elizabethdelacroix",
+      "developer_response": null
+    },
+    {
+      "id": "179289306963909",
+      "score": 1,
+      "review_title": "Doesn't see my SMB network",
+      "review_description": "Doesn't see my SMB network.Bought only because of support Very disappointed.no Russian language",
+      "date": 1593613208,
+      "review_helpful_count": 1,
+      "author_display_name": "SashaVolzhsky",
+      "author_alias": "SashaVolzhsky",
+      "developer_response": null
+    },
+    {
+      "id": "178677640164610",
+      "score": 1,
+      "review_title": "Waste of time",
+      "review_description": "The developers aren’t doing themselves any favors with this “lite” version.  I’ve been using SkyBox to stream videos from a SMB server, but had been looking at Pigasus, wondering if it offered a better experience.  I’d been on the fence about purchasing, when I saw this lite version and was excited to give it a try.  But the features I wanted to try (including SMB and image viewing) aren’t supported by the lite version. What was left seemed to be worse  than SkyBox, so I’m not going to bother  paying for the full version. If I had been at least able to at least try viewing a couple of images (which sets Pigasus apart from other media players), I probably would have been excited enough to purchase the full version.  I’d really suggest putting in a ten minute time limit, rather than neutering the lite version so heavily.",
+      "date": 1579994735,
+      "review_helpful_count": 26,
+      "author_display_name": "CrackedCircuit",
+      "author_alias": "CrackedCircuit",
+      "developer_response": null
+    },
+    {
+      "id": "160239137874460",
+      "score": 1,
+      "review_title": "Isnogud",
+      "review_description": "Does'nt work!\nIncapable to find my synology nas in the same network, and no possibility to enter the ip number to mske a connection directly\nI think is worse to spend the money in the full app.",
+      "date": 1502807710,
+      "review_helpful_count": 1,
+      "author_display_name": "Mamba79",
+      "author_alias": "Mamba79",
+      "developer_response": {
+        "body": "Hi Mamba79. Make sure that you've configured your synology nas for dlna sharing. Pigasus is a dedicated dlna client and will not pick up your nas unless dlna sharing has been enabled on it.\n\nPlease feel free to drop us an email at pigasus@hanginghatstudios.com if you require additional help and we'll try to help you troubleshoot your issue.",
+        "date": 1502858923
+      }
+    }
+  ],
+  "total": 20,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-20T09:31:25Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "9726689124023352",
+  "package_name": "com.hardspace.lesula",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Lesula",
+  "rating_average": 5,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "347144788256618",
+      "score": 5,
+      "review_title": "Ok",
+      "review_description": "It was amazing",
+      "date": 1704223188,
+      "review_helpful_count": 1,
+      "author_display_name": "MKudaa",
+      "author_alias": "MKudaa",
+      "developer_response": null
+    },
+    {
+      "id": "271540635843699",
+      "score": 5,
+      "review_title": "Best game totally",
+      "review_description": "As the co owner, I approve of this game 👍🏻",
+      "date": 1696092872,
+      "review_helpful_count": 0,
+      "author_display_name": "donutlooter",
+      "author_alias": "donutlooter",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T09:31:50Z"
+}

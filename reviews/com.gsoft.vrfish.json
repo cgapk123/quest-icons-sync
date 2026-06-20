@@ -1,0 +1,45 @@
+{
+  "app_id": "1640145679355737",
+  "package_name": "com.gsoft.vrfish",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Ocean Wonder",
+  "rating_average": 3.8333333333333,
+  "rating_count": 6,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "1951954518449354",
+      "score": 5,
+      "review_title": "It makes fun but...",
+      "review_description": "Game has Chinese text? !",
+      "date": 1526317197,
+      "review_helpful_count": 5,
+      "author_display_name": "ScotchmanVR",
+      "author_alias": "ScotchmanVR",
+      "developer_response": {
+        "body": "Sorry....it's our mistake, the new version will be will be released in a week, we had fixed a problem where the language cannot be changed to English, and defaulted user interface language to English.",
+        "date": 1527216040
+      }
+    },
+    {
+      "id": "129789911934253",
+      "score": 5,
+      "review_title": "Excellent game!",
+      "review_description": "Bright and colorful. Just like the popcap aquarium. The voice acting is so bad it's funny",
+      "date": 1585151117,
+      "review_helpful_count": 1,
+      "author_display_name": "SMeaty308",
+      "author_alias": "SMeaty308",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T09:29:30Z"
+}
