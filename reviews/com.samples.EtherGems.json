@@ -1,0 +1,73 @@
+{
+  "app_id": "8088815794517807",
+  "package_name": "com.samples.EtherGems",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Magic Essence: Ether Gems",
+  "rating_average": 3.5714285714286,
+  "rating_count": 7,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "592751473344996",
+      "score": 3,
+      "review_title": "Touch Free",
+      "review_description": "Cannot get past recommend touch free warning. Do I need a different set of controllers?",
+      "date": 1734550240,
+      "review_helpful_count": 3,
+      "author_display_name": "Nitehawk06",
+      "author_alias": "Nitehawk06",
+      "developer_response": {
+        "body": "No need for another set of controllers, just put the controller down and play with just your hands",
+        "date": 1734572834
+      }
+    },
+    {
+      "id": "27129345853376633",
+      "score": 5,
+      "review_title": "I like triple space",
+      "review_description": "This game is a captivating VR experience. The hand tracking is intuitive, making interaction with the magical world seamless. The triple space switching adds depth with unique, challenging puzzles. It's a must-play for VR fans seeking adventure and magic.",
+      "date": 1729074329,
+      "review_helpful_count": 9,
+      "author_display_name": "hanckjt",
+      "author_alias": "hanckjt",
+      "developer_response": null
+    },
+    {
+      "id": "585520000716006",
+      "score": 5,
+      "review_title": "pretty good",
+      "review_description": "It's a pretty good puzzle game. The entire game's content is designed around gesture operations. The artwork is nice, and the puzzle designs are all pretty interesting.",
+      "date": 1729075267,
+      "review_helpful_count": 5,
+      "author_display_name": "zfyu",
+      "author_alias": "zfyu",
+      "developer_response": {
+        "body": "You can look forward to our next game, which will be released around May 1st.",
+        "date": 1742897432
+      }
+    },
+    {
+      "id": "494390313443889",
+      "score": 5,
+      "review_title": "Novel gameplay",
+      "review_description": "The visual effect is very immersive and the gameplay is very novel. The mechanism is not difficult, but it requires thinking. Support!",
+      "date": 1726826715,
+      "review_helpful_count": 5,
+      "author_display_name": "wenmangzhun",
+      "author_alias": "wenmangzhun",
+      "developer_response": {
+        "body": "thank you for playing our game",
+        "date": 1729076278
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T23:21:56Z"
+}

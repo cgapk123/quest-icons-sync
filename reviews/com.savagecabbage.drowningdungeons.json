@@ -1,0 +1,62 @@
+{
+  "app_id": "1362025037191930",
+  "package_name": "com.savagecabbage.drowningdungeons",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Drowning Dungeons",
+  "rating_average": 2.6,
+  "rating_count": 5,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "1797013490562567",
+      "score": 1,
+      "review_title": "Cant Play on S7 edge!!!",
+      "review_description": "I am using a new ps4 controller. Like i said it looks like a cool game, but i had to quit on account of the continued spinning, also i forgot to mention that once i entered that blue portal to get to the room with 1-4 doorways, the forwatd/backward were flipped so i tried to go forward and i would go back & vice versa. Thank you for responding so promptly!!!",
+      "date": 1490469120,
+      "review_helpful_count": 0,
+      "author_display_name": "Spage2210",
+      "author_alias": "Spage2210",
+      "developer_response": {
+        "body": "Hi Spage2210,\n\nPS4 bluetooth controller support should now be active if you want to give it a shot.\n\nQuick update, I've stopped the spinning issue, I just need to sort out the correct button mappings for the PS4 Wireless controller to recentre view and a couple of other items and I'll have a release up soon.  Thank you for your patience.\n\nAre you using a controller with the game? if so which controller? if not, the game requires a controller in order to play.\nThanks for taking the time to contact us we will try and sort this issue out with you.\n\nThanks for getting back to us, we will make the ps4 controller issue our top priority",
+        "date": 1490663029
+      }
+    },
+    {
+      "id": "1691445367820793",
+      "score": 2,
+      "review_title": "Looks awesome, but...",
+      "review_description": "It starts out with great graphics and pulls you in. But... I also with a decent gamepad cannot play this. Please fix the bugs. Im eager to play considering it was not free.",
+      "date": 1490560178,
+      "review_helpful_count": 1,
+      "author_display_name": "theoddguy",
+      "author_alias": "theoddguy",
+      "developer_response": {
+        "body": "Hi theoddguy, thanks for the feedback, what controller do you have? and what issue are you having? we would certainly like to clean up any of these issues people are having.",
+        "date": 1490569375
+      }
+    },
+    {
+      "id": "165016277983936",
+      "score": 1,
+      "review_title": "Unplayable",
+      "review_description": "I really wanted to play this game, it looked really cool. However, I could not play it because I don't have a gamepad. The listing in the Oculus Store didn't say a game pad was needed, nor did it have the icon indicating a gamepad.  What it did have was a statement that it was compatible with the Oculus Go, which I have and does not come with a game pad.  I am so disappointed!!",
+      "date": 1570163591,
+      "review_helpful_count": 0,
+      "author_display_name": "chronictia",
+      "author_alias": "chronictia",
+      "developer_response": {
+        "body": "Thanks for the feedback, I was unaware that the app was marked as compatible with Oculus Go.  I shall begin working on an update to support the Go with its wand controller.",
+        "date": 1570896076
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T23:24:24Z"
+}

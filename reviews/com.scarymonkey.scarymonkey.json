@@ -1,0 +1,42 @@
+{
+  "app_id": "8008225735876555",
+  "package_name": "com.scarymonkey.scarymonkey",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "scary monkey Horror",
+  "rating_average": 4.4285714285714,
+  "rating_count": 7,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "426602927192907",
+      "score": 5,
+      "review_title": "Best gorilla fan game",
+      "review_description": "This game is 100% a W",
+      "date": 1722573454,
+      "review_helpful_count": 4,
+      "author_display_name": "emandp777",
+      "author_alias": "emandp777",
+      "developer_response": null
+    },
+    {
+      "id": "445444121440249",
+      "score": 5,
+      "review_title": "Very good game",
+      "review_description": "Love this game",
+      "date": 1717799954,
+      "review_helpful_count": 10,
+      "author_display_name": "httv",
+      "author_alias": "httv",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T23:26:16Z"
+}
