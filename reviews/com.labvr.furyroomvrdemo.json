@@ -1,0 +1,48 @@
+{
+  "app_id": "6750879128289106",
+  "package_name": "com.labvr.furyroomvrdemo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "FuryRoomVR Demo",
+  "rating_average": 3.6,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1062401622062614",
+      "score": 2,
+      "review_title": "Rage Room Lite: Sterile Fury",
+      "review_description": "Bare-bones gameplay, rudimentary physics and very basic graphics. There is only 1 rage room. Teleport movement only. All destructible objects e.g. bulbs are lined up neatly on storage racks. You can't even destroy the wooden crates.",
+      "date": 1727602133,
+      "review_helpful_count": 5,
+      "author_display_name": "ChaoBarry",
+      "author_alias": "ChaoBarry",
+      "developer_response": {
+        "body": "Hi, Yes that's demo version. In full version you will be able to choose movement method but also few room to activate your Fury Mode.",
+        "date": 1760908955
+      }
+    },
+    {
+      "id": "383082218224256",
+      "score": 5,
+      "review_title": "My Rage? Gone",
+      "review_description": "Good Game, Removed ALL My Rage",
+      "date": 1723405035,
+      "review_helpful_count": 2,
+      "author_display_name": "MatanelZakzak",
+      "author_alias": "MatanelZakzak",
+      "developer_response": {
+        "body": "Thanks,  i believe you will like full version even better.",
+        "date": 1760908996
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T14:07:57Z"
+}

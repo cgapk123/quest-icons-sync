@@ -1,0 +1,34 @@
+{
+  "app_id": "5182109171819582",
+  "package_name": "com.lacomdigitale.ehop",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Ehop",
+  "rating_average": 2.1818181818182,
+  "rating_count": 11,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "317256747059866",
+      "score": 1,
+      "review_title": "free?",
+      "review_description": "All that is free is the opportunity to pay them",
+      "date": 1648525729,
+      "review_helpful_count": 8,
+      "author_display_name": "Rocedric",
+      "author_alias": "Rocedric",
+      "developer_response": {
+        "body": "Hi, we have an upcoming update containing a free sample selection of 360° videos.",
+        "date": 1648558250
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T14:08:06Z"
+}

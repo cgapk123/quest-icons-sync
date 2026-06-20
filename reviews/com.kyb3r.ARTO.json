@@ -1,0 +1,860 @@
+{
+  "app_id": "6238736202805799",
+  "package_name": "com.kyb3r.ARTO",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "ARTO",
+  "rating_average": 4.7777777777778,
+  "rating_count": 108,
+  "review_count": 83,
+  "reviews": [
+    {
+      "id": "992753973931194",
+      "score": 5,
+      "review_title": "Great creative outlet",
+      "review_description": "I’m not an artist but with all their options, it’s easy to find something to get you trying something out. Felt very atmospheric and can be environmentally inspired. Great soundtrack as well. Would draw again.",
+      "date": 1775452553,
+      "review_helpful_count": 2,
+      "author_display_name": "Mr.Tackoz",
+      "author_alias": "Mr.Tackoz",
+      "developer_response": {
+        "body": "Thank you! We’re really glad you enjoyed the atmosphere of Arto.",
+        "date": 1778223465
+      }
+    },
+    {
+      "id": "25978142671817280",
+      "score": 5,
+      "review_title": "Great fun",
+      "review_description": "Very easy to use and lots of fun for myself and my son. I'm not most creative person but this app really helped me to draw some nice pictures",
+      "date": 1768768389,
+      "review_helpful_count": 7,
+      "author_display_name": "lucyferror",
+      "author_alias": "lucyferror",
+      "developer_response": {
+        "body": "Thank you! That’s exactly what Arto was made for — making drawing easy, relaxing, and fun even for people who don’t consider themselves artists. Glad you and your son are enjoying it!",
+        "date": 1778223163
+      }
+    },
+    {
+      "id": "834234732852598",
+      "score": 5,
+      "review_title": "The best so far",
+      "review_description": "I’ve bought a lot of art/painting apps, and they’re not bad, but I was ready for giving up on them completely… Then I discovered this golden nugget.\n\nThank you, I’m loving it",
+      "date": 1765615428,
+      "review_helpful_count": 4,
+      "author_display_name": "JimmyWeedman",
+      "author_alias": "JimmyWeedman",
+      "developer_response": {
+        "body": "Thank you so much! We really appreciate the support and hope you keep enjoying Arto.",
+        "date": 1778222895
+      }
+    },
+    {
+      "id": "935470372736170",
+      "score": 3,
+      "review_title": "Game kinda bugs out",
+      "review_description": "Every time i boot up the game my game constantly frezzes and crashes out of no reason please fix this but still a good game for drawing",
+      "date": 1776706874,
+      "review_helpful_count": 0,
+      "author_display_name": "Davidmeme123479",
+      "author_alias": "Davidmeme123479",
+      "developer_response": {
+        "body": "Hi, David. Your problem is very unique. It doesn't happen to practically anyone else. Please try clearing the app data/cache for Arto and then reinstalling the game. Corrupted local data can sometimes cause freezes or crashes on startup.",
+        "date": 1778222740
+      }
+    },
+    {
+      "id": "24018238447835873",
+      "score": 5,
+      "review_title": "Wonderful drawing experience",
+      "review_description": "ARTO is a truly atmospheric experience for anyone who enjoys painting in virtual reality. The environments where you create are relaxing and thoughtfully designed, with an ambiance that encourages both calm and creativity. The canvas itself feels good to interact with, adding to the immersion. The tools provided are diverse enough to let you express yourself artistically while also enjoying a moment of relaxation. A great app for those looking for an immersive and soothing artistic experience.",
+      "date": 1752686027,
+      "review_helpful_count": 8,
+      "author_display_name": "AdrenSnyder",
+      "author_alias": "AdrenSnyder",
+      "developer_response": {
+        "body": "Thank you for such thoughtful review. We're glad Arto is giving you both a creative outlet and a moment to unwind.",
+        "date": 1752771146
+      }
+    },
+    {
+      "id": "715741758292051",
+      "score": 5,
+      "review_title": "From Egypt to Claude Monet’s landscapes",
+      "review_description": "I had a great time in Arto. Being inside an ancient Egyptian temple of Horus was impressive, and drawing nature while floating in a boat was a beautiful moment. The controls feel intuitive, and the tools are easy and comfortable to use, which makes the creative process enjoyable. Definitely a unique and calming experience in VR.",
+      "date": 1754567302,
+      "review_helpful_count": 2,
+      "author_display_name": "juliegaming",
+      "author_alias": "juliegaming",
+      "developer_response": {
+        "body": "Thank you! Glad the tools and controls helped make the creative side feel natural.",
+        "date": 1757519778
+      }
+    },
+    {
+      "id": "1050619713823802",
+      "score": 5,
+      "review_title": "Drawing mandalas is a must!",
+      "review_description": "As someone who enjoys both VR and drawing, Arto is a really calming experience.\nZen Room was my favorite, I liked relaxing there and drawing mandalas. Each scene feels like a different world, and it's easy to lose track of time  while drawing. Music is also really nice and fits the mood well.",
+      "date": 1754480945,
+      "review_helpful_count": 2,
+      "author_display_name": "andrey.gr",
+      "author_alias": "andrey.gr",
+      "developer_response": {
+        "body": "Thank you a lot! We’re really glad you enjoyed the Zen scene, it was designed exactly for that calm, meditative kind of drawing.",
+        "date": 1757519571
+      }
+    },
+    {
+      "id": "688912334316623",
+      "score": 5,
+      "review_title": "Art to life in VR",
+      "review_description": "Didn’t expect drawing in VR to be this exciting!  I especially loved creating in the Fall room, the techno vibe, the movement, and the music were so uplifting. Huge thanks to the devs for such a great experience.",
+      "date": 1755845031,
+      "review_helpful_count": 2,
+      "author_display_name": "BertaVR",
+      "author_alias": "BertaVR",
+      "developer_response": {
+        "body": "Thank you so much. It’s great to hear the energy and music made the experience exciting!",
+        "date": 1757519913
+      }
+    },
+    {
+      "id": "1394926695124397",
+      "score": 5,
+      "review_title": "More than art!",
+      "review_description": "This app is designed to be for creating artwork but it is much more than that. There are multiple environments to choose from while each having its own unique soundtrack. My favorite use isn't the final product but the journey I go through while creating. The controls are easy to learn. There are decals/templates to make complex designs but also freehand tools to really get creative. An excellent app to just wind down and flow, highly recommend!",
+      "date": 1753199911,
+      "review_helpful_count": 3,
+      "author_display_name": "Atrel66",
+      "author_alias": "Atrel66",
+      "developer_response": {
+        "body": "Thank you. We're glad Arto gave you a space to unwind!",
+        "date": 1753784672
+      }
+    },
+    {
+      "id": "773372475223030",
+      "score": 5,
+      "review_title": "Intuitive and flexible",
+      "review_description": "As an artist I was suspicious of this: many games of this sort are obviously VR and don't feel like marking. So I was surprised that I could both intuitively jump in and start to,ale pictures I enjoyed.\n\nI am not one for music in games, but the selection allowed me to find one I liked. \n\nProbably the best review is I thought I would play for one drawing, but kept on, missing the thunderstorm behind me in the real world.\n\nIt is a good game to meditate and play or just try different compositions and effects. One note: you choose your dominant hand at the start, but you can actually use both hands with different colors and mediums selected. Again, a good surprise.",
+      "date": 1752340111,
+      "review_helpful_count": 5,
+      "author_display_name": "tpancoast",
+      "author_alias": "tpancoast",
+      "developer_response": {
+        "body": "Thank you. It’s great to hear Arto surprised you in a good way, especially coming from someone with an artistic background.",
+        "date": 1752770892
+      }
+    },
+    {
+      "id": "2785139238323373",
+      "score": 5,
+      "review_title": "Arto... wow",
+      "review_description": "Arto is a place where you can paint and relax.\nGreat, detailed environments and an unlimited ways to express yourself and to others with your art.\nGreat mood provided by an excellent selection of classical music.\nTotally recommended if you are a real artist or a person with an artistic side who wants to relax and enjoy painting.",
+      "date": 1753152595,
+      "review_helpful_count": 2,
+      "author_display_name": "MontoMonto",
+      "author_alias": "MontoMonto",
+      "developer_response": {
+        "body": "Thank you so much. It really means a lot to hear that Arto gave you space to relax and express yourself. That’s exactly what we hoped the experience would offer.",
+        "date": 1753199317
+      }
+    },
+    {
+      "id": "2476701586038928",
+      "score": 5,
+      "review_title": "Excellent painting experience",
+      "review_description": "Arto is an immersive painting experience, with a wide amount of painting styles, ambients and modes, with a relaxing background playlist to make everything better. You can paint and save your works to share, upload from PC to add to your canvas, use beautiful decals and more. I truly enjoyed it! If you are looking for a very good VR painting app, this is a must have.",
+      "date": 1752741907,
+      "review_helpful_count": 1,
+      "author_display_name": "Mela_N7",
+      "author_alias": "Mela_N7",
+      "developer_response": {
+        "body": "Thank you so much! We're really glad you enjoyed Arto and made the most of its features. That’s exactly what we hoped for.",
+        "date": 1752771283
+      }
+    },
+    {
+      "id": "1603148110641374",
+      "score": 4,
+      "review_title": "Great for inspiration, needs blending!",
+      "review_description": "This artistic app definitely tickles your creative side. You will be completely able to create some beautiful things, however I think tools are limited on their mechanics;\n\nYou can only spray, paint (with a cone and using the trigger...) and use stickers. I really wish that the painting mechanics will get better with time, since the curated playlists and inspiring surroundings are something other art apps are completely missing.\n\nController buttons could be better employed, locomotion is quite basic and I would love to see this improve with time.\n\nI hope the best for the devs, it feels like they have put a lot of effort into making all the scenes, mechanics and inspiring scenery. Try to see what works in similar apps and apply that here.",
+      "date": 1751432087,
+      "review_helpful_count": 2,
+      "author_display_name": "meduzo",
+      "author_alias": "meduzo",
+      "developer_response": {
+        "body": "Thank you for the thoughtful and constructive feedback. You're spot on. There's definitely more we want to do with the painting mechanics, and expanding how tools behave is high on our list. We really appreciate you noticing the effort behind the environments and atmosphere.",
+        "date": 1752060550
+      }
+    },
+    {
+      "id": "1449322779415625",
+      "score": 5,
+      "review_title": "Very cool and inspiring!",
+      "review_description": "I REALLY love this! I’m yet to create any fantastic art worth sharing (but I will!), but the worlds you get to create in are so awesome and let the creative juices flow! This is NOT just another drawing app! It’s very relaxing and inspirational to be in a different world and atmosphere, in front of a blank canvas and seeing what your mind can come up with. My favourite is the chaotic but trancing Fall world. So cool!!! The tools you have at your disposal are just perfect. Everything in this app is so well done and thought out. HIGHLY recommended!",
+      "date": 1752103388,
+      "review_helpful_count": 1,
+      "author_display_name": "markymarkr",
+      "author_alias": "markymarkr",
+      "developer_response": {
+        "body": "Thank you so much. Your words really mean a lot. We're thrilled that the worlds are sparking your creativity, so keep creating:)!",
+        "date": 1752243233
+      }
+    },
+    {
+      "id": "1189534086309845",
+      "score": 5,
+      "review_title": "Creative Magic in an Immersive Space",
+      "review_description": "⭐️⭐️⭐️⭐️⭐️\nA Must-Have App for Reigniting Your Creative Spark!\n\nAs a life coach, artist, and immersive wellness advocate, I’m always looking for tools that help people tap into their creativity—and ARTO is one of the best I’ve found. Whether I’m working with patients in psychedelic integration therapy, guiding someone through a mindfulness practice, or helping others reconnect to their sense of flow, this app has quickly become one of my go-to recommendations.\n\nARTO isn’t just an art app—it’s a creative experience. The intuitive tools, dreamy environments, and soothing audio layers make it so easy to get lost in the moment and truly let go. Whether you’re a seasoned artist or someone who hasn’t picked up a paintbrush in years, ARTO meets you where you are and invites you to play.\n\nI even live-streamed a session to show off some of its incredible features—it’s that good. The variety of brushes, effects, and immersive options make it feel like your imagination has found a home.\n\nIf you’re feeling blocked, stuck, or just need to recharge your creative spirit, download this app. It’s more than fun—it’s therapeutic. Thank you, ARTO team, for creating such a beautiful conduit for flow, expression, and healing. 💫🎨\n\n– Jacqueline Drake\nVR Wellness Guide | Artist | Founder of The Drake Center  🦋",
+      "date": 1750704824,
+      "review_helpful_count": 2,
+      "author_display_name": "11Mermaiddancer",
+      "author_alias": "11Mermaiddancer",
+      "developer_response": {
+        "body": "Wow… reading this truly made our day. It's exactly this kind of feedback that reminds us why we poured so much heart into Arto. Knowing it can spark creativity, bring joy, and even support wellness in such a way - that’s more than we ever hoped for. Thank you for taking the time to share your experience so beautifully.",
+        "date": 1750707293
+      }
+    },
+    {
+      "id": "711777862021421",
+      "score": 5,
+      "review_title": "ARTO is amazing!",
+      "review_description": "ARTO is a fantastic app for anyone who wants to feel like a true artist in VR. Creating in 3D space is incredibly satisfying, and the interface is intuitive and well-designed. The toolset is impressive, and everything runs smoothly on the Meta Quest 3. It’s more of a creative studio than a traditional game  and that’s exactly its strength.\n\nStill, there are a few downsides:\n\n1. No Polish language support - a shame, since it would make the app more accessible to a wider audience.\n\n2. The available tools are a bit limited – what’s there is solid, but it could really benefit from more brushes, effects, and advanced options.\n\n\nA brilliant creative experience with tons of potential. With more tools and language options, it could be a top-tier VR must-have. 🎨🕶️",
+      "date": 1752154100,
+      "review_helpful_count": 1,
+      "author_display_name": "Spl4wik",
+      "author_alias": "Spl4wik",
+      "developer_response": {
+        "body": "Thank you for the thoughtful review. We’re really happy to hear you’re enjoying Arto as a creative space. Just a quick note: Polish language support was added in a recent update along with some other languages, so it should now be available in your settings.",
+        "date": 1752243636
+      }
+    },
+    {
+      "id": "746802258507966",
+      "score": 5,
+      "review_title": "VR Art Playground Done Right",
+      "review_description": "Arto is a true gem for anyone who wants to express creativity in VR. Whether you're into painting, tagging, or graffiti, this game gives you all the advanced tools you need — in a fun, easy-to-use package.\n\nMenus are intuitive, and the overall vibe is quirky and unique. What truly sets Arto apart is its range of themed environments — or “sets” — that match music, decals, and atmosphere to your creative experience. From a neon-drenched sci-fi city that channels Blade Runner or The Fifth Element, to a serene cave, a medieval castle, or even Claude Monet’s house in Giverny, each setting feels like a complete artistic world.\n\nIn one environment, you can even choose to fall infinitely while painting — a surreal and oddly calming touch. The Egyptian theme is also a standout, but my personal favorite is the exhibition set, where your art feels right at home.\n\nArto isn’t just a VR drawing app — it’s a stylized, interactive art journey. Big bravo to the devs for crafting such a thoughtful and imaginative experience.",
+      "date": 1751607416,
+      "review_helpful_count": 1,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": {
+        "body": "Wow! Thank you for such a generous and detailed review. It means a lot to hear that the environments and atmosphere really landed with you, since those details were a big part of what we wanted to get right. We’re thrilled it feels like more than just a drawing app. Thanks again for sharing your thoughts and keep creating!",
+        "date": 1752060917
+      }
+    },
+    {
+      "id": "10033418790080055",
+      "score": 5,
+      "review_title": "A User Friendly Environment for Art",
+      "review_description": "If you are looking for a creative art space with a refreshing variety of concepts to try; set amongst great visual surroundings with a good selection of background music; this one is for you. This program has an easy uncomplicated learning curve which makes it fun to use straight away. A lot of thought has gone into creating this wow factor experience for a very enticing price.",
+      "date": 1751185369,
+      "review_helpful_count": 1,
+      "author_display_name": "Hoffyman",
+      "author_alias": "Hoffyman",
+      "developer_response": {
+        "body": "Thank you so much for your kind words, Hoffyman! It really means a lot to hear you're enjoying the experience. I'm glad Arto brings you joy and makes creating in VR a pleasant and inspiring experience.",
+        "date": 1751194732
+      }
+    },
+    {
+      "id": "1445818026460158",
+      "score": 4,
+      "review_title": "Can anyone be an artist?",
+      "review_description": "It has a quirky style, mabe it that which keeps you there, easy to use, a bit harder to master, go freehand, using a crayon or spay can or use a huge array of scalable patterns and pictures for inspiration, or as a building frame, you will easily loose time in here, but look at what you have created when you thought you couldn't, which will keep you coming back.",
+      "date": 1751323185,
+      "review_helpful_count": 1,
+      "author_display_name": "Jcarle",
+      "author_alias": "Jcarle",
+      "developer_response": {
+        "body": "Really appreciate you taking the time to write this. I like how you captured the spirit of Arto. It means a lot to hear that it draws you in and keeps you coming back.",
+        "date": 1752060230
+      }
+    },
+    {
+      "id": "1173527108145255",
+      "score": 5,
+      "review_title": "Visual creative masterpiece",
+      "review_description": "Arto is an absolute gem, so much creativity and customization.  Easy to use standing or sitting and feels like stepping into a living painting.  So many options both painting and displaying, with some great backdrop of narration and music.  Really relaxing game that is easy to create art in especially with the pre set templates, even for someone as inexperienced as myself.",
+      "date": 1751201640,
+      "review_helpful_count": 1,
+      "author_display_name": "Magicmerlin007",
+      "author_alias": "Magicmerlin007",
+      "developer_response": {
+        "body": "Thank you so much for this kind review. We truly appreciate your support and are looking forward to seeing what you create in Arto.",
+        "date": 1751223632
+      }
+    },
+    {
+      "id": "30182560168058184",
+      "score": 5,
+      "review_title": "A really interesting art app",
+      "review_description": "I've tried all the art apps on Quest and there's some good ones out there. This one offers something a little different though. The different environments really do influence how you create art, sometimes through just inspiration, but some (like the Cave for example) directly change what you're drawing on too. That's something I haven't seen any any other app. And though this app doesn't have the breadth of options that some others do, it does have one of the best virtual paintbrushes I've seen. The way the brush is transparent lets you judge what's going to happen when it hits the canvas very well, and though it doesn't feel like an actual physical brush, it does give you excellent control.\n\nSome features are missing, like smooth turn and smooth walk (or I couldn't find them), but considering it doesn't take away from what the app is trying to achieve it won't affect my rating.",
+      "date": 1751130340,
+      "review_helpful_count": 1,
+      "author_display_name": "Cim",
+      "author_alias": "Cim",
+      "developer_response": {
+        "body": "Thank you so much for the lovely review and especially for the constructive feedback! Smooth movement is actually one of the things I’m planning to add in the upcoming update. I really appreciate you taking the time to share your experience — it helps a lot!",
+        "date": 1751194283
+      }
+    },
+    {
+      "id": "1144627514096313",
+      "score": 5,
+      "review_title": "I really like it!",
+      "review_description": "I find it very easy to use. The controls are very easy to learn. I enjoy changing the music to match my mood, that's a great feature. I've tried several of the painting options and they're all fun and/or relaxing. It's really nice to be in such a creative space!",
+      "date": 1751576875,
+      "review_helpful_count": 1,
+      "author_display_name": "Kate.Robbie",
+      "author_alias": "Kate.Robbie",
+      "developer_response": {
+        "body": "Thank you! We're so glad you're enjoying the creative space and finding the tools easy and fun to use. Keep creating!",
+        "date": 1752060638
+      }
+    },
+    {
+      "id": "768569082506905",
+      "score": 5,
+      "review_title": "An Absolute Dream App",
+      "review_description": "So only jumped in for a short while, but this just oozes incredible class, the amount of passion put into this app is phenomenal.\nTbe narrator just puts you at ease, I could listen to him all day. The brilliant choice of music  adds to the atmosphere, making this just perfect to relax and paint.\nBrave to the dev for his hard work.",
+      "date": 1751148087,
+      "review_helpful_count": 1,
+      "author_display_name": "GizmoDemi",
+      "author_alias": "GizmoDemi",
+      "developer_response": {
+        "body": "Thank you so much for the wonderful review, Paul! We’re really happy to hear you’re enjoying Arto.",
+        "date": 1751194583
+      }
+    },
+    {
+      "id": "682260761645830",
+      "score": 5,
+      "review_title": "Relaxing and fun",
+      "review_description": "This app is both relaxing and fun. Enjoy the music and being able to create even though I cannot draw! I like the options with the paint styles and the environments to start the creativity.",
+      "date": 1751637154,
+      "review_helpful_count": 1,
+      "author_display_name": "Stryder41",
+      "author_alias": "Stryder41",
+      "developer_response": {
+        "body": "Thanks so much! We're really glad Arto gives you space to create, even without a background in drawing. That's exactly the kind of experience we hoped to build.",
+        "date": 1752061031
+      }
+    },
+    {
+      "id": "643199542221236",
+      "score": 5,
+      "review_title": "Wonderful experience for your creativity",
+      "review_description": "This is a super great app to express your creativity!\n\nI enjoy it a lot!",
+      "date": 1752916756,
+      "review_helpful_count": 1,
+      "author_display_name": "ChrisNg26",
+      "author_alias": "ChrisNg26",
+      "developer_response": {
+        "body": "Thanks so much! We’re really glad you’re enjoying Arto.",
+        "date": 1753199010
+      }
+    },
+    {
+      "id": "1218947660006845",
+      "score": 4,
+      "review_title": "Gets those creative juices flowing.",
+      "review_description": "An impressive painting app with lots of different options to create your own masterpiece.",
+      "date": 1751384566,
+      "review_helpful_count": 1,
+      "author_display_name": "Goldenlay",
+      "author_alias": "Goldenlay",
+      "developer_response": {
+        "body": "Thanks a lot! We're really glad Arto helps spark creativity.",
+        "date": 1752060355
+      }
+    },
+    {
+      "id": "1084865713704817",
+      "score": 5,
+      "review_title": "relaxing!",
+      "review_description": "This makes me feel so relaxed.  I absolutely love this app!  Thank you for making it!!",
+      "date": 1751132999,
+      "review_helpful_count": 1,
+      "author_display_name": "jennifer57",
+      "author_alias": "jennifer57",
+      "developer_response": {
+        "body": "Thank you so much, Jennifer! I’m really happy to hear Arto helps you relax. That’s exactly what I hoped for when creating it. Enjoy, and thanks for your kind words!",
+        "date": 1751194376
+      }
+    },
+    {
+      "id": "620342151156163",
+      "score": 5,
+      "review_title": "Make Beautiful Pictures!",
+      "review_description": "Why is this app so inexpensive? You'll make beautiful art whether you're artistic or not, all while being in beautiful environments listening to meditative music of your choice.",
+      "date": 1742224521,
+      "review_helpful_count": 7,
+      "author_display_name": "nahli.marie",
+      "author_alias": "nahli.marie",
+      "developer_response": {
+        "body": "Hello Marie,\nThank you so much for your kind words.\nWe believe that creativity should be accessible to everyone - no matter their background or skill level. That’s why we’ve kept Arto affordable, so more people can experience the joy of creating in immersive, inspiring environments.\nWe’re really glad you're enjoying it!",
+        "date": 1747734945
+      }
+    },
+    {
+      "id": "378715878437937",
+      "score": 5,
+      "review_title": "Excellent VR Painting App",
+      "review_description": "Having a lot of fun with this! The range of Decals, Stencils, and accuracy of the Crayon makes this game incredibly fun, and the range of rooms/environments in which you're able to go and paint in is amazing too, exploring the Egypt room for example shows there's much more effort put to this app than just the canvas. I expect great things for this going forward. Arto takes the hardware from the Quest 3, and makes a compelling creative, and fun game; perfect for relaxation and destressing!",
+      "date": 1709626586,
+      "review_helpful_count": 1,
+      "author_display_name": "Oipjo",
+      "author_alias": "Oipjo",
+      "developer_response": {
+        "body": "Thank you so much for your positive feedback! We're thrilled to hear that you're having an excellent time with Arto. Your enthusiasm is truly appreciated, and we're committed to bringing even more exciting updates to enhance your creative experience. Happy painting, and stay tuned for more fantastic features on the horizon! 🖌️🌈",
+        "date": 1710152619
+      }
+    },
+    {
+      "id": "395293759688303",
+      "score": 5,
+      "review_title": "Channeling my inner Monet with Arto",
+      "review_description": "As a Monet enthusiast, the opportunity to dive into the artistic world of Arto was too enticing to resist. 🎨 From the moment I picked up the virtual brush, I was in for a unique and immersive experience.\nThe initial half-hour served as a learning curve, where I found myself revisiting the fundamental lessons from past \"paint and sip\" classes – first the background, then the featured items. I was so immersed in the surroundings I completely forgot what I learned in those classes, but I think it turned out well.\nWhat struck me most was the inherent calmness that enveloped me throughout the painting process. Even for those who may not be seasoned painters, the virtual boat gently swaying on the tranquil water served as the perfect backdrop for creativity. It transformed the entire experience into a therapeutic retreat, allowing me to get lost in the strokes of the brush and the soothing ambiance.\nArto isn't just a painting simulator; it's a serene journey that seamlessly blends artistic expression with relaxation. Whether you're a seasoned artist or someone looking for a tranquil escape, Arto offers a canvas for everyone to enjoy.",
+      "date": 1705730611,
+      "review_helpful_count": 7,
+      "author_display_name": "Goatette",
+      "author_alias": "Goatette",
+      "developer_response": {
+        "body": "Thank you for sharing your experience channeling your inner Monet in Arto! ; ) ❤️❤️❤️ We appreciate your insights and look forward to seeing more of your creative endeavors in Arto!\n\nBest regards,\nAdam\nfor Arto Team",
+        "date": 1707383423
+      }
+    },
+    {
+      "id": "885456153585964",
+      "score": 5,
+      "review_title": "When ya gotta Van Gogh, ya gotta Arto…..",
+      "review_description": "….because you’ll be consta-painted. 😉 I wasn’t sure how Arto was going to turn out for me as I’m not artistically talented or creative; however, I found things to explore, other than just painting or eating crayons (USMC), and was able to create my first masterpiece. Then another! Yep, I’d hang them on my wall. You would too! Additional tools are provided to help the artistically-challenged to appear to be talented artists. You’ll be shady, a little sketchy, and Arto will try to frame you! Plus, the environments and soundtrack are very relaxing. But yet, my favorite part is having fun taking creative in-game screenshots with a simple press of the left joy stick, which automatically saves to your files along with your new gallery of impressive art. If your favorite swimming technique is the brushstroke, this is definitely for you.",
+      "date": 1704358782,
+      "review_helpful_count": 7,
+      "author_display_name": "MissChiefVR",
+      "author_alias": "MissChiefVR",
+      "developer_response": {
+        "body": "Miss-Chief, we appreciate your wonderful review and look forward to seeing your great creations! Thank you! Adam for ARTO team",
+        "date": 1704371559
+      }
+    },
+    {
+      "id": "708619724593371",
+      "score": 4,
+      "review_title": "Love it!",
+      "review_description": "It's got a lot of potential , you can see the makers have put a lot of thought into a lot of the features and how it moves, considering i only had a 'crayon' as a brush, it can feel like a pencil, paintbrush, spray can etc depending how you use it! The sensitivity behind the pressure to draw is amazing and unlike things I've seen in other drawing apps, my only complaint unless its user error is i couldn't find an undo button / feature and having to then use the eraser would take parts of my work away , overall amazing app and can't wait see what the future holds for it!",
+      "date": 1707910794,
+      "review_helpful_count": 1,
+      "author_display_name": "Jenni113",
+      "author_alias": "Jenni113",
+      "developer_response": {
+        "body": "Thank you for the lovely review. Undo/redo in Arto is available with 25 steps. You can find them on the controllers, marked with an arrow (Y, B buttons).",
+        "date": 1707918157
+      }
+    },
+    {
+      "id": "396362132913275",
+      "score": 5,
+      "review_title": "Addicting!",
+      "review_description": "Arto is incredibly relaxing and I found myself quickly enjoying the music and atmosphere just as much as drawing.  As far as drawing, the possibilities seem endless. Seriously....soooo much to explore! The choices available are nothing short of amazing.  I can see myself in here for hours learning the tools and creating some pretty cool finished drawings on the canvas.   The controls are taking some time to learn, but given time I'm hoping they become more familiar.  Overall, this is just an incredible app and hands down the best drawing app I've seen available.  Well worth your time to check it out!",
+      "date": 1705172119,
+      "review_helpful_count": 3,
+      "author_display_name": "pianofingers",
+      "author_alias": "pianofingers",
+      "developer_response": {
+        "body": "Thank you for your enthusiastic review! We're thrilled to hear that you find Arto addicting and enjoy the relaxing atmosphere and music. \nThank you for your dedication to mastering the tools. We're actively working on refining the controls to ensure they become even more user-friendly with time. Your valuable feedback fuels our commitment to continuous improvement. Happy creating!",
+        "date": 1707213594
+      }
+    },
+    {
+      "id": "251148721404379",
+      "score": 5,
+      "review_title": "Roberto",
+      "review_description": "A great app , been a long time since I've done any drawing and this can get you straight back into it especially if you struggle for time,it save a lot of setting up,i like the music,but i would love to see it if you could play your own music maybe a YouTube station would be good , would feel like your at home!",
+      "date": 1707167532,
+      "review_helpful_count": 1,
+      "author_display_name": "Robertoclare",
+      "author_alias": "Robertoclare",
+      "developer_response": {
+        "body": "We appreciate your positive feedback! We're delighted to hear that Arto has rekindled your interest in drawing and offers a convenient, time-saving creative experience. Regarding the music, you can adjust its volume separately within the app, so You can play your own music from another source. Your suggestion is valuable, and we hope you continue to find joy and inspiration in creating with Arto!\nAdam\nfor Arto team",
+        "date": 1707384605
+      }
+    },
+    {
+      "id": "767167848802841",
+      "score": 5,
+      "review_title": "Stepping into a World of VR Creativity a",
+      "review_description": "Escape to tranquility and unleash creativity in Arto's VR worlds. Paint with ease, guided by intuitive tools and soothed by meditative music. Find your artistic flow, relax, and share your masterpieces. A haven for all, from stressed minds to budding artists. Dive in, create, and unwind.",
+      "date": 1707128041,
+      "review_helpful_count": 1,
+      "author_display_name": "VirtualRelic",
+      "author_alias": "VirtualRelic",
+      "developer_response": {
+        "body": "Thank you for your poetic review! We're delighted to provide a tranquil space for creativity. :  ) We appreciate your kind words and invite you to continue exploring, creating, and unwinding in Arto's artistic haven. 🌌🎨😊\nAdam\nfor Arto team",
+        "date": 1707384137
+      }
+    },
+    {
+      "id": "409086791622022",
+      "score": 5,
+      "review_title": "Relaxing Fun",
+      "review_description": "I’m not an artist, but I was very happy with some of the work I was able to make with Arto. \nSo many options, tools and stencils to play with. \nA good variety of music and environments. \nThat all seem perfect for painting.",
+      "date": 1708062899,
+      "review_helpful_count": 1,
+      "author_display_name": "FleshThief",
+      "author_alias": "FleshThief",
+      "developer_response": {
+        "body": "Thank you for the positive feedback! We're delighted you enjoyed using Arto for your creative projects. If you ever have more thoughts or suggestions, feel free to share. Happy painting!",
+        "date": 1710152278
+      }
+    },
+    {
+      "id": "879009180624965",
+      "score": 4,
+      "review_title": "Wonderful Art-app",
+      "review_description": "Although it still needs some improvements, it has some really nice features that are lacking in other drawing apps. It offers various settings, such as a boat on a pond in spring, a monument in Egypt, a kind of space station, a prehistoric cave... Each of these environments has different canvases with various painting possibilities. In each room, there's a suitable soundtrack for the theme, and it already has some preset figures that can be added to the canvas, varying in color, height, and opacity.\nYou have your own Gallery, where you can put your best works and invite friends to see them, a Gallery from other painters and it is really easy to download the images in your oculus app. If you like Art in VR, I thruly recomment this app.",
+      "date": 1704539804,
+      "review_helpful_count": 3,
+      "author_display_name": "chicory.2023",
+      "author_alias": "chicory.2023",
+      "developer_response": {
+        "body": "Thank you for the detailed review and positive feedback! We appreciate your insights and are thrilled that you're enjoying the unique features of Arto. Your support means a lot to us. Happy creating!",
+        "date": 1707213024
+      }
+    },
+    {
+      "id": "732142372176110",
+      "score": 4,
+      "review_title": "Transcendent!",
+      "review_description": "Arto has come a long way since I first looked at it. Now it's reasonably priced and the creating art spaces are an experience beyond imagining.  Not only for creating, this could be a great space for Meditation,mind mapping and Vision board creation. Arto puts you a fantastic mood for creating or just chilling.\nI had fun just with the stencils and a little hand drawing. I'd love extra brushes  like spray paint.  \nSuggestions to the devs - A way to import our own stencils from any image we need. \nMore brush types. and a guide to print our creations.",
+      "date": 1704570556,
+      "review_helpful_count": 3,
+      "author_display_name": "PetercVR",
+      "author_alias": "PetercVR",
+      "developer_response": {
+        "body": "Thanks for the review. And thanks a lot for the feedback. We take your comments to heart. We will definitely add the spray and definitely want to develop the possibilities of creating with decals. Information on how to get the final artwork from the headset to the PC is covered in the mainmenu in the How to play section, but we'll definitely create more detailed tutorials on how to do that...",
+        "date": 1704881338
+      }
+    },
+    {
+      "id": "213050961898085",
+      "score": 5,
+      "review_title": "Awesome drawing game",
+      "review_description": "What a lot of thought gone into this game, I'm not the best at drawing but with the music in the background really does get you in the mood for inspiration, well done!",
+      "date": 1707059490,
+      "review_helpful_count": 2,
+      "author_display_name": "willum0mcfly",
+      "author_alias": "willum0mcfly",
+      "developer_response": {
+        "body": "We're thrilled to hear you're enjoying the experience in Arto! Thank you for your kind words, and feel free to immerse yourself further in the creative journey! \nBest regards,\nAdam for Arto team",
+        "date": 1707383865
+      }
+    },
+    {
+      "id": "1263493701708270",
+      "score": 4,
+      "review_title": "Decent",
+      "review_description": "I LOVE THE ENVIRONMENT AND THE MUSIC. I am still trying to understand the crayon. I got it to work but it doesn't feel smooth flowing to me even with the extender. My hands also shook a lot and I didn't like that. However, I am enjoying the decals. I wish there was some time or way to type a decal you want for more creativity. I can't draw but I have pictures in my head I would love to bring to life. Maybe this app can help me.",
+      "date": 1704763572,
+      "review_helpful_count": 1,
+      "author_display_name": "justdavi217",
+      "author_alias": "justdavi217",
+      "developer_response": {
+        "body": "Thank you. We really appreciate your feedback. Regarding the hand shake, there is an option on the controller to set \"Stady hand\", which will help considerably (I also have a slight hand shake). For creating custom decals, there is a \"decal maker\" that allows you to create custom bases for \"shooting\" decals. We are working on tutorials and hints to show these possibilities to everyone. You can find them on the ARTO VR Game - Meta Quest FB group and we will try to get them into the game update as soon as possible.",
+        "date": 1704880624
+      }
+    },
+    {
+      "id": "6961194427263185",
+      "score": 5,
+      "review_title": "Picture Perfect",
+      "review_description": "If you have a creative mind this app is for you. \nIf you don't have a creative mind this app will help you get one. \n \nThere are different environments to fit any personality and mood. \nI haven't painted since I was three years old, and I'm still as good. This game give me courage to explore my well hidden creativity. For my first serious attempt I choosed the beautiful Lake area where the water lilys made it feel like stepping into a Monet painting. There I turned the music off and just let the chirping birds guide my hands. I enjoyed the calm relaxing experience which is worth more than monet-ary gain.",
+      "date": 1704540224,
+      "review_helpful_count": 1,
+      "author_display_name": "Inkfish",
+      "author_alias": "Inkfish",
+      "developer_response": {
+        "body": "Thank you for sharing your beautiful experience with Arto! We're delighted to be a part of your creative journey and glad to hear that our app has helped you rediscover and explore your artistic side. Keep creating and enjoying those moments of calm relaxation. We appreciate your support! ❤️🎨",
+        "date": 1707213198
+      }
+    },
+    {
+      "id": "228830220303580",
+      "score": 5,
+      "review_title": "Like an artist",
+      "review_description": "This app has fabulous environments which supports your creative mind :-)\nThis app has a wonderful environment that supports your creative mind :-)\nI am technical but with this app everyone gets their own part of creative mind and make amazing drawings.\nWhen I gave the app to my wife to try, I had a hard time getting the glasses back on.",
+      "date": 1704635211,
+      "review_helpful_count": 1,
+      "author_display_name": "Cy80r6",
+      "author_alias": "Cy80r6",
+      "developer_response": {
+        "body": ": D Great! We are thrilled that you like Arto. We'd love it if you'd share your creations on the FB group ARTO VR Game - Meta Quest.",
+        "date": 1704881098
+      }
+    },
+    {
+      "id": "325984156567256",
+      "score": 5,
+      "review_title": "Let your creativity come alive",
+      "review_description": "If you're looking for an app to let your creativity flow then definitely consider Arto \nWith it's many relaxing surroundings and a soothing soundtrack to draw whatever you want you will soon be creating whatever comes to mind\nPlenty of fun things to experiment with like mirror mode and decals and then save it all in your very own gallery.\nWonderful app 🙏",
+      "date": 1704502498,
+      "review_helpful_count": 1,
+      "author_display_name": "Eldridge777",
+      "author_alias": "Eldridge777",
+      "developer_response": {
+        "body": "Thank you for the fantastic review! We're delighted to hear that Arto is letting your creativity soar. Enjoy Arto! 🎨✨",
+        "date": 1707212751
+      }
+    },
+    {
+      "id": "388313723721504",
+      "score": 5,
+      "review_title": "Makes me feel like an artist",
+      "review_description": "My favorite area by far so far is the Zen area. The symmetry art makes my brain feel good and I actually feel like I am good at art. The music is so wonderful and relaxing and I am just lost in the moment. I cannot wait to see how this program progresses!",
+      "date": 1704349066,
+      "review_helpful_count": 1,
+      "author_display_name": "GlitcherPenguin",
+      "author_alias": "GlitcherPenguin",
+      "developer_response": {
+        "body": "We love reading your review. We are proud of the drawing in the ZEN scene : ) Feel free to share your creations in our FB group: https://www.facebook.com/groups/657345022818975",
+        "date": 1704371394
+      }
+    },
+    {
+      "id": "893959209055450",
+      "score": 4,
+      "review_title": "Really great to be creative",
+      "review_description": "Ist a really great App for being creative and draw some pictures or make a great Mandala. \nIt would be a 5 Star App if there would be more paint brushes like some bigger or smaler one or like some spray can to be more creative. 👍",
+      "date": 1704380818,
+      "review_helpful_count": 1,
+      "author_display_name": "eule2704",
+      "author_alias": "eule2704",
+      "developer_response": {
+        "body": "Hey, thanks for the review. We appreciate your opinion. We are constantly improving Arto and the drawing possibilities are increasing. We'll get to spray paint too. You can adjust the track size on the controller already. Combined with the pressure, this option is solved.\nSincerely, Adam, for the Arto team.",
+        "date": 1704452240
+      }
+    },
+    {
+      "id": "329710919965144",
+      "score": 5,
+      "review_title": "Arto great!!",
+      "review_description": "A great drawing app with a creative canvas.  easy to understand  and open up ideas for you  I need to find more time to play with it. Arto is a great choice for your first drawing app in VR.",
+      "date": 1704383493,
+      "review_helpful_count": 1,
+      "author_display_name": "Brajra",
+      "author_alias": "Brajra",
+      "developer_response": {
+        "body": "Hi, Brajra. Thanks for the review. We're so glad you're enjoying Arto : ) Feel free to share your creations on the ARTO VR Game - Meta Quest FB group.",
+        "date": 1704452372
+      }
+    },
+    {
+      "id": "396037302987338",
+      "score": 5,
+      "review_title": "Nice drawing app!",
+      "review_description": "I found this app very relaxing and it has some nice environments to draw in.",
+      "date": 1705627868,
+      "review_helpful_count": 1,
+      "author_display_name": "Amyeo",
+      "author_alias": "Amyeo",
+      "developer_response": {
+        "body": "Thank you for your positive feedback! We're thrilled to hear that you find Arto relaxing and enjoy the variety of drawing environments. Happy creating!",
+        "date": 1707213685
+      }
+    },
+    {
+      "id": "282984084767267",
+      "score": 5,
+      "review_title": "Going hard in the paint",
+      "review_description": "Big ups to Adam for linking a game key.\nWould have gladly paid full price for this.\nIt is a well put together app that anyone can enjoy. Recommended bruv.",
+      "date": 1704493440,
+      "review_helpful_count": 1,
+      "author_display_name": "CaryWeight",
+      "author_alias": "CaryWeight",
+      "developer_response": {
+        "body": "Hey Cary! Appreciate the shoutout, and I'm thrilled you're enjoying the creative fun in Arto! Happy creating!",
+        "date": 1707212608
+      }
+    },
+    {
+      "id": "377728591470164",
+      "score": 5,
+      "review_title": "Simply awesome!!",
+      "review_description": "So much creative fun with this app❤️",
+      "date": 1704484061,
+      "review_helpful_count": 1,
+      "author_display_name": "porlibertad",
+      "author_alias": "porlibertad",
+      "developer_response": {
+        "body": "We're delighted to hear that you're enjoying the creative fun with Arto ❤️. Happy creating!",
+        "date": 1707212371
+      }
+    },
+    {
+      "id": "1983816558671203",
+      "score": 5,
+      "review_title": "",
+      "review_description": "It's very fun.",
+      "date": 1704489506,
+      "review_helpful_count": 1,
+      "author_display_name": "WooDooTech",
+      "author_alias": "WooDooTech",
+      "developer_response": {
+        "body": "Thanks! :  )",
+        "date": 1705675637
+      }
+    },
+    {
+      "id": "2240727326101353",
+      "score": 4,
+      "review_title": "Very chill",
+      "review_description": "I was on the fence at $20 but figured I could return if I didn’t like it. Very cool app. I’d like to see an export option so I can print these in real life. The ability to size my canvas also for printing. I’ve made a few cool TikTok’s with Arto. Looking forward to seeing where this goes. I’m a daily VR artist so you’ll be seeing me around. S\no far Zen is my favorite part of the app. One thing I shake a bit as I’m a bit older. Any way to enable steady hand? That would be huge.",
+      "date": 1682115347,
+      "review_helpful_count": 2,
+      "author_display_name": "BeyondRealityGaming",
+      "author_alias": "BeyondRealityGaming",
+      "developer_response": {
+        "body": "Hi, BRG,\nthanks so much for your creations and review. Great! Thanks for the comments: improving the export is an immediate priority for us, and the \"steady hand\" feature is also important to us and hopefully we can add it to the game soon. Zen is also our favorite scene and we're working on another one that will have new mirroring options.",
+        "date": 1682506642
+      }
+    },
+    {
+      "id": "944962370281457",
+      "score": 5,
+      "review_title": "All Inclusive Art App!",
+      "review_description": "I’ve spent a bit creating in Arto now, and I am absolutely blown away by it’s beauty! From painting in a huge studio, to having a smaller canvas on a scenic boat view, this app absolutely delivers on every front. \n\nMy favorite feature to utilize so far is the stencil feature. It allows for even the most artistically challenged of people to make stunning pieces of work!! \n\nI really enjoy the music accompaniment while creating - my only suggestion would be working in a web browser so I can watch stuff while I paint/draw! Imagine having a YouTube painting tutorial you’re able to follow along with!?!? Or just watching some mindless entertainment between thoughts of what to do next!\n\nThere are so many tools you can use to best showcase your creativity… compared to the couple other art apps I’ve played, I foresee this keeping me captivated and coming back the most. \n\nThank you devs for creating this gem of an app!!!",
+      "date": 1679882583,
+      "review_helpful_count": 6,
+      "author_display_name": "kyletay321",
+      "author_alias": "kyletay321",
+      "developer_response": {
+        "body": "Hey, Kyletay,\nthanks for the great rating and the awesome review. \nWe are already looking into how to implement the YT tutorial videos into ARTO... : )\nBest regards,\nAdam for ARTO team",
+        "date": 1680529888
+      }
+    },
+    {
+      "id": "162363963370301",
+      "score": 5,
+      "review_title": "Amazing!",
+      "review_description": "To be honest I'm not a fan of painting apps but I decided to give it a chance and.....WOOOWWWW!!!! This is an amazing surprise. You don't need to be expert....but you will definitely spend many hours on painting on VR. I think it is really well done and deserve more reviews. Worth any penny!! Well done!!!",
+      "date": 1680119661,
+      "review_helpful_count": 3,
+      "author_display_name": "Aimar80",
+      "author_alias": "Aimar80",
+      "developer_response": {
+        "body": "Hi, Aimar,\nWOOOOWWWW!!!! that's the nicest compliment. Thank you so much!\nYou made me very happy : )\nBest regards,\nAdam for ARTO team",
+        "date": 1680528008
+      }
+    },
+    {
+      "id": "160785786875749",
+      "score": 5,
+      "review_title": "",
+      "review_description": "I've only used it for a bit so far but I'm liking it.. I went for a boat ride while I painted my canvas.. I'll have to check out the other rooms next time I play ... easy to understand game .. I recommend even if ur not a artist",
+      "date": 1679968069,
+      "review_helpful_count": 2,
+      "author_display_name": "FAFO.Ruckus.DGT",
+      "author_alias": "FAFO.Ruckus.DGT",
+      "developer_response": {
+        "body": "Hi, Ruckus,\nthanks so much for your review. \nEnjoy ARTO : )\nBest regards,\nAdam for ARTO team",
+        "date": 1680529461
+      }
+    },
+    {
+      "id": "591511626368091",
+      "score": 5,
+      "review_title": "Arto review",
+      "review_description": "I play seated\nLots of different settings and the music is so relaxing.\nI've only knocked 2 masterpieces out so far but it's well worth a look if you're an arty person\nDid I mention the music?",
+      "date": 1679994583,
+      "review_helpful_count": 1,
+      "author_display_name": "Sanchezlad",
+      "author_alias": "Sanchezlad",
+      "developer_response": {
+        "body": "Hi, Sanchezlad,\nthanks for the great review! Share your masterpieces with us on the fb group: ARTO VR Game - Meta Quest. Looking forward to it : )\nBest regards,\nAdam for ARTO team",
+        "date": 1680529050
+      }
+    },
+    {
+      "id": "239452955215337",
+      "score": 5,
+      "review_title": "Cool painting app!",
+      "review_description": "This is a bit confusibg to use at first but you'll get the hang of it. Also loved that there's relaxing bgm to boot!",
+      "date": 1680006333,
+      "review_helpful_count": 1,
+      "author_display_name": "Arcueid02",
+      "author_alias": "Arcueid02",
+      "developer_response": {
+        "body": "Hi, Arcueid,\nthanks for the great review! You could help ARTO by writing what was confusing from the start. You can find me on fb as Adam Kyber.\nBest regards,\nAdam for ARTO team",
+        "date": 1680528718
+      }
+    },
+    {
+      "id": "237074585395526",
+      "score": 5,
+      "review_title": "Arto is AMAZING!!!",
+      "review_description": "I am no artist at all. Arto was seriously so easy to use and I truly enjoy it. After completing my first portrait i was so proud to show it off. The music was beautiful to listen to as I started to create. I didn't even sit there and think where do I begin. Once I started I just couldn't stop. So many tools and colors and I really love the stencils. I am actually going to head back into arto now and create another portrait. If I could give more star ratings I certainly would.",
+      "date": 1680528045,
+      "review_helpful_count": 1,
+      "author_display_name": "Gemchick",
+      "author_alias": "Gemchick",
+      "developer_response": {
+        "body": "Hey, Gemchick,\nwe're very happy to hear that. It's great that you're enjoying ARTO! Thanks for the great review. : )\nAdam for the ARTO team",
+        "date": 1680935606
+      }
+    },
+    {
+      "id": "227194453139082",
+      "score": 5,
+      "review_title": "Arto",
+      "review_description": "At first I found it a little confusing how things worked, but that could be down to my age….lol. Once I got it sorted I found the app great to use. Many different areas and things to try",
+      "date": 1679963061,
+      "review_helpful_count": 2,
+      "author_display_name": "Swimlife-UK",
+      "author_alias": "Swimlife-UK",
+      "developer_response": {
+        "body": "Hi Swimlife-UK,\nthanks for the great review. You can help ARTO by writing what was confusing from the start. You can find me on fb as Adam Kyber.\nBest regards,\nAdam for ARTO team",
+        "date": 1680529639
+      }
+    },
+    {
+      "id": "221882870386095",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "I was recommended to get this game by a friend and its good fun even the kids love playing this game",
+      "date": 1679691490,
+      "review_helpful_count": 2,
+      "author_display_name": "Lordkennedy90",
+      "author_alias": "Lordkennedy90",
+      "developer_response": {
+        "body": "Hi Lordkennedy90, we love reading that you're having fun with ARTO : ) Thanks for the review! Best regards, Adam for the ARTO team",
+        "date": 1679844427
+      }
+    },
+    {
+      "id": "220954840527740",
+      "score": 4,
+      "review_title": "A special painting App",
+      "review_description": "A painting app that allows for various creative modes in different scenes. It allows for the adjustment of the length and thickness of the brush, and has multiple file folders for saving and switching between different artworks. \n\nIt would be great to add more diversity to the brushes and the ability to adjust colors freely on the color palette.\nMaybe we can listen our own music,or add a browser to use YouTube?\n\nLooking forward to future updates. I will update my review and change stars accordingly.",
+      "date": 1680003139,
+      "review_helpful_count": 1,
+      "author_display_name": "Kristen.H",
+      "author_alias": "Kristen.H",
+      "developer_response": {
+        "body": "Hello, Kristen,\nI really appreciate your opinion. Thanks! We are still working hard on ARTO and will continue to do so. More features will be added...\nBest regards,\nAdam for ARTO team",
+        "date": 1680529346
+      }
+    }
+  ],
+  "total": 60,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T14:07:33Z"
+}

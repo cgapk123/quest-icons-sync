@@ -1,0 +1,487 @@
+{
+  "app_id": "27072987655679670",
+  "package_name": "com.leopoly.shapelab",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Shapelab Lite",
+  "rating_average": 4.4605263157895,
+  "rating_count": 76,
+  "review_count": 47,
+  "reviews": [
+    {
+      "id": "1329167919096306",
+      "score": 4,
+      "review_title": "Best for modifying 3D-Scans",
+      "review_description": "For the price, great sculpting and modelling tool, probably best for modifying 3D-scanned objects in any platform. Quite intuitive and easy to learn and use. If you compare VR sculpting to computer software with 2D-screen and mouse, shapelab in VR is fast and practical. 2D screen apps are like switching places of horse and the rider. VR sculpting is lightyears ahead.\n\nI wish shapelab could make 3D-scans with Q3's depth cam. Lite deserves at least 4 stars, and 5 if there would be 3D-scanning function. 😉",
+      "date": 1781548662,
+      "review_helpful_count": 6,
+      "author_display_name": "Taidex",
+      "author_alias": "Taidex",
+      "developer_response": {
+        "body": "Hi!\nThank you so much for the kind words about our sculpting mechanics and how well the app works for modifying 3D scans. We are glad you find the core software to be a great tool!\n\nWe completely understand subscription fatigue, but we want to pull back the curtain a bit to explain how we manage our pricing models to keep our development sustainable for all types of creators:\n\nContinuous updates require continuous work: Building, optimizing, and maintaining the app is very resource-intensive. To keep the project sustainable and ensure we can fund ongoing engineering work, we have to find a balance between standard buy-once models and recurring options. It’s not easy, but the \"Subscription only\" path was never an option for us.\n\nThe “Lite” version (perpetual one-off model only): We intentionally designed Shapelab Lite as an ultra-affordable, one-time purchase option specifically for hobbyists and beginners. We have funded and continuously updated it since late 2024 without any recurring fees. Generally, the perpetual annual releases receive updates for the given calendar year only, but we made an exception here and decided to simply just continue updating the existing one.\n\nThe “Max” version (both perpetual one-off model and subscription): If you use a VR-ready PC, you can buy a perpetual license for Shapelab Max as a one-time purchase and own that annual release indefinitely without monthly fees. But yes, currently the Standalone Max version is only accessible through a monthly fee.\n\nLeaving a 1-star review on the standalone Lite app (which you mentioned deserves 4 or 5 stars) to give feedback on the pricing structure of the “max” tiers heavily tanks our store visibility. It ends up resulting in the opposite effect of what you intended for our independent team.\n\nIf you love your experience using Lite, we would be incredibly grateful if you would consider updating your score to reflect how you feel about the app itself. \n\nThank you for standing with our independent small team!",
+        "date": 1781529529
+      }
+    },
+    {
+      "id": "1017631784758763",
+      "score": 5,
+      "review_title": "Incredible achievement",
+      "review_description": "This is what we've been waiting for!\nThe latest update is a game changer and makes it so so easy to load in existing files and images to work on. I just went to thingyverse and downloaded some STLs which I can now open from the downloads folder to view and play around with. The program is fantastic and packed full of excellent features and doesn't need a separate computer to run. I can now sculpt detailed and high quality minis for fantasy board games in a way that feels very natural. It is so easy to use. I did a sculpture degree and worked in clay and wax 32 years ago. Finally I am re-discovering these skills in VR thanks to Shapelab. The masking, separating and fill tools are genius. I tried other programs but there's no comparison. At this price its a no brainier. . MUST HAVE!!",
+      "date": 1769534711,
+      "review_helpful_count": 29,
+      "author_display_name": "Happy.69",
+      "author_alias": "Happy.69",
+      "developer_response": null
+    },
+    {
+      "id": "1291584533030119",
+      "score": 5,
+      "review_title": "Just incredible",
+      "review_description": "I have been using Zbrush for years now, and shapelab changed how I work. I even have got friends into sculpting because of it. it is so easy to pick up for someone new to 3D art / sculpting but also can be extremely complex. its a brilliant tool and I love it dearly!",
+      "date": 1772312669,
+      "review_helpful_count": 3,
+      "author_display_name": "glassfox.io",
+      "author_alias": "glassfox.io",
+      "developer_response": null
+    },
+    {
+      "id": "1321092380076412",
+      "score": 5,
+      "review_title": "Very useful and the only one of its kind",
+      "review_description": "I really wanted the option to change the blue color of the UI",
+      "date": 1774050519,
+      "review_helpful_count": 3,
+      "author_display_name": "mfcleandro",
+      "author_alias": "mfcleandro",
+      "developer_response": null
+    },
+    {
+      "id": "834914859564576",
+      "score": 4,
+      "review_title": "Good!",
+      "review_description": "Hi! Really Good for concepts but not enough for work now. If developers can add an ability to work with your own kitbash, like a brush with a kitbash inside (like Medium or a ZBrush do) it would be awesome and significantly increase the speed of work",
+      "date": 1769600376,
+      "review_helpful_count": 6,
+      "author_display_name": "THR47",
+      "author_alias": "THR47",
+      "developer_response": null
+    },
+    {
+      "id": "2445923019157780",
+      "score": 5,
+      "review_title": "Great App",
+      "review_description": "Love it, I am very surprised how polished the app is. Kudos to the team.",
+      "date": 1773743609,
+      "review_helpful_count": 1,
+      "author_display_name": "gomesh1977",
+      "author_alias": "gomesh1977",
+      "developer_response": null
+    },
+    {
+      "id": "831078206508054",
+      "score": 4,
+      "review_title": "Great, but...",
+      "review_description": "It is so wonderful in so many ways, with the preferred hand grip have natural movement to shift size of brush, or to use both hands to really pull yourself in for close up work. I just wish there was support for negative boolean operations.",
+      "date": 1763445569,
+      "review_helpful_count": 8,
+      "author_display_name": "Jake.12121023",
+      "author_alias": "Jake.12121023",
+      "developer_response": null
+    },
+    {
+      "id": "991662294028849",
+      "score": 5,
+      "review_title": "Decent",
+      "review_description": "This Lite version..? of Shapelab is a fun and fairly easy VR sculpting app. It’s great for testing ideas and making medium-complexity shapes in real 3D. The controls feel natural, and it's cool to see and work on your model at full scale in VR",
+      "date": 1769017764,
+      "review_helpful_count": 1,
+      "author_display_name": "BillCanfield01",
+      "author_alias": "BillCanfield01",
+      "developer_response": null
+    },
+    {
+      "id": "934126003120843",
+      "score": 1,
+      "review_title": "Non of these are good",
+      "review_description": "As5 straight as5",
+      "date": 1768777582,
+      "review_helpful_count": 0,
+      "author_display_name": "jojoboswell2006",
+      "author_alias": "jojoboswell2006",
+      "developer_response": {
+        "body": "Hi there, we're sorry to see the 1-star rating. We noticed your comment, but we aren't sure if you're running into a specific technical issue or if there's a feature missing that you were looking for. We’d love to help make the experience better. Could you let us know what's wrong, or reach out to us at support@shapelabvr.com?",
+        "date": 1768903158
+      }
+    },
+    {
+      "id": "771181059418157",
+      "score": 5,
+      "review_title": "We need MX Ink support!",
+      "review_description": "Fantastic 3D sculpting app with so many features. I have the desktop version too, but this one is more than adequate as a standalone.\n\nThe only letdown is that it doesn't work with my MX ink pen. I can't think of an app which needs pen support more",
+      "date": 1758469442,
+      "review_helpful_count": 28,
+      "author_display_name": "melemelo",
+      "author_alias": "melemelo",
+      "developer_response": null
+    },
+    {
+      "id": "904304845873891",
+      "score": 5,
+      "review_title": "😀",
+      "review_description": "Good",
+      "date": 1767567887,
+      "review_helpful_count": 0,
+      "author_display_name": "orlys.flores.94",
+      "author_alias": "orlys.flores.94",
+      "developer_response": null
+    },
+    {
+      "id": "705323295912517",
+      "score": 5,
+      "review_title": "GREATEST 3D USE",
+      "review_description": "It's amazing guys the endless possibilities \nIt's completely more comfortable  been sitting at a table on my PC so uncomfortable when I can just make a model here import it onto the PC so much easier to use",
+      "date": 1759182585,
+      "review_helpful_count": 6,
+      "author_display_name": "Country_Sparkie",
+      "author_alias": "Country_Sparkie",
+      "developer_response": null
+    },
+    {
+      "id": "1429994798243249",
+      "score": 5,
+      "review_title": "Steep learning curve but WOW",
+      "review_description": "Yeah, this is going to change my life. 3d modeling has always been so frustrating behind a 2d screen. This makes it amazing. It took a few hours to get the hang of each one of the tools, but once you play around enough everything starts to click and you feel unstoppable. \n\nI have run into a few random glitches where the tools don't work properly, and I've found that going back to the Quest home screen and back to the app usually sorts it out.",
+      "date": 1752628068,
+      "review_helpful_count": 20,
+      "author_display_name": "JohnnyWL",
+      "author_alias": "JohnnyWL",
+      "developer_response": {
+        "body": "Eidit/Update 07/28/2025\n\nHi there,\n\nJust a quick heads-up from our side: We couldn’t reproduce any issues on our end after our last message, but based on a specific user report, we went ahead and made some improvements just to be safe. These updates went live last week with version 2025 v3.2.\n\nIf you’re still experiencing any problems, feel free to reach out (support@shapelabvr.com), we’re happy to take another look.\n\nKind regards,\nDaniel\n\n---\nOrignal 07/20/2025\n\nThank you so much for your kind words! It really means a lot to hear how Shapelab is making a difference for you.\n\nRegarding the glitches you mentioned — could you help us understand a bit more? What exactly happens when the tools stop working? Does it seem connected to any specific action, tool, or workflow?\n\nWe haven’t run into this issue ourselves, but we’d really like to dig deeper, figure out what’s causing it, and fix it as soon as possible!\n\nFeel free to reach out to us anytime at support@shapelabvr.com.\n\nThanks again for your feedback and for using Shapelab!\nDaniel",
+        "date": 1753706935
+      }
+    },
+    {
+      "id": "700286723158362",
+      "score": 3,
+      "review_title": "Passed, but not enough",
+      "review_description": "The MR function is very good, the PBR process is very good, and the sculpture function is very good.\nBut cannot import textures?Transform low precision models in the game into high-precision models, It would be quite convenient to modify along the texture.I don't understand. If there are UV issues during the editing process, can baking the texture to a fixed point during import solve this problem?\nMoreover, voxels cannot be continuously added. When I want to create a shape from scratch, I need to repeatedly press the trigger for each cube or sphere.Can you imagine that you need to pull the trigger dozens or even hundreds of times just to create a sketch?This is too foolish.\nThirdly, it does not support importing new voxels. When I want to create details in bulk, like dragon scales or bird feathers? I can only copy the same part countless times and then move it repeatedly. This is not good.\nIn short, this is a feature that I urgently need, and I still recommend this software to you. I am not stingy with praising its advantages, but I want it to be better.",
+      "date": 1748247083,
+      "review_helpful_count": 35,
+      "author_display_name": "quantum0300",
+      "author_alias": "quantum0300",
+      "developer_response": {
+        "body": "Hi there,\n\nThank you so much for taking the time to share your detailed feedback on Shapelab Lite. We truly appreciate your thoughtful comments and we're also sorry for the delayed reply!\n\nWe want to acknowledge both your praise and your concerns, as they are very valuable to us and help guide our development.\n\nTo address some of your technical points:\n\nPolygon Mesh vs. Voxels\n Shapelab Lite is built around a proprietary polygon mesh-based engine — this allows for highly detailed and production-ready sculpting with strong control over topology and performance. This is a core strength of our application, especially for professionals working on organic modeling and scan-based workflows. However, we understand your frustration when trying to build up forms from scratch like with voxel-based systems — polygon engines are not ideal for \"volume drawing\" as voxel sculpting is.\n\n\nVoxel Engine Availability\nWe're happy to share that we’ve already started bridging this gap. A secondary voxel sculpting engine has been developed and is currently available in our PCVR version of Shapelab. This allows for more intuitive massing and faster sketching. The standaloneVR (android) version of Shapelab for Quest doesn’t include voxel sculpting yet.\n\n\nModel Import and Custom Cursor Features\n3D Model importing is supported in both Shapelab Lite and Shapelab PCVR: FBX, OBJ, STL, GLB. However, using custom models as brushes or cursor stamps (as in bulk detailing like scales or feathers) is a feature currently only supported in the PCVR version. That said, your use case is absolutely valid and something we’re looking into expanding to a standaloneVR (android) version of Shapelab.\n\n\nOnce again, we sincerely thank you for your honest review. We’re truly grateful you still recommend our software, we’re working hard to make it even better for artists like you.\n\nKind regards,\nDaniel from the Shapelab Team",
+        "date": 1751014676
+      }
+    },
+    {
+      "id": "759685017219946",
+      "score": 5,
+      "review_title": "MX Ink integration",
+      "review_description": "Please please add support for the logitech mx ink pen it would really elevate the experience.",
+      "date": 1753728736,
+      "review_helpful_count": 11,
+      "author_display_name": "Collin.of.Harper",
+      "author_alias": "Collin.of.Harper",
+      "developer_response": null
+    },
+    {
+      "id": "1639700543388914",
+      "score": 5,
+      "review_title": "MY FIRST REVIEW FOR ANY VR GAME.",
+      "review_description": "❤️FIRST.... PLEASE make it multiplayer!! \n\nSECOND.... It reminds me of blender. \nThis is bloody amazing. The amount of creations I have made here is just brilliant.\n\n...but please make it multiplayer, because me and friends want to join each other and create with one another. ❤️",
+      "date": 1748048891,
+      "review_helpful_count": 14,
+      "author_display_name": "astral_333",
+      "author_alias": "astral_333",
+      "developer_response": null
+    },
+    {
+      "id": "697552339630151",
+      "score": 4,
+      "review_title": "Wonderful to be in, with my model",
+      "review_description": "I struggle with manipulation of models on a desktop, it’s just not intuitive enough. Shapelab changes that, and whilst it does need work, the ability to easily drag the model , scale it, manipulate and modify it as though it’s a piece of clay in my hands is invaluable and well worth it. Some tools don’t appear to do much at all, or perhaps are too similar in their actions to others, but that can just be as I’m new to it and need more time in the app.",
+      "date": 1746485286,
+      "review_helpful_count": 9,
+      "author_display_name": "ohobo",
+      "author_alias": "ohobo",
+      "developer_response": null
+    },
+    {
+      "id": "615241155000171",
+      "score": 4,
+      "review_title": "Almost perfect",
+      "review_description": "I wasn't happy with the corporate focused direction Shapelab was taking with their desktop app.\n\nI'm glad that they made an affordable version that runs directly on the headset for those of us who haven't made millions on our apps/games yet. The resolution and vertex count is limited, but totally acceptable for starting out.\n\nWith the addition of direct file access on the quest, for adding photo references and exports, they've made this a viable solution for a full blown game/app development workflow on the Quest using Godot as an engine. This is game changing for those who want to enter game dev and have a limited budget. I feel a little bad at how I complained to them about this missing feature, but hey, we have it now!\n\nThere is a slight problem with photo references, but it should be relatively simple to fix especially if they read this. The problem only arises if you have display thumbnails turned on. I think they might be launching threads for each thumbnail to be generated, because if you have a large amount of photos the app freezes and restarts/crashes. Just turn off previews if that's your case, but it should be an extremely easy fix to limit/chunk thumbnail generation.\n\nBesides that, my only gripe is personal and that I want moveable and pinnable menus a la Gravity Sketch(also excellent for on headset development for subdivision modeling). Bonus if you can pin them to your fov and not just the world. To your fov isn't hard if you're already using compositing layers for your 2d menus(you are using compositing layers right?)\n\nI think they've found a good compromise between corporate desktop usage for higher fidelity and complex models and an affordable on headset app for those interested in getting started in the industry.\n\nI suggest people serious about on headset development to also install Termux for git access. I believe we're at the start of a vr dev revolution here and shapelab is helping us get there.",
+      "date": 1741971771,
+      "review_helpful_count": 29,
+      "author_display_name": "Tabarnackle",
+      "author_alias": "Tabarnackle",
+      "developer_response": null
+    },
+    {
+      "id": "570382416167962",
+      "score": 5,
+      "review_title": "Best sculpting app on VR!",
+      "review_description": "I had no idea that it would work on my quest 2 too. Im happy now! Its not the full version but still great! I didnt want always to connect to my pc to sculpt so this lite version made it easier now to do it anywhere i want without cables. Freedom! When i want more features and details i will transfer my models to full pcvr version of the app.",
+      "date": 1745934180,
+      "review_helpful_count": 3,
+      "author_display_name": "Bilbag",
+      "author_alias": "Bilbag",
+      "developer_response": null
+    },
+    {
+      "id": "623386027521362",
+      "score": 5,
+      "review_title": "I'm thrilled!",
+      "review_description": "Recently, my powerful laptop burned out. I had been using ShapeLab Pro on it paired with VR Quest 3. Now that it's gone, I discovered that I can use ShapeLab Lite and still enjoy sculpting without needing a powerful laptop. Thanks for this release! The only thing I really miss is a Dynamesh/Remesh feature—would that be possible in ShapeLab Lite? For example, when pulling out tentacles that intersect, I'd love if they automatically merged into one shape, or at least to have a brush that smooths out and merges intersections, similar to how adding cubes, spheres, and other objects automatically merges intersections.",
+      "date": 1742480384,
+      "review_helpful_count": 7,
+      "author_display_name": "artofcharly",
+      "author_alias": "artofcharly",
+      "developer_response": null
+    },
+    {
+      "id": "1067474135396367",
+      "score": 5,
+      "review_title": "Just Amazing!",
+      "review_description": "What an incredible experience. This is my first dive into 3D modeling in any medium and I'm hooked. I'm just using a couple of the tools available and I can't wait to learn more about other tools and techniques. \nI would love to see a \"multiplayer\"(for lack of a better word)  option where I can work concurrently with another artist on a project. \nThank you for this devs. Truly appreciate your work.",
+      "date": 1741661696,
+      "review_helpful_count": 5,
+      "author_display_name": "Gwailo27",
+      "author_alias": "Gwailo27",
+      "developer_response": null
+    },
+    {
+      "id": "508868688986808",
+      "score": 5,
+      "review_title": "FINALLY! Direct downloading!",
+      "review_description": "Now we can finally download reference images DIRECTLY to the headset via the built-in browser. Total game changer. Saves time and frustration. Thanks guys! 👍🏿👍🏿",
+      "date": 1739720545,
+      "review_helpful_count": 12,
+      "author_display_name": "ThaRealPhauxx",
+      "author_alias": "ThaRealPhauxx",
+      "developer_response": null
+    },
+    {
+      "id": "975002181120183",
+      "score": 5,
+      "review_title": "Very good....but",
+      "review_description": "Great app for designing 3d shapes, but would love to see the ability to import images from web or PC to use as a guide to make models, can now only try and design things from your head, what I had to do is print out an image, pin it to the wall and use that with app in passthrough",
+      "date": 1733888487,
+      "review_helpful_count": 58,
+      "author_display_name": "henryhgy1956",
+      "author_alias": "henryhgy1956",
+      "developer_response": {
+        "body": "Hi there, \n\nThank you very much for your review and feedback! The good news is that you can import reference images to Shapelab Lite! You just have to connect your headset to the PC and save your images here: \nPC\\Quest\\Internal sharedstorage\\Android\\data\\com.leopoly.shapelab\\files\\ShapeLab and then in the app go to File menu and 'add image'. \n\nHappy sculpting!\nShapelab team",
+        "date": 1734688004
+      }
+    },
+    {
+      "id": "8716101245168272",
+      "score": 5,
+      "review_title": "THE DREAM REALIZED. THANK YOU",
+      "review_description": "I'm going to gush avout this. The idea of vr sculpting completely untethered to a PC has been a long standing dream. I love sculpting in VR. It provides a experience that a monitor cannot. I started with oculus medium(now adobes, sigh) and have used Kodon, and the full size Shapelabs. While they all have their strengths, the idea of a self contained ,robust app on the quest has been a long standing dream. Finally someone took up the challenge and delivered. It's not perfect but it is such a blast to sculpt while sitting on my couch. It's almost as featured as it's big brother on the PC.  With all that said, if anyone is listening in development, please hear my pleas on a couple of improvements. \n\n1. File management. \n\nI love that you can import and export  but I REALLY wish you could do it all on the device. Yes you can book it up to your PC and do drag and drop, but I would love a solution where I can download a model or reference image off the Meta's  default browser from online and load it into my workflow/scene.\n\n2. This will sound odd but one of the things I liked in Adobe Medium was the fact that when you pulled the trigger to activate a tool, there was a accompanying nose to kind of give you a feeling you were carving, molding etc.  I freaking loved that. Please bring that in the next update if possible.\n\nLOVE the app. Please keep developing",
+      "date": 1736444747,
+      "review_helpful_count": 8,
+      "author_display_name": "slappymchappy",
+      "author_alias": "slappymchappy",
+      "developer_response": null
+    },
+    {
+      "id": "587016904494263",
+      "score": 5,
+      "review_title": "Finally got to tryout",
+      "review_description": "I'm very new to shapelab VR and I like it. I downloaded it on my Meta quest 2, I had a blast! Hey is there any way I can import alpha brush and texture to my shapelab lite?",
+      "date": 1741560605,
+      "review_helpful_count": 1,
+      "author_display_name": "undead.donut.2024",
+      "author_alias": "undead.donut.2024",
+      "developer_response": {
+        "body": "Hey,\n\nThank you so much for your kind words!\n\nYou can use custom alphas for your brushes by following these steps:\n\n1. Open the brush settings panel.\n2. Navigate to the top right of the panel.\n3. Select the alpha icon/preview.\n4. This will open a flyout panel where you can choose from prebuilt alphas or press the \"Add\" button to import a custom one. (Please update Shapelab, because we just pushed out a new version that fixes the issue of some folders not appearing here)\n\nHowever, classic texture mapping is not currently supported. Upon export, you can choose to convert your (vertex) paints to textures.\n\nFeel free to reach out to us at support@shapelabvr.com if you have any additional questions or comments!\n\nKind regards,\nDaniel",
+        "date": 1741944162
+      }
+    },
+    {
+      "id": "934641845212126",
+      "score": 5,
+      "review_title": "Real 3D modeling",
+      "review_description": "Gravity sketch does some things. Shapes XR does some things. But there are things neither of those apps do -mainly, 3D sculpting. This App ... It's the 3D sculpting app for VR, which was sorely needed.\n\nMy hat goes off to the devs who clearly put a huge amount of work in porting it from PC to VR. Art nerds all over earth thank you from the deepest parts inside ourselves.",
+      "date": 1733115687,
+      "review_helpful_count": 19,
+      "author_display_name": "muraldoctor",
+      "author_alias": "muraldoctor",
+      "developer_response": null
+    },
+    {
+      "id": "3342229795908342",
+      "score": 5,
+      "review_title": "Very capable, excellent value",
+      "review_description": "I've enjoyed the PCVR version and use it for modeling, and repairing models, that I 3D print.\nIt is a highly valued part of my toolkit and it was a no brainer for me to pick up the standalone version, the price is extremely friendly, especially given the power made so accessible in this VR application.\nThe developers deserve much respect for pulling this off on a standalone device.\nThe app comes with an assortment of premade components, like wings, gears, and human base figures, that can be bashed together and used to really speed up blocking in a sculpt. \nReference images and 3D models can be loaded in with wired connection to computer without much friction.\n\nI can recommend without reservations.",
+      "date": 1734787689,
+      "review_helpful_count": 6,
+      "author_display_name": "RazorSquirrel",
+      "author_alias": "RazorSquirrel",
+      "developer_response": null
+    },
+    {
+      "id": "1167496755050671",
+      "score": 4,
+      "review_title": "It's okay, but not enough in this form",
+      "review_description": "It's much like Blender rather than ZBrush imo. It's okay, but not enough.",
+      "date": 1750448525,
+      "review_helpful_count": 0,
+      "author_display_name": "bernabi",
+      "author_alias": "bernabi",
+      "developer_response": null
+    },
+    {
+      "id": "943336584523026",
+      "score": 5,
+      "review_title": "the best vr sculpting app🤯❤️",
+      "review_description": "This is hands-down is the best VR sculpting app on standalone vr.  ￼ I have been using the software for years now on pcvr since early access days.  These devs outpaced all the vr sculpting apps with substantial updates and UI tweaks over the years.  I can’t tell you how excited I was to find out a form of it had finally made it here.  So far even though it says it’s a light version. It feels like it’s 90% of it or more pcvr version.  The one thing it has over its PCVR version is the built-in mixed reality over the virtual desktop green screen method for mixed reality.",
+      "date": 1732788106,
+      "review_helpful_count": 27,
+      "author_display_name": "FlowGadget",
+      "author_alias": "FlowGadget",
+      "developer_response": null
+    },
+    {
+      "id": "1158408192336354",
+      "score": 5,
+      "review_title": "Absolutely amazing",
+      "review_description": "So I’m by no means a professional with 3d modeling. However,I have played with it a decent bit over the years and this has been one of the easiest to use. The tools are very intuitive/easy to use. While there’s not as many tools as say blender, the tools that are present do a lot. I plant on using this to make base models then finish them in blender. 10/10 would recommend.",
+      "date": 1736907185,
+      "review_helpful_count": 1,
+      "author_display_name": "Kamazuki",
+      "author_alias": "Kamazuki",
+      "developer_response": null
+    },
+    {
+      "id": "1726854941207947",
+      "score": 5,
+      "review_title": "Shapelab absolutely slaps",
+      "review_description": "I'm not a professional, just someone who has owned different standalone VR headset over the years and who has wanted to play around with clay like modelling in vr. I've tried a bunch of apps previously; shapesxr, gravity sketch, scultprvr. None of them ever felt quite like what I was looking for.\n\nShapelab is what I've been looking for. It just looks and *feels* like what I'd always envisioned a clay modelling app being like in vr. My few minutes in shapelab has already been a better experience than hours in those other apps.\n\nIf you've felt unsatisfied with the other 3d modelling apps on quest like me, this one is worth a go. It immediately hit the spot for me.\n\nOne point of feedback:\nWhile I'm sure all the depth offered this app is really useful for professionals, I think it can also be overwhelming for beginners. It would be nice to be able to activate a simplified UI, which takes away all these menus and buttons. One that just lets you use a colour selector for the painter, or a shape selector for the stamp and hide the rest. Just a thought.",
+      "date": 1733446859,
+      "review_helpful_count": 6,
+      "author_display_name": "Phedg1",
+      "author_alias": "Phedg1",
+      "developer_response": null
+    },
+    {
+      "id": "9074285602594554",
+      "score": 4,
+      "review_title": "Brilliant App But Not Yet Complete",
+      "review_description": "This is in Early Access, so hopefully my review will be out of date soon.\n\nFirstly on the sculpting side of things this app is great, the smoothest sculpting experience I've had in VR, generally much easier then using a PCVR via WiFi to my Quest and it just simply works.\n\nThe limitations are on loading/sharing files, I'm not sure where it saves/loads files and ATM it seems totally isolated from any other system I use. Ideally for me it would integrate with OneDrive so I can easily move images and models back and forth between my PC (using Blender, Solidworks and GIMP) so I can integrate this as part of my 3D design workflow. Likewise integrating with a web browser to load in images and maybe sketch up would be great features.\n\nUntil then this is more of a game for me to practice my sculpting, and for the price it's frankly worth it for that alone.",
+      "date": 1734884124,
+      "review_helpful_count": 2,
+      "author_display_name": "Xander_Lawford",
+      "author_alias": "Xander_Lawford",
+      "developer_response": {
+        "body": "Thank you for your kind words! Here is an article that explains how transferring files between the headset and the PC currently works: https://leopoly.atlassian.net/servicedesk/customer/portal/3/article/599490561\nAs you also pointed out, Shapelab Lite is still in early access and we are working on a better solution for file management, so stay tuned!\n\nBest,\nShapelab team",
+        "date": 1736344558
+      }
+    },
+    {
+      "id": "1771528640274348",
+      "score": 5,
+      "review_title": "Shape Your World!",
+      "review_description": "If you've ever dreamed of becoming a 3D artist, this is your sign. Shapelab has arrived, and it’s everything I hoped for.....and more!\n\nAs someone familiar with Gravity Sketch, transitioning to Shapelab’s UI felt natural, like picking up where you left off with an old friend. But here’s the kicker: Shapelab doesn’t just excel in 3D Sculpting; it brings sculpting to the forefront, giving you the freedom to mold and shape with an artistry that feels more like clay in your hands than polygons on a screen. It’s the perfect balance of structure and creativity—a playground for anyone who wants the fluidity of sculpting rather than modeling.\n\nWhether you’re a seasoned pro or a curious newbie, Shapelab is the app that transforms “I wish I could…” into “I just did.” Dive in and start shaping!",
+      "date": 1733312939,
+      "review_helpful_count": 4,
+      "author_display_name": "Missingbyte",
+      "author_alias": "Missingbyte",
+      "developer_response": null
+    },
+    {
+      "id": "1629061404697309",
+      "score": 5,
+      "review_title": "Best I have used",
+      "review_description": "I am a 3d sculptor i normally use nomad sculpt this is awesome I love the ease of use but... I wish there were more brushes or a way to import them but we will see where this goes. I hope yall continue to work with it. Good job guys",
+      "date": 1734990151,
+      "review_helpful_count": 3,
+      "author_display_name": "jedilight32",
+      "author_alias": "jedilight32",
+      "developer_response": null
+    },
+    {
+      "id": "3545287412446829",
+      "score": 5,
+      "review_title": "Zbrush for VR",
+      "review_description": "I have been using Shapelab on the pc for a while now, so the second I heard that it had come to quest I spent no time getting the lite version. This is great and fills a gap in the stand alone market. Now I can go between pc and stand alone vr while working on a creation. For 3D artist this is a cool portable app. I wonder if they are going add support for the MX Ink pen.",
+      "date": 1733004946,
+      "review_helpful_count": 6,
+      "author_display_name": "Wraith2021",
+      "author_alias": "Wraith2021",
+      "developer_response": null
+    },
+    {
+      "id": "9118199068219784",
+      "score": 5,
+      "review_title": "Already a Contender",
+      "review_description": "Even in this early release mode, this is a powerful and well constructed piece of software, with consistently excellent performance and results.  That power comes with a learning curve, but will reward you for it.\n\nLooking forward to additional growth and improvement, such as reference images and better file management (which both pertain to how the Quest manages and constrains file  permissions as well).  I'm also making use of seamless multitasking for reference and video for now.",
+      "date": 1733685887,
+      "review_helpful_count": 1,
+      "author_display_name": "ptom",
+      "author_alias": "ptom",
+      "developer_response": null
+    },
+    {
+      "id": "1308459023935140",
+      "score": 5,
+      "review_title": "BEST VR SCULPTING APP!",
+      "review_description": "I am so happy to see a Lite version released for the stand-alone headsets. I have using Shapelab for a couple years and it is a very easy, yet very sophisticated application for 3d modeling",
+      "date": 1734379737,
+      "review_helpful_count": 1,
+      "author_display_name": "atlasrediscovered",
+      "author_alias": "atlasrediscovered",
+      "developer_response": null
+    },
+    {
+      "id": "622166183471197",
+      "score": 5,
+      "review_title": "EXCELLENT experience 😁😁😁",
+      "review_description": "I wish I could give more than 5 stars. I’ve been waiting for a good VR sculpting app for ages. This takes the cake!!",
+      "date": 1734368416,
+      "review_helpful_count": 1,
+      "author_display_name": "ansonpavlov",
+      "author_alias": "ansonpavlov",
+      "developer_response": null
+    },
+    {
+      "id": "3946506882285014",
+      "score": 4,
+      "review_title": "Wonderful, with notes...",
+      "review_description": "By far the best sculpting app native to quest. Kudos! However, the import feature, which is essential, is broken. Having to connect to a PC to place a downloaded image or STL just won't do imo. We should really be able to import from the downloads folder and keep it all inside the headset.",
+      "date": 1735652507,
+      "review_helpful_count": 1,
+      "author_display_name": "francoispa",
+      "author_alias": "francoispa",
+      "developer_response": {
+        "body": "Thank you for the feedback, we appreciate the kind words! We know that currently, file management is not ideal. The good news is that we are working on improving it. Stay tuned!",
+        "date": 1736345038
+      }
+    },
+    {
+      "id": "2803208786553913",
+      "score": 5,
+      "review_title": "Awesome App!!!",
+      "review_description": "This is App is awesome! Finally something that is useful for work with a standalone Quest3. When first opening the in-app Explorer of Shapelab Lite a message will pop up and ask for permission to access files. If you do not allow access you won't be able to load external files copied from you PC just won't show up. Seems like first time I missed it or it wasn't there therefore I had problems importing 3d files into Shapelab Lite but now it's working perfectly! Thanks guys, great job! \n\nPS. Maybe for next update, we can get access to network via SMB etc. to load files more easily without connecting Quest3 to PC. Just a thought ;-)",
+      "date": 1738331895,
+      "review_helpful_count": 2,
+      "author_display_name": "S4mstr03m",
+      "author_alias": "S4mstr03m",
+      "developer_response": {
+        "body": "Thank you for reporting this! Which folder is Shapelab unable to read files from? Did you manage to grant Shapelab file access? Were you able to reach the folder within Shapelab using its in-app file browser? Could you please email us your responses at support@shapelabvr.com? Thank you very much!\n\nDaniel",
+        "date": 1738062763
+      }
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-20T14:10:30Z"
+}
