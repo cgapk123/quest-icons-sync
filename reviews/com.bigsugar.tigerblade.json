@@ -1,0 +1,458 @@
+{
+  "app_id": "4741795092599205",
+  "package_name": "com.bigsugar.tigerblade",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Tiger Blade",
+  "rating_average": 4.4461538461538,
+  "rating_count": 65,
+  "review_count": 33,
+  "reviews": [
+    {
+      "id": "1069454735171512",
+      "score": 5,
+      "review_title": "Solid game.",
+      "review_description": "Just wanted to add my 5 stars. This one I will keep. Fast paced, satisfying combat. Mix of pistol whip and ninja legends.\n\nGraphics are pretty low def, but ok. I care about frame rate (no stutters in this game!) so that's a fair trade. On the Q3 the textures seem very washed out.\n\nThe only gameplay gripe is there is no indication of where enemies are coming from so you just have to learn the levels.\n\nAlso, I suspect the game will lose interest after a few playthroughs unless some options to randomize enemies are added. The challenges may help keep it fresh if they keep changing. \n\nKeep up the good work!",
+      "date": 1753499133,
+      "review_helpful_count": 9,
+      "author_display_name": "jack.pants",
+      "author_alias": "jack.pants",
+      "developer_response": null
+    },
+    {
+      "id": "705678975951100",
+      "score": 3,
+      "review_title": "",
+      "review_description": "This game is excellent it's a must buy only thing is on the elevator stage I belive the game freezes but iam hopeing the game developer shor out the issue for me then I will rate it 5 star",
+      "date": 1748210311,
+      "review_helpful_count": 1,
+      "author_display_name": "Giant123",
+      "author_alias": "Giant123",
+      "developer_response": {
+        "body": "Hi Giant123 ! Thanks for playing Tiger Blade, we're happy to see you're having so much fun with it. Could you please elaborate on the bug you're encountering? We've never had a report about anything similar before. Feel free to reach out to us on our Discord. https://discord.gg/mFX6Rrea",
+        "date": 1748266165
+      }
+    },
+    {
+      "id": "9658421704187907",
+      "score": 4,
+      "review_title": "Feels like modern Time Crisis!",
+      "review_description": "Feels *great* once you get a feel for the flow of combat and movement. The soundtrack is *sick* and adds a ton of extra 'something' to the feel of blocking bullets, firing off a few shots in return, and then blocking and slicing your way through a line of sword fighters.\n\nThis game rocks.\n\n--edit: reply to dev question about things that could be improved for a 5-star rating-- \n\nThe flow of combat is already fun enough to keep replaying the game, but it could be improved by adding an on-screen indicator guiding them towards 'the action' whenever:\n\nA) the player is facing away from an enemy about to fire a blockable 'red' bullet\nor\nB) the player isn't facing enemies, but enemies are alive in the area\nor \nC) the player isn't facing the 'go to next area' marker.\n\nMaybe the indicator would be an small marker at the edge of the player's view pointing in the right direction.\n\nAt the moment, the flow of combat feels like it slows down when I have to stop and look all around to search for live enemies or an 'go forward' item to grapple onto, or a box to slash.\n\nAnother, but much smaller issue: I think parts where the player needs to use the sword to slash a box (or series of boxes) placed in the middle of their path in odd spots (like in the train station) feel slightly awkward and might be better as 'shoot to advance' targets -- maybe just floating semi-transparent 'shoot to move forward' arrows floating in the air might work -- as if the player were wearing AR glasses to help them navigate.",
+      "date": 1736292262,
+      "review_helpful_count": 8,
+      "author_display_name": "JP.Saak",
+      "author_alias": "JP.Saak",
+      "developer_response": {
+        "body": "Hello JP.Saak,\n\nThank you so much for playing and for the Time Crisis comparison—it was a key inspiration for us, so hearing that from players like you means a lot! We’re thrilled that you’re enjoying the flow and our original soundtrack (which is available on all streaming platforms ).\n\nIs there anything we can do to make this a 5-star experience for you? Your feedback is incredibly valuable to us!\n\nedit - responding\nThank you for your thoughtful feedback! It’s clear you understand game design well, and we appreciate your ideas.\n\nWe did test an on-screen indicator early on but found it intrusive, harming immersion. Instead, we designed shooters to stay “inactive” (firing harmless bullets) until they’re in your field of view, encouraging players to learn patterns as levels are short enough for trial and error.\n\nThe “Slash n Dash” rule—moving only with the sword—is fundamental, though we agree some obstacles can feel a bit awkward. We’re exploring ways to refine these moments.",
+        "date": 1736785472
+      }
+    },
+    {
+      "id": "1098815878680828",
+      "score": 5,
+      "review_title": "Excellent jeu",
+      "review_description": "Fun fun fun !\nMarco",
+      "date": 1743443173,
+      "review_helpful_count": 1,
+      "author_display_name": "Caribooster",
+      "author_alias": "Caribooster",
+      "developer_response": {
+        "body": "Merci beaucoup, Marco !",
+        "date": 1744200766
+      }
+    },
+    {
+      "id": "605232805765674",
+      "score": 5,
+      "review_title": "Super fun!!",
+      "review_description": "I expected this to be nothing special but... I admit I'm enjoying it A LOT!! It's very fun, just what I was looking for arcade action. Very recommended!!!",
+      "date": 1739814896,
+      "review_helpful_count": 1,
+      "author_display_name": "Pepelandia123",
+      "author_alias": "Pepelandia123",
+      "developer_response": {
+        "body": "Thank you very much, Pepelandia123!",
+        "date": 1739978440
+      }
+    },
+    {
+      "id": "579266185031711",
+      "score": 4,
+      "review_title": "Unifinishable",
+      "review_description": "The game was a fun enough implementation of rails shooter mechanics until I reached the train, I cannot bend low enough to dodge. As such I'm forced to give this 3 stars as I could not find a workaround.",
+      "date": 1736865916,
+      "review_helpful_count": 1,
+      "author_display_name": "SorcerorDash",
+      "author_alias": "SorcerorDash",
+      "developer_response": {
+        "body": "Hello SorcerorDash!\n\nThank you so much for your review and for diving deep into the game! Are you finding the section on top of the train tricky? You need to dodge like a low squat to the left and right. Some obstacles will also require you to shoot them. Please give it another try, the final levels are worth it! :D\n\nIf you need more help, feel free to reach out to us at hello at ikimasho dot games or join our Discord community here: https://discord.gg/XD9w3GukAX. I’d be happy to create a video walkthrough for you!",
+        "date": 1736154055
+      }
+    },
+    {
+      "id": "1410223853311171",
+      "score": 5,
+      "review_title": "Barely into the game but WOW",
+      "review_description": "I loved Time Crisis growing up and this totally is pulling those feels back. I’m in love.",
+      "date": 1734877934,
+      "review_helpful_count": 4,
+      "author_display_name": "BakerBud",
+      "author_alias": "BakerBud",
+      "developer_response": {
+        "body": "Hello BakerBud!  \n\nThank you so much! Time Crisis was a huge inspiration for us and a standout from my childhood, so hearing that comparison from players like you truly means a lot.\n\nHave fun! And see you on our Discord https://discord.gg/XD9w3GukAX",
+        "date": 1736153936
+      }
+    },
+    {
+      "id": "482708191591296",
+      "score": 5,
+      "review_title": "A creative game",
+      "review_description": "I love how this game combine between aiming and swords I highly recommend to buy this game immediately",
+      "date": 1730661894,
+      "review_helpful_count": 5,
+      "author_display_name": "Twix.z",
+      "author_alias": "Twix.z",
+      "developer_response": {
+        "body": "Hey Twix.z, thank you for your review and for playing Tiger Blade! Great to read you're loving the game!",
+        "date": 1730708347
+      }
+    },
+    {
+      "id": "1202852697669745",
+      "score": 5,
+      "review_title": "Fast paced Arcade Action",
+      "review_description": "Had me sweating and was fun and challenging - good frame rate",
+      "date": 1728505002,
+      "review_helpful_count": 5,
+      "author_display_name": "cozel",
+      "author_alias": "cozel",
+      "developer_response": {
+        "body": "Hey cozel, thank you for your review. We're very happy you're having fun!",
+        "date": 1728898904
+      }
+    },
+    {
+      "id": "998778444956430",
+      "score": 5,
+      "review_title": "Is Tiger Blade worth it?",
+      "review_description": "Short answer is yes, hell yes! Tiger Blade does a lot right with it's bopping music, a fun but easy to approach hard to master arcade style action. High replay value and if taken seriously will leave you sweating and still shooting for a better score with the \"just one more time\" mindset the game provides.  High octane action at the flick of the wrist.",
+      "date": 1720192545,
+      "review_helpful_count": 25,
+      "author_display_name": "JuntaTheHero",
+      "author_alias": "JuntaTheHero",
+      "developer_response": {
+        "body": "Does your comment make us happy? Short answer is yes, hell yes! It's great to hear you're having fun with our game, thank you!\nDid you know our soundtrack is available on all streaming platforms? \nWe'd love to see you on our Discord to help shape the future of Tiger Blade https://discord.gg/XD9w3GukAX",
+        "date": 1720709058
+      }
+    },
+    {
+      "id": "1049264403293086",
+      "score": 2,
+      "review_title": "Bad Game Design",
+      "review_description": "A game in the vein of old-school light gun shooters with a twist. The player can switch between a pistol and a katana in his right hand which is necessary to beat different enemy types. Melee enemies can only be hit with the sword while enemies with guns can only be killed with the pistol. The katana can also be used to deflect enemy bullets. Holding down the trigger instantly switches between the katana and the pistol so there is no delay. There is a third tool, a grapple hook. This can be used to grab temporary shields and upgrades for the pistol. It is also often used to “move” to the next screen in a level. But there is no free movement here, everything is on rails. It’s basically a static surrounding, enemies spawn and when everyone is dead the player moves to the next segment.\n\nSo far so good. The problem with Tiger Blade is poor game design. Blocking or even dodging incoming bullets is inconsistent. Just like using the grapple hook which often does not work as intended. Everything in this game is super hectic and overloaded. Enemies spawn left and right from the player, often out of his vision and attack relentlessly. Another huge problem is that there is no indicator for what enemy will hit the player next. Old school light gun shooters had markers for that kind of stuff to let the player know what enemies they should shoot first. But the feature is absent in Tiger Blade. The balancing is a complete mess and often leads to frustration. I think the developers themselves recognized that, but instead of tuning the difficulty they just gave the player 10 lifes and frequent checkpoints within the stages. This leads to trial and error riddled game progression that hardly feels satisfying.\n\nAnother problem is the very short play-time. The game can be finished in under 2 hours. What’s left are highscore hunts. The story is nothing to write home about. At least the graphics are stylish and the soundtrack is good.",
+      "date": 1720702635,
+      "review_helpful_count": 19,
+      "author_display_name": "MrDeadshot",
+      "author_alias": "MrDeadshot",
+      "developer_response": {
+        "body": "Hi MrDeadshot,\n\nThank you for your detailed feedback on Tiger Blade. We appreciate your insights and commitment to helping us improve the game. It's awesome to hear you love the music. It's available on all streaming platforms and was #1 in Korea in the hip-hop category at launch. \n\n1. Blocking and Parrying: It might help to adjust your sword positioning, as holding it too close to your head can intersect with the head collider and register a hit rather than a parry.\n\n2. Enemy Indicators: Instead of traditional indicators, we implemented a feature where enemies who haven't been in your field of view shoot blanks until you look at them. This adds an extra layer of strategy and immersion.\n\n3. Difficulty and Skill: Tiger Blade is designed to challenge players and reward skill development. We understand this can be demanding, but you have unlimited retries to build the muscle memory and then smash through the levels at an incredibly satisfying pace. \n\n4. Game Length and Replayability: While the main campaign can be completed in under 2 hours, this aligns with the length of classic light gun shooters like Time Crisis, which can be completed in around 6 minutes if mastered. Chasing the 3 stars offers substantial replay value, as do the challenge levels. Have you tried them?\n\nThank you again for your feedback. We'd love to keep on chatting with you on our Discord https://discord.gg/XD9w3GukAX",
+        "date": 1720708833
+      }
+    },
+    {
+      "id": "1040961120718803",
+      "score": 5,
+      "review_title": "Korean time crisis type game",
+      "review_description": "Great game for what it does \nWould be great if it had bullet time slo mo to build up. And slow down time \nAnd have dismemberment when using swords.  Otherwise it’s really good",
+      "date": 1719715390,
+      "review_helpful_count": 2,
+      "author_display_name": "StormShadow612",
+      "author_alias": "StormShadow612",
+      "developer_response": {
+        "body": "Thank you, StormShadow612! \nThese are two ideas that we had and implemented! But bullet-time slo-mo broke the frenzy. And while we projected random body parts forward, the intensity forces your attention onto the next enemy, so it wasted performance we preferred to put elsewhere.  But please join our Discord to help shape the game's future! It seems like you have great ideas! https://discord.gg/XD9w3GukAX",
+        "date": 1719842794
+      }
+    },
+    {
+      "id": "1477319289804172",
+      "score": 5,
+      "review_title": "Pure Arcade Adrenaline!",
+      "review_description": "If you’re looking for a modern VR game with full locomotion and complex combat you’re going to be disappointed.\n\nIf you want a game that feels like it was ripped out of a 90’s arcade cabinet and tossed into VR with you in it, then you’ve likely found your next purchase.\n\nAt first I was slightly underwhelmed.  The graphics didn’t look quite as slick in the headset as they did in the trailer on the Meta app. I fumbled my way through the first level and still wasn’t blown away, but I was beginning to feel the old arcade magic shining through and flashbacks to arcade hits like Sega’s Virtua Cop started coming.\n\nAfter the second level I was totally hooked.\n\nIt’s a difficult game, so it’ll take me a while to get through the levels and a very long while before I can flow through them with style like the player in the trailer. There are three medals to earn in each level and when you get one, you really feel you’ve earned it.\n\nEvery jump to a new location gets the adrenaline pumping as you brace yourself from attacks that can come from anywhere.\n\nI even love the graphics now. The environments are extremely well crafted with a good sense of scale and great atmosphere.  The game runs as smooth as silk on the Quest 3.\n\nThe only other game on the Quest with similar vibes is Zombieland Headshot Fever. If you enjoyed that, you should definitely give Tiger Blade a try.\n\nI’m so glad there’s another old school arcade style game on the Quest!",
+      "date": 1713997896,
+      "review_helpful_count": 31,
+      "author_display_name": "Jioxx",
+      "author_alias": "Jioxx",
+      "developer_response": {
+        "body": "Thank you for taking the time to write such a comprehensive review. We're very glad you're having fun playing Tiger Blade! More is on the way!",
+        "date": 1714049624
+      }
+    },
+    {
+      "id": "813012050865259",
+      "score": 5,
+      "review_title": "Fast paced action",
+      "review_description": "This game is a ton of fun. It’s a “light gun” game for sure, so if you’re not a fan of arcade gun games and you’re looking for a first person shooter, this isn’t for you. What makes Tiger Blade unique is not only do you have a fun, you also have a katana blade and a grappling hook. Just imagine a game like Zombieland or Time Crisis with extra weapons, more interesting locomotion, and faster paced. Yes, the difficulty is high, it requires quick movement and fast reflexes, or at least the patience to become more skilled through practice. \n\nSo no, it’s not for everyone I guess but I love it.\n\nEdit: After playing more, I’m realizing just how much love was put into this game. These guys definitely know Korean culture. Everything from the music to the way the enemies use their swords to attack you shows a superb attention to detail.\n\nTo the devs: Thank you for responding to my questions and for being so active in general. The new update is great. I have a lot of faith in your team with good reason. Keep the content coming!!!",
+      "date": 1710423259,
+      "review_helpful_count": 28,
+      "author_display_name": "conradaxx",
+      "author_alias": "conradaxx",
+      "developer_response": null
+    },
+    {
+      "id": "980176050369930",
+      "score": 5,
+      "review_title": "Another good cardio workout",
+      "review_description": "After 30 minutes of playing this game, dodging bullets and slicing gangster Korean ninjas, I am drenched in sweat. The music is really good. They need a non-story workout mode that’s procedural. \n\nNo complaints on the shortness, since I will be playing this over and over for the cardio. The variety of workouts is what keeps me coming back to Quest and VR.",
+      "date": 1712295195,
+      "review_helpful_count": 5,
+      "author_display_name": "chaosthe0ry",
+      "author_alias": "chaosthe0ry",
+      "developer_response": {
+        "body": "Hello chaosthe0ry, great to hear you're loving the game and the workout! More exercises are on the way!",
+        "date": 1712400619
+      }
+    },
+    {
+      "id": "7209504989084519",
+      "score": 5,
+      "review_title": "Slashing/shooting challenge fun",
+      "review_description": "This game is fire. Its got an awesome soundtrack, and its really meant to be replayed. This is more a easy to get into game, but hard to master that is for people who like to see how fast they can run through the leaderboard. \n\nIts for sure easy enough this is a cool party game that you can show your friends. Its got totally arcade cabinent type vibes. \n\nIts got enough of a campaign to keep people hooked and the level design is crisp and clean. The dodging is a bit different than what you might expect, and the blade angle to block bullets is more narrow, but the ability to fine tune this and learn is also I think leads into the replayability for this game. \n\nDefinitely check this out if you like music/rhythm action games for the Quest and are looking for something new in this genre.",
+      "date": 1708953994,
+      "review_helpful_count": 52,
+      "author_display_name": "thearecade",
+      "author_alias": "thearecade",
+      "developer_response": null
+    },
+    {
+      "id": "958886752299061",
+      "score": 5,
+      "review_title": "Exhilarating Gameplay!!",
+      "review_description": "I really want to give this 5 stars but the game is way too short. First off, it takes a bit to get used to the controls but once you get the feel for it the gameplay loop is so fun, addictive and makes you feel like a bada**!! I am definitely going back to do the challenges and get 3 stars in each level.\n\nHoping the devs continue updating this game. If they add more content (levels, enemy types and weapons) then this is easily a 5 star game. Currently, it took me 2.5 hours to beat the whole game (10 levels) which includes dying a boat load of times. \n\nGreat job devs, please keep updating the game!!!\n\nEdit: Played the two levels from the challenges #1 update. I loved the first level where you only have 1 life and have to survive to the end. The first level was the right amount of challenge and that made it fun and rewarding when you beat it. I liked the first level better than the second gun range level. But using those guns the whole time in the second level was a great time!!\n\nEdit: They have added 4 new levels since my original review and continue to add more. I updated my review to 5 stars and look forward to each update!! This game is too addicting and each new level is crafted so well!!!",
+      "date": 1709953085,
+      "review_helpful_count": 53,
+      "author_display_name": "vik.sharma.12",
+      "author_alias": "vik.sharma.12",
+      "developer_response": {
+        "body": "Thank you very much for your continued enthusiasm! There's more coming!",
+        "date": 1709986483
+      }
+    },
+    {
+      "id": "2339129829611390",
+      "score": 5,
+      "review_title": "Tiger Blade",
+      "review_description": "Fantastic game!  Tiger blade is a rush!!  Love playing this game.  #1 in its genre, in my opinion.",
+      "date": 1716170441,
+      "review_helpful_count": 1,
+      "author_display_name": "solvangman805",
+      "author_alias": "solvangman805",
+      "developer_response": {
+        "body": "Thank you, solvangman805! We're very glad to read you're enjoying Tiger Blade! Feel free to join our Discord to help shape the game's future. More is on its way! https://discord.gg/XD9w3GukAX",
+        "date": 1719842565
+      }
+    },
+    {
+      "id": "448412391008551",
+      "score": 5,
+      "review_title": "(edit) I got it working now",
+      "review_description": "I finally got my game to work and I am happy to say that it is a fantastic game. I have played it and multiple times I have gotten top 20 in the world",
+      "date": 1721918924,
+      "review_helpful_count": 1,
+      "author_display_name": "Buster45661",
+      "author_alias": "Buster45661",
+      "developer_response": {
+        "body": "Hello. Did it eventually work?",
+        "date": 1721896826
+      }
+    },
+    {
+      "id": "2169241050098901",
+      "score": 4,
+      "review_title": "Great game but 1 issue...",
+      "review_description": "Love this game however since the most recent update, it seems one of the levels is broken...Unless it's just me, during the level with the falling elevator, the game freezes. Anyone else experiencing this?",
+      "date": 1712111680,
+      "review_helpful_count": 1,
+      "author_display_name": "gandalfstormcrow123",
+      "author_alias": "gandalfstormcrow123",
+      "developer_response": {
+        "body": "Hi there, GandalfStormCrow123! It's fantastic to know you're enjoying the game. We've addressed the concern you mentioned, and we appreciate you bringing it to our attention. If it solved your problem, could we kindly ask you to review your score up to 5 stars? It helps us tremendously with sales. Looking forward to seeing you climb the leaderboards!",
+        "date": 1713340749
+      }
+    },
+    {
+      "id": "1311979436858863",
+      "score": 5,
+      "review_title": "Samurai blow down ur enemy with a.45",
+      "review_description": "This is samurai showdown meets time crisis meets a jet li movie in vr Brah if u like busting guns and swinging swords like in kill Bill. Just do it do it. Do it like starsky and hutch.",
+      "date": 1708825005,
+      "review_helpful_count": 2,
+      "author_display_name": "SPiLLa_Da_DRiLLa",
+      "author_alias": "SPiLLa_Da_DRiLLa",
+      "developer_response": {
+        "body": "Hey SPiLLa_Da_DRiLLa! You're spotting quite a few references that inspired the TIGER BLADE!! We're very glad you're having fun! Please join our Discord so you can help shape the game's future: https://discord.gg/XD9w3GukAX",
+        "date": 1708858072
+      }
+    },
+    {
+      "id": "385485304373896",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Fantastic game !!! Fantastic  Team!!!!❤️❤️❤️",
+      "date": 1711491155,
+      "review_helpful_count": 0,
+      "author_display_name": "S.e.x.Y",
+      "author_alias": "S.e.x.Y",
+      "developer_response": null
+    },
+    {
+      "id": "914055847168385",
+      "score": 4,
+      "review_title": "I love it",
+      "review_description": "One of the best arcade shooters on quest it's fun and addictive, the only thing I would like to see are more levels more guns and more beats added to the soundtrack of the game and height adjustment for sitting position. Also more pattern based boss battles, akimbo guns and swords would be sweet! If we can get more ill add another star!",
+      "date": 1711409352,
+      "review_helpful_count": 0,
+      "author_display_name": "Darien-Jordan",
+      "author_alias": "Darien-Jordan",
+      "developer_response": {
+        "body": "Hello Darien-Jordan! \n\nThank you for diving into the world of Tiger Blade and sharing your enthusiasm! We're thrilled to see how much you're enjoying it. \n\nWe're fully committed to continually enhancing your experience by adding new levels and content to Tiger Blade. This marks our third free update in just 30 days, showcasing our dedication to providing a diverse range of gameplay options.\n\nWhile expanding our song selection might be challenging due to the intricacies of the process spanning multiple continents and countries, we're proud to offer 9 original tracks and 1 licensed track from some of Korea's top hip-hop artists, available on all major streaming platforms. Personally, I often find our OST perfect for my workouts. \n\nYour feedback about adjustments for the sitting position is noted, and we'll explore ways to address it. \n\nWe hope you'll consider revising your score upward to inspire more players to join the fun on the leaderboards! \n\nDon't forget to join us on Discord to contribute your ideas and shape the future of Tiger Blade: https://discord.gg/XD9w3GukAX",
+        "date": 1711832832
+      }
+    },
+    {
+      "id": "491078414088346",
+      "score": 5,
+      "review_title": "Language",
+      "review_description": "I screwed up and chose the wrong language.  I have uninstalled it and tried researching how to fix this but no clue! Can you help???",
+      "date": 1733256909,
+      "review_helpful_count": 1,
+      "author_display_name": "Crazybirdlady0306",
+      "author_alias": "Crazybirdlady0306",
+      "developer_response": {
+        "body": "Hi Crazybirdlady0306,\nGlad we could solve your issue, and hope you're having fun playing Tiger Blade!",
+        "date": 1733306978
+      }
+    },
+    {
+      "id": "429327872940162",
+      "score": 5,
+      "review_title": "Fun action!",
+      "review_description": "Read below for a special tip!\n\nTiger Blade on Quest 3 is a thrilling virtual reality experience that truly embodies the essence of being an action hero. Drawing inspiration from iconic titles like Time Crisis, it delivers heart-pounding action scenes that leave players feeling unstoppable. With its atypical approach to gameplay, the game manages to elevate excitement levels without relying on tired conventions, offering an adrenaline-fueled adventure that keeps players on the edge of their seats.\n\nSet in an intricately crafted alternate Korea, Tiger Blade immerses players in a world of visceral power struggles and neo-noir intrigue. As they battle through the nation's most formidable gang, players are fully immersed in a captivating narrative that makes them feel like true Korean assassins. The game's emphasis on replayability, with features like online leaderboards and speedrunning, ensures that the excitement never wanes, providing endless opportunities for skill improvement and mastery.\n\nBacked by an epic soundtrack featuring Korean hip-hop superstars, Tiger Blade delivers an intense and immersive experience from start to finish. With its exhilarating gameplay, immersive world-building, and killer soundtrack, it's a must-play for anyone seeking to unleash their inner action hero in virtual reality. Don't miss out on the chance to dive into the mayhem and emerge as the ultimate baddy in Tiger Blade on Quest 3.\n\nSave a bit and try this game now!\n\nB1t.1y slash tigerblade",
+      "date": 1708623228,
+      "review_helpful_count": 3,
+      "author_display_name": "xiangaru",
+      "author_alias": "xiangaru",
+      "developer_response": null
+    },
+    {
+      "id": "419222330558895",
+      "score": 5,
+      "review_title": "Tiger blade",
+      "review_description": "b i t , l y / t i g e r b l a d e v r\n\nVery cool game! Saw some negative reviews about the ps5 version so I was hesitant, but this game is slick. Way better than under cover. Different from your average time crisis style game because of the sword play.",
+      "date": 1708641050,
+      "review_helpful_count": 1,
+      "author_display_name": "R0binG00dfell0",
+      "author_alias": "R0binG00dfell0",
+      "developer_response": {
+        "body": "Hello R0binG00dfell0! Thank you so much for your review and your enthusiasm for TIGER BLADE!\nPlease consider joining our Discord so you can help shape the game's future: https://discord.gg/XD9w3GukAX",
+        "date": 1708686606
+      }
+    },
+    {
+      "id": "417018290869380",
+      "score": 3,
+      "review_title": "Big mhe.. need smooth turning",
+      "review_description": "No smooth turning is equivalent to mapping X on a controller to shoot instead of the trigger. The kind of thing ANYONE alive in the VR video game scene, or VR dev scene would tell you in less than 3sec of play and still make the choice of go 2016 tech demo feel. And you keep bringing up better game from almost a decade ago asking people why do they expect more? \n\nTell me \"i got a cool idea in 2016 and now in 2024 after the game come out, people expect a game from the current gen? Nonsense they should give me money, i did a copy paste with cool drawings of ninja pistol whip and they are like in a game from the Arcade age, tower defense practically the best concept ever... people should give me their money because the game is playable, AAA cie do that all the time, its not wrong.\"\n\nWithout saying it.... sorry got a bit carried away with the \"sentence\" \n\nI was about to refund it but waited instead because its \"kindda working\" and maybe with polish, maybe something like Crossfire Sierra Squad can happen again... mhe games can be improved, i \"believe\" lol... gonna wait to see if some polish happens, but with a comparison with Stride:Fates .. wich is also mhe, but mhe worth the money, with a full campain and effort behind it, also, you know, you can move and turn in that game.",
+      "date": 1708790473,
+      "review_helpful_count": 4,
+      "author_display_name": "Raz-R",
+      "author_alias": "Raz-R",
+      "developer_response": {
+        "body": "Hey Raz-R. We heard you loud and clear: we updated Tiger Blade with smooth turning, new levels (and more coming soon), increased resolution, and crisper game-feel. \nLet us know what you think! Join our Discord: https://discord.gg/XD9w3GukAX",
+        "date": 1709997293
+      }
+    },
+    {
+      "id": "413933091129932",
+      "score": 5,
+      "review_title": "Awesome af and got the beats to match",
+      "review_description": "Needs smooth turning but besides that it's awesome. I really hope there's more than 10 levels tho. And if you'd let ppl walk or run it would be awesome I hate not being able to move my character but with this game it works. All and all good job I hope yous add more content and smooth turning. Keep up the good work and hope to see more games from yous.\n\nSincerely a gamer with over 150 vr titles.\n\nUpdate- Its awesome and yous added smooth turning but I need it on the OTHER hand lol but I love the tiger coins you added and I love the music like I said keep up the good work. I'll try to adapt to the turning on the other hand but if you could find a way to add the option to flip the tuning on the controllers that would be perfect thanks guys.",
+      "date": 1710013642,
+      "review_helpful_count": 3,
+      "author_display_name": "Bacon_Potato_OG",
+      "author_alias": "Bacon_Potato_OG",
+      "developer_response": null
+    },
+    {
+      "id": "289023670952473",
+      "score": 5,
+      "review_title": "Tiger blade",
+      "review_description": "Tiger blad is amazing i gave it a 9 it is a amazing game i really like it",
+      "date": 1711756725,
+      "review_helpful_count": 0,
+      "author_display_name": "mook.in.vr.2024",
+      "author_alias": "mook.in.vr.2024",
+      "developer_response": {
+        "body": "Thank you, mook.in.vr.2024! Join our Discord to help us shape the future of TIGER BLADE: https://discord.gg/XD9w3GukAX \nAnd tell your friends ^^",
+        "date": 1711832821
+      }
+    },
+    {
+      "id": "253938394470053",
+      "score": 1,
+      "review_title": "Spinning glitch bug",
+      "review_description": "Whenever I play I randomly start spinning in circles, not from the turn function, sometimes slow sometimes fast, I randomly start spinning uncontrollably and it’s not only making me dizzy, but also ruining the game for me. Can’t rely on the devs to fix it either because apparently no matter where I look I can’t find ANYONE with the same issue so it’s just me.",
+      "date": 1714841292,
+      "review_helpful_count": 2,
+      "author_display_name": "JordanFiften559",
+      "author_alias": "JordanFiften559",
+      "developer_response": {
+        "body": "Hello JordanFiften559, did the updates fix your issue?",
+        "date": 1731927058
+      }
+    },
+    {
+      "id": "243192695547634",
+      "score": 4,
+      "review_title": "Updated Review with Original Review Belo",
+      "review_description": "Updated Review with Original Review Below\n\nI think what I said stands in some way but since writing this review I played tiger blade on a Quest 3 instead of a 2 and I thought that was worth mentioning because it was a night and day experience. \n\nThere was a noticeable difference in performance and overall feeling of tightness. I breezed through some areas that were incredibly frustrating on my Quest 2. I would highly encourage the dev to spend some time play testing on the Quest 2 if they haven't. The change in quality was dramatic for me which is not something I'd expect for what amounts to a rail shooter/rythym game. On the Quest 3 I would give this game 4 starts instead of 2. I think on the Quest 2 my 2 star reviews stands though.\n------------------------------------\nIt's an interesting concept but the execution feels off. The sword play is good but the pistol and the deflection mechanics are kind of meh. It feels more like it should be in an old school arcade that's asking you for quarters than a game you buy outright. \n\nThere is a lot of potential here but I don't feel the game was fleshed out enough and especially after playing the first boss it feels like there is a lack of depth to some of the combat encounters. You're either fast, lucky, or more likely fast and lucky or dead. There are definitely games that lean into that but this one feels like it's just beating on you till you happen to get lucky enough with the deflect ability. Maybe I am missing something though.\n\nIt's an amazing concept though and I love the potential. I am not sure if I am going to keep it or not yet. I might refund and try it again in a year to see how the game has progressed/changed. It really is such a good concept and the gameplay loop is amazing in some ways. It just also feels really rough and overall a very short experience(absent the time you spend repeating things because you died.)",
+      "date": 1709577918,
+      "review_helpful_count": 3,
+      "author_display_name": "BiggerFrog",
+      "author_alias": "BiggerFrog",
+      "developer_response": null
+    },
+    {
+      "id": "239875232543605",
+      "score": 2,
+      "review_title": "",
+      "review_description": "This game is mid ngl i thought it would have walking features like super hot sorta thing but its like a cinematic movie basically i was hoping it would be something like ghost runner but oh well had high hopes for this game",
+      "date": 1708640515,
+      "review_helpful_count": 10,
+      "author_display_name": "XitsnotjoshX",
+      "author_alias": "XitsnotjoshX",
+      "developer_response": {
+        "body": "Hello XitsnotjoshX\n\nThank you for playing TIGER BLADE and for your review! \n\nHave you played our latest update? We added more levels, smooth turning, increased resolution, and made gamefeel crisper. \n\nTIGER BLADE is pure action. Its core feature is Slash’n Dash: with each killing blow, you dash forward to the next action scene, making you feel like you are an uber-powerful assassin jumping from one prey to the next. We constantly keep you in the action with few moments to catch your breath. \n\nAnd hey, ever noticed Superhot lacks a walking feature?\n\nPlease join our Discord so you can help share the future of TIGER BLADE: https://discord.gg/XD9w3GukAX",
+        "date": 1709317692
+      }
+    },
+    {
+      "id": "238323212707017",
+      "score": 3,
+      "review_title": "Not for me",
+      "review_description": "The game looks, sounds and plays well for what they were trying to make it.  I just don't care for it myself.  It really is a Time Crisis type game, except combined with a God of War type hit the buttons or block at the right time kindof thing, and you have to be in charge of your own locomotion even though its on rails and only moves forward.  Since the game looks so good and plays well, I wish it was more of a free movement game, battling ninjas to progress.  I would've preferred a more Soirrento style game play, but with the better sense of progression and story this game has.  I'll keep trying and see if it grows on me, but I'm not a fan of timing games, and it doesnt do much for me to have to swipe through boxes or enemies and stuff to move forward.  Very cool vibe though, the devs really did a good job with look, style, sound and game mechanics working properly.  Attribute the 3 stars more to my own disinterest in this particular style of gameplay.",
+      "date": 1713892488,
+      "review_helpful_count": 9,
+      "author_display_name": "Fire.Raj",
+      "author_alias": "Fire.Raj",
+      "developer_response": null
+    }
+  ],
+  "total": 33,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-20T01:14:51Z"
+}

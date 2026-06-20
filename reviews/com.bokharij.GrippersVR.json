@@ -1,0 +1,48 @@
+{
+  "app_id": "28299962579649914",
+  "package_name": "com.bokharij.GrippersVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Gripper's VR Adventure",
+  "rating_average": 3.5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "715620587489778",
+      "score": 2,
+      "review_title": "Could've Been Great...",
+      "review_description": "The game seems like it could be fun, but for whatever reason the developer chose to give a top-down 3D game 2D controls, making completing the otherwise easy puzzles harder if not actually a bit frustrating at many points. And I'm just talking about the first levels here, so I can't imagine how much worse this terrible control setup will be on tougher levels that require morespeed and/or precision...\nAdd on to that the pointless Mixed Reality gimmick that has no optionto be turned off  that has absolutely ZERO use or  bearing on the game itself, and you have a $25 cheap feeling game basically using using stiff  tank controls rather than fluid 3D controls AND forcing a gimmick for no reason other than to eat up your Quest's battery even faster...\n\nMinus those issues, I would say this was a good title (even if overpriced considering it's mobile game quality),  but the control issues just make it awkward and annoying to play.\n\nSo I sadly can't recommend the game, even if the foundation under it's issues is nice.",
+      "date": 1748714291,
+      "review_helpful_count": 1,
+      "author_display_name": "Teele891",
+      "author_alias": "Teele891",
+      "developer_response": {
+        "body": "Hello, thank you for the honest feedback. I wanted this to resemble a more table top experience, hench the top down and mixed reality. Controls are supposed to always be constant, up is towards back wall, right towards right wall etc. There is also a wall mode that might help make the controls more intuitive.\n\nRegardless I would love to continue to improve this game and I still do want to add some new modes (with full control of the character). I will write all your request/issues down(controls and option to turn off mixed reality) and hope to bring features/fixes users suggest. If you have more suggestions please check our discord.",
+        "date": 1748792306
+      }
+    },
+    {
+      "id": "648852874969210",
+      "score": 5,
+      "review_title": "Great game with fun puzzles!!!",
+      "review_description": "I love how much fun it is. Has a variety of puzzles with new surprises with each level. My kids and I had fun strategizing the best ways to complete each level. FYI: Squirrels make good rafts :D",
+      "date": 1744573218,
+      "review_helpful_count": 2,
+      "author_display_name": "someone124078",
+      "author_alias": "someone124078",
+      "developer_response": {
+        "body": "Thank you for playing and glad you like it.",
+        "date": 1748792341
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:18:59Z"
+}

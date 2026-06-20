@@ -1,0 +1,42 @@
+{
+  "app_id": "9478556792230682",
+  "package_name": "com.boreal.owo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "My OWO",
+  "rating_average": 1,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1002786889588406",
+      "score": 1,
+      "review_title": "It doesn't work",
+      "review_description": "I want to try it four times and like all the time says this is not a right email bro I already putting my email I'm like still incorrect get out",
+      "date": 1773696251,
+      "review_helpful_count": 0,
+      "author_display_name": "RadiantFinch1516",
+      "author_alias": "RadiantFinch1516",
+      "developer_response": null
+    },
+    {
+      "id": "849350991334165",
+      "score": 1,
+      "review_title": "Doesn't work!!!",
+      "review_description": "it doesn't connect to app even if i install the mod, haptics are broken",
+      "date": 1766894436,
+      "review_helpful_count": 0,
+      "author_display_name": "jack112233445566",
+      "author_alias": "jack112233445566",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:19:32Z"
+}

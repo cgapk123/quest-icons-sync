@@ -1,0 +1,70 @@
+{
+  "app_id": "8918080398254339",
+  "package_name": "com.biswagames.bowlingblitz",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Bowling Blitz : Hangout. Bowl. Repeat",
+  "rating_average": 3.9,
+  "rating_count": 10,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1078122532051108",
+      "score": 2,
+      "review_title": "Looks cool but can't get multi-player",
+      "review_description": "Tried to get online multi-player to work but kept saying you can not join at this time...PLEASE HELP!!!",
+      "date": 1775619346,
+      "review_helpful_count": 0,
+      "author_display_name": "SupeRox01",
+      "author_alias": "SupeRox01",
+      "developer_response": {
+        "body": "Hi! We're sorry you're having trouble with multiplayer. Please try these steps:\n\n• Make sure you're connected to a stable internet connection.\n• Close and restart Bowling Blitz.\n• Check that you're using the latest version of the game.\n• If possible, try switching between Wi-Fi and mobile data.\n\nIf the issue continues, please contact our support team at salesandservice@biswagames.com with your device details, and we'll be happy to investigate further and help get you back into multiplayer.",
+        "date": 1781573614
+      }
+    },
+    {
+      "id": "912179685303555",
+      "score": 5,
+      "review_title": "🎳  A Carnival of Fun and Strikes",
+      "review_description": "Bowling Blitz: Celebrate the Carnival delivers a solid and satisfying VR bowling experience. The mechanics feel natural and responsive, making every throw intuitive and rewarding.\n\nWhat really sets this game apart is the incredible variety of environments — from bowling in an aquarium to striking pins among carnival dancers or under an icy dome. Each lane has its own charm and atmosphere.\n\nThe inclusion of special arcade-style modes adds an extra layer of fun beyond pure simulation, keeping the gameplay fresh and entertaining. A well-executed, all-rounder bowling game that deserves a spot in any bowling fan’s VR library.",
+      "date": 1761724900,
+      "review_helpful_count": 8,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": null
+    },
+    {
+      "id": "843740918214597",
+      "score": 5,
+      "review_title": "Fun Game with Cool Graphics",
+      "review_description": "Bowling blitz Is a fun Bowling game that has great graphics and visuals  I like that there are different theme Bowling alleys .there are powerups speed boosts and time reversal to name a few .it's single player",
+      "date": 1761503836,
+      "review_helpful_count": 5,
+      "author_display_name": "skyvuc",
+      "author_alias": "skyvuc",
+      "developer_response": null
+    },
+    {
+      "id": "845798531818923",
+      "score": 1,
+      "review_title": "Garbage. No multiplayer.",
+      "review_description": "Scam.  No working multiplayer.",
+      "date": 1769991019,
+      "review_helpful_count": 0,
+      "author_display_name": "SilverFalconer",
+      "author_alias": "SilverFalconer",
+      "developer_response": {
+        "body": "Sorry about this — a recent server-side change caused multiplayer issues for some players. We’ve updated the game to work with the latest server patch in 0.1.45. Please update and try again; if you still have trouble, email salesandservice@biswagames.com with your device + region and we’ll help",
+        "date": 1770130245
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:15:48Z"
+}

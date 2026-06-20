@@ -1,0 +1,34 @@
+{
+  "app_id": "5571321632929708",
+  "package_name": "com.berkshirecomputing.killerkritters",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Killer Kritters",
+  "rating_average": 1.4,
+  "rating_count": 5,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "1777949442540431",
+      "score": 1,
+      "review_title": "Doesn’t work",
+      "review_description": "Couldn’t even get past the menu screen",
+      "date": 1670095423,
+      "review_helpful_count": 1,
+      "author_display_name": "p3dal",
+      "author_alias": "p3dal",
+      "developer_response": {
+        "body": "Wow, thanks for letting me know, please try using the beam to press the BIG GREEN PLAY button at the bottom of the screen. If you dont see it maybe you have old version, please try downloading the update using the headset. Please let me know if you still have problems.",
+        "date": 1670546913
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T01:13:28Z"
+}
