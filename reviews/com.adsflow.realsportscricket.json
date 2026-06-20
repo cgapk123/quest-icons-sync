@@ -1,0 +1,53 @@
+{
+  "app_id": "24205842955669688",
+  "package_name": "com.adsflow.realsportscricket",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Cricket",
+  "rating_average": 3.3333333333333,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "649592444893773",
+      "score": 1,
+      "review_title": "I didn’t liked the app",
+      "review_description": "I didn’t like the game I wanted my money refunded",
+      "date": 1742949013,
+      "review_helpful_count": 0,
+      "author_display_name": "Kushal.289",
+      "author_alias": "Kushal.289",
+      "developer_response": null
+    },
+    {
+      "id": "989939618756237",
+      "score": 5,
+      "review_title": "Excellent",
+      "review_description": "It's one of the best cricket games I have ever played",
+      "date": 1699880030,
+      "review_helpful_count": 1,
+      "author_display_name": "tareqaus",
+      "author_alias": "tareqaus",
+      "developer_response": null
+    },
+    {
+      "id": "359674033641378",
+      "score": 4,
+      "review_title": "Good game but requires improvent",
+      "review_description": "There are few things that are missing. Training mode, team selection, batting line-setup, replay to how you played last ball, ball speed. Can improve graphics quality further. The game freeze when the ball hits your body.",
+      "date": 1708055640,
+      "review_helpful_count": 3,
+      "author_display_name": "Prashagarwal",
+      "author_alias": "Prashagarwal",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T00:51:41Z"
+}

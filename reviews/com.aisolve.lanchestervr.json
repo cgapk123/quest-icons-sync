@@ -1,0 +1,45 @@
+{
+  "app_id": "2424567997609061",
+  "package_name": "com.aisolve.lanchestervr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Lanchester VR",
+  "rating_average": 4.6666666666667,
+  "rating_count": 6,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "2140556132751988",
+      "score": 5,
+      "review_title": "Very perioud specific.",
+      "review_description": "I think this is about british planes or something. There was this minigame on the wall that worked quite well.",
+      "date": 1632676976,
+      "review_helpful_count": 7,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "426279281297583",
+      "score": 3,
+      "review_title": "Need a fix",
+      "review_description": "When using the gear vr controller none of the selections i choose won't open and they keep closing out. hope the dev fix this bug, im using s6 edge plus.",
+      "date": 1563661574,
+      "review_helpful_count": 2,
+      "author_display_name": "Aaronb3600",
+      "author_alias": "Aaronb3600",
+      "developer_response": {
+        "body": "Hi Aaron, apologies for this bug. Unfortunately the Oculus Store had an error where an older build was released for our Gear VR users (v1.1). This issue has now been rectified, if you check for updates you should get the latest version (v1.2) with this problem fixed. Failing that, uninstalling the app and re-downloading should get you the latest version.",
+        "date": 1564051164
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T00:52:51Z"
+}

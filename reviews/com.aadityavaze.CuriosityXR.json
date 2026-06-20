@@ -1,0 +1,291 @@
+{
+  "app_id": "8662430537161741",
+  "package_name": "com.aadityavaze.CuriosityXR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "CuriosityXR | Interactive AI Learning",
+  "rating_average": 3.7027027027027,
+  "rating_count": 37,
+  "review_count": 25,
+  "reviews": [
+    {
+      "id": "1356255532348207",
+      "score": 2,
+      "review_title": "Great idea but...",
+      "review_description": "I really, really wanted to like this. I can see a great concept here but it simply doesn't execute. I tried to get it to produce anatomy models and teach on the basics but it couldn't execute. No matter what I asked for it gave me a heart model or a skeleton. Then I asked for an image to highlight some landmarks and I got a very basic text article.\nIf they could execute on the basic premise this could be really valuable but not there yet.",
+      "date": 1747253471,
+      "review_helpful_count": 3,
+      "author_display_name": "RickC61",
+      "author_alias": "RickC61",
+      "developer_response": {
+        "body": "Hi Rick,\nThanks so much for trying the app and for the helpful feedback, we really appreciate you supporting us at this early stage. :)\n\nRight now, the app fetches the best publicly available models from the internet that are allowed for commercial use. That’s why you might have seen some repetitive results like the heart or skeleton. We're actively working on improving how we fetch more relevant and diverse models and images based on what you ask.\n\nYour input is super valuable as we continue to build and improve. Thanks again for taking the time to try the app and share your experience! Feel free to join the discord to get more information on insider updates. Thanks!",
+        "date": 1747922509
+      }
+    },
+    {
+      "id": "555901860931835",
+      "score": 1,
+      "review_title": "Hard decision to return",
+      "review_description": "The potential of this app is really great but its not ready to be on the market. The ai isnt responsive enough and made an apple when i asked it to show me the structure of a protein. I am returning the app for now although its a hard decision because i see where this app could go; but will be opened to rebuying in the future once the app improves as there is no guarantee that this will get better . Hope this serves as motivation to work on the app some more",
+      "date": 1735340576,
+      "review_helpful_count": 16,
+      "author_display_name": "BrittanyP",
+      "author_alias": "BrittanyP",
+      "developer_response": {
+        "body": "Thank you for your honest review—it means a lot that you see the potential in the app, even though it didn’t meet your expectations this time. I totally get how frustrating it must have been to not get the results you wanted, like seeing an apple instead of a protein structure.\n\nWe’ve made some big updates recently, including improving the 3D models so they’re more accurate, adding controller support for easier use, and fixing a bunch of glitches. I’m really hoping these changes make a noticeable difference.\n\nIf you ever decide to give the app another shot, I’d love to hear your thoughts again. Your feedback genuinely helps us get better. Thank you for sticking with us through the process!\n\nPlease check DM, I have messaged you for other support options. Thanks!",
+        "date": 1736369201
+      }
+    },
+    {
+      "id": "579444118575229",
+      "score": 5,
+      "review_title": "I had a great experience",
+      "review_description": "As someone deeply passionate about leveraging technology to make education more impactful, I found CuriosityXR to be a phenomenal tool. Its seamless integration of mixed reality and AI aligns perfectly with my interests.\n\nCuriosityXR stands out for its ability to break down complex concepts using interactive 3D models, which resonates with my belief in making learning engaging and inclusive. Its intuitive design and immersive learning approach remind me of the kind of innovation I see when I taught in medical school. It’s like having a hands-on lab for every subject—exactly the kind of tool I’d recommend to educators, students, and professionals alike. CuriosityXR gets a well-deserved 5-star rating from me, and I’m genuinely excited to see how it continues to evolve.",
+      "date": 1737930070,
+      "review_helpful_count": 6,
+      "author_display_name": "TechnologyTrainor",
+      "author_alias": "TechnologyTrainor",
+      "developer_response": null
+    },
+    {
+      "id": "596371693190507",
+      "score": 4,
+      "review_title": "Okay but languages?",
+      "review_description": "There's a lot of capabilities that you can do with AI, Alex can tell me things in Spanish if I ask him but I wish you can add a settings menu in order to change some things, would be awesome if Alex remembers what I told him but he erased the conversation right after I reopened the app, I'm keeping this app since I like AI and this is the only app in the Meta Quest 3S.  \n\nAlso, written replies or subtitles must be shown for people with problems. \n\n4/5 because it does what it says.",
+      "date": 1738602149,
+      "review_helpful_count": 2,
+      "author_display_name": "rafalobos",
+      "author_alias": "rafalobos",
+      "developer_response": {
+        "body": "Thanks for your thoughtful feedback! I'm glad you're enjoying the AI capabilities and that Alex can respond in Spanish. A settings menu for language preferences and conversation memory is a great idea—I’ll look into ways to improve that experience.\n\nI also really appreciate your point about subtitles or written replies for accessibility. That’s something I want to get right, and your input helps a lot.\n\nIf you have any other suggestions or ideas, feel free to share! Your support means a lot, and I’ll keep working to make the app even better.",
+        "date": 1738762647
+      }
+    },
+    {
+      "id": "600830843119528",
+      "score": 5,
+      "review_title": "Nifty app for learning",
+      "review_description": "I got this app for my 7 year old daughter to try and she loves spending her time learning about world geographies and science on it. Would suggest adding  animated models as well.",
+      "date": 1740507729,
+      "review_helpful_count": 2,
+      "author_display_name": "jambooja",
+      "author_alias": "jambooja",
+      "developer_response": null
+    },
+    {
+      "id": "539602775901630",
+      "score": 2,
+      "review_title": "Not that hard decision to return",
+      "review_description": "Returning the app. Probably will try again if they improve - significantly. The AI assistant cannot explain anything and just repeats the same phrase. Very low-detail 3D models, and the pictures are uninformative and often completely wrong (I got a picture of some military guy cooking something, with the comment that this is the Mandelbrot set step-by-step procedure. I mean, I am not a professional mathematician, but I can tell my fractals from pots and pans).",
+      "date": 1736521824,
+      "review_helpful_count": 2,
+      "author_display_name": "ChaoLe",
+      "author_alias": "ChaoLe",
+      "developer_response": {
+        "body": "Hey ChaoLe,\n\nI appreciate you giving the app a try and sharing your honest feedback. Since your review, we’ve made significant improvements to the AI’s explanations, added more detailed and accurate 3D models, and enhanced image generation to better match topics.\n\nI’d love for you to give it another shot and let me know what you think! If you have any specific topics you’d like to see improved further, feel free to share. Your feedback really helps shape the app.",
+        "date": 1738762693
+      }
+    },
+    {
+      "id": "509724472226725",
+      "score": 2,
+      "review_title": "Unresponsive and unfinished product yet",
+      "review_description": "I just purchased this and tried for exploring for an hour. There are a few bugs I noticed.\n1.The virtual model size is very tiny and when you start it doesn't load properly in the spatial space.\n2.sometimes the AI is unresponsive and doesn't show relevant results.\n3. It sometimes sends solar systems and irrelevant models in space.\n5. There should be a proper menu and settings options in the app.\n6. When you use the controller it simply doesn't work. Even with hand tracking pinching, dragging doesn't work flawlessly.\nAs the concept has great potential but the product is not matured yet and needs multiple frequent updates and fixes to achieve the goal.\n\nAlso the dev team kindly share your discord channel to join and discuss bugs with logs.",
+      "date": 1735215415,
+      "review_helpful_count": 2,
+      "author_display_name": "amazinganup",
+      "author_alias": "amazinganup",
+      "developer_response": {
+        "body": "Thank you for your detailed feedback—it’s incredibly helpful as we continue to improve the app. I’m sorry for the frustrations you’ve encountered, and I’d like to address your points:\n\nModel Size and Loading: We’ve improved spatial positioning so models load correctly and at an appropriate size.\nAI Responsiveness and Relevance: Recent updates have enhanced AI responsiveness and focused on delivering more accurate results.\nIrrelevant Models: The issue with random models, like the solar system glitch, has been resolved.\nController and Hand Tracking: Controller support is now added.\n\nWe believe in the app’s potential and are committed to regular updates to refine the experience.",
+        "date": 1736370534
+      }
+    },
+    {
+      "id": "438802425994010",
+      "score": 2,
+      "review_title": "Unusable for me in its current state",
+      "review_description": "I asked for a 3D model of a human heart, it gave me multiple models of hearts, multiple models of pewter mugs or something, and pictures and pages of stuff I didn't ask for. I asked the avatar to  change from male to female, but the female kept using the male voice, and vice versa. I tried giving the avatar prompts to influence it's behavior but the instructions were ignored or instantly forgotten.  The avatars speak over me and don't allow me to finish a thought before they offer me unwanted suggestions for further study that are sometimes irrelevant or unrelated. In the end, I shut down the app in frustration.",
+      "date": 1732960358,
+      "review_helpful_count": 6,
+      "author_display_name": "Andy73",
+      "author_alias": "Andy73",
+      "developer_response": {
+        "body": "Hi Andy,\n\nThank you for trying out CuriosityXR and for taking the time to share your detailed feedback. I’m truly sorry to hear that your experience didn’t meet your expectations—it sounds frustrating, and I deeply apologize for any inconvenience caused.\n\nHere’s some context on the issues you mentioned and how we’re addressing them:\n\nIrrelevant Results for 3D Models: The AI can occasionally \"hallucinate\" and include unrelated models or content. Improving the accuracy of these results is one of our top priorities, and we're actively working on refining the system to better match your requests.\n\nAvatar Voice Switching: The avatar’s voice should update correctly when changing between male and female. Occasionally, there may be a single monologue using the old voice before it fully switches to the new one. I’ll investigate this further to ensure a smoother experience.\n\nPrompt Memory and Responsiveness: We’re aware of the limitations in the avatar’s ability to retain and adapt to instructions. Enhancing its memory and responsiveness is a focus for future updates. While our aim is to offer a high-quality experience at a one-time cost rather than a subscription model, I understand this can feel limiting compared to premium AI services. The app will continue to improve over time.\n\nAvatars Speaking Over Users: If Alex is interrupting or speaking over you, there’s a simple trick—just raise your hand, and Alex will stop talking immediately. This feature is a fun way to take control of the conversation, and I hope it helps improve your experience.\n\nI know it can be disappointing when things don’t work as expected, and I genuinely appreciate your patience as we work to make CuriosityXR better.",
+        "date": 1733159590
+      }
+    },
+    {
+      "id": "932382008842651",
+      "score": 5,
+      "review_title": "Perfect app for reading in bed 🔥📚",
+      "review_description": "I’ve been using CuriosityXR on my Quest 3, and it’s been such a great way to dive into my books and textbooks. \n\nI just wish the Quest 3’s cameras were a bit better so I could hang out longer, reading and getting Alex (AI buddy) to break stuff down or chat about what I’m learning.\n\nThe best part? It’s so chill—I can just kick back in bed with my book and Alex, picking up new stuff without messing with notebooks. Alex keeps it super simple, like a real conversation, and somehow it sticks way better than when I’m just taking notes in my textbook.\n\nCuriosityXR has really made learning feel more natural and fun for me! Thanks ❤️",
+      "date": 1732635036,
+      "review_helpful_count": 6,
+      "author_display_name": "KUB45",
+      "author_alias": "KUB45",
+      "developer_response": {
+        "body": "Thank you so much for your wonderful feedback! We're thrilled to hear how much you're enjoying CuriosityXR and that Alex is helping make learning more fun and natural for you. We'll keep working hard to improve the experience—happy exploring and reading! 📚",
+        "date": 1733159693
+      }
+    },
+    {
+      "id": "599720442586650",
+      "score": 3,
+      "review_title": "ISSUE! WITH AVATAR!",
+      "review_description": "I am writing this in the review because there seems no other way to contact the developers of the game.  THERE IS AN ISSUE WITH THE GAME.    1.  The avatar will not be seen in startup mode sometimes.  I think you need to set the avatar as a default, to always appear directly in front of the user.  Then the user can place them anywhere they want.  Right now that does not happen, In my case the Avatar can't even be seen.  It seems to be a bug, could you get on that and set it by default to be placed in front of the user eye level?\n\nOther than that it is a masterful concept that is sure to be a winner  when and if you change this bug.  Thanks...",
+      "date": 1733452456,
+      "review_helpful_count": 2,
+      "author_display_name": "56Taquilla",
+      "author_alias": "56Taquilla",
+      "developer_response": {
+        "body": "Hey! Thanks so much for your feedback on CuriosityXR. We're sorry about the avatar placement issue. Right now, the system tries to find the nearest table to place the teacher, but if no table is detected, it should appear directly in front of you. We know that sometimes the avatar might show up on a table in a different room :D, and we're working on fixing that.\n\nWe're actively tackling bugs, and your suggestions are super helpful. We really appreciate your support and honest opinion as you explore our early access app.\n\nI have sent you a DM on Horizon app with more support. If you'd like to stay updated, we'd love for you to join our Discord server. Just let us know if you want an invite! Thanks again for your valuable input!",
+        "date": 1733625649
+      }
+    },
+    {
+      "id": "561771730355693",
+      "score": 5,
+      "review_title": "A fun AI learning experience! Worth it!",
+      "review_description": "Feels pretty futuristic, a little buggy but I love trying new AI apps, this is like ChatGPT for Mixed Reality.",
+      "date": 1739042564,
+      "review_helpful_count": 2,
+      "author_display_name": "rindapu",
+      "author_alias": "rindapu",
+      "developer_response": {
+        "body": "Hey Rindapu! Thanks for checking out the app and for your kind words! 🚀 I’m glad you’re enjoying the AI learning experience. It’s like ChatGPT for Mixed Reality, making AI-powered learning more immersive and interactive. I’m actively working on fixing the bugs to improve the experience—really appreciate you giving it a try! Let me know if you have any suggestions. 😊",
+        "date": 1739043238
+      }
+    },
+    {
+      "id": "1332050884442544",
+      "score": 5,
+      "review_title": "You should definitely try it!",
+      "review_description": "It's a unique experience that I would love for everyone to experience how fun learning can be, I will be pushing updates constantly, feel free to join our discord server for feedback or support! \n\nThis started as an experimental project and may be buggy. :D If you find any bugs or have feedback, message me anytime!",
+      "date": 1728411356,
+      "review_helpful_count": 9,
+      "author_display_name": "thisisvaze",
+      "author_alias": "thisisvaze",
+      "developer_response": null
+    },
+    {
+      "id": "1617344328850278",
+      "score": 5,
+      "review_title": "It's an amazing AI experience! 😎",
+      "review_description": "I love to chat with Alex, it's great for a visual learner like me to help me with models and images when I am learning stuff.",
+      "date": 1729861852,
+      "review_helpful_count": 4,
+      "author_display_name": "acelab.ocadu",
+      "author_alias": "acelab.ocadu",
+      "developer_response": {
+        "body": "Thank you! 😄 I’m so glad you’re enjoying chatting with Alex and that the models and images are helping you as a visual learner. It means a lot to hear that CuriosityXR is making learning fun for you. Happy exploring!",
+        "date": 1732113528
+      }
+    },
+    {
+      "id": "589962183564942",
+      "score": 5,
+      "review_title": "Revolutionizing Education with MR",
+      "review_description": "CuriosityXR is an absolute game-changer in the world of learning and technology. The app brilliantly combines immersive Mixed Reality with educational content, making it an engaging and innovative experience for users of all ages.\n\nThe seamless integration of voice and hand interactions allows you to explore and interact with content in a way that feels incredibly natural and intuitive. From visualizing scientific concepts to exploring virtual worlds, CuriosityXR turns learning into a fun and captivating journey.\n\nThe graphics are stunning, and the user interface is easy to navigate, even for first-time users. Whether you’re a student, educator, or just someone with a thirst for knowledge, this app is a must-have. It’s clear that a lot of thought and creativity went into making this app a standout product in the Meta App Store.\n\nIf you’re ready to take your learning to the next level and experience the future of education, CuriosityXR is the app for you. Highly recommended!\n\n5/5 stars!",
+      "date": 1732757796,
+      "review_helpful_count": 3,
+      "author_display_name": "SpencerVaudry",
+      "author_alias": "SpencerVaudry",
+      "developer_response": {
+        "body": "Thank you for this amazing review! We're overjoyed to hear that CuriosityXR is making such a positive impact on your learning journey. Your kind words about the design, graphics, and natural interactions mean the world to us. We’re committed to bringing even more innovative features to revolutionize education. 🚀",
+        "date": 1733159670
+      }
+    },
+    {
+      "id": "586411631211702",
+      "score": 5,
+      "review_title": "Great app!",
+      "review_description": "This is fantastic, love the interactive content and ability to grab and move 3D objects. We use for homeschool and it’s such a great resource",
+      "date": 1739101713,
+      "review_helpful_count": 1,
+      "author_display_name": "PoopyMcButtButt",
+      "author_alias": "PoopyMcButtButt",
+      "developer_response": {
+        "body": "Thank you so much for trying out the app! I’m thrilled to hear that your son is excited to learn with it. Currently, Alex doesn't speak much and is more of a short conversational chat and I agree that it's not the best when you want to focus and learn a concept. I have been developing the long lesson feature, that would definitely be much more helpful —it’s in the early stages, should be launched in the coming weeks.\n\nI’d love to hear any feedback you might have! Your suggestions would go a long way in helping me improve and expand the app. I have sent more feedback options on DM. Thanks so much :)",
+        "date": 1738074124
+      }
+    },
+    {
+      "id": "554640620654904",
+      "score": 5,
+      "review_title": "Great way to learn for different brains",
+      "review_description": "What a unique way to learn a new subject. As someone who struggled in school I am always looking for alternative ways to educate myself, and this app really worked for me. I love how it doesn't just give you a generic description the subject but provides context that makes the learning stick. \n\nI asked about fashion because I'm going clothes shopping soon, and it told me about the differences between certain looks, like victorian vs modern, and easy ways to remember them too. By asking followup questions I was able to find out what styles of clothes fit my body type best, and the teacher also gave me pictures and 3d models so that I know exactly what to look for when I get to the store.\n\nThe eye-gaze interaction with the teacher felt very seamless and immersive too, like I was talking to a real person. My dogs were very confused by who I was talking to, though.",
+      "date": 1732047688,
+      "review_helpful_count": 7,
+      "author_display_name": "prbalremedies",
+      "author_alias": "prbalremedies",
+      "developer_response": {
+        "body": "Thank you so much for sharing this—it really made my day! 😊 I’m so glad the app helped you learn in a way that works for you and even made fashion shopping more fun and informative. It’s awesome that the 3D models and follow-up questions felt helpful, and I love that your dogs were part of the experience too! 🐶 As an indie dev, hearing stories like yours keeps me motivated. Happy learning and shopping!",
+        "date": 1732113353
+      }
+    },
+    {
+      "id": "551136454450173",
+      "score": 5,
+      "review_title": "A fun and interactive tool for learning!",
+      "review_description": "This app is fantastic, with clear and easy-to-follow instructions! As someone passionate about architecture, I had the opportunity to explore a Victorian-style bedroom and a modern-style bedroom side by side in 3D, which allowed me to compare both designs. I also explored the Eiffel Tower, learning about its history and structure while seeing it in 3D right in my room! I highly recommend this app as a fun, interactive, and exciting tool for learning.",
+      "date": 1732057326,
+      "review_helpful_count": 6,
+      "author_display_name": "arisaeiart",
+      "author_alias": "arisaeiart",
+      "developer_response": {
+        "body": "Thank you so much! 😊 We’re glad you enjoyed exploring the bedrooms and the Eiffel Tower—it’s awesome to hear how you’re using the app to learn and have fun. Happy exploring!",
+        "date": 1732113309
+      }
+    },
+    {
+      "id": "540086122515077",
+      "score": 1,
+      "review_title": "Not ready for prime time",
+      "review_description": "I’m using the Quest 2, so the caveat to my review here is that maybe the experience on the 3 is completely different. \n\nI had high expectations with this one and it is totally not ready for production. It is worse than alpha…\n1. The character, Alex, is situated right under me. Can’t see it unless I look on the floor right under me, between my feet. I really need to bend I order to see it.\n2. The conversation is far from duplex/fluent. Like… really bad. It stops you in the middle of the sentence and it doesn’t know what you want and doesn’t acknowledge what you’re saying to it. \n3. I didn’t ask, but it showed me the solar system. Then, out of the blue, it brought another one. Why? Then I was trying to play with that solar system model and it is really not intuitive. \n\nThese are just three things that made the experience a nonstarters for me. I have zero desire to continue with it in the current status. \n\nI am sure they can improve it and make it work, and with AI/LLM today you can really do wonders, but this app is so immature that it’s a non-starter for me. \n\nI’ll try it again with every iteration that they release and hope for the best.\n\nBy the way, I am not sure why AR is attractive here. Why would I want it in my room rather than a virtual environment?",
+      "date": 1735087295,
+      "review_helpful_count": 1,
+      "author_display_name": "eefrat2",
+      "author_alias": "eefrat2",
+      "developer_response": {
+        "body": "Hey @eefrat2, Thank you so much for taking the time to share your detailed feedback—it’s incredibly valuable as I work to improve. I completely understand your frustration and disappointment, and I want to address each of your points.\n\nCharacter Positioning: Alex now appears directly in front of you, making it much easier to see without needing to bend or adjust your position.\nConversation Improvements: I’ve worked on making conversations more fluid and intuitive. A small fun tip, you can raise your hand anytime to stop Alex from speaking and take control of the conversation.\nSolar System Bug: That was a glitch, and I’m happy to share it’s been fixed. You should no longer see unexpected models appear.\nI also hear your feedback about using the Quest 2. While the app is currently optimized for Mixed Reality experiences on the Quest 3 and 3S, I understand how the B/W passthrough on Quest 2 might not provide the best experience. You’re absolutely right—having VR environments as an option is a great idea. I'm working on adding virtual spaces where you can dive into immersive learning regardless of the headset.\n\nI really appreciate your willingness to try future updates, and I hope you’ll find the experience significantly better next time. Thanks again for helping us get better!",
+        "date": 1736369139
+      }
+    },
+    {
+      "id": "534840309702269",
+      "score": 5,
+      "review_title": "A really fun and useful learning tool",
+      "review_description": "Curiosity XR is an exceptional tool for anyone who learns best through visuals. With its interactive 3D models and images, it simplifies complex concepts—from understanding how machines work to exploring the intricacies of human anatomy.\n\nAs someone who struggles to imagine abstract ideas, I found the app incredibly helpful. The intuitive interface makes navigation effortless, and the ability to zoom, rotate, and interact with models adds a level of engagement that books or static images can’t replicate.\n\nWhen I explored photosynthesis, for example, the app delivered exactly what I needed: clear, concise visuals that broke down the process into simple stages. It even allowed me to interact with a 3D model of a chloroplast, making the learning experience both fun and memorable.\n\nCuriosity XR doesn’t just provide information—it makes learning enjoyable and accessible. It’s a tool I’ll rely on often.",
+      "date": 1732831295,
+      "review_helpful_count": 5,
+      "author_display_name": "Tejas31415",
+      "author_alias": "Tejas31415",
+      "developer_response": {
+        "body": "Thank you so much for your kind words! We're thrilled that CuriosityXR has made learning more engaging and enjoyable for you. Your experience with exploring photosynthesis and interacting with 3D models is exactly what we envisioned. We’re excited to continue supporting your learning journey with even more amazing features! 😊",
+        "date": 1733159654
+      }
+    },
+    {
+      "id": "531626926699459",
+      "score": 1,
+      "review_title": "Don’t work dose not open at all",
+      "review_description": "Dose not work at all. I heard voice and nothing comes up no game platform nothing. I have reinstalled it many times , keeps glitching. So frustrating.",
+      "date": 1735870603,
+      "review_helpful_count": 0,
+      "author_display_name": "gunhoo.113835",
+      "author_alias": "gunhoo.113835",
+      "developer_response": {
+        "body": "I’m so sorry to hear about your frustrating experience! This definitely shouldn’t be happening. We have updated the app to fix a few onboarding glitches, could you try the application and check it out again. Also, I have provided extended support options on DM on Meta Horzion, happy to help there!",
+        "date": 1736369816
+      }
+    }
+  ],
+  "total": 20,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-20T00:49:24Z"
+}

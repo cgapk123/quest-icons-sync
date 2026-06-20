@@ -1,0 +1,939 @@
+{
+  "app_id": "3594052014036763",
+  "package_name": "com.adamstanulewicz.TheFight",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "The Fight",
+  "rating_average": 3.7962382445141,
+  "rating_count": 319,
+  "review_count": 185,
+  "reviews": [
+    {
+      "id": "1191254340731022",
+      "score": 5,
+      "review_title": "Great fun",
+      "review_description": "This game is great fun\nAll the basic fundamentals required to develop and to build from are there.\nThe fight options are all that required.\nFantastic work.",
+      "date": 1780633487,
+      "review_helpful_count": 0,
+      "author_display_name": "Astrokis",
+      "author_alias": "Astrokis",
+      "developer_response": null
+    },
+    {
+      "id": "1036059952919515",
+      "score": 5,
+      "review_title": "Beat boxing game gng",
+      "review_description": "Ts so peak\nW Adam",
+      "date": 1772977607,
+      "review_helpful_count": 7,
+      "author_display_name": "Chroll_O",
+      "author_alias": "Chroll_O",
+      "developer_response": null
+    },
+    {
+      "id": "1055355307656821",
+      "score": 1,
+      "review_title": "Waste of money don’t get it",
+      "review_description": "The graphics are so bad and I can’t even move in it rubbish",
+      "date": 1771880006,
+      "review_helpful_count": 6,
+      "author_display_name": "justme3136",
+      "author_alias": "justme3136",
+      "developer_response": null
+    },
+    {
+      "id": "1149206021615562",
+      "score": 5,
+      "review_title": "Amazing game",
+      "review_description": "The game is so cool blocking feels real hitting the opponent too (except for body shots). I really love the game.",
+      "date": 1781727493,
+      "review_helpful_count": 0,
+      "author_display_name": "FriendlyOtter1609",
+      "author_alias": "FriendlyOtter1609",
+      "developer_response": null
+    },
+    {
+      "id": "941053405119869",
+      "score": 5,
+      "review_title": "Good game bad graphics",
+      "review_description": "One of my favorite games but the graphics could definitely use an upgrade.",
+      "date": 1772323559,
+      "review_helpful_count": 0,
+      "author_display_name": "Cosmics11",
+      "author_alias": "Cosmics11",
+      "developer_response": null
+    },
+    {
+      "id": "990172304176003",
+      "score": 3,
+      "review_title": "I like it",
+      "review_description": "i like but problem is that i can't move when got it was hopping i could move",
+      "date": 1766181758,
+      "review_helpful_count": 10,
+      "author_display_name": "iamcheesegod",
+      "author_alias": "iamcheesegod",
+      "developer_response": null
+    },
+    {
+      "id": "1022874420898475",
+      "score": 5,
+      "review_title": "game is so good",
+      "review_description": "its good for cardio and its good for boxing game but ts has one mistake u cant move in game you have to move in rl",
+      "date": 1768907067,
+      "review_helpful_count": 1,
+      "author_display_name": "Ivashmiva",
+      "author_alias": "Ivashmiva",
+      "developer_response": null
+    },
+    {
+      "id": "917903518080126",
+      "score": 5,
+      "review_title": "Game is trash.",
+      "review_description": "Nvm ts peak",
+      "date": 1768092218,
+      "review_helpful_count": 3,
+      "author_display_name": "skellytheskeleton",
+      "author_alias": "skellytheskeleton",
+      "developer_response": null
+    },
+    {
+      "id": "1264637445572653",
+      "score": 5,
+      "review_title": "Good for cardio",
+      "review_description": "not that much content but pretty solid cardio",
+      "date": 1768163293,
+      "review_helpful_count": 2,
+      "author_display_name": "frobblewobble",
+      "author_alias": "frobblewobble",
+      "developer_response": null
+    },
+    {
+      "id": "788624577663671",
+      "score": 5,
+      "review_title": "Fun game👍few suggestions",
+      "review_description": "This game is actually pretty fun great exercise. You should give the ai more defensive moves and a few more strike variations. Also would be nice to be able to lower the ai’s durability. The jabs feel nice but the hooks don’t seem to have much weight behind them. Uppercuts would be a nice addition I know it’s seems to be a difficult mechanic but if you could pull it off that’d be awesome. Also another cool immersion I was thinking of was a toggle on/off blood running in the eyes that you can actually wipe off with your glove. This games really fun and with ah couple tweaks could stand with games like thrill of the fight and golden gloves at a much better price. Very impressive hope you keep updating this🥊",
+      "date": 1756691655,
+      "review_helpful_count": 15,
+      "author_display_name": "JediMindPrank",
+      "author_alias": "JediMindPrank",
+      "developer_response": null
+    },
+    {
+      "id": "815134611672922",
+      "score": 4,
+      "review_title": "Very good game but 1 thing",
+      "review_description": "This is a very good game but it would be even better if you could possibly add online mode to fight against other people. Thank you",
+      "date": 1755289296,
+      "review_helpful_count": 8,
+      "author_display_name": "ZackLFC",
+      "author_alias": "ZackLFC",
+      "developer_response": null
+    },
+    {
+      "id": "777231655472281",
+      "score": 5,
+      "review_title": "Why no knockouts",
+      "review_description": "Knock down bar doesn’t move. I can never knock down the opponent. That’s the problem with this game.",
+      "date": 1756490010,
+      "review_helpful_count": 3,
+      "author_display_name": "CuriousChipmunk9896",
+      "author_alias": "CuriousChipmunk9896",
+      "developer_response": {
+        "body": "Hi, To knock down an opponent, you must hit his weak points, e.g. chin. To see his weak points, select Show Weak Points in the settings.",
+        "date": 1756570636
+      }
+    },
+    {
+      "id": "680659071801310",
+      "score": 4,
+      "review_title": "Favorite VR Boxing game!!",
+      "review_description": "I'd give 5 but the game is not done yet ;) I feel like the NPC could use a bit more head movement to Perry or Dodge incoming attacks, also I feel like the NPC is a bit to easy... I play with everything up as high as it will go with 5 knockdowns to win and I can do it with any opponent with a bit of a challenge. And also it would be cool to be able to kick in the street fight mode maybe by pressing up on the right thumb stick? 😄 All in all I 100% recommend this game!!!",
+      "date": 1750814177,
+      "review_helpful_count": 9,
+      "author_display_name": "DuplexClient649",
+      "author_alias": "DuplexClient649",
+      "developer_response": null
+    },
+    {
+      "id": "788495440516943",
+      "score": 4,
+      "review_title": "Great game",
+      "review_description": "I would give this a 5 but the recentering is terrible. I can't recenter my position whatsoever and the angle is only at 90 degree increments. Other than that great game!!!",
+      "date": 1755469293,
+      "review_helpful_count": 1,
+      "author_display_name": "GtGG16",
+      "author_alias": "GtGG16",
+      "developer_response": null
+    },
+    {
+      "id": "733486603186012",
+      "score": 4,
+      "review_title": "",
+      "review_description": "It’s very good in my opinion but every time I do a body shot too hard they move alot and when I try and do a combo for body shots I can’t do it but it’s very good",
+      "date": 1754501675,
+      "review_helpful_count": 1,
+      "author_display_name": "Live4hockey",
+      "author_alias": "Live4hockey",
+      "developer_response": null
+    },
+    {
+      "id": "669678046234347",
+      "score": 3,
+      "review_title": "Please update the game 🙏🏻",
+      "review_description": "I really enjoy the game but it could really use some updated such as better knockout physics as well as multiplayer or more modes please update or add more to the game",
+      "date": 1751193789,
+      "review_helpful_count": 3,
+      "author_display_name": "moses.91185",
+      "author_alias": "moses.91185",
+      "developer_response": null
+    },
+    {
+      "id": "1096767422421861",
+      "score": 3,
+      "review_title": "Needs more content",
+      "review_description": "Fun for 30 mins. Game needs more content. 4/10",
+      "date": 1755127421,
+      "review_helpful_count": 1,
+      "author_display_name": "Brendude",
+      "author_alias": "Brendude",
+      "developer_response": {
+        "body": "There are currently 7 opponents available. You can also train at the virtual boxing gym on: heavy bag, speed bag, dummy bag, focus bag, boxing bar, boxing machine, pads. I also plan to add a mode where you can fight multiple opponents simultaneously.",
+        "date": 1755163100
+      }
+    },
+    {
+      "id": "708762065008535",
+      "score": 4,
+      "review_title": "",
+      "review_description": "It is a great game after two fights. I was sweating very much. This could be very well for your exercise and weight loss. It is quite realistic compared to other fighting games for example, of a knockout they full on ragdoll instead of walking back and stumbling, and then falling. not only that but the blood and cuts from the hits. Only reason why it’s not a five is because you cannot kick even though the enemies can, and there are no takedowns, which is fine, but that would really add the cherry on top would recommend. ￼",
+      "date": 1746236593,
+      "review_helpful_count": 11,
+      "author_display_name": "monkejoe223",
+      "author_alias": "monkejoe223",
+      "developer_response": null
+    },
+    {
+      "id": "669069016289819",
+      "score": 4,
+      "review_title": "Good vr boxing game , recommend",
+      "review_description": "I recommend this game because it it has a lot of thi gs to train with and is overall really fun getting you to do the best of you're abilitys because it hard to knock them out but I some how did and is fun",
+      "date": 1749072790,
+      "review_helpful_count": 2,
+      "author_display_name": "Brooke445",
+      "author_alias": "Brooke445",
+      "developer_response": null
+    },
+    {
+      "id": "654315507771159",
+      "score": 4,
+      "review_title": "To short to play",
+      "review_description": "It's a hard cause I'm short there's no calibration of your height so I couldn't play properly cause I was only to the opponents chest very good game tho",
+      "date": 1750095206,
+      "review_helpful_count": 2,
+      "author_display_name": "IncredibleTheo",
+      "author_alias": "IncredibleTheo",
+      "developer_response": {
+        "body": "Thanks for the review. You can set your height in the main menu: min 140cm (4'7\") - max 210cm (6'11\").",
+        "date": 1750103984
+      }
+    },
+    {
+      "id": "660686110241218",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Nice app... specially the pads and spinning bar trai i g tools ...., would be great to have the option of changing the height and speed of the pad coach 7 trainer. Any posibility about adding movement on him, he walking or going to one side etc. . Is tgere any way to add mixed reality to the app? Thanks, congrats i hope it keeps improving !!",
+      "date": 1743338376,
+      "review_helpful_count": 12,
+      "author_display_name": "japp3",
+      "author_alias": "japp3",
+      "developer_response": {
+        "body": "Hello, I'm currently focusing on other aspects of the game, but I'll consider adding MR option. Thanks.",
+        "date": 1743420059
+      }
+    },
+    {
+      "id": "615141805026869",
+      "score": 5,
+      "review_title": "Was the game nerfed?",
+      "review_description": "Was the game nerfed recently? Because im knocking down the enemy way too often now, I wish there was a difficulty option",
+      "date": 1757056539,
+      "review_helpful_count": 1,
+      "author_display_name": "OuterSpaceTathagat",
+      "author_alias": "OuterSpaceTathagat",
+      "developer_response": {
+        "body": "Hello, nothing has changed in the game recently. To increase the difficulty, disable the \"counter hit knockdown\" option and increase the \"knockdown bar regeneration speed\".",
+        "date": 1757105306
+      }
+    },
+    {
+      "id": "660984856518033",
+      "score": 1,
+      "review_title": "Literally Unplayable.",
+      "review_description": "The menu spawned BEHIND me, and now I have to fight the opponents while hitting stuff IRL and hurting my hands. You can literally only damage them if you hit the weak points. The worst part is that this game has a lot of potential, but the developer screwed up and made little to no quality of life settings. Don't waste your money on this game.",
+      "date": 1742769328,
+      "review_helpful_count": 35,
+      "author_display_name": "superkid93",
+      "author_alias": "superkid93",
+      "developer_response": {
+        "body": "Hello,  the Quest calculates the largest possible rectangular area within your boundary this is the play area (white rectangle on the floor,  this is the area in which your opponent can move),  make sure you're drawing your Guardian Boundary free of any obstacles. You can change the direction of the play area by holding the meta / oculus button. I also wanted to inform you that this is not the final version of the game, I am still working on it.",
+        "date": 1744376210
+      }
+    },
+    {
+      "id": "640085682511372",
+      "score": 4,
+      "review_title": "game is really fun and realistic",
+      "review_description": "What I really like about the game is that you know when your hits start hurting the opponent. Also the blood and the cuts you can do to your opponent. I also like how they fall down after every knockdown, as it is realistic to me. The only problem is that I always lost when it went to the decision. Made me think that you only win the fight after knocking them out. \nAnother little thing is that in the streetfight mode, your opponent kicks you. Maybe it isn‘t a problem, but I don‘t know if a normal block blocks those kicks.\n\nI have some ideas too that can be put in the game:\n\ncareer mode\n\ndifferent fighting styles that the enemy uses, like mire defensively, more aggresive, philly shell etc\n\ndifferent looks for the enemies\n\ndifferent locations where you can fight, like a ring with a huge crowd like if its a title fight, or a place where mostly amateur fighters fight like the one right now\n\nIf any of these things apply in the future, I will give this game a 5 star rating. In my opinion the boxing game with the most potential",
+      "date": 1742173145,
+      "review_helpful_count": 11,
+      "author_display_name": "Ardian27",
+      "author_alias": "Ardian27",
+      "developer_response": null
+    },
+    {
+      "id": "617441284793636",
+      "score": 5,
+      "review_title": "Better than thrill of the fight IMO",
+      "review_description": "Personally, I think this is favorite boxing game on quest so far. I’ve tried thrill of the fight 2 but because of the spammers in that game it’s just unplayable. This game is actually put together very well, the motion, the hitting, movement, everything is designed excellent. Can it be improved? Yes, definitely. A multi player option would be nice, hitting opponents with a body shot causes them to fly back for some reason. There’s a number of things they can do to get this smoother. But I personally think if you’re looking for a good workout with out the annoying people on thrill of the fight, this is the one!",
+      "date": 1745397937,
+      "review_helpful_count": 1,
+      "author_display_name": "ChicagoMike312",
+      "author_alias": "ChicagoMike312",
+      "developer_response": null
+    },
+    {
+      "id": "750532264165655",
+      "score": 4,
+      "review_title": "I’m obsessed with this game but…",
+      "review_description": "So i adore this game very well done but I down knockouts and more hits and I still lose the game some how and also try add mode where your in a ring where there’s a whole crowd and stuff",
+      "date": 1748374500,
+      "review_helpful_count": 1,
+      "author_display_name": "jonahphillips43",
+      "author_alias": "jonahphillips43",
+      "developer_response": null
+    },
+    {
+      "id": "1045355011017744",
+      "score": 5,
+      "review_title": "Cool Game",
+      "review_description": "Looking at the price and the screenshots, this looks like a low budget game. But as a fan of VR boxing games, this was a positive surprise.\n\nThe graphics are simple, but the overall feeling is immersive. More so than many other titles. A nice feature is that in street fight you can also slap the opponent.\n\nTo improve this game the sound effects should be worked on. It's always the same sound when you land a hit, which gives a less immersive feeling. I would prefer more cinematic style sound effects, rather than the current Thrill of the Fight style.\n\nA feature that I have always been wanting in fighting games is to keep hitting the opponent after them being knocked down. Just imagine if you have a difficult opponent, after losing several times and finally knocking them down... you just want to kill them while lying there on the ground.\n\nI would also like to knock down or even start fights with the referee and the audience. Why should the game end? I want to be a trouble maker.",
+      "date": 1754553391,
+      "review_helpful_count": 0,
+      "author_display_name": "exospecies",
+      "author_alias": "exospecies",
+      "developer_response": null
+    },
+    {
+      "id": "664069756564816",
+      "score": 1,
+      "review_title": "It absolutely sucks",
+      "review_description": "This game is terrible, it's just a blatant Thrill of the Fight ripoff and didn't even do a good job at that, I would recommend to go buy Thrill of the Fight instead of this.",
+      "date": 1744308146,
+      "review_helpful_count": 8,
+      "author_display_name": "Deathstorm495",
+      "author_alias": "Deathstorm495",
+      "developer_response": {
+        "body": "Thanks for the review, but I have a question. What made you buy the game?  If you tried it for free and didn't like it. You can reply to my email address: thefight.adam88@gmail.com, I also wanted to inform you that this is not the final version of the game, I am still working on it.\nThanks",
+        "date": 1744380126
+      }
+    },
+    {
+      "id": "9908510789160949",
+      "score": 4,
+      "review_title": "The best cardio workout",
+      "review_description": "The training aspect of this game is far better than any other boxing game I’ve tried. It has more equipment to use, e.g. a spar bar, multi-pad station, speed bag. It’s the only one I know of that lets you train in the ring with a trainer using pads. And he throws the periodic punch back at you so you can practice your bobbing and weaving. Nice! \nThe training is an excellent cardio workout.\nThe actual fighting part has its pros and cons. Pros: It has a street fight option. When you get hit, the screen briefly goes white which is better at simulating getting hit.\nCons: Some of the other comments here mention how slow the opponents move… I didn’t find that at all. I get hit a lot. Bobbing and weaving don’t seem to matter. I still got tagged.\nI did discover that if you step in close and unleash a wave of uppercuts and jabs, your opponent hilariously goes “3 Stooges” as his head bobs uncontrollably from the blows. But he never goes down. I stood there for what seemed like 30 seconds with a barrage of about sixty or more punches delivered, but the opponent simply stood there taking all the shots without going down. So the actual fight experience needs to be improved on.\nI would also like the opponents to be more photo-realistic similar to the pad trainer in the ring. Bald guy looked like some sort of mutant with his weirdly long and lumpy neck LOL.\nTip for the developer: My device’s screen outputs “tilted” a bit at one point during a street fight. I think it had something to do with my battery being low, but I’m not sure. \nHere’s the thing though… it immediately induced nausea for a second or two, since my eyes and head weren’t tracking in sync. \nThis would be an excellent way to better simulate a blow to the head during a fight. I’m not sure that such a thing is technically possible, and, certainly, it should be an option to turn off. But, man, would it ramp up the stakes in a street fight simulation.",
+      "date": 1742229033,
+      "review_helpful_count": 3,
+      "author_display_name": "KabukiArmadillo",
+      "author_alias": "KabukiArmadillo",
+      "developer_response": null
+    },
+    {
+      "id": "535061593030925",
+      "score": 5,
+      "review_title": "Amazing game but too easy",
+      "review_description": "Even with the fighter punch speed turned up with the custom settings, they punch soooo slow. Also each fighter will go down if you hit any of the pressure points just 3 times. It's an amazing game, the best fighting vr game I've played so far after creed and thrill of the fight. There needs to be more fighters added and more animations that are MUCH faster. The fighting is way too easy and it's almost impossible to even get hurt.",
+      "date": 1739984342,
+      "review_helpful_count": 22,
+      "author_display_name": "Bonkethy",
+      "author_alias": "Bonkethy",
+      "developer_response": null
+    },
+    {
+      "id": "695164420338459",
+      "score": 5,
+      "review_title": "Very good realistic game",
+      "review_description": "Good workout and easy if u know how to fight",
+      "date": 1747261282,
+      "review_helpful_count": 0,
+      "author_display_name": "F4ithfulYT",
+      "author_alias": "F4ithfulYT",
+      "developer_response": null
+    },
+    {
+      "id": "565001356704224",
+      "score": 1,
+      "review_title": "Booty",
+      "review_description": "Game is trash when I get a insane knockout he fling out of the map",
+      "date": 1743260112,
+      "review_helpful_count": 5,
+      "author_display_name": "ThaBeast35",
+      "author_alias": "ThaBeast35",
+      "developer_response": null
+    },
+    {
+      "id": "653961313949848",
+      "score": 4,
+      "review_title": "Good game",
+      "review_description": "I have been playing this game an hour a day. Good for cardio. The only thing I'd like to see changed in the game is when the match/round starts you should be able to touch gloves and fight. I don't like the screen black and then when your character appears you're already getting punched. Other than that fun game. If that were to be fixed I'd change it to a 5 star. Also wish there was a story mode as well",
+      "date": 1741667348,
+      "review_helpful_count": 1,
+      "author_display_name": "Themattinator86",
+      "author_alias": "Themattinator86",
+      "developer_response": null
+    },
+    {
+      "id": "655371117666179",
+      "score": 4,
+      "review_title": "Has a lot of potential",
+      "review_description": "Love the gym workouts they have reminds me of thrill of the fight one as far as gameplay only problem is the judging system I had a knock down round 1 & 2 but the 3rd round I didn’t get a knockdown but because of that I lost the fight in real life that was clearly my fight..other then that I enjoy it…I only see two fighters as an option not sure if I have to unlock more or what but keep up the good work and fix the judging system doesn’t even show the score cards",
+      "date": 1749836674,
+      "review_helpful_count": 0,
+      "author_display_name": "Rioworld336",
+      "author_alias": "Rioworld336",
+      "developer_response": {
+        "body": "Thanks for the review. There are more fighters, but you have to unlock them.",
+        "date": 1749846043
+      }
+    },
+    {
+      "id": "669001866286681",
+      "score": 3,
+      "review_title": "Good game",
+      "review_description": "This game is good and has alot of potential but still needs work.",
+      "date": 1745008166,
+      "review_helpful_count": 0,
+      "author_display_name": "Graveman.h",
+      "author_alias": "Graveman.h",
+      "developer_response": null
+    },
+    {
+      "id": "553080694552562",
+      "score": 5,
+      "review_title": "Cheap fun",
+      "review_description": "The game is really good it’s my favourite boxing game in my opinion and I get a decent exercise good experience and overall amazing game you should go check it out and turn people into a cherry",
+      "date": 1738152872,
+      "review_helpful_count": 49,
+      "author_display_name": "Joeman345",
+      "author_alias": "Joeman345",
+      "developer_response": null
+    },
+    {
+      "id": "643801625116149",
+      "score": 5,
+      "review_title": "Great game, fun to play solo.",
+      "review_description": "Just what I was looking for, easily a 20 bucks game",
+      "date": 1744581922,
+      "review_helpful_count": 1,
+      "author_display_name": "Willys.Fueguino",
+      "author_alias": "Willys.Fueguino",
+      "developer_response": null
+    },
+    {
+      "id": "602270529550086",
+      "score": 4,
+      "review_title": "Only one problem",
+      "review_description": "it's weird to me how in the street fight one they look fine, but in the boxing one they look horrible, like the body isn't realistic. (which is fine I know it's in early development) but it doesn't look as good as the street fight, asides from that good game.",
+      "date": 1749181149,
+      "review_helpful_count": 0,
+      "author_display_name": "DeathSentence111",
+      "author_alias": "DeathSentence111",
+      "developer_response": null
+    },
+    {
+      "id": "719253897927778",
+      "score": 4,
+      "review_title": "Very good BUT",
+      "review_description": "While you can damage and knock out an opponent, he won't stay down and i must have had 20 or so matches where i outboxed the other guy but he always gets the win. I know i'm not a boxing master or pugilist but i mess the guy up and he always gets his hand raised. In it's current state i would say this game was a how to make someone humble simulator.",
+      "date": 1747762360,
+      "review_helpful_count": 0,
+      "author_display_name": "CjpokemanG",
+      "author_alias": "CjpokemanG",
+      "developer_response": null
+    },
+    {
+      "id": "617519967642283",
+      "score": 5,
+      "review_title": "best game ever",
+      "review_description": "this is the best game not only is it fun but it improved my boxing as well!\nand also this is the cheapest game which makes it even better",
+      "date": 1739101172,
+      "review_helpful_count": 5,
+      "author_display_name": "yousef.hares",
+      "author_alias": "yousef.hares",
+      "developer_response": null
+    },
+    {
+      "id": "527113487162427",
+      "score": 5,
+      "review_title": "Great workout game!",
+      "review_description": "Like going to the gym",
+      "date": 1742422115,
+      "review_helpful_count": 2,
+      "author_display_name": "Bonnie0the0supirer",
+      "author_alias": "Bonnie0the0supirer",
+      "developer_response": null
+    },
+    {
+      "id": "624806904045780",
+      "score": 5,
+      "review_title": "The fight",
+      "review_description": "I recommend it's and amazing game 😁😁😁",
+      "date": 1741296729,
+      "review_helpful_count": 2,
+      "author_display_name": "Paniroyounx",
+      "author_alias": "Paniroyounx",
+      "developer_response": null
+    },
+    {
+      "id": "582480684938649",
+      "score": 5,
+      "review_title": "Super cool",
+      "review_description": "Its littrley my fav game rn its so fantasic bro if it 30$ il still buy it 10000000/10",
+      "date": 1739036862,
+      "review_helpful_count": 5,
+      "author_display_name": "moko22229",
+      "author_alias": "moko22229",
+      "developer_response": null
+    },
+    {
+      "id": "644207924696545",
+      "score": 5,
+      "review_title": "it's very nice",
+      "review_description": "it's a ￼really good game for only five dollars i've been playing this nonstop for days ￼",
+      "date": 1739046981,
+      "review_helpful_count": 4,
+      "author_display_name": "swagshia",
+      "author_alias": "swagshia",
+      "developer_response": null
+    },
+    {
+      "id": "591221470738735",
+      "score": 1,
+      "review_title": "Bad game",
+      "review_description": "I bought the game and now I owe apple and it keeps saying error has occurred ￼",
+      "date": 1742011303,
+      "review_helpful_count": 0,
+      "author_display_name": "aiden.4566",
+      "author_alias": "aiden.4566",
+      "developer_response": {
+        "body": "Hi aiden.4566, if you need help, you can contact me via email at thefight.adam88@gmail.com",
+        "date": 1742031007
+      }
+    },
+    {
+      "id": "514948538377262",
+      "score": 5,
+      "review_title": "Better than thrill of the fight",
+      "review_description": "Ok review title might be a bit off but if your running tight on cash I would definitely consider this game great physics, blood, very realistic, etc.",
+      "date": 1736566559,
+      "review_helpful_count": 8,
+      "author_display_name": "Crazysoccerboy09",
+      "author_alias": "Crazysoccerboy09",
+      "developer_response": null
+    },
+    {
+      "id": "592136853566887",
+      "score": 1,
+      "review_title": "absolutely horrid",
+      "review_description": "absolutely terrible game, this is like if you explained boxing to a alien, impossible to knock them out, flinging them out the map, and why is calliou watching me pummel a guy? 1/10 except for the training mode  absolutely awful",
+      "date": 1736050958,
+      "review_helpful_count": 6,
+      "author_display_name": "Devdevlol",
+      "author_alias": "Devdevlol",
+      "developer_response": null
+    },
+    {
+      "id": "3655147728109268",
+      "score": 4,
+      "review_title": "Question",
+      "review_description": "I like the game a lot it super fun and cheap but I do have one question for Adam if you see this Adam is their way you can play a Freind and if there’s not that could be a good idea in the future to add that into the game get back to me if you can.",
+      "date": 1737924252,
+      "review_helpful_count": 1,
+      "author_display_name": "Terqzonline",
+      "author_alias": "Terqzonline",
+      "developer_response": {
+        "body": "I'm glad you like it. For now, only single-player mode is available.",
+        "date": 1737988176
+      }
+    },
+    {
+      "id": "543849542152753",
+      "score": 5,
+      "review_title": "",
+      "review_description": "It's a amazing and it is so fun to play but can u add the movement  for joystick",
+      "date": 1740356272,
+      "review_helpful_count": 1,
+      "author_display_name": "vexbolts.157873",
+      "author_alias": "vexbolts.157873",
+      "developer_response": null
+    },
+    {
+      "id": "618197251369489",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "😎😎😎😎",
+      "date": 1741119065,
+      "review_helpful_count": 1,
+      "author_display_name": "Bigdom2025",
+      "author_alias": "Bigdom2025",
+      "developer_response": null
+    },
+    {
+      "id": "595411736355096",
+      "score": 5,
+      "review_title": "Best",
+      "review_description": "It is the best fighting game ever I definitely recommend to buy it and if you don’t like it you could sell it for the same amount of money you bought it for,plus it’s 14 days until it is not returnable and the street fight mode is so fun, definitely recommend buying this game!",
+      "date": 1733359727,
+      "review_helpful_count": 31,
+      "author_display_name": "TREXJEREMY",
+      "author_alias": "TREXJEREMY",
+      "developer_response": null
+    },
+    {
+      "id": "685843720944840",
+      "score": 5,
+      "review_title": "It’s very similar to Thrill of the fight",
+      "review_description": "I wish it had more characters but for the price and player experience it’s a great value.   Fun exercise method.",
+      "date": 1747301916,
+      "review_helpful_count": 0,
+      "author_display_name": "paxiboy14",
+      "author_alias": "paxiboy14",
+      "developer_response": null
+    },
+    {
+      "id": "947840857233373",
+      "score": 5,
+      "review_title": "The game is good But…",
+      "review_description": "This game is good, but you can beat your opponent to make your opponents, head and body look like a cherry and they somehow don’t go down onto the floor. LIKE WHAT??? developers please fix this. Please make a reasonable that when your opponent gets hurt enough your opponent gets knocked down. . Thank you for reading this.",
+      "date": 1734308808,
+      "review_helpful_count": 64,
+      "author_display_name": "In_Jesus_Name",
+      "author_alias": "In_Jesus_Name",
+      "developer_response": null
+    },
+    {
+      "id": "883066650686861",
+      "score": 5,
+      "review_title": "",
+      "review_description": "feels very good movement nice better then creed 2 in my opinion just need the knockouts to be more consistent maybe a health bar or the harder u punch irl the harder it hits them",
+      "date": 1732336222,
+      "review_helpful_count": 80,
+      "author_display_name": "ItsShifty",
+      "author_alias": "ItsShifty",
+      "developer_response": null
+    },
+    {
+      "id": "657486730774375",
+      "score": 4,
+      "review_title": "Great potential",
+      "review_description": "Fight mechanics are good. Training is excellent. My only problem is that I keep accidentally hitting the pause / quit button. Any chance of switching this off or even requiring a 2 or 3 second button hold?",
+      "date": 1744565757,
+      "review_helpful_count": 0,
+      "author_display_name": "worldwidekeef",
+      "author_alias": "worldwidekeef",
+      "developer_response": {
+        "body": "Thanks,  I'll think about how to solve this problem.",
+        "date": 1744643148
+      }
+    },
+    {
+      "id": "623048260667070",
+      "score": 1,
+      "review_title": "Trash",
+      "review_description": "Don’t buy this it’s just a knockoff you can’t even move",
+      "date": 1738383313,
+      "review_helpful_count": 1,
+      "author_display_name": "Beluganut4",
+      "author_alias": "Beluganut4",
+      "developer_response": null
+    },
+    {
+      "id": "621616191039538",
+      "score": 4,
+      "review_title": "Has much potential",
+      "review_description": "It’s a good game, but there a not much fighters",
+      "date": 1746547636,
+      "review_helpful_count": 0,
+      "author_display_name": "Patrick620",
+      "author_alias": "Patrick620",
+      "developer_response": null
+    },
+    {
+      "id": "660964497080670",
+      "score": 5,
+      "review_title": "Well done!!!",
+      "review_description": "On my first try with The street fight, I got to say very realistic and gave me an awesome workout. Well done I will be playing this more often and recommending it",
+      "date": 1744291036,
+      "review_helpful_count": 0,
+      "author_display_name": "madmurlinc_137",
+      "author_alias": "madmurlinc_137",
+      "developer_response": null
+    },
+    {
+      "id": "510155778854230",
+      "score": 2,
+      "review_title": "Dont buy",
+      "review_description": "Just get thrill of the fight if you want a good boxing game",
+      "date": 1735856215,
+      "review_helpful_count": 1,
+      "author_display_name": "Leezy435",
+      "author_alias": "Leezy435",
+      "developer_response": null
+    },
+    {
+      "id": "591378126716289",
+      "score": 1,
+      "review_title": "Bad",
+      "review_description": "This game is not fun can I have my mommy back",
+      "date": 1732493810,
+      "review_helpful_count": 9,
+      "author_display_name": "aboyd5",
+      "author_alias": "aboyd5",
+      "developer_response": null
+    },
+    {
+      "id": "466114289838635",
+      "score": 1,
+      "review_title": "Game is genuinely bad in my opinion",
+      "review_description": "It's barely even a challenge. And the NPCs will do this dumb thing where they randomly start backing up into the corner of the ring and not fight. I encountered this glitch after my first fight. I went into the second fight hit the dude once and he instantly started backing up into a corner. This game isn't as good as I thought I generally imo. Do not suggest getting this game.",
+      "date": 1732443301,
+      "review_helpful_count": 10,
+      "author_display_name": "bowserfartboi67",
+      "author_alias": "bowserfartboi67",
+      "developer_response": null
+    },
+    {
+      "id": "565577929677696",
+      "score": 1,
+      "review_title": "Not good",
+      "review_description": "No good at all",
+      "date": 1735407804,
+      "review_helpful_count": 0,
+      "author_display_name": "cureton.2022",
+      "author_alias": "cureton.2022",
+      "developer_response": null
+    },
+    {
+      "id": "2327210450953421",
+      "score": 2,
+      "review_title": "Height issue",
+      "review_description": "The app seems to think I'm 20ft tall. Everyone is ground level and nothing seems to change it. \nOther boxing apps are fine so the boundary isn't the issue",
+      "date": 1730738196,
+      "review_helpful_count": 2,
+      "author_display_name": "darren.latchford.92",
+      "author_alias": "darren.latchford.92",
+      "developer_response": null
+    },
+    {
+      "id": "497776766021711",
+      "score": 1,
+      "review_title": "Bad",
+      "review_description": "It's boring and hurts your arms",
+      "date": 1720448281,
+      "review_helpful_count": 1,
+      "author_display_name": "drewgum",
+      "author_alias": "drewgum",
+      "developer_response": null
+    },
+    {
+      "id": "444525741349047",
+      "score": 1,
+      "review_title": "Bad",
+      "review_description": "This game sucks the gameplay and graphics suck",
+      "date": 1711761735,
+      "review_helpful_count": 2,
+      "author_display_name": "Memezbruh",
+      "author_alias": "Memezbruh",
+      "developer_response": null
+    },
+    {
+      "id": "911400420006978",
+      "score": 1,
+      "review_title": "I did not enjoy it at all..",
+      "review_description": "Blocking is not working. Not enjoyable. Play area not able to re-center/replace/rotate to my safety needs..\n\nREPLY to DEV: in most apps you can recenter/relocate whole area by pressing Oculus button (long) including angle/front/back position.. (in my tight play area I had the buttons in your game unreachable 1 cm in the wall, so I wanted to use such feature but missing)",
+      "date": 1678388442,
+      "review_helpful_count": 0,
+      "author_display_name": "johnnyb2012",
+      "author_alias": "johnnyb2012",
+      "developer_response": {
+        "body": "Play area is a centered rectangle within the guardian boundaries you draw. You are intended to draw your boundary in unobstructed area.",
+        "date": 1678365801
+      }
+    },
+    {
+      "id": "217326504161630",
+      "score": 4,
+      "review_title": "Relies on players",
+      "review_description": "Although this game is an amazing sequel to the amazing Bonworks, it lacks its own replay ability without mods. Sure, the developers knew this would be the case to some extent, so they put full mod support, but everyone has access to things like computers, or even want to add them in, making the experience more of a test that lets players tinker with the world they have made rather than a full game. I still ranked this a four because the gameplay mechanics, physics, and combat is amazing. The liminal nature of the universe sucks you in, the physics are too real, and the combat feels like you have the weapons actually with you,  it to mention, again, the mods. The community of moders in this community is outstanding, and they add more to the experience than we could ever imagine. All in all though, the game still lacks a reason to go back, it gives you no tutorial unless you have played boneworks (which isn’t even on quest 2), and an overall all over the place story that makes you just as clueless about the story at the as you were at the start.",
+      "date": 1676230467,
+      "review_helpful_count": 0,
+      "author_display_name": "stinlance",
+      "author_alias": "stinlance",
+      "developer_response": null
+    },
+    {
+      "id": "194319876353197",
+      "score": 1,
+      "review_title": "Horrible",
+      "review_description": "Blocking doesn’t work and punches have no affect",
+      "date": 1662254444,
+      "review_helpful_count": 6,
+      "author_display_name": "TrullyEkilp",
+      "author_alias": "TrullyEkilp",
+      "developer_response": null
+    },
+    {
+      "id": "174657845000327",
+      "score": 3,
+      "review_title": "Some things to be aware",
+      "review_description": "Hello, the game needs to resize a fighter.\nThe gloves are too big, sometimes the hands losing or don’t hit in the objetive. I will request refund but if you makes better this game I will buy again. Good luck.",
+      "date": 1653595723,
+      "review_helpful_count": 2,
+      "author_display_name": "frank_86",
+      "author_alias": "frank_86",
+      "developer_response": null
+    },
+    {
+      "id": "165779699122062",
+      "score": 1,
+      "review_title": "HATE IT",
+      "review_description": "please let me refund i DO NOT like this game",
+      "date": 1646510922,
+      "review_helpful_count": 2,
+      "author_display_name": "chillplayz7597",
+      "author_alias": "chillplayz7597",
+      "developer_response": null
+    },
+    {
+      "id": "227359973109404",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "It is good",
+      "date": 1679345728,
+      "review_helpful_count": 0,
+      "author_display_name": "Adriankin",
+      "author_alias": "Adriankin",
+      "developer_response": null
+    },
+    {
+      "id": "215114590402097",
+      "score": 4,
+      "review_title": "A good starting point,could develop well",
+      "review_description": "For the money this is a great starting place for a potentially great game.\nIt's not as polished as Thrill Of The Fight, and there's quite a long way to go, but it's decent for the money you're spending on it.\nNeeds to be a lot faster, it's way too slow, even when you crank it to the 120% speed.  \nThe addition of the street fight option is great, though having to actually clench your fists (grip) not so much.\nA lot of polish is needed, but it can get there for sure.\n\nI think the developer should start a github issues page, to allow people to submit suggestions to help make the game better.\n\nI really hope he continues with this and turns it into a great alternative to Thrill Of The Fight.",
+      "date": 1616170128,
+      "review_helpful_count": 3,
+      "author_display_name": "sandlhillier",
+      "author_alias": "sandlhillier",
+      "developer_response": null
+    },
+    {
+      "id": "197491569796144",
+      "score": 3,
+      "review_title": "Better",
+      "review_description": "Could be better fighting the a.I is tough with there is no scoring etc the training side is very good with the pads and bag etc just the fighting A.I which is letting it down for me",
+      "date": 1683543068,
+      "review_helpful_count": 0,
+      "author_display_name": "Fuddy711",
+      "author_alias": "Fuddy711",
+      "developer_response": null
+    },
+    {
+      "id": "183923300725349",
+      "score": 4,
+      "review_title": "Good training complement",
+      "review_description": "I have \"Thrill of the fight\" which is much (actually *much much*) better in terms of fight realism. However, it lacks a challenging and motivating training option. \n\"The fight\" is a really good complement, especially the spinning bar and the pads training will improve your hand-eye-coordination, reflexes and cardio. I really would suggest to the developer(s) to focus on the training aspects, it is unique and super useful.  (While the box game AI cannot match TOTF in any way, at least currently).\nAs a sidenote: I also bought Creed for the same training aspects, but it is expensive and takes way to long to load, so \"the fight\" is much more effective.",
+      "date": 1656530372,
+      "review_helpful_count": 2,
+      "author_display_name": "Schulzki",
+      "author_alias": "Schulzki",
+      "developer_response": null
+    },
+    {
+      "id": "178679051764664",
+      "score": 1,
+      "review_title": "As right as i entered",
+      "review_description": "As right as i entered the game the menu wasnt showing up just my boxing gloves and i was stuck cant dk anything i kept restarting the game but it didnt work",
+      "date": 1682024727,
+      "review_helpful_count": 1,
+      "author_display_name": "Faisalmalekhussein",
+      "author_alias": "Faisalmalekhussein",
+      "developer_response": {
+        "body": "Hi, probably the menu was behind you, the menu is 0.7 m from the center of the Play area. If you have any questions, please contact me by email thefight.adam88@gmail.com",
+        "date": 1682066628
+      }
+    },
+    {
+      "id": "172568904945480",
+      "score": 5,
+      "review_title": "Highly Recommend! Also request!",
+      "review_description": "You won't go wrong to buy this game. It has better training equipment and graphic compare other boxing game. For the price, believe me it's totally worth of it!\n\nVery suitable for your first boxing game. You will get well training here with the good boxing tutorial video on Youtube. \n\nTo Game Team:\n\nIt would be great if it upgrade the frequency to 90 Hz or 120 Hz. And upgrade the AI difficulty or more opponents. Seems they don't like to punch me at all.\n\nBTW, the game deserves a better game cover! Replace it and you will know the big difference!",
+      "date": 1629088275,
+      "review_helpful_count": 1,
+      "author_display_name": "MajorAlpha",
+      "author_alias": "MajorAlpha",
+      "developer_response": null
+    },
+    {
+      "id": "168995292718577",
+      "score": 5,
+      "review_title": "REALLY GOOD",
+      "review_description": "The training mode is awesome. If you want to practice your boxing skills and to have a really good workout,  this is the game for you. Very well donc.",
+      "date": 1680973763,
+      "review_helpful_count": 2,
+      "author_display_name": "pinballvr.2025",
+      "author_alias": "pinballvr.2025",
+      "developer_response": null
+    },
+    {
+      "id": "166182005629102",
+      "score": 3,
+      "review_title": "Fun game",
+      "review_description": "Bareknuckle  is fun. Could use beer mechanics,  but for $5 it's worth it.",
+      "date": 1629876394,
+      "review_helpful_count": 0,
+      "author_display_name": "IronPony",
+      "author_alias": "IronPony",
+      "developer_response": null
+    },
+    {
+      "id": "164630150062596",
+      "score": 4,
+      "review_title": "Good game but...",
+      "review_description": "The game itself is good but when you get to the fight with last boxer on the ring and you want do that on normal mode, not on custom then it is very very hard, you can throw punches for 3 rounds and you will not knock him out, and then he will win. This is also wierd because when you put everything on 90% then you can easily knock him out, but on 100% its nearly impossible, the same thing happens on street fight.",
+      "date": 1698910500,
+      "review_helpful_count": 0,
+      "author_display_name": "Maciek1306",
+      "author_alias": "Maciek1306",
+      "developer_response": null
+    },
+    {
+      "id": "157159549828696",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "If your new to oculus and want a entry level boxing game this is the game to play and its only 5 dollars, amazing deal",
+      "date": 1628551047,
+      "review_helpful_count": 0,
+      "author_display_name": "mykah_406",
+      "author_alias": "mykah_406",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T00:51:11Z"
+}
