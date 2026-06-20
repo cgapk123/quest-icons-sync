@@ -1,0 +1,45 @@
+{
+  "app_id": "8594161823989841",
+  "package_name": "com.nolo.GuitarKingVRdemo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "GuitarKingVR demo",
+  "rating_average": 2.875,
+  "rating_count": 8,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "445605041321624",
+      "score": 1,
+      "review_title": "Terrible",
+      "review_description": "I cannot pick up the guitar It is no use UPDATE TODAY",
+      "date": 1712452631,
+      "review_helpful_count": 5,
+      "author_display_name": "Therealxnight",
+      "author_alias": "Therealxnight",
+      "developer_response": null
+    },
+    {
+      "id": "718207419901956",
+      "score": 3,
+      "review_title": "Can't find how to download this",
+      "review_description": "I really wanna try this out but I don't see anywhere to download am I missing something",
+      "date": 1673586643,
+      "review_helpful_count": 8,
+      "author_display_name": "chrislokc420666",
+      "author_alias": "chrislokc420666",
+      "developer_response": {
+        "body": "Hi & thanks for your comment. Could you download it now? If you like GuitarKingVR it would be nice when you can give us a nice rating.",
+        "date": 1673865413
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T19:06:42Z"
+}

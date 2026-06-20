@@ -1,0 +1,86 @@
+{
+  "app_id": "9000556653288410",
+  "package_name": "com.nytimes.rd.augments.food",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Story of a Restaurant",
+  "rating_average": 4.1428571428571,
+  "rating_count": 21,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "1225092872510819",
+      "score": 5,
+      "review_title": "Really Enjoyed",
+      "review_description": "This a short experience, but very well done and immersive. I really hope the New York times continues to produce quality content like this. Things like this help to keep the Quest fresh and engaging.",
+      "date": 1739136779,
+      "review_helpful_count": 37,
+      "author_display_name": "a2rooster",
+      "author_alias": "a2rooster",
+      "developer_response": null
+    },
+    {
+      "id": "1184738353037730",
+      "score": 5,
+      "review_title": "A neat experience in VR",
+      "review_description": "The filmography is brilliantly executed. It makes you feel like you're in the restaurant, and it introduces you to NYC food culture in a way that makes you feel like you're there. I'd like to see more like this.",
+      "date": 1739205973,
+      "review_helpful_count": 7,
+      "author_display_name": "T-Prime",
+      "author_alias": "T-Prime",
+      "developer_response": null
+    },
+    {
+      "id": "1307625650574784",
+      "score": 3,
+      "review_title": "",
+      "review_description": "Good concept but the quality of the video is terrible. A lot of pixelation and anti aliasing. I expected more here. On Quest 3.",
+      "date": 1739295863,
+      "review_helpful_count": 10,
+      "author_display_name": "echelon",
+      "author_alias": "echelon",
+      "developer_response": null
+    },
+    {
+      "id": "997320445608473",
+      "score": 2,
+      "review_title": "New Yorker",
+      "review_description": "Too many Factory-Farmed Animals 🐤🐤🐤🍼🍼🏭🏭🏭 when tons of great plant based restaurants here",
+      "date": 1738952274,
+      "review_helpful_count": 9,
+      "author_display_name": "BirdmanVEGANFutureVR",
+      "author_alias": "BirdmanVEGANFutureVR",
+      "developer_response": null
+    },
+    {
+      "id": "598333149783240",
+      "score": 4,
+      "review_title": "Nice experience",
+      "review_description": "It is a nice experience, but not immersive.",
+      "date": 1739321765,
+      "review_helpful_count": 6,
+      "author_display_name": "florinchelaru",
+      "author_alias": "florinchelaru",
+      "developer_response": null
+    },
+    {
+      "id": "941623254624759",
+      "score": 5,
+      "review_title": "Mouthwatering!",
+      "review_description": "More, please.",
+      "date": 1739575307,
+      "review_helpful_count": 2,
+      "author_display_name": "Qipper",
+      "author_alias": "Qipper",
+      "developer_response": null
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T19:14:23Z"
+}

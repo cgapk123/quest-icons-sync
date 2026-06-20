@@ -1,0 +1,42 @@
+{
+  "app_id": "34733589286288130",
+  "package_name": "com.nubnubnub.Goofycompany",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Goofy Company",
+  "rating_average": 3.6666666666667,
+  "rating_count": 3,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1024308616798048",
+      "score": 1,
+      "review_title": "Another ac fangame but worse",
+      "review_description": "Just the worstest game ive ever played. It has no players playing, and its boring. Go install Richard Company instead",
+      "date": 1781100770,
+      "review_helpful_count": 0,
+      "author_display_name": "RichardVR123",
+      "author_alias": "RichardVR123",
+      "developer_response": null
+    },
+    {
+      "id": "1068106713056542",
+      "score": 5,
+      "review_title": "Fun game",
+      "review_description": "Kind of sucks but its very fun",
+      "date": 1776386891,
+      "review_helpful_count": 4,
+      "author_display_name": "DRAK0.159939",
+      "author_alias": "DRAK0.159939",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T19:13:18Z"
+}
