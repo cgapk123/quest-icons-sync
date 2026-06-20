@@ -1,0 +1,42 @@
+{
+  "app_id": "25224920327175656",
+  "package_name": "com.newstory.DominoMR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Domino MR",
+  "rating_average": 2.75,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "969628029565783",
+      "score": 2,
+      "review_title": "Mechnics",
+      "review_description": "It doesnt work you wont know how to use it",
+      "date": 1768962570,
+      "review_helpful_count": 4,
+      "author_display_name": "little_dino23",
+      "author_alias": "little_dino23",
+      "developer_response": null
+    },
+    {
+      "id": "1083843038150941",
+      "score": 4,
+      "review_title": "My interactions don’t topple it",
+      "review_description": "Make it so it can so I can rate this 5 stars since I would if it would just let me topple the dominoes.",
+      "date": 1777847220,
+      "review_helpful_count": 0,
+      "author_display_name": "Fireskull3779",
+      "author_alias": "Fireskull3779",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T18:51:39Z"
+}

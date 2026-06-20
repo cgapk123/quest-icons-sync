@@ -1,0 +1,42 @@
+{
+  "app_id": "4002351223194486",
+  "package_name": "com.niku9.ImaginationLibrary",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Imagination Library",
+  "rating_average": 1.75,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "6285071354948881",
+      "score": 1,
+      "review_title": "D'oh!",
+      "review_description": "Homer Simpson did an app.",
+      "date": 1692260681,
+      "review_helpful_count": 0,
+      "author_display_name": "TheDirector50",
+      "author_alias": "TheDirector50",
+      "developer_response": null
+    },
+    {
+      "id": "2343451995795733",
+      "score": 3,
+      "review_title": "Not the greatest VR show and tell.",
+      "review_description": "And there's no giftshop.",
+      "date": 1654724954,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T18:58:46Z"
+}

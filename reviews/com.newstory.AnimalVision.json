@@ -1,0 +1,42 @@
+{
+  "app_id": "25713025471634391",
+  "package_name": "com.newstory.AnimalVision",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Animal Vision MR",
+  "rating_average": 1.6666666666667,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1045898355265106",
+      "score": 1,
+      "review_title": "error",
+      "review_description": "The app is not working for me",
+      "date": 1772523135,
+      "review_helpful_count": 1,
+      "author_display_name": "serbaxt1",
+      "author_alias": "serbaxt1",
+      "developer_response": null
+    },
+    {
+      "id": "4385296745023527",
+      "score": 2,
+      "review_title": "only 5 animals to see",
+      "review_description": "dog vision was mostly green. snake vision was mostly blind.  shark was black and white. and cat vision looked normal.",
+      "date": 1764392942,
+      "review_helpful_count": 6,
+      "author_display_name": "RaDrumba",
+      "author_alias": "RaDrumba",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T18:51:04Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "8684922918302054",
+  "package_name": "com.next.hole.golf.tulip",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Next Hole - Golf Game",
+  "rating_average": 1,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "658499087357140",
+      "score": 1,
+      "review_title": "Doesn't work right",
+      "review_description": "Doesn't work with boundaries",
+      "date": 1753275605,
+      "review_helpful_count": 0,
+      "author_display_name": "G.O.A.T2017",
+      "author_alias": "G.O.A.T2017",
+      "developer_response": null
+    },
+    {
+      "id": "713933978235643",
+      "score": 1,
+      "review_title": "bad",
+      "review_description": "very bad not good",
+      "date": 1751329201,
+      "review_helpful_count": 0,
+      "author_display_name": "gods_undead19",
+      "author_alias": "gods_undead19",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T18:53:28Z"
+}
