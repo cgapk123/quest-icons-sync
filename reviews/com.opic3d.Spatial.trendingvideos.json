@@ -1,0 +1,45 @@
+{
+  "app_id": "24236015169340575",
+  "package_name": "com.opic3d.Spatial.trendingvideos",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Opic3D: Spatial Video & VR social",
+  "rating_average": 3,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "991254900742429",
+      "score": 5,
+      "review_title": "Rev",
+      "review_description": "Love this app fr. Making 3D stuff on my phone then sharing it into VR is crazy easy. Would be cool to have a few more templates/tools, but overall it’s been awesome.",
+      "date": 1771780732,
+      "review_helpful_count": 1,
+      "author_display_name": "EdgyStingray2004",
+      "author_alias": "EdgyStingray2004",
+      "developer_response": null
+    },
+    {
+      "id": "1540175124220457",
+      "score": 1,
+      "review_title": "Meh",
+      "review_description": "Blurry, hard-to-read interface with no anti-aliasing. Screen cannot be resized. No settings available, no option to adjust the stereoscopic depth in the videos to relieve eye strain. Constant nag screen to link the app to the website. Mundane content.",
+      "date": 1770188876,
+      "review_helpful_count": 0,
+      "author_display_name": "steve_40",
+      "author_alias": "steve_40",
+      "developer_response": {
+        "body": "We’re sorry for your experience and appreciate your feedback.\n\nYou can adjust the screen size using the right joystick, and an introductory tutorial explains this feature. The sign-in prompt only appears when you need to comment or perform tasks requiring an account. Otherwise, feel free to explore without signing up.\n\nWe apologize for any eye strain. Some content uploaded by users may have poor stereo depth, but we’ve added an \"eye strain report\" button to allow for reporting content that causes discomfort, which will be reviewed and removed if needed.\n\nWe also apologize for the lack of anti-aliasing and are actively working to improve the visual quality.\n\nAs we’re still in the early stages, content is limited, but we’re working hard to expand our library and include more diverse content soon.\n\nThank you for your understanding and patience.",
+        "date": 1770929228
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T19:58:17Z"
+}

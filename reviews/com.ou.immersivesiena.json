@@ -1,0 +1,53 @@
+{
+  "app_id": "3152675004789593",
+  "package_name": "com.ou.immersivesiena",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Immersive Siena",
+  "rating_average": 3.6,
+  "rating_count": 10,
+  "review_count": 10,
+  "reviews": [
+    {
+      "id": "6245251002205289",
+      "score": 2,
+      "review_title": "Bad interface",
+      "review_description": "Cool art, but the unintuitive interface gives you a neck pain after few minutes of use.",
+      "date": 1680532813,
+      "review_helpful_count": 2,
+      "author_display_name": "xpanther",
+      "author_alias": "xpanther",
+      "developer_response": null
+    },
+    {
+      "id": "108927764265166",
+      "score": 5,
+      "review_title": "Så bra",
+      "review_description": "Love it",
+      "date": 1598178643,
+      "review_helpful_count": 30,
+      "author_display_name": "mathea.karstensen",
+      "author_alias": "mathea.karstensen",
+      "developer_response": null
+    },
+    {
+      "id": "108530868249446",
+      "score": 5,
+      "review_title": "Great art and soundtrack.",
+      "review_description": "Love the quality of the zoomed in pictures.   Would pay for more like this or to expand this",
+      "date": 1632066237,
+      "review_helpful_count": 7,
+      "author_display_name": "lmnopy",
+      "author_alias": "lmnopy",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T20:01:31Z"
+}
