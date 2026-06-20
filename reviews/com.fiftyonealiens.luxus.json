@@ -1,0 +1,31 @@
+{
+  "app_id": "5454447007902682",
+  "package_name": "com.fiftyonealiens.luxus",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "LUXUS",
+  "rating_average": 4.3333333333333,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "2343454005795532",
+      "score": 3,
+      "review_title": "Chuck Todd is an Energy Vampire.",
+      "review_description": "Some kinda VR travel Vlog, and that.",
+      "date": 1654725210,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:31:18Z"
+}

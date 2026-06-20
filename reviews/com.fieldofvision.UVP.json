@@ -1,0 +1,92 @@
+{
+  "app_id": "1978400832224524",
+  "package_name": "com.fieldofvision.UVP",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Ultimate Video Player",
+  "rating_average": 2.85,
+  "rating_count": 20,
+  "review_count": 20,
+  "reviews": [
+    {
+      "id": "475258090318486",
+      "score": 1,
+      "review_title": "Not playing video",
+      "review_description": "Cannot start video. Always in demo mode.",
+      "date": 1612797743,
+      "review_helpful_count": 4,
+      "author_display_name": "crnee",
+      "author_alias": "crnee",
+      "developer_response": null
+    },
+    {
+      "id": "3645123408892015",
+      "score": 4,
+      "review_title": "Great and useful app !",
+      "review_description": "Great software. New version includes a \"gazing\" selection, a bit too long to select, but very useful to get rid of the controller ! Still some little bugs, like the unability to open large 360 videos (6.4Gb that reads OK with Skybox), and a slight defect on the back of stiching of the background image (which cannot be a short looping video - too bad ;-) ) Thanks to the developper !",
+      "date": 1582637495,
+      "review_helpful_count": 4,
+      "author_display_name": "psion007",
+      "author_alias": "psion007",
+      "developer_response": null
+    },
+    {
+      "id": "2400504003320910",
+      "score": 4,
+      "review_title": "Cool app with great potential.",
+      "review_description": "When you take off the headset and take it on again, the video most of the time really starts from the beginning again. I succeeded to play 360°-videos in 5.7 monoscopic in similar quality like the oculus player. Also a stereoscopic 4 k video worked. What I didn't get to work was a stereoscopic 5.7 video which played in the oculus player. Should it be transcoded in a special way? Or is it not intended to work?",
+      "date": 1563266377,
+      "review_helpful_count": 1,
+      "author_display_name": "ZITRULIA",
+      "author_alias": "ZITRULIA",
+      "developer_response": null
+    },
+    {
+      "id": "2134079126690277",
+      "score": 4,
+      "review_title": "Good App. Almost perfect.",
+      "review_description": "It's great that this is one of the only kiosk style apps available. And it's great that you can customize some of the elements for those clients that need a branded experience. However I've noticed a few strange things about the app that I hope can get fixed in future updates. the biggest problem is when someone takes off the headset before the video finishes... When the next person puts on the headset we see the menu screen, but we can still hear the audio from the video at the point the last person left off. The video is playing in the background? Even if you put in your own custom audio track, they both play together oh, so you hear your custom audio and the video playing in the background. This is very annoying and confusing 4 viewers, and we are forced to restart the app between viewings. This is not ideal. However this is the closest app we can find to suit our needs, and again it's almost perfect. Looking out for future updates ASAP.",
+      "date": 1556822016,
+      "review_helpful_count": 4,
+      "author_display_name": "gulliverp",
+      "author_alias": "gulliverp",
+      "developer_response": {
+        "body": "Hey thanks for the review. And I appreciate the feedback, seems like this appeared after my last update. I have found why this is happening and am fixing now, next update will be up soon and this will be patched! So when you pass the headset to someone else, it will simply start the video from the start.",
+        "date": 1558412949
+      }
+    },
+    {
+      "id": "1223653947783623",
+      "score": 4,
+      "review_title": "Nice work",
+      "review_description": "Works well and we will use it at trade shows to show the same video to hundreds of people - two requests: \n\n1. Disable the occasional need to reset the view when the headset has been moved between viewers \n\n2. Allow us to add a video background to the home screen like the music and logo options.\n\nI'd pay at least double for the above options if they were included.",
+      "date": 1547065149,
+      "review_helpful_count": 3,
+      "author_display_name": "clayton.r.anderson",
+      "author_alias": "clayton.r.anderson",
+      "developer_response": {
+        "body": "Thank you for the comment. It's good to know the app is being used well for trade shows! \nIn terms of your requests, I have been hard at work trying to find a way to disable the view reset. This is something that is embedded into the Oculus system, therefor currently extremely hard to bypass. Will post an update if and when I get anywhere with it.\nAs for the video background on the menu, I can add that as an option in the next update soon! Thanks again for the suggestion.",
+        "date": 1548018033
+      }
+    },
+    {
+      "id": "510301486452322",
+      "score": 5,
+      "review_title": "Perfect soft!!!!",
+      "review_description": "We never could dream of a better way to be in kiosk mode on our Oculus Gos! We can now propose our VR movie to hundreds of peoples during events thanks to this program. The movie stops as soon as they take off the headset and it is ready for the next one. With the customization of the menu stage (a 360 image) the viewer is totally immerged from the start in the world we invented. The other great thing is the reactivity of the creator of this app : we had few questions and he replied to us very soon, modifying a point of his last version to help us for a better experience. The new options are rich and once again I don't see what this app could propose more, apart to get rid of the oculus pause and the constant needed use of the controler. But it really seems this is something that Oculus has deeply implemented and can't be overpass that easily. Once again : the best player for Kiosk mode. No doubt on that!",
+      "date": 1570078404,
+      "review_helpful_count": 4,
+      "author_display_name": "ATTV",
+      "author_alias": "ATTV",
+      "developer_response": null
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:30:07Z"
+}

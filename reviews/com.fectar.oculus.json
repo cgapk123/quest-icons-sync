@@ -1,0 +1,42 @@
+{
+  "app_id": "3582708045181429",
+  "package_name": "com.fectar.oculus",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Fectar",
+  "rating_average": 4.3076923076923,
+  "rating_count": 13,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "2295838717223728",
+      "score": 5,
+      "review_title": "Impressive and large collection of 3d.",
+      "review_description": "Kinda like sketchfab or what have you, but also features some interactive scenes.",
+      "date": 1649691700,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "4718255064920398",
+      "score": 5,
+      "review_title": "Great app, some much content, real fun",
+      "review_description": "Tried it, loved it! And created my own VR experience (I am not a developer).",
+      "date": 1641562014,
+      "review_helpful_count": 5,
+      "author_display_name": "BeyoBing",
+      "author_alias": "BeyoBing",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T02:25:41Z"
+}
