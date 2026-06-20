@@ -1,0 +1,34 @@
+{
+  "app_id": "25124290853833415",
+  "package_name": "com.initiumStudio.HotelLifeVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Hotel Life VR",
+  "rating_average": 3,
+  "rating_count": 2,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "945543075317714",
+      "score": 5,
+      "review_title": "Review",
+      "review_description": "There are no guest kind of weird and there's no staff members the game has a front desk where I can call for staff but no one appears I was disappointed",
+      "date": 1770291782,
+      "review_helpful_count": 2,
+      "author_display_name": "King53Team",
+      "author_alias": "King53Team",
+      "developer_response": {
+        "body": "Hello! Thank you for the honest feedback. We completely agree that a hotel needs life! Currently, we are working hard on adding NPCs, including guests and staff members, to fill the lobby and interact with players. The 'empty' feeling is our top priority to fix in the upcoming updates. Please stay tuned!",
+        "date": 1771071491
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T13:46:41Z"
+}

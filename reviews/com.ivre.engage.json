@@ -1,0 +1,264 @@
+{
+  "app_id": "3092079454190601",
+  "package_name": "com.ivre.engage",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "ENGAGE",
+  "rating_average": 3.5616438356164,
+  "rating_count": 146,
+  "review_count": 42,
+  "reviews": [
+    {
+      "id": "774096045754924",
+      "score": 2,
+      "review_title": "Hard to sign in",
+      "review_description": "Got bored trying to sign in",
+      "date": 1772017633,
+      "review_helpful_count": 4,
+      "author_display_name": "Anita_K523",
+      "author_alias": "Anita_K523",
+      "developer_response": null
+    },
+    {
+      "id": "610223545297132",
+      "score": 1,
+      "review_title": "ZOMBIELAND",
+      "review_description": "Nobody there and the AI you have to pay - waste of time",
+      "date": 1737863241,
+      "review_helpful_count": 17,
+      "author_display_name": "metaversepirate",
+      "author_alias": "metaversepirate",
+      "developer_response": null
+    },
+    {
+      "id": "845120534190429",
+      "score": 1,
+      "review_title": "Barbaric building tools",
+      "review_description": "Using this platform takes way too long to create.   The tools available  are a bit like going from the 'Waltons' back to the 'Flintstones'. I understand, as with anything, you must learn the tools. However,  after using a number system in Altspace and coming here and paying, it's archaic tools at best. Paying a price and building at a snails pace is insane. And hopefully, you don't make a mistake.  I don't recommend this pricey game at all, unless you are very experienced.",
+      "date": 1719432827,
+      "review_helpful_count": 1,
+      "author_display_name": "Princess.Becky3",
+      "author_alias": "Princess.Becky3",
+      "developer_response": null
+    },
+    {
+      "id": "7281713215283411",
+      "score": 5,
+      "review_title": "Practical and fun",
+      "review_description": "I say fun because it is all in what you make of it. Engage gives you a rock solid base to build experiences, and I have found holding late afternoon casual hangouts for my colleagues to be some of the best moments with my global colleagues.",
+      "date": 1711637912,
+      "review_helpful_count": 17,
+      "author_display_name": "vrbanist",
+      "author_alias": "vrbanist",
+      "developer_response": null
+    },
+    {
+      "id": "283981607893135",
+      "score": 4,
+      "review_title": "Brings people together and it's fun!",
+      "review_description": "I've been using the ENGAGE app at work now for almost a year and I think it's fantastic. For a remote team, it really helps with team building and client relationships. We meet regularly in one of the many different ENGAGE locations and it makes us feel more connected as we're having a shared experience and interacting in ways that just aren't possible outside VR. On any given day we could be sitting around a campfire for our internal morning meeting, reviewing tasks together in a conference room on a big screen for a project meeting, or brainstorming ideas on a tropical island. We hold some of our client meetings in ENGAGE too and they love it :-). It adds an element of fun and collaboration that isn't possible with a video call. It's not perfect, of course there are some elements that can be a little frustrating, but the ENGAGE team do take on user feedback and are always working hard  to add features and make improvements. They seem truly committed to making the platform the best it can possibly be.",
+      "date": 1696862595,
+      "review_helpful_count": 8,
+      "author_display_name": "Elfin7",
+      "author_alias": "Elfin7",
+      "developer_response": null
+    },
+    {
+      "id": "329242926349600",
+      "score": 4,
+      "review_title": "A Solid Virtual Experience",
+      "review_description": "I've been using Engage XR for virtual meetings, content sharing, and more, and it's a robust platform with a lot to offer.\nEngage XR provides a commendable virtual meeting experience. The spatial audio and avatars make it feel almost like an in-person interaction.\nSharing media is smooth and engaging, adding a dynamic element to presentations. It's also a great tool for educational content, offering an immersive learning experience.\nBeyond meetings, Engage XR is versatile, offering a range of activities. It's user-friendly, even for VR newcomers.\n\nDefinitely worth a try for those looking to enhance their virtual interactions.",
+      "date": 1696858665,
+      "review_helpful_count": 8,
+      "author_display_name": "Clara_Oculus",
+      "author_alias": "Clara_Oculus",
+      "developer_response": null
+    },
+    {
+      "id": "755608396163851",
+      "score": 1,
+      "review_title": "Invasive App - zero stars!",
+      "review_description": "I was a “refugee” of Altspace and friends and others were talking about this app, Engage. So I decided to give it a try. \nIt was kinda weird walking around and seeing these NPC avatars roaming around. And I get it, they wanted it to seem like it’s a bustling place, so understandable. So I continued to check out this place. I went into the hubs and some were really cool, like the 360 Video hubs, but some were just really weird, like the alien hub, but it’s all good and fun. \nI decided that Engage wasn’t really what I wanted for my needs so I left. I did take a pic of my avatar to show a friend. But when I went to retrieve the pic from my Oculus gallery, I noticed about 50 files that were automatically uploaded to my gallery from Engage. Now I get that I gave permission for audio and video when you first start, but I didn’t give permission to access my gallery for automatic uploads of numerous files. I thought maybe they were caches of the worlds I entered, but cached to my gallery?? Never have I seen this before. \nI immediately deleted all the files off of my Oculus and uninstalled the Engage app. \nI checked back the next day to make sure they were gone, and they were ALL back! Even after I deleted them AND uninstalled the app, they all came back. Also, 3 videos were automatically downloaded to my phone! I did not sync these files, they were put on my phone and I can’t delete them. \n\nThis is a very invasive ￼app that takes over your Oculus and your phone. I definitely would not recommend this app to anyone! And anyone who has used this app, I would suggest that you check your gallery AND your phone for intrusive files being planted without your permission. \n\nZero stars - had to enter 1 star in order to submit this review.",
+      "date": 1682710656,
+      "review_helpful_count": 171,
+      "author_display_name": "BlueMoon22",
+      "author_alias": "BlueMoon22",
+      "developer_response": {
+        "body": "Sorry to hear about your experience, please note that we have since updated ENGAGE and addressed this issue in V3.5. In accordance with security requirements for the Quest store and Android 32, files are now saved to the application folder. To learn more about this please visit our documentation: https://docs.engagevr.io/engage/advanced-features/accessing-files-on-your-device/changes-to-file-storage-in-engage-v3.5",
+        "date": 1691576466
+      }
+    },
+    {
+      "id": "2795995410613630",
+      "score": 5,
+      "review_title": "Great app!!",
+      "review_description": "The best app for learning,education,love it,thank you❤️ 5 stars *****\nLove thr ifx features ,exelant video quality(4k) on the vr lessons too😊\nI also love the locations of which there are many,exellant 😊",
+      "date": 1611271049,
+      "review_helpful_count": 5,
+      "author_display_name": "shaun.walmsley1",
+      "author_alias": "shaun.walmsley1",
+      "developer_response": null
+    },
+    {
+      "id": "385174042676011",
+      "score": 3,
+      "review_title": "Clunky interface and ugly design.",
+      "review_description": "Quest badly needs a platform for interactive learning.  \n\nThis app could help in a pinch.\n\nBut I would suggest you look elsewhere.\n\nThe first thing you are met with here in the onboarding is a need to ‘sign up’ before you can even take as a look.\n\nYou then make a really very ugly avatar that provides only binary choices of gender.\n\nOnce you get into the meat of the app you can watch some very low quality 360 video or join a session or make a session.\n\nYou have a few free choices outside the ‘pro’ option.\n\nThese are ok. Some are ugly, some do the job. I actually quite liked the lecture room. I like that you can virtually sit in spots.\n\nThen we try to actually load media, apply settings and all the other ‘doing stuff’ that a presenter might need. It’s back and forth between a VERY outdated and unintuitive menu that blacks out the environment and back to your avatar view.\n\nThis is frustrating. \n\nHowever, you can play YouTube video. So — this is great, but doing so is pretty painful. But hey! YouTube party!  At last!\n\nThere is a paywall for the pro version. If you click on the pro tab is simply tells you there is a pro version.  Really?\n\nI have not seen a lecture or piece of learning yet. So I am interested to see how people are actually wrestling with all this. \n\nFor now. I can’t recommend this.\n\nIt needs a usability overhaul. \n\nI cannot imagine having any joy in delivering a lecture in this platform right now.   I’d rather use zoom. I hate zoom.\n\nI know building this was hard work.I know this is someones baby!\n\nI can tell you though, you are on the right track. We need a product to fill this niche.  A place where VR and flatscreen can meet and present and learn easily,  together . I wish you well in your next steps.",
+      "date": 1605351655,
+      "review_helpful_count": 69,
+      "author_display_name": "HeavyMessing",
+      "author_alias": "HeavyMessing",
+      "developer_response": {
+        "body": "Hi Manochang we appreciate and value your feedback.  Some of our team have seen your post and would love to connect to share what is possible including tips that might be helpful.  If you would like, please reach out to us at info@engagevr.io and we will get something set up. \n\nWe also have an \"Exploring ENGAGE\" event this Monday if you would like to join. \n\nDetails here https://app.engagevr.io/events/1QQN9/share or visit our EVENTS section.",
+        "date": 1605359144
+      }
+    },
+    {
+      "id": "391244968738875",
+      "score": 3,
+      "review_title": "This is a great title but",
+      "review_description": "I’ve been using this software on the oculus quest 2 and have experienced a couple of issues . \n1 not all the fx objects work and are visible eg laptop. \n2 you cannot save media links via the headset . You can save them via the site on a laptop or mobile but when you try to run them they don’t work . \n3 is a question can a non account holder go to a session via the web browser or do they have to use your software . \nFor context I have a pro account and want to showcase this to some of my team at work . \n\nFinally the reason for my questions here on review is I don’t see any help option on your site .",
+      "date": 1605745358,
+      "review_helpful_count": 20,
+      "author_display_name": "daniel.dorval.14",
+      "author_alias": "daniel.dorval.14",
+      "developer_response": {
+        "body": "Hi Daniel. Yes ENGAGE is cross platform and works on Mobile Phones, Tablets, Desktop PC's and almost every other popular VR headset on the market today. \n\nYou can link ENGAGE to Google Docs, OneDrive and pretty much any web service via our web app to share documents and present decks. The web app is located at app.engage.io and different device downloads are available at www.engagevr.io. \n\n I recommend you attend the Exploring ENGAGE events which are listed under or EVENTS  page to learn more\n\nUPDATED: Hi Daniel help and support is listed on our website here https://engagevr.io/support/ please reach out directly and we can help you with your query's.",
+        "date": 1606123235
+      }
+    },
+    {
+      "id": "3020265838074354",
+      "score": 5,
+      "review_title": "Must have for remote working and events",
+      "review_description": "I attended some of the events in ENGAGE and was blown away by the feeling of being in the same location as people from across the world. \nPeople can join in VR, on mobile, on PC, which is so convenient! \nWe started using it for remote working recently and it has been so effective. There are so many features and tools! I recommend ENGAGE as a must have for remote working and events for any business.",
+      "date": 1605522742,
+      "review_helpful_count": 24,
+      "author_display_name": "Andrew_Deegan",
+      "author_alias": "Andrew_Deegan",
+      "developer_response": null
+    },
+    {
+      "id": "332229031656235",
+      "score": 1,
+      "review_title": "Worst graphics I’ve ever seen",
+      "review_description": "Devs should be embarrassed to put this out there.",
+      "date": 1619743164,
+      "review_helpful_count": 36,
+      "author_display_name": "PushyBush",
+      "author_alias": "PushyBush",
+      "developer_response": {
+        "body": "Sorry to hear this, ENGAGE is an advanced virtual reality platform designed for professionals, event organizers, educators and corporations to build their own virtual worlds, provide metaverse services directly to their own clients, and create new business models. Please feel free to learn more at https://engagevr.io/",
+        "date": 1689766356
+      }
+    },
+    {
+      "id": "263786723301571",
+      "score": 5,
+      "review_title": "Great Business/Training Tool",
+      "review_description": "I have been using Engage for nearly a year!  Its a valuable tool for business and training companies looking to develop their presence in the next evolution of the Metaverse.  We are constantly looking at new ways of developing the features and resource to have maximum impact for people to enjoy the benefits of experiencing VR/AR technology.  The user response has been really very positive.",
+      "date": 1696858807,
+      "review_helpful_count": 4,
+      "author_display_name": "mradysmith",
+      "author_alias": "mradysmith",
+      "developer_response": null
+    },
+    {
+      "id": "236206696016550",
+      "score": 5,
+      "review_title": "very good",
+      "review_description": "met there news team amd they were nicetalk with them and me very nive people that help me out because i got it today.",
+      "date": 1689490102,
+      "review_helpful_count": 3,
+      "author_display_name": "jayjay886613",
+      "author_alias": "jayjay886613",
+      "developer_response": null
+    },
+    {
+      "id": "218668214029590",
+      "score": 1,
+      "review_title": "What's this even for? Zombieland?",
+      "review_description": "I've tried repeatedly to use this app. The first time I was simply in an empty white hub park, walking from billboard to billboard with other silent avatars. Everywhere I went was just another hub.\n\nThe most recent time I went in I couldn't even walk around. And I kept seeing fake avatar bots moving about the space. I pressed and pulled and pushed every part of my controllers. Nothing. Except teleportation to another useless hub.\n\nI heard that some of my AltspaceVR refugee friends moved her. But it looks like they'll have to catch up with me in another app.",
+      "date": 1678635900,
+      "review_helpful_count": 29,
+      "author_display_name": "Winechick.Kim",
+      "author_alias": "Winechick.Kim",
+      "developer_response": {
+        "body": "We are sorry to hear you didn't enjoy ENGAGE experience, please feel free to check out our event listing on the web manager or in-app under 'Events' to find public events with others. You can find out more about how to do this in our app documentation - https://docs.engagevr.io/engage/'",
+        "date": 1689766032
+      }
+    },
+    {
+      "id": "218271706379885",
+      "score": 1,
+      "review_title": "Verification email",
+      "review_description": "Won't send verification email.",
+      "date": 1606225885,
+      "review_helpful_count": 5,
+      "author_display_name": "Mickxxxxx",
+      "author_alias": "Mickxxxxx",
+      "developer_response": {
+        "body": "Sorry to hear that. Please contact us directly at info@engagevr.io and we will resolve this for you.",
+        "date": 1606415889
+      }
+    },
+    {
+      "id": "216862729856141",
+      "score": 1,
+      "review_title": "So confused",
+      "review_description": "Can’t even try it. Try to make a username and get prompted with “enter at least 4 characters “\n\nThe name I was trying to use was 9 characters long, also with numbers yet still “invalid”\n\n1 star I’m afraid as is unusable.",
+      "date": 1606612992,
+      "review_helpful_count": 6,
+      "author_display_name": "SirLobbington",
+      "author_alias": "SirLobbington",
+      "developer_response": {
+        "body": "Are you trying to put in spaces? Please email us directly at info@engagevr.io and we will resolve the issue for you.",
+        "date": 1606755766
+      }
+    },
+    {
+      "id": "213844568206091",
+      "score": 1,
+      "review_title": "No body on people",
+      "review_description": "Also I was join it as waiting….nothing body online 🙄 myself look round as no body 🥺only me not make sense",
+      "date": 1686609266,
+      "review_helpful_count": 3,
+      "author_display_name": "CONEHEAD1230",
+      "author_alias": "CONEHEAD1230",
+      "developer_response": {
+        "body": "We are sorry to hear you didn't enjoy ENGAGE experience, please feel free to check out our event listing on the web manager or in-app under 'Events' to find public events with others. You can find out more about how to do this in our app documentation - https://docs.engagevr.io/engage/",
+        "date": 1689765643
+      }
+    },
+    {
+      "id": "208443047344280",
+      "score": 5,
+      "review_title": "LOVING THIS APP SO FAR!",
+      "review_description": "This app is nice. It has great potential. My only gripe with this app is that it’s not upfront with the pro price of using this app. I’ve been tempted to click on the pro version but I don’t want to be sticker shocked at the end. I really love the fact that it has some nice places where you can actually hold a meeting . I hope the devs keep working on this app. You guys are doing a great job!! Can’t wait to see what the next update has in stored for this app. Two thumbs up. I hope all have a great day. Please stay safe. COVID-19￼",
+      "date": 1605469993,
+      "review_helpful_count": 118,
+      "author_display_name": "Gamer217",
+      "author_alias": "Gamer217",
+      "developer_response": null
+    },
+    {
+      "id": "185689616520433",
+      "score": 5,
+      "review_title": "A Versatile app you cant miss!",
+      "review_description": "So this is an app I stumbled upon that has been released for almost every major vr platform except PSVR, its goal is for business and work but I have been loving the ability to decorate levels with working video screens, as well many decorations and such. I think it would have been far more enjoyable to use this over the extremely lacking Oculus venues app I recently attempted to use for the Facebook connect event and was left so disappointed I just watched it on my computer instead seriously cant even put facial hair on the avatars... where as this app lets you import your own face into the application of a full character. \n\nNow going past the amazing avatars we also have a ton of 3d models lots of which are animated to decorate the environments with, tons of weather and lighting, even things like fire and leaves making this a great app to host what ever kind of virtual meet up you want, you can free walk with click turning and teleport and some items are interact able. \n\nI was able to use it to load videos from my computer using my google drive and watch anything I wanted though it wouldn't let me full screen in this method so its definitely an app that needs some work before its perfect but the you tube stuff loaded in flawlessly and looked amazing including 360 videos, and 3D sbs videos . Its also a fantastic app for learning purpose as it offers the ability to do quizes and other choice question options from those viewing, and has the ability to easily write on surfaces set up to work with it.  \n\nYou gotta see it for yourself and make your own choice but Its definitely one you need to try for yourself. Full Video Review Here: https://youtu.be/p2RTS24IFa8",
+      "date": 1605965213,
+      "review_helpful_count": 31,
+      "author_display_name": "Lipnox",
+      "author_alias": "Lipnox",
+      "developer_response": null
+    }
+  ],
+  "total": 20,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-20T13:53:24Z"
+}

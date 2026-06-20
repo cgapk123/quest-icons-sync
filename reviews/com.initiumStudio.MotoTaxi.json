@@ -1,0 +1,87 @@
+{
+  "app_id": "7864103250300962",
+  "package_name": "com.initiumStudio.MotoTaxi",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Moto Taxi",
+  "rating_average": 3.9166666666667,
+  "rating_count": 12,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "1075909118948243",
+      "score": 5,
+      "review_title": "O",
+      "review_description": "Mjjj",
+      "date": 1780614297,
+      "review_helpful_count": 0,
+      "author_display_name": "shimyay",
+      "author_alias": "shimyay",
+      "developer_response": null
+    },
+    {
+      "id": "122315048822009953",
+      "score": 4,
+      "review_title": "Good game",
+      "review_description": "Are you guys trying to update this game?",
+      "date": 1768222407,
+      "review_helpful_count": 5,
+      "author_display_name": "Shaydee2.0",
+      "author_alias": "Shaydee2.0",
+      "developer_response": {
+        "body": "Hello! Thank you for the support. Yes, absolutely! We are actively working on the game and have future updates planned to improve the experience and add new features. Stay tuned!",
+        "date": 1768724360
+      }
+    },
+    {
+      "id": "1481201963133621",
+      "score": 2,
+      "review_title": "Uhm.. pretty mid ?",
+      "review_description": "So i saw this game was part of Horizon+ i thought that was meta's seal of approval.. its very mid for what it is. You drive at motorcycle  land on green circles that picks up passengers. And get destination to where to drop them off , and you earn money on the ride. Seems like there's a couple different motorcycles you unlock the longer you play. Driving is OK, its a bit on the rough side, and I pressed the right stick broke the whole game for me looks to summon an old lazer pointer for teleport and remove the steering wheel on the cycle\n. The passengers readout message for where to go is cutoff on the destination part.\n\nStill very half baked game imo.",
+      "date": 1761625525,
+      "review_helpful_count": 6,
+      "author_display_name": "S1MONSAYS",
+      "author_alias": "S1MONSAYS",
+      "developer_response": {
+        "body": "Thanks for taking the time to share your thoughts.\nWe appreciate the honesty, even if the experience felt “mid” for you — feedback like this helps us improve the game in the right direction.\n\nWe’re currently working on updates that address the issues you mentioned:\n\nDriving refinement: we’re smoothing out the handling so the motorcycle feels more natural and less rough.\n\nRight-stick bug: pressing the right stick shouldn’t activate the old teleport laser — this is a known issue and is being fixed in an upcoming patch.\n\nDestination text cutoff: this UI bug is also being corrected so the passenger directions display clearly on all devices.\n\nProgression & unlocks: more motorcycles and progression features will be added to make the experience feel deeper and more rewarding.\n\nWe’re glad you noticed the Horizon+ inclusion — it motivates us even more to polish the game and raise it to the level players expect.\n\nThanks again for your feedback.\nWe hope you’ll give it another try after the next round of updates — the improvements should make a noticeable difference.",
+        "date": 1764793664
+      }
+    },
+    {
+      "id": "1438547713822070",
+      "score": 1,
+      "review_title": "Raging motion sickness",
+      "review_description": "Raging motion sickness with every move of the bike. Had a hard time with reversing. I personally cannot tolerate the movement therefore barely got down 2 blocks.",
+      "date": 1751468859,
+      "review_helpful_count": 5,
+      "author_display_name": "dveatch0",
+      "author_alias": "dveatch0",
+      "developer_response": {
+        "body": "Thank you for your feedback, and we’re very sorry to hear that you experienced such strong motion sickness.\nBike movement in VR can feel intense for some players, and we completely understand how uncomfortable that can be — especially when reversing or making sharp turns.\n\nWe are currently working on updates that will introduce:\n\nAdditional comfort settings to reduce motion sickness\n\nSmoother camera movement and improved stabilization\n\nBetter reversing controls for easier handling\n\nOptional comfort features like a vignette/tunnel vision effect\n\nYour feedback helps us improve the experience for everyone, so we truly appreciate that you took the time to share it.\nWe hope you'll give the game another try once the comfort update is released — it should make the experience much more manageable.\n\nThank you again for playing.",
+        "date": 1764793558
+      }
+    },
+    {
+      "id": "340329185746248",
+      "score": 5,
+      "review_title": "Immersive and Fun VR Taxi Experience!",
+      "review_description": "I've been having an absolute blast with this VR taxi game! The variety of nine different motors, each with its own unique style, keeps the gameplay fresh and exciting. Navigating the city and picking up customers who wave for a ride is incredibly immersive and fun. It's so satisfying to take them to their destinations and earn money.\n\nOne suggestion I have is to add even more motors to choose from. It would be fantastic to see an even greater variety of vehicles in the game. Overall, this is an outstanding VR experience, and I highly recommend it to anyone looking for a fun and engaging game. Keep up the great work!",
+      "date": 1716980807,
+      "review_helpful_count": 14,
+      "author_display_name": "ErrEgg213",
+      "author_alias": "ErrEgg213",
+      "developer_response": {
+        "body": "Thank you so much for your comment :)",
+        "date": 1716990576
+      }
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T13:46:51Z"
+}
