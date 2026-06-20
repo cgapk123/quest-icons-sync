@@ -1,0 +1,42 @@
+{
+  "app_id": "4103186286403181",
+  "package_name": "com.oculus.environment.prod.personaloffice01",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Studio",
+  "rating_average": 2.5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "419076071281833",
+      "score": 2,
+      "review_title": "Haha",
+      "review_description": "Haha",
+      "date": 1723442327,
+      "review_helpful_count": 5,
+      "author_display_name": "Lucymclean",
+      "author_alias": "Lucymclean",
+      "developer_response": null
+    },
+    {
+      "id": "158754880665016",
+      "score": 3,
+      "review_title": "Hi",
+      "review_description": "I'm just doing this to have 3 reviews and balance out two edge and one middle review.",
+      "date": 1704766000,
+      "review_helpful_count": 3,
+      "author_display_name": "PenguinKG",
+      "author_alias": "PenguinKG",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T19:26:22Z"
+}

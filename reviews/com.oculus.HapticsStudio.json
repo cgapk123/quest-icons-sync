@@ -1,0 +1,42 @@
+{
+  "app_id": "6759764157450104",
+  "package_name": "com.oculus.HapticsStudio",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Meta Haptics Studio",
+  "rating_average": 4.5,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "256534670832083",
+      "score": 3,
+      "review_title": "Lacks effect creation from scrach",
+      "review_description": "Very promising tool, but you must create an effect from a pre-existing audio file or haptic effect. Too bad. I would like to create from scratch very simple and short effects with a visual tool (that can send files on my quest easily); this one can't… for now I hope.\nLacks maybe integration for SteamVR on the Unity SDK…\n\nNevertheless, I enjoyed the simplicity (conciseness) of the SDK. Thumbs up for that!",
+      "date": 1708945219,
+      "review_helpful_count": 3,
+      "author_display_name": "colas.fuchs",
+      "author_alias": "colas.fuchs",
+      "developer_response": null
+    },
+    {
+      "id": "1096239431370589",
+      "score": 5,
+      "review_title": "Great tool for a game dev",
+      "review_description": "Great tool for a game dev",
+      "date": 1704767368,
+      "review_helpful_count": 0,
+      "author_display_name": "IamLuisMonster",
+      "author_alias": "IamLuisMonster",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T19:22:06Z"
+}

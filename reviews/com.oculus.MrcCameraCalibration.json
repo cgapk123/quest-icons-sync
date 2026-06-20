@@ -1,0 +1,240 @@
+{
+  "app_id": "2532132800176262",
+  "package_name": "com.oculus.MrcCameraCalibration",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Mixed Reality Capture",
+  "rating_average": 2.3809523809524,
+  "rating_count": 147,
+  "review_count": 147,
+  "reviews": [
+    {
+      "id": "1494042495604554",
+      "score": 1,
+      "review_title": "Sad and unfortunate",
+      "review_description": "I realize that the original oculus quest I bought when it was the newest thing on the market and at price tag of $500 (Not to mention the 40+ apps/games that cost an avg of $30 each. ) are no longer gonna be supported by meta. I understand. My problem is why in the world would they delete apps already purchased and or make them non functioning all of a sudden??!!??  Especially when these same apps no longer work on my headset but will transfer and work just fine on a new headset. Well isn’t that just wonderful. So I purchase a new headset at an additional $400 and my apps will amazingly all work again. Well I say up yours meta. No thanks.",
+      "date": 1778100584,
+      "review_helpful_count": 3,
+      "author_display_name": "jamesscott32",
+      "author_alias": "jamesscott32",
+      "developer_response": null
+    },
+    {
+      "id": "629060753621392",
+      "score": 1,
+      "review_title": "Doesn't work",
+      "review_description": "Like almost every app or extension for my quest 3 it doesn't work. I get non-Meta stuff not working, but the majority of their stuff doesn't work. My computer is either too new or too old depending on the app. Been disappointed since day 1.",
+      "date": 1744175443,
+      "review_helpful_count": 8,
+      "author_display_name": "Crazyiiis",
+      "author_alias": "Crazyiiis",
+      "developer_response": null
+    },
+    {
+      "id": "538552909340401",
+      "score": 1,
+      "review_title": "Will not connect when trying to record",
+      "review_description": "Keeps bring message up with an error about not using a mixed reality game when I am",
+      "date": 1737052311,
+      "review_helpful_count": 9,
+      "author_display_name": "shadowpanda.2025",
+      "author_alias": "shadowpanda.2025",
+      "developer_response": null
+    },
+    {
+      "id": "254090111112484",
+      "score": 1,
+      "review_title": "Waste of time",
+      "review_description": "I don’t understand why yuh guys make these things for people to enjoy but after yuh make this crap and make your money yuh fly the coop which is unfair to the people that paid their money for these games and headsets I just don’t understand  but looking at the reviews for this game and other content on meta quest I haven’t been playing because I see the foolishness yuh makers don’t care about this stuff after yuh make your money",
+      "date": 1707954225,
+      "review_helpful_count": 36,
+      "author_display_name": "N2DeepO",
+      "author_alias": "N2DeepO",
+      "developer_response": null
+    },
+    {
+      "id": "412680671252506",
+      "score": 1,
+      "review_title": "Bummer",
+      "review_description": "☹️",
+      "date": 1709375868,
+      "review_helpful_count": 11,
+      "author_display_name": "3Guesses",
+      "author_alias": "3Guesses",
+      "developer_response": null
+    },
+    {
+      "id": "1057847278900187",
+      "score": 1,
+      "review_title": "Meta PLEASE Listen for Once!!!",
+      "review_description": "Ok, My plea to Meta:\nMeta, there is no better way to show VR to others without a headset than with Mixed Reality Capture.  No better way, the ONLY way the doesnt make VR look stupid.  Watching Beat Saber in 2d with no avatar Looks Stupid and makes both Beat Saber and VR look silly.   We Want to share VR, grow it, which means more $$$$$$$$$ for your greedy investors who dont care bout anything.   \n\nSo... My plea on behalf of all the VR community. Please for the love of Jon Carmack, PLEASE Fix the MRC app as well as Make your OWN Capture app for Phones AND PC that WORKS and is Intuitive.  Make it JUST WORK.  No fuss, No aggravating set up times, no headset falling asleep and canning our hard work, Just GET IT DONE already!  This is a tech thats been out for YEARS and its being handled by the Inept devs of Liv and pretty much thats it.  \n\nJust make it so all we need to do MRC on our VR games is a PHONE and our Quest headset!  No wires. No hassles. Just a 2 minute set up if not faster and we are in!  Making great content thats Only gonna grow the platform and make your greedy investors $$$$$$$$$$$$$$$$$$$   <-- Magic Word there. \n\nSincerely, Every Oculus VR user ever!  ps- Ditch the puppet and hire Carmack back to run Meta- PLEASE  You dont need a yes man, you need a man who \"gets it\"  A man who would have fought for Echo VR.",
+      "date": 1698003894,
+      "review_helpful_count": 187,
+      "author_display_name": "Dejavuducat",
+      "author_alias": "Dejavuducat",
+      "developer_response": null
+    },
+    {
+      "id": "889246992592033",
+      "score": 1,
+      "review_title": "Where's the documentation",
+      "review_description": "The link to the documentation is broken and I can't find it with search.",
+      "date": 1701221443,
+      "review_helpful_count": 4,
+      "author_display_name": "GrrrlRomeo",
+      "author_alias": "GrrrlRomeo",
+      "developer_response": null
+    },
+    {
+      "id": "1610980602728454",
+      "score": 5,
+      "review_title": "Looks awesome, but needs a fix.",
+      "review_description": "Apart from all the config issue, I am seeing an issue where when I start an MRC enabled app (Gravity Sketch or a custom Unity app I just made that uses MRC via OvrCameraRig), I can't connect to it from the OBS Plugin. When I debug the startup of the apps I see this in each log, at the end: \n\n\"ovrp_Media_GetInitialized failed. OVRMrcLib not loaded (arvr/projects/integrations/OVRPlugin/Src/OVR_Plugin_Media.cpp:234)\"",
+      "date": 1694209681,
+      "review_helpful_count": 7,
+      "author_display_name": "james.andrew.7773",
+      "author_alias": "james.andrew.7773",
+      "developer_response": null
+    },
+    {
+      "id": "6387758931293613",
+      "score": 1,
+      "review_title": "Error can't save calibration to headset",
+      "review_description": "Came back into try again after seeing on a forum that this was resolved but I'm still getting the same error and I updated the headset. Not sure why this is still an issue.",
+      "date": 1688337218,
+      "review_helpful_count": 4,
+      "author_display_name": "TrivialBeing",
+      "author_alias": "TrivialBeing",
+      "developer_response": null
+    },
+    {
+      "id": "232206739677082",
+      "score": 2,
+      "review_title": "Can't install on VR headset",
+      "review_description": "How to install this application on Quest 2 if it is not searched in the store?",
+      "date": 1688298800,
+      "review_helpful_count": 0,
+      "author_display_name": "iROOT",
+      "author_alias": "iROOT",
+      "developer_response": null
+    },
+    {
+      "id": "1402527510251931",
+      "score": 2,
+      "review_title": "My Feedback",
+      "review_description": "I'm Trying To Make A Video With Mixed Reality But On My Pc It Won't Sync With The Quest And Its Hard To Setup",
+      "date": 1658528107,
+      "review_helpful_count": 3,
+      "author_display_name": "cg_vr_gtag",
+      "author_alias": "cg_vr_gtag",
+      "developer_response": null
+    },
+    {
+      "id": "405546674801773",
+      "score": 1,
+      "review_title": "driving me mad",
+      "review_description": "how the hell do i get this app to install? ive purchased the app but it doesnt give the option to install on the headset or on my ipad.",
+      "date": 1653511580,
+      "review_helpful_count": 18,
+      "author_display_name": "jarvismuggle",
+      "author_alias": "jarvismuggle",
+      "developer_response": null
+    },
+    {
+      "id": "106495175180939",
+      "score": 5,
+      "review_title": "This is so good 👍 I'm going to buy it",
+      "review_description": "buy it everyone",
+      "date": 1636458290,
+      "review_helpful_count": 0,
+      "author_display_name": "MyDarthFather",
+      "author_alias": "MyDarthFather",
+      "developer_response": null
+    },
+    {
+      "id": "241980711028822",
+      "score": 5,
+      "review_title": "A little tedious, but works great!!",
+      "review_description": "To anyone who reads this. You need the tool for your PC as well, not just this app. \n\nThis is the calibration connector app. MRC gets a bad rep for being broken or whatever you want to say but you just have to know how to set it up. It actually works great and as long as my guardian doesn't disappear and I don't move my camera, all I have to do to record a mr video is walk in and turn everything on and play. Its great. Don't get me wrong the UI could be a hell of a lot better and the calibration process is a little ridiculous compared to liv on PC but if you can get passed that, it's a great tool and pretty much the only way to do mr with Quest. If its not working for you, you are doing something wrong. \n\nDownload the official PC tool from oculus here : creator.oculus.com/mrc",
+      "date": 1623343354,
+      "review_helpful_count": 44,
+      "author_display_name": "Sir_Leonidas",
+      "author_alias": "Sir_Leonidas",
+      "developer_response": null
+    },
+    {
+      "id": "495529471394664",
+      "score": 5,
+      "review_title": "Hi",
+      "review_description": "No one will probably see this but hi",
+      "date": 1582372526,
+      "review_helpful_count": 324,
+      "author_display_name": "Tele_pl",
+      "author_alias": "Tele_pl",
+      "developer_response": null
+    },
+    {
+      "id": "157546297367003",
+      "score": 5,
+      "review_title": "Now works, have new update on pc V5.1.2",
+      "review_description": "new update on pc Version 5.1.2 fixes a bug which prevented the calibration file from saving to app folder \n\nHowto:\nFollow the onscreen instructions to calibrate your controller and then click Save to Local.\nFind the calibration file mrc.xml under %AppData%\\Mixed Reality Capture\\savedCalibrationData.\nConnect the Quest headset to your PC.\nCopy the calibration file to Quest headset's app folder using push mrc.xml to sdcard/Android/data/(app name)/files\nbeat saber example\nsdcard/Android/data/com.beatgames.beatsaber/files\nrestart device 1 time",
+      "date": 1691741538,
+      "review_helpful_count": 11,
+      "author_display_name": "nonzaattenionpro",
+      "author_alias": "nonzaattenionpro",
+      "developer_response": null
+    },
+    {
+      "id": "155420210903778",
+      "score": 1,
+      "review_title": "I wish this would be fixed",
+      "review_description": "Even though my oculus on my phone are on the same Wi-Fi, this app will not connect. This would be so much fun if it worked. For what I paid for this machine I really thought that I would get apps like this that would actually function.",
+      "date": 1690381085,
+      "review_helpful_count": 4,
+      "author_display_name": "BigfootHunterVR",
+      "author_alias": "BigfootHunterVR",
+      "developer_response": null
+    },
+    {
+      "id": "154769092870964",
+      "score": 1,
+      "review_title": "I cant save the calibration to my heads",
+      "review_description": "When i try to set all of it up, in my quest it says that there is an update for the app, but when i press download now, nothing happens. I crn get the compositor working, but i cant save the calibration to my headset (after the camera calibration) i hope oculus gets it fixed soon",
+      "date": 1593858991,
+      "review_helpful_count": 4,
+      "author_display_name": "hanba",
+      "author_alias": "hanba",
+      "developer_response": null
+    },
+    {
+      "id": "141503115538835",
+      "score": 1,
+      "review_title": "BS",
+      "review_description": "It worked one time and then it was pain in my a**",
+      "date": 1680370518,
+      "review_helpful_count": 2,
+      "author_display_name": "laughlane",
+      "author_alias": "laughlane",
+      "developer_response": null
+    },
+    {
+      "id": "138822374913245",
+      "score": 5,
+      "review_title": "I had no problems at all",
+      "review_description": "I started using this after Oculus started supporting wireless link to PCs so that may be related. But I really had no issue at all and was recording in under an hour. Yes it's some work and can be confusing, but you have to remember this is in beta. If you're expecting it to do the work for you, maybe wait until the real thing comes out. If you really want to try, pay attention to the details. You'll have to adjust a few setting to get it just right or to get it to do anything at all.",
+      "date": 1618033862,
+      "review_helpful_count": 4,
+      "author_display_name": "JohannVogel",
+      "author_alias": "JohannVogel",
+      "developer_response": null
+    }
+  ],
+  "total": 20,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-20T19:23:31Z"
+}
