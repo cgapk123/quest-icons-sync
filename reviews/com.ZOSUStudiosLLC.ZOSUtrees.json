@@ -1,0 +1,67 @@
+{
+  "app_id": "5611107608983379",
+  "package_name": "com.ZOSUStudiosLLC.ZOSUtrees",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Jungle Passthrough",
+  "rating_average": 3.7142857142857,
+  "rating_count": 7,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1065726213298018",
+      "score": 1,
+      "review_title": "Not worth it🤦‍♂️",
+      "review_description": "I've bought a lot of apps and experiences over the time I've owned my Quest, usually looking for unique features. Out of all of them, I've only ever refunded two, and this one, Jungle Passthrough, is one of them. It's just horrible… constant crashing, the menus are a mess, and I couldn't even get things to spawn properly. Even for just 0.04$, I feel like I got scammed and had to get the refund. It really feels like the developers don't care at all.",
+      "date": 1777549753,
+      "review_helpful_count": 0,
+      "author_display_name": "7aki",
+      "author_alias": "7aki",
+      "developer_response": null
+    },
+    {
+      "id": "2593563167501172",
+      "score": 2,
+      "review_title": "bad UI but nice models",
+      "review_description": "The scene clashes with the passthrough environment, because the scenes are huge while your room is likely not, and there's no way to turn off passthrough. There's not much to do except look at models floating in space.",
+      "date": 1726513956,
+      "review_helpful_count": 1,
+      "author_display_name": "JimZM",
+      "author_alias": "JimZM",
+      "developer_response": {
+        "body": "Thank you for the feedback! There are options to restrict the view distance of objects for smaller rooms (+/- custom visual boundary areas).  As far as things to do, the primary thing is you can move (and spawn in some areas) objects around using handtracking or controllers and save their relative positions to setup a jungle in your home.  Also good idea to give an option to turn off Passthrough. TBD if another game mode will be added for a sort-of hide-and-seek animals.",
+        "date": 1726795157
+      }
+    },
+    {
+      "id": "3237277963084110",
+      "score": 3,
+      "review_title": "Amazing app for nature lovers",
+      "review_description": "This is an amazing app for nature lovers. However; if there could be a way to keep the objects locked in place when stepping out of bounds? When (building your own jungle? And it would always be nice if a “water fall” feature could exist ?\n\nAnd an easier features menu? Where it doesn’t affect your play?",
+      "date": 1698694163,
+      "review_helpful_count": 1,
+      "author_display_name": "JustB_93",
+      "author_alias": "JustB_93",
+      "developer_response": null
+    },
+    {
+      "id": "119200641260274",
+      "score": 5,
+      "review_title": "Real jungle mixed reality",
+      "review_description": "I am so surprised plants and animals could look this real on my VR. One of my first tries using mixed reality and it has expanded my mind. Def check it out if you want to put plants and animals around your room and see some of this new mixed reality stuff",
+      "date": 1691305903,
+      "review_helpful_count": 0,
+      "author_display_name": "JessiLove99",
+      "author_alias": "JessiLove99",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T00:42:01Z"
+}

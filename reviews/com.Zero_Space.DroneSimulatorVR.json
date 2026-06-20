@@ -1,0 +1,488 @@
+{
+  "app_id": "5294103097298922",
+  "package_name": "com.Zero_Space.DroneSimulatorVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Drone Simulator VR",
+  "rating_average": 4.5921052631579,
+  "rating_count": 76,
+  "review_count": 39,
+  "reviews": [
+    {
+      "id": "1475621084280557",
+      "score": 5,
+      "review_title": "Genuinely excellent",
+      "review_description": "This has great controls and really scratches the VR drone itch. \n\nPlease add more levels 👻🐸😁⛄🏡\n\nIs multiplayer possible for racing?",
+      "date": 1772906438,
+      "review_helpful_count": 3,
+      "author_display_name": "Leadboots1",
+      "author_alias": "Leadboots1",
+      "developer_response": null
+    },
+    {
+      "id": "1256298526464492",
+      "score": 5,
+      "review_title": "Fun way to practice flying",
+      "review_description": "I have a DJI Neo 2 I fly in manual mode 3 on my phone and this is great for practicing",
+      "date": 1772893102,
+      "review_helpful_count": 2,
+      "author_display_name": "NickVee",
+      "author_alias": "NickVee",
+      "developer_response": null
+    },
+    {
+      "id": "2361831734246431",
+      "score": 5,
+      "review_title": "As a real rc pilot i say this is great!",
+      "review_description": "Lot of challenges, maps and great physic, worth the price.\nMy only issue is that it doesn't work with RC controller,\nonly with Quest controllers. For starters it's ok, but for more\nadvanced simulator users, rc controller support is a must.\nLuckily dev. is already working on it, very friendly and skilled,\nso we can hope :)\nThank you!",
+      "date": 1764420025,
+      "review_helpful_count": 22,
+      "author_display_name": "relaxculus",
+      "author_alias": "relaxculus",
+      "developer_response": {
+        "body": "Thanks for your review! Yes, that is true. We are already working on a new update and we definitely want to tackle the custom controller support. We will make an announcement in the next days about what will be included.",
+        "date": 1764423836
+      }
+    },
+    {
+      "id": "1201100196411190",
+      "score": 5,
+      "review_title": "Best game ever i love it",
+      "review_description": "Its so cool",
+      "date": 1780000277,
+      "review_helpful_count": 0,
+      "author_display_name": "Wolfie8095931",
+      "author_alias": "Wolfie8095931",
+      "developer_response": {
+        "body": "<3",
+        "date": 1780000413
+      }
+    },
+    {
+      "id": "25867932846157394",
+      "score": 5,
+      "review_title": "Really polished simulator!",
+      "review_description": "This app simulates all aspects of flying an FPV camera quadcopter. Great consistent art style, very smooth operation and surprisingly challenging combining camera control with the actual flying.",
+      "date": 1765305099,
+      "review_helpful_count": 1,
+      "author_display_name": "daloots",
+      "author_alias": "daloots",
+      "developer_response": null
+    },
+    {
+      "id": "762213343650941",
+      "score": 5,
+      "review_title": "Photo/Video",
+      "review_description": "Very fun experience and easy to use. However, I don't know how to take pictures? What buttons do i need to click ? Please help",
+      "date": 1760799043,
+      "review_helpful_count": 2,
+      "author_display_name": "tessamcmilan",
+      "author_alias": "tessamcmilan",
+      "developer_response": {
+        "body": "Hello and thank you for your positive review.\nYou can find the documentation here:\nhttps://0space-studios.com/drone-simulator-vr-documentation/\n\nUnder Activities → Photospots you’ll find detailed instructions.",
+        "date": 1760801866
+      }
+    },
+    {
+      "id": "712432688623134",
+      "score": 5,
+      "review_title": "Realistic & Enjoyable Drone Experience",
+      "review_description": "I'm really enjoying this game. This is hands-down the most realistic drone experience I’ve had in VR. The physics are so authentic it feels like the real thing, and it’s awesome knowing the skills I’m learning here might translate to actual drone flying. I can’t get enough of FPV mode, it’s immersive, and so much fun!",
+      "date": 1753021607,
+      "review_helpful_count": 13,
+      "author_display_name": "The_Gendron",
+      "author_alias": "The_Gendron",
+      "developer_response": null
+    },
+    {
+      "id": "716737598183629",
+      "score": 5,
+      "review_title": "Great simulator",
+      "review_description": "Overall a great experience, well executed. The 3 environments are quite limited so I'd like to see some more, or give other devs the ability to add their own landscapes.\nI'll keep it to practice on.",
+      "date": 1750774261,
+      "review_helpful_count": 9,
+      "author_display_name": "richmoss120",
+      "author_alias": "richmoss120",
+      "developer_response": null
+    },
+    {
+      "id": "1100150795269231",
+      "score": 4,
+      "review_title": "It's a bird... no it's a drone",
+      "review_description": "It's different to handle the drones at first but once you learn and get good at it, then this game becomes very fun. \n\nI really like the game and can't wait to see what else they will add to it.",
+      "date": 1748914490,
+      "review_helpful_count": 8,
+      "author_display_name": "JeffRichards",
+      "author_alias": "JeffRichards",
+      "developer_response": {
+        "body": "Hey and thanks for your positive feedback! If you’d like to stay updated or share ideas and feedback, feel free to join our Discord!\nDiscord: https://discord.gg/GvJNYnDCGN",
+        "date": 1749296314
+      }
+    },
+    {
+      "id": "718677141320983",
+      "score": 5,
+      "review_title": "Helpful and surprisingly fun :)",
+      "review_description": "I got Drone Simulator to practice flying for drone videography and was pleasantly surprised that I ended up having a lot of fun as well. \nI love exploring and finding the photo spots :)",
+      "date": 1749475176,
+      "review_helpful_count": 6,
+      "author_display_name": "Sydneysaphira",
+      "author_alias": "Sydneysaphira",
+      "developer_response": null
+    },
+    {
+      "id": "758383247351203",
+      "score": 4,
+      "review_title": "How do take photos?",
+      "review_description": "Good game, but I can't figure out how to take photos to unlock other maps",
+      "date": 1752394341,
+      "review_helpful_count": 1,
+      "author_display_name": "BigGazza1902",
+      "author_alias": "BigGazza1902",
+      "developer_response": {
+        "body": "You will find a small tutorial board nearby, located to the right of the Progress Overview screen.\nOnce you get close to the photo spot, a table will appear on your Drone Downstream monitor in your right hand. This will show you which factors have been fulfilled.\nFly into the yellow sphere for position (when the position is correct, the field in the table will light up). For angle, align both the drone horizontally and the camera vertically with the gimbal. (The field will also light up yellow if the angle is correct). Now, adjust the zoom. (Once the third factor is correct, all fields in the table will light up, and the photo will automatically be taken).\nIf you're still having trouble, feel free to contact us at info@0space-studios.com or join our Discord community: https://discord.gg/GvJNYnDCGN",
+        "date": 1752482983
+      }
+    },
+    {
+      "id": "668925302465044",
+      "score": 4,
+      "review_title": "Good simulator, but...",
+      "review_description": "It's annoying, that drone \"crashes\" on every touch. Even on landing - it's crazy. I think, there should be some \"bounce mode\", which could be selected from control panel, which, if selected, allow drone not to crash at all. This would be good for kids to learn, because now they say it's not interresting. As other player wrote - propeller guard would be nice, so at least minimal touch wouldn't send you to the respawn place.\nAnd about respawn - please, make it instant or make a possibility to turn off animation of \"production line elevator\". Every time you crash you have to wait until the drone appears again. I believe you did great job with animations and so on, but it just takes too much time.\nAnother wish from me is to make tablet stick on top of joystick, not on the left. Because sometimes my left hand goes through tablet. Best scenario would be possibility to place tablet where you want, like in Liftoff drone simulator.\nAnd last (for now :D ) - when you enter some warehouse in industrial map the walls are totaly black. Please make them at least a bit lighter or browner, so we could see where the real wall is.",
+      "date": 1740740291,
+      "review_helpful_count": 25,
+      "author_display_name": "dainius.saldainius",
+      "author_alias": "dainius.saldainius",
+      "developer_response": {
+        "body": "Hey and sorry for the late reply! Thank you so much for your feedback. We have already added what you mentioned to the list of features and fixes for the next update. If you or anyone else has more suggestions or wants to describe feature ideas in more detail, feel free to do so in our new Discord. We really appreciate all ideas, feedback, and support!\n\nDiscord: https://discord.gg/GvJNYnDCGN",
+        "date": 1749296100
+      }
+    },
+    {
+      "id": "1404744537545560",
+      "score": 5,
+      "review_title": "I lost a drone",
+      "review_description": "I brought a Star Wars drone and lost it in a park ! It went up lost connection and I never see it again !😫. This game is brilliant, the races are the right level of difficulty, the leader board is next level stuff to get on. But try u will 🙂. Highly recommend this game .",
+      "date": 1742729857,
+      "review_helpful_count": 5,
+      "author_display_name": "Specky4_i_ssss",
+      "author_alias": "Specky4_i_ssss",
+      "developer_response": null
+    },
+    {
+      "id": "530426520163627",
+      "score": 5,
+      "review_title": "Super relaxing, zen experience.",
+      "review_description": "It's a super zen experience, you get into a loop where your critical brain just deactivates and you do stuff.\n\nHad a very stressful day so it really helped me relax.\n\nIt reminded me of driving around in GTA 3 to collect packets so many years ago.",
+      "date": 1742727731,
+      "review_helpful_count": 5,
+      "author_display_name": "DMEC",
+      "author_alias": "DMEC",
+      "developer_response": null
+    },
+    {
+      "id": "650879551016967",
+      "score": 5,
+      "review_title": "Fun stuff!",
+      "review_description": "Really enjoying this one!  The three environments have collectibles to unlock drone colors and achievements, and each has four timed courses to pilot your drone through once you've gotten a handle on controlling it.  If you've ever been drone-curious, this is a solid buy.",
+      "date": 1741907425,
+      "review_helpful_count": 3,
+      "author_display_name": "Archangel_01",
+      "author_alias": "Archangel_01",
+      "developer_response": null
+    },
+    {
+      "id": "971262504953858",
+      "score": 5,
+      "review_title": "now with FPV 👈🏼",
+      "review_description": "Keep up the good work.\n\nUpdate/ wishlist:\n-acro mode\n-pid Tuning\n-different drones (tiny whoops)\n-optional propguards\n-the ability to land\n-more maps\n-map editor\n-multiplayer",
+      "date": 1739607471,
+      "review_helpful_count": 14,
+      "author_display_name": "P3DROuno",
+      "author_alias": "P3DROuno",
+      "developer_response": null
+    },
+    {
+      "id": "1290655708849534",
+      "score": 5,
+      "review_title": "one of the best VR drone simulators",
+      "review_description": "This drone simulator is a lot of fun and offers a great flying experience. The game has (at the moment) three beautifully crafted maps with many things to explore by just roaming around. There are also a number of challenging time trials. \n\nFor future updates I have the following suggestions:\n- wind (with adjustable realism levels)\n- the sports drone is too stable - maybe make self stabilisation optional?\n- in the castle map the openings of the roofs of two buildings (with collectibles) are too narrow, which makes the fun switch to frustration at times\n- in the same vein, the drone breaks too easily with the slightest contact. I understand that this is a simulation and not an action game, but maybe the developers could introduce an adjustable resilience feature? In the current state the game doesn’t even allow to land the drone without crashing\n- more maps, more time trials, maybe update or reasonably priced DLC",
+      "date": 1736429326,
+      "review_helpful_count": 18,
+      "author_display_name": "ShimanskiB",
+      "author_alias": "ShimanskiB",
+      "developer_response": null
+    },
+    {
+      "id": "896175952726912",
+      "score": 4,
+      "review_title": "Good game / simulator",
+      "review_description": "Just what I needed before my first real flight with a larger drone. However, I miss the ability to land quite a bit, it certainly wouldn't be difficult to implement. Also, it would be nice to be able to switch to FPV view mode.",
+      "date": 1736085274,
+      "review_helpful_count": 5,
+      "author_display_name": "HonZuna",
+      "author_alias": "HonZuna",
+      "developer_response": {
+        "body": "We have just released an update that includes FPV. Unfortunately, we can't implement all user requests at once, but we hope you enjoy the app a bit more with this new feature!",
+        "date": 1739449479
+      }
+    },
+    {
+      "id": "3895208747417764",
+      "score": 5,
+      "review_title": "Great simulator",
+      "review_description": "This is a good drone simulator with good challenges. Intuitive controls for drone making it an enjoyable experience. The tutorial needs some work but the Devs have confirmed working on that and this is an early access title at the moment and so I expected more issues than I've encountered.\n\nGive it a go and support the Devs as this could defo grow into a superb simulator.",
+      "date": 1733916556,
+      "review_helpful_count": 5,
+      "author_display_name": "steve.fractals",
+      "author_alias": "steve.fractals",
+      "developer_response": {
+        "body": "Thank you so much for your positive feedback!\nThat’s right – we’re currently working on a Quality of Life update that will better explain certain features, integrate a leaderboard directly into the player space, and offer translations into multiple languages.",
+        "date": 1734007853
+      }
+    },
+    {
+      "id": "479912578542525",
+      "score": 5,
+      "review_title": "Game is great, albeit a little small",
+      "review_description": "I really like the fundamentals of the game, very immersive experience. Although id like to see some development.\nIe:\nFaster drones\nMore/ bigger maps\nOption to choose FPV/racing drone (current drone in game is super stable).\n\nKeep up the good work! 👍",
+      "date": 1732735057,
+      "review_helpful_count": 7,
+      "author_display_name": "Danneh88",
+      "author_alias": "Danneh88",
+      "developer_response": {
+        "body": "Thank you for your feedback and suggestions for improvement!\nWe’re currently working on an update to optimize existing features. After that, the content you mentioned could definitely be feasible.",
+        "date": 1734008160
+      }
+    },
+    {
+      "id": "1671903283421586",
+      "score": 3,
+      "review_title": "Does not have First person view mode",
+      "review_description": "Please add First person view mode - The only thing missing, Would really love it and give it 5 starts, but at the moment only 3 stars.",
+      "date": 1733541409,
+      "review_helpful_count": 11,
+      "author_display_name": "iViR",
+      "author_alias": "iViR",
+      "developer_response": {
+        "body": "Thank you for your feedback!\nAt the moment, we’re facing both technical and user-related challenges in implementing this feature. Many players experience motion sickness with a first-person view. However, we’re still considering offering it as an optional feature in the next update.\n\nEdit: We have implemented your suggestion and just released the requested feature. The FPV mode is now available. Have fun and enjoy your flight!",
+        "date": 1739449619
+      }
+    },
+    {
+      "id": "573059025256598",
+      "score": 5,
+      "review_title": "Great drone training!",
+      "review_description": "I bought a drone recently for work and recreational purposes and needed to get used to the control stick movements, I discovered this little gem that has been a great help without even leaving my home and risking my drone to do it, thank you folks for coming up with this!",
+      "date": 1729061865,
+      "review_helpful_count": 6,
+      "author_display_name": "Tirnanog255",
+      "author_alias": "Tirnanog255",
+      "developer_response": null
+    },
+    {
+      "id": "967205642110737",
+      "score": 5,
+      "review_title": "Exhilarating and Calming",
+      "review_description": "This is an absolute gem for drone enthusiasts and gamers alike. The immersive experience it provides is second to none, offering a near-perfect blend of realism, fun, and challenge.\nThe graphics are detailed, making the virtual environments feel almost tangible. Whether you're soaring through urban landscapes or gliding over scenic countryside.  The controls are intuitive yet realistic, striking the right balance for beginners and seasoned drone pilots. With just a bit of practice, the game offers a smooth learning curve that encourages improvement without becoming frustrating.\nIn VR, the experience is truly immersive. The sense of being in control of a drone, combined with the visuals, makes for an exhilarating experience that is both calming and thrilling at the same time. The attention to detail, from the physics of flight to the subtle environmental sounds, really draws you into the world.\nThis is a well-rounded, high-quality game that excels in both realism and enjoyment. Whether you’re looking to hone your drone flying skills or just have some casual fun, this game delivers.",
+      "date": 1728752303,
+      "review_helpful_count": 3,
+      "author_display_name": "Magicmerlin007",
+      "author_alias": "Magicmerlin007",
+      "developer_response": null
+    },
+    {
+      "id": "972773984862850",
+      "score": 5,
+      "review_title": "A great sim and a favourite app.",
+      "review_description": "I like that the control is instant. There's no discernible lag. The challenges are great. The uav is agile.  The obstacles are varied. Once you beat the challenges, you go back and beat your previous times. The crash test dummy obstacles are very cool.   If wind was added in future DLC. I'd gladly pay for that. I think this sim is good enough to learn how to fly a real quadcopter.",
+      "date": 1726297099,
+      "review_helpful_count": 6,
+      "author_display_name": "chiokko",
+      "author_alias": "chiokko",
+      "developer_response": null
+    },
+    {
+      "id": "871293901847073",
+      "score": 4,
+      "review_title": "Great experience",
+      "review_description": "This is an interesting one.\nLove the controls and the gfx.\n\nIt’s quite an easy game, and not a lot to do other than race, collect coins and take photos from correct position, angle, zoom.\n\nBut there is a few areas to unlock and different paint jobs to unlock as you progress and collect the coins/photos.\n\nThere is a leaderboard for times aswell.\n\nBut it is an enjoyable experience if you have ever wanted to try fly a drone without the expenses, and it’s very well implemented.",
+      "date": 1728944097,
+      "review_helpful_count": 1,
+      "author_display_name": "Bloodangel1068",
+      "author_alias": "Bloodangel1068",
+      "developer_response": null
+    },
+    {
+      "id": "3675151182795972",
+      "score": 4,
+      "review_title": "Quality simulation",
+      "review_description": "Definitely pretty bare bones at the moment. The actual situation is pretty great though and is the best out there at the moment. Would love to see a couple different maps and a few other quality of life improvements.  Hoping the developers actually updates this and makes it even better!",
+      "date": 1717740169,
+      "review_helpful_count": 3,
+      "author_display_name": "Krammis76",
+      "author_alias": "Krammis76",
+      "developer_response": {
+        "body": "Thank you for your comment!\nAs you have correctly recognized, the current version is not yet very extensive but very solid and offers a lot of potential for exciting features.\nWe hope to enable new features through a successful launch in the App Lab. We are currently working on ideas with which we can realize new maps with further challenges.\n\nEdit: An update has just been released. We've added a lot of new content to improve the playtime and replay value. As you requested, there are new maps. If you're interested in the other features and improvements, feel free to check out the update notes.",
+        "date": 1725483776
+      }
+    },
+    {
+      "id": "2091778717875867",
+      "score": 5,
+      "review_title": "The best drone simulator quest can have",
+      "review_description": "I think this is the best drone simulator. The mechanics are really good and it works just like a drone should do",
+      "date": 1717570243,
+      "review_helpful_count": 1,
+      "author_display_name": "sjonkooy",
+      "author_alias": "sjonkooy",
+      "developer_response": null
+    },
+    {
+      "id": "1418414385526019",
+      "score": 5,
+      "review_title": "Exactly what I was expecting!",
+      "review_description": "For a while I've been waiting for this game to enter the applab catalogue. I saw it at the Sidequest, but I preffer to download games from the meta store.\nThe simulation was pretty accurate, since I had almost the same experience in virtual reality as when I use my actual drone. I was hopping for an app which could help me improve my pilloting skills and I believe this is the one.",
+      "date": 1717714664,
+      "review_helpful_count": 5,
+      "author_display_name": "Matheus_SPM_BR",
+      "author_alias": "Matheus_SPM_BR",
+      "developer_response": null
+    },
+    {
+      "id": "1234131631144174",
+      "score": 5,
+      "review_title": "Great simulation",
+      "review_description": "Just what I was looking for! As a father of two little ones, I don’t get much time to practice with my drones. This app is realistic and gives me plenty of time to improve my skills! \nMy new favourite app, looking forwards to seeing what they bring in further updates! Really impressed.",
+      "date": 1729724477,
+      "review_helpful_count": 7,
+      "author_display_name": "gavinrw",
+      "author_alias": "gavinrw",
+      "developer_response": null
+    },
+    {
+      "id": "1019153266285548",
+      "score": 5,
+      "review_title": "Great potential",
+      "review_description": "Fun little app, what could take this to the next level would be a mixed reality mode. Good work 👍",
+      "date": 1721555822,
+      "review_helpful_count": 6,
+      "author_display_name": "IanUK01",
+      "author_alias": "IanUK01",
+      "developer_response": null
+    },
+    {
+      "id": "856369633194095",
+      "score": 5,
+      "review_title": "Fantastic",
+      "review_description": "Can this get a full version with a lot more content? This is just fantastic",
+      "date": 1717574126,
+      "review_helpful_count": 1,
+      "author_display_name": "Dayennegrijs",
+      "author_alias": "Dayennegrijs",
+      "developer_response": null
+    },
+    {
+      "id": "847209307450421",
+      "score": 5,
+      "review_title": "Good work",
+      "review_description": "I really like this. I can use this for my drone lessons in school",
+      "date": 1717571870,
+      "review_helpful_count": 1,
+      "author_display_name": "Amybruin",
+      "author_alias": "Amybruin",
+      "developer_response": null
+    },
+    {
+      "id": "837569841576803",
+      "score": 5,
+      "review_title": "Drone magic",
+      "review_description": "This is great for education",
+      "date": 1717573857,
+      "review_helpful_count": 1,
+      "author_display_name": "Ruudblauw",
+      "author_alias": "Ruudblauw",
+      "developer_response": null
+    },
+    {
+      "id": "826950865975799",
+      "score": 5,
+      "review_title": "Just good",
+      "review_description": "Solid work",
+      "date": 1717573102,
+      "review_helpful_count": 1,
+      "author_display_name": "Joanneoranje",
+      "author_alias": "Joanneoranje",
+      "developer_response": null
+    },
+    {
+      "id": "774247104857465",
+      "score": 5,
+      "review_title": "Finally",
+      "review_description": "I have been waiting for this. This is something we missed in the quest. Maybe some more missions in the future, but this is solid",
+      "date": 1717572062,
+      "review_helpful_count": 2,
+      "author_display_name": "Janoukrood",
+      "author_alias": "Janoukrood",
+      "developer_response": null
+    },
+    {
+      "id": "575164685180680",
+      "score": 5,
+      "review_title": "Incredibly realistic",
+      "review_description": "This is an early impression review \n\nI have never flown flown a drone before…..until now, oh boy I can’t believe how realistic it is.\nNow I’m terrible at it btw, I literally crash every few minutes, my drone breaks, which looks so authentic and would imagine this would happen in real life\n\nThe controls are really responsive and incredibly accurate it’s just I’m so bad.\nA little more practice and all will be good.\n\nIf you ever wanted to fly a drone in real life or vr then this is a must buy.\n\nWell done to the developers.",
+      "date": 1728721515,
+      "review_helpful_count": 2,
+      "author_display_name": "GizmoDemi",
+      "author_alias": "GizmoDemi",
+      "developer_response": {
+        "body": "Thank you so much for your review! We're very happy to hear that you're satisfied with the app and able to use it for training.\n\nYou'll see that you'll improve quickly. Try to complete all the tasks and fly the different time trials. This will give you a solid feel for handling the drone.\n\nYou can also try out the different control layouts on the control panel. Different pilots find it easier with different control setups.\n\nWishing you continued success and happy flying!",
+        "date": 1728727112
+      }
+    },
+    {
+      "id": "443749298691243",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "This is currently the best and most engaging app available for learning to master your drone (I've tried many, in VR and in flat)\n\nGreat work guys, really, keep it up. a couple of suggestions from a pilot, hoping to please you:\n in order of importance... \n\n1: edit: fixed\n\n\n2 it would be very nice to be able to map the position of the zoom and angle buttons to adapt them to the remote controls of our drones (for example, I would like to be able to adjust the angle with the two left triggers, and the zoom with the two triggers right-handed, similar to the remote control of my DJI mini). Even being able to adjust the rotation and zoom speed would be great. \n\n3 the buttons on the control station (mode 1-2-3, challenges, color setting...) should also be reachable with a laser pointer from the joystick, often playing while sitting I can't reach them as I bump into the wall or cushions of the sofa with my finger. \n\n4 if you fly mainly FPV, I would gladly expand the flight monitor. or being able to simulate wearing a visor (a visor in the visor, it seems crazy I know, but I hope I explained myself xD) \n\n5 it would be very nice to be able to adjust the sensitivity curves of the joysticks, to make them more similar to those of your drone. \n\n6 in the future it would be very fun to be able to experiment with the acro mode, or the absence of optical stabilization like in avata2. great job guys 👍 I'm waiting for future updates",
+      "date": 1725896144,
+      "review_helpful_count": 19,
+      "author_display_name": "LeoGioQuest",
+      "author_alias": "LeoGioQuest",
+      "developer_response": null
+    },
+    {
+      "id": "401943916329926",
+      "score": 5,
+      "review_title": "A lot of fun",
+      "review_description": "Great way to practice my skills without worrying about crashing a real drone. \n\n\nWould love to see a variety of drones and perhaps fixed wing ones in the future as well as the ability to fly the drone faster  \n\nOver all it's a great game and love it",
+      "date": 1722393729,
+      "review_helpful_count": 2,
+      "author_display_name": "Babayagaairsofting",
+      "author_alias": "Babayagaairsofting",
+      "developer_response": null
+    },
+    {
+      "id": "366600303202775",
+      "score": 5,
+      "review_title": "Keep up the good work…",
+      "review_description": "My suggestions would be: toggles for imperial/metric measurements and one for red/green lighting. Maybe some customizable controller mapping or a selector for template based on major manufacturers? DJI and Skydio for example? I’m sure you plan on adding more environments… definitely worth the price.",
+      "date": 1720213154,
+      "review_helpful_count": 2,
+      "author_display_name": "ndflicks",
+      "author_alias": "ndflicks",
+      "developer_response": {
+        "body": "Hello, thank you very much for your review! We are already working on the next major update, which includes your suggestions. We hadn't actually considered the red and green lights yet. However, we will take your recommendation into account and include the lights. This change will be released in the next update. Look forward to two new maps to explore as well.",
+        "date": 1720430229
+      }
+    }
+  ],
+  "total": 39,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-20T00:45:49Z"
+}

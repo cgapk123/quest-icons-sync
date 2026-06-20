@@ -1,0 +1,48 @@
+{
+  "app_id": "24891034280542469",
+  "package_name": "com.ZenChang.Flyme",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "FlyMe Remote control airplane Dogfight",
+  "rating_average": 2.7142857142857,
+  "rating_count": 7,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "2091306091337873",
+      "score": 4,
+      "review_title": "The game has very good potential",
+      "review_description": "I can only select to fly 2 types of jets..How do I download or get more jets \nOr airplanes",
+      "date": 1751233141,
+      "review_helpful_count": 4,
+      "author_display_name": "moneyandcents",
+      "author_alias": "moneyandcents",
+      "developer_response": {
+        "body": "thank you , you can copy 3d model *.glb  to app by usb link\nhttps://flyme4meta.blogspot.com/2024/06/instructions-for-adding-more-aircraft.html",
+        "date": 1754716732
+      }
+    },
+    {
+      "id": "122213705750009375",
+      "score": 2,
+      "review_title": "Crashed my Oculus Quest 2",
+      "review_description": "Neat concept.  Changing the size of the aircraft crashed my Oculus.  Like hard.  It won't let me open any other app.  I've closed and restarted the oculus several times.",
+      "date": 1724095286,
+      "review_helpful_count": 6,
+      "author_display_name": "13rad1ey",
+      "author_alias": "13rad1ey",
+      "developer_response": {
+        "body": "thanks for your feedback\ndo you download any 3d models from sketchfab?\nand how many space left  in your quest2 ?\nI upload a new version v1.2, you can try this",
+        "date": 1724223317
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T00:43:41Z"
+}

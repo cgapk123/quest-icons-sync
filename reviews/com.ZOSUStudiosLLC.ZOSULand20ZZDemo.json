@@ -1,0 +1,59 @@
+{
+  "app_id": "4611689682266625",
+  "package_name": "com.ZOSUStudiosLLC.ZOSULand20ZZDemo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "ZOSULand 20ZZ Demo",
+  "rating_average": 3.1666666666667,
+  "rating_count": 6,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "126414066802941",
+      "score": 2,
+      "review_title": "Needs work",
+      "review_description": "I wanted to love this game.  The graphics are phenomenal.  You start hanging somewhere in the air without knowing what to do.  There is an objective, which was nice but nothing seemed to work as indicated, and there wasn’t enough instructions.  Like how you cannot let go of the “jets.”  And then all of a sudden while trying to figure out how to play, a countdown starts and at the end you are “behind the curtain.”  I hope they fix this because the idea and the graphics are very good.\n\n\nI look forward to updates.  Another issue I encountered was sometimes touching an animal with the right hand would do nothing.",
+      "date": 1661727864,
+      "review_helpful_count": 3,
+      "author_display_name": "TJ_Sunshine",
+      "author_alias": "TJ_Sunshine",
+      "developer_response": {
+        "body": "Hi thank you for the feedback! Based on your comments I’ll look at pushing an update next month if possible. There is actually an option in the lobby to turn off the timer, but that should be more clear. The intent of the timer is to push you to a room representatives/with the number of animals you saved that round and to force progression, but I just checked and yes there is no invisible roof in the round end area so if you were already jetpackingyou could fly off into space until the timer pushes you to the next level. I am a solo hobby developer so I really appreciate this feedback! I’m still slowly working to make the next big update for this game.",
+        "date": 1661625194
+      }
+    },
+    {
+      "id": "167785082497278",
+      "score": 5,
+      "review_title": "Unique experience with large levels",
+      "review_description": "This was a unique experience with large levels. Fun once I learned how to play and climb large towers",
+      "date": 1663512374,
+      "review_helpful_count": 1,
+      "author_display_name": "Picantescroll03",
+      "author_alias": "Picantescroll03",
+      "developer_response": null
+    },
+    {
+      "id": "126047343648862",
+      "score": 1,
+      "review_title": "Absolutely terrible",
+      "review_description": "I've played terrible VR games before, but they always have something to counter the con. But this game doesn't. It lacks in graphics, gameplay and story. The gravity's code in this game is the worst, and  you couldn't have done a kill animation? I also wouldn't recommend it for someone who wants story then anything else. You do things with no context, And what is up with the animals in this game? The grappling hook is the worst. I love your concept, but it was executed on a Windows xp. Meta, please don't add it to the store. \n\nAlso, it's really laggy if you needed to know.",
+      "date": 1671256195,
+      "review_helpful_count": 0,
+      "author_display_name": "Staali",
+      "author_alias": "Staali",
+      "developer_response": {
+        "body": "Any feedback is appreciated, thanks.",
+        "date": 1724128547
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T00:41:29Z"
+}

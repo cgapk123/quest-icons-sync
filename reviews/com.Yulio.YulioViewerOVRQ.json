@@ -1,0 +1,53 @@
+{
+  "app_id": "3439093536199828",
+  "package_name": "com.Yulio.YulioViewerOVRQ",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Yulio Viewer",
+  "rating_average": 3.5833333333333,
+  "rating_count": 12,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "266431985452588",
+      "score": 2,
+      "review_title": "Just pictures, not 3D & feels distorted",
+      "review_description": "I thought these would be 3D environments, but they are just 360 panorama flat images. Somehow they are distorted or stretched when looking around, makes me feel sick.",
+      "date": 1637138802,
+      "review_helpful_count": 4,
+      "author_display_name": "jpp715",
+      "author_alias": "jpp715",
+      "developer_response": null
+    },
+    {
+      "id": "2014359905371612",
+      "score": 4,
+      "review_title": "Nice real estate pictures.",
+      "review_description": "I only tried it for a few minutes, but it seems fine.",
+      "date": 1618971895,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "118803367326415",
+      "score": 1,
+      "review_title": "So laggy",
+      "review_description": "I cannot do anything on the app, so laggy. Even when I want to close the app, I need to screen off my quest 2.",
+      "date": 1641508598,
+      "review_helpful_count": 0,
+      "author_display_name": "gifa.dev",
+      "author_alias": "gifa.dev",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T00:39:33Z"
+}
