@@ -1,0 +1,56 @@
+{
+  "app_id": "8625912667430203",
+  "package_name": "com.meta.theelectricfactory.focus",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Focus",
+  "rating_average": 3.1818181818182,
+  "rating_count": 11,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "540504888525866",
+      "score": 3,
+      "review_title": "High potential, could use some tweaking",
+      "review_description": "First off, great app idea, I can see myself leaving notes everywhere when I'm cleaning/vacuuming & project management.\nWould be great if we could control what music could be played on the speaker (even just like local music)\nWhen using controllers, if im too close to the object I want to move, the grabber raycast goes beyond the object I'm reaching for. \nLastly unless I'm not figuring it out, being able to group objects together would be great. \nAwesome stuff, keep up the good work",
+      "date": 1728138308,
+      "review_helpful_count": 10,
+      "author_display_name": "lamp.guitar",
+      "author_alias": "lamp.guitar",
+      "developer_response": null
+    },
+    {
+      "id": "1085946569631739",
+      "score": 5,
+      "review_title": "Nice..",
+      "review_description": "I'm editing my review. It works now. It's good, although if possible I would like to customize it for my needs. If one of the devs is reading this, is there a tutorial that explains how to build a similar app??",
+      "date": 1727911421,
+      "review_helpful_count": 4,
+      "author_display_name": "agis7",
+      "author_alias": "agis7",
+      "developer_response": {
+        "body": "We've got great news for you! You can find information about how this app was made, including a link to the source code on GitHub, at the following link. Happy building! https://developers.meta.com/horizon/documentation/spatial-sdk/focus",
+        "date": 1728668940
+      }
+    },
+    {
+      "id": "559109077276758",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Great app idea, but I'm not able to move around the room. It could be me, but I haven't figured it out yet.",
+      "date": 1733492599,
+      "review_helpful_count": 3,
+      "author_display_name": "tkthomas20.02",
+      "author_alias": "tkthomas20.02",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T17:13:08Z"
+}

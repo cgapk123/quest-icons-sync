@@ -1,0 +1,31 @@
+{
+  "app_id": "7041851792509764",
+  "package_name": "com.meta.samples.discover",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Discover",
+  "rating_average": 3.8,
+  "rating_count": 5,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "746294473849420",
+      "score": 5,
+      "review_title": "Copresence is cool",
+      "review_description": "Had problems getting this to work - but now it suddenly started working. Simple demo but very cool!!",
+      "date": 1692880507,
+      "review_helpful_count": 12,
+      "author_display_name": "Dr_Mick",
+      "author_alias": "Dr_Mick",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T17:12:27Z"
+}

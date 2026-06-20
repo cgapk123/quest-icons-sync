@@ -1,0 +1,92 @@
+{
+  "app_id": "3973848876039911",
+  "package_name": "com.mimicland.kingofhell",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "King Of Hell - Prototype Version",
+  "rating_average": 3.6666666666667,
+  "rating_count": 6,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "781292568408403",
+      "score": 4,
+      "review_title": "Excellent",
+      "review_description": "Very nice early game.",
+      "date": 1760804630,
+      "review_helpful_count": 0,
+      "author_display_name": "AndrosWho85",
+      "author_alias": "AndrosWho85",
+      "developer_response": null
+    },
+    {
+      "id": "1776392795885099",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Looks fantastic, I also need some kind of tutorial.  Excited to see this app come to life.",
+      "date": 1645713082,
+      "review_helpful_count": 3,
+      "author_display_name": "solvangman805",
+      "author_alias": "solvangman805",
+      "developer_response": {
+        "body": "Thanks for your feedback! I'm very happy you enjoying our game. We will create more features in a near future to this game",
+        "date": 1646740547
+      }
+    },
+    {
+      "id": "402365941903763",
+      "score": 1,
+      "review_title": "No guide no tutorial!! Cmon",
+      "review_description": "Personally I think this game is garbage I understand making games for vr is difficult but c’mon you guys are gamers yourself get it together.",
+      "date": 1654359880,
+      "review_helpful_count": 0,
+      "author_display_name": "danielofee2016",
+      "author_alias": "danielofee2016",
+      "developer_response": null
+    },
+    {
+      "id": "178548674658649",
+      "score": 4,
+      "review_title": "no guide or tutorial",
+      "review_description": "I have been looking for a game with magic and hand tracking for a long time. \nThis looks cool, sadly I do not know how to do anything because the gestures are very wanky and there is no tutorial. \nI understand this is just a prototype and am excited for some updates\n\nupdate: \ntutorial has been added, now I know how to play the actual game. The gestures work well and learning how to cast the spells is fun. For 1$ I totally recommend the game.",
+      "date": 1660314335,
+      "review_helpful_count": 0,
+      "author_display_name": "ButtaPhrog",
+      "author_alias": "ButtaPhrog",
+      "developer_response": null
+    },
+    {
+      "id": "154473330511911",
+      "score": 5,
+      "review_title": "Needs some work",
+      "review_description": "There is a book that tells you how to do things like cast spells and place towers. But it could do with a playable tutorial the book could tell you how to start the level. But other than that great game. \n----------------------------------------------------\nNow let's talk about glitches I found when I use controllers the hands are weird.\n----------------------------------------------------\nOverall, the game is pretty good 5/5 I would like to see more updates.\n----------------------------------------------------\nI would pay 5 maybe 10 bucks if the bugs were fixed.\n\n\n\n\nUpdate added tutorial.",
+      "date": 1660566258,
+      "review_helpful_count": 1,
+      "author_display_name": "Ontheside23",
+      "author_alias": "Ontheside23",
+      "developer_response": null
+    },
+    {
+      "id": "137255722121039",
+      "score": 4,
+      "review_title": "Could use a tutorial.",
+      "review_description": "The preview video of this game looks fun. It seems to be some kind of tower defense game. I've been able to construct some towers and teleport, but it's difficult to figure out the controls or to do anything consistently. It's a work in progress, so I'm happy to see where it goes.",
+      "date": 1645676421,
+      "review_helpful_count": 3,
+      "author_display_name": "Taqwacore",
+      "author_alias": "Taqwacore",
+      "developer_response": {
+        "body": "Thanks for your feedback! The next steps is create a dynamic tutorial and evolve hand gestures mechanics",
+        "date": 1646740396
+      }
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T17:16:25Z"
+}

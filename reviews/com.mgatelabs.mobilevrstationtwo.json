@@ -1,0 +1,179 @@
+{
+  "app_id": "1950944974977236",
+  "package_name": "com.mgatelabs.mobilevrstationtwo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Mobile VR Station",
+  "rating_average": 3.3181818181818,
+  "rating_count": 22,
+  "review_count": 22,
+  "reviews": [
+    {
+      "id": "2591731577777215",
+      "score": 4,
+      "review_title": "Best VR player & SBS photo viewer, yet..",
+      "review_description": "2020/3/2 \nThis is the only stereoscopic 3D photo viewer that works in oculus store. Though Samsung VR, gallery,& oculus VR does show the 3D SBS photo, yet only good for 180&360 degree ones, others like 4 by 3 or 6 by 4 , portrait or landscape, will be distorted into 180 degrees. Thanks for the dev team,. Please keep on this good APP, and improve the following aspects:\n1. It seems DLNA only good for downloading to local storage and then play it locally.\n2. Though it indicates support SAMBA, but the U/I translated into Chinese makes it hard to understand how to use it. I am IT engineer, if I couldn't figure it out, I don't think other end user will understand how to use it. \n3. Can only access phone internal storage, not even the Microsoft inside the phone or USB storage inserted in heart.\n4. Use gear VR Bluetooth controller to navigate the file systems is kind of awkward, suggest to enable heart built in touch pad instead.\n\n5. App constantly (every 5~10 minutes)  crashed even crashed the whole oculus systems (reboot the GearVR) while browsing the 3D SBS photo. \n \n6. Consider to keep the current play mode when browsing the next photos or video.",
+      "date": 1583141451,
+      "review_helpful_count": 0,
+      "author_display_name": "lihong.lin",
+      "author_alias": "lihong.lin",
+      "developer_response": {
+        "body": "1. DLNA playback seems to be really dependent on the server.  My local server (router) will stream a 4k movie to my device.  2. You can switch it back to English with Settings, or if you have a better idea for replacement words to make it more clear, please let me know.  3. Haven't figured out USB access yet, Google changed how USB drives worked and accessing them hasn't worked yet.  4. It can use the touchpad, if the remote isn't on.  But you can drag the remote touchpad to simulate side swipes.  5. Would have to see the size of the photos being loaded, I would expect Memory issues.  6. There is an option to have Sticky Presets, where the last selected preset will be applied to the next item.",
+        "date": 1583157579
+      }
+    },
+    {
+      "id": "1758080164555470",
+      "score": 3,
+      "review_title": "Won't allow me the option to upgrade",
+      "review_description": "I already purchased this app as a one time payment along time ago.  But now it's saying I need to upgrade from a free account in order to play movies past 5 minutes which is ridiculous since I had already paid for the premium account.\n\nI don't mind paying again but it doesn't allow you the option to upgrade from free to premium",
+      "date": 1667503252,
+      "review_helpful_count": 6,
+      "author_display_name": "Shir76",
+      "author_alias": "Shir76",
+      "developer_response": {
+        "body": "I can't recertify the App since the GO has been sunsetted, so in-app stopped working.",
+        "date": 1671646809
+      }
+    },
+    {
+      "id": "1332877323808944",
+      "score": 3,
+      "review_title": "Seems OK but can't upgrade",
+      "review_description": "The application a great viewer, but I can't find within the app, how to buy upgrade to view beyond 4 mins of video.\nThe appointment mybphone Saye 'purchased' but still only get 4 mins of vid?",
+      "date": 1638862878,
+      "review_helpful_count": 2,
+      "author_display_name": "porlus.at.maelstrom1",
+      "author_alias": "porlus.at.maelstrom1",
+      "developer_response": {
+        "body": "I can't recertify the App since the GO has been sunsetted, so in-app stopped working.",
+        "date": 1671646815
+      }
+    },
+    {
+      "id": "903024060858947",
+      "score": 3,
+      "review_title": "App issue",
+      "review_description": "Really like the player but now will not play more than 5 minutes even though was purchased more than 3 years past. Any suggestions?\n\nI appreciate your response. To start  your app was the reason I chose to purchase an Oculus \nGo . Im gonna reach out to the Oculus team to ask why persons who paid for an app that was available on their site should no longer have access to the app full version.",
+      "date": 1671648918,
+      "review_helpful_count": 3,
+      "author_display_name": "blowheart",
+      "author_alias": "blowheart",
+      "developer_response": {
+        "body": "Its a known problem, since Oculus sunset the GO device, they won't let me re-certify the app, so In-App purchases stopped working.",
+        "date": 1671646719
+      }
+    },
+    {
+      "id": "689455688259571",
+      "score": 5,
+      "review_title": "My wish list for this app",
+      "review_description": "Firstly I would like to mention the positives. This is the first app that I've seen that offers A to B looping. I also like the functionality of being able to play mp3 files, although I couldn't find a stop button and had to exit the program in order to stop the music.\nThe improvements that I would like to see (so that I can give it 5 stars) are: to be able to resize the screen. I find it a tad to close for my liking. Although it has DNLA, I would like it to have SNB so that I can access usb drives attached to my pc.  Support for animated gifs would be cool. I don't think any media player developer has offered that functionality yet. Lastly, as the backgrounds appear to be just images, the option of being to customize the background with your own picture would be great.\n\nThank you for your response. I will have a play with the settings, as you suggested, and see how I get on. Would animated gif support be really difficult to do?\n\nGlad to see the addition of Samba. I was hoping that this would now allow me to access shared usb drives plugged into the pc but it's not having any of it. I can however access all my other folders on my pc.\nI didn't realise that you have added animated gif support so I shall give that a try.\n\n25.02 20\n\nI've tried opening animated gifs but all I keep getting is a white background with a blurry red question mark in the middle. Any ideas please?  I'm accessing the gifs on my pc using Samba.\n\n29.02.20\n\nThanks for the file sharing Samba trick. All is well now on that score. I still cannot play gifs though and I'm wondering if it's a Go issue?\nIf you would like me to send you a gif that doesn't work, please advise of a suitable email address.  Thanks for all your support. It's much appreciated.\n\nMore....\nI have now worked out to view gifs by putting them in the Windows Pictures folder and then navigate using DNLA.  However, the gifs will not animate and will only display as a single image, like a jpg.  I had previous tried viewing gifs via SMB and that was when I was getting errors previously reported.",
+      "date": 1583005933,
+      "review_helpful_count": 0,
+      "author_display_name": "adrianbrown1957",
+      "author_alias": "adrianbrown1957",
+      "developer_response": {
+        "body": "I would need to know more about the gifs which are having trouble.  I know there is a issue with some older gifs, but message the Facebook page and I can sort out what is going in.  And for samba shares, you would need to make sure you are sharing a folder on the external drive.  I'll probably have to make a video on how to Share a folder for it to work.",
+        "date": 1582907763
+      }
+    },
+    {
+      "id": "684395056405243",
+      "score": 1,
+      "review_title": "Paywalled",
+      "review_description": "Bought the premium edition a while back and now I'm unable to use premium features or even get into shop to buy it again.",
+      "date": 1665782091,
+      "review_helpful_count": 3,
+      "author_display_name": "bitesizecenter",
+      "author_alias": "bitesizecenter",
+      "developer_response": {
+        "body": "I can't recertify the App since the GO has been sunsetted, so in-app stopped working.",
+        "date": 1671646781
+      }
+    },
+    {
+      "id": "640622076719743",
+      "score": 5,
+      "review_title": "DLNA is Fixed after 6 days!!",
+      "review_description": "So, I returned my 5 Star Review!!\nI worried about developer's health because of \"delayed fixing\".\nBecause the mobile VR station's developer always replied without delay.\nBut, this time...\nI received developer's reply after 6 days of my first report \"DLNA error\".\nAnd after 3 hours after developer's reply, \"DLNA error fixing version\" was released!!\n\nAnyway, thanks for fixing DLNA error!!\n\nBelow was my first report in 2020.3.29.\n................................................................................\n\nafter update 2020. 3. 29 version, DLNA is not working!!\nVr mobile represent my DLNA server with X mark!!\nBefore this update, my DLNA connection was great.\n\nAnd, SMB server cannot find my SMB server in Windows7 or Windows10.\nSkybox and Pigasus player is very good at finding my SMB server.\nBut, Vr mobile cannot find my SMB server!\n\nPlease fix DLNA as soon as possible!\n...............................................................................\nbelow was developer's response after 6 days of my first report.\n...............................................................................\nIt will be fixed soon",
+      "date": 1586057720,
+      "review_helpful_count": 1,
+      "author_display_name": "qtam",
+      "author_alias": "qtam",
+      "developer_response": null
+    },
+    {
+      "id": "423816518710258",
+      "score": 5,
+      "review_title": "SUBTITLES ARE NOW SUPPORTED!!!",
+      "review_description": "10/29/2020 \n\nEXCELLENT player for watching IMAX 2D or 3D movies with subtitles! Also, a BIG THANK YOU to the developer at Moble VR Station for taking the time and effort to finally implement (.srt) subtitle support when using it in Oculus Go! This new update, now makes it easier for us to watch foreign movies that need subtitles on a giant IMAX screen. This player is now becoming, if not, one of the best VR player out there when compeating with others in the Oculus GO store!\n\nAthough difficult to navigate, I chose this VR player over ALL others for its emersive distance, dept, user adjustment and IMAX feel experience which is beyond belief in the GO. My favorite background environment, which  I suggest you use and easy on your eyes, is the (Blue Green Nebular) which feels incredibly real when watching a IMAX 2D or 3D movie in the comfort of space. \n\nI also increased my Oculus GO resolution to 2048x in developer mode to sharpen the image, and played my movies without any flickering, studder, hesitation or overheat problems. What I got was an amazingly INCREDIBLE cristal clear 2 hour movie experience! The only thing that is missing in this player is a giant Cinema theater environment.\n\nFor those of you who don't know how to use (.srt) subtitles, just drag your (.srt) subtitle file that you downloaded from subscene.com and transfers it to your movie folder in your Oculus Go. Then open up Moble VR Station -> click on movie folder ->  click your movie first -> click your related (.srt) subtitle file -> play movie. \nTo turn OFF subtitles, click your movie again without clicking subtitle file and restart movie.\n\nIf you want to change color of the subtitles to white, black or yellow, go into Mobile VR Station and click on: User profile -> default -> advance -> graphics -> subtitle color -> click save or (blue floppy disk icon).  Subtitles will work on flat or curved projections, but flat projections will look the best. This vr player however will NOT play embedded subtitles, but for now, (.srt) files will do.\n_______________________________________________________\nUPDATE  -  4/6/21\n\nTo the developer,\n\nAgain THANK YOU for (.srt) subtitles support!  We are grateful for your dedication in fixing language barriers as well as you being supportive for the (deaf community). Keep up the EXCELLENT work!\n\nAlso to mention, there are  important issues this player cannot do which we HOPE you will implement if you should bring it to the QUEST. We understand Oculus blocked updates to the GO after Dec 4, 2020 and are praying you can (please) fix some of these issues if you happen to bring it to the Quest.\n\n1. Cannot play AC-3 AUDIO:\n- Some of our movies are recorded with AC-3 audio sound instead of AAC audio. When playing these movies in the player, (all we hear is silence). Any way to implement this to the Quest:\n\n2. Cannot adjust COLOR, CONTRAST or BRIGHTNESS:\n\n3. Cannot watch movies or videos in are own CUSTOM BACKGROUND ENVIRONMENTS:\n- Using our own skybox background environments such as a (.ovrscene) file or (.gltf.ovrscene) downloaded from the discord to watch videos is much greatly needed. We were able to use these files in the paid version of Pigasis VR, but not in this player. It would be nice just to be able to be  in a Virtual Cinema theater again to watch 2D or 3D movies just like you did with the iOS version.\n                   \nThanks for bringing Moble VR Station to the Oculus Go and look forward to seeing it on the Oculus QUEST 2 in the near future.",
+      "date": 1617724626,
+      "review_helpful_count": 0,
+      "author_display_name": "300_Zed-X",
+      "author_alias": "300_Zed-X",
+      "developer_response": null
+    },
+    {
+      "id": "159732125110419",
+      "score": 5,
+      "review_title": "Best app in the store! New and Improved!",
+      "review_description": "New update. All the previous issues have been fixed. This is now officially the best app for the oculus go in my library for viewing media files. I am absolutely thrilled the developer took the recommendations and updated this app. This is truly an awesomely functioning tool for personal use and entertainment now. Thank you again whoever made this program. I would pay a lot more to use this if I hadn’t already purchased it. Looking forward to any new updates planned while I use this everyday. Just to clarify I have been using the app on my oculus go and have had no crashes or even minor slow down or glitches since the last update. Using this for regular JPEG, Webm, Gif, MP3, MP4 and a few other file types. Thank you again for fixing the issues.",
+      "date": 1569985789,
+      "review_helpful_count": 4,
+      "author_display_name": "Badmannerzz",
+      "author_alias": "Badmannerzz",
+      "developer_response": {
+        "body": "Great, if you need additional features or have other concerns, please drop me a line on the Facebook page or Reddit",
+        "date": 1570037897
+      }
+    },
+    {
+      "id": "157144322169581",
+      "score": 4,
+      "review_title": "Near good",
+      "review_description": "Interface is a bit 1990s, but seems to work well.  Couldn't get it to see my SD card...?",
+      "date": 1572968240,
+      "review_helpful_count": 0,
+      "author_display_name": "occ-chris",
+      "author_alias": "occ-chris",
+      "developer_response": {
+        "body": "Really need to know more about where your SD card is located, so I can add it to the search locations.  Hit up the Facebook page and I can figure out something.",
+        "date": 1573012779
+      }
+    },
+    {
+      "id": "148651236229577",
+      "score": 5,
+      "review_title": "Plays everything",
+      "review_description": "This is well worth the download. it plays everything with a thun of options \nIt the only player I found for oculus go that plays all my 3D photos",
+      "date": 1564854559,
+      "review_helpful_count": 3,
+      "author_display_name": "anagly3d",
+      "author_alias": "anagly3d",
+      "developer_response": null
+    },
+    {
+      "id": "116002399882998",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "This am awesome App.  I have used it in my iPhone for quite awhile.  Recently purchased the oculus go version and am new to it.  If there is a way to customize field of view, loop and adjust brightness, contrast and saturation during a video it would allow one to greatly increase quality on most videos.  Also is there a way to tune focus like you can with some phone headsets ??",
+      "date": 1576164072,
+      "review_helpful_count": 6,
+      "author_display_name": "Gollum1987",
+      "author_alias": "Gollum1987",
+      "developer_response": {
+        "body": "We can chat about any additional changes on the Facebook group, some may not be that hard to implement.",
+        "date": 1576476142
+      }
+    }
+  ],
+  "total": 12,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T17:14:08Z"
+}

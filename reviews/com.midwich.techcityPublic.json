@@ -1,0 +1,53 @@
+{
+  "app_id": "1742526372515802",
+  "package_name": "com.midwich.techcityPublic",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Tech City VR",
+  "rating_average": 2.4117647058824,
+  "rating_count": 17,
+  "review_count": 17,
+  "reviews": [
+    {
+      "id": "2115077431966525",
+      "score": 1,
+      "review_title": "Broken.",
+      "review_description": "Shucks.",
+      "date": 1629908959,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "213290619685596",
+      "score": 1,
+      "review_title": "Ok...",
+      "review_description": "Was this approved by Samsung? Because this I feel was poorly done, ultra low res textures, bad controls, annoying interaction I thought this was compatible with the Samsung controller and it's not wth",
+      "date": 1575559041,
+      "review_helpful_count": 7,
+      "author_display_name": "helld47",
+      "author_alias": "helld47",
+      "developer_response": null
+    },
+    {
+      "id": "137227874466707",
+      "score": 1,
+      "review_title": "Doesn't even work",
+      "review_description": "I tried to play and it didn't even work I had the octopus go\n and the controller",
+      "date": 1583971854,
+      "review_helpful_count": 6,
+      "author_display_name": "victorianqueen",
+      "author_alias": "victorianqueen",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T17:15:22Z"
+}

@@ -1,0 +1,526 @@
+{
+  "app_id": "4687168774709280",
+  "package_name": "com.mekiwi.cavedigger2AppLab",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Cave Digger 2 Dig Harder",
+  "rating_average": 4.2114285714286,
+  "rating_count": 175,
+  "review_count": 96,
+  "reviews": [
+    {
+      "id": "1093555097174114",
+      "score": 2,
+      "review_title": "Needs a big update",
+      "review_description": "Hey devs, this is such a cute game and my bf loves it. Is there a way for you guys to do a bug update? There’s a few things that need fixing. Like sometimes we get stuck on a level but the elevator goes up or down, and we have to restart the game to fix it. Also the microphone doesn’t always work. The voice goes out over time.",
+      "date": 1777309554,
+      "review_helpful_count": 3,
+      "author_display_name": "crissy.87499",
+      "author_alias": "crissy.87499",
+      "developer_response": null
+    },
+    {
+      "id": "25084481241221747",
+      "score": 5,
+      "review_title": "Wildly FUN",
+      "review_description": "UPDATE: Ive tried QGO on this game recently(HD+ setting) and its the smoothest Ive ever seen it. So upping to 5 stars, the game is great its just that it was a little laggy before. \nOld review: CAN'T Say ENOUGH how much fun this is to play. This is what I imagined a VR game would be when I bought my first Quest years ago. But sadly it would take this long for fully fleshed out games like this to finally arrive. And the co op, dont even get me started. Bravo to these devs! The art style, avatars, tools, looting, shooting, exploring, upgrading, melee, base building...procedurally generated caves so you can mine forever without things getting stale... The only reason this game is only 9.99 right now is because they are still updating with content and are tackling all of the performance issues. Devs are enthusiastic, listening to the community on discord and updating constantly. There is even a patch releasing this morning as I write! Grab this while its still cheap and show some support for people making REAL games for the Quest. If I could give this ten stars, I would.",
+      "date": 1764695811,
+      "review_helpful_count": 8,
+      "author_display_name": "Meatballmachine",
+      "author_alias": "Meatballmachine",
+      "developer_response": null
+    },
+    {
+      "id": "2982881735435560",
+      "score": 1,
+      "review_title": "cool but...",
+      "review_description": "NO UPDATES!!!\nMISALIGNED PICKAXE\nnoone is ever on\nvrkiwi is a professional game abandonment company\nbosses are horribly bugged and do are other enemies like thr thieving frogs\ni played everything so far it feeks like everything is a total joke\nit feels really boring when your at the fourth place\ni crashed alot \nthe multiplayer is doodoo and really buggy, sometimes you'll just get stuck near the elevator and only way out is to leave im pretty sure\nplease dont get it if its not on sale. It is NOT worth it.",
+      "date": 1764588190,
+      "review_helpful_count": 4,
+      "author_display_name": "EnphosianRisio",
+      "author_alias": "EnphosianRisio",
+      "developer_response": null
+    },
+    {
+      "id": "903838111995838",
+      "score": 1,
+      "review_title": "Refund please",
+      "review_description": "Got this game I assumed it would be similar to the first but it was very very different so I wanted to refund the game with maybe 15 minutes of play time and I couldn't refund, and can't even talk to meta because they force you to talk to a robot",
+      "date": 1768018935,
+      "review_helpful_count": 0,
+      "author_display_name": "oogaboogaman122",
+      "author_alias": "oogaboogaman122",
+      "developer_response": null
+    },
+    {
+      "id": "709285568937713",
+      "score": 2,
+      "review_title": "It's forgetful",
+      "review_description": "Games fun and all but it constantly and slowly edges my area out of the boundaries and has snap turning. Thats it.",
+      "date": 1753100510,
+      "review_helpful_count": 4,
+      "author_display_name": "Dankpool1620",
+      "author_alias": "Dankpool1620",
+      "developer_response": null
+    },
+    {
+      "id": "643576108838061",
+      "score": 2,
+      "review_title": "Runs very very poorly",
+      "review_description": "The game’s graphics aren’t that great to begin with, i’m sure it’s a Quest2 game in heart, so it’s even less excusable how poorly the game runs on Quest3.\n\n-Low LOW fps\n-Constantly stuttering\n-Camera is too smooth even with smoothing off\n-Relies entirely on async reprojecting\n-Looks pretty bad for the performance\n\nEverytime i play it i want to puke after around 20mins, when i can usually play for 4-5 hours no problem.\nI cant understand how a game that’s only corridors runs this poorly.\nIt’s a fun game otherwise.",
+      "date": 1744589405,
+      "review_helpful_count": 18,
+      "author_display_name": "XXLaurel",
+      "author_alias": "XXLaurel",
+      "developer_response": null
+    },
+    {
+      "id": "570416506166026",
+      "score": 5,
+      "review_title": "Great Multiplayer",
+      "review_description": "This game is great! You never know what to expect or what crazy treasure you will find and that keeps it feeling fresh and fun. My gaming bro and I have found 3 of the endings so far and will for sure be figuring out the rest. Thank you for a game we can play that is exciting and at the same time also not too demanding.",
+      "date": 1745029148,
+      "review_helpful_count": 4,
+      "author_display_name": "PS_Punisher",
+      "author_alias": "PS_Punisher",
+      "developer_response": null
+    },
+    {
+      "id": "592557140616846",
+      "score": 3,
+      "review_title": "Glitchy",
+      "review_description": "The game is fun, especially multiplayer. But there are so many bugs. Please fix them because the game is a blast.",
+      "date": 1747770912,
+      "review_helpful_count": 3,
+      "author_display_name": "beachkat9",
+      "author_alias": "beachkat9",
+      "developer_response": null
+    },
+    {
+      "id": "786779740972685",
+      "score": 4,
+      "review_title": "please fix that elevator",
+      "review_description": "to be honest that elevator needs fixed when i tried using it the elevator went down but i didn't",
+      "date": 1757813234,
+      "review_helpful_count": 0,
+      "author_display_name": "NYXAU",
+      "author_alias": "NYXAU",
+      "developer_response": null
+    },
+    {
+      "id": "2127884477716507",
+      "score": 3,
+      "review_title": "Yey",
+      "review_description": "It good and fun but it a bit LAGGY",
+      "date": 1748196026,
+      "review_helpful_count": 1,
+      "author_display_name": "Codyrocket25",
+      "author_alias": "Codyrocket25",
+      "developer_response": null
+    },
+    {
+      "id": "1151503153030235",
+      "score": 4,
+      "review_title": "Great multiplayer game",
+      "review_description": "One of the most unique games out there! Lots of loot , interesting monsters, relics, cool outfits for your avatar  and fun endings to the story! This game is great fun to play with friends and others! Your tools get special functions as you upgrade them which is helpful getting around the caves and the terrain. It's a different adventure everytime you go down into the mines. I recommend playing multiplayer to help you fight some of the monsters.  It's definitely way more fun than Cave Digger 1 which doesn't let you get off the elevator. My arms are a little sore because i can play this for hours because its so fun! The only reason why I have not given this 5 stars, which I would for as much fun as it is, but it can be very glitchy at times and we often get glitched out or just kicked out of the Eerie Ruins ( the last and most difficult caves) sometimes on the first level. We have not yet been able to get down to the 3rd level.  Devs please put more work into fixing this annoying glitch. Hopefully more people will join so you can get the funding you need to fix the little glitches to this amazing game,!\nP.S. It's fun to lick the frogs!",
+      "date": 1737914421,
+      "review_helpful_count": 10,
+      "author_display_name": "Kimbiecookie",
+      "author_alias": "Kimbiecookie",
+      "developer_response": null
+    },
+    {
+      "id": "557342964121959",
+      "score": 4,
+      "review_title": "Good, but",
+      "review_description": "This is a fun game with solid gameplay loop but man is it clunky at least on quest 3. Worst is pick axe. It really feels unsatisfying to mine with it in mining game. Sad right? Also picking things from slots with same button as from ground leads to a lot of clunkiness.\nUpdate, fix, 5 stars, deal?",
+      "date": 1736432672,
+      "review_helpful_count": 5,
+      "author_display_name": "RadkoVan",
+      "author_alias": "RadkoVan",
+      "developer_response": null
+    },
+    {
+      "id": "1009896161200391",
+      "score": 1,
+      "review_title": "Would be fun if it didn't crash",
+      "review_description": "Got past tutorial went down my first mine got\n all the way to the safe at the end and the game crashes and kicks me a whole hour wasted",
+      "date": 1740473633,
+      "review_helpful_count": 2,
+      "author_display_name": "SWA_Akumanojikan",
+      "author_alias": "SWA_Akumanojikan",
+      "developer_response": null
+    },
+    {
+      "id": "526088530585332",
+      "score": 5,
+      "review_title": "best multiplayer game",
+      "review_description": "cave digger 1 was far more relaxing but cave digger 2 is a completely different action packed game also what ever you do DONT LICK THE FROGS but it’s a great game :)",
+      "date": 1735220842,
+      "review_helpful_count": 12,
+      "author_display_name": "Sockhead102",
+      "author_alias": "Sockhead102",
+      "developer_response": {
+        "body": "Thanks. You can lick the frogs once, as a treat.",
+        "date": 1738095343
+      }
+    },
+    {
+      "id": "649919957596695",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Good Game \nGood Graphics",
+      "date": 1740013497,
+      "review_helpful_count": 2,
+      "author_display_name": "skyvuc",
+      "author_alias": "skyvuc",
+      "developer_response": null
+    },
+    {
+      "id": "8664769450245016",
+      "score": 5,
+      "review_title": "Ready to mine!!!",
+      "review_description": "This game is exactly what you are looking for if you enjoyed cave digger 1 and wanted more. Being able to do endless runs and upgrades along the way is so satisfying, the amount of tools has greatly increased as well. And with a way to randomize your run at the start to give you some good buffs/debuffs for excitement in the mines, speaking of mines you are able to buy more than one type of mine and explore. This game is a hollerin good time and I can’t wait too dig till I can’t no more.",
+      "date": 1729615677,
+      "review_helpful_count": 16,
+      "author_display_name": "Sonictheboss8472",
+      "author_alias": "Sonictheboss8472",
+      "developer_response": {
+        "body": "Well said!",
+        "date": 1738095508
+      }
+    },
+    {
+      "id": "611654571347977",
+      "score": 3,
+      "review_title": "Game Freeze",
+      "review_description": "7 out of 10 times, the game freezes mid or toward the end of quest and forces a quit and restart. Very frustrating.",
+      "date": 1736719425,
+      "review_helpful_count": 0,
+      "author_display_name": "marinecombatvet",
+      "author_alias": "marinecombatvet",
+      "developer_response": {
+        "body": "Hi, sorry to hear about the trouble you are having. By quest do you mean a mining run or what?",
+        "date": 1738005028
+      }
+    },
+    {
+      "id": "1289232788888893",
+      "score": 3,
+      "review_title": "It was good",
+      "review_description": "I tried to request a refund because the game was good, but not it's broken..\nBut meta wouldn't approve my refund request.\nThere's better games available now that are worth $20 that I would love th have, and they completely denied me of enjoying them.\nThey obviously think I'm trying to pull a fast one on them ....No, I just want a better game that isn't broken.\nI love my quest 3s....but customer service like this is why we get stuck with crap",
+      "date": 1729614961,
+      "review_helpful_count": 4,
+      "author_display_name": "terrystokes",
+      "author_alias": "terrystokes",
+      "developer_response": {
+        "body": "Hey Terrystokes! Sorry you had problems with Cave Digger 2. We just recently made 2 new updates fixing several bugs. We hope you can give it another go and let us know if there is stil issues. :)",
+        "date": 1729749471
+      }
+    },
+    {
+      "id": "505177022436161",
+      "score": 3,
+      "review_title": "Good but Bad framerate",
+      "review_description": "The game is pretty good, nice and graphically correct. But the main problem is the framerate, lag. When I walk, it is not at all fluid and it bothers me. I changed settings but it's the same. Dungeons of eternity is very fluid. So I will ask for a refund. Good luck for the future",
+      "date": 1727288844,
+      "review_helpful_count": 3,
+      "author_display_name": "Bisskoto",
+      "author_alias": "Bisskoto",
+      "developer_response": {
+        "body": "Hi, thanks for the comment! We have now fixed the lag when walking, so if you want to try again, feel free :)",
+        "date": 1729091933
+      }
+    },
+    {
+      "id": "947638497130405",
+      "score": 1,
+      "review_title": "Still lagging and unplaylable",
+      "review_description": "Bought when released for Quest 2 and game was in early acces of I remember and it was unplaylaple because of frame drops. \nNow August 2024 I bought Quest 3 and after game installed i see nothing changed, game doesnt run smooth. Why?",
+      "date": 1724412760,
+      "review_helpful_count": 6,
+      "author_display_name": "PQUEST1",
+      "author_alias": "PQUEST1",
+      "developer_response": {
+        "body": "Hi, we are not seeing this in our testing. If you can, pop by our discord and we'll try to resolve the issue.\n\nEDIT: We have now fixed the lag, please try again and see if it's any better for you.",
+        "date": 1729092146
+      }
+    },
+    {
+      "id": "3836138176609853",
+      "score": 2,
+      "review_title": "Misaligned pick-axe",
+      "review_description": "I couldn't play Cave Digger 2 for long enough to provide a comprehensive review—it was that disappointing. I couldn't even get through the first tutorial before quitting.\n\nThe intro scene was frustrating with an obtrusive button that wouldn't let me exit easily. When I tried resetting the scene, I ended up teleporting outside the elevator, or whatever it was supposed to be.\n\nThe graphics are reminiscent of a ten-year-old mobile game. On top of that, the performance on the Quest 3 was subpar.\n\nThe most game-breaking issue was with the pick-axe. It wasn't even aligned correctly; it was about 30 degrees off from the controller, making it nearly unusable. This felt like someone's first attempt at game development.\n\nI got the game at a 90% discount for about $3, and honestly, it wasn't even worth that. How anyone can justify paying full price for this is beyond me. Seeing all the 4-5 star reviews is baffling. I can't set a one-star because I haven't played it enough. Let's give it two stars because it doesn't deserve to be rated down more than that.",
+      "date": 1719860511,
+      "review_helpful_count": 2,
+      "author_display_name": "stackarn",
+      "author_alias": "stackarn",
+      "developer_response": null
+    },
+    {
+      "id": "815393080539645",
+      "score": 2,
+      "review_title": "Graphics texture quality low: Quest 3",
+      "review_description": "Need higher graphics texture quality. Currently its too low and breaks immersion on Quest 3. Quest 3 definitely can run much higher texture quality as proven by many other games.",
+      "date": 1719123858,
+      "review_helpful_count": 4,
+      "author_display_name": "meta_voyager",
+      "author_alias": "meta_voyager",
+      "developer_response": {
+        "body": "Hi and yes you are right! Better graphics are possible on Quest 3, sadly we did not have the budget or the manpower bigger companies did. We did our best tho!",
+        "date": 1722363066
+      }
+    },
+    {
+      "id": "329513256500145",
+      "score": 3,
+      "review_title": "Pretty good sequel",
+      "review_description": "Pros: Shootouts, open world traveling, mining with friends.\n\nCons: lag spikes, and partial nudity. \n\nYeah, I didn’t sign up to see pornograph mags of breassts with the nippples and butts. Why not put clothes over them at that point? You still get your joke.\n\nI loved the first game so much I bought the second one in app lab, the exploration is great I hope it continues that way.",
+      "date": 1701186138,
+      "review_helpful_count": 12,
+      "author_display_name": "TheRealDes",
+      "author_alias": "TheRealDes",
+      "developer_response": {
+        "body": "Hi and sorry for overtly graphic nude mimic chest! Glad you like the game anyways!",
+        "date": 1722362909
+      }
+    },
+    {
+      "id": "430453812311471",
+      "score": 4,
+      "review_title": "9.5/10 BUY IT NOW YOU DEGENERATE",
+      "review_description": "The game it’s self is amazing for an early access game, the one thing that I don’t love as much is the max backpack size. MAKE IT CAPABLE FOR AT LEAST 200 ITEMS. Overall it’s a good game.",
+      "date": 1656860986,
+      "review_helpful_count": 2,
+      "author_display_name": "flux88",
+      "author_alias": "flux88",
+      "developer_response": {
+        "body": "Oh yeah, we are still tuning the backpack upgrades. Stay tuned and thanks for the review!",
+        "date": 1660159022
+      }
+    },
+    {
+      "id": "384560873526682",
+      "score": 3,
+      "review_title": "Fun and could be soo good BUT:",
+      "review_description": "The game is actually fun but there so things that destroy it and i ask myself: do the developers even testplay this game? The climbing mechanics are the worst i ever experienced it feels like you got rubberarms and you allways got stuck or grab stuff out of your armslots when climbing and its very hard sometimes impossible to pull yourself over the edge. Same when you grab stuff from the bottom you allways grab stuff out of your hipslots and youre not even close to the slots with your hands. And the game is laggy and buggy it runs like 10 fps. The Lizards in the 3. Areal throw rocks through the bottom, when you stand on a higher platform and youre like 3mtrs away from the edge they throw rocks trough the bottom and kill you. Please Devs fix this because without this flaws the game would really be great!",
+      "date": 1648887416,
+      "review_helpful_count": 7,
+      "author_display_name": "Max_Pain",
+      "author_alias": "Max_Pain",
+      "developer_response": {
+        "body": "Heya! I agree that our climbing mechanics need improvement - I don't think any VR game has gotten them down just as of yet, not even Saints&Sinners. We are moving the hip slots to upper arm slots to prevent accidental grabs. Also we are working on the performance problems and AI line-of-sight. Stay tuned!",
+        "date": 1650224061
+      }
+    },
+    {
+      "id": "369334938449608",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Just get updates if it doesn’t already I’m really new to this it’s really fun and the people I have met are nice",
+      "date": 1649987715,
+      "review_helpful_count": 1,
+      "author_display_name": "123Joey",
+      "author_alias": "123Joey",
+      "developer_response": null
+    },
+    {
+      "id": "368652749664169",
+      "score": 5,
+      "review_title": "Revolver is found!",
+      "review_description": "I was enjoying this game very much, but my revolver is missing, and is not respawning . I cannot purchase a new revolver, since it says I already own one. One of the game tutorials stated that if you can’t find your revolver it respawns your holster, which it has not respawned.  update- revolver was accessible in one of the sheds outside! Problems solved!",
+      "date": 1720821118,
+      "review_helpful_count": 3,
+      "author_display_name": "jkul777",
+      "author_alias": "jkul777",
+      "developer_response": {
+        "body": "Glad you found the instrument of pew-pew! We still could probably improve the tutorials.",
+        "date": 1722363866
+      }
+    },
+    {
+      "id": "367404659561483",
+      "score": 5,
+      "review_title": "Great Game Get 2 5 per cent OFF!",
+      "review_description": "Get a discount, go to page below by pasting link in URL, but remember to remove spaces, and ‘dot’  =  .\n\nL O G U N N N N dot BIO dot LINK",
+      "date": 1707510332,
+      "review_helpful_count": 0,
+      "author_display_name": "LoGUNNNN",
+      "author_alias": "LoGUNNNN",
+      "developer_response": null
+    },
+    {
+      "id": "363352385944803",
+      "score": 5,
+      "review_title": "Great sequel from a great game",
+      "review_description": "This game feels like you took the best part of cave diggers and make it better and don’t get me started on all the new things. Just one problem the gun is so inaccurate it is hard to rapid fire on big enemies and it starts freaking out the other times you shoot. Besides this everything is great and is just cave diggers but better.\n\nIf you want an excellent VR game then look no further.",
+      "date": 1658783013,
+      "review_helpful_count": 2,
+      "author_display_name": "Coolplayerplays",
+      "author_alias": "Coolplayerplays",
+      "developer_response": {
+        "body": "The gun really is a thing to get used to! Thanks for the review, I liked the comparison to CD1.",
+        "date": 1660159249
+      }
+    },
+    {
+      "id": "343850852151215",
+      "score": 5,
+      "review_title": "25% off for great game",
+      "review_description": "daniel90 . bio . link \njust put into search engine for 𝟐𝟓% 𝐨𝐟𝐟 \n\n\"Cave Digger 2: Dig Harder\" offers an immersive and thrilling mining adventure, bringing players deep into a beautifully crafted underground world. The VR experience is enhanced by intuitive controls and dynamic environments, making each excavation feel engaging and unique. The game cleverly combines resource management, puzzle-solving, and exploration, ensuring that the gameplay remains fresh and exciting. Overall, \"Cave Digger 2\" is a standout title for VR enthusiasts looking for a captivating and innovative adventure.",
+      "date": 1720081652,
+      "review_helpful_count": 0,
+      "author_display_name": "EasterlinParadox",
+      "author_alias": "EasterlinParadox",
+      "developer_response": null
+    },
+    {
+      "id": "325385749691050",
+      "score": 4,
+      "review_title": "Great game! However...",
+      "review_description": "The game is great if even better than cave digger 1. However there is a bug that occurs at times where i am unable to pick up my tools and sometimes even phase through the ground.",
+      "date": 1650432404,
+      "review_helpful_count": 1,
+      "author_display_name": "rattat2122",
+      "author_alias": "rattat2122",
+      "developer_response": {
+        "body": "Hi and thanks for the feedback! We are fixing the mentioned bugs in the next patch, should be out in a week or so.",
+        "date": 1650903763
+      }
+    },
+    {
+      "id": "325033053059877",
+      "score": 5,
+      "review_title": "Amazing game but needs polish",
+      "review_description": "The game is amazing and a big step up from the first cave digger game. The new exploration of the caves is a blast and so is the fighting the game I'd absolutely worth 10 bucks I'd say it's worth more but that's no to say it doesn't have stuff the needs work. For instance personally I feel the pickaxe need to have some weight and is a little uncomfortable to hold but overall ats an amazing fun exploration and mining game and I'd recommend it",
+      "date": 1649354536,
+      "review_helpful_count": 2,
+      "author_display_name": "Just_carrot",
+      "author_alias": "Just_carrot",
+      "developer_response": {
+        "body": "Appreciate the comments! Even though we are already in a nice place, I agree we have to re-refine how all the digging looks and feels.",
+        "date": 1650223501
+      }
+    },
+    {
+      "id": "318493454175047",
+      "score": 4,
+      "review_title": "Self refunding game?",
+      "review_description": "Hi me and my friend got you great game yesterday and we had a lot of fun until today when his game loaded infinit and then it self refundet it self can you pls do somting about that thanks",
+      "date": 1694292816,
+      "review_helpful_count": 1,
+      "author_display_name": "Malt5815",
+      "author_alias": "Malt5815",
+      "developer_response": {
+        "body": "Hi, not sure what you mean by self refunding (although it sounds fun). Could you please send more details to support@vrkiwi.org.",
+        "date": 1697036634
+      }
+    },
+    {
+      "id": "295032823184048",
+      "score": 4,
+      "review_title": "Really good! But one issue",
+      "review_description": "I just started playing like an hour ago and my headset died. So I got on later but. I didn’t save my progress. Can you guys fix that?",
+      "date": 1689112502,
+      "review_helpful_count": 5,
+      "author_display_name": "BlackDragon716",
+      "author_alias": "BlackDragon716",
+      "developer_response": {
+        "body": "Hi and thanks for the comment! Our autosave should save the game every few minutes, so hope you didn't lose too much progress! Have fun digging!",
+        "date": 1690823926
+      }
+    },
+    {
+      "id": "289493576714949",
+      "score": 5,
+      "review_title": "Wow",
+      "review_description": "What a game. It takes everything good about the first game and ramps it up to 11. It reminds me of Deep rock galactic on the xbox which is one of favorite games. I can't recommend this game enough. BUY IT NOW",
+      "date": 1650746067,
+      "review_helpful_count": 3,
+      "author_display_name": "Madclam1970",
+      "author_alias": "Madclam1970",
+      "developer_response": {
+        "body": "High praise, thank yous!",
+        "date": 1650904495
+      }
+    },
+    {
+      "id": "277742791180593",
+      "score": 5,
+      "review_title": "Just got this. No one playing.",
+      "review_description": "Lol yeah seriously though fun game. Its still in early access but the gameplay loop is there. Pretty fun. Nobody on it yet but i am lol. This game seems like it will be a winner.",
+      "date": 1647902549,
+      "review_helpful_count": 4,
+      "author_display_name": "SyndromeoftheDown",
+      "author_alias": "SyndromeoftheDown",
+      "developer_response": {
+        "body": "I like your comment! There's going to be more people online once we release on PlayStation and Quest.",
+        "date": 1650225258
+      }
+    },
+    {
+      "id": "267282839159434",
+      "score": 5,
+      "review_title": "A MUST buy for VR",
+      "review_description": "I’ve been playing this game for a while and is very fun if you can find the right players (or any players) but one problem is the riddles, they take so long to answer and sometimes I leave them because they are too hard.\nBut overall a great game with a few tiny bugs and a great experience \n(Also to anyone who already has this please host rooms I want to play with people)\nAlso use dynamite to explode the safes ;)",
+      "date": 1690824338,
+      "review_helpful_count": 3,
+      "author_display_name": "Eternity704",
+      "author_alias": "Eternity704",
+      "developer_response": {
+        "body": "Sorry for some of the difficult riddles! They were much harder in the nineties without an internet.\nGlad you found the workaround! :)",
+        "date": 1690824121
+      }
+    },
+    {
+      "id": "212242628002171",
+      "score": 4,
+      "review_title": "This game IS the BEST",
+      "review_description": "This is an amazing game and I love it BUT there is one tiny thing that is a little bit annoying the way you change clothes is ONLY in base camp so if I want to change with my friends I have to drag them back to base camp can you please either make houses in every location or make it editable in the menu THANK YOU FOR THIS GAME",
+      "date": 1677053108,
+      "review_helpful_count": 3,
+      "author_display_name": "TDNxBreak",
+      "author_alias": "TDNxBreak",
+      "developer_response": {
+        "body": "Thanks for the nice comment! Would be cool to be able to change costumes whenever, agreed! We'll consider it.",
+        "date": 1690824213
+      }
+    },
+    {
+      "id": "192961960290820",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "This game is amazing. I really enjoyed playing this with my friend, although the game might have a few minor bugs it is still outstanding. I will be waiting for new updates and new content !!!",
+      "date": 1683407425,
+      "review_helpful_count": 2,
+      "author_display_name": "crimzxc",
+      "author_alias": "crimzxc",
+      "developer_response": {
+        "body": "Thanks, glad to have you around! There's one more content patch coming.",
+        "date": 1690824161
+      }
+    },
+    {
+      "id": "182634594152097",
+      "score": 5,
+      "review_title": "Cave digger 3",
+      "review_description": "It super fun that all I have to say",
+      "date": 1659036812,
+      "review_helpful_count": 0,
+      "author_display_name": "bardmastr35",
+      "author_alias": "bardmastr35",
+      "developer_response": {
+        "body": "I see someone has watched https://www.youtube.com/watch?v=ioN41odVWE0&t=4822s",
+        "date": 1660159529
+      }
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-20T17:08:47Z"
+}
