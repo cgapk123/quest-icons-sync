@@ -25,17 +25,25 @@ env:
   REVIEW_PAGE_SIZE: "20"
   MAX_REVIEWS: "100"
   REVIEW_SORT: helpful
-  REQUEST_DELAY: "1.0"
-  META_MIN_INTERVAL: "1.5"
-  HTTP_RETRIES: "10"
+  # Meta GraphQL 限速（保守配置，降低 429 导致链式中断）
+  REQUEST_DELAY: "2.5"
+  META_MIN_INTERVAL: "3.5"
+  META_MAX_INTERVAL: "25"
+  INTER_APP_DELAY: "2.0"
+  HTTP_RETRIES: "12"
   RETRY_FAILED: "1"
-  RETRY_COOLDOWN: "120"
-  MAX_APPS: "150"
+  RETRY_COOLDOWN: "300"
+  RATE_LIMIT_EXTRA_COOLDOWN: "180"
+  MAX_APPS: "80"
   MAX_WORKERS: "1"
   ONLY_MISSING: "1"
   FROM_ICONS: "1"
   AUTO_CONTINUE: "1"
   MAX_AUTO_CHAIN: "200"
+  # 链式批次：depth * CHAIN_START_DELAY 秒启动等待（上限 CHAIN_START_DELAY_MAX）
+  CHAIN_START_DELAY: "45"
+  CHAIN_START_DELAY_MAX: "600"
+  CHAIN_TRIGGER_DELAY: "90"
 
 jobs:
   sync-reviews:
@@ -52,6 +60,8 @@ jobs:
       - name: Sync reviews (batch)
         id: sync
         run: python sync_reviews.py
+        env:
+          CHAIN_DEPTH: ${{ github.event.inputs.chain_depth || '0' }}
 
       - name: Commit reviews
         run: |
@@ -80,16 +90,25 @@ jobs:
         if: |
           env.AUTO_CONTINUE == '1' &&
           steps.sync.outputs.pending != '' &&
-          steps.sync.outputs.pending != '0' &&
-          steps.sync.outputs.processed != '' &&
-          steps.sync.outputs.processed != '0' &&
           fromJSON(steps.sync.outputs.pending) > 0 &&
-          fromJSON(steps.sync.outputs.processed) > 0 &&
-          fromJSON(github.event.inputs.chain_depth || '0') < fromJSON(env.MAX_AUTO_CHAIN)
+          fromJSON(github.event.inputs.chain_depth || '0') < fromJSON(env.MAX_AUTO_CHAIN) &&
+          (
+            fromJSON(steps.sync.outputs.processed || '0') > 0 ||
+            fromJSON(steps.sync.outputs.failed || '0') > 0
+          )
         env:
           GH_TOKEN: ${{ github.token }}
           CHAIN_DEPTH: ${{ github.event.inputs.chain_depth || '0' }}
+          RATE_LIMITED: ${{ steps.sync.outputs.rate_limited || '0' }}
         run: |
           NEXT=$((CHAIN_DEPTH + 1))
+          DELAY=${CHAIN_TRIGGER_DELAY:-90}
+          if [ "${RATE_LIMITED:-0}" -ge 10 ] 2>/dev/null; then
+            DELAY=$((DELAY + 120))
+            echo "本批 429 较多 (${RATE_LIMITED})，链式触发前额外等待 ${DELAY}s"
+          else
+            echo "链式触发前等待 ${DELAY}s..."
+          fi
+          sleep "$DELAY"
           echo "剩余 ${{ steps.sync.outputs.pending }} 个应用，自动触发第 ${NEXT} 链式批次..."
           gh workflow run sync-reviews.yml --ref main -f "chain_depth=${NEXT}"
