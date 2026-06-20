@@ -1,0 +1,56 @@
+{
+  "app_id": "1339795772708323",
+  "package_name": "com.hg.stuntkitemastervr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Stunt Kite Masters",
+  "rating_average": 3.6666666666667,
+  "rating_count": 9,
+  "review_count": 9,
+  "reviews": [
+    {
+      "id": "2555136167887048",
+      "score": 5,
+      "review_title": "Better played with gamepad",
+      "review_description": "At first I was disappointed that my iPega bluetooth gamepad didn't work since I wanted to control both hands with the analog sticks rather than using the shaky Gear VR controller. But after removing the batteries from the controller to completely deactivate it and then restarting the game it would let me edit the gamepad layout. The analog sticks are still mixed up everytime I start the game but it's not a big deal to reconfigure them. The game is really fun and reminds me on flying my own stunt \nkite as a kid.",
+      "date": 1572373574,
+      "review_helpful_count": 2,
+      "author_display_name": "Paxtera",
+      "author_alias": "Paxtera",
+      "developer_response": null
+    },
+    {
+      "id": "2258472737706712",
+      "score": 4,
+      "review_title": "Really fun, but freezes and Crashes",
+      "review_description": "I think this is a really cool app at the sale price of $1.49.\nCould be neat to see more kites available (styles, patterns, etc).\nI like how there are 'game modes' and its not just a kite flying simulator, although that is plenty fun too.\n\nDid a video review here https://youtu.be/NUMM_QCIDYo",
+      "date": 1550592179,
+      "review_helpful_count": 4,
+      "author_display_name": "mrphilipjoel",
+      "author_alias": "mrphilipjoel",
+      "developer_response": null
+    },
+    {
+      "id": "1929393770629235",
+      "score": 1,
+      "review_title": "Frustrating and nonfunctional",
+      "review_description": "Controls do not work. Setup is super frustrating. Using stratus xl on fw 1.68. Right stick stays pushed forward after selecting that control axis.\n\nUpdate: still non-functional after update. As soon as you select the right stick vertical on the right stick, the right stick handle permanently stays pushed forward.",
+      "date": 1494040762,
+      "review_helpful_count": 10,
+      "author_display_name": "MaxPowerpoint",
+      "author_alias": "MaxPowerpoint",
+      "developer_response": {
+        "body": "Can you please check the latest update. We added support for the nimbus controller and also added a feature to invert x/y axis on demand and hope that solves the problems.",
+        "date": 1498120330
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T10:19:15Z"
+}

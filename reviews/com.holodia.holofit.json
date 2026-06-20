@@ -1,0 +1,927 @@
+{
+  "app_id": "2853664488067174",
+  "package_name": "com.holodia.holofit",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Holofit: Make Your Fitness Fun",
+  "rating_average": 3.8143213988343,
+  "rating_count": 1201,
+  "review_count": 787,
+  "reviews": [
+    {
+      "id": "1530605225166097",
+      "score": 2,
+      "review_title": "Not great",
+      "review_description": "It looks great and would be if 1...it found my exercise Bluetooth bike, it comes up with my treadmill which ain't on, my tv and 2 others that do not belong in my house, yet I have used octronic and it finds my exercise bike instantly, which tells me the fault is with holofit...so not ideal I subscribed to this but will more than likely delete now",
+      "date": 1780956426,
+      "review_helpful_count": 4,
+      "author_display_name": "cierans",
+      "author_alias": "cierans",
+      "developer_response": {
+        "body": "Thank you for your feedback. We're sorry to hear you're having trouble connecting your bike.\n\nHOLOFIT can only connect to fitness equipment that supports FTMS Bluetooth. Some bikes may appear in the Bluetooth list but are not actually compatible with the FTMS standard, which means HOLOFIT can detect them but won't be able to connect.\n\nA few things that may help:\n• Check whether your bike supports FTMS Bluetooth.\n• Make sure the bike isn't already connected to another device or app (such as a fitness watch, phone app, or another fitness platform).\n• Try enabling the Legacy Bluetooth option in HOLOFIT's settings and then scan again.\n• If your bike does not support FTMS Bluetooth, you can still use HOLOFIT by attaching a compatible cadence sensor to the bike.\n\nSince every setup is different, we'd love to help troubleshoot this with you directly. Please contact us at support@holodia.com with your bike model, and our team will do their best to get you up and running.\n\nWe hope you'll give us a chance to help before deciding to leave HOLOFIT.",
+        "date": 1781598432
+      }
+    },
+    {
+      "id": "1144766325390917",
+      "score": 5,
+      "review_title": "3 years: awesome for a rower",
+      "review_description": "I am turning 65 this year and starting my 3rd year/season . This is awesome for an indoor rowing machine. Time flies, the monthly challenge is always great and the latest world Primordia is beautiful. I use the Concept 2 Rowerg, the polar H10 heart monitor and they all work with the Holofit program fairly seamlessly.",
+      "date": 1781926196,
+      "review_helpful_count": 0,
+      "author_display_name": "PhunnyPharmDuo",
+      "author_alias": "PhunnyPharmDuo",
+      "developer_response": null
+    },
+    {
+      "id": "1111238518739344",
+      "score": 5,
+      "review_title": "If you want toning, this app is for you",
+      "review_description": "Omg!!! I’m in love with this app. It’s easy to use and gives you visible results. I always use the “Train. Combo” mode and can see my body getting tighter. The workouts are fun, the scenery is amazing, and can sweat in bunches because it is intensive. I was just telling my husband yesterday that I’ve lost so much weight using it, I don’t know what I’d do without it. It keeps you motivated that i look forward to the game everyone!",
+      "date": 1776692290,
+      "review_helpful_count": 18,
+      "author_display_name": "Leal_j",
+      "author_alias": "Leal_j",
+      "developer_response": null
+    },
+    {
+      "id": "1546573577118525",
+      "score": 5,
+      "review_title": "Update: 1,5 year with Holofit",
+      "review_description": "Update after 1,5 year: I finish all monthly challenges every month and it never gets boring. There are also new worlds or missions that keep you fit and occupied. Love it!  \n\nNever had I so much fun to sport as this year! I enjoyed all the worlds and challenges. Till now I finished 11 of 12 monthly challenges and it was never a dull moment. I like how Holofit team answers soon and how they implement new game elements. I will be enjoying Holofit in 2026 for sure!",
+      "date": 1780932721,
+      "review_helpful_count": 0,
+      "author_display_name": "Smeyanka",
+      "author_alias": "Smeyanka",
+      "developer_response": null
+    },
+    {
+      "id": "1166014776601494",
+      "score": 2,
+      "review_title": "Over priced",
+      "review_description": "It's pretty good though way overpriced subscription required for what it is, I have an S3+ magene cadence sensor although it connects easily it doesn't really simulate different speeds well especially attempting to slow down. $20 a month hahaha no way",
+      "date": 1781823458,
+      "review_helpful_count": 0,
+      "author_display_name": "Billoty",
+      "author_alias": "Billoty",
+      "developer_response": {
+        "body": "Thanks for your feedback! We're glad to hear you're enjoying HOLOFIT overall.\n\nRegarding the speed changes, cadence sensors such as the Magene S3+ inherently have some latency due to how they measure and transmit pedaling data. Because of this, speed adjustments, especially when slowing down, cannot be reflected instantly, regardless of the app being used.\n\nWe'd also like to clarify that our pricing is currently $11.99/month or $83.99/year, which works out to about $6.99/month on the annual plan.\n\nIf you have any questions about your setup or need help optimizing your sensor experience, please don't hesitate to contact our support team at support@holodia.com. We'd be happy to help!",
+        "date": 1781857621
+      }
+    },
+    {
+      "id": "1095326960324121",
+      "score": 2,
+      "review_title": "super pricey for a bugged experience",
+      "review_description": "I broke down and paid the subscription fee, which is more than an AAA game with zero of the AAA benefits.  At least with a good AAA game, we get updates and bug fixes without having to pay the AAA price annually.  I am not expecting AAA graphics for a meta quest game. Either make the high price a one-time cost or greatly reduce the subscription price model if you don't plan on fixing any of the bugs.",
+      "date": 1776274355,
+      "review_helpful_count": 8,
+      "author_display_name": "JasonTheMagnificent",
+      "author_alias": "JasonTheMagnificent",
+      "developer_response": null
+    },
+    {
+      "id": "926965300125941",
+      "score": 1,
+      "review_title": "Confusing and very restrictive.",
+      "review_description": "The purchase and subscription process is confusing and restrictive. I had a trial a couple of years ago when I first got my Oculus. Now I have a Meta gift card and am trying to buy the yearly subscription on the 40% sale—impossible.\n\nSince I had a free trial in the past, the app shows that I “already own” it, and the purchase button is greyed out. \n\nLooks like purchases can only be made through the headset, where it’s impossible to access the discounted sale that end tomorrow. It feels like the sale is advertised, but previous trial users are blocked from using it.\n\nIt’s unclear how to reset or manage entitlements, and support has been unresponsive. \n\nThis needs serious improvement.",
+      "date": 1775076790,
+      "review_helpful_count": 10,
+      "author_display_name": "Gottabmxd",
+      "author_alias": "Gottabmxd",
+      "developer_response": null
+    },
+    {
+      "id": "1110373868833549",
+      "score": 5,
+      "review_title": "Holofit support",
+      "review_description": "Lilly has been a fantastic help getting me set up on holofit. Promt and friendly assistance. It's much appreciated. I love the visuals from holofit and that helps me enjoy exercising even more.",
+      "date": 1780511413,
+      "review_helpful_count": 1,
+      "author_display_name": "Toni.29",
+      "author_alias": "Toni.29",
+      "developer_response": null
+    },
+    {
+      "id": "1045129625357863",
+      "score": 5,
+      "review_title": "Great fun and great support",
+      "review_description": "This game makes workouts fun, takes you away from the everyday, and surprises keep popping up.\nNew challenges to keep you interested.\nShout out to the support team, first class.",
+      "date": 1777700028,
+      "review_helpful_count": 5,
+      "author_display_name": "mandyw.885458",
+      "author_alias": "mandyw.885458",
+      "developer_response": null
+    },
+    {
+      "id": "1676139170080402",
+      "score": 5,
+      "review_title": "Loving Primordia aka DinoFit",
+      "review_description": "The new Map had our group in a great mood for our nightly ride. Kudos to the team for the excellent work. We  (The Sensational Six) had a great ride through last night. Really well done.  👏 👏 👏",
+      "date": 1777031803,
+      "review_helpful_count": 5,
+      "author_display_name": "Tuvok47b",
+      "author_alias": "Tuvok47b",
+      "developer_response": null
+    },
+    {
+      "id": "954937631047421",
+      "score": 5,
+      "review_title": "HOLOFIT Support Fixed My Bluetooth Rowin",
+      "review_description": "HOLOFIT is awesome for workouts, and I especially want to praise their support team. I had a Bluetooth connection issue with my rowing machine (FTMS profiles). After I sent them diagnostic data, they analyzed it quickly and fixed it in the next app update. Great communication and truly competent technical support. Highly recommended!",
+      "date": 1774797494,
+      "review_helpful_count": 7,
+      "author_display_name": "Jezinka",
+      "author_alias": "Jezinka",
+      "developer_response": null
+    },
+    {
+      "id": "1621559595733880",
+      "score": 4,
+      "review_title": "Recommend",
+      "review_description": "Suspend your criticisms and just go with the flow. This app makes stationary biking soo much more bearable:)\nEven usable without a machine - in fact some workouts are much more effective without one.\nI've been using this app for over a year and it's the one I've been using the most consistently and has been the most effective for me.",
+      "date": 1778688017,
+      "review_helpful_count": 0,
+      "author_display_name": "DeadlyInsight",
+      "author_alias": "DeadlyInsight",
+      "developer_response": null
+    },
+    {
+      "id": "1438541701401521",
+      "score": 5,
+      "review_title": "Seated hand crank bike player",
+      "review_description": "So I have mobility issues that lead me to play seated using my hand crank exerciser 80% of the time I play. I hate that dang thing and this game is my main motivation to do so. I have to increase arm strength and  this keeps me coming back.\nOf course there are some issues for me, mainly that I find some of the locations to be too drawn out between trophies and just boring. \nThe cannon, other that the tunnel with the ghosts is just an endless stretch of river. Also I hate heights so  parts I just have to do with my eyes closed.  NOTE: I appreciate that on this location and others you’ve posted a BEWARE OF HEIGHTS sign before it starts.\nParis: boring with never ending gardens, but mostly I avoid this one due to several abrupt transitions that make me nauseated.\nCyberpunk is my favorite location even if it has the most heights that cause me to close my eyes. \n\nOverall one of my favorite apps here. I spend 30-90 minutes innit most every day.",
+      "date": 1773415250,
+      "review_helpful_count": 11,
+      "author_display_name": "Tatsandcats",
+      "author_alias": "Tatsandcats",
+      "developer_response": null
+    },
+    {
+      "id": "1065645419975924",
+      "score": 1,
+      "review_title": "It doesn't deserve one star",
+      "review_description": "This game isn't worth two cents.\nIt almost always has a problem.\n\nThe character, again, is lying on the ground and there's no way to play.\n Throw your money away for aggrevation; that's all you'll get with the game.",
+      "date": 1779110260,
+      "review_helpful_count": 1,
+      "author_display_name": "AbsterA",
+      "author_alias": "AbsterA",
+      "developer_response": null
+    },
+    {
+      "id": "986959007832791",
+      "score": 3,
+      "review_title": "Good App, Too Expensive",
+      "review_description": "The Positives: Immersive Environments\nFor a Meta Quest app, the graphics are surprisingly good. The environments are highly detailed and filled with clever \"Easter eggs\" referencing iconic movies and video games, which makes exploring them a lot of fun. The cityscapes are definitely the highlight for me—they are beautifully designed. The \"Cyber-vessel\" concept is also a very cool touch that adds a futuristic feel to the workout.\n​The Negatives: Lack of Speed and Ghost Towns\n​Sense of Speed: Despite the great visuals, the sensation of movement is very weak. You don't really feel the speed of your effort, which can be frustrating during an intense rowing session.\n​Ghost Multiplayer: The multiplayer mode feels empty. I almost always find myself competing against bots rather than real people. For a subscription-based service, there is a serious lack of community events and fresh updates. It feels more like a solo game than a living platform.\n​The Pricing Issue\nThe biggest drawback is the cost. I personally only use the rowing mode, and paying $95 (79.90€) per year is simply not justifiable. It is very hard to understand why the price is so high when there is so little new content and almost no multiplayer activity.\n​In my opinion, a price point around 40€ per year would be much more reasonable, especially for users who only use one type of equipment.\n​Final Verdict: It’s a great-looking app, but it lacks the \"social\" and \"dynamic\" features to justify a premium subscription. It is currently a solo experience sold at a multiplayer price.",
+      "date": 1770320308,
+      "review_helpful_count": 43,
+      "author_display_name": "Thebis49140",
+      "author_alias": "Thebis49140",
+      "developer_response": {
+        "body": "Thank you for your review!\n\nCan you please specify if you're using a rowing machine with HOLOFIT? The speed issues you've experienced might have been a glitch, and we'd like to help you with it.\n\nAlso, did you join any of the community events, like daily or monthly challenges, or our big Move challenge that started on January 1st?",
+        "date": 1770992248
+      }
+    },
+    {
+      "id": "1000351466503063",
+      "score": 4,
+      "review_title": "More light hearted",
+      "review_description": "I mostly like the app but would like more tropical /forest / park / beach hiking trails and more light hearted content a lot of the content feels dark and dreary . Rowing speed could feel faster as well a little slow",
+      "date": 1775147148,
+      "review_helpful_count": 5,
+      "author_display_name": "boogrl",
+      "author_alias": "boogrl",
+      "developer_response": null
+    },
+    {
+      "id": "947844314470436",
+      "score": 5,
+      "review_title": "I absolutely love this workout tool",
+      "review_description": "Holofit is a game changer for me honestly I'm 63 years old and it just feels like playing a game and I get a move so there you have it I love it love it love it love it there's so many different things you could do and it's all just like playing a game I wish my son would do it He is 500 lb and I'm trying to get him into VR but he doesn't want to seem to do it. I love these workout games",
+      "date": 1772768117,
+      "review_helpful_count": 8,
+      "author_display_name": "EVIRIDER",
+      "author_alias": "EVIRIDER",
+      "developer_response": null
+    },
+    {
+      "id": "917340487430541",
+      "score": 5,
+      "review_title": "Impressive app",
+      "review_description": "I decided to try Holofit for my elliptical workouts, expecting to be disappointed with cartoonish graphics and an unrealistic experience.  What I discovered was an excellent, immersive app with great graphics.  Not completely realistic, but very good.  Somewhere btwn real life and Walkabout Mini Golf.  Throughout my travels in the various worlds, there in an endless amount of clever and engaging animations.  When using my elliptical normally, I am usually watching TV for 45 minutes, and don't break a sweat.  In Holofit, after 30 min, I am exhausted and sweating.  My BoboVR head strap has a fan, which helps.  All that said, it is not perfect.  My elliptical is not bluetooth enabled, so I had to attach a cadence sensor.  Initial setup was incredibly confusing as I could not get the app to recognize the sensor.  Not Holofit's fault I suppose, but I honestly was very close to returning the sensor to Amazon and cancelling Holofit.  I finally realized that I had to turn off bluetooth on my phone because it  was interfering with Holofit connecting with the sensor.  Since then, I have not had a problem connecting.  As mentioned, the graphics are great, and several worlds provide alternate routes that you can select for different experiences.  However, each loop seems to last anywhere from 15-30 minutes, and then you are back to the starting position, with the same graphics and animations as before.  Having some randomized animations so that it does not get repetitive would be nice. My setup includes using an Apple Watch 10 to track the elliptical workout, and AirPods Pro 3 for an alternate source of Heart Rate tracking.  My dilemma is that if I want to save my holofit workout to Apple Health, it adds to my Apple Watch stats.  So, it is either one or the other.  There does not seem to be a way to selectively save stats from either source.  So, I have elected to only save Apple Watch stats and just use Holofit's for in-app use.  Better integration with Apple would be great.",
+      "date": 1772088626,
+      "review_helpful_count": 11,
+      "author_display_name": "woodepgh",
+      "author_alias": "woodepgh",
+      "developer_response": null
+    },
+    {
+      "id": "1572128730942669",
+      "score": 5,
+      "review_title": "Gets me to workout!",
+      "review_description": "Such fun diversity! Love all the workout options. This is my fun workout.",
+      "date": 1780171024,
+      "review_helpful_count": 1,
+      "author_display_name": "Cbauerlife",
+      "author_alias": "Cbauerlife",
+      "developer_response": null
+    },
+    {
+      "id": "1437711111422617",
+      "score": 1,
+      "review_title": "Ridiculous",
+      "review_description": "This app is childish fun and nowhere near the graphic quality of old Kayak VR, and I could deal with that.\nBut from the perspective of somewhat serious exercising it is ridiculous.\nThis app mentions cardio, but I see no option to connect a cardio strap like the Polar H10. This is completely unacceptable from a subscription service as any serious rower wants to know in what aerobic zone he is performing and how good is his recovery. And you can't take your headset off to check your pulse on another app...\nThe VR row machine is not in anyway configurable to match the real row machine.   It would be easy to adjust the sitting position from point minimal (no pull) to maximal pull. The pull in VR is way to short, maybe half the length of the chain of my machine, so it is completely out of sync, the VR ship does rarely move in sync with my motion, specially when starting, the VR experience is completely spoiled and sea sickness slowly kicks in.\nThen you can interact with targets by looking, but no way of turning a bit to left or right. This doesn't make you believe you are in controll, sitting in a VR boat. It feels more like a train... My idea would be to attach the controller to the pull bar, as already implemented in Kayak games, rotating the pull bar rotates the controller to change the direction of the boat to some degree. \nAs it is, it is just a gimmick, not configurable as it is, nothing I would use not even for a month. But they are quick to present you a somewhat confusing page for annual or monthy subscription.\nSorry, you have to do better...",
+      "date": 1773674559,
+      "review_helpful_count": 3,
+      "author_display_name": "TomSawyer2112",
+      "author_alias": "TomSawyer2112",
+      "developer_response": null
+    },
+    {
+      "id": "1042948712232122",
+      "score": 5,
+      "review_title": "Outstanding",
+      "review_description": "I love this app. It is so fun for me on a daily basis and it is even more fun to introduce it to my friends. They are changing it and adding content pretty regularly to keep me interested. There are all kinds of levels of workouts I can use or I can just use it to browse around their worlds on a leisurely bike ride. I have had a couple of glitches, but when I contacted them, they got right back to me the very same day and gave me all the suggestions I needed. Outstanding customer support!",
+      "date": 1772551689,
+      "review_helpful_count": 5,
+      "author_display_name": "Christy9020",
+      "author_alias": "Christy9020",
+      "developer_response": null
+    },
+    {
+      "id": "1469533767969146",
+      "score": 5,
+      "review_title": "My dream come true!",
+      "review_description": "My new found joy is the rowing equipment and as I was at the gym, I was day dreaming about how awesome a vr app would be vs a youtube video. Found this app, bought a rower (not bluetooth, I'm not rich!), canceled my gym membership and now I have to force myself to wait to row, so I don't burn out my muscles. I love it SO much! I use my quest 2, and only need the joystick to get into the game. The rest is handled through the headset.",
+      "date": 1770695033,
+      "review_helpful_count": 12,
+      "author_display_name": "ProvRich7",
+      "author_alias": "ProvRich7",
+      "developer_response": null
+    },
+    {
+      "id": "998242226708880",
+      "score": 5,
+      "review_title": "Breathtaking!",
+      "review_description": "I have played many sport apps and this one is the most beautiful visually. The environments are full of life and a joy to explore. As a lifelong dinosaur fan, the dinosaur world left me in awe, one of the best dinosaur experience in VR and you get a nice workout at the same time.",
+      "date": 1772884401,
+      "review_helpful_count": 4,
+      "author_display_name": "mimiarsw",
+      "author_alias": "mimiarsw",
+      "developer_response": null
+    },
+    {
+      "id": "1746261843424786",
+      "score": 1,
+      "review_title": "Works well with Concept2 Rower",
+      "review_description": "Was a piece of cake to connect to my rowing machine, after which I can burn calories in beatiful 3d worlds. \nMinus 1 star for the \"loading license\" screen in which I was stuck until clearing all the app data.\n\nUpdate: AGAIN STUCK IN LOADING LICENSE\n\nSince I have trouble starting the app every time because you think I'm a criminal who does not pay, I just cancelled my subcription.",
+      "date": 1773440658,
+      "review_helpful_count": 2,
+      "author_display_name": "godfriedm",
+      "author_alias": "godfriedm",
+      "developer_response": null
+    },
+    {
+      "id": "888303627452929",
+      "score": 5,
+      "review_title": "Beautiful !￼ ❤️❤️",
+      "review_description": "I love the scenery. I like how you made it more easier to capture the items. Also the animals they’re more close to you. I love that part two and the sounds and it was like kinda exciting because I felt like they were close ￼behind me. 😂😂  looking at the animals and the scenery and hearing the sounds. Make me go further.  Beautiful idea, 💡 ￼￼￼🚣🏽🚣🏽🚣🏽",
+      "date": 1771664107,
+      "review_helpful_count": 4,
+      "author_display_name": "SweetMusic4me",
+      "author_alias": "SweetMusic4me",
+      "developer_response": null
+    },
+    {
+      "id": "1464052908679354",
+      "score": 5,
+      "review_title": "Hands down, he BEST exercise app!!",
+      "review_description": "So fun! You won't even feel the grind of monotonous exercise. You pass the time in a MANY exciting and stimulating Holoworlds. \n\nYou can use an elliptical, rower or bike or even simply use your controllers. \n\nYou can exercise in many different modes like racing, whack-a-mule, beat the octopus, Holomissions, zen-mode, collect the trophies, etc. \n\nIt is worth every penny of the subscription cost.",
+      "date": 1771527333,
+      "review_helpful_count": 4,
+      "author_display_name": "froese5664",
+      "author_alias": "froese5664",
+      "developer_response": null
+    },
+    {
+      "id": "958124343829978",
+      "score": 5,
+      "review_title": "Holifit",
+      "review_description": "I had trouble with my license after taking some time off due to illness.  I sent a message to customer support.  They responded very quickly and fixed my problem.   Lilly was amazing ❤️",
+      "date": 1772927666,
+      "review_helpful_count": 4,
+      "author_display_name": "kat87401914",
+      "author_alias": "kat87401914",
+      "developer_response": null
+    },
+    {
+      "id": "956262856855637",
+      "score": 5,
+      "review_title": "Dope",
+      "review_description": "Love the energy",
+      "date": 1775221101,
+      "review_helpful_count": 4,
+      "author_display_name": "lavishlife.v",
+      "author_alias": "lavishlife.v",
+      "developer_response": null
+    },
+    {
+      "id": "3597048073778736",
+      "score": 3,
+      "review_title": "Disappointed in the new dinosaur world",
+      "review_description": "I love Holodia and all the worlds, I’ve been so anxious for a new world and you came through, however, the new dinosaur world that came out was boring, I didn’t even finish it. Please add some special things in the world to make it more exciting.",
+      "date": 1773353460,
+      "review_helpful_count": 1,
+      "author_display_name": "northstar760",
+      "author_alias": "northstar760",
+      "developer_response": {
+        "body": "Hey, northstar760! Sorry to hear that. You`ll be glad to hear that we've only released Chapter 1 of Primordia; Chapters 2 and 3 are in the making. We look forward to your updated review once the whole world is out.  :)",
+        "date": 1773396417
+      }
+    },
+    {
+      "id": "912871625249864",
+      "score": 5,
+      "review_title": "Fitness that is fun!!",
+      "review_description": "This VR fitness app keeps you coming back and makes workouts fun!  Exercise is no longer drudgery, it’s something I look forward to day after day. Immersion into these virtual worlds are sheer joy and time flies by whether I’m on a rower or the bike. The creativity, beauty and engagement in these worlds is amazing . Support is wonderful, if you ever need it   and there are constant innovations with added features on a regular basis. Kudos to this company for being a pioneer in making fitness fun. It’s 10 stars for me!",
+      "date": 1770489389,
+      "review_helpful_count": 3,
+      "author_display_name": "Harno.263",
+      "author_alias": "Harno.263",
+      "developer_response": null
+    },
+    {
+      "id": "933380835685848",
+      "score": 5,
+      "review_title": "Holofun",
+      "review_description": "I really like the different Holoworlds to ride through on my exercise bike.  They are imaginative and fun.  I crave more of them but I do appreciate the efforts to keep them interesting by adding missions to look for more things and the various changes through the seasons. I have no idea where the Donkey nemesis theme came from but it is original and most importantly fun.  I hate subscriptions so jumped at the chance of a lifetime membership deal on black Friday.  Keep an eye out for that.",
+      "date": 1769095668,
+      "review_helpful_count": 4,
+      "author_display_name": "Matfink1",
+      "author_alias": "Matfink1",
+      "developer_response": null
+    },
+    {
+      "id": "1115650621623507",
+      "score": 1,
+      "review_title": "Won’t load",
+      "review_description": "I have a week old Meta quest three with the big memory and I don’t know why this app won’t load??￼",
+      "date": 1774711246,
+      "review_helpful_count": 0,
+      "author_display_name": "lorenz1276",
+      "author_alias": "lorenz1276",
+      "developer_response": {
+        "body": "Hi, lorenz1276! \nPlease contact our Support at support@holodia.com.",
+        "date": 1775042272
+      }
+    },
+    {
+      "id": "981457801724626",
+      "score": 3,
+      "review_title": "New dinosaur world",
+      "review_description": "Beautiful and fun. However I kept waiting for something \"exciting \" to happen, for example an \"easter egg\" to be caught, a rampaging dinosaur or people running from raging dinosaurs.  \nI'm looking forward for more things to be added. It definitely feels incomplete at this time.",
+      "date": 1771479008,
+      "review_helpful_count": 0,
+      "author_display_name": "susy.699378",
+      "author_alias": "susy.699378",
+      "developer_response": {
+        "body": "Hey, Susy! We totally get what you mean about waiting for something “exciting” to happen. The important thing to note is that we’ve only released Chapter 1 of Primordia so far — Chapters 2 and 3 are already in the making, and that’s where the adventure continues to unfold. We look forward to your updated review once chapters 2 and 3 are out!",
+        "date": 1771491254
+      }
+    },
+    {
+      "id": "975777275621295",
+      "score": 5,
+      "review_title": "Amazing!",
+      "review_description": "My first venture into VR and I am amazed! I am not a games person having worked in technical IT for many, many, (and more) years I fully appreciate the work that has gone into Holodia. I love the sense of humour of the team seen when looking down alleys or listening to sound effects - it’s all there. Like many, i got bored of the gym… plod, plod listening to music or watching some dross on the to… then I discovered Holofit (thanks to my sister) and I haven’t been back to the gym since. Believe it or not I actually rush home from work to do half an hour on the rower, whether it’s monthly challenges daily changes or just collecting trophies. I really enjoy it and if I jump around the world it doesn’t get boring.\nThe customer support is amazing…. Not only do they answer you which a lot of companies don’t, they get back to you quickly. I don’t treat you like an idiot. I love this app. I shall renew my yearly subscription when it’s due…..such good fun!",
+      "date": 1768422154,
+      "review_helpful_count": 4,
+      "author_display_name": "NormaSFletcher",
+      "author_alias": "NormaSFletcher",
+      "developer_response": null
+    },
+    {
+      "id": "857901536747433",
+      "score": 5,
+      "review_title": "Lifetime Subscription",
+      "review_description": "My wife and I just bought Lifetime Subscriptions to to Holofit and we couldn’t be happier! This VR app is absolute best. It makes exercising FUN! To get our accounts set up properly, we reached out to Holofit tech service and received an extremely fast reply. Lilly James, our Holofit representative, was unbelievably helpful and knowledgeable, and very attentive to our needs! Thank you, Lilly, and thank you Holifit!",
+      "date": 1764457867,
+      "review_helpful_count": 33,
+      "author_display_name": "SteveCollins816",
+      "author_alias": "SteveCollins816",
+      "developer_response": null
+    },
+    {
+      "id": "1004414709412171",
+      "score": 5,
+      "review_title": "Excellent customer service.",
+      "review_description": "I just purchased my first yearly subscription of Holofit on my Holodia app. ￼ I didn’t see a field to enter my 20% off promo code during my purchase, so I emailed Holodia support for help. Lilly got right back to me and applied the discount. \nI use the Holofit programs on my Meta Quest 3 to do my elliptical work outs. What a fun way to exercise!",
+      "date": 1767901879,
+      "review_helpful_count": 4,
+      "author_display_name": "RiverkayakerSan",
+      "author_alias": "RiverkayakerSan",
+      "developer_response": null
+    },
+    {
+      "id": "859575770413826",
+      "score": 5,
+      "review_title": "Primordia Update",
+      "review_description": "Love the graphics in this new world.  This is going to be one of favorites. I can’t wait to see what is added to it as it evolves",
+      "date": 1771433460,
+      "review_helpful_count": 3,
+      "author_display_name": "Rjhelt",
+      "author_alias": "Rjhelt",
+      "developer_response": null
+    },
+    {
+      "id": "908058669068402",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "I have been using this for 2 years now and it still keeps me motivated. I love the beauty of the worlds.",
+      "date": 1771428791,
+      "review_helpful_count": 3,
+      "author_display_name": "Iceladyeyes",
+      "author_alias": "Iceladyeyes",
+      "developer_response": null
+    },
+    {
+      "id": "966002273262818",
+      "score": 5,
+      "review_title": "Great game and even better support",
+      "review_description": "I just got this app a couple months ago and noticed an issue with the online multiplayer. I contacted support and Lilly was great at offering support and even escalated the issue to get it fixed! I'm so happy that I can now do workouts with my friend.",
+      "date": 1768571294,
+      "review_helpful_count": 3,
+      "author_display_name": "ladybirdwine",
+      "author_alias": "ladybirdwine",
+      "developer_response": null
+    },
+    {
+      "id": "1444154317330913",
+      "score": 5,
+      "review_title": "This is too fun!",
+      "review_description": "This app almost makes it feel like I am \"cheating\" when it comes to exercising.   It makes it so fun and enjoyable, that I forget that I am also working out!",
+      "date": 1769874821,
+      "review_helpful_count": 3,
+      "author_display_name": "SkepticOto",
+      "author_alias": "SkepticOto",
+      "developer_response": null
+    },
+    {
+      "id": "1874094716542445",
+      "score": 5,
+      "review_title": "Outstanding follow up",
+      "review_description": "You can count on a quick response if you have any issues. The program is fun and never gets boring. Every time you go threw a world you discover things you missed. In fact you will find your self stopping to watch things you missed as you passed by on  earlier runs",
+      "date": 1767045946,
+      "review_helpful_count": 4,
+      "author_display_name": "ctrainer2",
+      "author_alias": "ctrainer2",
+      "developer_response": null
+    },
+    {
+      "id": "978702555332902",
+      "score": 5,
+      "review_title": "Love the new world!",
+      "review_description": "The new world is a fantastic update!",
+      "date": 1771457907,
+      "review_helpful_count": 3,
+      "author_display_name": "TheFoos26",
+      "author_alias": "TheFoos26",
+      "developer_response": null
+    },
+    {
+      "id": "886197824576650",
+      "score": 4,
+      "review_title": "Love it BUT needs more locations",
+      "review_description": "I totally enjoyed doing my home bike with Holofit. But after a year of subscription I haven’t renew it and still very much hesitate about renewing it. Doing 30 mins every day I exhausted quickly all 15 locations. and it’s only appeared 3 new  in 1,5 years. Should I wait 3 more years to accumulate more locations and then renew?",
+      "date": 1764059374,
+      "review_helpful_count": 15,
+      "author_display_name": "Puzik",
+      "author_alias": "Puzik",
+      "developer_response": null
+    },
+    {
+      "id": "1379601180573131",
+      "score": 5,
+      "review_title": "Nice to not see the living room wall",
+      "review_description": "Great to use on my machines without having to stare at the walls. I enjoy the worlds. I haven't participated in the leaderboards yet, but hope to do so eventually when I get a bit more condition in me :). \n\nCustomer service has also been awesome with whatever question I've had. 5/5 for them too!",
+      "date": 1766347373,
+      "review_helpful_count": 4,
+      "author_display_name": "Ayarea",
+      "author_alias": "Ayarea",
+      "developer_response": null
+    },
+    {
+      "id": "1229951825613700",
+      "score": 1,
+      "review_title": "Ummmm",
+      "review_description": "I think this fits better for a bike or a walker. On a rowing machine, no. Whether you row fast or slow, the environment slooowly crawls along. The “worlds” look as if they were constructed on a Commodore 64 by a 5 year old.  Seriously. The subscription should be more like 20 dollars a year if at all. $80 is outrageous. Supernatural is $100 with licensing costs for music and new content every week. How do you justify your cost with none of that?",
+      "date": 1764602431,
+      "review_helpful_count": 9,
+      "author_display_name": "Mr_Sluggz",
+      "author_alias": "Mr_Sluggz",
+      "developer_response": {
+        "body": "Hi Mr_Sluggz, with thousands members using HOLOFIT on rowing machines I take it that you probably did not use the same? If you don't know how to connect your rowing machine to HOLOFIT, please write to support@holodia.com it is very easy.\n\nAgain, our worlds are praised by our members, as you can see in other reviews. \nI am not sure if your comment is meant to advertise another app, we'd be happy if you actually tried ours and gave an honest review.\n\nThank you!",
+        "date": 1764668615
+      }
+    },
+    {
+      "id": "960500387137506",
+      "score": 5,
+      "review_title": "Great way to exercise",
+      "review_description": "As a slightly disabled senior (PAD) who has trouble walking, I would never use our indoor exercise bike enough. After getting a cadence sensor and Holofit it's brought regular exercise back into my routine. \nOver the last couple of weeks I'm up to 35 minutes every second day. I can see this changing my life completely, I look forward to exercise sessions now.\nI can't thank Holodia enough!",
+      "date": 1766002137,
+      "review_helpful_count": 4,
+      "author_display_name": "CoralBandicoot6935",
+      "author_alias": "CoralBandicoot6935",
+      "developer_response": null
+    },
+    {
+      "id": "1239919881345141",
+      "score": 5,
+      "review_title": "Makes exercise fun",
+      "review_description": "This app has been a game changer for someone who has never really enjoyed exercising. The developers are constantly adding to and improving the existing worlds. The daily and monthly challenges are motivating and the seasonal experiences are fun. I now look forward to my exercise sessions. Give it a try!",
+      "date": 1764557602,
+      "review_helpful_count": 7,
+      "author_display_name": "Windywoo202",
+      "author_alias": "Windywoo202",
+      "developer_response": null
+    },
+    {
+      "id": "25756636660588069",
+      "score": 5,
+      "review_title": "Fantastic way to keep focused and fit",
+      "review_description": "I have been using Holofit for a long time, and I can honestly say that it is great. If you want real world imagery, this is not the game for you. But, if you want amazing fun worlds, with some real world references, with tons of updates, developers who listen to you and lots of challenges and distractions from exercising, then this is the game for you. I really enjoy the daily and monthly challenges and the holofit facebook group is full of great people too! They listen to users feedback and are continuously updating and adding new things to keep us entertained while getting fit at the same time. I just bought a lifetime subscription, I love it that much! ❤️❤️❤️",
+      "date": 1764339994,
+      "review_helpful_count": 6,
+      "author_display_name": "Fish-Police",
+      "author_alias": "Fish-Police",
+      "developer_response": null
+    },
+    {
+      "id": "1358750835997180",
+      "score": 4,
+      "review_title": "Superb",
+      "review_description": "If there was ever a game that could make you want to exercise on a daily basis. This is it. I've had the game for 2 months now, and I've clocked up 320 miles on my exercise bike. Love exploring the environments and finding the trophies. Some of the environments need work; floating rabbits, clipping characters – but everything just works to help you forget that you're working out.",
+      "date": 1767603131,
+      "review_helpful_count": 1,
+      "author_display_name": "Art3mis-VR",
+      "author_alias": "Art3mis-VR",
+      "developer_response": null
+    },
+    {
+      "id": "852450804055947",
+      "score": 5,
+      "review_title": "Biking is super Fun! now",
+      "review_description": "it's just about 2026, and it's been ... 3 yrs?  still love Holofit, and just bought a lifetime subscription.   While it's true they've not added lots of 'new' worlds, they have updated a couple and made them much longer.  They've also added more game/fun in the newer worlds, and, they've added a really fun aspect :  Missions !  There are 3 now.  There are clues you have solve, guess which world you have to go to, to collect stuff, with crazy races and all kinds of fun.  Once you solve the mission you are awarded cool stuff/outfits for your avatar, or a new vehicle. \n\nFor variety, I do have a couple of other apps I use. I doubt one app is going to keep you engaged all the time.  Holofit is one of the best!\n\nMy previous update:  \nJust an update:   been over a year  and still loving it!!  They keep making improvements and adding new worlds.  Now i am doing the monthly challenges too.   Upgraded our bike to a spin bike and bought an elliptical.   It's a blast exercising!\n\nOriginal review deleted , too long, and by now you know I love it, so you don't need the old review.",
+      "date": 1765572223,
+      "review_helpful_count": 3,
+      "author_display_name": "lou510",
+      "author_alias": "lou510",
+      "developer_response": null
+    },
+    {
+      "id": "1392524328931848",
+      "score": 5,
+      "review_title": "I love it!",
+      "review_description": "Please ignore the previous review which is over a year old.  What Holofit has done is amazing!  I bought a cheap cycle with a cadence sensor and a cheap rower and decided to go for it.  I signed up for a full year instead of doing the monthly subscription.   Exploring the different environments makes you forget you are exercising.  I am impressed with how they have continued to improve the app.  Also, I like that  the app is designed to let you just explore, train or compete. This app truly makes exercise fun.",
+      "date": 1765488756,
+      "review_helpful_count": 3,
+      "author_display_name": "ljohnson320",
+      "author_alias": "ljohnson320",
+      "developer_response": null
+    },
+    {
+      "id": "864599836744189",
+      "score": 5,
+      "review_title": "Ms Dee",
+      "review_description": "I just started the 7 day trial, but it's not suitable for me, and am concerned as don't know how to cancel, so I wont be charged after the 7 days ends. I don't see it in my 'subscriptions' so at this stage am confused and worried. Please help.",
+      "date": 1766362492,
+      "review_helpful_count": 3,
+      "author_display_name": "Deltaquest68",
+      "author_alias": "Deltaquest68",
+      "developer_response": null
+    },
+    {
+      "id": "879628521261115",
+      "score": 5,
+      "review_title": "Interactive and Variety of Workouts",
+      "review_description": "I’ve been a subscriber to this app for years and I absolutely love it. The variety of worlds and workouts keeps everything fresh, and the challenges and competitions make it even more fun and motivating. Every now and then, they offer a one-time payment option so you can go subscription-free, which is such a nice perk. The developers clearly put a lot of passion into the app—they’re always creating new challenges and sending encouraging emails that keep me engaged. The graphics are fantastic, the design is solid, and there’s always something new to bring you back. I highly recommend it.",
+      "date": 1765392300,
+      "review_helpful_count": 3,
+      "author_display_name": "Madievb",
+      "author_alias": "Madievb",
+      "developer_response": null
+    },
+    {
+      "id": "930282216838578",
+      "score": 3,
+      "review_title": "Cycling games not realistic",
+      "review_description": "My roommate got me a Quest 3S and a Holofit game. Thr goal was to allow me to ride my exercise bike in different cities around the world.  What was available was cartoonish scenarios of low resolution.",
+      "date": 1768529093,
+      "review_helpful_count": 0,
+      "author_display_name": "geraldokla58",
+      "author_alias": "geraldokla58",
+      "developer_response": null
+    },
+    {
+      "id": "1221578759875350",
+      "score": 5,
+      "review_title": "Help with subscription/membership",
+      "review_description": "I recently took advantage of the lifetime membership sale and had many questions as to how to make sure my headset (in this case headsets) were properly registered on the website. Lilly was amazing in helping me! She was very patient and very knowledgeable. Her response in getting back to me with answers was very timely!  Great customer experience! Great app!",
+      "date": 1763846444,
+      "review_helpful_count": 4,
+      "author_display_name": "101Dani",
+      "author_alias": "101Dani",
+      "developer_response": null
+    },
+    {
+      "id": "1348945659938445",
+      "score": 5,
+      "review_title": "Exercise made fun",
+      "review_description": "I bought into VR for exercise a few years ago and \"played\" FitXR, Supernatural, Boxing (Thrill of the Fight) and Beat Saber, but Holofit is the only one I use now. I almost got rid of my elliptical until I discovered it. The other users mentioning support are correct as well, I just had my first support request (just to change my email) and Lilly acted and replied right away. This game gets me moving in the winter!",
+      "date": 1764352452,
+      "review_helpful_count": 3,
+      "author_display_name": "tuffy9",
+      "author_alias": "tuffy9",
+      "developer_response": null
+    },
+    {
+      "id": "853819253867948",
+      "score": 5,
+      "review_title": "Favorite app!",
+      "review_description": "I can’t begin to tell you how much I love this app. When I want to exercise I can do freestyle with my controllers or I use my cadence meter on my cheap exercise bike which sync’s to the app to compete in bike races or just get a good workout. When I want to relax I can take a leisurely bike ride or stroll. Did I mention I can do these things in space or being chased by a dragon or under the sea?! I had both of my hips replaced and enjoying getting fit again has made a huge difference for me. So many worlds to choose from and more on the way . I love this company and I love this app ❣️\n\nUpdate: I’ve been using this app for 3 years now and it’s even better than when I started! So many new challenges and new worlds. I’m never bored. I’m 62 years old and I can do 50 miles a week on my bike now. It’s helped me be in shape for vacations with lots of exploring and keeps me pain free after having both hips replaced several years ago. I expect to be enjoying this kind of exercise for the rest of my life ❣️",
+      "date": 1763661865,
+      "review_helpful_count": 4,
+      "author_display_name": "arlinebabka",
+      "author_alias": "arlinebabka",
+      "developer_response": null
+    },
+    {
+      "id": "973798685815730",
+      "score": 2,
+      "review_title": "Started the 1 week trial",
+      "review_description": "Seems good but continuous Bluetooth connection \n issues mid game. Otherwise really good.",
+      "date": 1769551282,
+      "review_helpful_count": 0,
+      "author_display_name": "Belfast25",
+      "author_alias": "Belfast25",
+      "developer_response": {
+        "body": "Hi, Belfast25! Sorry to hear you are experiencing Bluetooth issues. Please contact our support at support@holodia.com for help and info.",
+        "date": 1769593050
+      }
+    },
+    {
+      "id": "816508331552934",
+      "score": 5,
+      "review_title": "Worth the subscription!",
+      "review_description": "I am a hopeful athlete. I hope I will workout. I had a handful of apps which were subscription based and this is one of my 2 favorites hands down-this & Supernatural which i keep current. \n\nIt's innovative and fun-lots of options and the content has improved since my original purchase 2+ yrs ago. I love the challenges which keep me coming back! \n\nWe trash picked a stationary bike from the side of the road and i got a $20 tracker for the pedal. It works well. Sometimes I do lose tracking which when I'm in a race really stinks. But I'm in the basement with my Q3 and an infrared light to assist tracking. Maybe it's a slightly impeded wifi signal? I really don’t know. Support wasn't able to help me pinpoint the problem. \n\nAnyway it's unique and silly and fun and gives me a great workout. Definitely worth the subscription because not a lot else is keeping me motivated.\n\nPS if I'm doing a bike ride i just put Spotify on on the browser and I'm good to go!",
+      "date": 1763343079,
+      "review_helpful_count": 4,
+      "author_display_name": "peace5777",
+      "author_alias": "peace5777",
+      "developer_response": null
+    },
+    {
+      "id": "883717778153039",
+      "score": 5,
+      "review_title": "So Much Fun",
+      "review_description": "This app makes stationary bike riding fun and I look forward to exploring daily. I love the many destinations that I can explore,  and the fine detail therein. I enjoy the humour in the backgrounds and often laugh out loud. I like riding with the polar bear running alongside me or the snowy owl keeping me company in the mountains. There's so much to experience and there are great challenges every month. I find it to be very motivating.",
+      "date": 1759928399,
+      "review_helpful_count": 22,
+      "author_display_name": "Gigi964",
+      "author_alias": "Gigi964",
+      "developer_response": null
+    },
+    {
+      "id": "820758854463651",
+      "score": 4,
+      "review_title": "Work smarter",
+      "review_description": "I have been on my rowing machine using various apps, this one makes me work smarter, working on some of the challenges I have been rowing 30 mins but not giving up until the challenge is completed. Even some of the free  standing games have left my legs feeling that they have been worked.\nOn a down side the graphics can judder and if they turn a corner it can make you a little dizzy.\nOverall I’m much fitter since the purchase.",
+      "date": 1765353984,
+      "review_helpful_count": 1,
+      "author_display_name": "BiatchXrissy",
+      "author_alias": "BiatchXrissy",
+      "developer_response": null
+    },
+    {
+      "id": "879525245253269",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Using Holofit encourages me to exercise indoors using a bike. Makes it interesting  and sometimes challenging. Recently the staff helped me with an issue using the Holomission part.  Thank you to the staff at Holofit.  Elaine.",
+      "date": 1764266597,
+      "review_helpful_count": 3,
+      "author_display_name": "ermcneil",
+      "author_alias": "ermcneil",
+      "developer_response": null
+    },
+    {
+      "id": "1358592915998848",
+      "score": 5,
+      "review_title": "Beautiful & Engaging",
+      "review_description": "I love this workout and I love this company! When I had some user error issues, they completely helped me out! Will always make this a part of my exercise routine 💗",
+      "date": 1764703748,
+      "review_helpful_count": 3,
+      "author_display_name": "Ladykld",
+      "author_alias": "Ladykld",
+      "developer_response": null
+    },
+    {
+      "id": "875743608961961",
+      "score": 5,
+      "review_title": "Really motivates me...",
+      "review_description": "This app has really motivated me and my sister to work out.  We are also working out longer than before. You are engaged with the surroundings and time flies by. Really worth it!",
+      "date": 1764026529,
+      "review_helpful_count": 4,
+      "author_display_name": "Tx2Stepn",
+      "author_alias": "Tx2Stepn",
+      "developer_response": null
+    },
+    {
+      "id": "814271608440458",
+      "score": 5,
+      "review_title": "I find exercising so boring!",
+      "review_description": "After using another VR excise app, I started  looking for one that wasn’t the same old thing with a different background.   \n\nI downloaded the 7 day trial to check it out.  Being 65, I was looking for something that I could dial back a bit if needed. \n\nAfter 3 days I signed up for the year.  You are not in front of a stationery scene, you are in the thick of things.  \n\nI got a cadence tracker for my stationery bike.  Now I’m having way too much fun to call this exercise!",
+      "date": 1761103890,
+      "review_helpful_count": 4,
+      "author_display_name": "Lady.Snapdragon",
+      "author_alias": "Lady.Snapdragon",
+      "developer_response": null
+    },
+    {
+      "id": "850641940832130",
+      "score": 5,
+      "review_title": "Great trainigs",
+      "review_description": "I love the Training with Holofit. I nearly train every Day with Holofit. I'm exciting for the Holoworlds and I hope there will be even more new Holoworlds in the future :-)",
+      "date": 1763657776,
+      "review_helpful_count": 2,
+      "author_display_name": "Sandy1204",
+      "author_alias": "Sandy1204",
+      "developer_response": null
+    },
+    {
+      "id": "1124324939888699",
+      "score": 3,
+      "review_title": "Not for the Out Of Shape",
+      "review_description": "I absolutely love this app except for the lack of flexibility for those who might have skipped the gym for a while and are just getting back into it or for those who might have some mobility challenges. It would be great to have shorter missions for those categories. You will definitely get your h\neart rate up but it would be nice to work your way up to that. Develop modules for the fit impaired and they will come!",
+      "date": 1759432462,
+      "review_helpful_count": 3,
+      "author_display_name": "hrhadams68",
+      "author_alias": "hrhadams68",
+      "developer_response": null
+    },
+    {
+      "id": "4127345304175265",
+      "score": 4,
+      "review_title": "A lot added since I last played",
+      "review_description": "I tried HF way back when it first appeared. It was promising, but I got annoyed how expensive the monthly sub was for only getting updates and additions very rarely. I just got a new inexpensive rowing machine (which is incredibly boring to use) and looked around for any kind of game to make it better. HF is literally the only game in town that doesn't consider \"virtual racing\" the only way to gamify rowing workouts (Aviron might have other options, but that's a whole other very expensive way to go).  Also I think the price might be a little lower from what I remember.\n\nI'm happy to say that all these years later they have added substantially new content, such as monthly challenges, HIIT elements, quite a few new worlds, and different skins to earn. The graphics still aren't WOW AMAZING, but I'm sure they don't want to make the app harder for Q2 users to access. I was pleasantly surprised at how easily the app found my cheap unknown-brand rower and connected. I also did a side-by-side test, and the Bluetooth connection lets you go so much faster than just controller movements, which is good, because the workout still gets tedious after not too long, even with the gaming (I left my sister with her non-BT water rower in the dust almost immediately).\n\nMy only complaint would be I wish they would randomize trophy locations. I imagine after a few months of doing the same worlds repeatedly I'll learn where they are, which will take some fun away. But the monthly challenges are a great idea to keep things fresh and I hope those continue. \n\nI'm glad (for now) that I came back. Please keep adding new stuff!",
+      "date": 1755616293,
+      "review_helpful_count": 20,
+      "author_display_name": "MisssElaineous",
+      "author_alias": "MisssElaineous",
+      "developer_response": null
+    },
+    {
+      "id": "122329961702008632",
+      "score": 4,
+      "review_title": "Was good but",
+      "review_description": "I suddenly have all very dark islands, in the desert 3 parts in a row pitch dark, it is impossible to train, in the mines also completely black",
+      "date": 1763655108,
+      "review_helpful_count": 1,
+      "author_display_name": "sylfster.2023",
+      "author_alias": "sylfster.2023",
+      "developer_response": null
+    },
+    {
+      "id": "2083203265421858",
+      "score": 3,
+      "review_title": "Really good fun, but subscription sucks",
+      "review_description": "Definitely succeeds at making the workout more enjoyable, cadence sensor was easy to set up and works well. However, this app has no right to be subscription based. There's no noteworthy online content besides stats and leaderboards, but I've experienced crashes on login (Quest 2) and was unable to use the software for a day. This is exactly the reason we want offline, one-time purchase games. Please switch to a single purchase + DLC model, or improve the online features, and this will be awesome!",
+      "date": 1756731837,
+      "review_helpful_count": 10,
+      "author_display_name": "Wansti",
+      "author_alias": "Wansti",
+      "developer_response": {
+        "body": "We had an issue with the app that made it giving an error message, and it has been fixed.\nPlease make sure that you have the latest version of HOLOFIT and the latest Meta iOS before starting your HOLOFIT again.\nIf there are any troubles, please let us know.\nWe are very sorry that this happened, and apologize that we’ve disrupted your fitness schedules. We’ll make sure to thoroughly investigate and put additional protocols in place to avoid any disruptions in the future. \nThank you for your patience and for being a part of HOLOFIT!",
+        "date": 1756714045
+      }
+    },
+    {
+      "id": "4332070233784464",
+      "score": 5,
+      "review_title": "Going on an Adventure!",
+      "review_description": "This is how I think of using Holofit. I've been doing it for three years now, and I'm not bored at all. I turn down the sound and have my own music playing while I explore so many different worlds. I love the challenges. Sometimes when I feel like stopping, I know I just have one more treasure to find or 5 more minutes to go, and I keep going rather than have to start the challenge over. It's very motivating! \nI look forward to new worlds!\nLisa",
+      "date": 1757518282,
+      "review_helpful_count": 6,
+      "author_display_name": "Ottergirl14",
+      "author_alias": "Ottergirl14",
+      "developer_response": null
+    },
+    {
+      "id": "876902458843273",
+      "score": 4,
+      "review_title": "Nice app",
+      "review_description": "Keeps me motivated and customer service is quickly responds.",
+      "date": 1764682298,
+      "review_helpful_count": 0,
+      "author_display_name": "momo.206061",
+      "author_alias": "momo.206061",
+      "developer_response": null
+    },
+    {
+      "id": "829385770247961",
+      "score": 5,
+      "review_title": "Makes me workout",
+      "review_description": "I have a crosstrainer and it's so boring and difficult to force myself to use it. And with this app it's way more easier! I like challenges and some unexpected effect though the graphics could be better... But for now it's enough to make me workout and this is the goal, isn't it? Plus, I didn't find any other app that I can use to gamify my crosstrainer workouts.\n\nP.s. I have a great idea for a new location - Dune!!! 😁",
+      "date": 1758059905,
+      "review_helpful_count": 3,
+      "author_display_name": "FunkyCorgi",
+      "author_alias": "FunkyCorgi",
+      "developer_response": null
+    },
+    {
+      "id": "771087722312186",
+      "score": 5,
+      "review_title": "A Virtual Escape That Keeps Me Moving I",
+      "review_description": "I absolutely love this game.  It’s become my favorite way to exercise—immersing myself in animated cities while getting a great workout.  Running through Paris and Venice is a daily ritual for me.  The environments are rich with detail and charm.  Although many elements repeat, they are still interesting, like the BGM in Venice, the sound effect when people are walking in water).\nHolofit makes fitness feel like an adventure or a relaxing walk in a city.  That said, I’d be thrilled to see more cities added to the experience.  Places like Melbourne, Singapore, and Hong Kong would be amazing additions.  Exploring new virtual worlds would keep things fresh and even more motivating.\nLooking forward to what’s next—keep the magic coming!",
+      "date": 1757217892,
+      "review_helpful_count": 4,
+      "author_display_name": "anaccy",
+      "author_alias": "anaccy",
+      "developer_response": null
+    },
+    {
+      "id": "781520378377762",
+      "score": 4,
+      "review_title": "Delete all conversation in Zen Mode",
+      "review_description": "I love Zen mode and enjoy the quiet journey.  Can developers remove the fighting scenes and conversations, such as between Superman and his enemies in New York? I suggest you remove any conversations in Zen mode and add more relaxing music.  Adding a new classical music category would be great!",
+      "date": 1758557794,
+      "review_helpful_count": 2,
+      "author_display_name": "virtual.zen",
+      "author_alias": "virtual.zen",
+      "developer_response": null
+    },
+    {
+      "id": "668855796318905",
+      "score": 2,
+      "review_title": "Good concept,poor graphic,OOOVER PRICED",
+      "review_description": "It's better than the other cycling app that shares the exact same concept, that's all I can say.\n\nI know building multiple 3D VR maps must cost a lot of time and money,but the graphics are still poor to be honest,and charging 80 per year ??while Les Mills only charges 29.99 one time purchase and keeps on updating?\n\nMy suggestion,make one map close to perfect first, charge one time fee, charge different exercises separately,later release more maps or features as paid dlc.Easier for people to try,and build up the community.",
+      "date": 1752282171,
+      "review_helpful_count": 51,
+      "author_display_name": "dorkyunicorn.xr",
+      "author_alias": "dorkyunicorn.xr",
+      "developer_response": null
+    },
+    {
+      "id": "745669234769036",
+      "score": 5,
+      "review_title": "Best app FOR BIKE OR ROWER",
+      "review_description": "These low reviews saying \"use Les Mills\" or \"needs to be lifelike\", etc. are unfair. It runs on a Quest 2 and ties into your bike or rower! It's a small team and they're adding new content regularly. I've been using it for years. It's not boring compared to any other bike or rower workout. My entire ongoing fitness routine is Holofit, some dumbbells, and a stretching/pull-up frame. It's the best at what it does.",
+      "date": 1755112545,
+      "review_helpful_count": 8,
+      "author_display_name": "RealHandy2",
+      "author_alias": "RealHandy2",
+      "developer_response": null
+    },
+    {
+      "id": "2769623233246410",
+      "score": 5,
+      "review_title": "Good but expensive",
+      "review_description": "THE GOOD: There are no other apps which allow you to row in VR. I am grateful this app exists, and for that it deserves 5 stars in spite of it feeling overpriced.\n\nIt makes rowing way better! It also serves as a convenient way to simulate the experience of exercising in nature/outdoors when you don't have easy access to high-quality nature, or just want some varied experiences.\n\nBefore I purchased an annual pass, they offered 3 environments for free, which is quite generous.\n\nTHE BAD: Cannot purchase the app or individual environments. Subscription model feels expensive, but I feel it's still worth it, and I understand this is a very niche market, so they have to charge more per user.\n\nAlso, they require a live internet connection, which has caused issues for me.\n\nNEUTRAL: I only find this to be useful for low-intensity rowing. Beyond that, headset gets sweaty/foggy/shaky. Also, app is listed as 'intense' comfort rating. On rower I feel moderate is more accurate.",
+      "date": 1755200987,
+      "review_helpful_count": 6,
+      "author_display_name": "megamanjim",
+      "author_alias": "megamanjim",
+      "developer_response": null
+    },
+    {
+      "id": "787599747157504",
+      "score": 5,
+      "review_title": "Makes exercising FUN! And I HATE exercis",
+      "review_description": "It’s kind of hard for me to describe but, it just takes me away from the fact that I’m exercising and brings me into an immersive world and game. There’s so many different things to do in the app. It’s not just racing, although you can do that too.it’s truly interactive games where you have to travel through immersive world and find things/do things. They have daily challenges monthly challenges, just all kinds of things and it’s so much fun.",
+      "date": 1756989173,
+      "review_helpful_count": 2,
+      "author_display_name": "FarmerKBM",
+      "author_alias": "FarmerKBM",
+      "developer_response": null
+    },
+    {
+      "id": "1513335599912865",
+      "score": 5,
+      "review_title": "One of my favorite!",
+      "review_description": "This is absolutely one of my favorite walking games in VR! I can re-walk the maps several times w/o being easily bored. After a few months I did eventually get bored. I'll patiently wait for new content. Unless, y'all want to hire me to help! Seems like it would be fun to work on a project like this.",
+      "date": 1756653886,
+      "review_helpful_count": 2,
+      "author_display_name": "DeluxeAquan",
+      "author_alias": "DeluxeAquan",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T10:21:12Z"
+}
