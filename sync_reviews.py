@@ -89,12 +89,14 @@ class TransientReviewError(Exception):
 class MetaRateLimiter:
     """全进程共享的 Meta API 限速器（线程安全）。"""
 
-    def __init__(self, min_interval: float):
+    def __init__(self, min_interval: float, max_interval: float = 25.0):
         self._base_interval = min_interval
         self._min_interval = min_interval
+        self._max_interval = max_interval
         self._lock = threading.Lock()
         self._last_at = 0.0
         self._cooldown_until = 0.0
+        self._consecutive_429 = 0
 
     def wait(self) -> None:
         with self._lock:
@@ -103,6 +105,8 @@ class MetaRateLimiter:
                 sleep_for = self._cooldown_until - now
             else:
                 sleep_for = max(0.0, self._min_interval - (now - self._last_at))
+            jitter = random.uniform(0.0, self._min_interval * 0.2)
+        sleep_for += jitter
         if sleep_for > 0:
             time.sleep(sleep_for)
         with self._lock:
@@ -110,18 +114,29 @@ class MetaRateLimiter:
 
     def penalize(self, seconds: float) -> None:
         with self._lock:
+            self._consecutive_429 += 1
             until = time.monotonic() + seconds
             self._cooldown_until = max(self._cooldown_until, until)
-            self._min_interval = min(max(self._base_interval, self._min_interval * 1.25), 8.0)
+            self._min_interval = min(
+                max(self._base_interval, self._min_interval * 1.5),
+                self._max_interval,
+            )
+            interval = self._min_interval
+            streak = self._consecutive_429
         stats["rate_limited"] += 1
-        log.warning("Meta 限流冷却 %.1fs，请求间隔 -> %.2fs", seconds, self._min_interval)
+        log.warning(
+            "Meta 429 冷却 %.1fs（连续 %d 次），请求间隔 -> %.2fs",
+            seconds, streak, interval,
+        )
 
     def on_success(self) -> None:
         with self._lock:
+            if self._consecutive_429 > 0:
+                self._consecutive_429 -= 1
             if self._min_interval > self._base_interval:
                 self._min_interval = max(
                     self._base_interval,
-                    self._min_interval * 0.97,
+                    self._min_interval * 0.985,
                 )
 
 
@@ -136,9 +151,24 @@ def get_rate_limiter() -> MetaRateLimiter:
     return _rate_limiter
 
 
-def init_rate_limiter(min_interval: float) -> None:
+def init_rate_limiter(min_interval: float, max_interval: float = 25.0) -> None:
     global _rate_limiter
-    _rate_limiter = MetaRateLimiter(min_interval)
+    _rate_limiter = MetaRateLimiter(min_interval, max_interval)
+
+
+def apply_chain_start_delay() -> None:
+    """链式 workflow 启动前等待，避免连续批次触发 Meta 429。"""
+    chain_depth = int(os.environ.get("CHAIN_DEPTH", "0") or "0")
+    per_step = float(os.environ.get("CHAIN_START_DELAY", "45"))
+    max_wait = float(os.environ.get("CHAIN_START_DELAY_MAX", "600"))
+    if chain_depth <= 0 or per_step <= 0:
+        return
+    wait = min(chain_depth * per_step, max_wait)
+    log.info(
+        "链式批次 depth=%d，启动前等待 %.0fs（降低 Meta 429 风险）",
+        chain_depth, wait,
+    )
+    time.sleep(wait)
 
 
 def _graphql_error_blob(errors: Any) -> str:
@@ -536,11 +566,15 @@ def _post_meta_graphql(
             continue
 
         if r.status_code == 429:
-            wait = max(_parse_retry_after(r), 5 * (2 ** min(attempt, 4)))
-            wait += random.uniform(0, 2)
+            wait = max(
+                _parse_retry_after(r),
+                20 * (1.8 ** min(attempt, 6)),
+            )
+            wait += random.uniform(2, 6)
+            wait = min(wait, 300.0)
             limiter.penalize(wait)
             time.sleep(wait)
-            last_exc = requests.HTTPError(f"429 Too Many Requests", response=r)
+            last_exc = requests.HTTPError("429 Too Many Requests", response=r)
             continue
 
         if r.status_code in (502, 503, 504):
@@ -1004,11 +1038,25 @@ def parse_args() -> argparse.Namespace:
         "--page-doc-id",
         default=os.environ.get("REVIEW_PAGE_DOC_ID", DEFAULT_REVIEW_PAGE_DOC_ID),
     )
-    p.add_argument("--delay", type=float, default=float(os.environ.get("REQUEST_DELAY", "1.0")))
+    p.add_argument(
+        "--delay", type=float,
+        default=float(os.environ.get("REQUEST_DELAY", "2.5")),
+        help="同一应用分页评论请求之间的额外间隔（秒）",
+    )
+    p.add_argument(
+        "--inter-app-delay", type=float,
+        default=float(os.environ.get("INTER_APP_DELAY", "2.0")),
+        help="每个应用处理完成后的额外间隔（秒）",
+    )
     p.add_argument(
         "--meta-min-interval", type=float,
-        default=float(os.environ.get("META_MIN_INTERVAL", "1.2")),
+        default=float(os.environ.get("META_MIN_INTERVAL", "3.5")),
         help="任意两次 Meta GraphQL 请求的最小间隔（秒）",
+    )
+    p.add_argument(
+        "--meta-max-interval", type=float,
+        default=float(os.environ.get("META_MAX_INTERVAL", "25")),
+        help="429 后自适应间隔的上限（秒）",
     )
     p.add_argument(
         "--http-retries", type=int,
@@ -1025,8 +1073,13 @@ def parse_args() -> argparse.Namespace:
     )
     p.add_argument(
         "--retry-cooldown", type=float,
-        default=float(os.environ.get("RETRY_COOLDOWN", "90")),
+        default=float(os.environ.get("RETRY_COOLDOWN", "300")),
         help="失败重试前的冷却时间（秒）",
+    )
+    p.add_argument(
+        "--rate-limit-extra-cooldown", type=float,
+        default=float(os.environ.get("RATE_LIMIT_EXTRA_COOLDOWN", "180")),
+        help="本批 429 次数较多时，重试前额外冷却（秒）",
     )
     p.add_argument(
         "--count-pending", action="store_true",
@@ -1044,7 +1097,8 @@ def _resolve_max_reviews(args: argparse.Namespace) -> int:
 def main() -> int:
     args = parse_args()
     os.environ["HTTP_RETRIES"] = str(args.http_retries)
-    init_rate_limiter(args.meta_min_interval)
+    init_rate_limiter(args.meta_min_interval, args.meta_max_interval)
+    apply_chain_start_delay()
 
     out_dir = Path(args.reviews_dir)
     manifest_path = out_dir / DEFAULT_MANIFEST
@@ -1121,7 +1175,11 @@ def main() -> int:
         emit_github_output(pending=0, processed=0)
         return 0
 
-    log.info("本批次同步 %d 个应用（workers=%d, meta间隔=%.2fs）", len(apps), args.max_workers, args.meta_min_interval)
+    log.info(
+        "本批次同步 %d 个应用（workers=%d, meta间隔=%.2fs, 分页+%.2fs, 应用间+%.2fs）",
+        len(apps), args.max_workers, args.meta_min_interval,
+        args.delay, args.inter_app_delay,
+    )
 
     failed_apps: List[AppRef] = []
     failed_lock = threading.Lock()
@@ -1132,9 +1190,16 @@ def main() -> int:
             with failed_lock:
                 failed_apps.append(app)
 
+    def pause_between_apps() -> None:
+        if args.inter_app_delay <= 0:
+            return
+        time.sleep(args.inter_app_delay + random.uniform(0, args.inter_app_delay * 0.25))
+
     if args.max_workers <= 1:
         for i, app in enumerate(apps, 1):
             process_app(app)
+            if i < len(apps):
+                pause_between_apps()
             if i % 25 == 0:
                 save_manifest(manifest_path, manifest)
                 log.info("进度 %d/%d", i, len(apps))
@@ -1148,13 +1213,20 @@ def main() -> int:
                     log.info("进度 %d/%d", i, len(apps))
 
     if failed_apps and args.retry_failed:
+        cooldown = args.retry_cooldown
+        if stats["rate_limited"] >= 5 and args.rate_limit_extra_cooldown > 0:
+            cooldown += args.rate_limit_extra_cooldown
+            log.info(
+                "本批触发 Meta 429 %d 次，额外冷却 %.0fs",
+                stats["rate_limited"], args.rate_limit_extra_cooldown,
+            )
         log.info(
             "失败 %d 个，冷却 %.0fs 后重试一轮（Meta 429 恢复）",
-            len(failed_apps), args.retry_cooldown,
+            len(failed_apps), cooldown,
         )
-        time.sleep(args.retry_cooldown)
+        time.sleep(cooldown)
         retry_list = list(failed_apps)
-        for app in retry_list:
+        for i, app in enumerate(retry_list, 1):
             stats["retried"] += 1
             if sync_one_app(
                 app, out_dir, manifest, force=args.force,
@@ -1162,6 +1234,8 @@ def main() -> int:
             ):
                 stats["failed"] -= 1
                 log.info("重试成功 %s", app.package_name)
+            if i < len(retry_list):
+                pause_between_apps()
 
     save_manifest(manifest_path, manifest)
     processed = stats["fetched"] + stats["no_reviews"] + stats["unavailable"]
@@ -1174,7 +1248,12 @@ def main() -> int:
         stats["skipped"], stats["failed"], stats["retried"], stats["rate_limited"],
     )
     log.info("本批处理 %d 个 | 剩余待同步 %d / %d", processed, remaining, len(app_pool))
-    emit_github_output(pending=remaining, processed=processed)
+    emit_github_output(
+        pending=remaining,
+        processed=processed,
+        failed=stats["failed"],
+        rate_limited=stats["rate_limited"],
+    )
     return 0 if stats["failed"] == 0 or processed > 0 else 1
 
 
