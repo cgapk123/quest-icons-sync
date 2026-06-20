@@ -1,0 +1,42 @@
+{
+  "app_id": "9400665833361774",
+  "package_name": "com.projectcosmetics.offical",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "project Cosmetics Official",
+  "rating_average": 1.8571428571429,
+  "rating_count": 7,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "669892149548794",
+      "score": 1,
+      "review_title": "Cant understant",
+      "review_description": "I cannt understand th’s game",
+      "date": 1753252052,
+      "review_helpful_count": 2,
+      "author_display_name": "EmiHqd",
+      "author_alias": "EmiHqd",
+      "developer_response": null
+    },
+    {
+      "id": "776616465528027",
+      "score": 1,
+      "review_title": "No",
+      "review_description": "It sucks",
+      "date": 1753397176,
+      "review_helpful_count": 0,
+      "author_display_name": "goofydude120",
+      "author_alias": "goofydude120",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T21:29:34Z"
+}

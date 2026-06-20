@@ -1,0 +1,34 @@
+{
+  "app_id": "25421657547459672",
+  "package_name": "com.psd.vrbible",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "VR Holy Bible",
+  "rating_average": 1,
+  "rating_count": 2,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1010926862095880",
+      "score": 1,
+      "review_title": "Terrible",
+      "review_description": "The hand tracking for clicking is so buggy I could on click once in a 5min time span. Use the web do not buy this.",
+      "date": 1769357925,
+      "review_helpful_count": 2,
+      "author_display_name": "TheLordsFriend",
+      "author_alias": "TheLordsFriend",
+      "developer_response": {
+        "body": "Thanks for your feedback, we're working to improve that.",
+        "date": 1771450266
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T21:35:09Z"
+}

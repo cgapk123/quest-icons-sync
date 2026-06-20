@@ -1,0 +1,173 @@
+{
+  "app_id": "24083912814538284",
+  "package_name": "com.psd.music_player",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Music Player",
+  "rating_average": 3.65,
+  "rating_count": 20,
+  "review_count": 12,
+  "reviews": [
+    {
+      "id": "1178841301976084",
+      "score": 1,
+      "review_title": "for a paid product this is horrible",
+      "review_description": "This sucks, it's increably awkard to use, crashes if i dont have the menu open in game, no fade in or out feature unlike FREE music players which dont work on quest headsets",
+      "date": 1781450831,
+      "review_helpful_count": 0,
+      "author_display_name": "Knight2595",
+      "author_alias": "Knight2595",
+      "developer_response": null
+    },
+    {
+      "id": "1128720496982088",
+      "score": 3,
+      "review_title": "Great interface but poor audio quality",
+      "review_description": "This could be a very useful stand alone music player but the audio quality is somehow lower quality than playing the files though the built in browser. This could be due to the app using spacial audio, where as in the browser settings you can turn off special audio for the browser. I hope this gets rectified and perhaps embedded cover art get supported.",
+      "date": 1776918204,
+      "review_helpful_count": 1,
+      "author_display_name": "Krash",
+      "author_alias": "Krash",
+      "developer_response": {
+        "body": "Thank you for your observations.",
+        "date": 1777635778
+      }
+    },
+    {
+      "id": "26643291135354622",
+      "score": 3,
+      "review_title": "What am i missing?",
+      "review_description": "Store shows app with shuffle and repeat. Mine just has play, stop, and next. Don't see anything in settings to change this.",
+      "date": 1778898405,
+      "review_helpful_count": 0,
+      "author_display_name": "AgentofSpectr",
+      "author_alias": "AgentofSpectr",
+      "developer_response": {
+        "body": "If you have it, when playing any song, click on any space within the mini player where there are buttons to go to the other player.",
+        "date": 1778947564
+      }
+    },
+    {
+      "id": "1011690255352864",
+      "score": 1,
+      "review_title": "Disappointing even for a dollar app",
+      "review_description": "I spent several hours trying to get the app to work.  It launched just fine but wouldn't find any of the 4 files that I downloaded onto my S3's \"Download folder.\n\nI couldn't create additional folders unless I navigated into a directory that already existed.\n\nApp was unresponsive on several occasions after performing a scan... there were only 4 16BitFLAC files added to the device at approx. 150Mb.",
+      "date": 1769242453,
+      "review_helpful_count": 4,
+      "author_display_name": "NormLChristoph",
+      "author_alias": "NormLChristoph",
+      "developer_response": {
+        "body": "The application does not automatically detect directories; the default directory is specifically indicated in the store description, and the supported formats are limited.",
+        "date": 1770163850
+      }
+    },
+    {
+      "id": "983049974884244",
+      "score": 5,
+      "review_title": "Great & simple background music player",
+      "review_description": "UPDATED 2026-01-09: There IS volume control and shuffle functions. I just didn't know how to find them. When the app opens, it starts in the Library. Click a song (any song) to start playing. The name of the playing song shows at the bottom of the app window. Now, click *that* song name, and you are brought to the Player portion of the app that has shuffle, favorite, volume & repeat buttons! Tap shuffle, tap and set the volume, then go on your merry way!\n\nORIGINAL REVIEW:\nThis is a simple but effective background music player. There are a couple of issues that prevent it from being great.\nThe main issue is that there does not appear to be a volume control for the app itself. The only way to control the volume is to adjust the volume for the entire headset, but if you are using it as background while playing games, that means you have to try and boost the game volume or live with quiet game audio.\nThe second issue is the strange order the files appear in. That doesn't matter to me because I prefer a shuffled order anyway, but having an actual \"shuffle\" option would be nice so I don't have to remember where I left of the next session and could just start playing random music by pressing \"shuffle\" then \"play\".\n\nI do like that it automatically starts playing the next file in the list after one is finished, without requiring to go back and switch tracks manually. And it just worked - I transferred my MP3 files to the \"Music\" folder, opened the app, and everything was there. \n\nThe sound quality is very impressive. I don't know if this is because of the Quest 3s speakers and spatial effects, but I'm hearing things in music I've listened to for decades on headphones that I've never heard before! This was just amazing to me.\n\nSo overall, I am really enjoying the app, and hoping that a volume control could be implemented to make it awesome.",
+      "date": 1768008443,
+      "review_helpful_count": 1,
+      "author_display_name": "GravityDefier",
+      "author_alias": "GravityDefier",
+      "developer_response": {
+        "body": "Thanks for your suggestions. I'll try to get the audio working independently, but I'm limited by some technological aspects that prevent me from doing certain things. I'll try, though. Regarding shuffle music, there's a shuffle button. When you start the app, in the mini player, press it to go to the player with all the functions. In the app's screenshots, you'll see a player with the shuffle icon.",
+        "date": 1767665124
+      }
+    },
+    {
+      "id": "855954050299940",
+      "score": 4,
+      "review_title": "Needs better organization",
+      "review_description": "Great app, been looking for one on the Quest for a while. Can’t believe they don’t have a music media player pre installed. This app is amazing for its price. It just needs better organization like those big brand media players. Everything gets so jumbled and is hard to navigate with tons of files. My original files are so organized and in order, this app just doesn’t do a good job at keeping everything neatly organized. A couple other features that I would have liked are the ability play music directly from a usb drive, and have album artwork. If no album artwork, then visualizers that actually follow the music and aren’t just pre animated. Again, great app that actually plays your music files, just needs better organization.",
+      "date": 1762367549,
+      "review_helpful_count": 2,
+      "author_display_name": "RTXj",
+      "author_alias": "RTXj",
+      "developer_response": {
+        "body": "Thank you for your observations; they have been taken into account for future implementation where possible.",
+        "date": 1763054017
+      }
+    },
+    {
+      "id": "783855414618148",
+      "score": 5,
+      "review_title": "Love having a a player!",
+      "review_description": "I love having a player, it seriously should be just pre-installed. My only issue is that it stops playing after 10 minutes on long files and goes back to the beginning of the file. I'm not sure if this is a setting somewhere or not, but i have not found a way to stop that. Otherwise I love it! Thank You!",
+      "date": 1760666662,
+      "review_helpful_count": 4,
+      "author_display_name": "Haujohn",
+      "author_alias": "Haujohn",
+      "developer_response": {
+        "body": "I'll check the error to see if it has a solution, you're the first to report it.",
+        "date": 1761016600
+      }
+    },
+    {
+      "id": "847939268395699",
+      "score": 5,
+      "review_title": "Should come pre-installed",
+      "review_description": "This app has been a God send. Seriously. Meta didn't offer one built in, SkyBox is overkill in most cases, and I'm sick of having to open YouTube to get my fix when I already have a vast MP3 library to draw from. That said, I have certain albums that it is best to listen to them all the way through with no interruptions, and the order of play is baked into their metadata, this app will ignore that and shuffle them around... just noticed that when I went to listen to Sphongle's Nothing Lasts, but Nothing is Lost.",
+      "date": 1758063383,
+      "review_helpful_count": 4,
+      "author_display_name": "Aiodensghost",
+      "author_alias": "Aiodensghost",
+      "developer_response": {
+        "body": "The problem is that the app filters alphabetically ascending by the same name as the one shown in the list. I'll have to check later if I can find the problem you mentioned.",
+        "date": 1758473893
+      }
+    },
+    {
+      "id": "832025409331186",
+      "score": 5,
+      "review_title": "Perfect, but need more features.",
+      "review_description": "Perfect app to store music, and there isn't a enough features. Please add more features i beg even tho its a paid app that cost 1$. (not a bot btw)",
+      "date": 1760050515,
+      "review_helpful_count": 2,
+      "author_display_name": "Vozil",
+      "author_alias": "Vozil",
+      "developer_response": null
+    },
+    {
+      "id": "745611998646591",
+      "score": 5,
+      "review_title": "Perfect music app. Great price.",
+      "review_description": "Great little app. Straightforward to use. Works in all apps/games  I've used so far. Work great in worlds where music is the missing link to creating a great atmosphere.",
+      "date": 1760448296,
+      "review_helpful_count": 1,
+      "author_display_name": "cleo.19914",
+      "author_alias": "cleo.19914",
+      "developer_response": null
+    },
+    {
+      "id": "719200737940125",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Been looking for something like this for months, and nothing I found came close to this. Thanks for making this, and pricing it generously.",
+      "date": 1753244504,
+      "review_helpful_count": 2,
+      "author_display_name": "EmeraldAce00",
+      "author_alias": "EmeraldAce00",
+      "developer_response": null
+    },
+    {
+      "id": "700571289460346",
+      "score": 5,
+      "review_title": "Finally & Thank You!",
+      "review_description": "I’ve been waiting for a mp3 player for so long on here, and this one is AMAZING\nThank you for making it, made my week!",
+      "date": 1752202006,
+      "review_helpful_count": 0,
+      "author_display_name": "SphereThere",
+      "author_alias": "SphereThere",
+      "developer_response": null
+    }
+  ],
+  "total": 12,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T21:34:41Z"
+}

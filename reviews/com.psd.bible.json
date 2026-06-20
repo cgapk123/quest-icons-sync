@@ -1,0 +1,45 @@
+{
+  "app_id": "10073643982755670",
+  "package_name": "com.psd.bible",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Holy Bible",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "936614819526765",
+      "score": 5,
+      "review_title": "Could be  better",
+      "review_description": "It would be nice if you can input words or situations in the search and have it show verses pertaing to what is written. Rather than just books. Ill still give 5 stars though for the glory to God.",
+      "date": 1764792896,
+      "review_helpful_count": 16,
+      "author_display_name": "forgiven_2012",
+      "author_alias": "forgiven_2012",
+      "developer_response": null
+    },
+    {
+      "id": "820066401200608",
+      "score": 5,
+      "review_title": "Its a vr bible",
+      "review_description": "Add option to highlight versus with different colors, and more versions of the bible",
+      "date": 1765484684,
+      "review_helpful_count": 0,
+      "author_display_name": "Soggy_diapers1",
+      "author_alias": "Soggy_diapers1",
+      "developer_response": {
+        "body": "Adding colors can be worked on in the future, but regarding the Bible versions, I only include the ones that copyright law allows me to.",
+        "date": 1766459446
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T21:34:12Z"
+}

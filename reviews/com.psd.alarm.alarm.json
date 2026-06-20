@@ -1,0 +1,45 @@
+{
+  "app_id": "24540846135518115",
+  "package_name": "com.psd.alarm.alarm",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Alarm",
+  "rating_average": 1.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1043770721293328",
+      "score": 2,
+      "review_title": "Didn't stay active",
+      "review_description": "So I tried it out and apparently the alarm doesn't go off while you're playing a game heck it doesn't even go off in general by itself it it only has a notification and it's saying that the alarm time already passed that's not supposed to happen is it like seriously I'm trying to have it alarm me that I have to do something and it's not even working the alarm is not going off during the time it's supposed to whoever the creator of this app is fix it",
+      "date": 1751818652,
+      "review_helpful_count": 16,
+      "author_display_name": "Darth_Acnologia",
+      "author_alias": "Darth_Acnologia",
+      "developer_response": {
+        "body": "If the sound works and I don't see any errors, use the timer and minimize the alarm app, don't close it and open your game or VR app and it should sound, it has been tested, it could also be due to some custom configuration of your device.",
+        "date": 1754705358
+      }
+    },
+    {
+      "id": "809548718902583",
+      "score": 1,
+      "review_title": "No Sound! No Notification!",
+      "review_description": "There is No Sound and No Pop Up Notifications! Nothing to help with time management If you try to use this, you will end up late!",
+      "date": 1757838264,
+      "review_helpful_count": 0,
+      "author_display_name": "Angel_Agape",
+      "author_alias": "Angel_Agape",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T21:34:04Z"
+}

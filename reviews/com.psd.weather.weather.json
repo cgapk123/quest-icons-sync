@@ -1,0 +1,42 @@
+{
+  "app_id": "24303084262635875",
+  "package_name": "com.psd.weather.weather",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Weather",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "922972590899059",
+      "score": 1,
+      "review_title": "Has ads",
+      "review_description": "This app has ads.",
+      "date": 1767814781,
+      "review_helpful_count": 1,
+      "author_display_name": "Specteroid",
+      "author_alias": "Specteroid",
+      "developer_response": null
+    },
+    {
+      "id": "854027510912793",
+      "score": 1,
+      "review_title": "Loud ads",
+      "review_description": "loud pop up ads",
+      "date": 1762399993,
+      "review_helpful_count": 4,
+      "author_display_name": "Kang_chul",
+      "author_alias": "Kang_chul",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T21:35:17Z"
+}
