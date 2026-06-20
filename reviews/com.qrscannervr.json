@@ -1,0 +1,48 @@
+{
+  "app_id": "34445410471770935",
+  "package_name": "com.qrscannervr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "QR Scanner VR",
+  "rating_average": 2.7142857142857,
+  "rating_count": 7,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1067676239768294",
+      "score": 1,
+      "review_title": "Not worth anything",
+      "review_description": "Unusable",
+      "date": 1777985248,
+      "review_helpful_count": 1,
+      "author_display_name": "Tobzlmnop",
+      "author_alias": "Tobzlmnop",
+      "developer_response": {
+        "body": "We apologize for the inconvenience, but the app is still in the early access phase. Today we released a major update that fixes several issues and eliminates many bugs. \n\nCould you please check if the app is working properly now? If you are still experiencing problems, we would really appreciate a more detailed description of what exactly is not working correctly, so we can fix it as quickly as possible.",
+        "date": 1778242804
+      }
+    },
+    {
+      "id": "1121121961086459",
+      "score": 1,
+      "review_title": "Not really worth it",
+      "review_description": "So the QR itself works but you can do anything once it's scans, it will read the QR and tell you what it relates too but that's it!\n\nEdit: thank you for your response, I am on the meta quest 3s. When I scanned the qr code on my TV it just gave me the link it was associated with but it wouldn't let me search the link to connect to my TV via the QR code. If it was my own error I would be happy to change my opinion on the review",
+      "date": 1779571040,
+      "review_helpful_count": 0,
+      "author_display_name": "milesofgreen",
+      "author_alias": "milesofgreen",
+      "developer_response": {
+        "body": "Thank you for your response. We are determined to make the application easy to use and to keep our customers satisfied.\n\nIt seems that the link was detected but, for some reason, did not open. This can sometimes happen in older versions of the app. Please make sure you are using the latest version of our application (it should display v3.0 in the top-left corner) and scan the QR code again.\n\nA large OPEN button should appear on the right side. After clicking it, something should happen — either a web browser should open, or, if the link is related to another app, the Meta Store should open instead.\n\nPlease try scanning and clicking OPEN at least two times if nothing happens immediately. The new Meta system UI sometimes does not respond on the first attempt.\n\nPlease try again and let us know if it works for you. If nothing happens after clicking OPEN multiple times, then it is something we will need to investigate further.",
+        "date": 1779631017
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T21:50:47Z"
+}

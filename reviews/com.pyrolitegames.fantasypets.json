@@ -1,0 +1,56 @@
+{
+  "app_id": "1301310243262546",
+  "package_name": "com.pyrolitegames.fantasypets",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Fantasy Pets DEMO",
+  "rating_average": 2.7222222222222,
+  "rating_count": 18,
+  "review_count": 18,
+  "reviews": [
+    {
+      "id": "1898899657106172",
+      "score": 5,
+      "review_title": "Awesome!",
+      "review_description": "I think it's a really cool start. I was hoping for a game like this, and now I'm hoping yoy continue with it to make it even better. It's a really neat idea, and I cant wait to see the finished product.",
+      "date": 1512799319,
+      "review_helpful_count": 24,
+      "author_display_name": "Tundragal1",
+      "author_alias": "Tundragal1",
+      "developer_response": null
+    },
+    {
+      "id": "630029003873816",
+      "score": 1,
+      "review_title": "Fantasy pets demo",
+      "review_description": "Will not load samsung note 5",
+      "date": 1491193694,
+      "review_helpful_count": 6,
+      "author_display_name": "Jcarol",
+      "author_alias": "Jcarol",
+      "developer_response": {
+        "body": "We're sorry this has happened, we've done some tests and the game should work just fine on a Samsung Note 5. Could you please send us a screenshot showing the error to have a better idea about what's going wrong? Thank you for your input and we're very sorry for the inconvenience.",
+        "date": 1491226091
+      }
+    },
+    {
+      "id": "279044074077778",
+      "score": 2,
+      "review_title": "Cool but not enough to do",
+      "review_description": "Still might buy the full to try",
+      "date": 1633587963,
+      "review_helpful_count": 13,
+      "author_display_name": "MASE1515",
+      "author_alias": "MASE1515",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T21:49:42Z"
+}

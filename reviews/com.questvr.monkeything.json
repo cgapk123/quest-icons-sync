@@ -1,0 +1,45 @@
+{
+  "app_id": "8730229513685899",
+  "package_name": "com.questvr.monkeything",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "branching",
+  "rating_average": 4.75,
+  "rating_count": 4,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "164117103228282",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Good",
+      "date": 1680193348,
+      "review_helpful_count": 0,
+      "author_display_name": "ashley2011.2022",
+      "author_alias": "ashley2011.2022",
+      "developer_response": null
+    },
+    {
+      "id": "156810070619414",
+      "score": 5,
+      "review_title": "I like it",
+      "review_description": "It’s good",
+      "date": 1679038706,
+      "review_helpful_count": 1,
+      "author_display_name": "callum.parker.58152",
+      "author_alias": "callum.parker.58152",
+      "developer_response": {
+        "body": "thanks for the support -questvr",
+        "date": 1679170842
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T21:53:28Z"
+}
