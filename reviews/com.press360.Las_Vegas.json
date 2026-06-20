@@ -1,0 +1,34 @@
+{
+  "app_id": "4505393416172336",
+  "package_name": "com.press360.Las_Vegas",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Las Vegas",
+  "rating_average": 2,
+  "rating_count": 6,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "323340446283607",
+      "score": 3,
+      "review_title": "Vegas Baby!",
+      "review_description": "It was cool but spent a lot of time circling that first building over and over.  Seeing Vegas at night from a helicopter was great but the darkness and all the neon made it a little hard to figure out what some of the locations were. \nMany things were blurred because of this\n\nIt would also be great to see the same area during a sunny day. \n\nHow about adding the ability to take the controllers and point at a location and have it show me the name.",
+      "date": 1638547979,
+      "review_helpful_count": 10,
+      "author_display_name": "JeffRichards",
+      "author_alias": "JeffRichards",
+      "developer_response": {
+        "body": "Thx for review. I`m working on the next version.",
+        "date": 1650274377
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T21:16:45Z"
+}
