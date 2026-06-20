@@ -1,0 +1,75 @@
+{
+  "app_id": "5605166159514983",
+  "package_name": "com.oculus.samples.isdkdemo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Interaction SDK Samples",
+  "rating_average": 4.75,
+  "rating_count": 8,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "1552749466482649",
+      "score": 5,
+      "review_title": "This game saved my marriage",
+      "review_description": "I’m about to have an affair",
+      "date": 1781715939,
+      "review_helpful_count": 0,
+      "author_display_name": "P42DC",
+      "author_alias": "P42DC",
+      "developer_response": null
+    },
+    {
+      "id": "680115488512023",
+      "score": 5,
+      "review_title": "Great!",
+      "review_description": "Source code is available in GitHub (oculus-samples/Unity-InteractionSDK-Samples)",
+      "date": 1746950839,
+      "review_helpful_count": 5,
+      "author_display_name": "yunho.cho",
+      "author_alias": "yunho.cho",
+      "developer_response": null
+    },
+    {
+      "id": "254866064371670",
+      "score": 5,
+      "review_title": "where is source code",
+      "review_description": "where is source code",
+      "date": 1708999746,
+      "review_helpful_count": 13,
+      "author_display_name": "liuhongda91",
+      "author_alias": "liuhongda91",
+      "developer_response": null
+    },
+    {
+      "id": "829397615196345",
+      "score": 3,
+      "review_title": "Doesn't Launch.",
+      "review_description": "Soft locks your headset with a black screen as of the 7/25/23 update.",
+      "date": 1690328358,
+      "review_helpful_count": 3,
+      "author_display_name": "Lunayian",
+      "author_alias": "Lunayian",
+      "developer_response": null
+    },
+    {
+      "id": "6521510494579862",
+      "score": 5,
+      "review_title": "Great Demo, Needs More Updates",
+      "review_description": "While this VR app effectively demonstrates the Interaction SDK's potential, its rarity in updates risks rendering it obsolete over time (which is already the case).",
+      "date": 1688607592,
+      "review_helpful_count": 7,
+      "author_display_name": "GregMadison",
+      "author_alias": "GregMadison",
+      "developer_response": null
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T19:40:13Z"
+}

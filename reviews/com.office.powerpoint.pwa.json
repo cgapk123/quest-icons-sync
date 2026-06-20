@@ -1,0 +1,64 @@
+{
+  "app_id": "24038848309063606",
+  "package_name": "com.office.powerpoint.pwa",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Microsoft PowerPoint",
+  "rating_average": 2.3333333333333,
+  "rating_count": 21,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "528487683674656",
+      "score": 1,
+      "review_title": "Can't do jack without a connection.",
+      "review_description": "This is just a connection to the web version of Powerpoint. If I wanted to work on something yesterday when I had 4 hours of downtime, I would not have been able to.",
+      "date": 1734300664,
+      "review_helpful_count": 4,
+      "author_display_name": "Morichalion",
+      "author_alias": "Morichalion",
+      "developer_response": null
+    },
+    {
+      "id": "181835401689482",
+      "score": 1,
+      "review_title": "To bad, opportunity missed",
+      "review_description": "Its just the web app of office 365.  0 added value.\n\nWhat would have been awesome if they actually would have added the z axis and that presentations would pop up in mixed reality.  \n\nToo bad..  not worth it..",
+      "date": 1707590634,
+      "review_helpful_count": 10,
+      "author_display_name": "Jadark_dxb",
+      "author_alias": "Jadark_dxb",
+      "developer_response": null
+    },
+    {
+      "id": "772549081597344",
+      "score": 2,
+      "review_title": "A little underwhelming",
+      "review_description": "It's the web interface for Office 365, but with a couple of extra features. Might be useful for practicing a presentation, but pretty hopeless for editing one - some controls don't work properly with hand tracking or controllers (e.g. scroll bars, menus) \n\nSwitching the virtual environment in this app leaves you unable to go back to pass through on the Quest 3 even if you exit the app.",
+      "date": 1707504721,
+      "review_helpful_count": 21,
+      "author_display_name": "naxxfish",
+      "author_alias": "naxxfish",
+      "developer_response": null
+    },
+    {
+      "id": "179940418542554",
+      "score": 2,
+      "review_title": "It's just the web version of Powerpoint",
+      "review_description": "This is just the web browser PowerPoint experience. Without any specific VR features, I can't imagine ever using this in VR.",
+      "date": 1702934374,
+      "review_helpful_count": 66,
+      "author_display_name": "williambee.2023",
+      "author_alias": "williambee.2023",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T19:45:31Z"
+}

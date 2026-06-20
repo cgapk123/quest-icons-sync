@@ -1,0 +1,246 @@
+{
+  "app_id": "4750714098359250",
+  "package_name": "com.oculus.samples.ShowdownQuest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Showdown",
+  "rating_average": 2.4634146341463,
+  "rating_count": 82,
+  "review_count": 29,
+  "reviews": [
+    {
+      "id": "895142269704312",
+      "score": 1,
+      "review_title": "I hate this game",
+      "review_description": "The Worst￼ game ever made 1/10",
+      "date": 1765651875,
+      "review_helpful_count": 3,
+      "author_display_name": "sasquatch.0",
+      "author_alias": "sasquatch.0",
+      "developer_response": null
+    },
+    {
+      "id": "777518768045193",
+      "score": 1,
+      "review_title": "Paid Demo",
+      "review_description": "You have to pay $25 for a demo! That’s ridiculous!!! Awful! I",
+      "date": 1753325783,
+      "review_helpful_count": 5,
+      "author_display_name": "DomMairena",
+      "author_alias": "DomMairena",
+      "developer_response": null
+    },
+    {
+      "id": "477204931669852",
+      "score": 1,
+      "review_title": "Not a game",
+      "review_description": "THIS NOT A GAME, ITS JUST A short film",
+      "date": 1720414542,
+      "review_helpful_count": 14,
+      "author_display_name": "ansolalau",
+      "author_alias": "ansolalau",
+      "developer_response": null
+    },
+    {
+      "id": "279501255213637",
+      "score": 3,
+      "review_title": "Short flim, but cool",
+      "review_description": "I thought it was a game. If new games look like this. Wow.",
+      "date": 1713316972,
+      "review_helpful_count": 8,
+      "author_display_name": "ST.SWEEPER",
+      "author_alias": "ST.SWEEPER",
+      "developer_response": null
+    },
+    {
+      "id": "548404284116316",
+      "score": 1,
+      "review_title": "Trash",
+      "review_description": "The game is so bad because you came and played a game. It’s just a motion you just see a Videos dumb.",
+      "date": 1679894227,
+      "review_helpful_count": 10,
+      "author_display_name": "nonotech501",
+      "author_alias": "nonotech501",
+      "developer_response": null
+    },
+    {
+      "id": "5008497165892968",
+      "score": 5,
+      "review_title": "Congratulations Developers",
+      "review_description": "Loved the original desktop version when it was released. As a developer myself, I have to say we'll done to everyone involved in getting this to run on a portable headset. I known exactly how difficult this would have been, and you have done a wonderful job in faithfully porting this to Quest.",
+      "date": 1652963595,
+      "review_helpful_count": 6,
+      "author_display_name": "JTubbritt",
+      "author_alias": "JTubbritt",
+      "developer_response": null
+    },
+    {
+      "id": "5134519913283936",
+      "score": 3,
+      "review_title": "Anti-aliasing or reflections problem ?",
+      "review_description": "I'm not sure with all these reflections this is the best example for Quest or VR, those pixels around objects that stings my eyes, even going to the settings and increase the MSAA or others... I didn't notice this problem in Red Matter, The Walking Dead: Saints & Sinners, Vader Immortal...",
+      "date": 1652528017,
+      "review_helpful_count": 2,
+      "author_display_name": "Hervelus",
+      "author_alias": "Hervelus",
+      "developer_response": null
+    },
+    {
+      "id": "5048359708618846",
+      "score": 5,
+      "review_title": "Awesome performance",
+      "review_description": "The highest graphics settings are not turned on by default. Be sure to go to the settings and increase the AA to 8X.",
+      "date": 1652268558,
+      "review_helpful_count": 14,
+      "author_display_name": "Alucardx23",
+      "author_alias": "Alucardx23",
+      "developer_response": null
+    },
+    {
+      "id": "5166510683429782",
+      "score": 5,
+      "review_title": "Excellent demonstration",
+      "review_description": "With Application SpaceWarp turned on and all effects turned up apart from MSAA I got a very solid 90fps throughout, from 45 input frames.\n\nProves that this is the way forward.",
+      "date": 1652278815,
+      "review_helpful_count": 3,
+      "author_display_name": "Eclectus",
+      "author_alias": "Eclectus",
+      "developer_response": null
+    },
+    {
+      "id": "4889277461194951",
+      "score": 1,
+      "review_title": "um",
+      "review_description": "Didn't work.",
+      "date": 1651960827,
+      "review_helpful_count": 2,
+      "author_display_name": "TheDirector50",
+      "author_alias": "TheDirector50",
+      "developer_response": {
+        "body": "Issue has been resolved. Please update your app. Thanks!",
+        "date": 1652209023
+      }
+    },
+    {
+      "id": "3266334126977363",
+      "score": 5,
+      "review_title": "Best Demo ever",
+      "review_description": "That was my First Demo on my rift",
+      "date": 1652346843,
+      "review_helpful_count": 1,
+      "author_display_name": "Zoroooo",
+      "author_alias": "Zoroooo",
+      "developer_response": null
+    },
+    {
+      "id": "153174880538981",
+      "score": 3,
+      "review_title": "Amazing demo",
+      "review_description": "I enjoyed it",
+      "date": 1652396404,
+      "review_helpful_count": 1,
+      "author_display_name": "mohammedalihussein",
+      "author_alias": "mohammedalihussein",
+      "developer_response": null
+    },
+    {
+      "id": "3677803495677236",
+      "score": 2,
+      "review_title": "Not particularly useful",
+      "review_description": "I'm not sure what the point was of pointing a noninteractive demo that's eight years old. It would have been far more useful to get sample code from the Quest version of Robo Recall, which Oculus hasn't bothered to patch/maintain/do any sort of update to since its original release.\n\nAlso, this looks considerably -worse- than Robo Recall, especially with strange aliasing/pixel shimmering on specular/metallic surfaces.",
+      "date": 1652424967,
+      "review_helpful_count": 3,
+      "author_display_name": "mcwild",
+      "author_alias": "mcwild",
+      "developer_response": null
+    },
+    {
+      "id": "2343442222463377",
+      "score": 5,
+      "review_title": "BRING BULLET TRAIN TO QUEST!!!!",
+      "review_description": "Not as high resolution as you would like, but I guess everything is here. I remember this from the early days.",
+      "date": 1654723682,
+      "review_helpful_count": 2,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "2047946638712998",
+      "score": 2,
+      "review_title": "This is it? - not worth a download",
+      "review_description": "This fancy AppSW can bring you up to 70% more performance and so more details in games bringing it even closer to pc vr gaming. Might be true? Can't tell cause if this is what we get it is pretty disapointing. It runs smooth I give you that but visually you constantly think \"Ok now the textures and effects will load this can't bit this low res, right?\" but no, the demo ends and it looks like every other game on Quest 2. I would even say Red Matter or Vader Immortal looks better than this. \n\nIt is really not worth the space it takes.",
+      "date": 1652329199,
+      "review_helpful_count": 13,
+      "author_display_name": "Hoshi82",
+      "author_alias": "Hoshi82",
+      "developer_response": null
+    },
+    {
+      "id": "1829412143916497",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Same!  Update the app, my HMD is on the right update version.",
+      "date": 1651969864,
+      "review_helpful_count": 4,
+      "author_display_name": "solvangman805",
+      "author_alias": "solvangman805",
+      "developer_response": {
+        "body": "Issue has been resolved. Please update your app. Thanks!",
+        "date": 1652209006
+      }
+    },
+    {
+      "id": "1409380896179735",
+      "score": 4,
+      "review_title": "Working now - worth a download",
+      "review_description": "I've just downloaded an update for this and it's working now.\nNot as graphically impressive as the Rift version but still good. It's a very short demo of slo-mo action with bullets. rocks, missiles and a car flying past you as you slowly advance towards the big baddie at the end. Totally non-interactive.\nA great demo to show friends new to VR.\nIt runs on a loop so starts over. You have to quit to end it. \nIf you press B, a stats list appears overlaid but it's almost impossible to read, and I didn't access any menu to change the parameters. (There are instructions in the description but I didn't try them.)\nAnyway, it's free and worth a try.",
+      "date": 1652133846,
+      "review_helpful_count": 28,
+      "author_display_name": "MAJ161.RED",
+      "author_alias": "MAJ161.RED",
+      "developer_response": null
+    },
+    {
+      "id": "739497393711463",
+      "score": 4,
+      "review_title": "Good looking",
+      "review_description": "Looks great, but I would love to control the speed",
+      "date": 1652417460,
+      "review_helpful_count": 0,
+      "author_display_name": "IamLuisMonster",
+      "author_alias": "IamLuisMonster",
+      "developer_response": null
+    },
+    {
+      "id": "598186905406953",
+      "score": 1,
+      "review_title": "Dont waste your time not a game",
+      "review_description": "Not even a game. Just a slow motion video. What a big letdown",
+      "date": 1671981847,
+      "review_helpful_count": 0,
+      "author_display_name": "RenegadeSoulReaper",
+      "author_alias": "RenegadeSoulReaper",
+      "developer_response": null
+    },
+    {
+      "id": "544390673990539",
+      "score": 2,
+      "review_title": "I'd love to fiddle with the graphics...",
+      "review_description": "...but the menu is impossible to read, it's stuck in the far upper left of the screen and far too close, please fix!",
+      "date": 1652417112,
+      "review_helpful_count": 2,
+      "author_display_name": "BallsyVR",
+      "author_alias": "BallsyVR",
+      "developer_response": null
+    }
+  ],
+  "total": 20,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-20T19:39:32Z"
+}

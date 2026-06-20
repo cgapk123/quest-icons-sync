@@ -1,0 +1,993 @@
+{
+  "app_id": "5353996901307344",
+  "package_name": "com.odders.livechess",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Chess Club",
+  "rating_average": 3.9723320158103,
+  "rating_count": 1265,
+  "review_count": 682,
+  "reviews": [
+    {
+      "id": "1056863967510077",
+      "score": 4,
+      "review_title": "Good game, but there is a bug",
+      "review_description": "I noticed in the reviews that some people have a problem where the game gets stuck on the logo and doesn’t load. I experienced the same issue and think I found the cause.\n\nWhen you launch the game for the first time, it asks for microphone access. If you deny the permission and choose the option to remember the choice, the game won’t load properly the next time. The main menu appears, but when you try to start any game mode, it just stays on the loading logo forever.\n\nThe solution is to go to the headset settings and allow microphone access for the game.\n\nHope this helps the developers identify the bug and fix it.",
+      "date": 1773183349,
+      "review_helpful_count": 33,
+      "author_display_name": "enerflame",
+      "author_alias": "enerflame",
+      "developer_response": {
+        "body": "Hi! Thank you very much for taking the time to investigate and share this with us — we really appreciate it. Our QA team has actually tested this and several other possible solutions multiple times, and unfortunately this specific cause has already been ruled out.\n\nThat said, we’d still love to ask you a few questions if you’re willing to help us a bit further. Could you please email us at support@odderslab.com and mention that you’re the person who suggested the permissions idea? It might help us gather some additional information that could point us in the right direction.\n\nAnd of course, if you decide to help us with this, we’ll make sure to reward you for your time. Thanks again for your help!",
+        "date": 1773309273
+      }
+    },
+    {
+      "id": "1099578119906312",
+      "score": 4,
+      "review_title": "Awesome app. Can we mute that music",
+      "review_description": "Loving this app. I’m a big fan of chess. I can’t figure out exactly how to create friends in it. Also, could we possibly mute that piano? Yes, we can mute the music in individual matches, but at the setup lobby, that piano gets very irritating really quickly. Can we have an update where we mute all music until we turn it back on? Thanks in advance!!\n\nTeddy",
+      "date": 1778739255,
+      "review_helpful_count": 1,
+      "author_display_name": "TedTwis",
+      "author_alias": "TedTwis",
+      "developer_response": null
+    },
+    {
+      "id": "1036567252873734",
+      "score": 1,
+      "review_title": "Unable to play AI Chess games",
+      "review_description": "I haven't been able to play an AI Chess game for over a week now. I've only been able to play the Daily Puzzles that are located in the game lobby, but once I start an AI Chess game, the Chess Club logo pops up and essentially freezes because nothing happens.\n\nAlthough, one User Review below named \"enerflame\" solved my issue. I had to give Chess Club access to my Microphone and allow it. Once I chose the Allow option that pops up, I was able to play an AI Chess game, finally! But, I was still able to Mute my  Microphone and got pop up messages from Chess Club that my mic was muted. So yeah, if you're having issues where the Chess Club logo freezes after starting an AI game,  then Allow the game to access your Microphone, which I'm honestly not a fan of since I was playing an AI game that didn't really need a Microphone.",
+      "date": 1773558259,
+      "review_helpful_count": 9,
+      "author_display_name": "SynapseDynamics",
+      "author_alias": "SynapseDynamics",
+      "developer_response": {
+        "body": "Hi! We’re really sorry for the inconvenience. As we mentioned to “enerflame,” that solution doesn’t work for everyone, and our team hasn’t been able to reproduce the issue using that method.\n\nIf you’re willing to help us investigate further, please send us a message at support@odderslab.com . We’d love to gather more information to fix this problem, and of course, we’ll compensate you for your help. Thank you!",
+        "date": 1773648334
+      }
+    },
+    {
+      "id": "1164801693380375",
+      "score": 3,
+      "review_title": "Make it sample",
+      "review_description": "Its so hard to know how to start an online match and for that it takes for ever to find a player to play with",
+      "date": 1780986184,
+      "review_helpful_count": 0,
+      "author_display_name": "Lytrex7",
+      "author_alias": "Lytrex7",
+      "developer_response": null
+    },
+    {
+      "id": "1064661683405464",
+      "score": 1,
+      "review_title": "Ehhh",
+      "review_description": "Great graphics and mechanic\n\nBad: there is literally never anyone on there to play against so it beats the whole purpose unless you just want to play against a computer. ￼",
+      "date": 1777300261,
+      "review_helpful_count": 3,
+      "author_display_name": "Buckeye4Truth",
+      "author_alias": "Buckeye4Truth",
+      "developer_response": {
+        "body": "Hi! We’re really sorry for the inconvenience you’ve experienced. If you’re looking to play with other people, we actually have a Discord community with dedicated channels where players coordinate matches and find others to play with. You’re more than welcome to join and give it a try here: https://discord.gg/GsJDkVHYMe",
+        "date": 1777969261
+      }
+    },
+    {
+      "id": "25300180989677965",
+      "score": 2,
+      "review_title": "Boo!",
+      "review_description": "OK, you can do mixed reality if you want, nice effect, but do you wanna maybe get rid of the sudden piano playing and knocks on tbe door?!! \n\nIt's chess, not Resident Evil. Chess, as far as I remember, does not need sudden unexpected sound fx. Particularly in mixed reality where it sounded like my door was being hammered on. \n\nOne more slider, No scary sound FX. Cool?",
+      "date": 1768652001,
+      "review_helpful_count": 62,
+      "author_display_name": "TheDirector50",
+      "author_alias": "TheDirector50",
+      "developer_response": null
+    },
+    {
+      "id": "903656498921860",
+      "score": 3,
+      "review_title": "Great start but needs a few updates",
+      "review_description": "It is a really nice immersive chess app that priorities atmosphere over serious play like chess com or lichess but there are several completely broken features that could be fixed rather easily to improve the gameplay\n- Fix the avatars to show the ones from Meta, everybody is for some reason looking like a girl except for the few people who bothered to change it to the few game included avatars. This is key for immersion\n- Improve the picking of time controls so several can be picked at the same time not just one and also save the settings like auto clock\n- some kind of a system for adding friends / blocked people and a bit better control of who you get paired with\n- there is always like a 20-30% of chance that any pairing will result into a crashed game where the opponent doesn't show up or make the first move, no idea why. It gets very annoying.",
+      "date": 1771769792,
+      "review_helpful_count": 6,
+      "author_display_name": "AstralFields",
+      "author_alias": "AstralFields",
+      "developer_response": null
+    },
+    {
+      "id": "1023688440834065",
+      "score": 1,
+      "review_title": "Not happy",
+      "review_description": "Day one. Purchased chess club. \n\nCan’t load anything. It gets to the dashboard or the game then says error and closes. So frustrating and a waste of my time. Tried many ways to get it to launch and play. Uninstalled. Reinstalled. Not happy",
+      "date": 1775021525,
+      "review_helpful_count": 1,
+      "author_display_name": "ShadowyPuff",
+      "author_alias": "ShadowyPuff",
+      "developer_response": {
+        "body": "Hi! We’re really sorry for the trouble you’ve had. As soon as you can, please contact us at support@odderslab.com so we can help you get back to playing normally and resolve this issue. In your email, include your Meta username and a brief description of the problem.",
+        "date": 1775458741
+      }
+    },
+    {
+      "id": "1093152200540629",
+      "score": 4,
+      "review_title": "Stats not loading",
+      "review_description": "While I enjoy the game, I have encountered a significant issue with its tracking system. Whenever I access my profile, all my statistics are displayed as zero, indicating that the game is not accurately tracking my progress.",
+      "date": 1774570006,
+      "review_helpful_count": 0,
+      "author_display_name": "Futtbuck14",
+      "author_alias": "Futtbuck14",
+      "developer_response": null
+    },
+    {
+      "id": "959114343303561",
+      "score": 4,
+      "review_title": "Nice chess experience - learning option?",
+      "review_description": "I am enjoying this chess game and the puzzles are a great edition. Would be nice to have chess tutorials to learn the game at the beginner or advanced level. The AI opponents are fine, but would like lessons from an experienced player!\n\nKeep up the great work!",
+      "date": 1773862680,
+      "review_helpful_count": 1,
+      "author_display_name": "DavidL2415",
+      "author_alias": "DavidL2415",
+      "developer_response": null
+    },
+    {
+      "id": "1073345365859790",
+      "score": 4,
+      "review_title": "Can't reach pieces",
+      "review_description": "The g\name looks really nice... But I'm still trying to figure out how to reach the pieces and controls.  They are wayyy far away, farther than my arms are long... Is there a way to bring it closer?",
+      "date": 1774837723,
+      "review_helpful_count": 0,
+      "author_display_name": "jeff.811087",
+      "author_alias": "jeff.811087",
+      "developer_response": null
+    },
+    {
+      "id": "882878604919888",
+      "score": 5,
+      "review_title": "Relaxing and challenging",
+      "review_description": "Games like this are where the quest shines in my opinion. Small focused games that feel highly polished, and this one is exactly that. My only complaint is it would be nice to be able to scale the board down or up both in vr and mr. It doesn’t quite fit on my desk right and it would be nice to be able to scale the board down to a slightly smaller size.",
+      "date": 1769231879,
+      "review_helpful_count": 7,
+      "author_display_name": "2broke4boat",
+      "author_alias": "2broke4boat",
+      "developer_response": null
+    },
+    {
+      "id": "1074069902447990",
+      "score": 5,
+      "review_title": "great experience",
+      "review_description": "great experience what are the best chess games i have ever played i needed some practice on chess so i chose this game and it's really helped me grow this this game is the best i would highly recommend this",
+      "date": 1774100141,
+      "review_helpful_count": 1,
+      "author_display_name": "T.win14",
+      "author_alias": "T.win14",
+      "developer_response": null
+    },
+    {
+      "id": "1195231170337494",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Most of the bad reviews are just because of headset problems or small bugs but the game is amazing and reading and fun\n\nbut they do need to make more options and update more as when you you play enough it gets old espiesly becaushe the dead player count",
+      "date": 1781745700,
+      "review_helpful_count": 0,
+      "author_display_name": "FANCY_MANVR",
+      "author_alias": "FANCY_MANVR",
+      "developer_response": null
+    },
+    {
+      "id": "1028406683680681",
+      "score": 4,
+      "review_title": "It is awesome chess game, but...",
+      "review_description": "It is cool game, good atmosphere, that immerses you in chess, without distraction, but it is could be better. Here some changes I wish developers would add to the game, and then it will be 5 stars: \n1. I want to choose from several environmental, and time control, not just any, or one if them. I want play rapid, and classic, but don't want blitz and tournament, for now I can't choose only this two options. Same with environment. Stonehenge is beautiful, but all this animation, and pieces design are distracting me.\n2. It could be good to report people for leaving game, and ban them in some way, cuz it is happens way too often, and I have to play 30 minutes longer waiting to claim victory. \n3. It could be good to have the opportunity to add a person as a friend in the game itself.",
+      "date": 1767427074,
+      "review_helpful_count": 15,
+      "author_display_name": "Humannonum",
+      "author_alias": "Humannonum",
+      "developer_response": null
+    },
+    {
+      "id": "915482354551411",
+      "score": 2,
+      "review_title": "Update sux",
+      "review_description": "Ever since your update the game hangs up. Won't get past the logo when you try to open a game.",
+      "date": 1772484978,
+      "review_helpful_count": 6,
+      "author_display_name": "injunrik",
+      "author_alias": "injunrik",
+      "developer_response": {
+        "body": "Hello injurik,\n\nSorry for the inconvenience — we’ve already notified our development team so they can check this as soon as possible. \n\nIn the meantime, please contact us at support@odderslab.com with your username and a short description of the issue, so we can properly track your case and get back to you more easily. We'll do our best to help you with the problem.",
+        "date": 1772629109
+      }
+    },
+    {
+      "id": "1050600874803032",
+      "score": 3,
+      "review_title": "Game wont load past logo screen",
+      "review_description": "One of my favorite games. But the AI lags a bunch that i have to quit matches... And now wont load past the chess club logo!",
+      "date": 1772700999,
+      "review_helpful_count": 3,
+      "author_display_name": "miilady",
+      "author_alias": "miilady",
+      "developer_response": {
+        "body": "Hi! Thanks for reaching out. Could you please contact us at support@odderslab.com so we can help you solve the issue? In that email, please include your username, the model of your headset, and if possible a video showing the error, as that would be very helpful for our team to investigate and fix the problem as quickly as possible. Thanks!",
+        "date": 1773126661
+      }
+    },
+    {
+      "id": "1314786524007295",
+      "score": 1,
+      "review_title": "Cant play after update",
+      "review_description": "Infinity loading screen after starting every kind of game. Probably broken after updating.",
+      "date": 1772988901,
+      "review_helpful_count": 3,
+      "author_display_name": "UncleVero",
+      "author_alias": "UncleVero",
+      "developer_response": {
+        "body": "Hi! Could you please contact us at support@odderslab.com so we can help you solve the issue? In that email, please include:\n- Your username\n- The model of your headset\nAnd if possible, a video showing the error (that would be super helpful)\n\nThis will help our team investigate and fix the problem as quickly as possible. Thanks!",
+        "date": 1773126598
+      }
+    },
+    {
+      "id": "1370936831485936",
+      "score": 1,
+      "review_title": "Refuses to run",
+      "review_description": "I bought Chess Club a couple of years ago on my Quest 2. Played it a bit back then. Tried to open it today for the first time in a long time. It shows the logo, then tells me there was is a new version and gives me an exit button. I checked my versions, all are up to date. I cleared the data. I rebooted. Won’t get past the message that there is a new version.",
+      "date": 1765504583,
+      "review_helpful_count": 15,
+      "author_display_name": "weaver21",
+      "author_alias": "weaver21",
+      "developer_response": {
+        "body": "Hi! It’s possible that your app is currently set to a development channel, such as the Beta version. Please try switching it back to the current public version by following these steps: \n\nOpen your Meta Quest Library.\nFind Chess Club and tap the three dots (…) next to it.\nSelect Version / Version Channel and switch to the current version.\n\nPlease let us know if this resolves the issue. If not, contact us at support@odderslab.com  so we can assist you further and make sure everything works correctly. Thank you!",
+        "date": 1765536942
+      }
+    },
+    {
+      "id": "918563773952704",
+      "score": 1,
+      "review_title": "Broken",
+      "review_description": "Whenever I win through taking everything except king the game breaks and the ai stops doing anything leading to a draw because I ain’t waiting tha long for it to timeout. It should auto give us the win if there is no possible solution. Fix the game.",
+      "date": 1768791056,
+      "review_helpful_count": 3,
+      "author_display_name": "Highlander1028",
+      "author_alias": "Highlander1028",
+      "developer_response": {
+        "body": "Hello! Thanks for letting us know about this issue, and we’re sorry for the inconvenience. This behavior is unusual, please write to us at support@odderslab.com so we can investigate the problem and help you get back to playing normally. If possible, include any details or screenshots that might help us identify what’s happening. We’ll be happy to assist you.",
+        "date": 1768838296
+      }
+    },
+    {
+      "id": "1433991058227700",
+      "score": 1,
+      "review_title": "Constant crash",
+      "review_description": "I love this simple well designed chess game BUT unfortunately it crashes upon loading way too many times!! So I deleted it",
+      "date": 1771681493,
+      "review_helpful_count": 1,
+      "author_display_name": "steinray",
+      "author_alias": "steinray",
+      "developer_response": {
+        "body": "Hi! It sounds like you’ve run into an unusual bug that’s causing the crashes. We’re really sorry for the inconvenience! Please contact us at support@odderslab.com\n so we can help resolve it. In your email, include your username, the model of your headset, and if possible a video showing the crash, as that will help our team investigate and fix the issue as quickly as possible. Thanks!",
+        "date": 1773126873
+      }
+    },
+    {
+      "id": "1074496725741338",
+      "score": 1,
+      "review_title": "Knocking and piano for what?",
+      "review_description": "Knocking and piano for what? Creepy! Why??? Let us be fine with peace, silence, and chess!",
+      "date": 1772588691,
+      "review_helpful_count": 0,
+      "author_display_name": "il.Siciliano",
+      "author_alias": "il.Siciliano",
+      "developer_response": {
+        "body": "Hello il.Siciliano,\n\nSorry to hear you didn’t enjoy the ambient sounds in the hotel environment. They’re meant to add atmosphere to the location, but we truly understand they might not be for everyone.\n\nThe people behind Chess Club takes player feedback very seriously and we’re constantly working to make the experience enjoyable for all our players. If you decide to give the game another try, we'll be happy to help you with this or any other feedback you have. You can directly contact us via support@odderslab.com \n\nThanks for playing Chess Club. Our team hopes that we can change your opinion and your review at some point!",
+        "date": 1772629747
+      }
+    },
+    {
+      "id": "957876477413012",
+      "score": 3,
+      "review_title": "It's chess but",
+      "review_description": "Game works well by itself but seriously silly improvements should be made, for instance. \nSettings don't set after you change them, ;auto clock, music, voice chat etc.\nWhy haven't you added Ai to review the games you play?",
+      "date": 1770150019,
+      "review_helpful_count": 0,
+      "author_display_name": "PR1CEY",
+      "author_alias": "PR1CEY",
+      "developer_response": null
+    },
+    {
+      "id": "933795829827105",
+      "score": 5,
+      "review_title": "Wonderful!!",
+      "review_description": "What a wonderful game, highly recommend!!",
+      "date": 1771806908,
+      "review_helpful_count": 0,
+      "author_display_name": "Split_Crow",
+      "author_alias": "Split_Crow",
+      "developer_response": null
+    },
+    {
+      "id": "1004948066033232",
+      "score": 3,
+      "review_title": "Question",
+      "review_description": "how do you quit ?",
+      "date": 1771945709,
+      "review_helpful_count": 1,
+      "author_display_name": "Shayjayma",
+      "author_alias": "Shayjayma",
+      "developer_response": {
+        "body": "Hi, Could you please clarify what you mean so we can assist you properly?\n\nAlso, please send us an email at support@odderslab.com so we can guide you step by step. Thanks!",
+        "date": 1772445424
+      }
+    },
+    {
+      "id": "1024732710079188",
+      "score": 5,
+      "review_title": "chess",
+      "review_description": "Chess fun",
+      "date": 1780352832,
+      "review_helpful_count": 0,
+      "author_display_name": "GubGub1745",
+      "author_alias": "GubGub1745",
+      "developer_response": null
+    },
+    {
+      "id": "1029578306895827",
+      "score": 1,
+      "review_title": "La musica no la puedo sacar",
+      "review_description": "La musica esrresa",
+      "date": 1770253217,
+      "review_helpful_count": 1,
+      "author_display_name": "Erwebito666",
+      "author_alias": "Erwebito666",
+      "developer_response": {
+        "body": "Hola! Podrías por favor aclararnos a que te refieres? Puedes hacerlo por correo en support@odderslab.com. Gracias.",
+        "date": 1771227487
+      }
+    },
+    {
+      "id": "934640699284702",
+      "score": 2,
+      "review_title": "Fun, but player community sucks",
+      "review_description": "When playing against other players, when the game turns to your advantage they'll ask to draw the game and when declined, they'll just leave. The game then requires you to wait 30 minutes in there to claim your win, otherwise you lose the ranking.",
+      "date": 1774720505,
+      "review_helpful_count": 0,
+      "author_display_name": "Brockolicosmique",
+      "author_alias": "Brockolicosmique",
+      "developer_response": null
+    },
+    {
+      "id": "979560758571834",
+      "score": 5,
+      "review_title": "Great game!",
+      "review_description": "Love it!",
+      "date": 1769981262,
+      "review_helpful_count": 0,
+      "author_display_name": "tripd",
+      "author_alias": "tripd",
+      "developer_response": null
+    },
+    {
+      "id": "855178607686214",
+      "score": 5,
+      "review_title": "I love the game but one slight problem",
+      "review_description": "there aint many online player on chessclub\nbut i still love chess",
+      "date": 1765829899,
+      "review_helpful_count": 5,
+      "author_display_name": "TheYakuzza",
+      "author_alias": "TheYakuzza",
+      "developer_response": null
+    },
+    {
+      "id": "851433141396536",
+      "score": 5,
+      "review_title": "Great VR Chess Experience!",
+      "review_description": "Great VR chess gameplay!  Very responsive to hand movements.  Awesome backdrops too!  Highly recommended for any chess fan.",
+      "date": 1767711426,
+      "review_helpful_count": 1,
+      "author_display_name": "JWeiler",
+      "author_alias": "JWeiler",
+      "developer_response": null
+    },
+    {
+      "id": "1317844806836887",
+      "score": 3,
+      "review_title": "No Volume Sliders in the big 26’?",
+      "review_description": "I just picked chess back up and thought it would be pretty cool to make content on the game, but I find that it’s gonna be difficult to at least take advantage of the endgame sound effects for the pieces since everything is being drowned out by music, or indoor ambient sound effects that I do not want to hear and/or are unable to change and I think the fact that we’re still having issues like this trivial one in the big 2026 is bewildering.",
+      "date": 1772663696,
+      "review_helpful_count": 0,
+      "author_display_name": "ShogunLeekYT",
+      "author_alias": "ShogunLeekYT",
+      "developer_response": null
+    },
+    {
+      "id": "891049784100043",
+      "score": 5,
+      "review_title": "LITERALLY THE BEST CHESS GAME EVER!",
+      "review_description": "As what I said. Give it a go. IR IT IS AMAZING!",
+      "date": 1768806909,
+      "review_helpful_count": 0,
+      "author_display_name": "jessie_is_an_available_name",
+      "author_alias": "jessie_is_an_available_name",
+      "developer_response": null
+    },
+    {
+      "id": "894923500368384",
+      "score": 4,
+      "review_title": "Best chess for Quest 3s",
+      "review_description": "Best VR chess app hands down. Played a bunch of matches over Halloween and met nice ppl. Works great on Quest 3 with mixed reality.",
+      "date": 1764350479,
+      "review_helpful_count": 3,
+      "author_display_name": "CharleighLang",
+      "author_alias": "CharleighLang",
+      "developer_response": null
+    },
+    {
+      "id": "2414138439034150",
+      "score": 4,
+      "review_title": "Awesome but",
+      "review_description": "This is one heck of a great game, the aesthetics, the gameplay, even the AI. The one problem is suggesting the table height, I just can't figure it out so it makes play uncomfortable.  It should not be that hard. That's why it gets a four star.",
+      "date": 1772884207,
+      "review_helpful_count": 0,
+      "author_display_name": "LennyL",
+      "author_alias": "LennyL",
+      "developer_response": null
+    },
+    {
+      "id": "1712659419395134",
+      "score": 1,
+      "review_title": "Can no longer play",
+      "review_description": "I bought this game for the original quest and really liked it. It was a good way to stay in touch and to play family members on. Ive picked up the quest for the first time in a while  and I knew that a lot of games on the original quest were no longer supported with games new updates or online cross play but these guys dont even allow me to play the original game I bought. What a rip off.",
+      "date": 1758841434,
+      "review_helpful_count": 11,
+      "author_display_name": "Nezzie42",
+      "author_alias": "Nezzie42",
+      "developer_response": {
+        "body": "Hi!! Chess Club is still available to play on Quest 1, however, it does not have access to support or new updates. In addition, on that headset, you will only be able to access offline game modes, as it does not have access to offline multiplayer modes. We hope you enjoy the best strategy game in VR. Please do not hesitate to contact us at support@odderslab.com if we can offer you any further assistance!",
+        "date": 1758878385
+      }
+    },
+    {
+      "id": "901219776408612",
+      "score": 5,
+      "review_title": "Nice to see the game alive again",
+      "review_description": "The Halloween tournament brought people back! It was so good to finally find matches quickly again. The event wasn’t fancy or themed, but it didn’t need to be. Just seeing more real players online made it worth jumping back in. Hope the devs organize more of these community events.",
+      "date": 1763368547,
+      "review_helpful_count": 0,
+      "author_display_name": "SimonRomero",
+      "author_alias": "SimonRomero",
+      "developer_response": null
+    },
+    {
+      "id": "972912649247999",
+      "score": 1,
+      "review_title": "Board position borked",
+      "review_description": "The table is in VR completely misplaced unplayable. There is no optipn to align or stuff. Meta reallign does not help.\nin MR all works",
+      "date": 1773511336,
+      "review_helpful_count": 0,
+      "author_display_name": "Thelyron",
+      "author_alias": "Thelyron",
+      "developer_response": {
+        "body": "Hi! Please reach out to us at support@odderslab.com — we'll need some aditional info to locate and fix this issue. If you could reach out with your username and a short video of the issue it would be great. Thank you!",
+        "date": 1773648005
+      }
+    },
+    {
+      "id": "1084576114728400",
+      "score": 3,
+      "review_title": "Kinda good game",
+      "review_description": "But when i am in the middle of a round of chess it just crashes",
+      "date": 1773316594,
+      "review_helpful_count": 0,
+      "author_display_name": "CarsonKn",
+      "author_alias": "CarsonKn",
+      "developer_response": {
+        "body": "Hi! Please reach out to us at support@odderslab.com — we’re currently investigating this issue and will do our best to provide a solution as soon as possible. Thanks!",
+        "date": 1773647902
+      }
+    },
+    {
+      "id": "971764429360003",
+      "score": 4,
+      "review_title": "TAKE LESS TIME TO CLAIM VICTORY",
+      "review_description": "I don't have 30 minutes to spend on waiting for the opponent to get back in the game or to get the victory, we should wait 3 minutes and not 30!",
+      "date": 1771435613,
+      "review_helpful_count": 0,
+      "author_display_name": "Alpaccino4",
+      "author_alias": "Alpaccino4",
+      "developer_response": null
+    },
+    {
+      "id": "743217935550678",
+      "score": 1,
+      "review_title": "Mixed reality won’t work",
+      "review_description": "I want to like this game but the mixed reality feature doesn’t work properly, by that I mean every time I try it just wont allow me to play in my real surroundings. Developers why won’t it work",
+      "date": 1758675748,
+      "review_helpful_count": 3,
+      "author_display_name": "LundenTaylor",
+      "author_alias": "LundenTaylor",
+      "developer_response": {
+        "body": "Hi LundenTaylor! We are very sorry to hear about the experience you are having. Our goal is for you to enjoy Chess Club, the best strategy game in VR, to the fullest. Could you please contact us via support@odderslab.com in order to help you identifying the origin of your issue?",
+        "date": 1758722960
+      }
+    },
+    {
+      "id": "686695897869067",
+      "score": 1,
+      "review_title": "I want a refund!",
+      "review_description": "Waist of time and money! You will be able to play against bots #A.I. but you can't play live players do to the fact you will drain your battery matchmaking and hoping to connect with some other sucker who paid hard earned money for the game before  you ever find a match. The app in my opinion is super cool other then the fact I have spent two full charges matchmaking for one match to Actually match up. I would recommend looking elsewhere and I hope I can get a refund but I'm sure we all know how meta customer service is!",
+      "date": 1752591478,
+      "review_helpful_count": 23,
+      "author_display_name": "xBEERxMONEYx",
+      "author_alias": "xBEERxMONEYx",
+      "developer_response": {
+        "body": "Hi! Thank you very much for playing Chess Club. We are very sorry to hear that you are not having a good experience in our game. Could you please contact us via email at support@odderslab.com? We would like to compensate you for your experience in the game.",
+        "date": 1752736121
+      }
+    },
+    {
+      "id": "1311557973660382",
+      "score": 5,
+      "review_title": "Great game, but…",
+      "review_description": "Great game, but it would be way better if there were more live players, probably through an external app like chess dot com or chess with friends, for example, to be able to play with non vr users, to populate the activity. Other than that, it’s a top tier chess game. The mixed reality is great, the animation is cool. I really enjoy this game, but i repeat, there’s a need for more live players. The loading may suck for some people for what ever reason, but I haven’t had too many problems loading in to my knowledge, but my opponents sometimes do not join in for what ever reason. But the game still allows you to continue to play, even if the opponent left, which is a plus. The hand tracking sucks, but there is hand tracking, and it does work most of the time, you just have to play in a way that allows you to pick up pieces without triggering the menu screen, or refresh, and that is really annoying. They need to fix that, as well as accidentally dropping a piece on the wrong square. That’s just hand tracking, I had never had a problem with the controllers, they’re responsive. But other than that, this chess game is really better than most. The mixed reality is one of the best additions next to the animated pieces. Now if you can merge or link with a third party app, that active, this game would be the “go to” chess game, because even though it has all of the bells and whistles, at the end of the day, it’s really about playing with real people.\n\n***Response to developer*** \nno one is that desperate to look for a random player on Discord, just to play a random game of chess club. That seems a little to dramatic and redundant to search for a player on Discord, when there's already an online search in game. Maybe once but definitely not twice. I do see you have added cross play, which is a plus in the right direction. It's a good game, it would suck for it to go to waste because there's no live players.",
+      "date": 1769291090,
+      "review_helpful_count": 5,
+      "author_display_name": "Close.Distance",
+      "author_alias": "Close.Distance",
+      "developer_response": {
+        "body": "Hi, Close.Distance! Thank you very much for your positive feedback about Chess Club. Our goal is for users of this game to enjoy the best strategy game in VR to the fullest. \n\nRegarding users, our Discord server has a Chess channel for matchmaking. Participating in this channel will help you know when there are more active players and you will be able to find more users easily! \n\nHere is the link: https://discord.gg/e58swh3W",
+        "date": 1755150320
+      }
+    },
+    {
+      "id": "788630643993390",
+      "score": 5,
+      "review_title": "Creative",
+      "review_description": "Most creative chest game.",
+      "date": 1762544577,
+      "review_helpful_count": 0,
+      "author_display_name": "Tracyspacewalk",
+      "author_alias": "Tracyspacewalk",
+      "developer_response": null
+    },
+    {
+      "id": "808743708359141",
+      "score": 5,
+      "review_title": "Its chess but betterment",
+      "review_description": "Its so cool to see the animations of the pieces,  i was a chess noob but now im learning how to play because of the A.I which as anyone who knows chess will be basically be a small version of deep blue the computer who beat world champions , if you wanna learn chess this is the best way as the animations make it much more enjoyable when your defeated & you just wanna play again",
+      "date": 1754866825,
+      "review_helpful_count": 4,
+      "author_display_name": "Gazza1968",
+      "author_alias": "Gazza1968",
+      "developer_response": null
+    },
+    {
+      "id": "762778923586117",
+      "score": 4,
+      "review_title": "Enhancing Engagement in 'Chess Club'",
+      "review_description": "As a passionate chess player, I was excited to dive into \"Chess Club,\" a virtual reality application on the Meta Quest platform. The game offers an immersive environment for players to enjoy chess, but I believe there are several key areas where enhancements could significantly improve user engagement. Drawing comparisons to the classic Windows application \"Chessmaster Grandmaster Edition,\" I will highlight the potential benefits of introducing more chess bots, diverse tournament settings, and varied puzzle options.\n\n1. More Chess Bots for Varied Gameplay:\nOne of the standout features of \"Chessmaster Grandmaster Edition\" is its extensive range of chess bots, each designed to simulate different playing styles and levels of difficulty. This variety allows players to practice against opponents that challenge them appropriately, catering to their skill level. In contrast, \"Chess Club\" currently offers a limited selection of bots, which can lead to repetitive gameplay and less motivation to improve. By expanding the roster of chess bots—perhaps including options that mimic famous grandmasters or different strategic approaches—players would have the opportunity to refine their skills against diverse opponents, making practice sessions more engaging and rewarding.\n\n2. Multiple Tournament Settings:\nThe competitive aspect of chess is a significant draw for many players, and \"Chessmaster Grandmaster Edition\" excels in providing various tournament formats—from blitz to classical games. In \"Chess Club,\" the addition of multiple tournament settings would greatly enhance the experience. For instance, introducing themed tournaments or time-controlled formats could attract players with different preferences and skill sets. Additionally, allowing users to create their own tournaments with customizable rules would foster a sense of community and friendly competition, encouraging players to return regularly and engage with one another.\n\n3. Diverse Puzzle Options:\nPuzzles are an essential tool for improving chess skills, and incorporating a wider variety of puzzles—such as tactical challenges, endgame scenarios, and historical game recreations—would cater to different learning styles and keep players motivated. Additionally, features like daily puzzles or weekly challenges could encourage users to log in frequently, creating a habit of practice and improvement.\n\nMy comparisons to \"Chessmaster Grandmaster Edition\" is just to highlight how these features can create a richer, more varied gameplay experience in a VR environment. With these improvements, \"Chess Club\" could become not just a game but a comprehensive platform for chess enthusiasts looking to hone their skills while enjoying the camaraderie of fellow players. \n\nI look forward to seeing how the developers will address these suggestions to create an even more engaging chess experience for all users.",
+      "date": 1755547252,
+      "review_helpful_count": 3,
+      "author_display_name": "Chinchin120",
+      "author_alias": "Chinchin120",
+      "developer_response": {
+        "body": "Hello Chinchi! \nTHANK YOU for such a comprehensive review!! We'd definitely love to tackle all of them, and have some other ideas in store as well.\nWe've lately focused on stability and are looking forward to bringing more players in.\nMore Chess Bots, yes, that's definitely something we'd love to bring.\nTournaments are definitely a bigger stretch because they require many dependencies so I can't say we'll be prioritizing those.\nHowever, puzzles is something we are currently looking at, and will work on in the mid-future, as we get ready for 2026.\nThank you for this, and feel free to reach out on Discord or email for further discussions!",
+        "date": 1756375610
+      }
+    },
+    {
+      "id": "1254785069876143",
+      "score": 3,
+      "review_title": "Voice",
+      "review_description": "The voice thing is horrable cant use in a game",
+      "date": 1769976940,
+      "review_helpful_count": 0,
+      "author_display_name": "adogyfunny",
+      "author_alias": "adogyfunny",
+      "developer_response": null
+    },
+    {
+      "id": "794758653712544",
+      "score": 5,
+      "review_title": "Best game",
+      "review_description": "One of the best game in chess, I really am enjoying playing this game with quick match or AI or friend it is very cool, only one thing which is warning not error or big problem, is the limitation of environment, there is only 4 environment, if i count mixed reality it will be 5 so it is less which has it is own chess board means limitation, And issue of playing with other people is very hard to find you have to wait a lot I think they updated 4 hours ago the cross platform and said they fixed kind of this issue but hey we know politics so hopefully this fixes the problem, Other then that it is amazing.",
+      "date": 1754578519,
+      "review_helpful_count": 3,
+      "author_display_name": "Haji_Hashmat",
+      "author_alias": "Haji_Hashmat",
+      "developer_response": null
+    },
+    {
+      "id": "662358080286216",
+      "score": 3,
+      "review_title": "Chess",
+      "review_description": "Great graphics to play chess. Some features lacking such as being able to reverse a move before you hit the timer. Also, sometimes when you clearly have the AI in checkmate, it just freezes and won’t make a move so you have to resign the game or quit sometimes .￼ ￼",
+      "date": 1754836423,
+      "review_helpful_count": 3,
+      "author_display_name": "KarenAnnie",
+      "author_alias": "KarenAnnie",
+      "developer_response": null
+    },
+    {
+      "id": "1325913659309240",
+      "score": 3,
+      "review_title": "Safe chess game .",
+      "review_description": "Seems like most chess games just give you a handful of sceneries and a few different pieces.\n\nThis is exactly the same as any other but slightly different.\n\nNot bad but nothing for me to prefer this chess game over another .",
+      "date": 1766252163,
+      "review_helpful_count": 0,
+      "author_display_name": "HBM37",
+      "author_alias": "HBM37",
+      "developer_response": null
+    },
+    {
+      "id": "915499531637029",
+      "score": 5,
+      "review_title": "Casual but fun community event",
+      "review_description": "The Halloween tournament wasn’t an official update or anything, just players setting up games during the holiday, but it turned into a really fun mini-competition. I met a few great opponents and even added some as friends",
+      "date": 1763715697,
+      "review_helpful_count": 0,
+      "author_display_name": "OpheliaAbbott",
+      "author_alias": "OpheliaAbbott",
+      "developer_response": null
+    },
+    {
+      "id": "700989172644154",
+      "score": 4,
+      "review_title": "Does basics well but features lackining",
+      "review_description": "The actual chess experience is great, almost like a real game. The app is however severely lacking in features. Compare it to chess dot com or lichess dot com and it looks very basic indeed. It at least requires a proper history to show you your wins and losses (not just which colour won) and the ability to replay/show the last move. Game analysis etc would be great too.\n\nUpdate June 2025: Further to the above; I love the environments, and the gameplay. The basics are done very well in this game. Other than the missing features, the main problem now seems to be that there are no online players! Every time I search for a random player (with board and rating set to any), it keeps searching for a few minutes and doesn't find anyone. That's been my experience the last 2 times I tried it. Very frustrating as it's otherwise a really nice chess experience.",
+      "date": 1749801595,
+      "review_helpful_count": 9,
+      "author_display_name": "Retrofrogg",
+      "author_alias": "Retrofrogg",
+      "developer_response": {
+        "body": "Hi Retrofrogg, thank you very much for letting us know your feedback about the game. We are very glad that you enjoy playing Chess Club.\n\nRegarding the problem with finding opponents, there is a matchmaking calendar. Contact us at support@odderslab.com and we will be glad to tell you how it works.",
+        "date": 1750074248
+      }
+    },
+    {
+      "id": "824745184066085",
+      "score": 3,
+      "review_title": "Nice game but freezes during matches",
+      "review_description": "Wish I could give this more stars but sadly I can't. Good graphics and game play however struggling to finish a game without it freezing.",
+      "date": 1764623714,
+      "review_helpful_count": 0,
+      "author_display_name": "LaughingMacaw9782",
+      "author_alias": "LaughingMacaw9782",
+      "developer_response": {
+        "body": "Hi there! We’re very sorry for the inconvenience you’re experiencing. This issue is unusual and likely has an easy solution, so please get in touch with us at support@odderslab.com. Our team will be happy to help you troubleshoot and get the game running smoothly again.\n\nThanks for your patience, and sorry again for the trouble!",
+        "date": 1764664929
+      }
+    },
+    {
+      "id": "789979580876355",
+      "score": 5,
+      "review_title": "Back to playing again thanks to the tour",
+      "review_description": "Honestly hadn’t opened Chess Club in months, but the Halloween event pulled me back in. I played five or six matches against real people, and it felt great. Would love to see monthly tournaments",
+      "date": 1763577366,
+      "review_helpful_count": 0,
+      "author_display_name": "MarleyBradford",
+      "author_alias": "MarleyBradford",
+      "developer_response": null
+    },
+    {
+      "id": "893629620496615",
+      "score": 4,
+      "review_title": "Simple but fun",
+      "review_description": "Loved playing during the weekend tournaments! Finally found tons of live matches again. Simple but super fun. Please do more weekend events like that!",
+      "date": 1764089261,
+      "review_helpful_count": 0,
+      "author_display_name": "TreasureMorrow",
+      "author_alias": "TreasureMorrow",
+      "developer_response": null
+    },
+    {
+      "id": "913799245141950",
+      "score": 5,
+      "review_title": "Fun Weekend Tournaments!",
+      "review_description": "I joined the weekend community tournament last week and had a great time. It was just regular chess, but the atmosphere was really nice.Great matchmaking and smooth gameplay as always!",
+      "date": 1763365798,
+      "review_helpful_count": 0,
+      "author_display_name": "SaoirseHensley",
+      "author_alias": "SaoirseHensley",
+      "developer_response": null
+    },
+    {
+      "id": "1188118026472507",
+      "score": 5,
+      "review_title": "Become a Chess Master",
+      "review_description": "I haven't played chess in decades but picked it back up right away.   Love playing the battle chess.",
+      "date": 1759008101,
+      "review_helpful_count": 0,
+      "author_display_name": "JeffRichards",
+      "author_alias": "JeffRichards",
+      "developer_response": null
+    },
+    {
+      "id": "896406220221480",
+      "score": 5,
+      "review_title": "Loved the Halloween matches!",
+      "review_description": "Played several rounds during the weekend tournament and it was such a good experience",
+      "date": 1763907392,
+      "review_helpful_count": 0,
+      "author_display_name": "RobinBishop",
+      "author_alias": "RobinBishop",
+      "developer_response": null
+    },
+    {
+      "id": "836606779539417",
+      "score": 5,
+      "review_title": "Calidad de equipo español",
+      "review_description": "Tuve la oportunidad de jugarlo durante el evento en Madrid con sus creadores, un equipo español majísimo y fue genial. Los controles son súper naturales y la inmersión es total.",
+      "date": 1761599684,
+      "review_helpful_count": 0,
+      "author_display_name": "AmirFox",
+      "author_alias": "AmirFox",
+      "developer_response": null
+    },
+    {
+      "id": "679376921927735",
+      "score": 5,
+      "review_title": "Incredible way to play chess",
+      "review_description": "Online, avatars, voice activation, mixed reality. All the avant-garde technology meets chess in this game. Its a must for chess lovers like me. Ir people who wants to improve their memory and mental skills.",
+      "date": 1750841051,
+      "review_helpful_count": 2,
+      "author_display_name": "belenguer",
+      "author_alias": "belenguer",
+      "developer_response": null
+    },
+    {
+      "id": "782471928291747",
+      "score": 5,
+      "review_title": "Me convenció en segundos",
+      "review_description": "En cuanto lo probé en Madrid supe que lo necesitaba. Es ajedrez, pero con una sensación de presencia que solo VR puede dar.",
+      "date": 1761666520,
+      "review_helpful_count": 0,
+      "author_display_name": "KodyClarke",
+      "author_alias": "KodyClarke",
+      "developer_response": null
+    },
+    {
+      "id": "585713727922936",
+      "score": 5,
+      "review_title": "I recommend it",
+      "review_description": "I love this game. It's super fun and feels like you're actually playing. I recommend it.",
+      "date": 1751463352,
+      "review_helpful_count": 2,
+      "author_display_name": "familiamagan",
+      "author_alias": "familiamagan",
+      "developer_response": null
+    },
+    {
+      "id": "641285285730226",
+      "score": 3,
+      "review_title": "Development for this game has stopped",
+      "review_description": "You cannot undo turns. Hardly anyone plays it, itt gets old quickly, and the number of environments is too limited. The developer has stopped working on the game.",
+      "date": 1744405626,
+      "review_helpful_count": 33,
+      "author_display_name": "MistyBakusan",
+      "author_alias": "MistyBakusan",
+      "developer_response": null
+    },
+    {
+      "id": "704830976048298",
+      "score": 5,
+      "review_title": "Just what I was looking for",
+      "review_description": "Such a great experience. I've only played a couple of AI matches so far but everything has worked as it should so no complaints.",
+      "date": 1750611424,
+      "review_helpful_count": 1,
+      "author_display_name": "Jagman14",
+      "author_alias": "Jagman14",
+      "developer_response": null
+    },
+    {
+      "id": "656543387548773",
+      "score": 5,
+      "review_title": "Truly immersed chess experience",
+      "review_description": "I really like the strong haptics that this app has with the reactions to each interaction, and the matchmaking seems to work really well and adapt to my level without problem.",
+      "date": 1750675524,
+      "review_helpful_count": 1,
+      "author_display_name": "DevRodent",
+      "author_alias": "DevRodent",
+      "developer_response": null
+    },
+    {
+      "id": "457128757494217",
+      "score": 5,
+      "review_title": "Chess club hand tracking",
+      "review_description": "I enjoy playing chess against AI opponents, but sometimes, especially when it's a tight game, and I move a piece to a specific square using hand tracking, it drops and locks in before my intended square, usually costing me the game because I can't redo a move. ￼I found you have to be real careful and hover your piece higher than usual so as not to cause this to happen. Has anyone ￼else experienced this?￼",
+      "date": 1735944093,
+      "review_helpful_count": 34,
+      "author_display_name": "Questergate",
+      "author_alias": "Questergate",
+      "developer_response": null
+    },
+    {
+      "id": "580347465158535",
+      "score": 1,
+      "review_title": "Enjoyed it but incredibly buggy",
+      "review_description": "My stepfather and I have tried to play this often but every single time we play, we encounter multiple bugs in the game that make it incredibly frustrating and unplayable. \n\nSometimes these bugs can be resolved by closing the app and reopening it which is silly in the first place.  \n\nThe most recent bug we encountered was the game told us it was a stalemate when it clearly wasn't.",
+      "date": 1739162825,
+      "review_helpful_count": 3,
+      "author_display_name": "jaysmithgroup",
+      "author_alias": "jaysmithgroup",
+      "developer_response": {
+        "body": "Hello! We're very sorry for this inconvenience. Could you please send us an email at info@odderslab.com with your username so we can help you resolve this issue as soon as possible? Thanks!",
+        "date": 1739191902
+      }
+    },
+    {
+      "id": "926258646302395",
+      "score": 3,
+      "review_title": "Stalemate against the AI",
+      "review_description": "I have pinned the king, he cannot go forward, backward, left, right, or any variation of diagonally. But it's a stalemate.... I have all but 1 of my pieces. The \"AI\" has only a king. But it's a stalemate. He has lost, he has been trapped, the \"AI\" refusing to move is ridiculous, clock left ticking, and it's unfair to my record. Any game with a living person would continue, so should against this \"AI\".",
+      "date": 1736943289,
+      "review_helpful_count": 9,
+      "author_display_name": "TheSoloGunner",
+      "author_alias": "TheSoloGunner",
+      "developer_response": null
+    },
+    {
+      "id": "916106520719053",
+      "score": 1,
+      "review_title": "Sadly not fit for purpose",
+      "review_description": "Used to be a great game and had a rating over 2100. Automatic pairing allowed you to have an opponent within minutes. But now this is no longer the case you could be sitting for ages without an opponent. I’ve seen developers say you can use their discord site to find opponents but it used to be built in. This is why I haven’t used it no more. Was one of the earlier adopters and liked where it was going but sadly the app is not fit for purpose",
+      "date": 1736794882,
+      "review_helpful_count": 5,
+      "author_display_name": "kayoded",
+      "author_alias": "kayoded",
+      "developer_response": {
+        "body": "Hello! We're really sorry for the inconvenience. To help you find more players online, we recommend joining our Discord server, where you'll find instructions on how to join the matchmaking calendar and more easily connect with opponents at your preferred times. Here’s the link: https://discord.com/invite/OddersGames",
+        "date": 1738572670
+      }
+    },
+    {
+      "id": "2539726306358822",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "Only wish you could resize the board as it’s too big.",
+      "date": 1743577316,
+      "review_helpful_count": 1,
+      "author_display_name": "NedReb",
+      "author_alias": "NedReb",
+      "developer_response": null
+    },
+    {
+      "id": "532183533308652",
+      "score": 5,
+      "review_title": "Chess is Life !!!!",
+      "review_description": "I'm a big fan of Chess and VR Chess /MR are a perfect fit for Chess \n\nI really enjoy this game  it's done so well  and for the price it was worth it to try out . \nThere is one thing that could take it to the next level and that goes for all Chess VR Developers . The first one that can integrate it with Lichess or ChessCom games is onto a sure fire hit that will sell in big numbers",
+      "date": 1735151016,
+      "review_helpful_count": 20,
+      "author_display_name": "Soolander",
+      "author_alias": "Soolander",
+      "developer_response": null
+    },
+    {
+      "id": "555214527673536",
+      "score": 1,
+      "review_title": "Won't start on Quest 3.",
+      "review_description": "Brand new Quest 3 plays every other game except this one. Says there was an error loading the game and boots me out of the game. I don't know how to refund this game either so it's quite disappointing.",
+      "date": 1738582770,
+      "review_helpful_count": 3,
+      "author_display_name": "Jurangi",
+      "author_alias": "Jurangi",
+      "developer_response": {
+        "body": "Hello! We're very sorry for this inconvenience. Recently, there was a reduction in server capacity, which caused a brief downtime and led to this issue. Could you please send us an email at info@odderslab.com with your username so we can follow up on your case and ensure everything is working properly? Thanks!",
+        "date": 1739196854
+      }
+    },
+    {
+      "id": "1084225993051892",
+      "score": 2,
+      "review_title": "Lacks basic necessities",
+      "review_description": "The developers need to rethink the basic controls. \n\n1. Ability to set options (eg music on or off) permanently \n\n2. Enable correction of mis-moves when using hand tracking. Every game I've played so far I've had to abandon because a piece I was trying to move stuck fast to an intermediate square and there was no way to correct it. Alternatively require a positive action from the player to place the piece down in the intended square.\n\nIt's tragic that what is basically an excellent chess app is ruined by 2 above.",
+      "date": 1731083434,
+      "review_helpful_count": 9,
+      "author_display_name": "JD_Junior",
+      "author_alias": "JD_Junior",
+      "developer_response": {
+        "body": "Hello JD_Junior, we are sorry to hear you are having these issues. Regarding the hand tracking we recommend you to play in a well lit environment (not too dark, not too bright) and making slow moves to help the hand tracking. Please send us your detailed feedback to support@odderslab.com and we will provide you further assistance!",
+        "date": 1731516721
+      }
+    },
+    {
+      "id": "493964780467146",
+      "score": 3,
+      "review_title": "Could be Great",
+      "review_description": "Several times now I've been near the end of the game and close to winning when AI opponent just...stops playing. There is an option to \"claim win\" but it does not work; I have to close the app. Also, every now and then a move is made for me when the controllers glitch but I've learned to push the board father away from me\n\nOther than that it's a great mixed reality experience. But I don't feel like playing when I put in much time and effort just to be denied an end to the game",
+      "date": 1730854836,
+      "review_helpful_count": 5,
+      "author_display_name": "Ana.Sassin",
+      "author_alias": "Ana.Sassin",
+      "developer_response": {
+        "body": "Hello Ana.Sassin, thanks for your review and feedback. You can claim a win when your opponent leaves, but you don't have to close the app. It isn't authomatic, you will have to wait 30 minutes and if the other person doesn't make a move, then you win. Regardng the controllers' glitch, please send us an email to support@odderslab.com so we can give you further assistance with that!",
+        "date": 1731011203
+      }
+    },
+    {
+      "id": "553150444049425",
+      "score": 3,
+      "review_title": "Good game but...",
+      "review_description": "It's a good game.\nMixed reality is great.\nBut the main problem with this game is the online\nThere are no people playing.\nIt would be great to have a way to know how many people are online when you're playing, so you know if there are people to play online.\nIt's bad to start playing an online game and not know if there are people online or not.\nAfter 5 or 10 minutes of searching for a game, I skip the search and close the game or I just play with the AI.\n\nDevs: Please add a bar where you can see people online from anywhere and send invites to play, like in Eleven Table Tennis.\nOr also a way to know the number of current online players.",
+      "date": 1727799563,
+      "review_helpful_count": 25,
+      "author_display_name": "Duraexim",
+      "author_alias": "Duraexim",
+      "developer_response": null
+    },
+    {
+      "id": "8542502802464132",
+      "score": 5,
+      "review_title": "The best AI i ever played",
+      "review_description": "I have bought many chess computers and chess software, but the feel of playing a live A.I. has always been not good, but I played this not even on top level and it did a queen sacrifice on me. Playing real people talking and shaking hands is great. the board is better than real life. I would like to see the feature of joining virtual clubs and doing a leage like real life. BUT i would rather play this than any chess game anywhere with anyone",
+      "date": 1730263672,
+      "review_helpful_count": 8,
+      "author_display_name": "DrNoWho",
+      "author_alias": "DrNoWho",
+      "developer_response": null
+    },
+    {
+      "id": "477059838816099",
+      "score": 1,
+      "review_title": "Keeps on crashing upon loading",
+      "review_description": "error message then crashes everytime?",
+      "date": 1728693318,
+      "review_helpful_count": 5,
+      "author_display_name": "Shenfm",
+      "author_alias": "Shenfm",
+      "developer_response": {
+        "body": "Hello Shenfm, we are sorry to hear you are having this issue. Please send us an email to support@odderslab.com with more information. If you could attach a gameplay video showing the problem, that would be great.",
+        "date": 1728888973
+      }
+    },
+    {
+      "id": "440818952447005",
+      "score": 1,
+      "review_title": "Doesn't work",
+      "review_description": "Just displays a yellow sign in front of the game saying game didn't load try again, never loads.",
+      "date": 1727214076,
+      "review_helpful_count": 5,
+      "author_display_name": "3D.Mark",
+      "author_alias": "3D.Mark",
+      "developer_response": {
+        "body": "Hello 3D.Mark, we are sorry to hear you are having this issue. Please send us an email to support@odderslab.com so we can further investigate this problem. If you could attach a gameplay video showing the issue, that would be great!",
+        "date": 1727680465
+      }
+    },
+    {
+      "id": "8026607927430797",
+      "score": 1,
+      "review_title": "Booted from game error",
+      "review_description": "I wish I could love this game, but it's completely broken. Most of the time it boots me from the game just after loading into it and arriving at the main menu, and if it doesn't boot me out then, it will more than likely boot me off mid-game. I don't think I have successfully finished a single match (online OR offline) without it kicking me off the game with an error.",
+      "date": 1723396703,
+      "review_helpful_count": 3,
+      "author_display_name": "mikelounge",
+      "author_alias": "mikelounge",
+      "developer_response": {
+        "body": "We are sorry to read you are having issues with Chess Club. We have just updated our game with a new patch, so we encourage you to try again. In case you still have issues, please send us an email to info@odderslab.com so we can give you further support. Please add this information in your email: 1. Your Meta user name || 2. Your device (Meta Quest 1, 2 or 3) || 3. Your country  4. Your internet bandwidth || 5. (optional) If you could provide a gameplay video showing the problem, that would be great. We'll try to do our best to help you with this!",
+        "date": 1723462602
+      }
+    },
+    {
+      "id": "408994482287467",
+      "score": 1,
+      "review_title": "Sucks after mixed reality update",
+      "review_description": "The moment I change my room i cannot get back the chess board. I had to uninstall and reinstall. Please fix this bug on priority, I cant play any longer.",
+      "date": 1722239075,
+      "review_helpful_count": 3,
+      "author_display_name": "saurabhg",
+      "author_alias": "saurabhg",
+      "developer_response": {
+        "body": "Hi  saurabhg,as we mentioned in or previous comment, we have been working to fix this issue. Our latest update is live now, so we hope you can enjoy playing chess in MR again!",
+        "date": 1723458606
+      }
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-20T19:43:48Z"
+}

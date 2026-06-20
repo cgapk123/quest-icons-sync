@@ -1,0 +1,42 @@
+{
+  "app_id": "6420558991382261",
+  "package_name": "com.office.excel.pwa",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Microsoft Excel",
+  "rating_average": 2.2105263157895,
+  "rating_count": 19,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "528486763674748",
+      "score": 1,
+      "review_title": "I need to be able to work offline",
+      "review_description": "This is just a connection to the web version of Excel. If I wanted to work on something yesterday when I had 4 hours of downtime, I would not have been able to.",
+      "date": 1734300538,
+      "review_helpful_count": 16,
+      "author_display_name": "Morichalion",
+      "author_alias": "Morichalion",
+      "developer_response": null
+    },
+    {
+      "id": "6969192499840200",
+      "score": 1,
+      "review_title": "Sad cheap attempt",
+      "review_description": "Just a fancy shortcut to the Office365 web version.\nIf it had advantages over the use of the browser it could be somewhat forgiven. But no.. it only has disadvantages. Garbage!",
+      "date": 1704123240,
+      "review_helpful_count": 118,
+      "author_display_name": "mvoosten",
+      "author_alias": "mvoosten",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T19:45:24Z"
+}

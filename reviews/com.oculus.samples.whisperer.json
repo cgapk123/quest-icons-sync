@@ -1,0 +1,59 @@
+{
+  "app_id": "5793524130682809",
+  "package_name": "com.oculus.samples.whisperer",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Whisperer",
+  "rating_average": 2.5454545454545,
+  "rating_count": 11,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1222113699622685",
+      "score": 1,
+      "review_title": "Short",
+      "review_description": "Not my favorite shirt story",
+      "date": 1751349770,
+      "review_helpful_count": 0,
+      "author_display_name": "gailmaynard2025",
+      "author_alias": "gailmaynard2025",
+      "developer_response": null
+    },
+    {
+      "id": "746798637162809",
+      "score": 5,
+      "review_title": "Constantly innovating",
+      "review_description": "Alot of bad stuff is said about meta that clouds the good stuff they do. This is really cute, short and shows how voice commands can make for a unique experience. I'm glad a played this",
+      "date": 1678532590,
+      "review_helpful_count": 10,
+      "author_display_name": "Leadboots1",
+      "author_alias": "Leadboots1",
+      "developer_response": {
+        "body": "Thank you for trying it out! We are glad you enjoyed the experience!",
+        "date": 1699974431
+      }
+    },
+    {
+      "id": "570799945111108",
+      "score": 1,
+      "review_title": "What is the purpose of this game?",
+      "review_description": "I dont have to add much. I was not able to do anything here, as it asked me to use voice comands to do stuff but would not recognize anything I was saying.",
+      "date": 1677554545,
+      "review_helpful_count": 5,
+      "author_display_name": "Simeonski",
+      "author_alias": "Simeonski",
+      "developer_response": {
+        "body": "Hello! Could you please make sure you have Microphone enabled on your headset and have given the app Microphone permission when it asks for it on opening?",
+        "date": 1699974403
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T19:40:46Z"
+}

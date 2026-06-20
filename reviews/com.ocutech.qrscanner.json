@@ -1,0 +1,62 @@
+{
+  "app_id": "24677807858474707",
+  "package_name": "com.ocutech.qrscanner",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "QR Scanner",
+  "rating_average": 3,
+  "rating_count": 4,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "883853834801083",
+      "score": 1,
+      "review_title": "Doesn’t work as advertised",
+      "review_description": "I wasted money on this app thinking it would help…nothing",
+      "date": 1761350329,
+      "review_helpful_count": 10,
+      "author_display_name": "DilboSchwagginz",
+      "author_alias": "DilboSchwagginz",
+      "developer_response": {
+        "body": "Thank you for your review. I am sorry to hear that it did not work as expected. The app is a pass through QR scanner. Can you please tell me what exactly did not work for you? I would love to fix it and make sure it helps.",
+        "date": 1761506539
+      }
+    },
+    {
+      "id": "786424460505632",
+      "score": 5,
+      "review_title": "A \"must have\" app!",
+      "review_description": "A great application to have when your web url's takes forever to enter manually. In update v79 from meta, the issue with opening your url's in vr mode is solved. This app saves a lot of time.",
+      "date": 1755244521,
+      "review_helpful_count": 4,
+      "author_display_name": "JesperStrandberg",
+      "author_alias": "JesperStrandberg",
+      "developer_response": {
+        "body": "Thank you for the kind words and for sharing your experience.",
+        "date": 1755244746
+      }
+    },
+    {
+      "id": "1297741032072487",
+      "score": 5,
+      "review_title": "Great QR Scanner",
+      "review_description": "Good app for quick QR scanning, works smoothly. However, when opening a VR web browser page with immersive VR/360 mode, it crashes and won’t load.",
+      "date": 1756689590,
+      "review_helpful_count": 2,
+      "author_display_name": "Rahman_7",
+      "author_alias": "Rahman_7",
+      "developer_response": {
+        "body": "Thanks for the feedback. This issue is caused by a Meta Horizon OS v78 bug. It has been fixed in v79, and according to Meta Horizon developer support, v79 should be available to the public soon.",
+        "date": 1755242866
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-20T19:42:47Z"
+}
