@@ -1,0 +1,602 @@
+{
+  "app_id": "9683157651761815",
+  "package_name": "dev.retrocell.slimelab",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Slime Lab",
+  "rating_average": 4.3296703296703,
+  "rating_count": 91,
+  "review_count": 50,
+  "reviews": [
+    {
+      "id": "940997278460690",
+      "score": 5,
+      "review_title": "I love this game",
+      "review_description": "This is my new favorite game but I think there's a few things that would be cool \n\n1. A syringe to take tiny slime samples \n2. An order system so people order slime you make it then package it in a box and put it on a conveyer to send it to there house\n3. Glue to make the slime stick and get more puffy\n\nBut overall this game is 5/5 stars 🌟",
+      "date": 1773304509,
+      "review_helpful_count": 121,
+      "author_display_name": "Morax_official",
+      "author_alias": "Morax_official",
+      "developer_response": null
+    },
+    {
+      "id": "1120711834463576",
+      "score": 5,
+      "review_title": "New update",
+      "review_description": "I think the game will be so much better if their were animated animals and the new animated update will probably be so fun but I do want a day and month when the update will be out.",
+      "date": 1780543709,
+      "review_helpful_count": 7,
+      "author_display_name": "SpikyCrane1167",
+      "author_alias": "SpikyCrane1167",
+      "developer_response": null
+    },
+    {
+      "id": "1087459747775817",
+      "score": 1,
+      "review_title": "DO NOT BUY PLEASE!!! WASTE OF MONEY!!",
+      "review_description": "Game is too buggy plus if you break a color, slime, or glowing slime material, you cant get it back. I tried resetting my game but the game saves EVERYTHING so it stayed the same. Also its click bait, I looked at the example, but the game was way worse then I expected. And you phase through the wall and hand are SO buggy. The physics are literally TRASH! WARNING! I wanted a refund but went i did, I HAVE BEEN WAITING FOR 5 DAYS!!! Do NOT BUY!",
+      "date": 1775936104,
+      "review_helpful_count": 19,
+      "author_display_name": "Cardsfan25",
+      "author_alias": "Cardsfan25",
+      "developer_response": null
+    },
+    {
+      "id": "1046991141227697",
+      "score": 1,
+      "review_title": "i hate this game",
+      "review_description": "I waisted 20 ROLLERS and it keeps saying slime lab isn't responding so tried waiting it still says it i have no choice but to close it and once i hop back on it says it again bug fix it my god",
+      "date": 1781746095,
+      "review_helpful_count": 0,
+      "author_display_name": "Beckham3326",
+      "author_alias": "Beckham3326",
+      "developer_response": {
+        "body": "Hi there. Sorry to hear you're running into this issue! Could you try recreating your boundary on your headset, or switching between roomscale and stationary mode and back? Then launch the game again and see if that helps.\n\nFeel free to join our Discord and we'll be happy to help you get it sorted out: https://discord.gg/3WYn59GdDc",
+        "date": 1781766464
+      }
+    },
+    {
+      "id": "26310263568578226",
+      "score": 5,
+      "review_title": "Incredible fluid sim, and it's a game!",
+      "review_description": "I haven't served any customers since the tutorial because I am having too much fun messing with the fluid physics. This is incredible, some crazy sophisticated tech wrapped up in a fun game where you make people jars of slime - but a simple thing like 'fill a bowl of water' is elevated by the fact every particle of water in that bowl will simulate and you can pour it out and it behaves like water!",
+      "date": 1769695978,
+      "review_helpful_count": 63,
+      "author_display_name": "DavoDivide",
+      "author_alias": "DavoDivide",
+      "developer_response": {
+        "body": "Glad to hear you’re enjoying the game! Getting the fluid physics optimized to run well on standalone was one of the hardest parts of development, so it’s great to hear you’re having fun messing around with it. Thanks for your review!",
+        "date": 1769748983
+      }
+    },
+    {
+      "id": "3937860719844131",
+      "score": 5,
+      "review_title": "best slime gamee",
+      "review_description": "Its really cool and a lot of things to do with thee slime",
+      "date": 1781453788,
+      "review_helpful_count": 1,
+      "author_display_name": "ogre42",
+      "author_alias": "ogre42",
+      "developer_response": null
+    },
+    {
+      "id": "897960173264122",
+      "score": 1,
+      "review_title": "Why why slime labs",
+      "review_description": "I gave the developar 20 dolars\n\n and the app wont even open it keeps saying the app is not responding fix you goddam game i am unde age so i cant get discord pls help",
+      "date": 1775991152,
+      "review_helpful_count": 7,
+      "author_display_name": "soniceric2013",
+      "author_alias": "soniceric2013",
+      "developer_response": null
+    },
+    {
+      "id": "1191591824036550",
+      "score": 5,
+      "review_title": "I like it",
+      "review_description": "I only go in sandbox and it’s really fun and like how do I make animated slimee \nCharacters",
+      "date": 1780824586,
+      "review_helpful_count": 0,
+      "author_display_name": "Hello_1",
+      "author_alias": "Hello_1",
+      "developer_response": null
+    },
+    {
+      "id": "1036786146191103",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Though I wish you had a feature to clean the lab and make some slime that can act like symbiotes",
+      "date": 1776198437,
+      "review_helpful_count": 7,
+      "author_display_name": "Sharkattack66340",
+      "author_alias": "Sharkattack66340",
+      "developer_response": null
+    },
+    {
+      "id": "992395817286947",
+      "score": 4,
+      "review_title": "Please a Sandbox mode",
+      "review_description": "I have to say, the game is really great. It’s fun to serve customers and slowly work your way up. I would love a sandbox mode, as I’d like to create slime without any resource restrictions. Would it be possible to add this mode? Thanks! 😊☺️",
+      "date": 1770241176,
+      "review_helpful_count": 32,
+      "author_display_name": "thomas.736150",
+      "author_alias": "thomas.736150",
+      "developer_response": {
+        "body": "Thank you for the kind review! Sandbox mode is already in the works and should be out in about 1 to 1.5 weeks.",
+        "date": 1770250586
+      }
+    },
+    {
+      "id": "1465360208357850",
+      "score": 5,
+      "review_title": "Playtester review",
+      "review_description": "I had been a play tester for slimelab and was surprised with how well made the game was and it has definitely maintained that i have looked for a game like this for ages and never found it until slime lab and i have to say i am amazed with this game its so fun from serving customers to messing with the physics and letting your imagination go wild 10/10",
+      "date": 1769988333,
+      "review_helpful_count": 8,
+      "author_display_name": "topmonkevr",
+      "author_alias": "topmonkevr",
+      "developer_response": {
+        "body": "Appreciate the awesome review! We're glad to have you in our community!",
+        "date": 1770345574
+      }
+    },
+    {
+      "id": "1350451706910078",
+      "score": 5,
+      "review_title": "9.999999999999999/10",
+      "review_description": "It’s really good but the thing is i can’t use the edit Slime menu",
+      "date": 1777818606,
+      "review_helpful_count": 1,
+      "author_display_name": "TheEllisFamily2020",
+      "author_alias": "TheEllisFamily2020",
+      "developer_response": {
+        "body": "Hey, glad to hear you're enjoying the game! The slime editing menu only works in Sandbox mode, and you have to triple-grab the slime to open it. Let us know if you run into anything else!",
+        "date": 1778020545
+      }
+    },
+    {
+      "id": "941914295676042",
+      "score": 5,
+      "review_title": "Content Creator Review",
+      "review_description": "As a content creator I might say that the game is very fun and it was very satisfying playing the game. Even after finishing the recording I played little bit more for my own experience. 10/10 I didn't regret it!",
+      "date": 1769625134,
+      "review_helpful_count": 20,
+      "author_display_name": "AlexionVR",
+      "author_alias": "AlexionVR",
+      "developer_response": null
+    },
+    {
+      "id": "788891387559865",
+      "score": 5,
+      "review_title": "Slime lab beta tester here.",
+      "review_description": "This game is the coolest, most advanced vr physics lab I have seen. The best part is that it works without lag on meta quest 2, while most games freeze, this one is seamless. If you want a cool physics sandbox to mess around with the capabilities of vr, this is for you.",
+      "date": 1769633807,
+      "review_helpful_count": 12,
+      "author_display_name": "jake12143506",
+      "author_alias": "jake12143506",
+      "developer_response": {
+        "body": "Thank you so much for the review! We're glad you’re enjoying the slime physics. Also, we really appreciate you testing the game and being part of the community :)",
+        "date": 1769751598
+      }
+    },
+    {
+      "id": "1049903651534292",
+      "score": 1,
+      "review_title": "Doesn't let me play?",
+      "review_description": "Everytime I try play it, it just says \"Slime Lab isn't responding\" How to fix this?",
+      "date": 1771718811,
+      "review_helpful_count": 11,
+      "author_display_name": "grim_reaper222",
+      "author_alias": "grim_reaper222",
+      "developer_response": {
+        "body": "Hi there, sorry to hear you're experiencing this problem. Please join our Discord so we can help you resolve this issue! https://discord.gg/3WYn59GdDc",
+        "date": 1771728449
+      }
+    },
+    {
+      "id": "986010247925150",
+      "score": 5,
+      "review_title": "Highly anticipated",
+      "review_description": "My son spent months begging me to buy this game. He saw a play test on YouTube, and immediately wanted to play it himself. He hasn't played it himself yet, I tested it some, and it is enjoyable. One of the best apps Meta horizon has.",
+      "date": 1769796450,
+      "review_helpful_count": 8,
+      "author_display_name": "FerociousMitten",
+      "author_alias": "FerociousMitten",
+      "developer_response": null
+    },
+    {
+      "id": "946168251919176",
+      "score": 5,
+      "review_title": "The best game",
+      "review_description": "I was waiting for this game for so long begging my parents for it and I am  very surprised  how the slime works and all the physics the only thing that I want to add is sand box but overall great game",
+      "date": 1769804365,
+      "review_helpful_count": 8,
+      "author_display_name": "tresboys3",
+      "author_alias": "tresboys3",
+      "developer_response": null
+    },
+    {
+      "id": "1431438658564678",
+      "score": 4,
+      "review_title": "I loved the playtest",
+      "review_description": "I can say the playtest was fun but hopefully with a few more updates the game will be perfect w game",
+      "date": 1769623926,
+      "review_helpful_count": 20,
+      "author_display_name": "glumie15",
+      "author_alias": "glumie15",
+      "developer_response": null
+    },
+    {
+      "id": "1113631745163501",
+      "score": 4,
+      "review_title": "Big problem",
+      "review_description": "I do like this game but the reason it's not a five is because almost every time it doesent work even when I restarted my headset",
+      "date": 1777228297,
+      "review_helpful_count": 0,
+      "author_display_name": "leleb1218",
+      "author_alias": "leleb1218",
+      "developer_response": {
+        "body": "Hey, glad you're enjoying the game! Sorry it's been giving you trouble. A few things you can try that have helped other players in similar situations:  1) recenter your headset before launching the game by holding the Meta button, 2) recreate your boundary, or swap between roomscale and stationary (whichever you're not currently using), and 3) try reinstalling the game. Feel free to join our Discord for more help: https://discord.gg/3WYn59GdDc",
+        "date": 1777237708
+      }
+    },
+    {
+      "id": "1299098932125974",
+      "score": 5,
+      "review_title": "5 star physics",
+      "review_description": "Awesome fluid physics",
+      "date": 1775192556,
+      "review_helpful_count": 2,
+      "author_display_name": "liamiscool_21",
+      "author_alias": "liamiscool_21",
+      "developer_response": null
+    },
+    {
+      "id": "1227924822616264",
+      "score": 5,
+      "review_title": "W game",
+      "review_description": "The game has amazing slime physics, a really great community, and is just overall a fun experience. Being able to test the game before release was awesome, and the dev team is super nice. Definitely looking forward to future updates!",
+      "date": 1769630070,
+      "review_helpful_count": 4,
+      "author_display_name": "01blake",
+      "author_alias": "01blake",
+      "developer_response": {
+        "body": "Thank you for the kind words! We really appreciate you testing the game early and being part of the community. More updates on the way soon!",
+        "date": 1769657734
+      }
+    },
+    {
+      "id": "1028618973660722",
+      "score": 5,
+      "review_title": "READ DESC DEVS",
+      "review_description": "This game is incredible and i love everything but PLEASE ADD A SANDBOX MODE where there is inf money and no customers, just a mode to relax and have fun",
+      "date": 1770322599,
+      "review_helpful_count": 6,
+      "author_display_name": "RisingMysterion",
+      "author_alias": "RisingMysterion",
+      "developer_response": {
+        "body": "Thank you for the review! Sandbox mode is coming in around 1 to 1.5 weeks. Watch for the update!",
+        "date": 1770345151
+      }
+    },
+    {
+      "id": "1021868297681680",
+      "score": 5,
+      "review_title": "The best game ever",
+      "review_description": "It is so realistic and fun. I love it",
+      "date": 1775396635,
+      "review_helpful_count": 1,
+      "author_display_name": "Hungry_catty4",
+      "author_alias": "Hungry_catty4",
+      "developer_response": null
+    },
+    {
+      "id": "1019809401215345",
+      "score": 5,
+      "review_title": "Its so good but",
+      "review_description": "You should add shaving cream and clay and to beable to make slime from scratch",
+      "date": 1777922927,
+      "review_helpful_count": 2,
+      "author_display_name": "crazyrons",
+      "author_alias": "crazyrons",
+      "developer_response": null
+    },
+    {
+      "id": "921953930354058",
+      "score": 4,
+      "review_title": "just needs an inf money or sandbox mode.",
+      "review_description": "just not what i was expecting at all i saw the thing on reddit that said you would add a sandbox mode im happy and hope it isnt hard for all to make. Overall i think its great!",
+      "date": 1771452799,
+      "review_helpful_count": 2,
+      "author_display_name": "BamaLake1",
+      "author_alias": "BamaLake1",
+      "developer_response": {
+        "body": "Appreciate the feedback! Sandbox mode is coming tomorrow.",
+        "date": 1771453841
+      }
+    },
+    {
+      "id": "924848116735890",
+      "score": 5,
+      "review_title": "FIRST",
+      "review_description": "I HAVEN’T EVEN PLAYED THE GAME YET AND I ALREADY CAN TELL THAT I LOVE IT",
+      "date": 1769623549,
+      "review_helpful_count": 12,
+      "author_display_name": "penguinonvr.2024",
+      "author_alias": "penguinonvr.2024",
+      "developer_response": null
+    },
+    {
+      "id": "914317414628803",
+      "score": 5,
+      "review_title": "I love slime",
+      "review_description": "this is so skibidi, i love the mixture, and spinkle, it so fluffycoree, yayyyyyyy fluffyyy",
+      "date": 1771449111,
+      "review_helpful_count": 4,
+      "author_display_name": "xxvxoraa",
+      "author_alias": "xxvxoraa",
+      "developer_response": null
+    },
+    {
+      "id": "938527825333886",
+      "score": 5,
+      "review_title": "It’s good but",
+      "review_description": "It’s good wish you would remove the limit on how much slime we can handle it out￼￼",
+      "date": 1773678888,
+      "review_helpful_count": 1,
+      "author_display_name": "xcorpsfinderx",
+      "author_alias": "xcorpsfinderx",
+      "developer_response": null
+    },
+    {
+      "id": "1036779386173925",
+      "score": 5,
+      "review_title": "I love it!",
+      "review_description": "The game is perfect! The slime is super fun! However there Is a bug with smooth turning where when it just dosent turn. But snap Turning sucks. Exepct for that I love the game sooo much!",
+      "date": 1769861535,
+      "review_helpful_count": 3,
+      "author_display_name": "edonisgashi.2023",
+      "author_alias": "edonisgashi.2023",
+      "developer_response": {
+        "body": "Hi there! Glad to hear you're enjoying the game. Thanks for letting us know about the smooth turning issue. We're working to fix it as soon as possible!",
+        "date": 1770176816
+      }
+    },
+    {
+      "id": "1015639878292409",
+      "score": 5,
+      "review_title": "Very fun game!",
+      "review_description": "I played during the playtest, and even then it was great. The slime simulation is done very well, and the game runs super good ontop of that!! Lots of things to do and make aswell.",
+      "date": 1770309329,
+      "review_helpful_count": 2,
+      "author_display_name": "raYne1527",
+      "author_alias": "raYne1527",
+      "developer_response": {
+        "body": "Thank you so much for the kind words! It means a lot to have you in our community :)",
+        "date": 1770344925
+      }
+    },
+    {
+      "id": "890527653912159",
+      "score": 5,
+      "review_title": "Best. Game. Ever!",
+      "review_description": "I have barely played this as of writing this but im soo happy its finally out",
+      "date": 1769682527,
+      "review_helpful_count": 6,
+      "author_display_name": "leoreed3425",
+      "author_alias": "leoreed3425",
+      "developer_response": null
+    },
+    {
+      "id": "1268805019640528",
+      "score": 5,
+      "review_title": "Best, physics game",
+      "review_description": "This has the best slime physics in the whole entire world bro but can you add multiplayer please please please please",
+      "date": 1780495479,
+      "review_helpful_count": 0,
+      "author_display_name": "kylenthedude2017",
+      "author_alias": "kylenthedude2017",
+      "developer_response": null
+    },
+    {
+      "id": "1359672752597081",
+      "score": 1,
+      "review_title": "The slime physics aren't for me!",
+      "review_description": "Super weird physics, so not really for me. I got all excited for nothing.",
+      "date": 1769624609,
+      "review_helpful_count": 5,
+      "author_display_name": "PixelMiiVR",
+      "author_alias": "PixelMiiVR",
+      "developer_response": null
+    },
+    {
+      "id": "1218500330407857",
+      "score": 2,
+      "review_title": "fun game but way too buggy",
+      "review_description": "this will be one of my favorite games on vr cuz it's a really cool physics game but every time i try to add color it instantly just starts disappear",
+      "date": 1771345340,
+      "review_helpful_count": 0,
+      "author_display_name": "ConnorplaysVR",
+      "author_alias": "ConnorplaysVR",
+      "developer_response": {
+        "body": "Hey there, thank you so much for your review! The slime disappearing is actually intended behavior because of a performance limit, so try keeping the sink closed so it doesn't replace the slime you already have. When the limit is reached, new slime replaces the old. If you’re still seeing issues or have any questions, please join our Discord so we can help you out! https://discord.gg/3WYn59GdDc",
+        "date": 1771364254
+      }
+    },
+    {
+      "id": "1178390067794038",
+      "score": 5,
+      "review_title": "LOVE IT",
+      "review_description": "I love how If you put your slime in a jar and leave the game and rejoin ITS STILL THERE you should  buy it 😆￼",
+      "date": 1769800760,
+      "review_helpful_count": 3,
+      "author_display_name": "B3ardedMrclean",
+      "author_alias": "B3ardedMrclean",
+      "developer_response": null
+    },
+    {
+      "id": "966220233247007",
+      "score": 5,
+      "review_title": "It’s the best",
+      "review_description": "The game is so fun you can create slime that you didn’t know existed 5 ⭐️",
+      "date": 1770530296,
+      "review_helpful_count": 3,
+      "author_display_name": "ClayDragon",
+      "author_alias": "ClayDragon",
+      "developer_response": null
+    },
+    {
+      "id": "1556007195699504",
+      "score": 5,
+      "review_title": "SOOOO FUN!!",
+      "review_description": "Game of satisfying and took this dress off and got to mess around so much",
+      "date": 1769628454,
+      "review_helpful_count": 4,
+      "author_display_name": "lcdugan331",
+      "author_alias": "lcdugan331",
+      "developer_response": {
+        "body": "Thank you for sharing! It's great to hear the game helped take some stress off. We are happy you enjoyed it :)",
+        "date": 1769657888
+      }
+    },
+    {
+      "id": "952286177967482",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "I liked the game, but I really want the game to have the Russian language. I wish the developers good luck in developing the game.",
+      "date": 1769636013,
+      "review_helpful_count": 2,
+      "author_display_name": "CosmicTuna8940",
+      "author_alias": "CosmicTuna8940",
+      "developer_response": {
+        "body": "Thank you for your kind words and support! More languages are coming, and Russian is definitely one of our priorities.",
+        "date": 1769640895
+      }
+    },
+    {
+      "id": "1032556879930738",
+      "score": 2,
+      "review_title": "wasn’t the game for me",
+      "review_description": "i love the physics of the game but after every two days the game resets me for no reason",
+      "date": 1769978314,
+      "review_helpful_count": 2,
+      "author_display_name": "SnowyLeopardx2",
+      "author_alias": "SnowyLeopardx2",
+      "developer_response": {
+        "body": "Hey, thanks for the feedback! We're happy you like the slime physics. The reset sounds like a bug and we’re fixing it. Please join our Discord so we can help you out!\nhttps://discord.gg/3WYn59GdDc",
+        "date": 1769979926
+      }
+    },
+    {
+      "id": "877805808341209",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Great",
+      "date": 1769630165,
+      "review_helpful_count": 5,
+      "author_display_name": "matty",
+      "author_alias": "matty",
+      "developer_response": null
+    },
+    {
+      "id": "1058172377379226",
+      "score": 4,
+      "review_title": "Lots of fun… but….",
+      "review_description": "This game has been fun so far, but the one thing that’s been driving me crazy is there’s no way to close the store or anything so if I want to play independent from orders there’s just someone staring at me while I move around.",
+      "date": 1776583994,
+      "review_helpful_count": 0,
+      "author_display_name": "EllaCinders333",
+      "author_alias": "EllaCinders333",
+      "developer_response": {
+        "body": "Hey, thanks for the feedback! Being able to open/close the store whenever you want is a great suggestion. We've added it to our list and will get it into a future update.",
+        "date": 1777238286
+      }
+    },
+    {
+      "id": "1038400546017192",
+      "score": 5,
+      "review_title": "Honestly my new favorite game",
+      "review_description": "Its super fun",
+      "date": 1769731461,
+      "review_helpful_count": 3,
+      "author_display_name": "00rainy00",
+      "author_alias": "00rainy00",
+      "developer_response": null
+    },
+    {
+      "id": "943946948803989",
+      "score": 5,
+      "review_title": "So fun",
+      "review_description": "This game was so fun. I’ve been waiting for this forever",
+      "date": 1769710376,
+      "review_helpful_count": 2,
+      "author_display_name": "BubblyAlpaca7533",
+      "author_alias": "BubblyAlpaca7533",
+      "developer_response": null
+    },
+    {
+      "id": "1001469736379747",
+      "score": 5,
+      "review_title": "amazing game",
+      "review_description": "This game is soo soo, fun you should definetly buy it",
+      "date": 1770064540,
+      "review_helpful_count": 1,
+      "author_display_name": "MIA_THE_B4DDIE",
+      "author_alias": "MIA_THE_B4DDIE",
+      "developer_response": null
+    },
+    {
+      "id": "1498033978552838",
+      "score": 3,
+      "review_title": "Gg",
+      "review_description": "Good fou 1 mint",
+      "date": 1769669491,
+      "review_helpful_count": 1,
+      "author_display_name": "DaZombieGod",
+      "author_alias": "DaZombieGod",
+      "developer_response": null
+    },
+    {
+      "id": "912152101698405",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "Best game ever",
+      "date": 1775504111,
+      "review_helpful_count": 1,
+      "author_display_name": "Dane1021",
+      "author_alias": "Dane1021",
+      "developer_response": null
+    },
+    {
+      "id": "1062421533616953",
+      "score": 3,
+      "review_title": "Only fun for a few minutes",
+      "review_description": "I was playing it for a while aka an hour and it gets boring and bad the game is one made for a few minutes",
+      "date": 1771667406,
+      "review_helpful_count": 0,
+      "author_display_name": "justthesamething",
+      "author_alias": "justthesamething",
+      "developer_response": null
+    },
+    {
+      "id": "925408977330635",
+      "score": 5,
+      "review_title": "i love this game so much",
+      "review_description": "I watched this video on slime lab and then i put it in my wishlist now when i was playing the game it was so fun i always wanted to make slime.",
+      "date": 1769964480,
+      "review_helpful_count": 1,
+      "author_display_name": "Aadya",
+      "author_alias": "Aadya",
+      "developer_response": null
+    }
+  ],
+  "total": 48,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-21T08:44:55Z"
+}

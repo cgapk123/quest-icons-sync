@@ -1,0 +1,67 @@
+{
+  "app_id": "7533875049973382",
+  "package_name": "de.nitwel.immersivehome",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Immersive Home",
+  "rating_average": 2.6,
+  "rating_count": 10,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "421744247681161",
+      "score": 4,
+      "review_title": "Virtual Home",
+      "review_description": "Has the potential to be really great. You first need to go into home assistant create an API key, then use the IP address for your home assistant. Next you create rooms. After you create rooms you can then start adding devices. It gives an Iron Man virtual experience vibes. Improvements would be with anchoring: when you create a room it doesn't pre-load into the previous spot. Sometimes I experienced crashes to home assistant so I used a separate home assistant device then that experienced crashes, and it required power down. This app has makings of something spectacular once the anchoring is adjusted and more capabilities get added such as different types of switches, more customization,  and maybe even adding garage doors and cars to make it a full immersive experience",
+      "date": 1724449671,
+      "review_helpful_count": 23,
+      "author_display_name": "xllr8ing",
+      "author_alias": "xllr8ing",
+      "developer_response": null
+    },
+    {
+      "id": "364817300051732",
+      "score": 3,
+      "review_title": "Has Potential",
+      "review_description": "I have been using home assistant for about 5 years now so thought this would be a simple addition to my current setup, add a room here, add a room there, devices in and....stop. I added my first room no problem, then adjusted the reference as they did in their video and then my room became completely skewed and miles away in the distance and with those wee tiny white dots you have for pointers, it's impossible to get the room corners back. So you try to delete the room...mmm..can't do that as there's no option for that. Erase data, start again. Nope. Although it doesn't show the room, for some reason when you go to create a new room, you can no longer add any starting points in. Erase app data, reconnect, add first room, and repeat. That was my final call. I really like the potential of this app, but developers please note the following: 1) Change that tiny little white pointer to something you can actually see. 2) After creating a room and then changing the reference point, the room scale and points get lost. Create a more stable workflow for people to follow. 3) Make a button that allows you to delete a room after it's been created. I look forward to coming back to futher developments and will be happy to provide more feedback once I can get it working properly. I'm using a Quest 3.",
+      "date": 1721448419,
+      "review_helpful_count": 11,
+      "author_display_name": "UpTheJapsEye",
+      "author_alias": "UpTheJapsEye",
+      "developer_response": null
+    },
+    {
+      "id": "7494459613994172",
+      "score": 5,
+      "review_title": "Early but amazing",
+      "review_description": "This app is very hard to use. However, it's extremely futuristic, nerdy, and amazing. It's something you'd see in \"WIRED\" magazine 20 years ago. Needs some major UI/UX love - I would recommend holding off if you aren't willing to put up with some frustration. But if you want to support a cool project that has massive potential - this is it",
+      "date": 1715108840,
+      "review_helpful_count": 9,
+      "author_display_name": "buyvalve",
+      "author_alias": "buyvalve",
+      "developer_response": null
+    },
+    {
+      "id": "926347995542861",
+      "score": 1,
+      "review_title": "Complete trash",
+      "review_description": "Trash app unless your a genius. No tutorials. Had to Google everything to get nowhere. Can't get a refund. Stay away!",
+      "date": 1708652362,
+      "review_helpful_count": 1,
+      "author_display_name": "M_Mcfly1982",
+      "author_alias": "M_Mcfly1982",
+      "developer_response": {
+        "body": "Sorry for the rough experience, I would love to help you out getting it working, but without any information on what didn't work, that will be very difficult. Please join our discord https://discord.gg/VD8Q8qWgAC or report your problems on GitHub https://github.com/Nitwel/Immersive-Home so I can sort them out.",
+        "date": 1709825084
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T08:41:04Z"
+}

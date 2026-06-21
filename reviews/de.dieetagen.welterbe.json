@@ -1,0 +1,109 @@
+{
+  "app_id": "8044125858987472",
+  "package_name": "de.dieetagen.welterbe",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "UNESCO World Heritage sites in Germany",
+  "rating_average": 4.0869565217391,
+  "rating_count": 23,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "723562100851094",
+      "score": 3,
+      "review_title": "How to enter the portal?",
+      "review_description": "This looks like a great up. I like the experience when you open the app. However, I‘m struggling using it. I managed to find the portal after reading the developer‘s answer to a review: you only have to turn round. But so far I haven‘t managed to open the portal by tipping it with a „finger“. It‘s a shame - I really would have liked to use the app. I am using an Oculus Quest 2 headset.",
+      "date": 1758265223,
+      "review_helpful_count": 1,
+      "author_display_name": "JumpingSquirrel2825",
+      "author_alias": "JumpingSquirrel2825",
+      "developer_response": {
+        "body": "Dear JumpingSquirrel2825,\n\nthank you for your feedback and for your positive words about the app’s atmosphere. We’re sorry to hear that opening the portal has been confusing. The portal is visible from the start, but it can only be opened once you have selected a World Heritage Site on the map table in front of you and pressed the “Start” button. After that, you can activate the portal by pressing the red button on its door until it responds.\n\nThis interaction works on Meta Quest 3S, Meta Quest 3, Meta Quest Pro, and Meta Quest 2. We hope this helps you continue your journey through the sites, and we truly appreciate your feedback as it helps us make the app more intuitive for new users.",
+        "date": 1759298691
+      }
+    },
+    {
+      "id": "672418412632373",
+      "score": 4,
+      "review_title": "Distorted image",
+      "review_description": "I really like this app, but some of the 360-degree images seem a bit distorted. I'm not sure what's causing it",
+      "date": 1754534668,
+      "review_helpful_count": 0,
+      "author_display_name": "vito63350",
+      "author_alias": "vito63350",
+      "developer_response": {
+        "body": "Dear vito63350,\n\nthank you for taking the time to share your feedback. We’re glad to hear that you enjoy the app overall. Regarding the distorted appearance of some 360-degree images, this can occasionally occur depending on the capture angle or display settings of the headset.\n\nWe are actively working on improvements to optimize the visual quality and make the experience as authentic as possible. Your input is valuable in helping us enhance the app, and we truly appreciate you bringing this to our attention.",
+        "date": 1759298112
+      }
+    },
+    {
+      "id": "602212996319742",
+      "score": 1,
+      "review_title": "Keep looking",
+      "review_description": "Of all the beautiful places in Germany they picked the worst and most boring in this app.",
+      "date": 1750077334,
+      "review_helpful_count": 0,
+      "author_display_name": "FluffyPossum2203",
+      "author_alias": "FluffyPossum2203",
+      "developer_response": {
+        "body": "Dear FluffyPossum2203,\n\nthank you for taking the time to leave feedback. We’re sorry to hear that the selection of sites did not meet your expectations. Our app showcases all 54 UNESCO World Heritage Sites in Germany, as officially designated, with the goal of offering a diverse and educational experience across cultural and natural heritage.\n\nWe are continuously working to improve the experience and appreciate your input. If you have suggestions for how the presentation of certain sites could be made more engaging, we’d love to hear them!",
+        "date": 1750743979
+      }
+    },
+    {
+      "id": "1339518310501396",
+      "score": 5,
+      "review_title": "Great experience!",
+      "review_description": "Very cool app that offers an immersive experience of the many UNESCO World Heritage Sites in Germany. The walk through the spacy gate is impressive. You learn something about the very different sights and can also prove your knowledge in a quiz.\nThe great thing is that you can not only experience it on your own, but also invite friends to experience it at the same time.",
+      "date": 1741540186,
+      "review_helpful_count": 12,
+      "author_display_name": "Germany360",
+      "author_alias": "Germany360",
+      "developer_response": null
+    },
+    {
+      "id": "590509844147268",
+      "score": 4,
+      "review_title": "Where is the portal",
+      "review_description": "Love the promise of this app. I initially struggled to find the portal, but with a larger boundary a huge portal turned up. You do need quite a bit of space to make use of this app. Once you are in the content is good, but could do with a bit more content at the locations I have visited so far. It's a bit of a taster, so that you want to go and visit the locations IRL.",
+      "date": 1741925426,
+      "review_helpful_count": 3,
+      "author_display_name": "jennie5661",
+      "author_alias": "jennie5661",
+      "developer_response": {
+        "body": "Dear jennie,\n\nthe portal is placed behind you when you start the app. To open it, you have to press the door button with your hand or a finger.\n\nWe hope we have helped you and hope you enjoy trying it out :)",
+        "date": 1741876143
+      }
+    },
+    {
+      "id": "991241619609468",
+      "score": 5,
+      "review_title": "Wow",
+      "review_description": "This app is amazing with a clever design. It feels like magic to travel to Germany's heritage sites. Highly recommended.",
+      "date": 1741397180,
+      "review_helpful_count": 4,
+      "author_display_name": "pmak111",
+      "author_alias": "pmak111",
+      "developer_response": null
+    },
+    {
+      "id": "586911887839645",
+      "score": 5,
+      "review_title": "Well done!",
+      "review_description": "Impressive app to experience UNESCO World Heritage Sites in Germany. Nice features and fascinating panoramas of these very diverse sights in Germany!",
+      "date": 1741611740,
+      "review_helpful_count": 2,
+      "author_display_name": "Travelfriend",
+      "author_alias": "Travelfriend",
+      "developer_response": null
+    }
+  ],
+  "total": 7,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T08:39:01Z"
+}

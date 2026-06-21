@@ -1,0 +1,34 @@
+{
+  "app_id": "8994666627252273",
+  "package_name": "de.tdqr.tdqrplus.vr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "3DQR VR",
+  "rating_average": 3.6666666666667,
+  "rating_count": 3,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1260053122553528",
+      "score": 1,
+      "review_title": "",
+      "review_description": "I can't change the language from German to English",
+      "date": 1763134987,
+      "review_helpful_count": 0,
+      "author_display_name": "Juanone57",
+      "author_alias": "Juanone57",
+      "developer_response": {
+        "body": "Thank you for your feedback, we will take a closer look at the issue.  \nWe are currently still in the early access phase, so it is possible that not all parts of the app have been fully localised yet. However, most of the app can be switched between German and English as intended via the bottom menu → Settings → Language, as confirmed by our internal tests.\n\nWe are constantly working on improvements, so feedback is very valuable and important to us and helps us to continuously improve our app.",
+        "date": 1765188676
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T08:43:28Z"
+}

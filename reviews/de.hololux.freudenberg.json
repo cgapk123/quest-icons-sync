@@ -1,0 +1,53 @@
+{
+  "app_id": "1241475759300805",
+  "package_name": "de.hololux.freudenberg",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Freudenberg Virtual Reality",
+  "rating_average": 2.5,
+  "rating_count": 12,
+  "review_count": 12,
+  "reviews": [
+    {
+      "id": "2138962572911344",
+      "score": 5,
+      "review_title": "Pretty cool.",
+      "review_description": "A better and more varied product demonstration than most I've seen.",
+      "date": 1632505574,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "842011895956568",
+      "score": 1,
+      "review_title": "Pointless",
+      "review_description": "Ok, so this company is specialized in innovation, pioneering in many engineering fields. Nice. But this app is just a bunch of low quality 2D 360 images poorly showcasing their products (and to the wrong audience I presume...). Pointless.",
+      "date": 1493402253,
+      "review_helpful_count": 19,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": null
+    },
+    {
+      "id": "314832988977799",
+      "score": 1,
+      "review_title": "Lame",
+      "review_description": "Not worth the storage..If they only had negative stars",
+      "date": 1501303879,
+      "review_helpful_count": 2,
+      "author_display_name": "dodin",
+      "author_alias": "dodin",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T08:40:37Z"
+}
