@@ -1,0 +1,42 @@
+{
+  "app_id": "25117638571215627",
+  "package_name": "com.supercollider.TapeMeasureAR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Tape Measure AR",
+  "rating_average": 2.4,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1425886085035590",
+      "score": 1,
+      "review_title": "Rip-off?",
+      "review_description": "Just seems like a bad rip-off of the app MultiMeasure which does a lot more.",
+      "date": 1733187257,
+      "review_helpful_count": 0,
+      "author_display_name": "Riiich",
+      "author_alias": "Riiich",
+      "developer_response": null
+    },
+    {
+      "id": "1260322398541750",
+      "score": 4,
+      "review_title": "Requires 2 controllers",
+      "review_description": "I tested this app with an item of known size and it gets the dimensions correct, but I found the controls of this app very counterintuitive. It should probably work with a single controller and at a distance. You can only measure things within arms reach.",
+      "date": 1728335380,
+      "review_helpful_count": 2,
+      "author_display_name": "JohnIsInVR",
+      "author_alias": "JohnIsInVR",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T01:57:29Z"
+}

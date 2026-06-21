@@ -1,0 +1,963 @@
+{
+  "app_id": "8899809286723631",
+  "package_name": "com.studioX.vivarium",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Vivarium",
+  "rating_average": 4.1640625,
+  "rating_count": 128,
+  "review_count": 80,
+  "reviews": [
+    {
+      "id": "999699386054839",
+      "score": 1,
+      "review_title": "Wtf",
+      "review_description": "This app sits in pitch black after it shows logo and then just ember dots floating around..I uninstalled and reinstalled twice and same thing .it worked when got it awhile back smh wasted money on something that don't play now not sure why ..be warned people",
+      "date": 1775940134,
+      "review_helpful_count": 7,
+      "author_display_name": "Jamestown1969",
+      "author_alias": "Jamestown1969",
+      "developer_response": null
+    },
+    {
+      "id": "1104170432774413",
+      "score": 4,
+      "review_title": "Glitch Fixed, Game Playable Again",
+      "review_description": "A while ago this game was having a glitch where it wouldn’t launch. As of May 29, 2026 the game is now working again",
+      "date": 1780097346,
+      "review_helpful_count": 21,
+      "author_display_name": "J_the_Rockstar",
+      "author_alias": "J_the_Rockstar",
+      "developer_response": null
+    },
+    {
+      "id": "1062359266968714",
+      "score": 1,
+      "review_title": "Literally unplayable",
+      "review_description": "I enjoyed this game the few times that I played it. Now, it will not get past the loading screen. Other reviews saying the same thing for over a month have me worried…",
+      "date": 1778449542,
+      "review_helpful_count": 2,
+      "author_display_name": "AdventureReady",
+      "author_alias": "AdventureReady",
+      "developer_response": null
+    },
+    {
+      "id": "1223271496666926",
+      "score": 5,
+      "review_title": "Huge potential! Great game",
+      "review_description": "Love this game but you all should definitely utilize the assets and technology to make a vr exotic pet simulator game where people have to check in and take care of their pets every day and watch them grow in a somewhat realistic timeline, while earning points to upgrade the enclosures overtime.",
+      "date": 1771634138,
+      "review_helpful_count": 10,
+      "author_display_name": "holavan",
+      "author_alias": "holavan",
+      "developer_response": null
+    },
+    {
+      "id": "1110016732187822",
+      "score": 1,
+      "review_title": "Cant play",
+      "review_description": "You cant play this F*ck*ng game because it doesnt let you load",
+      "date": 1776588665,
+      "review_helpful_count": 6,
+      "author_display_name": "Gamingcarnotaurus",
+      "author_alias": "Gamingcarnotaurus",
+      "developer_response": null
+    },
+    {
+      "id": "999761962570364",
+      "score": 1,
+      "review_title": "Not loading",
+      "review_description": "Devs gave up on this...unplayable now..",
+      "date": 1778690387,
+      "review_helpful_count": 2,
+      "author_display_name": "suepenny",
+      "author_alias": "suepenny",
+      "developer_response": null
+    },
+    {
+      "id": "1648567546478280",
+      "score": 1,
+      "review_title": "Sorry I bought it still, with UPDATE",
+      "review_description": "IDK what is wrong with this game. I have a quest 3. This game is an  unrelaxing frustrating thing to play. I love sandbox games. I came on to read reviews to see what I can do but found nothing. I’m spending 20 minutes trying to put one plant planted. After a hour I just gave up. I want to relax. I’ll try again tomorrow, but I’m mad and exhausted. UPDATE: I tried again days later, quit after 1 hour again. It is 90% glitching. None of my other games do this. I read the instructions, very ambiguous instructions.",
+      "date": 1774808046,
+      "review_helpful_count": 0,
+      "author_display_name": "leasgayle",
+      "author_alias": "leasgayle",
+      "developer_response": null
+    },
+    {
+      "id": "1105177952680351",
+      "score": 2,
+      "review_title": "Vivariun",
+      "review_description": "Good game but you need to sort out the glitches don't even load now 👎👎👎🥺",
+      "date": 1776253428,
+      "review_helpful_count": 4,
+      "author_display_name": "daddyb2469",
+      "author_alias": "daddyb2469",
+      "developer_response": null
+    },
+    {
+      "id": "967279013146267",
+      "score": 5,
+      "review_title": "I love it but please Add some more",
+      "review_description": "I would wish thath there wer Like iguanas and some snakes and climbi thigees and pls add so thath you could combine Both water and Land cause thath would be cool with Like frogs Bye beitifull Game",
+      "date": 1774988085,
+      "review_helpful_count": 0,
+      "author_display_name": "frenchgato2707",
+      "author_alias": "frenchgato2707",
+      "developer_response": null
+    },
+    {
+      "id": "902099512994303",
+      "score": 4,
+      "review_title": "Very cool",
+      "review_description": "I really like animals, this games really cool and very realistic, they gameified the growth period but i dont mind it, id give it five stars but there simply isnt enough animals. In the perfect version id love if there were more reptiles like snakes or larger lizards, or even smaller mammals like rodents and maybe even birds.\nAmazing game though!!",
+      "date": 1767480061,
+      "review_helpful_count": 8,
+      "author_display_name": "Pogo98969",
+      "author_alias": "Pogo98969",
+      "developer_response": null
+    },
+    {
+      "id": "1621370429022344",
+      "score": 1,
+      "review_title": "Way to complicated",
+      "review_description": "I`ve built many aquascapes and vivariums in real life. All I want to do is build and have a relaxing time. I don`t want any gameification. Just let me build with every piece of hardscape and plant availible from the get go. No silly budgets. And skip all the rooms you have to navigate through.",
+      "date": 1766440486,
+      "review_helpful_count": 5,
+      "author_display_name": "backstuguson",
+      "author_alias": "backstuguson",
+      "developer_response": {
+        "body": "Thank you for your honest feedback. We hoped the design would give users more to do, but understand how it can be unnecessary to some players. I'm not sure this constitutes a one star for the overall experience, but we understand if the design made you feel that way. Hopefully the variety of plants and pets made it interesting, including the aquariums you can create after level 3. \n\n- Best from the Vivarium Team",
+        "date": 1766481056
+      }
+    },
+    {
+      "id": "789840584220649",
+      "score": 5,
+      "review_title": "Looks good but can’t do anything",
+      "review_description": "Looks amazing from what I’ve seen in store, but I cannot progress more than a few minutes as it presents with a flower and frog to place in vivarium, I do this and nothing happens just a black room with this one viv and nothing happens, am I doing something wrong devs or is a glitch.",
+      "date": 1761336726,
+      "review_helpful_count": 12,
+      "author_display_name": "Sharky_Vr75",
+      "author_alias": "Sharky_Vr75",
+      "developer_response": null
+    },
+    {
+      "id": "878960355293824",
+      "score": 5,
+      "review_title": "Very relaxing",
+      "review_description": "I initially left a bad review due to the game breaking soon after the purchase, but the developers seem to have fixed it and I'm enjoying the game again.  This is a very relaxing title, kind of meditative.  I really enjoy it.  Thank you!",
+      "date": 1761661657,
+      "review_helpful_count": 7,
+      "author_display_name": "brostudios.2024",
+      "author_alias": "brostudios.2024",
+      "developer_response": {
+        "body": "UPDATE: The issue should now be resolved. Please check that you can access the game again, and let me know if the issue persists.\n\nHi, there! We checked and don't see any server-wide issues, so could you please share your Meta ID to: viva@doubleme.me and we will look into your specific situation.\n\nWe are currently looking into the cause of connectivity issues, and will update as soon as possible.",
+        "date": 1761636463
+      }
+    },
+    {
+      "id": "840465111858357",
+      "score": 1,
+      "review_title": "Unstable Internet connection.",
+      "review_description": "I can't even say if I like this or not. I paid for it, went to try it and it keeps saying I have an unstable Internet connection and need to restart the game. Cant get past that. Its not even showing in my library. I need to go to the app store to get to the button that says start. \nCome on Devs. I have paid for this, sort it out please. A response would be nice as I can see others are having this issue too.",
+      "date": 1761599711,
+      "review_helpful_count": 1,
+      "author_display_name": "Andy060777",
+      "author_alias": "Andy060777",
+      "developer_response": {
+        "body": "11/10/25: Please let us know if you have any other issues, as all other issue reports have been resolved.\n\nUPDATE: The issue is now resolved. Please check that you can access the game again, and let us know if the issue persists. We hope you can reflect the changes in your review.\n\nORIGINAL:\nThank you for your message! Because the issue is not apparent after our developers checked possible causes, it will take some time to locate the problem causing widespread connectivity issues. We will contact you ASAP once the solution has been found!\n\n- Vivarium Team",
+        "date": 1762759976
+      }
+    },
+    {
+      "id": "748970091637430",
+      "score": 5,
+      "review_title": "Vivarium Update  - now running fine.",
+      "review_description": "As much as I would like to play the game I'm stuck at an impasse as all I get on start up is a Vivarium with 2 items a frog and a flower. The atmosphere eventually becomes polluted and that's it. No information screen no choice of base i.e. rock  or grass.\n  When I first played it I was given the option where to place my tank in the room but now this doesn't appear at all. I really want to enjoy the game but obviously can't. Please help\n\nThanks to the developers quick response and help now running fine so now 5 stars.",
+      "date": 1757055461,
+      "review_helpful_count": 7,
+      "author_display_name": "ben.turpin.0.2025",
+      "author_alias": "ben.turpin.0.2025",
+      "developer_response": null
+    },
+    {
+      "id": "815135548355912",
+      "score": 4,
+      "review_title": "Good but a few flaws!",
+      "review_description": "I like the premise, the tank building is very fun with a nice selection of materials. \n\nHowever, I have some comments.\n\n1. I'd like to see the decrease of AI assets, specifically the auction layout. I understand it's convenient and free but it really does take away from the experience, looks tacky and doesnt fit  the game, a shadow of a person would look way better, id even offer to help make assets as an artist! (This is my main issue with the game)\n\n2. I'd love to see more freedom in the terraforming, allow for higher mounds, and maybe an update where you can terraform the back of the tank or add backgrounds.\n\n3. While the selection of animals and animals is nice, I would love to see more, especially invertebrates such as crabs, arachnids, and insects. Especially given there's so much variety in decor yet I feel very few matching animals.\n\n4. Some reworking to how you to place items, i found it hard to place some items, especially the light, as it doesn't snap to where it can be placed.\n\nI can't wait to see where this game goes!",
+      "date": 1762394293,
+      "review_helpful_count": 2,
+      "author_display_name": "Phytosexual",
+      "author_alias": "Phytosexual",
+      "developer_response": {
+        "body": "The issue should now be resolved. Please check that you can access the game again, and let me know if the issue persists.",
+        "date": 1761636450
+      }
+    },
+    {
+      "id": "699618403224965",
+      "score": 5,
+      "review_title": "A Peaceful Little World on My Desk",
+      "review_description": "I played Vivarium on my meta quest headset, and it honestly blew me away.\nIt’s such a peaceful, feel-good experience—building my own little world and watching it come to life was surprisingly calming.\nThe mixed reality mode is a real highlight. Seeing my terrarium on my real desk made it feel like a tiny, living universe right in front of me.\nIf you have a meta quest and want something relaxing and creative, this is 100% worth checking out.",
+      "date": 1748219608,
+      "review_helpful_count": 99,
+      "author_display_name": "ravi.kim",
+      "author_alias": "ravi.kim",
+      "developer_response": null
+    },
+    {
+      "id": "711521322051794",
+      "score": 5,
+      "review_title": "No way to change the height?",
+      "review_description": "I can't play the game because there is no way to change the height, so I can't reach anything as it's all waaaay too low. Disappointing.\n\n\nEdit - okay, thank you for letting me know! I did Google first but couldn't find anything. Thank you :) review changed to reflect that.",
+      "date": 1755369698,
+      "review_helpful_count": 2,
+      "author_display_name": "liquidcactus",
+      "author_alias": "liquidcactus",
+      "developer_response": {
+        "body": "Hello liquidcactus,\n\nIf you lift your left wrist you will see a menu appearing in your arm.\nSelect the Settings there and you will find the options to change the height.\n\nLet us know if you have any other problem.\n\nBest,\nVivarium Team",
+        "date": 1755360156
+      }
+    },
+    {
+      "id": "792387783947785",
+      "score": 5,
+      "review_title": "Love love love",
+      "review_description": "I don’t even know how many hours I’ve spent on this game. It’s relaxing and fun. Easy to pick up and endless possibilities for terrariums and aquariums. Would be neat if at some point there was an update where you could make an aviary!!!",
+      "date": 1754872069,
+      "review_helpful_count": 2,
+      "author_display_name": "Aaronwhatwhat",
+      "author_alias": "Aaronwhatwhat",
+      "developer_response": null
+    },
+    {
+      "id": "754905861040770",
+      "score": 5,
+      "review_title": "Very calming, excellent game",
+      "review_description": "I have to say I have sunk quite a few hours in without realising it. \nGreat game \nVery calming and rewarding watching your vivarium come to life. \nAnd now I can do fish tanks even better. \nLove setting up the tank with the fish. \nGreat all round.",
+      "date": 1755976453,
+      "review_helpful_count": 1,
+      "author_display_name": "Zambezi70",
+      "author_alias": "Zambezi70",
+      "developer_response": null
+    },
+    {
+      "id": "1413153520105595",
+      "score": 4,
+      "review_title": "Good Concept",
+      "review_description": "I love the concept and atmosphere. but the user experience journey is somewhat frustrating. I can’t move it or keep it once positioned item anymore even though I’ve told that I can do in tutorial. You need to press left trigger to pass tutorial message and it was not mentioned. Tutorial comes up randomly after I skip it and in the middle of building my own vivarium. Equipments like spray is hanging in the space after using it, there is no way I can stash in my item bag. and interaction animation with those items is not natural.",
+      "date": 1747947732,
+      "review_helpful_count": 28,
+      "author_display_name": "BJ.keystone",
+      "author_alias": "BJ.keystone",
+      "developer_response": null
+    },
+    {
+      "id": "776686088401948",
+      "score": 4,
+      "review_title": "Great game just quality needs work.",
+      "review_description": "One of my top 5 games for sure just in the next coming updates they should focus on QOL.",
+      "date": 1757820246,
+      "review_helpful_count": 0,
+      "author_display_name": "Crazycamo1066",
+      "author_alias": "Crazycamo1066",
+      "developer_response": null
+    },
+    {
+      "id": "694408150416584",
+      "score": 5,
+      "review_title": "It's like a second home!",
+      "review_description": "I have been lucky to be a part of this game's amazing journey and development as a tester and player on Pico and now Quest!\n\nThere really are no words for how relaxing, fun and immersive Vivarium has been for me through emotionally tough times in my life so far. And I expect that to continue!\n\nWith the release to Quest, the game just got a huge update with Aquariums alongside the diverse variety of Vivariums! I love building naturally creative environments with the items, plants and animals so having access to a whole host of new sea life is awesome!\n\nDevelopers continue to support the game with a roadmap of brilliant new additions so I'm excited for what's to come!\n\nThank you for bringing to life such a brilliant experience in VR ❤️ \n\nIf you don't have this in your game library fellow VR enthusiasts then definitely get it right now!",
+      "date": 1747940858,
+      "review_helpful_count": 28,
+      "author_display_name": "DragonzHeartz",
+      "author_alias": "DragonzHeartz",
+      "developer_response": null
+    },
+    {
+      "id": "1078133734174569",
+      "score": 5,
+      "review_title": "Stress Relief",
+      "review_description": "This is not the type of game I normally play so when I joined the test groups I figured I would just do the bare minimum to leave some feedback. Once I started building my tanks time flew by and the stress of life would melt away. I really enjoy coming up with new designs and the calming effect it produces.",
+      "date": 1747957399,
+      "review_helpful_count": 23,
+      "author_display_name": "HillBilly_Hobbyist",
+      "author_alias": "HillBilly_Hobbyist",
+      "developer_response": null
+    },
+    {
+      "id": "834140179772032",
+      "score": 5,
+      "review_title": "Vivarium",
+      "review_description": "Learn⛱&🌞Grow w/TheTools🧬U Need😛🤙🌊Love The Updates🏝...",
+      "date": 1757553472,
+      "review_helpful_count": 0,
+      "author_display_name": "M.D.K.45s",
+      "author_alias": "M.D.K.45s",
+      "developer_response": null
+    },
+    {
+      "id": "9823527234349743",
+      "score": 5,
+      "review_title": "Don't miss Vivarium it's incredible!",
+      "review_description": "I must say this game far exceeds my expectation. It is so so much better than I imagined it to be. Lots of unluckables including different soil, plants, animals, decorations for both Vivarium and aquariums. What makes it stand out is the beautiful  graphics of the living room, huge TV, ability to auction or display your masterpieces, incredible selection of diverse music and engaging gameplay with optional simple tasks to complete and earn coins everyday. This is an absolute must play in vr and definitely worth the price.",
+      "date": 1748429920,
+      "review_helpful_count": 15,
+      "author_display_name": "vrrulezz",
+      "author_alias": "vrrulezz",
+      "developer_response": null
+    },
+    {
+      "id": "1279998530128421",
+      "score": 5,
+      "review_title": "Honestly great but…",
+      "review_description": "The game is great but I’d like some more animals (take your time) and the media player is a little annoying because when Im watching it in the planting room I pick another category (such as soil, animals, etc) and it disappears. Also I wish that it keeps your progress so when you load into another room and load it in it shows the video again but other than that this game is peak",
+      "date": 1748038236,
+      "review_helpful_count": 16,
+      "author_display_name": "Shaddowvr",
+      "author_alias": "Shaddowvr",
+      "developer_response": {
+        "body": "Hello Shaddowvr,\n\nThank you for your feedback about the media player. There is still a lot that we need to improve on that feature, but we will definitely take your point into account. As for more animals, no need to worry. We have a lot of animals coming in the next updates. Hopefully, we can bring in your favorite animal as well.\nYou can always share with us what animals you would like to see in Vivarium in our Discord server.\n\nBest regards,\nVivarium Team",
+        "date": 1748342841
+      }
+    },
+    {
+      "id": "732195279464972",
+      "score": 4,
+      "review_title": "Nice and relaxing",
+      "review_description": "Love the concept and love the execution as well as the little time challenges. But kinda wish there was more of a selection when it comes to the music. Maybe add in some classical music and some ASMR like rainfall or ocean waves.\nAlso found out that it was a storage problem that was causing the issue of the game getting stuck on the load screen. Apparently, 19GB of free space means no more storage for some weird reason.\nIn conclusion, great game but please add more soundtracks that aren't JUST jazz.",
+      "date": 1747985790,
+      "review_helpful_count": 18,
+      "author_display_name": "Shur1k3n_Arnyek",
+      "author_alias": "Shur1k3n_Arnyek",
+      "developer_response": {
+        "body": "Thank you for your review! That makes sense about the storage. We are reviewing the music options, and completely agree about the diversity of the music selection. We will meet soon and discuss future improvements to the music, including some more classical/ambient nature music. Thank you for your feedback! We will keep you updated.",
+        "date": 1747987847
+      }
+    },
+    {
+      "id": "676118762261713",
+      "score": 5,
+      "review_title": "This game is amazing",
+      "review_description": "I really like this game its so fun and so much to do there is updates constently and its just amazing i love the fact you can build with cosmetics as well",
+      "date": 1755750674,
+      "review_helpful_count": 1,
+      "author_display_name": "EdgyHawk3763",
+      "author_alias": "EdgyHawk3763",
+      "developer_response": null
+    },
+    {
+      "id": "2690506521312767",
+      "score": 5,
+      "review_title": "Vivarium - A Little VR World of Wonder",
+      "review_description": "Vivarium VR is one of the most unique and captivating experiences I’ve had in virtual reality. The world feels alive and imaginative, offering a refreshing take that stands out from the usual VR titles. While I absolutely love the concept and atmosphere, the hand controls can feel a bit wonky—especially when placing objects. I really wish there was a simple pick-up and put-down mechanic rather than the current automatic placement system, which can be a bit frustrating. That said, I’m excited to see where the devs take this next and can’t wait for future updates and new items to enhance the experience even more!",
+      "date": 1749054027,
+      "review_helpful_count": 8,
+      "author_display_name": "tobe2112",
+      "author_alias": "tobe2112",
+      "developer_response": null
+    },
+    {
+      "id": "691304220740476",
+      "score": 5,
+      "review_title": "Th most calming game ever",
+      "review_description": "I love vivarium because it is just so good loads of different animals my favourite is the rain frog 🐸 and thanks for replying to my comment on YouTube vivarium mrpug2.0.",
+      "date": 1755165638,
+      "review_helpful_count": 1,
+      "author_display_name": "riono900000",
+      "author_alias": "riono900000",
+      "developer_response": null
+    },
+    {
+      "id": "671103486085351",
+      "score": 1,
+      "review_title": "Doesn't work at all",
+      "review_description": "I can't get this app to do anything at all! All I have is a black screen and just a few objects that I can pick up. There are NO instructions of any kind showing up. None of the buttons on the controllers do anything at all. \n\nI feel like I must be missing something, but there is no support of any kind offered anywhere. Their website only has a support \"bot\", which is not helpful at all. No other way to contact them. I messaged the company on Facebook about it, and the only advice was to uninstall and reinstall the app. Which I did, and it is still the same. Useless. I will be returning this, and absolutely do not recommend.",
+      "date": 1748925603,
+      "review_helpful_count": 9,
+      "author_display_name": "LStevenson5",
+      "author_alias": "LStevenson5",
+      "developer_response": {
+        "body": "Hello LStevenson5,\n\nWe are very sorry for all the inconvenience you are experiencing.\nIt seems reinstalling the game did not solve this issue.\nOur support team will check with the devs for another possible solution for this problem, and we will reach you back as soon as possible through the same Facebook chat from before.\n\nThank you for contacting us.\nVivarium Support",
+        "date": 1748950858
+      }
+    },
+    {
+      "id": "1421798342168976",
+      "score": 5,
+      "review_title": "Relaxing Escape",
+      "review_description": "As a lover of aquariums without the space to have one anymore, this App is a gift. I can see time drifting away and losing hours creating aquariums and vivariums galore.\n\nSo far the experience has been intuitive with a simple but informative tutorial.\n\nLooking forward to more expansion from the devs in the form of more animals,fish and objects. However, there is already plenty here to start with.\n\nIf you want something easy, relaxing and involving at the end of a stressful day, this could be just what you are looking for.",
+      "date": 1749043314,
+      "review_helpful_count": 6,
+      "author_display_name": "xxSteamPunkedxx",
+      "author_alias": "xxSteamPunkedxx",
+      "developer_response": null
+    },
+    {
+      "id": "1414282623261114",
+      "score": 5,
+      "review_title": "Great Game",
+      "review_description": "The controls are fairly standard, so even though the tutorial feels a bit unhelpful, I got used to them quickly.\nIt involves growing plants in a realistic way though I’m sure that’s not all there is to it.\nI still need to play more, but it gives me the sense that I’m creating and managing a cool, personalized environment.\nThere are frequent management events, which can feel a bit annoying at times, but hey... it’s a game, so overall I’m satisfied.",
+      "date": 1748168583,
+      "review_helpful_count": 8,
+      "author_display_name": "intern989",
+      "author_alias": "intern989",
+      "developer_response": null
+    },
+    {
+      "id": "675362765315287",
+      "score": 4,
+      "review_title": "Relaxing Fun",
+      "review_description": "Once you learn the mechanics the fun really begins. There is freedom of creativity, micro tasks and adorable animals. Enough to keeping you hopping from room to room for hours while leveling up to unlock additional inventory. The tutorial could be clearer overall but especially regarding which symbols belong to which item.",
+      "date": 1748961201,
+      "review_helpful_count": 5,
+      "author_display_name": "TumbleStone",
+      "author_alias": "TumbleStone",
+      "developer_response": null
+    },
+    {
+      "id": "644236005446143",
+      "score": 3,
+      "review_title": "Conflicted",
+      "review_description": "I want to love everything about this buuuut I find it very frustrating.  Even with instructions, the movements required are not intuitive.  I was hoping to be able to play this from my recliner but you can't.  Even sitting requires you be able to spin 360 degrees as the game takes up your entire environment so not easy to play if you are in cramped quarters.  I am still trying to figure out how to make this work for me as this is my ultimate cozy type game but for now I am still on the fence.",
+      "date": 1749038958,
+      "review_helpful_count": 5,
+      "author_display_name": "Shade_Seigo",
+      "author_alias": "Shade_Seigo",
+      "developer_response": {
+        "body": "Hello Shade_Seigo,\n\nWe apologize for the delayed response to your review.\nThank you for sharing your experience with us. We are currently preparing some improvements to enhance the game experience for a more comfortable experience.\nWe hope to address some of your issues in the next few months. In the meantime, we can recommend you to adjust the height of your position in the Settings option (left-hand wrist menu) and use the thumbstick to change the camera angle for a better view of the surroundings.\n\nWe will be posting news of the upcoming improvements and new content soon.\n\nThank you for playing Vivarium.\n\nBest,\nVivarium Team",
+        "date": 1750297988
+      }
+    },
+    {
+      "id": "1147004747464158",
+      "score": 5,
+      "review_title": "So relaxing and beautiful",
+      "review_description": "Vivarium is easily one of the most captivating coolest experiences I’ve had. The visuals are absolutely great and the game combines interactive ecosystems with brilliant design elements which makes every moment feel fresh and alive.  \nThe attention to detail is incredible. From the way creatures behave to the ambient sounds and responsive environments. I love just watching everything move and evolve. it’s clear a lot of love and thought went into building this world. \nIt’s the perfect mix of art and nature and highly recommended for anyone who loves immersive experiences, nature simulations, or just wants a peaceful escape you’ll love this.",
+      "date": 1748346613,
+      "review_helpful_count": 6,
+      "author_display_name": "Magicmerlin007",
+      "author_alias": "Magicmerlin007",
+      "developer_response": null
+    },
+    {
+      "id": "1171535101324624",
+      "score": 5,
+      "review_title": "Relaxing!",
+      "review_description": "I love this game! Building is easy and there are so many items to choose from, which makes every terrarium unique. I'm not a fan of jazz, so I turn off the bg music and play my own, and I wish I had a shark for the aquarium, but other than that, this is a near-perfect VR experience. One wishlist item - it would be cool to see the ecopoints that a tank can generate when it is placed in the living room along with maybe a readout somewhere that shows how balanced the tank is in terms of contamination and purification. Currently I can only see that when building. \n\nIf you're on the fence about this app, don't wait, get it now!",
+      "date": 1748901296,
+      "review_helpful_count": 3,
+      "author_display_name": "mel.downs1",
+      "author_alias": "mel.downs1",
+      "developer_response": null
+    },
+    {
+      "id": "1075737914452618",
+      "score": 5,
+      "review_title": "The Best!!!",
+      "review_description": "I'm always looking for a relaxing, working with my hands (controllers) app, and this one is top on my list. Plus I get to show my artistic side. It has so much more than I expected. A large room for creating terrarium and aquarium, of course.  A room for growing bigger the plants and little critters. A spacious virtual living room with space to show off your vivariums, a phonograph playing background music, records for the phonograph, a way to see other players creations and more than I can cover here. I drop in often to enjoy the relaxing atmosphere and tend my terrariums and aquariums. I definitely will  recommend this one to friends.",
+      "date": 1748923225,
+      "review_helpful_count": 3,
+      "author_display_name": "RascalRonD",
+      "author_alias": "RascalRonD",
+      "developer_response": null
+    },
+    {
+      "id": "694467093299085",
+      "score": 4,
+      "review_title": "Took a minute",
+      "review_description": "Ii finally got the gist of it. It's relaxing, creative and something else to do on vr that would cost a ton in real life. Always could use more plants/animals/accessories...because we always want *more* lol.  \nFor now I'm having a blast using the ones available.",
+      "date": 1749484674,
+      "review_helpful_count": 3,
+      "author_display_name": "mamasan2025",
+      "author_alias": "mamasan2025",
+      "developer_response": null
+    },
+    {
+      "id": "2981877115333947",
+      "score": 5,
+      "review_title": "A Beautiful, Calming Experience",
+      "review_description": "I was excited for Vivarium from the moment I heard about it. It went straight on my wishlist, and I bought it the day it dropped. I’ve really enjoyed the experience so far.\n\nHighlights:\n\n🌿 The tutorial was helpful, and I got the hang of the tapping mechanics with a bit of practice.\n\n🪨 Great variety in building items—tons of moss, wood, rocks, and more to explore.\n\n🧘‍♀️ Creating in the workroom is incredibly relaxing and rewarding.\n\n💰 Daily tasks and the auction feature add purpose without pressure.\n\n🐸 Leveling up feels achievable, and unlocking aquariums early was a great milestone.\n\n\nAreas for Improvement:\n\n🪑 Seated locomotion could be smoother. More flexible camera movement or cube manipulation would help.\n\n🐸 Some animations are a bit glitchy—my frog occasionally lands outside the terrarium cube.\n\n🌱 More plant and animal variety, especially in aquariums, would keep things fresh.\n\n\nWishlist:\n\n💡 More lighting options, like fairy lights or interior glows, to enhance builds.\n\n🏡 Stronger social features—like searching for specific players’ rooms—would foster creativity and connection.\n\n🎵 More music variety. The current background tracks are all jazz; additional genres or a calm ambient loop would be appreciated.\n\n\nFinal Thoughts: Vivarium is a creative, peaceful VR experience with a lot of potential. It already offers a satisfying blend of design, challenge, and relaxation—and with a few thoughtful updates, it could become something truly exceptional.",
+      "date": 1748721071,
+      "review_helpful_count": 3,
+      "author_display_name": "LadyAlegna",
+      "author_alias": "LadyAlegna",
+      "developer_response": {
+        "body": "Hello LadyAlegna,\n\nWow, such a detailed review!!\nThank you so much!!!\n\nWe have kept notes on the areas of improvement you mentioned and your wishlist.\nAll seem to be quite feasible, so expect some news in our upcoming roadmap news in mid-June!\n\nThank you so much for your work on this review!\n\nBest,\nVivarium Team",
+        "date": 1748861749
+      }
+    },
+    {
+      "id": "1525287715871711",
+      "score": 2,
+      "review_title": "No direction but looks nice",
+      "review_description": "The game looks like it can be fun.  However, the directions are very limited and scarce.  Plus, one direction tells you to place an object in something.  But I didn't figure it out right away because the word was in  another language!  The grabbing of objects is very finicky.  It tells you to collect your reward....but from where??  I want to like this, but the lack of direction is frustrating.",
+      "date": 1759187984,
+      "review_helpful_count": 0,
+      "author_display_name": "ChasingGhosts99",
+      "author_alias": "ChasingGhosts99",
+      "developer_response": {
+        "body": "Hi, there! Thank you so much for your message as we strive to give players a pleasant experience. We are working on the language settings which causes some users to see a foreign language in the tutorial. Regarding your rewards, if you mean you opened the box to collect rewards, they are immediately available in your inventory in the Work Room where you build vivariums, so your items should pop up there. \n\nIf we could help make your experience smoother, I would like to provide you with free tokens and an immediate level up to level 3 so you can enjoy the aquarium building with premium items at no cost or extra time to you. \n\nSimply email us: viva@doubleme.me with your Meta ID and I will send you the free resources and level-up. I hope this can improve your experience! \n\nSincerely,\nVivarium Team",
+        "date": 1759295721
+      }
+    },
+    {
+      "id": "1022982766691679",
+      "score": 5,
+      "review_title": "Relaxing and well made!",
+      "review_description": "Just picked up Vivarium and I'm really enjoying it so far. The VR environments feel polished. The plant and animal care mechanics are simple but satisfying. Great for anyone looking for a peaceful VR experience",
+      "date": 1750061575,
+      "review_helpful_count": 4,
+      "author_display_name": "lefthanddeveloper",
+      "author_alias": "lefthanddeveloper",
+      "developer_response": null
+    },
+    {
+      "id": "1020048406949195",
+      "score": 2,
+      "review_title": "Frustrating",
+      "review_description": "Probavly the most frustrating game i have ever played in meta. The game is not intuitive. The guide is in no way helpful. It is frustrating. It just stops! I have no way of progressing. I dont know if the aquarium has been added yet because i cant access it but i can see the button. I really want to like it. It is my kind of gane but boy it is frustrating and annoying. And i usually end up throwing my headset off in disgust after 5 mins game play.",
+      "date": 1748761151,
+      "review_helpful_count": 3,
+      "author_display_name": "Elviras",
+      "author_alias": "Elviras",
+      "developer_response": {
+        "body": "Hello Elviras,\n\nWe are very sad to hear you have been experiencing issues in the game. Could you please contact us through our support, so we can help you out solving the issue? Where is the game stopping?\n\nSupport: vivariumsupport@doubleme.me\n\nThe aquarium option will be accessible once you have reached level 3 from the button in the workshop.\n\nThank you for reaching us out.\n\nBest regards,\nVivarium Team",
+        "date": 1748859677
+      }
+    },
+    {
+      "id": "804516461990426",
+      "score": 5,
+      "review_title": "OMG! Yes yes yes!",
+      "review_description": "I just open for my self real world terrariums, doing now my isopod kingdom and this game is perfect for me to build my design skills haha \n\nThank you devs I am really enjoy it :)",
+      "date": 1747944711,
+      "review_helpful_count": 13,
+      "author_display_name": "anablies",
+      "author_alias": "anablies",
+      "developer_response": null
+    },
+    {
+      "id": "721896140334366",
+      "score": 5,
+      "review_title": "A Work of Art",
+      "review_description": "This is such a beautiful relaxing experience. I never thought I was super creative but I’m finding maybe I have a little creativity in me after all with the endless possibilities to create. I can’t wait to see what else is in store, especially new animals .  Job well done to the Devs!",
+      "date": 1748412286,
+      "review_helpful_count": 4,
+      "author_display_name": "Lonagreen",
+      "author_alias": "Lonagreen",
+      "developer_response": null
+    },
+    {
+      "id": "713609274409474",
+      "score": 5,
+      "review_title": "Took a while but... great game.",
+      "review_description": "When I 1st started playing\n my initial thoughts were to ask for a refund but after playing it longer and after I started figuring out things I have to say this is a great game. Very relaxing and fun.",
+      "date": 1748031172,
+      "review_helpful_count": 10,
+      "author_display_name": "TroutlordTom",
+      "author_alias": "TroutlordTom",
+      "developer_response": null
+    },
+    {
+      "id": "639710222567660",
+      "score": 5,
+      "review_title": "Satisfies my creative side",
+      "review_description": "When I ran across this app it wasn’t available yet.  I added it to my wishlist and checked everyday if it was available.  I purchased it and have had no regrets.  In fact, I was so impressed by it that a gifted one to my brother because we are both into aquariams.  I get design ideas by looking at other people’s creations.  I hope that the developers will continue to add items.  It is a great idea, one that I feel will resonate with a lot of people",
+      "date": 1748546920,
+      "review_helpful_count": 3,
+      "author_display_name": "Demeul",
+      "author_alias": "Demeul",
+      "developer_response": null
+    },
+    {
+      "id": "744029084960905",
+      "score": 5,
+      "review_title": "A beautiful experience in vr",
+      "review_description": "If you had a stressful day, put on your headset and just chill, relax and completely take in the incredible experience of Vivarium.\nNothing like this exists on Quest.\nCreate your own fantasy world in a glass aquarium plants, animals, fish,  your imagination knows no bounds in this.\nForget gunslinging, forget zombie bashing, take a look at this experience and fully immerse yourself self in one of the most relaxing games ever to appear on Quest.\nBravo to the whole team.",
+      "date": 1748414072,
+      "review_helpful_count": 3,
+      "author_display_name": "GizmoDemi",
+      "author_alias": "GizmoDemi",
+      "developer_response": null
+    },
+    {
+      "id": "735449239645986",
+      "score": 5,
+      "review_title": "Awesome relaxing game",
+      "review_description": "There is one thing that I found a tad bit annoying I wanted to stop the music and listen to a yt video but I can't pause or stop the music :/",
+      "date": 1752527712,
+      "review_helpful_count": 0,
+      "author_display_name": "frogster_2326",
+      "author_alias": "frogster_2326",
+      "developer_response": {
+        "body": "Thank you so much for your review! You can mute the music in Settings by opening the menu using your left wrist. Turn your left wrist up, select Settings, and find the Audio section to Mute background music. Please let us know if you need anything else!",
+        "date": 1752544368
+      }
+    },
+    {
+      "id": "3145301602312403",
+      "score": 5,
+      "review_title": "Free Dutch Bunny only this weekend?",
+      "review_description": "Free Dutch Bunny? 10/10 best game ever",
+      "date": 1754172561,
+      "review_helpful_count": 0,
+      "author_display_name": "FastLawyer",
+      "author_alias": "FastLawyer",
+      "developer_response": null
+    },
+    {
+      "id": "744396944580068",
+      "score": 5,
+      "review_title": "I discovered a whole new world here",
+      "review_description": "I enjoy real-life vivariums as a hobby, so it's amazing and fascinating to be able to express even more imagination in the game. I'm really looking forward to future updates!",
+      "date": 1747984843,
+      "review_helpful_count": 8,
+      "author_display_name": "bricoleur1203",
+      "author_alias": "bricoleur1203",
+      "developer_response": null
+    },
+    {
+      "id": "618764581327746",
+      "score": 2,
+      "review_title": "Gave up in frustration",
+      "review_description": "This is going to be good but the tutorial is so poorly executed and the controllers are too fiddly with the points . Not a smooth experience and I have given up out of frustration. I've been playing quest 3 for a year and a half now. The first time I've dropped a game.",
+      "date": 1748104793,
+      "review_helpful_count": 3,
+      "author_display_name": "Youthio",
+      "author_alias": "Youthio",
+      "developer_response": {
+        "body": "Hello Youthio, \n\nThis is the Vivarium team.\nWe are very sorry to hear that you are having a hard time in the game.\nCould you do us a big favor and record a video showing us your struggle in the game?\nIt will be very helpful for us to see how we can improve the experience for you or if there is a bug involved.\nPlease share it with us at vivariumsupport@doubleme.me\nor through our homepage www.vivariumxr.com\n\nThank you for letting us know and we hope to have you back in Vivarium again.\n\nBest,",
+        "date": 1748108793
+      }
+    },
+    {
+      "id": "685714337754610",
+      "score": 5,
+      "review_title": "Addiction fuel",
+      "review_description": "I love building terrariums irl but this is on a whole other level in the gaming world for me, they should add Paludariums, that would be awesome.\nABSOLUTELY BEAUTIFUL",
+      "date": 1748320927,
+      "review_helpful_count": 6,
+      "author_display_name": "ashlee.120036",
+      "author_alias": "ashlee.120036",
+      "developer_response": {
+        "body": "Hello ashlee.120036,\n\nWe love building terrariums irl as well! and now aquariums too!! (although at home, mostly freshwater, no-filter aquariums)\nWe have paludariums coming in our future updates with more plants, moss, and animals that would fit a paludarium.\n\nWe will be sharing more news about the upcoming content in the next weeks.\nThank you for your review.\n\nBest,\nVivarium Team",
+        "date": 1748343054
+      }
+    },
+    {
+      "id": "24340137802239357",
+      "score": 5,
+      "review_title": "Amazing experience",
+      "review_description": "I put it on my WISHLIST and bought it right away. I've only played it for an hour but it's so much fun.",
+      "date": 1747941030,
+      "review_helpful_count": 12,
+      "author_display_name": "okmaster",
+      "author_alias": "okmaster",
+      "developer_response": null
+    },
+    {
+      "id": "2437151486657312",
+      "score": 5,
+      "review_title": "Blown away!!",
+      "review_description": "This is so relaxing and helps me with my anxiety!! The colours of the items you can use to make it perfect!! I graphics are amazing... I just can't praise this game enough!!! Thank you to makers 😊❤️😊",
+      "date": 1749506438,
+      "review_helpful_count": 2,
+      "author_display_name": "Kattygarion",
+      "author_alias": "Kattygarion",
+      "developer_response": null
+    },
+    {
+      "id": "1432082964640454",
+      "score": 5,
+      "review_title": "If I could give 1000 stars I would!",
+      "review_description": "This game is not only beautiful, relaxing, but as a professional herpetologist, I am surprised to say I can verify this game is also extremely educational and scientifically accurate. I’d love some multiplayer features so I can teach others about all these amphibians and reptiles! Looking forward to seeing you in there and your creations!",
+      "date": 1749840713,
+      "review_helpful_count": 1,
+      "author_display_name": "DreamStream",
+      "author_alias": "DreamStream",
+      "developer_response": null
+    },
+    {
+      "id": "1017437283923420",
+      "score": 5,
+      "review_title": "This is such a amazing and relaxing game",
+      "review_description": "The rabbits, turtles and other animals are cute and very easy to take care of and the flowers are so beautiful. If I could rate this a 10/10 I would. ￼",
+      "date": 1747969935,
+      "review_helpful_count": 9,
+      "author_display_name": "The_Ghost_10",
+      "author_alias": "The_Ghost_10",
+      "developer_response": null
+    },
+    {
+      "id": "649123451626093",
+      "score": 4,
+      "review_title": "",
+      "review_description": "Great game. It took me a bit of time to get hang of it 😂 . I still have a few issues with it, or it has an issue with me. 😂 I can't get into the tank in MR I did it once before. ☺ But I can have it by my side ☺ \n\nPs. I wish there were chameleons  ☺",
+      "date": 1749348172,
+      "review_helpful_count": 1,
+      "author_display_name": "Deadpoolken",
+      "author_alias": "Deadpoolken",
+      "developer_response": null
+    },
+    {
+      "id": "648211058379631",
+      "score": 5,
+      "review_title": "Relaxing!!!",
+      "review_description": "I was really impressed by this game, it's definitely relaxing and great for IRL ideas. I build vivariums for real and this gives me the ability to build as much as I want without running out of real space, lol. Just hope they add an update to be able to add water features like waterfalls. I know the game is called vivarium but being able to build a paludarium would be awesome too. 👌",
+      "date": 1748932841,
+      "review_helpful_count": 1,
+      "author_display_name": "ashesjmp",
+      "author_alias": "ashesjmp",
+      "developer_response": {
+        "body": "Hello ashesjmp,\n\nThank you for this great review! We are so happy to meet a fellow vivarium hobbyist irl. We also enjoy building vivariums in real life (currently having 3 crested geckos, 2 mourning geckos, 1 emperor newt, 1 starry night reed frog vivariums at home xD)\n\nRegarding water features and paludariums, we will add content in that direction later on once we have added a bit more fauna and flora to the regular vivarium and aquarium features. Paludariums are also so much fun and we can add a lot of freshwater elements in the game with that.\n\nWe hope you continue enjoying Vivarium and check our news coming in mid-June!\n\nBest,\nVivarium Team",
+        "date": 1748862079
+      }
+    },
+    {
+      "id": "1094153365880314",
+      "score": 4,
+      "review_title": "Relaxing",
+      "review_description": "Been waiting for this to come out.  Bought it as soon as it was released.  Very relaxing. Graphics are very well done.  I have to admit I thought you could play with the pets🤭  I do wish that you had the choice to use locomotive.  Can't wait to level up and open more animals.",
+      "date": 1748822357,
+      "review_helpful_count": 1,
+      "author_display_name": "xooKimberlyoox",
+      "author_alias": "xooKimberlyoox",
+      "developer_response": {
+        "body": "Hello xooKimberlyoox,\n\nThank you for your review.\nWe will try to introduce a bit more interaction with the pets in the next updates. As for the locomotive, I guess you mean to have an option where you can move smoothly around using the thumbstick, right? We will try to add an option for that as well in the future.\n\nWe will announce the upcoming animals and content in mid-June.\nWe hope you like what is coming, and if you have a favorite animal you would like to see in the game, please share it with us in our Discord server.\n\nBest,\nVivarium Team",
+        "date": 1748860496
+      }
+    },
+    {
+      "id": "1872151343583329",
+      "score": 5,
+      "review_title": "Beta tester became full paying customer",
+      "review_description": "My new favorite peaceful relaxing game.  Also a game I can get my Wife to play too.  The attention to detail in this title is crazy and I love how life like everything is great job",
+      "date": 1748854295,
+      "review_helpful_count": 2,
+      "author_display_name": "GoingTheDist",
+      "author_alias": "GoingTheDist",
+      "developer_response": {
+        "body": "Hello GoingTheDist,\n\nWe are very happy to hear that you joined the game from the Beta test!\nNow that we know that you and your wife play the game, we should start planning our multiplayer mode, maybe hehehe.\n\nThank you for your great support and this review! \nWe will be sharing news about the upcoming content in mid-June.\n\nBest,\nVivarium Team",
+        "date": 1748860289
+      }
+    },
+    {
+      "id": "684311557677756",
+      "score": 4,
+      "review_title": "Good but needs a bit of work",
+      "review_description": "Love this game very fun and relaxing but it can get buggy like buttons not wanting to press or my frogs flying into the stratosphere",
+      "date": 1748554459,
+      "review_helpful_count": 3,
+      "author_display_name": "PsychoMei",
+      "author_alias": "PsychoMei",
+      "developer_response": null
+    },
+    {
+      "id": "701195699735185",
+      "score": 5,
+      "review_title": "Amazing Game",
+      "review_description": "This game is very fun and relaxing expeccually if u like nature!",
+      "date": 1748032859,
+      "review_helpful_count": 7,
+      "author_display_name": "ROKE.69",
+      "author_alias": "ROKE.69",
+      "developer_response": null
+    },
+    {
+      "id": "637821029423422",
+      "score": 5,
+      "review_title": "Review",
+      "review_description": "This game is amazing for people that love animals and making invironmenta definitely underrated.",
+      "date": 1749137002,
+      "review_helpful_count": 2,
+      "author_display_name": "shadowghozt_13",
+      "author_alias": "shadowghozt_13",
+      "developer_response": null
+    },
+    {
+      "id": "700221982978254",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Straight peak",
+      "date": 1749028405,
+      "review_helpful_count": 3,
+      "author_display_name": "Gobao11",
+      "author_alias": "Gobao11",
+      "developer_response": null
+    },
+    {
+      "id": "1101932948434929",
+      "score": 5,
+      "review_title": "Love it!!!",
+      "review_description": "Had my eye on this from the first time I saw it in the store,  purchased day 1, and it by far exceeded my expectations. Can't wait for more content!",
+      "date": 1748567512,
+      "review_helpful_count": 1,
+      "author_display_name": "DaRealShady",
+      "author_alias": "DaRealShady",
+      "developer_response": null
+    },
+    {
+      "id": "590277224179006",
+      "score": 5,
+      "review_title": "Amazing game!",
+      "review_description": "Very relaxing, fun to design a little home for animals. Looking forward to what I can only imagine more awesome content coming will be. =)",
+      "date": 1748578169,
+      "review_helpful_count": 1,
+      "author_display_name": "Spartan007",
+      "author_alias": "Spartan007",
+      "developer_response": null
+    },
+    {
+      "id": "688481200462321",
+      "score": 5,
+      "review_title": "Vivarium",
+      "review_description": "Absolutely love this game, so many options to be creative.I can’t stop playing, it is so relaxing",
+      "date": 1748522844,
+      "review_helpful_count": 1,
+      "author_display_name": "Mr.Bandito",
+      "author_alias": "Mr.Bandito",
+      "developer_response": null
+    },
+    {
+      "id": "655436914320825",
+      "score": 5,
+      "review_title": "Very good game :)",
+      "review_description": "The game is very nice and there is a rather good Discord activity from the devs too. Recommended :)",
+      "date": 1748566699,
+      "review_helpful_count": 1,
+      "author_display_name": "FG_Metaverse",
+      "author_alias": "FG_Metaverse",
+      "developer_response": null
+    },
+    {
+      "id": "677837765409224",
+      "score": 5,
+      "review_title": "I love this game",
+      "review_description": "I hope they add more but it’s still really enjoying now",
+      "date": 1748516634,
+      "review_helpful_count": 1,
+      "author_display_name": "alex.jjay5110.2022",
+      "author_alias": "alex.jjay5110.2022",
+      "developer_response": null
+    },
+    {
+      "id": "683860308143542",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Awesome game!\nTry it!  You’ll like it!",
+      "date": 1748550602,
+      "review_helpful_count": 1,
+      "author_display_name": "dojo.424301",
+      "author_alias": "dojo.424301",
+      "developer_response": null
+    },
+    {
+      "id": "718649383961547",
+      "score": 5,
+      "review_title": "Overall a very pretty, soothing game",
+      "review_description": "I put this on my Wishlist the day it came up on Meta. I have been watching the reviews and it not often you see the review average go up after a couple of days so I bought the game and gave my sister the referral coupon.\nSome of the controls are a bit hard to get a feel for but I was ready for that. I feel like I am smacking that poor critter's head into the dirt trying to get his menu to come up (which I have not been able to do since the tutorial).\nI also wish I knew what the broken heart meant below the tank icon. The plant doesn't like the substrate? A little late for that option, doncha think? \nBut I love the overall feel for it, even if I can't get them to eat and the frogs do backflips through portals. Looking forward to leveling up and unlocking all of the other options!",
+      "date": 1748634846,
+      "review_helpful_count": 2,
+      "author_display_name": "LilyVonShtupp14",
+      "author_alias": "LilyVonShtupp14",
+      "developer_response": null
+    },
+    {
+      "id": "1675246413121800",
+      "score": 5,
+      "review_title": "Not my kind of game, but I love it.",
+      "review_description": "I normally play shooting games, or anything really with weapons. \n\nSo, when I saw this I was, nope not for me. However, the trailer looked interesting and I’ve always wanted an aquarium at home, so I gave it a ‘shot’\n\nIt is really relaxing and useful for after a hard day at work or when the kids are in bed. \n\nI recommend it.",
+      "date": 1748543228,
+      "review_helpful_count": 1,
+      "author_display_name": "Wicked_Womble",
+      "author_alias": "Wicked_Womble",
+      "developer_response": null
+    },
+    {
+      "id": "735066495842440",
+      "score": 5,
+      "review_title": "SHOW LUV TO FRESHWATER FISH",
+      "review_description": "ADD BREEDING FOR THE ANIMALS!would be fire to see the aquarium part expanded on. add freshwater fish!  also breeding would be fire if done right.  breed two different color fish and have the offspring resemble both parents.  best fish tank builder/simulator since dreamfish on ios",
+      "date": 1748965894,
+      "review_helpful_count": 1,
+      "author_display_name": "fijiboy.rge",
+      "author_alias": "fijiboy.rge",
+      "developer_response": null
+    },
+    {
+      "id": "1064329675756416",
+      "score": 4,
+      "review_title": "Laid-back fun",
+      "review_description": "A great little game for what it is. Could definitely use a pause game when not in use feature so your plants and animals don't die if you're away from the game for a few days",
+      "date": 1748656174,
+      "review_helpful_count": 1,
+      "author_display_name": "Hatchet_Jack",
+      "author_alias": "Hatchet_Jack",
+      "developer_response": {
+        "body": "Hello Hatchet_Jack,\n\nThank you for your great suggestion!\nCurrently, the contamination/purification system that causes plants to wither needs to have a bit more guidance added in the game, but we will have it soon. For the pause game feature, we will adjust a few things, so it will be easier for you to help recover your animals and plants much faster.\n\nThank you again for the suggestion.\nWe appreciate your support to the game.\n\nBest,\nVivarium Team",
+        "date": 1748862386
+      }
+    },
+    {
+      "id": "986886476850713",
+      "score": 5,
+      "review_title": "This game is so zen! It's great!",
+      "review_description": "Love this game already! I know I'm gunna be in this game hours on end. Cannot wait to see what the future updates bring.",
+      "date": 1748810421,
+      "review_helpful_count": 1,
+      "author_display_name": "Nath88UK",
+      "author_alias": "Nath88UK",
+      "developer_response": {
+        "body": "Hello Nath88UK,\n\nYou should see some of the members of our team making very elaborated vivariums for more than an hour each. \n\nWe will have news about the upcoming content in mid-June, with a list of new animals and features to join the game.\n\nFeel free to share your favorite animals with us in our Discord server, or just any animal or plant that you would like to see in the game.\n\nThank you for the review!\n\nBest,\nVivarium Team",
+        "date": 1748860675
+      }
+    },
+    {
+      "id": "708642815657036",
+      "score": 5,
+      "review_title": "Super fun and intuitive!",
+      "review_description": "It's so calming and peaceful! Also super fun to hold the animals in your \"hand\"!",
+      "date": 1748621154,
+      "review_helpful_count": 1,
+      "author_display_name": "SWBricker",
+      "author_alias": "SWBricker",
+      "developer_response": null
+    },
+    {
+      "id": "2656531717884226",
+      "score": 5,
+      "review_title": "Good Game",
+      "review_description": "Fun and relaxing game ... watch the YouTube tutorials to get started",
+      "date": 1748637486,
+      "review_helpful_count": 1,
+      "author_display_name": "dawgdaze",
+      "author_alias": "dawgdaze",
+      "developer_response": null
+    },
+    {
+      "id": "698985119955015",
+      "score": 5,
+      "review_title": "This game is so cute",
+      "review_description": "I love the little frogs and geckos\n🦎",
+      "date": 1748790678,
+      "review_helpful_count": 1,
+      "author_display_name": "Chickennugget2222",
+      "author_alias": "Chickennugget2222",
+      "developer_response": {
+        "body": "Hello Chickennugget2222,\n\nWe love to hear you are a big fan of frogs and geckos! We are too!!\nWhich one is your favorite? Is it already in the game?\nIf it is not, make sure to share it with us on our Discord Server.\n\nWe would love to see which frogs or geckos you like the most! Maybe a Day Gecko?\n\nThank you for the review!\n\nBest,\nVivarium Team",
+        "date": 1748861356
+      }
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-21T01:53:20Z"
+}
