@@ -1,0 +1,92 @@
+{
+  "app_id": "3444316302356871",
+  "package_name": "com.wrensey.SHMUPPER",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "SHMUPPER (Alpha Demo)",
+  "rating_average": 3.2857142857143,
+  "rating_count": 14,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "4126221427416011",
+      "score": 4,
+      "review_title": "It's very promising",
+      "review_description": "Worked on my quest 2 with no critical technical issues. \nSome design notes -\n1) Press and hold positional buttons should be 2 step confirmation instead. Something like grab + pull down levers - it's easy to hover on a button and accidently trigger it. \n\n2) Shield controls should just be 1:1 with hand movement. Spherically projecting it around the ship doesn't add anything and just makes it more complex. Your arms already have a real life spherical limitation based on arm length no need for artificial projection. Shields themselves are a bit buggy and did not absorb all the hits I expected. (Was an issue in lvl2 when bullets where more rapid).  \n\n3) The game falls apart in level 2 because it requires more precise movements. Conceptually both lean and the joystick control options where cool and I was able to use them both to a decent level - it gets weird though when you are trying to gaze-aim, lead your shots, and move the ship at the same time. Gaze should only be for power ups and basic shots should be about focus on tight controls of the ship where you only shoot in the forward direction of the ship with under the hood forgiveness / auto aiming of like 10 degrees from the ships forward vector.\n\n4) The barrel roll should be across the X axis so it's less of a meme joke and more useful as a quick dodge / side step. In its current state I don't know how I would fit it into strategic movement. \n\n5) Put out another demo stage with more focus on challenging the physical location of the ship - the demo is mostly focused on shooting with the shields handling the majority of the defensive play. I'd even consider making the shields a power up and making like assistant drones power ups that can auto fire with you or repair your ship that have the same kind of placement system. \n\n6) The art is great, everything is great about it - don't worry too much about making all those player ships I really wouldn't care about that and just want more content / variety in the encounters.",
+      "date": 1620238193,
+      "review_helpful_count": 4,
+      "author_display_name": "DevinTheDev",
+      "author_alias": "DevinTheDev",
+      "developer_response": {
+        "body": "Hello! I didn't get notified about this review for some reason but big thanks for taking the time to give this detailed feedback!! I agree with your points and will keep them in mind as I continue working on the project!",
+        "date": 1620660636
+      }
+    },
+    {
+      "id": "4256545017688846",
+      "score": 1,
+      "review_title": "Movement is far too awkward",
+      "review_description": "Moving with you head doesnt work well for this. Allow an option to use controllers. It's a nice looking game could be good but needs more control options.",
+      "date": 1617486064,
+      "review_helpful_count": 2,
+      "author_display_name": "fonejackerjon",
+      "author_alias": "fonejackerjon",
+      "developer_response": {
+        "body": "Joystick controller support has been added!",
+        "date": 1620659932
+      }
+    },
+    {
+      "id": "3803745983036929",
+      "score": 5,
+      "review_title": "Fun!",
+      "review_description": "Movement takes a bit of getting used to but fun overall!",
+      "date": 1618237351,
+      "review_helpful_count": 0,
+      "author_display_name": "wrensey",
+      "author_alias": "wrensey",
+      "developer_response": null
+    },
+    {
+      "id": "496487641732653",
+      "score": 5,
+      "review_title": "Great graphics and fun to use",
+      "review_description": "Excited to play this. I know it’s still in  development, great potential!!",
+      "date": 1618277982,
+      "review_helpful_count": 1,
+      "author_display_name": "DonnieLindseyII",
+      "author_alias": "DonnieLindseyII",
+      "developer_response": null
+    },
+    {
+      "id": "182395620454396",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Controls are refreshing and the gameplay is fun",
+      "date": 1620873740,
+      "review_helpful_count": 1,
+      "author_display_name": "SnaplDragon",
+      "author_alias": "SnaplDragon",
+      "developer_response": null
+    },
+    {
+      "id": "122389359938462",
+      "score": 3,
+      "review_title": "Won't load",
+      "review_description": "This experience won't load on my Quest 2—it crashes on launch. I uninstalled it and reinstalled it, but same result.\n\nUPDATE: The developer's update fixed the 'no load' issue. It wasn't my type of game (due to control scheme, etc.) but it does work and some folks may enjoy this one!",
+      "date": 1618643896,
+      "review_helpful_count": 1,
+      "author_display_name": "Smottz",
+      "author_alias": "Smottz",
+      "developer_response": null
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T07:07:08Z"
+}
