@@ -1,0 +1,45 @@
+{
+  "app_id": "32805641795750295",
+  "package_name": "com.solyx.dungeonanomaly",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Dungeon Anomaly Demo",
+  "rating_average": 4,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1217370031455554",
+      "score": 4,
+      "review_title": "Being dissy",
+      "review_description": "I stopped playing because I got nausea due to motion sickness. Otherwise, the graphic were good and I would have liked to proceed. Try getting inspiration from Closer Look, where they have a smart teleport tool that is good for people like me to use. \nJoe",
+      "date": 1780245506,
+      "review_helpful_count": 0,
+      "author_display_name": "PointySeaTurtle497",
+      "author_alias": "PointySeaTurtle497",
+      "developer_response": null
+    },
+    {
+      "id": "1377485940825486",
+      "score": 4,
+      "review_title": "Nice concept",
+      "review_description": "Please make a snap turn option.",
+      "date": 1768278464,
+      "review_helpful_count": 2,
+      "author_display_name": "Carpedian",
+      "author_alias": "Carpedian",
+      "developer_response": {
+        "body": "Thank you for the great suggestion!\n\nWe’ve now added a Snap Turn option to the game. Snap Turn is currently enabled by default to provide a more comfortable experience for most players.\n\nIf you prefer smooth turning instead, you can easily disable Snap Turn from the in game menu by pressing the menu button on the left controller and adjusting the setting there.\n\nWe truly appreciate your feedback.  It helps us make the game better for everyone. Please keep sharing your thoughts with us!",
+        "date": 1772188787
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T00:50:26Z"
+}

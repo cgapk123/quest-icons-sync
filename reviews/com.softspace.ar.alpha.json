@@ -1,0 +1,565 @@
+{
+  "app_id": "4586808061416562",
+  "package_name": "com.softspace.ar.alpha",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Spaceframe",
+  "rating_average": 3.0714285714286,
+  "rating_count": 112,
+  "review_count": 55,
+  "reviews": [
+    {
+      "id": "948295915042709",
+      "score": 1,
+      "review_title": "AI Features Broken on Lifetime Purchase",
+      "review_description": "Purchased Spaceframe Personal (Lifetime) for $34.99 directly through Meta Quest Store. Receipt and account show “Purchased.”\nAI Notes and AI Chat are non-functional:\n\nAI Notes show purple title but infinite spinning circle after prompt entry.\nAI Chat opens blank, no response, no error.\n\nTroubleshooting attempted: force restart Quest 3, clear cache, log out/in, reload project, reinstall — no change.\nMeta support refused escalation and bounced to developer.\nCore AI functionality (context-aware notes and chat) is blocked on a paid lifetime license.\nUnacceptable for a productivity tool.\nDo not buy until fixed.",
+      "date": 1772603883,
+      "review_helpful_count": 21,
+      "author_display_name": "Mystic.Master",
+      "author_alias": "Mystic.Master",
+      "developer_response": null
+    },
+    {
+      "id": "1479368073822975",
+      "score": 1,
+      "review_title": "Very cool idea but",
+      "review_description": "Very crashy and broke the headset's ability to track so bad, almost made me throw up because of the motion sickness. had to hard reset to fully make it work again. I would be interested in this, I really like the idea. plz fix it.",
+      "date": 1774771414,
+      "review_helpful_count": 4,
+      "author_display_name": "jackpherson",
+      "author_alias": "jackpherson",
+      "developer_response": null
+    },
+    {
+      "id": "928259850370827",
+      "score": 1,
+      "review_title": "Need alot of work",
+      "review_description": "AI is trash , not sure which one they are using on the back end , let us use our own API keys or local network AI. App is confusing and it starts with a bunch of useless windows , cant use virtual keyboard as resting hand triggers world movement.",
+      "date": 1767557123,
+      "review_helpful_count": 3,
+      "author_display_name": "AirRaidX",
+      "author_alias": "AirRaidX",
+      "developer_response": null
+    },
+    {
+      "id": "960853110439968",
+      "score": 3,
+      "review_title": "Could be more intuitive user friendly",
+      "review_description": "There should be a settings menu with left selection and be able to change input for keyboard to Meta keyboard or something like (VD) Virtual Desktop Meta allows swipe typing which is useful at night also maybe overhauling different movement styles like VD or Horizon being able to use the thumbsticks to look around and move for easier use Also metas corner window selection and thumbstick movement for distance repositioning is desire able after first launch controllers wouldn't work only hand tracking touch so after closing and re opening controllers started working and also making pointer trailing better so selecting things behind isn't instant setting Also rescaling should be possible from all four corners if only multiple applications could load at once like VD and this uhg 🙄",
+      "date": 1767152422,
+      "review_helpful_count": 1,
+      "author_display_name": "Ashvioren",
+      "author_alias": "Ashvioren",
+      "developer_response": null
+    },
+    {
+      "id": "844223652115813",
+      "score": 3,
+      "review_title": "Needs to bring in computer screens",
+      "review_description": "Awesome space, but I won’t pay for it until I can bring in my computer screens for research and work. Otherwise I would work here all day long.",
+      "date": 1765605308,
+      "review_helpful_count": 6,
+      "author_display_name": "JazzJammer1000",
+      "author_alias": "JazzJammer1000",
+      "developer_response": null
+    },
+    {
+      "id": "741458091740944",
+      "score": 2,
+      "review_title": "Brilliant Concept, But Poorly Supported",
+      "review_description": "The idea behind this app is absolutely brilliant—a 3D mind-mapping experience in VR that has the potential to redefine how we organize and explore complex thoughts. The foundation is there, and with the right development support, it could easily justify a $15/month subscription.\n\nUnfortunately, the app currently feels half-baked. The interface is only partially functional, and critical features seem broken or unfinished. Even more concerning, the developer appears unresponsive, with no meaningful updates or engagement to address the growing list of issues. This is especially problematic for a subscription-based product, where responsiveness and consistent improvement are expected.\n\nI truly wish I could use and recommend this app, but in its current form, it’s not worth even the lower-tier subscription or one-time license. It needs serious development attention and, frankly, encryption and privacy features before it can gain meaningful adoption.\n\nThis could be a phenomenal tool—but only if the developer decides to invest in its future.",
+      "date": 1751116531,
+      "review_helpful_count": 30,
+      "author_display_name": "MBXArtist",
+      "author_alias": "MBXArtist",
+      "developer_response": {
+        "body": "Hey there—thank you so much for your review and feedback. We realize that improved support for the app, especially for new users, is important and has to be better. We're working on it, with a new product website, better documentation, and a changelog and roadmap. Thanks again for your input, it's a gift we don't take for granted.",
+        "date": 1756286845
+      }
+    },
+    {
+      "id": "733512349850871",
+      "score": 2,
+      "review_title": "Darn it",
+      "review_description": "Was so excited to get going on this. Love the idea and the initial feel of “touching” my digital notes and moving them all over the sky. \n\nHowever \n\nhave just cancelled subscription asap. Frequent , in my short time of using it, closing of app due to an alleged insufficient amount of memory. Browsers don’t always open. Promises so much but currently failing to deliver. Would love to come back to this when the developer has some space 🤭 to keep it going. Honestly surprised that it hasn’t been bought up by a bigger company.",
+      "date": 1755044990,
+      "review_helpful_count": 1,
+      "author_display_name": "spoo.414399",
+      "author_alias": "spoo.414399",
+      "developer_response": {
+        "body": "Hi! Thanks you so much for your review and feedback. Its great to hear you love the core idea of the product, but we're really sorry you experienced all these issues. It's likely that the 'insufficient memory' error is related to recent problems with the underlying OS—if you Google \"Quest v77 out of memory\", you'll see there are many reports by users of many different apps and games on this. I hope this is fixed already or soon, but sadly there is little we can do as developers because the app is already about as memory-efficient as we could make it. Thanks again!",
+        "date": 1756287135
+      }
+    },
+    {
+      "id": "756780347033781",
+      "score": 2,
+      "review_title": "Bring Back the Carousel Feature",
+      "review_description": "i Had this app a while ago when it was Softspaces, i was able to carousel my images around me which i cant do anymore, and once you reach your limit on the free tier, you still cant write anything next to the image which is odd because i reached my limit for images but not for characters that i have written in which i haven't written anything. The conversion to spaceframe made some things not work anymore, which that's why i used this app for those specific purposes but now they are gone so its hard to come back to this app when things have stayed this way without any meaning updates letting us know that the developers are listening to the community. I don't mind a name change but why take things out that people loved",
+      "date": 1753105412,
+      "review_helpful_count": 1,
+      "author_display_name": "Mr_KELLY2307",
+      "author_alias": "Mr_KELLY2307",
+      "developer_response": {
+        "body": "Hi there! Thank you for your review and inputs. If by 'carousel feature', you mean the ideation mode from Softspace v2024 where the workspace items become free-floating, we're working ot re-implement that in a way that is compatible with the new UI and data structure. We're also working on streamlining the plans and pricing. Thanks again for your input; much appreciated!",
+        "date": 1756286963
+      }
+    },
+    {
+      "id": "634717269721227",
+      "score": 4,
+      "review_title": "Mouse Support, Company Website Down",
+      "review_description": "hi there! so just wanted to start off by sharing with you guys that you guys have created an absolutely fantastic app for the meta quest platform that really launches the headset to a higher level of productivity and functionality \n\nthe ability to have featured out workspaces that have minority report style functionality is a dream that this app is bringing much closer to reality and that is simply incredible \n\n\n\nquestions: \n\n-so right now there is no mouse support and integration in the app (but there is keyboard support) \n\nthis would really make the app functionality much more complete and would make productivity with it even better\n\nsince you sometimes want to switch between hand tracking to mouse tracking (i.e. depending on the nature of the workspace workload) \n\nis there any reason (technical or so forth) to this? this would seem fundamental, no? \n\n-how about the ability to have multiple tabs in one browser? \n\n-so the company website and its various links are simply not working - is this a temporary problem? is there a timeline as to when it'll be back up? \n\n-also when the app updated from softspace to spaceframe, it deleted all my previous content (when the upgrade specifically stated it wouldn't affect previous content) \n\nfinally: are there more app functionality updates coming in the pipeline? \n\nthank you guys so much for what you do and wishing you guys only more success to keep increasing the app functionality and its features to even higher heights",
+      "date": 1741121466,
+      "review_helpful_count": 21,
+      "author_display_name": "SeansLair",
+      "author_alias": "SeansLair",
+      "developer_response": {
+        "body": "Thanks for the review and the heads-up on the website! (It's been fixed, haha.) In order: (1) Mouse Support. This feature is much-requested, and is less of a technical issue and more of a design issue because there are a lot of weird edge cases that occur with using a mouse in 3D. But we're looking into it! (2) Multiple tabs in one browser window is unlikely to happen in the near future, but if we hear more requests for this it's not impossible. The current Quests are severely performance-limited with even a few browser windows open, sadly. (3) Please check out [www.spaceframe.xyz/softspace] for info on how to access your Softspace workspaces. If you have other questions feel free to email hi@spaceframe.xyz. Thank you!",
+        "date": 1756286525
+      }
+    },
+    {
+      "id": "538763549316767",
+      "score": 1,
+      "review_title": "Updated review",
+      "review_description": "I had to update my review: any service that arbitrarily limits how i spend my compute power is not worth paying for, ever. Id sooner uninstall your app and refuse to use it than pay you for my own hardware. Im not using your cloud storage or compute, no one cares about your useless ai integrations, the few features you provide which actually enhance the stock os should be entirely free. I will never install this app again. Had you only charged for cloud compute and the consideration wouldve been far different: there is absolutely no excuse beyond basic petty greed to limit the number of windows i can open: ESPECIALLY when the app bugs out and thinks im at the max with zero windows and notes open.",
+      "date": 1737548274,
+      "review_helpful_count": 43,
+      "author_display_name": "Atmatan",
+      "author_alias": "Atmatan",
+      "developer_response": {
+        "body": "Hey there! Thanks for your feedback. You're right that a lot of the features we've built should just be a part of the OS. I'm sorry that you don't find the $5/month or $35 lifetime Personal plans to be good value. If you must know, our small team has poured our hearts and souls into the research and development of this app for the better part of a decade, and the financial return on it is a fraction of a fraction of what we've invested. If we were motivated by 'petty greed' we'd definitely be doing something else :D Okay have a great day!",
+        "date": 1738683944
+      }
+    },
+    {
+      "id": "533170479888451",
+      "score": 4,
+      "review_title": "Excited but frustrated",
+      "review_description": "I bought this app when it was Softspace and the next day, it turned into Spaceframe. Whilst most things stayed awesome, I am hugely frustrated that the AI enabled ideation element was stripped out. This was where you entered a different view - topics would float near each other depending on how relevant / connected they were and AI would prompt additional related topics for you to explore as well as give a short description when clicked. PLEASE bring this back (and improve) - it was one of the main reasons I bought the lifetime version.",
+      "date": 1737629936,
+      "review_helpful_count": 10,
+      "author_display_name": "Rectifierson",
+      "author_alias": "Rectifierson",
+      "developer_response": {
+        "body": "Hey there! Thanks for your feedback and the rating. We are bringing this back, in improved form. Sorry for the frustration, and thank you for your purchase <3",
+        "date": 1738683995
+      }
+    },
+    {
+      "id": "598328156686909",
+      "score": 5,
+      "review_title": "I genuinely appreciate you and team!",
+      "review_description": "While still early staged I can imagine, it’s honestly beautiful simplistic in form and immensely useful. While it lacks some integration (which takes a lot of time to build in and create the pipelines necessary for seamless integration) I absolutely love what you are doing. Hell I even want to join your team in its inception creation and implementation cause I see some intense potential for this in both commercial use as well as civil/personal settings.  I feel the spatial “thinking room and ability to modify warp and shift it all at will”  is beyond useful. And as a deep thinker with adhd I can not express enough how entraining it is to “play” with my ideas in a spatial area. Between pulling up webpages and videos relevant to my current thought lines down to typing out my on the moment ideas to splat onto the screen and decide where it fits in my mental map of things is awesome!  So where others may say nay, I say even if not accepting new members to help further this , then from the bottom of my heart thank you, all of you involved",
+      "date": 1738846886,
+      "review_helpful_count": 3,
+      "author_display_name": "Narooko",
+      "author_alias": "Narooko",
+      "developer_response": {
+        "body": "Wow—thank you so much for this incredible review. This means so much to us, after we've put years of work into making the product a reality and bringing it to you. Thank you.",
+        "date": 1756286308
+      }
+    },
+    {
+      "id": "618536570641931",
+      "score": 3,
+      "review_title": "How to get started",
+      "review_description": "The app shows potential but falls short in terms of user-friendliness and support. While I appreciate the concept and like the app overall, getting started has been frustrating. It’s not as self-explanatory as one might hope.\n\nFinding tutorials or guidance to help me set up has been a challenge. I tried accessing support through Discord, which seems promising, but I was denied entry after receiving an invite. This left me stuck without any clear instructions. I managed to access some features, like a browser screen and web pages, but figuring out how to connect content with the wall or space remains a mystery.\n\nFor a subscription of $15 a month, I expect much better documentation and onboarding. If I found another app that is more intuitive and provides clear guidance, I would likely switch. This app needs to address its lack of comprehensive support to retain users for the long term.",
+      "date": 1736544324,
+      "review_helpful_count": 5,
+      "author_display_name": "Pelle_Parafinn",
+      "author_alias": "Pelle_Parafinn",
+      "developer_response": {
+        "body": "Hey there—thank you so much for taking the time to leave a rating and review. You're totally right that the onboarding and documentation is not nearly as comprehensive as it should be, and we are working on exactly this right now. We're doing an overhaul of the product website and adding a much more detailed documentation page that highlights the most common user questions when getting started with such a new medium and UI. Thanks again, much appreciated!",
+        "date": 1756285995
+      }
+    },
+    {
+      "id": "500438999825150",
+      "score": 4,
+      "review_title": "Perfect for the visual organized person",
+      "review_description": "Absolutely great experience and it’s awesome to have such a visual platform, I will be using this for alot of brainstorming - my only gripe with this is not being able to lock the workspace area, it can get annoying to grab something and it shifts the whole space.",
+      "date": 1735934345,
+      "review_helpful_count": 5,
+      "author_display_name": "the.rylandr",
+      "author_alias": "the.rylandr",
+      "developer_response": {
+        "body": "Hi there, thanks for the rating and the review and the specific feedback. You're right that the hand-tracked 'gripping' system could be improved. A lot of it has to do with the accuracy of the hand-tracking system, which tends to get better over time with system updates, and of course with new heaedsets. But we've been working on better accidental input rejection. Thanks for the input!",
+        "date": 1756276293
+      }
+    },
+    {
+      "id": "482468928291037",
+      "score": 4,
+      "review_title": "Game Changer!",
+      "review_description": "This app is a game changer. I've never seen anything like this. I have already made many workspaces and love my ability to learn with floating pictures and text. The thing I would love to see is more environment settings like Mars, planet Europa, or even the ability to have A.I. generated skybox capabilities like Fluid app has. I would also like to see mouse cursor capabilities would be nice. And as mentioned before. Voice recording or sound file capabilities would also be nice. But other than that, this app is on a league of it own. 👍",
+      "date": 1736120536,
+      "review_helpful_count": 4,
+      "author_display_name": "Jaguars25jp",
+      "author_alias": "Jaguars25jp",
+      "developer_response": {
+        "body": "Thank you so much for the rating and the detailed review! It's amazing to hear that you've already been learning with our app. The suggestions for more environments is great, and we've heard from a lot of users that mouse support is needed. Thanks again and please send any further feedback our way!",
+        "date": 1756277391
+      }
+    },
+    {
+      "id": "484029218134898",
+      "score": 4,
+      "review_title": "Wish it supported Chinese input",
+      "review_description": "Guess it's due to Meta Quest doesn't support Chinese input ,not the app, 😕 so sad I can't use it for writing.",
+      "date": 1739234302,
+      "review_helpful_count": 3,
+      "author_display_name": "dorkyunicorn.xr",
+      "author_alias": "dorkyunicorn.xr",
+      "developer_response": {
+        "body": "Thanks for the feedback! Which language(s), specifically?",
+        "date": 1735832641
+      }
+    },
+    {
+      "id": "450863658104909",
+      "score": 4,
+      "review_title": "Overall idea is great, but…",
+      "review_description": "Do this one simple modification and I (as a programmer) am all yours. \n\n1) Add mouse support along with keyboard on the active window we interact with. \n\nIt will allow so much possibilities, we won’t even need to connect our pc/mac with headset for development anymore as you already have browser implemented in your app which allows us to access code editor online. \n\nIt will be amazing coding in the softspace style!",
+      "date": 1726116895,
+      "review_helpful_count": 37,
+      "author_display_name": "waseem_gul",
+      "author_alias": "waseem_gul",
+      "developer_response": {
+        "body": "Amazing suggestion! Thanks so much Waseem :) It’s been added to the internal roadmap. We really appreciate you taking the time to try out Softspace and leave this feedback.",
+        "date": 1726125493
+      }
+    },
+    {
+      "id": "401062683083859",
+      "score": 5,
+      "review_title": "Hmm",
+      "review_description": "It haven't installed yet\nBut I'm thinking it will be cool",
+      "date": 1721845104,
+      "review_helpful_count": 9,
+      "author_display_name": "Jensonlol4offcialYT",
+      "author_alias": "Jensonlol4offcialYT",
+      "developer_response": {
+        "body": "Have you installed it now? If you do and give it a try we'd love to hear your feedback! Thanks for the rating :)",
+        "date": 1756276188
+      }
+    },
+    {
+      "id": "338684439323245",
+      "score": 4,
+      "review_title": "Workspaces Folders pls",
+      "review_description": "It would be great if I could organize workspaces into folders, it would make everything more organized and with a cleaner look",
+      "date": 1716413954,
+      "review_helpful_count": 13,
+      "author_display_name": "Paulo.J",
+      "author_alias": "Paulo.J",
+      "developer_response": {
+        "body": "Hey there—thanks for this review and the feedback! We've since implemented a 'Board' item that lets you do exactly this :) Appreciate you weighing in.",
+        "date": 1756276079
+      }
+    },
+    {
+      "id": "1723899958138830",
+      "score": 2,
+      "review_title": "Fascinating concept, too much friction",
+      "review_description": "I wanted to hop in quickly and use dictation to start placing and organizing some topics in the space to start to get a feel for the app. However was met with too many friction points to want to continue use.\n\nControllers:\n- For controllers, the app requires holding the menu button to see the menu, on the Quest Pro, holding the menu button longer then a few seconds shuts off the controller.\n - I had expectations of an simple and accurate line raycast for selection, instead it seems like its trying to use the hand tracking pointer pose with the controllers. It made interactions with the UI quite tricky and unintuitive \n\nSpace Limits (bug?):\n-  I wanted to start with a blank space and quickly add new topics. When I created a new space it prompted me saying I had 98/100 items currently used (since it counts the default space?) and prompted me to purchase the upgrade plan.\n- Even after deleting the old space the prompt to buy the plan persisted, I had to shut off the app for it to go away\n\nReading through the wiki I fully understand the design is focused on being hands free and using a keyboard with hand tracking. However the app currently is so difficult to use at a basic, introductory level, it discourages further advance use of it. If I'm left frustrated at a basic gut check to see if an app is worthwhile, I won't invest more time into learning how to use it",
+      "date": 1711139966,
+      "review_helpful_count": 5,
+      "author_display_name": "layip",
+      "author_alias": "layip",
+      "developer_response": {
+        "body": "Hey there!\n\nThank you so much for writing up this incrediblty helpful feedback. You're right that the app still has a lot of friction points, and it's important for us to keep working on smoothing those out.\n\nI just pushed an update that addresses several of the problems you raised.\n\n1) The Palm Menu is now toggled by the controller menu button, instead of only appearing when the button is held down.\n\n2)  The Spatial Cursor behavior in controller mode is now identical to how it works in tracked-hand mode, using a raycast to avoid having to hold your hands all the time.\n\n3) There was indeed a bug that was causing the item count to not update when a workspace was deleted. This has been fixed.\n\nIf there are any other frictions you wanted to raise, please feel free to write me at hi@soft.space.\n\nThanks again!",
+        "date": 1711364742
+      }
+    },
+    {
+      "id": "265776976610773",
+      "score": 4,
+      "review_title": "Must have app, almost.",
+      "review_description": "App is awesome, but lack of checklists (or even full markdown support) and pdf support (local or through dropbox or whatever) is seviarly limiting its uses. Plain text + images are nice but very restrictive.\n\nIf this will be resolved it will be absolutely essential app for most users. To be honest, I'd recommend it even in the current state :)\n\nAlso, it would be nice to see controller support for precision.  Especially considering mixed mode (controller + hand) is coming.",
+      "date": 1709127942,
+      "review_helpful_count": 9,
+      "author_display_name": "deliriumsidhe",
+      "author_alias": "deliriumsidhe",
+      "developer_response": {
+        "body": "Thanks so much for your really helpful feedback! Glad to hear that full Markdown and PDF support are important for you. These are both on our internal roadmap, and getting this feedback lets up bump these items up in priority. Thank you once again!",
+        "date": 1711364844
+      }
+    },
+    {
+      "id": "197289760125095",
+      "score": 1,
+      "review_title": "Doesn’t work at all",
+      "review_description": "Can’t get through the first prompt",
+      "date": 1701352588,
+      "review_helpful_count": 2,
+      "author_display_name": "timmytheguitarguy",
+      "author_alias": "timmytheguitarguy",
+      "developer_response": {
+        "body": "I’m really sorry to hear this! That must have been really frustrating. Can you email me at hi@soft.space so we can sort this out for you?\n\nThanks!",
+        "date": 1701518638
+      }
+    },
+    {
+      "id": "611064634521622",
+      "score": 1,
+      "review_title": "Leaves too much to be desired",
+      "review_description": "I really wanted this to work well. I think the idea's time has come. Unfortunately it was so hard to use I uninstalled it. Requires bluetooth keyboard but not being able to make out the keys on the keyboard makes usage problematical. I had to remove the headset every time I wanted to type something. Options should be for screen keyboard or voice input. Hand gestures are usable only with great difficulty. Getting the cursor to stand still long enough to pinch it is like a game in itself.  The brief tutorial directs you to the app's web site for more information on usage. After initial experiences I was not movivated enough to pursue this.",
+      "date": 1693669669,
+      "review_helpful_count": 14,
+      "author_display_name": "Snulbug",
+      "author_alias": "Snulbug",
+      "developer_response": {
+        "body": "Hi there, thanks so much for leaving a review! I'm sorry to hear that you experience so much difficulty with the UI that you decided to stop using the app. I totally get it -- the basics have to work well. We'll lookinto all these issues you've raised. Thanks again, and I hope we can win you back as a user soon.\n\nUpdate 12/02/2023: Hi again! We’ve added a virtual keyboard and speech-to-text. Thanks again for your feedback!",
+        "date": 1701517661
+      }
+    },
+    {
+      "id": "1042228180283623",
+      "score": 3,
+      "review_title": "Really cool idea about 2 years too early",
+      "review_description": "For the most part this app is impressive. It allows for you to manipulate items and basic workflows in an AR space in a way that is reminiscent of a certain fruit themed company's upcoming new headset. *Ahem*\n\nHowever the problem here is that the hardware isn't designed for it and the app itself doesn't do much other than having essentially notepads floating next to your head. The basic idea shows a lot of potential but the mechanics of how it will work and what it can actually do are not polished enough to make it a meaningful addition to my workflow. A few more noted below:\n\n1) A keyboard is \"required for most things\" according to the app. Which in my opinion defeats the point of an Augmented reality work station since the only time i'll probably use this is if I'm already working on a computer and want to use this as an extension of my work environment. So you have to have two keyboards? Quest headsets already have voice search functionality so why can't you just select the box and automatically use voice search to dictate stuff? \n\n2) It is advertised as compatible with the Quest 2 and it technically is... but the Quest 2 hardware is not designed for this type of work. Both the AR functionality and the hand tracking while *technically possible* are both so rudimentary that they're not useful for much. For example you can't read or even see a computer screen while in AR mode so again it doesn't function well as an extension of your work environment. \n\n3) 90% of the features require a Softspace account to be able to do anything. Why? If it is a simple workstation app that is free all I can think of is that they're making money off of tracking and selling your data while using it. Which isn't something new, especially for FB. But if I'm going to be using this for sensative work documents there is no way I want a 3rd party app seeing and tracking everything I do. \n\n4) There is no additional \"app\" functionality like using YouTube or even basic stuff like a calculator, a calendar, a clock, or music. It can't do anything that I would use an AR workstation for other than a simple notepad (which requires a separate notepad). A browser is baked in but you can only open one tab at a time and again if I have to use a browser for everything I might as well just stay on my normal laptop.",
+      "date": 1693241317,
+      "review_helpful_count": 32,
+      "author_display_name": "Admiral_Snackbar247",
+      "author_alias": "Admiral_Snackbar247",
+      "developer_response": {
+        "body": "Hi there! Thanks so much for taking the time to try the app, and for leaving this very detailed feedback. I'll take your comments in order:\n\nI'm glad that you find the app impressive enough that it reminds you of a certain large tech company's upcoming new headset and spatial comouting system. We've worked hard to get the design feeling just right.\n\n1. We've designed Softspace to be used in a standalone fashion, away from your regular computer or laptop. Kind of like an iPad app. But it's true that if you also have a computer in front of you, there will be two keyboards, which is awkward.\n\n2. Unfortunately, there's not much we can do about the quality of the Quest 2's passthrough video. We find it good enough to give you a sense of what is happening around you, which is already a big step up from full VR. The Quest 3 should have much better passthrough quality, and Softspace was dsigned to really sing on that device.\n\n3. We require a Softspace account because we're going to implement cloud-based features like workspace backups, multiuser workspaces, etc. We absolutely do not, and will never, sell user data. That's not our business model, which is why we have a paid product plan.\n\n4. We're working on enabling multiple browser windows so that you can have all these different apps open at the same time. The difference between Softspace and a regular laptop is that you can lay out your ideas in a vast 3D space around you, which AFAIK is not possible on even the fanciest of laptops.\n\nThanks again for your comments, and if you have any other ideas, questions, or critiques, we're always happy to hear them!",
+        "date": 1693319603
+      }
+    },
+    {
+      "id": "895894215464781",
+      "score": 3,
+      "review_title": "Amazing UX but not practical",
+      "review_description": "This app has a lot of potential with its great UI and UX. Unfortunately, I don’t need another mind map. What I would like to use this for is as a Remote Desktop for my laptop. VR would make “hot desking” at work so much better. It would also make the days where my SO and I are both working from home better because I wouldn’t need an office if I just had a great Remote Desktop for laptop. Unfortunately, meta’s Remote Desktop is just simple mirror of my screen and so are all the other desktop mirroring apps. I don’t care or want social features. I want a “desktop mirror” that frees more windows from a screen and has a UX like this app.",
+      "date": 1698994237,
+      "review_helpful_count": 12,
+      "author_display_name": "chaosthe0ry",
+      "author_alias": "chaosthe0ry",
+      "developer_response": {
+        "body": "Hi there! Thanks so much for your very clear feedback.\n\nSorry to hear that you don’t need another mind map. We’re building a spatial research and ideation tool because we think that giving scientists, designers, entrepreneurs, and other professionals a better way to extract insights from complex information will help them make a better and greater impact on our world.\n\nThe “virtual desktop with windows” that you described would indeed be an awesome product! Unfortunately, it’s not something that a small team like ours is able to easily build. The ones to look to would be the big  platform and OS owners, who would have the necessary resources and technical access to meet your needs.\n\nHowever, one thing that we are working is making the in-app web browser much more powerful and flexible. We’re going to support multiple windows and more types of websites.\n\nThanks again for your feedback, and I hope that the big players are listening to ideas like yours!",
+        "date": 1701518032
+      }
+    },
+    {
+      "id": "814579477342465",
+      "score": 5,
+      "review_title": "Lots of Potential",
+      "review_description": "Developers yall have something special here. \nSome input:\n\nNaturally i caught myself wanting to \"grab\" the tiles with my index and thumb. Something that i feel is such a small way to interact with the app that would make a big difference for people who dont want to point and tap. Just more seamless and intuitive. (Maybe even grabing and stretching with both hands as an input too.)\n\nVirtual Keyboard even if something basic for people to play around with the app since most wont have one and wont be able to fully realize its capabilities. \n\nThis really brings me back to a PS3 game called Heavy Rain. If you know what this is, it would be a thrill to have a mini game to just throw a virtual ball around haha \n\nSeriously this is awesome and many MR users will gladly support this app. Keep up the excellent work!",
+      "date": 1697155896,
+      "review_helpful_count": 3,
+      "author_display_name": "Xeren_PR",
+      "author_alias": "Xeren_PR",
+      "developer_response": {
+        "body": "Hey! Thanks so much for your great feedback and the 5-star rating.\n\nDirect interactions are something that we’re investigating. Like with everything, there are tradeoffs, but we hear a lot of users asking for this now that Meta has made it standard in the Quest Home environment.\n\nWe’ve build a virtual keyboard and speech-to-text!\n\nThanks again for your comments :)",
+        "date": 1701518603
+      }
+    },
+    {
+      "id": "776170820974268",
+      "score": 3,
+      "review_title": "It’s great for research",
+      "review_description": "I’ve been using it to do research for an upcoming project and it’s pretty great with that. My only problem is I’d love to be able to pull images off the internet instead of having to use Dropbox as a middleman. Another thing that it should have is the option to not have it in AR pass through but allow us to be in whatever space we want. Also when asking the AI to do write things it cuts off its answer at a certain length. Ok more than one qualm but again I do like it and will continue to use it… for now.",
+      "date": 1693610514,
+      "review_helpful_count": 1,
+      "author_display_name": "Dagr606",
+      "author_alias": "Dagr606",
+      "developer_response": {
+        "body": "Hey there, thanks so much for leaving a review! It is possible to save images using the web browser by hovering over the image with a cursor until a green icon appears, then clicking and pulling the image out. You can see this in our guide, at docs.soft.space/start, under \"Web Browser\". We've heard that a lot of users want to have immersive virtual environments, so we're looking into it. Finally, we'll look into increasing the AI response token count. Thanks!",
+        "date": 1695948257
+      }
+    },
+    {
+      "id": "743753244467031",
+      "score": 5,
+      "review_title": "Ok did not read the creviews",
+      "review_description": "This was one of the apps I wanted to see the first weeks I got my quest 2\nView some docs pictures or website favoritys\nFound some but like I wanted\nAlso this look something but can't pas the first start screen can press the next button \n\nThen you see fare away press the space-bar\nWhy do we need a real keyboard in a 3D world also if I connected some where to let hover my physics keyboard\nBut ok I'm not the first one\nAnd just free so let's wait",
+      "date": 1703503216,
+      "review_helpful_count": 5,
+      "author_display_name": "McCoreBe",
+      "author_alias": "McCoreBe",
+      "developer_response": {
+        "body": "Thanks for updating your review and rating!",
+        "date": 1706529804
+      }
+    },
+    {
+      "id": "594825859698749",
+      "score": 4,
+      "review_title": "I feel like Tony Stark",
+      "review_description": "As a person with ADHD, this helps organize all of my thoughts and see them visually. I love it.\nI do wish that voice recording permissions were possible, for voice texting and web calling. Probably wouldn’t need to use any other productivity app.",
+      "date": 1734720262,
+      "review_helpful_count": 11,
+      "author_display_name": "zak.bowles",
+      "author_alias": "zak.bowles",
+      "developer_response": {
+        "body": "Hey there! Thank you so much for taking the time to write this review. It’s amazing that you feel like a superhero in the app :D And thanks for the feedback about more voice input options. Noted!",
+        "date": 1734850582
+      }
+    },
+    {
+      "id": "591734200141939",
+      "score": 2,
+      "review_title": "Keyboard Problem.",
+      "review_description": "Bluetooth keyboard not showing as connected even though it's connected fine in settings and visible to other apps..",
+      "date": 1737133066,
+      "review_helpful_count": 0,
+      "author_display_name": "Hebejeebee",
+      "author_alias": "Hebejeebee",
+      "developer_response": {
+        "body": "Hi there! Thanks for reporting this. Does the issue keep happening or did it resolve itself? We have not had other reports of this occurring, but that could just mean it's a rare issue and you found it. Feel free to email us at hi@spaceframe.xyz to sort this out. Thanks!",
+        "date": 1756286071
+      }
+    },
+    {
+      "id": "489552317564930",
+      "score": 2,
+      "review_title": "Cant get it to work after initial run",
+      "review_description": "The app refuses to respond and thr license i purchased is gone like it completely reset itself. It says at the top “some options will only be available after app setup completes” but it never completes. Please fix or refund. I hope i didnt just waste 40$",
+      "date": 1729255977,
+      "review_helpful_count": 10,
+      "author_display_name": "FMD33",
+      "author_alias": "FMD33",
+      "developer_response": {
+        "body": "Hey there—I’m really sorry you experienced this issue. It must be super frustrating, and is not up to the standard we hold for ourselves. Please shoot me an email at hi@soft.space, and I will have you compensated for this. We’re also looking into the issue you reported. Thanks for letting us know.",
+        "date": 1730019313
+      }
+    },
+    {
+      "id": "408630831520049",
+      "score": 5,
+      "review_title": "For work and focused thinking",
+      "review_description": "I could easily imagine the potential of this application and decided that it was worth investing in. The application performs wonderfully but it does take some time to get used to. Working with this app has a brought new pleasure to vr. \nSome things I would like to see in future with this app are cut and paste as well as the ability to resize images and an undo function also a whiteboard for doodling and the possibility to make my own mind map style links between different items in my space.\nThis is a great application worth the price for its potential. Well done.",
+      "date": 1705787297,
+      "review_helpful_count": 17,
+      "author_display_name": "FutureFortune",
+      "author_alias": "FutureFortune",
+      "developer_response": {
+        "body": "Thank you so much for these super positive feedback! Copy and paste works already; you might need to try with Ctrl+C and Ctrl+V, because unfortunately on Android, the Cmd key doesn't work. We're working on a way to address this in the future. Resizing images, whiteboard functionality, and manual link creations are also in the works. Thanks again!",
+        "date": 1706529649
+      }
+    },
+    {
+      "id": "406095188744834",
+      "score": 5,
+      "review_title": "Amazing!",
+      "review_description": "Impressive interface and visual environment. Full marks for that even though the interface can improve in selecting and interacting with items [why not also use the eye tracker to select?] More options required to build a mindmap [add new, edit]. Finally voice command interface will be a big booster.",
+      "date": 1708169938,
+      "review_helpful_count": 5,
+      "author_display_name": "Ayaan",
+      "author_alias": "Ayaan",
+      "developer_response": {
+        "body": "Thanks for this great review and the very helpful feedback! We haven't implemented eye-tracking because so few users have a Quest Pro; but we expect future mainstream headsets to have eye-tracking so we will implement this eventually. Yes to more control over the links between items. We're also looking into a faster way to go from speech to item :) Thanks again!",
+        "date": 1710847308
+      }
+    },
+    {
+      "id": "369897685799722",
+      "score": 5,
+      "review_title": "Excellent idea",
+      "review_description": "This looks like a spatial/AR/VR/3D version of obsidan.md, and I really love the concept and aesthetics.\nHowever, there are several issues for now:\n- For hand tracking, I often had difficulty to point the cursor to the correct layer of note/interface. Additionally, even if a note is very close up, you cannot directly manipulate it with hand, but only use \"pointer\", which is a bit unintuitive.\n- The note does not support Markdown/LaTeX syntax for now. For research in natural sciences, partial LaTeX support such as KaTeX is very critical...",
+      "date": 1707432928,
+      "review_helpful_count": 20,
+      "author_display_name": "hsianktin",
+      "author_alias": "hsianktin",
+      "developer_response": {
+        "body": "Thanks so much for taking the time to leave this awesome review! We know that many users expect to be able to directly interact with UI elements, so we're working on this right now. Also, it's true we don't currently support Markdown or LaTeX rendering, but thanks for letting us know that this is critical in natural sciences.",
+        "date": 1710847202
+      }
+    },
+    {
+      "id": "363334443136877",
+      "score": 2,
+      "review_title": "Not as advertised",
+      "review_description": "In the trailer the viewer sees the user in a well designed 3D environment. But in the actual application you are in the middle of a 3D plane that is totally empty, a dark void that I assumed you can import a room or environment... but nope, there is nothing there... and no functionality to do so. Am I missing something or is this purely deceptive marketing?",
+      "date": 1706482560,
+      "review_helpful_count": 9,
+      "author_display_name": "shakoure_char",
+      "author_alias": "shakoure_char",
+      "developer_response": {
+        "body": "Hi there! Thanks for raising this source of potential confusion. The trailer and app screenshots are intended to show the app running in passthrough mode. The \"well designed 3D environment\" shown is a representation of the user's physical space. But there's definitely room for misinterpretation here, so we'll update the video to make this clear.",
+        "date": 1706529527
+      }
+    },
+    {
+      "id": "323189787218382",
+      "score": 5,
+      "review_title": "It works fully with controllers…",
+      "review_description": "I like hand-tracking but some things won’t work right for me, maybe in the future. The virtual keyboard is a must with controllers. Feel like Tony Stark. Will keep an eye on future features and updates.",
+      "date": 1704677727,
+      "review_helpful_count": 3,
+      "author_display_name": "AJ2088RD",
+      "author_alias": "AJ2088RD",
+      "developer_response": {
+        "body": "Thanks for the feedback! Yes, controllers still have many advantages over hand-tracking. We're working on a way to make text input without a Bluetooth keyboard much better :)",
+        "date": 1706529793
+      }
+    },
+    {
+      "id": "323042673615765",
+      "score": 5,
+      "review_title": "Needs a virtual keyboard!",
+      "review_description": "To say this app is amazing would be an understatement! This is perfect for anybody like myself that wants to do some mindmapping outside of a computer screen. One key request that myself & many other reviewers have mentioned is please add a virtual keyboard! Bluetooth keyboards and the Quest don't necessarily play nicely together. Thanks very much, and keep up the amazing work- Softspace truly is something incredibly special.",
+      "date": 1694705561,
+      "review_helpful_count": 4,
+      "author_display_name": "tvoltz90",
+      "author_alias": "tvoltz90",
+      "developer_response": {
+        "body": "Hello! Thanks so much for your 5-star rating and the helpful feedback. We’ve implemented a virtual keyboard and speech-to-text. If you have any other comments or ideas, feel free to write us at hi@soft.space. Thanks again!",
+        "date": 1701518397
+      }
+    },
+    {
+      "id": "321786314355979",
+      "score": 5,
+      "review_title": "A huge problem",
+      "review_description": "This application is outstanding, and I believe it should be incorporated into the Apple Vision Pro. My experience with it on the Quest 3 was very impressive. I hope the developers can add Chinese language support, as there is a large user base in China who would be very willing to purchase your services.",
+      "date": 1717422435,
+      "review_helpful_count": 22,
+      "author_display_name": "benbaga299",
+      "author_alias": "benbaga299",
+      "developer_response": {
+        "body": "Hello, and thank you so much for your rating and review! We're definitely keeping an eye on the Vision Pro, especially if a more-affordable version is released soon. Multi-language support is a big item on our wishlist. Thanks again!",
+        "date": 1756276151
+      }
+    },
+    {
+      "id": "318494398019371",
+      "score": 1,
+      "review_title": "Not Working",
+      "review_description": "App is immediately closes after briefly showing the startup screen. Tried restarting quest 3 and tried uninstalling and then installing again but still the same",
+      "date": 1717253148,
+      "review_helpful_count": 12,
+      "author_display_name": "umairabbasi147",
+      "author_alias": "umairabbasi147",
+      "developer_response": {
+        "body": "I’m so sorry that you experienced this super frustrating issue! We traced the problem to the video player that displays the tutorial videos, and have published a fix. If you do try Softspace again, this problem should be gone. Thanks for reporting it!",
+        "date": 1718322890
+      }
+    },
+    {
+      "id": "316133557575555",
+      "score": 4,
+      "review_title": "Tony Starks got nothing on me now!!",
+      "review_description": "What a brilliant app. It's great to feel and work in spacial freedom - no more static screens plus a sense of being in the web. \n\nI'd love multiple browsers but there's work arounds for why I want that, and I'd like to grab text from the browser, couldn't find a way, but maybe that's user ignorance .. typing without the keyboard I can't quite see would be great too...all in all? Fantastic way to interact with the web..love it. #ironManTime",
+      "date": 1693861111,
+      "review_helpful_count": 2,
+      "author_display_name": "majormarley",
+      "author_alias": "majormarley",
+      "developer_response": {
+        "body": "Thanks so much for this awesome review! We're looking into enabling multiple browser windows, copying text out of the browser, and non-keyboard text input options. Thanks again!",
+        "date": 1695948414
+      }
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-21T00:48:39Z"
+}
