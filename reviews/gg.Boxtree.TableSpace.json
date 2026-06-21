@@ -1,0 +1,262 @@
+{
+  "app_id": "7704631686261190",
+  "package_name": "gg.Boxtree.TableSpace",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Table Space: Board and Card Game Sandbox",
+  "rating_average": 4.1222222222222,
+  "rating_count": 90,
+  "review_count": 20,
+  "reviews": [
+    {
+      "id": "1056243657564878",
+      "score": 3,
+      "review_title": "Has some glitches",
+      "review_description": "it has some glitches when playing with two or more people . keeps going and kicking people off and has trouble getting them reconnected to the group. i also wish it didn't start in a open format by that i mean in a world where everybody else even strangers can hear you. i wish i would let you start up on your own private thing and then be able to add players in a multi play your area. if they fix those few things i think this could be a five star game. i do like how it's easy to create games and it's easy to play at least with one person. they just need to fix the glitches with multiplayer.",
+      "date": 1773520117,
+      "review_helpful_count": 3,
+      "author_display_name": "Stargater892025",
+      "author_alias": "Stargater892025",
+      "developer_response": {
+        "body": "Thanks so much for trying Table Space! We definitely want to get to the root cause of these multiplayer connectivity issues ASAP. We are reconsidering the default lobby setup to instead start you in your own private home base lobby by default. We’ll try to get these fixed and improvements out the door ASAP. If you have a minute would love to better understand the specific multiplayer issues you ran into in our Discord so we can get them fixed quickly.",
+        "date": 1773614242
+      }
+    },
+    {
+      "id": "1181882641671015",
+      "score": 5,
+      "review_title": "Awsum to play wit freinds",
+      "review_description": "Funnand bare to the bone",
+      "date": 1780016347,
+      "review_helpful_count": 0,
+      "author_display_name": "RandyRoo3030",
+      "author_alias": "RandyRoo3030",
+      "developer_response": null
+    },
+    {
+      "id": "1052415021283504",
+      "score": 2,
+      "review_title": "Meh",
+      "review_description": "Just a bunch of kids who like MTG, Pokemon and Yu-Gi-Oh card games. They don't really cater to the developers and builders in the game as I had hoped they would for paid members.\n\nUse Tabletop Simulator for a better experience if you're a serious board game designer.",
+      "date": 1773415203,
+      "review_helpful_count": 1,
+      "author_display_name": "MMMRC",
+      "author_alias": "MMMRC",
+      "developer_response": {
+        "body": "We definitely want to cater to this! Where are we dropping the ball the most right now? This is something we’re working hard on supporting. Would love to know what’s most frustrating for you currently with the builder experience.",
+        "date": 1773421102
+      }
+    },
+    {
+      "id": "932094849794000",
+      "score": 3,
+      "review_title": "Its cool",
+      "review_description": ".",
+      "date": 1777880672,
+      "review_helpful_count": 0,
+      "author_display_name": "Silvereyeslive",
+      "author_alias": "Silvereyeslive",
+      "developer_response": {
+        "body": "Thanks for trying it out! What would you like to see next?",
+        "date": 1777927088
+      }
+    },
+    {
+      "id": "1019491007914248",
+      "score": 3,
+      "review_title": "Learning curve",
+      "review_description": "It it a bit of a struggle to figure out all the different things that you are able to do. There is a very short tutorial but it does not go into any detail.",
+      "date": 1773885136,
+      "review_helpful_count": 1,
+      "author_display_name": "Grizzmaster78",
+      "author_alias": "Grizzmaster78",
+      "developer_response": {
+        "body": "Thanks for sharing this feedback, we definitely have a lot of gaps in tutorial content we are planning to address!",
+        "date": 1773900220
+      }
+    },
+    {
+      "id": "942998215554342",
+      "score": 4,
+      "review_title": "Pretty good overall",
+      "review_description": "Seems like a pretty chill game…if you can actually get people to play. Often I’m the only one in the lobby, or maybe that’s just my lack of friends. Only thing I would change is maybe make it more polished? Specifically in chess, there’s no warning of kings being in check, and the game doesn’t tell you when checkmate has been reached. Not to mention that either player can move any piece, even if it’s not their piece. \n\nOverall, it’s pretty good for a free game. Would recommend for family nights or a friend group.",
+      "date": 1764343258,
+      "review_helpful_count": 1,
+      "author_display_name": "Swashbuckler1689",
+      "author_alias": "Swashbuckler1689",
+      "developer_response": {
+        "body": "Thanks for taking the time to write a review! We’ll be working on a ton of polish improvements for the Chess game mode in December! And definitely hear you on difficulty finding ad-hoc matches, we have some plans for a first-class matchmaking system in Table Space and better ways to form interest groups around specific games. In the meantime definitely recommend joining on Discord, where players are self-organizing matches.",
+        "date": 1764347322
+      }
+    },
+    {
+      "id": "1417705853346544",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "This is exactly what a lot of tabletop players will be looking for. Works great.",
+      "date": 1768092234,
+      "review_helpful_count": 1,
+      "author_display_name": "CptOblivious2",
+      "author_alias": "CptOblivious2",
+      "developer_response": null
+    },
+    {
+      "id": "833346966128129",
+      "score": 4,
+      "review_title": "Interested",
+      "review_description": "Dusted off my old Quest 3 because I heard this program could bring to life card games. My question is: does the program also allow a person to animate cards and upload along with models. I think this would be a game changer for my friend group (we are long distance) who want to get back into our old grind. If so im sure I could get a handful of people to use this program.",
+      "date": 1764205540,
+      "review_helpful_count": 1,
+      "author_display_name": "KingZade",
+      "author_alias": "KingZade",
+      "developer_response": {
+        "body": "Yes you can upload your own cards and models using our builder tool at https://builder.boxtree.gg/ once you've created your game, you can share it and play it with your friends. We're happy to help you on our Discord server if you have any issues with creating your custom games.",
+        "date": 1764340861
+      }
+    },
+    {
+      "id": "2860220550841971",
+      "score": 3,
+      "review_title": "No table tilt feature?",
+      "review_description": "I want to play while sitting down on the couch, but if I cannot tilt the table, it is pretty much unplayable. It should let us tilt like Demeo does. (I even tried laying down mode, the table does not move when I recenter.)",
+      "date": 1761072696,
+      "review_helpful_count": 3,
+      "author_display_name": "JorgTheElder",
+      "author_alias": "JorgTheElder",
+      "developer_response": {
+        "body": "Hey Jorg, thanks for sharing this feedback! We just added a new Table Tilt feature in the latest v0.43 update to Table Space. Please try it out and let us know what you think. This should make for a much more comfortable experience while lying down. You can trigger it by pointing your left palm facing up, or from the table menu in a game room.\n\nHere's a quick video showing the new feature in action with Solitaire:\nhttps://www.youtube.com/watch?v=RloMwtKOQm8",
+        "date": 1761765455
+      }
+    },
+    {
+      "id": "768748012410863",
+      "score": 3,
+      "review_title": "Potential to be amazing!",
+      "review_description": "Live the idea, but there are like no tutorials. I couldn't figure how to make the MTG settings work, and im  a regular MTG player. Please add instructions. Also, can i upload cards i own to make custom decks? Im really excited for this.",
+      "date": 1756606070,
+      "review_helpful_count": 2,
+      "author_display_name": "pattoriku95",
+      "author_alias": "pattoriku95",
+      "developer_response": {
+        "body": "Yes you can indeed create custom decks! Sorry that the instructions around this are completely missing, there's a ton of onboarding tutorial content we need to add to the game. Check out the Boxtree Builder companion site to load up your decklists in the meantime, or join us on Discord, and we're happy to help get you set up and play some matches!",
+        "date": 1756796496
+      }
+    },
+    {
+      "id": "901203883077909",
+      "score": 5,
+      "review_title": "Love",
+      "review_description": "it",
+      "date": 1765598398,
+      "review_helpful_count": 0,
+      "author_display_name": "CrimsonCanary4742",
+      "author_alias": "CrimsonCanary4742",
+      "developer_response": null
+    },
+    {
+      "id": "752630324604992",
+      "score": 5,
+      "review_title": "W game",
+      "review_description": "I like it",
+      "date": 1756691759,
+      "review_helpful_count": 1,
+      "author_display_name": "SawyerPuck",
+      "author_alias": "SawyerPuck",
+      "developer_response": null
+    },
+    {
+      "id": "699428505970022",
+      "score": 5,
+      "review_title": "Excellent Card Game Experience",
+      "review_description": "My friend is big into card games and I was looking for something that we could both play together.  This app does a great job of providing multiple card games to play.  A standard deck of 52 cards is included so you can play just about any game you can think of.  With dice, poker chips and even chess pieces there are so many table games that can be played.  I look forward to making my own custom games with the card upload feature.  Looking forward to hours of fun!",
+      "date": 1746628532,
+      "review_helpful_count": 5,
+      "author_display_name": "hockdave88",
+      "author_alias": "hockdave88",
+      "developer_response": {
+        "body": "It's very great to hear you found our game to be an excellent experience.\nWe're consistently adding more games, but would love to see your own creations too!\nThanks a lot for playing our game.\n- The Boxtree team",
+        "date": 1747079127
+      }
+    },
+    {
+      "id": "565094786698506",
+      "score": 1,
+      "review_title": "Awful",
+      "review_description": "When I played it would not let me and my friend do anything and it made our headsets overheat\nDon't recommend.the game was soooo glitchy and some of the games don't work it is a fun concept but has a lot of issues",
+      "date": 1746744120,
+      "review_helpful_count": 2,
+      "author_display_name": "Gamergirlll9878",
+      "author_alias": "Gamergirlll9878",
+      "developer_response": {
+        "body": "Hi Gamergirl, could you share more details about what happened? Was this on a Quest 2 or Quest 3 device? Did you manage to enter the main lobby, or did the game not launch at all? We are investigating this issue and want to make sure to get to the bottom of it so you can enjoy playing Table Space!",
+        "date": 1747680478
+      }
+    },
+    {
+      "id": "959688149488209",
+      "score": 4,
+      "review_title": "Great platform for card games!",
+      "review_description": "Table Space is a groundbreaking mixed-reality experience that redefines the way we enjoy tabletop games. Whether you're a fan of Texas Hold'em Poker, Tarot, Trading Card Games, or Hanafuda, this immersive platform brings your favorite games to life in a way that's both innovative and thrilling.\n\nThe customizable environments allow players to tailor their gaming space with various themes and settings, creating the perfect atmosphere for every session. The social integration features, including voice chat and public lobbies, make connecting with friends seamless and fun. Plus, with regular updates and a growing library of game modes, there's always something new to discover.\n\nWhat truly sets Table Space apart is its mixed-reality innovation. The ability to interact with the game using your hands, just like in real-life card games, adds an unparalleled level of realism and engagement. It's not just a game—it's an adventure that evolves with every update.\n\nIf you're looking to redefine your tabletop gaming experience, Table Space is the ultimate choice. Dive in and discover the future of gaming!",
+      "date": 1742884462,
+      "review_helpful_count": 4,
+      "author_display_name": "lbeavisc",
+      "author_alias": "lbeavisc",
+      "developer_response": null
+    },
+    {
+      "id": "572542225938071",
+      "score": 3,
+      "review_title": "Beautiful Design & Concept - Needs Work",
+      "review_description": "I think it would be helpful to add directions for some card games. Different game modes for certain card decks. Solitaire, memory, go fish, etc. Glitchy and needs improvement. Overall I think the general concept is great. The visuals are breathtaking and I'm sure there was thought and love put into this game. Hopefully they'll find the time to fix these issues. I'd love to recommend this game to friends. Unfortunately it's not there yet.",
+      "date": 1737355457,
+      "review_helpful_count": 4,
+      "author_display_name": "MadInsomniac",
+      "author_alias": "MadInsomniac",
+      "developer_response": null
+    },
+    {
+      "id": "534353506430016",
+      "score": 2,
+      "review_title": "Instructions",
+      "review_description": "I really like the idea of the room. I would love to see instructions on the different games and how to move around. How do you get the items inside the bottom part of the table? How do you use the chips, what is the waste basket for? Why is it so hard to exit the game?",
+      "date": 1738298164,
+      "review_helpful_count": 5,
+      "author_display_name": "PickleballGrandma25",
+      "author_alias": "PickleballGrandma25",
+      "developer_response": null
+    },
+    {
+      "id": "4169150766695718",
+      "score": 4,
+      "review_title": "Dysfunctional Fun",
+      "review_description": "The interface is very clunky, with some buttons very badly placed for the “Unofficial” game.  But we actually had a lot of fun with just how quirky and bad it was - cards going all over the place, someone hitting “cleanup” by accident, etc. So for free, a game that is most of the way there, I will give it 4 stars. It’s a great way to play classic games with my family half way around the world. What it needs more than anything though is private rooms, so you don’t have random strangers turn up in the middle of your family game. The developers could easily make this a 5 star app by adding a few more basic features.",
+      "date": 1746738134,
+      "review_helpful_count": 0,
+      "author_display_name": "Foxfires",
+      "author_alias": "Foxfires",
+      "developer_response": {
+        "body": "We really appreciate your feedback. We know the game is in a clunky state right now and are working very hard to add a ton of polish, but is very motivating to us that you found the game to be fun! That is our ultimate goal. Thank you.\n- The Boxtree team.",
+        "date": 1747078974
+      }
+    },
+    {
+      "id": "542913185577474",
+      "score": 4,
+      "review_title": "",
+      "review_description": "it looks good but the table is  above me and i can play it ?",
+      "date": 1738365950,
+      "review_helpful_count": 3,
+      "author_display_name": "Tduke",
+      "author_alias": "Tduke",
+      "developer_response": null
+    }
+  ],
+  "total": 19,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T09:20:40Z"
+}

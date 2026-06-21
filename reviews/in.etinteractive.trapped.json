@@ -1,0 +1,45 @@
+{
+  "app_id": "2616991518375078",
+  "package_name": "in.etinteractive.trapped",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Trapped VR",
+  "rating_average": 4.5,
+  "rating_count": 4,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "407326763192835",
+      "score": 4,
+      "review_title": "Cool",
+      "review_description": "The graphics and details are really good but its kinda buggy and laggy in some parts of the game especially the painting puzzle and the ending. also why is there no outside environment to make it look more realistic? and how come some parts of the house are not connected on the outside like as if its unfinished?  if possible add gamepad support with rotation but other than that its a \ngood escape house game. look forward to cool improvements, multiplayer mode etc and oh yea is it possible to disable/enable the hand/arm and just use the pointer of the go/gear vr controller? im using s6 edge plus.UPDATE: Hey maybe you guys should just add a shadow environment outside that house. if you don't know what i meant then try Epic rollercoasters and you'll see what i'm talking about.",
+      "date": 1564840327,
+      "review_helpful_count": 11,
+      "author_display_name": "Aaronb3600",
+      "author_alias": "Aaronb3600",
+      "developer_response": {
+        "body": "Hello Aaron,\n\nThanks a lot for your valuable feedback, We've tested the game thoroughly before launching it and couldn't find the bugs that you mentioned on oculus go , it's possible that a couple of older devices on GearVR might have them , we'll look in to it and fix them.\n\nWe've tried adding outside environment but had to get rid of it because of the frame rate issues on oculus go, So, we've removed it as 99% of the game happens in the indoors and we've put our complete focus on the indoor environment.\n\nWe'll look into the gamepad support and enable/disable the arm option as well.\n\nCurrently we're working on adding the online Co-Op mode feature and we think will make the game even more fun.\n\nThanks for your feedback again.\n\nRegards,\nET Team.",
+        "date": 1561198365
+      }
+    },
+    {
+      "id": "163967565115690",
+      "score": 5,
+      "review_title": "This this is lots fun😂",
+      "review_description": "Trapped with demonic grandpa Ben Kingsley has never been more fun￼￼. But in all seriousness this game is pretty cool I definitely see something here maybe possibly lose the arm model and maybe some sort of cursor to highlight objects maybe a little tweaking with movement and the touchpad on the go controller and I seem to sometimes get stuck on the step when heading up to the second floor which makes it kind of tricky to get away from grandpa Kingsley .sorry I can’t help it.￼",
+      "date": 1590812513,
+      "review_helpful_count": 2,
+      "author_display_name": "captnemo1987",
+      "author_alias": "captnemo1987",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T09:25:31Z"
+}

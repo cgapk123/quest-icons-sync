@@ -1,0 +1,34 @@
+{
+  "app_id": "25114716531522510",
+  "package_name": "gtspath.musicplayerforQuest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Music Player for Meta Quest",
+  "rating_average": 3.6666666666667,
+  "rating_count": 3,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "784301851288383",
+      "score": 4,
+      "review_title": "Fix 1 thing and you're Golden",
+      "review_description": "Great idea , already bought it!\n\nBut it's not playing music when you \"minimize\" it \n\nYou gotta keep it open which is annoying and blocking the game I'm playing. Please look into that. \n\nEverything else works correctly.💯",
+      "date": 1765980793,
+      "review_helpful_count": 6,
+      "author_display_name": "My.king",
+      "author_alias": "My.king",
+      "developer_response": {
+        "body": "Thank you for your detailed feedback! We've identified and fixed the background playback issue. The latest update (v1.2) includes:\n\n✅ Music now continues playing when you minimize the app\n✅ Works perfectly while gaming - no more interruptions\n✅ Fully functional notification controls (play, pause, skip)\n✅ Independent volume control to balance music with game audio\n\nThe update should be available on the Meta Quest Store within 3 days. We really appreciate your support and patience!",
+        "date": 1766431614
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T09:23:22Z"
+}

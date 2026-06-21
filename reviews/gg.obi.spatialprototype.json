@@ -1,0 +1,67 @@
+{
+  "app_id": "6077890835648667",
+  "package_name": "gg.obi.spatialprototype",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Project Spatial",
+  "rating_average": 4,
+  "rating_count": 11,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "592172826674201",
+      "score": 5,
+      "review_title": "It's cool, but...",
+      "review_description": "It's awesome, really great, but please make it so quest alone can put videos on it.",
+      "date": 1731877691,
+      "review_helpful_count": 0,
+      "author_display_name": "SuperiorRat",
+      "author_alias": "SuperiorRat",
+      "developer_response": {
+        "body": "Thanks, we're continuing to research a solution but Quest standalone just doesn't have the power right now.",
+        "date": 1732131852
+      }
+    },
+    {
+      "id": "536385629341888",
+      "score": 4,
+      "review_title": "Incredible",
+      "review_description": "It's like YouTube but in 3d.\n\nI only put 4 stars because recording is not available on quest 2 yet...",
+      "date": 1735669177,
+      "review_helpful_count": 4,
+      "author_display_name": "lolodulac.2023",
+      "author_alias": "lolodulac.2023",
+      "developer_response": null
+    },
+    {
+      "id": "122209238240002426",
+      "score": 5,
+      "review_title": "Omg",
+      "review_description": "Grat",
+      "date": 1720623217,
+      "review_helpful_count": 7,
+      "author_display_name": "Cameronmuccello",
+      "author_alias": "Cameronmuccello",
+      "developer_response": null
+    },
+    {
+      "id": "803093651726853",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Very good",
+      "date": 1712362406,
+      "review_helpful_count": 12,
+      "author_display_name": "ilikecrabs123",
+      "author_alias": "ilikecrabs123",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T09:21:11Z"
+}
