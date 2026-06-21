@@ -1,0 +1,674 @@
+{
+  "app_id": "9003180923141086",
+  "package_name": "com.sketchar.sketcharmeta",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "SketchAR: MuralArt Drawing Projector",
+  "rating_average": 3.1990740740741,
+  "rating_count": 216,
+  "review_count": 55,
+  "reviews": [
+    {
+      "id": "33847450521536841",
+      "score": 2,
+      "review_title": "Promising but disappointing",
+      "review_description": "As a long-time user of the Sketchar mobile app, I was genuinely excited about the Meta Quest VR version. The idea of using VR to replace a physical projector is compelling, and it’s exactly why I didn’t hesitate to spend $50 on a yearly Pro membership.\n\nUnfortunately, in its current state, the VR app doesn’t yet deliver on that promise.\n\nSeveral features demonstrated or implied in the tutorial aren’t functioning as expected. After selecting an image, the menu often becomes inaccessible, requiring a full restart just to continue. Essential tools for serious use—such as grid overlays, Z-axis positioning, and fine-grained adjustment controls—are missing. The experience is also unstable: images glitch, reset, or shift unexpectedly, and once that happens, it’s extremely difficult to realign them accurately.\n\nThat said, I want to be clear: I’m rooting for this to work. The concept is strong, and the ability to sync with the mobile app (which I’ve already invested in) shows real potential. I’m now close to $200 in across subscriptions and hardware because I believe in what Sketchar could be.\n\nAs a loyal user, my disappointment comes from high expectations, not dismissal. With stability improvements and the addition of basic alignment and control features, this could become a genuinely powerful tool for artists. I hope the team continues developing it, because I would love nothing more than to see this platform succeed.",
+      "date": 1770670550,
+      "review_helpful_count": 102,
+      "author_display_name": "TV",
+      "author_alias": "TV",
+      "developer_response": {
+        "body": "Thanks so much for the thoughtful review—and for being a long-time Sketchar user. We really appreciate the detail.\n\nWe’ve prepared a new VR version that addresses key issues you mentioned, and it’s scheduled to roll out in the coming weeks. We’d love for you to try it once it’s live.",
+        "date": 1770982710
+      }
+    },
+    {
+      "id": "1127735350427512",
+      "score": 1,
+      "review_title": "Crashes if you try to resize",
+      "review_description": "Resizing or moving around the image you w\nant to trace  is an absolute nightmare. Sometimes if you try to resize then 2 other screens appear. Most of the important functions can only be performed if you pay the premium. Extremely counter-intuitive app.",
+      "date": 1779838940,
+      "review_helpful_count": 0,
+      "author_display_name": "JeffHall",
+      "author_alias": "JeffHall",
+      "developer_response": {
+        "body": "Hello. Please update the new version. It should be fixed. If you have any other suggestions, please drop us a line at hello@sketchar.io",
+        "date": 1780305201
+      }
+    },
+    {
+      "id": "1046511785220308",
+      "score": 4,
+      "review_title": "Placement sauvegarde",
+      "review_description": "Hello, I just bought the pro version and I can't save my image placement. When my headset turns off or the application closes, I have to start all over again and try to reposition the image where I began drawing.",
+      "date": 1777825829,
+      "review_helpful_count": 3,
+      "author_display_name": "beaulieu.440684",
+      "author_alias": "beaulieu.440684",
+      "developer_response": {
+        "body": "Your image stays exactly where you placed it — even when you take off the headset or it goes to sleep. The only rule: don't turn off the Quest with the power button, as that resets all app settings.",
+        "date": 1780305394
+      }
+    },
+    {
+      "id": "950273931339398",
+      "score": 1,
+      "review_title": "Won't let me install",
+      "review_description": "So thought this would be fun but for some reason it won't let me install on meta quest 2. Any help with this would be great",
+      "date": 1779996257,
+      "review_helpful_count": 0,
+      "author_display_name": "Scuba40",
+      "author_alias": "Scuba40",
+      "developer_response": null
+    },
+    {
+      "id": "1033120526549947",
+      "score": 2,
+      "review_title": "Love the concept but needs fixing",
+      "review_description": "Got the meta solely for this app. I’ve tried it a few times and for the most part it works, but even if I lock the image and remove the glasses even for a second if completely erases the image from the vr and I have to start over, somehow placing the image exactly where it was before which is really hard to do. I haven’t signed up for the paid version yet because I wanted to try it first with the stock images first to get a feel for it.",
+      "date": 1771278182,
+      "review_helpful_count": 12,
+      "author_display_name": "InTheMatrixNow",
+      "author_alias": "InTheMatrixNow",
+      "developer_response": null
+    },
+    {
+      "id": "1097685190088780",
+      "score": 1,
+      "review_title": "Inactive subscriptions",
+      "review_description": "I did pay and was charged for a pro subscription but it never activated.\nOther than that the app seems to be good but unusable because of subscription inactivity",
+      "date": 1775647469,
+      "review_helpful_count": 2,
+      "author_display_name": "Hattans",
+      "author_alias": "Hattans",
+      "developer_response": {
+        "body": "The bug has been fixed — please update the app and give it another try! We hope everything works smoothly now, and we'd love it if you'd consider updating your review. 😊",
+        "date": 1776079649
+      }
+    },
+    {
+      "id": "1074876895709772",
+      "score": 3,
+      "review_title": "Issues sometimes",
+      "review_description": "Was fine for a few weeks until the app randomly stopped letting me upload my own photos to the app!",
+      "date": 1776443869,
+      "review_helpful_count": 1,
+      "author_display_name": "Jigmar23",
+      "author_alias": "Jigmar23",
+      "developer_response": {
+        "body": "The issue is fixed. Please update iOS app.",
+        "date": 1776551040
+      }
+    },
+    {
+      "id": "945565055306637",
+      "score": 4,
+      "review_title": "Great app freezes a lot",
+      "review_description": "I really love using this app. The only problem I have with it is after I select one option use it for a little bit. It freezes almost every time making it very tedious work on anything. So if that were to be fixed then this would be a five-star app all the way",
+      "date": 1766779061,
+      "review_helpful_count": 39,
+      "author_display_name": "vVvSaTuRnvVv",
+      "author_alias": "vVvSaTuRnvVv",
+      "developer_response": {
+        "body": "The issue is fixed. Please update the app.\nFeel free to reach out to us any time on hello@sketchar.io",
+        "date": 1767796441
+      }
+    },
+    {
+      "id": "922539944280293",
+      "score": 1,
+      "review_title": "Total junk!",
+      "review_description": "It has ONE JOB! To hold art on the wall or paper and it does that TERRIBLY! I tried the 1st small 8x10 and with in 20 sec it moved and messed all the alignment up making it crap! I tried 3 more time and it kept doing it. Even if it is locked. So this app is TOTALLY A WASTE OF MONEY!!! Don’t buy it unless they fix this but I’m guess they will not as it has been a problem from the start!!!!!",
+      "date": 1768102379,
+      "review_helpful_count": 16,
+      "author_display_name": "MoBoDesignz",
+      "author_alias": "MoBoDesignz",
+      "developer_response": null
+    },
+    {
+      "id": "1089050340950813",
+      "score": 5,
+      "review_title": "Purchase",
+      "review_description": "I cant make purchase for monthly acces. I want to try this app  but i dont know what is happening- i do everything right but still cant purchase. Help?",
+      "date": 1774265898,
+      "review_helpful_count": 0,
+      "author_display_name": "Sartir",
+      "author_alias": "Sartir",
+      "developer_response": {
+        "body": "The bug has been fixed — please update the app and give it another try!",
+        "date": 1776079865
+      }
+    },
+    {
+      "id": "984892158035324",
+      "score": 2,
+      "review_title": "Software needs a lot of work",
+      "review_description": "I bought the meta quest 3s solely because I saw this app and thought I could use it to make large murals. Well uploading your own images is probably 1 out of 10 it’s impossible once you have the images loaded you can’t do anything with them you just click click on the pics it does nothing. The software is basically frozen 98%off the time on meta quest. Then the fact you have to pay for multiple subscription s one on meta quest and one on mobile app and nothing works ? I want a refund",
+      "date": 1766842132,
+      "review_helpful_count": 10,
+      "author_display_name": "Cush27",
+      "author_alias": "Cush27",
+      "developer_response": {
+        "body": "Thank you for the report! The issue is fixed. Please update the app.\nFeel free to reach out to us any time on hello@sketchar.io",
+        "date": 1767796401
+      }
+    },
+    {
+      "id": "973900712477123",
+      "score": 1,
+      "review_title": "not worth",
+      "review_description": "Not cool to be greedy\n\n\nI have sub in my ipad also another sub in my phone also they asking for vr trust me no need there re better APP",
+      "date": 1770975351,
+      "review_helpful_count": 3,
+      "author_display_name": "7assann7000",
+      "author_alias": "7assann7000",
+      "developer_response": {
+        "body": "You need only subscription on Quest. Please reach out to us at hello@sketchar.io for a refund on mobile.",
+        "date": 1770982535
+      }
+    },
+    {
+      "id": "983209661539691",
+      "score": 1,
+      "review_title": "Doesn’t work",
+      "review_description": "Upgraded to pro to be able to upload my own imagery for it not to work uploading directly to the headset or through google drive",
+      "date": 1770466416,
+      "review_helpful_count": 2,
+      "author_display_name": "ObiJuanPeroni",
+      "author_alias": "ObiJuanPeroni",
+      "developer_response": null
+    },
+    {
+      "id": "1034445259749181",
+      "score": 5,
+      "review_title": "Esta bien buena",
+      "review_description": "Buenota",
+      "date": 1772589308,
+      "review_helpful_count": 0,
+      "author_display_name": "migas_jm",
+      "author_alias": "migas_jm",
+      "developer_response": null
+    },
+    {
+      "id": "1009685215559233",
+      "score": 5,
+      "review_title": "Amazing app",
+      "review_description": "With this app, drawing has never been easier, I should check if it has lessons on anatomy drawing, if there isn’t, can you plz add it? Not forcing.",
+      "date": 1770105550,
+      "review_helpful_count": 0,
+      "author_display_name": "GoldOtter1463",
+      "author_alias": "GoldOtter1463",
+      "developer_response": null
+    },
+    {
+      "id": "1228000902825826",
+      "score": 4,
+      "review_title": "Good app",
+      "review_description": "i love the quality of the images to use for drawing",
+      "date": 1771704865,
+      "review_helpful_count": 0,
+      "author_display_name": "user_784396892527177",
+      "author_alias": "user_784396892527177",
+      "developer_response": null
+    },
+    {
+      "id": "972927925906697",
+      "score": 1,
+      "review_title": "Terrible don’t bother",
+      "review_description": "Moves the art all over the place even after you’ve locked it , which is the whole thing it advertises that it does \n￼",
+      "date": 1770476331,
+      "review_helpful_count": 1,
+      "author_display_name": "Meljcoops",
+      "author_alias": "Meljcoops",
+      "developer_response": null
+    },
+    {
+      "id": "945137705354948",
+      "score": 1,
+      "review_title": "Ar drawing",
+      "review_description": "Doesn't seem to work i keep trying will give it a 5 if it starts working",
+      "date": 1769914608,
+      "review_helpful_count": 2,
+      "author_display_name": "b6eanflicker4.0",
+      "author_alias": "b6eanflicker4.0",
+      "developer_response": null
+    },
+    {
+      "id": "1014107691787355",
+      "score": 1,
+      "review_title": "Cant find pen option to draw",
+      "review_description": "How do i even grab a pen to draw not giving me an option someone help thanks",
+      "date": 1770810456,
+      "review_helpful_count": 1,
+      "author_display_name": "Creative37x",
+      "author_alias": "Creative37x",
+      "developer_response": null
+    },
+    {
+      "id": "968207033050122",
+      "score": 5,
+      "review_title": "NoWords..",
+      "review_description": "Sick app! 9\\10",
+      "date": 1771972514,
+      "review_helpful_count": 0,
+      "author_display_name": "nopsadogi420",
+      "author_alias": "nopsadogi420",
+      "developer_response": null
+    },
+    {
+      "id": "1202460938754542",
+      "score": 2,
+      "review_title": "Big sad",
+      "review_description": "Love the idea but the projections don’t stay still in one spot and constantly need adjusting and is unusable",
+      "date": 1770047850,
+      "review_helpful_count": 1,
+      "author_display_name": "NoEatMydogWhyBigSad",
+      "author_alias": "NoEatMydogWhyBigSad",
+      "developer_response": null
+    },
+    {
+      "id": "980295481823420",
+      "score": 1,
+      "review_title": "Hungry for money",
+      "review_description": "like 10 templates you can draw from AND some are AI then they make you pay, which i understand BUT WHY MAKE IT A SUBSCRIPTION I HAVE TO PAY MONTHLY?!",
+      "date": 1767599791,
+      "review_helpful_count": 2,
+      "author_display_name": "andrei._.andr3i",
+      "author_alias": "andrei._.andr3i",
+      "developer_response": null
+    },
+    {
+      "id": "947788328418684",
+      "score": 2,
+      "review_title": "Ca not select object",
+      "review_description": "Having trouble when trying to select. Object not able to",
+      "date": 1769286842,
+      "review_helpful_count": 2,
+      "author_display_name": "Villamodesto12",
+      "author_alias": "Villamodesto12",
+      "developer_response": null
+    },
+    {
+      "id": "925528606668754",
+      "score": 4,
+      "review_title": "Eenjoyable",
+      "review_description": "harder than it looks",
+      "date": 1771161288,
+      "review_helpful_count": 1,
+      "author_display_name": "NattheBrat71",
+      "author_alias": "NattheBrat71",
+      "developer_response": null
+    },
+    {
+      "id": "771207306031620",
+      "score": 1,
+      "review_title": "Doesn't work",
+      "review_description": "Loaded the software and can't do anything without paying.",
+      "date": 1770563109,
+      "review_helpful_count": 1,
+      "author_display_name": "MaxApache",
+      "author_alias": "MaxApache",
+      "developer_response": null
+    },
+    {
+      "id": "958365310693732",
+      "score": 1,
+      "review_title": "Worst",
+      "review_description": "Wong even let me upload image",
+      "date": 1768735650,
+      "review_helpful_count": 3,
+      "author_display_name": "CosmicOctopus9541",
+      "author_alias": "CosmicOctopus9541",
+      "developer_response": null
+    },
+    {
+      "id": "937149288990945",
+      "score": 5,
+      "review_title": "I find it nice",
+      "review_description": "Its calming and nice you can draw what you want",
+      "date": 1770518514,
+      "review_helpful_count": 0,
+      "author_display_name": "InsanityRose",
+      "author_alias": "InsanityRose",
+      "developer_response": null
+    },
+    {
+      "id": "852851337919370",
+      "score": 2,
+      "review_title": "Decent...not the greatest",
+      "review_description": "And agreed with the others, misleading ad because you can only upload maybe 10 photos.  Otherwise they get you with the PRO subscription.",
+      "date": 1765616420,
+      "review_helpful_count": 6,
+      "author_display_name": "Tha_Static",
+      "author_alias": "Tha_Static",
+      "developer_response": null
+    },
+    {
+      "id": "1033905353132022",
+      "score": 1,
+      "review_title": "Don’t waste your money.",
+      "review_description": "The app does nothing but freeze constantly. Requesting a refund.",
+      "date": 1770003139,
+      "review_helpful_count": 1,
+      "author_display_name": "T1031",
+      "author_alias": "T1031",
+      "developer_response": null
+    },
+    {
+      "id": "1021047701081540",
+      "score": 4,
+      "review_title": "Everything is fine!!",
+      "review_description": "But I have a question, does the program not work without wi-fi? is it always on the internet?",
+      "date": 1769424927,
+      "review_helpful_count": 0,
+      "author_display_name": "miltosart",
+      "author_alias": "miltosart",
+      "developer_response": null
+    },
+    {
+      "id": "782713198262133",
+      "score": 1,
+      "review_title": "Can I upload my own images?",
+      "review_description": "It seems that I can only upload my own images if I upgrade for PRO. Othewise it doesn’t allow me to access my Google Drive… is this normal or is there another way of using my onw images on the app with Meta Quest 3s?",
+      "date": 1758583554,
+      "review_helpful_count": 83,
+      "author_display_name": "TiagoGRANDE",
+      "author_alias": "TiagoGRANDE",
+      "developer_response": {
+        "body": "Using own images is a PRO feature. There are 1000+ courses, lessons, and templates",
+        "date": 1759412172
+      }
+    },
+    {
+      "id": "938238246041097",
+      "score": 4,
+      "review_title": "Great but",
+      "review_description": "Would like a one off purchase for the app not a subscription.",
+      "date": 1767816026,
+      "review_helpful_count": 1,
+      "author_display_name": "GDtomo",
+      "author_alias": "GDtomo",
+      "developer_response": null
+    },
+    {
+      "id": "819817160964702",
+      "score": 3,
+      "review_title": "Can’t download my own images!￼",
+      "review_description": "I tried to download my own images from Google Drive, none of the image showing up ! I’m a Merrill painter and can’t use this program!",
+      "date": 1763341052,
+      "review_helpful_count": 4,
+      "author_display_name": "Dmatt62",
+      "author_alias": "Dmatt62",
+      "developer_response": {
+        "body": "It's an unusual issue. Please connect to us at hello@sketchar.io",
+        "date": 1763743944
+      }
+    },
+    {
+      "id": "872358448833510",
+      "score": 5,
+      "review_title": "Hh",
+      "review_description": "Hb",
+      "date": 1767824314,
+      "review_helpful_count": 0,
+      "author_display_name": "just.nenii.0",
+      "author_alias": "just.nenii.0",
+      "developer_response": null
+    },
+    {
+      "id": "879386971935109",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Good idea but this app have too much bug",
+      "date": 1766830742,
+      "review_helpful_count": 1,
+      "author_display_name": "nico_mk.7",
+      "author_alias": "nico_mk.7",
+      "developer_response": {
+        "body": "Fixed many of them. Please update the app.\nFeel free to reach out to us any time on hello@sketchar.io",
+        "date": 1767796431
+      }
+    },
+    {
+      "id": "917908170564882",
+      "score": 4,
+      "review_title": "idk",
+      "review_description": "Idk i have to leave one",
+      "date": 1766897972,
+      "review_helpful_count": 1,
+      "author_display_name": "Moby_Duck",
+      "author_alias": "Moby_Duck",
+      "developer_response": null
+    },
+    {
+      "id": "897075020157241",
+      "score": 5,
+      "review_title": "love the game",
+      "review_description": "i love the game but i don't have any paper so but great game. don't listen to the one star.",
+      "date": 1762088966,
+      "review_helpful_count": 5,
+      "author_display_name": "Goober_GT1",
+      "author_alias": "Goober_GT1",
+      "developer_response": null
+    },
+    {
+      "id": "901245286405346",
+      "score": 3,
+      "review_title": "Great",
+      "review_description": "D",
+      "date": 1765225659,
+      "review_helpful_count": 0,
+      "author_display_name": "roocky072",
+      "author_alias": "roocky072",
+      "developer_response": null
+    },
+    {
+      "id": "746752878307332",
+      "score": 1,
+      "review_title": "Disappointed.",
+      "review_description": "Why is an art game just filled with AI? I didn't have great expectations going into this game after reading the reviews, but you are really stupid if you're putting AI generated images into an ART APP. Remember kids, AI is not real art, and if you're putting AI and (possibly) stolen art into your low quality app, don't expect people to use it.",
+      "date": 1751994898,
+      "review_helpful_count": 75,
+      "author_display_name": "penguindino",
+      "author_alias": "penguindino",
+      "developer_response": null
+    },
+    {
+      "id": "822328500973390",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Thanks",
+      "date": 1764540891,
+      "review_helpful_count": 0,
+      "author_display_name": "EyhabHodefeh88",
+      "author_alias": "EyhabHodefeh88",
+      "developer_response": null
+    },
+    {
+      "id": "883647891489581",
+      "score": 5,
+      "review_title": "ok",
+      "review_description": "ok",
+      "date": 1761553254,
+      "review_helpful_count": 2,
+      "author_display_name": "CoralKookaburra6777",
+      "author_alias": "CoralKookaburra6777",
+      "developer_response": null
+    },
+    {
+      "id": "769473702926220",
+      "score": 1,
+      "review_title": "Poor",
+      "review_description": "Whats the point. Of the app",
+      "date": 1762027429,
+      "review_helpful_count": 1,
+      "author_display_name": "lk52",
+      "author_alias": "lk52",
+      "developer_response": {
+        "body": "It's an assistant app for PRO artists to create murals or transfers sketches onto canvases.",
+        "date": 1763744037
+      }
+    },
+    {
+      "id": "707588095294833",
+      "score": 2,
+      "review_title": "Cannot Start Trial Membership",
+      "review_description": "Yes I can download the app for free on Quest but I cannot access the options unless I subscribe for the trial membership by inputing my credit card number on the headset. There are No links for registration of for the trial membership online. I have downloaded the mobile app in my IPad but that has No connection to my use of the VR app on the headset. Since you have No provision for contacting you, as with email, I must respond to you here.",
+      "date": 1749573020,
+      "review_helpful_count": 38,
+      "author_display_name": "JayaJai",
+      "author_alias": "JayaJai",
+      "developer_response": {
+        "body": "The app is free on Meta Quest and does not request your card details. Maybe you tried to download the mobile app?",
+        "date": 1749558222
+      }
+    },
+    {
+      "id": "867911226398799",
+      "score": 4,
+      "review_title": "Best",
+      "review_description": "Best",
+      "date": 1760337823,
+      "review_helpful_count": 1,
+      "author_display_name": "robbieVR2490",
+      "author_alias": "robbieVR2490",
+      "developer_response": null
+    },
+    {
+      "id": "993946603791983",
+      "score": 4,
+      "review_title": "Free pro",
+      "review_description": "Make it free",
+      "date": 1766711946,
+      "review_helpful_count": 0,
+      "author_display_name": "sponge_bob.com",
+      "author_alias": "sponge_bob.com",
+      "developer_response": {
+        "body": "Okay!",
+        "date": 1767796455
+      }
+    },
+    {
+      "id": "676359312223856",
+      "score": 1,
+      "review_title": "Not even remotely novel",
+      "review_description": "Its a png viewer. That is literally it.\nNot a drawing app, not a useful tool. You can literally already do everything this app does using your browser and file manager alone.\nBad marketing, poor explanation, underwhelming product.",
+      "date": 1748338196,
+      "review_helpful_count": 40,
+      "author_display_name": "Atmatan",
+      "author_alias": "Atmatan",
+      "developer_response": {
+        "body": "Thanks for the feedback!\n\nWhile we appreciate that it may look like “just a PNG viewer” at first glance, Sketchar is actually the pioneer of AR Drawing — and we’re on a mission to let people create art in the real world using immersive technology. Meta Quest is just the beginning of expanding that vision beyond mobile.\n\nWe’re always evolving (we did invent meaningful AR drawing in 2012, after all), and your input helps us grow — even when it stings a little.\n\nStay curious,\nThe Sketchar Team",
+        "date": 1749830081
+      }
+    },
+    {
+      "id": "918664837996986",
+      "score": 3,
+      "review_title": "Its good",
+      "review_description": "good",
+      "date": 1765736893,
+      "review_helpful_count": 0,
+      "author_display_name": "ShadowClimberVR",
+      "author_alias": "ShadowClimberVR",
+      "developer_response": null
+    },
+    {
+      "id": "894101900455077",
+      "score": 4,
+      "review_title": "Cool",
+      "review_description": "its pretty cool",
+      "date": 1765230311,
+      "review_helpful_count": 0,
+      "author_display_name": "mualani.909",
+      "author_alias": "mualani.909",
+      "developer_response": null
+    },
+    {
+      "id": "1129821745892806",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "W gam get it",
+      "date": 1765244793,
+      "review_helpful_count": 0,
+      "author_display_name": "tutloh",
+      "author_alias": "tutloh",
+      "developer_response": null
+    },
+    {
+      "id": "707257601842240",
+      "score": 3,
+      "review_title": "Has potential to be great",
+      "review_description": "This app is incredible the only thing I’d say is that we have more control on how small we can put the stencils there appears to be a lock at a certain small size and should be able to go smaller for smaller note pads",
+      "date": 1747747133,
+      "review_helpful_count": 14,
+      "author_display_name": "MikeLowry93",
+      "author_alias": "MikeLowry93",
+      "developer_response": {
+        "body": "Thanks so much — we’re glad you’re enjoying the app!\n\nAnd great news: we’ve heard your feedback, and the limitation on templates size has been removed in the latest update. Now you can scale templates down freely — from small notepads to the huge walls.\n\nKeep creating,\nThe Sketchar Team 🎨",
+        "date": 1748635168
+      }
+    },
+    {
+      "id": "645745638630404",
+      "score": 1,
+      "review_title": "Litrrly the worst",
+      "review_description": "Won’t let me use my controllers and on YouTube theirs no fixes no nothing terrible app ruined my entire day of graffiti",
+      "date": 1751252200,
+      "review_helpful_count": 3,
+      "author_display_name": "AfiriLuvsBackwoods",
+      "author_alias": "AfiriLuvsBackwoods",
+      "developer_response": {
+        "body": "We updated Sketchar and now it has the most advanced UX to control your sketch position with controllers",
+        "date": 1753711083
+      }
+    },
+    {
+      "id": "640860332442041",
+      "score": 5,
+      "review_title": "The legendary Sketchar app is on quest!",
+      "review_description": "Sketchar was the first app on the market who invented the term AR drawing. Finally it’s on Meta Quest!",
+      "date": 1746183815,
+      "review_helpful_count": 24,
+      "author_display_name": "sketchar",
+      "author_alias": "sketchar",
+      "developer_response": null
+    },
+    {
+      "id": "1062145865805871",
+      "score": 5,
+      "review_title": "Pretty good",
+      "review_description": "Don’t usually do reviews but this app is pretty unique and u can’t rlly complain if it’s free and a 2 minutes download",
+      "date": 1748651546,
+      "review_helpful_count": 6,
+      "author_display_name": "loganator1664",
+      "author_alias": "loganator1664",
+      "developer_response": {
+        "body": "Thanks for such a pleasant comment! If you have any ideas and suggestions of how we can improve sketchar for you, please drop us a line at hello@sketchar.io",
+        "date": 1749996231
+      }
+    },
+    {
+      "id": "598582883263763",
+      "score": 2,
+      "review_title": "HOW can you scale the template size?",
+      "review_description": "HOW can you scale the template size?",
+      "date": 1750361617,
+      "review_helpful_count": 3,
+      "author_display_name": "PatricKirkwood0415",
+      "author_alias": "PatricKirkwood0415",
+      "developer_response": {
+        "body": "Just use two index fingers!",
+        "date": 1752591560
+      }
+    }
+  ],
+  "total": 54,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-21T00:25:39Z"
+}

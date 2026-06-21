@@ -1,0 +1,53 @@
+{
+  "app_id": "3556267934490928",
+  "package_name": "com.slindev.projectz",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Project Z",
+  "rating_average": 5,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "874587973909570",
+      "score": 5,
+      "review_title": "Really fun",
+      "review_description": "Yeah it’s alright I got really scared and broke my headset but it’s a pretty good game",
+      "date": 1668866450,
+      "review_helpful_count": 37,
+      "author_display_name": "Convrist",
+      "author_alias": "Convrist",
+      "developer_response": null
+    },
+    {
+      "id": "509391227909821",
+      "score": 5,
+      "review_title": "HELLO THERE",
+      "review_description": "Bro i did it",
+      "date": 1668870009,
+      "review_helpful_count": 10,
+      "author_display_name": "christsam36",
+      "author_alias": "christsam36",
+      "developer_response": null
+    },
+    {
+      "id": "146579767930710",
+      "score": 5,
+      "review_title": "It's a cool game",
+      "review_description": "I love the game but it's hard to closed the doors when the monsters come at you but I like playing  it😱😨",
+      "date": 1652284100,
+      "review_helpful_count": 2,
+      "author_display_name": "jenpratt1982",
+      "author_alias": "jenpratt1982",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T00:31:31Z"
+}
