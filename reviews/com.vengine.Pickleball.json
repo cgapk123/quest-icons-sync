@@ -1,0 +1,559 @@
+{
+  "app_id": "4226087210826343",
+  "package_name": "com.vengine.Pickleball",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Pickleball",
+  "rating_average": 4.1605351170569,
+  "rating_count": 299,
+  "review_count": 181,
+  "reviews": [
+    {
+      "id": "1173535035835088",
+      "score": 4,
+      "review_title": "Decent",
+      "review_description": "It’s OK, works pretty well except when it glitches, which is about half the time a shot will be coming out you and it will move you so that you can’t hit the ball. I’ve only had this happen playing singles games against the computer, but I also haven’t explored much else and it seems pretty accurate other than that.",
+      "date": 1779494133,
+      "review_helpful_count": 0,
+      "author_display_name": "uptowngirl06",
+      "author_alias": "uptowngirl06",
+      "developer_response": {
+        "body": "Thank you for the review. We haven't seen this issue before and have not been able to reproduce it. Can you share video of when this happens for you that also shows the settings in player tab so we can debug it? Do you have AutoRun on or off?",
+        "date": 1779651579
+      }
+    },
+    {
+      "id": "990122467521215",
+      "score": 5,
+      "review_title": "User friendly and loaded with features",
+      "review_description": "Love the new paddle skins and the new feature to resize the court size with a slider. Its perfect as I can fit it exactly to play area in mixed reality.\n++++\nIt has every possible Pickleball feature and other sports like Badminton, Padel, Baseball, etc. as well with one click navigation.",
+      "date": 1771288000,
+      "review_helpful_count": 5,
+      "author_display_name": "viniot",
+      "author_alias": "viniot",
+      "developer_response": null
+    },
+    {
+      "id": "924651690508292",
+      "score": 1,
+      "review_title": "Horrible",
+      "review_description": "Grahics are the work of a fifth-grader, accurate and velocity of the ball when hit is all over the map. Don't waste your money.",
+      "date": 1770392902,
+      "review_helpful_count": 6,
+      "author_display_name": "texas.tornado.2022",
+      "author_alias": "texas.tornado.2022",
+      "developer_response": {
+        "body": "Sorry but your experience is far from typical.  If you can share a video of graphics and ball play that will help us debug.",
+        "date": 1779822762
+      }
+    },
+    {
+      "id": "920428714250005",
+      "score": 5,
+      "review_title": "Best Pickleball game",
+      "review_description": "I love playing multiplayer with my friend who has the same game on PlayStation 5.",
+      "date": 1771304006,
+      "review_helpful_count": 3,
+      "author_display_name": "Sman55",
+      "author_alias": "Sman55",
+      "developer_response": null
+    },
+    {
+      "id": "914604361747218",
+      "score": 1,
+      "review_title": "Not sure how this is getting 5 stars?",
+      "review_description": "What am I missing? Graphics are poor, nothing feels real, not comparable to Racketclub which I love.",
+      "date": 1770400321,
+      "review_helpful_count": 5,
+      "author_display_name": "AmyMtl2026",
+      "author_alias": "AmyMtl2026",
+      "developer_response": {
+        "body": "The game is on Try Before Buy so you had an opportunity to see the graphics before purchasing. But if you have any specifics to share we would love to learn about them and improve.",
+        "date": 1779822717
+      }
+    },
+    {
+      "id": "929031476326756",
+      "score": 5,
+      "review_title": "Great game!",
+      "review_description": "Best pickleball game out there!",
+      "date": 1770138375,
+      "review_helpful_count": 4,
+      "author_display_name": "Speedy456",
+      "author_alias": "Speedy456",
+      "developer_response": null
+    },
+    {
+      "id": "1348521246966163",
+      "score": 5,
+      "review_title": "Top 2",
+      "review_description": "This is one of the top 2 pickleball games. I tried all 4 of the major games as of 10/2025, and this is top 2. I'd recommend this one and the other game that has a \"one\" in the title. Both games have strengths and weaknesses in comparison to each other but both are the best by far.",
+      "date": 1762291872,
+      "review_helpful_count": 11,
+      "author_display_name": "RDF-DarkMoon",
+      "author_alias": "RDF-DarkMoon",
+      "developer_response": null
+    },
+    {
+      "id": "831218433417578",
+      "score": 5,
+      "review_title": "Great game, great support from developer",
+      "review_description": "Fun game that is good fun to play and Dev is quite fast to respond to issues",
+      "date": 1766295105,
+      "review_helpful_count": 5,
+      "author_display_name": "JayuFalcon",
+      "author_alias": "JayuFalcon",
+      "developer_response": {
+        "body": "Thank you for the review.",
+        "date": 1766959026
+      }
+    },
+    {
+      "id": "898120140052989",
+      "score": 5,
+      "review_title": "Updated review",
+      "review_description": "Excellent, prompt help from developer.",
+      "date": 1765284151,
+      "review_helpful_count": 4,
+      "author_display_name": "Quirkyjellyfish2407",
+      "author_alias": "Quirkyjellyfish2407",
+      "developer_response": {
+        "body": "Happy to help. Thanks!",
+        "date": 1765286937
+      }
+    },
+    {
+      "id": "786296367612461",
+      "score": 5,
+      "review_title": "Good pickleball game",
+      "review_description": "I really like this game! I can do pickleball drills without going out of the house",
+      "date": 1760118257,
+      "review_helpful_count": 4,
+      "author_display_name": "Ladyflakes",
+      "author_alias": "Ladyflakes",
+      "developer_response": null
+    },
+    {
+      "id": "712345255055124",
+      "score": 2,
+      "review_title": "Not a great pickleball simulator",
+      "review_description": "Some of the backgrounds have the same color as the ball.  You can lose sight of it in the foliage.  That’s simple enough to change.  It can take multiple tries to switch modes.  That just takes patience.  What you can’t change or wait out is the physics engine.  It’s just not that good.",
+      "date": 1754513532,
+      "review_helpful_count": 5,
+      "author_display_name": "Echo867",
+      "author_alias": "Echo867",
+      "developer_response": {
+        "body": "Update:\nRelease 7.0.0 has a change that disabled drag scrolling of game mode tiles to work better with old controllers with dust inside. I am confident that fixed multiple tries to change mode. Can you be specific of which backgrounds are conflicting with default ball color? We can push an update that switches the ball color based on background.\n\n+++++++\nYou can easily fix the background and ball color in settings. You can also tune the physics in the player menu to your liking with the many settings available in the menu. We haven't been able to reproduce taking multiple tries to change modes. Mode changes with one click. If you can elaborate more on the issues on the discord we can try to help there. Thanks.",
+        "date": 1763225994
+      }
+    },
+    {
+      "id": "728693619850947",
+      "score": 4,
+      "review_title": "Enjoyable and Challenging",
+      "review_description": "This app provides good physics and graphic for an enjoyable game of Pickleball. I am looking forward to using the add-on games.",
+      "date": 1751757964,
+      "review_helpful_count": 4,
+      "author_display_name": "JayaJai",
+      "author_alias": "JayaJai",
+      "developer_response": null
+    },
+    {
+      "id": "1188043833100010",
+      "score": 1,
+      "review_title": "Doesn’t work",
+      "review_description": "When you start the game, it pops up an informational message and the user is supposed to click on OK to get rid of that before they can do anything. My right controller, I point at the OK and pull the trigger and nothing happens. I’ve put new batteries in both controllers. I’ve rebooted the oculus quest three. Nothing works. So the game is worthless for me.￼\n\nUPDATE:\nThere is nothing wrong with the controller. It works fine with all games. \n\nHowever, I did discover something. If I start the game by clicking on “Pickleball” I experience the above described problem. If I start the game by selecting “Pickleball Essentials”, it works fine, I don’t have a problem with clearing the popup.",
+      "date": 1748826755,
+      "review_helpful_count": 3,
+      "author_display_name": "Colesmeister",
+      "author_alias": "Colesmeister",
+      "developer_response": {
+        "body": "This works & the review is obsolete. The reviewer hasn't updated it. We have root caused the issue and released a fix in version 6.9.3.\nDeleting Pickleball app data in Quest settings should resolve the issue. We have also released an update that auto closes the initial dialog after 5 seconds. Please contact us through support channels if the issue persists.",
+        "date": 1763358612
+      }
+    },
+    {
+      "id": "688517191004841",
+      "score": 4,
+      "review_title": "Practice mode is good",
+      "review_description": "I practiced for a while and, unfortunately, you have to leave a review to unlock the other modes! For a paid app!?!",
+      "date": 1747765558,
+      "review_helpful_count": 6,
+      "author_display_name": "GregMart",
+      "author_alias": "GregMart",
+      "developer_response": {
+        "body": "Thank you for the review but can you please clarify what you mean by other modes? Everything (singles, doubles, multiplayer, practice modes) related to Pickleball should be included in the base purchase. You can also purchase pro (which is sports other than Pickleball) as an in app purchase or you can purchase the bundle with pro included if you want pro included and then you don't have to leave a review to unlock anything. It costs more though because we worked hard to develop the extra modes. The concept of in app purchases within a paid app is not at all new as you seem to think.",
+        "date": 1747778761
+      }
+    },
+    {
+      "id": "612409445290998",
+      "score": 2,
+      "review_title": "Hard to navigate",
+      "review_description": "I purchased the game played it for awhile and had a hard time choosing all the options for different games practices, etc. then I purchased pro for this game figuring it would give me all that I need but so I had to buy another ad on and I haven’t played with that yet to see if it makes choosing other things like practices and singles, play and doubles play available. Right now I’m not the happiest with this game so buy a beware you might have to purchase the game and then several add-ons.",
+      "date": 1744649270,
+      "review_helpful_count": 4,
+      "author_display_name": "Abasta51",
+      "author_alias": "Abasta51",
+      "developer_response": {
+        "body": "There was an update to improve game mode switch reliability. Are you still having trouble navigating? \n\n***********\nPlease stop spreading misinformation.  We don't sell several add-ons as you claim. Contact support so we can figure out what's going on with your setup. Singles, Doubles, Ball machine, Custom shots, Serve Practice, Wall Practice, Cross court dink, Smash Defense, etc. Pickleball drills are part of basic purchase. All the modes can be launched with a single click.",
+        "date": 1767128505
+      }
+    },
+    {
+      "id": "545375975319148",
+      "score": 2,
+      "review_title": "Overrated & Needs Improvement",
+      "review_description": "This paid app has a persistent main screen message to “Write a review for free upgrade to Pro (while supplies last)”. Without upgrading to pro, you have access to only 7 of the 24 modes of operation. As a result, I feel the number and quality of reviews are questionable. BTW, I did comment on the many disabled features in my initial review, and the dev said he unlocked Pro for me, but nothing changed. As far as the functionality goes, I was able to configure a custom paddle adapter, but it resulted in showing an arm twisted around backward during play, which was distracting. Using the Serve Training, I was able to hit many balls in a row, but the results were much more inconsistent than those I achieve in real life. Unfortunately, the physics in this game need improvement for me to use it.",
+      "date": 1735593575,
+      "review_helpful_count": 5,
+      "author_display_name": "CreationMatt",
+      "author_alias": "CreationMatt",
+      "developer_response": {
+        "body": "16 modes in Pickleball game are now part of base purchase. Exciting New Features Now Included in Our Base Purchase! 🎾 See https://www.oculus.com/experiences/quest/developer-post/600232889083268/\nAlso there are a lot of features unavailable in any other Pickleball apps e.g.\n1. Instant Replay\n2. Variable game speed\n3. One handed play\n4. Stroboscopic training\n5. Different types of mixed reality options in every mode.\n6. Variable depth and width on teleportation zone\n7. Variable paddle and ball size\n8. Variable wind simulation\n9. Variable Magnus Force\n10. Leaderboard - Daily, Weekly, Annual\n11. Full configurable ball machine with spin, velocity and position and a drill sequencer\n12. Ability to freeze the ball to watch the spin.",
+        "date": 1743019261
+      }
+    },
+    {
+      "id": "614041598043316",
+      "score": 5,
+      "review_title": "",
+      "review_description": "I’m only giving 5 stars to get rid of the pop up box that they keep popping up to leave a review.\n\nI will say the little I have played it seems fun",
+      "date": 1739294395,
+      "review_helpful_count": 2,
+      "author_display_name": "Firea111",
+      "author_alias": "Firea111",
+      "developer_response": null
+    },
+    {
+      "id": "607200738485486",
+      "score": 2,
+      "review_title": "My review",
+      "review_description": "I think it is an OK game. I got it for my birthday, but my problem is. when I got onto it, I was super excited, but then was immediately disappointed after they were serving the ball at the ground and I could not hit it for the life of me. I was thinking maybe I was too tall, but I can’t change my height, so it’s really hard for me too hit the ball and I wanted to play against someone online, but all I was able to do was play against the AI bots and their serving way too low ￼￼",
+      "date": 1734151700,
+      "review_helpful_count": 2,
+      "author_display_name": "P-Diddy1212",
+      "author_alias": "P-Diddy1212",
+      "developer_response": {
+        "body": "We have added a height offset setting in the player tab of settings. You can use that to change player height in case setting the height in Quest Gaurdian settings doesn't work for you.",
+        "date": 1743019116
+      }
+    },
+    {
+      "id": "1004023958272036",
+      "score": 1,
+      "review_title": "Unrealistic",
+      "review_description": "Terrible game, not even close to real Pickleball",
+      "date": 1737339777,
+      "review_helpful_count": 3,
+      "author_display_name": "Angelas2021",
+      "author_alias": "Angelas2021",
+      "developer_response": {
+        "body": "The user returned the game after hitting a few balls as there are only 8 points on the leaderboard. They left a 1 star review to manipulate the rating of the game. Its review bombing\n*********\nSorry but why? We are happy to help with specific issues through support channels and strive to make it as realistic as possible. There are a lot of settings that can be used to tune the physics if that's what your concern is.",
+        "date": 1767128344
+      }
+    },
+    {
+      "id": "565968202840763",
+      "score": 4,
+      "review_title": "Missing auto run",
+      "review_description": "Good graphics and physics. Seems like a great game but unable to play more cause you can't select auto run. Teleport gives me headache",
+      "date": 1733073189,
+      "review_helpful_count": 5,
+      "author_display_name": "qp00",
+      "author_alias": "qp00",
+      "developer_response": {
+        "body": "The game is not missing Auto Run. Title of this review is misleading.\n\nThank you for the review. I've unlocked Pro upgrade for you. But Auto-run is not missing. Look in Player Tab of the menu. There is a checkbox called \"Auto-run\". This is the first time I have heard teleport giving someone a headache but not auto-run. Its normally the other way round which is the reason auto-run is not the default option. Are you moving yourself with the joystick in teleport mode? That can give you a headache but I don't understand how teleport gives a headache because it shifts the position in one frame which is unnoticeable. Let me know how I can help ensure you don't get a headache while playing.",
+        "date": 1733782184
+      }
+    },
+    {
+      "id": "1041465564003540",
+      "score": 5,
+      "review_title": "Top Game (but could it be improved ?)",
+      "review_description": "I have been playing this game for a good while now and enjoying it immensely, but like many, not brave enough to to put myself out there to play all and sundry, so limit myself to the Bots. …… that was until recently when I upgraded to Pro and then tried to play a local multiplayer game with two headsets against my wife. Whilst the scoreboard shows both our names, the person at the other of the court seems to be a different Bot on each headset😲. I’d love to share the experience and  prefer this game to Pickleball One, that I understand does have this functionality. Can you invite a friend or not to play the SAME game against them? Would be 5 stars if you could.\n\nThanks to the Developer for sorting out the glitch that prevented inviting and playing with a friend. I have since tested it and it does work so is now a TOP GAME worth 5 Stars.  All I have to do now is persuade the wife to don the headset again 😏",
+      "date": 1723639651,
+      "review_helpful_count": 4,
+      "author_display_name": "Tenaciousdad",
+      "author_alias": "Tenaciousdad",
+      "developer_response": {
+        "body": "Thank you for updating the review!",
+        "date": 1723665593
+      }
+    },
+    {
+      "id": "349574964654139",
+      "score": 1,
+      "review_title": "I don't like this game at all.",
+      "review_description": "I played two hours of actual pickleball this morning, then decided to give this game a shot.  I tried playing as a single player with the bot partner.  It's horrible.  The bot is often in your face.  After you hit a shot, the game randomly places you in some other place on the court.  Often your bot partner obstructs your view so you can't return a shot.  It seems to have two robot comments - \"That was unexpected.\" and \"Oh, you've got to be kidding.\"  You win a point or two and then your easy hits go long or harder ones go short, and you're guaranteed to lose.  Now if I can only figure out Meta's refund policy...",
+      "date": 1706983794,
+      "review_helpful_count": 7,
+      "author_display_name": "garype.2022",
+      "author_alias": "garype.2022",
+      "developer_response": {
+        "body": "So you were expecting to run around like on a real court while wearing a VR headset? Not a good idea.\n***********\nI am truly sorry you had a poor experience. https://youtu.be/gKZVbUTcRtY is normally how the game works. As you can see the ball can be placed accurately but something may be different in your environment. We update often so if you can share a video of what you experienced it would help us understand and  root cause the issue for you. -Nigel 2/10",
+        "date": 1767142918
+      }
+    },
+    {
+      "id": "106372932355194",
+      "score": 5,
+      "review_title": "Very fun!",
+      "review_description": "I use this game to get my Pickleball fix when the weather is bad. It’s so fun and has multiple ways to play. The developer is awesome and very responsive.",
+      "date": 1673902459,
+      "review_helpful_count": 5,
+      "author_display_name": "LNBrad",
+      "author_alias": "LNBrad",
+      "developer_response": {
+        "body": "Thank you for being an awesome customer of the game. Looking forward to continuous improvement so we can all enjoy Pickleball whenever we want :) Vikram 1/17/23",
+        "date": 1673965908
+      }
+    },
+    {
+      "id": "117961031184270",
+      "score": 3,
+      "review_title": "promising",
+      "review_description": "Promising. Hoping that drills are unlocked from the start so we can have more enjoyable use of the app.",
+      "date": 1673908043,
+      "review_helpful_count": 1,
+      "author_display_name": "arch1428.2023",
+      "author_alias": "arch1428.2023",
+      "developer_response": {
+        "body": "Release 6.0.18 is the currently the latest and has noticeably improved frame rate consistency which improves physics as well.  5/2/24\n\nHi, The app has had over 400 updates since your review. Please give it another go. We would like to get your review up from 3 star. There is a fully configurable ball machine now included for free. Thanks.  - Vikram 10/20/23\n\nDrills can now be purchased - Vikram 4/28\n\nDrill are a value added pack that can be unlocked based on points on the leaderboard for sure. It doesn't take long to reach enough points to start unlocking the drills with practice. The other way is to get it based on a drawing. Apart from drills there is single, doubles, multiplayer singles, serve practice, moving ball machine and stationary ball machine mini games which is already more than similar paddle games in the store.   Vikram 1/17/23",
+        "date": 1714655451
+      }
+    },
+    {
+      "id": "184799190749322",
+      "score": 1,
+      "review_title": "Horrible",
+      "review_description": "DO NOT WASTE YOUR MONEY ON THIS TRASH",
+      "date": 1666557123,
+      "review_helpful_count": 6,
+      "author_display_name": "jparkerdotcom",
+      "author_alias": "jparkerdotcom",
+      "developer_response": {
+        "body": "Sorry it didn't meet your expectations. There have been 320 updates since the release so give it another shot and let me know what you think. I can also put on on beta if you would like to try it before purchasing again. Vikram 6/15",
+        "date": 1686859603
+      }
+    },
+    {
+      "id": "178532994680109",
+      "score": 1,
+      "review_title": "Terrible",
+      "review_description": "Not as described in trailer. Ball usually goes right through your paddle. DO NOT BUY",
+      "date": 1661207896,
+      "review_helpful_count": 5,
+      "author_display_name": "Soccer_dude",
+      "author_alias": "Soccer_dude",
+      "developer_response": {
+        "body": "The reviewer received a full refund. Ball never goes through the paddle anymore - Vikram 3/28\n\nNo response from reviewer 2/5/23\n\nThere have been 250+ updates since this review with 100s of feature improvements. For example, Smart Teleport intelligently places you in a position to volley and physics has been updated to enable 50+ mph smashes. Auto run has also been added.  Give it another try and see if you like it. Thanks for your inputs and encouragement. As one of the first buyers of this game I want to make sure you get a 5-star experience. - 12/31/22\n\nNo response from reviewer - 12/29/22\n\n\nAfter more thought, I have added a slider to make the paddle size bigger. This will make it easier for beginners who aren't able to intercept the ball with a normal size paddle. With practice one can get good enough to even play with a half size paddle - 9/3. No response from the reviewer. The ball never passes through the racket. Do not hesitate to buy. Even if there is some issue I make sure they are fixed within 1 day or issue a full refund - 8/26/2022. Here is another video just recorded - https://fb.watch/f6xO4SlTDd/. The ball never passes through the paddle here. I would like to understand what you saw. - 8/24/2022. The trailer is a straight video capture of the game with no trickery. If ball usually goes through the paddle then people will not be accumulating 100s of points on the leaderboard. You need to get paddle on the ball to hit it. You can slow down the game speed and see that the ball is not going through the racket but the timing of your stroke play is not right. I'd recommend that you first focus on watching the ball and simply touching the paddle to the ball in Arcade mode instead to trying to play the stroke in simulation mode. You can also use Simcade mode which will correct the stroke as long as you can touch the ball.   I can play rallies of 50+ shots in any of the Arcade, Simulation or Simcade modes. The ball doesn't pass through the paddle even when game is run at 2x the speed.  It takes practice. Trust me this is not an issue with the game. If you disagree, post a video showing the ball passing through the racket so I can see what you are talking about and fix it. - Vikram 8/23",
+        "date": 1680026947
+      }
+    },
+    {
+      "id": "178627401341929",
+      "score": 5,
+      "review_title": "Pickleball Instructor - 4 years",
+      "review_description": "Amazing technology to actually help develop some muscle memory. Takes few moments to get comfortable but once you do...it is quite addictive. \n\nUser POV - Love paddle games; see if u can work to create a paddle bundle (Meta ppl seeing this - 11, Tennis and Pickleball). Love playing the Bot (though I doubt any pro can beat the most advance setting). Does this game learn how I play ? Is this truly AI \n\nInstructor POV - Muscle Memory, Muscle memory, Muscle Memory (Keep the paddle up) and try to use various strategies (high lob, drop shot, kitchen rally). Great Physics. I will highly recommend to players loving 11 and Tennis.",
+      "date": 1663223597,
+      "review_helpful_count": 7,
+      "author_display_name": "sharshavat",
+      "author_alias": "sharshavat",
+      "developer_response": {
+        "body": "Thanks for the great review. Consistent and precise physics has been the the key objective and I am glad we are doing good on that. All racquet sports lovers should have this game as it has the tools missing in other games necessary to improve performance such as ability to play the game at higher than normal speed with smaller than standard size paddle.",
+        "date": 1663278235
+      }
+    },
+    {
+      "id": "170816135473251",
+      "score": 5,
+      "review_title": "Great app, a MUST for pickleball players",
+      "review_description": "Great graphics, awesome mini games, leaderboards, multi-player too. I love the slow motion option, it helps me see what I'm doing wrong. Different courts and ball effects to choose from is really cool. The developers went the extra mile on this game!!! Pickle ball here I come!!",
+      "date": 1660596474,
+      "review_helpful_count": 6,
+      "author_display_name": "NSmithVR",
+      "author_alias": "NSmithVR",
+      "developer_response": {
+        "body": "Thank you for playing. Enjoy! If you have any issues please do not hesitate to contact us through the Facebook page or Discord channel",
+        "date": 1660669352
+      }
+    },
+    {
+      "id": "169433492668249",
+      "score": 5,
+      "review_title": "Fun Game, especially for beginners!",
+      "review_description": "Just getting into pickleball and this game is really fun to play! It has the options to practice and play against bots to improve before playing against others. Still figuring out the settings, especially people keep calling in the middle of the game and even when you click do not disturb, the same person calls again!    \n\nThanks for the quick response, unchecked and played without disruptions. Highly recommend game!",
+      "date": 1681080681,
+      "review_helpful_count": 5,
+      "author_display_name": "Dragonratsnake",
+      "author_alias": "Dragonratsnake",
+      "developer_response": {
+        "body": "Thank you for reviewing. Match making service is matching you with other players because \"Find Match\" is checked. If you uncheck Find Match it will stop trying to find a match till you restart the app. Do not disturb stops it for duration of the current game but match making will resume with the next game. It is designed to find matches this way because playing with AI alone can get boring after a while. While playing with an other human one can talk and learn new things. Also you can earn points faster while playing with other humans as it is tougher to beat the bots. Currently there is no penalty for losing a game. Even if you lose a game you are awarded points based on the score differential. If you accept match while playing with AI you are awarded points immediately for the AI game based on the score at that time. Vikram 4/9/23",
+        "date": 1681053291
+      }
+    },
+    {
+      "id": "161145280287198",
+      "score": 4,
+      "review_title": "A work in progress, great concept",
+      "review_description": "This game has a lot of features and a decent platform. It definitely doesn’t have the responsiveness of higher end games. But it does give a platform where I can go on the oculus and meet other pickleball players from all over. \n\nI am injured so I was playing in chair mode but that made it nearly impossible to lose. I turned that off a it made it extremely difficult to Simply get over the net. It’s seems to not auto adjust well for height. I play in real life so I know that even seated I can easily hit it over the net. I know because I’ve done it. \n\nHonestly there are too many things to choose from. It feels a little overwhelming picking from a menu of items with no explanation of how it will effect the outcome. \n\nOne thing I do know as I’ve chatted with the developer is that he cares about his game and is really working to make it something great. That gets an extra star in my book. \n\nI think the auto match games should filter not only by game level but also by what selections you have turned on as it can give a huge advantage.",
+      "date": 1686800126,
+      "review_helpful_count": 3,
+      "author_display_name": "Hamafam7",
+      "author_alias": "Hamafam7",
+      "developer_response": {
+        "body": "Firstly, if you want the paddle to hit with more power you can increase paddle sensitivity under player settings. Default is 1. And it can be varied from 0.5 to 2. If you even make it even 1.3 only a tap will send the ball over the net during serve. But you obviously lose some control as there is always a power to control tradeoff. Since you are unable to fully swing using your back muscles while sitting on a chair increasing the paddle sensitivity may be the right tradeoff for you.\n\nLet's see if you can beat me using chair mode. I believe I will win and hence I don't want to discriminate against playing in a chair mode because I fear they would win. Even if they win I don't care since I would have made someone limited to a chair happy and they would have given me something to work on. That's how I have always played sports and it has helped me improve. I feel fragmenting the user base by settings they play with is not a good idea at this time. May be it would make sense when there are plenty of matched players to pick from at any given moment. That's not the case right now. The game already has invite friend option where you can invite specific players for a match.\n\nI don't understand why more settings is overwhelming. For most users, it is not necessary to change the default settings to start playing or play well. I play on default settings except I reduce the placement assistance to zero so I can tightly control my shots. Default is 30%. Other than that if anyone wants to customize and don't understand the settings they can always refer to the user manual or ask on facebook group or discord. Settings don't hinder anyone I thought.\n\nResponsiveness of the game will automatically improve a bit since Meta announced 20% more compute and GPU power on existing Quest 2 hardware. I always keep looking for ways to optimize as well to improve the smoothness of the game.\n\nThank you for the review!",
+        "date": 1686856784
+      }
+    },
+    {
+      "id": "158144137155915",
+      "score": 5,
+      "review_title": "Last Update",
+      "review_description": "The last update changed how the player moves. It felt like I was on the teacups at Disneyland. I could only play for less than 60 seconds before it made me nauseous. Otherwise, I love the game, please turn it back.\n\nHe was quick to let me know how to fix it. Thanks for the speedy response. And I would highly recommend this game.",
+      "date": 1679453140,
+      "review_helpful_count": 7,
+      "author_display_name": "LadyHarley",
+      "author_alias": "LadyHarley",
+      "developer_response": {
+        "body": "Thank you for reporting the issue and promptly updating the review. If you practice with Auto Run for more than a few minutes the feeling of nausea might disappear like it did for me. Then it feels like a fun new challenge to play in Auto Run mode. Vikram 3/21/23",
+        "date": 1679492296
+      }
+    },
+    {
+      "id": "148534861460870",
+      "score": 5,
+      "review_title": "Service Issue Fixed, Great Job! Happy!",
+      "review_description": "The app is fun and I am sure will improve. Right now it says wrong side for serve and it’s not the wrong side, so you lose your serve. I’m not sure how to communicate on discord. Specifically when I serve to what is supposed to be the correct court it says wrong court and it is not. At that point you lose your service. It is sporadic.\n\nI don’t have Facebook. I understand Pickleball completely. As an example, playing doubles serving from the even court diagonally, it faults and states served in wrong court. This only happens in doubles mode, it has not happened in singles.\n\nThe issue was fixed. Thank you for the quick response, very impressive. I  have changed the stars to 5.",
+      "date": 1678481481,
+      "review_helpful_count": 3,
+      "author_display_name": "DphillipsJr61",
+      "author_alias": "DphillipsJr61",
+      "developer_response": {
+        "body": "Thank you for updating the review! Vikram 7/12/23",
+        "date": 1689208916
+      }
+    },
+    {
+      "id": "144296848528435",
+      "score": 5,
+      "review_title": "Good game, lots to learn",
+      "review_description": "Enjoy playing but still tweeking the settings. Still cant find the right setting to hold paddle at correct angle for myself. I am a left and I find serving very awkward in the app. I appreciate all the updates a look forward to using this app to drill with when I cant make it to the courts.",
+      "date": 1677461965,
+      "review_helpful_count": 3,
+      "author_display_name": "kountrygal18",
+      "author_alias": "kountrygal18",
+      "developer_response": {
+        "body": "I am happy that you are enjoying it and truly appreciate your kind review. Serve is a bit challenging to master compared to real life but one can achieve consistency with practice. If you want a some assistance with serve you can increase the placement assistance from its default value of zero or use simcade mode. Either of those options will help greatly but ultimately you want to practice serving without any assistance.  Please feel free to reach out to me on Discord or Facebook if you want to change something about serving. Vikram 2/26/23",
+        "date": 1677468695
+      }
+    },
+    {
+      "id": "138704435669354",
+      "score": 5,
+      "review_title": "So much fun!",
+      "review_description": "I have been playing Pickleball IRL and was looking for a simulator for a long time. I played with the bot and suprised by how real the game play feels. I had a tough time beating the bot even at difficult level 3 but I did it. It was exciting and a good workout. Can't wait to climb the leaderboard and play multi-player games with friends. I noticed another review which said you shouldn't have to press buttons to make shots. Well you don't need to use the accessibility feature (arcade mode) just play naturally in the default simulation mode where your paddle swings determine where the ball goes. Thank you very much!",
+      "date": 1672238714,
+      "review_helpful_count": 5,
+      "author_display_name": "RogerM22",
+      "author_alias": "RogerM22",
+      "developer_response": {
+        "body": "Thank you for the review!",
+        "date": 1700840045
+      }
+    },
+    {
+      "id": "133103166382270",
+      "score": 5,
+      "review_title": "Haven't really figured this out yet!",
+      "review_description": "Putting this out here in the hopes that someone can advise me. Every time I turn this game on to practice, I get flooded with phone calls from people that mess up my practice sessions. I click the Do Not disturb button on the phone call but it doesn't stop them from relentlessly calling. Often the same person will call multiple times. Is there a way to stop this feature? I am not ready to play games with anybody while I'm still trying to figure out how the app works.  Update: problem solved.  Noticed new improvement to the ball machine practice too - can hit lobs now 😊",
+      "date": 1679753834,
+      "review_helpful_count": 6,
+      "author_display_name": "Magia7658",
+      "author_alias": "Magia7658",
+      "developer_response": {
+        "body": "Thank you for updating the review.",
+        "date": 1679780452
+      }
+    },
+    {
+      "id": "130259273274501",
+      "score": 4,
+      "review_title": "A Great Evolving PB Game!",
+      "review_description": "As a 4.0 player and someone who has been playing for years and hours a day, this is a great game, and I'm excited to see it grow.\n\nI will play this daily and update my review as I play more. I will test all the gameplay features and report back.\n\nKeep up the great work with the game, and please continue to focus on multiplayer.",
+      "date": 1674764676,
+      "review_helpful_count": 1,
+      "author_display_name": "JJMichaelSmith",
+      "author_alias": "JJMichaelSmith",
+      "developer_response": {
+        "body": "Thank for playing and taking the time to review. I am fully focusing on developing the multiplayer functionality using Epic Online Services now to provide a better alternative to the current Oculus P2P based multiplayer implementation. Epic online services is considered the best multiplayer infrastructure since it runs Fortnite. Vikram 1/26/2023",
+        "date": 1674776144
+      }
+    },
+    {
+      "id": "124950943824039",
+      "score": 4,
+      "review_title": "Great responsiveness!",
+      "review_description": "I wrote a review after frustration with the app freezing my headset when trying to use the match function (all I could do was power it off with the external button). Two things I learned: 1) it’s going to be up & down in different areas as development continues (I thought it would be more linear & just gradually improve) but 2) they are VERY responsive to feedback which I hugely appreciate. They said they would be working on this issue tonight. Wow! The frustration is you can see it’s amazing potential… but can’t always access it. Anyways I’m going to hang in there.",
+      "date": 1675707714,
+      "review_helpful_count": 5,
+      "author_display_name": "AcademiaNut",
+      "author_alias": "AcademiaNut",
+      "developer_response": {
+        "body": "Crashes have actually been quite rare. I am sorry you experienced the issue but the matchmaking code has been improved so hopefully you aren't facing the issue anymore. There have been about 300 updates since August launch with lots of feature additions. Improvement is continuous though there might be some glitches along the way due to the rapid pace of development where we take risks and quickly recover from mistakes. - Vikram 2/6/2023",
+        "date": 1675735726
+      }
+    },
+    {
+      "id": "124864394006010",
+      "score": 5,
+      "review_title": "The reason I bought a Quest",
+      "review_description": "Very fun game. Won’t replace the real thing, but it will definitely improve my hand eye coordination.",
+      "date": 1690139550,
+      "review_helpful_count": 3,
+      "author_display_name": "RobertHinton",
+      "author_alias": "RobertHinton",
+      "developer_response": {
+        "body": "Thank for reviewing. Enjoy!",
+        "date": 1690147382
+      }
+    },
+    {
+      "id": "122454154067680",
+      "score": 5,
+      "review_title": "Pickleball Drills",
+      "review_description": "Definitely a great way to get into Pickleball,",
+      "date": 1674527847,
+      "review_helpful_count": 3,
+      "author_display_name": "bernd.reuter.33",
+      "author_alias": "bernd.reuter.33",
+      "developer_response": {
+        "body": "Thanks for the rating. I am glad you are enjoying it and looking forward to your continued support. Vikram 1/24/23",
+        "date": 1674584367
+      }
+    },
+    {
+      "id": "120622387761873",
+      "score": 5,
+      "review_title": "Amazing.",
+      "review_description": "My husband and I just got VR headsets less than a week ago. We are IRL players and wanted to be able to keep playing in the summer months when our AZ temps are brutal. Although I am not tech savvy I was able to start playing the game immediately. What is amazing is the ability to finely tune just about every aspect of the game. In addition the ball machine is invaluable as it shoots balls quickly and from all different directions. We are still in the learning curve but I have no doubt that this will give me hours of enjoyment, valuable skill practice and very good exercise. As a bonus, the developer is so passionate about this game and app that he is involved in the Discord community and is constantly tweaking it to bring it to perfection! Thanks for another wonderful way to enjoy the addictive game of Pickleball.",
+      "date": 1689969155,
+      "review_helpful_count": 4,
+      "author_display_name": "jo.936008",
+      "author_alias": "jo.936008",
+      "developer_response": {
+        "body": "Thanks for the kind review. Enjoy the game. Feedback from IRL pickleball helps the game improve so keep that coming please. Thanks! Vikram 7/22/23",
+        "date": 1690092011
+      }
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-21T04:50:18Z"
+}

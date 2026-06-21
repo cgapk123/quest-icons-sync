@@ -1,0 +1,31 @@
+{
+  "app_id": "25087469794257936",
+  "package_name": "com.veda.movieplayer",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "VD Movie Player",
+  "rating_average": 2,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1024800017387001",
+      "score": 2,
+      "review_title": "No streaming",
+      "review_description": "This could be a great app, but hasn't been able to stream videos from sites like Peacock, Netflix, etc.",
+      "date": 1775185839,
+      "review_helpful_count": 0,
+      "author_display_name": "Skyworker",
+      "author_alias": "Skyworker",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T04:48:35Z"
+}

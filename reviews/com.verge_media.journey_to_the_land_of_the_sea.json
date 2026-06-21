@@ -1,0 +1,53 @@
+{
+  "app_id": "4267150026650968",
+  "package_name": "com.verge_media.journey_to_the_land_of_the_sea",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Journey to the Land of the Sea",
+  "rating_average": 4.1666666666667,
+  "rating_count": 6,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "156747050567953",
+      "score": 3,
+      "review_title": "Nice, but freezes",
+      "review_description": "This is a great experience! Unfortunately, in our lab environment we saw quite a bit of freezing and crashing so very few users made it past a few minutes.",
+      "date": 1678395384,
+      "review_helpful_count": 3,
+      "author_display_name": "xrlab12",
+      "author_alias": "xrlab12",
+      "developer_response": null
+    },
+    {
+      "id": "447638610110535",
+      "score": 5,
+      "review_title": "3d 360",
+      "review_description": "Real 3d 360, very nice to watch",
+      "date": 1636916325,
+      "review_helpful_count": 2,
+      "author_display_name": "pilotequest",
+      "author_alias": "pilotequest",
+      "developer_response": null
+    },
+    {
+      "id": "918394682431386",
+      "score": 5,
+      "review_title": "Good quality 360 3D video",
+      "review_description": "Its a 360 3D high resolution video about 16 minutes long...",
+      "date": 1635282018,
+      "review_helpful_count": 2,
+      "author_display_name": "Riken_Patel",
+      "author_alias": "Riken_Patel",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T04:50:45Z"
+}

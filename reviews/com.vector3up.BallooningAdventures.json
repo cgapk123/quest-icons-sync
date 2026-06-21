@@ -1,0 +1,89 @@
+{
+  "app_id": "1298464133518361",
+  "package_name": "com.vector3up.BallooningAdventures",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Ballooning Adventures",
+  "rating_average": 3.6666666666667,
+  "rating_count": 15,
+  "review_count": 15,
+  "reviews": [
+    {
+      "id": "2133404040030181",
+      "score": 3,
+      "review_title": "my dad liked it",
+      "review_description": "great for showing non gamers vr. not great for gamers.",
+      "date": 1554870980,
+      "review_helpful_count": 2,
+      "author_display_name": "fungusman",
+      "author_alias": "fungusman",
+      "developer_response": null
+    },
+    {
+      "id": "1761160840608524",
+      "score": 2,
+      "review_title": "",
+      "review_description": "It's desorientating asf that you move inside the ballon just by looking down.. Not rly a good user experience",
+      "date": 1522526690,
+      "review_helpful_count": 4,
+      "author_display_name": "Cystasy",
+      "author_alias": "Cystasy",
+      "developer_response": {
+        "body": "Thanks for the feedback, After quite a bit of user testing,  people said that they preferred, the experience with the simulated head tracking. \nIf more people would prefer an option to disable this feature, I will gladly add it. \nIt was an important feature to be able to look down over the side of the balloon from any side. Many thanks Jeremy",
+        "date": 1527788400
+      }
+    },
+    {
+      "id": "1333461943364390",
+      "score": 5,
+      "review_title": "Great Finish",
+      "review_description": "I just completed Ballooning and it was a wonderful adventure. When you get all the way through there is a great surprise. My favorite game!",
+      "date": 1483705060,
+      "review_helpful_count": 15,
+      "author_display_name": "skud312",
+      "author_alias": "skud312",
+      "developer_response": null
+    },
+    {
+      "id": "313715359966991",
+      "score": 2,
+      "review_title": "Am I doing it right",
+      "review_description": "It is impossible to steer with the Go. Also, it does only seem to send me up. Frustrating.",
+      "date": 1598299644,
+      "review_helpful_count": 0,
+      "author_display_name": "Cannamamma",
+      "author_alias": "Cannamamma",
+      "developer_response": null
+    },
+    {
+      "id": "142473063867144",
+      "score": 4,
+      "review_title": "Fun to shoot the rockets",
+      "review_description": "I got this right after I watched \"The Aeronauts\" on Amazon. Wish this were on Quest where you could use two hands to climb up the outside of the balloon to knock the ice off the top damper while getting your lace up boot caught.",
+      "date": 1578775099,
+      "review_helpful_count": 2,
+      "author_display_name": "TikiRich",
+      "author_alias": "TikiRich",
+      "developer_response": null
+    },
+    {
+      "id": "129199985360731",
+      "score": 4,
+      "review_title": "A very different flight simulator",
+      "review_description": "Drifting around in a baloon is a very different experience to most of my flight simulators but its very relaxing and enjoyable for a change of pace.\n\nYour baloon drifts in the direction you were facing when you used the burners and its speed is determined by the duration of the burn. Using the burner makes you go up, letting air out of the baloon lets you down again. If you want to slow down turn around and use the burners again.\n\nTo fly the baloon you need to turn around so to play it properly you will either need to be standing or sitting on a swivel chair.\n\nIt would benefit from the ability to turn around using the gamepad rather than having to physically turn around.\n\nLovely for a change of pace.",
+      "date": 1586985926,
+      "review_helpful_count": 3,
+      "author_display_name": "Simon.Ca",
+      "author_alias": "Simon.Ca",
+      "developer_response": null
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T04:48:12Z"
+}
