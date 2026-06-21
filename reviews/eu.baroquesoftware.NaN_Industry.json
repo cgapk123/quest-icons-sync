@@ -1,0 +1,86 @@
+{
+  "app_id": "4127869680614230",
+  "package_name": "eu.baroquesoftware.NaN_Industry",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "NaN Industry",
+  "rating_average": 4.4782608695652,
+  "rating_count": 23,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "642192148974661",
+      "score": 5,
+      "review_title": "",
+      "review_description": "I",
+      "date": 1746748904,
+      "review_helpful_count": 0,
+      "author_display_name": "donjaron777",
+      "author_alias": "donjaron777",
+      "developer_response": null
+    },
+    {
+      "id": "521904112376631",
+      "score": 5,
+      "review_title": "It's challenging but rewarding",
+      "review_description": "I love this game. It makes you think. You'll want to make sure your Quest is fully charged or you have a battery pack, because each level can absorb a large amount of time.\n\nI'm working on wave 2 and each level is a little different and a little more challenging.\n\nPut on your thinking cap and have a blast for free.",
+      "date": 1627339206,
+      "review_helpful_count": 7,
+      "author_display_name": "JimBatman",
+      "author_alias": "JimBatman",
+      "developer_response": null
+    },
+    {
+      "id": "3054599214856538",
+      "score": 5,
+      "review_title": "Amazingly Puzzling",
+      "review_description": "Firstly, Considering this game is free, I have spent more time playing this, than any other so far.. and that is a credit to the designers... great work guys ! \nMost other games are completed so quick, leaving you wanting more.. this is still playing after a very long time.\nI'm currently about half way on second wave, and some of the puzzles have been extremely taxing, I gave up on a couple and moved on to the next, while thinking about the one I was stuck on, and coming back to it with a new idea that popped up in my head, and managing to solve it.  I have solved all of them up to now, and really enjoying the experience. What looks so simple, turns out to be much harder than you think. I enjoy puzzles, and this game has been amazing.. easy to play, harder to solve, and really gives your brain a workout, which so they say is good for you.\nEven though I have played games like Half-Life Alyx, which is breathtaking, the whole thing was over in a few days..  This one is still in play, and with the workshop levels, still growing longer.\nI have also been working on creating my own puzzle. Designing it was easy, solving it was another matter, it turned out to be incredibly difficult, and has taken over a week, with many hours spent on it.\nIt is now solved, and I have published it to the workshop... look out for the Vulcan Bomber.. looks easy, but it certainly isn't !",
+      "date": 1643722617,
+      "review_helpful_count": 4,
+      "author_display_name": "Grumpy_Old_Biker",
+      "author_alias": "Grumpy_Old_Biker",
+      "developer_response": null
+    },
+    {
+      "id": "717651390032962",
+      "score": 5,
+      "review_title": "Great puzzle game",
+      "review_description": "I'll say it again an absolutely great game. Could use a bit more of a tutorial, some things are not immediately intuitive, but can be fun to figure out. Also user generated content a big plus, not to mention the great price. Highly recommended.",
+      "date": 1687325787,
+      "review_helpful_count": 0,
+      "author_display_name": "fylmax",
+      "author_alias": "fylmax",
+      "developer_response": null
+    },
+    {
+      "id": "675414810438363",
+      "score": 5,
+      "review_title": "First of all great game!",
+      "review_description": "I like MOST of the challenges LoL.\nI went to bed one night with a level using 45 blocks and working but spitting out wasted parts into space. I woke up early the next morning and reduced it to 15 blocks working perfectly with no waste.\n\nI have a few questions and ideas. \n\nQuestions:\n1. is there a way to weld without normal access to the joint? I'm working on a solution to the globe but as far as I can tell there's no way to weld the center in all directions.\n2. Are there any levels that have not yet been solved?\n3. In the workshop the first level, Ins.73r6(Armin  Ringo) doesn't make any sense\nI guess related to question 2, are the workshop levels necessarily solvable?\n4. Can a rotational block create a huge area where something cannot pass through it? On the globe level my completed globe keeps stopping even though it appears to be free of anything around it.\nUPDATE: I was able to isolate this problem to the fact that some of the spokes in the middle are not welded. This relates to my earlier question, is there a way to weld something when you can't get next to both pieces with 2 weld blocks next to each other.\n\nSUGGESTIONS:\n1. It would be nice if you can control whether adjacent blocks moved together or separate. It's frustrating when you have a pusher or stopper next to something and it moves something next to it that you don't want it to.\n\n2. When you rotate something I think it's fair and accurate that you can't have anything too close to the upper or lower part, but it seems like as long as there's enough width that it should be allowed to rotate but sometimes it seems like something that shouldn't affect it keeps it from rotating.\n\n3. Please brighten the example that sits on the counting pad or add a full color one to the side. I finished a whole level before I realized that the color on one of the middle parts was rotated and had to fix it LOL\n\n4. I think it would be interesting to have details on the number of blocks and cycles of the best solutions even before you complete the level or at least after you've completed it.\n\n5. After a level is completed it would be nice to be able to see how other people completed it. But maybe not the very best solutions and I have a little concern that it would just end up with everybody's looking the same eventually.\n\n6. Working on a level where everything MUST be completed inside the box, It would be nice if you could make the box more transparent. It's the only time in your game I felt a little nauseous trying to move around in the tiny confines.\n\n7. Temporary lasers that can be used during ASSEMBLY for alignment purposes. And/or the ability to move blocks while the factory is paused. \n\nADVANCED (more complicated) SUGGESTIONS.\nONCE A LEVEL HAS BEEN SOLVED:\n\nAdd an identical level but with some more advanced bricks available.\nIMPORTANT: the reason I suggest an additional level is so that the advanced pieces don't make the scores on the levels completed with standard pieces look bad. And I think it's best not to have the advanced pieces available all the time because that would remove a lot of the challenge from the levels.\n\nSUGGESTED BLOCK TYPES\n1. COUNTING SENSORS: Make the sensors adjustable for instance from 1 to 10 so that if it's set for three it won't trigger until IT has been triggered three times\n2. AND SENSORS: let you connect multiple sensors in some way but all of the connected sensors have to be triggered before the sensor triggers.\n3. OR SENSORS: they would let you link multiple sensors and would trigger when ANY of them were triggered. \n4. ADJUSTABLE PUSHERS OR STOPPERS: it would be nice to be able to adjust these from one to 10 for instance so that it doesn't just trigger and retract instantly. And sometimes it would be nice if it triggered for half a cycle instead.\n \nCRAZY IDEA:\nHave little virtual robots, like assembly lines have, that can be programmed to grab, turn and place items in a different spot.",
+      "date": 1645666789,
+      "review_helpful_count": 2,
+      "author_display_name": "NJB1rd",
+      "author_alias": "NJB1rd",
+      "developer_response": null
+    },
+    {
+      "id": "484303507206616",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "I played through all but the second half of the last stage, (it got really hard). its an amazing vr game + its free. I don't know if I've seen any other games like it (at least any free ones). Quite a few hours of playtime and problem solving. Great game thanks!",
+      "date": 1674970895,
+      "review_helpful_count": 0,
+      "author_display_name": "LegoManACM",
+      "author_alias": "LegoManACM",
+      "developer_response": null
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T08:59:27Z"
+}

@@ -1,0 +1,56 @@
+{
+  "app_id": "5671709842842839",
+  "package_name": "eu.showtimevr.tableauplayer",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Showtime VR",
+  "rating_average": 3.8,
+  "rating_count": 10,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "116482610875210",
+      "score": 5,
+      "review_title": "Great app",
+      "review_description": "Looking forward to test the full capacity of this one. Very helpful tool! The manual could indeed be clearer, but I feel confident that the developers will take care of that soon.",
+      "date": 1640004810,
+      "review_helpful_count": 7,
+      "author_display_name": "esobenes",
+      "author_alias": "esobenes",
+      "developer_response": null
+    },
+    {
+      "id": "3009381819327288",
+      "score": 5,
+      "review_title": "Very goog application.",
+      "review_description": "Supports all current movie standards, including ambisonic and aubtitles!",
+      "date": 1638194945,
+      "review_helpful_count": 5,
+      "author_display_name": "Radek360",
+      "author_alias": "Radek360",
+      "developer_response": null
+    },
+    {
+      "id": "271208351215399",
+      "score": 1,
+      "review_title": "can't put videos in the library",
+      "review_description": "no way to put videos in the library",
+      "date": 1618142041,
+      "review_helpful_count": 3,
+      "author_display_name": "f3g4t0",
+      "author_alias": "f3g4t0",
+      "developer_response": {
+        "body": "Works well for all clients, this case guided on e-mail, answering all inquiries within 24 hours at hello@showtimevr.eu.",
+        "date": 1621939260
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T09:00:53Z"
+}
