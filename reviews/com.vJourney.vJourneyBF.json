@@ -1,0 +1,48 @@
+{
+  "app_id": "32134440802866898",
+  "package_name": "com.vJourney.vJourneyBF",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "vJourney: Guided Virtual Travel",
+  "rating_average": 4.4,
+  "rating_count": 10,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1040299025836471",
+      "score": 1,
+      "review_title": "Wrong language",
+      "review_description": "I downloaded this app. It came in a different language. I didn’t know how to change the language so I deleted it.\nYou don’t explain nothing either how to change the language",
+      "date": 1774728794,
+      "review_helpful_count": 5,
+      "author_display_name": "Lurch1206",
+      "author_alias": "Lurch1206",
+      "developer_response": {
+        "body": "Hello, thank you very much for your feedback!\nWe’re sorry to hear that you had trouble with the language settings. You can easily switch the app to English by tapping the red menu button and selecting “English.”\nThat said, your feedback is very valuable to us. We’re already working on an update that will be released next week, where the app will automatically start in your device language and the tutorial will also be available directly in English.\nThanks again for helping us improve!",
+        "date": 1774810884
+      }
+    },
+    {
+      "id": "1020747630460172",
+      "score": 5,
+      "review_title": "Awesome experience",
+      "review_description": "I really enjoyed the experience of using this application. I think that having this opportunity to visit lovely places using vr is one of the best reasons to have the oculus.",
+      "date": 1780653073,
+      "review_helpful_count": 0,
+      "author_display_name": "Guanarteme",
+      "author_alias": "Guanarteme",
+      "developer_response": {
+        "body": "Thanks a lot for your feedback - much appreciated!",
+        "date": 1780863079
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T04:31:03Z"
+}

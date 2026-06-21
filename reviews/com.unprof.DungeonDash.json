@@ -1,0 +1,62 @@
+{
+  "app_id": "9535997473161566",
+  "package_name": "com.unprof.DungeonDash",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Dungeon Dash",
+  "rating_average": 2.5,
+  "rating_count": 8,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1086618547863741",
+      "score": 3,
+      "review_title": "Add hand tracking",
+      "review_description": "If this game was conpatble with hand tracking this game would be so fun for people who don't have controllers like me",
+      "date": 1773777170,
+      "review_helpful_count": 0,
+      "author_display_name": "goatphill",
+      "author_alias": "goatphill",
+      "developer_response": {
+        "body": "unfortunately hand tracking isnt suited for high speed movements and gestures that this game requires",
+        "date": 1774440296
+      }
+    },
+    {
+      "id": "24712758341643273",
+      "score": 3,
+      "review_title": "Zero hand choice",
+      "review_description": "Please add a choice of dominant hand. I am left-handed and fighting with my right hand is not comfortable. 20% of people are also left-handed.",
+      "date": 1754865928,
+      "review_helpful_count": 2,
+      "author_display_name": "Charmeds",
+      "author_alias": "Charmeds",
+      "developer_response": {
+        "body": "hey :) thanks for letting me know the game was missing such a crucial feature\nI'm pushing an update to address this by giving the option to swap hands, it should be up very soon.",
+        "date": 1755293014
+      }
+    },
+    {
+      "id": "565654369974045",
+      "score": 1,
+      "review_title": "Not intuitive",
+      "review_description": "I'll tell you the controls since the game well not you hold both the grip and trigger together to pull out your weapon and then swing it in the direction the scroll wheel shows that's all there is in this game",
+      "date": 1745285230,
+      "review_helpful_count": 2,
+      "author_display_name": "JJ_the_blue",
+      "author_alias": "JJ_the_blue",
+      "developer_response": {
+        "body": "thank you for your feedback. sorry to hear the controls weren't intuitive ill add a tutorial in the next update\nthe difficulty of the game comes from each level having less and less time and more enemies with more complex gestures, so you have to memorize them and perform them quickly to clear levels\notherwise sorry the game wasnt to your liking, its still in early access so hopefully that changes more feedback and updates",
+        "date": 1745317842
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T04:29:20Z"
+}
