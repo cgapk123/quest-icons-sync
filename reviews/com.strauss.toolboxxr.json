@@ -1,0 +1,42 @@
+{
+  "app_id": "25643961095244348",
+  "package_name": "com.strauss.toolboxxr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "STRAUSS Toolbox XR",
+  "rating_average": 4.4,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "994063406543271",
+      "score": 5,
+      "review_title": "Does what it says",
+      "review_description": "Does what it says well, works with hand tracking too and measurements seem good",
+      "date": 1778510884,
+      "review_helpful_count": 3,
+      "author_display_name": "LunchAndJosh",
+      "author_alias": "LunchAndJosh",
+      "developer_response": null
+    },
+    {
+      "id": "1138079059385288",
+      "score": 2,
+      "review_title": "It doesn’t work",
+      "review_description": "This sucks",
+      "date": 1779163449,
+      "review_helpful_count": 0,
+      "author_display_name": "RedDragonBJ",
+      "author_alias": "RedDragonBJ",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T01:39:05Z"
+}

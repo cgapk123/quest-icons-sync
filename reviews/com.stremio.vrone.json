@@ -1,0 +1,354 @@
+{
+  "app_id": "24009388261996890",
+  "package_name": "com.stremio.vrone",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Stremio",
+  "rating_average": 3.9191919191919,
+  "rating_count": 99,
+  "review_count": 29,
+  "reviews": [
+    {
+      "id": "1127561987115760",
+      "score": 1,
+      "review_title": "Terrible - so annoying!!",
+      "review_description": "I downloaded this app and it was not playing the shows I downloaded. I googled and apparently the issue is a vpn thing. I purchased a vpn subscription for $120 for a one year subscription within this headset only for my trackers to completely disappear once a show starts so I cannot rewind, move the screen or access ANY internal settings whatsoever!!! I’m not sure where these good reviews came from because this app is the worst streaming experience I have ever had in VR!!!",
+      "date": 1780797945,
+      "review_helpful_count": 0,
+      "author_display_name": "OutreachCrafter",
+      "author_alias": "OutreachCrafter",
+      "developer_response": null
+    },
+    {
+      "id": "991860064010454",
+      "score": 3,
+      "review_title": "Works great just missing one feature",
+      "review_description": "The app is smooth and have no issues streaming content in high quality. My only issue is that you can’t use the app in a dark room bc it requires tracking.\n\nCan you please allow the app to be used in a dark room? The YouTube app seems to manage this just fine, would be great if Stremio could too.",
+      "date": 1771160252,
+      "review_helpful_count": 34,
+      "author_display_name": "nrd.vz",
+      "author_alias": "nrd.vz",
+      "developer_response": null
+    },
+    {
+      "id": "1078330332022866",
+      "score": 4,
+      "review_title": "Lay down + qrcode",
+      "review_description": "Please consider using this app laying down in bed and looking at the ceiling.\nA better way to login is also a suggestion, like a qrcode or a way to login in the phone instead of the VR",
+      "date": 1773351000,
+      "review_helpful_count": 6,
+      "author_display_name": "RealHuman2k",
+      "author_alias": "RealHuman2k",
+      "developer_response": null
+    },
+    {
+      "id": "886307047907474",
+      "score": 1,
+      "review_title": "Nothing works.",
+      "review_description": "What's the app actually for? \nSigned up, signed into disney & prime. Trying to watch anything on either just opens a separate window with the movie/TV show, what's the point of that? At the same time controllers get stuck on screen until you press the meta button.\nTried the suggested app for syncing, not in app store, found 4 apks online on the stremio site, none are compatible.\nThat's half an hour ill never get back.\nDon't waste your time.",
+      "date": 1767945826,
+      "review_helpful_count": 5,
+      "author_display_name": "di5combobul8r",
+      "author_alias": "di5combobul8r",
+      "developer_response": null
+    },
+    {
+      "id": "26022204767435030",
+      "score": 3,
+      "review_title": "No sync add-ons",
+      "review_description": "No sync add-ons same account",
+      "date": 1773232953,
+      "review_helpful_count": 2,
+      "author_display_name": "BasiMamata",
+      "author_alias": "BasiMamata",
+      "developer_response": null
+    },
+    {
+      "id": "866516236090846",
+      "score": 5,
+      "review_title": "A 5 stars app!!",
+      "review_description": "thank you for this masterpiece guys! I realy enjoy it, and I appreciate the hard work !\nrecently the app crashes when adjusting the size of subtitles, and I hope that you consider removing those funny cat and mouse running ...",
+      "date": 1767391323,
+      "review_helpful_count": 3,
+      "author_display_name": "Kasst001",
+      "author_alias": "Kasst001",
+      "developer_response": {
+        "body": "Thanks for the 5 star rating! We fixed the subtitle size crash in the latest release.",
+        "date": 1767619547
+      }
+    },
+    {
+      "id": "908813672122809",
+      "score": 4,
+      "review_title": "On quest 3",
+      "review_description": "The sync addons button don't work from what I got on my android phone",
+      "date": 1770477412,
+      "review_helpful_count": 1,
+      "author_display_name": "DJGeeboss",
+      "author_alias": "DJGeeboss",
+      "developer_response": null
+    },
+    {
+      "id": "1054575317733187",
+      "score": 3,
+      "review_title": "Good App.",
+      "review_description": "This is a good little media app that does what it's supposed to and does it well enough. I like the VR cinema space but it would be better if you could invite others to watch with you in a shared session.",
+      "date": 1773458444,
+      "review_helpful_count": 0,
+      "author_display_name": "Chimerauk",
+      "author_alias": "Chimerauk",
+      "developer_response": null
+    },
+    {
+      "id": "1745860329378665",
+      "score": 5,
+      "review_title": "Don't complain about free development!",
+      "review_description": "Other users need a reality check it's free the devs do there work for free I'm happy with what we have so for I'm sure other features will be added and if they didn't I'm still happy about it it works and that's exactly what we need, I wish other apps would follow this example of making a movie or home entertainment view experience for example the native Xbox app should be in 3D! , in all thank you Stremio for a wonderful experience over the years it's a standard now & with their new iOS app release I can't want to see what the future holds!",
+      "date": 1754545975,
+      "review_helpful_count": 44,
+      "author_display_name": "Skylinejay187",
+      "author_alias": "Skylinejay187",
+      "developer_response": null
+    },
+    {
+      "id": "682371058303128",
+      "score": 4,
+      "review_title": "Can't sync plugins",
+      "review_description": "Glad to see Stremio come to quest but I couldn't get the sync plugin buttons to work. It simply doesn't even respond. I'm logged in to correct account and can even view my history in homepage but plugin sync did not work. It is unusable without the plugins sadly.",
+      "date": 1755525924,
+      "review_helpful_count": 14,
+      "author_display_name": "ParajuliBkrm",
+      "author_alias": "ParajuliBkrm",
+      "developer_response": null
+    },
+    {
+      "id": "790673570797781",
+      "score": 5,
+      "review_title": "Recent update is almost perfect",
+      "review_description": "This app has its flaws but a huge thank you to the developers for making this experience on the quest possible!\n\n5/5 stars",
+      "date": 1757877462,
+      "review_helpful_count": 2,
+      "author_display_name": "SunburnedGooch",
+      "author_alias": "SunburnedGooch",
+      "developer_response": null
+    },
+    {
+      "id": "834435643084691",
+      "score": 1,
+      "review_title": "Keeps crashing while streaming media",
+      "review_description": "Keeps crashing while streaming media",
+      "date": 1760314835,
+      "review_helpful_count": 1,
+      "author_display_name": "renstillmann",
+      "author_alias": "renstillmann",
+      "developer_response": null
+    },
+    {
+      "id": "692322903787055",
+      "score": 3,
+      "review_title": "Good start. Still a lot to want for",
+      "review_description": "A few must have features still missing:\n1. Ability to adjust/move panels, screen position, perspective etc (beyond just recentering)\n2. Generally a bit laggy/ buffery for 3d video\n3. Ability to change shortcut mapping for controller\n4. Hand tracking\n5. Video scrubbing with the controller only goes 10 seconds at a time and chugs along to do just that\n6. Controller silhouettes persist in content\n\nIt is an early version. Please keep developing!",
+      "date": 1750131707,
+      "review_helpful_count": 16,
+      "author_display_name": "Theharpg",
+      "author_alias": "Theharpg",
+      "developer_response": null
+    },
+    {
+      "id": "25087606807497681",
+      "score": 2,
+      "review_title": "The streaming server resets",
+      "review_description": "It resets\nI would also like to be able to store multiple servers like the ios app, and the web ui",
+      "date": 1758191910,
+      "review_helpful_count": 0,
+      "author_display_name": "Hughes_0",
+      "author_alias": "Hughes_0",
+      "developer_response": null
+    },
+    {
+      "id": "731079083417565",
+      "score": 5,
+      "review_title": "Stremio is great in VR",
+      "review_description": "does what it promises, stream your Stremio content in a convenient app, no need to mess around with sideloading, virtual desktops or anything \n\ncould use a bit more VR polish (movable screen, less lag, cinema environments, etc) but overall good\n\ndevs: please allow to run with no tracking so we can watch in the dark!",
+      "date": 1751854985,
+      "review_helpful_count": 4,
+      "author_display_name": "valsea",
+      "author_alias": "valsea",
+      "developer_response": null
+    },
+    {
+      "id": "935778839619624",
+      "score": 5,
+      "review_title": "Awesome!",
+      "review_description": "Works great here!",
+      "date": 1767814764,
+      "review_helpful_count": 0,
+      "author_display_name": "superkaatje.2025",
+      "author_alias": "superkaatje.2025",
+      "developer_response": null
+    },
+    {
+      "id": "734520498917027",
+      "score": 5,
+      "review_title": "9.99999 out 10",
+      "review_description": "Seriously this is one of the single best apps ever to hit VR . \nThe theater experience in the app ..well\nI can go back and watch old movies As if I was actually in the theatre at the time of the release !!\nOmfg this app is great !\nGuys \n\nThank you !! Thank you !! Thank you !!\nIf only there was a way to set up cowatch ..but still \nAll other movie apps need to bow down now !!",
+      "date": 1749427431,
+      "review_helpful_count": 7,
+      "author_display_name": "Unforgiven.411",
+      "author_alias": "Unforgiven.411",
+      "developer_response": null
+    },
+    {
+      "id": "742076232321563",
+      "score": 3,
+      "review_title": "It's ok",
+      "review_description": "Works fine in some situations, but the subtitles plugins had some problems sometimes.",
+      "date": 1755315262,
+      "review_helpful_count": 2,
+      "author_display_name": "Pillonsful",
+      "author_alias": "Pillonsful",
+      "developer_response": null
+    },
+    {
+      "id": "1681248265840276",
+      "score": 3,
+      "review_title": "Got to love stremio",
+      "review_description": "Few things that need to be updated:\n1. Passthrough - the ability to also use Stremio in passthrough mode. Like a 2D app.\n2. Hand tracking - a must.\n3. Resolution increase - for some reason the app ui resolution is kind of low. And I feel like the sideload version of the android tv app is higher quality in video as well.\n4. In the vr cinema mode - give me the option to change to different seats. And maybe to be able to invite friends over? And maybe more cinema types of options.\n5. Maybe a dedicated add-on for viewing 3D movies specifically (3D, 180, 360 etc).",
+      "date": 1745618759,
+      "review_helpful_count": 28,
+      "author_display_name": "ron_bickels",
+      "author_alias": "ron_bickels",
+      "developer_response": {
+        "body": "Hi, regarding the 2nd point, we released a new update today that has greatly increased the overall graphics of the app. Consider testing it again and if it works as expected please consider changing your review too. Thanks for all the suggestions!",
+        "date": 1747665979
+      }
+    },
+    {
+      "id": "1360355488405843",
+      "score": 2,
+      "review_title": "Login fails / can’t enter Credentials",
+      "review_description": "When I enter my email address in the login screen and move the cursor to the password field, the keyboard does not open.",
+      "date": 1750021958,
+      "review_helpful_count": 7,
+      "author_display_name": "simply_sma",
+      "author_alias": "simply_sma",
+      "developer_response": null
+    },
+    {
+      "id": "594286330441856",
+      "score": 4,
+      "review_title": "Ability to change positions",
+      "review_description": "4/5, suggestion to add the possibility of changing positions for windows, especially the control dashboard, while streaming. Also, there's a bug when streaming controls are hidden subtitles just stop at the current line, only continues to work when stream controls are displayed again.",
+      "date": 1744551202,
+      "review_helpful_count": 5,
+      "author_display_name": "QQool",
+      "author_alias": "QQool",
+      "developer_response": {
+        "body": "Hi, we believe that with today's release we fixed the issue with the subtitles pausing when the streaming controls are hidden, while we don't yet support moving the panels, it is now possible to use Y/B buttons to recenter the view. If it works as expected please consider updating your review.",
+        "date": 1744818288
+      }
+    },
+    {
+      "id": "4226597054256180",
+      "score": 5,
+      "review_title": "Thank You",
+      "review_description": "first off it's free. always room for improvement. a show may not always show in continued watching if you have watched all the most recent episodes, and another episode doesn't come out for a little while, it disappears from your continued and doesn't come back.\nThank you devs",
+      "date": 1755730970,
+      "review_helpful_count": 0,
+      "author_display_name": "SmokeyBearBear",
+      "author_alias": "SmokeyBearBear",
+      "developer_response": null
+    },
+    {
+      "id": "611913785342695",
+      "score": 3,
+      "review_title": "Some plugins do not work properly",
+      "review_description": "The application is great, but some plugins do not work properly because they crash and the plugin section does not allow you to see the installed plugins,we hope for a future fix",
+      "date": 1744228780,
+      "review_helpful_count": 9,
+      "author_display_name": "peppenamir78",
+      "author_alias": "peppenamir78",
+      "developer_response": {
+        "body": "Hi, could you test the app again as we made 2 updates since your initial review and we fixed a few bugs regarding addons specifically. If the app works as expected now please consider also updating your review. Thanks!",
+        "date": 1744817973
+      }
+    },
+    {
+      "id": "1181237707062138",
+      "score": 5,
+      "review_title": "Perfectly usable for a version 0.1",
+      "review_description": "It's rare to see a VR app to work without any issues at launch. God bless the devs, they did what Netflix didn't do for 9 years.",
+      "date": 1744331575,
+      "review_helpful_count": 10,
+      "author_display_name": "asmilenotmeantforme",
+      "author_alias": "asmilenotmeantforme",
+      "developer_response": null
+    },
+    {
+      "id": "725164796611041",
+      "score": 5,
+      "review_title": "Stremio",
+      "review_description": "I love the app the only thing I wish was possible was to move the dashboard where you pause so it's easier when you are laying down and watch",
+      "date": 1747799426,
+      "review_helpful_count": 1,
+      "author_display_name": "lapislazuli69",
+      "author_alias": "lapislazuli69",
+      "developer_response": null
+    },
+    {
+      "id": "574983212372878",
+      "score": 5,
+      "review_title": "Thanks Stremio",
+      "review_description": "I just want to say thanks to the Stremio team for all you do.",
+      "date": 1744698823,
+      "review_helpful_count": 10,
+      "author_display_name": "Ojogan",
+      "author_alias": "Ojogan",
+      "developer_response": null
+    },
+    {
+      "id": "670554916141567",
+      "score": 5,
+      "review_title": "A must-have masterpiece",
+      "review_description": "A perfect Quest3 version of an already perfect app 👌🏻",
+      "date": 1749060232,
+      "review_helpful_count": 1,
+      "author_display_name": "adrenalmedulla",
+      "author_alias": "adrenalmedulla",
+      "developer_response": null
+    },
+    {
+      "id": "1245436453936034",
+      "score": 5,
+      "review_title": "At last, Stremio on the Quest",
+      "review_description": "For anyone who already uses Stremio for watching TV/streaming on a device, there's very little to say except how awesome it is to have available officially on the Quest. I'm excited, the developers are clearly open to feedback and are already planning to add features that will make a great app even better.  Straight out of the box it does pretty much everything I expect from Stremio already, and I can't wait to see how it develops over time.",
+      "date": 1751852859,
+      "review_helpful_count": 0,
+      "author_display_name": "AliceStClubHouse",
+      "author_alias": "AliceStClubHouse",
+      "developer_response": null
+    },
+    {
+      "id": "540196705800642",
+      "score": 4,
+      "review_title": "Resolution is terrible on quest 2",
+      "review_description": "App resolution including all ui elements look like its 240p in quest 2, other than that pretty nice for beta",
+      "date": 1745747982,
+      "review_helpful_count": 1,
+      "author_display_name": "mantikafasi",
+      "author_alias": "mantikafasi",
+      "developer_response": {
+        "body": "Hi, we released a new version today that has greatly increased the overall graphics of the app. If it works as expected for you now, please consider updating your review.",
+        "date": 1747665860
+      }
+    }
+  ],
+  "total": 29,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-21T01:39:24Z"
+}

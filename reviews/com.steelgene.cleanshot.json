@@ -1,0 +1,45 @@
+{
+  "app_id": "4832308030207959",
+  "package_name": "com.steelgene.cleanshot",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Clean Shot",
+  "rating_average": 3.5714285714286,
+  "rating_count": 7,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "159257203711025",
+      "score": 5,
+      "review_title": "",
+      "review_description": "MONKEY",
+      "date": 1679765405,
+      "review_helpful_count": 2,
+      "author_display_name": "Doritowarrior",
+      "author_alias": "Doritowarrior",
+      "developer_response": null
+    },
+    {
+      "id": "109450408525186",
+      "score": 5,
+      "review_title": "Great Except difficult for VR newbie",
+      "review_description": "There is no instruction how to throw the ball , i tried everything, i figured it out how to pick it up but i don't know how to throw it",
+      "date": 1659282679,
+      "review_helpful_count": 0,
+      "author_display_name": "extensiveGamerZ3",
+      "author_alias": "extensiveGamerZ3",
+      "developer_response": {
+        "body": "Thanks for your feedback. Release the Grip button (middle finger) while throwing the basketball, then you can complete the shot.",
+        "date": 1659366221
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T01:35:37Z"
+}

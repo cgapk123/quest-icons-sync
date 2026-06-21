@@ -1,0 +1,34 @@
+{
+  "app_id": "8106230529429132",
+  "package_name": "com.staygentlecrafts.tossapalooza",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Toss-a-palooza",
+  "rating_average": 3.5,
+  "rating_count": 2,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1219360213352119",
+      "score": 2,
+      "review_title": "Serious bugs - unplayable",
+      "review_description": "This looks like a fun app and I was really excited to play it. However, the menu opens outside of my boundary and there’s no way to fix it that I’ve found yet. I tried adjusting playing space etc.\n \n￼I understand this game is early access status but right now it’s literally a non-starter.\n\n￼Devs, please look into this and see if it can be fixed. I will happily update my rating when an update is made.",
+      "date": 1761221773,
+      "review_helpful_count": 2,
+      "author_display_name": "grecocity",
+      "author_alias": "grecocity",
+      "developer_response": {
+        "body": "Hello!\nWe really appreciate your review and your excitement about the game! We also completely understand the frustration when things don’t line up perfectly the first time you launch the app.\n\nThe good news — we found the bug you mentioned! This issue may only appear for some users the first time before your games and scoreboard are positioned. Once you place them in your space, they’ll always reload exactly where you set them (unless you later reset your Meta room setup).\n\nHere’s a quick way to get everything placed just right:\n\nUse your LEFT controller (the one with the Meta menu button).\nChoose a game like Bowling by pointing and pressing the primary button (X).\nOnce the game loads, press the menu button and select “Move Scoreboard.”\n\nA pop-up will appear with instructions. But simply...\nPress and hold the grip button on your controller to move the scoreboard around your room. It will smoothly move along your walls.\n\nWhen you’re happy with its position, (while still holding the grip) press the trigger button to lock it in place.\n\nNext, press the menu button again and choose “Move Bowling.”\nHold the grip button and with each press of the primary button (X) your bowling lane will snap to each wall in your space.\n(while still holding the grip) Use the analog stick to fine-tune its position, left-right-forward-back.\nWhen it’s perfect, (while still holding the grip) press the trigger to lock it in place.\n\nRepeat the same steps for Skeeball as you did for Bowling — and you’re all set!\n\nAfter everything’s positioned, the game will remember your layout every time you play.\n\nIf you ever run into any other issues, feel free to reach us directly at shaunda@staygentlecrafts.com",
+        "date": 1761942658
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T01:35:15Z"
+}

@@ -1,0 +1,45 @@
+{
+  "app_id": "26369824289299679",
+  "package_name": "com.stinkylampers.lunginglamps",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Lunging Lamps",
+  "rating_average": 5,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "523906703923225",
+      "score": 5,
+      "review_title": "Super fun!",
+      "review_description": "The community is nice￼",
+      "date": 1725763935,
+      "review_helpful_count": 1,
+      "author_display_name": "DeadWalker871",
+      "author_alias": "DeadWalker871",
+      "developer_response": {
+        "body": "thanks for the review!",
+        "date": 1729971213
+      }
+    },
+    {
+      "id": "405063262700779",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "My friend galaxy showed me",
+      "date": 1730487246,
+      "review_helpful_count": 0,
+      "author_display_name": "FF.Dogsarethebest30",
+      "author_alias": "FF.Dogsarethebest30",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T01:36:35Z"
+}

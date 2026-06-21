@@ -1,0 +1,42 @@
+{
+  "app_id": "954939331270845",
+  "package_name": "com.stargatemedia.gearvr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Stargate Media",
+  "rating_average": 3.6538461538462,
+  "rating_count": 26,
+  "review_count": 26,
+  "reviews": [
+    {
+      "id": "1168292840014116",
+      "score": 2,
+      "review_title": "It's an ad/demo for a video producer.",
+      "review_description": "2018.12.23: This app is a very simple video player showcasing 5 uninspiring, low resolution shorts, without implementing even some basic UI features, e.g., playback has no scrubber (so you can't rewind or fast forward), there are no subtitles, video duration is shown in white even on white background (so it becomes invisible), ...",
+      "date": 1545574664,
+      "review_helpful_count": 9,
+      "author_display_name": "FunKing",
+      "author_alias": "FunKing",
+      "developer_response": null
+    },
+    {
+      "id": "839140026243755",
+      "score": 1,
+      "review_title": "Just a few low resolution videos",
+      "review_description": "If this is supposed to be a video library, it's just another very small and uninteresting one. If on the other hand this is a technology demonstration it also fails miserably, because none of the few videos look good.",
+      "date": 1492963802,
+      "review_helpful_count": 12,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T01:32:41Z"
+}
