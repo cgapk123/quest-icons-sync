@@ -1,0 +1,45 @@
+{
+  "app_id": "24445252041769729",
+  "package_name": "com.thetascape.thetascape",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Thetascape: Neon Rhythm",
+  "rating_average": 4,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "960934526322661",
+      "score": 5,
+      "review_title": "Choose precision over chaos",
+      "review_description": "Don’t run around quickly.\n\nTake one level and go through it from beginning to end.\n\nWatch and understand the collectibles.\nFeel and understand the mechanics and logic.\n\nComplete the level, then review and understand your statistics.\n\nDon’t be fast - be curious and open to understanding how things work. Most of the logic is already complete and calibrated.\n\nIf it’s a level with a tunnel, don’t try to strike immediately. Touch the sphere first while looking at it. Feel it. Imagine energy between your hands. Imagine you can control this energy.\nImagine this is the most important task in your life and nothing else exists… After that, start striking - and you will be amazed at how precise you are.\n\nIf it’s a level where you shoot, calibrate your fingers first. You need to hold them straight. Your distal phalanx is tracked by the Oculus algorithm - it’s modern and quite precise. The light rays you shoot are attached to the fingertip bones of the tracked hands. You just need to feel it.\nAs soon as you hit something, you will get a “long nails” effect. Smash everything, but avoid objects with long spikes, or you will get paralyzed. Roll your hands to recover.\n\nThere is also a level where you just dance or move freely. You don’t need to perform anything specific. Just move and find the right rhythm holistically.\n\nEnjoy and remember: Precision over chaos.",
+      "date": 1776359745,
+      "review_helpful_count": 0,
+      "author_display_name": "InstantEcho",
+      "author_alias": "InstantEcho",
+      "developer_response": null
+    },
+    {
+      "id": "969403739001799",
+      "score": 3,
+      "review_title": "Shows promise; not ready yet",
+      "review_description": "I really want to like this. The general concept, lighting and music are fantastic. However, until the hand tracking and hit register are completely overhauled, it's virtually unplayable. \n\nControlling manipulatives (the sphere level comes to mind) is wildly inconsistent. My hands are there but they don't grip onto the sphere with any consistency. When they do successfully grip the sphere, it spins slowly and with limited range of motion.The level in which your index finger spawns a \"sword\" seems cool, but then I slash directly through the little spheres and star polyhedrons, and nothing happens. The level in which you shoot little lasers by pushing your hand forward seems fun until you realize that the angle and accuracy is way off. Also, for some reason, the ability to shoot disappears about 30 seconds into the level and you're stuck with long beams of light coming from your fingers that don't seem to do anything.\n\nThe words that pop up on screen (\"Paralyzed\", \"recovered\") are distracting and have to go. The facades with the oversized pixels that appear and disappear intermittently dont add to the experience, either. \n\nSelecting a level is difficult. The hand tracking is so bad that there's no way to actually quit the app. I had to start a different app after picking up the controllers to exit Thetascape as there is no exit option, even when pressing the menu button on a controller.\n\nDevs, please start over with controllers and work up to hand tracking from there. There's lots to like about Thetascape, but it needs a lot of work in its current state.",
+      "date": 1776267281,
+      "review_helpful_count": 0,
+      "author_display_name": "QUACKBIRTH",
+      "author_alias": "QUACKBIRTH",
+      "developer_response": {
+        "body": "Thanks a lot for the detailed feedback - really appreciate you taking the time.\n\nA few of the issues you mentioned are actually tied to how the mechanics work (for example, certain objects temporarily “paralyze” your ability to interact, which can feel like hits aren’t registering if it’s not clear). I’m working on making that feedback much more obvious so it’s easier to understand what’s happening in the moment.\nThe experience is built around controlled, calm movement - if you move too chaotically, tracking intentionally becomes less responsive, lasers slow down, and certain states (like “paralyzed”) last longer.\nHand tracking also has a bit of a learning curve compared to controllers, so I’m continuously improving responsiveness and clarity of interactions.\n\nThat said, your point is valid - right now this can feel like inconsistency instead of a mechanic, so I’m working on making that feedback much clearer and easier to understand.\n\nAlso good point on the UI/exit - I’ll make that more accessible in-app so it doesn’t rely on default system gestures.\n\nReally appreciate the feedback - this helps a lot in making the experience clearer and smoother.",
+        "date": 1776266370
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T02:59:22Z"
+}

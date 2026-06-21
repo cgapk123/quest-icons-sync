@@ -1,0 +1,31 @@
+{
+  "app_id": "24374232962219720",
+  "package_name": "com.third.seat",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Third Seat",
+  "rating_average": 1,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "983528521515857",
+      "score": 1,
+      "review_title": "Play",
+      "review_description": "How do you play ? Is there a walkthrough?",
+      "date": 1772848882,
+      "review_helpful_count": 0,
+      "author_display_name": "CuriousLynx998",
+      "author_alias": "CuriousLynx998",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T03:01:03Z"
+}

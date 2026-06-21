@@ -1,0 +1,942 @@
+{
+  "app_id": "6521909757843713",
+  "package_name": "com.thunderful.legobricktales",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "LEGO® Bricktales",
+  "rating_average": 4.39375,
+  "rating_count": 800,
+  "review_count": 410,
+  "reviews": [
+    {
+      "id": "2449048898849299",
+      "score": 3,
+      "review_title": "Not very accessible",
+      "review_description": "UPDATED: I misspoke about hand tracking as it had been a while since I played.\n\nThe issue is essentially that I have spent ages trying to poke the wrist button with my virtual index finger and for some reason find it incredibly difficult to fully press the button in order for the menu to appear. I've spent over 60 seconds at times trying to push the button successfully amd have never had an issue like this in over 250 games I've played, so I'm not sure why it's so tricky. I'd be much happier if I could just use the menu button like almost every other app or game on the Quest.\n\nOLD: For some reason despite the well-defined options for using menus either with your index finger and thumb or the controller buttons for in-game and oculus menus, you have to awkwardly try to push a button near your wrist to open the in-game menu.\n\nFor some reason even though I've probably spent 3 or 4 hours in this game now, I end uo giving up every time because I can't open the menu when I need it.\n\nAlso find it difficult to be able to see what I need to without hurting my neck by looking down too much, even though I can move the little world around.\n\nReally wanted to like it but it's just too frustrating.",
+      "date": 1776208354,
+      "review_helpful_count": 2,
+      "author_display_name": "thebreadbasket",
+      "author_alias": "thebreadbasket",
+      "developer_response": null
+    },
+    {
+      "id": "894483859663458",
+      "score": 5,
+      "review_title": "The game is great but looks limited",
+      "review_description": "The game's fine. I think it is the greatest thing in VR. It looks exactly like the size of a Lego set. But in the sandbox, your character is kind of very limited. I mean, you can't seem to change the gender for that matter. I mean, is there no need for a daughter in this type of game? How do we know Grandpa doesn't have a daughter rather than a son?\n\n  And the sandbox itself is very limited. There aren't many bricks that you can design with. I know a lot of people will want to design it a lot better, but from what I've seen of the bricks in the sandbox, it's kind of making it a little bit limited for now but. I mean, where are the flower-shaped Lego pieces, the vines, the leaves, a little bit of clear bricks? I feel like adding these types of features. Could make it better or not? It's your choice. The game is fine and great. I just feel like\nThere shouldn't be any limits at all for your imagination of building I mean that's what lego's are all about right?",
+      "date": 1769569586,
+      "review_helpful_count": 32,
+      "author_display_name": "Chiefgolden",
+      "author_alias": "Chiefgolden",
+      "developer_response": {
+        "body": "Hi Chiefgolden, thank you for your kind feedback!\nCustomizing your character: In your wrist menu, there is the Wardrobe button offering the possibility to apply changes to four different parts of your minifigure - legs, torso, hairdo, facial features (including variants with female traits).\nSandbox bricks: Yes, it starts out with a reduced palette. However, each world (jungle, desert, etc.) has a vendor cave somewhere in one of its dioramas. The vendor offers you more bricks (incl. vines, leaves, etc.) in exchange for a currency that you can find in treasure chests that are located all over the different dioramas.\nYou are right saying that building should not be limited; we just wanted to incentivize the exploratory aspect of the game by gradually having the players unlock more and more bricks.",
+        "date": 1772465829
+      }
+    },
+    {
+      "id": "1428767342261651",
+      "score": 5,
+      "review_title": "Puzzles are very good",
+      "review_description": "I am an adult that stopped building sets years ago but picked this up on sale. I didn't expect it to be this fun and I have played this game to until my quest 3 batteries ran out and go back again and again. Granted, the storyline can be finished in a few days but for the price on sale, it was more than worth it. There were times I've gone back to find all the small things to complete each story to 100% and got stumped on how to get to certain areas and the satisfaction of solving the puzzle. I would buy more of this kind if they make more of it.",
+      "date": 1771346962,
+      "review_helpful_count": 9,
+      "author_display_name": "zipsync",
+      "author_alias": "zipsync",
+      "developer_response": null
+    },
+    {
+      "id": "954836644387223",
+      "score": 5,
+      "review_title": "Easter egg hunt",
+      "review_description": "I thoroughly enjoyed the LEGO Bricktales game, particularly the engaging building mechanics and diverse stages, including the beach, medieval, desert, and city environments. I successfully completed all stages and located all hidden eggs, including the Easter egg. However, I was unable to acquire the final costume due to insufficient in-game currency. I've noted that another player encountered the same issue after purchasing the game and collecting all eggs. I am seeking clarification regarding this discrepancy.",
+      "date": 1772557270,
+      "review_helpful_count": 3,
+      "author_display_name": "Springrose25c",
+      "author_alias": "Springrose25c",
+      "developer_response": null
+    },
+    {
+      "id": "26934335789503726",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "This is a brilliant game. So much fun to play. Would highly recommend it. It's a long game .give it a go I don't think you will be disappointed.",
+      "date": 1774944530,
+      "review_helpful_count": 1,
+      "author_display_name": "buffettfan",
+      "author_alias": "buffettfan",
+      "developer_response": null
+    },
+    {
+      "id": "1091412324049497",
+      "score": 5,
+      "review_title": "Luv it",
+      "review_description": "The grafics are amazing one of the best games out there.\nTime for more updates 😁",
+      "date": 1774039889,
+      "review_helpful_count": 1,
+      "author_display_name": "suziewongchong",
+      "author_alias": "suziewongchong",
+      "developer_response": null
+    },
+    {
+      "id": "894501940418616",
+      "score": 1,
+      "review_title": "WTF",
+      "review_description": "I can’t get past the tutorial I press a to start the tutorial then it asks me to press left control stick down to change the hand the menu is on but nothing happens and that’s it. I’ve tried to uninstall then reinstall, I removed the batteries from the controllers and replaced them with new ones still nothing what do I do now and how long do I have to return it",
+      "date": 1766631704,
+      "review_helpful_count": 7,
+      "author_display_name": "JIMBOT5000",
+      "author_alias": "JIMBOT5000",
+      "developer_response": null
+    },
+    {
+      "id": "858666054004874",
+      "score": 5,
+      "review_title": "Love This",
+      "review_description": "Ive never actually played with Lego , but this is an amazing journey through different places and doing the quests are great fun. Plus building things using Lego has made me want more. Having to think about the construction of what they ask you to build, is mentally challenging, but so good for brain training. I feel like my brain is much sharper. Great game and please bring out Bricktales 2",
+      "date": 1766334182,
+      "review_helpful_count": 8,
+      "author_display_name": "Nonna1617",
+      "author_alias": "Nonna1617",
+      "developer_response": null
+    },
+    {
+      "id": "820428360626352",
+      "score": 3,
+      "review_title": "日本語の表記が不適切",
+      "review_description": "Some kanji characters aren't displaying correctly in Japanese—they're garbled. The language settings seem off. For example, the character for \"晴\" uses U+FA12 instead of the standard U+FA91. I don't think the development team tested Japanese display-ability. Because of this, I can't focus on the story.",
+      "date": 1764225442,
+      "review_helpful_count": 21,
+      "author_display_name": "tea301",
+      "author_alias": "tea301",
+      "developer_response": null
+    },
+    {
+      "id": "1297414288960884",
+      "score": 5,
+      "review_title": "Incredibly humorous and fun for adults",
+      "review_description": "The humor is the best thing about this game. Very cute, funny characters! It’s also incredibly fun and relaxing. Some levels can be difficult but overall it’s perfect. Never played with Legos, but this was really fun!",
+      "date": 1771085290,
+      "review_helpful_count": 1,
+      "author_display_name": "Duriancat",
+      "author_alias": "Duriancat",
+      "developer_response": null
+    },
+    {
+      "id": "1390068879197635",
+      "score": 1,
+      "review_title": "Will not start after update",
+      "review_description": "stuck with not responding warning. Rebooted, renstalled, app is just broken after last update.. App was fun but is now totally unplayable on my quest 3.  i wouldn't waste your money.",
+      "date": 1764905564,
+      "review_helpful_count": 13,
+      "author_display_name": "Montag67",
+      "author_alias": "Montag67",
+      "developer_response": {
+        "body": "I am sorry for the troubles. However, we can not reproduce this issue, the game runs fine on our devices. Please contact support@clockstone.com for more help.",
+        "date": 1765964494
+      }
+    },
+    {
+      "id": "958435700687000",
+      "score": 5,
+      "review_title": "Very enjoyable",
+      "review_description": "Purchased for the kids and then the adults started to enjoy it, since we enjoyed Legos as well. Love the details and the way you are able to munvuer through the scenes. Great game to pass the time!",
+      "date": 1769434530,
+      "review_helpful_count": 0,
+      "author_display_name": "Chickenrunfast",
+      "author_alias": "Chickenrunfast",
+      "developer_response": null
+    },
+    {
+      "id": "834239359138027",
+      "score": 5,
+      "review_title": "Beautiful and great game!",
+      "review_description": "An incredibly beautiful and great game. The graphics are superb (in VR mode, not so much in MR mode), the worlds are beautifully designed, the story appeals to me a lot, the gameplay is very successful. It's incredibly fun and I've just completed everything with 100% - it's really great fun to collect the last animals and to find chests. It's way better in VR than non VR!",
+      "date": 1761378140,
+      "review_helpful_count": 19,
+      "author_display_name": "Lord.Wyldbit",
+      "author_alias": "Lord.Wyldbit",
+      "developer_response": null
+    },
+    {
+      "id": "1089373574260785",
+      "score": 5,
+      "review_title": "This is worth the money!",
+      "review_description": "If you like legos this game is the game you’ve been looking for bringing your creativity and it’s a puzzle game don’t listen to the one stars this game is amazing!",
+      "date": 1777263034,
+      "review_helpful_count": 0,
+      "author_display_name": "JayyzariVR",
+      "author_alias": "JayyzariVR",
+      "developer_response": null
+    },
+    {
+      "id": "999261426594843",
+      "score": 5,
+      "review_title": "A brick ton of fun!",
+      "review_description": "A Lego game oozing with charm and originality. I enjoyed every moment, even just to stare at the level design.",
+      "date": 1768446317,
+      "review_helpful_count": 1,
+      "author_display_name": "GreaseGun154",
+      "author_alias": "GreaseGun154",
+      "developer_response": null
+    },
+    {
+      "id": "1261998882456078",
+      "score": 1,
+      "review_title": "a lot of bug",
+      "review_description": "the game keeps freezing",
+      "date": 1771336033,
+      "review_helpful_count": 1,
+      "author_display_name": "18850798060",
+      "author_alias": "18850798060",
+      "developer_response": null
+    },
+    {
+      "id": "1318886459997076",
+      "score": 3,
+      "review_title": "FALLO EN MISIÓN CITY",
+      "review_description": "Hi, when I start in the city, on the mission to find the scientist Rita, when I go up to the rooftop, the icon to build a walkway to the other building doesn't appear, and I can't continue playing. Can you help me?\nI uninstalled it, but it didn't help.\nThanks.",
+      "date": 1766589816,
+      "review_helpful_count": 0,
+      "author_display_name": "PEPINHOVR",
+      "author_alias": "PEPINHOVR",
+      "developer_response": null
+    },
+    {
+      "id": "937795299414333",
+      "score": 5,
+      "review_title": "Please Developer",
+      "review_description": "Ai told me I could play this with one hand but I can’t get past the tutorial I only have one controller as well the right one?\nIt’s nothing more than a hallucinating monkey !",
+      "date": 1766596149,
+      "review_helpful_count": 2,
+      "author_display_name": "tristan.luckham.2026",
+      "author_alias": "tristan.luckham.2026",
+      "developer_response": null
+    },
+    {
+      "id": "711381278734893",
+      "score": 3,
+      "review_title": "Graphics are amazing, game is not",
+      "review_description": "The graphics look amazing. That's it.\n\nWhen building, the game switches to a white \"void\" space. You can't build in the main world view. So even though the game has interesting atmospheric and amazingly rendered worlds, you spend almost all of your time in a generic white void clipping 5 bricks together. Constantly fading between views is tedious and makes the building feel like a chore.\n\nThe storywriting is a bit cringe and clearly aimed at kids (I am an adult). I mainly bought this with the aim to spend a few hours idly clipping bricks together and enjoying the visuals, but this is ruined by the constant switching in and out of \"build mode\" and the fact that building happens in a void where you can't enjoy the scenery or the graphical effects that initially sold me on this game.\n\nPlayed about half an hour and then lost interest.",
+      "date": 1758233003,
+      "review_helpful_count": 27,
+      "author_display_name": "micheal65536",
+      "author_alias": "micheal65536",
+      "developer_response": null
+    },
+    {
+      "id": "737578262724796",
+      "score": 5,
+      "review_title": "Fantastic!",
+      "review_description": "The game is so good! the playstyle is comfortable the story is interesting and the sandbox is so good!  idk why this games ratings r not 5\\5",
+      "date": 1767330015,
+      "review_helpful_count": 1,
+      "author_display_name": "AjTheSigm4",
+      "author_alias": "AjTheSigm4",
+      "developer_response": null
+    },
+    {
+      "id": "972447312609669",
+      "score": 1,
+      "review_title": "Stuck on the tutorial",
+      "review_description": "Can I skip the tutorial since I was stuck , can not move on. Please fix the bug. Push button not working.",
+      "date": 1766501618,
+      "review_helpful_count": 4,
+      "author_display_name": "FrancisWeng",
+      "author_alias": "FrancisWeng",
+      "developer_response": null
+    },
+    {
+      "id": "748346145033258",
+      "score": 2,
+      "review_title": "Neat technology demo but super boring",
+      "review_description": "Feels like a chore doing menial building tasks.  There's a sandbox mode inside of tasks but then you're working in the confines of the original build plan.\n\nAn hour in and there's no real sandbox mode.\n\nUnless you're getting this for a kid that doesn't mind building what they want you to build, I'd avoid.",
+      "date": 1757229823,
+      "review_helpful_count": 6,
+      "author_display_name": "KaleidoscopicKen",
+      "author_alias": "KaleidoscopicKen",
+      "developer_response": null
+    },
+    {
+      "id": "778704294494621",
+      "score": 4,
+      "review_title": "Lost all my progress",
+      "review_description": "I’m so angry. I was nicely along in the game, I just logged back from two days of not playing and it starts all the way from the beginning??? I lost all my progress?? Yeah NOPE 👎 I’m NOT starting ALL the way from the beginning. I want a refund. This is BS\n\nEDIT in response:\nI did not log in as a different user… I did not see a profile selection. I called meta and they keep claiming it’s your (developer) fault for not enabling cloud sync. I kept pushing them because I actually didn’t believe it. They refused to listen.. I’m now starting to think the problem lies in the meta cloud. But per usual meta is unresponsive and refuses to take responsibility. I’ll adjust the rating for this game. I hope I can play it again because it was fun while it lasted.\nThe cloud sync was on and brick tales was listed. (What I kept telling meta but they kept refusing to take responsibility) I tried to load different game saves but it just kept starting over. Kept erasing all progress no matter what game save I used.",
+      "date": 1753979978,
+      "review_helpful_count": 36,
+      "author_display_name": "callunairis777",
+      "author_alias": "callunairis777",
+      "developer_response": {
+        "body": "Hi callunairis777!\nWe are sorry to hear this as losing progress is pretty frustrating. Save games are handled by the device’s operating system. Two ideas from our side to check if progress is really lost: 1) Did you maybe log in as a different user to your device when coming back? 2) When starting the game, a profile selection screen appears at game start where you can choose between five differently saved progresses. Did you maybe choose a new progress slot?\nEDIT: Thank you very much for your review edit and the adjusted rating! LEGO Bricktales has cloud sync enabled. On your headset, please go into Settings > General and find the entry for Cloud backup. Open it and at the top, please check if you have generally turned Cloud backup to be ON. In the list below, LEGO Bricktales should be listed.",
+        "date": 1753968946
+      }
+    },
+    {
+      "id": "790622524136420",
+      "score": 1,
+      "review_title": "Feeling like I got scammed",
+      "review_description": "This game was so boring. Everything you do is walk around and talk to NPC’s. WARNING DONT BUY THIS GAME!!!",
+      "date": 1758391219,
+      "review_helpful_count": 7,
+      "author_display_name": "FBking123",
+      "author_alias": "FBking123",
+      "developer_response": null
+    },
+    {
+      "id": "687940534409696",
+      "score": 5,
+      "review_title": "Lego Maniac Must Play",
+      "review_description": "If you love building things with Legos then you need this game. I not only loved the creative part but also the story line, multiple worlds, and overall gameplay. Hoping the devs are creating another game like this one. 😎",
+      "date": 1753885908,
+      "review_helpful_count": 10,
+      "author_display_name": "GladiatrixStorm",
+      "author_alias": "GladiatrixStorm",
+      "developer_response": null
+    },
+    {
+      "id": "664746453383521",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "I love this game. Laid up with a broken foot. Took 6 weeks to get through the whole thing. Not 100% complete but I have technically finished the game. Wshing there was different worlds to go into. I want to keep playing but I basically built everything and even went back and redid so many just cause I didn’t want to end the game.",
+      "date": 1747180137,
+      "review_helpful_count": 21,
+      "author_display_name": "Killtheory666",
+      "author_alias": "Killtheory666",
+      "developer_response": null
+    },
+    {
+      "id": "1721492515386847",
+      "score": 5,
+      "review_title": "Fantastic!",
+      "review_description": "Update:\n\nI just finished it, (except for the Christmas DLC, I’m saving that for December).\n\nI’ve raised my score to five stars, despite the little glitches. It’s worth every penny.\n\nOriginal Review:\n\nAfter less than an hour I was hooked. I’m probably around two hours into the game and it looks like there’s still a ton of stuff to do and little worlds to explore.\n\nThe graphics are beautiful and very detailed. The real time shadows add to the atmosphere and the illusion that you have a magical LEGO set floating in your room.\n\nThe only reason I can’t give it five stars is because of technical glitches and an odd design choice.\n\nAfter a new world loads up there a brief period where the image jitters around. In the MR mode the guardian is left on which is immersion breaking. There’s no reason to have the guardian on if you’re looking at your real environment.\n\nI don’t know why they chose to reposition the LEGO world at certain times like when there’s a cut scene or between transitions. It’s a little annoying to have to keep dragging the world back to where you want it.\n\nIf they fix the jittering glitch, switch off the guardian in MR mode, and add a way to disable the auto repositioning, then this game will be as close to perfection as possible.",
+      "date": 1747831800,
+      "review_helpful_count": 51,
+      "author_display_name": "Jioxx",
+      "author_alias": "Jioxx",
+      "developer_response": null
+    },
+    {
+      "id": "649219714940812",
+      "score": 3,
+      "review_title": "SAND BOX! OR SETS YOU CAN BUY AND BUILD",
+      "review_description": "Really need to add a sand box or a blank world where you can create what ever you want. Or sell actual lego sets you can build and store them in a gallery or museum..",
+      "date": 1746881236,
+      "review_helpful_count": 74,
+      "author_display_name": "AdamGlenn17",
+      "author_alias": "AdamGlenn17",
+      "developer_response": null
+    },
+    {
+      "id": "805438902143173",
+      "score": 4,
+      "review_title": "Worlds",
+      "review_description": "I was hoping to see more added to this game.",
+      "date": 1756561939,
+      "review_helpful_count": 1,
+      "author_display_name": "Ms_Sassy_Axe",
+      "author_alias": "Ms_Sassy_Axe",
+      "developer_response": null
+    },
+    {
+      "id": "29503767049268313",
+      "score": 1,
+      "review_title": "Unplayable!",
+      "review_description": "The game levels are like a diorama that you can move and place anywhere in the room, but the game is bugged and the location resets with most interactions. Like a character says something and the whole thing resets the position. Also you can only stand like 3 feet away before it hides the whole game level disappears. Maybe it's some kind of optimization thing to set a limited viewing distance but it makes it awkward to play because you have to be so close to it. I was excited to play with Lego in VR but these issues are very frustrating and makes it an unplayable game.",
+      "date": 1747354692,
+      "review_helpful_count": 9,
+      "author_display_name": "darthviper107",
+      "author_alias": "darthviper107",
+      "developer_response": {
+        "body": "Hi and thank you for your feedback! In the wrist UI, there is a button with a camera symbol on it, giving you the option to lock the camera. If you set it to locked, the cam will not change for dialogues and cutscenes.",
+        "date": 1747642716
+      }
+    },
+    {
+      "id": "619491341255702",
+      "score": 5,
+      "review_title": "Relaxing and fun!",
+      "review_description": "Really enjoying this one, it’s really relaxing with a nice ambiance on the scenes. Building little mini challenges are really therapeutic, it’s easy but yet still fun and satisfying which makes it relaxing. \n\nThe mixed reality is a nice touch, though it’s a shame the quest 3 doesn’t have the power to run anti aliasing when it’s turned on. As a result, the image quality suffers a bit. Still an awesome feature though if you don’t want to shut everything out.",
+      "date": 1748990718,
+      "review_helpful_count": 2,
+      "author_display_name": "LagrimaGitana",
+      "author_alias": "LagrimaGitana",
+      "developer_response": null
+    },
+    {
+      "id": "585191428018956",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Please add a entire  sandbox mode  where you can build whatever you want  that doesn’t have to be part of the ￼ ￼ story  ￼",
+      "date": 1745360685,
+      "review_helpful_count": 24,
+      "author_display_name": "FrostedChinchilla5933",
+      "author_alias": "FrostedChinchilla5933",
+      "developer_response": null
+    },
+    {
+      "id": "646668415192946",
+      "score": 4,
+      "review_title": "Animal related requests are unintuitive",
+      "review_description": "Weirdly for every animal related request I've cone across so far the requests are universally unintuitive and impossible to complete. 'Put a roof on the chicken coop'. Cool. Which part of this six part three pallete construct is the roof and why is every attempt i make to block rain insufficient to your algorithms? The same with putting bats inside a box. These requests make no sense, I spent about two hours on each building up the entire structure in dozens of differing ways and still failing this basic childrens game task. No other part of the game has been like this, so tedious underexplained and specific in completion.\nWhen the game is fun its almost life changing. When you logic-gate play behind dictated results, you make me want to shatter my quest, then get a refund: in that order.",
+      "date": 1745651525,
+      "review_helpful_count": 4,
+      "author_display_name": "Atmatan",
+      "author_alias": "Atmatan",
+      "developer_response": null
+    },
+    {
+      "id": "1184567246569170",
+      "score": 5,
+      "review_title": "Fun and Lots to Do",
+      "review_description": "Such a fun game! I'm in my 50s and while I wasn't into Legos growing up this was a nice blast to the past. The graphics are spot on, the jokes from the designers are also witty.  There is easily 10+ hours of game play here If you want to go for all the achievements. I hope they come out with a part two, or maybe consider porting some of their other Lego games over to the quest for others to experience.  Highly recommended!",
+      "date": 1740961015,
+      "review_helpful_count": 31,
+      "author_display_name": "csonis",
+      "author_alias": "csonis",
+      "developer_response": null
+    },
+    {
+      "id": "683654377593953",
+      "score": 3,
+      "review_title": "Fun but…",
+      "review_description": "It’s alright. You control a little character and build stuff as he goes on this adventure. Now, I’m not a very creative person. I also have autism which makes it hard to be creative. I like Lego bc of the instructions. It tells you exactly what pieces to use and where. This game does NOT do that. It forces you to make stuff up yourself. It makes it very unenjoyable for me. I was stuck on a level for 20 mins bc I couldn’t figure it out. No hints or anything. Very frustrating. Will be getting a refund.",
+      "date": 1745368954,
+      "review_helpful_count": 2,
+      "author_display_name": "Kdecker1",
+      "author_alias": "Kdecker1",
+      "developer_response": null
+    },
+    {
+      "id": "679397908592725",
+      "score": 5,
+      "review_title": "Amazing!",
+      "review_description": "I am hooked with the world, puzzles, stories!",
+      "date": 1750621341,
+      "review_helpful_count": 1,
+      "author_display_name": "Tinystoriesplacesthings",
+      "author_alias": "Tinystoriesplacesthings",
+      "developer_response": null
+    },
+    {
+      "id": "590899294117693",
+      "score": 5,
+      "review_title": "Amazing!",
+      "review_description": "I loved this. Hooked me immediately. The only thing that's missing is a sandbox and/or sets. I would pay for that. Having a virtual place with all my lego sets.",
+      "date": 1748362205,
+      "review_helpful_count": 1,
+      "author_display_name": "AlbertPimmetje",
+      "author_alias": "AlbertPimmetje",
+      "developer_response": null
+    },
+    {
+      "id": "606820069189241",
+      "score": 4,
+      "review_title": "Great game!",
+      "review_description": "First of all, this is a great game. I recommend waiting to get it on sale, but if you’re a Lego fan, it’s worth the $35. The storyline is fun and cool, but a free build mode would make me love this game even more.",
+      "date": 1747055605,
+      "review_helpful_count": 0,
+      "author_display_name": "Breadcrumb294",
+      "author_alias": "Breadcrumb294",
+      "developer_response": null
+    },
+    {
+      "id": "650541421470170",
+      "score": 3,
+      "review_title": "Not my cup of tea.",
+      "review_description": "It's not that fun to me and when I get out of the game my vr freezes and I try to refund it but it says I had this game for over 14 days when I bought it today I don't know if it's a glitch or if I just need to wait.",
+      "date": 1745017795,
+      "review_helpful_count": 2,
+      "author_display_name": "SabrinaVR_Official",
+      "author_alias": "SabrinaVR_Official",
+      "developer_response": null
+    },
+    {
+      "id": "637434065464615",
+      "score": 4,
+      "review_title": "Love this game but without fail",
+      "review_description": "I enjoyed every bit of the design and lore. It was an adorable, well built game. But without fail I got a tension headache every single time. I mean, it definitely throttled my gameplay so I didn't get through it too fast. I'm not sure what part of the game gave me the headache. Whether it was the angle of the POV, the way I had to use my arms- I don't know. Most of these things aren't unique to this game but the headache was. The story was great, being able to hop immediately into creative mode to fine-tune my builds was great. After completion, even with the headache, I full stop want to redo some of my old builds later so clearly it's worth the headache if I pace myself. But. I know that I wish I had seen someone mention it. I have a comfort strap and everything. I hope this helps a future player know it's worth the ache but maybe you should be ready to deal with it too.",
+      "date": 1739328584,
+      "review_helpful_count": 13,
+      "author_display_name": "Gelasia",
+      "author_alias": "Gelasia",
+      "developer_response": null
+    },
+    {
+      "id": "616497204881518",
+      "score": 3,
+      "review_title": "Game is funny but needs some issues fixd",
+      "review_description": "I've enjoyed this game a lot, but there is a constant flickering that keeps resetting my view which is very annoying, hope they fix it soon :/",
+      "date": 1745091323,
+      "review_helpful_count": 1,
+      "author_display_name": "Spacexgt",
+      "author_alias": "Spacexgt",
+      "developer_response": null
+    },
+    {
+      "id": "633548399097216",
+      "score": 5,
+      "review_title": "Very addictive & great fun",
+      "review_description": "When I first started playing I thought it would be just building things but there's more to it than just that. It's more of an interactive story with puzzles on the way. It's much better than I thought it would be. I'm finding it addictive and have to make myself come off the game to give my eyes a rest.\nGreat graphics and fun building puzzles... Recommended to two friends. I bought it on sale and think it's well worth the money. Not sure I would have paid the full price though. 10/10 so far I'm about 1/2 way through the game...",
+      "date": 1736933559,
+      "review_helpful_count": 30,
+      "author_display_name": "BeeBeeBoss",
+      "author_alias": "BeeBeeBoss",
+      "developer_response": null
+    },
+    {
+      "id": "523481584186489",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "My wife and I both enjoyed this game. It was a bit frustrating at times to figure out but that only adds to the success you feel as you progress through the game. Interestingly, we had trouble with different portions. I thought they did a good of difficulty without being too difficult. Fun.",
+      "date": 1737335079,
+      "review_helpful_count": 6,
+      "author_display_name": "ScooterC",
+      "author_alias": "ScooterC",
+      "developer_response": null
+    },
+    {
+      "id": "449177391621723",
+      "score": 5,
+      "review_title": "Exactly what VR is for",
+      "review_description": "This is one of those rare gems that completely outshines everything else and absolutely validates the existence of VR. It's in the same league as Beat Saber and Half Life Alyx in terms of polish, style, mechanics and enjoyment.\n\nThe detail is incredible and the building is so much fun and intuitive. I already started playing on my PC but when I saw this on the Quest I bought this version as well and haven't been disappointed.\n\nStop reading this, go buy it and feel like a kid playing with Lego again",
+      "date": 1735253778,
+      "review_helpful_count": 13,
+      "author_display_name": "euqinu",
+      "author_alias": "euqinu",
+      "developer_response": null
+    },
+    {
+      "id": "1376369370202566",
+      "score": 5,
+      "review_title": "Relax - seated game",
+      "review_description": "Well done.  superb graphics.  You get a many things to build and the story is cute. No stress game",
+      "date": 1742423695,
+      "review_helpful_count": 0,
+      "author_display_name": "CoolRib_",
+      "author_alias": "CoolRib_",
+      "developer_response": null
+    },
+    {
+      "id": "605054725365362",
+      "score": 5,
+      "review_title": "Too addictive — I need to set a timer!",
+      "review_description": "I got this during the holiday sale. I’m very pleasantly surprised! And I’m saying this as a fully grown adult (lol). I LOVED Lego as a kid but of course hadn’t played with them in over 20 years. The game is super fun — it’s really a puzzle engineering game, you have to engineer and build various contraptions to take your character through the story. Honestly, in general I’m not a huge fan of ordinary puzzle games, but the clever building aspect is really quite a thrill.\n\nThe way it utilizes mixed reality is beautiful. You can have it on while watching tv, and I’m a big fan of games that have you looking down over a miniature diorama, like Moss. Being able to play it sitting down is also a bonus. \n\nHonestly, there’s only one “problem:” you can easily kill several hours building various devices and you’ll think you’ve only been playing for 20 minutes. I’m going to have to start setting a timer so I don’t get too sucked into it! \n\n5 stars, easy.",
+      "date": 1735610932,
+      "review_helpful_count": 60,
+      "author_display_name": "moosie_moose",
+      "author_alias": "moosie_moose",
+      "developer_response": null
+    },
+    {
+      "id": "582685118250958",
+      "score": 5,
+      "review_title": "Really pretty looking game!(in VR)",
+      "review_description": "It’s a really really pretty looking game in VR on the Quest 3 but why is the resolution of the game camera in AR so much lower? Please give us a graphics option to change it please? \n\n(Not talking about the pass trough camera resolution!)",
+      "date": 1735726029,
+      "review_helpful_count": 9,
+      "author_display_name": "Timanious",
+      "author_alias": "Timanious",
+      "developer_response": null
+    },
+    {
+      "id": "570394479249046",
+      "score": 3,
+      "review_title": "Hmmm",
+      "review_description": "Not what I was expecting on a few counts: \n\n1. You're not actually in the Lego world, more viewing it from the outside which is really disappointing. \n2. There is a lot of reading to do, why are the characters not talking??\n3. There is zero direction/help when it comes to the builds... If you can't work it out then tough.\n\nI can forgive the first point but points 2 & 3 leave me feeling super frustrated. \n\nI really wanted to love this game and thought it would be nice and chilled but for the reasons mentioned above, it's anything but relaxing.",
+      "date": 1735265466,
+      "review_helpful_count": 4,
+      "author_display_name": "McDay07",
+      "author_alias": "McDay07",
+      "developer_response": null
+    },
+    {
+      "id": "611252572060367",
+      "score": 5,
+      "review_title": "Cozy game",
+      "review_description": "I really enjoy this game!",
+      "date": 1740105355,
+      "review_helpful_count": 1,
+      "author_display_name": "Andrewslee3",
+      "author_alias": "Andrewslee3",
+      "developer_response": null
+    },
+    {
+      "id": "487317854473061",
+      "score": 1,
+      "review_title": "Game stuck in tutorial..",
+      "review_description": "Game/tutorial doesn't progress; while I can zoom / spin the world; mini fig is floating in mid are; water is animated; I can't progress any farther... I can find the white rabbit; but nothing else... disappointing",
+      "date": 1736488921,
+      "review_helpful_count": 1,
+      "author_display_name": "DanDingo",
+      "author_alias": "DanDingo",
+      "developer_response": {
+        "body": "I am sorry to hear you are having this issue. Please contact our support so we can find out why you are stuck in the tutorial: support@clockstone.com \nIn the Options Menu there is a \"Help me - I am stuck\" button. This could help in your situation.",
+        "date": 1737127028
+      }
+    },
+    {
+      "id": "1120845359674353",
+      "score": 3,
+      "review_title": "It misses a creative mode",
+      "review_description": "It is a great game. However, if you are looking for a free building mode, you won’t play it on this one.",
+      "date": 1735250393,
+      "review_helpful_count": 4,
+      "author_display_name": "patrickporto",
+      "author_alias": "patrickporto",
+      "developer_response": null
+    },
+    {
+      "id": "893739962920039",
+      "score": 1,
+      "review_title": "Can't get past the tutorial",
+      "review_description": "It won't let me change wrists for the menu and the app doesn't allow you to skip the tutorial. Sad.",
+      "date": 1735008138,
+      "review_helpful_count": 4,
+      "author_display_name": "The_Fit_Nurse",
+      "author_alias": "The_Fit_Nurse",
+      "developer_response": {
+        "body": "Hello! Changing the menu to your right wrist works by pressing onto the thumbstick of your right controller. If later you want it back on the left hand side, you can press onto the thumbstick of your left controller.",
+        "date": 1735381039
+      }
+    },
+    {
+      "id": "614943794819359",
+      "score": 1,
+      "review_title": "Save your money",
+      "review_description": "Terrible game. I hover over the pieces. Sometimes I can grab them and most of the time I can't.",
+      "date": 1736481041,
+      "review_helpful_count": 1,
+      "author_display_name": "Fungi_2_Party",
+      "author_alias": "Fungi_2_Party",
+      "developer_response": null
+    },
+    {
+      "id": "367155093154715",
+      "score": 1,
+      "review_title": "There’s no way to reset a puzzle…yet",
+      "review_description": "Great premise, but with no way to reset puzzle pieces it makes gameplay too cumbersome. Devs please add a “Reset Puzzle” option, this will greatly improve user interaction.",
+      "date": 1723354097,
+      "review_helpful_count": 20,
+      "author_display_name": "dtales",
+      "author_alias": "dtales",
+      "developer_response": {
+        "body": "Hi dtales, when in a puzzle, please enter your wrist menu and press the third button from the left called \"Save Slots\". If you have already built something, there will be a garbage bin button next to \"Slot 1\", which you can use to remove everything you built, i.e. reset the puzzle. Please note that you can swap to Slot 2 and Slot 3 to independently save (and erase ;)) two more different solutions for the same puzzle. \nWe apologize for the delayed answer!",
+        "date": 1737562097
+      }
+    },
+    {
+      "id": "26641403842141018",
+      "score": 5,
+      "review_title": "great lego game!!",
+      "review_description": "If you would like a referral discount, please DM me.",
+      "date": 1725426528,
+      "review_helpful_count": 1,
+      "author_display_name": "takboy_tak",
+      "author_alias": "takboy_tak",
+      "developer_response": null
+    },
+    {
+      "id": "25876499588631222",
+      "score": 4,
+      "review_title": "More than I expected.",
+      "review_description": "I thought this would be an easy game, but I was pleasantly surprised to find that it serves up quite a challenge. I've never considered myself a master builder and this game proves I am not. 😆  It's fun and challenging and I highly recommend it.",
+      "date": 1717299407,
+      "review_helpful_count": 3,
+      "author_display_name": "Xander790",
+      "author_alias": "Xander790",
+      "developer_response": null
+    },
+    {
+      "id": "784557287054555",
+      "score": 1,
+      "review_title": "Unplayable due to glitch",
+      "review_description": "I was really enjoying this game but I've hit a bug which makes it impossible to progress further and despite submitting bug reports, no help has been forthcoming.",
+      "date": 1709475456,
+      "review_helpful_count": 6,
+      "author_display_name": "auntyjomanda",
+      "author_alias": "auntyjomanda",
+      "developer_response": {
+        "body": "Hi Auntyjomanda - can you please email support@thunderfulgames.com with as much information as possible so we can look into this?",
+        "date": 1709543262
+      }
+    },
+    {
+      "id": "265149390012301",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Dooky",
+      "date": 1710598826,
+      "review_helpful_count": 11,
+      "author_display_name": "Jaxsk3llington",
+      "author_alias": "Jaxsk3llington",
+      "developer_response": null
+    },
+    {
+      "id": "399984099588195",
+      "score": 1,
+      "review_title": "Awful",
+      "review_description": "Not crisp and certainly no fun to be found. Simply a LEGO cash-grab on the VR trend. Shame 😞",
+      "date": 1713229147,
+      "review_helpful_count": 2,
+      "author_display_name": "CynicalMark",
+      "author_alias": "CynicalMark",
+      "developer_response": null
+    },
+    {
+      "id": "814852086991000",
+      "score": 2,
+      "review_title": "It’s fun sort of…",
+      "review_description": "It’s a fun game but also a bit frustrating. Absolutely way too much dialogue, some of it feels like it was written by an AI that was told to “be funny”. So much unnecessary banter it makes it tough to enjoy the game play because once you finish a build you know you are going to have to read 5 mins of back and forth with only 10% of the words being relevant to the game.",
+      "date": 1703759989,
+      "review_helpful_count": 6,
+      "author_display_name": "RobP614",
+      "author_alias": "RobP614",
+      "developer_response": null
+    },
+    {
+      "id": "898798954984093",
+      "score": 1,
+      "review_title": "Unable to Play.. waste of $30",
+      "review_description": "I am unable to get past the boot screen and tutorials. I requested a refund but it said it was run for over 2hrs while I was troubleshooting the steps that said to look at lower arm. I have a $30 app that is completely useless and support is unable to resolve issues.\n\nUpdate: The startup asked the user to press A on the controller and than to turn lower arms over to see a menu. That process doesn’t work. The game didn’t say it required hand gestures.",
+      "date": 1706545440,
+      "review_helpful_count": 3,
+      "author_display_name": "AU_Thach",
+      "author_alias": "AU_Thach",
+      "developer_response": {
+        "body": "Hey AU_Thach, would you be able to elaborate a bit more for us on the issues you are experiencing and the hardware you are using? We've not received these reports before so we're keen to investigate.",
+        "date": 1706538236
+      }
+    },
+    {
+      "id": "197803666746847",
+      "score": 3,
+      "review_title": "Still needs multiple save locations",
+      "review_description": "Just started and think it works great. Would give it a 5* for the game itself but the fact that only one person can play and not share is disappointing. So I cannot share it with my son’s account on the same Oculus and only one save slot means no one else can enjoy it.",
+      "date": 1703519800,
+      "review_helpful_count": 5,
+      "author_display_name": "DadsVR33",
+      "author_alias": "DadsVR33",
+      "developer_response": {
+        "body": "Hey DadsVR33, we appreciate your review and we're heard more users request multiple save slots, this is something we're currently investigating.",
+        "date": 1705338124
+      }
+    },
+    {
+      "id": "379523124797795",
+      "score": 1,
+      "review_title": "Bad",
+      "review_description": "I can’t get past the tutorial",
+      "date": 1707396945,
+      "review_helpful_count": 3,
+      "author_display_name": "The.Quiet.kid",
+      "author_alias": "The.Quiet.kid",
+      "developer_response": {
+        "body": "Hey 13 Soccer - are you able to email support@thunderfulgames.com with some screenshots and more information so we can try and help you resolve this?",
+        "date": 1708619898
+      }
+    },
+    {
+      "id": "153344291205883",
+      "score": 1,
+      "review_title": "Can't get past the tutorial",
+      "review_description": "It keeps getting stuck on the toggles tutorial. Can someone please help thanks",
+      "date": 1704240320,
+      "review_helpful_count": 4,
+      "author_display_name": "Icebox777",
+      "author_alias": "Icebox777",
+      "developer_response": {
+        "body": "Hey Icebok777, I believe we might have already spoken on other platforms and discussed your issue with the broken Quest controller, If that is not you, please let us know where you are stuck so that we can investigate the issue and get you in-game!",
+        "date": 1705337473
+      }
+    },
+    {
+      "id": "192236727304119",
+      "score": 5,
+      "review_title": "*-* Good game very fun! 💎-25o/o off💎",
+      "review_description": "very fun to play and also much cheaper than buying lego hahaha.\n💎25 off  -> bit,ly/raver886\nSó trocar a virgula por ponto =D\nJust replace the comma with a dot",
+      "date": 1701974097,
+      "review_helpful_count": 0,
+      "author_display_name": "xRav3R",
+      "author_alias": "xRav3R",
+      "developer_response": null
+    },
+    {
+      "id": "385925510623122",
+      "score": 1,
+      "review_title": "It’s ok",
+      "review_description": "Not for me it is vary over priced and don’t like",
+      "date": 1703551004,
+      "review_helpful_count": 0,
+      "author_display_name": "HunterJT",
+      "author_alias": "HunterJT",
+      "developer_response": {
+        "body": "Hey HunterJT,\nwe appreciate your review and are keen to hear your feedback more in-depth, were there any particular areas that make you not enjoy the game?",
+        "date": 1705337970
+      }
+    },
+    {
+      "id": "170782089459832",
+      "score": 1,
+      "review_title": "I could not play",
+      "review_description": "I had installed 370 gb file but could not play !",
+      "date": 1702917851,
+      "review_helpful_count": 2,
+      "author_display_name": "parker2.999996",
+      "author_alias": "parker2.999996",
+      "developer_response": {
+        "body": "Hey Parker2.999996, would you be able let us know exactly what issue you are experiencing so that we can help you? It seems like you've downloaded an exorbitantly large file. (As the game is only 1.15gb)",
+        "date": 1705338546
+      }
+    },
+    {
+      "id": "194300393769775",
+      "score": 5,
+      "review_title": "Awesome!",
+      "review_description": "Really fun game!  The AR/MR part works flawlessly.  Controls are excellent, story good, overall a really good game.",
+      "date": 1704046537,
+      "review_helpful_count": 0,
+      "author_display_name": "Jojitadaki",
+      "author_alias": "Jojitadaki",
+      "developer_response": null
+    },
+    {
+      "id": "191916470668973",
+      "score": 5,
+      "review_title": "Fun for old and young! | Pay 25% less",
+      "review_description": "You can get a discount on different games bit:-)ly/m/Meta25 :-) is .\n\nSuper fun game for old and young.\nCute design and and a beautiful feeling while building different objects",
+      "date": 1702636345,
+      "review_helpful_count": 0,
+      "author_display_name": "DnlRsr",
+      "author_alias": "DnlRsr",
+      "developer_response": null
+    },
+    {
+      "id": "191507947383788",
+      "score": 5,
+      "review_title": "Bricktails",
+      "review_description": "Brick tails is so much fun I just want to like build iron Man and like and like a minions and like Captain America Spider-Man like the Disney Castle Titanic like there's so much ways in life that you can play with a Lego and and you could play in Lego games it's just so fun no one can stop me from having fun",
+      "date": 1703990334,
+      "review_helpful_count": 0,
+      "author_display_name": "stary4519",
+      "author_alias": "stary4519",
+      "developer_response": null
+    },
+    {
+      "id": "189258074267528",
+      "score": 5,
+      "review_title": "Love it!",
+      "review_description": "Excellent Lego experience! Graphic looks perfect. There is no better Lego game anytime and any platform.",
+      "date": 1701986785,
+      "review_helpful_count": 0,
+      "author_display_name": "Shurni_Bob",
+      "author_alias": "Shurni_Bob",
+      "developer_response": null
+    },
+    {
+      "id": "187192344474940",
+      "score": 5,
+      "review_title": "Best Lego VR experience",
+      "review_description": "This may be the best Lego game you can experience in VR.\nI think you can do anything you imagine with Lego.\n\nHere Get LEGO BRICKTALES 1/4 OFF!\n🅣🅡🅚🅢🅣🅡.🅑🅘🅞.🅛🅘🅝🅚",
+      "date": 1701991154,
+      "review_helpful_count": 0,
+      "author_display_name": "TR1K5T3R",
+      "author_alias": "TR1K5T3R",
+      "developer_response": null
+    },
+    {
+      "id": "187033844499673",
+      "score": 5,
+      "review_title": "Super fun and easy to play",
+      "review_description": "Fun story line to follow that teaches you as you play. \nI find some of the in-game notification panels sometimes are shown too far away or on an angle making them hard to read, but adjusting your line of sight up or down, by moving your head redraws the location, making them readable. \nHighly recommend, especially if you like LEGO.",
+      "date": 1703961358,
+      "review_helpful_count": 0,
+      "author_display_name": "marmarmarc",
+      "author_alias": "marmarmarc",
+      "developer_response": null
+    },
+    {
+      "id": "185449941316992",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Building Lego in VR is surprisingly calming. 10/10",
+      "date": 1701972471,
+      "review_helpful_count": 0,
+      "author_display_name": "Heratores",
+      "author_alias": "Heratores",
+      "developer_response": null
+    },
+    {
+      "id": "181895445009996",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "I'm really enjoying it so far. Some of the builds can be quite challenging.  I still haven't seen my space suit though.",
+      "date": 1702089168,
+      "review_helpful_count": 0,
+      "author_display_name": "monkeyfartz.2023",
+      "author_alias": "monkeyfartz.2023",
+      "developer_response": null
+    },
+    {
+      "id": "180696778466528",
+      "score": 5,
+      "review_title": "all I expected and even more",
+      "review_description": "Even better then I hoped for.",
+      "date": 1703152624,
+      "review_helpful_count": 1,
+      "author_display_name": "oOSp00kYOo",
+      "author_alias": "oOSp00kYOo",
+      "developer_response": null
+    },
+    {
+      "id": "177968212070644",
+      "score": 5,
+      "review_title": "Almost perfect in every way…",
+      "review_description": "….if only I didn’t get motion sickness after 30 minutes, I would play all night!",
+      "date": 1702063585,
+      "review_helpful_count": 0,
+      "author_display_name": "Calastein",
+      "author_alias": "Calastein",
+      "developer_response": null
+    },
+    {
+      "id": "173361195860938",
+      "score": 5,
+      "review_title": "The best Lego experience yet!",
+      "review_description": "The VR version of this game takes all of my gripes about the original and solves them, the Lego building in VR is a joy!",
+      "date": 1701972248,
+      "review_helpful_count": 20,
+      "author_display_name": "ssAlex984",
+      "author_alias": "ssAlex984",
+      "developer_response": null
+    },
+    {
+      "id": "166473986557179",
+      "score": 5,
+      "review_title": "Just WOW …",
+      "review_description": "Playing a LEGO Story, while building funny things, the funny dialogues, the great graphics, this game is so much fun, bought the game for my son and can’t stop playing myself. More of this please!!! Great in AR and VR, the graphics is better in VR (corners are flittering in AR). Must have game!!!",
+      "date": 1702337376,
+      "review_helpful_count": 0,
+      "author_display_name": "RedDragon89",
+      "author_alias": "RedDragon89",
+      "developer_response": null
+    },
+    {
+      "id": "164180960119446",
+      "score": 4,
+      "review_title": "Must have!",
+      "review_description": "Really good game. Extremely crisp. Very sexy sexy as a showcase for vr. Best thing I have tried so far, for the wow factor. \n\nJust a few little bits need addressing, for one more star ✨.\n\nAs it is really good, we have 3 people wanting to play but no multiple saves for each person. \n\nGraphics drop a far bit in mixed reality. \n\nThe board keeps moving after cut scenes, which gets a little annoying having to reposition. But you get a far bit of play time before having to do this. \n\nMust buy! If you are sitting on the fence weather or not to buy it. You tube videos will not do the 3d or how crispy the details are. 😎",
+      "date": 1702017910,
+      "review_helpful_count": 2,
+      "author_display_name": "Youthio",
+      "author_alias": "Youthio",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-21T03:05:14Z"
+}
