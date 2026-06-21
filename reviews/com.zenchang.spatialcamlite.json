@@ -1,0 +1,34 @@
+{
+  "app_id": "1782694843138407",
+  "package_name": "com.zenchang.spatialcamlite",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "SpatialCam Lite-Capture 3D Stereo Video",
+  "rating_average": 4,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "3706118262864408",
+      "score": 4,
+      "review_title": "alfa version?",
+      "review_description": "The recorded video makes me feel very dizzy even with little motion and highest bitrate set, probably a very low frame rate? ,not sure if it is the HW limitation or the app, the photos are Ok-ish, The user interface is very simple , sorry it just doesn't feel like finished app. I appreciate the option to try the demo app before purchasing 👍\n There is one more camera app which looks more polished and with frame rste settings and updates, but there is no demo or trial option, so I skipped it for now.\nI will return to this app once there are some updates, as I like the idea of using Q3 to make 3D  videos.",
+      "date": 1780296808,
+      "review_helpful_count": 0,
+      "author_display_name": "vik2",
+      "author_alias": "vik2",
+      "developer_response": {
+        "body": "Thanks a lot for the detailed feedback, I really appreciate it.\n\nYou're absolutely right on a few points.\n\nThe current version of the app is still quite simple in terms of UI, and I agree it doesn't yet feel as polished as a finished commercial product. My initial focus was mainly on getting stable stereo recording working on Quest 3 and making sure the YouTube 3D workflow is reliable.\n\nAbout the dizziness and perceived frame rate issues — this is something I take seriously. Quest OS updates over the past months have introduced some unpredictable changes in camera behavior, and I’ve already been actively working on improving stability and recording consistency.\n\nYour feedback is very helpful because it reflects real first-time user experience, not just technical testing.\n\nI’ll continue improving both performance and overall usability in the next updates. Thanks again for taking the time to try it and share your thoughts",
+        "date": 1780533677
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T07:41:03Z"
+}

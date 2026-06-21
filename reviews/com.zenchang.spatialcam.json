@@ -1,0 +1,70 @@
+{
+  "app_id": "25142871951987961",
+  "package_name": "com.zenchang.spatialcam",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "SpatialCam Pro - Support YouTube 3D",
+  "rating_average": 3.75,
+  "rating_count": 16,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1207424699111466",
+      "score": 3,
+      "review_title": "Doesn't record in-app",
+      "review_description": "While I cannot comment on the features of this product as stated, I needed a product that would record my Open Brush session, which sadly this product does not do.\n\nThis feature would be highly useful to YouTube creators such as myself and would bypass the complex issue of recording full-screen (as opposed to the native cropped view in record mode) from within the Meta Quest 3.\n\nAs such, I uninstalled it.",
+      "date": 1781591906,
+      "review_helpful_count": 0,
+      "author_display_name": "zalzalahbuttsab",
+      "author_alias": "zalzalahbuttsab",
+      "developer_response": null
+    },
+    {
+      "id": "901723589694678",
+      "score": 3,
+      "review_title": "PIP-like Flickering & Playback Stutter",
+      "review_description": "Overall, the app works well and the video quality is clear. However, I’ve encountered two key issues. I’m not sure if these are due to my settings or user error, but they affect the recorded video as follows:\nIn the right-eye view of the recording, it looks like there is a ‘picture-in-picture’ angle flickering back and forth. It appears in some frames but not others, which significantly ruins the viewing experience.\nwhen watching the recorded video on the Quest’s built-in media player or Skybox, I experience noticeable frame drops and even flickering that causes eye strain. It feels like the screen is refreshing very aggressively. However, this issue disappears completely when I export the video to my phone.\nI hope the developers can look into this. Best of luck to the team!",
+      "date": 1766433309,
+      "review_helpful_count": 3,
+      "author_display_name": "AserMax",
+      "author_alias": "AserMax",
+      "developer_response": {
+        "body": "Thank you for your feedback.\n\nThe issues caused by the Meta OS 83 upgrade have been resolved in version v1.09. The recording noise and picture-in-picture issues have been fixed.\n\nFurthermore, I've optimized recording performance in this version.",
+        "date": 1767957747
+      }
+    },
+    {
+      "id": "961945346994198",
+      "score": 4,
+      "review_title": "Using as a pass through window",
+      "review_description": "I'm using this as a pass through window while in immersive mode (see experimental settings to enable). \n\nIt was a bit small but the developers added a resize option.  \n\nI am now using this on a treadmill to \"walk around\" a foreign city while on a treadmill. Check our r/vrfit for details.\n\n\n Check out",
+      "date": 1765156279,
+      "review_helpful_count": 3,
+      "author_display_name": "vrunfit",
+      "author_alias": "vrunfit",
+      "developer_response": null
+    },
+    {
+      "id": "1439120567150328",
+      "score": 5,
+      "review_title": "Good quality stereo recording!",
+      "review_description": "At the moment there are two stereo camera apps on the platform. I've purchased both. When they came out both had very uneven frame rates, and they've both been releasing updates to improve performance.\n\nAt the moment the developers of this $2 app have pulled ahead. They've just figured out how to record silky smooth hd video, leaving the competition in the dust for the time being \n\nSo right now this cheaper app is the one to buy.",
+      "date": 1761144947,
+      "review_helpful_count": 11,
+      "author_display_name": "hargisss",
+      "author_alias": "hargisss",
+      "developer_response": {
+        "body": "Thank you so much for recognizing my efforts! I really appreciate your kind words and detailed feedback — it means a lot to see the improvements being noticed. I’ll keep working hard to make the app even better! 🙏",
+        "date": 1761185825
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T07:40:55Z"
+}

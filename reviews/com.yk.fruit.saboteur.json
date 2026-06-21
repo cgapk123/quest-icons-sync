@@ -1,0 +1,42 @@
+{
+  "app_id": "7899172483504830",
+  "package_name": "com.yk.fruit.saboteur",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Fruit Saboteur",
+  "rating_average": 4.6363636363636,
+  "rating_count": 22,
+  "review_count": 22,
+  "reviews": [
+    {
+      "id": "391077937411731",
+      "score": 5,
+      "review_title": "",
+      "review_description": "good game",
+      "date": 1720043371,
+      "review_helpful_count": 0,
+      "author_display_name": "hfhjyjhgr",
+      "author_alias": "hfhjyjhgr",
+      "developer_response": null
+    },
+    {
+      "id": "366629059863569",
+      "score": 4,
+      "review_title": "",
+      "review_description": "good game",
+      "date": 1720044273,
+      "review_helpful_count": 0,
+      "author_display_name": "hjgjgyjyj",
+      "author_alias": "hjgjgyjyj",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T07:34:44Z"
+}
