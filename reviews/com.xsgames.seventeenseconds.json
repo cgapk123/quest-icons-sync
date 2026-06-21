@@ -1,0 +1,104 @@
+{
+  "app_id": "8618805201577833",
+  "package_name": "com.xsgames.seventeenseconds",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "17 Seconds",
+  "rating_average": 4,
+  "rating_count": 6,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "843144498879759",
+      "score": 4,
+      "review_title": "Great but frustrating",
+      "review_description": "Okay, this game is fun. At first I thought that it's just SH clon but it's not true. Game mechanic with just 17 seconds is pretty intense. Maybe some tutorial about throwing objects would be fine because that's the most frustate thing in the whole game - throwing objects. It's really hard to hit someone because physic is really weird (often into random ways). Hope it could be fixed.",
+      "date": 1760291054,
+      "review_helpful_count": 2,
+      "author_display_name": "pa3ck69",
+      "author_alias": "pa3ck69",
+      "developer_response": {
+        "body": "Thanks for your feedback, really appreciated!",
+        "date": 1768800099
+      }
+    },
+    {
+      "id": "682315708304011",
+      "score": 4,
+      "review_title": "Cool game, just needs a bit of work",
+      "review_description": "This game offers a fast-paced, bite-sized burst of action — clocking in around 17 seconds to eliminate all targets. The challenge level hits a sweet spot, requiring quick reactions and smart timing without feeling impossible. I really enjoy the core idea and concept; it’s fun, engaging, and shows a lot of promise.\n\nThat said, the gameplay could benefit from some refinement. The throwing mechanic is the main issue right now — it’s difficult to aim accurately, and items often fly at strange angles or inconsistent speeds. This makes it frustrating at times, especially when a missed throw ruins an otherwise perfect run.\n\nOverall, the game has great potential with its unique concept and short-session style gameplay. With some polish, especially to fix the throwing system, it could be seriously addictive.\n\nRating: 7/10 – Solid foundation, just needs some fine-tuning.",
+      "date": 1752009063,
+      "review_helpful_count": 1,
+      "author_display_name": "MrTumnas",
+      "author_alias": "MrTumnas",
+      "developer_response": {
+        "body": "Thanks for your feedback, really appreciated, I'll see what I can do to adjust gravity in a better way",
+        "date": 1754802311
+      }
+    },
+    {
+      "id": "689954674202914",
+      "score": 3,
+      "review_title": "Challenging but overpriced game",
+      "review_description": "For the price this game is set at, I have to admit that it just looks very basic. Just a white background with some stick figures and a computer. I’ve played games with much more visuals that were at a lower price. If it was at a lower price point, i guess the game experience would be more justifiable. \n\nAt first, I was very confused at the start as the bar labeled “the terminal”, is loading and weapons appear along with red stick figure targets. These stick figures don’t shoot at you or anything . The terminal loading confused me thinking it was loading for the round to start or something like that. When it finally reached the end, it was suddenly game over. \n\nThe game becomes interesting in which each wave you start with the bare minimum weapons and ammo to beat the wave. One miss and you lose. You can upgrade the amount of ammo you start with by playing this mini game on the computer. However, it’s super tedious that you have to score 50 times just to get one bullet. You spend so much time playing just for one  extra bullet. Which I kindof get as easy access to a mass of bullets would just negate the whole difficulty of passing the waves. \n\nLastly, dunno if this is a bug or just user error, but sometimes when I accidentally drop a weapon, the weapon would bounce far away and I can’t retrieve them. \n\nOverall, It’s a fun way of seeing how far I can progress through the challenging limitations but this game just doesn’t demand that much of my attention. However, this game just came out so I’m hopeful for future updates.",
+      "date": 1751524206,
+      "review_helpful_count": 0,
+      "author_display_name": "TheAwkwardTwinkieVR.2025",
+      "author_alias": "TheAwkwardTwinkieVR.2025",
+      "developer_response": {
+        "body": "Thanks for your feedback, really appreciated! Yes, if you drop weapons, you may lose them if they bounce far away, that's because you can throw them to enemies, otherwise you would have infinite tries to kill the enemies ;)\n\n50 score points in the mini game is there to make it not to easy to get extra ammo, I may decrease it though",
+        "date": 1751432594
+      }
+    },
+    {
+      "id": "702252762592284",
+      "score": 4,
+      "review_title": "Interesting concept, needs some tweaks",
+      "review_description": "The concept is interesting. You’re given a few bullets and random objects that you can throw at enemies which all must be done before the timer runs out. It’s definitely not an easy game because if you miss a shot or miss when throwing an object, you won’t be able to kill all the enemies so you need to be accurate. For the gun, that’s fairly decent but the throwing mechanics needs some work. Most of my throws hit the ground too early. On a positive note though, if an object does hit the ground first it will keep on moving so I was able to “kill” the enemy by hitting them in the foot. 😂 There is a minigame you can play to get spare bullets so that helps. The only other thing that would be good is if the enemies seems more alive instead of being static or just sliding in and out of cover.",
+      "date": 1750813176,
+      "review_helpful_count": 1,
+      "author_display_name": "Gentlemansnine",
+      "author_alias": "Gentlemansnine",
+      "developer_response": {
+        "body": "Thanks for your feedback, I really appreciate it. Enemies are static as they are like glass statues, anyway I may implement some more animations in the future",
+        "date": 1751432713
+      }
+    },
+    {
+      "id": "1214426957131386",
+      "score": 4,
+      "review_title": "Simple but Thrilling Hard to Win",
+      "review_description": "Only bullet-limited and melee weapons to defeat in just 17 seconds. But no melee attack and melee weapon are just for throwing. \nThe concepts are promising but targeting by throwing was not so easy.\nIf 2 or 3 missed, no way to do more.\nI hope the gun can be reloaded after some time period.",
+      "date": 1750469406,
+      "review_helpful_count": 1,
+      "author_display_name": "Carpedian",
+      "author_alias": "Carpedian",
+      "developer_response": {
+        "body": "Thanks for your feedback, you can add extra bullets to the gun by playing the mini game in a scene, after you die, insert the Extra Bullets floppy in the computer and reach 50 points in the mini game to earn and extra bullet ;)",
+        "date": 1750545982
+      }
+    },
+    {
+      "id": "787664290617406",
+      "score": 5,
+      "review_title": "Tactical shooter game",
+      "review_description": "You don’t have much time (I guess 17 seconds, like the title mentioned it, but did not timed it 😜)to eliminate all those ‘red’ guys. \n\nThis isn’t easy. You have to think which one you wanne shoot and which one you gonna throw a weapon to.\nYou can play mini game to earn extra bullets.\n\nI still have to figure out how to throw a knife, and hit one with it. I miss those always.",
+      "date": 1756024836,
+      "review_helpful_count": 0,
+      "author_display_name": "POWERGIRL.BE",
+      "author_alias": "POWERGIRL.BE",
+      "developer_response": {
+        "body": "Thanks for your feedback, you got the point, it's kinda a puzzle game, you have to think who you shoot or throw a weapon at to complete a level, besides being good at aiming ;)",
+        "date": 1759303076
+      }
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T07:21:26Z"
+}
