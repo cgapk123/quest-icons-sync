@@ -1,0 +1,948 @@
+{
+  "app_id": "5719805344724551",
+  "package_name": "com.tanirganemre.paradiddle",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Paradiddle",
+  "rating_average": 4.4522292993631,
+  "rating_count": 471,
+  "review_count": 291,
+  "reviews": [
+    {
+      "id": "3295687543944606",
+      "score": 2,
+      "review_title": "Poorly designed",
+      "review_description": "I'm using the app in conjunction with an e-kit, and i have not been imoressed with the experience. Unfortunately, the price tags suggest a full fledge app, but this falls far short. Many persistant design flaws that make navigating difficult like putting drms in the way of messages so you can't read or click on confirmation buttons, drum positilns easily being disturbed by poorly positioned menus, basically anything to do with virtual objects and their positioning is not well thought out. There no progression through lessons or songs, i.e. Foundational learning. Lamentally no latency assistance (you basically have to guess, try it, and then come back to adjust). None of the lessons indicate what the songs bpm are so yo can't use the global metronome for anything and each songs metronome is so quiet it's also of no help. \nIf the app was available for under $10, then its shortcomings could be over looked.",
+      "date": 1781835240,
+      "review_helpful_count": 0,
+      "author_display_name": "dawcx",
+      "author_alias": "dawcx",
+      "developer_response": null
+    },
+    {
+      "id": "861409677033575",
+      "score": 5,
+      "review_title": "Got me into drumming",
+      "review_description": "when i first bought this game i had fun making random beats. Then i learned i could play real songs. Now I'm playing every song on expert. 10/10 game.\nONE BUG THAT'S ANNOYING IS SOMETIMES YOU CAN GRAB DRUMS FROM LONG DISTANCE AND HAVE TO RESTART THE GAME OR MOVE everything TO GET IT.",
+      "date": 1781539788,
+      "review_helpful_count": 1,
+      "author_display_name": "Duckman8",
+      "author_alias": "Duckman8",
+      "developer_response": null
+    },
+    {
+      "id": "1166573316540238",
+      "score": 5,
+      "review_title": "I love it!",
+      "review_description": "Thanks for this one. I have a blast almost daily, workn up a sweat, and learning as I go. Sure would love to get some pedals for bass that would complete this adventure. After trying a few others, I stuck with this one. stealthwolve20 hit me up lets jam!",
+      "date": 1781533667,
+      "review_helpful_count": 0,
+      "author_display_name": "stealthwolve20",
+      "author_alias": "stealthwolve20",
+      "developer_response": null
+    },
+    {
+      "id": "1137821236077729",
+      "score": 5,
+      "review_title": "Great for practicing drums and learning",
+      "review_description": "I read bad reviews about this app and i wonder why people rate it as 1 or 2 stars, everything works perfectly, having a lot of fun and learning songs with this app.",
+      "date": 1779360866,
+      "review_helpful_count": 7,
+      "author_display_name": "A_R_A_G_V_E_L",
+      "author_alias": "A_R_A_G_V_E_L",
+      "developer_response": null
+    },
+    {
+      "id": "950577814814689",
+      "score": 3,
+      "review_title": "If you want to use as midi control",
+      "review_description": "Buy it on Steam. Trying to make the meta quest version work with your daw isnear impossible. Wasted a couple of hours. \n\nAs soon as I bought it on steam it works almost instantly with almost no latency. \nThis version is ok, especially if playing the games, but the PC version seems faster and more stable. \n\nWish I’d known this so letting others know.",
+      "date": 1772515024,
+      "review_helpful_count": 24,
+      "author_display_name": "cocochew.553048",
+      "author_alias": "cocochew.553048",
+      "developer_response": null
+    },
+    {
+      "id": "976844845519968",
+      "score": 3,
+      "review_title": "Fun, BUT...",
+      "review_description": "Me and my bro got this game to jam together, but also because I wanted to teach him how to do fills and play drums,  (WITHOUT THE KICK BECAUSE I PREFER THE REAL ONE.) But there was one problem. Everytime we make a server, someone hits the drum, THEN, I, OR MY FRIEND GETS KICKED. Please help... I asked CHATGTP FOR EVERY POSSIBLE WAY TO FIX THE PROBLEM. I did every single one... NONE OF THEM WORKED. Pls fix. Oh and single player is cool too.",
+      "date": 1773110828,
+      "review_helpful_count": 7,
+      "author_display_name": "Gamingfun212",
+      "author_alias": "Gamingfun212",
+      "developer_response": {
+        "body": "Hey there, multiplayer issues with players getting kicked should now be fixed - would you mind trying again and letting me know if there's still an issue? If the issue seems fixed, it'd be amazing if you could update your review! You can reach me at emre@paradiddleapp.com, or on our Discord (https://discord.gg/paradiddle) - my name is _ET_ on there. Thanks!",
+        "date": 1774322652
+      }
+    },
+    {
+      "id": "934918326382104",
+      "score": 5,
+      "review_title": "Awesome, addictive, dangerous...",
+      "review_description": "You will get injured by this game if you're too enthusiastic with your playing for too long. Just got De Quervain’s tenosynovitis on my right hand. Recommend connecting an actual edrum set to it so you're hitting something with your sticks and just dead-weighting your wrist on the hihat",
+      "date": 1773243184,
+      "review_helpful_count": 4,
+      "author_display_name": "nLOSCH",
+      "author_alias": "nLOSCH",
+      "developer_response": null
+    },
+    {
+      "id": "1084617844734958",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "Connected with my electronic drum kit with no problems and loads of tracks to download and learn . At the moment been learning to play alot of Metallica and Ozzy songs",
+      "date": 1775921563,
+      "review_helpful_count": 2,
+      "author_display_name": "ozz.575413",
+      "author_alias": "ozz.575413",
+      "developer_response": null
+    },
+    {
+      "id": "1522255686218382",
+      "score": 5,
+      "review_title": "Sooo fun",
+      "review_description": "Honestly.. No complaints. I always have fun playing paradiddle",
+      "date": 1778957755,
+      "review_helpful_count": 0,
+      "author_display_name": "Extrafirmtofu",
+      "author_alias": "Extrafirmtofu",
+      "developer_response": null
+    },
+    {
+      "id": "1317104517121594",
+      "score": 5,
+      "review_title": "Great game!",
+      "review_description": "I'm absolutely obsessed with drums but unfortunately can't afford a set, so I bought Paradiddle. I was surprised by how everything felt and was really making my love for drums grow even more. For a simulation/rhythm game, this is pretty realistic and well-made. It's the closest thing I can get to a real drumset. Combine practicing on a practice pad and playing this it's like I'm actually learning how to play. The only thing is I wish I were actually playing real drums, but this will suffice until then. I recommend this game to anyone who enjoys the drums, a means to practice, or is just looking for a fun game to play. 10/10!",
+      "date": 1771627199,
+      "review_helpful_count": 5,
+      "author_display_name": "G4bes0nn",
+      "author_alias": "G4bes0nn",
+      "developer_response": null
+    },
+    {
+      "id": "1119966281194579",
+      "score": 5,
+      "review_title": "Got this for my girlfriend",
+      "review_description": "I think it’d be a little more immersive if the drumsticks had some collision haptic feedback so people could hit there drumsticks together just my 2 cents",
+      "date": 1777188087,
+      "review_helpful_count": 1,
+      "author_display_name": "ImaHeese",
+      "author_alias": "ImaHeese",
+      "developer_response": null
+    },
+    {
+      "id": "968351456369868",
+      "score": 5,
+      "review_title": "Fun game",
+      "review_description": "This is the best drumming game I have ever seen I love how I can easily get songs I love\nMy fav song from stranger things are purple rain and should I stay or should I go and I can get those this game is worth it you don't don't have to pay money for custom songs it's free this game is amazing",
+      "date": 1772040963,
+      "review_helpful_count": 2,
+      "author_display_name": "carl.jess",
+      "author_alias": "carl.jess",
+      "developer_response": null
+    },
+    {
+      "id": "1468734461299304",
+      "score": 5,
+      "review_title": "I love this.",
+      "review_description": "Just sitting in the \"zen\" room is enough in itself. Small wish--would love to see the save function have save-over current, save-as, rename, and delete as in-program functions. Going to the file-control app is...a lot.",
+      "date": 1774400473,
+      "review_helpful_count": 0,
+      "author_display_name": "brian.conrad.165",
+      "author_alias": "brian.conrad.165",
+      "developer_response": null
+    },
+    {
+      "id": "930486386818863",
+      "score": 4,
+      "review_title": "Great I love it",
+      "review_description": "Hey developer. Can we please have the option for our custom songs to be paused until we hit the \"note\" on the drum? It would be very helpful to learn the song and you can already do that in the tutorial songs. Thank you. If you can do that it would be/change 5 stars game",
+      "date": 1769228761,
+      "review_helpful_count": 8,
+      "author_display_name": "Arian_iu",
+      "author_alias": "Arian_iu",
+      "developer_response": null
+    },
+    {
+      "id": "816151177855804",
+      "score": 1,
+      "review_title": "It forced me to play",
+      "review_description": "I was playing a song until it was ova and i was excited and happy and i was about to leave and get off when all of a sudden it wouldnt let me leave. It played another song and forced me to play and wouldnt let me leave. I was begging telling it to make it stop but it wouldnt it just kept playing and i couldnt leave. It got so bad i started crying until i threw my headset off and waited for it to die. Truly a cruel and traumatizing experience i do not wish this upon my greatest enemy this was a scary experience and i do not intent to have again.",
+      "date": 1762742165,
+      "review_helpful_count": 118,
+      "author_display_name": "Tike__.__Myson",
+      "author_alias": "Tike__.__Myson",
+      "developer_response": null
+    },
+    {
+      "id": "1080108918510564",
+      "score": 1,
+      "review_title": "Do not buy the game",
+      "review_description": "Yes it so boring and it  say over  60 songs nope only 15 songs so\ndo not waste your money on the game",
+      "date": 1774140842,
+      "review_helpful_count": 0,
+      "author_display_name": "Justanothergrabplayer2453564",
+      "author_alias": "Justanothergrabplayer2453564",
+      "developer_response": {
+        "body": "Hi there, just letting you know that the store page doesn't mention 60 songs - it says 60+ percussive instruments, which the app does contain. Also, the app comes with 30 songs as mentioned on the store page, and not 15 songs. I hope you can give Paradiddle another try and check out some of the other songs and instruments you might not have seen! We also have a highly active custom song community with thousands of custom songs available to download and play in the app. I'm happy to help you out further if you have any questions: hello@paradiddleapp.com.",
+        "date": 1774159052
+      }
+    },
+    {
+      "id": "1035416619645833",
+      "score": 5,
+      "review_title": "Best way to learn the drums, full stop",
+      "review_description": "And if you already KNOW HOW TO PLAY the drums?! Best way to enjoy them. Highly encourage you try out the thousands of custom song charts the paradiddle community has made - you'll likely find your favorite song already there!",
+      "date": 1770889026,
+      "review_helpful_count": 2,
+      "author_display_name": "NateJoe",
+      "author_alias": "NateJoe",
+      "developer_response": null
+    },
+    {
+      "id": "1017095621487874",
+      "score": 5,
+      "review_title": "The desk drumming game for vr",
+      "review_description": "Honest this is a very good drumming game, sure it has a few glitches but honestly the hitting is pretty good and it doesn’t glitch that much, the fact you can download songs is great. The only complaint I have is that i would really like more snares, hi hats, Tom’s, cymbals, kicks. Just more customization options and stuff. Cause I feel like I really only enjoy two different snares and the other ones are just so different that I feel like I get bored from nothing changing. But yeah give this game a download, it’s great.",
+      "date": 1770478443,
+      "review_helpful_count": 1,
+      "author_display_name": "RSG.34",
+      "author_alias": "RSG.34",
+      "developer_response": null
+    },
+    {
+      "id": "825449863994674",
+      "score": 5,
+      "review_title": "Awesome way to play drums",
+      "review_description": "Since i was a young kid, i've been obsessed with playing the drums. But i was unfortunetly not allowed to have my own big drum kit until i was much older. 3 years ago i bought an electric drumkit, this year the snare drum stopped working though. I was very sad and did'nt know what to do since the company also didn't help replacing the snare drum. BUT, I'm so happy i found paraddidle! I am able to play drums again, without them taking in any space nor making a very loud sound. I've added tons of custom songs, so i can (learn) to play along my faveroute songs. It feels very good, which i did not expect since i am used to playing actual drums, i was scared that not feeling like you're hitting anything would discourage me, but instead i simply can't wait everyday to put my headset on and just play!",
+      "date": 1765364984,
+      "review_helpful_count": 15,
+      "author_display_name": "AppaYipYip",
+      "author_alias": "AppaYipYip",
+      "developer_response": null
+    },
+    {
+      "id": "1433588998431074",
+      "score": 5,
+      "review_title": "Hope there can be a real drum score",
+      "review_description": "This is really a great drumming practice game. We hope to provide sheet music conversion, allowing the vertical game sheet music in the game to be converted into real five-line drumming sheet music, increasing the opportunity to practice real jazz drums.",
+      "date": 1770882708,
+      "review_helpful_count": 1,
+      "author_display_name": "datavinci",
+      "author_alias": "datavinci",
+      "developer_response": null
+    },
+    {
+      "id": "892828823909736",
+      "score": 5,
+      "review_title": "We need more Cowbell!",
+      "review_description": "Message for those that dream to be drummers, message for those that are drummers, this is the GAME to get.  In essence, this game isn't a game, but a \"REAL LIFE' Guitar Hero for drummers.  You are the drums.  From the High Hat to the Snare, you are the drummer.  \n\nThis game with a HAPTIC VEST is a completely different experience.  It adds to is greatness.\n\nMessage for the Creators, MORE CURRENT MUSIC, MORE VENUES, and Take a BOW.  You created a wonderful product.",
+      "date": 1763935209,
+      "review_helpful_count": 16,
+      "author_display_name": "Datdudebizzle",
+      "author_alias": "Datdudebizzle",
+      "developer_response": null
+    },
+    {
+      "id": "1071371169403184",
+      "score": 5,
+      "review_title": "Most realistic simulator on the market",
+      "review_description": "Great customisation, you can add custom songs, and get lessons",
+      "date": 1781044087,
+      "review_helpful_count": 0,
+      "author_display_name": "coop_824",
+      "author_alias": "coop_824",
+      "developer_response": null
+    },
+    {
+      "id": "881636508369311",
+      "score": 5,
+      "review_title": "Fun, lessons could be better",
+      "review_description": "Updated review - *****\nI spent a bit more time with this game and discovered you can slow both the song and the map, which made it much more beginner friendly. I also discovered the metronome feature which helps a lot too. Using these features, I can practice the trickier parts of the song slowly at first, while using the metronome to keep time, then work my way up to full speed. I wish the slow down features were easier to set, though. The controls are very small. \n\nThe game is much more fun now - I can play more than just the two easiest songs, and I'm actually getting better. I also think this game replicates playing real drums than other drumming games. Addicted to this game now! I do have SOME musical background. I think this game would be very difficult to get the hang of if you had NO musical background. \n\nI do wish there were more lessons and that they were better. Like I wish the lessons taught more rhythms and more fills that would then transfer into the songs. So you could prepare and practice for the songs using the lessons. I also wish there were more purchasable songs. I know you can upload your own, but I am too lazy for that.\n\n\nOriginal review - ***\nI got this game because I love rhythm games (like Beatsaber) and wanted to learn a little drumming. The game is fun, and the songs are good, but I find the songs too hard for beginners. Plus, most of the songs don't have an \"easy\" level for some reason, and even the ones that do are often too hard. This leaves me with like two songs that are simple enough to practice. The lessons are repetitive and boring and do not help with learning the songs. Probably good if you're already good at drumming but too difficult for me as a beginning.",
+      "date": 1763876268,
+      "review_helpful_count": 12,
+      "author_display_name": "THE_B33",
+      "author_alias": "THE_B33",
+      "developer_response": null
+    },
+    {
+      "id": "858310477086575",
+      "score": 1,
+      "review_title": "ACTUALLY STINKS",
+      "review_description": "This game is actually impossible. I’m trying to move my drums since they’re too high and the drums just float away like wtf how am I meant to do anything when I can’t make myself higher than the drums. Might aswell just play smash drums if it’s gonna be like this",
+      "date": 1768854034,
+      "review_helpful_count": 0,
+      "author_display_name": "qb3xr",
+      "author_alias": "qb3xr",
+      "developer_response": {
+        "body": "Hey, are you grabbing one drum or the whole kit when this happens? If you can send us a video or further explanation of what's happening, we can help and try to get to the bottom of it. I'd love it if you could reach out, either at emre@paradiddleapp.com, or on our Discord at discord.gg/paradiddle. What you're describing shouldn't be happening, so I hope to hear from you soon so we can help you out!",
+        "date": 1771031613
+      }
+    },
+    {
+      "id": "916565408210793",
+      "score": 5,
+      "review_title": "I love this game",
+      "review_description": "since i joined my middle school band for percussion ive always wanted to play on a drum set at home but my mom could never afford on but this game has made me felt like i want to play the drums for the rest of my life and i love how you can play other percussion instruments",
+      "date": 1768680452,
+      "review_helpful_count": 1,
+      "author_display_name": "SlippVr",
+      "author_alias": "SlippVr",
+      "developer_response": null
+    },
+    {
+      "id": "889902470884141",
+      "score": 4,
+      "review_title": "This game is great. Butttt",
+      "review_description": "Paradiddle is an amazing game, especially for anyone interested in drumming or rhythm-based gameplay. The mechanics feel smooth and responsive, and it’s a great way to practice timing and coordination while still having fun. Whether you’re a beginner or an experienced drummer, the game offers a satisfying and immersive experience. The only thing holding it back a little is the lack of environment variety—adding more environments or visual settings would really help keep things feeling fresh over longer play sessions. Overall, Paradiddle is a fantastic game with a lot of potential, and a few more environments would make it even better.",
+      "date": 1767983021,
+      "review_helpful_count": 1,
+      "author_display_name": "ROLLERJB",
+      "author_alias": "ROLLERJB",
+      "developer_response": null
+    },
+    {
+      "id": "1198706172101300",
+      "score": 5,
+      "review_title": "A dream come true",
+      "review_description": "Smashing the drum track to my favorite songs without having to get a drum kit is such a blast. I've always wanted to play the drums but those kits are expensive and need space and the neighbors would go crazy. But with this I just need a tiny space and my headphones.\nThis is one of those apps that shows why XR has so much more potential for great experiences than any other medium.\n\nI wish there were more environments though or the option to mod it.",
+      "date": 1761730380,
+      "review_helpful_count": 17,
+      "author_display_name": "TheShackMan",
+      "author_alias": "TheShackMan",
+      "developer_response": null
+    },
+    {
+      "id": "925078017346241",
+      "score": 5,
+      "review_title": "Hands down best Vr Drum Software",
+      "review_description": "This game is a wicked cool learning tool. It also is preformance ready with a MIDI Companion for pc that I use with Addictive Drums in Ableton Live 12. \n\nNerd stuff: I use 2 pc's. 1 I screen cast the video from the meta quest. The second one I have the MIDI being received into my Daw. This gives me zero lag for live streaming or recording audio and video with two separate computers. \n\nThese people are genius and they respond to questions so don't hesitate to jump on the discord 😉",
+      "date": 1763520989,
+      "review_helpful_count": 7,
+      "author_display_name": "CadelKadell",
+      "author_alias": "CadelKadell",
+      "developer_response": null
+    },
+    {
+      "id": "829075899969903",
+      "score": 5,
+      "review_title": "Amazing!",
+      "review_description": "I played this and it was really fun, I got some custom songs and that’s probably the best part because it’s easy to get them and the website that you get them from pretty much has every song you would want to play.",
+      "date": 1765057357,
+      "review_helpful_count": 4,
+      "author_display_name": "Vlsewell",
+      "author_alias": "Vlsewell",
+      "developer_response": null
+    },
+    {
+      "id": "25832055946449981",
+      "score": 5,
+      "review_title": "The best App on meta Quest for my taste",
+      "review_description": "I played drums many years ago, then stopped. many lost emotions came back to my mind thx to this app really thank you ❤️",
+      "date": 1769172661,
+      "review_helpful_count": 0,
+      "author_display_name": "BatDan",
+      "author_alias": "BatDan",
+      "developer_response": null
+    },
+    {
+      "id": "897636032805846",
+      "score": 1,
+      "review_title": "Game sucks",
+      "review_description": "First of all I wasted 20$ and i wanted more songs   songs but you made it so hard just have them their instead of doing that whole process please see this and fix it of no one is buying ur game",
+      "date": 1768090073,
+      "review_helpful_count": 1,
+      "author_display_name": "smitty1612",
+      "author_alias": "smitty1612",
+      "developer_response": {
+        "body": "Hey, what issue did you run into with adding custom songs? Once you drop them into the right folder, they should automatically appear in the app. I can help guide you through it if you need further help, once you do it once it ends up being really easy. The store page mentions how many songs the app comes with by default, and custom songs are completely community-managed, so we don't have any control over making that process more automated. You can reach out to hello@paradiddleapp.com or on Discord at discord.gg/paradiddle, and I can help you with any issues you're having. Hope to hear from you soon!",
+        "date": 1771031784
+      }
+    },
+    {
+      "id": "1491979318710592",
+      "score": 5,
+      "review_title": "Favorite VR app",
+      "review_description": "The level of detail in this app is incredible. The song charts feel completely accurate. There are various genres of music to enjoy. The developer responded to my request and helped me transfer my purchase to the steam version after I was having difficulties setting up kick pedals\n\nBuy it!!!!",
+      "date": 1759465723,
+      "review_helpful_count": 12,
+      "author_display_name": "Veran99",
+      "author_alias": "Veran99",
+      "developer_response": null
+    },
+    {
+      "id": "844436821886100",
+      "score": 1,
+      "review_title": "DONT BUY",
+      "review_description": "Terrible terrible game, as a drummer for years this game is not it you would be better off saving money buying a a real kit and lessons then giving the game $20.  Unrealistic and the performance is bad. BUY A REAL KIT",
+      "date": 1764852146,
+      "review_helpful_count": 0,
+      "author_display_name": "madelebroncry",
+      "author_alias": "madelebroncry",
+      "developer_response": {
+        "body": "Hey, performance should be good on both Quest 2 and 3+, if you can tell us what headset you were on and what you had trouble with we can help out. Also, $20 is a much more convenient way for many to try out drumming virtually before spending hundreds of dollars on a full kit, finding space for it, and worrying about noise. Many of our players have taught themselves the basics in Paradiddle and gone on to buy real kits. We're not trying to replace real drums whatsoever, and you can in fact connect electronic drum kits to the app to play in AR that way. And many people simply play Paradiddle like a rhythm game. I hope you're willing to reconsider your review, as we're a tiny team and each review hurts/helps a lot. Feel free to reach out to me at emre@paradiddleapp.com or on our Discord (discord.gg/paradiddle).",
+        "date": 1764875937
+      }
+    },
+    {
+      "id": "1614112556401122",
+      "score": 1,
+      "review_title": "1 swing registering as multiple",
+      "review_description": "It's way too common for any part to register 2 hits if you hit it once. If you don't clearly strike through a part, you hand might bounce a bit out of the hitbox or whatever and on the return to its regular position it triggers a second hit. The snare for me was the worst for this. Since it sits in a position where I dont naturally move my hand past, double hits occur way too often unless I consciously make an effort to exaggerate how hard I hit things. Now raising the kit to feel like it sits well and reduces double hits feels like the obvious solution until you see the major flaws here; why can't the drumbs be semi transparent, this would let people set it to a height thats comfy and still lets them see the notes.\n\nseriously man its a simple feature to implement and would make the experience better.\n\nNot to mention that the lessons have these floating menus that just sit right in the way of what youre trying to see, or will hide behind the drums so you have to reach around to press OK.\n\nIf the devs see this and are confused on the double hit thing I'll re write this to explain in great detail exactly what I mean. Im not a drummer and wanted to pick up drumming in vr but this whole double hitting is actually putting me offbeat every 3rd swing and I cant ignore it. For the love of god please find some kind of solution, I cannot believe I dont see others facing this issue its seriously game breaking.",
+      "date": 1771005609,
+      "review_helpful_count": 0,
+      "author_display_name": "miniflooglebinder",
+      "author_alias": "miniflooglebinder",
+      "developer_response": {
+        "body": "Hey, do you mind explaining this a bit further? Are you saying you're not hitting the drum on your way down, but you trigger it on your way back up through the drum?  Have you tried repositioning the drums to your ideal height/overall position? You can grab any drum or the whole kit itself, and readjust their position and orientation. You can also adjust the stick hitbox or positioning to your own liking in the Sticks menu under Options. We offer all of these customization options so people can tweak the kit and sticks to their ideal way of playing - the defaults might not necessarily work perfectly for everyone. It'd be great if you could reach out so we could figure out exactly what's going on, and whether any of my suggestions helped: either at emre@paradiddleapp.com, or on our Discord at discord.gg/paradiddle. Hope to hear from you soon!",
+        "date": 1771031482
+      }
+    },
+    {
+      "id": "1428660769263301",
+      "score": 4,
+      "review_title": "Sore neck",
+      "review_description": "Please add opacity function to the drums so that your neck doesn't get sore from looking up all the time.",
+      "date": 1765956093,
+      "review_helpful_count": 0,
+      "author_display_name": "Breaven",
+      "author_alias": "Breaven",
+      "developer_response": null
+    },
+    {
+      "id": "884155724779012",
+      "score": 4,
+      "review_title": "THIS IS THE GAME",
+      "review_description": "so recently I've been wanting to play drums for quite some time now. and I wanted to see if there was an easier way to play drums, and got it. RIGHT after I got it, I got the Avenged Sevenfold dlc cuz I'm a big fan and wanted to learn some of their songs. there was only like 6 of them, and I wish(ed) they added more. But either way I know how to play many of them right. what's also confusing me is that there is no rebound, so I might not be able to use a drum kit right with this. but from now on, this is still good! I give this a 4!!! 🔥🔥🔥",
+      "date": 1762483241,
+      "review_helpful_count": 1,
+      "author_display_name": "tanj975",
+      "author_alias": "tanj975",
+      "developer_response": null
+    },
+    {
+      "id": "1306917381229634",
+      "score": 1,
+      "review_title": "Misleading",
+      "review_description": "I got this app because I wanted a true drum simulation in VR. In the setting it says you can use a rock band foot pedal. Turns out you can only do this on PC VR. This should be changed in the option menu and clearly mention that it's only available on PC.",
+      "date": 1757848237,
+      "review_helpful_count": 16,
+      "author_display_name": "Lee-Retro",
+      "author_alias": "Lee-Retro",
+      "developer_response": null
+    },
+    {
+      "id": "967397383117023",
+      "score": 1,
+      "review_title": "Click thumbstick fest",
+      "review_description": "Click thumbstick for this click it for that, set up your drums every. Single. Time. Oh. My. God. \n\nThose quest controllers cost 139 dollars dude.\n\nWHEN DOES THIS TUTORIAL EVER GO AWAY!\n\nDeleted.",
+      "date": 1764135528,
+      "review_helpful_count": 0,
+      "author_display_name": "Jacksin",
+      "author_alias": "Jacksin",
+      "developer_response": {
+        "body": "Hi there, sorry to hear about your experience using the app. I think I can help with some of the issues you had so hopefully you'll give it another try. You don't need to use your thumbsticks if you don't want to - you can use the menu button on the left controller to switch between your drum sticks and the menu. The tutorial goes away any time you start a song, or you can also skip it by holding down both triggers (which the tutorial will tell you on a second launch of the app). There is also a setting under options that turns off the tutorial auto-launch on app start. If you turn off the auto tutorial, the app should just launch with whatever kit you had in your scene the last time. Let me know if I can help any further, feel free to email me at emre@paradiddleapp.com or on our Discord (https://discord.gg/paradiddle) any time.",
+        "date": 1764172180
+      }
+    },
+    {
+      "id": "928692500325875",
+      "score": 2,
+      "review_title": "I can’t make a song to play",
+      "review_description": "Why",
+      "date": 1766898750,
+      "review_helpful_count": 0,
+      "author_display_name": "Keagan121",
+      "author_alias": "Keagan121",
+      "developer_response": {
+        "body": "Update: would still love to hear from you so we can help you out! It sounds like an issue with a custom song, and not an app issue, so I can help you figure it out.\nHi there, which song are you having trouble with? Is it a built-in song, or is it a custom song you downloaded? If it's a custom song, it could be an issue with the song itself, or it might not be placed in the right folder in the right way. I'm happy to help you troubleshoot this, you can message me on our Discord https://discord.gg/paradiddle (I'm _ET_ on there) or directly over email at emre@paradiddleapp.com. Let me know and I can help you out right away, thanks!",
+        "date": 1771031829
+      }
+    },
+    {
+      "id": "788675137651726",
+      "score": 4,
+      "review_title": "Really good but flawed.",
+      "review_description": "I'm going to start off by saying that I really like this game. It's very addictive and great fun, add the fact that you can add custom tracks to the mix and you've got a hell of a winning formula! Then add the fact you can connect it to a real electronic drum kit... Ye gods... What a great bit of software!!!\n\nHowever.\nGreat as this game is, it has got a LOT of things that need fixing, and a lot of things I would change or alter slightly.\n\nFor a start: being able to connect to a real kit is an amazing option, but it is flawed. I connect it to my Alesis Nitro Max, get everything set up... All great... Then halfway through a song, suddenly the hi-hat, crash and the middle tom (green) decide they're no longer going to register, so I have to go into the options for each drum to recalibrate. It also does this every time I select a new song... It's always the same three drums/cymbals and it's infuriating!!\n\nThe menus are... Okay. BUT if you disconnect them from your arm and go with the \"static\" mode... They're anything but static. You move them to where you want them, play a song and once you finish, they're all over the place again.\n\nI mistakenly moved the note highway at one time trying to rearrange my menus for the millionth time and now I can't move it back to its default position, no matter how I try... The thing has doubled in size making it a lot harder to read since half is obscured by the kit and it's so wide that it's hard to see the whole thing.\n\nEvery single time I load up a new song, the game automatically loads in a bunch of drums and cymbals that aren't even needed for the song I'm playing. I'll be playing a track with just the 3 toms, snare, hi-hat, crash and ride... And the game will, without fail, load in a second crash, a second ride, a second bass drum, a second floor tom, what I believe to be a China and two small splash cymbals... And they're not even used in the song!!! Even with the \"load only drums used in songs\" option turned on...\n\nAs a suggestion, I'd also like to see a sort of scoreboard that compares your current play of a track to your personal best. It's all very well showing us a score while we play, but it means nothing if we don't know if we beat our previous best, if we hit more accurately etc... Did we get a new high score? Did we hit a higher percentage of notes? Who knows?\n\nAs I said, I really do enjoy the game, it's amazing fun... But there are so many frustrating things about it too.",
+      "date": 1754966975,
+      "review_helpful_count": 36,
+      "author_display_name": "Todeswalzer",
+      "author_alias": "Todeswalzer",
+      "developer_response": null
+    },
+    {
+      "id": "965574099982083",
+      "score": 5,
+      "review_title": "Finally!",
+      "review_description": "The game I’ve been waiting for decades! Easy to connect to my Yamaha electric drum set and play! Amazing! Thank you devs! \nTv",
+      "date": 1772124094,
+      "review_helpful_count": 0,
+      "author_display_name": "Skim1",
+      "author_alias": "Skim1",
+      "developer_response": null
+    },
+    {
+      "id": "1150466010571374",
+      "score": 5,
+      "review_title": "Best game EVER",
+      "review_description": "I found one of my favorite small bands from this app! (the band is Super Cassette)",
+      "date": 1763865337,
+      "review_helpful_count": 0,
+      "author_display_name": "kailaduck4real",
+      "author_alias": "kailaduck4real",
+      "developer_response": null
+    },
+    {
+      "id": "817318001222502",
+      "score": 5,
+      "review_title": "The best drum game out there!!!!!",
+      "review_description": "The best drum game ever the physics are good and it’s just smooth if they made a bass guitar game now that would be better for me!!!!!\nIt’s also better than most of pc drum games.\nWith pass through that lets you play your real drum set.",
+      "date": 1763882298,
+      "review_helpful_count": 0,
+      "author_display_name": "Noahthelasertwin101504",
+      "author_alias": "Noahthelasertwin101504",
+      "developer_response": null
+    },
+    {
+      "id": "1148541854146547",
+      "score": 5,
+      "review_title": "Lovin' it",
+      "review_description": "I play it every day👍",
+      "date": 1763479818,
+      "review_helpful_count": 0,
+      "author_display_name": "nutthasit",
+      "author_alias": "nutthasit",
+      "developer_response": null
+    },
+    {
+      "id": "782842831589762",
+      "score": 5,
+      "review_title": "Fav vr game it got me into drumming",
+      "review_description": "10/10",
+      "date": 1763213330,
+      "review_helpful_count": 0,
+      "author_display_name": "followtrain",
+      "author_alias": "followtrain",
+      "developer_response": null
+    },
+    {
+      "id": "903543398866118",
+      "score": 5,
+      "review_title": "Genuinely fun",
+      "review_description": "I dont know if I like this game just because I love drums or because the songs are cool, this game is really fun and I suggest you get this game, this helped me learn things with the lessons and the mods are easy to download. If you like drums and want to learn it get this game.",
+      "date": 1766808837,
+      "review_helpful_count": 0,
+      "author_display_name": "CrispysFan",
+      "author_alias": "CrispysFan",
+      "developer_response": null
+    },
+    {
+      "id": "990989137424843",
+      "score": 4,
+      "review_title": "Good game but has a problem.",
+      "review_description": "I was just playing some songs until my sticks\n kept going through the drums, and made me miss all the notes leading to me getting a bad score😐😐💀(would have given 4.9 but that's not possible)",
+      "date": 1766764570,
+      "review_helpful_count": 0,
+      "author_display_name": "kiwivr13",
+      "author_alias": "kiwivr13",
+      "developer_response": {
+        "body": "It sounds like the song was a particularly complicated one with lots of notes? We've made some performance improvements that are currently in beta, you can see if that helps if you'd like. If you click the ... button on the app icon, then Settings -> Release Channel, you can select \"Beta\" and the app should automatically update. Hope that helps, and makes you consider rounding that 4.9 up to a 5 instead of a 4!",
+        "date": 1766919251
+      }
+    },
+    {
+      "id": "764017993456881",
+      "score": 5,
+      "review_title": "Best druming game ever",
+      "review_description": "This game is awesome, you can play the songs either on the game or go download a ton of already made songs. You will learn the real songs and on top of that you can sink the drums over your original drums (even e-kit) and learn the songs. Amazing. These guys have taken vr gaming and learning the real deal to the next level. Well done. 10 stars ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐",
+      "date": 1753812079,
+      "review_helpful_count": 4,
+      "author_display_name": "Boekelbakkels",
+      "author_alias": "Boekelbakkels",
+      "developer_response": null
+    },
+    {
+      "id": "628692197004336",
+      "score": 5,
+      "review_title": "This is THE game",
+      "review_description": "I wanted a quest 2 for a few months now after playing this game on my brother’s head set. I finally caved it bought it and am literally so addicted that I drain the entire battery of my vr set just playing this for hours. I love music and play guitar but wanted to get the musical expression of drums out of my system. The lessons are basic but made me good enough to play most songs on easy and medium. Downloading custom songs is a necessity once you’ve finished the tutorial, but now that I’ve done that, I’m so addicted to this game it’s crazy. I live in an apartment so can’t buy my own drums but this for sure seems to be the next best thing. 10/10 game.",
+      "date": 1751511663,
+      "review_helpful_count": 15,
+      "author_display_name": "ArcticRanger13",
+      "author_alias": "ArcticRanger13",
+      "developer_response": null
+    },
+    {
+      "id": "663153320214342",
+      "score": 5,
+      "review_title": "AMAZING",
+      "review_description": "Best drumming game by a mile! \n\n1. Load the standard drum kit\n2. Go to paradb website and download the tracks for your favorite songs\n3. Transfer the tracks to your Quest\n4. Have the best time of your life drumming to your favorite songs. \n\nLove, love, love this game.  So much customization, yet so intuitive and playable.",
+      "date": 1748533612,
+      "review_helpful_count": 59,
+      "author_display_name": "sirnikom",
+      "author_alias": "sirnikom",
+      "developer_response": null
+    },
+    {
+      "id": "797298016801975",
+      "score": 4,
+      "review_title": "Needs dlc!",
+      "review_description": "Love the game but me not being able to upload songs from a computer leaves not too many options for songs after a while.",
+      "date": 1757776145,
+      "review_helpful_count": 1,
+      "author_display_name": "Hellboyyy",
+      "author_alias": "Hellboyyy",
+      "developer_response": null
+    },
+    {
+      "id": "653532564514727",
+      "score": 2,
+      "review_title": "LATENCY PROBLEM",
+      "review_description": "Graphics, style and features come excellent, but drum play latency is way too high even with all graphics fx turned off which unfortunately spoils the whole concept.\n\nFor example virtuoso app does not look as beautiful as paradiddle but has much lower latency making playing a VR drum set on Quest 3 much more responsive to be used as a serious virtual instrument.\n\nDear devs, please improve paraddidle's latency, then 5 stars shall be yours.",
+      "date": 1748805471,
+      "review_helpful_count": 16,
+      "author_display_name": "Trinus.2000",
+      "author_alias": "Trinus.2000",
+      "developer_response": null
+    },
+    {
+      "id": "727859360418016",
+      "score": 2,
+      "review_title": ".",
+      "review_description": "Just make the song browser a part of the game, having to do all this on a Quest just to play a song is a waste of time",
+      "date": 1755823074,
+      "review_helpful_count": 1,
+      "author_display_name": "Byvaery",
+      "author_alias": "Byvaery",
+      "developer_response": null
+    },
+    {
+      "id": "714543905083369",
+      "score": 4,
+      "review_title": "Very good game",
+      "review_description": "I would rate it 4 stars but it made my vr very hot and the game overall is amazing and the way to get songs is very simple!",
+      "date": 1756108499,
+      "review_helpful_count": 0,
+      "author_display_name": "C.Savage8",
+      "author_alias": "C.Savage8",
+      "developer_response": null
+    },
+    {
+      "id": "811694522034903",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "My family used to have rock band drums but they got thrown away and modding on standalone is really easy great game good job",
+      "date": 1763475189,
+      "review_helpful_count": 0,
+      "author_display_name": "FLUXGT88",
+      "author_alias": "FLUXGT88",
+      "developer_response": null
+    },
+    {
+      "id": "708215015707877",
+      "score": 5,
+      "review_title": "Great Drumming App..!!",
+      "review_description": "I am just a novice and starting to learn how to navigate this app. But from what I am seeing and learning, I'm really loving it. The fact that you can custom build your own drum set percussion set is Awesome and Amazing.  I love the cool different environments you can choose to be in.It gives great atmosphere.  I'm wondering in developing it further. Can you save different drum etc setups you have created. So you can come back to them at any point.\nAlso would it be possible,  I'd really love if you could add to the drum menu, Japanese Kaido drums, and Cook Island Drums as well. ?This would make this app even more amazing and fun. Thank-You",
+      "date": 1751873975,
+      "review_helpful_count": 0,
+      "author_display_name": "SoulfulRover2",
+      "author_alias": "SoulfulRover2",
+      "developer_response": null
+    },
+    {
+      "id": "677855765401870",
+      "score": 5,
+      "review_title": "METAL",
+      "review_description": "amazing game super fun I would suggest only buying this if you are a drummer but it’s also great for beginners there is only 6 lessons or 10 I can’t remember but if you do the drum lessons it leaves you kinda on a cliff hanger it doesn’t teach you much but I love this game add more bands like slipknot or megadeth",
+      "date": 1744862247,
+      "review_helpful_count": 33,
+      "author_display_name": "slipknot.fan36",
+      "author_alias": "slipknot.fan36",
+      "developer_response": null
+    },
+    {
+      "id": "573229079217075",
+      "score": 5,
+      "review_title": "Very good to start learning",
+      "review_description": "Paradiddle is a really good app, and I would highly recommend it. About the beginning of last I saw this app on YouTube with no real interest in drums but decided this was cool and bought this game. Immediately I was hooked and played daily for about a year, which encouraged me to get real drum lessons. This app helps make drums feel there as well because when you hit the snare for example, your controller vibrates making it feel real.\nGreat app and would highly recommend.",
+      "date": 1746608759,
+      "review_helpful_count": 10,
+      "author_display_name": "Holy_Cheese_Man",
+      "author_alias": "Holy_Cheese_Man",
+      "developer_response": null
+    },
+    {
+      "id": "759348193293786",
+      "score": 5,
+      "review_title": "PARADB",
+      "review_description": "I love this game gng",
+      "date": 1753485219,
+      "review_helpful_count": 0,
+      "author_display_name": "littleburgerboy",
+      "author_alias": "littleburgerboy",
+      "developer_response": null
+    },
+    {
+      "id": "589560344238622",
+      "score": 5,
+      "review_title": "connect your e-drums",
+      "review_description": "Connect your electronic drums with meta quest 3 directly with an USB cable and use paraddidle in AR mode, play with your real sticks and drums. it's an amazing combo! download your favorite songs from paradb-net for free, copy to meta quest. it's great! I have Alesis DM lite and quest 3s - it works great.",
+      "date": 1740910181,
+      "review_helpful_count": 70,
+      "author_display_name": "Tsmieszkol",
+      "author_alias": "Tsmieszkol",
+      "developer_response": null
+    },
+    {
+      "id": "652306637974525",
+      "score": 1,
+      "review_title": "Won’t launch",
+      "review_description": "I was so excited to play this game and it won’t launch. I’ve left my headset on for over an hour and it still didn’t launch the game. Disappointing.",
+      "date": 1751076707,
+      "review_helpful_count": 0,
+      "author_display_name": "Dhayzzz15",
+      "author_alias": "Dhayzzz15",
+      "developer_response": {
+        "body": "Hi, can you message me directly so we can solve this together? This sounds like a Quest platform issue as we have thousands of people playing the app daily - I don't think it's related to the app itself. I'm sure we can figure it out if you message me: emre@paradiddleapp.com or _ET_ on our Discord (https://discord.gg/paradiddle). Thanks!",
+        "date": 1751134859
+      }
+    },
+    {
+      "id": "671552396043334",
+      "score": 1,
+      "review_title": "DLC Refuses to appear",
+      "review_description": "The A7X DLC I purchased won’t appear on the song list, and no searches on the internet have yielded ANY result. Paid 11.99 for it, can’t refund and can’t play. So tell me how to fix it PLEASE.",
+      "date": 1750193427,
+      "review_helpful_count": 1,
+      "author_display_name": "TheGoosiestInHistory",
+      "author_alias": "TheGoosiestInHistory",
+      "developer_response": {
+        "body": "Hi, I'd just like to follow up on this - are you still having issues with your DLC not appearing? We believe we've made the DLC downloads more robust following our most recent update in March 2026. Can you email me at hello@paradiddleapp.com or message me on our Discord (https://discord.gg/paradiddle) if you're still having issues? I'm happy to help out any time - thanks!",
+        "date": 1774323152
+      }
+    },
+    {
+      "id": "683519191506135",
+      "score": 3,
+      "review_title": "Great potential but...",
+      "review_description": "Firstly this is an edited review as originally I was having a technical issue, but a developer immediately got in touch and resolved it via email. Absolutely brilliant customer care!\n\nThe game itself - well, this is 'a game' and if you buy it for that purpose then I really can't fault it. It is very much like Guitar Hero in that respect. However, I bought this hoping to learn and, well, it falls short really. I began lessons and was disappointed to find only 10 or 11 very basic lessons which were really quite random styles and would not aid development much. The songs section is ok, but only accommodate one type of hi-hat. I imagine this will be different when you transfer in your own song files. \n\nThe trouble is - this is definitely a harder way of learning than just watching say a youtube tutorial. It's a faff to try and follow along and the note bar style doesn't get around this issue. \n\nThe idea is really fantastic - putting the VR drums over my E-kit was a real 'wow' moment. This definitely has massive potential.",
+      "date": 1749835328,
+      "review_helpful_count": 1,
+      "author_display_name": "glowworm102A",
+      "author_alias": "glowworm102A",
+      "developer_response": {
+        "body": "Hi, I haven't had time to respond to your email yet but the app does support multiple levels of hihat openness via midi, and you shouldn't need a PC or some other app. I'll respond with more details when I have more time later tonight and also update my reply here accordingly. Thanks for your patience!",
+        "date": 1748479144
+      }
+    },
+    {
+      "id": "659194227268988",
+      "score": 5,
+      "review_title": "Hours Lost",
+      "review_description": "Hours lost I hear you ask? That's because personally I find it utterly addicting. And nothing has managed to keep my attention away from my Xbox, Even games in general on VR I will lose interest with over time. Paradiddle however deserves your time and attention. Im no drummer but after hours I can competently Play along to various tracks of my choice. Having said that, I also have Autism and ADHD. For anyone on the spectrum, if you've considered it, do it. Great for your mental health and fitness alone and strengthens focus. Well done devs.\n\nFor future update ideas going forward.\n\n*Playing a playlist/setlist\n*More venues\n*Music Video background\n\nAlso what's the Green Screen part utilised\nfor in the game? Most likely something simple😂",
+      "date": 1743679888,
+      "review_helpful_count": 11,
+      "author_display_name": "LiriP",
+      "author_alias": "LiriP",
+      "developer_response": null
+    },
+    {
+      "id": "645858321952947",
+      "score": 5,
+      "review_title": "AMAZING 11/10",
+      "review_description": "This is the option if you are a metal head, not like other drums apps where there’s only 2 Metallica songs, you can play any song you like, PANTERA, SEPULTURA any of them\nWe needed this more than you think",
+      "date": 1749531173,
+      "review_helpful_count": 1,
+      "author_display_name": "Morganxz",
+      "author_alias": "Morganxz",
+      "developer_response": null
+    },
+    {
+      "id": "560659277141762",
+      "score": 5,
+      "review_title": "",
+      "review_description": "It's the only reason I use my meta quest if I don't have company to play a multiplayer game\nIt's a unique immersive experience.  It's not a game, I have a studio in the basement Where we play with friends of mine . I have drums but I was too afraid to touch them. Now I use paradiddle with Mr and play along the custom songs I ve downloaded from the Database. Definitely worth every penny!!",
+      "date": 1745836145,
+      "review_helpful_count": 2,
+      "author_display_name": "Trelogria",
+      "author_alias": "Trelogria",
+      "developer_response": null
+    },
+    {
+      "id": "848450258344585",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "I really love it because I have always wanted to learn how to play the drums 5 stars. Would recommend if you like drums.",
+      "date": 1757639887,
+      "review_helpful_count": 1,
+      "author_display_name": "Elibud",
+      "author_alias": "Elibud",
+      "developer_response": null
+    },
+    {
+      "id": "624833407375319",
+      "score": 5,
+      "review_title": "Brilliant",
+      "review_description": "This app is brilliant.  I have never played drums before but am now addicted.  I can’t believe how much you can do with this.  Not only can you use the easy to follow drum prompts, but there is also sheet music with prompts.  So much thought has gone into this app.  You can also download custom songs which I have managed to do, and if you’re struggling with the beat being too fast, you can slow it down, until you’ve got the hang of it.  100% recommend.",
+      "date": 1743007013,
+      "review_helpful_count": 4,
+      "author_display_name": "Diamonddogs",
+      "author_alias": "Diamonddogs",
+      "developer_response": null
+    },
+    {
+      "id": "728879833648092",
+      "score": 5,
+      "review_title": "Best vr game ever played.",
+      "review_description": "The controller tracking is incredible, the sound quality is inadequate and with your favourite songs makes it the greatest vr game I have ever played.",
+      "date": 1755807113,
+      "review_helpful_count": 0,
+      "author_display_name": "SpikyLionfish6501",
+      "author_alias": "SpikyLionfish6501",
+      "developer_response": null
+    },
+    {
+      "id": "710414461518986",
+      "score": 5,
+      "review_title": "One of the best drumming games ever",
+      "review_description": "You can do so many things in this app its crazy for 20 dollars for all of these things you can do is crazy",
+      "date": 1747854478,
+      "review_helpful_count": 0,
+      "author_display_name": "peanutcracker2",
+      "author_alias": "peanutcracker2",
+      "developer_response": null
+    },
+    {
+      "id": "542874535581284",
+      "score": 5,
+      "review_title": "The only serious drum simulator",
+      "review_description": "I don't have space for real drums. This app makes up for it and is a great educational tool. Does it feel like real drumming? It is as close you can get to the real thing without having real drums. There is a large database of thousands of songs made from the community that you can add and learn how to play. I've been at it for 9 months now and I have gotten better (mind you I've started from zero). I can keep up with many songs without even needing to see the note highway and play some decent beats.",
+      "date": 1739271204,
+      "review_helpful_count": 21,
+      "author_display_name": "micdhack",
+      "author_alias": "micdhack",
+      "developer_response": null
+    },
+    {
+      "id": "682592518266962",
+      "score": 4,
+      "review_title": "Good",
+      "review_description": "The game is great. I wish it had a button to slow down the songs and speed it up. ￼",
+      "date": 1748168600,
+      "review_helpful_count": 0,
+      "author_display_name": "unavailable.3930",
+      "author_alias": "unavailable.3930",
+      "developer_response": {
+        "body": "Hi there, there are indeed options to slow down and speed up the songs. Have you checked the song options menu while you have a song open? There are plenty of options there including changing the song speed, the speed of the notes, the note layout, etc. Let me know if you're not able to find it and I can help out further! You can reach me at emre@paradiddleapp.com.",
+        "date": 1748479223
+      }
+    },
+    {
+      "id": "601290366231130",
+      "score": 3,
+      "review_title": "It's ok if you know drums",
+      "review_description": "It's very challenging from the start. The tutorial is minimal information at best. I barely got by with a star or 2 to reachesson 5 (Drum Fill).\nThe Tutorial info window is blocking the notes I need to see, and there's no clear way of moving them. Not knowing the game, I assumed the X would get rid of it but the X git rid of my drums. I'm to play 5 pieces at a ridiculous rate of speed, with half the screen obstructed, and no instruction wheter i can slow the pace down. I'm in minority I guess but I shouldn't of bought it.",
+      "date": 1740799215,
+      "review_helpful_count": 8,
+      "author_display_name": "Sanfranman",
+      "author_alias": "Sanfranman",
+      "developer_response": null
+    },
+    {
+      "id": "1051558393542665",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "I'd recommend using g all the DRS stuff because  they sound the most realistic",
+      "date": 1747593210,
+      "review_helpful_count": 0,
+      "author_display_name": "Radioactive.Bich",
+      "author_alias": "Radioactive.Bich",
+      "developer_response": null
+    },
+    {
+      "id": "714096205127981",
+      "score": 5,
+      "review_title": "Marimba",
+      "review_description": "PLEASE ADD 4 MALLET GRIP",
+      "date": 1756060307,
+      "review_helpful_count": 0,
+      "author_display_name": "Wert3d",
+      "author_alias": "Wert3d",
+      "developer_response": null
+    },
+    {
+      "id": "630486883474318",
+      "score": 5,
+      "review_title": "I feel played. (Updated)",
+      "review_description": "This experience is nice but very limited. The only reason I bought it was because the “custom songs” I’ve spent an entire off day trying to convert songs to midi files. Convert songs to drumless versions of the songs and one with only drums. If that sounds confusing it all is and the process is not straight forward at all. I’m not computer or music illiterate but I couldn’t complete the process. This is after spending money on subscriptions and programs trying to convert files and audio. You can find custom songs already done online but it’s not your custom songs it’s just songs paradiddle already converted. The fun to be had on the game itself is very little so don’t buy it if you plan on expanding your catalog with songs you actually like or learning songs you actually like. I feel I’ve been scammed. If I knew it wasn’t a process you can accomplish I would have NEVER bought this.  Since I can’t refund I have to settle for a catalog I have zero interest in. I don’t like this experience at all. If later the process is easier to use your own music I can see myself using this app every time I want to experience music. I’m still determined and will find a method myself. If I do I’ll post it somewhere for others.\n*Figured out how to get any song on here and I enjoy playing my music with this app.*",
+      "date": 1743369426,
+      "review_helpful_count": 0,
+      "author_display_name": "MisterLkb",
+      "author_alias": "MisterLkb",
+      "developer_response": {
+        "body": "Hey, sorry to hear about the experience you had with custom songs. I'd like to help you out with this, so I had a few questions: 1) Are you trying to play along to an audio file without the note highway (the note display)? If so the process is even simpler, you just drop your audio files into the right folder and can load them inside the app. 2) If you do want the note display, there is an online custom song repository with thousands of songs that the community has converted - we haven't converted any of those, it's a complete community effort. If you have a favorite song you'd like to play, chances are you'd be able to find it on there. 3) If you can't find the specific song and you're trying to create your own custom songs that you can see on the note display, you can either create your own midi file (without requiring any subscriptions or paid apps, using completely free software like Reaper) or you can use another community created software, ParaDB, to map out the song by hand. I promise you that you shouldn't need to spend any money on other software to create custom songs. I'm happy to guide you through all of this if you email me (emre@paradiddleapp.com) or message me on our Discord (I'm _ET_ on our Discord: https://discord.gg/paradiddle).",
+        "date": 1743040424
+      }
+    },
+    {
+      "id": "590063510862255",
+      "score": 5,
+      "review_title": "Best drum game on VR",
+      "review_description": "I've tried most drum games, this is by far the best, it also teaches you how to play the drums, thousands of songs to download that are completely free if you know where to look, I've been playing this for hours non stop, highly recommend",
+      "date": 1743750582,
+      "review_helpful_count": 1,
+      "author_display_name": "GraphicApe",
+      "author_alias": "GraphicApe",
+      "developer_response": null
+    },
+    {
+      "id": "571745579360654",
+      "score": 1,
+      "review_title": "THIS SUCKS",
+      "review_description": "This game is VERY bad. one time I was gonna play it for the 10th or 11th time, it will NOT load. AT ALL. it crashes EVERY time I click the meta button, and (this will be NUTS) changes from passthough to non-passthrough. This is a stupid game and I need a refund.",
+      "date": 1743206190,
+      "review_helpful_count": 1,
+      "author_display_name": "Mariolover6315",
+      "author_alias": "Mariolover6315",
+      "developer_response": {
+        "body": "Hey, sorry to hear about this - this sounds like it might be an issue related to a Meta system update possibly, since we haven't updated the app in months and have thousands of people using it every day without any crashes. Have you tried reinstalling by any chance? I can certainly help you with a refund but I can assure you the crashes are not normal. Feel free to email me at emre@paradiddleapp.com or message me on Discord (I'm _ET_ on our Discord:https://discord.gg/paradiddle) and I can help you resolve this or at least get a refund.",
+        "date": 1743225683
+      }
+    },
+    {
+      "id": "603488256181972",
+      "score": 3,
+      "review_title": "Too invasive",
+      "review_description": "Will not work without unrestricted access to extensive data without your knowledge. Would just return it as the app took over two hours to down load  I'm not eligible for a refund. Would be fine with the app if it didn't want big brother level control and access. Pls. Pls. Dial it back. Got contacted by rep to help on return. so revised from one to thee stars.",
+      "date": 1742601191,
+      "review_helpful_count": 1,
+      "author_display_name": "PricklyPenguin7696",
+      "author_alias": "PricklyPenguin7696",
+      "developer_response": {
+        "body": "Hey there, the app doesn't require any of the permissions to be accepted in order to function. The permissions are required for specific features, such as microphone access for multiplayer sessions where other players can hear you, or storage access to be able to load custom songs in an easy to access location on your Quest's storage. However you can say no to all of these permission requests and still play any of the songs, lessons or instruments in the app just fine. The download time of two hours also shouldn't affect your refund window, so let me know if this was indeed the reason why you weren't able to get a refund. We can reach out to Meta (since refunds are in their control) and get this sorted out. You can reach out to me at emre@paradiddleapp.com or on our Discord (I'm _ET_ on our Discord: https://discord.gg/paradiddle) and I'd be happy to help you out right away. Thanks!",
+        "date": 1743040722
+      }
+    },
+    {
+      "id": "528011193558931",
+      "score": 5,
+      "review_title": "🤯🤯🤯",
+      "review_description": "I have no words for how amazing this app is. If you're a drummer, someone who wants to be a drummer, or a Time killer, get this app. I bought it for myself and loved it. Gifted it to someone else, they loved it. The dopest game, app, tool, or whatever you may call it that I have ever messed with. I'm literally on it for multiple hours a day",
+      "date": 1734930616,
+      "review_helpful_count": 35,
+      "author_display_name": "theOGChaos",
+      "author_alias": "theOGChaos",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-21T02:20:43Z"
+}

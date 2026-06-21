@@ -1,0 +1,70 @@
+{
+  "app_id": "1795066593933270",
+  "package_name": "com.tcad.g4aw",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Go For A Walk",
+  "rating_average": 4.25,
+  "rating_count": 24,
+  "review_count": 24,
+  "reviews": [
+    {
+      "id": "2349276088560039",
+      "score": 4,
+      "review_title": "Relaxing",
+      "review_description": "Quite nice and relaxing experience . I am not sure what I am supposed to to though",
+      "date": 1665253403,
+      "review_helpful_count": 2,
+      "author_display_name": "savvito",
+      "author_alias": "savvito",
+      "developer_response": null
+    },
+    {
+      "id": "1200066833517701",
+      "score": 5,
+      "review_title": "Go for a walk",
+      "review_description": "Dig it, playing around with this app is alot of fun,  thank you Development.",
+      "date": 1579131191,
+      "review_helpful_count": 3,
+      "author_display_name": "solvangman805",
+      "author_alias": "solvangman805",
+      "developer_response": {
+        "body": "Thank you for playing!",
+        "date": 1579198714
+      }
+    },
+    {
+      "id": "623081671800453",
+      "score": 4,
+      "review_title": "Lovely relaxing exploration",
+      "review_description": "Lovely sounds and visuals and appreciated addition of snap turn function - though a double swipe seems unnecessary and is quite awkward. A single swipe would be more intuitive and better suited to the relaxing vibe. Enjoying exploring.",
+      "date": 1579029066,
+      "review_helpful_count": 16,
+      "author_display_name": "essjay_jr",
+      "author_alias": "essjay_jr",
+      "developer_response": null
+    },
+    {
+      "id": "117775959741714",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "This game is very calming and would recommend, you can interact with almost everything, the graphics are amazing and again, a very calming game",
+      "date": 1578857669,
+      "review_helpful_count": 6,
+      "author_display_name": "kylemmm",
+      "author_alias": "kylemmm",
+      "developer_response": {
+        "body": "Thanks - My goal was to create a chill-out experience, so I'm glad you found it calming!\n\n- John",
+        "date": 1578932511
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T02:22:31Z"
+}

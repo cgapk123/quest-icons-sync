@@ -1,0 +1,42 @@
+{
+  "app_id": "1334274669982503",
+  "package_name": "com.ta.vrquiz",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "VR Quiz",
+  "rating_average": 1.3333333333333,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1285854751525845",
+      "score": 1,
+      "review_title": "Must be a (poor) concept",
+      "review_description": "VR adds no value whatsoever to this and you get just four subjects and five questions which repeat over and over.",
+      "date": 1496270555,
+      "review_helpful_count": 0,
+      "author_display_name": "gadgetonomy",
+      "author_alias": "gadgetonomy",
+      "developer_response": null
+    },
+    {
+      "id": "859452837545807",
+      "score": 2,
+      "review_title": "Why in VR ?",
+      "review_description": "It's a quiz game. It's ok. But why in VR? What's the point? What's the advantage?",
+      "date": 1496071661,
+      "review_helpful_count": 3,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T02:14:53Z"
+}
