@@ -1,0 +1,263 @@
+{
+  "app_id": "25121192657495694",
+  "package_name": "com.trev3d.lasertag",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Lasertag",
+  "rating_average": 4.84,
+  "rating_count": 50,
+  "review_count": 21,
+  "reviews": [
+    {
+      "id": "924587506648908",
+      "score": 4,
+      "review_title": "Aligninig Problem",
+      "review_description": "I have tested this game about 5 days ago and everything was OK, but since last night when Client connects to host, it stuck in aligning and players cant see eachother. the client cant see objects and basements, but if the host click start match, client hear the voice of match started.",
+      "date": 1772096160,
+      "review_helpful_count": 6,
+      "author_display_name": "hashem.hakimi",
+      "author_alias": "hashem.hakimi",
+      "developer_response": null
+    },
+    {
+      "id": "1094694083718866",
+      "score": 3,
+      "review_title": "single-player",
+      "review_description": "A single-player mode against bots should be added.",
+      "date": 1775573517,
+      "review_helpful_count": 6,
+      "author_display_name": "serbaxt1",
+      "author_alias": "serbaxt1",
+      "developer_response": {
+        "body": "I'm focusing on multiplayer. For single-player games, I'd recommend Laser Limbo or Spatial Ops",
+        "date": 1779291809
+      }
+    },
+    {
+      "id": "968823342974351",
+      "score": 5,
+      "review_title": "This is to MR what Super Hot was to VR..",
+      "review_description": "...and the epitome of KISS succeeding spectacularly well.\n\nIt just works. Have 2+ headsets, set some spawn points, maybe a few virtual barriers and a domination point if you want, and start blasting each other (blaster effects are great!), taking cover behind real objects in your space. No need to map the room, no need to invite/join - all that is taken care of automatically.\n\nIt is bare bones - a tech demo. So no ability to save your map (this would be my top feature ask as it would allow instant gameplay), map items are basic (but sufficient), no health bar to see how far away you are from death (somehow it doesn't feel that important when playing, like you regen health in cover?), etc. But there is enough to have a ton of fun. The important stuff works, and it works very well.\n\nEven works with Quest2, though since that isn't able to continuously scan the room some extra effort is needed to prevent that headset being able to see another player on a quest3/3s through physical walls.",
+      "date": 1766964867,
+      "review_helpful_count": 4,
+      "author_display_name": "DrDrFlo",
+      "author_alias": "DrDrFlo",
+      "developer_response": null
+    },
+    {
+      "id": "977694545427040",
+      "score": 3,
+      "review_title": "Shooting through walls",
+      "review_description": "My little brother can somehow shoot and see through walls on his quest 2. How do I fix this? Please help.",
+      "date": 1769478165,
+      "review_helpful_count": 4,
+      "author_display_name": "HamboneKilla813",
+      "author_alias": "HamboneKilla813",
+      "developer_response": {
+        "body": "Hi! The Meta Quest 2 does not support depth estimation and therefore lacks the environment scanning feature.",
+        "date": 1769494668
+      }
+    },
+    {
+      "id": "1202238358465579",
+      "score": 5,
+      "review_title": "Best Mixed Reality use case to date",
+      "review_description": "I get it. This game requires being in the same room IRL for the gameplay to work. Again, I get it. That said, for what this is, Lasertag might be the best Mixed Reality game that’s been made.\n\nI’m kinda disappointed that’s more people in the XR community don’t know about it.",
+      "date": 1763129005,
+      "review_helpful_count": 10,
+      "author_display_name": "Arlen_of_the_ARK_Reactor",
+      "author_alias": "Arlen_of_the_ARK_Reactor",
+      "developer_response": null
+    },
+    {
+      "id": "1452465650215957",
+      "score": 5,
+      "review_title": "fantastic",
+      "review_description": "A real glimpse into the future with this one. Good workout as well! Cannot wait to see where this goes",
+      "date": 1766486057,
+      "review_helpful_count": 3,
+      "author_display_name": "steve.kenny.353",
+      "author_alias": "steve.kenny.353",
+      "developer_response": null
+    },
+    {
+      "id": "1460481092344113",
+      "score": 5,
+      "review_title": "Easiest and fastest colocation EVER",
+      "review_description": "Title says it all. If you've tried any other colocation games you know how tedious it can be.",
+      "date": 1764394159,
+      "review_helpful_count": 4,
+      "author_display_name": "Girls_VR",
+      "author_alias": "Girls_VR",
+      "developer_response": null
+    },
+    {
+      "id": "899703002952121",
+      "score": 5,
+      "review_title": "Wao faktor",
+      "review_description": "The best part is that you don't have to scan rooms. Good Job , I look forward to further development.",
+      "date": 1771877917,
+      "review_helpful_count": 0,
+      "author_display_name": "S.e.x.Y",
+      "author_alias": "S.e.x.Y",
+      "developer_response": null
+    },
+    {
+      "id": "1403111938482043",
+      "score": 5,
+      "review_title": "Amazingly easy to use",
+      "review_description": "I downloaded it to our two devices after work. We played some time and it was so easy to use. Directly into the fun. Really like the automatic room scan. Works awesome",
+      "date": 1756907598,
+      "review_helpful_count": 12,
+      "author_display_name": "ValedieKralle",
+      "author_alias": "ValedieKralle",
+      "developer_response": null
+    },
+    {
+      "id": "913592568515190",
+      "score": 5,
+      "review_title": "Idk but i think its good",
+      "review_description": "Whoever made the video to see above needs a raise RIGHT NOW",
+      "date": 1771754825,
+      "review_helpful_count": 0,
+      "author_display_name": "andreas.orcea",
+      "author_alias": "andreas.orcea",
+      "developer_response": null
+    },
+    {
+      "id": "31375593675364992",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Actually brilliant, would love the ability to add custom meshes for obsticles etc, there's just so much potential, if it were possible to add npcs and turrets etc this would be amazing",
+      "date": 1755984958,
+      "review_helpful_count": 8,
+      "author_display_name": "forferdeilig",
+      "author_alias": "forferdeilig",
+      "developer_response": null
+    },
+    {
+      "id": "756694303990843",
+      "score": 5,
+      "review_title": "It's fun",
+      "review_description": "Amazing even though I'm waiting until one of my friends to get it or my parents is Amazingly fun just playing alone l",
+      "date": 1756932455,
+      "review_helpful_count": 3,
+      "author_display_name": "18.Classified",
+      "author_alias": "18.Classified",
+      "developer_response": null
+    },
+    {
+      "id": "716533921551280",
+      "score": 5,
+      "review_title": "This is interesting",
+      "review_description": "Love from saiba momoi",
+      "date": 1756096314,
+      "review_helpful_count": 2,
+      "author_display_name": "Joshua.0113",
+      "author_alias": "Joshua.0113",
+      "developer_response": null
+    },
+    {
+      "id": "9723988307681979",
+      "score": 5,
+      "review_title": "It just works and it's so cool.",
+      "review_description": "As soon as I started firing lasers all over my living room, I started laughing with joy. Then I went up stairs. Then the kitchen. Bedroom. Back porch. Wherever I could go and reap destruction. It works everywhere. Anyways, very cool demo. Hope to try the multiplayer portion of it some day.",
+      "date": 1746846544,
+      "review_helpful_count": 10,
+      "author_display_name": "HaleBopp",
+      "author_alias": "HaleBopp",
+      "developer_response": null
+    },
+    {
+      "id": "699740213229262",
+      "score": 5,
+      "review_title": "I watch Salish an nidal play it",
+      "review_description": "See you just looks so fun",
+      "date": 1753479742,
+      "review_helpful_count": 1,
+      "author_display_name": "Brosephus2017",
+      "author_alias": "Brosephus2017",
+      "developer_response": null
+    },
+    {
+      "id": "533348906523913",
+      "score": 5,
+      "review_title": "Shooting through walls",
+      "review_description": "This app is amazing, great job! I have one issue I can't figure out though. One of our headsets sometimes is able to shoot through walls.  EDIT. I did not set my space settings properly in the quest 2. I forgot it doesnt have the auto scanning like my new quest 3",
+      "date": 1735355695,
+      "review_helpful_count": 6,
+      "author_display_name": "Sladius",
+      "author_alias": "Sladius",
+      "developer_response": null
+    },
+    {
+      "id": "590908713459987",
+      "score": 5,
+      "review_title": "Best laser gun game",
+      "review_description": "I like it better than laser limbo since it's literally just turn on the game and play. I can turn my whole house into a play area without scanning anything and put a couple obstacles to make it a little diverse",
+      "date": 1731815995,
+      "review_helpful_count": 2,
+      "author_display_name": "Elongated_Spine",
+      "author_alias": "Elongated_Spine",
+      "developer_response": null
+    },
+    {
+      "id": "1034924838027269",
+      "score": 4,
+      "review_title": "Awesome, lots of potential",
+      "review_description": "Mixed reality has been kind of a hit or miss formula sometimes. While it’s cool to map out your room, your room map doesn’t stay consistent if something is moved. Plus, these room maps can sometimes take a while to set up. But with this game, it just works. I don’t know how the heck you guys pulled this off but it just works. Obviously getting the environment details in real time with the depth sensor has its advantages / disadvantages instead of mapping out the entire room beforehand, but this new method is just so convenient. Great work and I hope you keep this project going! I look forward to seeing what’s next : )",
+      "date": 1724340790,
+      "review_helpful_count": 14,
+      "author_display_name": "Skyminer546",
+      "author_alias": "Skyminer546",
+      "developer_response": null
+    },
+    {
+      "id": "436325836224617",
+      "score": 5,
+      "review_title": "The coolest app on quest",
+      "review_description": "It’s amazing just how cool this is. Unfortunately you need to be in the same room as someone else with a quest, so I don’t actually get to play this with anyone. But it’s so simple and can ricochet bullets off every surface around you in a way no other game can.￼",
+      "date": 1725764776,
+      "review_helpful_count": 8,
+      "author_display_name": "bj_hawt",
+      "author_alias": "bj_hawt",
+      "developer_response": null
+    },
+    {
+      "id": "3979170215645136",
+      "score": 4,
+      "review_title": "Great, simple laser fun",
+      "review_description": "Had some issues with achororing but now seems fixed. Really simple to use and set great fun. Really love this game!",
+      "date": 1729604431,
+      "review_helpful_count": 3,
+      "author_display_name": "Srg2001",
+      "author_alias": "Srg2001",
+      "developer_response": {
+        "body": "Meta's anchor system has been spotty lately :(\nI need to stop being lazy and add a way to manually colocate if anchors don't work. Will do ASAP",
+        "date": 1728923909
+      }
+    },
+    {
+      "id": "1254179549276597",
+      "score": 4,
+      "review_title": "",
+      "review_description": "response to developers:\n\nThanks for your reply, Ah I didn't know, so should I disable App sharing from my headset? I thought it was the opposite, i.e. activating App sharing. However, I will study the matter further, Thanks. and as soon as I have time I will join the discord, Thanks\n\n--------\n\n\n\nupdate: tonight I tried to use it by connecting it with quest two and quest three, both of which I own with the same account. but what's the story that I can't play with my two headsets at the same time and I have to have another account? I don't know how to do it, and it's a waste of time to do it, just to let a friend who I make wear the headset play once a year? \n\nsomeone should tell Meta that this situation is too limiting\n__________\n\n\nresponse to developers:\n\nI know laser limbo very well, in fact I mentioned it, and I like it a lot, I also know spatial ops. \n\nregarding the test version since the Meta app was updated it is impossible to access the versions tab because it gives an error, perhaps I could try to access through the browser as I did in the past when the Meta app did not work, to find the test version.\n\n--------\n\nI was pleasantly impressed by the guns, by the marvelous way in which they shoot, by the dynamic occlusion, the only thing would be to have some more colorful obstacles with fuchsia bands with Bloom effects for example, or in any case other types of obstacles different. many types of obstacles to create many types of interesting environments.\n\nactually I couldn't even play, I just placed some objects and shot and it was fun. \n\nthe limit is that if there isn't another person who has the quest3 in the same physical place, you practically can't play! \n\nother games like laser limbo fortunately have a single player campaign that allows you to have fun just the same. \n\nConsidering the difficulty in finding players (especially if they are physically present in the same place and have quest 3), switching this game only to multiplayer is a wrong choice.\nyou should have not only single player but also offline mode, because sometimes people also have connection problems.\n\nIf you have a discord channel I'd love to participate and provide any ideas and opinions",
+      "date": 1723270747,
+      "review_helpful_count": 1,
+      "author_display_name": "serpe.massimo",
+      "author_alias": "serpe.massimo",
+      "developer_response": {
+        "body": "We aren't trying to make something very marketable with Lasertag. Rather this is a project for us to learn and experiment. There are other games like Laser Limbo (edit: you mentioned this already - whoops) and Spatial Ops that support singleplayer bots. You should definitely give those a try! \n\nBTW, since you have a Quest 3 you can switch to the 'Test' release channel if you want to play with a new lighting effect I was testing :) Also, there is a Discord link in the app store page description\n\nEDIT: you can use the app on both headsets but you need to disable 'app sharing' in your account settings first. Very annoying :(",
+        "date": 1723270473
+      }
+    }
+  ],
+  "total": 21,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-21T03:29:35Z"
+}
