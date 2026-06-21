@@ -1,0 +1,45 @@
+{
+  "app_id": "1450613618303175",
+  "package_name": "com.wavr.avemovr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Avem33",
+  "rating_average": 3.219512195122,
+  "rating_count": 41,
+  "review_count": 41,
+  "reviews": [
+    {
+      "id": "1928112217264367",
+      "score": 2,
+      "review_title": "God",
+      "review_description": "God",
+      "date": 1541965533,
+      "review_helpful_count": 4,
+      "author_display_name": "ali.ss477985",
+      "author_alias": "ali.ss477985",
+      "developer_response": null
+    },
+    {
+      "id": "864671120357312",
+      "score": 3,
+      "review_title": "Nice graphs, poor physics and gameplay",
+      "review_description": "Graphics are ok, but gameplay is boring. Flight physics are arcade.",
+      "date": 1496884193,
+      "review_helpful_count": 5,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": {
+        "body": "Thank you for the review. You're right it's an arcade style game where beating the highscore is the goal.",
+        "date": 1496910096
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T06:49:59Z"
+}

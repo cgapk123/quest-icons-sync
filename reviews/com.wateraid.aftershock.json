@@ -1,0 +1,42 @@
+{
+  "app_id": "1163142207041311",
+  "package_name": "com.wateraid.aftershock",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Aftershock VR",
+  "rating_average": 3.2941176470588,
+  "rating_count": 17,
+  "review_count": 17,
+  "reviews": [
+    {
+      "id": "2140885446052390",
+      "score": 4,
+      "review_title": "Build that well!",
+      "review_description": "Build that well!",
+      "date": 1632712464,
+      "review_helpful_count": 0,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "1242306139167287",
+      "score": 5,
+      "review_title": "Fantastic experience.",
+      "review_description": "Reminder that not all of us are as lucky.",
+      "date": 1479755174,
+      "review_helpful_count": 16,
+      "author_display_name": "neverlosty",
+      "author_alias": "neverlosty",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T06:49:20Z"
+}

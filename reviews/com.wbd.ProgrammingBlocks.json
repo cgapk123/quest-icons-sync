@@ -1,0 +1,81 @@
+{
+  "app_id": "8365124593551253",
+  "package_name": "com.wbd.ProgrammingBlocks",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Programming Blocks",
+  "rating_average": 2.8181818181818,
+  "rating_count": 22,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "4137590553139323",
+      "score": 2,
+      "review_title": "Good idea finicky hand-tracking controls",
+      "review_description": "Good idea to teach basic coding concepts and helpful tutorial, but too much finicky handtracking UI for simple interactions. No need to use two hands, make the objects bigger and highlight volumes larger. Hoping to come back and increase the stars after a UX update.",
+      "date": 1748035769,
+      "review_helpful_count": 2,
+      "author_display_name": "martlume",
+      "author_alias": "martlume",
+      "developer_response": null
+    },
+    {
+      "id": "560433863823370",
+      "score": 2,
+      "review_title": "Looks nice but ....",
+      "review_description": "I couldn't even grab the table. I don't have a table where I am playing in VR most of the time. And yes it offers you a table but.... For some reason and mixed reality I have boundaries and the tables outside the boundaries so when you lean into grab it if it's possible to grab it you're outside the boundaries there goes to table and even if I could grab it I can't grab it because I can't see it I'm sure my kids would love it but.... If I can't play it how are the kids going to play it 5 and 9 yrs.  please fix maybe we can give it another try",
+      "date": 1739871208,
+      "review_helpful_count": 1,
+      "author_display_name": "KooterBrown",
+      "author_alias": "KooterBrown",
+      "developer_response": {
+        "body": "Hey there! Thanks for your feedback—we hear you! If you’re having trouble with the table position in mixed reality, resetting everything and starting fresh might help.\n\nHere’s how:\n👉 Pinch your left index finger and thumb together to open the menu.\n👉 Look for the Reset button and give it a press.\n\nThat’s it! This should let you reposition things and get back into the experience. We appreciate you giving it another try—let us know if you run into any other issues! 🚀",
+        "date": 1740734727
+      }
+    },
+    {
+      "id": "29342712498661248",
+      "score": 5,
+      "review_title": "Fantastic Prototype",
+      "review_description": "With some minor adjustments to grabability of objects and placing them on the table you can certainly fine tune the hand tracking user experience. Looking forward to future releases of puzzles",
+      "date": 1738255669,
+      "review_helpful_count": 3,
+      "author_display_name": "yodaWNY",
+      "author_alias": "yodaWNY",
+      "developer_response": null
+    },
+    {
+      "id": "8651806051613670",
+      "score": 1,
+      "review_title": "can't even begin",
+      "review_description": "I would like to try this game, but I can't even grab the suitcase at the very beginning of the tutorial so until this bug is fixed, I will have to give it one star.",
+      "date": 1737353109,
+      "review_helpful_count": 4,
+      "author_display_name": "duke54",
+      "author_alias": "duke54",
+      "developer_response": {
+        "body": "Thanks for letting us know about the issue! Sorry to hear you’re having trouble grabbing the suitcase. Since this is a hand-tracking only experience, ensure your hands are clearly visible to the headset.\n\nJust a quick check—make sure you’ve granted permission for spatial data, as it’s essential for placing and interacting with objects in the game.\n\nWe’re here to help, so let us know if you’re still running into trouble!",
+        "date": 1737377892
+      }
+    },
+    {
+      "id": "1070419068180719",
+      "score": 5,
+      "review_title": "Great!!",
+      "review_description": "I played this with my sons of 9 and 11. Very nice experience. The handtracking is very fluid and intuitive. Nice kid friendly design and cool 'magic' box! Love to try even more puzzles!!",
+      "date": 1738242747,
+      "review_helpful_count": 2,
+      "author_display_name": "joost.proost76",
+      "author_alias": "joost.proost76",
+      "developer_response": null
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T06:50:26Z"
+}

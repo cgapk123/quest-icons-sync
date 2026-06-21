@@ -1,0 +1,45 @@
+{
+  "app_id": "2078634555484217",
+  "package_name": "com.walterscube.walterscubevr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Walter's Cube VR",
+  "rating_average": 3,
+  "rating_count": 4,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "2042866465952615",
+      "score": 2,
+      "review_title": "Motion sickness",
+      "review_description": "I'm sure this would be a good app with great art exhibitions but unfortunately there is no teleport option and the free movement started giving me motion sickness so I had to stop using it. Also, I think i had to download each exhibition I wanted to view which was frustrating and takes up a lot of storage space.",
+      "date": 1522656154,
+      "review_helpful_count": 2,
+      "author_display_name": "EmmaC25",
+      "author_alias": "EmmaC25",
+      "developer_response": null
+    },
+    {
+      "id": "1042946205863135",
+      "score": 3,
+      "review_title": "Nauseating",
+      "review_description": "The majority of the art is 2D, so it doesn't make a lot of sense on VR. On top of that the walking movement is nauseating.",
+      "date": 1521459238,
+      "review_helpful_count": 1,
+      "author_display_name": "MikeUrilorib",
+      "author_alias": "MikeUrilorib",
+      "developer_response": {
+        "body": "Thank you very much for your feedback. You're absolutely right, that's why we are working on to digitalize more and more exhibitions so you can see more exciting artworks in the future. We are currently testing several kinds of movements to find the most comfortable one.",
+        "date": 1521653638
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T06:46:52Z"
+}
