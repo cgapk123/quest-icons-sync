@@ -1,0 +1,45 @@
+{
+  "app_id": "6100169923444553",
+  "package_name": "com.vlura.zombiesvr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Zombies VR",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "573435978852994",
+      "score": 3,
+      "review_title": "No zombies",
+      "review_description": "😞",
+      "date": 1737711150,
+      "review_helpful_count": 3,
+      "author_display_name": "epic_rhyl23",
+      "author_alias": "epic_rhyl23",
+      "developer_response": null
+    },
+    {
+      "id": "348390061499301",
+      "score": 3,
+      "review_title": "",
+      "review_description": "Ok",
+      "date": 1708362545,
+      "review_helpful_count": 3,
+      "author_display_name": "SheffreyDyl",
+      "author_alias": "SheffreyDyl",
+      "developer_response": {
+        "body": "Thank you, we will be updating soon",
+        "date": 1708366216
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T06:09:47Z"
+}

@@ -1,0 +1,90 @@
+{
+  "app_id": "7350555961698886",
+  "package_name": "com.vlura.escaperoom",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Escape Room",
+  "rating_average": 1.2142857142857,
+  "rating_count": 14,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "1067007442300812",
+      "score": 1,
+      "review_title": "Horrible",
+      "review_description": "No onboarding..how do pick up objects? You can peak through walls but cannot move anything..no hint button to move along..and don't get me started about the music.",
+      "date": 1742826505,
+      "review_helpful_count": 4,
+      "author_display_name": "BrendaMarie",
+      "author_alias": "BrendaMarie",
+      "developer_response": {
+        "body": "Thank you for your review, update coming soon!",
+        "date": 1745202599
+      }
+    },
+    {
+      "id": "416000381348885",
+      "score": 2,
+      "review_title": "Eh!",
+      "review_description": "I'm a huge fan of escape room video games. I've never cared about graphics or how good the game is as long as it's playable and this game is playable but just barely. The puzzles are alright, but the movement is horrendous. There's not any background music. What sound effects exist are either super loud or just don't fit. There aren't any hands, just a super long cylinder that you point at things to pick up. For a buck you get what you pay for, I'm not going to refund the game because I did enjoy the puzzles but I wouldn't recommend the experience.",
+      "date": 1716180207,
+      "review_helpful_count": 20,
+      "author_display_name": "Asylumsleeper",
+      "author_alias": "Asylumsleeper",
+      "developer_response": {
+        "body": "Thank you for your review, please update",
+        "date": 1731427341
+      }
+    },
+    {
+      "id": "613610544505419",
+      "score": 1,
+      "review_title": "Doesn’t navigate correctly",
+      "review_description": "Controllers don’t work to go forward and back, so I’m just basically stuck. If they fix it, it looks like it has some promise, but I’m stuck in one room and can’t get out because it won’t go forward.",
+      "date": 1736392105,
+      "review_helpful_count": 0,
+      "author_display_name": "kirstenal",
+      "author_alias": "kirstenal",
+      "developer_response": {
+        "body": "Thank you for update, bugs have been fixed, please update!",
+        "date": 1736687683
+      }
+    },
+    {
+      "id": "465177386683328",
+      "score": 1,
+      "review_title": "Stuck",
+      "review_description": "I have just purchased this game. I keep getting stuck. Controls and moves are hard to navigate",
+      "date": 1730845765,
+      "review_helpful_count": 2,
+      "author_display_name": "murphy.s154",
+      "author_alias": "murphy.s154",
+      "developer_response": {
+        "body": "Thank you for your review, this is now fixed please update",
+        "date": 1731427377
+      }
+    },
+    {
+      "id": "426112737205897",
+      "score": 1,
+      "review_title": "Stuck",
+      "review_description": "I can only move so far and I get stuck",
+      "date": 1731348310,
+      "review_helpful_count": 0,
+      "author_display_name": "GtGirl4you",
+      "author_alias": "GtGirl4you",
+      "developer_response": {
+        "body": "Thank you for your review, this is now fixed, please update",
+        "date": 1731427400
+      }
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T06:06:12Z"
+}

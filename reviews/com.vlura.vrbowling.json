@@ -1,0 +1,59 @@
+{
+  "app_id": "5886433504766454",
+  "package_name": "com.vlura.vrbowling",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "VR Bowling",
+  "rating_average": 1.6,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "25229389993412711",
+      "score": 1,
+      "review_title": "Just falling",
+      "review_description": "You start by falling and keep falling.\nBoth on quest 2 and q3s. \n\nScammed :(",
+      "date": 1767470047,
+      "review_helpful_count": 4,
+      "author_display_name": "datarep",
+      "author_alias": "datarep",
+      "developer_response": null
+    },
+    {
+      "id": "237110026150562",
+      "score": 2,
+      "review_title": "Vr bolwing",
+      "review_description": "Whenever I spawn I out of the map and have to get off and login again bad quality not good at all        Whenever you’re in the game you can’t move in real life you have to be in your character 2/5",
+      "date": 1710608873,
+      "review_helpful_count": 5,
+      "author_display_name": "DexRolsFi",
+      "author_alias": "DexRolsFi",
+      "developer_response": {
+        "body": "Thank you for your review, this will be fixed in next update",
+        "date": 1710698343
+      }
+    },
+    {
+      "id": "226915047176513",
+      "score": 3,
+      "review_title": "Pretty good",
+      "review_description": "The idea is great.. but the graphics are kinda bad. It has a lot of potential if you work hard on it. Pretty fun though not gonna lie.",
+      "date": 1708236247,
+      "review_helpful_count": 1,
+      "author_display_name": "Erik.M",
+      "author_alias": "Erik.M",
+      "developer_response": {
+        "body": "Thank you, we have an update coming this week",
+        "date": 1708353446
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T06:09:31Z"
+}

@@ -1,0 +1,56 @@
+{
+  "app_id": "7391390470885621",
+  "package_name": "com.vlura.golfsimulator",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Golf Simulator",
+  "rating_average": 2.1666666666667,
+  "rating_count": 6,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "402848535739728",
+      "score": 1,
+      "review_title": "the golf club was to long",
+      "review_description": "stupid",
+      "date": 1706313308,
+      "review_helpful_count": 2,
+      "author_display_name": "banana_1235",
+      "author_alias": "banana_1235",
+      "developer_response": {
+        "body": "you aim it at the floor and press A or X depending on which hand you swinging with, it adjusts to any height",
+        "date": 1706462378
+      }
+    },
+    {
+      "id": "1036087231860798",
+      "score": 1,
+      "review_title": "Awful, just awful",
+      "review_description": "Can't adjust club length, can't exit simulator. Terrible.",
+      "date": 1717016229,
+      "review_helpful_count": 0,
+      "author_display_name": "valiefreems",
+      "author_alias": "valiefreems",
+      "developer_response": null
+    },
+    {
+      "id": "477847078515555",
+      "score": 3,
+      "review_title": "Mostly good but the physics are bad",
+      "review_description": "Everytime I hit the ball it constantly goes in random directions and when the ball goes on the green it always rolls for eternity",
+      "date": 1722351505,
+      "review_helpful_count": 0,
+      "author_display_name": "josh.farnsworth.351",
+      "author_alias": "josh.farnsworth.351",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T06:06:52Z"
+}
