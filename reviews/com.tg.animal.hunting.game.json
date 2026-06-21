@@ -1,0 +1,45 @@
+{
+  "app_id": "8932439846884399",
+  "package_name": "com.tg.animal.hunting.game",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Animal Hunter VR: Wild Shooting Games",
+  "rating_average": 1.75,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "758337897371270",
+      "score": 3,
+      "review_title": "Help",
+      "review_description": "Where are the directions? What do the buttons do?",
+      "date": 1759626264,
+      "review_helpful_count": 1,
+      "author_display_name": "Wldnwkkd",
+      "author_alias": "Wldnwkkd",
+      "developer_response": null
+    },
+    {
+      "id": "572927082570132",
+      "score": 2,
+      "review_title": "Directions needed",
+      "review_description": "Not sure what to even do. A jeep is running\n and can't use it. A tour guide is standing,  can't communicate with him. Im only on level 2- bagging 5 raccoons and I've only seen 2 and killed 2 and it shows zero killed. What am I missing?",
+      "date": 1739904779,
+      "review_helpful_count": 1,
+      "author_display_name": "KellySneed",
+      "author_alias": "KellySneed",
+      "developer_response": {
+        "body": "Thank you for your feedback! We’re sorry for any confusion and appreciate your insights. We understand that clearer directions would improve the experience, and we’re working on updates to enhance guidance and fix any tracking issues. Your input helps us make the game better, so stay tuned for future updates!",
+        "date": 1742189377
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T02:41:57Z"
+}

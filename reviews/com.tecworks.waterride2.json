@@ -1,0 +1,117 @@
+{
+  "app_id": "6987926311269588",
+  "package_name": "com.tecworks.waterride2",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Water Ride Extreme",
+  "rating_average": 4,
+  "rating_count": 19,
+  "review_count": 8,
+  "reviews": [
+    {
+      "id": "981654371706491",
+      "score": 1,
+      "review_title": "App crashes",
+      "review_description": "Game crashes in a ride every time after approximately 30 seconds",
+      "date": 1772384657,
+      "review_helpful_count": 4,
+      "author_display_name": "FluffyHedgehog9075",
+      "author_alias": "FluffyHedgehog9075",
+      "developer_response": {
+        "body": "Hello, last version 5.6 should have memory crash fixed",
+        "date": 1773003295
+      }
+    },
+    {
+      "id": "994868400381608",
+      "score": 5,
+      "review_title": "Thrilling Ride Through the Rapids",
+      "review_description": "An incredibly fun and immersive VR experience! The sensation of racing down the river through roaring rapids feels surprisingly real, making every twist and splash exciting. It’s intense, exhilarating, and left me wanting to jump right back in for another ride. Highly recommended for anyone looking for a quick adrenaline rush in VR",
+      "date": 1773065649,
+      "review_helpful_count": 0,
+      "author_display_name": "Abdelbd",
+      "author_alias": "Abdelbd",
+      "developer_response": null
+    },
+    {
+      "id": "1078823491978083",
+      "score": 5,
+      "review_title": "Very funny",
+      "review_description": "Very engaging, it feels like being in a canoe on the rapids, with many different experiences to live.",
+      "date": 1775754210,
+      "review_helpful_count": 0,
+      "author_display_name": "RobertPosen",
+      "author_alias": "RobertPosen",
+      "developer_response": null
+    },
+    {
+      "id": "1050504334806372",
+      "score": 5,
+      "review_title": "Great VR Rapids",
+      "review_description": "This simulation turns your living room into a thrilling theme park attraction: ride down foaming rapids on a raft that really tilts, with splashes of water hitting your face and turns that make you scream.",
+      "date": 1773808373,
+      "review_helpful_count": 0,
+      "author_display_name": "MisterWolfy",
+      "author_alias": "MisterWolfy",
+      "developer_response": null
+    },
+    {
+      "id": "1050174361504167",
+      "score": 5,
+      "review_title": "Fun and engaging",
+      "review_description": "Boat descent along rivers, extremely adrenaline-filled and exciting, like in theme parks",
+      "date": 1772024899,
+      "review_helpful_count": 1,
+      "author_display_name": "Luisalux",
+      "author_alias": "Luisalux",
+      "developer_response": null
+    },
+    {
+      "id": "1005984608329899",
+      "score": 1,
+      "review_title": "Will not complete a ride",
+      "review_description": "This app does not work. It crashes almost instantly. I purchased because I enjoyed the free ride on Water Ride Express.  None of the rides work in the paid person at all. The Gane grasses almost immediately when you start it.",
+      "date": 1747444196,
+      "review_helpful_count": 4,
+      "author_display_name": "jcarrmartin",
+      "author_alias": "jcarrmartin",
+      "developer_response": {
+        "body": "Reboot your device, the engine of the app requires all the available memory",
+        "date": 1766394577
+      }
+    },
+    {
+      "id": "453222100951701",
+      "score": 1,
+      "review_title": "No longer works on Quest 3",
+      "review_description": "Purchased it on App Lab and it worked fine until the most recent update and now the app completely crashes and closes after 10 seconds into each ride.",
+      "date": 1722019897,
+      "review_helpful_count": 8,
+      "author_display_name": "MindfulTraveler",
+      "author_alias": "MindfulTraveler",
+      "developer_response": {
+        "body": "Thank you for the report, we will investigate.\n\nEdit: new version submitted.",
+        "date": 1722086656
+      }
+    },
+    {
+      "id": "8063024607089292",
+      "score": 5,
+      "review_title": "Water park",
+      "review_description": "a truly fun water amusement park",
+      "date": 1722087208,
+      "review_helpful_count": 5,
+      "author_display_name": "jined",
+      "author_alias": "jined",
+      "developer_response": null
+    }
+  ],
+  "total": 8,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T02:37:32Z"
+}

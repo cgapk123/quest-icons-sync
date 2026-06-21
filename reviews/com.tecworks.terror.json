@@ -1,0 +1,34 @@
+{
+  "app_id": "6864700473659238",
+  "package_name": "com.tecworks.terror",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Terror Cave",
+  "rating_average": 3,
+  "rating_count": 5,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "541437765724780",
+      "score": 2,
+      "review_title": "Terror cave",
+      "review_description": "It's saying I purchased but only gives me the sweety version how do I unlock the scary version",
+      "date": 1739044224,
+      "review_helpful_count": 15,
+      "author_display_name": "bikerpete",
+      "author_alias": "bikerpete",
+      "developer_response": {
+        "body": "Hello, you must have Terror Cave \"HD\" in your library, that unlocks the full version. Thank you",
+        "date": 1778577140
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T02:36:58Z"
+}

@@ -1,0 +1,56 @@
+{
+  "app_id": "3704207106356575",
+  "package_name": "com.teleporthere.scotland.demo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Teleport Scotland Demo",
+  "rating_average": 3.7142857142857,
+  "rating_count": 7,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "2202287496578851",
+      "score": 4,
+      "review_title": "The Highlander could teleport, like Neo.",
+      "review_description": "It's a 3d picture tour, but the quality is impressive.",
+      "date": 1639339579,
+      "review_helpful_count": 2,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "704079350559606",
+      "score": 5,
+      "review_title": "Bought the full version",
+      "review_description": "This demo is quite short but it has convinced me to purchase the full app. There's only a few locations here but they are very well done.",
+      "date": 1638983471,
+      "review_helpful_count": 4,
+      "author_display_name": "jonathanfoo",
+      "author_alias": "jonathanfoo",
+      "developer_response": null
+    },
+    {
+      "id": "131886189270728",
+      "score": 3,
+      "review_title": "Brick traveler for Scotland",
+      "review_description": "I like the graphics and sound but I would argue this app is no better than Google earth. I wish at least to heard or read commentary about various locations. I am not sure what need to be done to improve this app to sell it better. Maybe mention when is the best time to visit, general information about Scotland, add more maps of Scotland displaying food/beer/wine speciality, map showing the population density, allow the user to prepare the trip on a map and email the information.",
+      "date": 1638653729,
+      "review_helpful_count": 1,
+      "author_display_name": "yes4me",
+      "author_alias": "yes4me",
+      "developer_response": {
+        "body": "hi yes4me, Thanks for your review. what you mentioned are in our future plans. especialy commentary. It main app will be constantly updated wih locations and features. Thanks",
+        "date": 1638694926
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T02:39:06Z"
+}
