@@ -1,0 +1,699 @@
+{
+  "app_id": "24467240542922395",
+  "package_name": "com.vr.escape.mystery.exploration.puzzle",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Escape Free",
+  "rating_average": 3.5810276679842,
+  "rating_count": 253,
+  "review_count": 53,
+  "reviews": [
+    {
+      "id": "1301876971912634",
+      "score": 5,
+      "review_title": "Great demo",
+      "review_description": "Fun demo, just enough challenge and a great atmosphere",
+      "date": 1778755769,
+      "review_helpful_count": 6,
+      "author_display_name": "FitzFarseer",
+      "author_alias": "FitzFarseer",
+      "developer_response": null
+    },
+    {
+      "id": "1053830884490690",
+      "score": 2,
+      "review_title": "Don't play with stickdrift",
+      "review_description": "The game looks amazing but with no option to turn off anything for my sanity it is unplayable with stickdrift",
+      "date": 1779417960,
+      "review_helpful_count": 2,
+      "author_display_name": "Christopher.the.5th",
+      "author_alias": "Christopher.the.5th",
+      "developer_response": null
+    },
+    {
+      "id": "1061822750340809",
+      "score": 2,
+      "review_title": "Mid",
+      "review_description": "This game was kinda bad because one puzzle has no explanation at all and I'm not bad at puzzle games because I have played hundreds of them over the years so this just sucks",
+      "date": 1772550795,
+      "review_helpful_count": 7,
+      "author_display_name": "Bugman44",
+      "author_alias": "Bugman44",
+      "developer_response": null
+    },
+    {
+      "id": "833897092916912",
+      "score": 1,
+      "review_title": "Total theft",
+      "review_description": "The first level is free. It's kinda fun, kinda challenging. After you beat it they offer you the \"FULL GAME\" for $9.99. But the \"FULL GAME\" is only 2 more levels. I have never felt so utterly stolen from by a Meta game. Plus the whole time your playing there's a glitch that makes it sound like you're walking when you aren't. Immensely annoying. It doesn't happen when you first sign in but after about 5 minutes it just doesn't go away. Even if you log out and back in 5 minutes later it's doing it again.",
+      "date": 1761277533,
+      "review_helpful_count": 221,
+      "author_display_name": "Rampant751",
+      "author_alias": "Rampant751",
+      "developer_response": null
+    },
+    {
+      "id": "685524371311493",
+      "score": 3,
+      "review_title": "Fun but big let down",
+      "review_description": "This was fun on all 3 levels after buying but its a let down after there only 3 levels  for just 7.99 also there are short levels so this will only get 3 stars not full",
+      "date": 1768521841,
+      "review_helpful_count": 6,
+      "author_display_name": "Triggermerlin",
+      "author_alias": "Triggermerlin",
+      "developer_response": null
+    },
+    {
+      "id": "1403539001777164",
+      "score": 3,
+      "review_title": "Looks fun",
+      "review_description": "This game looks fun but the vignette is so annoying! I know its supposed to help with motion sickness but for some of us it does the opposite.I cannot play the gsme eith th vignette on cause I got dizzy and therefore dont know whether its a good game or not.",
+      "date": 1761095437,
+      "review_helpful_count": 6,
+      "author_display_name": "KawaiiDu95",
+      "author_alias": "KawaiiDu95",
+      "developer_response": null
+    },
+    {
+      "id": "1214126767398999",
+      "score": 5,
+      "review_title": "Love it!!",
+      "review_description": "Finished the free version, but if you want the full one, it's called Room Escape. Figured that our while trying to buy it and couldn't find it. I'm definitely purchasing it now. Recommended.",
+      "date": 1756165445,
+      "review_helpful_count": 58,
+      "author_display_name": "Screamqueen79",
+      "author_alias": "Screamqueen79",
+      "developer_response": null
+    },
+    {
+      "id": "835119209690251",
+      "score": 1,
+      "review_title": "Doesn't save",
+      "review_description": "Spent ages on it the other day, to go back today and my progress has gone.",
+      "date": 1762613596,
+      "review_helpful_count": 4,
+      "author_display_name": "Sassymood",
+      "author_alias": "Sassymood",
+      "developer_response": null
+    },
+    {
+      "id": "908805092325477",
+      "score": 1,
+      "review_title": "I felt robbed",
+      "review_description": "I paid ￼£7.99 for two stages and I was very disappointed. Come to a sudden end could do with money back.",
+      "date": 1769806732,
+      "review_helpful_count": 0,
+      "author_display_name": "Djstix",
+      "author_alias": "Djstix",
+      "developer_response": null
+    },
+    {
+      "id": "1437238480833422",
+      "score": 1,
+      "review_title": "Don’t know Chinese language.",
+      "review_description": "Just installed and uninstalled immediately because I don’t know Chinese language. Could not change language settings. Why the game starts In Chinese language instead of English. Nope. I’m not even sure that.",
+      "date": 1757259301,
+      "review_helpful_count": 3,
+      "author_display_name": "idris_inan",
+      "author_alias": "idris_inan",
+      "developer_response": null
+    },
+    {
+      "id": "795395730321849",
+      "score": 1,
+      "review_title": "Escape",
+      "review_description": "3 levels that's it smh.",
+      "date": 1757691576,
+      "review_helpful_count": 4,
+      "author_display_name": "Jimmyjamz247",
+      "author_alias": "Jimmyjamz247",
+      "developer_response": null
+    },
+    {
+      "id": "660313787166683",
+      "score": 1,
+      "review_title": "??",
+      "review_description": "Just finished the first (and only) free level—fun and promising! But when I tried to buy the rest of the game, it just said “Not Available.” Super confusing. Why offer a purchase option if it doesn’t work?",
+      "date": 1749419919,
+      "review_helpful_count": 32,
+      "author_display_name": "Kimbutt",
+      "author_alias": "Kimbutt",
+      "developer_response": null
+    },
+    {
+      "id": "657291286676036",
+      "score": 3,
+      "review_title": "Enjoyed my 1 Free Level",
+      "review_description": "Game play was good. Graphics and audio were professional… But, after reading the other reviews…don’t think I’ll pay for only 2 more levels that ends weird, so sad… I liked it 😔 \n\nIf you liked the demo and want a full featured experience just like this, try The 7th Guest VR… Play is the same and there are way more than 3 rooms.",
+      "date": 1741795181,
+      "review_helpful_count": 39,
+      "author_display_name": "VR-JoeF",
+      "author_alias": "VR-JoeF",
+      "developer_response": null
+    },
+    {
+      "id": "665182803336381",
+      "score": 2,
+      "review_title": "Lack of direction",
+      "review_description": "When you finish a few puzzles in the first level you have no idea what to do next because the blocks don’t work for the puzzle they should no matter how many times you restart.",
+      "date": 1745254442,
+      "review_helpful_count": 3,
+      "author_display_name": "rufus.rens11",
+      "author_alias": "rufus.rens11",
+      "developer_response": null
+    },
+    {
+      "id": "643216065538777",
+      "score": 1,
+      "review_title": "Scam",
+      "review_description": "Paid for the game but only got free first level. How do I get my money back?",
+      "date": 1745438970,
+      "review_helpful_count": 5,
+      "author_display_name": "joeshanahan90.2024",
+      "author_alias": "joeshanahan90.2024",
+      "developer_response": null
+    },
+    {
+      "id": "519786704562338",
+      "score": 1,
+      "review_title": "A glitchy POS",
+      "review_description": "I downloaded this and it crashed my Metaquest 3 before even playing it necessitating a factory reset. That's what you get for free. Buy me dinner first. Boo.",
+      "date": 1741765697,
+      "review_helpful_count": 2,
+      "author_display_name": "Fancyman_Of_Cornwood",
+      "author_alias": "Fancyman_Of_Cornwood",
+      "developer_response": null
+    },
+    {
+      "id": "526702473856513",
+      "score": 2,
+      "review_title": "Where's the rest of the game?",
+      "review_description": "The entire game is only 3 rooms?! I bought the game and finished it in an hour. You spend three rooms collecting clues and building the story of what happened to the family. Then it just ends, and you get some vague epilogue message that doesn't even tell you what actually happened. It's like a show that got canceled mid-season. Will there be more rooms added later? Did the company run out of money to make levels? What the heck? Definitely not worth the money I paid for it.",
+      "date": 1735527013,
+      "review_helpful_count": 30,
+      "author_display_name": "ADixieLullaby5",
+      "author_alias": "ADixieLullaby5",
+      "developer_response": {
+        "body": "Thank you for your feedback. Currently, the game consists of only three rooms. We understand that this may feel short and understand your disappointment, but we hope you enjoyed the experience within those three rooms.",
+        "date": 1736221817
+      }
+    },
+    {
+      "id": "509953922209290",
+      "score": 5,
+      "review_title": "Was fun - not too hard, not too easy",
+      "review_description": "The issue I have with some “escape” games is they are way too hard. This one is right in the middle - which suits me fine. There ARE some common themes in each room and a creepy element as well.",
+      "date": 1737103247,
+      "review_helpful_count": 12,
+      "author_display_name": "GnoBneno",
+      "author_alias": "GnoBneno",
+      "developer_response": null
+    },
+    {
+      "id": "510961892104817",
+      "score": 3,
+      "review_title": "Great but Not long enough",
+      "review_description": "Played the demo and really enjoyed it so bought the “full” game, was genuinely disappointed it was only 3 levels. Could be a superb game if it had 5 or 6 levels oh and a much better closing to end it is needed. I didn’t realise the game had ended until I was back at the main menu again.",
+      "date": 1735706632,
+      "review_helpful_count": 18,
+      "author_display_name": "Evie3008",
+      "author_alias": "Evie3008",
+      "developer_response": {
+        "body": "Thank you for your feedback. Currently, the game consists of only three rooms, which is part of its design. We understand that this may feel short and understand your disappointment, but we hope you enjoyed the experience within those three rooms.",
+        "date": 1736221200
+      }
+    },
+    {
+      "id": "623740494148437",
+      "score": 4,
+      "review_title": "Great Demo 👍🏻",
+      "review_description": "Demo First part took me 28 minutes, I enjoyed 👍🏻",
+      "date": 1741431383,
+      "review_helpful_count": 2,
+      "author_display_name": "NeroZashi",
+      "author_alias": "NeroZashi",
+      "developer_response": null
+    },
+    {
+      "id": "2072956379824685",
+      "score": 1,
+      "review_title": "Terrible Terrible Game",
+      "review_description": "From the start this game gets it wrong \nThe overwhelmingly loud typewriter noise  To the Wind and bird sounds on a loop which is also overwhelming to loud \n\nIt’s only redeeming feature is it’s free",
+      "date": 1737729047,
+      "review_helpful_count": 3,
+      "author_display_name": "Martin76x",
+      "author_alias": "Martin76x",
+      "developer_response": null
+    },
+    {
+      "id": "609836914913727",
+      "score": 5,
+      "review_title": "Cool game",
+      "review_description": "Thought the demo was great! I actually figured it all out by myself! Took about an hour. Haven't purchased the full version yet. Thought the radio was really cool!",
+      "date": 1736685959,
+      "review_helpful_count": 4,
+      "author_display_name": "Rushe67",
+      "author_alias": "Rushe67",
+      "developer_response": null
+    },
+    {
+      "id": "553626114490288",
+      "score": 1,
+      "review_title": "Doesn't Work",
+      "review_description": "Bought the full version but level 1 not working. After the smoke, the wall with the self portrait & birthday goes black. No pictures, no clues. Nothing. \nIt looks like you guys did a modification to the game recently because the layout of the combination dials on the dresser are different then as shown in your advertisement trailer. \nI think the pictures have a glitch as well as the combination  dials. Not working.",
+      "date": 1734678570,
+      "review_helpful_count": 20,
+      "author_display_name": "Whamacha",
+      "author_alias": "Whamacha",
+      "developer_response": {
+        "body": "Thank you for your feedback, and we're sorry to hear that you're experiencing issues with the game. It sounds frustrating! We recommend trying to restart your device, as this can often resolve connectivity problems or glitches.\nIf the issue persists after restarting, please let us know, and we’ll do our best to assist you further. Your experience is important to us!",
+        "date": 1736220963
+      }
+    },
+    {
+      "id": "460364033837075",
+      "score": 1,
+      "review_title": "Bought but not working beyond level 1",
+      "review_description": "Don’t buy!! New to VR and was ripped off first purchase with this.Bought but not working beyond level 1.",
+      "date": 1735774861,
+      "review_helpful_count": 7,
+      "author_display_name": "CuriousPenguin5816",
+      "author_alias": "CuriousPenguin5816",
+      "developer_response": {
+        "body": "Hi, we understand your frustration, but we want to clarify that this is a free application and currently serves as a demo version of the game, which only includes the first level for players to experience.\nTo unlock the second level, you can participate in specific events or activities within the game. We appreciate your understanding, and if you have any further questions or need assistance, feel free to reach out!",
+        "date": 1736220523
+      }
+    },
+    {
+      "id": "473634579175784",
+      "score": 2,
+      "review_title": "Box code",
+      "review_description": "Couldn’t figure out how to get the code. I don’t have any idea what they spoke. I’m deaf and trying to read a caption but not clear.",
+      "date": 1735601924,
+      "review_helpful_count": 4,
+      "author_display_name": "Crazypoker58",
+      "author_alias": "Crazypoker58",
+      "developer_response": {
+        "body": "Thank you for your message! The code you’re looking for is part of our event, and participating in this event will allow you to unlock the second level.\nTo get the code directly, we invite you to join our Discord server, where we can assist you directly and provide the code you need. We’re here to help, so feel free to reach out!",
+        "date": 1736220690
+      }
+    },
+    {
+      "id": "503639156169993",
+      "score": 1,
+      "review_title": "COOKED GAME",
+      "review_description": "this game is burnt. ITS MORE BURNT THEN COOKED! ITS MORE BURNT THEN BURNT COULD BE! IT SUCKS! AS SOON AS I JOINED THE GAME, IT AUTOMATICALLY MADE ME LEAVE! AND NO MY META DID NOT DIE! THIS GAME SUCKS\n\n-By, Sky :)",
+      "date": 1735430223,
+      "review_helpful_count": 3,
+      "author_display_name": "CheerfulFalcon8264",
+      "author_alias": "CheerfulFalcon8264",
+      "developer_response": {
+        "body": "Thank you for your feedback, and we're sorry to hear that you're experiencing issues with the game. It sounds frustrating! We recommend trying to restart your device, as this can often resolve connectivity problems or glitches.\nIf the issue persists after restarting, please let us know, and we’ll do our best to assist you further. Your experience is important to us!",
+        "date": 1736220914
+      }
+    },
+    {
+      "id": "616297824260793",
+      "score": 1,
+      "review_title": "Escape",
+      "review_description": "Could not play after paying",
+      "date": 1734116660,
+      "review_helpful_count": 8,
+      "author_display_name": "Ivette24",
+      "author_alias": "Ivette24",
+      "developer_response": {
+        "body": "Thank you for your message! The full version of the game is called RoomEscape. To access the complete experience, you need to enter the full version of the game.\nIf you are still having issues after following these steps, please join our Discord server so we can assist you directly and help resolve any problems you may be facing. We're here to help!",
+        "date": 1736220986
+      }
+    },
+    {
+      "id": "529694443561181",
+      "score": 3,
+      "review_title": "Great game",
+      "review_description": "Upset it was only 3 levels. Would’ve rated higher if there were more levels.",
+      "date": 1736041813,
+      "review_helpful_count": 1,
+      "author_display_name": "Maddog70",
+      "author_alias": "Maddog70",
+      "developer_response": {
+        "body": "Thank you for your feedback. Currently, the game consists of only three rooms, which is part of its design. We understand that this may feel short and understand your disappointment, but we hope you enjoyed the experience within those three rooms.",
+        "date": 1736221825
+      }
+    },
+    {
+      "id": "451955711345614",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Bought the full version but it told me I didn't after completing chapter 1.",
+      "date": 1735511600,
+      "review_helpful_count": 1,
+      "author_display_name": "DildoSwagging69",
+      "author_alias": "DildoSwagging69",
+      "developer_response": {
+        "body": "Thank you for your message! The full version of the game is called RoomEscape. To access the complete experience, you need to enter the full version of the game.\nIf you are still having issues after following these steps, please join our Discord server so we can assist you directly and help resolve any problems you may be facing. We're here to help!",
+        "date": 1736220858
+      }
+    },
+    {
+      "id": "491931234011936",
+      "score": 1,
+      "review_title": "Not working",
+      "review_description": "Bought the full version and it won’t even let me start the game",
+      "date": 1735509497,
+      "review_helpful_count": 1,
+      "author_display_name": "Biz077347",
+      "author_alias": "Biz077347",
+      "developer_response": {
+        "body": "Thank you for your message! The full version of the game is called RoomEscape. To access the complete experience, you need to enter the full version of the game.\nIf you are still having issues after following these steps, please join our Discord server so we can assist you directly and help resolve any problems you may be facing. We're here to help!",
+        "date": 1736220865
+      }
+    },
+    {
+      "id": "513037491894573",
+      "score": 1,
+      "review_title": "Not working.",
+      "review_description": "Stops working after smoking statue",
+      "date": 1735809046,
+      "review_helpful_count": 1,
+      "author_display_name": "GoofyBarnOwl5685",
+      "author_alias": "GoofyBarnOwl5685",
+      "developer_response": {
+        "body": "Thank you for your message! Could you please provide more details about how the game stops working after the smoking statue? Are you encountering a specific error or issue?\nIf possible, you can also join our Discord server to communicate directly with us and get assistance. We’re here to help you resolve any problems you might be facing!",
+        "date": 1736219835
+      }
+    },
+    {
+      "id": "521922407514769",
+      "score": 3,
+      "review_title": "How",
+      "review_description": "I can't figure out how to use the controllers for this games. I can move the room around but I can move or grab anything.",
+      "date": 1733775521,
+      "review_helpful_count": 1,
+      "author_display_name": "Destiny0305",
+      "author_alias": "Destiny0305",
+      "developer_response": {
+        "body": "Hi, press the grab button on your joystick to grab items.",
+        "date": 1736221751
+      }
+    },
+    {
+      "id": "433925276479979",
+      "score": 2,
+      "review_title": "Change langue",
+      "review_description": "How can u change the langue in the game is starts with Chinese ?",
+      "date": 1732043107,
+      "review_helpful_count": 14,
+      "author_display_name": "NightMareVision",
+      "author_alias": "NightMareVision",
+      "developer_response": {
+        "body": "The language in the game, it automatically follows the language settings of your Oculus device. If your Oculus device is not set to Chinese, try restarting your headset to see if that improves the situation.\nIf you still encounter issues, please join our Discord so we can assist you directly!",
+        "date": 1736221158
+      }
+    },
+    {
+      "id": "573156328720235",
+      "score": 1,
+      "review_title": "Escape room goneman",
+      "review_description": "￼ I wish you didn’t put a Ouija board in it please don’t sell me a game like that ￼",
+      "date": 1729991813,
+      "review_helpful_count": 5,
+      "author_display_name": "trish196555",
+      "author_alias": "trish196555",
+      "developer_response": {
+        "body": "Thank you for your feedback! Please rest assured that our game adheres to strict age rating guidelines and does not promote any cult-like themes. Our goal is to create an engaging and entertaining experience for all players. We appreciate your input and hope you can enjoy the other aspects of the game :)",
+        "date": 1730343698
+      }
+    },
+    {
+      "id": "596209649580760",
+      "score": 1,
+      "review_title": "Nerve racking",
+      "review_description": "After playing the demo, I was excited and downloaded the app actual game. Within I’m going to say five minutes I had to the app for my headset. There was a very nerve-racking buzzing noise the entire game. I thought it was my headset at first, but I checked other games and there was no issue anywhere else. I don’t know what the issue is, but I could not play long enough to even give a fair rating on the game, cause I could not play it.",
+      "date": 1733629356,
+      "review_helpful_count": 16,
+      "author_display_name": "B1ue3yes",
+      "author_alias": "B1ue3yes",
+      "developer_response": {
+        "body": "Thank you for your feedback! We understand that background audio can be off-putting for some players. Currently, the best way to manage this issue is to lower the volume on your headset, which may help make the background sounds more tolerable while still allowing you to hear the game.",
+        "date": 1736221402
+      }
+    },
+    {
+      "id": "460073987158096",
+      "score": 5,
+      "review_title": "Nice app",
+      "review_description": "Nice app",
+      "date": 1733314610,
+      "review_helpful_count": 0,
+      "author_display_name": "sdesaimetA222",
+      "author_alias": "sdesaimetA222",
+      "developer_response": null
+    },
+    {
+      "id": "550935743958264",
+      "score": 2,
+      "review_title": "Enjoyed it more than expected.",
+      "review_description": "I went in with low expectations, and they stayed low as I couldn't read what was being said/ thought on-screen (I only have 1 eye and no peripheral vision in my working eye, so EVERYTHING that kept popping up in the middle of the screen and following my head instead of stayinghz1q2 in place was basically unreadable to me...).\nAlso, there is no reason snap turning and vignettes should be forced with no option to change them...\nAlso note that the looping environmental noises like the rain, the sound just keeps awkwardly looping. Like, it just eventually completely stops for a full second then starts again. This happens around every other minute or so and was a bit distracting...\n So with me unable to have any context at all or ability to witness the story (why couldn't there just be voice acting or AT LEAST text boxes that DON'T follow your head...), it was up to the puzzles by their selves  to grab & keep my attention.. \nLuckily, though it took a  few minutes- the puzzles and looking around the small room eventually turned out to be quite enjoyable. I loved looking around and putting all the little pieces together myself, even if a touch easy (no idea how I got an S rank on my first try. I felt I was stumbling around for a minute or two at first. 😅).\nSo though the unreadable (for me) text-only story may be lost to me, it does seems worth a purchase if the puzzles stay up to snuf. \nThough even for only $10, I'm still very hesitant to buy if it's ONLY going to get me 2 more 20-25 minute puzzle rooms. So I'll definitely have to think about it.\n\nDefinitely recommend for any escape room enthusiasts that don't mind paying $10 for what I assume is a very short less than 1 hour experience with some flaws.\n\nFor anyone else, this game has been out for over a year now and the developers seem either unwilling or unable to fix any of the said issues nor have they added ANYTHING beyond the 3 measly 10 to 25 minute (depending on your speed) little puzzle rooms...\n\nDevs, you're on to something as usual with your games, but smooth out the wrinkles and add to a game to make it worth the price for once! I can assure you that I and many others would love more than a demo of this title...",
+      "date": 1728415593,
+      "review_helpful_count": 9,
+      "author_display_name": "Teele891",
+      "author_alias": "Teele891",
+      "developer_response": {
+        "body": "While we understand your concerns about the current content and updates, we want to assure you that we value all player feedback as we move forward. Your support means a lot to us, and we hope you’ll continue to share your thoughts as we explore new opportunities in the future.",
+        "date": 1728618069
+      }
+    },
+    {
+      "id": "485106781198202",
+      "score": 4,
+      "review_title": "Not to shabby",
+      "review_description": "It was my first time playing an escape game. Totally enjoyed my experience. I would have given 5stars but I found some small annoyances. Small glitches here and there with movement.  I hope there will be more chapters added because I was actually stunned on how short the experience was. Should get a little more for the price. All in all it has some excellent potential.",
+      "date": 1729167582,
+      "review_helpful_count": 4,
+      "author_display_name": "nana.155293",
+      "author_alias": "nana.155293",
+      "developer_response": {
+        "body": "We appreciate your insights regarding the glitches and the length of the game.\nFor more detailed suggestions and to connect directly with our developers, we invite you to join our Discord community: https://discord.gg/2G6Mb6UC3v. Your input is valuable as we continue to improve the game.\nAlso, we wanted to let you know that our game is currently on sale for 50% off during the Fall Fright Sale! This could be a great opportunity to explore more chapters when they become available.",
+        "date": 1730343795
+      }
+    },
+    {
+      "id": "417645004775976",
+      "score": 2,
+      "review_title": "Language selection?",
+      "review_description": "The game launches in Chinese, so we cannot play. (Device language is Turkish)",
+      "date": 1730109486,
+      "review_helpful_count": 3,
+      "author_display_name": "umutkacar",
+      "author_alias": "umutkacar",
+      "developer_response": {
+        "body": "Thank you for reaching out! Our game supports the following languages: English, Chinese (China), French (France), German, Japanese, and Spanish (Spain). The game defaults to the language set in your headset. If your headset's language is not supported, it will automatically default to English.\nIn your case, it seems that the game should display in English. Please try restarting your device to see if that resolves the issue. If you continue to experience problems, feel free to let us know, and we’ll be happy to assist further in discord: https://discord.gg/2G6Mb6UC3v",
+        "date": 1730343592
+      }
+    },
+    {
+      "id": "373929569146826",
+      "score": 3,
+      "review_title": "Not Bad But It Needs Some Work",
+      "review_description": "Certain elements need better scaling, for instance when I look thru the window the tire swing looked larger than me. The texture resolution was not that great either. When I decided to return to the main menu I was teleported outside the map and looking up I was able to see in the distance the menu but everything was broken. Certain elements were a bit too dark to see and I was begging for a flashlight or a lighter just to see. Wouldn't be bad idea to have some notebook to write stuff in it. Overall the game has potential, indeed! It was fun experience!",
+      "date": 1727950405,
+      "review_helpful_count": 5,
+      "author_display_name": "TheMagicCauldronK",
+      "author_alias": "TheMagicCauldronK",
+      "developer_response": {
+        "body": "Hi TheMagicCauldronK, thank you for your detailed feedback! We appreciate your insights, as they help us improve the game.\nWe’re aware of the scaling issues and are actively working on optimizing textures and overall visuals. Your experience with the main menu teleportation is also noted, and we’ll investigate that further to ensure a smoother transition.",
+        "date": 1728617484
+      }
+    },
+    {
+      "id": "1087335559615575",
+      "score": 5,
+      "review_title": "Enjoyed BUT...",
+      "review_description": "I thoroughly enjoyed this demo of the first level and was contemplating buying the rest. Thought better of it after reading reviews which told me what I needed to know. Paying for three levels is a bit too much even if it is an enjoyable game. Hard pass from me.",
+      "date": 1730236830,
+      "review_helpful_count": 21,
+      "author_display_name": "Mobey561",
+      "author_alias": "Mobey561",
+      "developer_response": {
+        "body": "Thank you for your feedback! We're thrilled to hear that you enjoyed the demo of our game. We understand your concerns about the pricing, and we want to let you know that the game is currently on sale for 50% off during the Meta Fall Fright Sale. This might be a great opportunity for you to experience the full adventure at a more accessible price.",
+        "date": 1730343418
+      }
+    },
+    {
+      "id": "364822276723756",
+      "score": 5,
+      "review_title": "A Great Detective Adventure!",
+      "review_description": "I had a great time playing this game! The first-person view makes everything feel so real, like I was actually in the 1890s. The puzzles kept me guessing, and I loved how each clue led me deeper into the story. It’s such a cool mix of mystery and adventure! If you enjoy solving mysteries and getting lost in a story, this game is definitely worth a shot!",
+      "date": 1726047960,
+      "review_helpful_count": 18,
+      "author_display_name": "RoyaTNT",
+      "author_alias": "RoyaTNT",
+      "developer_response": {
+        "body": "Thank you for your wonderful review! We’re thrilled that the immersive experience and puzzles resonated with you. Your enthusiasm fuels our passion for creating engaging stories—stay tuned for more adventures ahead!",
+        "date": 1727692670
+      }
+    },
+    {
+      "id": "527700816309669",
+      "score": 5,
+      "review_title": "Room escape",
+      "review_description": "Ive bought room escape but can not unlock level 2 after ive done level 1 after purchase i need some help please",
+      "date": 1726603630,
+      "review_helpful_count": 7,
+      "author_display_name": "Donnakebabs",
+      "author_alias": "Donnakebabs",
+      "developer_response": {
+        "body": "Hi there! We're sorry to hear you're having trouble unlocking level 2 in Room Escape. To assist you better, could you please join us on our Discord server(https://discord.gg/2G6Mb6UC3v)? We’d love to gather more details and help you resolve this issue directly. Thank you for your understanding, and we look forward to assisting you!",
+        "date": 1727692770
+      }
+    },
+    {
+      "id": "510209865064082",
+      "score": 5,
+      "review_title": "Good Vibe not terrifying at all",
+      "review_description": "Just played the demo and loved it! 🔍 Perfect for anyone who loves detective games with a spooky twist. Can’t wait for the full version!",
+      "date": 1727056205,
+      "review_helpful_count": 1,
+      "author_display_name": "encoretan",
+      "author_alias": "encoretan",
+      "developer_response": {
+        "body": "We're so happy to hear you enjoyed the demo! 🎉 We aimed for a balance of intrigue and fun, and it’s great to know we hit the mark.",
+        "date": 1727692642
+      }
+    },
+    {
+      "id": "448547651675081",
+      "score": 5,
+      "review_title": "This was great",
+      "review_description": "I loved everything about the this game!",
+      "date": 1727360030,
+      "review_helpful_count": 1,
+      "author_display_name": "KotaGma2024",
+      "author_alias": "KotaGma2024",
+      "developer_response": {
+        "body": "Thank you so much for your kind words! We're thrilled to hear you loved the game. Your support means the world to us, and we can’t wait to bring you even more exciting content!",
+        "date": 1727692613
+      }
+    },
+    {
+      "id": "504638385284128",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "It’s a good game. Not overly complicated so far. Really considering getting the full game",
+      "date": 1722691623,
+      "review_helpful_count": 4,
+      "author_display_name": "hawks300",
+      "author_alias": "hawks300",
+      "developer_response": {
+        "body": "Thank you for your feedback! We're glad to hear you're enjoying the game and finding it just the right level of challenge. We think you’ll love the full version even more, so we hope you decide to dive in! Happy gaming! 🎮",
+        "date": 1727692883
+      }
+    },
+    {
+      "id": "367047969828704",
+      "score": 5,
+      "review_title": "Scary!",
+      "review_description": "I am a 36 yr old woman and it scared the piss outta me 😩.  Great game!!!",
+      "date": 1721952413,
+      "review_helpful_count": 7,
+      "author_display_name": "Aminah420",
+      "author_alias": "Aminah420",
+      "developer_response": {
+        "body": "Hi Aminah420, thank you so much for your feedback! We're thrilled to hear that our game managed to deliver such an intense and memorable experience for you. It's always rewarding to know that our hard work in creating a truly scary atmosphere has paid off:)",
+        "date": 1721964121
+      }
+    },
+    {
+      "id": "344100838786583",
+      "score": 4,
+      "review_title": "Love the game",
+      "review_description": "I love the game and it’s nice and I agree with the others that the rating need to be higher than 7 😅",
+      "date": 1718376767,
+      "review_helpful_count": 7,
+      "author_display_name": "SAA33557",
+      "author_alias": "SAA33557",
+      "developer_response": {
+        "body": "Thank you so much for your wonderful feedback! We're thrilled to hear that you're enjoying the game. 😊 Player feedback like yours is invaluable and motivates us to keep improving and creating even better experiences.\nThank you again for your support. We hope you continue to enjoy the game, and we look forward to bringing you more exciting content in the future!",
+        "date": 1719457284
+      }
+    },
+    {
+      "id": "246555475204898",
+      "score": 3,
+      "review_title": "Good but age rating needs to be higher.",
+      "review_description": "Played this alongside my 10 year old daughter. Good fun, good puzzles until the part with the smoke. Im glad it was myself on it at this part, with the images in the pictures also with the ouiji board, have ended up deleting it, it should definitely be 12 plus.",
+      "date": 1708295094,
+      "review_helpful_count": 21,
+      "author_display_name": "Avabar",
+      "author_alias": "Avabar",
+      "developer_response": {
+        "body": "Thank you for sharing your thoughts! We appreciate your feedback regarding the age rating. Our game is currently rated for ages 13 and up, as we aim to ensure a suitable experience for all players. We take your concerns seriously and will continue to evaluate our content. Thank you for playing, and we hope you find future adventures more enjoyable!",
+        "date": 1727693146
+      }
+    },
+    {
+      "id": "1585457632323670",
+      "score": 2,
+      "review_title": "Natural Turning is Broken",
+      "review_description": "Like another Suplife game this is advertised as supporting roomscale which it doesn’t. If you play in roomscale and turn with your feet, when you push the stick to walk forward you drift to the side first before moving forward. This is immersion breaking, can induce motion sickness, and can interfere with navigation.\n\nSuplife should not list roomscale, or even standing support, unless the game functions properly with natural turning. This is a requirement in the Meta developer documentation. If a game requires artificial turning to function properly it should only list seated support.\n\nA horror game from Suplife had the same issue. I know they planned to address the problem for that game. Hopefully they’ll eventually apply the fix to this game as well.\n\nIt’s a real shame. The atmosphere is interesting and the art direction is above average, but it’s not playable for me since I don’t use artificial turning.\n\nI wish they would properly test their games in standing and roomscale. They have great potential, but only for people who play VR in a more sedentary manner.",
+      "date": 1728758812,
+      "review_helpful_count": 3,
+      "author_display_name": "Jioxx",
+      "author_alias": "Jioxx",
+      "developer_response": {
+        "body": "Thank you for your detailed feedback! We appreciate your insights regarding the natural turning issue in our game. We will certainly take your suggestions into account and make the necessary adjustments to improve the experience.",
+        "date": 1730343999
+      }
+    },
+    {
+      "id": "1011183627439449",
+      "score": 3,
+      "review_title": "Sound is awful",
+      "review_description": "I played chapter one and bought the game as it was a good game. The demo had constant loud crackling noise which I thought would go away once I paid to get the full version. It didn’t and the full version is extremely annoying to play with a constant loud crackling. How do I cut this out but have volume on my headset so I can hear the game ??",
+      "date": 1732668310,
+      "review_helpful_count": 14,
+      "author_display_name": "Sharm2",
+      "author_alias": "Sharm2",
+      "developer_response": {
+        "body": "Thank you for your feedback! We understand that background audio can be off-putting for some players. Currently, the best way to manage this issue is to lower the volume on your headset, which may help make the background sounds more tolerable while still allowing you to hear the game.",
+        "date": 1736221072
+      }
+    },
+    {
+      "id": "889360843146250",
+      "score": 5,
+      "review_title": "Just the right amount of creepiness",
+      "review_description": "Played the demo and enjoyed the puzzles, the game was a little bit creepy (after the smoke from the witch toy) but still enjoyable.\nIf you enjoy games like The 7th guest and The room then you will enjoy this game.\nI am considering purchasing the full game soon.",
+      "date": 1728478469,
+      "review_helpful_count": 1,
+      "author_display_name": "NightOwl03",
+      "author_alias": "NightOwl03",
+      "developer_response": {
+        "body": "Thank you for your kind words! We're delighted to hear that you enjoyed the demo and found the puzzles engaging. We appreciate your feedback regarding the creepiness factor, and we're glad it added to your experience.\nWe also want to let you know that our game is currently on sale at 50% off during the Fall Fright Sale. This could be a great opportunity for you to dive into the full game! Happy gaming!",
+        "date": 1730343846
+      }
+    },
+    {
+      "id": "472727885396178",
+      "score": 3,
+      "review_title": "No way to buy the game",
+      "review_description": "Great game but I have found no way to buy next level they say go to the website I have can’t find how to get the level hopefully they will update the website so we can get the levels because it’s a good game.",
+      "date": 1722139634,
+      "review_helpful_count": 11,
+      "author_display_name": "jwolf88",
+      "author_alias": "jwolf88",
+      "developer_response": {
+        "body": "Thank you for your feedback! You can purchase the next level directly here at https://www.meta.com/en-gb/experiences/8790343097672718 or just search for \"Room Escape,\" and you'll find the full version available for purchase. We appreciate your support and hope you enjoy the game!",
+        "date": 1727692997
+      }
+    }
+  ],
+  "total": 53,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-21T06:19:14Z"
+}

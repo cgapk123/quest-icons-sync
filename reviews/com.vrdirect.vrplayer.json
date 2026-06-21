@@ -1,0 +1,31 @@
+{
+  "app_id": "4610144752363162",
+  "package_name": "com.vrdirect.vrplayer",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "VRdirect",
+  "rating_average": 4.5,
+  "rating_count": 6,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1055115259700526",
+      "score": 2,
+      "review_title": "Terrible video quality",
+      "review_description": "The creator experience was decently good, you can make VR apps pretty easily either with 360 video or 360 images and pair that with clickable icons, images, videos and audio files. However, the quality of the 360 video is far below acceptable. It looks 144p it's so bit-crunched. I tested with an 8k 360 30fps video, and it crunched it from 900MB down to 40MB and it's basically unusable quality. Not really usable for my purposes.",
+      "date": 1733872499,
+      "review_helpful_count": 1,
+      "author_display_name": "graeme.a.judkins",
+      "author_alias": "graeme.a.judkins",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T06:26:00Z"
+}

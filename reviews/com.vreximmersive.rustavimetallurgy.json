@@ -1,0 +1,42 @@
+{
+  "app_id": "4435466853216611",
+  "package_name": "com.vreximmersive.rustavimetallurgy",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Rustavi Metallurgical Plant",
+  "rating_average": 2.7142857142857,
+  "rating_count": 7,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1519635179607785",
+      "score": 3,
+      "review_title": "Interesting viewing for metallurgists",
+      "review_description": "As a former metallurgist, I found these three short 360º videos quite interesting. Video quality is not bad, but the interface is rather dated.",
+      "date": 1768131496,
+      "review_helpful_count": 1,
+      "author_display_name": "steve_40",
+      "author_alias": "steve_40",
+      "developer_response": null
+    },
+    {
+      "id": "3193556357451955",
+      "score": 3,
+      "review_title": "An old Go Video program?",
+      "review_description": "This is where they manufacture the rust.",
+      "date": 1743387953,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T06:27:48Z"
+}

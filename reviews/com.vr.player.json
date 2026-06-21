@@ -1,0 +1,34 @@
+{
+  "app_id": "27125292497071147",
+  "package_name": "com.vr.player",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Vertex VR Video Player",
+  "rating_average": 4.2727272727273,
+  "rating_count": 11,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1125996980596573",
+      "score": 5,
+      "review_title": "Wow",
+      "review_description": "Very nice vr player,awesome image quality,very immersive movie quality,but now I don't know why picture quality becomes very bad 😞",
+      "date": 1778499745,
+      "review_helpful_count": 1,
+      "author_display_name": "service2996",
+      "author_alias": "service2996",
+      "developer_response": {
+        "body": "Are You using Quest 2 or Quest3?\nCan You tell us more about the issue?\nIt might be related to high refresh rate we foreced in last update. Have you tried changing it back to 72 hz in settings?\nPlease tell us more about the issue, on our device the player works well.\n\nedit2:\nAlmost all video enhance settings are off by default now as some of them make low quality videos look even worse. Update the app to the newest version and please let us know If the problem is resolved for You.",
+        "date": 1778542938
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T06:22:19Z"
+}
