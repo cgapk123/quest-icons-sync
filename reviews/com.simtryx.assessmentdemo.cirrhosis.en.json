@@ -1,0 +1,89 @@
+{
+  "app_id": "7780703355298055",
+  "package_name": "com.simtryx.assessmentdemo.cirrhosis.en",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Simtryx",
+  "rating_average": 4.3846153846154,
+  "rating_count": 13,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "597343560131761",
+      "score": 5,
+      "review_title": "Like it, it is interesting",
+      "review_description": "I found it to be quite entertaining, I couldnt save the patient but I like the fact that there are a lot of things to do.",
+      "date": 1744219241,
+      "review_helpful_count": 1,
+      "author_display_name": "VaneT18",
+      "author_alias": "VaneT18",
+      "developer_response": null
+    },
+    {
+      "id": "657813374071935",
+      "score": 5,
+      "review_title": "Want perfect score",
+      "review_description": "I have to play a lot more to get a perfect score but it is quite good.",
+      "date": 1744231945,
+      "review_helpful_count": 0,
+      "author_display_name": "AleGuz94",
+      "author_alias": "AleGuz94",
+      "developer_response": null
+    },
+    {
+      "id": "546320568575920",
+      "score": 5,
+      "review_title": "Variety of tests",
+      "review_description": "The part I am the most impressed by is the tests that you can choose from.",
+      "date": 1744229019,
+      "review_helpful_count": 0,
+      "author_display_name": "Lourdes93",
+      "author_alias": "Lourdes93",
+      "developer_response": null
+    },
+    {
+      "id": "501371719399593",
+      "score": 5,
+      "review_title": "Awesome!",
+      "review_description": "I can touch the patient with my hands and see how he reacts. Voice interaction is also very good; it responds according to my questions.",
+      "date": 1727711259,
+      "review_helpful_count": 1,
+      "author_display_name": "FrancoACTMeta",
+      "author_alias": "FrancoACTMeta",
+      "developer_response": null
+    },
+    {
+      "id": "2421794811496971",
+      "score": 1,
+      "review_title": "Doesn't work",
+      "review_description": "Does not detect the hands/controllers. Doesn't work.\n\nUpdate: I got the hands to work but can not create an account. The website doesn't even exist.",
+      "date": 1727761222,
+      "review_helpful_count": 1,
+      "author_display_name": "julezeve",
+      "author_alias": "julezeve",
+      "developer_response": {
+        "body": "\"Hi! Our app is designed to use hand tracking instead of controllers to provide a more immersive experience. Please ensure that hand tracking is enabled on your headset and start the app with this feature active. If you continue to have issues, feel free to reach out to us, and we'd be happy to help. Let us know how it goes!\"",
+        "date": 1727712640
+      }
+    },
+    {
+      "id": "1083091126668038",
+      "score": 5,
+      "review_title": "Its talks!",
+      "review_description": "I can use my own hands, talk to the npc an use different objects easily",
+      "date": 1727712184,
+      "review_helpful_count": 1,
+      "author_display_name": "Bbt636",
+      "author_alias": "Bbt636",
+      "developer_response": null
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T00:09:14Z"
+}

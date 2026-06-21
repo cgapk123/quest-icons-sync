@@ -1,0 +1,48 @@
+{
+  "app_id": "32860960246851739",
+  "package_name": "com.simplito.metahorizonnotifications",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Wild NotificationsVR",
+  "rating_average": 2.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "27044736015216338",
+      "score": 1,
+      "review_title": "I also cant get it to work",
+      "review_description": "Not letting me connect. Have app on phone and on quest 3s. Bubkis.",
+      "date": 1778990625,
+      "review_helpful_count": 0,
+      "author_display_name": "Lindsayzoo",
+      "author_alias": "Lindsayzoo",
+      "developer_response": {
+        "body": "Hi,\n\nPlease make sure that your subscription is active (the first 7 days are free), as the app requires an active subscription to function properly.\n\nIf the subscription is already active, please check the following steps:\n• Install the app on both your Android phone and Meta Quest\n• Connect the phone and Quest through Bluetooth\n• Make sure the Quest headset appears in the Android app device list\n• After selecting the device, confirm that the pairing process completed successfully\n\nIf you still have issues, feel free to join our Discord (link in the app description). I’ll be happy to help you troubleshoot and get everything working properly 🙂",
+        "date": 1779114809
+      }
+    },
+    {
+      "id": "1141224089063350",
+      "score": 1,
+      "review_title": "Won't work",
+      "review_description": "I can't get this to work. No matter what, connecting my S24 to the Quest 3 just doesn't work.",
+      "date": 1775764704,
+      "review_helpful_count": 1,
+      "author_display_name": "QEMurdoch",
+      "author_alias": "QEMurdoch",
+      "developer_response": {
+        "body": "That’s strange - it should definitely work! Have you installed the appropriate application on your phone (link to it is in the description)? Could you join our Discord? We’ll try to help you troubleshoot and fix the issue there.",
+        "date": 1776442932
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T00:09:02Z"
+}

@@ -1,0 +1,42 @@
+{
+  "app_id": "6178765945577584",
+  "package_name": "com.shop.projectportal.ar",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Portal",
+  "rating_average": 2.6666666666667,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "899369803263309",
+      "score": 1,
+      "review_title": "Boring",
+      "review_description": "It will not let me play",
+      "date": 1765893642,
+      "review_helpful_count": 2,
+      "author_display_name": "lukas.110230",
+      "author_alias": "lukas.110230",
+      "developer_response": null
+    },
+    {
+      "id": "643477038844750",
+      "score": 1,
+      "review_title": "I can’t delete it",
+      "review_description": "Whenever I try to delete it, it won’t get deleted it keeps going on like I just want to delete it from my headset",
+      "date": 1743885345,
+      "review_helpful_count": 17,
+      "author_display_name": "Orion.drifter",
+      "author_alias": "Orion.drifter",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T00:03:26Z"
+}

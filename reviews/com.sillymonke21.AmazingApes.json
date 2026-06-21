@@ -1,0 +1,53 @@
+{
+  "app_id": "6400138936691995",
+  "package_name": "com.sillymonke21.AmazingApes",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Amazing Apes",
+  "rating_average": 5,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "447567854461976",
+      "score": 5,
+      "review_title": "Maxes review",
+      "review_description": "The game’s profile looks fake but it’s not and it’s gorilla tag but with mods and everyone is nice and the menu is awesome",
+      "date": 1712968625,
+      "review_helpful_count": 1,
+      "author_display_name": "maxmeyerskeesha",
+      "author_alias": "maxmeyerskeesha",
+      "developer_response": null
+    },
+    {
+      "id": "325118287138928",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Good game",
+      "date": 1701046598,
+      "review_helpful_count": 0,
+      "author_display_name": "jimvr764",
+      "author_alias": "jimvr764",
+      "developer_response": null
+    },
+    {
+      "id": "237228912464984",
+      "score": 5,
+      "review_title": "Ahhhh",
+      "review_description": "Goofy banana",
+      "date": 1689150192,
+      "review_helpful_count": 3,
+      "author_display_name": "secmerrs",
+      "author_alias": "secmerrs",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T00:07:35Z"
+}

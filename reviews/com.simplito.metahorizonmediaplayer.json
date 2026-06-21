@@ -1,0 +1,56 @@
+{
+  "app_id": "25644060618568307",
+  "package_name": "com.simplito.metahorizonmediaplayer",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Wild Media Player VR",
+  "rating_average": 4,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "947837175086937",
+      "score": 5,
+      "review_title": "simple and useful",
+      "review_description": "I like this tool!",
+      "date": 1770919895,
+      "review_helpful_count": 5,
+      "author_display_name": "looveloock",
+      "author_alias": "looveloock",
+      "developer_response": null
+    },
+    {
+      "id": "34475759928705922",
+      "score": 4,
+      "review_title": "Don't know yet",
+      "review_description": "Can i play3d movies?",
+      "date": 1774548368,
+      "review_helpful_count": 0,
+      "author_display_name": "pitotheHawk",
+      "author_alias": "pitotheHawk",
+      "developer_response": {
+        "body": "At the moment, the app doesn’t support 3D movies. However, we’re not ruling it out - it’s something we may add in the future.",
+        "date": 1776672751
+      }
+    },
+    {
+      "id": "1455469462751795",
+      "score": 5,
+      "review_title": "Works well",
+      "review_description": "Just fine and simple app",
+      "date": 1770922168,
+      "review_helpful_count": 3,
+      "author_display_name": "Freeqy",
+      "author_alias": "Freeqy",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T00:08:54Z"
+}

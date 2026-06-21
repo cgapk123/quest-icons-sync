@@ -1,0 +1,67 @@
+{
+  "app_id": "6947618208698222",
+  "package_name": "com.simpledronetrainer",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Simple Drone Practice",
+  "rating_average": 3.1666666666667,
+  "rating_count": 6,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1624381188723282",
+      "score": 1,
+      "review_title": "Cannot start it!",
+      "review_description": "How do you actually use it? I cannot get it even yo start! I can only operate the lever below the controller. How do you press thw buttons on the controller? And the controller shows up in front between me and the drone. Some instruction video of cheat sheet would be useful. At the moment I cannot use it at all.",
+      "date": 1763228229,
+      "review_helpful_count": 0,
+      "author_display_name": "stephan.deklerk",
+      "author_alias": "stephan.deklerk",
+      "developer_response": null
+    },
+    {
+      "id": "791110590104695",
+      "score": 5,
+      "review_title": "good game",
+      "review_description": "great game simple controls however your cooked if you have stick drift",
+      "date": 1756248595,
+      "review_helpful_count": 0,
+      "author_display_name": "blob_fishes",
+      "author_alias": "blob_fishes",
+      "developer_response": null
+    },
+    {
+      "id": "3612260645751693",
+      "score": 3,
+      "review_title": "A decent start",
+      "review_description": "At the moment it's serviceable. Controls are either super twitchy or pretty slow and unresponsive. Definitely needs some tweaking to be able to fly properly. What's here is decent though. It's super cheap so I'm happy to keep the app in the hope things are smoothed out. Would love a proper RC plane/heli VR app so hopefully this gives someone inspiration.",
+      "date": 1709940561,
+      "review_helpful_count": 6,
+      "author_display_name": "Krammis76",
+      "author_alias": "Krammis76",
+      "developer_response": {
+        "body": "Update: A new lever has been added and hopefully addresses this issue!\n-\n-\nI was wondering what the \"goldilocks\" zone would be for the Dual Rate buttons as subtle and whipping movements are closer to how one would fly a FPV drone. \n\nI'll get on adding a \"user preference\" menu to tweak the dual rate throttle amount and a few other settings.",
+        "date": 1713637563
+      }
+    },
+    {
+      "id": "456935793534795",
+      "score": 5,
+      "review_title": "Best FPV simulator",
+      "review_description": "Im a fpv Pilot and this FPV simulator is the best FPV simulator Ive tried so far. It has amazing graphics and is really realistic. It is perfect for people that wanna get into FPV. The Creator of this Simulator probably spend hours into this Masterpiece and its only a Dollar!",
+      "date": 1715523085,
+      "review_helpful_count": 3,
+      "author_display_name": "Taysbanane",
+      "author_alias": "Taysbanane",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T00:08:34Z"
+}
