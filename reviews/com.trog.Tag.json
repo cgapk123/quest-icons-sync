@@ -1,0 +1,42 @@
+{
+  "app_id": "27593266663608467",
+  "package_name": "com.trog.Tag",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "trog tag",
+  "rating_average": 4,
+  "rating_count": 8,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1074151145783272",
+      "score": 5,
+      "review_title": "Best game",
+      "review_description": "This game is super dadas I love this game",
+      "date": 1777219323,
+      "review_helpful_count": 3,
+      "author_display_name": "mabik01",
+      "author_alias": "mabik01",
+      "developer_response": null
+    },
+    {
+      "id": "955908900667805",
+      "score": 5,
+      "review_title": "Tuff",
+      "review_description": "Dishes",
+      "date": 1777868769,
+      "review_helpful_count": 0,
+      "author_display_name": "MP5sigma",
+      "author_alias": "MP5sigma",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T03:44:09Z"
+}

@@ -1,0 +1,106 @@
+{
+  "app_id": "24080849371549746",
+  "package_name": "com.twinkle.quest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Twinkle Video Player",
+  "rating_average": 4.2857142857143,
+  "rating_count": 21,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "1239211245932082",
+      "score": 5,
+      "review_title": "Easy to use",
+      "review_description": "HDR player, even SBS 8K. But lack spatial video support",
+      "date": 1781238492,
+      "review_helpful_count": 0,
+      "author_display_name": "Abdias980",
+      "author_alias": "Abdias980",
+      "developer_response": null
+    },
+    {
+      "id": "1017066348164139",
+      "score": 5,
+      "review_title": "Review on USB streaming",
+      "review_description": "The twinkle player app is absolutely useful it has a perfect use case and real time streaming , with help of usb this has been very helpful for me !",
+      "date": 1774861255,
+      "review_helpful_count": 1,
+      "author_display_name": "LEO2774",
+      "author_alias": "LEO2774",
+      "developer_response": null
+    },
+    {
+      "id": "1671084347455851",
+      "score": 4,
+      "review_title": "Good",
+      "review_description": "Try it",
+      "date": 1781614702,
+      "review_helpful_count": 0,
+      "author_display_name": "claudiazawa",
+      "author_alias": "claudiazawa",
+      "developer_response": null
+    },
+    {
+      "id": "916844391008378",
+      "score": 5,
+      "review_title": "Simple and Surprisingly Handy",
+      "review_description": "Twinkle VR Player is clean, easy to use, and works smoothly right out of the box. The standout feature is the STMap function—it’s incredibly helpful for VR camera DIYers who need quick and flexible lens or projection fixes.\n\nOverall, it’s a lightweight player that keeps things simple while still offering a tool that’s genuinely useful for creators.",
+      "date": 1765169069,
+      "review_helpful_count": 2,
+      "author_display_name": "yikaili",
+      "author_alias": "yikaili",
+      "developer_response": null
+    },
+    {
+      "id": "844391914601602",
+      "score": 5,
+      "review_title": "Best Video Player I've Ever Used",
+      "review_description": "This is the only video player I've found that supports both NDI and STMap, and it's completely free! The performance is excellent, smooth playback, great compatibility, and an intuitive interface. It handles professional formats effortlessly, yet remains super easy to use. Truly an amazing app for both creators and everyday users!",
+      "date": 1761140670,
+      "review_helpful_count": 4,
+      "author_display_name": "yhmagicool",
+      "author_alias": "yhmagicool",
+      "developer_response": {
+        "body": "I'm thrilled to hear you're enjoying the STMap feature and appreciate your kind words! Thank you for the wonderful review.",
+        "date": 1762413093
+      }
+    },
+    {
+      "id": "844439568421725",
+      "score": 1,
+      "review_title": "Didn't  find it useful",
+      "review_description": "Installed  , but didn't  find it useful for Oculus2",
+      "date": 1767886569,
+      "review_helpful_count": 1,
+      "author_display_name": "sreekumaru.kp",
+      "author_alias": "sreekumaru.kp",
+      "developer_response": {
+        "body": "Hi, sorry for the bad experience. \nJust to clarify: this app is specifically designed to wirelessly stream NDI video from your PC or VR cameras to your Quest 2.\nIf you are having trouble connecting sources, please check the official website for my Discord or Email. I am more than happy to help you get it set up!",
+        "date": 1767966580
+      }
+    },
+    {
+      "id": "1364276185234242",
+      "score": 5,
+      "review_title": "Best VR 360/180 video player!!",
+      "review_description": "Support most spatial audio formats & many advanced features!",
+      "date": 1761704345,
+      "review_helpful_count": 0,
+      "author_display_name": "jack_CHH",
+      "author_alias": "jack_CHH",
+      "developer_response": {
+        "body": "Awesome! Thanks for the great feedback! So glad you're enjoying the VR player.",
+        "date": 1761707013
+      }
+    }
+  ],
+  "total": 7,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T03:51:48Z"
+}

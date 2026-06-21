@@ -1,0 +1,45 @@
+{
+  "app_id": "8206176152781629",
+  "package_name": "com.triptychtechnologies.eduventure",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Eduventure",
+  "rating_average": 5,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "588842500987631",
+      "score": 5,
+      "review_title": "Awesome Product",
+      "review_description": "This app has a great potential VR e- learning experience",
+      "date": 1744225248,
+      "review_helpful_count": 2,
+      "author_display_name": "EzioAuditoredaIndia",
+      "author_alias": "EzioAuditoredaIndia",
+      "developer_response": null
+    },
+    {
+      "id": "615482848317313",
+      "score": 5,
+      "review_title": "Nicee",
+      "review_description": "I like the solar system module..\nWill there be any upcoming module ?",
+      "date": 1744227535,
+      "review_helpful_count": 1,
+      "author_display_name": "alok_chandra",
+      "author_alias": "alok_chandra",
+      "developer_response": {
+        "body": "Thank you for your positive feedback! We’re thrilled to hear you’re enjoying the Solar System module. 🚀\n\nYes, we do have exciting new modules in development! Stay tuned for updates—we’ll be sharing more details soon. If you have any specific topics or features you’d like to see, feel free to let us know.\n\nWe appreciate your support!",
+        "date": 1744227940
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T03:43:46Z"
+}

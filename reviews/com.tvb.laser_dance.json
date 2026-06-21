@@ -1,0 +1,969 @@
+{
+  "app_id": "7209598115800315",
+  "package_name": "com.tvb.laser_dance",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Laser Dance",
+  "rating_average": 4.63671875,
+  "rating_count": 256,
+  "review_count": 143,
+  "reviews": [
+    {
+      "id": "1102686742936016",
+      "score": 5,
+      "review_title": "Very good game",
+      "review_description": "this game was a lot of fun to play with my family but we beat all levels pretty fast, the campaign kinda feels like the tutorial level because they aren’t that hard. hopefully they have harder levels when the full game releases but it is a fun game to play with family and i’m gonna bring it to Christmas to play with all my family. also would be better with full body tracking and when playing try to pretend to have you legs count because it makes for a better experience.",
+      "date": 1781401597,
+      "review_helpful_count": 2,
+      "author_display_name": "unknownyt910",
+      "author_alias": "unknownyt910",
+      "developer_response": null
+    },
+    {
+      "id": "1506130011089917",
+      "score": 4,
+      "review_title": "it doesn't work!",
+      "review_description": "Ever since I set up Roomscale, I keep getting the message ‘An unknown error’.\nNo matter what I try or do, it just won’t work.\n\nBUT at the start (only the first time), it worked and I was able to do a test run. That was definitely fun.\n\nAfter two weeks, I had to carry out a Quest update yesterday.\nNow it no longer works and I can’t get a refund, as two weeks have already passed.\n\nMeta is getting worse and worse...🙄\n\nUpdate,\nthanks for your message. I know you’re doing your best, and it’s not easy to fix all the issues quickly. And Meta isn’t exactly making things any easier with all these constantly new (completely useless) features and the mandatory internet connection.",
+      "date": 1776462810,
+      "review_helpful_count": 14,
+      "author_display_name": "DiDi1369",
+      "author_alias": "DiDi1369",
+      "developer_response": {
+        "body": "Update:\nThanks for your reply! Just to make sure, did the steps I outlined below work at all? If not, feel free to reach out at the email below and happy to further look into this to try and resolve it!\n\nHey Didi1369 - sorry to hear you're having issues! \n\nIt does seem to happen for some folks that room scanning breaks in a bad way, throwing an error each time a game requests the data from Quest. I wish this was more stable, but as it's a Meta system I can't do much about it. \n\nHowever, here's something you can try to remedy the issue for now:\n1. Open the Meta Quest settings menu\n2. Go to privacy & safety > device permissions > spatial data. \n3. There, delete enhanced spatial data, and clear the scan history.\n4. Now launch the game again and see if it launches you correctly into the room scanning workflow\n\nLet me know if that helps! If not, please feel free to reach out to me directly at thomas@laserdancegame.com (or on discord: laserdancegame.com/discord) and I'll be happy to personally try and help you further!",
+        "date": 1776757673
+      }
+    },
+    {
+      "id": "1027152930492389",
+      "score": 4,
+      "review_title": "Autism",
+      "review_description": "Okay only issue the button went into my wall had to reset it but lovely game also I want to see how looked to others it must have been funny seeing me dodging invisible lasers to them \n\nUpdate new issue: so I try to set up the second button and it says something blocking the bottom of it and not cleared even though it is cleared can’t play it anymore sadly",
+      "date": 1777641413,
+      "review_helpful_count": 1,
+      "author_display_name": "Reddragon4977",
+      "author_alias": "Reddragon4977",
+      "developer_response": {
+        "body": "Hey Reddragon4977, thank you for your review, and sorry to hear you're having that issue. \nFrom your second issue, it sounds like maybe your roomscan doesn't quite match up with your room anymore. If you get a chance, I'd open up the Quest's settings,  go to \"environment setup\" > \"space setup\", clear spaces and then re-scan your space. \n\nLet me know if that helps, and if not, happy to help you further personally by email (thomas@laserdancegame.com) or on discord (laserdancegame.com/discord)",
+        "date": 1777657727
+      }
+    },
+    {
+      "id": "1059364107260861",
+      "score": 5,
+      "review_title": "Super fun",
+      "review_description": "Really fun starts off pretty easy progressively gets harder and you gotta plan out your route a bit better and then after about 15 minutes you’re sweating and wake up the next day like what did I do my whole body sore?",
+      "date": 1775078952,
+      "review_helpful_count": 7,
+      "author_display_name": "RexBanner11",
+      "author_alias": "RexBanner11",
+      "developer_response": null
+    },
+    {
+      "id": "2373889486402138",
+      "score": 5,
+      "review_title": "What Mixed Reality was made for!",
+      "review_description": "Laser Dance is the perfect example of what mixed reality games should be. It is one of the few MR games that truly utilizes the players space. It’s a ton of fun to avoid lasers and embody your favorite spy film. The level of care and polish put into the game is on another level. Bravo to the developer!",
+      "date": 1762454092,
+      "review_helpful_count": 270,
+      "author_display_name": "KilledbyToaster",
+      "author_alias": "KilledbyToaster",
+      "developer_response": null
+    },
+    {
+      "id": "25850599564560123",
+      "score": 5,
+      "review_title": "A Great MR Experience",
+      "review_description": "First, I love the visuals! You can tell this game was made with love! As a long-time fan of Cubism, I've been waiting anxiously to play this and it doesn't disappoint. Every time I press the Start Level button I'm excited to see how the lasers will redefine my space. From a winding path that feels like a trail in the forest, to a grid that has me crawling... I'm writing this a little winded and sweaty :) Also, love the \"electric\" sound as you get close to the lasers - a nice touch. Definitely recommend.",
+      "date": 1769630513,
+      "review_helpful_count": 4,
+      "author_display_name": "granthnk",
+      "author_alias": "granthnk",
+      "developer_response": null
+    },
+    {
+      "id": "1568972707765649",
+      "score": 3,
+      "review_title": "Great and flawed",
+      "review_description": "This is a fantastic game BUT once you realise that your legs can hit the lasers without activating the alarm you can simply walk through most levels. It’s still loads of fun but that spoils the challenge.",
+      "date": 1769255018,
+      "review_helpful_count": 5,
+      "author_display_name": "D4v1DF",
+      "author_alias": "D4v1DF",
+      "developer_response": {
+        "body": "Hey D4v1DF, thank you for your honest review. \n\nSadly the Quest 3 is indeed not technically capable of tracking legs at this moment. I did try to design most of the levels to still be engaging even if you ignore your legs, but playtesting did show that it was difficult to balance between making the game challenging enough for folks who play taking just the hitboxes into account, and not too challenging for folks who try and play with their full body. \n\nStill, if you find the game too easy for now, there's two things you can try: firstly you can reduce your width and crawl height in the accessibility settings, as this will make most levels tighter. Secondly, you could try some of the challenges, as some of them like the Timed and Spin Overlay challenge will make levels more difficult to complete.\n\nIf you have other feedback, feel free to come share it in our discord (laserdancegame.com/discord) Hope you enjoy the rest of the game!",
+        "date": 1769278744
+      }
+    },
+    {
+      "id": "1141793099018496",
+      "score": 2,
+      "review_title": "Not letting me play",
+      "review_description": "I purchased the game but it will not pop up on my VR and it won’t let me hit play on my phone there is no option to play so I basically purchased a non-playable game.",
+      "date": 1780611077,
+      "review_helpful_count": 0,
+      "author_display_name": "oconnor21077",
+      "author_alias": "oconnor21077",
+      "developer_response": {
+        "body": "Hey oconnor21077, sorry to hear you're having trouble launching the game. This sounds like the Meta store is having issues for you, so I'd recommend reaching out to Meta support to see if they can help solve the problem! (www.meta.com/help/quest/)",
+        "date": 1780647771
+      }
+    },
+    {
+      "id": "3188114328038111",
+      "score": 5,
+      "review_title": "Setting The MR New Standard",
+      "review_description": "Honest opinion,\n\nHaving been part of the playtest and now the games official launch, I can say without a doubt in my mind, this is the greatest way to experience mixed reality to date . This game absolutely tests your limits, having to duck, dodge and weave your way through lasers in your own space it is probably one of the best workouts you can get on the Meta quest store right now. Aside from a few stutters in my gameplay (probably because I was also recording it)  the game runs perfectly. It creates a sense of immersion like no other, especially since you do not even need controllers for it. I would intend to play the game for 15 minutes and end up playing the game for over an hour losing track of time.\n\n￼ the $10 price tag is justified with the amount of levels and additional challenges they provide. I am extremely excited to see what content is added to the game in the future and for every one of my friends to play this masterpiece",
+      "date": 1762454247,
+      "review_helpful_count": 38,
+      "author_display_name": "ItsMetaVR",
+      "author_alias": "ItsMetaVR",
+      "developer_response": null
+    },
+    {
+      "id": "25184879981206203",
+      "score": 5,
+      "review_title": "So much fun",
+      "review_description": "I write this review covered in sweat and grinning from ear to ear I just played Laserdance, and it is so ridiculously fun I cannot believe it. I was worried about my ability to bend down, but the accessibility options took care of that, and the game progresses in such a way that even though it escalates, it's familiar and understandable 5/5 fun for all",
+      "date": 1762466442,
+      "review_helpful_count": 31,
+      "author_display_name": "DrOculusVR",
+      "author_alias": "DrOculusVR",
+      "developer_response": null
+    },
+    {
+      "id": "1541757167051728",
+      "score": 5,
+      "review_title": "Unrivaled showcase for mixed reality",
+      "review_description": "Flawless execution, all bugs are gone with the newest Quest update, lasers are visible, bug reporting tool is working again (after a few letters it got stuck on one and started spamming it). I already assumued Meta was to blame for that.",
+      "date": 1770811795,
+      "review_helpful_count": 1,
+      "author_display_name": "jomey102",
+      "author_alias": "jomey102",
+      "developer_response": {
+        "body": "Update: Good news! Meta have pushed out a patch to their firmware that should fix this. Make sure you're on the latest version (check settings > general to see if there are pending firmware updates), and this should be working again!\n\nUpdate: Hey Jomey102 - I'm still checking in with Meta regarding the invisible laser issue - but I realized I hadn't followed up on the second part of your review. Could you let me know what's broken about the bugreporting tool for you? Feel free to let me know via the email or discord mentioned below! \n\nHey jomey102, thank you for reporting this and sorry to hear you're having this issue!\n\nPlease feel free to reach out to me at thomas@laserdancegame.com or on discord (laserdancegame.com/discord) and I'll be happy to personally follow up with you on this until this issue is resolved.\n\nThis sounds uncannily similar to an issue from last year when Meta broke dynamic occlusion for some players on a specific version of the firmware.  I'll check in with them to see if there was a possible regression on their end.",
+        "date": 1770800050
+      }
+    },
+    {
+      "id": "3771383259662929",
+      "score": 5,
+      "review_title": "Working now!",
+      "review_description": "Finally got a chance to try it again and had a great evening with my family giving it a go! Thanks for fixing the issue!",
+      "date": 1771717188,
+      "review_helpful_count": 1,
+      "author_display_name": "FishWizard",
+      "author_alias": "FishWizard",
+      "developer_response": null
+    },
+    {
+      "id": "1055802590959790",
+      "score": 5,
+      "review_title": "Add moreeeee",
+      "review_description": "Plz add moreeee",
+      "date": 1773456237,
+      "review_helpful_count": 1,
+      "author_display_name": "grinrenko",
+      "author_alias": "grinrenko",
+      "developer_response": null
+    },
+    {
+      "id": "910915648531684",
+      "score": 5,
+      "review_title": "Really Fun",
+      "review_description": "I enjoyed this game quite alot,cant wait to see what will come",
+      "date": 1772308277,
+      "review_helpful_count": 1,
+      "author_display_name": "Enricol",
+      "author_alias": "Enricol",
+      "developer_response": null
+    },
+    {
+      "id": "923877374133786",
+      "score": 5,
+      "review_title": "💥  Instant MR Fun for Everyone",
+      "review_description": "Laser Dance is a fresh and exciting Mixed Reality game where your mission is simple — avoid the lasers! Each laser type adds its own twist: some stay still, others move, and a few love to disappear and reappear when you least expect it.\n\nIt’s the perfect game for Quest owners who want to introduce friends or family to VR — easy to pick up, instantly fun, and completely comfortable thanks to its MR design. With plenty of levels and growing difficulty, there’s strong replayability as you chase better scores or compete by passing the headset around.\n\nEven in Early Access, the game already feels polished and engaging. The studio’s creativity promises even more great content ahead. A must-try for both new and seasoned players! 🔥",
+      "date": 1762491418,
+      "review_helpful_count": 19,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": null
+    },
+    {
+      "id": "1230289302273514",
+      "score": 4,
+      "review_title": "As good as it can be with current tech",
+      "review_description": "My problem with Laser Dance (and all its clones, which came out after Laser Dance was announced but before it was finally released) is that the VR headset has no ability to track any part of your body other than your hands and your head. And even the hands can't be tracked well unless they're in front of your body.\n\nSo for a game like this, where the whole point is to avoid touching the lasers *at all*, it really just cannot be simulated well. The headset has no idea if I touched the lasers with my foot, leg, hip, elbow, shoulder, etc.\n\nOnce you go to a real-world place that actually has Laser Grids you have to get through - like Activate Games or Level 99 or the like - you quickly realize it's just not something that can be simulated well enough by the VR technology we have right now.\n\nAll that being said, this app does the absolute best it can with the technology available to it.  It mostly-successfully \"guesses\" where your shoulders and torso must be given where your head is and its angle to the floor.   And I won't deny that if you let yourself believe the headset really can track your whole body, and thus actually *try* to avoid the lasers even when you don't need to, it's  a lot of fun, and pretty challenging.  As of this review, I only went through the first 3 stages of Red, but even those got me wondering \"how the heck am I gonna get by these?\"\n\nOne thing I think the devs could - and hopefully, will? - implement with current technology is a multiplayer mode.  The Quest 3 has the ability for two headsets in the same physical house to use Co-location, so we can each see the same Augmented Reality effects and settings.  If my wife and I could each try to get through the same grid of lasers in our house, either concurrently or in a relay, that would REALLY enhance my enjoyment of the app, to the point where my other issues wouldn't concern me any longer.",
+      "date": 1762882197,
+      "review_helpful_count": 13,
+      "author_display_name": "mritty",
+      "author_alias": "mritty",
+      "developer_response": {
+        "body": "Hey mritty, thank you for your honest and in depth review! There is and probably always will be big limitations to the accuracy and detail of bodytracking on standalone headsets like these. As you mentioned I did do my best using what's possible with the current tech, but it's also important for folks to understand the limitations before they get into games like this so they have the right expectations.\n\nOn multiplayer - adding a sort of \"party mode\" is something that I'm considering - no full on co-located multiplayer, but something where you pass the headset and take turns trying to get the best time/score. \n\nIn any case, thanks again for your feedback! If you'd like to share more thoughts on what you'd like from a multiplayer/party mode, you're welcome to join our discord! (laserdancegame.com/discord)",
+        "date": 1762891739
+      }
+    },
+    {
+      "id": "936885252851112",
+      "score": 4,
+      "review_title": "Lazer dance",
+      "review_description": "I love this game so mutch",
+      "date": 1772281638,
+      "review_helpful_count": 1,
+      "author_display_name": "ElectricBluebird2220",
+      "author_alias": "ElectricBluebird2220",
+      "developer_response": {
+        "body": "Thank you for the review, ElectricBluebird2220!\nIf there's anything you still feel can be improved about the game, feel free to let us know on discord (laserdancegame.com/discord) or via e-mail! (thomas@laserdancegame.com)",
+        "date": 1772361226
+      }
+    },
+    {
+      "id": "842061311760909",
+      "score": 5,
+      "review_title": "Easy Set Up, Simple Rules and Immersive",
+      "review_description": "Dec 2025: A brilliantly simple and immersive mixed-reality experience.\nLaser Dance makes excellent use of your real environment. With hand tracking and room scanning already in place, it's almost instantly ready to play: just set two points (the minimum space requirement really matters) and you're in.\n\nThe laser projections are sharp, stable, and convincingly placed in the room, with no noticeable spatial glitches. Levels start with static lasers and gradually introduce moving ones, becoming surprisingly physical as you duck, stretch, and move around.\n\nWhile technically single-player, it's easy to stream your view or pass the headset to friends. The Quest doesn't track legs, so lower-body laser hits don't trigger a fail but the excellent upper-body tracking more than makes up for it. The game even freezes a 3D snapshot of your body when you hit a laser, clearly showing what went wrong. (It even detects subtle collisions, such as brushing a laser with the back of your neck while standing up.)\n\nOverall, it's impressive how polished, fun, and engaging such a simple concept can be.",
+      "date": 1765942157,
+      "review_helpful_count": 2,
+      "author_display_name": "Luzerne",
+      "author_alias": "Luzerne",
+      "developer_response": null
+    },
+    {
+      "id": "851751093972681",
+      "score": 4,
+      "review_title": "Missing leg tracking",
+      "review_description": "If this is possible please add full body/leg tracking. ATM I can just walk through lasers as long as my head or hands (and sometimes upper body, but not arms) don't touch lasers.",
+      "date": 1762461099,
+      "review_helpful_count": 33,
+      "author_display_name": "R0binG00dfell0",
+      "author_alias": "R0binG00dfell0",
+      "developer_response": {
+        "body": "Thank you for your feedback! Out of the box, Quest only supports inside out upper body tracking for now. Arms should trigger lasers as well, but only when the laser crosses them. By default the arm colliders are \"tucked in\" to make the game more forgiving, but you can turn this off in the game's settings under Settings > Body Tracking.",
+        "date": 1762462297
+      }
+    },
+    {
+      "id": "1011551945373591",
+      "score": 4,
+      "review_title": "Like mixt rialiti",
+      "review_description": "Sportif and cool",
+      "date": 1771094517,
+      "review_helpful_count": 1,
+      "author_display_name": "loup.n.4235",
+      "author_alias": "loup.n.4235",
+      "developer_response": {
+        "body": "Thank you for the review, loup.n.4235!\nIf there's anything you still feel can be improved about the game, feel free to let us know on discord (laserdancegame.com/discord) or via e-mail! (thomas@laserdancegame.com)",
+        "date": 1772361434
+      }
+    },
+    {
+      "id": "922645230347837",
+      "score": 5,
+      "review_title": "Loved it!",
+      "review_description": "It’s great if you have the space for it. It’s not too long right now but it’s super fun.",
+      "date": 1769621673,
+      "review_helpful_count": 1,
+      "author_display_name": "Chorime",
+      "author_alias": "Chorime",
+      "developer_response": null
+    },
+    {
+      "id": "809142335261489",
+      "score": 3,
+      "review_title": "Early access",
+      "review_description": "Laser Dance has a lot of potential to be a great game. It is challenging to complete some of the levels: With some patience and observation of pattern recognition you’ll be able to win. \n\n3 stars simply because I beat the game in about 45 minutes (maybe an hour). \n\nOther reasons for 3 stars \n\nNeeds more levels - \n\nI wish it could turn the whole room into an obstacle course .\n\nIt would be awesome if the spatial recognition for this game could add the couches in my living room to the obstacle courses. Being able to crawl on and off couches would be sooooo fun. \n\nFinal thought’s:\n\nLaser dance has the potential to be a top title with a high replay value .",
+      "date": 1762702557,
+      "review_helpful_count": 6,
+      "author_display_name": "armandocruz777",
+      "author_alias": "armandocruz777",
+      "developer_response": {
+        "body": "Hi armandocruz777, thank you for your honest review!\n\nIn smaller rooms the base game can indeed be a bit short at the moment. I would encourage you to try out some of the challenges - especially the two you can unlock have a big impact on the difficulty and how you play some levels.\n\nRegarding using the whole room, normally it should use all of the room you scan, but where you place the buttons in the room will also affect how much of the room is used in level generation. Totally hear you on more actively using furniture, but it's really tricky to do that in a safe way that doesn't lead some players to hurt themselves 😅\n\nIn any case, it's in early access for a reason :) Hope you'll enjoy the updates in the coming months!",
+        "date": 1762704378
+      }
+    },
+    {
+      "id": "918608118004303",
+      "score": 5,
+      "review_title": "Fun but needs more",
+      "review_description": "The game was amazing, but had only a few levels. I understand that the game is in early stages, and cannot wait for more!",
+      "date": 1766866921,
+      "review_helpful_count": 3,
+      "author_display_name": "johnpsarwark",
+      "author_alias": "johnpsarwark",
+      "developer_response": null
+    },
+    {
+      "id": "895560462927442",
+      "score": 5,
+      "review_title": "One of the most innovative VR games yet",
+      "review_description": "It's such a simple concept executed so well.  Great to see all the of that room scanning tech put to good use!  :-)\n\nSo much fun, greate exercise for the body and brain",
+      "date": 1768274268,
+      "review_helpful_count": 0,
+      "author_display_name": "DancerGrande",
+      "author_alias": "DancerGrande",
+      "developer_response": null
+    },
+    {
+      "id": "765357999863847",
+      "score": 4,
+      "review_title": "Room for improvement",
+      "review_description": "I love this game! I have been waiting since it was announced years ago. I’ve seen ripoff games come out before laser dance, and I even downloaded one to see how it is. But it wasn’t the same. This game is crazy fun, it was what I expected, but I wish there was more levels. I’m aware they will add more but they had multiple years to make a game that I finished in less than an hour. I’m excited to see where this game goes and I know there are challenges but I’ve already played the levels.",
+      "date": 1762523644,
+      "review_helpful_count": 6,
+      "author_display_name": "jaxslayer420",
+      "author_alias": "jaxslayer420",
+      "developer_response": {
+        "body": "Hey jaxslayer420, thank your for your review and for your honest feedback! \n\nAs you mentioned there are more levels on the way, but they do unfortunately take quite some time to make since I'm testing them against many different room sizes and configurations as I'm developing them. I do hope you enjoy some of the challenges in the meantime -some of the ones you unlock actually increase the difficulty or change the gameplay quite significantly.\nIn any case, thank you for playing, and hope you'll enjoy the updates in the coming months as I keep building out the game!",
+        "date": 1762525074
+      }
+    },
+    {
+      "id": "1583211886023046",
+      "score": 5,
+      "review_title": "Lots of fun with a huge promise",
+      "review_description": "One of the first games in a long time that people in the family have been arguing over who gets to play next! And one of the best uses of MR I've experienced so far. Definitely worthy buying at this early access price, we've completed all the available \"rooms\" and are eager to see what comes next.",
+      "date": 1765752176,
+      "review_helpful_count": 1,
+      "author_display_name": "DaveSkywalker",
+      "author_alias": "DaveSkywalker",
+      "developer_response": null
+    },
+    {
+      "id": "1539282467408453",
+      "score": 5,
+      "review_title": "You can call me the Night Fox",
+      "review_description": "I feel like I’m in Ocean’s 12\n\nI’ve waited for this game the moment it was teased. The room scan was very useful into turning my home into the gaming course. The lasers create a progressively challenge course every time you traverse the maze. All you have to do is play some music and twirl, sway, and go as low as you can go to press that button. Just be careful not to overexert lightly used muscles, my arms went into spasm and I had to take a break until they relaxed.\n\nOverall, 10/10. A iconic title for Quest gaming.",
+      "date": 1762657431,
+      "review_helpful_count": 5,
+      "author_display_name": "VirtualPh33r",
+      "author_alias": "VirtualPh33r",
+      "developer_response": null
+    },
+    {
+      "id": "869852666218533",
+      "score": 5,
+      "review_title": "Exemplary MR game!",
+      "review_description": "Laserdance is a must-play for those looking for a game that showcases what MR is about. It is incredibly intuitive to play even for non-gamers and first time headset users. No complicated controls, just avoid the lasers!\nIt works in any room I tried, big or small. Levels adapt to the available space and are replayable. \nIt contains various accessibility options as well such as defining minimum crawling height.",
+      "date": 1765544110,
+      "review_helpful_count": 1,
+      "author_display_name": "miva2_BE",
+      "author_alias": "miva2_BE",
+      "developer_response": null
+    },
+    {
+      "id": "965847269936148",
+      "score": 2,
+      "review_title": "This doesn’t work?",
+      "review_description": "Am I the only one? The game just doesn’t work.. We’re stuck with a square that says : best practices and nothing’s happening.. kinda disapointing",
+      "date": 1766546051,
+      "review_helpful_count": 2,
+      "author_display_name": "bibouzella",
+      "author_alias": "bibouzella",
+      "developer_response": {
+        "body": "Update: Hey Bibouzella, there was another player with a similar issue who was able to fix it with the following steps: go to the Quest's settings, and under privacy & safety > device permissions > spatial data, deleting enhanced spatial data and clearing scan history. Let me know it that helps, and if not, feel free to follow up with me at thomas@laserdancegame.com and I'll be happy to help you further!\n\nHey bibouzella, sorry to hear you're having this issue!\nNormally this screen should list some best practices, and ends in a button you can press that says \"Next\". Keep in mind you need to physically press it with your index fingertip (with handtracking) or the white dot on your controller.\n\nIf this is not appearing, could you reach out to me at thomas@laserdancegame.com or in our discord (laserdancegame.com/discord), and I'll be happy to see if I can further help you resolve this issue!",
+        "date": 1768251827
+      }
+    },
+    {
+      "id": "1464586849003922",
+      "score": 4,
+      "review_title": "Amazing game but should add more levels",
+      "review_description": "This is a amazing game but it dosent have enough levels yet",
+      "date": 1769274854,
+      "review_helpful_count": 1,
+      "author_display_name": "coleyboley54",
+      "author_alias": "coleyboley54",
+      "developer_response": {
+        "body": "Hey coleyboley54, thank you for your review. \nMore levels are planned for the future! It's part of why the game was launched in Early Access for now :) \n\nIn the meantime, if you finished all the levels, be sure to try out some of the challenges!\nAlso, if you'd like to try an upcoming content update for the game early, feel free to join our discord (laserdancegame.com/discord)",
+        "date": 1769278829
+      }
+    },
+    {
+      "id": "1398341941853477",
+      "score": 5,
+      "review_title": "New must-have",
+      "review_description": "I will proudly put Laser Dance with the same \"must have\" collection with RPE or Beat Saber. Base game itself is relatively short, but provides a nice experience for showcasing what VR is capable of.\nMR is nicely implemented. With the help of depth API the lasers will get occluded by real world objects and this adds a lot of immersion.\nGameplay loop is simple enough even for small children to immediately understand, yet still entertaining for adults.",
+      "date": 1763731111,
+      "review_helpful_count": 2,
+      "author_display_name": "MrFrederic",
+      "author_alias": "MrFrederic",
+      "developer_response": null
+    },
+    {
+      "id": "2693099854384897",
+      "score": 5,
+      "review_title": "Brilliant in its simplicity",
+      "review_description": "The concept is brilliant in its simplicity: place a start button on one side of your room and a finish button on the other. Press the start button, then go press the finish button. Simple, right? But your room is filled with laser beams you can’t cross. So: walk between the lines, crawl under the lasers, and it keeps getting harder. This is the kind of game where you can’t be afraid to crawl across the floor, because yes, sometimes that’s exactly what it takes to finish a level.\nLaser Dance is super fun as a party game: let one player go while the rest watch and cheer through the TV cast.\n\n\nThere are similar titles that work on the same principle:\nLaser Thief : you “steal” an item (for example, an apple) and bring it back to the start while avoiding the laser lines.\nLaser Matrix : instead of lines, there are moving laser walls you have to maneuver through.\n\nAll three games are fun and great as party games, but Laser Dance stays truest to the core idea. Unlike the others, it doesn’t need a tutorial: every player instantly knows what to do. And that makes it the winner in my opinion.",
+      "date": 1762854737,
+      "review_helpful_count": 3,
+      "author_display_name": "QNeo",
+      "author_alias": "QNeo",
+      "developer_response": null
+    },
+    {
+      "id": "1829137694357289",
+      "score": 5,
+      "review_title": "So Fun & Unique",
+      "review_description": "We have played this for about 3 hours so far over 4 days and have had a blast. The room setup mechanic works really well and it's really cool to see lasers in your space. It's a very convincing effect. This is a light workout too, which I appreciate. \n\nIn my short playthrough it's clear that this is a great game to show off to friends and people new to VR and a game that will provide a lot to enjoyment VR veterans. We have found that we particularly enjoy this playing together (we have two headsets) and we tackle the levels together, following one after another. :)\n\nP.S. If you have trouble initially with the space set up just be sure to follow the instructions to reset and set up a new space in your settings menu. Also, be sure to try this with hand tracking.",
+      "date": 1762915232,
+      "review_helpful_count": 3,
+      "author_display_name": "Turmeric",
+      "author_alias": "Turmeric",
+      "developer_response": null
+    },
+    {
+      "id": "899442896580801",
+      "score": 5,
+      "review_title": "Just one more…",
+      "review_description": "My feeling yesterday when trying out this game: Just one more level! I constantly wanted to just play one level more - impossible to stop! Meaning this is a great game!\nI would love an option to put 3 buttons in the room instead of just 2. After clearing one button you would then be randomly sent to either one of the other two buttons.This would create a lot of fun variations!",
+      "date": 1763367174,
+      "review_helpful_count": 2,
+      "author_display_name": "madscientist.32408",
+      "author_alias": "madscientist.32408",
+      "developer_response": {
+        "body": "Thanks a ton for your review, madscientist!\nI'll have to give the multiple buttons idea some thought, but in the meantime, it's very easy to reposition buttons from the settings menu - depending on the button positions, it can already change how the levels are spawned quite a bit :)",
+        "date": 1763392329
+      }
+    },
+    {
+      "id": "857082846841031",
+      "score": 5,
+      "review_title": "Great Game, But Needs More Levels",
+      "review_description": "This game is exactly what I was looking for in MR. It has many interesting aspects and is super fun to use. However, I feel like the focus is too much on designing new types of lasers when really it should be on adding more levels with what there already is, because right now, the game can be completed in less then an hour. Other than that, it is a great game overall and I look forward to seeing where it ends up.",
+      "date": 1764640158,
+      "review_helpful_count": 1,
+      "author_display_name": "mjptree",
+      "author_alias": "mjptree",
+      "developer_response": null
+    },
+    {
+      "id": "1465887098359624",
+      "score": 5,
+      "review_title": "Fantastic Game",
+      "review_description": "Also great to introduce people to VR.  Fun for the entire family.",
+      "date": 1777146755,
+      "review_helpful_count": 0,
+      "author_display_name": "FFDubbs",
+      "author_alias": "FFDubbs",
+      "developer_response": null
+    },
+    {
+      "id": "1432505704926483",
+      "score": 5,
+      "review_title": "Well executed, easy to jump in and play!",
+      "review_description": "Fulfill your dreams as a spy, sneaking past the lasers to get into the vault. Beautifully done, simple concept, fun for the entire family.",
+      "date": 1767297324,
+      "review_helpful_count": 1,
+      "author_display_name": "simpsong",
+      "author_alias": "simpsong",
+      "developer_response": null
+    },
+    {
+      "id": "1310929804136758",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "18 levels with 4 challenges each that’s basically 90 different levels! And they are fun to replay too! The game is more fun/challenging in a bigger room but a smaller one is ok too. Do yourself a favor and just buy the game for 10 bucks, it’s totally worth it!",
+      "date": 1765246474,
+      "review_helpful_count": 1,
+      "author_display_name": "IWillWin",
+      "author_alias": "IWillWin",
+      "developer_response": null
+    },
+    {
+      "id": "942047505657233",
+      "score": 5,
+      "review_title": "Great party game!!",
+      "review_description": "Excellent execution! Family have loved playing this. Great one to watch while casting to TV. Hoping there are more levels to come.",
+      "date": 1767452500,
+      "review_helpful_count": 1,
+      "author_display_name": "Waltagon",
+      "author_alias": "Waltagon",
+      "developer_response": null
+    },
+    {
+      "id": "937014862819580",
+      "score": 5,
+      "review_title": "Calibration failed",
+      "review_description": "Can’t play this game because of calibration issues. The room is “floating” and the ground level is around my waist. I tried recalibration, restart the app, restart the headset, and the problem remains. It only happens in this app so it’s not a device problem.\n\nUpdate: problem solved after calibration from setting as suggested. Calibration from the game won’t solve it.",
+      "date": 1764366963,
+      "review_helpful_count": 1,
+      "author_display_name": "Bunbunfu",
+      "author_alias": "Bunbunfu",
+      "developer_response": {
+        "body": "Hey Bunbunfu, sorry to hear you're having this issue, that definitely shouldn't be happening. Have you tried clearing your previous roomscans and re-scanning your room? You can do this by going to the Quest settings under Environment Setup > Space Setup and hitting Clear.\nIt's also worth noting the game can only be played on one floor, so if you scanned multiple floors or a mezzanine, setup will only work on the lowest floor scanned. \n\nReally want to help you find a solution here, if the steps above don't help, please feel free to reach out to me directly at thomas@laserdancegame.com, or join our discord (laserdancegame.com/discord) and I'll be happy to help you further!",
+        "date": 1764355596
+      }
+    },
+    {
+      "id": "3008027366056631",
+      "score": 5,
+      "review_title": "Amazing game  can,t wait for more",
+      "review_description": "Hi\n\nI have been really enjoying this game because of the lasers in mixed really   When you first play you have to scan room and place the buttons.on the walls then you all set. Love the buttons  you can get to after you get thought the lasers    Then the level is complete. It has lots of settings  for making the laser bight and lower too also works by Body tracking and that shows you where you got hit  will continue to play it  can,t wait for  what’s to come.",
+      "date": 1762873986,
+      "review_helpful_count": 2,
+      "author_display_name": "Oliver2222",
+      "author_alias": "Oliver2222",
+      "developer_response": null
+    },
+    {
+      "id": "2825956700940058",
+      "score": 5,
+      "review_title": "Great tech, ok gameplay",
+      "review_description": "This is a really good showcase of what's possible currently with a Quest headset and passthrough. It totally sucks you in as you watch your room become a dangerous trap. The core gameplay of simply going back and forth between two defined buttons on the walls works very well, and I was happy to see that some levels would take the long path around my couch, while most took the shorter path. This decision seems to be intelligent, as certain level designs work better for one or the other. However, very early in the game, there are a few too many setups which want you to crawl on the ground. I think that's a fun gameplay moment to do occasionally, but I'd be happy to see a few less of those. Can't wait to see how this evolves over time!",
+      "date": 1762918127,
+      "review_helpful_count": 2,
+      "author_display_name": "callenshaw",
+      "author_alias": "callenshaw",
+      "developer_response": null
+    },
+    {
+      "id": "1216728207011425",
+      "score": 5,
+      "review_title": "Amazing, works great, add a level editor",
+      "review_description": "First of all, the game is amazing. It’s super fun and challenging, and for early access I encountered very limited bugs. My family played it as well and we all had a great time. The only thing I didn’t like was that your feet don’t have hit boxes, but I have no idea how hard that would be to add. 5/5 stars it is definitely worth the money.\n\nOne suggestion I have would be to add a level editor. The levels are fun and the challenges keep me playing for a little while, but I did get bored of playing the same levels over and over again. I know you guys are already working on more levels, and I think this would be a great way to add unlimited replayability.",
+      "date": 1764137036,
+      "review_helpful_count": 1,
+      "author_display_name": "Terrier1217",
+      "author_alias": "Terrier1217",
+      "developer_response": null
+    },
+    {
+      "id": "1058789657324053",
+      "score": 1,
+      "review_title": "Doesn't work",
+      "review_description": "Doesn’t for my device and says unknown error",
+      "date": 1777123034,
+      "review_helpful_count": 0,
+      "author_display_name": "aseplus",
+      "author_alias": "aseplus",
+      "developer_response": {
+        "body": "Hey aseplus, thank you for reporting this and sorry to hear you're having issues. \nIs the unknown error you're getting something that happens in-game, or when you try to launch the game?\n\nIf it's the former, there may be an issue with the roomscanning API that has it returning an error consistently.  One thing you can try to remedy this is opening the Quest's settings (in the new UI you can find the settings menu by going to the quick settings, and then the tiny cogwheel on the left), then going to \"privacy & safety\" > \"device permissions\" > \"spatial data\". There, delete enhanced spatial data and clear the scan history. Try launching the game again - if you're still getting stuck, please reach out to me at thomas@laserdancegame.com via e-mail (or on discord by going to laserdancegame.com/discord) and I'll be happy to look into this further!",
+        "date": 1777124785
+      }
+    },
+    {
+      "id": "882008805000415",
+      "score": 5,
+      "review_title": "I usually don’t leave reviews, but..",
+      "review_description": "This game is AWESOME! For being a one-man project AND in beta it is SO worth the price! I think I would even go as far as to pay $20 for the game! To the Dev, you did SO good on this. I’ve seen a lot of knockoffs of this game on the store, but still wanted this one and not the cheap-ai looking others. The only thing I have wrong with this game is sometimes (I have a almost unused quest 3s) that levels with a lot of lasers tend to lag and drop some frames, but other than that, it is DEFINITELY worth the money and I would recommend if you have $10 you want to spend.",
+      "date": 1764191256,
+      "review_helpful_count": 1,
+      "author_display_name": "Renzo_Rockford",
+      "author_alias": "Renzo_Rockford",
+      "developer_response": null
+    },
+    {
+      "id": "2816970798508258",
+      "score": 5,
+      "review_title": "Misleading title w/ fantastic effects",
+      "review_description": "There's no dancing here. You're Catherine Zeta Jones sliding through lasers in black spandex. But the body occlusion is incredible. Whether it's feet or hands, the lasers are hidden behind your appendages, and whatever else the game does, it's immediately immersive for that alone. It's solid, if simple.",
+      "date": 1763883783,
+      "review_helpful_count": 1,
+      "author_display_name": "BringhurstVR",
+      "author_alias": "BringhurstVR",
+      "developer_response": null
+    },
+    {
+      "id": "1544440576822997",
+      "score": 5,
+      "review_title": "So much fun!",
+      "review_description": "My friends and I played this in my friends living room and we had SO much fun watching each other wiggle and jump around trying to avoid moving lasers. The squeals that came from her were absolutely hilarious. I actually had to army crawl across the floor at one point. Very good exercise and you don’t even realize you’re exercising. Highly recommend! Tons of fun, and very challenging!",
+      "date": 1764036552,
+      "review_helpful_count": 1,
+      "author_display_name": "pewtie_mcshewty",
+      "author_alias": "pewtie_mcshewty",
+      "developer_response": null
+    },
+    {
+      "id": "1397908635244858",
+      "score": 5,
+      "review_title": "Need more like this!",
+      "review_description": "I can’t believe how much fun this is. I waited for a year for this to release and it was worth it. Perfect game! 10/10. I can’t wait to play with my kids and show others the power of VR/ mixed reality.",
+      "date": 1765692938,
+      "review_helpful_count": 1,
+      "author_display_name": "alindo01",
+      "author_alias": "alindo01",
+      "developer_response": null
+    },
+    {
+      "id": "908119745710456",
+      "score": 5,
+      "review_title": "Very entertaining!",
+      "review_description": "I’m always looking for VR apps that make a difference and really take advantage of the new possibilities. Most of them turned out to be a disappointment but this one is fantastic, even though there’s no music and sound is rudimentary. I give it a full thumbs up for being a really nice and innovative room scale game. Can’t wait to see the improvements but even as it is now, it’s outstanding!",
+      "date": 1762700875,
+      "review_helpful_count": 2,
+      "author_display_name": "GJKaal",
+      "author_alias": "GJKaal",
+      "developer_response": null
+    },
+    {
+      "id": "901436709716370",
+      "score": 5,
+      "review_title": "Great Game",
+      "review_description": "This game is pretty awesome and I see a lot of potential for it. I played it both by myself and with a group of friends trading the headset and had a lot of fun. A couple things to note are that it is definitely possible to cheat since the headset doesn’t track your legs although that’s not the developer’s fault. (But that doesn’t mean it’sall that easy with cheating either.) Also I beat the whole campaign in about an hour which does leave a little to be desired. Still it’s in early access so I fully expect more content to come out plus I can always try and beat my score on challenges or what not. The thing I really want to try with this is to go to an open gym and not a living room. If you guys did that right it won’t matter as much about content. You guys are doing great, keep it up.",
+      "date": 1764025641,
+      "review_helpful_count": 1,
+      "author_display_name": "Gr82live43",
+      "author_alias": "Gr82live43",
+      "developer_response": null
+    },
+    {
+      "id": "919438481245228",
+      "score": 4,
+      "review_title": "Afewthings about this i want them to add",
+      "review_description": "1. leg tracking\n2. Save data\n3. lighting settings\n4. similar to 1 a bit but better tracking\n5. If you go into your menu it lets you pass with no issue\n\nthis is still a good game",
+      "date": 1762731139,
+      "review_helpful_count": 5,
+      "author_display_name": "snowydamonke",
+      "author_alias": "snowydamonke",
+      "developer_response": {
+        "body": "Hey snowydamonke, thank you for your feedback!\n\nTo address some of your points:\n1. This is sadly a limitation of what Quest 3 is currently capable of out of the box - upper body tracking is the only thing that it can somewhat reliably do.\n\n2. Your progress is saved! And there are 4 save profiles to choose from in the settings. The only reason progress could be lost is if a savefile gets corrupted. If this happens repeatedly, feel free to reach out to me at thomas@laserdancegame.com and I'm happy to see if I can help.\n\n3. In the general settings you can set how dark the game gets during gameplay. If there are other lighting settings you were hoping for let me know!\n\n4. Inside Out Body Tracking does still have its issues! I've added some extra safeguard so many instances of bad tracking get ignored, but if false hits keep happening for you do please let me know, as it can help me make those safeguard systems better :)\n\n5. This is a known issue and a good point! I hope to fix this in the future.\n\nIf you have any more feedback or want to follow up on any of these, feel free to reach out to me directly at thomas@laserdancegame.com!",
+        "date": 1762760639
+      }
+    },
+    {
+      "id": "881817115012422",
+      "score": 5,
+      "review_title": "Best Laser obstacle Game!",
+      "review_description": "For me, it's the best laser obstacle game, even though it's still in early access.\nHand tracking works very well, and the obstacle courses get harder and harder over time, so it never gets boring.\nI'm already looking forward to the next updates!\n\nP.S. The only thing that bothers me is the annoying sound when you get hit by a laser.",
+      "date": 1763564299,
+      "review_helpful_count": 1,
+      "author_display_name": "Disarstar",
+      "author_alias": "Disarstar",
+      "developer_response": null
+    },
+    {
+      "id": "2223105124838893",
+      "score": 5,
+      "review_title": "Brilliant",
+      "review_description": "Fantastic game. Original, basic concept that's great fun. What pass through was made for.",
+      "date": 1767082788,
+      "review_helpful_count": 1,
+      "author_display_name": "Aviator3838",
+      "author_alias": "Aviator3838",
+      "developer_response": null
+    },
+    {
+      "id": "1401303074667602",
+      "score": 5,
+      "review_title": "TOP PARKOUR LASER IN MR!",
+      "review_description": "A MIXED REALITY EXPERIENCE THAT TAKES YOUR LIVING ROOM BEYOND REALITY\nLaser Dance blew me away: the idea of transforming every room in your house into a laser dodge zone is simple but incredibly effective. Thanks to the passthrough feature and lasers that even \"touch\" your furniture, you truly feel the fusion between real and virtual space.\nEach level challenges you: running, crawling, dodging around your sofa or table—everything becomes a playground.\nThe mission is simple: traverse your play area to activate a switch.\nLasers will complicate matters, even forcing you to think strategically to choose the ideal path! With fixed red lasers, moving yellow lasers, and flashing blue lasers, the obstacles are varied.\nThe studio has done an excellent job of automatically adapting the paths to the size and shape of the room. An efficient menu allows you to optimize your play area and adapt to your mobility level thanks to accessibility settings, both indoors and outdoors! \nTHE ULTIMATE MR OBSTACLE COURSE\nThe game is still in early access, and some technical adjustments, level optimizations, and content additions are expected, but the essentials are there: instant fun, quick to learn, and excellent for a party with friends or a quick solo session.\nIf you have a compatible headset (especially Quest 3/3S) and some free space, this is one of the most exciting MR experiences I've tried.",
+      "date": 1763416105,
+      "review_helpful_count": 1,
+      "author_display_name": "Majerik",
+      "author_alias": "Majerik",
+      "developer_response": null
+    },
+    {
+      "id": "927419497110820",
+      "score": 5,
+      "review_title": "Great MR game",
+      "review_description": "This is how I imagine an MR game.\nMy daughter can't stop playing. Luckily she hasn't discovered that the foot detection doesn't work yet. So she gets quite sweaty playing this game.\nI have to try it on a larger area, right now we play in a small room on a route about 5m long.\nI would definitely like more levels.\n\nPlease continue the development.\n\nedit: I want to add to my review with some great achievements. Moving lasers and rainbow lasers take all levels much higher!!!",
+      "date": 1763458761,
+      "review_helpful_count": 1,
+      "author_display_name": "Kodis",
+      "author_alias": "Kodis",
+      "developer_response": null
+    },
+    {
+      "id": "883160084878971",
+      "score": 5,
+      "review_title": "So much fun! Try casting it to a TV",
+      "review_description": "So glad I got this. It’s a challenging mixed reality game and fun to watch your family members play casted to a TV. My kids won’t give up playing when they can’t get past a level. Can’t wait to see what’s added next (multiplayer, music)",
+      "date": 1762877119,
+      "review_helpful_count": 2,
+      "author_display_name": "Kraddude1977",
+      "author_alias": "Kraddude1977",
+      "developer_response": null
+    },
+    {
+      "id": "879534061909546",
+      "score": 3,
+      "review_title": "BEST GAME EVER!",
+      "review_description": "I always wanted to this in irl and only 10 bycks copared to like 30 dollors to do it once in like at a company this is a steal but i have one problem,i know its not really a glitch but if people put the button right next to each over they can do any level very easy.",
+      "date": 1763864836,
+      "review_helpful_count": 1,
+      "author_display_name": "NPC0000",
+      "author_alias": "NPC0000",
+      "developer_response": {
+        "body": "Hey NPC0000, The button normally stops you from putting the buttons too close to each other, as a shortest walking distance between buttons of about 3m/10ft is needed. If you're still able to put buttons right next to each other in your space, please feel free to reach out to me at thomas@laserdancegame.com or on our discord (laserdancegame.com/discord) and I'll be happy to take a closer look to see why might be going wrong. \n\nIf you have any other thoughts on what could make the game better, happy to hear your feedback!",
+        "date": 1763930895
+      }
+    },
+    {
+      "id": "2748562278681114",
+      "score": 5,
+      "review_title": "A MR must have",
+      "review_description": "I had plenty of fun playing laser dance. It is almost as fun to watch someone play as it is playing it, making laser dance one of my top pics for game nights with friends. It is also one of my kid's favourite.\nPrinciples  are dead that simple nut there is depth in the gameplay and great attention to details.",
+      "date": 1763128425,
+      "review_helpful_count": 1,
+      "author_display_name": "m_II_w",
+      "author_alias": "m_II_w",
+      "developer_response": null
+    },
+    {
+      "id": "1546826849698391",
+      "score": 5,
+      "review_title": "ONE OF THE BEST VR/MR GAME 2025",
+      "review_description": "This VR/MR game is SO immersive I really thought I was in Ocean Twelve style movie, just add some \"Thé à la Menthe\" music and get in the vibe. The graphics are awesome, the upper body tracking is good, wish Meta had the ability to allow full body tracking but still very good for what is possible. If you want to workout/stretch, stress a bit and laugh, this is the game for you, can't wait to see what other features and challenges this game will offer. 10/10",
+      "date": 1763070297,
+      "review_helpful_count": 1,
+      "author_display_name": "BigDaddiJay",
+      "author_alias": "BigDaddiJay",
+      "developer_response": null
+    },
+    {
+      "id": "1355919422928129",
+      "score": 1,
+      "review_title": "Wish I'd read the 1 star reviews",
+      "review_description": "it just won't work.  I can put the buttons on the walls... and that's as far as this will go.  Waste of time. Waste of money. Waste of  effort.  minus stars.",
+      "date": 1765563808,
+      "review_helpful_count": 0,
+      "author_display_name": "HeyLollieLollie",
+      "author_alias": "HeyLollieLollie",
+      "developer_response": {
+        "body": "Update 2: HeyLollieLollie, I recently pushed out a patch (v0.12.18) which resolves an issue some folks were having blocking them during setup. Maybe this also solves the issue you were having? If you have a moment to try, please let me know if it works for you now!\n\nUpdate: Hey HeyLollieLollie, just wanted to check in again to see if you're having issues. If so, feel free to reach out to me personally at thomas@laserdancegame.com and I'll be happy to see if I can help!\n\nHey HeyLollieLollie, sorry to hear you're having issues with the game.\nI would love to try and better understand what may be going wrong - could you reach out to me at thomas@laserdancegame.com or on our discord (laserdancegame.com/discord)? I'd be happy to personally help you further and try and find a solution!\n\nIn the meantime, you can also check our troubleshooting guide (laserdancegame.com/help) for solutions to common issues related to room scans.",
+        "date": 1767087831
+      }
+    },
+    {
+      "id": "788160577725292",
+      "score": 5,
+      "review_title": "Fun party game",
+      "review_description": "Was very easy to set up. Scanned my room and added the furniture automatically, plotting a course around the coffee table, etc.\nThe best part is for whoever is watching the player dodge invisible lasers... what a laugh watching my 11 year old son move around like he was a secret agent spy, back and forth across the house over and over. He loved it! Certainly got us both moving. This would be perfect at a gathering as its easy to jump in and out of the levels so everyone can have some fun. Looking forward to the addition of more levels.",
+      "date": 1762846887,
+      "review_helpful_count": 1,
+      "author_display_name": "TeddiVibes",
+      "author_alias": "TeddiVibes",
+      "developer_response": null
+    },
+    {
+      "id": "3260657840769828",
+      "score": 5,
+      "review_title": "amazing",
+      "review_description": "Love this, works great and really gives out the vibe that we all felt when we were little and 'played' this game in our minds. superbly executed and works well in large rooms.\nonly small downside is the number of levels, would have loved to see a 'generate random room' option.",
+      "date": 1763206381,
+      "review_helpful_count": 0,
+      "author_display_name": "nickvdmolen",
+      "author_alias": "nickvdmolen",
+      "developer_response": null
+    },
+    {
+      "id": "838909258897428",
+      "score": 5,
+      "review_title": "Fantastic..",
+      "review_description": "I played this with 3 other people. Everyone loved it. Next time I'm going to try a different room or maybe I can add a second room to the game or a hallway? I'm going to put the buttons in more unique spots next time. I had one on the wall and one above a couch.\n\nI hope to see more buttons added in the future.. 3 or 4 button locations?",
+      "date": 1762840785,
+      "review_helpful_count": 1,
+      "author_display_name": "ChungKingCanSuckIt",
+      "author_alias": "ChungKingCanSuckIt",
+      "developer_response": null
+    },
+    {
+      "id": "24986765024323279",
+      "score": 1,
+      "review_title": "don't buy! no refund",
+      "review_description": "It took a while to get it running, problems with room scan and after the starting button wouldn't work. I found the overall experience quit disappointing and then found out i couldn't even request a refund after only 10 minutes of use. quit a rip off, even though it's only 10 euros.",
+      "date": 1762876097,
+      "review_helpful_count": 1,
+      "author_display_name": "Sander74",
+      "author_alias": "Sander74",
+      "developer_response": {
+        "body": "Update: Hey Sander74, I wanted to follow up to see if you were still having issues with the game. There have been several patches with fixes since your review so your experience may be smoother this time if you give it another try! \nIf you're still having issues, feel free to reach out at thomas@laserdancegame.com and I'll be happy to see if I can resolve any further issues you may have!\n\nHey Sander74, sorry to hear you were having issues with the roomscan! Meta's system can sometimes still have issues - I wrote a trouble shooting guide to help with this, which you can find at www.LaserDanceGame.com/help\n\nThe start button issue is something I'm looking into now - it seems to be caused by an error that can occur in the roomscan data. It can often be resolved by clearing your previous roomscans (in the Quest settings under Environment Setup > Space Setup hit \"Clear\") and making a new scan. \n\nSorry to hear you're having issues with getting a refund - after only 10  minutes this should not be an issue - but this is something Meta manages, so it may be best to reach out to meta support for help with this (www.meta.com/help/quest/)",
+        "date": 1767971855
+      }
+    },
+    {
+      "id": "1587517089081246",
+      "score": 5,
+      "review_title": "IT BELONGS IN A MUSEUM",
+      "review_description": "When will you realize your purchase was worth it? The moment the lights dim and you walk by your first laser as it buzzes next to your ear while you walk by. One of THE coolest experiences in VR, and I’ve been playing since the Rift days. Cannot wait to try this in different rooms.",
+      "date": 1763011419,
+      "review_helpful_count": 1,
+      "author_display_name": "Will-84",
+      "author_alias": "Will-84",
+      "developer_response": null
+    },
+    {
+      "id": "951020898090663",
+      "score": 5,
+      "review_title": "Very good",
+      "review_description": "Very very very very very very very good",
+      "date": 1767215382,
+      "review_helpful_count": 1,
+      "author_display_name": "QuirkyPuma598",
+      "author_alias": "QuirkyPuma598",
+      "developer_response": null
+    },
+    {
+      "id": "935131459456470",
+      "score": 5,
+      "review_title": "10/10 Content! Spent 2 playing",
+      "review_description": "Playing timed mode is a great workout!",
+      "date": 1767248983,
+      "review_helpful_count": 1,
+      "author_display_name": "TopHatGuy21",
+      "author_alias": "TopHatGuy21",
+      "developer_response": null
+    },
+    {
+      "id": "33423724913893299",
+      "score": 5,
+      "review_title": "Smooth integration",
+      "review_description": "after using this app in three different locations and spaces i have to say it's consistent and smooth. really enjoying the mixed reality integration and the ability to set up multiple locations and customize. looking forward to future enhancements and releases in the app.",
+      "date": 1762617596,
+      "review_helpful_count": 1,
+      "author_display_name": "yodaWNY",
+      "author_alias": "yodaWNY",
+      "developer_response": null
+    },
+    {
+      "id": "877499125444486",
+      "score": 5,
+      "review_title": "Laser dance",
+      "review_description": "Brilliant game for VR. Everyone has a great laugh and as an elder you get a workout and balance exercise. Well done developers brilliant idea, play is smooth, nice bright lasers, easy setup, no internet needed so I can take almost anywhere and a good price.\nThanks.",
+      "date": 1762627332,
+      "review_helpful_count": 1,
+      "author_display_name": "indskize",
+      "author_alias": "indskize",
+      "developer_response": null
+    },
+    {
+      "id": "863741286826864",
+      "score": 4,
+      "review_title": "lots of potential but easy to cheat",
+      "review_description": "I absolutely see the potential, but without foottracking there is simply too much opportunity to cheat. Please add foottracking, I would totally buy a set of quest pro controllers for this!",
+      "date": 1762518664,
+      "review_helpful_count": 2,
+      "author_display_name": "sanktnelson",
+      "author_alias": "sanktnelson",
+      "developer_response": {
+        "body": "Hey Sanktnelson, thank you for your feedback! I've currently focused on building the game with what's possible out-of-the box for Quest, in a way that requires as little setup as needed for most folks to enjoy the game. So for the time being, the game will remain upper-body tracking only. \nIf some good, standardized leg-trackers come out in the future, I may look into supporting that, but for now I want to be upfront that it's not on the roadmap.",
+        "date": 1762521724
+      }
+    },
+    {
+      "id": "847687241767701",
+      "score": 4,
+      "review_title": "Great but",
+      "review_description": "Ok maybe I just haven't found the option but even tho it's laser DANCE, there is no music. I've searched through the options, where's the music?",
+      "date": 1762595374,
+      "review_helpful_count": 3,
+      "author_display_name": "Croinkei",
+      "author_alias": "Croinkei",
+      "developer_response": {
+        "body": "Hey Croinkei, thank you for your feedback! There's indeed no music in the game yet - it's a big part of why it's launching in early access first. \nI have some ideas on how I'd like the music to integrate and respond to the gameplay, but as this will require quite some work I did not want that to delay having the game out there already for people to try it and give feedback on it.",
+        "date": 1762599355
+      }
+    },
+    {
+      "id": "1498554164755177",
+      "score": 5,
+      "review_title": "So incredibly polished!",
+      "review_description": "An excellent usage of mixed reality and executed so dang well. We literally played it until our headset ran out of batteries; trying it in different rooms and making our own challenges. Well done and excited to get more levels!!!",
+      "date": 1762718259,
+      "review_helpful_count": 1,
+      "author_display_name": "SteveLansing",
+      "author_alias": "SteveLansing",
+      "developer_response": null
+    },
+    {
+      "id": "890972250065987",
+      "score": 5,
+      "review_title": "Great concept!",
+      "review_description": "This game is different and fun! Feel like it's still missing a lot though. Would love to see music and co-op.",
+      "date": 1764630904,
+      "review_helpful_count": 1,
+      "author_display_name": "Chazzems",
+      "author_alias": "Chazzems",
+      "developer_response": null
+    },
+    {
+      "id": "853932947806602",
+      "score": 5,
+      "review_title": "Amazing MR Game!",
+      "review_description": "Laser Dance is a delightfully fun mixed-reality game that will make you smile. The objective is clear - hit the button! How you go about it is up to you. Grab this one and fall in love with your Quest 3.",
+      "date": 1762844596,
+      "review_helpful_count": 1,
+      "author_display_name": "luckymac24",
+      "author_alias": "luckymac24",
+      "developer_response": null
+    },
+    {
+      "id": "855996910934643",
+      "score": 5,
+      "review_title": "Great Game to show off your MR games",
+      "review_description": "Family all enjoyed the game and it was very easy to setup! Can't wait for more levels to come out",
+      "date": 1764440212,
+      "review_helpful_count": 1,
+      "author_display_name": "Wimberlord",
+      "author_alias": "Wimberlord",
+      "developer_response": null
+    },
+    {
+      "id": "1861894901111953",
+      "score": 5,
+      "review_title": "Passthrough game of the year!",
+      "review_description": "A mix between, reality and VR. But without having to punch a hole in your wall!\nLove it!",
+      "date": 1764286696,
+      "review_helpful_count": 1,
+      "author_display_name": "justabanan",
+      "author_alias": "justabanan",
+      "developer_response": null
+    },
+    {
+      "id": "935942772938808",
+      "score": 4,
+      "review_title": "Pretty good game…but",
+      "review_description": "Overall, I loved the game. It started out easy then got super hard. I love a good challenge. But the body tracking only goes from the spine to the head (and arms), which is still impressive. But I could visibly have my legs touching and laser and it wouldn’t call it out. I understand this might be a restriction on Meta headsets. But if y’all know any compatible full body tracking suits I could get, please recommend them!\n\nIs this game compatible with full body tracking suits?",
+      "date": 1769103288,
+      "review_helpful_count": 1,
+      "author_display_name": "GroBoyYT11",
+      "author_alias": "GroBoyYT11",
+      "developer_response": {
+        "body": "Hey GroyBoyYT11, thank you for your review! \n\nI have gotten the feedback before that lasers close to the floor can be pretty immersion breaking. For the early levels it was meant as a way for players to discover what parts of their body were and weren't tracked,  though I'm realizing the loss in immersion may not have been worth it. It's a bit more difficult to modify for some later levels, but I am looking into tweaking some of the first levels to have less lasers at leg height. \n\nYou're right that Quest is currently limited to only upper body tracking, and any other tracking would require external tracking solutions which can add a significant cost. \nI did order some Slime VR trackers to experiment with later this year, but can't promise there will be actual support for them just yet. \n\nThere's been some other folks interested in full body tracking in our feedback discord though, so if you'd like to discuss it more you're welcome to join us there! (laserdancegame.com/discord)",
+        "date": 1769111021
+      }
+    },
+    {
+      "id": "869881122885754",
+      "score": 5,
+      "review_title": "Diamond in the rough",
+      "review_description": "Great game amazing \n movement. It’s a real workout, but the one thing I felt like this game really needed was entire body tracking, but it’s a shame technology just isn’t there with these headsets I would buy a full body tracking suit just to have realistic collision and just not the top half of my body. Overall great, but I hope you can do more with this amazing idea. I’ve almost 100% in the game and let me say I’ve been the least bored 100% in this game than any other game now I know that might be a little bit of a low bar because of how small this game is so far but it’s a very fun",
+      "date": 1768793924,
+      "review_helpful_count": 0,
+      "author_display_name": "EWass1",
+      "author_alias": "EWass1",
+      "developer_response": null
+    },
+    {
+      "id": "868015696393437",
+      "score": 5,
+      "review_title": "This is amazing",
+      "review_description": "Laser dance is really fun i think they should add where you can make your own levels and customized stuff",
+      "date": 1763508657,
+      "review_helpful_count": 1,
+      "author_display_name": "MrElliot5201",
+      "author_alias": "MrElliot5201",
+      "developer_response": null
+    },
+    {
+      "id": "861696157027730",
+      "score": 5,
+      "review_title": "Laser dance is Awesome",
+      "review_description": "Awesome game and good for all ages. Im 36 with 2 kids 6 and 7 years old and we all love this game! Definitely worth the $10",
+      "date": 1762907279,
+      "review_helpful_count": 1,
+      "author_display_name": "KenNugent",
+      "author_alias": "KenNugent",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-21T03:51:41Z"
+}

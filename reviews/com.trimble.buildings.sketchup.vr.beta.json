@@ -1,0 +1,42 @@
+{
+  "app_id": "25306821012235573",
+  "package_name": "com.trimble.buildings.sketchup.vr.beta",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "SketchUp Viewer Beta",
+  "rating_average": 3.8,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "2300725660272808",
+      "score": 5,
+      "review_title": "Turn the real world into 3d  is great",
+      "review_description": "Just wanted to express my praise for the new feature in the SketchUp Quest viewer. The ability to turn a real-world context into a 3d SketchUp model is a really great addition to the app.\n\nUsing a Quest3, to be able to just walk around the space a few minutes and have it convert to a rough 3d model is a really nice for my work as an architect. I have to test more but I can see me doing this for every new remodeling job.\n\nThe accuracy is about 99% which is nice for a concept design but not good enough to actually use it for working drawings - yet... But with ever-improving hardware and software, I can see this improve with every generation so I'm hoping the team will continue to develop and support this feature and not just leave it as a proof of concept. \n\nIn short; this option really could be a game changer for every designer and architect.",
+      "date": 1724942273,
+      "review_helpful_count": 6,
+      "author_display_name": "MaxArch",
+      "author_alias": "MaxArch",
+      "developer_response": null
+    },
+    {
+      "id": "1260319578542032",
+      "score": 3,
+      "review_title": "Text is aliasing and performance",
+      "review_description": "This app is really neat, but I noticed a lot of text is hard to read and as soon as I loaded a model the performance dropped quite a bit. Since this is a beta, perf probably somewhat forgivable but they should be using compositor layers to make text clear.",
+      "date": 1728335051,
+      "review_helpful_count": 1,
+      "author_display_name": "JohnIsInVR",
+      "author_alias": "JohnIsInVR",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T03:43:27Z"
+}

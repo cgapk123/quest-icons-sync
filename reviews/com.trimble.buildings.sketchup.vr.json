@@ -1,0 +1,568 @@
+{
+  "app_id": "9874528232572675",
+  "package_name": "com.trimble.buildings.sketchup.vr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "SketchUp Viewer",
+  "rating_average": 3.8957055214724,
+  "rating_count": 163,
+  "review_count": 58,
+  "reviews": [
+    {
+      "id": "699447013251833",
+      "score": 5,
+      "review_title": "Started a new journey with Sketchup",
+      "review_description": "I had never used Sketchup till recently when I could not afford other software due to losing my job and forceful retirement, I checked around and found Sketchup for web a free version that is very powerful and it got me rolling on a new journey, then when working I thought of viewing my model in VR and I got Sketchup viewer and I could actually view my work in a size, with this I can see numerous possibilities of me getting back to work freelancing and giving clients a real feel of “what they see is what they get” , and also this would be really great for not just my Makerspace but also when trying out new designs.\nThe software is a bit slack on big drawings or maybe my drawings were murky so exiting the drawing seemed to have a bug. \n\nScan space a new development is awesome as it allows me to scan a space, and this allows me to work with my models in it, I will work with it and leave a more detailed review later   \n\nMaybe something the developers could look at a later stage",
+      "date": 1751357602,
+      "review_helpful_count": 16,
+      "author_display_name": "Anvilfire",
+      "author_alias": "Anvilfire",
+      "developer_response": {
+        "body": "Hi Anvilfire, and thank you for your review. Glad to hear that SketchUp is a useful companion to your new professional journey. We look forward to hearing more details about your experience with the application.",
+        "date": 1751359958
+      }
+    },
+    {
+      "id": "741374191977660",
+      "score": 1,
+      "review_title": "How do you upload a skp file",
+      "review_description": "Our architect sent us a skp file to be opened and viewed in SketchUp. I put on my VR headset and downloaded the file to the headset. I opened Sketchup and cannot, for the life of me, work out how to upload my file. The user interface is terrible. In the end I had to create a Trimble ID download Trimble Connect, browse (but files were not even a standard option). The way to upload a skp file was painfully opaque.\n\nCould make this so much simpler by putting an upload button on the Sketchup App. SO. MUCH. SIMPLER.\n\nThe viewing experience and navigation is nothing to get excited about either.",
+      "date": 1754223819,
+      "review_helpful_count": 3,
+      "author_display_name": "ArchangelTwinkletoes",
+      "author_alias": "ArchangelTwinkletoes",
+      "developer_response": null
+    },
+    {
+      "id": "708565029014965",
+      "score": 2,
+      "review_title": "good ideas, poor execution",
+      "review_description": "The scan space is a really nice idea, if only I could actually access the models. It never uploads any of the models to Trimble Connect like it says it would, so I have no way of getting my scanned models off of the Meta Quest. My wifi is working fine for all other applications, so that shouldn't be a problem. \n\nAlso the app is really quite buggy, for one room in my house, if I open the model, I can't exit out of it no matter what unless I close the app. And in other cases, sometimes if I step out of bounds, it will keep displaying the menu to reset my boundary, but even when I step back within the boundaries, none of the buttons work and the only way to get out of this is to restart my Meta Quest.",
+      "date": 1755635292,
+      "review_helpful_count": 1,
+      "author_display_name": "eris2000",
+      "author_alias": "eris2000",
+      "developer_response": {
+        "body": "Hi eris2000, thank you for the review and the feedback. I am sorry to hear about the poor experience you have with the app. We will try to see if this is a bug that can be addressed before the end of maintenance for the app that is announced to happen next month.",
+        "date": 1755771456
+      }
+    },
+    {
+      "id": "793440586548791",
+      "score": 1,
+      "review_title": "Stuck or pointless, undecided!",
+      "review_description": "I couldn't get my models from my PC into VR, surely signing in with the same account on both platforms should access the same library?",
+      "date": 1757590444,
+      "review_helpful_count": 0,
+      "author_display_name": "FiftyKent",
+      "author_alias": "FiftyKent",
+      "developer_response": {
+        "body": "Hi FiftyKent, there is no possibility to transfer a file from your PC but you can publish models in your Trimble Connect account from SketchUp on Desktop, Web, or Mobile, and then access them directly on SketchUp Viewer for Quest.",
+        "date": 1759159815
+      }
+    },
+    {
+      "id": "829300690256591",
+      "score": 1,
+      "review_title": "T",
+      "review_description": "Oh it's so easy to use! (heavy sarcasm)",
+      "date": 1757642604,
+      "review_helpful_count": 0,
+      "author_display_name": "ppatty00",
+      "author_alias": "ppatty00",
+      "developer_response": {
+        "body": "Hi ppatty00, I am sorry to hear you had a suboptimal experience with the intuitiveness of the app. When and if SketchUp returns to XR we will do our best to improve the usability.",
+        "date": 1758551291
+      }
+    },
+    {
+      "id": "687803484411889",
+      "score": 3,
+      "review_title": "Need to explore with customer same time",
+      "review_description": "I already love the immersive experience, but I can’t find a way to have a customer with me inside of a model at the same time. The app description mentions that it is possible but I just simply can’t. There is no video tutorial or any explicative info about it. Please helpppp.",
+      "date": 1748375475,
+      "review_helpful_count": 11,
+      "author_display_name": "RayoSereno",
+      "author_alias": "RayoSereno",
+      "developer_response": {
+        "body": "Hi RayoSereno, thank you for the feedback. Unfortunately there is currently no real-time collaboration functionality available that would allow you and your customer to \"meet\" inside the model. I am not sure about the specific part of the description you are referring to but i apologize if that was misleading. The option you have is to cast your Quest on your mobile app, or a chromecast screen and thus be able to see what your customer sees in VR. Additionally I would suggest you set up your Scenes in SketchUp first, and then enter the \"Presentation mode\" inside the Quest app to make it easier for your customer to navigate the model while preventing them from wandering around. Pro tip: Enable \"Lock\" inside the Presentation mode which will allow you to change scenes with a simple swipe of the controller's thumbstick while your customer can simply wear the headset and watch the scenes you are changing using the controllers; no instructions and no onboarding required!",
+        "date": 1748512724
+      }
+    },
+    {
+      "id": "706331645905862",
+      "score": 5,
+      "review_title": "Prof. Yousef M. Alroumi",
+      "review_description": "Too bad it's leaving soon...\nA great tool and the only arch company doing VR well\nSo FUTURESTIC",
+      "date": 1755844199,
+      "review_helpful_count": 0,
+      "author_display_name": "yousefalr",
+      "author_alias": "yousefalr",
+      "developer_response": null
+    },
+    {
+      "id": "765087200019975",
+      "score": 5,
+      "review_title": "SketchUp Viewer",
+      "review_description": "Amazing 😍, 5 stars. I wish there was a way to build in there.",
+      "date": 1754980397,
+      "review_helpful_count": 1,
+      "author_display_name": "Gumleaf",
+      "author_alias": "Gumleaf",
+      "developer_response": {
+        "body": "Hi Owl059, thank you for the review. We also wish we could have offered authoring tools but with the app being discontinued at the end of the year, it seems like this is a feature we will have to revisit if SketchUp will make a return in the XR space in the future. Thank you for the feature request though!",
+        "date": 1755771306
+      }
+    },
+    {
+      "id": "1046850744052598",
+      "score": 4,
+      "review_title": "Amazing but could be even better",
+      "review_description": "Graphics quality appears lower than the browser version but without the lags . Some materials were severely altered in color. Navigation is ok without any dizziness issues.  \n\nBUT, having such a tool to review and present  your work for free is truly amazing!",
+      "date": 1748997240,
+      "review_helpful_count": 3,
+      "author_display_name": "Patriant",
+      "author_alias": "Patriant",
+      "developer_response": {
+        "body": "Hi Patriant,\n\nThank you for the feedback. Please share with us at xr@sketchup.com some screenshots of how the colors were altered between your model in the browser and in the Quest, along with the sketchup files so we can investigate.\n\nThank you,\nAris",
+        "date": 1749210880
+      }
+    },
+    {
+      "id": "647585881762123",
+      "score": 3,
+      "review_title": "",
+      "review_description": "I`m pleased that something is being done but it needs more time with different models to make a proper check. I was hope that it would give a scan of the textures of the space and use it in the model even though it would be primitive and big file size. In a way using the many cameras in the Quest3 to scan like SCANIVERSE and put it directly in the Sketchup Model Viewere. Hopefully in time this will come.",
+      "date": 1743770468,
+      "review_helpful_count": 6,
+      "author_display_name": "Cerf",
+      "author_alias": "Cerf",
+      "developer_response": {
+        "body": "Hi Cerf, and thank you for the feedback. The scanning capabilities that the Quest platform offers as well as the new camera feed access open up new opportunities for reality capture that we cannot wait to bring to you. I agree that is exciting to see applications like Scaniverse showing up in the Quest store, and hopefully we can draw some inspiration from them :)",
+        "date": 1744376919
+      }
+    },
+    {
+      "id": "1766359431422932",
+      "score": 4,
+      "review_title": "This is great",
+      "review_description": "Was able to use this to remodel a bathroom and test various tile layouts. \nIt would be great if the floor grid could be turned off. But other than that, really  helpful.",
+      "date": 1746453454,
+      "review_helpful_count": 4,
+      "author_display_name": "stupidearthling",
+      "author_alias": "stupidearthling",
+      "developer_response": {
+        "body": "Hi there,\n\nGlad to see you are finding value in the new scan space feature. Could you send us some screenshots of your work at xr@sketchup.com? We would love to see some of your work!",
+        "date": 1746459393
+      }
+    },
+    {
+      "id": "838326056022175",
+      "score": 3,
+      "review_title": "Not super user friendly",
+      "review_description": "Its cool, but I don't really know what to do. 🤷‍♀️ I'm going to keep it and youtube some learning videos. Seems like it would be fun if I could do anything on it.",
+      "date": 1757176277,
+      "review_helpful_count": 0,
+      "author_display_name": "npiskula",
+      "author_alias": "npiskula",
+      "developer_response": null
+    },
+    {
+      "id": "627403370454032",
+      "score": 1,
+      "review_title": "Can't support",
+      "review_description": "Can't support more than a couple mbs of file. What's the point if u can't open and walk through in a big project. It won't even open my 500 mb bedroom or even 100 mb of bathroom. How am I gonna walk through client through a whole project.",
+      "date": 1744445314,
+      "review_helpful_count": 4,
+      "author_display_name": "IrfanAhmad93",
+      "author_alias": "IrfanAhmad93",
+      "developer_response": {
+        "body": "Hi IrfanAhmad93, and thank you for the review. I understand the frustration with the support of complex files but this is a limitation that is currently imposed by the device itself. 500MB is actually a rather large file as we support (approximately) files of up to 100MB. However there might be ways to optimize even your larger files in order to view them in the Quest Viewer. Often the whole issue is created by an overly complex detail in the model (like a flower), or large textures. Please send your files to xr@sketchup.com and the team will do their best to identify the issue and come up with suggestions.",
+        "date": 1744620866
+      }
+    },
+    {
+      "id": "1647883412533167",
+      "score": 1,
+      "review_title": "Nags",
+      "review_description": "1 star for the notification nag.",
+      "date": 1750041443,
+      "review_helpful_count": 0,
+      "author_display_name": "Eunostos",
+      "author_alias": "Eunostos",
+      "developer_response": {
+        "body": "Hi Eunostos, what notification are you referring to specifically? This might be a bug that we can quickly fix. Please respond here or email us at xr@sketchup.com",
+        "date": 1750106143
+      }
+    },
+    {
+      "id": "702102999650891",
+      "score": 1,
+      "review_title": "Problems",
+      "review_description": "Dont work with large files",
+      "date": 1750135878,
+      "review_helpful_count": 0,
+      "author_display_name": "AlterJuan",
+      "author_alias": "AlterJuan",
+      "developer_response": {
+        "body": "Hi AlterJuan. Variables such as number of polygons or size of images/textures will impact performance. We recommend keeping your models between 2.5M polygons and less than 100Mb overall. Also make sure your textures do not exceed 1200px and remove any overly complex components with low visual impact. If none of the above helps, please send some of the files you have attempted to load to xr@sketchup.com so the team can investigate. Thank you!",
+        "date": 1751359673
+      }
+    },
+    {
+      "id": "591767724026055",
+      "score": 5,
+      "review_title": "Love this feature",
+      "review_description": "I have used on two different rooms. The measurements were spot on!!! Love this.\nJust wish I knew on to access offline.",
+      "date": 1744389368,
+      "review_helpful_count": 5,
+      "author_display_name": "danny6876",
+      "author_alias": "danny6876",
+      "developer_response": {
+        "body": "Hi Danny and thank you for the feedback. Even if you are offline the scanning process and model generation will work the exact same way. The only difference is that your file will remain locally stored until the next time you are connected to the internet at which point the SketchUp model will automatically be uploaded to Trimble Connect so you can access it from any other SketchUp client!",
+        "date": 1744620655
+      }
+    },
+    {
+      "id": "800425749812151",
+      "score": 4,
+      "review_title": "Model shifts when I mobes",
+      "review_description": "Maybe better anchoring tools needed",
+      "date": 1755696630,
+      "review_helpful_count": 0,
+      "author_display_name": "NeonLlama4928",
+      "author_alias": "NeonLlama4928",
+      "developer_response": {
+        "body": "Hi NeonLlama4928, thank you for the feedback and I am sorry to hear about the poor experience you had with the app so far. Unfortunately the app will stop being maintained next month so I think it is unlikely we can offer any improvements to spatial anchoring. We will keep this in mind though if SketchUp makes a return in the XR space in the future.",
+        "date": 1755771548
+      }
+    },
+    {
+      "id": "2404632243204384",
+      "score": 5,
+      "review_title": "Wow - easiest setup ever",
+      "review_description": "Within five minutes of downloading, I was logged into my sketchup account  (via an easy to use login 4 digit code), looking at my models and navigating around AND within them. What a great app...love it.",
+      "date": 1742038801,
+      "review_helpful_count": 3,
+      "author_display_name": "thumbs_of_doom",
+      "author_alias": "thumbs_of_doom",
+      "developer_response": {
+        "body": "Hi thumbs_of_doom!\nGlad you are enjoying the app, and happy to hear that the device token authentication was convenient to use :)",
+        "date": 1742984482
+      }
+    },
+    {
+      "id": "598782539984988",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Good , would prefer if the 3d space scan could also capture your space with textures, not just object outlines",
+      "date": 1743459106,
+      "review_helpful_count": 3,
+      "author_display_name": "panosdrak",
+      "author_alias": "panosdrak",
+      "developer_response": {
+        "body": "Hi Panos, we are glad you find the new Scan Space feature useful, and appreciate the suggestion for capturing textures! We will consider this for future releases.",
+        "date": 1743496386
+      }
+    },
+    {
+      "id": "756096284252106",
+      "score": 4,
+      "review_title": "Apa",
+      "review_description": "L",
+      "date": 1755038853,
+      "review_helpful_count": 0,
+      "author_display_name": "FredyNph",
+      "author_alias": "FredyNph",
+      "developer_response": null
+    },
+    {
+      "id": "567966626407804",
+      "score": 5,
+      "review_title": "Good Working",
+      "review_description": "Thank You.",
+      "date": 1743685718,
+      "review_helpful_count": 1,
+      "author_display_name": "Ozgurco",
+      "author_alias": "Ozgurco",
+      "developer_response": {
+        "body": "Hi Ozgurco, Thank you for the review and I am sorry to hear about your experience with the app so far. 8MB sounds like a small file that could be easily handled by the app. Could you please share the file with us at xr@sketchup.com? Regarding the shakiness and blurriness this might be related to a number of reasons including the eye-distance setting on the device itself. Do you only experience this with the SketchUp Viewer app?",
+        "date": 1743580437
+      }
+    },
+    {
+      "id": "613843135140202",
+      "score": 5,
+      "review_title": "Thanks",
+      "review_description": "Works well 👍",
+      "date": 1742314949,
+      "review_helpful_count": 1,
+      "author_display_name": "berguney",
+      "author_alias": "berguney",
+      "developer_response": {
+        "body": "🎉",
+        "date": 1742984521
+      }
+    },
+    {
+      "id": "552914914574835",
+      "score": 5,
+      "review_title": "So cool",
+      "review_description": "Using sketch up for a few years to create simple project builds.  Seeing them in VR … wow- great tech.  Easy to use.",
+      "date": 1740171139,
+      "review_helpful_count": 1,
+      "author_display_name": "COOOKI3_M0NSTER",
+      "author_alias": "COOOKI3_M0NSTER",
+      "developer_response": {
+        "body": "Hi COOOKI3_M0NSTER and thank you for the review. Glad to see the Quest app brings even more value to your SketchUp workflow :)",
+        "date": 1740413947
+      }
+    },
+    {
+      "id": "1302732080946682",
+      "score": 5,
+      "review_title": "Worked perfect for our house project",
+      "review_description": "Very easy to use and worked well for our single house project. Thanks!",
+      "date": 1737136858,
+      "review_helpful_count": 5,
+      "author_display_name": "erik.almgren",
+      "author_alias": "erik.almgren",
+      "developer_response": {
+        "body": "Hi Erik,\nThank you for your review and glad to know that SketchUp Viewer helped you in your house project!",
+        "date": 1740471613
+      }
+    },
+    {
+      "id": "545199145353524",
+      "score": 3,
+      "review_title": "Could be better",
+      "review_description": "Controlling of alignments, pan, tilt, zoom and elevation are too difficult. Mixed reality doesn’t allow you to walk, we understand the risks so could add a full floor zone mapping instead of a circle around you. Also would be nice to have a transparency feature to make immersive models transparent.",
+      "date": 1743677635,
+      "review_helpful_count": 0,
+      "author_display_name": "Sandry",
+      "author_alias": "Sandry",
+      "developer_response": {
+        "body": "Hi Sandry, thank you for your feedback. Regarding navigation controls, could you email us at xr@sketchup.com with some specific suggestions or reference other application where you find navigation to be more intuitive? I also understand that you would like the app to be boundaryless so that you can walk without restrictions, and be able to control the global transparency of the model to compare against the real world. Great suggestions,  Thank you!",
+        "date": 1744376454
+      }
+    },
+    {
+      "id": "543443755525318",
+      "score": 4,
+      "review_title": "This is awesome",
+      "review_description": "So far I liked it this is the best for presentation",
+      "date": 1739475057,
+      "review_helpful_count": 1,
+      "author_display_name": "Foyxal",
+      "author_alias": "Foyxal",
+      "developer_response": {
+        "body": "Thank you for the review! We are glad you find SketchUp Viewer valuable to your workflow :)",
+        "date": 1740040557
+      }
+    },
+    {
+      "id": "692455120609112",
+      "score": 1,
+      "review_title": "",
+      "review_description": "The demo explains nothing",
+      "date": 1747864205,
+      "review_helpful_count": 0,
+      "author_display_name": "HassanKhallouf",
+      "author_alias": "HassanKhallouf",
+      "developer_response": {
+        "body": "Hi Hassan, I am sorry to hear that the demo did not meet your expectations. Can you tell us what aspects of the application were not explained properly? Do you have some examples of demos from other applications you would like to offer as references? Feel free to respond by editing your review here or email us at xr@sketchup.com",
+        "date": 1748262369
+      }
+    },
+    {
+      "id": "357016847487338",
+      "score": 1,
+      "review_title": "It's not free",
+      "review_description": "You need a paying Trimble account to do anything useful with it.",
+      "date": 1717926142,
+      "review_helpful_count": 10,
+      "author_display_name": "retro.dirk",
+      "author_alias": "retro.dirk",
+      "developer_response": {
+        "body": "Hi retro.dk\nSketchUp Viewer can be used with a SketchUp Free account that gives you access to our Free web editor (app.sketchup.com), and a Trimble Connect Personal account which is also free and comes with 10GB of free storage. Get started here: https://www.sketchup.com/en/plans-and-pricing/sketchup-free",
+        "date": 1718027608
+      }
+    },
+    {
+      "id": "312491055282247",
+      "score": 5,
+      "review_title": "Love Sketchup… but",
+      "review_description": "*Review Update*\nI gave Sketchup 3 stars in my last review because of the lack of features and poor graphics. Since then the developers have been updating the app and adding great features after listening to our feedback which is fantastic.\nNow with mixed reality mode, smoother edges and ambient occlusion it is a completely different experience.\n\nHope Sketchup keeps listening to their users and have many surprises for us in the future.\n\nWell Done Team Sketchup!",
+      "date": 1715825579,
+      "review_helpful_count": 28,
+      "author_display_name": "Miur4",
+      "author_alias": "Miur4",
+      "developer_response": {
+        "body": "Hi Miur4 and thank you for the revised review!\nIt means the world to the team to hear that we have managed to make the application more valuable for you, and rest assured that we will keep it up!",
+        "date": 1715839084
+      }
+    },
+    {
+      "id": "263787933485045",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Useless",
+      "date": 1711394522,
+      "review_helpful_count": 1,
+      "author_display_name": "elChaman305",
+      "author_alias": "elChaman305",
+      "developer_response": {
+        "body": "Hi Jose,\nThank you for taking the time to rate our app.\nCould you let us know what was your expectation from this app and how we can make this valuable for your workflow?",
+        "date": 1712835685
+      }
+    },
+    {
+      "id": "7073029736076366",
+      "score": 2,
+      "review_title": "The Trimble Account Login Problem",
+      "review_description": "I login my Trimble account, it only show only 2 of my uploaded model to views, I have over 80 model cannot show on the app.\n\nIn addition, it also cannot browse the local .skp file to view the model.",
+      "date": 1700610257,
+      "review_helpful_count": 2,
+      "author_display_name": "Alex511",
+      "author_alias": "Alex511",
+      "developer_response": {
+        "body": "04/2024 Update:\nHi Alex, I wanted to let you know that recent updates should have probably addressed the issue that you were facing. We realized that the loading time of recent files was slow enough to make you think that your files would not appear. This is now resolved and all your recent files that have been saved in Trimble Connect across all devices (Desktop, Web, Mobile) should appear in the Recent Files space. Let us know if you are still facing similar issues.\n\nHi Alex,\n\nThank you for your feedback and apologies for the inconvenience you are experiencing so far. To access your Trimble Connect SketchUp models, please make sure you navigate to the Trimble Connect tab (second button from the top on the left hand side) and select the appropriate Region (North America, Europe, Asia, Australia) by clicking the server icon at the top left of the menu. Your projects may be stored in a different Region that the one that the Quest Viewer displays by default. \nRegarding browsing the local .skp file, can you please clarify what the issue is? Have you tried using the AR|VR Extension from Extension Warehouse? How are you currently trying to load a model locally on the Quest device?",
+        "date": 1713356425
+      }
+    },
+    {
+      "id": "308231315153256",
+      "score": 1,
+      "review_title": "Does not work with trial version models",
+      "review_description": "I downloaded a trial version of Sketchup on my PC to make a model of the place I’m moving to. I wanted to use my Quest2 and Sketchup Viewer to get an idea of how my furniture will fit in the space. The file does not load on my Quest2.",
+      "date": 1697122109,
+      "review_helpful_count": 5,
+      "author_display_name": "Chris_Wiley",
+      "author_alias": "Chris_Wiley",
+      "developer_response": {
+        "body": "Hi Chris,\n\nI am sorry for the inconvenience you have experienced with the application so far. SketchUp Viewer for Quest is completely free for all users, including Trial and Free users.\n\nCan you please let me know how you attempted to transfer the file so that you can view it on SketchUp Viewer on Quest 2? If you published it in Trimble Connect, you need to go to the Trimble Connect tab, navigate to the right location (North America, Europe, Asia, Australia) and then select the right project. If you used the AR/VR extension you will find your model under the Recent Projects tab. \n\nYou can find more in our Help Center articles here: https://help.sketchup.com/en/sketchup-viewer/meta-quest\n\nHope that helps!",
+        "date": 1697223049
+      }
+    },
+    {
+      "id": "306016392597910",
+      "score": 3,
+      "review_title": "A little disappointing",
+      "review_description": "The graphics are very pixelated the immersive feeling is great. Just need sharper graphics. Not sure how to link to twinmotion either…..",
+      "date": 1715820102,
+      "review_helpful_count": 0,
+      "author_display_name": "GaryCranson",
+      "author_alias": "GaryCranson",
+      "developer_response": {
+        "body": "Hi Gary, and thank you for taking the time to share your feedback. We understand that the visual quality can be further improved and we are investigating on how to achieve this in future releases. Unfortunately there is no link to Twinmotion as this is a third-party solution.",
+        "date": 1715839260
+      }
+    },
+    {
+      "id": "278071088724010",
+      "score": 1,
+      "review_title": "not workin",
+      "review_description": "sketchup viewar install in my quest-2 but not working \nMy model not showing plish how to contect you\nHow can i sand you my problem pliz help me 🙏🙏🙏",
+      "date": 1712860296,
+      "review_helpful_count": 0,
+      "author_display_name": "ASHVIN8855",
+      "author_alias": "ASHVIN8855",
+      "developer_response": {
+        "body": "Hi ER Ashvin Nakum. \nPlease reach out to xr@sketchup.com and include any relevant information about the issue including your model so that the team can have a look.",
+        "date": 1714722187
+      }
+    },
+    {
+      "id": "267500353109269",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Would be so much better if you had interactive tutorials. \nAlso, if you could edit the models.",
+      "date": 1710035588,
+      "review_helpful_count": 0,
+      "author_display_name": "Cjjlr223",
+      "author_alias": "Cjjlr223",
+      "developer_response": {
+        "body": "Hi Chris and thank you for the feedback. Note taken on the interactive tutorials and the ability to edit the model. I would love to know more about the kind of changes you hope you could do on your model in VR.\nIf you want to chat about it book a 1:1 here: https://calendar.app.google/tddoR7dsSYuL1R7T9\nIf you would like to get a first glimpse of the new stuff we are working on make sure to download \"SketchUp Viewer Beta\" on App Lab: https://www.meta.com/s/5YUgko97J",
+        "date": 1712835707
+      }
+    },
+    {
+      "id": "259761557215889",
+      "score": 5,
+      "review_title": "Missing something",
+      "review_description": "A V-ray",
+      "date": 1709508364,
+      "review_helpful_count": 0,
+      "author_display_name": "Jodelta974",
+      "author_alias": "Jodelta974",
+      "developer_response": {
+        "body": "Hi Jolan,\nI understand that you would like the visualization to be more photorealistic. We are working on improving this aspect of the application but it is always a fine balance between performance and visual quality. Nonetheless make sure to check out \"SketchUp Viewer Beta\" in the App Lab for early access to the latest developments.",
+        "date": 1712835722
+      }
+    },
+    {
+      "id": "258960533799208",
+      "score": 3,
+      "review_title": "issue with scale",
+      "review_description": "i tried my level best to actual measure something by zoning myself in the border fringe. I found the measurement was 10cm short. It should have been 80, when I measure with my physical tape (not SU tape) it was only 70. Which means the model is slightly smaller that the actual size. I lkinda sensed this while using it. Thaty did this exercises. Not sure how to fix it or is it glitch from app. \nbut its fun to use. Hope they fix it",
+      "date": 1697826820,
+      "review_helpful_count": 2,
+      "author_display_name": "somuchock",
+      "author_alias": "somuchock",
+      "developer_response": {
+        "body": "Hi somuchok,\nGlad you are finding the app enjoyable to use and thank you for reporting this issue with the tape measure. Could you please record what you’re experiencing and share it with us by starting a new thread in our forum?\nhttps://forums.sketchup.com/c/sketchup-viewer/quest\nOur team would be eager to look into this.\nRegards,\nAris",
+        "date": 1698075503
+      }
+    },
+    {
+      "id": "231111763293722",
+      "score": 2,
+      "review_title": "abstruse",
+      "review_description": "How can I see other models than the default one?",
+      "date": 1697210251,
+      "review_helpful_count": 0,
+      "author_display_name": "Sgneft",
+      "author_alias": "Sgneft",
+      "developer_response": {
+        "body": "Hi Sgneft,\n\nTo load a model on the application you can either publish your SketchUp model to a Trimble Connect project using SketchUp for Desktop, Web, or iPad. You can find more information here: https://help.sketchup.com/en/meta-quest/home-screen\n\nAlternatively, if you are working on SketchUp for Desktop you can transfer a file to your Quest Viewer directly using the AR/VR extension. Find out more here: https://help.sketchup.com/en/sketchup-viewer/using-sketchup-viewer-arvr-extension\n\nIf you prefer video tutorials, head over to the Learn tab of the applications Home Menu.\n\nHope that helps!\nAris",
+        "date": 1697212888
+      }
+    },
+    {
+      "id": "210613125467484",
+      "score": 5,
+      "review_title": "Strong start.",
+      "review_description": "Compared to the old SketchUp Viewer for PCVR this has come a long was and seems to handle much bigger models.",
+      "date": 1704921342,
+      "review_helpful_count": 1,
+      "author_display_name": "J4sketchup",
+      "author_alias": "J4sketchup",
+      "developer_response": {
+        "body": "Glad you find the new app to be a step forward from our PCVR version. More to come soon :)",
+        "date": 1708328541
+      }
+    },
+    {
+      "id": "186541467881572",
+      "score": 5,
+      "review_title": "ND",
+      "review_description": "The only reason I bought the Quest 3 is this Sketchup Viewer, and its helping me a lot in my design. However, I am wondering is there any plan to enable passthrough mode in the viewer, so that it can function more as an AR tool. Thanks and great job guys.",
+      "date": 1703612801,
+      "review_helpful_count": 8,
+      "author_display_name": "nameysameygioffice",
+      "author_alias": "nameysameygioffice",
+      "developer_response": {
+        "body": "UPDATE: \nPassthrough is now enabled in the latest 3.2.0 version. Let us know what you think!\n\nHi ND, and glad to hear that SketchUp Viewer and Quest 3 are helping you in your design. Passthrough is definitely in our roadmap. If you want to sign up for early access to new features fill out this form: https://forms.gle/SX8VSdEx98qMmvXg8",
+        "date": 1714046357
+      }
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-21T03:43:19Z"
+}
