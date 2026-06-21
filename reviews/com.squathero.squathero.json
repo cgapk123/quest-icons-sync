@@ -1,0 +1,484 @@
+{
+  "app_id": "5461039960620791",
+  "package_name": "com.squathero.squathero",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Squatopia: Infinite Action Roguelike",
+  "rating_average": 4.18,
+  "rating_count": 50,
+  "review_count": 40,
+  "reviews": [
+    {
+      "id": "1130276023494296",
+      "score": 1,
+      "review_title": "My gen-z son couldn’t even figure it out",
+      "review_description": "Absolutely impossible to follow the instructions and actually defeat anything. No fun at all. Waste of money.",
+      "date": 1776479442,
+      "review_helpful_count": 0,
+      "author_display_name": "Taste_is_Sweet",
+      "author_alias": "Taste_is_Sweet",
+      "developer_response": null
+    },
+    {
+      "id": "4566783203552823",
+      "score": 4,
+      "review_title": "Pick a lane",
+      "review_description": "There are lots of fitness games, and lots that do varied things, but none that seem to focus on squats. The name leans into that but the game doesn't, you're in a rougelike (not my favorite genre by a longshot), but a lot of your power ups are centered around punches or arm lifts or silly stuff. You know the joke \"he skipped leg day\"? That's me, I could use help with squats and wish the game at least had a mode that was squats only. \n\nThen there's the game itself, a rougelike, a genre that, by necessity, is less about improving and more about timesink and luck. For something that trains leg strength, it'd be nice if the payoff was ability to advance by means of the fitness skill you're developing, not any of that other stuff. \n\nAnyways, cool product, wishing you guys luck, I like fitness stuff, but if I'm doing a game or workout that covers all bases, there are better options out there. If this leaned into squats fully I think it'd occupy a neat niche",
+      "date": 1779283261,
+      "review_helpful_count": 0,
+      "author_display_name": "brianc515",
+      "author_alias": "brianc515",
+      "developer_response": null
+    },
+    {
+      "id": "889042707312310",
+      "score": 4,
+      "review_title": "permanent buff question",
+      "review_description": "So I've spent many gems on a number of buffs, but they don't seem to activate.  What am I missing?  After unlocking do I need to turn them on somehow?",
+      "date": 1771000059,
+      "review_helpful_count": 1,
+      "author_display_name": "enginesoul",
+      "author_alias": "enginesoul",
+      "developer_response": {
+        "body": "Hi enginesoul, thanks for the question!\n\nSpending gems raises the max level of a buff — but you still need to assign Skill Points to it to activate it. After unlocking, tap the buff to select it, then drag the slider to set your desired level. Each level costs Skill Points from your shared pool (shown at the top of the Permanent Buffs screen).\n\nIf you're out of Skill Points, you can increase your max by spending Book Pages on the upgrade button.\n\nHope that helps — let me know if you have any other questions!",
+        "date": 1771662424
+      }
+    },
+    {
+      "id": "960825683192938",
+      "score": 1,
+      "review_title": "What am I missing?",
+      "review_description": "I can't even play this. The calibration doesn't seem to work. I have reset a few times, with the same result. No monster to be found, but I can tell that it's prompting me to squat. But why? Why squat?\n\nThis needs help...",
+      "date": 1775276400,
+      "review_helpful_count": 0,
+      "author_display_name": "QUACKBIRTH",
+      "author_alias": "QUACKBIRTH",
+      "developer_response": {
+        "body": "Hi QUACKBIRTH, thanks for trying Squatopia and sorry about the rough start!\n\nThe calibration step is important because it measures your standing height so the game knows when you're squatting. Here's what should happen:\n\n1. Stand up straight with both controllers at your sides and look at the tutorial character\n2. Extend your arms forward, then squat 3 times\n3. Once it says \"Calibration Complete\" you're good to go\n\nIf monsters aren't appearing after calibration, try:\n- Make sure your play space is set up correctly in your Quest settings (a standing or room-scale boundary)\n- Go to Settings in the game menu and hit Re-Calibrate\n\nAs for \"why squat?\" that's the game! Squatopia turns real exercises (squats, lunges, punches, etc.) into combat moves. Every squat is an attack. It's a full-body VR workout disguised as a roguelike. 💪",
+        "date": 1776128945
+      }
+    },
+    {
+      "id": "989812733572032",
+      "score": 1,
+      "review_title": "Make no sense.",
+      "review_description": "Ain’t got a clue’. Ridiculous to follow. Not worth the money.",
+      "date": 1777667233,
+      "review_helpful_count": 0,
+      "author_display_name": "Debokye1",
+      "author_alias": "Debokye1",
+      "developer_response": null
+    },
+    {
+      "id": "771693096034821",
+      "score": 1,
+      "review_title": "Disappointment",
+      "review_description": "The game, advertised as something amazing, is actually mediocre at best. It absolutely fails to deliver on the promises in the description.",
+      "date": 1760142464,
+      "review_helpful_count": 3,
+      "author_display_name": "daroso0",
+      "author_alias": "daroso0",
+      "developer_response": {
+        "body": "Hi daroso0, thank you for trying Squatopia and for sharing your honest feedback. I'm sorry the game didn't meet your expectations.\n\nI'd love to understand what specifically fell short for you — whether it was the gameplay, the fitness tracking, the content variety, or something else. Your feedback directly shapes what I work on next.\n\nIf you're open to sharing more details, you can reach me at clarke.plumo@gmail.com or join our Discord. The game has grown a lot since 1.3.1 and I'd welcome the chance to win you back.",
+        "date": 1771858629
+      }
+    },
+    {
+      "id": "1303972064449843",
+      "score": 5,
+      "review_title": "Amazingly fun and excellent work out!",
+      "review_description": "Very well built game, it's fun, exciting, the level up system is really fun, music is great and really the mechanics are tons of fun!! Best lower body work out!",
+      "date": 1756499958,
+      "review_helpful_count": 2,
+      "author_display_name": "TheMadman49",
+      "author_alias": "TheMadman49",
+      "developer_response": null
+    },
+    {
+      "id": "788347047691104",
+      "score": 5,
+      "review_title": "Awesome!",
+      "review_description": "This is game is addictive to play. It's very enjoyable! And graphics is so good!",
+      "date": 1757214354,
+      "review_helpful_count": 2,
+      "author_display_name": "spade.163408",
+      "author_alias": "spade.163408",
+      "developer_response": null
+    },
+    {
+      "id": "696055923278260",
+      "score": 5,
+      "review_title": "Quite nice",
+      "review_description": "I tried this game without any intent of losing weight or exercising, but after playing for a little bit i understood that i lack stamina 😅 im hitting gym next week. In any case its fun as a game alone, and its good if you want to exercise, i recommend this game to anyone who is looking for fitness game",
+      "date": 1750355030,
+      "review_helpful_count": 5,
+      "author_display_name": "ArveKarve",
+      "author_alias": "ArveKarve",
+      "developer_response": null
+    },
+    {
+      "id": "1172528651343722",
+      "score": 5,
+      "review_title": "Intense as it is imaginative!",
+      "review_description": "“Squatopia” is as intense as it is imaginative\nThis game is definitely on the challenging side — expect lots of squats and crunches — but that’s part of what makes it so satisfying. You’re not just working out; you’re taking down monsters with your boxing jabs and powerful squat maneuvers. It’s a brilliant blend of fitness and fantasy, and the creative concept really shines through. I had a blast, and I’m genuinely excited to see what these developers bring to the VR fitness space next with this program - Keep an eye on them — they’re onto something special!",
+      "date": 1748735383,
+      "review_helpful_count": 8,
+      "author_display_name": "11Mermaiddancer",
+      "author_alias": "11Mermaiddancer",
+      "developer_response": null
+    },
+    {
+      "id": "571472116060558",
+      "score": 5,
+      "review_title": "Game Is Pretty Fun And Kept Me Intense!",
+      "review_description": "I’ve tried other workout apps—some focus only on upper body, while few offer a full-body workout. They all work, but this one gets you burning calories so quickly! I signed up for a 7-day free trial, followed by a $1 first month. I’ve been considering the lifetime subscription since it’s on sale, but there’s limited content right now (it’s still in early access). In the past, I’ve bought early-access games on Steam, and some didn’t succeed, so I don’t want to risk wasting money. I’ll wait and see how things develop.",
+      "date": 1746977586,
+      "review_helpful_count": 4,
+      "author_display_name": "DeafyPro",
+      "author_alias": "DeafyPro",
+      "developer_response": null
+    },
+    {
+      "id": "750477004601433",
+      "score": 5,
+      "review_title": "A fantastic way to exercise",
+      "review_description": "I really enjoyed squatopia, it gameifies my workout and keeps me coming back day-after-day.",
+      "date": 1750428377,
+      "review_helpful_count": 3,
+      "author_display_name": "bearlikelion",
+      "author_alias": "bearlikelion",
+      "developer_response": null
+    },
+    {
+      "id": "712248808631378",
+      "score": 5,
+      "review_title": "Loved this",
+      "review_description": "Absolutely love this app! Fun workouts, amazing VR environments, and I actually look forward to exercising now. Highly recommend!",
+      "date": 1749752349,
+      "review_helpful_count": 4,
+      "author_display_name": "arm_panda",
+      "author_alias": "arm_panda",
+      "developer_response": null
+    },
+    {
+      "id": "941918384690341",
+      "score": 4,
+      "review_title": "A bit pricey but unique and has promise",
+      "review_description": "I played the free version of Fight Fight XR: Squat Strike on Quest 2 mixed reality for about 20 minutes so far, after a session of Synth Riders.\n\nGoing in, I was unclear on if I'd have to give a credit card to play for free, and the answer was thankfully no. You can avoid paying entirely to access a basic roguelike mode, with everything else being locked behind the paywall.\n\nAmong your paid options (which require a credit card) are a 7-day free trial after which billing starts at $9 a month, or a lifetime pass for $200, which is currently discounted to $95.\n\nSo, the roguelike action. I found the combat pretty neat; after initial calibration it's very good at detecting my squat and jab motions, which is all I've used so far. The overall intensity is a bit low in early going, with enemies rarely appearing more than two at a time and frequent \"level up\" interruptions to choose a perk. I see paid members have a \"cardio\" mode option that keeps the intensity more constant, cool.\n\nDodging enemy bullets is a bit squirrelly (must you only avoid contact with head? not sure), but just moving around the playspace was usually enough to keep me safe. I also thought grabbing floating coins could've used a more generous hand hitbox. There is some meta progression to power-up perks but I didn't find any of the upgrade items so far.\n\nTip: You really want a skill that breaks shields before that first boss.\n\nAll told I thought it was pretty cool, but I'm not sure I could justify $9 a month or $95 total yet, much less $200. I'd feel better if the game had a longer track record so I knew it wouldn't have a chance of being abandoned prematurely. There is a current promo for essentially a month for $1, so I will definitely try that at least to see if the current \"full\" version feels compelling.\n\nOverall, I recommend trying it to see what you think.\n\n(Confidential to devs: Using all that gaudy, generic AI-generated art in your store page, etc. isn't a great look.)",
+      "date": 1743116306,
+      "review_helpful_count": 10,
+      "author_display_name": "Mori32",
+      "author_alias": "Mori32",
+      "developer_response": null
+    },
+    {
+      "id": "795287790326017",
+      "score": 2,
+      "review_title": "I'm not sure who their audience is",
+      "review_description": "Once you work out the bugs, the game runs, but I'm not sure who their audience is. It can't choose if it is a fitness app or a game. If it's a game -- like, fine, although the concept is very boring. But if you're wanting this as a fitness app, every twenty or so seconds the game auto pauses so you can select some sort of power up or increase your stats. I can't tell you how annoying that is as someone who literally just wants to do squats and that's actually why I am going to delete the game from my headset. Besides that there's no way to save your progress, so what's the point of all these powerups/stat increases anyway?",
+      "date": 1755492296,
+      "review_helpful_count": 0,
+      "author_display_name": "katierhodesa",
+      "author_alias": "katierhodesa",
+      "developer_response": {
+        "body": "Thanks for the feedback! The game is designed as a roguelike fitness hybrid - the pauses for powerups are core to the roguelike progression system.\n\nFor pure fitness enthusiasts who want uninterrupted exercise, we have Cardio Mode which removes all pauses and powerup interruptions. It's currently available for subscribers.\n\nRegarding saves - your progress should be saving. If it's not, that's a bug we'll investigate.\n\nThe roguelike elements aren't for everyone, but Cardio Mode delivers exactly what you're looking for: uninterrupted squats.",
+        "date": 1755632328
+      }
+    },
+    {
+      "id": "619327544220468",
+      "score": 5,
+      "review_title": "Wow! I’m addicted.",
+      "review_description": "Killing things with magic and squats, while progressing with new, better powers? Yes, please! \n\nWhat I love about this game is that I don’t realize I’m working out. And yet, I’m so sore the next day. I walk away from it panting, sweating, and dying for water, and I want to get right back into it. I work out regularlywith FunFitLand, Les Mills, and a few other apps, but this one has introduced me to muscles I didn’t know I had. \n\nI think this will appeal to people who enjoy fantasy and battle type games., but might be confusing for people who aren’t really gamers. I’m familiar with these kinds of fantasy/progression elements , but I would still love for someone to make a YouTube video explaining it.\n\nOverall, a fun gamewith major fitness benefits. I highly recommend it.",
+      "date": 1740938411,
+      "review_helpful_count": 9,
+      "author_display_name": "WatneyVR",
+      "author_alias": "WatneyVR",
+      "developer_response": null
+    },
+    {
+      "id": "1301071584534723",
+      "score": 5,
+      "review_title": "A perfect game for active gamers!",
+      "review_description": "I've been playing this game since it's first few weeks of release, and it has come a long way since then. I like to work out and get a good sweat on, but it's difficult for me to find motivation to just go for a run or lift weights on the gym. However, with this game I can strap on some arm and leg weights and just grind away! It keeps me motivated to keep burning those calories and hit my fitness goals each week. I love how the game has continued to evolve between graphics updates and new features, like being able to start a new run and get to pick which area of the body to start on. This is absolutely one of my favorite workout games I own, and I've played quite a bit of them trying to find the perfect fit for me. Just wanna give a great shout out to the developers, thank you for this gem of a game. Keep it up, looking forward to campaign mode coming soon!!",
+      "date": 1739936741,
+      "review_helpful_count": 12,
+      "author_display_name": "ComputedClock66",
+      "author_alias": "ComputedClock66",
+      "developer_response": null
+    },
+    {
+      "id": "1580287509354828",
+      "score": 1,
+      "review_title": "Couldn’t get past calibration",
+      "review_description": "It says squat three times with arms out. I got a workout squatting over and over just trying to get it to calibrate. It was just stuck with a monster squatting in front of me and I squatted with him over and over with no calibration or anything else happening.",
+      "date": 1743486655,
+      "review_helpful_count": 2,
+      "author_display_name": "Alicia_Wonderland",
+      "author_alias": "Alicia_Wonderland",
+      "developer_response": {
+        "body": "Hi Alicia! Thanks so much for bringing this to our attention. In response to you and a couple others that also had trouble with our new calibration system,' we have integrated a backup calibration system! Please let us know if you have any other issues, you can e-mail us at fitfightxr@gmail.com , and I will also be reaching out to you directly to make sure everything is working smoothly now. Thank you so much! Happy squatting!",
+        "date": 1745910633
+      }
+    },
+    {
+      "id": "684169734771423",
+      "score": 2,
+      "review_title": "Doesn’t work properly",
+      "review_description": "Doesn’t work properly",
+      "date": 1746708560,
+      "review_helpful_count": 1,
+      "author_display_name": "SpikyCheetah4071",
+      "author_alias": "SpikyCheetah4071",
+      "developer_response": null
+    },
+    {
+      "id": "524264207439979",
+      "score": 5,
+      "review_title": "Not just legs but the entire body!",
+      "review_description": "Gotta say that I knew of this game but held off thinking it was only legs and not full body.  Took the plunge and dang!!  It's awesome and is indeed full body with different physical moves equaling different attacks.  Just burned 200 calories testing out the various features.  Kudos to the dev team!",
+      "date": 1737142027,
+      "review_helpful_count": 13,
+      "author_display_name": "jake.735111",
+      "author_alias": "jake.735111",
+      "developer_response": null
+    },
+    {
+      "id": "656266690265799",
+      "score": 5,
+      "review_title": "A totally different fitness app!",
+      "review_description": "What a great idea! This game is different from every other fitness app I've tried, and I love that it changes every time I play. Every update gets better and better. Developers are friendly, helpful and invested in improving my experience.",
+      "date": 1740737150,
+      "review_helpful_count": 3,
+      "author_display_name": "ibyula",
+      "author_alias": "ibyula",
+      "developer_response": null
+    },
+    {
+      "id": "655787327607568",
+      "score": 4,
+      "review_title": "Awesome, except for one thing",
+      "review_description": "It’s perfect except every time you accidentally walk too far in any direction it pauses the game, which is a minor annoyance.￼￼",
+      "date": 1743036303,
+      "review_helpful_count": 2,
+      "author_display_name": "XaxtonRevolution",
+      "author_alias": "XaxtonRevolution",
+      "developer_response": {
+        "body": "Hello, thanks for your review! Our game will pause if you walk outside the guardian, (as standard for most games), however there was a bug in v17 that was unnecessarily activating the pause menu at the end of each wave during reward skill selection. We have since fixed that bug and I believe the issue you have been experiencing will be gone. Hopefully we have perfected the experience for you and got rid of that one annoying thing so you can enjoy the rest of the game, and if not let us know at fitfightxr@gmail.com, we will also DM you here on Meta Horizon! Thanks so much for your review of Fit Fight XR: Squat Strike, happy squatting! <3",
+        "date": 1745251316
+      }
+    },
+    {
+      "id": "675486218989848",
+      "score": 2,
+      "review_title": "Awesome concept, super buggy.",
+      "review_description": "Hopefully it will be fixed in the future but to me right now its unplayable",
+      "date": 1752982945,
+      "review_helpful_count": 0,
+      "author_display_name": "DirtyMikeMike",
+      "author_alias": "DirtyMikeMike",
+      "developer_response": {
+        "body": "Thanks for the feedback and for recognizing the concept's potential! We've actually released several major updates since the early versions that fixed numerous bugs and stability issues. \n\nIf you haven't played recently, it's worth giving it another try - the game is much more stable now. If you're still experiencing issues with the current version, please let us know what specific bugs you're encountering so we can address them.\n\nAppreciate you giving the game a shot!",
+        "date": 1755632412
+      }
+    },
+    {
+      "id": "994991949177342",
+      "score": 5,
+      "review_title": "Fun XR fitness and monster fighting",
+      "review_description": "If youre looking for a fun and fitness in one this is definitely an awesome little experience. Great way to start a day with a little VR workout",
+      "date": 1740173738,
+      "review_helpful_count": 3,
+      "author_display_name": "NathanMDRN",
+      "author_alias": "NathanMDRN",
+      "developer_response": null
+    },
+    {
+      "id": "666206853240629",
+      "score": 5,
+      "review_title": "The best way to burn calories 🔥",
+      "review_description": "The monsters were really fun to fight, and I worked up a sweat in just a few stages. It’s a really creative concept with great execution. I highly recommend it if you’re looking for a cheap, easy and fun way to work out.",
+      "date": 1748331761,
+      "review_helpful_count": 1,
+      "author_display_name": "NoThisIsPatrick",
+      "author_alias": "NoThisIsPatrick",
+      "developer_response": null
+    },
+    {
+      "id": "1698590704871777",
+      "score": 5,
+      "review_title": "Incredibly fun!",
+      "review_description": "Once you get the hang of the moves, you get into a flow and don’t even notice the calories burning.  Enemies look really cool!  Love punching the bats.",
+      "date": 1740850696,
+      "review_helpful_count": 1,
+      "author_display_name": "urbanmvstic",
+      "author_alias": "urbanmvstic",
+      "developer_response": null
+    },
+    {
+      "id": "537388766121085",
+      "score": 5,
+      "review_title": "Sweat, Fun, and comfortable",
+      "review_description": "This game is an absolute thrill! I find myself completely immersed, sweating with excitement as I take on creative monsters and carefully dodge incoming projectiles. The gameplay strikes a perfect balance between challenge and fun, keeping me engaged without ever feeling overwhelming. I also appreciate that it’s designed so well—I haven’t experienced any motion sickness, which is a huge plus. I highly recommend this game to anyone looking for a satisfying and enjoyable adventure!",
+      "date": 1735883066,
+      "review_helpful_count": 3,
+      "author_display_name": "jktarban",
+      "author_alias": "jktarban",
+      "developer_response": null
+    },
+    {
+      "id": "458920587292556",
+      "score": 5,
+      "review_title": "What a full body workout!",
+      "review_description": "So many lower body moves. Killing fantasy creatures in MR is a really fun workout!",
+      "date": 1738502662,
+      "review_helpful_count": 3,
+      "author_display_name": "MysteryEsses",
+      "author_alias": "MysteryEsses",
+      "developer_response": null
+    },
+    {
+      "id": "9086989574677241",
+      "score": 5,
+      "review_title": "You owe me a new set of legs ;)",
+      "review_description": "Thats defenitally a bit of a workout, and a lot of fun.\nI'll need to dig out my  heart rate monitor, it certainly went through my calorie goal much faster than beat saber and dungeons of eternity.",
+      "date": 1736245970,
+      "review_helpful_count": 3,
+      "author_display_name": "VR_and_I",
+      "author_alias": "VR_and_I",
+      "developer_response": null
+    },
+    {
+      "id": "518064598051259",
+      "score": 5,
+      "review_title": "Great Exercise Game",
+      "review_description": "This game is a total game-changer! Not only do you get to fight epic monsters in VR, but you're also getting an awesome workout! It’s the perfect mix of fun and fitness! 💥\"",
+      "date": 1732264307,
+      "review_helpful_count": 7,
+      "author_display_name": "KimNool1",
+      "author_alias": "KimNool1",
+      "developer_response": null
+    },
+    {
+      "id": "514291521503281",
+      "score": 5,
+      "review_title": "It was fun for me!!",
+      "review_description": "I have tested this game recently. At first im a little bit lost with the navigation and settings but after couple tries i am getting use to it. Its a nice game for work out.\n\nIf your a beginner and havent done any excercise games i would advice to do a warm up first 😅. First try i encountered some body pains 🤣 I was to excited to play giving all i have and in return (some muscle pain) 🤣\n\nSo over all a must try application.",
+      "date": 1730080524,
+      "review_helpful_count": 4,
+      "author_display_name": "GeruBani",
+      "author_alias": "GeruBani",
+      "developer_response": {
+        "body": "Thank you so much for your review! We're glad to hear you had fun with Squat Algorithm and that you found it to be a great workout. It's awesome that you stuck with it, even after feeling a little lost at first—practice makes perfect!\n\nWe totally agree that warming up before diving in is important, especially for beginners. It’s easy to get excited and push yourself too hard, but muscle pain just means you’re working those muscles! 😅\n\nWe appreciate your feedback and are thrilled that you recommend Squat Algorithm. Keep up the great work, and remember to take it at your own pace! 💪🎮",
+        "date": 1730080901
+      }
+    },
+    {
+      "id": "476969795505078",
+      "score": 5,
+      "review_title": "Veryyy nice",
+      "review_description": "The perfect way to work out without it feeling like a chore! Fighting monsters in VR has me so engaged, and I’m loving the fitness results. Highly recommend it to anyone who wants to get fit while having fun!",
+      "date": 1733109844,
+      "review_helpful_count": 2,
+      "author_display_name": "leog.413396",
+      "author_alias": "leog.413396",
+      "developer_response": null
+    },
+    {
+      "id": "520835217773872",
+      "score": 5,
+      "review_title": "Exciting!!",
+      "review_description": "Love how the game makes every move feel like you're really in the action! It's not just a workout; it's an experience. I can’t wait to level up both my fitness and my monster-slaying skills! 🔥",
+      "date": 1733137942,
+      "review_helpful_count": 2,
+      "author_display_name": "HaZerkkkk",
+      "author_alias": "HaZerkkkk",
+      "developer_response": null
+    },
+    {
+      "id": "571226545469070",
+      "score": 5,
+      "review_title": "Game changing!",
+      "review_description": "Love the concept! Another excellent way to lose weight in VR!\n\nOne tiny issue though: Please improve the UI. Initially, I was a bit overwhelmed by so many options/buttons. Maybe turning the whole thing into bite sized chunks could help people (like me).",
+      "date": 1730361193,
+      "review_helpful_count": 4,
+      "author_display_name": "GeekGoddess10",
+      "author_alias": "GeekGoddess10",
+      "developer_response": null
+    },
+    {
+      "id": "1274472840401468",
+      "score": 5,
+      "review_title": "A truly gamified workout!",
+      "review_description": "What a great workout! Never thought I'd get such a full range of workouts from a roguelite RPG! Dev clearly put in a lot of time into customization and randomization options to keep each experience fresh! Really enjoyed it! Even though the current video shows VR the app definitely shines in MR mode!",
+      "date": 1730336576,
+      "review_helpful_count": 4,
+      "author_display_name": "DreamStream",
+      "author_alias": "DreamStream",
+      "developer_response": null
+    },
+    {
+      "id": "552279487599481",
+      "score": 5,
+      "review_title": "A different experience every time!",
+      "review_description": "Fit Fight XR: Squat Strike offers a refreshing twist on the fitness-gaming genre, blending exercise with fast-paced roguelite action. Each run feels different, thanks to randomized enemy waves and evolving skill sets granted by young Elemental Guardians. One moment, you're fending off treants with explosive jabs, and the next, you're dodging projectiles from towering golems while using dark-element squats.\n\nThe variety of movements, from hooks and uppercuts to lunges and hops, ensures that no two experiences feel the same. Players constantly adapt their strategies, combining new abilities like Double Strike Chance or elemental squats, making each run feel like a fresh challenge. The constant change keeps gameplay exciting, as no level plays out in a predictable pattern.\n\nFit Fight XR: Squat Strike stands out for its combination of fitness and fun, giving players a physically engaging experience that also tests their reflexes and strategic thinking. Whether you're battling waves of wolves or preparing for an intense boss fight, the game ensures that every session is dynamic, unique, and highly rewarding.",
+      "date": 1733373332,
+      "review_helpful_count": 1,
+      "author_display_name": "squatopia.clrke",
+      "author_alias": "squatopia.clrke",
+      "developer_response": null
+    },
+    {
+      "id": "532114296642329",
+      "score": 5,
+      "review_title": "Gets me in shapeee",
+      "review_description": "This game is a blast! My heart's racing from the action, and I'm breaking a sweat fighting off monsters. It's the best way to get in shape while having an absolute blast! 🙌",
+      "date": 1732584287,
+      "review_helpful_count": 2,
+      "author_display_name": "Aiiiivyyyee",
+      "author_alias": "Aiiiivyyyee",
+      "developer_response": null
+    },
+    {
+      "id": "522441737610934",
+      "score": 5,
+      "review_title": "Unexpectedly Fun",
+      "review_description": "The gameplay shocked me, it brought me a new type of workout routine different from the usual world. THANK YOU DEV! now I can workout even if it's raining outside or can't go to gym.",
+      "date": 1732499566,
+      "review_helpful_count": 3,
+      "author_display_name": "michael.385796",
+      "author_alias": "michael.385796",
+      "developer_response": null
+    },
+    {
+      "id": "497314300127859",
+      "score": 5,
+      "review_title": "VERY FUN EXPERIENCE",
+      "review_description": "It was nothing like I played before, the uniqueness of the game was excellent, the gameplay is interesting too, it made me sweat a lot!",
+      "date": 1732196505,
+      "review_helpful_count": 4,
+      "author_display_name": "jazer.sinamban",
+      "author_alias": "jazer.sinamban",
+      "developer_response": null
+    },
+    {
+      "id": "428888706985226",
+      "score": 5,
+      "review_title": "I love ittt",
+      "review_description": "Fitness + VR + monster-slaying? Yes, please! This game is my new favorite way to stay in shape. So addictive and so much fun, you won't even notice you're working out!",
+      "date": 1732717964,
+      "review_helpful_count": 1,
+      "author_display_name": "Jessyyy",
+      "author_alias": "Jessyyy",
+      "developer_response": null
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-21T01:14:23Z"
+}

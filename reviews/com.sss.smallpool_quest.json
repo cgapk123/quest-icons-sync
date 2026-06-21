@@ -1,0 +1,78 @@
+{
+  "app_id": "4939062879491833",
+  "package_name": "com.sss.smallpool_quest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Small Pool",
+  "rating_average": 2.3333333333333,
+  "rating_count": 6,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "136979292458302",
+      "score": 1,
+      "review_title": "Really bad in my opinion",
+      "review_description": "The controls in this game are needlessly hard.\nYou're unable to simply move by using the left or right joystick.\n\nYou're unable to use the cue like a normal cue.\n\nThe ball sizes are way off in relation to the size of the table\n\nThere are many pool games on Meta Quest and 2 and they all wipe the floor with this, some are also free.",
+      "date": 1668064627,
+      "review_helpful_count": 4,
+      "author_display_name": "336o64",
+      "author_alias": "336o64",
+      "developer_response": null
+    },
+    {
+      "id": "3410351902442991",
+      "score": 3,
+      "review_title": "Small snooker",
+      "review_description": "Well well I love this game ok it needs a few things sorting out like speed of the balls I think maybe half the speed,better looking table I had to work out the movement for getting behind the ball, but this is early stages in development. All I ask the dev is please continue with this as I feel you have got a little jam on your hands infact I would encourage you to get some backing as you deserve the interest from myself -great job",
+      "date": 1729192683,
+      "review_helpful_count": 1,
+      "author_display_name": "Jimmyoneeye",
+      "author_alias": "Jimmyoneeye",
+      "developer_response": null
+    },
+    {
+      "id": "289319210729319",
+      "score": 3,
+      "review_title": "Best Quest 2 snooker game",
+      "review_description": "I'm constantly trying to find VR games that will help me learn snooker angles. This game is primitive and basic, but surprisingly it is the best Quest 2 version of snooker so far. Other pool games exist with much better graphics, physics and environments, but they don't implement snooker! I think there's an obvious reason for this - using the controllers to control a virtual cue gives very poor accuracy which is fine for a pool table with big pockets, but it is nowhere near accurate enough for snooker. This game uses smarter controls (you line up a shot much as you would on Jimmy White's Whirlwind Snooker back in the 90s!), and is almost a great VR snooker trainer. Two things hold it back: 1) there should be free movement around the table with the joystick so that you can position the table within your Quest 2 boundary and walk around it. 2) Rotating the cue is sometimes very fast and sometimes very slow - there should be a default movement speed, then a button you can press to do fine adjustments. I'd happily pay for this again if these were implemented!",
+      "date": 1698574436,
+      "review_helpful_count": 2,
+      "author_display_name": "bert.204574",
+      "author_alias": "bert.204574",
+      "developer_response": {
+        "body": "Thanks for the positive review. I remember jimmy whites snooker back in the 90s. I had it on my Amiga. Regards your 2 queries:\n\n1)You can move around the table. If you hold the grip button and point the laser at the edge of the table, you will see a figure appear. Releasing the grip allows you to teleport there.\n\n2) If you want to slow down the rotation of the cue, move the analog pointer towards  the top of its vertical range. You should find the cue rotates more slowly.",
+        "date": 1701545946
+      }
+    },
+    {
+      "id": "240921788265896",
+      "score": 1,
+      "review_title": "Lousy!!",
+      "review_description": "Waste of money!",
+      "date": 1673394265,
+      "review_helpful_count": 1,
+      "author_display_name": "12Sam1",
+      "author_alias": "12Sam1",
+      "developer_response": null
+    },
+    {
+      "id": "186942837542782",
+      "score": 1,
+      "review_title": "If I could",
+      "review_description": "I would give it 0 stars",
+      "date": 1683119892,
+      "review_helpful_count": 0,
+      "author_display_name": "SouLnl",
+      "author_alias": "SouLnl",
+      "developer_response": null
+    }
+  ],
+  "total": 5,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T01:17:35Z"
+}
