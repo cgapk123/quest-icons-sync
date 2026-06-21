@@ -1,0 +1,1002 @@
+{
+  "app_id": "7067612163334384",
+  "package_name": "io.pxlworks.miraclepool",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "MiRacle Pool",
+  "rating_average": 4.5,
+  "rating_count": 1484,
+  "review_count": 940,
+  "reviews": [
+    {
+      "id": "1125359160664129",
+      "score": 1,
+      "review_title": "Bugs too many",
+      "review_description": "Full of bugs,\n\n1. The game stops in between where the player cannot hit the ball, and one of the player has to quit the game abruptly\n2. when the black ball is only to pot, the player wont get any benefits when other player made a foul.. so the player will just hit anywhere so that the black ball cannot be hit .. ( they need to change this rule)\n\nUpdate:\n\nafter all that, if I player a low level player ,my instance rating 1785 played 1535, lost 50 points, lost my interest after playing 3 months, it just no point playing this, the opponent hit the balls blindly and gets lucky..\n\nAm not blaming the opponent it's the points I lose just for nothing (50 points in a game?) ok am off",
+      "date": 1779828170,
+      "review_helpful_count": 3,
+      "author_display_name": "BBjam",
+      "author_alias": "BBjam",
+      "developer_response": {
+        "body": "Hey BBjam,\n\nWe understand your frustration. However, the Elo rating system is not something we invented for the game. It is a well-established ranking method used across many competitive sports and games worldwide.\n\nThe basic idea is simple: if a higher-rated player loses to a lower-rated player, they lose more points because that result is considered unlikely. On the other hand, beating a much lower-rated player gives only a small reward because that outcome is already expected. The opposite is also true: defeating a much stronger player grants a large rating increase.\n\nElo is designed to measure long-term skill, not the result of a single match. Luck can influence individual games, but over many matches the rating should converge toward a player's actual level.\n\nWe only use this established ranking system; we do not manually decide how many points players gain or lose after a match.\n\nThanks for sharing your feedback, and we hope you'll give it another chance.",
+        "date": 1781095619
+      }
+    },
+    {
+      "id": "26426471837005584",
+      "score": 3,
+      "review_title": "Aiming spot is distracting",
+      "review_description": "This is supposed to be the closest thing to playing a game of real life pool, so if that's the case, why don't we get the option to turn off the stupid aiming spot? I find it distracting to the way I aim in real pool, we don't have a spot projecting from the end of the cue in real life. The option to change the opacity or turn it off in the options could easily be implemented.\nI have asked for this feature twice now, with absolutely no response from the devs.\nI will change back to five stars if the option to have it on or off is added.",
+      "date": 1775773719,
+      "review_helpful_count": 18,
+      "author_display_name": "Atlas.VTO",
+      "author_alias": "Atlas.VTO",
+      "developer_response": {
+        "body": "Hi Atlas.VTO,\nthanks for your feedback!\n\nWe actually think this is a good idea, and we’ll try to include it in the next version.\n\nWe’re sorry that without this feature the game feels like a 3-star experience instead of a 5-star one for you, but we completely respect your opinion.\n\nWe always develop the game to the best of our ability. There are many factors we have to balance, and while we may not always make the perfect decision, we’re doing our best.",
+        "date": 1775839475
+      }
+    },
+    {
+      "id": "26785094921099351",
+      "score": 4,
+      "review_title": "Very Good, But.",
+      "review_description": "Miracle pool is very good and is certainly very polished. \nHowever after using another app I feel there is one area where it could improve immensely. \nThere needs to be an option where you can use a physical table which does not need to be the same size the pool table, just purely an area to rest your hand when cueing.",
+      "date": 1779176734,
+      "review_helpful_count": 2,
+      "author_display_name": "Guvner57",
+      "author_alias": "Guvner57",
+      "developer_response": null
+    },
+    {
+      "id": "26956617077306261",
+      "score": 3,
+      "review_title": "Looks good but .....",
+      "review_description": "the game should have this option  :  when holding down a button you should be avable to move the table   back and and forth,left and right just by moving the q3 controlers    and anothe for up and down   ...........This is the way ...... for natural movement",
+      "date": 1781817985,
+      "review_helpful_count": 0,
+      "author_display_name": "ballhome",
+      "author_alias": "ballhome",
+      "developer_response": {
+        "body": "hey ballhome, \nyou can adjust the tables by grabbing the handles on the table's sides. \nunfortunately we dont understand your comment about playstation. \n\nhave fun!",
+        "date": 1779449349
+      }
+    },
+    {
+      "id": "1059811530559136",
+      "score": 3,
+      "review_title": "Problems playing online",
+      "review_description": "Connection problems online, been going on for a while , very annoying, please fix this issue",
+      "date": 1780330373,
+      "review_helpful_count": 2,
+      "author_display_name": "Brett2024",
+      "author_alias": "Brett2024",
+      "developer_response": null
+    },
+    {
+      "id": "1067002533171325",
+      "score": 3,
+      "review_title": "Game freezing",
+      "review_description": "Game keeps freezing and I have to quit which makes me lose ranking points which is highly annoying to say the least! And trying to get a game online is like almost impossible!!!",
+      "date": 1779369421,
+      "review_helpful_count": 0,
+      "author_display_name": "DrewNanoo19",
+      "author_alias": "DrewNanoo19",
+      "developer_response": null
+    },
+    {
+      "id": "1034187763106247",
+      "score": 2,
+      "review_title": "Fun game lots of bugs",
+      "review_description": "Fun game, great physics but there are so many cue errors it ruins it. The cue will just start floating while you're trying to aim at the ball. This happens at random and lasts for days after it happens. Currently can't play the game due to a floating cue. I've tried to contact the company with no response.",
+      "date": 1773189522,
+      "review_helpful_count": 4,
+      "author_display_name": "shoelessjoe1917",
+      "author_alias": "shoelessjoe1917",
+      "developer_response": {
+        "body": "We're grateful you took the time to share this — it helps us understand what matters most to our players.\n\nThank you for the feedback on cue tracking. This is a complex challenge that partly stems from hardware limitations — Quest controllers can lose tracking accuracy when your hands are close to your body or behind you, which naturally happens in pool. Different Quest controllers also perform differently (the Quest Pro controllers, for example, use different tracking technology and handle this much better). That said, we've made improvements: we've added aiming assists and a completely redesigned tutorial that walks you through proper technique in detail. These can make a huge difference! Please update and give the new tutorial a try.\n\nWe appreciate the feedback on ball physics. We've invested an enormous amount of time building our physics engine based on real-world measurements, and we believe it's the most realistic pool physics available in VR/MR today. While occasional glitches can happen, our data shows they're very rare. We haven't changed the core physics since launch because we're confident in its accuracy. If you're experiencing a specific reproducible issue, we'd love to hear about it on our Discord so we can investigate!\n\nWe pour everything into making this game better, update after update. If you revisit MiRacle Pool and find that things have improved, a revised rating would be an incredible boost for our small team. Thanks for being part of the community!",
+        "date": 1774000185
+      }
+    },
+    {
+      "id": "1548455859746370",
+      "score": 2,
+      "review_title": "Game was good, but devs not fixing it.",
+      "review_description": "I loved this game, but there were always obvious things that needed to be fixed, like the pockets, cueing through cushions and not having smaller balls on the small table. None of this has changed, in over a year. Now the ranking system is messed up, but nothing is being done about it. I feel sad giving it 2 stars, but if the devs can't be bothered to fix things, I have no choice. There's a great game here, if all the small issues, that are all reported in their discord, were worked on.",
+      "date": 1768211786,
+      "review_helpful_count": 47,
+      "author_display_name": "Way_Out_West",
+      "author_alias": "Way_Out_West",
+      "developer_response": {
+        "body": "Thanks for writing in — reviews like this help us prioritize what to work on next.\n\nThank you for the feedback on cue tracking. This is a complex challenge that partly stems from hardware limitations — Quest controllers can lose tracking accuracy when your hands are close to your body or behind you, which naturally happens in pool. Different Quest controllers also perform differently (the Quest Pro controllers, for example, use different tracking technology and handle this much better). That said, we've made improvements: we've added aiming assists and a completely redesigned tutorial that walks you through proper technique in detail. These can make a huge difference! Please update and give the new tutorial a try.\n\nWe appreciate the feedback on ball physics. We've invested an enormous amount of time building our physics engine based on real-world measurements, and we believe it's the most realistic pool physics available in VR/MR today. While occasional glitches can happen, our data shows they're very rare. We haven't changed the core physics since launch because we're confident in its accuracy. If you're experiencing a specific reproducible issue, we'd love to hear about it on our Discord so we can investigate!\n\nWe hope you'll give us another chance with the latest update. If your experience improves, we'd be incredibly grateful if you'd consider updating your rating. As a small indie team, player reviews are our lifeline — thank you for your support!",
+        "date": 1774001066
+      }
+    },
+    {
+      "id": "958290406990020",
+      "score": 4,
+      "review_title": "No way out of the attack environment",
+      "review_description": "there's no way to get out of the attic environment and back to the mixed reality environment",
+      "date": 1778623217,
+      "review_helpful_count": 0,
+      "author_display_name": "KopsFamFour",
+      "author_alias": "KopsFamFour",
+      "developer_response": null
+    },
+    {
+      "id": "1499348685240269",
+      "score": 5,
+      "review_title": "Versatile multiplayer options",
+      "review_description": "This game has a variety of multiplayer features that you can customize to your liking. In private room, you can play with friends, set the length of the game by the number of rounds to win, and use voice chat. Avatars allow you to see the other player react to the game in real time, and you can turn avatars and voice chat off anytime for each individual player. Most game modes are 2-player only, but there's a Killer Pool mode that you can play with up to 4 players. Ranked mode allows you to pick your favourite mode and wait longer for matchmaking, or choose all modes at once to find an opponent faster.",
+      "date": 1774604856,
+      "review_helpful_count": 0,
+      "author_display_name": "Gameplicit",
+      "author_alias": "Gameplicit",
+      "developer_response": null
+    },
+    {
+      "id": "1140253895829247",
+      "score": 1,
+      "review_title": "Nothing good to say",
+      "review_description": "Recently something has messed up with this app. It fails to connect to the server over and over again. Can’t even play offline.",
+      "date": 1777713922,
+      "review_helpful_count": 1,
+      "author_display_name": "DadKonOne",
+      "author_alias": "DadKonOne",
+      "developer_response": {
+        "body": "Thank you for your feedback, \nwe really appreciate you taking the time to write this.\n\n99% of players don’t experience this issue. For those who do, we try to help identify what might be causing it (VPN, location, etc.).\n\nPlease send an email to [info@pxlworks.io](mailto:info@pxlworks.io) so we can try to help resolve the problem. If that doesn’t work, you can also request a refund through the Meta Store to get your money back.\n\nbtw we understand the frustration of needing an internet connection for single-player modes. This is a technical decision we made early in development — the game communicates with our servers in the background, which makes a fully offline mode not feasible with our current architecture. We do clearly state this requirement on the store page.",
+        "date": 1777974168
+      }
+    },
+    {
+      "id": "800146039815984",
+      "score": 5,
+      "review_title": "Great pool game",
+      "review_description": "Best pool game out there ￼by far in my opinion. I love the new update with the large table. I also like the new called pocket game I would  highly recommend this game. I would maybe like to see straight pool in a future update  ￼ ￼￼",
+      "date": 1775227377,
+      "review_helpful_count": 0,
+      "author_display_name": "MattD1974",
+      "author_alias": "MattD1974",
+      "developer_response": null
+    },
+    {
+      "id": "989173047620667",
+      "score": 5,
+      "review_title": "Great Game",
+      "review_description": "I truly enjoy this game, and one feature that would significantly enhance the experience, as observed in other applications, is the integration of a floating YouTube screen. This would allow users to simultaneously enjoy their preferred music or sports content while engaging in a game of pool.",
+      "date": 1773922615,
+      "review_helpful_count": 1,
+      "author_display_name": "kaitkillz",
+      "author_alias": "kaitkillz",
+      "developer_response": null
+    },
+    {
+      "id": "1121440471044278",
+      "score": 5,
+      "review_title": "Only game i play!",
+      "review_description": "Great fun to play from anywhere, being able to play realistic physics is great and I can assure you it has 100% helped on a real table! Great app",
+      "date": 1776282016,
+      "review_helpful_count": 0,
+      "author_display_name": "ItZ_Mowglii",
+      "author_alias": "ItZ_Mowglii",
+      "developer_response": null
+    },
+    {
+      "id": "2047890145759934",
+      "score": 2,
+      "review_title": "Promising, but flawed. Avoid.",
+      "review_description": "TLDR: trash physics, abandoned by the devs.\n\nConsider that Virtual Pool 3 was 25 YEARS AGO and had pretty much perfect physics… This GAME (not simulation) has some truly embarrassing ball and cushion physics. A ball touching a cushion will run along that cushion regardless of how it’s contacted. Touching balks will magically run along together. Balls will randomly fly off the table. Jump shots are absurd, able to fly nearly directly upwards. Balls hit at high speed can sometimes pass through other balls. Ranked play ELO loss can be avoided by powering off headset. ELO rating stays regardless of activity, so climb leaderboard and sit there if you can and never play again.\n\nDevs are now unresponsive on Discord. The crappy physics bugs not even acknowledged. Community perceives they’ve made whatever $ they can and moved on.  Avoid",
+      "date": 1768826112,
+      "review_helpful_count": 10,
+      "author_display_name": "Cruthensis",
+      "author_alias": "Cruthensis",
+      "developer_response": {
+        "body": "Thanks for sharing your experience with us — feedback like yours helps us improve.\n\nWe appreciate the feedback on ball physics. We've invested an enormous amount of time building our physics engine based on real-world measurements, and we believe it's the most realistic pool physics available in VR/MR today. While occasional glitches can happen, our data shows they're very rare. We haven't changed the core physics since launch because we're confident in its accuracy. If you're experiencing a specific reproducible issue, we'd love to hear about it on our Discord so we can investigate!\n\nYou're absolutely right — fair matchmaking is crucial. We've recently implemented a skill-based matchmaking system that prioritizes finding opponents close to your ELO rating. It starts with a narrow search range and only widens it if no suitable opponent is found quickly. This should make for much fairer matches. Please give it another try!\n\nA lot has changed since your review, and we think you might be pleasantly surprised. Give it another shot when you can — and if it wins you over, a updated review would mean the world to us. We're a tiny team and every star counts!",
+        "date": 1774001051
+      }
+    },
+    {
+      "id": "1014280268436706",
+      "score": 5,
+      "review_title": "Easy and relaxing to play",
+      "review_description": "I bought Miracle pool just thinking it would be cool to show mixed reality demo to friends.  The tutorial helped me get right into practice & game.  The arcade mode (helping pointer arrows) makes it easy for casual play, and the 3 table sizes is a fantastic feature (I use small table which seems to fit easier to more spaces)… Opening the delivery box to place the table wherever never gets old!  The two ways to move the table by grabbing or by left joystick is brilliant, bc in small spaces it’s super simple to move the table so nothing in MR gets knocked over.  Finally the single player AI mode is immersive, the AI aviators have different appearances and difficulty levels.  The graphics for the table, cues and balls are realistic, and love how the menu and scorecard tilts above based on where player is standing.  It’s a very well done game, exceeded my expectations!",
+      "date": 1772926865,
+      "review_helpful_count": 1,
+      "author_display_name": "Meta1Star",
+      "author_alias": "Meta1Star",
+      "developer_response": null
+    },
+    {
+      "id": "1038140712714581",
+      "score": 5,
+      "review_title": "Like having a real pool table",
+      "review_description": "I absolutely love this game. I am new to VR and far from young but I love playing this in my spare time. It feels like playing real pool but with joy sticks. If you like pool in anyway buy this game. You can play different types of games like 9 ball pool. Yellow and red pool and snooker. Highly recommend this game.",
+      "date": 1772715677,
+      "review_helpful_count": 1,
+      "author_display_name": "the.ruiner.955411",
+      "author_alias": "the.ruiner.955411",
+      "developer_response": null
+    },
+    {
+      "id": "911208262077241",
+      "score": 2,
+      "review_title": "Was 5 Stars…",
+      "review_description": "Was 5 stars- the physics are great, and the multiplayer is fun as well.\n\nOnly problem is that I can’t get it back to mixed reality. It used to be just the pool table in my room, and I could walk around and see my furniture as to not bump into anything. \nBut the other day, I accidentally clicked on the one free background that comes free with the app, and it took away the mixed reality part. And no matter what I do, I cannot remove this background/atmosphere.\nSince the game still thinks it’s mixed reality, it won’t allow my border, which means it is impossible to see furniture, and where I am at in each room,\n\nAdd an option to change it back to mixed reality, and it’ll be 5 stars.",
+      "date": 1766371059,
+      "review_helpful_count": 21,
+      "author_display_name": "joedaspacecow03",
+      "author_alias": "joedaspacecow03",
+      "developer_response": {
+        "body": "We're grateful you took the time to share this — it helps us understand what matters most to our players.\n\nWe appreciate the feedback on ball physics. We've invested an enormous amount of time building our physics engine based on real-world measurements, and we believe it's the most realistic pool physics available in VR/MR today. While occasional glitches can happen, our data shows they're very rare. We haven't changed the core physics since launch because we're confident in its accuracy. If you're experiencing a specific reproducible issue, we'd love to hear about it on our Discord so we can investigate!\n\nWe're sorry to hear about the MR/VR switching issue. This isn't something we've been able to reproduce on our end, which makes it tricky to fix. Could you try restarting the game completely? If the issue persists, we'd really appreciate it if you could reach out on our Discord with details about your headset and OS version so we can investigate further.\n\nIf you haven't tried the game recently, we think you'll notice a real difference. We'd love a second chance — and if we've earned it, even adjusting your review by a star or two would help us reach more pool fans out there!",
+        "date": 1774001228
+      }
+    },
+    {
+      "id": "904038559459692",
+      "score": 1,
+      "review_title": "Frustrating and disappointing",
+      "review_description": "So much potential, all lost to the little things that could be so easily corrected. The avatar is male, and no matter what I do….there is no way to change it to a female. Yes, I’ve clicked on the female button, but the character still has a facial hair and no way to remove it. I’ve researched it online, reloaded the program, etc….why is there no way to change this? And,if you click onto the $1.99 vintage pack, a notification pops up that says something went wrong and to try again later. You CANT get rid of it no matter how many times you click on it. The program locks up and the only way out is to literally physically shut down the entire headset.",
+      "date": 1764663107,
+      "review_helpful_count": 39,
+      "author_display_name": "Melissa2ArkansasfromMichigan",
+      "author_alias": "Melissa2ArkansasfromMichigan",
+      "developer_response": {
+        "body": "We appreciate the candid feedback — it's how we get better.\n\nWe completely understand your frustration — the avatar loading issues (Error 651) were caused by a third-party avatar system (Ready Player Me) that we relied on. We've since replaced it entirely with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. This not only looks and feels better, but also eliminates the dependency on external servers, so those loading errors are a thing of the past. Please update to the latest version and give it another try!\n\nYou're absolutely right — fair matchmaking is crucial. We've recently implemented a skill-based matchmaking system that prioritizes finding opponents close to your ELO rating. It starts with a narrow search range and only widens it if no suitable opponent is found quickly. This should make for much fairer matches. Please give it another try!\n\nWe hope you'll give us another chance with the latest update. If your experience improves, we'd be incredibly grateful if you'd consider updating your rating. As a small indie team, player reviews are our lifeline — thank you for your support!",
+        "date": 1774001290
+      }
+    },
+    {
+      "id": "895694676801933",
+      "score": 4,
+      "review_title": "Nice",
+      "review_description": "Good game only wish my roommates can see my table and ball sets",
+      "date": 1775449142,
+      "review_helpful_count": 1,
+      "author_display_name": "Jeskabihh42",
+      "author_alias": "Jeskabihh42",
+      "developer_response": null
+    },
+    {
+      "id": "2108922073181028",
+      "score": 3,
+      "review_title": "Very Frustrating",
+      "review_description": "I'm having a couple of issues,  one I can't change my avatar to female, it says I am supposed to be able to but even when I put it where it should go it still has a mustache and beard and I can't get it to go away. Issue number 2 is that I went to see what the other options were for locations and now im stuck in the attic which I don't like and it will not let me go back.  I liked the game for the most part but now I can't even play it because being stuck in the attic gives me vertigo so now its just a useless game I have that I regret buying.",
+      "date": 1768076032,
+      "review_helpful_count": 5,
+      "author_display_name": "DarlingNicki25",
+      "author_alias": "DarlingNicki25",
+      "developer_response": {
+        "body": "We're grateful you took the time to share this — it helps us understand what matters most to our players.\n\nWe completely understand your frustration — the avatar loading issues (Error 651) were caused by a third-party avatar system (Ready Player Me) that we relied on. We've since replaced it entirely with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. This not only looks and feels better, but also eliminates the dependency on external servers, so those loading errors are a thing of the past. Please update to the latest version and give it another try!\n\nGreat news — we've completely replaced the old third-party avatar system (Ready Player Me) with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. The new avatars look better, work better, and the issues with incorrect gender display and deformed hands have been fixed. Please update to the latest version to see the new look!\n\nWe're always improving, and your feedback is part of that process. Next time you pick up the game, we hope you'll feel the difference. If so, updating your review would honestly make our day — it's the best way to support a small studio like ours!",
+        "date": 1774001093
+      }
+    },
+    {
+      "id": "1122252220964438",
+      "score": 4,
+      "review_title": "Great game",
+      "review_description": "Great game, we are using it for local  multiplayer and have tons of fun. Would like from developers to implement option to disable avatar and show only cues  because seeing real person and  ghosted avatar mirroring is distracting for us.",
+      "date": 1777224300,
+      "review_helpful_count": 1,
+      "author_display_name": "Omnisayaah",
+      "author_alias": "Omnisayaah",
+      "developer_response": null
+    },
+    {
+      "id": "1004373322753163",
+      "score": 3,
+      "review_title": "Miracle Pool",
+      "review_description": "Developers….please sort this out…have played your fab game for 6 months almost every day - but now there is a bug in the game. Some players (cheats) have worked out how to ‘accidentally’ exit the game when just about to lose in the pretence they have lost connection. A timer counts down to zero to give them time to reconnect - then they don’t come back (of course). I am then left waiting and can’t do anything - except exit myself and not gain any points (and I suspect they don’t lose any). I’ve lost interest in playing now as no point in doing so. I know they are cheating as it only happens just on defeat",
+      "date": 1767995466,
+      "review_helpful_count": 5,
+      "author_display_name": "KayHarker",
+      "author_alias": "KayHarker",
+      "developer_response": {
+        "body": "We appreciate you taking the time to leave this review — it means a lot to us.\n\nYou're absolutely right — fair matchmaking is crucial. We've recently implemented a skill-based matchmaking system that prioritizes finding opponents close to your ELO rating. It starts with a narrow search range and only widens it if no suitable opponent is found quickly. This should make for much fairer matches. Please give it another try!\n\nWe take fair play very seriously and have addressed several cheating concerns: if a player disconnects and doesn't reconnect within 1 minute, the other player wins. For the aim assist concern — in ranked matches, we only match players with the same settings (Simulator vs. Arcade), so it's always a fair fight. You can also hide your opponent's avatar if their positioning bothers you. We're committed to keeping the competitive experience fair!\n\nWe pour everything into making this game better, update after update. If you revisit MiRacle Pool and find that things have improved, a revised rating would be an incredible boost for our small team. Thanks for being part of the community!",
+        "date": 1774001111
+      }
+    },
+    {
+      "id": "923868780117465",
+      "score": 1,
+      "review_title": "Most frustrating VR experience.",
+      "review_description": "The controller tracking is terrible, If you try and play like youre holding a real cue, the cue bounces all over the place. The rules are terrible. You can plant your ball onto the opponents ball and pot it and its classed as a legal shot, you dont have to pot your ball, just as long as you hit your ball first. You dont have to even hit a ball when you get a free ball.",
+      "date": 1769647211,
+      "review_helpful_count": 2,
+      "author_display_name": "Spartan_87",
+      "author_alias": "Spartan_87",
+      "developer_response": {
+        "body": "Thanks for letting us know about this — your feedback is really valuable to us.\n\nThank you for the feedback on cue tracking. This is a complex challenge that partly stems from hardware limitations — Quest controllers can lose tracking accuracy when your hands are close to your body or behind you, which naturally happens in pool. Different Quest controllers also perform differently (the Quest Pro controllers, for example, use different tracking technology and handle this much better). That said, we've made improvements: we've added aiming assists and a completely redesigned tutorial that walks you through proper technique in detail. These can make a huge difference! Please update and give the new tutorial a try.\n\nPool is played with many different rule variations around the world, and everyone tends to believe their local rules are the 'correct' ones — we totally get it! We've addressed this in two ways: we have a Tournament mode based on official competition rules (implementing everything that translates well to VR), and we also have a Free mode where anything goes — play however you and your friends like to play. We hope one of these modes fits your style!\n\nIf you haven't tried the game recently, we think you'll notice a real difference. We'd love a second chance — and if we've earned it, even adjusting your review by a star or two would help us reach more pool fans out there!",
+        "date": 1774000945
+      }
+    },
+    {
+      "id": "1448792350021380",
+      "score": 5,
+      "review_title": "Great Game",
+      "review_description": "Considering the developer took the time to write such a long and detailed reply, I’ve decided to update my rating to 5 stars.",
+      "date": 1774002171,
+      "review_helpful_count": 0,
+      "author_display_name": "lijunyun",
+      "author_alias": "lijunyun",
+      "developer_response": null
+    },
+    {
+      "id": "1037276702792916",
+      "score": 1,
+      "review_title": "Avatar issues",
+      "review_description": "I was playing this game constantly. Loved it. Its the only one I do play actually. Now its saying theres an issue loading my avatar and the game wont start. What should I do?",
+      "date": 1769900808,
+      "review_helpful_count": 4,
+      "author_display_name": "Eddiebear34",
+      "author_alias": "Eddiebear34",
+      "developer_response": {
+        "body": "Thank you for your feedback — we really appreciate you taking the time to write this.\n\nWe completely understand your frustration — the avatar loading issues (Error 651) were caused by a third-party avatar system (Ready Player Me) that we relied on. We've since replaced it entirely with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. This not only looks and feels better, but also eliminates the dependency on external servers, so those loading errors are a thing of the past. Please update to the latest version and give it another try!\n\nIf you haven't tried the game recently, we think you'll notice a real difference. We'd love a second chance — and if we've earned it, even adjusting your review by a star or two would help us reach more pool fans out there!",
+        "date": 1774000374
+      }
+    },
+    {
+      "id": "948056977729472",
+      "score": 2,
+      "review_title": "Lacking",
+      "review_description": "there is no artificial environment.",
+      "date": 1775719658,
+      "review_helpful_count": 0,
+      "author_display_name": "DJerryWhaley",
+      "author_alias": "DJerryWhaley",
+      "developer_response": {
+        "body": "Hi! Thanks for your feedback.\n\nThere is a VR environment in the game — you can turn it on in the left section of the menu with the VR Mode (On/Off) button.\n\nWe hope this helps, and you are going to rethink your rating/review. \nEnjoy the game,",
+        "date": 1775741256
+      }
+    },
+    {
+      "id": "1071396816048987",
+      "score": 2,
+      "review_title": "Gary cool",
+      "review_description": "Great game But!!! after the last update the pockets are\n1. when you line up and hit it hard, it come out or fly off table .\n2. some shot you got to hit a bit hard to get position on next shot. or go it to the pack\nand it go fight off the table it mainly happens on the left side pocket at the breaking end .\n3. the scores not fair at all ... lose a game lose 20 to 30 points but when you win you lucky to get 12 ... it would be Great if it was 10 for a win and 5 lose .. or 20 win and 10 lose .. when more of the high players may play more ...\n4 i have notice less players playing if the points was better than,you would not mind losing a game or too it should be more fairer.. \n5 otherwise love the game \n6 it would be nice if you reapplied to this thanks Cool Gary",
+      "date": 1769876653,
+      "review_helpful_count": 1,
+      "author_display_name": "CoolGary",
+      "author_alias": "CoolGary",
+      "developer_response": {
+        "body": "Thank you for sharing your experience — we read every single review.\n\n1. as IRL.\n2. yes, when tracking gets lost for a microsecond, sometimes you hit unrealisticly hard.. its a very rare situation, unfortunately we cant do anything with it yet..\n3. its the official ELO system what we implemented. It weights the strength of your opponent — you gain or lose points accordingly. So if you beat a much stronger opponent, you earn more points, while if you lose to a weaker one, you lose more points. We didn’t invent this system.\n\nThanks, hopefully we can earn a better rating later",
+        "date": 1774000926
+      }
+    },
+    {
+      "id": "932765909645231",
+      "score": 5,
+      "review_title": "GREAT!!!",
+      "review_description": "Greatest Mixed Reality game ever!!",
+      "date": 1774691777,
+      "review_helpful_count": 0,
+      "author_display_name": "pozsikdani_ceges",
+      "author_alias": "pozsikdani_ceges",
+      "developer_response": null
+    },
+    {
+      "id": "965598346639569",
+      "score": 1,
+      "review_title": "Devs don't care",
+      "review_description": "Great game when it works. Currently can't play because it says my avatar can't be loaded.\n\nMaybe a few one star reviews might kick the devs into fixing stuff\n\nOkay, I can get in now but the only person you can play is a weird looking guy who appears to have broken both wrists",
+      "date": 1770234300,
+      "review_helpful_count": 0,
+      "author_display_name": "Libbit",
+      "author_alias": "Libbit",
+      "developer_response": {
+        "body": "We appreciate the candid feedback — it's how we get better.\n\nWe completely understand your frustration — the avatar loading issues (Error 651) were caused by a third-party avatar system (Ready Player Me) that we relied on. We've since replaced it entirely with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. This not only looks and feels better, but also eliminates the dependency on external servers, so those loading errors are a thing of the past. Please update to the latest version and give it another try!\n\nWe hear you, and you're right — our communication hasn't been good enough. We're a small indie team, and while we've been heads-down working on the game, we dropped the ball on keeping our community informed. We're actively working to improve this — both here and on Discord. The game is far from abandoned; we're pushing updates regularly and have a lot planned. Thank you for your patience!\n\nWe've been working really hard on improvements lately. If you get a chance to try the latest version, we'd love to know what you think — and if things feel better, we'd be super grateful if you considered updating your rating. It makes a huge difference for a small team like ours!",
+        "date": 1774000298
+      }
+    },
+    {
+      "id": "985788904616229",
+      "score": 1,
+      "review_title": "App not working properly",
+      "review_description": "No matter who I choose to play with I get the same avatar. I choose Naomi and get a man. I choose Emma and get same man. This was a great game as well. Can you fix the issue? Thxs",
+      "date": 1770744223,
+      "review_helpful_count": 2,
+      "author_display_name": "spliffhead",
+      "author_alias": "spliffhead",
+      "developer_response": {
+        "body": "We're grateful you took the time to share this — it helps us understand what matters most to our players.\n\nWe completely understand your frustration — the avatar loading issues (Error 651) were caused by a third-party avatar system (Ready Player Me) that we relied on. We've since replaced it entirely with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. This not only looks and feels better, but also eliminates the dependency on external servers, so those loading errors are a thing of the past. Please update to the latest version and give it another try!\n\nWe're sorry about the connection issues you experienced. We've been working hard on improving our network stability — we've fixed multiple connectivity bugs recently and also added a reconnection feature, so if your connection drops during a game, it can now recover without losing your progress. We've seen significant improvements in this area. Please update to the latest version and try again!\n\nWe pour everything into making this game better, update after update. If you revisit MiRacle Pool and find that things have improved, a revised rating would be an incredible boost for our small team. Thanks for being part of the community!",
+        "date": 1774000246
+      }
+    },
+    {
+      "id": "954655244387701",
+      "score": 4,
+      "review_title": "Some of the best physics in a pool game",
+      "review_description": "I've tried several pool games on the Quest and this is the best that I've found so far. The physics are probably the best of these. This also has the best way of moving the table around. Like me, I'm sure that a lot of people don't have the space to walk around a table, so being able to easily rotate or slide the table is a big plus. Also nice to be able to choose from 3 table sizes. It's nice to have both public and private multiplayer options, in addition to the practice and AI opponents for single player.\n\nFor me, there are a couple of things that keep this from being perfect. I've found that having a real pool cue in hand makes the game feel more real (I started with my own rig, then bought the DeadEyeVR MasterBreaker Haptic VR Pool Cue), but this causes a couple of problems: 1) Since the back-hand (right for me) controller is not lined up directly with the cue, this causes the virtual cue to be misaligned with the real cue. It would be nice to be able to offset the controller/cue the way that most golf games allow for club attachments. 2) Rotating the table becomes a nuisance. Constantly moving my right hand from the cue to the controller to rotate the table breaks the immersion. There should a way to at swap the joysticks function between the right and left hand. It would be nice to be able to use the joystick on left controller to rotate, since that one is always in hand.",
+      "date": 1765116537,
+      "review_helpful_count": 10,
+      "author_display_name": "Tim_Ecgric",
+      "author_alias": "Tim_Ecgric",
+      "developer_response": null
+    },
+    {
+      "id": "1581076549867709",
+      "score": 4,
+      "review_title": "Great game!",
+      "review_description": "Would give it five stars but there are a few technical glitches sometimes. But otherwise very realistic and fun!\nI’m able to play pool with my brother in another province.",
+      "date": 1771433735,
+      "review_helpful_count": 0,
+      "author_display_name": "Atfrenette",
+      "author_alias": "Atfrenette",
+      "developer_response": null
+    },
+    {
+      "id": "922589573467410",
+      "score": 3,
+      "review_title": "Can not go back to. Mixedreality",
+      "review_description": "Please fixed this, itu should 5 star but sorry i give 3 coz, it should be a mixedrwality game\n but it can not",
+      "date": 1772888369,
+      "review_helpful_count": 0,
+      "author_display_name": "allan28",
+      "author_alias": "allan28",
+      "developer_response": {
+        "body": "Thanks for sharing your experience with us — feedback like yours helps us improve.\n\nWe're sorry to hear about the MR/VR switching issue. This isn't something we've been able to reproduce on our end, which makes it tricky to fix. Could you try restarting the game completely? If the issue persists, we'd really appreciate it if you could reach out on our Discord with details about your headset and OS version so we can investigate further.\n\nOur team has been heads-down fixing issues and adding features. If you try the latest version and things click, we'd really appreciate an updated review — for a small indie team, ratings are everything. Thanks for sticking with us!",
+        "date": 1774000155
+      }
+    },
+    {
+      "id": "1002932642897074",
+      "score": 1,
+      "review_title": "Gra nie dziala",
+      "review_description": "Avatar loading error  jakas rada.",
+      "date": 1769854890,
+      "review_helpful_count": 6,
+      "author_display_name": "broberto163",
+      "author_alias": "broberto163",
+      "developer_response": {
+        "body": "We appreciate the candid feedback — it's how we get better.\n\nWe completely understand your frustration — the avatar loading issues (Error 651) were caused by a third-party avatar system (Ready Player Me) that we relied on. We've since replaced it entirely with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. This not only looks and feels better, but also eliminates the dependency on external servers, so those loading errors are a thing of the past. Please update to the latest version and give it another try!\n\nWe hope you'll give us another chance with the latest update. If your experience improves, we'd be incredibly grateful if you'd consider updating your rating. As a small indie team, player reviews are our lifeline — thank you for your support!",
+        "date": 1774000980
+      }
+    },
+    {
+      "id": "1401487725070538",
+      "score": 5,
+      "review_title": "favourite standalone pool sim",
+      "review_description": "The best pool sim out there is Sports Bar VR,  but it is pcvr only and appears to be abandoned by its devs.   next best is miracle pool which has the added feature of MR so you can play in your own living room/garage/recroom.\n\nlike many pool sims it's difficult to get a good break -- the ai opponent always gets a maximally powerful break shot whereas it's almost impossible to move your controller fast enough to get a decent break yourself.   apart from that,  and no 'cheat' course prediction for bank shots in arcade mode,  it's a very enjoyable substitute for a real table.  the physics is really good, including 'English' and backspin.  ball soinds are realistic enough to be immersive.\n\nthe arcade gamification features are imho a waste of development hours -- no serious player is gonna care about silly versions of pool cues or silver-plated balls.   the sim errs on the side of tooniness but nevertheless has good enough physics and lighting that you can almost try to lean on the table and once or twice I have instinctively congratulated the opponent on a good shot.\n\nthere's an in app purchase option for a real old school wooden table but when I tried to buy it,  my quest 3 went out to lunch and had to be power cycled.\n\nit would be nice to have some higher level ais. I've beaten them all now, and it would be nice to have a couple that can beat me,  so I have something to train for.",
+      "date": 1768416945,
+      "review_helpful_count": 1,
+      "author_display_name": "Tazling",
+      "author_alias": "Tazling",
+      "developer_response": null
+    },
+    {
+      "id": "1270144288499997",
+      "score": 1,
+      "review_title": "This was the best game, avatar error too",
+      "review_description": "Please fix it soon.  Best game I have.",
+      "date": 1769895363,
+      "review_helpful_count": 5,
+      "author_display_name": "SunshineRiver",
+      "author_alias": "SunshineRiver",
+      "developer_response": {
+        "body": "Thank you for reaching out through your review — we want to address your concerns.\n\nWe completely understand your frustration — the avatar loading issues (Error 651) were caused by a third-party avatar system (Ready Player Me) that we relied on. We've since replaced it entirely with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. This not only looks and feels better, but also eliminates the dependency on external servers, so those loading errors are a thing of the past. Please update to the latest version and give it another try!\n\nA lot has changed since your review, and we think you might be pleasantly surprised. Give it another shot when you can — and if it wins you over, a updated review would mean the world to us. We're a tiny team and every star counts!",
+        "date": 1774000405
+      }
+    },
+    {
+      "id": "1014884321704486",
+      "score": 5,
+      "review_title": "I have a table at home again!",
+      "review_description": "About as close as I can get to having a real table. I've looked at some of the other pool games that are available and none of them come close.",
+      "date": 1770949632,
+      "review_helpful_count": 0,
+      "author_display_name": "GlenQ",
+      "author_alias": "GlenQ",
+      "developer_response": null
+    },
+    {
+      "id": "1017689741419215",
+      "score": 5,
+      "review_title": "🎱 A Must-Have Pool Experience in VR",
+      "review_description": "MiRacle Pool is an absolutely incredible pool game—and one I didn’t realize I needed this badly. It offers a huge amount of content, with multiple modes including single player, multiplayer, daily challenges, mini-games, and a full practice mode. There’s always something new to jump into.\n\nThe environments are sleek and immersive, making you genuinely feel like you’re standing around a real pool table. The physics are outstanding—you can even switch to full simulation if you don’t want any assistance, delivering authentic pool sensations and precision shots that feel incredibly satisfying.\n\nOn top of that, there’s a rewarding progression system with plenty of unlocks for pool tables, accessories, and visual customisation. The graphics are excellent, and the game mechanics are smooth, responsive, and polished.\n\nThis is one of those games you’ll keep coming back to, improving your skills over time—and it’s also perfect for inviting friends to play online together.\n\nAn outstanding VR pool game from top to bottom.\n5 stars without hesitation. ⭐⭐⭐⭐⭐",
+      "date": 1768295692,
+      "review_helpful_count": 1,
+      "author_display_name": "metaquesta99",
+      "author_alias": "metaquesta99",
+      "developer_response": null
+    },
+    {
+      "id": "858363920703959",
+      "score": 3,
+      "review_title": "Slot shots!?!",
+      "review_description": "The game is fun. I'm really enjoying it. A bit ridiculous though that slop shots are allowed. Would be nice to get a patch to have the rules being implemented properly. Frustrating to have an opponent win when they shoot the 8 ball and it bounces around the table and luckily falls into a pocket. That's a loss. Period. Not should you get another turn if it's any other ball. Come on devs.",
+      "date": 1767918276,
+      "review_helpful_count": 1,
+      "author_display_name": "Jaimswithani",
+      "author_alias": "Jaimswithani",
+      "developer_response": {
+        "body": "We appreciate the candid feedback — it's how we get better.\n\nThank you for the feedback on cue tracking. This is a complex challenge that partly stems from hardware limitations — Quest controllers can lose tracking accuracy when your hands are close to your body or behind you, which naturally happens in pool. Different Quest controllers also perform differently (the Quest Pro controllers, for example, use different tracking technology and handle this much better). That said, we've made improvements: we've added aiming assists and a completely redesigned tutorial that walks you through proper technique in detail. These can make a huge difference! Please update and give the new tutorial a try.\n\nPool is played with many different rule variations around the world, and everyone tends to believe their local rules are the 'correct' ones — we totally get it! We've addressed this in two ways: we have a Tournament mode based on official competition rules (implementing everything that translates well to VR), and we also have a Free mode where anything goes — play however you and your friends like to play. We hope one of these modes fits your style!\n\nWe pour everything into making this game better, update after update. If you revisit MiRacle Pool and find that things have improved, a revised rating would be an incredible boost for our small team. Thanks for being part of the community!",
+        "date": 1774001130
+      }
+    },
+    {
+      "id": "1144943252030670",
+      "score": 1,
+      "review_title": "Bad game can’t even aim",
+      "review_description": "Absolutely bad game, the cue shakes can’t even aim. I love pool so much and i have both black hole and miracle pool they are all bad. Waste of money",
+      "date": 1778888259,
+      "review_helpful_count": 0,
+      "author_display_name": "YizhiPan",
+      "author_alias": "YizhiPan",
+      "developer_response": {
+        "body": "Dear YizhiPan,\n\nThanks for your feedback. It’s difficult for us to act on comments like this without more specific details. As you can probably see from the overall rating and number of reviews, the game is working for many players and people are actively enjoying it.\n\nThe game supports two different control methods: controller mode and controller-free mode. If you go through the mandatory tutorial at the beginning (or replay it later), it guides you step by step through both control systems and explains how they work.\n\nIf you're having a specific issue or need help setting things up, feel free to join our Discord community or contact us directly at info@pxlworks.io — we're happy to help.\n\nAnd if you’ve already decided the game simply isn’t for you, we’d suggest requesting a refund. Meta has a straightforward refund process and may return your purchase if you meet their refund requirements.\n\nBest,\nThe Pixel Works Team",
+        "date": 1779268028
+      }
+    },
+    {
+      "id": "795205310350814",
+      "score": 3,
+      "review_title": "Error 651 unable to load avatar",
+      "review_description": "This game is really enjoyable when you get into it. I've just tried to load it up and getting a error message of 651 unable to load avatar.  I've rebooted everything and still the same error message. I don't know if anyone else has come across this error message with the game 😕.",
+      "date": 1761245778,
+      "review_helpful_count": 39,
+      "author_display_name": "chrisko23bkf",
+      "author_alias": "chrisko23bkf",
+      "developer_response": {
+        "body": "Thanks for letting us know about this — your feedback is really valuable to us.\n\nWe completely understand your frustration — the avatar loading issues (Error 651) were caused by a third-party avatar system (Ready Player Me) that we relied on. We've since replaced it entirely with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. This not only looks and feels better, but also eliminates the dependency on external servers, so those loading errors are a thing of the past. Please update to the latest version and give it another try!\n\nWe're sorry about the crashes you've been experiencing. Stability is a top priority for us and we've been working on fixes. Could you please make sure you're on the latest version? If crashes persist, we'd really appreciate a report on our Discord with your headset model and what you were doing when it crashed — this helps us track down and fix these issues.\n\nA lot has changed since your review, and we think you might be pleasantly surprised. Give it another shot when you can — and if it wins you over, a updated review would mean the world to us. We're a tiny team and every star counts!",
+        "date": 1774001407
+      }
+    },
+    {
+      "id": "2908643395993361",
+      "score": 5,
+      "review_title": "MiRacle Pool",
+      "review_description": "🫠🤙",
+      "date": 1774106854,
+      "review_helpful_count": 2,
+      "author_display_name": "solvangman805",
+      "author_alias": "solvangman805",
+      "developer_response": {
+        "body": "Thank you for sharing your experience — we read every single review.\n\nWe're a small indie team constantly working to improve MiRacle Pool based on player feedback like yours. If you have specific issues, please don't hesitate to reach out on our Discord — we'd love to help!\n\nWe're always improving, and your feedback is part of that process. Next time you pick up the game, we hope you'll feel the difference. If so, updating your review would honestly make our day — it's the best way to support a small studio like ours!",
+        "date": 1774000143
+      }
+    },
+    {
+      "id": "1440738404308331",
+      "score": 4,
+      "review_title": "Good Game of Pool",
+      "review_description": "Great game of pool, especially against online players.  One thing I would like to see is a penalty for players who quit when about to lose.  Quite frustrating to beat an opponent, only for them to leave when you are about to pot the final ball.  Could the devs please do something about this in the next update?",
+      "date": 1767487191,
+      "review_helpful_count": 1,
+      "author_display_name": "dan.m.griffiths",
+      "author_alias": "dan.m.griffiths",
+      "developer_response": null
+    },
+    {
+      "id": "975823225612307",
+      "score": 4,
+      "review_title": "Really fun",
+      "review_description": "It has some flaws (such as snooker not having proper snooker rules) but all in all its a really fun game. I wish it was a tad bit cheaper so more people could enjoy it.",
+      "date": 1769938988,
+      "review_helpful_count": 0,
+      "author_display_name": "QoCoRech",
+      "author_alias": "QoCoRech",
+      "developer_response": null
+    },
+    {
+      "id": "995982632918982",
+      "score": 5,
+      "review_title": "I LOVE IT",
+      "review_description": "I LOVE IT I LOVE IT I LOVE IT DOWNLOAD NOW",
+      "date": 1780283901,
+      "review_helpful_count": 0,
+      "author_display_name": "lfrei",
+      "author_alias": "lfrei",
+      "developer_response": null
+    },
+    {
+      "id": "847439325125405",
+      "score": 4,
+      "review_title": "Snooker Update Needed",
+      "review_description": "The game is great but the 9 foot snooker table doesn't give you enough space on the table so please full 12 foot table next update, also only 9 reds and when your opponent fouls with a miss you can't put them back in to retake the previous shot. Instead what happens is you get ball in hand an it causes chaos because you can then put the ball anywhere which isn't allowed in real snooker. Fix all this and it's 5 stars from me",
+      "date": 1763279299,
+      "review_helpful_count": 8,
+      "author_display_name": "ScouseJoey1987",
+      "author_alias": "ScouseJoey1987",
+      "developer_response": null
+    },
+    {
+      "id": "870109119178875",
+      "score": 1,
+      "review_title": "Pool table is realistic",
+      "review_description": "GAME NOT AVAILABLE OFFLINE?",
+      "date": 1777993567,
+      "review_helpful_count": 0,
+      "author_display_name": "Tracyspacewalk",
+      "author_alias": "Tracyspacewalk",
+      "developer_response": null
+    },
+    {
+      "id": "1014492421087061",
+      "score": 5,
+      "review_title": "ADD MORE ENVIRONMENTS",
+      "review_description": "great game but im tired of the attic!",
+      "date": 1779905851,
+      "review_helpful_count": 0,
+      "author_display_name": "monster901",
+      "author_alias": "monster901",
+      "developer_response": null
+    },
+    {
+      "id": "1435173408338317",
+      "score": 5,
+      "review_title": "Solid game.",
+      "review_description": "Held off buying this one for some reason.  \nGlad I bought it. It’s exactly how I thought it would be.  Will definitely be in my game playing rotation.",
+      "date": 1769123735,
+      "review_helpful_count": 0,
+      "author_display_name": "YoMike",
+      "author_alias": "YoMike",
+      "developer_response": null
+    },
+    {
+      "id": "991293680731327",
+      "score": 5,
+      "review_title": "Avatar not loading",
+      "review_description": "ALL FIXED! Thanks for sorting, looking forward to the hand tracking now!",
+      "date": 1769939208,
+      "review_helpful_count": 1,
+      "author_display_name": "antgibb",
+      "author_alias": "antgibb",
+      "developer_response": null
+    },
+    {
+      "id": "1193933419341494",
+      "score": 4,
+      "review_title": "possible bugs",
+      "review_description": "Hey there, the game and physics are very spot on. however I have noticed over time things are subtle but get a little off. the triangle starts to go further out from the table. and the masse shots stop working wanting to jump all the time the masse shots are the main thing because of the game making the ball jump a lot no matter the position of the cue. either than that it is a good game.... well.... I kind of wish you would have a full size snooker table. I would like the full snooker experience. full rules and what not",
+      "date": 1764560188,
+      "review_helpful_count": 2,
+      "author_display_name": "Quazarimperial",
+      "author_alias": "Quazarimperial",
+      "developer_response": null
+    },
+    {
+      "id": "952725837921418",
+      "score": 3,
+      "review_title": "Accaptable but wifi is a must",
+      "review_description": "gamewise its accatable, was made for quest 2, but why is wifi a must when there is a trainingmode and a singleplayer mode... I get it, it must be a must for multiplayer mode...",
+      "date": 1766960386,
+      "review_helpful_count": 2,
+      "author_display_name": "DoNotFollowMe",
+      "author_alias": "DoNotFollowMe",
+      "developer_response": {
+        "body": "Thanks for sharing your experience with us — feedback like yours helps us improve.\n\nWe understand the frustration of needing an internet connection for single-player modes. This is a technical decision we made early in development — the game communicates with our servers in the background for various features, which unfortunately makes a fully offline mode not feasible with our current architecture. We do clearly state this requirement on the store page. We appreciate the feedback and hear you — it's something we keep in mind for the future.\n\nThe AI opponents get progressively stronger as you advance through the single-player ladder — the early opponents are intentionally easier to help new players learn. While AI will never perfectly replicate a human opponent, we're continuously working to improve their decision-making. We appreciate the feedback!\n\nWe hope you'll give us another chance with the latest update. If your experience improves, we'd be incredibly grateful if you'd consider updating your rating. As a small indie team, player reviews are our lifeline — thank you for your support!",
+        "date": 1774001184
+      }
+    },
+    {
+      "id": "895934016151354",
+      "score": 5,
+      "review_title": "Avatar loading bug fixed",
+      "review_description": "Thanks for the fix. Finally able to play after such a long break.",
+      "date": 1769939826,
+      "review_helpful_count": 1,
+      "author_display_name": "jerzy521",
+      "author_alias": "jerzy521",
+      "developer_response": null
+    },
+    {
+      "id": "873309932533008",
+      "score": 5,
+      "review_title": "Amazing!!",
+      "review_description": "This game is one of the reasons I purchased a meta quest 3. The graphics and physics of this game are AMAZING!. Having a full sized pool and snooker table in your home is fantastic. You will be immersed in both single player or multiplayer.  Seriously you won’t be disappointed. An easy 10/10.",
+      "date": 1763211403,
+      "review_helpful_count": 4,
+      "author_display_name": "Mighty_Ram",
+      "author_alias": "Mighty_Ram",
+      "developer_response": null
+    },
+    {
+      "id": "1008427949016377",
+      "score": 4,
+      "review_title": "Got a bug",
+      "review_description": "Hi, i can't invite an online friend to play Miracle Pool. Nobody is in my online friends list in Miracle Pool VR.\n\nI can chat and audio call my friend and play other games with them. Is there something wrong? We are both using quest 3",
+      "date": 1770442769,
+      "review_helpful_count": 0,
+      "author_display_name": "Muso1000",
+      "author_alias": "Muso1000",
+      "developer_response": null
+    },
+    {
+      "id": "912569975278695",
+      "score": 4,
+      "review_title": "English pool",
+      "review_description": "I do love this game alot however it would be nice to have an English pool mode. Which you can play on a English pool supreme table with the balls and the rules",
+      "date": 1767896339,
+      "review_helpful_count": 0,
+      "author_display_name": "Unknownfate25",
+      "author_alias": "Unknownfate25",
+      "developer_response": null
+    },
+    {
+      "id": "1020148391171359",
+      "score": 1,
+      "review_title": "Avatar loading ERROR",
+      "review_description": "Help!!!",
+      "date": 1769908143,
+      "review_helpful_count": 1,
+      "author_display_name": "PapaEmeritus3",
+      "author_alias": "PapaEmeritus3",
+      "developer_response": {
+        "body": "We appreciate the candid feedback — it's how we get better.\n\nWe completely understand your frustration — the avatar loading issues (Error 651) were caused by a third-party avatar system (Ready Player Me) that we relied on. We've since replaced it entirely with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. This not only looks and feels better, but also eliminates the dependency on external servers, so those loading errors are a thing of the past. Please update to the latest version and give it another try!\n\nWe've been working really hard on improvements lately. If you get a chance to try the latest version, we'd love to know what you think — and if things feel better, we'd be super grateful if you considered updating your rating. It makes a huge difference for a small team like ours!",
+        "date": 1774000326
+      }
+    },
+    {
+      "id": "1192698226124955",
+      "score": 5,
+      "review_title": "Superb!",
+      "review_description": "Just a few hours in and is mighty impressive. As close to the real thing as you can get I’d say. Only been on single player and the practice table for now to get the hang of it, I bet it’ll be even betting on multiplayer. Highly recommended.",
+      "date": 1765483677,
+      "review_helpful_count": 0,
+      "author_display_name": "SCaldow",
+      "author_alias": "SCaldow",
+      "developer_response": null
+    },
+    {
+      "id": "909125402275833",
+      "score": 2,
+      "review_title": "Miracle pool",
+      "review_description": "Great game, but I think the scoring isn't fair at all. When a person score is 1800 then a player with a 1540 score plays like he is been playing for a long time and he beats you and he gets 28 points, you beat him and you get 3 points. Not fair at all.",
+      "date": 1761760097,
+      "review_helpful_count": 7,
+      "author_display_name": "Ron1966",
+      "author_alias": "Ron1966",
+      "developer_response": {
+        "body": "We're grateful for your honest review — it helps us understand how to improve.\n\nWe're a small indie team constantly working to improve MiRacle Pool based on player feedback like yours. If you have specific issues, please don't hesitate to reach out on our Discord — we'd love to help!\n\nOur team has been heads-down fixing issues and adding features. If you try the latest version and things click, we'd really appreciate an updated review — for a small indie team, ratings are everything. Thanks for sticking with us!",
+        "date": 1774001337
+      }
+    },
+    {
+      "id": "1592537441926013",
+      "score": 4,
+      "review_title": "Needs offline mode",
+      "review_description": "The game is great and is easy to pick up and play. The Mixed reality implementation is seamless. My only complaint is that the game needs an Internet connection even for single player.",
+      "date": 1763215426,
+      "review_helpful_count": 4,
+      "author_display_name": "Niavlys10",
+      "author_alias": "Niavlys10",
+      "developer_response": null
+    },
+    {
+      "id": "1456451659210004",
+      "score": 5,
+      "review_title": "VR pool at it's best!!!",
+      "review_description": "I held off getting this for the longest time because I already had a pool game that I enjoyed.  I wish I would have pulled the trigger earlier because this is by far the best one I have ever played.  Great job Dev's!!!",
+      "date": 1773529278,
+      "review_helpful_count": 1,
+      "author_display_name": "APEboys",
+      "author_alias": "APEboys",
+      "developer_response": null
+    },
+    {
+      "id": "815701838028559",
+      "score": 5,
+      "review_title": "Great game!",
+      "review_description": "I feels very realistic i love to play online with a friend. I recommend buying the game!\n\nDear developers: I would be great if the table would remember the position after restarting the game. To unpack the table every time is a little bit nauseating. In addition i am unable to buy the vintage dlc, the game crashes when clicking on it. Thank you!",
+      "date": 1762877463,
+      "review_helpful_count": 0,
+      "author_display_name": "Kror_de",
+      "author_alias": "Kror_de",
+      "developer_response": null
+    },
+    {
+      "id": "799624913244857",
+      "score": 5,
+      "review_title": "Exceeded my expectations",
+      "review_description": "Yes, you can have your own pool table! Because it offers Mixed Reality, it's just like playing on a real table in your home. You can play it anywhere! Raise it, lower it, size it, the choice is yours. I can't wait to play online after I get more practice! Very nice, money we'll spent.",
+      "date": 1763544487,
+      "review_helpful_count": 0,
+      "author_display_name": "Megatronman",
+      "author_alias": "Megatronman",
+      "developer_response": null
+    },
+    {
+      "id": "1125437643111758",
+      "score": 5,
+      "review_title": "Error 651",
+      "review_description": "Just started getting this error code a few days after the last update(81.???) nothing seems to clear it, all my other games seem to be functioning correctly.",
+      "date": 1761251467,
+      "review_helpful_count": 7,
+      "author_display_name": "Kcjm",
+      "author_alias": "Kcjm",
+      "developer_response": null
+    },
+    {
+      "id": "1422484956137953",
+      "score": 1,
+      "review_title": "Game Doesn't Work",
+      "review_description": "Just bought the game and it won't load.. keeps saying it cant load avatar and your just stuck looking at a red background. Tried to reset /uninstall and reinstall still same issue what a waste..",
+      "date": 1769891258,
+      "review_helpful_count": 4,
+      "author_display_name": "Glamb412",
+      "author_alias": "Glamb412",
+      "developer_response": {
+        "body": "We appreciate the candid feedback — it's how we get better.\n\nWe completely understand your frustration — the avatar loading issues (Error 651) were caused by a third-party avatar system (Ready Player Me) that we relied on. We've since replaced it entirely with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. This not only looks and feels better, but also eliminates the dependency on external servers, so those loading errors are a thing of the past. Please update to the latest version and give it another try!\n\nWe're sorry about the connection issues you experienced. We've been working hard on improving our network stability — we've fixed multiple connectivity bugs recently and also added a reconnection feature, so if your connection drops during a game, it can now recover without losing your progress. We've seen significant improvements in this area. Please update to the latest version and try again!\n\nWe'd love for you to give MiRacle Pool another try with the latest update. If your experience improves, even a small bump in your rating would help us enormously — it's what keeps a small indie studio like ours going!",
+        "date": 1774000432
+      }
+    },
+    {
+      "id": "1368692458624413",
+      "score": 1,
+      "review_title": "Don’t Waste Your Money",
+      "review_description": "Game has potential…but unfortunately it left a bad taste in my mouth…purchased this game yesterday and today it errored out “Avatar cannot be loaded”…seems like this is normal for this game from what I am hearing….",
+      "date": 1769881423,
+      "review_helpful_count": 2,
+      "author_display_name": "soon2riseking",
+      "author_alias": "soon2riseking",
+      "developer_response": {
+        "body": "Thanks for sharing your experience with us — feedback like yours helps us improve.\n\nWe completely understand your frustration — the avatar loading issues (Error 651) were caused by a third-party avatar system (Ready Player Me) that we relied on. We've since replaced it entirely with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. This not only looks and feels better, but also eliminates the dependency on external servers, so those loading errors are a thing of the past. Please update to the latest version and give it another try!\n\nOur team has been heads-down fixing issues and adding features. If you try the latest version and things click, we'd really appreciate an updated review — for a small indie team, ratings are everything. Thanks for sticking with us!",
+        "date": 1774000554
+      }
+    },
+    {
+      "id": "840445099141656",
+      "score": 5,
+      "review_title": "There should be tournaments",
+      "review_description": "This game is great I loved it and played all the mode finished but what I think to make the game better is to add weekly tournaments where if you win you can win in game cue stick or pool table and tournament where you can make real money would be pretty cool where you must use simulator mode only",
+      "date": 1757745223,
+      "review_helpful_count": 7,
+      "author_display_name": "SmashCalvin321",
+      "author_alias": "SmashCalvin321",
+      "developer_response": null
+    },
+    {
+      "id": "914580071735413",
+      "score": 5,
+      "review_title": "Best adult enterntainment",
+      "review_description": "This is more like a simulator and that makes it very challenging amd enjoyable.",
+      "date": 1764829562,
+      "review_helpful_count": 0,
+      "author_display_name": "POPASON",
+      "author_alias": "POPASON",
+      "developer_response": null
+    },
+    {
+      "id": "1494897192639425",
+      "score": 4,
+      "review_title": "It will satisfy your pool addiction",
+      "review_description": "This is quite a long review, but if you are interested in or already love pool, while being skeptical of the quality of the game, then you should read this. It will satisfy your pool addiction, if you have one (I do). If you are good at pool, you will be good at this. I was tempted to give it a 5 star… but there’s a lot of tiny things bothering me that could easily be implemented. I love this game. The physics are amazing, realistic, and that’s the most important part. There’s really not a lot of room for improvement in that regard. But to truly make it feel special, you must put the virtual pool table over a real life table so that you can lean on it!!! You can play against AI’s who are pretty decent, you can practice alone, play online, 4 different game modes, do a daily challenge, unlock skins for almost everything like your cue, balls, table, frame and so on. Now, the things I believe need improvement! First, the settings. It’s great that you can flip the joystick rotation, change to hands without arms, change the anchor hand, mute the music and so on. But there are things like, changing where on the cue your hands are placed (I prefer a back hand anchor but it’s placed poorly so that my controller often loses tracking because I have to pull it back too far. Having a button to flip the table when you only have access to half a real life table so that you don’t need to manually spin it every time to line it up would be nice.. The only other thing I can think of right now is, being able to resize the table to match your real life table, as having 3 different sizes to pick from is good but none fit my table just right. In summary, the game is a lot of fun, gets you a lifetime of pool for the price of a 2 hour session at the bar!! You can improve real life pool skills through this game, and that should tell you that it’s pretty darn decent.",
+      "date": 1769034629,
+      "review_helpful_count": 0,
+      "author_display_name": "GurkanBeats",
+      "author_alias": "GurkanBeats",
+      "developer_response": null
+    },
+    {
+      "id": "984819038049186",
+      "score": 1,
+      "review_title": "Disgusted..",
+      "review_description": "Bought this game and have yet to play it . Avatar error every time I try to load it .\nIs it legal to sell a game that doesn't work???",
+      "date": 1769889491,
+      "review_helpful_count": 3,
+      "author_display_name": "jamesdelux",
+      "author_alias": "jamesdelux",
+      "developer_response": {
+        "body": "We're grateful you took the time to share this — it helps us understand what matters most to our players.\n\nWe completely understand your frustration — the avatar loading issues (Error 651) were caused by a third-party avatar system (Ready Player Me) that we relied on. We've since replaced it entirely with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. This not only looks and feels better, but also eliminates the dependency on external servers, so those loading errors are a thing of the past. Please update to the latest version and give it another try!\n\nWe're sorry about the connection issues you experienced. We've been working hard on improving our network stability — we've fixed multiple connectivity bugs recently and also added a reconnection feature, so if your connection drops during a game, it can now recover without losing your progress. We've seen significant improvements in this area. Please update to the latest version and try again!\n\nWe're always improving, and your feedback is part of that process. Next time you pick up the game, we hope you'll feel the difference. If so, updating your review would honestly make our day — it's the best way to support a small studio like ours!",
+        "date": 1774000459
+      }
+    },
+    {
+      "id": "1435710944212313",
+      "score": 4,
+      "review_title": "Snooker loopy",
+      "review_description": "Great game as I’ve said before but why can’t we have a full size snooker table with proper rules? \nI know we can’t get a real full size table in our houses but then again I can play tennis without the full court being in my house.\nIs it too much to ask when you can already play with a bigger table in the options?  Just increase it to 12’ x 6’ & fix the rules \nEdit found one real rules 12’ lovely",
+      "date": 1759351253,
+      "review_helpful_count": 7,
+      "author_display_name": "andybearz1965",
+      "author_alias": "andybearz1965",
+      "developer_response": null
+    },
+    {
+      "id": "728943883633928",
+      "score": 4,
+      "review_title": "Olreeet ya know....",
+      "review_description": "When I downloaded this, I thought hmm... How the hell is this going to work. But it does.I think American rules must be slightly different to the UK but it's nothing to worry about... Ever since I turned off the left hand lock and lowered the table to a table I have in my house I can really rest my hand on the table like in real life... Game changer. It's a good job... Well done.",
+      "date": 1753638932,
+      "review_helpful_count": 33,
+      "author_display_name": "CHUD1968",
+      "author_alias": "CHUD1968",
+      "developer_response": null
+    },
+    {
+      "id": "882882778242432",
+      "score": 3,
+      "review_title": "",
+      "review_description": "I need people that can play to shoot against because there’s never anyone on here.",
+      "date": 1763786453,
+      "review_helpful_count": 0,
+      "author_display_name": "KillahCurve",
+      "author_alias": "KillahCurve",
+      "developer_response": {
+        "body": "Thank you for sharing your experience — we read every single review.\n\nWe're a small indie team constantly working to improve MiRacle Pool based on player feedback like yours. If you have specific issues, please don't hesitate to reach out on our Discord — we'd love to help!\n\nWe know we have to earn a better rating, and we're working on it every day. If you try the game again and feel like we've made progress, we'd be so thankful for an updated review. It really does make a difference for indie devs like us!",
+        "date": 1774001323
+      }
+    },
+    {
+      "id": "876874895502245",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "This is a great game but as of today i keep getting a red box with an error code saying my avatar can`t be loaded :(",
+      "date": 1761236206,
+      "review_helpful_count": 2,
+      "author_display_name": "Ronnie1973",
+      "author_alias": "Ronnie1973",
+      "developer_response": null
+    },
+    {
+      "id": "847630534873085",
+      "score": 5,
+      "review_title": "I love it",
+      "review_description": "Nothing. Just love it",
+      "date": 1764078382,
+      "review_helpful_count": 0,
+      "author_display_name": "cyberale99",
+      "author_alias": "cyberale99",
+      "developer_response": null
+    },
+    {
+      "id": "788695554117966",
+      "score": 3,
+      "review_title": "Nice, but not a great singleplayer game!",
+      "review_description": "Whilst the most important thing feels good, physics, if you just want to play against AI, it is not very good.\nThe AI takes bad decisions and does not handle faults. \nIf you do a fault, the AI does not place the ball with the hand, it simply plays from were the ball is. \nIf you put the white ball into the hole, AI always places the ball in the game start position.",
+      "date": 1758377096,
+      "review_helpful_count": 2,
+      "author_display_name": "Justpato",
+      "author_alias": "Justpato",
+      "developer_response": {
+        "body": "Thank you for the honest review — we read every single one and take them seriously.\n\nWe appreciate the feedback on ball physics. We've invested an enormous amount of time building our physics engine based on real-world measurements, and we believe it's the most realistic pool physics available in VR/MR today. While occasional glitches can happen, our data shows they're very rare. We haven't changed the core physics since launch because we're confident in its accuracy. If you're experiencing a specific reproducible issue, we'd love to hear about it on our Discord so we can investigate!\n\nThe AI opponents get progressively stronger as you advance through the single-player ladder — the early opponents are intentionally easier to help new players learn. While AI will never perfectly replicate a human opponent, we're continuously working to improve their decision-making. We appreciate the feedback!\n\nIf you haven't tried the game recently, we think you'll notice a real difference. We'd love a second chance — and if we've earned it, even adjusting your review by a star or two would help us reach more pool fans out there!",
+        "date": 1774001444
+      }
+    },
+    {
+      "id": "744380695434208",
+      "score": 1,
+      "review_title": "Unplayable.",
+      "review_description": "The balls disappear mid animation 90% of the time taking away all satisfaction of watching a ball sink. The UI doesn’t really work at all. The score stays the same the entire game and sometimes the cue ball will disappear leaving you to have to restart the match all over again. \n\nSeriously a huge waste of both time and money. Almost feels like I’ve been scammed tbh. \n\nPlayed on 3S, stay far away",
+      "date": 1758202343,
+      "review_helpful_count": 2,
+      "author_display_name": "RAZZMATT",
+      "author_alias": "RAZZMATT",
+      "developer_response": {
+        "body": "We're grateful you took the time to share this — it helps us understand what matters most to our players.\n\nThank you for the feedback on cue tracking. This is a complex challenge that partly stems from hardware limitations — Quest controllers can lose tracking accuracy when your hands are close to your body or behind you, which naturally happens in pool. Different Quest controllers also perform differently (the Quest Pro controllers, for example, use different tracking technology and handle this much better). That said, we've made improvements: we've added aiming assists and a completely redesigned tutorial that walks you through proper technique in detail. These can make a huge difference! Please update and give the new tutorial a try.\n\nWe appreciate the feedback on ball physics. We've invested an enormous amount of time building our physics engine based on real-world measurements, and we believe it's the most realistic pool physics available in VR/MR today. While occasional glitches can happen, our data shows they're very rare. We haven't changed the core physics since launch because we're confident in its accuracy. If you're experiencing a specific reproducible issue, we'd love to hear about it on our Discord so we can investigate!\n\nThings have come a long way, and we're genuinely proud of the progress. If you have a moment to try the game again, we hope you'll see the difference — and if you do, we'd be thrilled if you'd consider revising your review. Every rating matters more than you might think for an indie game!",
+        "date": 1774001421
+      }
+    },
+    {
+      "id": "810321845374193",
+      "score": 5,
+      "review_title": "Best pool game on vr",
+      "review_description": "My friend gifted this to me so we could play it together , and it is very fun ! Even if you don't like pool , you will get very engaged with the game and it has amazing ball physics . You can also customize you room , avatar cue , table and loads more ! \nDefinitely recommend as it's a very good game",
+      "date": 1767210625,
+      "review_helpful_count": 0,
+      "author_display_name": "jake_viper",
+      "author_alias": "jake_viper",
+      "developer_response": null
+    },
+    {
+      "id": "1056922887493271",
+      "score": 1,
+      "review_title": "Avatar loading error",
+      "review_description": "I just bought this game earlier today and haven’t been able to play, can’t get past avatar not loading error, is this normal",
+      "date": 1769906539,
+      "review_helpful_count": 0,
+      "author_display_name": "Jordashe",
+      "author_alias": "Jordashe",
+      "developer_response": {
+        "body": "Thank you for the honest review — we read every single one and take them seriously.\n\nWe completely understand your frustration — the avatar loading issues (Error 651) were caused by a third-party avatar system (Ready Player Me) that we relied on. We've since replaced it entirely with a brand-new, custom-built avatar system designed specifically for MiRacle Pool. This not only looks and feels better, but also eliminates the dependency on external servers, so those loading errors are a thing of the past. Please update to the latest version and give it another try!\n\nWe hope you'll give us another chance with the latest update. If your experience improves, we'd be incredibly grateful if you'd consider updating your rating. As a small indie team, player reviews are our lifeline — thank you for your support!",
+        "date": 1774000347
+      }
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-21T09:46:17Z"
+}

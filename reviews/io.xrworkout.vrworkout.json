@@ -1,0 +1,954 @@
+{
+  "app_id": "8266372770101746",
+  "package_name": "io.xrworkout.vrworkout",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "XRWorkout Free to Play VR Fitness Sport",
+  "rating_average": 4.5367175948743,
+  "rating_count": 2029,
+  "review_count": 409,
+  "reviews": [
+    {
+      "id": "1188205604366650",
+      "score": 4,
+      "review_title": "Pretty Good",
+      "review_description": "This game is good👍 The only thing I don’t like is how high the “jump” is.",
+      "date": 1780257533,
+      "review_helpful_count": 4,
+      "author_display_name": "QuirkyParrotfish4168",
+      "author_alias": "QuirkyParrotfish4168",
+      "developer_response": {
+        "body": "We are really glad that you like it.\nYou can cheat a bit with the jumps if you don't stand tall during calibration because they are relative to your height.\nI wouldn't go down too much but a little would already help, and you don't need to look through the head triangles, it's totally OK if you only touch them with the top of your head",
+        "date": 1780259543
+      }
+    },
+    {
+      "id": "998199579592987",
+      "score": 5,
+      "review_title": "Free option awesome",
+      "review_description": "Finally, a free option that actually lets me play & use the workouts to find out whether or not this is app for me. free 10 minutes a day pretty awesome!",
+      "date": 1780866161,
+      "review_helpful_count": 0,
+      "author_display_name": "Gal220",
+      "author_alias": "Gal220",
+      "developer_response": null
+    },
+    {
+      "id": "1117877044747954",
+      "score": 3,
+      "review_title": "liked the preview",
+      "review_description": "i really enjoyed the preview to the app but i do need to do a full workout to give a true review.",
+      "date": 1780839355,
+      "review_helpful_count": 0,
+      "author_display_name": "Tempy514",
+      "author_alias": "Tempy514",
+      "developer_response": null
+    },
+    {
+      "id": "1156910894175064",
+      "score": 1,
+      "review_title": "make it free",
+      "review_description": "∆\n|",
+      "date": 1781817711,
+      "review_helpful_count": 1,
+      "author_display_name": "irlL1ght",
+      "author_alias": "irlL1ght",
+      "developer_response": null
+    },
+    {
+      "id": "1155349347662633",
+      "score": 5,
+      "review_title": "love",
+      "review_description": "Good and I'm disabled still doing it",
+      "date": 1781153388,
+      "review_helpful_count": 0,
+      "author_display_name": "kima1992",
+      "author_alias": "kima1992",
+      "developer_response": null
+    },
+    {
+      "id": "994791343478382",
+      "score": 3,
+      "review_title": "Would not recommend",
+      "review_description": "NGL kinda boring but i still do it",
+      "date": 1781022419,
+      "review_helpful_count": 0,
+      "author_display_name": "TheGuysAreIn2025",
+      "author_alias": "TheGuysAreIn2025",
+      "developer_response": {
+        "body": "Thank you for your feedback.\nHave you given the foot tracking a try as well?",
+        "date": 1781024372
+      }
+    },
+    {
+      "id": "1162847016916025",
+      "score": 5,
+      "review_title": "great",
+      "review_description": "tha nks for such a game",
+      "date": 1781334153,
+      "review_helpful_count": 0,
+      "author_display_name": "syriandubai",
+      "author_alias": "syriandubai",
+      "developer_response": null
+    },
+    {
+      "id": "1129737846895239",
+      "score": 5,
+      "review_title": "Go",
+      "review_description": "Good",
+      "date": 1781385249,
+      "review_helpful_count": 0,
+      "author_display_name": "Og1608",
+      "author_alias": "Og1608",
+      "developer_response": null
+    },
+    {
+      "id": "1044856408719796",
+      "score": 5,
+      "review_title": "Awesome game (requires no subscription)",
+      "review_description": "I personally love this game because it requires no subscription and I Love the mixed reality. It is so annoying to download a fitness game and realize that it requires to pay a subscription so you uninstall the game. This is an amazing game. Thank you devs!",
+      "date": 1777076195,
+      "review_helpful_count": 1,
+      "author_display_name": "Janicex21",
+      "author_alias": "Janicex21",
+      "developer_response": null
+    },
+    {
+      "id": "1197548513432691",
+      "score": 5,
+      "review_title": "Gkc",
+      "review_description": "good\nj",
+      "date": 1780204809,
+      "review_helpful_count": 0,
+      "author_display_name": "Blackknife67",
+      "author_alias": "Blackknife67",
+      "developer_response": null
+    },
+    {
+      "id": "1172298102628640",
+      "score": 4,
+      "review_title": "Great",
+      "review_description": "Good",
+      "date": 1780408543,
+      "review_helpful_count": 0,
+      "author_display_name": "Mineralz1.1",
+      "author_alias": "Mineralz1.1",
+      "developer_response": null
+    },
+    {
+      "id": "1142328378963066",
+      "score": 5,
+      "review_title": "Bujj",
+      "review_description": "Bffnm",
+      "date": 1779888849,
+      "review_helpful_count": 1,
+      "author_display_name": "Rendraaditama",
+      "author_alias": "Rendraaditama",
+      "developer_response": null
+    },
+    {
+      "id": "991634144026043",
+      "score": 5,
+      "review_title": "No Support",
+      "review_description": "I have change my review from what i previously said about the support, the developers reached out and resolved all my questions, this i one of the best workout apps, the way it allows you to customize, the workouts and also to use your own music playlist from YouTube is amazing, it gives a truly full body work out, looking forward to future updates, from this creative team, keep up the good work.\n\nThanks",
+      "date": 1766779716,
+      "review_helpful_count": 74,
+      "author_display_name": "Todd1920",
+      "author_alias": "Todd1920",
+      "developer_response": {
+        "body": "Dear todd, sorry to hear that, please send me the message directly to michael@xrworkout.ai or contact me through the discord at https://chat.vrworkout.at\n\nI'll be happy to help",
+        "date": 1766692832
+      }
+    },
+    {
+      "id": "1101843883010088",
+      "score": 1,
+      "review_title": "Paid for pro",
+      "review_description": "I paid for pro, but I can't access everything or connect to my phone for body tracking. 😩",
+      "date": 1776729335,
+      "review_helpful_count": 2,
+      "author_display_name": "S4ssyDiv4",
+      "author_alias": "S4ssyDiv4",
+      "developer_response": {
+        "body": "Please contact me at michael@xrworkout.ai and I'll try to help you.",
+        "date": 1776751425
+      }
+    },
+    {
+      "id": "1036800512860720",
+      "score": 5,
+      "review_title": "Yung eh",
+      "review_description": "Ydayfhgg\nttcusumhr",
+      "date": 1779132088,
+      "review_helpful_count": 0,
+      "author_display_name": "Mull86",
+      "author_alias": "Mull86",
+      "developer_response": null
+    },
+    {
+      "id": "1130526663476973",
+      "score": 5,
+      "review_title": "Really good",
+      "review_description": "Really good game.I like it.",
+      "date": 1778638004,
+      "review_helpful_count": 0,
+      "author_display_name": "dumdum997",
+      "author_alias": "dumdum997",
+      "developer_response": null
+    },
+    {
+      "id": "1000298173157065",
+      "score": 3,
+      "review_title": "mid",
+      "review_description": "I'm have been doing the free 8 minute routines for a few days and its fun.  However I have to agree with the other reviews of complicated and confusing menus.\n\nI also cannot figure out how to exit the app.  Pressing the meta buttons merely reposition the XR menus.\n\nI also have bad knees and cannot do deep squats. How can i configure the game so it stops asking me to squat.",
+      "date": 1766010531,
+      "review_helpful_count": 16,
+      "author_display_name": "Waigorrun",
+      "author_alias": "Waigorrun",
+      "developer_response": {
+        "body": "Thank you for your feedback, we are happy that you like the daily free workouts.\n\nTo answer your questions. \n\nWhen you pull up the Meta Home menu ( if you look at your right palm and pinch your thumb and index finger together ) you should see a stop button in the page that comes up.\n\nAs for the squats, usually the easiest way is to make yourself a custom workout in the main menu but that is a pro feature.\nJust create a multiplayer room and you have access to the pro features.\nThen select only the exercises you want in the custom exercise screen.\n\nIf you need any help just hop into our discord at https://chat.vrworkout.at or join the facebook group we are there to help.",
+        "date": 1766011735
+      }
+    },
+    {
+      "id": "1021993287667741",
+      "score": 1,
+      "review_title": "f2p for 8 minutes.",
+      "review_description": "Misleading advertusement free is horrendous reviews are botted",
+      "date": 1772143294,
+      "review_helpful_count": 3,
+      "author_display_name": "GoofyParakeet6000",
+      "author_alias": "GoofyParakeet6000",
+      "developer_response": {
+        "body": "Have you hosted a multiplayer room?\nAny time limit is removed while you host a room, you can do that as often and as long as you want.\nAnd you can access more of the pro content while you host as well.\n\nThis is to reward players that give back to the community.",
+        "date": 1772147117
+      }
+    },
+    {
+      "id": "1097762600082651",
+      "score": 5,
+      "review_title": "Cooo",
+      "review_description": "Mdncn",
+      "date": 1774299091,
+      "review_helpful_count": 1,
+      "author_display_name": "literally.nick.vr.tuff",
+      "author_alias": "literally.nick.vr.tuff",
+      "developer_response": null
+    },
+    {
+      "id": "1074219679102231",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Amazing",
+      "date": 1774313647,
+      "review_helpful_count": 0,
+      "author_display_name": "ilovemuvr",
+      "author_alias": "ilovemuvr",
+      "developer_response": null
+    },
+    {
+      "id": "1184851181380448",
+      "score": 5,
+      "review_title": "louflowers review",
+      "review_description": "I love this game usually games make you buy stuff to do anything",
+      "date": 1781637548,
+      "review_helpful_count": 0,
+      "author_display_name": "Louflower1567",
+      "author_alias": "Louflower1567",
+      "developer_response": null
+    },
+    {
+      "id": "907301498950697",
+      "score": 5,
+      "review_title": "Great",
+      "review_description": "Great",
+      "date": 1774128254,
+      "review_helpful_count": 0,
+      "author_display_name": "banzthebest321",
+      "author_alias": "banzthebest321",
+      "developer_response": null
+    },
+    {
+      "id": "1045856945272629",
+      "score": 4,
+      "review_title": "Great",
+      "review_description": "Fun",
+      "date": 1773958128,
+      "review_helpful_count": 0,
+      "author_display_name": "C_h_r_i_s700",
+      "author_alias": "C_h_r_i_s700",
+      "developer_response": null
+    },
+    {
+      "id": "992991570018917",
+      "score": 4,
+      "review_title": "So far so good",
+      "review_description": "just getting started but i like it so far, if you want more than one workout a day it still requires a membership",
+      "date": 1780574690,
+      "review_helpful_count": 0,
+      "author_display_name": "tday22",
+      "author_alias": "tday22",
+      "developer_response": null
+    },
+    {
+      "id": "1136660762867808",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Very good workout",
+      "date": 1781900193,
+      "review_helpful_count": 0,
+      "author_display_name": "cloudtail",
+      "author_alias": "cloudtail",
+      "developer_response": null
+    },
+    {
+      "id": "920207697625782",
+      "score": 5,
+      "review_title": "Amazon prime",
+      "review_description": "Works good bbg just needed the free pass for the day because im over weight for my wrestling weight class thanks works great",
+      "date": 1771468012,
+      "review_helpful_count": 0,
+      "author_display_name": "ryan.696160",
+      "author_alias": "ryan.696160",
+      "developer_response": null
+    },
+    {
+      "id": "1093107357229058",
+      "score": 5,
+      "review_title": "ygtgtg",
+      "review_description": "bghhhh",
+      "date": 1781699074,
+      "review_helpful_count": 0,
+      "author_display_name": "Pancake57y",
+      "author_alias": "Pancake57y",
+      "developer_response": null
+    },
+    {
+      "id": "1165758803290723",
+      "score": 4,
+      "review_title": "pretty good game",
+      "review_description": "Haven't done much yet but looks like a fun experience",
+      "date": 1780757331,
+      "review_helpful_count": 0,
+      "author_display_name": "PengginVr",
+      "author_alias": "PengginVr",
+      "developer_response": null
+    },
+    {
+      "id": "1100636269807707",
+      "score": 5,
+      "review_title": "Perfect",
+      "review_description": "this is perfect for your daily workout",
+      "date": 1781118390,
+      "review_helpful_count": 0,
+      "author_display_name": "Prismpvp",
+      "author_alias": "Prismpvp",
+      "developer_response": null
+    },
+    {
+      "id": "1011267238729187",
+      "score": 5,
+      "review_title": "good and has good free",
+      "review_description": "the workouts are a good challenge and i like that it has free ones",
+      "date": 1770726934,
+      "review_helpful_count": 2,
+      "author_display_name": "Stargater892025",
+      "author_alias": "Stargater892025",
+      "developer_response": null
+    },
+    {
+      "id": "858561437174988",
+      "score": 4,
+      "review_title": "Mid",
+      "review_description": "it's pretty good but not like so good at all spend money on it.",
+      "date": 1772067227,
+      "review_helpful_count": 0,
+      "author_display_name": "DARKNINJA7895",
+      "author_alias": "DARKNINJA7895",
+      "developer_response": null
+    },
+    {
+      "id": "1163526226843895",
+      "score": 5,
+      "review_title": "very good",
+      "review_description": "it is very good",
+      "date": 1781298076,
+      "review_helpful_count": 0,
+      "author_display_name": "Asgn_12",
+      "author_alias": "Asgn_12",
+      "developer_response": null
+    },
+    {
+      "id": "1006532099213970",
+      "score": 5,
+      "review_title": "Its really good",
+      "review_description": "Best thing ever",
+      "date": 1772675963,
+      "review_helpful_count": 0,
+      "author_display_name": "Datboyisgood",
+      "author_alias": "Datboyisgood",
+      "developer_response": null
+    },
+    {
+      "id": "1034928856370086",
+      "score": 5,
+      "review_title": ".,.",
+      "review_description": "...",
+      "date": 1772796581,
+      "review_helpful_count": 0,
+      "author_display_name": "MuhummadBalajkhan",
+      "author_alias": "MuhummadBalajkhan",
+      "developer_response": null
+    },
+    {
+      "id": "984550698083554",
+      "score": 5,
+      "review_title": "Make me tired",
+      "review_description": "🥵",
+      "date": 1772767861,
+      "review_helpful_count": 0,
+      "author_display_name": "S1GHT_VR",
+      "author_alias": "S1GHT_VR",
+      "developer_response": null
+    },
+    {
+      "id": "1158888890640775",
+      "score": 5,
+      "review_title": "awz",
+      "review_description": "cool game",
+      "date": 1781050141,
+      "review_helpful_count": 0,
+      "author_display_name": "oh.carmenelm",
+      "author_alias": "oh.carmenelm",
+      "developer_response": null
+    },
+    {
+      "id": "1091129257424895",
+      "score": 4,
+      "review_title": "aro",
+      "review_description": "this is A. Oil gz e",
+      "date": 1780876196,
+      "review_helpful_count": 0,
+      "author_display_name": "Therizzler195",
+      "author_alias": "Therizzler195",
+      "developer_response": null
+    },
+    {
+      "id": "1122315760959344",
+      "score": 5,
+      "review_title": "Best workout game",
+      "review_description": "This workout game is so awesome! it has different types of le els you could try and it feels challenging. Recommended if you're a huge fan of exercise",
+      "date": 1778374535,
+      "review_helpful_count": 0,
+      "author_display_name": "ian.178000",
+      "author_alias": "ian.178000",
+      "developer_response": null
+    },
+    {
+      "id": "1052571394598304",
+      "score": 1,
+      "review_title": "Boring",
+      "review_description": "Not engaging",
+      "date": 1772241338,
+      "review_helpful_count": 0,
+      "author_display_name": "Beershark99",
+      "author_alias": "Beershark99",
+      "developer_response": null
+    },
+    {
+      "id": "1021819707680834",
+      "score": 5,
+      "review_title": "Xr workout",
+      "review_description": "really good app",
+      "date": 1772134435,
+      "review_helpful_count": 0,
+      "author_display_name": "ManicPanda96",
+      "author_alias": "ManicPanda96",
+      "developer_response": null
+    },
+    {
+      "id": "1235796256288784",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Good game for a work out",
+      "date": 1780255728,
+      "review_helpful_count": 0,
+      "author_display_name": "winger95",
+      "author_alias": "winger95",
+      "developer_response": null
+    },
+    {
+      "id": "1061873707019718",
+      "score": 5,
+      "review_title": "Best workout game",
+      "review_description": "Awsome game",
+      "date": 1780424625,
+      "review_helpful_count": 0,
+      "author_display_name": "Potmanz",
+      "author_alias": "Potmanz",
+      "developer_response": null
+    },
+    {
+      "id": "1170446046143859",
+      "score": 4,
+      "review_title": "Good for home fit",
+      "review_description": "I try to test workouts. It looks like suitable for home training. Hope it will be useful.",
+      "date": 1779047639,
+      "review_helpful_count": 0,
+      "author_display_name": "SP_INK",
+      "author_alias": "SP_INK",
+      "developer_response": null
+    },
+    {
+      "id": "982499748282453",
+      "score": 5,
+      "review_title": "Best",
+      "review_description": "this is the best workout game in the existence of working out and i love to workout now",
+      "date": 1770477415,
+      "review_helpful_count": 0,
+      "author_display_name": "GalacticSeal6077",
+      "author_alias": "GalacticSeal6077",
+      "developer_response": {
+        "body": "This is the best feedback in existence and we loved reading it.\n\nThank you so much!",
+        "date": 1770483603
+      }
+    },
+    {
+      "id": "961220727081328",
+      "score": 5,
+      "review_title": "Soapbar",
+      "review_description": "Its an amazing app but as a minor i feel like it should be free but yea and for minors free only",
+      "date": 1770332083,
+      "review_helpful_count": 0,
+      "author_display_name": "toothles.the.dragon",
+      "author_alias": "toothles.the.dragon",
+      "developer_response": {
+        "body": "You can reach out to me at michael@xrworkout.ai we'll see what we can do",
+        "date": 1770334859
+      }
+    },
+    {
+      "id": "1139115359289765",
+      "score": 5,
+      "review_title": "Really good",
+      "review_description": "Fun",
+      "date": 1780339451,
+      "review_helpful_count": 0,
+      "author_display_name": "fire_gtag",
+      "author_alias": "fire_gtag",
+      "developer_response": null
+    },
+    {
+      "id": "947545655114618",
+      "score": 4,
+      "review_title": "Trying pro",
+      "review_description": "i'm trying to use the pro settings to see if there's more than just body movement",
+      "date": 1770325558,
+      "review_helpful_count": 0,
+      "author_display_name": "QuirkySquid7781",
+      "author_alias": "QuirkySquid7781",
+      "developer_response": {
+        "body": "Definitely check out the foot tracking and the weights, and the sequence editor on the web user portal at portal.vrworkout.at",
+        "date": 1770328198
+      }
+    },
+    {
+      "id": "926756753861079",
+      "score": 4,
+      "review_title": "Free trial",
+      "review_description": "The free trial give an ok preview of the potential for the paid version but I’m still Sceptical and unwilling to purchase until I preview other options.",
+      "date": 1769219172,
+      "review_helpful_count": 0,
+      "author_display_name": "RiverPeach2",
+      "author_alias": "RiverPeach2",
+      "developer_response": {
+        "body": "That's a really good way to do it. And just a tip, if you host multiplayer sessions the time limit is removed while you are doing that because we want to reward players who benefit the community.\n\nIn the meantime you may also want to join our facebook group for updates and tips how to get the most out of XRWorkout both free and paid",
+        "date": 1769249309
+      }
+    },
+    {
+      "id": "1052877097918829",
+      "score": 5,
+      "review_title": "great and free",
+      "review_description": "yes",
+      "date": 1780075897,
+      "review_helpful_count": 0,
+      "author_display_name": "Fabianowskyy",
+      "author_alias": "Fabianowskyy",
+      "developer_response": null
+    },
+    {
+      "id": "990768890315974",
+      "score": 4,
+      "review_title": "Gchf",
+      "review_description": "cool",
+      "date": 1780100992,
+      "review_helpful_count": 0,
+      "author_display_name": "dede1264",
+      "author_alias": "dede1264",
+      "developer_response": null
+    },
+    {
+      "id": "912373451854322",
+      "score": 4,
+      "review_title": "Good but needs work",
+      "review_description": "I love this so app. But I cannot even get into the site or says to get foot tracking.",
+      "date": 1778622310,
+      "review_helpful_count": 0,
+      "author_display_name": "kave.man.5",
+      "author_alias": "kave.man.5",
+      "developer_response": {
+        "body": "Hi can you contact me at michael@xrworkout.ai so we can get you setup with the foottracking",
+        "date": 1778665923
+      }
+    },
+    {
+      "id": "1506694017827657",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Great music",
+      "date": 1779689110,
+      "review_helpful_count": 0,
+      "author_display_name": "xsjado021",
+      "author_alias": "xsjado021",
+      "developer_response": null
+    },
+    {
+      "id": "1256466770874392",
+      "score": 5,
+      "review_title": "E",
+      "review_description": "E",
+      "date": 1779984077,
+      "review_helpful_count": 0,
+      "author_display_name": "babrl91",
+      "author_alias": "babrl91",
+      "developer_response": null
+    },
+    {
+      "id": "1005990408623887",
+      "score": 3,
+      "review_title": "Pretty good",
+      "review_description": "Things feel less awkward in this app.",
+      "date": 1779410674,
+      "review_helpful_count": 0,
+      "author_display_name": "SubZer0Shredder",
+      "author_alias": "SubZer0Shredder",
+      "developer_response": null
+    },
+    {
+      "id": "1074529189086454",
+      "score": 5,
+      "review_title": "Mice",
+      "review_description": "Perfect",
+      "date": 1779713156,
+      "review_helpful_count": 0,
+      "author_display_name": "tarikbicii",
+      "author_alias": "tarikbicii",
+      "developer_response": null
+    },
+    {
+      "id": "1067879249749495",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Good",
+      "date": 1779838642,
+      "review_helpful_count": 0,
+      "author_display_name": "SONICBROOKS",
+      "author_alias": "SONICBROOKS",
+      "developer_response": null
+    },
+    {
+      "id": "844130952068772",
+      "score": 5,
+      "review_title": "Fun game",
+      "review_description": "Good game. Had a good fun time playing. Def makes working out more fun",
+      "date": 1778546099,
+      "review_helpful_count": 0,
+      "author_display_name": "mrgiggle50",
+      "author_alias": "mrgiggle50",
+      "developer_response": null
+    },
+    {
+      "id": "1374263994435116",
+      "score": 4,
+      "review_title": "Very good workouts",
+      "review_description": "The workouts are very good to do esp if your in a tight room and the augmented reality is ver cool",
+      "date": 1769374461,
+      "review_helpful_count": 0,
+      "author_display_name": "pizzarolls635",
+      "author_alias": "pizzarolls635",
+      "developer_response": null
+    },
+    {
+      "id": "1047428891796703",
+      "score": 5,
+      "review_title": "Nice",
+      "review_description": "just bc",
+      "date": 1779420613,
+      "review_helpful_count": 0,
+      "author_display_name": "BubblyPuffin703",
+      "author_alias": "BubblyPuffin703",
+      "developer_response": null
+    },
+    {
+      "id": "1144439118750129",
+      "score": 5,
+      "review_title": "It works",
+      "review_description": "Amazing",
+      "date": 1779407505,
+      "review_helpful_count": 0,
+      "author_display_name": "brxdjly",
+      "author_alias": "brxdjly",
+      "developer_response": null
+    },
+    {
+      "id": "1167216296470815",
+      "score": 5,
+      "review_title": "G",
+      "review_description": "Good",
+      "date": 1779186075,
+      "review_helpful_count": 0,
+      "author_display_name": "sphysx",
+      "author_alias": "sphysx",
+      "developer_response": null
+    },
+    {
+      "id": "1071000102772005",
+      "score": 5,
+      "review_title": "Best Game EVER",
+      "review_description": "Really good game",
+      "date": 1778977907,
+      "review_helpful_count": 0,
+      "author_display_name": "CoconutVR_24",
+      "author_alias": "CoconutVR_24",
+      "developer_response": null
+    },
+    {
+      "id": "700891193105465",
+      "score": 5,
+      "review_title": "Awesomeness",
+      "review_description": "really good for rehab",
+      "date": 1769700208,
+      "review_helpful_count": 0,
+      "author_display_name": "TiffGeez",
+      "author_alias": "TiffGeez",
+      "developer_response": null
+    },
+    {
+      "id": "978884325308324",
+      "score": 5,
+      "review_title": "You should really play this game",
+      "review_description": "It really helps me with working out",
+      "date": 1769301640,
+      "review_helpful_count": 0,
+      "author_display_name": "BigDawgWill20",
+      "author_alias": "BigDawgWill20",
+      "developer_response": null
+    },
+    {
+      "id": "892570657047741",
+      "score": 3,
+      "review_title": "Complicated",
+      "review_description": "Did a survey and got nothing, not clear how to get the workouts i want",
+      "date": 1768604528,
+      "review_helpful_count": 0,
+      "author_display_name": "taffie.2022",
+      "author_alias": "taffie.2022",
+      "developer_response": {
+        "body": "Thank you for taking the survey. If you did not receive your pro code yet please reach out to me directly via michael@xrworkout.ai I'll make sure that you get it",
+        "date": 1768606306
+      }
+    },
+    {
+      "id": "865438043327591",
+      "score": 4,
+      "review_title": "Great App",
+      "review_description": "A nice variety of workout routines. The weekly challenges are fun and custom workouts are a must have.\n\nKeep up the great work, and don't listen to haters. Their opinions often have nothing to do with the app itself.",
+      "date": 1765903313,
+      "review_helpful_count": 1,
+      "author_display_name": "Kairrik",
+      "author_alias": "Kairrik",
+      "developer_response": {
+        "body": "Thank you so much for your kind words. \n\nThis really means a lot to us and is exactly what motivates us to continue making it better.",
+        "date": 1765915001
+      }
+    },
+    {
+      "id": "829605476368165",
+      "score": 4,
+      "review_title": "Glitchy at times but good",
+      "review_description": "I really do like this app but times when it glitches and doesn’t pick up my hands. Some days I’ve had to stop it and play with the remotes, which is \ninconvenient. All in all, it’s a pretty solid workout app and interesting enough that it keeps me coming back. It’s just frustrating when you’re so competitive and you know you did better than your score shows. C’est la vie.",
+      "date": 1764511669,
+      "review_helpful_count": 0,
+      "author_display_name": "Monfleur225",
+      "author_alias": "Monfleur225",
+      "developer_response": null
+    },
+    {
+      "id": "837751735834346",
+      "score": 5,
+      "review_title": "Amazing work",
+      "review_description": "This game is not just a fun workout but also a real one.it has hand tracking,costume workout and tracking on how well you did and it’s all free so better download it trust me.",
+      "date": 1766492962,
+      "review_helpful_count": 0,
+      "author_display_name": "Electricseagull22",
+      "author_alias": "Electricseagull22",
+      "developer_response": {
+        "body": "Thank you so much, we could not have said it any better.\n\nWill we see you on the weekly challenge leaderboard?",
+        "date": 1766496175
+      }
+    },
+    {
+      "id": "929474213589219",
+      "score": 5,
+      "review_title": "Good",
+      "review_description": "Im doign this for the pass",
+      "date": 1768879292,
+      "review_helpful_count": 0,
+      "author_display_name": "TheAmazingSpidee",
+      "author_alias": "TheAmazingSpidee",
+      "developer_response": null
+    },
+    {
+      "id": "1067013833157830",
+      "score": 4,
+      "review_title": "Decent",
+      "review_description": "Its not the worst ice had worse but this delivers",
+      "date": 1768182845,
+      "review_helpful_count": 0,
+      "author_display_name": "Thecanadiandevel459360",
+      "author_alias": "Thecanadiandevel459360",
+      "developer_response": null
+    },
+    {
+      "id": "943850812147795",
+      "score": 5,
+      "review_title": "Best game ever",
+      "review_description": "Lost 5 pounds",
+      "date": 1768845127,
+      "review_helpful_count": 0,
+      "author_display_name": "triplesvr",
+      "author_alias": "triplesvr",
+      "developer_response": {
+        "body": "Thank you so much for sharing that.\n\nWe hope you'll stay with us for the next five pounds as well.\n\nThe XRWorkout Team",
+        "date": 1768845212
+      }
+    },
+    {
+      "id": "983362318194088",
+      "score": 5,
+      "review_title": "Good app",
+      "review_description": "This app is great of exercising",
+      "date": 1768356158,
+      "review_helpful_count": 0,
+      "author_display_name": "Richard_44",
+      "author_alias": "Richard_44",
+      "developer_response": null
+    },
+    {
+      "id": "834572899531828",
+      "score": 1,
+      "review_title": "1 star",
+      "review_description": "Nice game, I tried to do the pro version but it just kept taking me to my phone app, then the vr , then back app repeatedly for more than 40 mins, wasted my time and it’s so stupid. And it’s not the first time.",
+      "date": 1762863366,
+      "review_helpful_count": 3,
+      "author_display_name": "Allezxisss",
+      "author_alias": "Allezxisss",
+      "developer_response": {
+        "body": "Sorry for the experience. While the payment flow is outside of our control I'd be happy to fix this for you by adding Pro directly to your XRWorkout account to make this right.\n\nCould you please reach out to me at michael@xrworkout.ai\n\nThank you so much",
+        "date": 1762864730
+      }
+    },
+    {
+      "id": "828239946408242",
+      "score": 3,
+      "review_title": "Stopped working?",
+      "review_description": "I have been trying out the free eight minute exercise routine and I absolutely love it. However, today it gave me about a minute of a workout, and then it asked me to stand, and that was it. I thought it was a way to manipulate me to sign up to try the pro version. So I said yes, and it released some pro choices, but when I went into the eight minute workout, it did the exact same thing. Please help me to resolve this",
+      "date": 1760990316,
+      "review_helpful_count": 3,
+      "author_display_name": "Kiki531968",
+      "author_alias": "Kiki531968",
+      "developer_response": {
+        "body": "Hi Kiki,\n\nwe aren't able to reach you directly. We are wondering if everything is back to normal for you again?\n\nCheers\nMichael\n\n\n---\nOld messages\n\nThank you, looking into it right away\n\nIt's definitely not a way to get you to sign up but it must be a bug.\n\nUpdate 11:39PM:\nWe can confirm that this is a bug. We just rolled back to the previous version until it is fixed.\nYou may have to reinstall it if it does not roll back automatically\n\nUpdate 12:19AM:\nShould be fixed now, you can update to the latest version\n\nIf there are still issues please reach out to us in the discord\nhttps://chat.vrworkout.at",
+        "date": 1761573590
+      }
+    },
+    {
+      "id": "915265011675599",
+      "score": 5,
+      "review_title": "L",
+      "review_description": "Good",
+      "date": 1767992827,
+      "review_helpful_count": 0,
+      "author_display_name": "maddison_255",
+      "author_alias": "maddison_255",
+      "developer_response": null
+    },
+    {
+      "id": "897357116188193",
+      "score": 4,
+      "review_title": "Good free workout",
+      "review_description": "Not bad for free.",
+      "date": 1767622130,
+      "review_helpful_count": 0,
+      "author_display_name": "SherriVR22",
+      "author_alias": "SherriVR22",
+      "developer_response": null
+    },
+    {
+      "id": "949958278198514",
+      "score": 4,
+      "review_title": "Ntg",
+      "review_description": "jyg",
+      "date": 1767835603,
+      "review_helpful_count": 0,
+      "author_display_name": "zlol123425362",
+      "author_alias": "zlol123425362",
+      "developer_response": null
+    },
+    {
+      "id": "896748989974544",
+      "score": 4,
+      "review_title": "Decent",
+      "review_description": "it works",
+      "date": 1767413932,
+      "review_helpful_count": 0,
+      "author_display_name": "Meowdypardner",
+      "author_alias": "Meowdypardner",
+      "developer_response": null
+    },
+    {
+      "id": "877219462148998",
+      "score": 5,
+      "review_title": "Amaaxinf",
+      "review_description": "Ggffff",
+      "date": 1767486288,
+      "review_helpful_count": 0,
+      "author_display_name": "shaddy237",
+      "author_alias": "shaddy237",
+      "developer_response": null
+    },
+    {
+      "id": "1096919005915532",
+      "score": 1,
+      "review_title": "Not Free!",
+      "review_description": "You can do a 8 minute exercise that is exactly the same every single day. BORING! anything different you have to pay for $.99/day which is close to $361 for the year. Sure you can get it cheaper if you give them all your money at once but who knows whether the other activities are good or not.",
+      "date": 1754879705,
+      "review_helpful_count": 131,
+      "author_display_name": "bdalight",
+      "author_alias": "bdalight",
+      "developer_response": {
+        "body": "The free exercises and music are always new when you restart the app and every time you start any workout you get something different.\n\nYou can do that forever without paying, you should only upgarde to Pro once you have outgrown the free workouts\n\nYou can also just host a multiplayer room to get more Pro features for free. As long as you are hosting you will have no time limit and you have access to the custom exercises.\n\nYou can also use the 14 day free trial if you need more of the pro features to decide.\n\nYou should also check the Public Workouts from the left menu which are many workouts created by users. Anything that fits in your daily workout budget can be played with the free version as well.",
+        "date": 1754916611
+      }
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-21T09:49:35Z"
+}
