@@ -1,0 +1,45 @@
+{
+  "app_id": "9133143773448253",
+  "package_name": "com.virtualplanet.mpa.vr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "DIVE: Journey through California's MPA",
+  "rating_average": 4.6666666666667,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1153662143529193",
+      "score": 5,
+      "review_title": "Awesome education!",
+      "review_description": "I love how at the end the sumbirine almost gets captured😅",
+      "date": 1760387547,
+      "review_helpful_count": 3,
+      "author_display_name": "xygt",
+      "author_alias": "xygt",
+      "developer_response": null
+    },
+    {
+      "id": "2939018689599735",
+      "score": 4,
+      "review_title": "Really nice educational title!",
+      "review_description": "This app is a kid-friendly title explaining California's MPAs (i.e. Marine Protected Areas).  It's colorful and engaging without getting overly technical.  There's an anthropomorphic sea lion who narrates the affair.  You visit 4 MPAs in a mini-sub where you learn about how & why those areas receive protection.  There are a few minor interactive moments (where you click on things) but the experience is mostly passive.  I enjoyed the experience as an adult and felt I learned something, but the title is clearly aimed at kids.  The character and art design is very nice with plenty of bright colors; the voice-acting is good.  Here's some feedback in the event the devs read this.  The game has a few minor issues.  The voice narration is VERY low (using Quest 3 stock audio) to the point of being unintelligible.  It is mixed really low.  Also, once in the sub, the audio seems to come from only the right channel even when positional audio is unneeded.  There is a faint grey, rectangular shadow across the entire experience--it doesn't obstruct the view, but it is very noticeable and distracting.  Finally, consider adding some haptic feedback to the controllers when the sub is \"moving\" in the game.  It will add to immersion.  All that said, even with these minor annoyances, it's still a fun, well-crafted educational experience and everyone should check it out.",
+      "date": 1740700803,
+      "review_helpful_count": 4,
+      "author_display_name": "TheForbinProject",
+      "author_alias": "TheForbinProject",
+      "developer_response": {
+        "body": "Hello, TheForbinProject,\n\nThank you so much for your thoughtful review! We truly appreciate your detailed feedback and are thrilled to hear that you enjoyed the experience. We’re committed to making Dive the best it can be, and we’re already working on addressing the issues you pointed out. Specifically, we are:\n\n✔ Adjusting the voice narration volume for better clarity\n✔ Fixing the right-channel audio issue in the sub\n✔ Investigating and resolving the faint gray shadow\n\nWe'll also look into adding more haptic feedback, though that may take a bit longer.\n\nThanks again for your comments—we hope you’ll check out the improved version soon!\n\nBest,\nThe Virtual Planet Team",
+        "date": 1740791988
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T05:14:35Z"
+}

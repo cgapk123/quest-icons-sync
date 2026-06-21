@@ -1,0 +1,48 @@
+{
+  "app_id": "6045436012228485",
+  "package_name": "com.vlura.bowling",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Bowling",
+  "rating_average": 1.8,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "343855138389897",
+      "score": 1,
+      "review_title": "Scam",
+      "review_description": "When I bought this game I thought it was just a fun bowling game but when you start it you spawn outside of the map and can't even play so I would highly recommend not buying this game.",
+      "date": 1703383008,
+      "review_helpful_count": 25,
+      "author_display_name": "they_luv_J",
+      "author_alias": "they_luv_J",
+      "developer_response": {
+        "body": "Thank you for your review, please update",
+        "date": 1731048338
+      }
+    },
+    {
+      "id": "194105760461172",
+      "score": 4,
+      "review_title": "Review",
+      "review_description": "Game is pretty good but after a few minutes it starts to glitch",
+      "date": 1706016121,
+      "review_helpful_count": 1,
+      "author_display_name": "king.817315",
+      "author_alias": "king.817315",
+      "developer_response": {
+        "body": "Thank you for your review, please update",
+        "date": 1731048366
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T05:21:17Z"
+}

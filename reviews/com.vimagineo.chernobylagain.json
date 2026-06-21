@@ -1,0 +1,517 @@
+{
+  "app_id": "6951960718237448",
+  "package_name": "com.vimagineo.chernobylagain",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Chernobyl Again",
+  "rating_average": 3.3068181818182,
+  "rating_count": 88,
+  "review_count": 49,
+  "reviews": [
+    {
+      "id": "1113322828539727",
+      "score": 4,
+      "review_title": "This is such a good idea!",
+      "review_description": "Too bad it's so buggy.  it's frustrating because  things are hard to grab, things don't work right and sometimes don't save right. \n\nI'll probably try to finish it because the story and history are worth it but I have to keep going to YouTube to see if it's just me not putting something precisely enough somewhere. Like you have to do everything to the centimeter when you place your hands and crowbar doors.",
+      "date": 1780771406,
+      "review_helpful_count": 1,
+      "author_display_name": "realityshifting",
+      "author_alias": "realityshifting",
+      "developer_response": null
+    },
+    {
+      "id": "1013872381175083",
+      "score": 5,
+      "review_title": "Great story, fun game",
+      "review_description": "It can be completed in a couple of hours, but it's still worth it. I bought it on sale pretty cheap, but it still would have been worth the regular price. The story is great. Controls work great. It looks good. It's a nice little piece of history with its own twist. Puzzles are fun, they're hard, but not too hard. I really enjoyed it. I've owned it for a long time and have played it a few times. Once it's been a while and I've forgotten some of it, I'll replay. I always forget to review games. But when I see good games with a lower rating...I try to jump in. It really is worth it.",
+      "date": 1780850274,
+      "review_helpful_count": 1,
+      "author_display_name": "MelissaDeath",
+      "author_alias": "MelissaDeath",
+      "developer_response": null
+    },
+    {
+      "id": "1017246797439003",
+      "score": 5,
+      "review_title": "Achievements!",
+      "review_description": "Update: Thanks you for the info! We now have a new app and website to track MetaQuest Achievements and look forward to having them available for Chernobyl Again! I'll be including the game in my new release and updates video also!\n\n\nThought about revisiting! Has it been updated with Quest Achievements?",
+      "date": 1780399500,
+      "review_helpful_count": 1,
+      "author_display_name": "M4cheteColletti",
+      "author_alias": "M4cheteColletti",
+      "developer_response": {
+        "body": "Hi! Thank you so much for the positive vibes and for thinking about returning to the Zone!\n\nTo answer your question: Meta Quest Achievements are not included in this specific Anniversary Update, but we have great news—they are coming in just a few days! When we originally developed the game, achievements weren't fully implemented on the platform for us yet. However, our team is actively working on them right now, and we plan to launch them on Meta Quest within the next few days.\n\nYou can dive into the new Revisit Mode right now to practice finding those hidden Memories, and very soon, you'll be able to officially unlock the trophies for them. Stay tuned! ☢️🏆\n\nBest regards,\nThe Vimagineo Team",
+        "date": 1780393818
+      }
+    },
+    {
+      "id": "1487648682905164",
+      "score": 4,
+      "review_title": "Janky but fun",
+      "review_description": "Bought this because I saw multiple reviews saying the game doesn't work crowbar doesn't open control room, worked fine for me just use 2 hands and wiggle it a bit. However the inventory is kinda not good and in seated mode Im shorter than a crate? The run speed should be the default walk speed and increase the run speed walking like a snail is not fun lol. But look past the jank and it has a decent story so far",
+      "date": 1776495848,
+      "review_helpful_count": 4,
+      "author_display_name": "jakenut86",
+      "author_alias": "jakenut86",
+      "developer_response": null
+    },
+    {
+      "id": "1118877617964297",
+      "score": 4,
+      "review_title": "Some flaws but still fun",
+      "review_description": "I’m enjoying this game so far, love the concept and setting. \nMy only issues are, it’s SO HARD to activate my inventory. I’m poking at my watch and nothing happens and then I die of radiation poisoning. I wish I could set it to a button press maybe. \nAlso, if I drop something important, like my syringe gun thing, it disappears and I’m done for. \nOr the part where I have to take the pills, they keep disappearing and I have to restart the level. \nOther than those minor issues, I’m enjoying it! I played the demo and was intrigued enough to purchase.",
+      "date": 1774192497,
+      "review_helpful_count": 6,
+      "author_display_name": "Astrallama333",
+      "author_alias": "Astrallama333",
+      "developer_response": null
+    },
+    {
+      "id": "1555477583184816",
+      "score": 5,
+      "review_title": "Great graphics and intense atmosphere",
+      "review_description": "I'm enjoying this game as its very intense at times with a stunning atmosphere and graphics, love a good cellar crawler thru the ruins exploring this historical tragedy. Got it on sale at a great price and just now playing it. Imho one of the best and most suspenseful stories and adventure.",
+      "date": 1773366055,
+      "review_helpful_count": 4,
+      "author_display_name": "greg.boswell.79",
+      "author_alias": "greg.boswell.79",
+      "developer_response": null
+    },
+    {
+      "id": "1026139143920793",
+      "score": 1,
+      "review_title": "I am very upset",
+      "review_description": "I'm trying to install this s***, but it's not f****** working i'm\\nVery big fan to Chernobyl, and this piece of s*** is not even working.\\nRight now , there is no way I just wasted 5 99 on this game the not even work",
+      "date": 1774055164,
+      "review_helpful_count": 0,
+      "author_display_name": "CuriousFalcon8304",
+      "author_alias": "CuriousFalcon8304",
+      "developer_response": {
+        "body": "First of all, we are truly sorry for this stressful experience. As huge Chernobyl fans ourselves, the last thing we want is for someone who shares that same passion to feel like they wasted their money because of a technical block before even getting to step into the Zone.\n\nWhen a game gets stuck or crashes during installation on Meta Quest, it is almost always a glitch in the Meta Horizon OS download queue rather than the game itself. Let's get this fixed for you right away. Please try these exact steps:\n\n1. Check Your Storage Space: Meta Quest usually requires up to twice the actual game size of free space just to unpack and install the files successfully. Please ensure you have a few extra gigabytes free.\n\n2. Hard Reboot the Headset: Press and hold the power button on your Quest for a full 10-15 seconds until it shuts down and restarts. This clears Meta's corrupted download cache.\n\n3. Trigger via the Mobile App: Sometimes the headset UI glitches. Open the Meta Horizon app on your smartphone, go to your Library, find Chernobyl Again, and click \"Install on Headset\" from your phone.\n\n4. Update Headset Firmware: Ensure your goggled system is fully up to date by going to Settings -> System -> Software Update.\n\nWe want to get you into the Zone as much as you want to be there. Let's fix this together!\n\nBest regards,\nThe Vimagineo Team",
+        "date": 1779355140
+      }
+    },
+    {
+      "id": "910915927929928",
+      "score": 5,
+      "review_title": "What an experience",
+      "review_description": "the game started up a little slow but as i keep playing i became so engulfed in it binge playing. if you are a history person and love to learn and have room for imagination this game is awesome i puzzle game where you have to figure things out but very very informative my condolences to all russians and ukrainians who had to endure this in their past and in their history",
+      "date": 1766489092,
+      "review_helpful_count": 16,
+      "author_display_name": "PoizonFrost",
+      "author_alias": "PoizonFrost",
+      "developer_response": null
+    },
+    {
+      "id": "1571448540565588",
+      "score": 4,
+      "review_title": "Great graphics and atmosphere",
+      "review_description": "After reading some reviews, I was quite hesitant to buy this game. Yes the interaction can be awkward in some cases, and I had to restart a level. Also the order in how you execute steps can be important. Therefore I substracted one star. \n\nNow the good stuff. I like the puzzles, not only actual puzzles, but also searching and collecting items. The atmosphere and graphics are really nice. The control room, the city, the reactor, ferris wheel. It looks nice. Even dynamic lighting from the torch. Photogrammetry is doing its work.\n\nI bought it during the Christmas sale for 4 euro's and it is a no brainer. Giving some of the issues, I think the game is worth around 10-15 euros.",
+      "date": 1767948347,
+      "review_helpful_count": 2,
+      "author_display_name": "GBlackBerry",
+      "author_alias": "GBlackBerry",
+      "developer_response": null
+    },
+    {
+      "id": "832701149937467",
+      "score": 1,
+      "review_title": "Buy Something Else Instead.",
+      "review_description": "Edit January 29, 2026: Video was uploaded to game's discord on December 18 2025 showing issue with the crowbar not opening the control room. Go to the game's discord at https://discord.com linvite/rCxmkbsBQ9 under videos, and see for yourself. You will be unable to progress any further in the game if you can't open the control room door.  Video shows 5 unsuccessful attempts at opening the door, despite the developer saying it works. This developer knows his game has a game-breaking issue 10 minutes into it, but won't even acknowledge it or attempt to fix it. This is a scam, DO NOT PURCHASE THIS GAME! I'm curious why Meta has allowed this game to remain available for purchase in their store!\n\nEdit December 16 2025:\nUsing two hands with the crowbar to open the control room door DOES NOT WORK. I reinstalled the game this morning to try it one more time, despite trying for over an hour already when I wrote the initial review. I also recorded video of it not working. I am unable to progress more than roughly 10 minutes into the game. Not sure if the developer is just mistaken about the functionality of the game or is being deceitful. Either way,  not worth a purchase even on sale.\n\nEarly in the game, about 10 minutes into it, I'm unable to open the control room door with the crowbar. When I pick up the crowbar, there is no audio telling me \"This will be useful.\" When I take the crowbar to the control room, it will snap into place on the door, but when I try to pry it open nothing happens or I hear dialogue saying \"it won't budge.\" I've restarted the level with the same result. I looked at some walkthrough videos to see if I'm missing something or doing something wrong, but it looks like the solution is the crowbar. So, I uninstalled and reinstalled the game, and started a new game. Then I ran into a separate bug in the training room - only two of the three slides spawned into the desk drawers and I couldn't progress past the slide projector. I restarted that level, got past that bug, and eventually got stuck, unable once again to open the control room with the crowbar. \n\nI've done way too much troubleshooting 10 minutes into the game for this to be an enjoyable experience. Would love a refund, but I bought the game too long ago.",
+      "date": 1769682586,
+      "review_helpful_count": 3,
+      "author_display_name": "Andy73",
+      "author_alias": "Andy73",
+      "developer_response": {
+        "body": "Sorry for inconvenience. To use crowbar successfully you have to use both hands. Slides are on or inside the desk not always in the same places.\nCould you please share the video with us? You can join our discord channel\nhttps://discord.com/invite/rCxmkbsBQ9\nI'm really curious what happend and why it is not working for you.\n\nBoth hands and push /pull 3-4 times or even more. This short video should explain how was it designed to work.\nhttps://youtu.be/5qeJPWIzlwk\n\n\nEdit 20 May  2026\nHello,\n\nThank you for updating your review and for posting that video on our Discord. We want to address this directly because your footage gave our team the exact visual proof we needed to replicate, understand, and permanently fix the issue.\n\nYour video made it clear that the old crowbar and door physics were simply too finicky, frustrating, and prone to locking up. We realized that players shouldn't have to deal with clunky interactions or fight with physics angles just to get past the first 10 minutes of the game.\n\nThat is why we took your report to heart and completely overhauled these systems in our newly released Anniversary Update:\n\nCompletely Rebuilt Crowbar Physics: We threw out the old code entirely. The crowbar and the Control Room door collisions have been remade from scratch. It now works flawlessly, smoothly, and responsively with a simple, intuitive one-handed motion.\n\nTraining Room Slides: We also addressed the second issue you reported; the slides now have locked, consistent spawn points in the drawers so they will never fail to appear.\n\nWe apologized back then for the frustration, and we do so again today. We did not abandon the game or ignore your feedback—your video was the exact catalyst we used to completely scrap the old system and rebuild it for a much better experience.\n\nSince you still own the game, we would be incredibly grateful if you reinstalled it to see the actual, permanent fix in action.\n\nBest regards,\nThe Vimagineo Team",
+        "date": 1779355550
+      }
+    },
+    {
+      "id": "925810650610540",
+      "score": 2,
+      "review_title": "Not even an hour in and problems!",
+      "review_description": "This game had a free trial so I gave it a shot and during that time everything was kind of okay. But then I got to the control room. Can't even use the crowbar to open the door or nothing but the game behaves like that's what *you're suppose to do* but it behaves like you're not!\nGlitchy, buggy, lacking polish. I can see why the star ratings didn't quite get to 4 on this one.",
+      "date": 1764591794,
+      "review_helpful_count": 1,
+      "author_display_name": "DBTester",
+      "author_alias": "DBTester",
+      "developer_response": {
+        "body": "Thanks for the review. Try to use two hands with crowbar - it is working ;). I hope you enjoy the rest of the game. Be carefull with radiation ;)\nBoth hands and push /pull 3-4 times",
+        "date": 1766053692
+      }
+    },
+    {
+      "id": "1486219539084350",
+      "score": 2,
+      "review_title": "Just Meh",
+      "review_description": "The good is that the graphics are nice. The largest area is the control room and after that the environments are pretty small and limited. The puzzles are decently challenging. The issues are mainly the story is boring, the game glitches out with me getting stuck in the floor, and hands getting stick in items. I also couldn't take the helmet, headphone piece off and it obstructed my view. It was so bad, that I just shut it down. The suitcase is a PITA to get the hands to turn the buttons. The watch is a, buggy mess and caused many delays to get the syringe. I thought Wanderer was bad. And it is, but the environments are better, the story etc.. The 3.3 rating is there for a reason. I'm sure it must be hard to make these games, but Red Matter got it right. Many get it very right. It's doable.",
+      "date": 1758030141,
+      "review_helpful_count": 11,
+      "author_display_name": "mxray",
+      "author_alias": "mxray",
+      "developer_response": null
+    },
+    {
+      "id": "821453427724061",
+      "score": 1,
+      "review_title": "I downloaded the game",
+      "review_description": "But then it did not go to my headset I can't find it it's on my phone app but not on my headset",
+      "date": 1762706729,
+      "review_helpful_count": 1,
+      "author_display_name": "idahoredneck",
+      "author_alias": "idahoredneck",
+      "developer_response": {
+        "body": "Hi! Don't worry, your purchase is completely safe. This is actually a known Meta Quest sync issue that happens from time to time between the smartphone app and the headset library.\n\nHere are the 3 quickest ways to find your game and get it onto your headset:\n\n1. Check your Library Filters: Put on your headset and open your App Library. In the top-right corner, look at the filter dropdown. If it is set to \"Installed\", Chernobyl Again won't show up because it hasn't been downloaded yet. Change that filter to \"All\" or \"Not Installed\", and you should see the game ready to download!\n\n2. Force Install from Phone: Open the Meta Horizon app on your phone, go to your library, tap on Chernobyl Again, and click the \"Install on Headset\" button. If your headset is turned on and connected to Wi-Fi, it will start downloading automatically.\n\n3. The Account Double-Check: Just to be absolutely sure, verify that your Meta Quest headset is logged into the exact same Meta account/email as your phone app. (It sounds silly, but it's the number one reason for this glitch!).\n\nTry checking the filters first, as that usually fixes it 99% of the time. Let us know if it worked—we want to get you into the Zone as soon as possible! ☢️\n\nBest regards,\nThe Vimagineo Team",
+        "date": 1779355710
+      }
+    },
+    {
+      "id": "756366054218721",
+      "score": 3,
+      "review_title": "It’s a really fab game but….",
+      "review_description": "The graphics on this game are amazing. The puzzles are great and well thought out but… there’s 2 very annoying bugs that keeps happening. I’ve had to restart the level umpteen times because the screen goes black and you can’t do anything to get it to work not matter what you try so you have to restart the level. The other bug is that when you’ve done something (ie the ferris wheel task) it doesn’t tick off in the whispers tasks so you can’t get any further? Attn developers: PLEASE FIX THESE SO I CAN  ACTUALLY PLAY 🙏🏻",
+      "date": 1752940820,
+      "review_helpful_count": 24,
+      "author_display_name": "Gemini8",
+      "author_alias": "Gemini8",
+      "developer_response": null
+    },
+    {
+      "id": "785299447509724",
+      "score": 1,
+      "review_title": "Inventory Items Disappear",
+      "review_description": "During play, items disappear from inventory, making the game unplayable.  In particular, the syringe gun and antidote vials disappear once I get to either the Control Room, or beyond.  Since I can't inject the antidote, the game ends as my character dies. I've re-installed it, tried limiting items in inventory, started new games, etc.  I'd rate this higher if this \"bug\" didn't occur.  I feel like I need a refund because the game is useless like this.",
+      "date": 1753273924,
+      "review_helpful_count": 13,
+      "author_display_name": "DrBell77",
+      "author_alias": "DrBell77",
+      "developer_response": {
+        "body": "The teleportation mechanism applies only to the player. Items in the inventory are not affected. On each map, the player receives a selected set of items in their inventory that are necessary to complete the level. For example, in the Control Room level, the player does not receive the syringe or the antidote—as these are not required to complete that level.",
+        "date": 1756371452
+      }
+    },
+    {
+      "id": "765150469335288",
+      "score": 2,
+      "review_title": "Sorry but a miss for me",
+      "review_description": "It’s just not fun for me.  Game progresses by solving puzzles which isn’t what I expected. I found the puzzles kinda repetitive, the map areas small, and the vr interactions I felt I was fighting with the controls to do what are mundane tasks irl.  The story is good but not nearly long enough.  I unfortunately get motion sickness. This game has teleport movement but it was frustrating for me to navigate with it. I shoulda tried free motion as I’m ok walking in straight lines and this game lends itself to that.  Yes I watched a YouTube walk thru and that’s ok. I got the game on huge discount  sale so I’m not mad about it. But do recommend playing a bit &/or using free trial to make sure this game is your cup of tea, refund if it’s not",
+      "date": 1754475126,
+      "review_helpful_count": 4,
+      "author_display_name": "keller999",
+      "author_alias": "keller999",
+      "developer_response": {
+        "body": "It's really disappointing when a game you were looking forward to just doesn't click, especially when you've spent money on it. Having to watch a 90-minute walkthrough just to get through the early parts of a game is a sign that the mechanics aren't intuitive or fun for you, and that's a completely valid reason to step away.\n\nIt sounds like the game's design, which emphasizes searching for clues and slower-paced exploration, is clashing with what you find enjoyable.\nThere is also a \"try before you buy\" option where you can check if the game fits you.",
+        "date": 1754473281
+      }
+    },
+    {
+      "id": "24269578215987739",
+      "score": 5,
+      "review_title": "Really like this game",
+      "review_description": "I really like this game a lot, i got stuck somewhere but someone told me there was a hat fix so I'm going to reinstall and go again!",
+      "date": 1751201400,
+      "review_helpful_count": 4,
+      "author_display_name": "odonnarake",
+      "author_alias": "odonnarake",
+      "developer_response": null
+    },
+    {
+      "id": "611298358463371",
+      "score": 5,
+      "review_title": "Top Game - Highly Underrated",
+      "review_description": "One of the best-looking games, with high-resolution textures, dynamic shadows, and diverse environments. Nearly every object is interactive. If you liked Red Matter 1, you have to check this out. Easily in my top 5 logic puzzle games. I haven't experienced any crashes, hangs, or bugs. Seamless gameplay from start to finish.",
+      "date": 1741383728,
+      "review_helpful_count": 26,
+      "author_display_name": "pavikogm",
+      "author_alias": "pavikogm",
+      "developer_response": null
+    },
+    {
+      "id": "603899342813861",
+      "score": 4,
+      "review_title": "Good for the price",
+      "review_description": "Good for the price…\n\nSome more development wouldn’t go a miss. Game is a bit clunky, but has a lot of potential. \n\nAn actual ending would be good too…",
+      "date": 1745667084,
+      "review_helpful_count": 4,
+      "author_display_name": "iceman00724",
+      "author_alias": "iceman00724",
+      "developer_response": null
+    },
+    {
+      "id": "583299374866878",
+      "score": 4,
+      "review_title": "Loved this!",
+      "review_description": "This was one hell of a great game. I thoroughly enjoyed playing it. Great puzzles that I look out for in games. The only downside to it is the glitches things get stuck, and the only way I could get this to stop is to come out of the game and restart. This never put me off from keep playing.\nI would recommend it.",
+      "date": 1741004619,
+      "review_helpful_count": 10,
+      "author_display_name": "emseyzzzz",
+      "author_alias": "emseyzzzz",
+      "developer_response": {
+        "body": "Thank you for the review. We are happy that you liked Chernobyl Again. We would be more than happy if you share more information about the glitches you've found.  You can use our discord or an email: support (at) chernobylagain.com",
+        "date": 1741006523
+      }
+    },
+    {
+      "id": "669384949583500",
+      "score": 2,
+      "review_title": "Broken and can't proceed",
+      "review_description": "At the part where you set the frequency and push a plunger. Been doing this for an hour and no matter what, they won't align and load the coordinates. \n\nEven months later this game is still broken and hasn't been fixed since launch.",
+      "date": 1745188468,
+      "review_helpful_count": 1,
+      "author_display_name": "Fa1coneri",
+      "author_alias": "Fa1coneri",
+      "developer_response": {
+        "body": "Thank you for the review. Unfortunately, the suitcase is working fine, try to do exactly what was said. You can also use pictures that are on the cover of the suitcase. Let us know via email (support at Chernobyl.com or via discord server).\nIn case of a problem with set frequency, use a watch with whispers (turn the receiver ON, find and put the antenna in the right place; find and set two numbers using UV lamp), then you are good to go with a plunger.",
+        "date": 1749563422
+      }
+    },
+    {
+      "id": "599254913264748",
+      "score": 5,
+      "review_title": "Loved this game",
+      "review_description": "The game looks beautiful and interesting. I really loved the atmosphere, environment, and sound design. It's cool that you could pick up and hold most of the items in the world. I didn't experience any issues on the Quest 3. However, what I personally found a bit annoying was: 1. When walking or running, the screen slightly darkens at the bottom. 2. I had some difficulty turning in the right direction using the controller. This is probably because I was instinctively moving the joystick not just to the right, but slightly down-right as well.",
+      "date": 1740072045,
+      "review_helpful_count": 7,
+      "author_display_name": "GGodis",
+      "author_alias": "GGodis",
+      "developer_response": {
+        "body": "Thank you for the review. We are happy that you enjoy the game. According to darkness during movement - there is an option and you can turn it off (settings/gameplay/vignette). You can find there player  rotating options too.",
+        "date": 1740143948
+      }
+    },
+    {
+      "id": "1090881046137946",
+      "score": 4,
+      "review_title": "My issues fixed",
+      "review_description": "Updated review. \n\nThanks for the quick responce. I had tried the uninstall, restart and reinstall previously which did not work. However this time I deleted the cloud backup file just prior to reinstall and all issues so far have been fixed. Looks like a corrupt save file caused my problems.\n\nThe initial start of the game now has sound and subtitles and i can move and turn with controllers and play seated.\n\nSo I'll up to 4 stars for now in reflection of your customer service..\n\n\n\nOriginal review. \nAll 4 sound settings initially set to min and setting to max does nothing so no sound whatsoever. Most of the setting options do not respond when clicking. As examples both movement and turn are set to left and clicking one to right does nothing so can't turn in game with controller. Unable to choose sitting mode as again clicking it does nothing. Can't even switch on subtitles so no idea what to do in the game. \n\nAll these issues occur on both my quest 2 (v72) and quest 3 (v74) which is extremely disappointing as its just not functional at all. Was the last update in Jan 25 flawed?\n\nBought on 23rd Feb and first try today 2nd March if this helps any.",
+      "date": 1740999861,
+      "review_helpful_count": 5,
+      "author_display_name": "HoliamRoberts",
+      "author_alias": "HoliamRoberts",
+      "developer_response": {
+        "body": "Hello, Thanks for the information. Please try to do it this way: 1 uninstall the game, 2 restart the headset, and 3 install the game. In case of trouble, please get in touch with us at support (at) chernobylagain.com or on our discord https://discord.com/invite/rCxmkbsBQ9",
+        "date": 1740993703
+      }
+    },
+    {
+      "id": "1651969465419699",
+      "score": 1,
+      "review_title": "Poorly developed",
+      "review_description": "I returned it the same day I bought it. Boring, simplistic, not very challenging... not recommended.",
+      "date": 1744327886,
+      "review_helpful_count": 2,
+      "author_display_name": "enric.santm",
+      "author_alias": "enric.santm",
+      "developer_response": {
+        "body": "Thank you for the review. You are the first one who wrote \"boring, not very challenging\".  How far did you get?",
+        "date": 1745300371
+      }
+    },
+    {
+      "id": "952113340349319",
+      "score": 1,
+      "review_title": "Game keeps crashing",
+      "review_description": "If you want a game with huge potential but keeps consistently crashing this is the game for you. Every fifteen minutes you are resetting your system and hoping you didn’t lose to much play time. You’re going to get stuck in the environment a LOT and constantly be regretting your decision. \n\nIt’s a shame cause the game itself is good, but the mechanics, the reliability and overall technical problems don’t allow you to get into it without being reminded that this is an issue.",
+      "date": 1736382550,
+      "review_helpful_count": 9,
+      "author_display_name": "Dropout47",
+      "author_alias": "Dropout47",
+      "developer_response": {
+        "body": "Thank you for the review. We are happy that you can see the potential of the game. Could you please tell us more about the crashing and sticking situation? You can write here, send an email (support@chernobylagain.com) or join our Discord https://discord.com/invite/rCxmkbsBQ9",
+        "date": 1736500903
+      }
+    },
+    {
+      "id": "638124611988173",
+      "score": 1,
+      "review_title": "Extremely irritated",
+      "review_description": "The game is sooooo glitchy!!! I can barely get through any of the levels/chapters without having to restart the game. Keeps getting stuck in walls. My hands get stuck In different spots. Had to restart the part where you open the box with the syringe and radiation meds because it wasn't wanting to work.  Then once I did get the knife to work\n and open, the med bottle kept showing empty. I can't continue until I finish instructions. So after messing with it for 30 minutes I gave up and turned it off.\n\nOh and the whole having to reach into your watch to get inventory for syringes and then again for the administer, it's just a big fat headache to be honest with you.",
+      "date": 1734042277,
+      "review_helpful_count": 16,
+      "author_display_name": "onebirdthreestones",
+      "author_alias": "onebirdthreestones",
+      "developer_response": null
+    },
+    {
+      "id": "518256338046282",
+      "score": 2,
+      "review_title": "Disappointing",
+      "review_description": "I ignored the bad reviews because the free trial went okay and looked interesting. Unfortunately it bugged out before I got a chance to start properly. In the opening chapter you have to activate a suitcase to do the time travel. You have to load a canister of chernobylite then pump it, then turn a crank. I can load the canister and pump okay and get the prompt to turn the crank. I turned that crank for 10 miniutes and nothing happened. I reloaded the chapter 3 times, I rebooted my headset, I reinstalled the game. I'm only leaving a review in the hopes the developer will tell me how to fix it. Not worth the hassle imo.",
+      "date": 1737754462,
+      "review_helpful_count": 2,
+      "author_display_name": "Spiderinabath",
+      "author_alias": "Spiderinabath",
+      "developer_response": {
+        "body": "Hello,\nThank you for your information. It's wired because the trial is exactly the same build. Try to pump Chernobylite until the end. If you do it, you should see the suitcase getting power, and the middle should go to the right. If it doesn't help, try to close the suitcase and reopen it. Let us know if it helps.",
+        "date": 1738077614
+      }
+    },
+    {
+      "id": "572948842325645",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "I finished the game and I liked it. The graphics are very good, the atmosphere and sound are good too. The clock management is excellent, I don't understand the negative comments. So yes, there are some bugs but you can restart the level. I find the text on the screen a little blurry. Otherwise, I had a good time and not always easy. I put 5 stars because the devs have improved the clock and are listening. I encourage.",
+      "date": 1735398063,
+      "review_helpful_count": 5,
+      "author_display_name": "Bisskoto",
+      "author_alias": "Bisskoto",
+      "developer_response": null
+    },
+    {
+      "id": "944789417716122",
+      "score": 5,
+      "review_title": "Great game with great story telling",
+      "review_description": "Do not be discouraged by the 3 star ratings. This game is ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ Using the Quest 3 the graphical power and output is very impressive. The story telling and puzzles are also intriguing. Don’t be discouraged by the reviews. Get it and review the experience. There has been tons of updates and I am very impressed with what they have!",
+      "date": 1732976682,
+      "review_helpful_count": 26,
+      "author_display_name": "Shayor",
+      "author_alias": "Shayor",
+      "developer_response": null
+    },
+    {
+      "id": "1982631925590170",
+      "score": 4,
+      "review_title": "Very good puzzler",
+      "review_description": "This is a good game,not sure about all the bad reviews...\nThe puzzles are satisfying,the atmosphere of the game is great,the story is very good,the visuals are very good,I'd compare them to into the radius style graphics..\nThe controls are slightly janky but not terrible...\nGetting access to your inventory by touching your wrist watch isn't anywhere near as good as the good old grabbing your back pack from your back..\nDon't let the low review score this game has put you off..",
+      "date": 1726688383,
+      "review_helpful_count": 21,
+      "author_display_name": "xxSONNYxx",
+      "author_alias": "xxSONNYxx",
+      "developer_response": {
+        "body": "Thank you very much for your review. We will make inventory easier to use next week.",
+        "date": 1726771590
+      }
+    },
+    {
+      "id": "3327043890938359",
+      "score": 2,
+      "review_title": "Falls short of aspirations",
+      "review_description": "This game is a little disappointing. I was expecting an interesting exploration of Chernobyl, but what I found was a simple game with rather dull puzzles. Also, I found a bug that is preventing me from proceeding. When I load and continue my game, instead of placing me in the environment, the game leaves me hovering 100 feet above Chernobyl.  I've tried restarting--same thing.  Honestly, I grew pretty bored after an hour, anyway. If you want to play simple color matching or find-the-button games, you might enjoy this more than I did.",
+      "date": 1726415733,
+      "review_helpful_count": 20,
+      "author_display_name": "augieray",
+      "author_alias": "augieray",
+      "developer_response": {
+        "body": "Thank you for this review. We are trying to recreate your problem to fix it. Have you tried to start the game again? We will inform you when we solve this problem. In the meantime, join our Discord server to be up to date or provide us with more. It's not only  a puzzle game. Thank you again!",
+        "date": 1726496423
+      }
+    },
+    {
+      "id": "502017826136592",
+      "score": 5,
+      "review_title": "AMAZIIIING!",
+      "review_description": "The best VR-game that i played in a longest time. \nIt's so exciting, if you like red matter, you should buy this Game.",
+      "date": 1726214291,
+      "review_helpful_count": 10,
+      "author_display_name": "ivann.2023",
+      "author_alias": "ivann.2023",
+      "developer_response": null
+    },
+    {
+      "id": "532986785753160",
+      "score": 1,
+      "review_title": "Very Dull and Unpolished...",
+      "review_description": "UPDATE: Going a bit further into the game, I'm really starting to notice that the interactions are a bit wonky, with doing simple things like 'trying' to grab door handles and pick up items being fairly awkward much of the time. \nThe dialogue and the voice acting (mainly from the player character) is a bit off at time as well. Which is fine, but it becomes GRATING as can be when you keep hearing the character/s CONSTANTLY repeating a given line, in the EXACT same way and the exact same sentence; over, and over ad-nauseum until you do whatever it is they want you to do. And what's being said hasn't been ANYTHING that actually helps me to begin with, making me want to mute the game on 2 or 3 occasions (they start repeating faster than you can realistically get the task done, so god forbid if you actually try taking your time...).\nSo far there hasn't been much of any narrative hook at all for me either, which with me stuck on a puzzle (one that's not very fun), I'm really not sure is worth the effort now. I just found myself getting very bored already.\nI'm feeling it'sa waste $30 so far, so I basically recommend skipping this one unless it gets some MAJOR updates and a few patches.\nThere's just no real hook and there are already countless other great (and cheaper) puzzle games more worth your money.\nBetween pre-ordering this and Hitman 3 VR, I'm never taking the risk ever again...\n\nOG: The game seems like it'll be a decent puzzle game with an overall Survival-Horror- esque setup and feel to it (from what very little I've played thus far at least).\nGraphics and general atmosphere are top notch and the audio, music, and voice acting also get the job done pretty well.\nSo far my only complaint is the watch and it's menus.\nI'm fairly blind (zero peripheral vision and only 1 eye), and though this isn't tge only game I own that has menus/ important information via interacting with/ looking at your watch, this is the ONLY game I've played where the watch is placed almost halfway up your forearm! This makes it VERY awkward to use or even look at for me, with me needing to basically reach all the way over to my right shoulder to get a comfortable full view of or interact with the watch interface...\nWHO wears their watch this high up their arm outside of necessary occasions?!\nThere should at least be a way to adjust it, as with the inventory being as it is, it's a bit cumbersome for me to get through the items (menu being close to your face on top of the added difficulty of it being so high up your arm).\n\nI only go that far into my one complaint because I can easily assume interacting with the watch and its different menus is going to be a HUGE part of the game and getting through it. So that being cumbersome is a huge detractor.\n\nI will update my review, for good or bad, as I get further into it. Outside of the watch placement, I do really like what I've seen so far though.",
+      "date": 1726334052,
+      "review_helpful_count": 48,
+      "author_display_name": "Teele891",
+      "author_alias": "Teele891",
+      "developer_response": {
+        "body": "Thank you so much for such a long review. If you are stuck somewhere you can use the navigation or whispers function from your watch. We appreciate your remarks. Right now we are gathering suggestions from all the audience and will definitely do updates to make this game better for all the players. Please feel free to share some more information also at our discord as it should be easier and quicker.  In advance thank you for your patience.",
+        "date": 1726490471
+      }
+    },
+    {
+      "id": "921604016573229",
+      "score": 5,
+      "review_title": "Journey to Chernobyl Again.",
+      "review_description": "After Enhance graphic update. Chernobyl again is one of the most beautiful visuals on Quest 3. Thanks for update it again and agian.",
+      "date": 1732587533,
+      "review_helpful_count": 10,
+      "author_display_name": "pmak111",
+      "author_alias": "pmak111",
+      "developer_response": null
+    },
+    {
+      "id": "896081389249627",
+      "score": 2,
+      "review_title": "Great Concept, not ready to be played",
+      "review_description": "I love the concept of this game and also the low quality graphics on quest 3 are noticible but dont bother me too much. What bothers me tho is that you are sometimes not able to advance the story. Rather because, you did something too early or the game saves in a wierd spot. For example today I tried to see if the update did anything good to the game. And my savespot placed me in front of a door with the key allready inside that did not open. It would have been better to put some more playtesting into this before the release. As of now it is not enjoyable as I dont want to restart the story every time I end up in an unadvanceble stittuation.",
+      "date": 1726945128,
+      "review_helpful_count": 7,
+      "author_display_name": "Simeonski",
+      "author_alias": "Simeonski",
+      "developer_response": {
+        "body": "Thank you for the review. We are working on another patch to give you a better feeling. We hope you will enjoy the game after a couple more days.",
+        "date": 1727209752
+      }
+    },
+    {
+      "id": "587733587248151",
+      "score": 4,
+      "review_title": "Was fun",
+      "review_description": "Really liked this game but I wish it was longer for the price.",
+      "date": 1732013668,
+      "review_helpful_count": 7,
+      "author_display_name": "Kobi54",
+      "author_alias": "Kobi54",
+      "developer_response": null
+    },
+    {
+      "id": "582478440933339",
+      "score": 5,
+      "review_title": "Fun game",
+      "review_description": "The puzzles 🧩 😂 wow do u feel stupid when you get it ! But they are hard no real hints but this adds to it…. I really enjoyed this slow paced game no rush when I completed it it was sad ( like when you finish a good book) but it is a new friend and good experience would like \nmore! ….\nWell done.",
+      "date": 1729607176,
+      "review_helpful_count": 12,
+      "author_display_name": "Miss.Sarah.Kline",
+      "author_alias": "Miss.Sarah.Kline",
+      "developer_response": null
+    },
+    {
+      "id": "560442256601582",
+      "score": 1,
+      "review_title": "Nothing works!",
+      "review_description": "UPDATE 3:\n\nSorry I lost your email address; appreciate the help. I already did what you suggested.  I moved all the way across the room.  Door doesn’t budge. After I restarted the game, I couldn’t even grab the wheel to turn. Whenever I try to grab my hands just press flat against the door.\n\nI’ll send an email because it’s frustrating being told to do exactly what I’ve done. I know how to open the door, it does not work. \n \nIs the developer response automated or by a person that didn’t read what I wrote. I can’t open the steel door with the key from the desk drawer code 404. If by “liver” you mean “crowbar” that was for the control room door which took MANY tries using 2 hands. \n\nReview:\nIt took probably 20 tries to get the control room door open.  It’s unclear what you’re supposed to do with some of the puzzles which have been pretty simple when you know when you what you need to achieve. ￼ Anything involving a door doesn’t work well. ￼ Navigating through the menus is a pain and your finger doesn’t always reach the watch to activate it. ￼ Now I need to get through the steel door, but I can’t.  I’ve turned the key, turned the wheel, tried to push, pull, and slide the door but it won’t open.  Restarted the game and I can’t even turn the wheel so I can’t get any further and it’s too late for a refund.",
+      "date": 1734437135,
+      "review_helpful_count": 7,
+      "author_display_name": "RileyOcean",
+      "author_alias": "RileyOcean",
+      "developer_response": {
+        "body": "UPDATE:  Sorry for misspelling (liver-lever). according to the steel door - turn the key and also turn the wheel clockwise to the end and then pull the door towards you.\nhttps://youtu.be/ZSYRBves4As?t=1907\n\nIt might be you blocking the door from opening. Try to move from a door a little bit, holding the door",
+        "date": 1734433600
+      }
+    },
+    {
+      "id": "556415906906804",
+      "score": 4,
+      "review_title": "I really don’t understand all the hate..",
+      "review_description": "So far, so good. Totally enjoyable !!! Great graphics. Puzzles are making me think. If I could magically make this a rating of 4.0 I would. I just finished this game and it’s great !!!! 4.3 all day long !!!!!!!👍🏻👍🏻",
+      "date": 1728873799,
+      "review_helpful_count": 7,
+      "author_display_name": "Daveena",
+      "author_alias": "Daveena",
+      "developer_response": null
+    },
+    {
+      "id": "530134222884154",
+      "score": 3,
+      "review_title": "Not bad at all",
+      "review_description": "So far I am enjoying this game. This review is to let the devs know they have a few things they need to fix in order for it to be perfect.\n\nFirst off, graphics and audio are perfect. I’m playing on Quest 3, and the graphics looks clean and crisp, the music is nicely tuned, and the dialogue is engaging. \n\nHand tracking can use a small tweak. Grabbing things in close proximity to others and it can’t seem to differentiate which object you’re grasping for. \n\nThe wristwatch is a bit cumbersome. I like the concept, but I don’t like having to always grab the keycard or other items I need to complete a mission, by opening the wristwatch then selecting inventory, then the item. There has to be an easier way to have a better functioning UI for the wristwatch. \n\nFor the turning speed…at the highest point you don’t turn as fast as you’d like. Maybe a tweak to that functionality as well to give players more turn speed. \n\nCrouch option? I couldn’t figure out how to crouch other than real world crouching…a stick or button option would be cool.\n\nSo far…the game is enjoyable and I do look forward to progressing more through it.",
+      "date": 1726249580,
+      "review_helpful_count": 18,
+      "author_display_name": "DeathWatch806",
+      "author_alias": "DeathWatch806",
+      "developer_response": null
+    }
+  ],
+  "total": 40,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 3,
+  "fetched_at": "2026-06-21T05:11:29Z"
+}

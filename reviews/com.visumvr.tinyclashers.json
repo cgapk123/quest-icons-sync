@@ -1,0 +1,62 @@
+{
+  "app_id": "7300947536584597",
+  "package_name": "com.visumvr.tinyclashers",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Tiny Clashers",
+  "rating_average": 3,
+  "rating_count": 3,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "931568109563878",
+      "score": 5,
+      "review_title": "A great quick RTS",
+      "review_description": "The select lock issue can be solved by clicking the grip button on any unoccupied terrain.\n\nA fun RTS, great at scratching the itch",
+      "date": 1771975508,
+      "review_helpful_count": 1,
+      "author_display_name": "Kopnkothmonk",
+      "author_alias": "Kopnkothmonk",
+      "developer_response": {
+        "body": "We’re glad you’re enjoying the game! Thank you for the helpful tip!",
+        "date": 1772043724
+      }
+    },
+    {
+      "id": "25846955201582603",
+      "score": 3,
+      "review_title": "Fun & good to enjoy but....",
+      "review_description": "There is a bug when it start. It's too dark. Please fix this bug. Except it, everything is fine but bots are too stupid",
+      "date": 1769466462,
+      "review_helpful_count": 3,
+      "author_display_name": "adimasana6327",
+      "author_alias": "adimasana6327",
+      "developer_response": {
+        "body": "Thanks for your feedback! \n\nUnfortunately, we have not been able to reproduce the bug starting the game too dark. Could you please contact us through our email or support channels to provide us with more information? We would appreciate it.\n\nRegarding the bots, improving their behavior and challenge level is also on our roadmap, your comment really helps us prioritize these improvements.\n\nWe’re glad you’re enjoying the game overall.",
+        "date": 1770142490
+      }
+    },
+    {
+      "id": "924390930455988",
+      "score": 1,
+      "review_title": "TRASH",
+      "review_description": "I cant unslect stuff which makes it impossible to play the game I TOTALLY wasted my money on this",
+      "date": 1771815316,
+      "review_helpful_count": 0,
+      "author_display_name": "eric.561232",
+      "author_alias": "eric.561232",
+      "developer_response": {
+        "body": "Hi! We’re really sorry you’re experiencing this issue — However you can simply unselect objects by pressing the grip button in an empty space on the map or by selecting a different object, either option works. Please contact us at our support email and we’ll help you with any doubt as soon as possible.",
+        "date": 1772043571
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T05:19:09Z"
+}

@@ -1,0 +1,67 @@
+{
+  "app_id": "5556243174447482",
+  "package_name": "com.virtualmedicine.humananatomyquest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "High School Anatomy for Quest",
+  "rating_average": 4.1666666666667,
+  "rating_count": 6,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1457325878080281",
+      "score": 5,
+      "review_title": "Awesome and clear",
+      "review_description": "Using it for anatomy and okay, it is not much complicated but for simplier stuff is great!",
+      "date": 1667499999,
+      "review_helpful_count": 0,
+      "author_display_name": "oneye97",
+      "author_alias": "oneye97",
+      "developer_response": null
+    },
+    {
+      "id": "1121936111845212",
+      "score": 4,
+      "review_title": "Excellent tool but with a learning curve",
+      "review_description": "Great anatomic detail and fun interface.  Some instructor lead interactive education would be an excellent addition.",
+      "date": 1672011694,
+      "review_helpful_count": 0,
+      "author_display_name": "shdwlynx2",
+      "author_alias": "shdwlynx2",
+      "developer_response": null
+    },
+    {
+      "id": "358934079180047",
+      "score": 5,
+      "review_title": "How can I use multi-user mode?",
+      "review_description": "And what is the Institution button?",
+      "date": 1627567249,
+      "review_helpful_count": 0,
+      "author_display_name": "bbishii",
+      "author_alias": "bbishii",
+      "developer_response": {
+        "body": "Hi bbishii,\nThank you for your review.\nCurrently, the multiuser mode is only available for the institutional licenses. If you represent an university or institution and you are interested to purchase these licenses, feel free to contact us at info@medicinevirtual.com\nBest regards.",
+        "date": 1627584781
+      }
+    },
+    {
+      "id": "105721285689783",
+      "score": 1,
+      "review_title": "Incomplete",
+      "review_description": "A lot of features are incomplete. They will suddenly not show structures or the controllers won’t pick up the structures. I experienced this a lot with the puzzle tool. If it’s not fixed I will return the application.",
+      "date": 1667944418,
+      "review_helpful_count": 3,
+      "author_display_name": "MedTerm1",
+      "author_alias": "MedTerm1",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T05:14:13Z"
+}

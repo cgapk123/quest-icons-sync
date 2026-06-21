@@ -1,0 +1,95 @@
+{
+  "app_id": "8192580110835039",
+  "package_name": "com.vividapps.zombiear",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Zombie Reality",
+  "rating_average": 3.3333333333333,
+  "rating_count": 9,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "1111612872033822",
+      "score": 5,
+      "review_title": "Wow, better than i thought‼️",
+      "review_description": "I was skeptical with the looks of the game graphics wise but it's so much FUN to play!  I'm glad to tried it out. One of my favorite mixed reality games to play. Just simply fun",
+      "date": 1778893504,
+      "review_helpful_count": 1,
+      "author_display_name": "XLNYC",
+      "author_alias": "XLNYC",
+      "developer_response": null
+    },
+    {
+      "id": "510605218808561",
+      "score": 5,
+      "review_title": "Spatial reality issue",
+      "review_description": "I couldn’t get the game to work at all because of the spatial reality issues that others are describing. If I read the reviews first, I would not have got it\n\n*edit*. The update appears to have fixed the problem that led to my initial review. Since th n, the game has been fantastic. It’s now my favourite",
+      "date": 1736711042,
+      "review_helpful_count": 9,
+      "author_display_name": "Shylocke16",
+      "author_alias": "Shylocke16",
+      "developer_response": null
+    },
+    {
+      "id": "508559232338287",
+      "score": 1,
+      "review_title": "Spatial Bug",
+      "review_description": "Everytime I go into different parts of my place it stills says no spatial data found even after deleting and reinstalling nothing was working I even restarted my meta quest. The meta quest 3s.\nPlease help. \n\nHi well I see that I got a response to my message.\nWell I have turned on Spatial data and it made no difference and was wondering does is the app bugged with other people or just me?",
+      "date": 1733142361,
+      "review_helpful_count": 5,
+      "author_display_name": "ChaosXKill",
+      "author_alias": "ChaosXKill",
+      "developer_response": {
+        "body": "Hi again ChaosXKill\n\nWe very sorry to hear that this is still not working.\nAre you able to use other Mixed Reality apps, and have you completed the set up of \"Physical Space\" (in the Meta Quest Settings)? \n\n\n\n\nHi ChaosXKill\nHave you checked if Zombie Reality is allowed to access spatial data? \nTo check, go to the Settings app on your Quest, then click on \"Apps\" -> \"Permissions\" -> \"Spatial Data\" and make sure that Zombie Reality is enabled in this list.\nLet us know if it is enabled.",
+        "date": 1733226551
+      }
+    },
+    {
+      "id": "489312804271449",
+      "score": 1,
+      "review_title": "I need a refund",
+      "review_description": "I use meta quest 3. I purchased this app 2days ago. I cant play it. When i open the app it say open the spatial data, i did open it but the app are still not working",
+      "date": 1735156781,
+      "review_helpful_count": 1,
+      "author_display_name": "ckpalacio",
+      "author_alias": "ckpalacio",
+      "developer_response": {
+        "body": "Hi. We are sorry to hear that, and not sure why this isn't working.\n\nHowever, make sure you have also set up the physical space with a \"Roomscale\" boundary. To do this, go to 'Settings', then 'Physical Space', then 'Space setup'. When you set up a boundary select 'Roomscale' and draw a custom boundary in the room you wish to play in. Hopefully this helps.\n\nFor refunds you can visit:\nhttps://www.meta.com/help/quest/articles/orders-and-purchases/returns/refunds-for-games-apps/",
+        "date": 1735162076
+      }
+    },
+    {
+      "id": "473004145900263",
+      "score": 5,
+      "review_title": "Flawless and silky smooth gameplay!",
+      "review_description": "Scary to see the living room getting invaded from all sides. Cool that the monsters walk around the furniture. Lots of different weapons and pickups, but you really have to pay attention when there are 3-4 zombies at the same time. The floating heads are really annoying at times!\nMany levels but progress is fast and the scenery variety and slowly increasing difficulty keeps it interesting. Really like the forest levels.\nToo easy for me on the easier difficulty levels, but hard is good!!!",
+      "date": 1732261130,
+      "review_helpful_count": 0,
+      "author_display_name": "77Oakleaf",
+      "author_alias": "77Oakleaf",
+      "developer_response": null
+    },
+    {
+      "id": "427170950489100",
+      "score": 1,
+      "review_title": "I can't get the game to work",
+      "review_description": "It keeps saying spatial data found",
+      "date": 1733079241,
+      "review_helpful_count": 1,
+      "author_display_name": "halox",
+      "author_alias": "halox",
+      "developer_response": {
+        "body": "Hi Halox. Very sorry to hear that.\n\nIf you are using a Quest 3, please check that Zombie Reality has access to your spatial data. To check this, go to the Settings app on your Quest. Then \"Apps\" -> \"Permissions\" -> \"Spatial Data\" and make sure Zombie Reality is enabled in this list.\n\nAlso note, that the game is only supported on Quest 3. It shouldn't be possible, but we've noticed some users using it on Quest 2.\n\nIf spatial data is enabled for Zombie Reality, and you are on a Quest 3, please let us know.",
+        "date": 1733157615
+      }
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T05:20:12Z"
+}
