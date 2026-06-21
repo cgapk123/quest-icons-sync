@@ -1,0 +1,104 @@
+{
+  "app_id": "3637031316351768",
+  "package_name": "com.vrsupercourse.sc",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Tech 3 VR Tour",
+  "rating_average": 2.1666666666667,
+  "rating_count": 12,
+  "review_count": 6,
+  "reviews": [
+    {
+      "id": "2264780280329572",
+      "score": 5,
+      "review_title": "A charming google street view thing.",
+      "review_description": "Not sure if it actually uses street view. It doesnt really, I think it uses google maps to generate some transition videos, but the content is from elsewhere. It's good 360 videos and I think some were 3d too. It was all very earnest and comfortable.",
+      "date": 1646258009,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": {
+        "body": "Thank you for your feedback! We're happy that you're enjoying our app.",
+        "date": 1657113195
+      }
+    },
+    {
+      "id": "945359999734854",
+      "score": 1,
+      "review_title": "Blank screen",
+      "review_description": "All i see is blank white screen after i click TRAVEL...",
+      "date": 1638985289,
+      "review_helpful_count": 2,
+      "author_display_name": "Riken_Patel",
+      "author_alias": "Riken_Patel",
+      "developer_response": {
+        "body": "Hello, thank you for your feedback. We're sorry you had a bad experience. Our team has noted a bug with downloaded content which has been fixed.  Try to uninstall and install the app again to get the latest version.",
+        "date": 1657113750
+      }
+    },
+    {
+      "id": "617739572997176",
+      "score": 5,
+      "review_title": "Excellent Experience!",
+      "review_description": "Great app! I travelled to beautiful places across all continents and saw amazing stuff. I felt like having an English tour guide always by my side and got 100% the feeling of being there. The most immersive parts of the tour, when you get close to wild animals and when you take a dive into the water as a scuba diver are the best!!! I'd like to see more places and have more immersive experiences soon ;)",
+      "date": 1635246047,
+      "review_helpful_count": 2,
+      "author_display_name": "agsotoss",
+      "author_alias": "agsotoss",
+      "developer_response": {
+        "body": "Thank you for your feedback! We're happy that you're enjoying our app.",
+        "date": 1657113799
+      }
+    },
+    {
+      "id": "234618765447127",
+      "score": 1,
+      "review_title": "Not working for me",
+      "review_description": "Just a white screen after clicking on locations and audio playing only.",
+      "date": 1638949966,
+      "review_helpful_count": 2,
+      "author_display_name": "charles.mall1",
+      "author_alias": "charles.mall1",
+      "developer_response": {
+        "body": "Hello, thank you for your feedback. We're sorry you had a bad experience. Our team has noted a bug with downloaded content which has been fixed.  Try to uninstall and install the app again to get the latest version.",
+        "date": 1657113760
+      }
+    },
+    {
+      "id": "133969422395738",
+      "score": 2,
+      "review_title": "Buggy",
+      "review_description": "I am using the occulus quest 2. Last update as usual. All I saw was a white screen when using stationary guardian",
+      "date": 1639255359,
+      "review_helpful_count": 2,
+      "author_display_name": "yes4me",
+      "author_alias": "yes4me",
+      "developer_response": {
+        "body": "Hello, thank you for your feedback. We're sorry you had a bad experience. Our team has noted a bug with downloaded content which has been fixed.  Try to uninstall and install the app again to get the latest version.",
+        "date": 1657113491
+      }
+    },
+    {
+      "id": "117744097448936",
+      "score": 3,
+      "review_title": "The sound is good, visuals not so much.",
+      "review_description": "I'm sure it's great but for some reason I only get the sound but no picture. Downloaded and installed twice. Tell me what I'm doing wrong. Cheers.",
+      "date": 1642841943,
+      "review_helpful_count": 1,
+      "author_display_name": "lesbell",
+      "author_alias": "lesbell",
+      "developer_response": {
+        "body": "Hello, thank you for your feedback. We're sorry that you've experienced these bugs. Our team has fixed some major bugs and has done updates to our video player. Try to uninstall and install the app again to get the latest version.",
+        "date": 1657113438
+      }
+    }
+  ],
+  "total": 6,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T06:37:41Z"
+}

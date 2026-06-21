@@ -1,0 +1,48 @@
+{
+  "app_id": "6035495826482581",
+  "package_name": "com.vrtrauma.trauma",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "VRTrauma Lab Demo",
+  "rating_average": 3.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "199162566474489",
+      "score": 2,
+      "review_title": "Just why",
+      "review_description": "Why do they put even a demo if you can barely play anything not recommend",
+      "date": 1691977733,
+      "review_helpful_count": 0,
+      "author_display_name": "Danielms47",
+      "author_alias": "Danielms47",
+      "developer_response": {
+        "body": "Thank you for your feedback! We understand that the earlier version of the demo may have felt limited. Since then, we’ve released an updated version with expanded content and more gameplay to give players a fuller experience. We’d love for you to try it out and see the improvements firsthand! Your input helps us continue enhancing the game, so thank you for helping us grow.",
+        "date": 1731397529
+      }
+    },
+    {
+      "id": "120061951166684",
+      "score": 3,
+      "review_title": "In principle good!",
+      "review_description": "I like the idea a lot, but there is unfortunately no option for complete noobs to sneak peak into the world of trauma, complete guidance would be required here. The usability is also pretty bad and has to be reworked - grabbing and interacting feels cumbersome.",
+      "date": 1691048390,
+      "review_helpful_count": 2,
+      "author_display_name": "Seba0808",
+      "author_alias": "Seba0808",
+      "developer_response": {
+        "body": "Thank you for sharing your thoughts! We’re glad you like the concept, and we appreciate your feedback on usability. Since your review, we’ve made significant updates to improve the gameplay and functionality, including a more intuitive guidance system designed to help newcomers get comfortable exploring the content. We’ve also reworked the interaction mechanics to make grabbing and interacting smoother and more responsive. Your insights have been valuable in shaping these improvements, and we’d love for you to check out the latest version to see how it feels now. Thanks again for helping us create a better experience!",
+        "date": 1731397641
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-21T06:39:02Z"
+}
