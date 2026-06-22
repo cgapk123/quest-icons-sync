@@ -1,0 +1,56 @@
+{
+  "app_id": "6982964221751719",
+  "package_name": "net.Vectorworks.Odyssey",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Vectorworks Odyssey",
+  "rating_average": 4.7142857142857,
+  "rating_count": 7,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1359143778876463",
+      "score": 3,
+      "review_title": "Works - but needs work",
+      "review_description": "Works on my quest1, it’s meant for more powerful quests - so it just shows how underused the development is - no lines on models or shadows available - come on Vectorworks!! \nI know you just ‘bought’ this software off another developer (as I remember the original- that’s how little it’s changed!) - but, someone at Nemetcheck needs to learn how to develop this software further!",
+      "date": 1758183004,
+      "review_helpful_count": 0,
+      "author_display_name": "neal.roberts.370",
+      "author_alias": "neal.roberts.370",
+      "developer_response": {
+        "body": "Thank you for taking the time to share this feedback and for using the app on your Quest 1. Your frustration about missing edges and shadows is completely understandable, especially when reviewing detailed models in VR.\n\nThe VR and mobile app (Nomad and related viewers) has been fully developed in house by the Vectorworks team and is part of the broader Vectorworks Cloud Services platform, rather than a product purchased from another developer. It has gone through several updates and redesigns over time, including recent changes to its interface and model handling, and development is ongoing.\n\nProjects coming from desktop Vectorworks can be quite large and detailed, and enabling edges and real‑time shadows on standalone mobile VR can push many models beyond what Quest hardware can render reliably at comfortable VR frame rates. This limitation is especially noticeable on Quest 1, which is less powerful than newer Quest devices, so the current VR viewer prioritizes stable performance and smooth navigation over heavier visual effects to help avoid stutters and motion sickness.\n\nFor higher‑fidelity viewing, the Vectorworks Odyssey app for Meta Quest Link (Windows only) has shadows and ambient occlusion enabled and is designed to handle larger models with better performance and visual appearance when connected to a capable PC.\n\nYour feedback is important to us and helps prioritize which visual controls, such as edges and shadows, should be considered for future optimization and newer hardware generations.",
+        "date": 1767631641
+      }
+    },
+    {
+      "id": "818545314669498",
+      "score": 5,
+      "review_title": "A great way to explore projects",
+      "review_description": "This app is a great way to explore your projects! You can look around at a table top model of your project or you can jump right inside and explore as though you were actually in the project itself. Super handy for both designers and their clients!",
+      "date": 1757980140,
+      "review_helpful_count": 0,
+      "author_display_name": "neilapolitan",
+      "author_alias": "neilapolitan",
+      "developer_response": null
+    },
+    {
+      "id": "1246459746867825",
+      "score": 5,
+      "review_title": "But would be even better with heliodons",
+      "review_description": "Great as it is, but there is a bit further to go if you can: heliodon integration would really make things pop!",
+      "date": 1747226338,
+      "review_helpful_count": 2,
+      "author_display_name": "RogerVila",
+      "author_alias": "RogerVila",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T02:56:51Z"
+}

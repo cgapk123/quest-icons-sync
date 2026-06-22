@@ -1,0 +1,34 @@
+{
+  "app_id": "4387676764681800",
+  "package_name": "net.featherly.shawn.curlingdemo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Curling Demo",
+  "rating_average": 1,
+  "rating_count": 5,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1036919963595531",
+      "score": 1,
+      "review_title": "Terrible,the controls are horrendous",
+      "review_description": "Crap",
+      "date": 1648412738,
+      "review_helpful_count": 1,
+      "author_display_name": "LeeVitt",
+      "author_alias": "LeeVitt",
+      "developer_response": {
+        "body": "Thanks for giving it a try! This is the first VR game controlling how you slide on ice. We understand innovative controls are not easy to get used to and the current tutorial isn't enough to support that. If you have any suggestions, we are open to ideas.\nEDIT: The July 2022 v0.0.8 release can be played with one handed controls.",
+        "date": 1656962716
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T02:59:50Z"
+}
