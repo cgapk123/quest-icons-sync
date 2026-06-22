@@ -1,0 +1,42 @@
+{
+  "app_id": "2186133398134464",
+  "package_name": "it.ikon.virtours.production01.oculus",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Virtours",
+  "rating_average": 3.25,
+  "rating_count": 4,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "4083354208390638",
+      "score": 4,
+      "review_title": "Short but good",
+      "review_description": "Videos and photo collections in there are good. However, they are not many (just six at this moment). I also wish they had some contextual description available (either in voice or in text).",
+      "date": 1619650772,
+      "review_helpful_count": 1,
+      "author_display_name": "Savig",
+      "author_alias": "Savig",
+      "developer_response": null
+    },
+    {
+      "id": "2141287436012191",
+      "score": 4,
+      "review_title": "Small collection of content",
+      "review_description": "It's good, and still downloads.",
+      "date": 1632754978,
+      "review_helpful_count": 2,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T02:28:42Z"
+}

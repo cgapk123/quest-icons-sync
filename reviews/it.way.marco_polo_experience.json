@@ -1,0 +1,56 @@
+{
+  "app_id": "24032161086420299",
+  "package_name": "it.way.marco_polo_experience",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Marco Polo Experience",
+  "rating_average": 4.8,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "978955795088251",
+      "score": 5,
+      "review_title": "Very informative",
+      "review_description": "This app is very informative but sadly lacks a seated option which being disabled is essential as I'm unable to stand for very long at a time \nThe graphics are pretty good\nOverall very happy with my purchase just need a seated mode please",
+      "date": 1777466278,
+      "review_helpful_count": 4,
+      "author_display_name": "Jimbo2312",
+      "author_alias": "Jimbo2312",
+      "developer_response": null
+    },
+    {
+      "id": "1120997370182789",
+      "score": 4,
+      "review_title": "Nicely done",
+      "review_description": "I found this pretty interesting.  You start off in a room and have to find certain objects.  Once you find an object for a part of the journey, it then provides a very high-quality re-creation of that part of the trip.  Devs - as an enhancement, can you add a way to turn off the VR vignettes as well as a seated mode.",
+      "date": 1758609045,
+      "review_helpful_count": 5,
+      "author_display_name": "firestrike008",
+      "author_alias": "firestrike008",
+      "developer_response": {
+        "body": "We’re really happy you found our experience interesting! Thank you so much for your feedback — we’ve removed the vignette issue, so if you update the app now, it’s all fixed. As for the seated mode, that’s a great suggestion and we’re planning to add it in a future update!",
+        "date": 1759846164
+      }
+    },
+    {
+      "id": "1107655738246316",
+      "score": 5,
+      "review_title": "Short but sweet",
+      "review_description": "Updated review: vignette issue fixed. Really enjoyed this, well done.",
+      "date": 1759885833,
+      "review_helpful_count": 3,
+      "author_display_name": "RoaminRound",
+      "author_alias": "RoaminRound",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T02:29:41Z"
+}
