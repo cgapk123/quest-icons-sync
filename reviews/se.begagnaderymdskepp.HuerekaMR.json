@@ -1,0 +1,48 @@
+{
+  "app_id": "6880462102065761",
+  "package_name": "se.begagnaderymdskepp.HuerekaMR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Huereka",
+  "rating_average": 2,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1132821758616595",
+      "score": 1,
+      "review_title": "Does not work at all",
+      "review_description": "Hello Developer,\n\nI know your product is early access. However, even an early access product should at least have the very basic function that it promises. \n\nBut your app was completely unable to even find my active bridge that is on the same network. \n\nAnd yes. I did set app permissions correctly, even though your app did not ask for it.\n\nSo please write back to me after you did some testing and an upgrade where at least basic functions are available.\n\nThank you.",
+      "date": 1744358747,
+      "review_helpful_count": 1,
+      "author_display_name": "Dunadaen",
+      "author_alias": "Dunadaen",
+      "developer_response": {
+        "body": "Hello Dunadaen! Thank you for your feedback.\n\nI absolutely agree with you that you should always expect the basic functionality to work, even if the app is in early access!\n\nI'm sad to hear that it doesn't work for you. If it doesn't work, you should be able to request a refund through the app store. \n\nWould you be able to help me out in fault-tracing for you? Please write to me on info@begagnaderymdskepp.se (or use the contact form on https://begagnaderymdskepp.se/#contact). I would like to know which version of the Hue bridge you have, as this is first time I'm hearing of it not being discovered correctly.\n\nAnd I'm curious about what you mean with having to set up app permission? The app does not require any special permissions. There shouldn't be any special setting you need to do to run it. Would you please let me know what issues you were having?\n\nThank you.",
+        "date": 1744560743
+      }
+    },
+    {
+      "id": "638420606018314",
+      "score": 3,
+      "review_title": "Cool concept and works, but…",
+      "review_description": "This app is in early development, so take what I say with a grain of salt.\n\nThe app does work for me. It connected seamlessly to my hue bridge and turns my lights on and off. However, the hand tracking leaves much to be desired, and I wish I could use my controllers instead. Further, you can not control the light’s functions, only turn on and off. I hope these things are addressed in the future, and this is very promising.",
+      "date": 1745135649,
+      "review_helpful_count": 0,
+      "author_display_name": "ArcaneTemplar13",
+      "author_alias": "ArcaneTemplar13",
+      "developer_response": {
+        "body": "Thank you for your feedback!\n\nI just pushed a new versions with controller support. The controller support is still a little rough, but it will improve over time. \n\nAdding more functionality to what you can do with the lights is something I've been investigating for a while now. And I will release an updates with it quite soon, starting with changing colours of your light sources.",
+        "date": 1751811050
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T03:41:56Z"
+}

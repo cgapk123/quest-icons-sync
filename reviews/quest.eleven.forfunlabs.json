@@ -1,0 +1,990 @@
+{
+  "app_id": "1995434190525828",
+  "package_name": "quest.eleven.forfunlabs",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Eleven Table Tennis",
+  "rating_average": 4.5990816602143,
+  "rating_count": 11107,
+  "review_count": 5601,
+  "reviews": [
+    {
+      "id": "1062708356930543",
+      "score": 3,
+      "review_title": "Good, but not enough",
+      "review_description": "This is the best Ping Pong VR game I can find. However as a real life Ping Pong Player, I can feel there are some significant differences and I would like to share my feedback:\n\n1. Physics and Realism\nCompared to real-life table tennis, the ball physics in the game feel significantly exaggerated. The speed and spin values seem unnatural, lacking the necessary mass and air resistance (drag) that govern a real ball’s flight. Because of this, it is frustratingly difficult to execute the \"two-bounce\" serves that are a staple of real-life play. The current pace often leaves players with insufficient reaction time, forcing frantic, potentially unsafe movements in a confined physical space. I believe aligning the game’s speed and physics more closely with reality would make the experience both more logical and safer.\n\n2. Fair Play and Transparency\nI frequently encounter opponents who seem to generate exaggerated spin, which often suggests they have modified their rubber or physics settings to gain an unfair advantage. To ensure a level playing field, I strongly recommend implementing a feature that allows players to view their opponent’s paddle settings during a match. Transparency in equipment settings is essential for fair competition.\n\n3. Tracking and Software Optimization\nI am experiencing consistent tracking issues during high-speed swings. When reviewing my match replays, I often observe my hand \"teleporting\" or jittering, which confirms a breakdown in tracking or latency during rapid arm movements. Many shots that I am certain I struck correctly are registered as misses due to these technical lapses. Could the team consider software-level optimizations, such as predictive algorithms or smarter noise reduction, to stabilize tracking during high-intensity movements?",
+      "date": 1777181060,
+      "review_helpful_count": 34,
+      "author_display_name": "mydimension",
+      "author_alias": "mydimension",
+      "developer_response": {
+        "body": "hi mydimension. This is a better conversation to have over discord\n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\n\nthen over a review. \n\n1. right now there are many players who play real life table tennis at a high level and their assessment is opposite to yours. I plan on collecting a lot of real time physics data and will finalize it, but at the moment what might be happening is that you feel rushed not because the physics is inaccurate, but because of other aspects of VR/latency that messes with perception. \n\n2. that is planned (display paddle settings). I don't think it's related to fair play since the rules are identical to everyone and you can't change a racket once in a ranked room. Even if you see the opponent's settings, you will still need to adjust on the fly as you learn their motions and shots. \n\n3. there are many cases where this might be happening, but at the end of the day, we are limitted by the hardware. If the headset tells us your controller moved 1 foot to the side, we have no way of knowing it didn't actually do that. I'll be happy to review a replay with you and see what you are referring to and maybe suggestion options to alleviate the issue you are having. \n\n-Roman",
+        "date": 1777307965
+      }
+    },
+    {
+      "id": "965571083092595",
+      "score": 5,
+      "review_title": "DONT LISTEN TO BAD REVIEWS",
+      "review_description": "So i have been having trouble playing vr recently, not cos its uncomfortable or anything just cos the games are boring. Then i stumbled across this game. I played the free trial not expecting anything, but the physics and graphics and everything absolutely blew me away. when my free trial ended i immediatly bought the game. If your looking for a fun game or just want to get more excise, YOU NEED TO TRY THIS GAME OUT ITS SO GOOD!!!!",
+      "date": 1776084922,
+      "review_helpful_count": 16,
+      "author_display_name": "Theguythattalks",
+      "author_alias": "Theguythattalks",
+      "developer_response": null
+    },
+    {
+      "id": "1171632096027781",
+      "score": 1,
+      "review_title": "Too much nonsense",
+      "review_description": "If your goal is realistic table tennis, Eleven’s multiplayer is frustrating to put it lightly. Most of the player base relies on weird play styles that exploit VR limitations and don’t resemble real-life technique. Players can generate unrealistic speed and spin with almost no physical effort, and defensive recoveries are often much easier than they would be at a real table. I’ve heard high-level players (3000+) play more realistically, but at mid-levels it feels more like learning how to exploit a video game than playing actual table tennis. I prefer T3S and Ten Billion for now.",
+      "date": 1780339091,
+      "review_helpful_count": 1,
+      "author_display_name": "blooue",
+      "author_alias": "blooue",
+      "developer_response": null
+    },
+    {
+      "id": "1117228901480573",
+      "score": 5,
+      "review_title": "To good to be true",
+      "review_description": "The graphics are great and when you hit the ball you can apply the spin you want but it is not exactly like real ping there is some minor differences but other than that training mode is great and the different levels of the bots are very creative.",
+      "date": 1780607169,
+      "review_helpful_count": 0,
+      "author_display_name": "EstRey7",
+      "author_alias": "EstRey7",
+      "developer_response": null
+    },
+    {
+      "id": "1111053668747380",
+      "score": 5,
+      "review_title": "You will LOVE this if you play IRL!",
+      "review_description": "This game is FANTASTIC! I did not think it was possible for VR to get this good, and the physics very very close to 1:1 with real life. You can play by yourself in single player or play competitive ranked matches with real people online. It's also possible to train your mobility and footwork with the built in ball machine.",
+      "date": 1772361293,
+      "review_helpful_count": 50,
+      "author_display_name": "cloudy_nz",
+      "author_alias": "cloudy_nz",
+      "developer_response": null
+    },
+    {
+      "id": "1134724253049094",
+      "score": 3,
+      "review_title": "Great game, but?!",
+      "review_description": "I had this game through Horizon + and was very confused when it just disappeared, but I once I figured out why it disappeared I just went ahead and bought it. Now not only did I lose all my history and friends  (which isn’t that big of a deal) but I cannot get the multiplayer to work at all. I can’t connect to a server and I can’t even enter in a username for my avatar. ￼",
+      "date": 1777226186,
+      "review_helpful_count": 3,
+      "author_display_name": "CharlesNYN0",
+      "author_alias": "CharlesNYN0",
+      "developer_response": {
+        "body": "hi. Please reach out and we'll be happy to help you out. Nothing is lost but there may be an error related to the meta system. \n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n-Roman",
+        "date": 1777307658
+      }
+    },
+    {
+      "id": "1881294485872830",
+      "score": 3,
+      "review_title": "Good Sim, but moderators rude",
+      "review_description": "This is a fun and almost 90% of the realism. Idk how they select tournament directors but one i dealt with is far from professional and is going to turn people away",
+      "date": 1780854818,
+      "review_helpful_count": 1,
+      "author_display_name": "wdisty",
+      "author_alias": "wdisty",
+      "developer_response": {
+        "body": "hello wdisty. Please reach out to me and share with me what you found rude so that we can discuss and if needed I can work with the director on any policy changes. \n\nsupport@forfunlabs.com\n-Roman",
+        "date": 1780954390
+      }
+    },
+    {
+      "id": "1628929274993094",
+      "score": 4,
+      "review_title": "This game is incredibly realistic",
+      "review_description": "it wouldn’t be an exaggeration to say it feels exactly like real table tennis.\nHowever, the only disappointing thing is that there’s no long pips rubber. Since I’m a penhold long-pips player, I’d really appreciate it if you could add long pips rubber to the game!",
+      "date": 1778557262,
+      "review_helpful_count": 0,
+      "author_display_name": "yoshitaka.tamamura",
+      "author_alias": "yoshitaka.tamamura",
+      "developer_response": null
+    },
+    {
+      "id": "1145855998604127",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Really good physics. I actually improved my game. Would be great if you add the rubber wall in practice, but still there are so many options to train. Of course there are still some things to consider to make it perfect, nevertheless i love it. 5 stars",
+      "date": 1778665532,
+      "review_helpful_count": 0,
+      "author_display_name": "Qliiik",
+      "author_alias": "Qliiik",
+      "developer_response": null
+    },
+    {
+      "id": "1119371671256673",
+      "score": 1,
+      "review_title": "THE BOT IS ANNOYING!!!",
+      "review_description": "5: the settings sliders are very difficult to use, but I found the solution, they can be dampened like in First Person Tennis? 4: why can't the bot play like a normal person, hitting back and forth, instead of jerking me around??? settings go from hitting sky balls to attacking. 3: come on guys. changing \"reduce mistakes\" to \"eliminate mistakes\" is easy programming. 2: to adjust table height... hold the lower trigger button. to adjust table direction... aim the controller and long press the B/Y button. 1: they should provide a simple graphic to tell where the ball is hitting the paddle.",
+      "date": 1777577289,
+      "review_helpful_count": 0,
+      "author_display_name": "BoyFly",
+      "author_alias": "BoyFly",
+      "developer_response": {
+        "body": "i feel like i saw this review before. Did you update it? If you are having issue, please reach out and we'll help you out. We can't help you if it's you raising issues and then not interacting with us to solve them\n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n\n-Roman",
+        "date": 1777593770
+      }
+    },
+    {
+      "id": "1127807467088519",
+      "score": 4,
+      "review_title": "types of rubbers",
+      "review_description": "Does not support all real-life rubber configurations such as long pips and short pips....",
+      "date": 1781269594,
+      "review_helpful_count": 0,
+      "author_display_name": "luizfeam",
+      "author_alias": "luizfeam",
+      "developer_response": null
+    },
+    {
+      "id": "1060897243781582",
+      "score": 5,
+      "review_title": "Ultimate game for me on meta quest",
+      "review_description": "I baught meta quest to play Alyx, but ended up using it playing only this game. Its addiction is such that I play it almost every day now. Do not remember a game so close to reality. Cheers....",
+      "date": 1778914566,
+      "review_helpful_count": 0,
+      "author_display_name": "Indrak2023",
+      "author_alias": "Indrak2023",
+      "developer_response": null
+    },
+    {
+      "id": "994138089766583",
+      "score": 1,
+      "review_title": "Biggest pile ever",
+      "review_description": "Im doubling down on this bs game I took your advice and found the best settings for my vr and everything then I practiced hours every day nothing changed people do the same serve and I counter it the way you are suppose to and the ball went 3 different directions I have vid proof. Also when I try multiple different serves against the AI on 80 it cant return them then when I go to the game everyone just holds their paddle straight and can return it no problem. Not to mention the height abusers and then people who only serve on the edges of the table or they table crowd and just again return it to the edges of the table which I dont have much space to move. Then to state again the broke physics I return the same shot the same way that im suppose to and it goes into the net or off the table or it lands and yet again people return it to the edges of the table. BIGGEST PILE OF DOG S**T EVER STAY AWAY DONT BUY. Dont respond with message me on discord when would I message you on discord for help on a worthless game",
+      "date": 1777189503,
+      "review_helpful_count": 0,
+      "author_display_name": "iamxjamesfranco",
+      "author_alias": "iamxjamesfranco",
+      "developer_response": {
+        "body": "update i guess because your review updated:\nIf you are unhappy with the game, we can help you. If you don't reach out, we can't help  you. If you watch tournament matches on our twitch, you'll see the game plays really well for everyone, so something is wrong with your experience. Maybe you don't believe me, or don't believe positive reviews, so look for yourself. Then ask yourself if you want to sort out your problem (reach out) or you want to just stay angry and vent onto a review forum without trying to fix things with the help of a developer who knows how to fix things. \nhttps://www.twitch.tv/eleventabletennis\n\n----\n\nhi iamxjamesfranco. I'm not sure what you mean about physics being 50-50. Player play tournaments in this game and if it was 50-50 they'd fail miserably. You may have an issue with your setup that i'll be happy to help with. \n\nAs far as playing people online. You have the ability to block, and report, and mute players. We moderate as much as we can at the moment and will moderate more, but if you want to guarantee to never hear a bad word from players online, you can mute all online opponents. Perhaps you didn't know that?\n\nI'll be happy to help your issue(s) - feel free to reach out whenever:\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n\n-Roman",
+        "date": 1777562781
+      }
+    },
+    {
+      "id": "1026776610514578",
+      "score": 5,
+      "review_title": "Archivements and Ai coach system",
+      "review_description": "​Hello, first of all, thank you for creating such an incredible simulation. As a former Creative Director, I see immense potential to further deepen player engagement and long-term retention through a more robust progression loop.\n​I would like to propose the following features to enhance the \"Eleven Table Tennis\" experience:\n​1. Comprehensive Achievement & Reward System\nImplementing a tiered achievement system would provide clear milestones for players. These should offer both prestige and in-game currency (gold) to boost the \"one more match\" motivation. Key milestones could include:\n​Skill-Based Trophies: Defeating Pro, Gold, and having 5 points / winning against Legendary AI levels, \n​Technical Milestones: Longest rally recorded, highest shot velocity, and maximum spin (RPM) thresholds.\n​Consistency Rewards: Daily/Weekly win streaks and \"flawless\" matches.\n\n​The Wall: Win a point by successfully blocking 20 consecutive shots.\n​Edge Master: Score at least 3 points in a single match by hitting the edge of the table.\n​Invisible Spin: Execute a serve with high enough RPM that the opponent misses the ball entirely.\n​Nutcracker: Win a point with a smash exceeding a specific speed threshold (e.g., [X] km/h).\n​Defensive & Strategic Achievements\n​Comeback King: Win a set after being down 10-5.\n​Long Distance Runner: Win a point using a lob defense while standing 3 meters or more from the table.\n​Perfect Game: Finish a set 11-0 without conceding a single point.\n​Consistency & Exploration Achievements\n​Drill Sergeant: Use the Ball Machine for 15 consecutive minutes of active practice.\n​Globetrotter: Secure at least one victory in every available environment (Studio, Chalet, Arena, etc.).\n​Daily Ritual: Complete at least one online match for 7 consecutive days.\n​Unique & \"Fun\" Challenges\n​Close Call: Win a point via a \"net ball\" where the ball clips the net and drops over.\n​Off-Hand Challenge: Win a match using your non-dominant hand (switching controllers).\n​2. Dynamic Adaptive AI (The \"Mirror\" Rival)\nThe game would benefit greatly from an AI that analyzes and adapts to the player's specific weaknesses in real-time. If a player consistently struggles with backhand transitions or heavy topspin serves, the AI should recognize these patterns and exploit them. This creates a \"personalized coach\" effect, forcing players to address their flaws and evolve their playstyle.\n​3. Advanced Performance Analytics\nTo complement the adaptive AI, a post-match \"Heat Map\" or \"Weakness Radar\" would be invaluable. Visualizing where points are lost (e.g., net errors vs. long balls) would allow players to use the Ball Machine more effectively for targeted practice.\n​4. Interactive \"Pro-Style\" Challenges\nIntroducing a \"Challenge Mode\" where players must replicate iconic professional rallies or return specific \"impossible\" serves would add a layer of gamified training that keeps the experience fresh.\n​I believe these additions would significantly increase the competitive depth and daily active usage of the game. Thank you for your time and for continuing to improve this fantastic simulator.\n​Best regards,\nUmut Yılmaz",
+      "date": 1773209080,
+      "review_helpful_count": 4,
+      "author_display_name": "DjMoodRabbit",
+      "author_alias": "DjMoodRabbit",
+      "developer_response": null
+    },
+    {
+      "id": "1004685119401727",
+      "score": 5,
+      "review_title": "This makes teleporting feel real",
+      "review_description": "Mar 2026: It's like you can teleport anywhere in the world and play a great game of pong. Every time I come back to this app, I forget how good it is. This is not a graphics or special effects experience. This is closer to a real-world experience. For me, it's the best app on here, and I would buy a Meta Quest just for this app.",
+      "date": 1772815689,
+      "review_helpful_count": 4,
+      "author_display_name": "SanGreal",
+      "author_alias": "SanGreal",
+      "developer_response": {
+        "body": "aw thanks <3\n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n\n-Roman",
+        "date": 1772840712
+      }
+    },
+    {
+      "id": "1516882403127749",
+      "score": 3,
+      "review_title": "avatars",
+      "review_description": "annoyingly forces a lot of updates when I would rather choose when to update myself and they still haven't fixed the avatar issue",
+      "date": 1778626479,
+      "review_helpful_count": 0,
+      "author_display_name": "deboma",
+      "author_alias": "deboma",
+      "developer_response": {
+        "body": "deboma, what do  you mean force updates? We haven't forced an update in a bit. (though we are about to in prep for the new avatar system) \nPerhaps you are angry at meta auto update? \n\nalso, as far as new avatar system, we are actually going to make it live through test channels today so if you want to join in hop onto the discord. \n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n\n-Roman",
+        "date": 1778702228
+      }
+    },
+    {
+      "id": "1374482461378893",
+      "score": 3,
+      "review_title": "Not good for new players",
+      "review_description": "i was just playing and the ball was super glitchy like it was going through my racket, the table literally everything. And the single is way to good for new people. It says my rank is max and i just started and i am trash. So, i would 100% recommend this to good people, but not so much new people",
+      "date": 1775263848,
+      "review_helpful_count": 0,
+      "author_display_name": "Maybe_Lavender",
+      "author_alias": "Maybe_Lavender",
+      "developer_response": {
+        "body": "hi Jellyjunior. I'm not sure what you mean but it does sound like you are having significant configuration problems. \"table literally everywhere\" sounds like you are having severe tracking issues. The game doesn't move the table for you in that way - it only renders the world based on the location that the headset is reporting to the game. Please stop by the discord or email and I'll be happy to troubleshoot. \n\nAs far AI, you can make it super duper easy. Any easier doesn't make much sense unless you want the game to purposely and obviously lose to make people feel better - I believe at that point, the correct tool is an in game pong school, which we are working on. \n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n-Roman",
+        "date": 1775279109
+      }
+    },
+    {
+      "id": "1425339952730268",
+      "score": 5,
+      "review_title": "Fun have a suggestion though",
+      "review_description": "Do you think you’ll ever add a 2v2 mode into the game great rendition of real table tennis into vr though",
+      "date": 1778113638,
+      "review_helpful_count": 0,
+      "author_display_name": "Pylon12",
+      "author_alias": "Pylon12",
+      "developer_response": null
+    },
+    {
+      "id": "925072783749413",
+      "score": 1,
+      "review_title": "Game is casual",
+      "review_description": "This game has few issues compared to real life, and i accept this fact.  All I really wish was that there is a HUD which shows me my opponents paddle setting.  When someone is playing anti spin or short pips just blocking, it shouldn’t come back to me with as much spin or speed.  Anti-spin absorbs, even with smash flat hit, you can’t hit as fast as inverse rubber.\n\nGame really favors news players who don’t really practice but win via paddle setting.  I have over 100 spin/sec, but it does nothing.  I checked in game and with  “spinsight(tool irl)”.  \n\nMaking the game more social would be nice too(like messaging or something other than just a challenge to give notification to them.\n\nThey do thave good tools in the game though(game modes)\n\nI think the devs listened to too many complaints of ball being too spiny from new players but you are supposed to practice with soft hands.  Maybe thats what happened idk but i play all the time irl and against those with antispin or shortpips ball physics is wrong",
+      "date": 1774758998,
+      "review_helpful_count": 1,
+      "author_display_name": "mr.turtlehead",
+      "author_alias": "mr.turtlehead",
+      "developer_response": null
+    },
+    {
+      "id": "1060500007151305",
+      "score": 1,
+      "review_title": "Player",
+      "review_description": "I would ask the developers if they have any idea about the flow of speed, power and spin? Because it is not felt at all.",
+      "date": 1777555456,
+      "review_helpful_count": 1,
+      "author_display_name": "CrimsonAlpaca6498",
+      "author_alias": "CrimsonAlpaca6498",
+      "developer_response": {
+        "body": "please reach out and chat with us. A review system isn't a place to discuss things with developers\n\n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n\n-Roman",
+        "date": 1777562535
+      }
+    },
+    {
+      "id": "1102673609593576",
+      "score": 4,
+      "review_title": "Almost exellent",
+      "review_description": "It’s really funny and easy to use it for a physical workout.\nAvatars could he improved as also the overall graphic quality.\nGood if you spend the discounted price.",
+      "date": 1776595022,
+      "review_helpful_count": 1,
+      "author_display_name": "RolandoLaCanna",
+      "author_alias": "RolandoLaCanna",
+      "developer_response": null
+    },
+    {
+      "id": "968528792386240",
+      "score": 2,
+      "review_title": "Black screen on current version",
+      "review_description": "I have a black screen after launch last current version of Eleven Table Tennis on Quest 3. (( Can't fix it by reinstalling this app. (",
+      "date": 1777174949,
+      "review_helpful_count": 1,
+      "author_display_name": "devastator555",
+      "author_alias": "devastator555",
+      "developer_response": {
+        "body": "please reach out to us and we can help. support@forfunlabs.com",
+        "date": 1777177934
+      }
+    },
+    {
+      "id": "3175130249313318",
+      "score": 2,
+      "review_title": "Many abusive players, bad cust. service",
+      "review_description": "At this point, don't spend your money on it if you're looking for an ENJOYABLE experience. The game is quite close to real life table tennis and likeable in that way. HOWEVER.... The one thing I keep encountering on a daily basis, is individuals who are abusive in their behavior. From making \"cutthroat\" gestures, to constantly saying \"come on b*tch, you're mine\", to walking up in your face and trying to scare you with aggressive moves, etc. Very bad player experience. I had stopped playing for a year or so, and hoped it oauld have improved by now. It didn't. Too many people play this game as if it's the Olympics and WW3 at the same time. Nothing wrong with being competitive, I certainly am, but these players are ridiculous. Ofc you can report, block, leave, etc., but if you don't want to lose points every time you want to avoid leaving every time someone behaves badly... 🤷🏼‍♀️",
+      "date": 1764332307,
+      "review_helpful_count": 201,
+      "author_display_name": "Sassy.VR",
+      "author_alias": "Sassy.VR",
+      "developer_response": {
+        "body": "hi Sassy.VR\n\nWe have just (a few days ago) released replays for ranked games. This means that you can report things, bring to our attention and we can watch and react immediately as opposed to having to wait a while for others to report as well. \n\nAdditionally, with this tool (that we are letting settle for a bit) we will be releasing a moderation update that will automate a lot of the restrictions and protections but allow people to appeal when reports are done falsely. We hope that this would significantly curtail abuse. \n\nAs far as microphone abuse - it depends on the nature and intensity. There are a certain degree of trash talk which I don't think we can ever truly stop because of the nature of trash talk and multiplayer gaming in general. (it would take too many resources). You however, if you are bothered by even the chance of trashtalk, or immediately upon hearing any, mute the opponent. \n\nAs are motions, something like cut throat motions are not tolerated, and now we have the replay system so will be handling that. \n\n\nsupport@forfunlabs.com\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n\n-Roman",
+        "date": 1764354666
+      }
+    },
+    {
+      "id": "905430379131076",
+      "score": 5,
+      "review_title": "Great game",
+      "review_description": "Without doubt, this is the game I spend most of my time on. I am also learning real table tennis techniques through the use of an in game coach on the other side of the world. Real skills that are transferable to the IRL game.\n\nThere are still many things that can be improved in the game and will hopefully come soon, but even in its current form it's an amazing game\n\nThe new replay system is super helpful and some small but beneficial updates have been trickling in.\n\nIn the future, I would like to see some improvements made to the ball machine. Like, just remove the ball machine graphics and replace it with a n avatar. I really see no need to emulate an actual ball machine. It's actually super annoying hearing it make a mechanical pop sound all the time. It's also difficult to manage your ball machine presets and has a very primitive interface for this.",
+      "date": 1773858123,
+      "review_helpful_count": 0,
+      "author_display_name": "Eqvinox",
+      "author_alias": "Eqvinox",
+      "developer_response": null
+    },
+    {
+      "id": "1076472532209688",
+      "score": 5,
+      "review_title": "Great app - best sports game",
+      "review_description": "This app is incredibly realistic. I really love it! Unlike other sports games that teleport you or in which it does not really depend on your skills if you win or lose - this game is just realistic. Maybe just spinning balls is sometimes a bit too much - at least compared to the table tennis if have at home.\nConcerning other players - indeed it is not always fun to play against those who are aggressive, do gestures etc. But I don't think that the developers of this great app are to be blamed for it. Maybe it should be easier to block players - and in ranked and in unranked games. If everybody does it they could just play against other aggressive players -  why not...",
+      "date": 1773153556,
+      "review_helpful_count": 0,
+      "author_display_name": "Conigon",
+      "author_alias": "Conigon",
+      "developer_response": null
+    },
+    {
+      "id": "937217139481514",
+      "score": 5,
+      "review_title": "Great game Great customer service",
+      "review_description": "I play irl and this game translates very well to the real Thing, it's solid practice and a good workout. It does not take long to find a match and the community is active. I believe the official ping pong league adopted This platform not long ago and the should become more popular with that exposure. \nIf you need help go on the official discord Channel and the developer themself will Help you quickly. Shoutout to carrot.",
+      "date": 1770240242,
+      "review_helpful_count": 5,
+      "author_display_name": "Deformityy",
+      "author_alias": "Deformityy",
+      "developer_response": {
+        "body": "<3",
+        "date": 1770383854
+      }
+    },
+    {
+      "id": "844880582053286",
+      "score": 5,
+      "review_title": "The Game That Keeps Me Coming Back",
+      "review_description": "I bought my Quest just to play Eleven Table Tennis, and I still play >3 times a week over a year later. Eleven TT even got me into playing real-life table tennis. The simulation is incredibly realistic, especially after the 2025 physics update, despite some differences in timing and feel. It's been easy to find opponents from all over the world in multiplayer mode. I’ve learned about proper table tennis technique using downloadable ball machine drills and YouTube tutorials from third parties, and the Discord community is very helpful.",
+      "date": 1767068537,
+      "review_helpful_count": 27,
+      "author_display_name": "rcan",
+      "author_alias": "rcan",
+      "developer_response": null
+    },
+    {
+      "id": "1075473435656591",
+      "score": 5,
+      "review_title": "🤩",
+      "review_description": "Best game",
+      "date": 1777635034,
+      "review_helpful_count": 0,
+      "author_display_name": "kamelo_81",
+      "author_alias": "kamelo_81",
+      "developer_response": null
+    },
+    {
+      "id": "864747259801153",
+      "score": 4,
+      "review_title": "Great experience.",
+      "review_description": "Really enjoy the gameplay with the practice mode. I would like to make a suggestion on the placement of the free hit board, the one that shows the ball speed / spin rate. It is difficult to see it due to the side placement while playing. Any chance it can be move behind the opponent side corner so after every hit ball I can at least glance at the stat. It seems hard to rotate the table to an angle to view the sign also. Thanks.",
+      "date": 1770056043,
+      "review_helpful_count": 4,
+      "author_display_name": "Whdude890",
+      "author_alias": "Whdude890",
+      "developer_response": {
+        "body": "at the moment you can either change to another environment where it's on the right, or go to the portal environment where in the advanced settings (at the time of this writing), you can change the position of the tv between left/right/middle-above\n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n\n-Roman",
+        "date": 1770081531
+      }
+    },
+    {
+      "id": "872898332387479",
+      "score": 5,
+      "review_title": "It’s actually pretty good",
+      "review_description": "When I was scrolling on TikTok I saw your game so I was about to buy it but it said it was free, so I redeemed the game and ITS SO GOOD, the physics and the details are amazing but I think it is a bit too expensive to be honest but I like it. If you want to buy the game buy it it’s your choice and goodbye 👋 ￼",
+      "date": 1769671782,
+      "review_helpful_count": 4,
+      "author_display_name": "HarryJF",
+      "author_alias": "HarryJF",
+      "developer_response": null
+    },
+    {
+      "id": "911247798746854",
+      "score": 5,
+      "review_title": "Amazing game !",
+      "review_description": "This game is absolutely amazing and addicting. The only thing I wish developers would change of the size of the table, as it should be 1 inch more on every side, like a real ping-pong table in real life. Many people I have played with agree with this statement. Other than that, this game is one that will give you a workout in the funnest ways",
+      "date": 1768709777,
+      "review_helpful_count": 6,
+      "author_display_name": "Buckeye4Truth",
+      "author_alias": "Buckeye4Truth",
+      "developer_response": null
+    },
+    {
+      "id": "1309659257722715",
+      "score": 4,
+      "review_title": "Enjoyable to a certain level",
+      "review_description": "Really fun, until you reach a certain level and then the skill level gap becomes hard to overcome, more training levels would be good",
+      "date": 1774724251,
+      "review_helpful_count": 0,
+      "author_display_name": "Ames_1",
+      "author_alias": "Ames_1",
+      "developer_response": null
+    },
+    {
+      "id": "1065730043279527",
+      "score": 5,
+      "review_title": "Feels just like real life table tennis",
+      "review_description": "The game is very good and it’s basically having an actual table tennis table in your room. Everything is perfect but sadly there’s no doubles so we can’t team up with our friends. Overall this is the most realistic and best table tennis game ever.",
+      "date": 1771894257,
+      "review_helpful_count": 1,
+      "author_display_name": "Acleso",
+      "author_alias": "Acleso",
+      "developer_response": null
+    },
+    {
+      "id": "1049661314894949",
+      "score": 5,
+      "review_title": "Love it.",
+      "review_description": "Very realistic and enjoyable.  I play a match\n or two every day. Great game for everyone young and old.",
+      "date": 1774619627,
+      "review_helpful_count": 0,
+      "author_display_name": "BazookaStorm",
+      "author_alias": "BazookaStorm",
+      "developer_response": null
+    },
+    {
+      "id": "1026523503875520",
+      "score": 5,
+      "review_title": "Great game & dev’s",
+      "review_description": "The game is great, realistic and smooth. Couldn't ask for a better VR game. Developers are great (they care) they listen to the players and they do help you out when you have a problem.",
+      "date": 1773016995,
+      "review_helpful_count": 1,
+      "author_display_name": "system7Y7",
+      "author_alias": "system7Y7",
+      "developer_response": null
+    },
+    {
+      "id": "957955577409762",
+      "score": 2,
+      "review_title": "Can get fustrating.",
+      "review_description": "Like most if not every sport sim, it doesnt play consistent.\none day you can very little effort in landing shots, the next day you seem almost new to the game. People say \"its close to the real thing either haventever played table tennis or they are fake reviewers",
+      "date": 1771854966,
+      "review_helpful_count": 0,
+      "author_display_name": "FieryOtter5653",
+      "author_alias": "FieryOtter5653",
+      "developer_response": {
+        "body": "hi FieryOtter5653. The top ranked player literally plays occasionally, then signs up to tournaments and beats everyone. Otherwise he only played in real life. It sounds like you are having issue, please reach out and we'll troubleshoot with you. Please don't assume others are just blind to an issue or they are fake reviewers. If we wanted to get fake reviewers we'd be 10x the current review count...\n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n\n-Roman",
+        "date": 1772239066
+      }
+    },
+    {
+      "id": "25624703813882823",
+      "score": 5,
+      "review_title": "Top game, top experience",
+      "review_description": "I've really enjoyed playing this Table Tennis game - there are some really good players on there who are much better than me.  I'd LOVE a tutorial mode (beyond the training practice) that actually helps you improve your skills such as top spin etc (which for the life of me I've never grasped).  Well done to the Devs on creating such an immersive experience.",
+      "date": 1767223720,
+      "review_helpful_count": 7,
+      "author_display_name": "worldwidewonderer",
+      "author_alias": "worldwidewonderer",
+      "developer_response": null
+    },
+    {
+      "id": "934389916434984",
+      "score": 5,
+      "review_title": "Meta changer",
+      "review_description": "I was planning to sell my Meta because of VR sickness, and then I tried this game. This game is worth the entire Meta.",
+      "date": 1771947693,
+      "review_helpful_count": 3,
+      "author_display_name": "mlinarnenad",
+      "author_alias": "mlinarnenad",
+      "developer_response": null
+    },
+    {
+      "id": "870137346183351",
+      "score": 5,
+      "review_title": "Great game, extremely realistic",
+      "review_description": "My favourite game on the Meta Quest. Extremely realistic game physics. Feels like you are playing real table tennis, even more so if you have a table tennis adapter for your controller (very much recommended). Provides good excercise.\n\nTwo minor criticisms: I have the impression that the physics is not 100% accurate if the ball rolls on the net cord - sometimes it does not drop to the side I would expect it to. Secondly, if you hit the ball in such a way that it will miss the opponent's side, the AI opponent stops moving immediately (as the algorithm probably foresees the miss). This is not very realistic and a bit frustrating - and even leads to the AI losing points (if your ball hits its racket, which is never pulled away).",
+      "date": 1763149701,
+      "review_helpful_count": 42,
+      "author_display_name": "CheerfulDolphin7811",
+      "author_alias": "CheerfulDolphin7811",
+      "developer_response": null
+    },
+    {
+      "id": "855652997639976",
+      "score": 5,
+      "review_title": "Absolutely amazing!",
+      "review_description": "I play table tennis at a club. Not at a very high level, but still in a club, so I know quite a bit about table tennis. Honestly, I only bought the Meta Quest so I could play Eleven Table Tennis, because as a table tennis player, I was really interested in it. And what can I say – it absolutely meets, or even exceeds, all my expectations. The physics in this game are incredible. I heard they were recently updated, so I don’t know what they were like before, but now they’re just amazing. I can and have to use the exact same types of strokes as in reallife table tennis, and as someone who’s just a mid-level club player, I honestly don’t notice much difference. Being able to play anytime, without owning a physical table, against other players, the AI, or with the ball machine is really impressive. So, huge compliments to the developers of this game. Please keep up your great work in the future! By the way, would it be possible to enable the AI to not do the same kind of topspin-serve  all the time but to choose randomly from a variety of different serves?",
+      "date": 1764184081,
+      "review_helpful_count": 19,
+      "author_display_name": "GoldArmadillo5615",
+      "author_alias": "GoldArmadillo5615",
+      "developer_response": {
+        "body": "hi GoldArmadillo5615\nStop by the discord anytime for a chat. \n\n\"By the way, would it be possible to enable the AI to not do the same kind of topspin-serve all the time but to choose randomly from a variety of different serves?\"\nnot a this time - but there is mirror mode if you want to practice against any of your own strokes. \n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n\n-Roman",
+        "date": 1764214746
+      }
+    },
+    {
+      "id": "903315309424267",
+      "score": 4,
+      "review_title": "Its worth a buy if you like ping pong.",
+      "review_description": "Fun, not exactly, but close enough. Spins are\n tough & you've gotta find whats comfortable.",
+      "date": 1773172869,
+      "review_helpful_count": 0,
+      "author_display_name": "CrazyGlue13F",
+      "author_alias": "CrazyGlue13F",
+      "developer_response": null
+    },
+    {
+      "id": "859039690636428",
+      "score": 4,
+      "review_title": "Goog game and helps real life player",
+      "review_description": "The physical engine is very close to real life and game play is smooth, I like the online play feature that you can play with real people. Regarding the ball machine, it will be much better if the ball can be severed with paddle so its movements can be observed and responded as in real life.",
+      "date": 1767492744,
+      "review_helpful_count": 2,
+      "author_display_name": "Kenthemaster",
+      "author_alias": "Kenthemaster",
+      "developer_response": null
+    },
+    {
+      "id": "1061090250410603",
+      "score": 4,
+      "review_title": "This game is addicting",
+      "review_description": "Love this game , so competitive but also doesn’t have to be ! A recommendation I have is to be able to spectate players from all over the world in game live",
+      "date": 1771397794,
+      "review_helpful_count": 1,
+      "author_display_name": "CaptainButterfinger",
+      "author_alias": "CaptainButterfinger",
+      "developer_response": null
+    },
+    {
+      "id": "894709259750194",
+      "score": 5,
+      "review_title": "I have fallen in love with this game and",
+      "review_description": "This game has inspired me to fall in love with table tennis again. It has made me a better player and has helped increase my mental toughness as a competitor. ￼ it’s the game. I look forward to playing every day.",
+      "date": 1768736114,
+      "review_helpful_count": 2,
+      "author_display_name": "Blitzer22",
+      "author_alias": "Blitzer22",
+      "developer_response": {
+        "body": "<3",
+        "date": 1768880452
+      }
+    },
+    {
+      "id": "1838598273485671",
+      "score": 1,
+      "review_title": "Where my account go?",
+      "review_description": "I’ve been playing my game for days straight. Tonight I hop on the game and my entire profile is history and account is gone ! What is going on??? I’m also connected to internet and everything. Can’t play online either smh",
+      "date": 1769659396,
+      "review_helpful_count": 1,
+      "author_display_name": "FierySquirrel554",
+      "author_alias": "FierySquirrel554",
+      "developer_response": {
+        "body": "hi FierySquirrel554, please reach out to use at support@forfunlabs.com and we'll be happy to help you out. There are many potential issues. \n\n-Roman",
+        "date": 1769747215
+      }
+    },
+    {
+      "id": "989811574220844",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "After decades I can now remember why I liked TT so much as a child. :-)",
+      "date": 1772315712,
+      "review_helpful_count": 0,
+      "author_display_name": "Schosch2025",
+      "author_alias": "Schosch2025",
+      "developer_response": null
+    },
+    {
+      "id": "914809321071854",
+      "score": 5,
+      "review_title": "Great game!!",
+      "review_description": "This game is super fun and addicting!! The only thing that might need improvement is lagging players effecting gameplay but other than that it’s great!!",
+      "date": 1769600668,
+      "review_helpful_count": 2,
+      "author_display_name": "IC0c0I",
+      "author_alias": "IC0c0I",
+      "developer_response": null
+    },
+    {
+      "id": "1007949629067878",
+      "score": 1,
+      "review_title": "Really shih",
+      "review_description": "The ai is horrible the scoring barely works it bounces 5 times on apponents side doesnt give me point",
+      "date": 1772300724,
+      "review_helpful_count": 0,
+      "author_display_name": "Braycut2026",
+      "author_alias": "Braycut2026",
+      "developer_response": {
+        "body": "hi Braycut2026, please let us help you. It sounds like you are very frustrated, but I promise a simple conversation will make everything very clear and remove your frustration. \n\nIn case you don't want to chat, the answers to what you are saying is usually the following:\n\n1. scoring doesn't work when you bounce the ball on your side before hitting it with your paddle. That isn't the way you should be serving. The game offers to teach you to serve, make sure you follow that. \n\n2. you can see multiple bounces without the point ending due to latency. If you turn on pingball, you'll see what your opponent sees. However, you shouldn't be seeing 5 bounces..there are many reasons why..perhaps you are very frustrating and exaggerating in your frustration. Two bounces can happen quite easily. 3 or higher requires you to purposely hit a ball that pretty much would get stuck on the table. \n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n\n-Roman",
+        "date": 1772344567
+      }
+    },
+    {
+      "id": "1428608008657860",
+      "score": 5,
+      "review_title": "Great play experience",
+      "review_description": "Have been playing for almost a year now and still going strong. This VR game has become a real sport that I actually spend time practicing  shots my serve and foot work.\nGreat game Great exercise \nSo much fun playing ...\nGet it.... a must have",
+      "date": 1769007145,
+      "review_helpful_count": 1,
+      "author_display_name": "mikes99",
+      "author_alias": "mikes99",
+      "developer_response": null
+    },
+    {
+      "id": "983635248161981",
+      "score": 5,
+      "review_title": "So much FUN",
+      "review_description": "I am not a gamer and I am not easily entertained with games. Welp, this game has me hooked. It is so realistic in terms of physics! Graphics are great. Playing in mixed VR is so fun. I love seeing the ping pong ball fly across my living room. Bravo to the developers!",
+      "date": 1768520235,
+      "review_helpful_count": 1,
+      "author_display_name": "DioMor3",
+      "author_alias": "DioMor3",
+      "developer_response": null
+    },
+    {
+      "id": "951785841348385",
+      "score": 4,
+      "review_title": "Great Game with one bad flaw",
+      "review_description": "It is a great ping pong game, mechanics are fantastic and you really feel like you are playing on a real table.\n\nMy one complaint and hope the developers can fix this, is when on your last match, last play, once the game is over. it takes FOREVER to get back to the main menu, because the final ball keeps rolling around on the floor forever  and the game won't finish till the ball stops rolling by itself, which takes forever!",
+      "date": 1767976030,
+      "review_helpful_count": 1,
+      "author_display_name": "Evan1952",
+      "author_alias": "Evan1952",
+      "developer_response": {
+        "body": "hi Evan - that isn't a flaw in the game, that is something wrong. I think you may have reached out to me on discord and I'm waiting to debug with you. This isn't supposed to be happening and i've never heard it happen before. There is no such thing as 'wait for ball to stop moving' in the code because the ball is always moving even a tiny bit. \n\ni'll msg you again on the discord so that we can troubleshoot\n\nsupport@forfunlabs.com\nRoman",
+        "date": 1768072008
+      }
+    },
+    {
+      "id": "906572325656180",
+      "score": 5,
+      "review_title": "Absolutely amazing",
+      "review_description": "I have played 2200+ games at the time of this review and all I can say is it's amazing. I used to play in college a few years ago and this is so realistic for a simulator. Recently got the solid slime controller (highly recommended) and it took the experience to the next level. Give this game a chance, it's an amazing exercise, even more so as you progress in skill.",
+      "date": 1766626836,
+      "review_helpful_count": 2,
+      "author_display_name": "What.iv.Don3",
+      "author_alias": "What.iv.Don3",
+      "developer_response": null
+    },
+    {
+      "id": "988387074356193",
+      "score": 5,
+      "review_title": "New player",
+      "review_description": "I am new to the game, have played for a couple of weeks only, but I am really enjoying it.",
+      "date": 1769703508,
+      "review_helpful_count": 2,
+      "author_display_name": "jchanr",
+      "author_alias": "jchanr",
+      "developer_response": null
+    },
+    {
+      "id": "857865847111474",
+      "score": 2,
+      "review_title": "Fix it",
+      "review_description": "I play real ping pong and this is trash. Graphics make your eyes hurt and you get dizzy but the worst part is how sensitive it is when you hit the ball. If I keep my paddle fully still the ball goes nowhere. But I give it the lightlest tippity tap and it goes flying off the table. Sometimes its fine and sometimes the ball turns into a rocket after a slight tap. Sometimes a slight tap isnt enough and it hits the net. You guys need to fix it because it has made the game impossible for me to enjoy.",
+      "date": 1767437796,
+      "review_helpful_count": 1,
+      "author_display_name": "CobbaPladd",
+      "author_alias": "CobbaPladd",
+      "developer_response": {
+        "body": "hi CobbaPladd. What you describe isn't the norm for people so something might be amiss. I'll be happy to troubleshoot with you. If you go to any videos online you see of tournament play you see how completely in control of every shot players are. \n\nPlease reach out when you can and let's troubleshoot together. \n\nsupport@forfunlabs.com\nRoman",
+        "date": 1767561250
+      }
+    },
+    {
+      "id": "1039008782623535",
+      "score": 5,
+      "review_title": "Good game",
+      "review_description": "Very fun game",
+      "date": 1772129579,
+      "review_helpful_count": 0,
+      "author_display_name": "mr.badr.mr",
+      "author_alias": "mr.badr.mr",
+      "developer_response": null
+    },
+    {
+      "id": "962800400252192",
+      "score": 5,
+      "review_title": "Got me back into virtual reality",
+      "review_description": "The physics, graphics, and overall gameplay is perfect. It listens to the community and it has really fun and well built AI.",
+      "date": 1770749768,
+      "review_helpful_count": 1,
+      "author_display_name": "italiano.dev.123",
+      "author_alias": "italiano.dev.123",
+      "developer_response": null
+    },
+    {
+      "id": "1460874298791279",
+      "score": 5,
+      "review_title": "Sad",
+      "review_description": "I bought it 2 days ago and now it goes on sale. Sucks because I would’ve waited if I knew it was going to be on sale so I could save money from quest cash I got for my bday",
+      "date": 1768892134,
+      "review_helpful_count": 0,
+      "author_display_name": "Latte_2001",
+      "author_alias": "Latte_2001",
+      "developer_response": null
+    },
+    {
+      "id": "981329361723787",
+      "score": 5,
+      "review_title": "Essential Quest Title",
+      "review_description": "This is one of those games like Beat Saber that every VR owner should have. It’s simple yet fun and highly responsive. I’ve spent hours even just playing against the AI since I rarely play multiplayer.",
+      "date": 1768584400,
+      "review_helpful_count": 0,
+      "author_display_name": "timtastic14",
+      "author_alias": "timtastic14",
+      "developer_response": null
+    },
+    {
+      "id": "911713762034491",
+      "score": 1,
+      "review_title": "Cheat",
+      "review_description": "People 70% cheaters. Back my money.",
+      "date": 1769862954,
+      "review_helpful_count": 2,
+      "author_display_name": "VrSzabolcska",
+      "author_alias": "VrSzabolcska",
+      "developer_response": {
+        "body": "Hi VrSzabolcska, what do you mean? I'd love to know you are referring to. Please respond here or if you want to discuss, discord or email\n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n\n-Roman",
+        "date": 1770081438
+      }
+    },
+    {
+      "id": "900628733143069",
+      "score": 1,
+      "review_title": "My original Avatar not visible anymore",
+      "review_description": "I always used to see my original Meta Avatar in the game, but now noooo I am looking like the same boring pre created avatar.. WHY?????",
+      "date": 1769276131,
+      "review_helpful_count": 0,
+      "author_display_name": "D13",
+      "author_alias": "D13",
+      "developer_response": {
+        "body": "Hello. Meta has deprecated the original avatar system. That is outside of our control. We are close to releasing the new avatar system - but that will not be your previous avatar (again, outside of our control, sorry)\n\nif you have any questions about this, please let me know:\n\nsupport@forfunlabs.com\n-Roman",
+        "date": 1769405555
+      }
+    },
+    {
+      "id": "964764636723586",
+      "score": 5,
+      "review_title": "Super addictive",
+      "review_description": "Best game for vr!",
+      "date": 1769797090,
+      "review_helpful_count": 2,
+      "author_display_name": "JumpingSeaTurtle8348",
+      "author_alias": "JumpingSeaTurtle8348",
+      "developer_response": null
+    },
+    {
+      "id": "959662497224776",
+      "score": 1,
+      "review_title": "Inappropriate behavior in multiplayer",
+      "review_description": "Fix your allow microphone issue, the default behavior should be disabled microphone for all users and only allow the microphone if both players are in accordance, if not do not allow the match to even start.",
+      "date": 1767577604,
+      "review_helpful_count": 1,
+      "author_display_name": "richiecarril",
+      "author_alias": "richiecarril",
+      "developer_response": {
+        "body": "hi richiecarril. You are free to disable your microphone and to mute opponent microphone. We don't want to apply such a restrictive practice in a multiplayer game by default but we allow people to follow such a pattern at their own discretion. \n\nPerhaps you did not see the opponent mic option in the sound settings? Set that to 0 and you will never hear anyone else. Set your mic to mute and no one will ever hear you. \n\nLet me know if this helps. \n\nsupport@forfunlabs.com\nRoman",
+        "date": 1767621809
+      }
+    },
+    {
+      "id": "911954294518412",
+      "score": 4,
+      "review_title": "Very toxic player base",
+      "review_description": "This game is great and its very realistic one thing is majority of the people are so toxic from death threats to swearing at you when you beat them. Maybe you can report people but there’s just so many of them.",
+      "date": 1767027752,
+      "review_helpful_count": 1,
+      "author_display_name": "Leonthelion910",
+      "author_alias": "Leonthelion910",
+      "developer_response": null
+    },
+    {
+      "id": "844979702041446",
+      "score": 5,
+      "review_title": "Eleven table tennis",
+      "review_description": "I found this amasing feature: enable mirror. It is geat!\ni did not like to play against helmits or cats insted of people.\nBut his: mirror enabled feature is even better than playing against avatars.\nAwesome!\nThank you developers!",
+      "date": 1766854178,
+      "review_helpful_count": 1,
+      "author_display_name": "impalkul",
+      "author_alias": "impalkul",
+      "developer_response": null
+    },
+    {
+      "id": "955079204355804",
+      "score": 4,
+      "review_title": "Great game",
+      "review_description": "Love the game just wish they would fix the rotation on the ball . When opponent hits a beavy chop or underpin the ball doesn't move and then its more of a guessing process",
+      "date": 1767658014,
+      "review_helpful_count": 0,
+      "author_display_name": "Donjack1973",
+      "author_alias": "Donjack1973",
+      "developer_response": {
+        "body": "hi Donjack1973, what do you mean the ball doesn't move?\n\nWould love to discuss. You can reach me at the support inbox below, or the discord\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n\n-Roman",
+        "date": 1767735280
+      }
+    },
+    {
+      "id": "985586031297092",
+      "score": 4,
+      "review_title": "Good",
+      "review_description": "Pretty good.  No issues with centering and dont need too much space.  I can stay in the game without having to check where im standing like i do in some other games.   Definitely a good game to start out with.",
+      "date": 1766517912,
+      "review_helpful_count": 0,
+      "author_display_name": "leel33",
+      "author_alias": "leel33",
+      "developer_response": null
+    },
+    {
+      "id": "917137390840978",
+      "score": 1,
+      "review_title": "0 stars if i could",
+      "review_description": "bug,glitchy,stupid",
+      "date": 1770091401,
+      "review_helpful_count": 0,
+      "author_display_name": "cosmic710",
+      "author_alias": "cosmic710",
+      "developer_response": {
+        "body": "hi cosmic710. Please reach out to us and let us know what you are having issues with. Thousands of players are playing it fine, so perhaps there is something that isn't clear to you or maybe a bug that happens for some reason for you but not for others. We are here to help:\n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n\n-Roman",
+        "date": 1770164209
+      }
+    },
+    {
+      "id": "912973691063944",
+      "score": 4,
+      "review_title": "Super fun!",
+      "review_description": "The attention to detail in this\n game is amazing. Very realistic! Tracking is amazing. Just a well thought out and implemented game. Very much like the real thing!",
+      "date": 1767210737,
+      "review_helpful_count": 0,
+      "author_display_name": "Poopfuzz",
+      "author_alias": "Poopfuzz",
+      "developer_response": null
+    },
+    {
+      "id": "886315151226384",
+      "score": 5,
+      "review_title": "The best table tennis simulator",
+      "review_description": "I love table tennis, but where I live, there aren't places to play. So, I got a meta quest 3s specifically to play this game, and now I can't stop. The physics are very realistic, and the community has been awesome until now. Also, the dev team keeps adding new features.",
+      "date": 1762885769,
+      "review_helpful_count": 3,
+      "author_display_name": "ayayaychiquitita",
+      "author_alias": "ayayaychiquitita",
+      "developer_response": null
+    },
+    {
+      "id": "986806451181742",
+      "score": 5,
+      "review_title": "So cool",
+      "review_description": "Fav game",
+      "date": 1769380778,
+      "review_helpful_count": 0,
+      "author_display_name": "joehogan420",
+      "author_alias": "joehogan420",
+      "developer_response": null
+    },
+    {
+      "id": "879630004560021",
+      "score": 5,
+      "review_title": "You also get a fancy paddle for a 5⭐️",
+      "review_description": "Even if you didn’t it’s earned all 5 stars from me, it’s crazy how realistic it is",
+      "date": 1767846431,
+      "review_helpful_count": 0,
+      "author_display_name": "ALLseeingJohn",
+      "author_alias": "ALLseeingJohn",
+      "developer_response": {
+        "body": "just a heads up, we appreciate reviews and to show our appreciation we grant a bonus paddle, but we do so regardless of the review rating itself. \n\nglad you love the game!\n\n-Roman",
+        "date": 1768072069
+      }
+    },
+    {
+      "id": "776730625530306",
+      "score": 5,
+      "review_title": "My Fav VR Game",
+      "review_description": "Honestly, more people need to play this game. It is amazing! Eleven Table Tennis is hands down the most lifelike VR game I've come across. It's like playing real table tennis! You can even challenge players from all corners of the globe. The ball's movement and the way it responds to spin are so spot-on that it feels like the real deal!\n\nWhat's awesome is you can fine-tune almost every aspect to suit your style. They even offer different controller attachments for the ultimate experience.\n\nPersonally, this game has been a game-changer for my real-life table tennis skills. It sounds strange to say but the realistic physics in Eleven Table Tennis have improved my game in the real world! It's an incredible experience that's perfect for any space. If you love table tennis, this game is a must try!",
+      "date": 1759313701,
+      "review_helpful_count": 14,
+      "author_display_name": "SharkCologne",
+      "author_alias": "SharkCologne",
+      "developer_response": null
+    },
+    {
+      "id": "1157557702945945",
+      "score": 1,
+      "review_title": "Good Game, Terrible Moderation",
+      "review_description": "The game itself is good, but my experience was completely ruined by another player. I recorded a video proving that this person used their microphone to deliver constant insults, including xenophobic remarks. Despite sending this evidence and communicating politely with the developer, the response was dismissive: “Nothing serious happened.”\n\nAfter I insisted, the only action taken was to mute their microphone for 2 days. This is utterly unacceptable. Abusive behavior like this is clearly tolerated, and reputation alone seems to protect toxic players.\n\nIt seems that for the developer, the severity of the report doesn’t matter, only whether the player has many reports or not. This is a fundamentally flawed system.\n\nI paid for this game, and my experience was disregarded. Until the moderation system is significantly improved and toxic behavior is properly punished, I cannot recommend this game.",
+      "date": 1757016787,
+      "review_helpful_count": 42,
+      "author_display_name": "Kenjou",
+      "author_alias": "Kenjou",
+      "developer_response": {
+        "body": "quick summary:\n\"Yet, no action was taken\": blatantly false. a 2 day mic ban was applied for mic abuse on 08/29/2025 15:49:17\n----\nFor anyone reading this. Here is the situation. The reviewer reached out to us with video of someone abusing their mic. We missed responding to it and they reached out to us again to make sure moderation was done. It was brought to my attention by a moderation colleague and I took a look. Meanwhile the reviewer already threatened the product with a negative review if we didn't act on it in a way they liked. \n\nI watched the video and viewed the account of the user. They have played a bunch and have virtually no other user reports. So my expectation is that they were having some bad day. So i applied a mic ban with an reasonable duration with a warning. \n\nI have let the reviewer know that this happened. \n\nThey then reached out today after (or maybe right before leaving a review) claiming no punishment was done (which is false), and claiming they love the game and will change review to 5 stars if we punish this user in the way they like.  \n\nto the reviewer:\nthe moderation policy is not driven by retribution. It's driven by the desire to reduce negative action repetition. Most of the time when we apply a restriction on someone, they do not continue in the bad behavior. I tried to explain this to you, but it appears to me that you wanted some full lifetime ban or something serious because someone (whose mic you can mute at will) said some things to you. \n\nAs far as the person reported, since the 2 day mic ban with message, they have not received a single report for any bad behavior - so the restriction was successful in stopping further problems. \n--------------------------------------------------------------------\n\noriginal review text i'm responding to:\n\"Abuse with Proof – Still No Action\nThe game has good potential, but the online experience is ruined by abusive and toxic players. This is not just an opinion: I recorded a video with full evidence, including clear audio of the insults, and sent it directly to support. Yet, no action was taken.\n\nThis shows that the team ignores well-documented reports, leaving the community exposed to unacceptable behavior. The result is a hostile and discouraging environment for anyone who just wants to play seriously and have fun.\"",
+        "date": 1757010151
+      }
+    },
+    {
+      "id": "930956656774106",
+      "score": 5,
+      "review_title": "Very realistic",
+      "review_description": "The best racket sports game at the moment, very enjoyable to play",
+      "date": 1768092834,
+      "review_helpful_count": 0,
+      "author_display_name": "jojotenista01",
+      "author_alias": "jojotenista01",
+      "developer_response": null
+    },
+    {
+      "id": "910151205519048",
+      "score": 5,
+      "review_title": "FUN",
+      "review_description": "I have so much fun with this game. \nIt's so true to life. Thank you to the creators for makign this game.",
+      "date": 1767755735,
+      "review_helpful_count": 0,
+      "author_display_name": "Arian_iu",
+      "author_alias": "Arian_iu",
+      "developer_response": null
+    },
+    {
+      "id": "1310085584455046",
+      "score": 5,
+      "review_title": "Love this .. but can we have...",
+      "review_description": "I got this game ages ago, only recently took it up properly, a great, addictive, accurate simulation of Table tennis, I have played several really top people on here, I often match with regulars, so if the game stayed as is it's still a great game.\n\nwas hoping the developers would implement some kind of multiplayer room where there is maybe 2 tables so we can play with friends and chat, little meet ups, maybe a YouTube player on the wall, I don't know, it's just frustrating that there's a group of us on here but unable to all play together, little games like winner stays on or little tournaments between us, the 1v1 is good don't get me wrong, but private rooms where we can all play together would make this a fantastic game. just an idea.\n\ncheers for the hard work!",
+      "date": 1754755444,
+      "review_helpful_count": 155,
+      "author_display_name": "TerrySmith177",
+      "author_alias": "TerrySmith177",
+      "developer_response": null
+    },
+    {
+      "id": "993187303868986",
+      "score": 1,
+      "review_title": "Stuck at replay pop up. Can't play onlin",
+      "review_description": "Can't play a game. Continue to try to join online and just keep getting notified that replays are allowed but never join the waiting list.",
+      "date": 1767535678,
+      "review_helpful_count": 0,
+      "author_display_name": "Boomersport",
+      "author_alias": "Boomersport",
+      "developer_response": {
+        "body": "hi Boomersport. Sorry about that. We are having a huge influx of users for the holiday and earlier today the server had connectivity issues. It was resolved within the hour or so, and was fully stable in 2-3 hours. Please try again and let me know if you have any issues\n\nsupport@forfunlabs.com\n-Roman",
+        "date": 1767561184
+      }
+    },
+    {
+      "id": "948242518361817",
+      "score": 2,
+      "review_title": "Controller",
+      "review_description": "I’m left handed and Toss the ball with right when serving last time I played. Suddenly the ball toss changed to left where the paddle is. I tried everything on the settings and i cant change it back. Have attempted so many times and still no luck. Can you help please",
+      "date": 1764440145,
+      "review_helpful_count": 1,
+      "author_display_name": "Ghiejay",
+      "author_alias": "Ghiejay",
+      "developer_response": {
+        "body": "hi. Sorry didn't see this earlier. The game page has a url to reach us and also the help page in the game has a url as well. The review system isn't great for this. \n\nIt could be as simple as - you need to put a new battery in that device. \nor it can be that you have enabled 'paddle toss' in the advanced settings. \n\nIt could be some other options. Happy to help you troubleshoot further on the discord or through email:\n\nDiscord link: https://discord.gg/Mum2zTk\nI'm carrotstien on that discord\n\nsupport@forfunlabs.com\n-Roman",
+        "date": 1764889714
+      }
+    },
+    {
+      "id": "985611637962498",
+      "score": 1,
+      "review_title": "Stupid game",
+      "review_description": "Don't get",
+      "date": 1769558732,
+      "review_helpful_count": 1,
+      "author_display_name": "ComputerOs",
+      "author_alias": "ComputerOs",
+      "developer_response": {
+        "body": "Hi. I'm not sure what your issue is. Please reach out to support@forfunlabs.com and we'll be happy to help. \n\n-Roman",
+        "date": 1769747245
+      }
+    },
+    {
+      "id": "2876321822562193",
+      "score": 5,
+      "review_title": "More fun than it looks",
+      "review_description": "First of all, its incredibly realistic. You will likely get better at IRL ping pong playing this game. Secondly, they did a great job hiding the lag. Its impossible to remove the lag, but the way they implemented it feels very natural to play with and a lot of the time I even forget its there (experience varies based on location).\n\nThe only criticism I have, is that there are in app purchases for a $30 game. You can still customize most stuff for free, but getting different paddles will cost money (cosmetic only no advantage).\n\nDefinitely 5 stars!",
+      "date": 1762493740,
+      "review_helpful_count": 2,
+      "author_display_name": "firewry",
+      "author_alias": "firewry",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-22T03:39:54Z"
+}

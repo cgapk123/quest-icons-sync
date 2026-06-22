@@ -1,0 +1,34 @@
+{
+  "app_id": "25616661591291773",
+  "package_name": "rlt.fb1",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "AirVis",
+  "rating_average": 3,
+  "rating_count": 2,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "24519002494371990",
+      "score": 1,
+      "review_title": "Insecure login method",
+      "review_description": "Not using oAuth2 for SSO in 2025 is unacceptable.",
+      "date": 1766051576,
+      "review_helpful_count": 0,
+      "author_display_name": "andybak",
+      "author_alias": "andybak",
+      "developer_response": {
+        "body": "Thanks for raising this — you’re right that SSO support is increasingly expected.\nWe currently use Firebase Authentication, which is built on OAuth 2.0 standards, but we understand this doesn’t replace full SSO support.\nWe’re actively working on adding SSO options and will share updates as soon as we have a timeline.",
+        "date": 1775583994
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T03:40:56Z"
+}

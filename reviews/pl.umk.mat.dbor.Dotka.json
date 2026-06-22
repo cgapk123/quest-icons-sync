@@ -1,0 +1,42 @@
+{
+  "app_id": "2501676163286296",
+  "package_name": "pl.umk.mat.dbor.Dotka",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Dotka",
+  "rating_average": 3.7,
+  "rating_count": 10,
+  "review_count": 10,
+  "reviews": [
+    {
+      "id": "207604160268556",
+      "score": 1,
+      "review_title": "Impressive? No!",
+      "review_description": "When the description for a game says \"Bibliography:\nA. Cookson, R. DowlingSoka, C. Crumpler, Unreal Engine 4 Game Development in 24 Hours, Pearson Education, Inc. 2016.\" then you know what to expect. It's good that people want to learn how to code, but should MyFirstGame.exe really be on the Oculus Store?",
+      "date": 1576743129,
+      "review_helpful_count": 19,
+      "author_display_name": "fredrik.back",
+      "author_alias": "fredrik.back",
+      "developer_response": null
+    },
+    {
+      "id": "149225829700144",
+      "score": 4,
+      "review_title": "Impressive",
+      "review_description": "It's the most urgent game process I've seen so far.\nYou see the left and right almost simultaneously.\nIt needs UI for information, score and etc.",
+      "date": 1575865664,
+      "review_helpful_count": 21,
+      "author_display_name": "billywagner",
+      "author_alias": "billywagner",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T03:37:48Z"
+}

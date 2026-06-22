@@ -1,0 +1,56 @@
+{
+  "app_id": "3673548406073848",
+  "package_name": "ru.SolutionFactory.Inreal",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "INREAL",
+  "rating_average": 4.5555555555556,
+  "rating_count": 9,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "915671659794056",
+      "score": 4,
+      "review_title": "",
+      "review_description": "-please how do you get teleportation using handtraking? \n\n- Could the quality of the mirror be improved? \n\n- an improvement on the realistic grip of the hands on objects is planned for the future, or will it remain approximate? \n\n- could the avatar's hands be modeled better? \nthank you \n\np.s. Will this app be only for professionals or also for users who intend to meet and play with a friend?",
+      "date": 1672347750,
+      "review_helpful_count": 1,
+      "author_display_name": "serpe.massimo",
+      "author_alias": "serpe.massimo",
+      "developer_response": {
+        "body": "serpe.massimo, good afternoon. Thank you for your feedback. At the moment we are working on the issues you have indicated, in particular, on the realism of hand gripping. There are initial successes, but it takes time to bring to the desired result.\n\nTeleportation is more difficult, until we came to a decision on how to properly implement teleportation using hand tracking. Our application is primarily intended for organizing virtual meetings, brainstorming sessions... however, we are thinking about other areas of development of our platform).\n\np.s. we will be glad if you tell us how you use our platform and what tools you lack",
+        "date": 1672401561
+      }
+    },
+    {
+      "id": "650220566350778",
+      "score": 5,
+      "review_title": "Great application for teams",
+      "review_description": "It has all core features that our team needed, must have for remote work",
+      "date": 1648079790,
+      "review_helpful_count": 6,
+      "author_display_name": "Artmatv",
+      "author_alias": "Artmatv",
+      "developer_response": null
+    },
+    {
+      "id": "119833807563040",
+      "score": 5,
+      "review_title": "Great Immersive Experience",
+      "review_description": "Enjoyed being able to integrate non VR video users with InReals full body Avatars, use my standard corporate tools, draw in 3D, or show PPT presentations",
+      "date": 1666788241,
+      "review_helpful_count": 1,
+      "author_display_name": "mswierad",
+      "author_alias": "mswierad",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T03:41:07Z"
+}
