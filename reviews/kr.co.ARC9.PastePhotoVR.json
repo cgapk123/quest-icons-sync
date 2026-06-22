@@ -1,0 +1,103 @@
+{
+  "app_id": "8767138216715369",
+  "package_name": "kr.co.ARC9.PastePhotoVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Paste Photo VR",
+  "rating_average": 4,
+  "rating_count": 13,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "949666287736201",
+      "score": 5,
+      "review_title": "I want to video time bar.  thank u",
+      "review_description": "I want to video time bar.  thank u  so much.   Is so good.",
+      "date": 1772454125,
+      "review_helpful_count": 0,
+      "author_display_name": "jerrycaomin",
+      "author_alias": "jerrycaomin",
+      "developer_response": null
+    },
+    {
+      "id": "746102021719437",
+      "score": 3,
+      "review_title": "Glossy update",
+      "review_description": "Idk wen the update drop but theres now a glossy overlay on images. I dont mind it but i would like the option to enable and disable it cuz the shine is a bit much at times",
+      "date": 1752777560,
+      "review_helpful_count": 5,
+      "author_display_name": "Hobomafia",
+      "author_alias": "Hobomafia",
+      "developer_response": null
+    },
+    {
+      "id": "705874285940037",
+      "score": 5,
+      "review_title": "Lots of potential with a great start",
+      "review_description": "Updated: Jul 5, 2025 v.302\nMy rating is based on this being a very early version of the app and the low price.  So low expectations on my end which were met, and the app keeps getting better. \n\nI wanted to hop back in and see how it is doing.  Great to see you've started to implement the sound going off and on as you get close to videos.  However with the latest version, after I place a video file in the virtual space, about half the time it just disappears but the audio continues.  Happens with different files every time, and the same files that worked in 0.29 now disappear.\n\nSome additional feedback:\n- Once the app is stable, I suggest that you allow creating virtual \"rooms\" where in each room the user could put up different pics and videos.  This should get around memory issues as each room would only load the media in that room.\n- Perhaps you could click audio on and off for each video by pointing and clicking to avoid multiple audio streams at the same time.\n\nThanks – looking forward to further updates.",
+      "date": 1751748172,
+      "review_helpful_count": 1,
+      "author_display_name": "FusedWrath",
+      "author_alias": "FusedWrath",
+      "developer_response": null
+    },
+    {
+      "id": "1063783755575129",
+      "score": 5,
+      "review_title": "Unpolished gem",
+      "review_description": "This is like a holy-grail for 3d enthusiasts. Most apps don't let you just load your own models. It's fantastic, I can preview my work not in VR, but MR! It's just plain fun too. The major bug for me is that the message saying, \"you must turn travel mode off\" comes up almost invariably even after turning travel mode off and giving all permissions. It went off once, and always comes on now. Is there any trick to stopping it? Thanks for the great software, I hope you develop it more. I'm sure it will be a huge success in the near future!",
+      "date": 1744246471,
+      "review_helpful_count": 2,
+      "author_display_name": "rene.saucedo.526",
+      "author_alias": "rene.saucedo.526",
+      "developer_response": {
+        "body": "Travel Mode must be turned off.\nSafety Boundary must be turned on in settings.\nSafety Boundary must be set to room-scale and large enough for each location.\nThere must be a pre-set safety boundary around you.",
+        "date": 1744904546
+      }
+    },
+    {
+      "id": "921005110139459",
+      "score": 2,
+      "review_title": "Great Idea, Needs Work",
+      "review_description": "The version of this app is 0.11, so it’s obviously pretty early days, so I’ll take that into account in this review, but also I paid money for the app, so I have expectations about a base level of functionality.\n\nI’ve been looking for an app like this for a little while now, and was thrilled to find it in the store. The interface is pretty rough and clearly unfinished. The app uses spatial boundaries, but it isn’t clear when it’s using one, and it doesn’t prompt for it. When you click the button that looks like it was taken from an XKCD comic that apparently lets you select the boundary — which only works when you’re actually within a boundary, otherwise it does nothing — and you click “complete” you then get an error message that there’s no boundary selected, which doesn’t go away until you reset the app. \n\nOnce that’s sorted, and once I accidentally figured out how to give the app access to my pictures folder, I was able to awkwardly select a photo. I say awkwardly because it only shows the file and and not a thumbnail, and since I was using photos imported sequentially years ago, I had to select between photo_32.jpg, photo_33.jpg, and photo_34.jpg. Annoying, but certainly not a deal-breaker.\n\nWhat *was* a dealbreaker, at least until the app is updated, is once you select a photo. It appears correctly in MR, and you can intuitively position it and scale/rotate it, but once you let go of the picture, it flies off, sometimes spinning like it’s a portal to The Phantom Zone, sometimes just sliding backwards, and for some reason it doesn’t ever settle. If you let go of the image very close to you, it will sometimes mostly stay still, but it sways as if suspended by a rope from the ceiling. Sometimes when I scale, it resizes when I let go. \n\nThese issues combine to make what seems to be the sole purpose of the app — placing a photo on your wall in Mixed Reality — not work. It was a very frustrating experience to try.\n\nI’ll be happy to look at it again once it’s been updated a bunch, but as of right now, it doesn’t do what it claims to do.",
+      "date": 1734288246,
+      "review_helpful_count": 4,
+      "author_display_name": "BrianHogg",
+      "author_alias": "BrianHogg",
+      "developer_response": {
+        "body": "Thank you for purchasing the app and leaving comments.  I updated it a little bit this time, but there are still a lot of bugs and inconveniences. I'll keep improving it in the future.",
+        "date": 1735844811
+      }
+    },
+    {
+      "id": "1134445738408907",
+      "score": 5,
+      "review_title": ".",
+      "review_description": "After initial installation, you will need to allow 3 Android permissions. Then you will need to close the app and restart it.",
+      "date": 1739265382,
+      "review_helpful_count": 3,
+      "author_display_name": "Codebox",
+      "author_alias": "Codebox",
+      "developer_response": null
+    },
+    {
+      "id": "510087572196892",
+      "score": 5,
+      "review_title": "Works excatly as I expected",
+      "review_description": "Thank you so much for creating this app. It is what I was looking for. Easy control, easy importing system, support all types of files.\n\nOne option I wish to have is to flip images like mirror effect.\n\nThank you",
+      "date": 1738297088,
+      "review_helpful_count": 2,
+      "author_display_name": "BubblyOctopus8847",
+      "author_alias": "BubblyOctopus8847",
+      "developer_response": null
+    }
+  ],
+  "total": 7,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T02:46:38Z"
+}
