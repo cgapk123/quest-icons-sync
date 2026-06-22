@@ -1,0 +1,170 @@
+{
+  "app_id": "8365066416943985",
+  "package_name": "top.qiye.mirrorxr.app",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "MirrorXR:Phone to XR",
+  "rating_average": 3.28125,
+  "rating_count": 32,
+  "review_count": 12,
+  "reviews": [
+    {
+      "id": "1083944914800784",
+      "score": 5,
+      "review_title": "Perfect!",
+      "review_description": "This does exactly what I was hoping for, full mirror and control of my Android phone inside my Quest 2. I had a little trouble getting it paired wirelessly at first, I had skipped the wired setup because I knew I would never be wired to my headset. However, doing the wired setup was super easy and then it auto-populated everything needed for the wireless connection and now everything works perfect. Plus I can keep it open while playing PCVR games and just double-tap the quest menu button and it pops up. This is highly recommended!\n\nUpdate: If I could give this 10 stars I would! I just figured out how to display this constantly while playing PCVR games and there is no lag, I still have full control over the game and can easily switch to my phone and use voice to text (or keyboard if I wanted) to send out respond to any message or load a webpage if I need a game hint!",
+      "date": 1777599683,
+      "review_helpful_count": 0,
+      "author_display_name": "Normmstein",
+      "author_alias": "Normmstein",
+      "developer_response": null
+    },
+    {
+      "id": "4176162145995842",
+      "score": 5,
+      "review_title": "Worked great and very useful!",
+      "review_description": "Works great and I pinned this app to the start menu becuase you can use it together with other apps and games running.\nIs very useful. Great job and support.\n\nSettings are not so easy to understand but once understood how to set it,  the app is easy to use.",
+      "date": 1761035822,
+      "review_helpful_count": 6,
+      "author_display_name": "Stefanogalla",
+      "author_alias": "Stefanogalla",
+      "developer_response": null
+    },
+    {
+      "id": "831412353382496",
+      "score": 1,
+      "review_title": "App doesn’t work",
+      "review_description": "I downloaded this app hoping to read text messages while using my headset. While trying to set it up i got a black screen. Now there are no set up directions. And i am not able to connect my phone. Can’t find ANY kind of instructions online. Can’t give this anything but one star as it DOES NOT work.",
+      "date": 1758395733,
+      "review_helpful_count": 3,
+      "author_display_name": "flexbuffchest",
+      "author_alias": "flexbuffchest",
+      "developer_response": {
+        "body": "You can join the discord to discuss your problems.\nI will also reach out to you proactively to help resolve any issues, so please keep an eye on your messages.\nIt is strongly recommended to ensure that you can learn how to configure it before considering purchasing it.\nThis is a beginner video tutorial.https://youtu.be/Z_sOhiR1FU8?si=U7NXzMQozyRyp9UD",
+        "date": 1758397791
+      }
+    },
+    {
+      "id": "847871811736747",
+      "score": 1,
+      "review_title": "Debug port always faild",
+      "review_description": "I tried so many times with different device. But it's still not connect.with pair code it's success but debug port never. and I paid for this crap",
+      "date": 1758429533,
+      "review_helpful_count": 2,
+      "author_display_name": "Azamdesh",
+      "author_alias": "Azamdesh",
+      "developer_response": {
+        "body": "You can simply turn on the wireless debugging mode and pair it again; there is a clear reminder in the user guide. I will reach out to assist you with this issue.",
+        "date": 1758477025
+      }
+    },
+    {
+      "id": "1250356553554574",
+      "score": 2,
+      "review_title": "Netflix not working",
+      "review_description": "I managed to set up the app and it was working perfectly on other apps but when I tried netflix the video wasn't playing on the app and you could only hear the audio and see subtitles. Other apps like YouTube worked fine.",
+      "date": 1755639150,
+      "review_helpful_count": 4,
+      "author_display_name": "jamesmysmith",
+      "author_alias": "jamesmysmith",
+      "developer_response": {
+        "body": "The core reason is that Netflix's copyright protection mechanism is in effect.\n\nThis mechanism requires that both the playback device and the connection method must pass its official security certification. If it detects that the casting path does not come from a fully trusted whitelist (such as the TV's native app or certified devices), the system will actively block the video signal, allowing only the audio to pass through, thereby preventing the content from being illegally recorded.\n\nTherefore, this is not a technical bug but an intentional design by Netflix to safeguard the copyright of its content.",
+        "date": 1756467034
+      }
+    },
+    {
+      "id": "790267744178111",
+      "score": 4,
+      "review_title": "Nice",
+      "review_description": "Nice app",
+      "date": 1761586296,
+      "review_helpful_count": 0,
+      "author_display_name": "Akbardubai",
+      "author_alias": "Akbardubai",
+      "developer_response": null
+    },
+    {
+      "id": "501727316368489",
+      "score": 5,
+      "review_title": "New Use Case",
+      "review_description": "Hello,\n\nI have downloaded the Mirror XR app and I am really enjoying the experience!\nI had an issue with no audio in my Meta Quest 3 when attempting to make or receive a phone call. All other audio works properly, however during a phone call the audio does not pass through from my phone to the Meta Quest 3. The call audio is only heard on the actual phone.\nMy phone is a Samsung Galaxy S10.\n\nEdit*: I see. So either Android or Samsung security measures don't grant permission to phone call audio for developers.\n\nThank you,\nMichael",
+      "date": 1740449912,
+      "review_helpful_count": 8,
+      "author_display_name": "MalakM",
+      "author_alias": "MalakM",
+      "developer_response": null
+    },
+    {
+      "id": "936867428596219",
+      "score": 4,
+      "review_title": "Better be no lag",
+      "review_description": "This better be the fastest thing and app that I have ever used. I want to be able to keep my eyes off my phone while I play something like I'm just using a controller instead. That way I can downsize \n\nNo latency. I don't care the power requirements",
+      "date": 1738163420,
+      "review_helpful_count": 4,
+      "author_display_name": "GodEmperor",
+      "author_alias": "GodEmperor",
+      "developer_response": null
+    },
+    {
+      "id": "602095759072803",
+      "score": 4,
+      "review_title": "Gets me there",
+      "review_description": "The interface is a little clunky,  but it allows me to  interface my meta3 with drone feed coming from an android",
+      "date": 1736785605,
+      "review_helpful_count": 8,
+      "author_display_name": "UFOsoldier_onX",
+      "author_alias": "UFOsoldier_onX",
+      "developer_response": {
+        "body": "Thank you for your feedback!",
+        "date": 1736843380
+      }
+    },
+    {
+      "id": "503599819510276",
+      "score": 5,
+      "review_title": "Solid app!",
+      "review_description": "Only mirror app that allows you to control your phone from inside quest using hand or control gestures!",
+      "date": 1736458429,
+      "review_helpful_count": 5,
+      "author_display_name": "Dano8601",
+      "author_alias": "Dano8601",
+      "developer_response": {
+        "body": "This part of the information will be uploaded to YouTube. I will actively contact you through the Meta Horizon app to help you solve it.",
+        "date": 1736388512
+      }
+    },
+    {
+      "id": "466290529910737",
+      "score": 2,
+      "review_title": "I can't connect via wireless",
+      "review_description": "I can connect with cabel but with wifi after all steps done when I have to scan for adress to connect says no device found, what can I do?",
+      "date": 1736720718,
+      "review_helpful_count": 3,
+      "author_display_name": "MAC1991",
+      "author_alias": "MAC1991",
+      "developer_response": {
+        "body": "I will assist you in dealing with the problem. Please pay attention to the information of the Meta Horizon app.\n0116update：I have made a video to teach how to use the wireless mode of MirrorXR, and I have posted it on the YouTube platform. You can check out the tutorial link: https://youtu.be/Z_sOhiR1FU8",
+        "date": 1737010115
+      }
+    },
+    {
+      "id": "544476078739643",
+      "score": 5,
+      "review_title": "Excellent App and Easy to configure",
+      "review_description": "This app is very easy to use and you can mirror your contents from the phone to the quest. The developer was very helpful in resolving my issue it is one of the app that I would absolutely recommend.",
+      "date": 1734618814,
+      "review_helpful_count": 4,
+      "author_display_name": "PandaSwayam",
+      "author_alias": "PandaSwayam",
+      "developer_response": null
+    }
+  ],
+  "total": 12,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T04:07:49Z"
+}

@@ -1,0 +1,120 @@
+{
+  "app_id": "1192721770816393",
+  "package_name": "vision.fieldof.SCC2",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Santa's Christmas Chimney",
+  "rating_average": 2.16,
+  "rating_count": 25,
+  "review_count": 25,
+  "reviews": [
+    {
+      "id": "2803398176558045",
+      "score": 1,
+      "review_title": "Will not install...",
+      "review_description": "I am using a Galaxy S7 Edge on Oreo.",
+      "date": 1585610050,
+      "review_helpful_count": 3,
+      "author_display_name": "IpwnedU",
+      "author_alias": "IpwnedU",
+      "developer_response": null
+    },
+    {
+      "id": "1846696738933365",
+      "score": 1,
+      "review_title": "Awful. Waste of money",
+      "review_description": "I thought it would be a bit more fun than just falling down a chimney.  It dosent work very well. Terrible control. Huge waste of money",
+      "date": 1483150913,
+      "review_helpful_count": 2,
+      "author_display_name": "Jax_wut",
+      "author_alias": "Jax_wut",
+      "developer_response": null
+    },
+    {
+      "id": "1520342764673024",
+      "score": 1,
+      "review_title": "",
+      "review_description": "TERRIBLE!!!!!!!!",
+      "date": 1489294278,
+      "review_helpful_count": 5,
+      "author_display_name": "gordonmary",
+      "author_alias": "gordonmary",
+      "developer_response": null
+    },
+    {
+      "id": "1411416075681025",
+      "score": 1,
+      "review_title": "Won't Install on Galaxy S10",
+      "review_description": "This app would install and run properly on my old S7, but won't install on my S10.  Basically, this is a clone of \"Aaaaaaa!,\" where you control your fall and hit targets while avoiding obstacles.  I'll raise this review is the author(s) fix it for current phones.\n\nEdit:  nope, NOT \"fixed.\"  Give it another try, please!",
+      "date": 1595945755,
+      "review_helpful_count": 7,
+      "author_display_name": "CLBrown",
+      "author_alias": "CLBrown",
+      "developer_response": {
+        "body": "Apologies. This has been fixed now!",
+        "date": 1582628931
+      }
+    },
+    {
+      "id": "582422965286416",
+      "score": 3,
+      "review_title": "Not Bad But...",
+      "review_description": "Took me forever to figure out how to control it. Game is easier to control standing but you get dizzy quick. It needs controller support",
+      "date": 1482107362,
+      "review_helpful_count": 3,
+      "author_display_name": "oversoul53",
+      "author_alias": "oversoul53",
+      "developer_response": null
+    },
+    {
+      "id": "254406048310703",
+      "score": 1,
+      "review_title": "Really?",
+      "review_description": "I just paid to fall down a chimney?",
+      "date": 1481749474,
+      "review_helpful_count": 66,
+      "author_display_name": "WtfyBarnes",
+      "author_alias": "WtfyBarnes",
+      "developer_response": {
+        "body": "As an infinite runner style game, have you tried to beat your last score? It gets more challenging the further and faster you fall!",
+        "date": 1481884711
+      }
+    },
+    {
+      "id": "207813130247659",
+      "score": 1,
+      "review_title": "Won't even install on my Oculus Go",
+      "review_description": "Tried several times. Even tried turning my Go off and on again. It just sits in my Not Installed folder. It downloads, says Installing for about 2 seconds and then nothing happens. But judging by the reviews, I don't think I'm missing out on much. Merry Christmas!",
+      "date": 1576844696,
+      "review_helpful_count": 22,
+      "author_display_name": "fredrik.back",
+      "author_alias": "fredrik.back",
+      "developer_response": {
+        "body": "Hope you still have a good Christmas! I fixed the issue today in the settings, there was a clash in the device support.",
+        "date": 1582429380
+      }
+    },
+    {
+      "id": "102685761254468",
+      "score": 1,
+      "review_title": "",
+      "review_description": "Won't install",
+      "date": 1577569520,
+      "review_helpful_count": 4,
+      "author_display_name": "seyra12",
+      "author_alias": "seyra12",
+      "developer_response": {
+        "body": "Apologies! It should be fixed now.",
+        "date": 1582429354
+      }
+    }
+  ],
+  "total": 8,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T04:14:30Z"
+}

@@ -1,0 +1,34 @@
+{
+  "app_id": "9573524649387295",
+  "package_name": "ua.abel.vocalolo",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Vocalolo",
+  "rating_average": 5,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "2056395498057266",
+      "score": 5,
+      "review_title": "Unique vocal app",
+      "review_description": "Was surprised to find at least any vocal app for oculus. I was a bit sceptic at the begining, but was surprised the idea and implementation. \nWill be great to have an option to reproduce some popular songs by vocal, but for first version it is more than enough",
+      "date": 1697916763,
+      "review_helpful_count": 4,
+      "author_display_name": "loderuner",
+      "author_alias": "loderuner",
+      "developer_response": {
+        "body": "Thank you for your feedback. There is no possibility to add songs in the near future, but I am investigating the possibility of uploading custom MIDI files. Musical dictation is currently under development.",
+        "date": 1700680069
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T04:09:51Z"
+}
