@@ -1,0 +1,234 @@
+{
+  "app_id": "24347870634877402",
+  "package_name": "space.VROOM.ARPlanes",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "AR Planes",
+  "rating_average": 4.7931034482759,
+  "rating_count": 29,
+  "review_count": 17,
+  "reviews": [
+    {
+      "id": "990605443591361",
+      "score": 5,
+      "review_title": "Yet another great mixed reality game",
+      "review_description": "This game like the helicopter version is always receiving upgrades and quality tweaks. Seriously good looking game for what it is. The level of detail is amazing and it keeps getting better everytime I go back to it. Developer must be working hard them both. Live it keep up the good work thank you!!",
+      "date": 1781533385,
+      "review_helpful_count": 0,
+      "author_display_name": "Robotto_otoko",
+      "author_alias": "Robotto_otoko",
+      "developer_response": {
+        "body": "I'm glad you enjoy it!  Thank YOU for taking the time to write a review; they really help! :)",
+        "date": 1782099180
+      }
+    },
+    {
+      "id": "1741097730584774",
+      "score": 5,
+      "review_title": "Dynamic occlusion💯",
+      "review_description": "Response to the developer:\n\nWoow 🤩🤩 it’s absolutely incredible to see the dynamic occlusion working so well! Now this really adds realism!!\n\nLater on I’ll think about an effective and intuitive system for rotating the model in a natural way.\n\nIn the meantime, from the short preliminary test I did outdoors and in full sunlight, I immediately thought it would also be useful to have the option to increase the brightness of the models, so they could be better adapted to open and sunny environments.\n\nEven better if there could be an option in the menu to increase the model scale up to 2x as well (while of course still keeping the real full-scale mode available).\n\nAs for gravity, I was thinking about a very light gravity effect, because at the moment if you leave the model still, it remains completely suspended in mid-air. I would love a very subtle and delicate gravity effect, but optional and enabled/disabled from the menu.\n\nPersonally, I think it’s more fun with a bit of gravity rather than without it, because without it it gives me a feeling of less realism. I really mean a very low optional gravity effect.\n\nI’d love to communicate with you on Discord and I’ll do it soon as soon as I can test it better and have even clearer ideas. Thank you so much for this beautiful update! And thank you for all the work behind it, you can really tell it’s something made with passion and love! 🤩🥰\n\n----------------------------------\n\n\nFor anyone reading this review instead:\n\nthis is truly a beautiful mixed reality aircraft model game, with excellent graphics and a really wide variety of real aircraft models! Dynamic occlusion adds a great sense of realism, and the different gameplay modes — whether inside the Meta room setup or outdoors — make it very versatile.\n\nBut above all, the ability to view the airplanes at real-life scale is really that extra special touch that offers something no other product of this kind is providing yet.\n\nThanks again to the developer for the ideas behind this project, and for the passion and technical skill with which they are bringing them to life 💯💯",
+      "date": 1778318642,
+      "review_helpful_count": 2,
+      "author_display_name": "serpe.massimo",
+      "author_alias": "serpe.massimo",
+      "developer_response": {
+        "body": "I'm glad you enjoy the occlusion!  I'm adding it to an AR Choppers update right now.   :)\n\nI actually have code that takes a photo of your environment at startup and uses that for setting lighting levels and reflections, but it requires TWO additional permissions confirmations at startup, which might scare off new players and/or make getting approval from Meta more difficult.  I use it in Star Warships (https://vroom.space), because the Royal Naboo Cruiser's mirror-finish  needs it.",
+        "date": 1778360569
+      }
+    },
+    {
+      "id": "1028187940385406",
+      "score": 4,
+      "review_title": "Worth it to see full scale aircraft",
+      "review_description": "I'm not bothered by the flying. \n\nThis is really worth it for the full scale. 3d Audio, you hear the intake as you get near to it and same for exhaust sound. Good detail on aircraft.\n\nPositioning is not first intuitive. Would it be possible to use the players position. Push and pull aircraft from player position. Move Left and right keeping the same distance player been at the central point, the aeroplane moves round on a circle. \n\nI was very impressed with the full scale of the airwolf being able to fly full sized. I enjoyed it hovering just above me. \nIs it possible for you to set up a set route for the full sized aircraft. Have a jet fly just meters above your head 🫣😁 then looking up at your own little personal air display. \n\nThis application is definitely best used outdoors.\n\nControl map for this too please. \n\nWould you be able to add the flashing lights, the aeroplanes use please 🫶.\n\nAlso I would also buy a tank one if you made it, like the other chap suggested 😊.\n\nHope you got the bit extra money I sent Via your website.",
+      "date": 1777223058,
+      "review_helpful_count": 4,
+      "author_display_name": "Youthio",
+      "author_alias": "Youthio",
+      "developer_response": {
+        "body": "Thank you for the feedback!\n\nI experimented with push/pull of the aircraft and \"orbit\" as well, and they were even less intuitive.  The new implementation where you \"drive\" the plane via thumbstick, or \"fly\" the player in the controller's pointed direction by squeezing the trigger works pretty well.\n\nI've been considering an \"air show\" mode for some time and will hopefully have something like it one day.\n\nControl maps were added to both AR Planes and Choppers; they're in menu if you press the \"start\" button on the left controller.\n\nI actually researched which lights flash and which are steady for each aircraft as I built them, so they should be accurate, but it's always possible some are wrong.  Please let me know if anything needs correcting!\n\nI want an \"AR Tanks\" too! :)\n\nThank you so much for the support!  It brightens my day!",
+        "date": 1778281717
+      }
+    },
+    {
+      "id": "1843929619624120",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "After all this time the Q3 keeps getting better and better due to inexpensive and great games like this one.  I am a veteran and can assure you that this is a must have. There is another similar game with choppers that is also a must have.  \n\nKeep up the excellent work developers.  Can you do tanks next?",
+      "date": 1777040095,
+      "review_helpful_count": 2,
+      "author_display_name": "xman7",
+      "author_alias": "xman7",
+      "developer_response": {
+        "body": "Thanks for the review!  \n\nI do love tanks!  Prior to creating Magnificent Ships, I spent 3 years building this game, where you drive a Sherman tank through a zombie apocalypse: https://www.meta.com/experiences/crunchies/5386480711379055/\n\nI also built a \"World of Tanks\" viewer for desktop VR many years ago, which may be possible to experience on Quest 3 via Virtual Desktop and perhaps SteamVR, but I haven't tried it, so no promises:\nhttps://vroom.space/tanks/\n\nI may indeed do a mixed-reality tank game one day, but have something else in mind for my next title.",
+        "date": 1777058580
+      }
+    },
+    {
+      "id": "4310423105935440",
+      "score": 5,
+      "review_title": "Should be on every quest!",
+      "review_description": "This game should be on every single quest to show off mixed reality. The planes are super detailed and the game runs absolutely perfectly.  This is what i show off when i have new people to VR over. Also the devs are always updating which isn't something that happens alot with VR titles. Absolutely 2 thumbs up!",
+      "date": 1776773256,
+      "review_helpful_count": 2,
+      "author_display_name": "Krammis76",
+      "author_alias": "Krammis76",
+      "developer_response": null
+    },
+    {
+      "id": "1984385566291602",
+      "score": 5,
+      "review_title": "This is my kind of Airplane Mode ❤️",
+      "review_description": "If you like planes, Buy This Now.\nIt’s early access so I’d like to offers one constructive feedback for future iterations.\nAs an RC plane owner I find the left stick control to be confusing. The left stick should be for rudder and throttle. Nudging the stick forward once, should bump the throttle up a click and it should stay on. And the delayed motion due to simulated inertia is excessive. A tiny bit of inertia would be fine.   \n\nI like the ability to see the planes from all sides and have them stay at those attitudes, but it needs a second mode that is more like flying.\nIt needs the ability to fly coordinated turns with rudder and aileron. So if you let go of the sticks it will level out. And maybe a mode with a bit of gravity.\nAnd if it gets a certain distance away it will fly a circle around you until you take control again.\n\nWith those updates, this would be great for teaching new or prospective RC pilots how to control their planes in any orientation.\nCan’t wait to see the next iterations!",
+      "date": 1771876022,
+      "review_helpful_count": 14,
+      "author_display_name": "PolyImpact.3D",
+      "author_alias": "PolyImpact.3D",
+      "developer_response": null
+    },
+    {
+      "id": "1148562878339951",
+      "score": 5,
+      "review_title": "If you like any aircraft buy ASAP",
+      "review_description": "Amazing",
+      "date": 1777827819,
+      "review_helpful_count": 1,
+      "author_display_name": "CptSticky",
+      "author_alias": "CptSticky",
+      "developer_response": null
+    },
+    {
+      "id": "1100352986490165",
+      "score": 5,
+      "review_title": "Awesome game",
+      "review_description": "This is probably the best game I bought! \n\n\nHope to see more planes in the future!",
+      "date": 1776570526,
+      "review_helpful_count": 1,
+      "author_display_name": "planesplays",
+      "author_alias": "planesplays",
+      "developer_response": null
+    },
+    {
+      "id": "1399565171929460",
+      "score": 4,
+      "review_title": "beautiful modelling,  great concept...",
+      "review_description": "but...\n\nAs a longtime drone pilot I find the control mechanics really confusing, the plane is very difficult to fly. So I would really appreciate it if the devs would add an alternate control mapping that was more like the controls for any standard drone, like a small toy RCA’s helicopter or RC plane or quad, where the throttle is on one stick forward/back and then usually pitch and roll are on the same stuck and then yaw is back with the throttle…  \n\nit wd be nice if it was mappable so that the user could map controls themselves — but just the standard low-cost RC flying toy controller map would be so much easier!\n\nAfter so many years of flying drones I just find these planes impossible, it’s just impossible to fly … anyway it’s great concept,love no risk indoor flight, the models are gorgeous.  Detail is fantastic.\n\nAlso I’d love to see some antique models … like to see a crop duster and some biplanes and maybe a fokker triplane modeled to the same standard, that would be awesome. \n\nthis is a really fun game, well done that developer￼￼.  Wd have 5 stars if it had more standard controls.",
+      "date": 1768177152,
+      "review_helpful_count": 6,
+      "author_display_name": "Tazling",
+      "author_alias": "Tazling",
+      "developer_response": {
+        "body": "Thanks for the review and feedback!  I'll definitely consider an alternate control scheme for the next version.  It's still \"early access\", and I rely on feedback like yours to make it the best it can be. :)",
+        "date": 1768484159
+      }
+    },
+    {
+      "id": "961339229717570",
+      "score": 4,
+      "review_title": "Erik",
+      "review_description": "Very nice but planes no turning when1 wing is lower",
+      "date": 1773411038,
+      "review_helpful_count": 0,
+      "author_display_name": "erik.krkos",
+      "author_alias": "erik.krkos",
+      "developer_response": {
+        "body": "Good suggestion!  I added some turning when banked in today’s update.  Let me know if that works for you.  Cheers!",
+        "date": 1773809134
+      }
+    },
+    {
+      "id": "1607091473980807",
+      "score": 5,
+      "review_title": "A MUST HAVE!!!",
+      "review_description": "This is so fun, so detailed, and so amazing.  Well done developers!\n\nIf you love flying model aircraft, or flying in general, this is the VR program to get.\n\nI kept playing this mixed reality flight simulator in my living room until, at long last, my battery finally ran out...and you will too :-)",
+      "date": 1764557506,
+      "review_helpful_count": 3,
+      "author_display_name": "denise.savage.79",
+      "author_alias": "denise.savage.79",
+      "developer_response": null
+    },
+    {
+      "id": "860197677187536",
+      "score": 5,
+      "review_title": "You need this !",
+      "review_description": "I do believe this is the best Mixed Reality and VR experience games I have on my Quest 3. Once you get a hang of flying controls it becomes even more fun. There are different modes. 1. Grab hold and look at the small scale plane, beautifully detailed with sound. 2. Fly around the small scale model. 3. Target acquisition (a mix between flying and auto pilot and auto targeting) the air to air missiles and air to ground rockets and bomb drops are spectacular! 4. Here is the cherry on the cake... Toggle Scale. A full size aircraft in your space. This is mind blowing design to say the least. Blackbird SR71 is huge, the bomber and all the iconic jets and planes are magnificent. NB don't use your Quest 3 or headset with front cameras in sunlight (it can damage your headset camera sensors). Other than that this experience is for everyone, even to showcase VR to new users...I highly recommend",
+      "date": 1767181789,
+      "review_helpful_count": 1,
+      "author_display_name": "CAPAZOSTAN",
+      "author_alias": "CAPAZOSTAN",
+      "developer_response": null
+    },
+    {
+      "id": "925581100628855",
+      "score": 5,
+      "review_title": "AR Planes",
+      "review_description": "This is a gift from God. Thank you!\n\nThe airplane models look very great.",
+      "date": 1763705362,
+      "review_helpful_count": 5,
+      "author_display_name": "nautilus.657413",
+      "author_alias": "nautilus.657413",
+      "developer_response": null
+    },
+    {
+      "id": "912691615258841",
+      "score": 5,
+      "review_title": "best",
+      "review_description": "i kid you not i love this game,can you add more aircraft please",
+      "date": 1765625529,
+      "review_helpful_count": 2,
+      "author_display_name": "EPIKBOI555",
+      "author_alias": "EPIKBOI555",
+      "developer_response": {
+        "body": "Thank you!  I wanted to do helicopters next, so I built AR Choppers, which is also here on the app store.  (Can't link it; sorry.)",
+        "date": 1778282038
+      }
+    },
+    {
+      "id": "1286485683259578",
+      "score": 5,
+      "review_title": "Super cool MR game for plane lovers!",
+      "review_description": "Basically you start off with a 1:48 model of a plane in your hand, and it is surprisingly sharp and detailed! You can fly the plane around your space either by using the controls, or by assigning targets to the plane by pointing at them. It's a total blast! You can switch between a bunch of different planes, from Warbirds to modern jets, and like I said, they look really sharp and detailed! And as if that wasn't all cool enough, you can also click a button and make the plane life size! I was suddenly shocked to see a full size F4 Phantom in my living room! \n\nI did notice a bit of stuttering when the planes went by me, but I'm guessing that can be ironed out over time. Also, the viewing controls for the large size planes wasn't very intuitive. It would also be nice to see some more non American planes. But for an early access game that just came out, this is freaking amazing, especially if you love airplanes!",
+      "date": 1758495586,
+      "review_helpful_count": 6,
+      "author_display_name": "Mmmwhale",
+      "author_alias": "Mmmwhale",
+      "developer_response": {
+        "body": "FYI, v1.02 fixed the stutter when planes fly by and changed the viewing controls for full-scale planes.",
+        "date": 1760744921
+      }
+    },
+    {
+      "id": "1500076194748364",
+      "score": 4,
+      "review_title": "If you like plane models, buy this.",
+      "review_description": "The plane models are perfect, and switching through them is instant. Flying is nearly impossible, but im sure that will change as the game develops. It's worth it just for the plane models, all parts move, lights are blinking, and engine sounds are really good. 100% pick this up if you like planes.",
+      "date": 1758165387,
+      "review_helpful_count": 6,
+      "author_display_name": "Legpunch",
+      "author_alias": "Legpunch",
+      "developer_response": {
+        "body": "I messaged you on Reddit but never heard back.  Can you please clarify what you mean by “flying is nearly impossible”?  Other players aren’t reporting that problem, but if there’s something I can do to make it easier please let me know!",
+        "date": 1759213717
+      }
+    },
+    {
+      "id": "788496094357631",
+      "score": 4,
+      "review_title": "Great fun.",
+      "review_description": "Very relaxed plane models game,full scale is eyeopening.",
+      "date": 1761234875,
+      "review_helpful_count": 4,
+      "author_display_name": "jwmaddmatt",
+      "author_alias": "jwmaddmatt",
+      "developer_response": null
+    }
+  ],
+  "total": 17,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T03:51:22Z"
+}

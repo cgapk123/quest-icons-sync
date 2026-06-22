@@ -1,0 +1,42 @@
+{
+  "app_id": "1314654188601310",
+  "package_name": "sk.haze.sorryvr.snowparadise.gearvr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "SnowParadise VR",
+  "rating_average": 3.125,
+  "rating_count": 16,
+  "review_count": 16,
+  "reviews": [
+    {
+      "id": "3660825604000678",
+      "score": 1,
+      "review_title": "Not a good game",
+      "review_description": "I didn't like the game because it wont delete",
+      "date": 1612801397,
+      "review_helpful_count": 6,
+      "author_display_name": "rana_hamza",
+      "author_alias": "rana_hamza",
+      "developer_response": null
+    },
+    {
+      "id": "162779354249606",
+      "score": 1,
+      "review_title": "Installation Failed",
+      "review_description": "Tried several times ..... It takes almost an hour to download and after all that waiting for the complete download of the file it says \" installation failed\"",
+      "date": 1493050490,
+      "review_helpful_count": 7,
+      "author_display_name": "umeshrestha",
+      "author_alias": "umeshrestha",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T03:50:31Z"
+}

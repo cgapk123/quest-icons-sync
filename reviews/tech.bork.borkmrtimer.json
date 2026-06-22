@@ -1,0 +1,73 @@
+{
+  "app_id": "6758079837613576",
+  "package_name": "tech.bork.borkmrtimer",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "BorkMR - Timer",
+  "rating_average": 3.6,
+  "rating_count": 10,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "567838529738414",
+      "score": 5,
+      "review_title": "Free or no?",
+      "review_description": "Is it free ?",
+      "date": 1737954086,
+      "review_helpful_count": 2,
+      "author_display_name": "Dylpill64",
+      "author_alias": "Dylpill64",
+      "developer_response": {
+        "body": "Thanks for your question! 😊 Yes, the app is indeed free to use—enjoy!",
+        "date": 1738026188
+      }
+    },
+    {
+      "id": "405656329300103",
+      "score": 1,
+      "review_title": "Would not let me set a boundary",
+      "review_description": "I downloaded this as I thought it would be helpful but it wanted me to set a boundary ect... but everytime, it would want to jeep setting it, would not let me use the timer.",
+      "date": 1725804662,
+      "review_helpful_count": 1,
+      "author_display_name": "VirtualSteve",
+      "author_alias": "VirtualSteve",
+      "developer_response": {
+        "body": "Thank you for taking the time to try out the app! It sounds like the headset's OS might be stuck in a loop when setting your boundary before the app starts, which is preventing the timer from launching properly. We apologize for the inconvenience. If you'd like, feel free to join our Discord community, and we’d be happy to help troubleshoot the issue so you can get the timer up and running!\n\nhttps://discord.gg/xvN3mMFGky",
+        "date": 1728337943
+      }
+    },
+    {
+      "id": "351099428094635",
+      "score": 5,
+      "review_title": "works great",
+      "review_description": "looking forward to future updates!",
+      "date": 1722551638,
+      "review_helpful_count": 0,
+      "author_display_name": "pano_sua",
+      "author_alias": "pano_sua",
+      "developer_response": null
+    },
+    {
+      "id": "251110061429491",
+      "score": 5,
+      "review_title": "Actually really helpful.",
+      "review_description": "It's obviously still in early beta, but the core functionality is great.",
+      "date": 1714608159,
+      "review_helpful_count": 1,
+      "author_display_name": "pumpkinfingers55",
+      "author_alias": "pumpkinfingers55",
+      "developer_response": {
+        "body": "Glad you found it helpful! I'm planning to clean up the jankiness. \nStay tuned on the Bork.Tech Discord for updates! \nhttps://discord.gg/xvN3mMFGky\n\nMuch appreciated, and thanks for your feedback!",
+        "date": 1714959319
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T03:56:46Z"
+}

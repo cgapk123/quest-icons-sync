@@ -1,0 +1,417 @@
+{
+  "app_id": "7908645409222708",
+  "package_name": "space.mixr.golf",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Putt Dojo | Real Ball Golf Putting",
+  "rating_average": 4.4571428571429,
+  "rating_count": 35,
+  "review_count": 32,
+  "reviews": [
+    {
+      "id": "926959486965301",
+      "score": 5,
+      "review_title": "great start",
+      "review_description": "just had my first session on it. Very impressive. Been playing golf plus for years and this is better putting practice . suggestions going forward: the hand tracking for adjusting settings is awful. the virtual ball doesn't quite appear quick enough , slightly breaks emersion but not badly. But overall it's great.\nHugely improved set up and settings management. Still has lots of misputts- I'll do a small stroke and the ball flies across  the green and off.May2026.",
+      "date": 1779693665,
+      "review_helpful_count": 1,
+      "author_display_name": "Sirdallen",
+      "author_alias": "Sirdallen",
+      "developer_response": {
+        "body": "Thanks for the updated feedback! Planning to do another pass on ball tracking to try and iron out the edge cases. Most putts and setups should work now but I will try to push it a bit further in terms of polish and reliability.",
+        "date": 1779772970
+      }
+    },
+    {
+      "id": "835261846262531",
+      "score": 2,
+      "review_title": "Ball tracking",
+      "review_description": "I'm having a VERY hard time with the consistent of the ball recognition. The black box keeps disappearing and reappearing at random. The second it disappears I have to RUSH the shot.  Any suggestions on how to fix this. I mostly play outdoors in different lighting settings. I have tried different lighting settings such as direct sunlight, dusk, nighttime etc.",
+      "date": 1775933062,
+      "review_helpful_count": 0,
+      "author_display_name": "PatricKirkwood0415",
+      "author_alias": "PatricKirkwood0415",
+      "developer_response": {
+        "body": "Hi, using the Quest outdoors is not an officially supported use case by Meta. The app may still work outdoors though, but it's guaranteed. To ensure the app works reliably, make sure that floor height is always set exactly to your physical putting surface, that there are no lines or markings of similar color to the ball within the tracking area, and that there are no hard shadows across the tracking area.",
+        "date": 1775964764
+      }
+    },
+    {
+      "id": "1053601877838730",
+      "score": 4,
+      "review_title": "This app has the potential be great!",
+      "review_description": "App works very well and the ball speed and tracking seems to be pretty accurate. I look forward to more drill and play options in future. Perhaps even short chipping could be added?",
+      "date": 1776035546,
+      "review_helpful_count": 0,
+      "author_display_name": "TrickyTrotter",
+      "author_alias": "TrickyTrotter",
+      "developer_response": null
+    },
+    {
+      "id": "1490762489235727",
+      "score": 4,
+      "review_title": "Work in progress, but very good.",
+      "review_description": "Not sure what is planned down the road with this but\nif an 18 hole practice (putt only) course was added, I would call it complete. Add 18 hole mini putt courses, even better. Will just have to see.",
+      "date": 1775652455,
+      "review_helpful_count": 0,
+      "author_display_name": "fatherfungus",
+      "author_alias": "fatherfungus",
+      "developer_response": {
+        "body": "Thank you for the feedback! The main focus in the coming months is on increasing the amount of content in the app, so expect to see a lot more holes, courses and things to do!",
+        "date": 1775702713
+      }
+    },
+    {
+      "id": "1228451120340912",
+      "score": 3,
+      "review_title": "Green in mid air",
+      "review_description": "No matter how many times I set my floor hight or reset my boundaries, the green is somewhere in mid air and often vertical rather than horizontal! Obviously this makes the game unplayable.\nUpdate: It finally set to my floor after doing nothing different in the set. Now that the game is at ground level, it is actually quite good. You havecto nake sure you keep your head down long enough after hitting the ball in it won't track it. Also, if you take a practice swing, it thinks your have hit the ball so is a bit difficult to get the weight of your putt how you want it. All in all, worth £11.99 but a bit of room for improvement.",
+      "date": 1781978559,
+      "review_helpful_count": 0,
+      "author_display_name": "Rakka1974",
+      "author_alias": "Rakka1974",
+      "developer_response": null
+    },
+    {
+      "id": "1039371189254486",
+      "score": 5,
+      "review_title": "Excellent practice tool",
+      "review_description": "While the lines showing the track of each putt is very useful I am finding the clutter of balls around the hole a distraction. An option to hide the balls but keep the lines would be most welcome. Otherwise very pleased with my purchase.\n\nEDIT: Superb response from developer. Issue sorted very quickly and review upgraded to 5 stars.\n\nEDIT: Recently I have been having issues with inconsistent ball speeds where the same putting stroke results in massively different distances. I could live with the odd glitch but this is happening far too often making the app unusable. Could it be something to do with set up or lighting? Much as I love the potential that this app has to continue using it with the issues I am having is counter productive.\n\nEDIT: Once again an excellent response from the developer (thank you). My issues were clearly linked to inadequate care during set up and maybe using a ball with too many markings on it. I really love this app so very pleased to have got it working normally again. Back to 5 stars!",
+      "date": 1770558625,
+      "review_helpful_count": 5,
+      "author_display_name": "DSJ51",
+      "author_alias": "DSJ51",
+      "developer_response": {
+        "body": "That sounds strange and is most likely to do with the setup. First thing would be to make sure the floor height within the meta quest system settings is set as close as possible to the putting surface. After that, within the app, go into settings->space setup and move the handles, which should make the play area snap exactly to the floor. After that, try the following:\n\n- Make sure there is enough visual contrast between the ball and the putting surface within the tracking rectangle. Avoid similar colors or dim lighting\n- Make sure there are no objects or markings that are of similar color to the ball within the tracking rectangle. For example, when using a white ball, try to avoid having white lines or markings within the tracking rectangle\n- Make sure the ball doesn’t have big logos or markings. Small logos are fine but a solid single color ball will work best\n\nHopefully these steps resolve the issues. If not, feel free to reach out on discord and I can help work through it https://discord.gg/wkDcwCEBzJ",
+        "date": 1770550824
+      }
+    },
+    {
+      "id": "2815080735514440",
+      "score": 5,
+      "review_title": "Rough but Functional",
+      "review_description": "Menus/UI could look cleaner\nGraphics would be cool if they take a real vr fishing approach or even a more stylized approach. \nOverall it works and it’s a load of fun. I’m going to sink hours into this when the Texas heat is too hot. \nWould love to give more feedback if there’s a discord available \n￼",
+      "date": 1779692136,
+      "review_helpful_count": 1,
+      "author_display_name": "DjSoloDolo",
+      "author_alias": "DjSoloDolo",
+      "developer_response": {
+        "body": "Thanks for the review and the feedback, it’s always helpful! The focus up to now has been the feel and accuracy of the core app and the ease of setup. Since it’s a totally new approach with no existence proof, it takes a lot of trial and error to get things working well. Expect to see more content, including more stylized stuff, before it moves out of Early Access. \n\nFeel free to join the discord, would be happy to hear more feedback: https://discord.gg/wkDcwCEBzJ",
+        "date": 1779772607
+      }
+    },
+    {
+      "id": "1018558088003685",
+      "score": 1,
+      "review_title": "Confused",
+      "review_description": "Purchased Putt Dojo on the recommendation from my brother, he loves it. I probably would too if I can get it to work. My 3S won’t pick up on my ball and club. It does work on virtual. I’ve tried black surface, plain white ball, and more light.",
+      "date": 1771864478,
+      "review_helpful_count": 0,
+      "author_display_name": "Jgeorge13",
+      "author_alias": "Jgeorge13",
+      "developer_response": {
+        "body": "Hi sorry to hear about the issues. A few things to try:\n1. Make sure the headset has camera permissions (it asks in a pop up initially, but if you hit “no” you'll need to re-enable it). You can find it in the headset system settings under “Privacy & safety->App permissions->Headset cameras”, ensure Putt Dojo is on\n2. Make sure that the headset floor level is set to your putting surface. It's in the headset system settings under “Environment setup->Boundary->set floor level”\n3. Once the floor level is set, go into the app and select Space Setup and move the handles slightly, which should snap everything exactly to the putting surface\n4. Place a ball in the black square and look at it. The black square should disappear and it should be ready to putt\nThe next update shipping soon should improve the setup process and make it easier",
+        "date": 1771894744
+      }
+    },
+    {
+      "id": "868964216021343",
+      "score": 5,
+      "review_title": "Amazing app with tons of potential.",
+      "review_description": "Set up was a bit confusing at first but once you figure controls out and get the green set up it is stunning. Great feel and feed back.\nYes there is a bit of room for improvement or adding a few more options \"multi-player would be fabulous so we can stand and talk and putt, a putt putt course type green that ypu proceed through with each putt. \nThis App has soo much potential! Keep building it up yall, it can only get better.",
+      "date": 1767542183,
+      "review_helpful_count": 5,
+      "author_display_name": "Husalife",
+      "author_alias": "Husalife",
+      "developer_response": null
+    },
+    {
+      "id": "930410676824523",
+      "score": 5,
+      "review_title": "Legitimately Impressive",
+      "review_description": "Even after reading some quite positive reviews, I didn't expect this to work as well as it does. I used it on my 12ft putting mat, and the app had no issues tracking my ball. Setup is quick, easy, and intuitive, and surprisingly accurate. I tested it against real-life shots, and after dialing in green speeds, I would watch the virtual ball roll in the hole at the same time I'd hear my real ball hit the back of the cup. As an at-home practice aid, this is already quite incredible, and I look forward to seeing this app get even better in the future.",
+      "date": 1766873337,
+      "review_helpful_count": 3,
+      "author_display_name": "Lagoonies41",
+      "author_alias": "Lagoonies41",
+      "developer_response": null
+    },
+    {
+      "id": "1510750124040003",
+      "score": 5,
+      "review_title": "Fantastic Golf App",
+      "review_description": "This is VR golf on the next level. It looks fantastic, plays great and worth every penny. This app should be in every golfers practice routine.￼",
+      "date": 1779607208,
+      "review_helpful_count": 1,
+      "author_display_name": "bignycdon",
+      "author_alias": "bignycdon",
+      "developer_response": null
+    },
+    {
+      "id": "1432538598323243",
+      "score": 5,
+      "review_title": "Awesome putt practice tool.",
+      "review_description": "Easily worth the money.",
+      "date": 1771367004,
+      "review_helpful_count": 1,
+      "author_display_name": "AppleF",
+      "author_alias": "AppleF",
+      "developer_response": null
+    },
+    {
+      "id": "940810115773722",
+      "score": 1,
+      "review_title": "Couldn't get it to work",
+      "review_description": "I've tried multiple environments, different matts for contrast, different balls, but it's really picky on when it picks up on the ball.\nThe type of matt/carpet shown in video dont seem to be good enough in reality.\nReally liked the idea and concept but it didn't work.",
+      "date": 1764889353,
+      "review_helpful_count": 3,
+      "author_display_name": "SnakeEyes_0.0",
+      "author_alias": "SnakeEyes_0.0",
+      "developer_response": {
+        "body": "Sorry to hear about the issues. I’d noticed that a few people were having issues with the set-up and tracking, so I’ve rewritten the ball tracking algorithm to make it work better in different conditions and be easier to set up and use. I released the new version just now, so you should see an app update soon to v0.5.1. This version should hopefully work much better for you.",
+        "date": 1764938224
+      }
+    },
+    {
+      "id": "2746214685742582",
+      "score": 4,
+      "review_title": "Good start",
+      "review_description": "I don’t know if it’s worth $15 yet, but I’ll stick with it to support the effort. Works for me but the speed of the hit is way too fast.  I set the stemp setting to the lowest at 6 and it’s still much to fast for that stemp reading. My home course is a 10-11 on stemp and this setting at 6 putts faster than my greens. I hope that can be fixed.",
+      "date": 1772988338,
+      "review_helpful_count": 0,
+      "author_display_name": "CaptnTim",
+      "author_alias": "CaptnTim",
+      "developer_response": {
+        "body": "Thanks for the feedback and for supporting the project. Green speed calibration is something I'm actively working on, so the feedback is helpful. The goal is to make the simulation match real-world putting as closely as possible, and you should expect to see continued improvements to the tracking and physics over time.",
+        "date": 1772934602
+      }
+    },
+    {
+      "id": "1031832370005489",
+      "score": 5,
+      "review_title": "Pretty cool app",
+      "review_description": "Let’s see what it’s worth once winter is over. For now, ultimate fun.",
+      "date": 1768234791,
+      "review_helpful_count": 1,
+      "author_display_name": "CuriousFlamingo.7844",
+      "author_alias": "CuriousFlamingo.7844",
+      "developer_response": null
+    },
+    {
+      "id": "1494134041675418",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "See above",
+      "date": 1765513615,
+      "review_helpful_count": 2,
+      "author_display_name": "Backcut",
+      "author_alias": "Backcut",
+      "developer_response": null
+    },
+    {
+      "id": "629354783588657",
+      "score": 5,
+      "review_title": "Excellent work in progress",
+      "review_description": "Yep, there are a few mistracking issues and set up requires good lighting, dark mat, white ball etc. However, considering the fact that you can use a real putter, and the putting simulator I was going to buy is 500 euros, great experience! The dev is also super responsive on Discord.",
+      "date": 1759143177,
+      "review_helpful_count": 4,
+      "author_display_name": "RosieP69",
+      "author_alias": "RosieP69",
+      "developer_response": {
+        "body": "Thank you for the feedback and for joining on Discord! I'll keep improving the tracking algorithm to minimize the missed putts in different conditions. I hope this app can be the best way to practice putting at home!",
+        "date": 1759309737
+      }
+    },
+    {
+      "id": "891928470396241",
+      "score": 4,
+      "review_title": "Awesome",
+      "review_description": "please add virtual club external accessories (amvr golf club) so this will be perfect for those who don't have a real putter or golf ball.",
+      "date": 1771087252,
+      "review_helpful_count": 0,
+      "author_display_name": "S.e.x.Y",
+      "author_alias": "S.e.x.Y",
+      "developer_response": null
+    },
+    {
+      "id": "744943992040784",
+      "score": 5,
+      "review_title": "True innovation for the Quest 3",
+      "review_description": "I'm addicted to Golf+ and also Walkabout Golf, so the sale price for this app was tempting.  I had low expectations, imagining that there would just be a flat putting mesh network that would quite quickly bore.  How wrong I was!  This app simulates real contoured greens in Endless mode, and you can set parameters in practice mode.  Only one glitch: the parameter sliders are a bit temperamental.  Ball tracking excellent (white ball on blue floor).  Greens difficult to read but maybe its because I'm coming from Golf+ which uses a slightly different system. (I putt well Golf+ but only very average in real life - my weakness is reading greens).   I'd like the option to quickly overlay/remove the grid mesh in this app.  This might enable a finer mesh to be used so that reading green contours might feel more realistic.  An option to view putts from 90, 180  270 and then back to 0 degrees (perhaps by touching thumb and forefinger) would also be good.  Also, perhaps, a setting which by default shows you an aim point for each putt? Mixed reality was great - love how the putting green could fill up an entire side of wall, with a virtually seamless portal.  Am I right to think that Stimp in Endless mode is whatever  it is set as in Practice ?  This simulation has lots of potential, but even as is, it's an experience every real-life golfer should try.  I can't wait to see how the app develops.\n\nUpdate:  after experimenting with turning grid off,  it is very, very  difficult to discern contours accurately.  2-3 foot putts with large breaks also impossible to read due to mixed reality intruding.  I am  learning AimPoint, which requires you to sense' slope kinetically.  Not possible with this app, but would be useful if it displayed %slope at 25%, 50% and  75% along putting line. Then I can calculate aimpoint myself.",
+      "date": 1756630039,
+      "review_helpful_count": 2,
+      "author_display_name": "Gazonymous",
+      "author_alias": "Gazonymous",
+      "developer_response": {
+        "body": "Thank you for the detailed feedback. You’re right about the parameter sliders being hard to use - the UI system across the board could definitely use some work. The stimp in endless mode is currently hardcoded to 9. I’ll have a new release out in the next few days where you can set the stimp, and also includes a few more options in endless mode which some people have asked for.\n\nThat’s very useful feedback about green reading and the grid. Ultimately some kind of visualisation is required since, as you mentioned, you’re missing a lot of real world cues for slope, even in a VR simulation.\n\nGolf+ has done a great job with their contour lines system, but there’s an issue with it in my opinion. The good part is that, unlike the standard grid-based method, it gives you an idea of slope for every point on the green. A grid-based visualisation relies on the player mentally interpolating and estimating the slope in the areas in between the grid lines, which is not ideal. The issue I’ve noticed though is that the Golf+ method can confuse some people, because contour lines animated in that way move quicker over flat areas and slower over steep areas. It’s a reasonable intuition that the faster the lines are moving, the more the ball path will be perturbed in that area, but that’s exactly opposite to how it works. Basically I think there’s still room for innovation and improvement in contour visualisation and I’ve been experimenting with some different approaches. You should see some of these improvements in a release soon, which should hopefully address your issues. Thanks again for the great feedback!",
+        "date": 1756644760
+      }
+    },
+    {
+      "id": "826619030524002",
+      "score": 5,
+      "review_title": "Real Ball tracking",
+      "review_description": "Very neat concept, and the basics of the app seem well enough laid out, but I had problems getting the real ball tracking working at first. The yellow tracking dot was flickering, making me wonder if  lighting was an issue. I found that the white markings on the perfect practice mat I was using were confusing the tracking and that going to a solid color surface solved the problem. It works great now. \n\nWhen configuring a practice area to change hole distance, etc, there is no confirmation that the change has taken place on the dashboard. You have to look at the putting green to confirm the changes have taken place. (Changing hole distance or break).\n\nGetting comfortable with hand gestures to change settings for different practice holes is very helpful so you don't have to mess with controllers.\n\nOtherwise a great app and a great value. The infinite play provides a lot of diversity to putting practice beyond a basic mat. It's great to try a longer putt then have to putt out and finish. \n\nMuch better feel than putting on my SIM with l launch monitor and projector/screen. The goggles can be a bit heavy, but I have the aftermarket strap that makes them more comfortable. Highly recommended. Can't wait the year or two for AR Glasses support. Not sure if this would work with 3DOF or whether it requires the 6 that Quest has.",
+      "date": 1756051591,
+      "review_helpful_count": 2,
+      "author_display_name": "bushmill2025",
+      "author_alias": "bushmill2025",
+      "developer_response": {
+        "body": "Thanks for the feedback. Yes, if the yellow tracking dot flickers it means the tracking is not ideal. The tracking rectangle is the important area to set up correctly.\n\nThe most common issue is color contrast. If you’re using a white ball, make sure the putting surface/carpet is a darker/different color and doesn’t have any markings that are similar color to the ball within the tracking rectangle. The second most common issue is lighting. Make sure you have good, uniform lighting and avoid harsh shadows within the tracking rectangle, including shadows from your own body.\n\nFor a white ball it’s usually best to reset the real ball color sliders as they can be a bit advanced to adjust. If you use a clean white ball with minimal logos, a contrasting putting surface and uniform lighting, the defaults should be pretty reliable. You can get very good results with a different colored golf ball, but it requires a bit of adjustment and fine tuning of the color sliders.",
+        "date": 1756050656
+      }
+    },
+    {
+      "id": "1702903137056754",
+      "score": 5,
+      "review_title": "Excellent.",
+      "review_description": "I've been wanting to build a putting green for a while now but haven't yet because of the price and space it takes up. I saw this app featured on uploadvr and it was a no brainer to download. \n\nOff the bat, I noticed that the system didn't recognize the ball above my carpet because my carpet was a little too close to the color of the ball. I ended up placing the ball off on top of dark mat to ensure the contrast was good enough and from there, everything worked very well.\n\nOverall, it's pretty incredible. The UI, while it can use a bit of a face lift and hand tracking isn't perfect, is intuitive enough. The tracking feels accurate and the mixed reality nature of everything is awesome. Having your wall turn into a window to a putting green is one of those things I love about this technology.\n\nIn it's current form, it's solid and worth more than what they're asking. Despite it being solid, I'm really hoping they expand on the overall experience.\n\nSuggestions to the dev team:\n\n-add detailed putt stats (ball speed, launch direction, distance, putter path and impact angle if possible)\n-add real course greens and a more detailed background environment\n-gamify the experience by adding additional games/multiplayer. The opportunities for mini games are completely endless. just make sure to avoid making it cheesy.",
+      "date": 1753575729,
+      "review_helpful_count": 4,
+      "author_display_name": "JR4D",
+      "author_alias": "JR4D",
+      "developer_response": {
+        "body": "Thank you for the feedback! Ball speed and launch direction are in there already, it’s just a bit hidden as it’s shown on a panel right behind the hitting area. Distance should be easy to add. Putter path and impact angle should be possible as well but will require a bit more work. \n\nYou’re right that the UI needs a facelift, as does the 3d content. My focus up to this point has been to make sure that the core gameplay loop and tracking system is super solid, as it’s the foundation of the whole experience. The next phase will be over the next few months, where I plan to expand the range of gameplay to make the game a lot more fun, adding content and strategic depth. Thank you for the suggestions as well, you should definitely see things along those lines over the next few months! Stay tuned!",
+        "date": 1753674457
+      }
+    },
+    {
+      "id": "749411201583252",
+      "score": 5,
+      "review_title": "This has real potential!",
+      "review_description": "I just played it for 45 minutes straight. The first 10 minutes I spent calibrating the ball and the environment. After that, I tried out various putts. It’s seriously fun, and I just wanted to keep putting! It works really well if you don’t place the ball stop too far away, so you can use the putter to roll the ball back each time. At some point, I got the feeling that this game has huge potential and absolutely needs further development. Not because it doesn’t work – it does – but because I’d love a multiplayer putting competition! Or how about the idea of doing tee shots in the garden that land in a virtual environment? Okay, maybe I’m dreaming – but hey, I’m allowed to dream, right? In any case: please, please keep working on this. I’m already giving you five stars for the idea and gameplay!\nEDIT: I just played it another 45 minutes. I can't stop. Even it's v0.3!",
+      "date": 1753647485,
+      "review_helpful_count": 2,
+      "author_display_name": "HairTaylor",
+      "author_alias": "HairTaylor",
+      "developer_response": {
+        "body": "Thank you for the feedback. It's great to hear that you're enjoying it. I plan to add a lot more to it over the coming months, so stay tuned!",
+        "date": 1753674672
+      }
+    },
+    {
+      "id": "1597809601655709",
+      "score": 5,
+      "review_title": "",
+      "review_description": "I don’t usually write reviews, but I love this mixed reality putting! The tracking with my real ball has been dead on. Can’t wait to see what you do next.",
+      "date": 1765856600,
+      "review_helpful_count": 1,
+      "author_display_name": "noahdriveris",
+      "author_alias": "noahdriveris",
+      "developer_response": null
+    },
+    {
+      "id": "726936533374569",
+      "score": 5,
+      "review_title": "This has a lot of potential.",
+      "review_description": "Edited for new version,\n\n5 July 2025\nNew version has included most of the features I wanted, really enjoying having a virtual 10m putting green in the house. \n\n4 July 2025\nIt’s very barebones atm July 2025, but the bones are great. With a few features like being able to repeat puts over again and a way to control when using real ball? The physics and ball speed and realism make it a viable practice tool.",
+      "date": 1751705433,
+      "review_helpful_count": 4,
+      "author_display_name": "Juddly",
+      "author_alias": "Juddly",
+      "developer_response": null
+    },
+    {
+      "id": "789627444235423",
+      "score": 3,
+      "review_title": "Can’t get the ball to track",
+      "review_description": "Downloaded the app, set up the green and did the real ball set up.  The ball set up was confusing.  I just can’t get the ball to track.  It’s a white ball on a dark green putting mat and the area is well lit.  No idea what I’m doing wrong. Help!",
+      "date": 1758150930,
+      "review_helpful_count": 0,
+      "author_display_name": "Eao1973",
+      "author_alias": "Eao1973",
+      "developer_response": {
+        "body": "Hi, thank you for the feedback and sorry to hear about the issues. From what you’ve described, the problem might be to do with lines that are of similar color to the ball in your tracking area. Try using Space Setup to move the app such that the Tracking Area is only on the solid green part of the mat. \n\nI’d also hit the Reset To Defaults (White Ball) in the Set Real Ball Color screen and then look down at your Tracking Area in that screen - you should see the ball appear as white and the background black. If the background is showing up as white in some areas, there might be some issues, the Value Range slider can help in that case. I’m hoping to improve this in a future release to make the setup easier, but from what you described it should work well in your space.",
+        "date": 1758160491
+      }
+    },
+    {
+      "id": "4201241813437059",
+      "score": 5,
+      "review_title": "Reset Boundry?",
+      "review_description": "I'll give 5 stars and update later if necessary. Is there a way to reset the boundry? I go to meta settings and establish a new boundry, but the putt window stays in the other room. I have even restarted the headset but the window is in the original location. Not sure if its a quest bug, or software problem.\n\nThanks for the reply. Really great app btw!! A total steal at $6. (I did initially go to space setup but it wouldn't update because I did not reset floor height when I went from basement to main floor. Something for others to think about if they run into this issue.)\n\nUpdate: this really is a legit training aid. When I first started, I was about 70% on 8 ft putts. This app drives home the point about aiming at a point 8\" - 1 ft in front of you. After one weekend, I can routinely hit 20 in a row.",
+      "date": 1753803924,
+      "review_helpful_count": 0,
+      "author_display_name": "JayAlexK",
+      "author_alias": "JayAlexK",
+      "developer_response": null
+    },
+    {
+      "id": "1315523856796151",
+      "score": 5,
+      "review_title": "Great for training",
+      "review_description": "Could you please add the option for metric for backswing length in cm. We cant cope with inches :)",
+      "date": 1757276414,
+      "review_helpful_count": 1,
+      "author_display_name": "Pebee",
+      "author_alias": "Pebee",
+      "developer_response": null
+    },
+    {
+      "id": "757105070108444",
+      "score": 5,
+      "review_title": "Impressed but frustrated",
+      "review_description": "Got it up and running this afternoon. Worked wellish for 15 min. Now It only tracks 1 in maybe 5 shots. Not sure what im doing wrong. I've used up to ten different golf balls, cant get it to pick up the ball. When it works its flawless but when it doesn't it's annoying. The whole ball calibrating part sucks. I couldn't figure it out. At the end of the day a white golf ball is a white golf ball.  My space is well lit. I tried putting a spot light on the hitting zone that made it worse. Please help. Ill gladly change this to a 5 star, but right now it just isn't. \n\nUpdate: Thank you so much for the well written responce. In case this helps anyone in the future. I was using my 16 foot Dustin Johnson putting Mat it is green with wite lines on it. For what ever reason it was not tracking the ball. I flipped the Mat over that back side is gray with a light pattern. It seems to be working much better. I appreciate your response and am going to change my rating of this product as I believe it can become a legitimate game changer for me.",
+      "date": 1753453727,
+      "review_helpful_count": 0,
+      "author_display_name": "THE.B.PIZZER",
+      "author_alias": "THE.B.PIZZER",
+      "developer_response": {
+        "body": "Thanks for the feedback and sorry to hear that it’s been a frustrating experience.\n\nFrom what you’ve said, It sounds like the issue is probably that the background carpet color is too similar to the ball color. For the ball to be tracked correctly, the cameras need contrast to distinguish between the ball and the background putting surface. This means that a white ball on a white carpet won’t track, and a white ball on a beige or cream colored carpet will be difficult to get working correctly. Adding the spotlight would have made both the ball and the carpet brighter, which can actually reduce the contrast and make the tracking worse. I will emphasize this point more in the app description and instructions as it’s pretty important.\n\nIf you’re stuck with golf balls that are similar to the carpet, you still might be able to get it working by using the real ball color adjustment screen, which I agree is annoying to use. If you look down at the tracking area in that mode, you’ll see that the included areas appear white and the excluded areas appear black. Move the virtual panel over the tracking area, reset it to defaults for a white ball, and try and adjust the bottom three sliders to be as low as possible while still including the ball, that should show up as a crisp white circle. The more areas of white that you see that are not the ball, the worse the tracking will be, so try to reduce the range until you see the crisp white circle of the ball against a black background.\n\nA couple more tips that might help: make sure to use clean golf balls that are free of large logos. Make sure your putter head doesn’t have a large areas similar to the ball color. I’ve improved the tracking algorithm recently to filter these out so they should be less of a problem, but they still may cause issues so I thought I’d mention them.\n\nThe aim is to make the setup for this app as seamless and easy as it can be. I’m hoping to get it to the point where you can put any golf ball down in any environment and it “just works”, but unfortunately it’s still not quite there yet.",
+        "date": 1753414547
+      }
+    },
+    {
+      "id": "1414735119598634",
+      "score": 5,
+      "review_title": "Excellent Putting App",
+      "review_description": "Excellent !!! 5 Stars for now. I was impressed to see progress in my putting already. I can't wait to see what improvements are added in future updates.",
+      "date": 1755708051,
+      "review_helpful_count": 1,
+      "author_display_name": "Itsballoon",
+      "author_alias": "Itsballoon",
+      "developer_response": null
+    },
+    {
+      "id": "905618952625872",
+      "score": 5,
+      "review_title": "Great Practice Tool",
+      "review_description": "Highly recommend to practice putting in the off season. Simple app but does what its designed for well! Being able to use a physical ball and putter is awesome!",
+      "date": 1762125287,
+      "review_helpful_count": 1,
+      "author_display_name": "Pierre330",
+      "author_alias": "Pierre330",
+      "developer_response": null
+    },
+    {
+      "id": "682201898315525",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Excellent app to practice putting distance and line.",
+      "date": 1752930236,
+      "review_helpful_count": 3,
+      "author_display_name": "dragonhawk2025",
+      "author_alias": "dragonhawk2025",
+      "developer_response": null
+    },
+    {
+      "id": "24262399380083284",
+      "score": 5,
+      "review_title": "Wow",
+      "review_description": "10/10",
+      "date": 1753297022,
+      "review_helpful_count": 1,
+      "author_display_name": "dbradleyfl",
+      "author_alias": "dbradleyfl",
+      "developer_response": null
+    }
+  ],
+  "total": 32,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 2,
+  "fetched_at": "2026-06-22T03:52:04Z"
+}

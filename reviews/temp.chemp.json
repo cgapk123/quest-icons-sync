@@ -1,0 +1,42 @@
+{
+  "app_id": "30968744539440475",
+  "package_name": "temp.chemp",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Chempworks",
+  "rating_average": 4.1428571428571,
+  "rating_count": 7,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1159455010581408",
+      "score": 3,
+      "review_title": "i need help :(",
+      "review_description": "Idk know how to do this",
+      "date": 1780706032,
+      "review_helpful_count": 0,
+      "author_display_name": "RobloxNooby",
+      "author_alias": "RobloxNooby",
+      "developer_response": null
+    },
+    {
+      "id": "827337026652366",
+      "score": 5,
+      "review_title": "👍",
+      "review_description": "👍",
+      "date": 1761370135,
+      "review_helpful_count": 6,
+      "author_display_name": "chappyross",
+      "author_alias": "chappyross",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T03:58:53Z"
+}
