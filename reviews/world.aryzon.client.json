@@ -1,0 +1,42 @@
+{
+  "app_id": "5775011595893012",
+  "package_name": "world.aryzon.client",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Aryzon.World",
+  "rating_average": 4.1666666666667,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "486525837877734",
+      "score": 5,
+      "review_title": "Platform has a lot of potential!",
+      "review_description": "This platform has a lot of potential for those who are looking to build VR worlds in VR itself. The nodes for adding functionality to objects are amazing, as it means you don't need to program anything yourself; just place a node (or multiple!) and add the functions that you want to the object you want to do this to.",
+      "date": 1732779541,
+      "review_helpful_count": 5,
+      "author_display_name": "RD_CMO",
+      "author_alias": "RD_CMO",
+      "developer_response": null
+    },
+    {
+      "id": "946250527066614",
+      "score": 5,
+      "review_title": "Great tool to easily create prototypes",
+      "review_description": "Creating quick prototypes of ideas or learning materials is rather easily done! The social impact they have as mission is thereby very respected!",
+      "date": 1710179666,
+      "review_helpful_count": 1,
+      "author_display_name": "Leon_Schipper",
+      "author_alias": "Leon_Schipper",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T04:25:55Z"
+}

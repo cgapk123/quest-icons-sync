@@ -1,0 +1,1041 @@
+{
+  "app_id": "2063931653705427",
+  "package_name": "xyz.skybox.player.ovr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "SKYBOX VR Video Player",
+  "rating_average": 4.4241442171359,
+  "rating_count": 4937,
+  "review_count": 938,
+  "reviews": [
+    {
+      "id": "1107050405827440",
+      "score": 4,
+      "review_title": "Last update made VR videos look weird",
+      "review_description": "Yesterday, the app got updated and since then the 180 VR SBS content looks weird. It is still 3D but compared to before, the angle of the field of view is somehow different and misplaced and the image feels less immersive. It seems to be a tick more fisheye like. I tried tinkering with all available display settings but could not change it. @Devs whatever you have done to this former awesome app: Please revert it. And always think of the golden rule to never change a running system.",
+      "date": 1777722722,
+      "review_helpful_count": 14,
+      "author_display_name": "dhukkagg",
+      "author_alias": "dhukkagg",
+      "developer_response": {
+        "body": "Hi, we are working on a fix for this display issue. To make sure we're heading in the right direction, could you confirm a quick detail? Did you adjust the \"3D Offset\" while watching the VR180 video? Also, did you notice a drop in immersion after making that adjustment? Thanks for your help!",
+        "date": 1778580905
+      }
+    },
+    {
+      "id": "968495562567556",
+      "score": 1,
+      "review_title": "A video works today, won't work tomorrow",
+      "review_description": "This has been a consistent problem for a while now. A video can play perfectly fine one day and then the next day it will be choppy and laggy. It makes no sense to me. I've tried deleting my history, not deleting my history, restarting the app, restarting my quest, restarting my PC,  reinstalling the app, using a wired connection, copying the file, renaming the file, moving the file to a different drive, etc, etc. Its so frustrating.",
+      "date": 1778392216,
+      "review_helpful_count": 5,
+      "author_display_name": "IRB2233",
+      "author_alias": "IRB2233",
+      "developer_response": {
+        "body": "Hello, we improved the network streaming performance in the latest beta version. You can update to the beta version 2.0.2 and give it a try. \n\nOn your Quest 2 or Quest 3, please go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the beta update.\n \nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1780292049
+      }
+    },
+    {
+      "id": "1697240724773572",
+      "score": 1,
+      "review_title": "Good if U like buffering no image movies",
+      "review_description": "Just purchased (again) as I upgraded to a Quest 3 from a Oculus GO and I can't use my old version. It's a shame  because that version worked. Now I can't watch anything in VR without buffering every few seconds. I also can't watch some standard movie files with images, only sound.  Other free or trial players can play them all without problems using the exact system. Wish there was a trial where I could have tested it before purchasing, as I definitely would not have. I went by all the claims SKYBOX said, which were all rubbish. I'd give it zero stars if I could.",
+      "date": 1779587447,
+      "review_helpful_count": 3,
+      "author_display_name": "DaBeagle",
+      "author_alias": "DaBeagle",
+      "developer_response": {
+        "body": "Hello, we improved the network streaming performance in the latest beta version. You can update to the beta version 2.0.2 and give it a try. \n\nOn your Quest 2 or Quest 3, please go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the beta update.\n \nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1780291964
+      }
+    },
+    {
+      "id": "1153583887842015",
+      "score": 1,
+      "review_title": "They just keep ruining it...",
+      "review_description": "This new version sucks!  The Pro HD garbage was turned on by default and it looked and sounded horrible.  All video was washed out and blown out at the same time.  The audio sounded strangely weird and  all audio on every video was out of sync.  Once I turned the Pro HD garbage off it all looked and sounded normal.  But their claims of faster thumbnail loading is an outright lie.  They now load even slower!  They also screwed up how the app exits videos and pics.  It now takes much longer to exit and get back to the menu.  So you're staring at black for almost two seconds.\n\nResponse to Dev, SMB share from a Windows 11 PC.  The v1.2.1 update didn't fix anything.  Thumbnails  (on newly browsed folders) are still super slow to load.  You again moved where Delete is.  Can you please make up your mind and leave it alone?  We delete so often it's muscle memory and you bouncing it around between middle of menu to bottom of menu is very annoying.  The new grouping wasn't needed at all.  All it did was clutter up the UI.  If you're going to mess with the UI that drastically then make it an OPTION that can be turned off/on.",
+      "date": 1781033221,
+      "review_helpful_count": 1,
+      "author_display_name": "jemlay",
+      "author_alias": "jemlay",
+      "developer_response": {
+        "body": "Hello, if the new version isn't working well for you, would you be open to rolling back to the previous version 1.1.9? That should get things back to normal while we work on fixing the problems you mentioned. \n\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"v1.1.9 Release\" and install the update.\n\nIn addition, we just created our Discord server. You can join and directly chat with our devs. Here is the Discord link: https://discord.gg/TqwWDmCvrk",
+        "date": 1781322942
+      }
+    },
+    {
+      "id": "1065692729970858",
+      "score": 4,
+      "review_title": "Dear Developers, Please Read This!",
+      "review_description": "Great Potential, But...\n\n1. Lack of Independent Distance Adjustment (A Win for Moon VR)\nOne of the biggest letdowns in SKYBOX VR is that you cannot adjust the screen distance independently. Currently, screen size and distance are linked together—changing one automatically forces the other to change.\nIn contrast, Moon VR actually supports this feature flawlessly. In Void or MR mode, Moon VR allows you to position the screen exactly where you want it and at the precise size you need. You can even grab the screen and twist it to rotate or tilt it 360 degrees.\nBecause SKYBOX completely lacks this level of freedom, it leaves a lot to be desired. This is the main reason why I simply cannot give up on Moon VR just yet.\n\n2. Impressive Cinema Details, But Unrealistic Seating Layout\nWhile the visual details of the movie theater environments are absolutely stunning, the seating arrangement feels quite unrealistic.\nThe front-row seats are absurdly close to the screen—hardly 3 to 4 meters away. Given the size of the screen, there should be a minimum distance of at least 6 meters. A theater like this wouldn't exist in real life. It might seem like a minor detail, but making it more realistic would massively boost the immersion and make it feel like a real cinema.\n\n3. Need bright backgrounds instead of just dark ones\nDue to the nature of the Quest 3’s pancake lenses, dark backgrounds cause severe ghosting (glare). Please add a Void environment that supports custom colors like white or light blue.\n\n4. No GIF Support\nWhile it is great to be able to view photos via AirScreen, the app currently does not support GIFs (they just appear as static images). It would be a fantastic addition if GIF support could be implemented in a future update.",
+      "date": 1779932589,
+      "review_helpful_count": 5,
+      "author_display_name": "gnr2045s",
+      "author_alias": "gnr2045s",
+      "developer_response": {
+        "body": "Hello, thanks for sharing your ideas with us. We've noted them down and will discuss them as we plan future updates.",
+        "date": 1780385631
+      }
+    },
+    {
+      "id": "1140282332506842",
+      "score": 2,
+      "review_title": "None of my vr videos work anymore",
+      "review_description": "Just plain ol' ve videos, mp4 avi, h264, less than 2gb, from usb-c stick. Worked perfectly for months and now... either loading icon forever or just not playing. Too bad, paid premium. Was good while it lasted. Lmk when you push the next update, i'll see if it comes back",
+      "date": 1781160455,
+      "review_helpful_count": 0,
+      "author_display_name": "LostyJames",
+      "author_alias": "LostyJames",
+      "developer_response": {
+        "body": "Hello, we recently noticed the Meta OS v2.4 update can break USB playback.\n\nTo help us figure out whether your issue is caused by Meta update or our app, could you roll back to SKYBOX v1.1.9 and test if USB videos play normally?\n\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select “v1.1.9 Release” and install the update. Please let us know if v1.1.9 works well for you.\n\nIn addition, we just created our Discord server. You can join and directly chat with our devs. Here is the Discord link: https://discord.gg/TqwWDmCvrk",
+        "date": 1781322925
+      }
+    },
+    {
+      "id": "1514677703770911",
+      "score": 1,
+      "review_title": "Problems with latest version",
+      "review_description": "For the last 2 weeks when I close a VR video the screen goes black but audio keeps playing for about 2 minutes before closing. I am using a Quest 2 unit. No",
+      "date": 1781892781,
+      "review_helpful_count": 0,
+      "author_display_name": "ben.benji.737448",
+      "author_alias": "ben.benji.737448",
+      "developer_response": null
+    },
+    {
+      "id": "1102873822914514",
+      "score": 1,
+      "review_title": "Very Bad",
+      "review_description": "After the update, I am unable to watch any videos properly. In every video i am getting a buffer pause of 2.5 sec.",
+      "date": 1779171049,
+      "review_helpful_count": 5,
+      "author_display_name": "shazz.hash",
+      "author_alias": "shazz.hash",
+      "developer_response": {
+        "body": "Hello, we improved the network streaming performance in the latest beta version. You can update to the beta version 2.0.2 and give it a try. \n\nOn your Quest 2 or Quest 3, please go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the beta update.\n \nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1780291986
+      }
+    },
+    {
+      "id": "1513190407140163",
+      "score": 1,
+      "review_title": "It used to be a great app",
+      "review_description": "The latest update trashed performance. It didn’t even add any features that I care on top. Get rid of your product owner.",
+      "date": 1777817110,
+      "review_helpful_count": 7,
+      "author_display_name": "artsiom.yemelyanenka",
+      "author_alias": "artsiom.yemelyanenka",
+      "developer_response": {
+        "body": "Hello, could you let us know which specific performances you feel have gotten worse and what features you've love to see? We are listening and will do our best to optimize.",
+        "date": 1781060267
+      }
+    },
+    {
+      "id": "26946297088373424",
+      "score": 1,
+      "review_title": "Not good.",
+      "review_description": "Constantly stops to buffer videos being streamed on a wifi 6 network makes this unusable. I know the problem is the app because all other video apps work fine without buffering.",
+      "date": 1780145171,
+      "review_helpful_count": 0,
+      "author_display_name": "Pauloalex",
+      "author_alias": "Pauloalex",
+      "developer_response": {
+        "body": "Hello, we improved the network streaming performance in the latest beta version. You can update to the beta version 2.0.2 and give it a try. \n\nOn your Quest 2 or Quest 3, please go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the beta update.\n\nIn addition, we just created our Discord server. You can join our Discord server and directly chat with our devs. Here is the Discord link: https://discord.gg/TqwWDmCvrk",
+        "date": 1781322970
+      }
+    },
+    {
+      "id": "1191994790656977",
+      "score": 1,
+      "review_title": "Awful app don’t buy",
+      "review_description": "It is so bad I feel scammed. If you play 4k it stutters the moment you paused or skipped forward. Don’t waist your money.",
+      "date": 1780668678,
+      "review_helpful_count": 0,
+      "author_display_name": "seabass.671999",
+      "author_alias": "seabass.671999",
+      "developer_response": {
+        "body": "Hello, are you playing local files, or streaming files via SMB, DLNA or Webdav?\n\nTo help us dig deeper, could you share the \"Info\" level logs following the steps below? \n \n1. Click SKYBOX's \"Global Settings\", change the \"Logging Levels\" to \"Info\".\n2. Reproduce the issue you mentioned.\n3. Click the \"BUG\" icon in the upper-right corner of \"Global Settings\".\n4. Tick the \"upload logs\" box, and submit the in-app feedback.\n \nIn addition, you can join our Discord server and directly chat with our devs. Here is the Discord link: https://discord.gg/TqwWDmCvrk",
+        "date": 1781323024
+      }
+    },
+    {
+      "id": "1064603970078094",
+      "score": 5,
+      "review_title": "11/10",
+      "review_description": "I was hesitant to spend the $10 initially but now after using the software a good 6 months now i feel foolish for those reservations.  120% worth it and would happily pay double that for its features. Superb work Dev Team <3",
+      "date": 1778306536,
+      "review_helpful_count": 1,
+      "author_display_name": "AbortionIsSpawnKill",
+      "author_alias": "AbortionIsSpawnKill",
+      "developer_response": {
+        "body": "Thanks for your positive review! We will keep optimizing the app.",
+        "date": 1778555492
+      }
+    },
+    {
+      "id": "1107180439152927",
+      "score": 4,
+      "review_title": "Best",
+      "review_description": "I lv this player, try add to add free browser, thats could be more fun to user",
+      "date": 1780305785,
+      "review_helpful_count": 0,
+      "author_display_name": "Diro1981",
+      "author_alias": "Diro1981",
+      "developer_response": null
+    },
+    {
+      "id": "1529387058545545",
+      "score": 3,
+      "review_title": "No 3d ISO support",
+      "review_description": "So many years from 2016 and still does not support iso format for 3d movies unfortunately. Hope some day ..",
+      "date": 1776436020,
+      "review_helpful_count": 4,
+      "author_display_name": "vadzvnik",
+      "author_alias": "vadzvnik",
+      "developer_response": {
+        "body": "Hi, SKYBOX v2.0.2(beta) has already supported ISO format and MVC 3D decoding. You can manually switch to the beta version to try it out.\n\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1776671420
+      }
+    },
+    {
+      "id": "930561193471286",
+      "score": 1,
+      "review_title": "Youtube not working",
+      "review_description": "I purchased a Skybox to stream YouTube. However, shortly after setup, YouTube stopped functioning properly on the device. The browser interface offered for navigation appears confusing and unreliable. I regret the decision to buy this app, as it has not met my expectations. Overall, I have not recommended it to others, considering it a poor investment for limited entertainment options.",
+      "date": 1766457056,
+      "review_helpful_count": 126,
+      "author_display_name": "AdeelSajid",
+      "author_alias": "AdeelSajid",
+      "developer_response": null
+    },
+    {
+      "id": "25475993112101763",
+      "score": 1,
+      "review_title": "Crashes on startup on official v85",
+      "review_description": "Used to like Skybox, but they have been terrible at supporting the app and to communicate with their users.  I don't feel respected.\n\nFor the current issue with v85, having to switch to the beta channel is unacceptable.  If the issue is really resolved, as you stated, release that update on the Live channel, WTF?\n\nOh, and I'm still waiting on that 3D mvc support you promised over 6 years ago now.\n\nSadly, the best solution appears to be our wallets.  The main competing app, 4XVR Player does everything just fine, including 3D movies in mvc format...",
+      "date": 1770828338,
+      "review_helpful_count": 11,
+      "author_display_name": "JanO",
+      "author_alias": "JanO",
+      "developer_response": {
+        "body": "Hello, we released a new build that included the v85 crash fix to the Live channel yesterday. \n\nIf you recently updated to Quest v85 and found SKYBOX Player crashing, please kindly update the app to restore functionality. \n\nIn addition, the beta version now supports MVC 3D. If you'd like to try it out, you can switch to the beta channel.\n\nFeel free to reach out to contact@skybox.xyz if you have any problems. We'll try our best to help you resolve them.",
+        "date": 1770882163
+      }
+    },
+    {
+      "id": "880593368481319",
+      "score": 1,
+      "review_title": "This app spies in you",
+      "review_description": "This app spies on you. It takes screenshots and sends video info and other telemetry to servers.\nAnd this is a paid app. \nGoogle reddit skybox screenshots the developper confirmed this\nI am going to try yo get a refund",
+      "date": 1769465236,
+      "review_helpful_count": 39,
+      "author_display_name": "SillyArmadillo6607",
+      "author_alias": "SillyArmadillo6607",
+      "developer_response": {
+        "body": "Hello, the issue was fixed in the new AirScreen version 2.0.0-620. It will stop taking the screenshots of your displays. You can go to our website to download the new AirScreen Client.\n\nWe always value your privacy and we never intend to violate your privacy. If you'd like to ask for a refund, please contact Meta Support directly for a refund. You can also follow this link to refund.\nhttps://www.makeuseof.com/how-to-refund-oculus-store-purchase/\n \nAs software developers, we cannot address refund issues for users purchasing on Meta platform. Thank you for your understanding.",
+        "date": 1769500039
+      }
+    },
+    {
+      "id": "977111338531596",
+      "score": 1,
+      "review_title": "Stupid",
+      "review_description": "Can't play any video from webdav...",
+      "date": 1778425390,
+      "review_helpful_count": 1,
+      "author_display_name": "user.442729",
+      "author_alias": "user.442729",
+      "developer_response": {
+        "body": "Hi, if you experience playback issues, please try turning off Concurrent Loading  and Show Thumbnails in SKYBOX's Global Settings. Reach out to contact@skybox.xyz if you need further help.",
+        "date": 1778552792
+      }
+    },
+    {
+      "id": "934769343063137",
+      "score": 1,
+      "review_title": "they removed youtube",
+      "review_description": "i no longer really have a reason to use the app because they removed said functionality",
+      "date": 1773021954,
+      "review_helpful_count": 8,
+      "author_display_name": "unreliablygabe",
+      "author_alias": "unreliablygabe",
+      "developer_response": {
+        "body": "Hello, \n\nDue to YouTube API restrictions, we are no longer able to  maintain native API integration. So we remove all YouTube-related features in the Live version. We truly apologize for the inconvenience this may cause. \n\nAs a temporary workaround, you can switch to the beta version, which allows access to YouTube via in-app browser. Please be aware that this method may have some limitations, for example, 3D or VR video playback are  no longer supported.\n\nTo switch to beta channel:\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nReach out to contact@skybox.xyz if you need any help.",
+        "date": 1773041880
+      }
+    },
+    {
+      "id": "840000415873453",
+      "score": 5,
+      "review_title": "Best Lock Screen & more",
+      "review_description": "I have five VR video players on my Meta Quest 3 and I’ve tested a few others, but SKYBOX VR is the only one that genuinely does everything I need. I particularly appreciate the Lock Screen option when viewing my personal local files. It keeps the video fixed in front of my eyes even when I move my head, which is incredibly helpful during my Tai Chi training sessions. I can always see the trainer while still seeing my hands (thanks to hand tracking) and the room around me (via passthrough). It makes a real difference.\nBeyond that, the whole interface is a pleasure to use: clean, intuitive, and full of genuinely useful settings and adjustments. Whether I’m tweaking the viewing angle/height, playback controls, picture settings, or anything else, everything is easy to reach and works exactly as expected.\nNone of the other players I’ve tried comes close to this level of polish or practicality. SKYBOX VR works beautifully for me.\nA big thank-you and congratulations to the developers. You’ve built something outstanding here, and I hope you carry on adding new features and refinements over time. Highly recommended.",
+      "date": 1766579830,
+      "review_helpful_count": 31,
+      "author_display_name": "dmarcel",
+      "author_alias": "dmarcel",
+      "developer_response": null
+    },
+    {
+      "id": "1038415312688262",
+      "score": 1,
+      "review_title": "There's a problem with the installation",
+      "review_description": "I'm installing on Meta Quest 3, it downloads, says it's installing, and then offers to download again. It just downloads but doesn't install..... What should I do? Can you send the APK installation file to my email?",
+      "date": 1773994082,
+      "review_helpful_count": 1,
+      "author_display_name": "RealVAA",
+      "author_alias": "RealVAA",
+      "developer_response": {
+        "body": "Hello, the issue you encountered is likely due to network issues. Please try uninstalling and re-installing. If you need further help, please reach out to contact@skybox.xyz.",
+        "date": 1774259123
+      }
+    },
+    {
+      "id": "829616383577597",
+      "score": 1,
+      "review_title": "You tube",
+      "review_description": "I always used Skybox as my favorite player for watching You tube VR 180 and 360 movies. I now only see the movies domed / fisheye and its not watchable anymore. I downloaded the latest version and looking at you tube through a browser without be able to see it in 3d VR 180/360  i dont use the  skybox app anymore. As a mather of fact i use the standalone You tube app again and can watch VR videos without problems. Skybox was the best for watching you tube but until this is fixed and more what has to be fixed  i not recommend buying this app. It is a waste of money atm.",
+      "date": 1763039428,
+      "review_helpful_count": 96,
+      "author_display_name": "Kachel1963",
+      "author_alias": "Kachel1963",
+      "developer_response": {
+        "body": "Sorry for the inconvenience caused. YouTube now doesn't allow third-party apps to access stereoscopic video resources. You can use SKYBOX to play monoscopic 360°/180° videos from YouTube.",
+        "date": 1763104494
+      }
+    },
+    {
+      "id": "963974100128259",
+      "score": 1,
+      "review_title": "I had high hopes",
+      "review_description": "I had hoped that this would be the right player for me based on the score and reviews, but it seems there is a problem that I can't find a solution for. When I try to play a video on my Quest 3 from an attached USB stick the video buffers to the point of unwatchability. I might get a second of play back and then buffering. Sometimes it buffers for a few seconds, and then plays another second of the video, other times it just buffers until I give up and kill the video. None of the other video players has this issue. \nI may need to get a refund.",
+      "date": 1767318405,
+      "review_helpful_count": 7,
+      "author_display_name": "Shep313",
+      "author_alias": "Shep313",
+      "developer_response": {
+        "body": "Hello, we optimized USB support in the beta version. Please update to the beta version and have a try. \n\nOn your Quest, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nReach out to contact@skybox.xyz if you need further help.",
+        "date": 1767678325
+      }
+    },
+    {
+      "id": "778222885261441",
+      "score": 1,
+      "review_title": "Can't watch YouTube VR",
+      "review_description": "Bought the app because \"relevant\" ratings showed you can watch YouTube VR video.  Should have checked the 1 star rating posted just a few days ago when the developer apologised for the inconvenience because YouTube doesn't allow the showing of VR videos by skybox anymore.  And I don't know why i can't get a refund.",
+      "date": 1763638553,
+      "review_helpful_count": 53,
+      "author_display_name": "yuask54",
+      "author_alias": "yuask54",
+      "developer_response": null
+    },
+    {
+      "id": "890864730132481",
+      "score": 1,
+      "review_title": "Sky Box, VR video player not working",
+      "review_description": "Sky Box, VR video player not working anymore.  When I enter in my Meta quest 3 it’s not picking up my controllers no longer. I tried everything. I deleted the app, reinstall it and still not working. ￼ my hand controller works on everything else on my Meta quest except Sky Box. ￼ it’s like it’s frozen in there but only for skybox. ￼",
+      "date": 1767030475,
+      "review_helpful_count": 6,
+      "author_display_name": "DaveFMacias",
+      "author_alias": "DaveFMacias",
+      "developer_response": null
+    },
+    {
+      "id": "870772182161902",
+      "score": 2,
+      "review_title": "Broken playing video from SMB resources",
+      "review_description": "After last update Skybox (version 2.0.2) i can't playing any video from shared folders in my network. I can see only video thumbs, but when i try to play any video from SMB i get error. Now i rolled back to stable version 1.19 without availability to play passthrough videos. ((",
+      "date": 1766490470,
+      "review_helpful_count": 9,
+      "author_display_name": "devastator555",
+      "author_alias": "devastator555",
+      "developer_response": {
+        "body": "Hello, we fixed some SMB-related issues in the new beta version 2.0.2-3484. Please update the app and try again. Reach out to contact@skybox.xyz if you need any help.",
+        "date": 1766716709
+      }
+    },
+    {
+      "id": "1015814654946213",
+      "score": 1,
+      "review_title": "The app hangs a lot",
+      "review_description": "It hangs and crashes very often. It takes a looooot of time to process, buffer the videos.",
+      "date": 1772111906,
+      "review_helpful_count": 2,
+      "author_display_name": "kaLeo2026",
+      "author_alias": "kaLeo2026",
+      "developer_response": {
+        "body": "Hello, we take the issues seriously. \n\nTo help us investigate the crashes and slow loading, could you please share the app logs with us? We'd like to check what went wrong and try fixing them for you.\n\n1. Click SKYBOX's \"Global Settings\", change the \"Logging Levels\" to \"Info\".\n2. Reproduce the issue you mentioned.\n3. Click the \"BUG\" icon in the upper-right corner of \"Global Settings\".\n4. Tick the \"upload logs\" box, and submit the in-app feedback.",
+        "date": 1772246987
+      }
+    },
+    {
+      "id": "892527779838241",
+      "score": 5,
+      "review_title": "Much better than Big Screen",
+      "review_description": "I have used this app for years and years, since Google Daydream in 2017. It just gets better and better. Now I use it on Quest 3, it is beyond awesome. Whether you look at photos, your 3D movies or VR there is nothing better.",
+      "date": 1766681480,
+      "review_helpful_count": 7,
+      "author_display_name": "DavidDean731",
+      "author_alias": "DavidDean731",
+      "developer_response": null
+    },
+    {
+      "id": "996898436848167",
+      "score": 5,
+      "review_title": "Gg",
+      "review_description": "Gg",
+      "date": 1773554312,
+      "review_helpful_count": 0,
+      "author_display_name": "SixFingaz",
+      "author_alias": "SixFingaz",
+      "developer_response": null
+    },
+    {
+      "id": "1017783568085463",
+      "score": 5,
+      "review_title": "Good for *3D EMERSIVE* movies",
+      "review_description": "You heard me gd",
+      "date": 1772967849,
+      "review_helpful_count": 1,
+      "author_display_name": "staticlyne",
+      "author_alias": "staticlyne",
+      "developer_response": null
+    },
+    {
+      "id": "1009556468905177",
+      "score": 1,
+      "review_title": "V85 can not work",
+      "review_description": "RT\ncan open this app on v85 system",
+      "date": 1770563486,
+      "review_helpful_count": 3,
+      "author_display_name": "ShiroMaple",
+      "author_alias": "ShiroMaple",
+      "developer_response": {
+        "body": "Hi, we have noticed users on the Meta Public Test Channel(PTC) are experiencing crashes when starting SKYBOX VR Video Player. \n\nIf you are on the Quest v85 PTC and run into app crashes, please kindly switch to SKYBOX beta channel. The crash issue has already been fixed in our latest beta build.\n\nHow to switch to the beta channel:\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nIf the above method is helpful, we'd appreciate it if you could update your rating. Reach out to contact@skybox.xyz if you have other concerns.",
+        "date": 1770633873
+      }
+    },
+    {
+      "id": "1203775276143531",
+      "score": 5,
+      "review_title": "Practical",
+      "review_description": "Does what it has to",
+      "date": 1781422549,
+      "review_helpful_count": 0,
+      "author_display_name": "VRutopia",
+      "author_alias": "VRutopia",
+      "developer_response": null
+    },
+    {
+      "id": "847597547991906",
+      "score": 1,
+      "review_title": "Old, unusefull",
+      "review_description": "Air dont work, Local files..... who in 25 year use local files when all wathcing streams... Youtube ? playlists wont work in main channel only 8 video 8 years old. When i i wanted get money back they just ignore me for minimal time when i cant get money back and answer: we are woriking on this ............",
+      "date": 1764558158,
+      "review_helpful_count": 9,
+      "author_display_name": "Viaduk",
+      "author_alias": "Viaduk",
+      "developer_response": {
+        "body": "Hello,\n\nDue to YouTube API restrictions, we are no longer able to maintain native API integration. So we decided to remove all YouTube-related features in SKYBOX v1.1.9.\n\nThis is not an easy decision for us, and we truly apologize for the inconvenience this may cause.\n\nAs a temporary workaround, you can switch to the beta version, which allows access to YouTube via an in-app browser. \n\nTo switch to beta channel:\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nIf AirScreen doesn't work, please go to our website(https://skybox.xyz/get) to download the new AirScreen Client 2.0.0-620 and try again.\n\nFeel free to reach out to contact@skybox.xyz if you need any help.",
+        "date": 1764903279
+      }
+    },
+    {
+      "id": "1298674018688217",
+      "score": 1,
+      "review_title": "False Advertising!",
+      "review_description": "The store page clearly states:\n\n\"You can also stream one video to multiple devices simultaneously.\"\n\nWhen no, you can not - neither do they intend to implement this feature!  \n\nIf you have two headsets with the same Meta account: You CAN NOT!\nIf you have two headsets same Meta account, different profiles: You CAN NOT. \n\nYou are not even able to purchase a second copy in those cases - as if that would be a sane solution anyway.\n\nIn the metaphor of a home theatre (which is what this software is) you literally are requiring any and all friends (even in the same room), on the same network to pay money just to sit on the couch next to you.\n\nThis will discourage family use and ultimately promote piracy among those seeking solutions for expected and advertised behavior of the Skybox app.\n\nOn top of all this the current state of the software (January, 2026) is in a dismal state. Many bugs and missing features - even actual crashes requiring a restart of the headset. It is NOT currently stable under very many use-cases.  Simple load and play is possible without problems but there are MANY free applications available for that.\n\nCustomer support is also not great! If you have a problem or need information, expect to wait 3 days at a minimum - if your question gets answered at all.  It's worse on their website if you can imagine that.  Often real concerns and questions that require instructive replies are just marked on the site as \"Hidden\" and forever ignored. \n\nFor these reasons I can NOT in good conscious recommend this App! \n\nSorry Lucy, that's a one-star from me.",
+      "date": 1767621488,
+      "review_helpful_count": 1,
+      "author_display_name": "Tesselator",
+      "author_alias": "Tesselator",
+      "developer_response": {
+        "body": "Hello, Meta doesn't allow users to log into the same account on multiple devices to use the same app simultaneously. This is a platform-level restriction, not something that can be changed by us. During normal workdays, we try to review and respond to user feedback daily. During holidays or when additional time is need to test or diagnose an issue, responses may be delayed or not timely. Thank you for your understanding.",
+        "date": 1767860274
+      }
+    },
+    {
+      "id": "1632701131084882",
+      "score": 1,
+      "review_title": "Buffering 6.5mbs",
+      "review_description": "Buffering \n\nCrashes",
+      "date": 1771855839,
+      "review_helpful_count": 0,
+      "author_display_name": "Evilvodkaman76",
+      "author_alias": "Evilvodkaman76",
+      "developer_response": {
+        "body": "Hello,\n \nSorry for the inconvenience caused. \n\nTo help us troubleshoot, could you please share the app logs with us?\n\nYou just need to: \n1. Click SKYBOX's \"Global Settings\", change the \"Logging Levels\" to \"Info\".\n2. Reproduce the issue you mentioned.\n3. Click the \"BUG\" icon in the upper-right corner of \"Global Settings\".\n4. Tick the \"upload logs\" box, and submit the in-app feedback.",
+        "date": 1771915329
+      }
+    },
+    {
+      "id": "2994545730910763",
+      "score": 1,
+      "review_title": "How do i read files from my phone",
+      "review_description": "Loved this app on the old Gear VR as could watch files stored on my phone in the cinema. I can't seem to do it here though. I've connected via bluetooth but just cannot access any files. Any suggestions would be most appreciated!?\n\nUpdate: And now the YouTube option has gone too! Worked a few days ago. All my favourites list on this app now won't play. That's another star off my rating!",
+      "date": 1764833809,
+      "review_helpful_count": 2,
+      "author_display_name": "Briteside7",
+      "author_alias": "Briteside7",
+      "developer_response": {
+        "body": "Hello,\n\nDue to YouTube API restrictions, we are no longer able to maintain native API integration. So we decided to remove all YouTube-related features in SKYBOX v1.1.9.\n\nThis is not an easy decision for us, and we truly apologize for the inconvenience this may cause.\n\nAs a temporary workaround, you can switch to the beta version, which allows access to YouTube via an in-app browser. \n\nTo switch to beta channel:\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nIn addition, you can install a DLNA server on your smartphone and access the files stored on your phone via DLNA protocol. \n\nFeel free to reach out to contact@skybox.xyz if you need any help.",
+        "date": 1764903114
+      }
+    },
+    {
+      "id": "1435521875026150",
+      "score": 4,
+      "review_title": "Quest 3 update V85 app is not working",
+      "review_description": "since Quest 3 update V85 the app doesnt start anymore. It starts up, but then it jumps back to home screen.",
+      "date": 1770598562,
+      "review_helpful_count": 0,
+      "author_display_name": "Schinakoch",
+      "author_alias": "Schinakoch",
+      "developer_response": {
+        "body": "Hi, we have noticed users on the Meta Public Test Channel(PTC) are experiencing crashes when starting SKYBOX VR Video Player. \n\nIf you are on the Quest v85 PTC and run into app crashes, please kindly switch to SKYBOX beta channel. The crash issue has already been fixed in our latest beta build.\n\nHow to switch to the beta channel:\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nIf the above method is helpful, we'd appreciate it if you could update your rating. Reach out to contact@skybox.xyz if you have other concerns.",
+        "date": 1770633920
+      }
+    },
+    {
+      "id": "2389215944873655",
+      "score": 1,
+      "review_title": "App crash",
+      "review_description": "App crash at launch",
+      "date": 1770395293,
+      "review_helpful_count": 1,
+      "author_display_name": "BenjaminQuest3",
+      "author_alias": "BenjaminQuest3",
+      "developer_response": {
+        "body": "Hi, we have noticed users on the Meta Public Test Channel(PTC) are experiencing crashes when starting SKYBOX VR Video Player. \n\nIf you are on the Quest v85 PTC and run into app crashes, please kindly switch to SKYBOX beta channel. The crash issue has already been fixed in our latest beta build.\n\nHow to switch to the beta channel:\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nIf the above method is helpful, we'd appreciate it if you could update your rating. Reach out to contact@skybox.xyz if you have other concerns.",
+        "date": 1770633934
+      }
+    },
+    {
+      "id": "1555212315810991",
+      "score": 4,
+      "review_title": "Best player for my Quest 2",
+      "review_description": "It plays perfectly for what I wanted. I use Emby and Plex hosted locally and so far, no issues with playback. I wish sorting worked better and it integrsted a bit better so browsing for what to watch was a bit easier but it is what it is and I'm still happy.",
+      "date": 1766254309,
+      "review_helpful_count": 0,
+      "author_display_name": "ZenecadE",
+      "author_alias": "ZenecadE",
+      "developer_response": null
+    },
+    {
+      "id": "795236553682407",
+      "score": 1,
+      "review_title": "Is this a con?",
+      "review_description": "I bought this app with the hopes I could use the passthrough feature, however it simply does not work. I have tried all the tips to get it to work, but with no success. Apparently, many other uses have also failed to the passthrough to work. I spend funds and now feel like I got scammed. Please can you fix the passthrough feature ASAP.",
+      "date": 1762518236,
+      "review_helpful_count": 5,
+      "author_display_name": "Mike8686",
+      "author_alias": "Mike8686",
+      "developer_response": {
+        "body": "Hi there, we added support for passthrough videos in the beta version. Please follow the steps to update to beta v2.0.1.\n\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nYou can open a passthrough video, click \"Advanced Settings\" and enable the \"Passthrough Video\" toggle. Then SKYBOX will remove the background from a scene using Chroma Key Passthrough or Alpha Channel Passthrough.\n\nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1762835823
+      }
+    },
+    {
+      "id": "951403774712820",
+      "score": 1,
+      "review_title": "don't buy. EXTERNAL vids dont play",
+      "review_description": "i got this just to play my external videos from my ssd connected and it keeps buffering and doesn't playbwell at all . it stutters.  it used to work. now its horrible. i want a refund",
+      "date": 1764612131,
+      "review_helpful_count": 5,
+      "author_display_name": "jason1200",
+      "author_alias": "jason1200",
+      "developer_response": {
+        "body": "Hello,\n\nYou can follow the steps below to update to beta v2.0.2 and see if it works better.\n\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nReach out to contact@skybox.xyz if you need further help.",
+        "date": 1765268453
+      }
+    },
+    {
+      "id": "979626085238624",
+      "score": 3,
+      "review_title": "youtube doesnt show up in menu",
+      "review_description": "youtube doesnt show up in menu",
+      "date": 1769585130,
+      "review_helpful_count": 0,
+      "author_display_name": "SHORIN709",
+      "author_alias": "SHORIN709",
+      "developer_response": {
+        "body": "Hi, \n\nDue to YouTube API restrictions, we are no longer able to  maintain native API integration. So we decide to remove all YouTube-related features in SKYBOX Quest version 1.1.9.\n\nThis is not an easy decision for us, and we truly apologize for the inconvenience this may cause. \n\nAs a temporary workaround, you can switch to beta version, which allows access to YouTube via in-app browser. Please be aware that this method may have some limitations, for example, 3D or VR video playback are  no longer supported.\n\nTo switch to beta channel:\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nReach out to contact@skybox.xyz if you need any help. Thank you for your understanding.",
+        "date": 1769654784
+      }
+    },
+    {
+      "id": "1088304741033266",
+      "score": 2,
+      "review_title": "Sbs Avatar",
+      "review_description": "I installed just  to use you tube 3d.some work\nAvatar trailer on U.T COMING AS SBS\nIS IT NORMAL?",
+      "date": 1776813906,
+      "review_helpful_count": 0,
+      "author_display_name": "BubblyHeron4671",
+      "author_alias": "BubblyHeron4671",
+      "developer_response": null
+    },
+    {
+      "id": "805270879332694",
+      "score": 3,
+      "review_title": "No longer allows to play YouTube",
+      "review_description": "Skybox was my go to for playing YouTube but for some reason now it just says “can’t play this video “\nI have reinstalled but still having the same problem. …….any suggestions?",
+      "date": 1758345393,
+      "review_helpful_count": 80,
+      "author_display_name": "bon.botley",
+      "author_alias": "bon.botley",
+      "developer_response": {
+        "body": "Hello,\n\nWe released a new beta version, which supported accessing YouTube via web browser. If you can't play YouTube videos, please switch to beta channel and try it out.\n\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1758698318
+      }
+    },
+    {
+      "id": "938365546026892",
+      "score": 5,
+      "review_title": "works great for smb & 3D",
+      "review_description": "This player works great for playing 3D videos from NAS server. The interface is intuitive and very easy to use.\nThanks!",
+      "date": 1767569801,
+      "review_helpful_count": 0,
+      "author_display_name": "Ondrej1234567890",
+      "author_alias": "Ondrej1234567890",
+      "developer_response": null
+    },
+    {
+      "id": "718958017976867",
+      "score": 5,
+      "review_title": "Beautiful, but one thing!",
+      "review_description": "My first app on Quest and it's almost perfect for me. My one request to make it the ultimate- as a musicals / theatre fan, I would LOVE the option to have a plush, opulent grand theatre style (think Broadway / West End theatre). I love the Cinema style, but this would really put it over the top for musical theatre fans, honestly.",
+      "date": 1758716289,
+      "review_helpful_count": 20,
+      "author_display_name": "CateFB",
+      "author_alias": "CateFB",
+      "developer_response": null
+    },
+    {
+      "id": "864452030091145",
+      "score": 5,
+      "review_title": "The perfect player",
+      "review_description": "Absolutely perfect. It works perfectly. The synchronization with my NAS was immediate. Even the Airlink function works like a charm with my Mac! Then it lets you configure a lot of settings to enjoy your movies as you want. It was my first paid app and it worth all the money, even more!",
+      "date": 1763982160,
+      "review_helpful_count": 1,
+      "author_display_name": "AlexClambell27",
+      "author_alias": "AlexClambell27",
+      "developer_response": null
+    },
+    {
+      "id": "25958104313775568",
+      "score": 1,
+      "review_title": "Will not play ANY files",
+      "review_description": "I encode all my own movies... no matter which codec was used, which wrapper was used, or what resolution the video was encoded at, I get an error saying the video cannot be played (and they work with every other video player on my Quest). Waste of time and money, requested refund, will purchase a competitor.",
+      "date": 1766778422,
+      "review_helpful_count": 0,
+      "author_display_name": "LeRoy3rd",
+      "author_alias": "LeRoy3rd",
+      "developer_response": {
+        "body": "Hello, are you trying to play the videos via SMB or AirScreen? \n\nOn your Quest 2 or Quest 3, please go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the beta update and see if it works as expected. \n\nReach out contact@skybox.xyz if you need further help.",
+        "date": 1767063859
+      }
+    },
+    {
+      "id": "1269217498551967",
+      "score": 1,
+      "review_title": "YouTube not working",
+      "review_description": "This app was my go to #1 app for watching YouTube, one of the first apps I've ever paid for because it was so good. However, the last couple of months, it has been completely useless and seeing the same complaints by other users is very dissappointing. Please fix this.",
+      "date": 1760165837,
+      "review_helpful_count": 7,
+      "author_display_name": "ladimagnifique",
+      "author_alias": "ladimagnifique",
+      "developer_response": {
+        "body": "Hello,\n\nSorry for the inconvenience caused.\n\nWe released a new beta version, which supported accessing YouTube via web browser. If you can’t play YouTube videos, please switch to beta channel and try it out.\n\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1760338367
+      }
+    },
+    {
+      "id": "823998254137970",
+      "score": 1,
+      "review_title": "Skybox airscreen desktop spinning wheel",
+      "review_description": "When I launch airscreen desktop and connect to my pc, audio is working and able to control pc but the video is showing spinning wheel. Checked firewall settings on my PC and Skybox app has no restriction. Please reply if you know how to solve it or please refund my money. Thank you!",
+      "date": 1763846984,
+      "review_helpful_count": 0,
+      "author_display_name": "venvur",
+      "author_alias": "venvur",
+      "developer_response": {
+        "body": "Hello, please go to our website(https://skybox.xyz/get), click the Windows Client to download the new AirScreen 2.0.0-620 and see if it works. \n\nIf you still encounter the unplayable issue, please kindly share the \"Info\" level log with us so we can further investigate. \n\n1. Click SKYBOX's \"Global Settings\", change the \"Logging Levels\" to \"Info\".\n2. Reproduce the issue you mentioned.\n3. Click the \"BUG\" icon in the upper-right corner of \"Global Settings\".\n4. Tick the \"upload logs\" box, and submit the in-app feedback. Thanks!",
+        "date": 1764052451
+      }
+    },
+    {
+      "id": "32780360828217618",
+      "score": 1,
+      "review_title": "Unusable with gestures",
+      "review_description": "The app functionality is great, I bought it mostly for SMB playback, the environments are really nice, but controlling it with hands only is horrendous. It either doesn't register the clicks at all, or it clicks randomly, moves the view all over the place, then it never disengages (like you are still holding it) no matter how much you put your fingers together. Based on the other reviews I hope at least it works better with controllers but if for some reason you can't use controllers, don't buy this app, it is really unusable\n\nEDIT: just found out it doesn't even support passthrough videos in November 2025, hand navigation is still bad, I really don't understand what the good reviews are for",
+      "date": 1762801404,
+      "review_helpful_count": 3,
+      "author_display_name": "codyrap95",
+      "author_alias": "codyrap95",
+      "developer_response": {
+        "body": "Hello, may I ask which version of SKYBOX and Meta Quest OS you are using? \n\nYou can open SKYBOX's \"Global Settings\" and turn on \"Show Stats\" to check the version number.",
+        "date": 1761632518
+      }
+    },
+    {
+      "id": "987414961110350",
+      "score": 5,
+      "review_title": "Best Cinema",
+      "review_description": "This is really good , I just bought it and watching 3d movie in it , its really really good , thanks Skybox for making this 👍",
+      "date": 1766098659,
+      "review_helpful_count": 0,
+      "author_display_name": "SpearGoHunt",
+      "author_alias": "SpearGoHunt",
+      "developer_response": null
+    },
+    {
+      "id": "826484667210929",
+      "score": 1,
+      "review_title": "YouTube vr mode isn't working please fix",
+      "review_description": "Please fix YouTube vr as soon as possible even with 2.0.1 update beta version the youtube web browser app is laggy and buggy can't watch a thing on it please bring back to how it was and leave it untouched thank you the whole reason i bought this app was cuz of that and now it has become a waste",
+      "date": 1760120233,
+      "review_helpful_count": 17,
+      "author_display_name": "Senstoo",
+      "author_alias": "Senstoo",
+      "developer_response": {
+        "body": "Hello,\n\nWe released a new beta version, which supported accessing YouTube via web browser. If you can’t play YouTube videos, please switch to beta channel and try it out.\n\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1758698557
+      }
+    },
+    {
+      "id": "942549535611636",
+      "score": 5,
+      "review_title": "good",
+      "review_description": "Hhhh very good",
+      "date": 1767962929,
+      "review_helpful_count": 0,
+      "author_display_name": "Zark64",
+      "author_alias": "Zark64",
+      "developer_response": null
+    },
+    {
+      "id": "757346140802168",
+      "score": 5,
+      "review_title": "This app is amazing",
+      "review_description": "This app is amazing. The video playback capability is excellent. However, I would really love to have a feature that allows streaming video via URL. Sometimes I watch streams through URLs, but they can't be played on Skybox. I hope the Skybox development team will add this feature soon.",
+      "date": 1757086788,
+      "review_helpful_count": 14,
+      "author_display_name": "tulevu144144",
+      "author_alias": "tulevu144144",
+      "developer_response": null
+    },
+    {
+      "id": "907642685768230",
+      "score": 5,
+      "review_title": "Top 3 best video player",
+      "review_description": "Love the environments",
+      "date": 1766894073,
+      "review_helpful_count": 0,
+      "author_display_name": "LoneWolfLegend",
+      "author_alias": "LoneWolfLegend",
+      "developer_response": null
+    },
+    {
+      "id": "910200852178266",
+      "score": 4,
+      "review_title": "Wooow like 👌",
+      "review_description": "Nice app",
+      "date": 1766822260,
+      "review_helpful_count": 0,
+      "author_display_name": "VxARAGONxV",
+      "author_alias": "VxARAGONxV",
+      "developer_response": null
+    },
+    {
+      "id": "1306360327806364",
+      "score": 4,
+      "review_title": "Incredible, with room to improve",
+      "review_description": "This is my go-to media viewer when I wanna just enjoy something in full VR. Great environments, great settings. Feels how it should. Watching movies in a VR theatre is the dream.\nHowever, if I may, a couple suggestions for the suggestion box;\n- I would kill for a legally distinct theatre environment made for showcasing 1.43:1 content on a large format. Like one of those enormous theatres where the screen reaches from the floor to the ceiling. For any 4:3 content, that would be unreal viewing!\n- Also, an option to lock audio channels to physical speaker locations in the virtual environment (So the centre channel is coming from the centre of the screen, and the rear surround is coming from the back of the theatre, etc), rather than the full surround setup just rotating with my head like I’m wearing headphones. The quest can do great immersive audio, and I wish this app took full advantage of that.",
+      "date": 1754330125,
+      "review_helpful_count": 41,
+      "author_display_name": "JMotion0",
+      "author_alias": "JMotion0",
+      "developer_response": {
+        "body": "Hello, thank you for your suggestions!\n\nSKYBOX v2.0.0(beta) added support for spatial audio. You can follow the steps below to switch to beta 2.0.0 and have a try. \n\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nWhat's more, you can click \"Cinema Scene\" on the playback panel, switch to \"ULTRA Cinema\" and play 1.43:1 content.\n\nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1754534396
+      }
+    },
+    {
+      "id": "874183764994272",
+      "score": 5,
+      "review_title": "Just works",
+      "review_description": "Opens vid files, connects to pc, it does the job.",
+      "date": 1766180445,
+      "review_helpful_count": 0,
+      "author_display_name": "xnfe",
+      "author_alias": "xnfe",
+      "developer_response": null
+    },
+    {
+      "id": "928241920372536",
+      "score": 1,
+      "review_title": "WARNING No Refund!!!",
+      "review_description": "The product is very bad. Doesn't even have a browser to play some videos online. You can only play local files",
+      "date": 1767216221,
+      "review_helpful_count": 1,
+      "author_display_name": "JLDeeFY",
+      "author_alias": "JLDeeFY",
+      "developer_response": null
+    },
+    {
+      "id": "987074827812976",
+      "score": 1,
+      "review_title": "VR videos blurry compared to play'a",
+      "review_description": "Wasted my money on this as the quality is blurry compared to play’a app. Skybox has thumbnails for network files which is nice but if I’m not going to use it what’s the point! Not recommended.",
+      "date": 1764733871,
+      "review_helpful_count": 1,
+      "author_display_name": "GoldenGoose",
+      "author_alias": "GoldenGoose",
+      "developer_response": null
+    },
+    {
+      "id": "861038477093949",
+      "score": 5,
+      "review_title": "Great app and service",
+      "review_description": "The app is easy to use and offers many possibilities. I had a question and got my answer within minutes. Great customer service. Thanks.",
+      "date": 1763269112,
+      "review_helpful_count": 0,
+      "author_display_name": "Danfromoz",
+      "author_alias": "Danfromoz",
+      "developer_response": null
+    },
+    {
+      "id": "817753934414394",
+      "score": 1,
+      "review_title": "No refund",
+      "review_description": "No refund.",
+      "date": 1765922129,
+      "review_helpful_count": 0,
+      "author_display_name": "Tracyspacewalk",
+      "author_alias": "Tracyspacewalk",
+      "developer_response": null
+    },
+    {
+      "id": "1092532149734289",
+      "score": 3,
+      "review_title": "Youtube not working",
+      "review_description": "Youtube keeps saying unable to play... Its been a known issue for atleast 6 months... When is the fix coming?",
+      "date": 1758276277,
+      "review_helpful_count": 13,
+      "author_display_name": "always270",
+      "author_alias": "always270",
+      "developer_response": {
+        "body": "Hello,\n\nWe released a new beta version, which supported accessing YouTube via web browser. If you can't play YouTube videos, please switch to beta channel and try it out.\n\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1758698433
+      }
+    },
+    {
+      "id": "886373497900829",
+      "score": 5,
+      "review_title": "The app I didn't know I needed all along",
+      "review_description": "Was trying 4xvr until it asked me to pay £23 so gave usb playing on the quest a goog. Sky box was most recommended so I paid a 3rd of the price for Skybox, I wasn't disappointed. The quality of my 1080p & 4k files is much clearer than streaming & I was sat there thinking cinema quality. Highly recommended.",
+      "date": 1767951292,
+      "review_helpful_count": 0,
+      "author_display_name": "di5combobul8r",
+      "author_alias": "di5combobul8r",
+      "developer_response": null
+    },
+    {
+      "id": "1101733179679239",
+      "score": 5,
+      "review_title": "Must have!",
+      "review_description": "It stream 8k over smb via wifi!",
+      "date": 1772446539,
+      "review_helpful_count": 0,
+      "author_display_name": "Valjeanchan",
+      "author_alias": "Valjeanchan",
+      "developer_response": null
+    },
+    {
+      "id": "852782177911056",
+      "score": 5,
+      "review_title": "Best VR MEDIA PLAYER there is",
+      "review_description": "Whoa, Skybox sure blew me away with both the presentation and the overall amount of formats it reads. Brings the cinema view from 4XVR and DeoVR's ability to view pictures, along with its own app to airplay media.\nViewed my pictures without hiccups, not to mention the largest support for Jellyfin features in all players I've used.\nMy only issue with it is that it fixes pictures for 10 seconds, instead of a custom time or being able to switch when we want.\nKeep it up, guys.",
+      "date": 1759362582,
+      "review_helpful_count": 1,
+      "author_display_name": "RenatoDias",
+      "author_alias": "RenatoDias",
+      "developer_response": null
+    },
+    {
+      "id": "24848369498155465",
+      "score": 4,
+      "review_title": "Needs more than one favorites list",
+      "review_description": "It would be nice to have multiple list. My favorite list gets so full it becomes pointless.",
+      "date": 1762551433,
+      "review_helpful_count": 0,
+      "author_display_name": "EnCouRageYu",
+      "author_alias": "EnCouRageYu",
+      "developer_response": null
+    },
+    {
+      "id": "833909416475305",
+      "score": 5,
+      "review_title": "Best media player i have found",
+      "review_description": "But i'm always looking up and my range of projection movement is always a bit short on the height, and the fisheye on never converts correctly. I'm sure they will get it figured out. Otherwise no complaints. Good job developers.",
+      "date": 1760571461,
+      "review_helpful_count": 1,
+      "author_display_name": "window.licker.2024",
+      "author_alias": "window.licker.2024",
+      "developer_response": null
+    },
+    {
+      "id": "921842941008686",
+      "score": 5,
+      "review_title": "Clap for your selves SKYBOX 👏😁",
+      "review_description": "Most people don't know/recognize this but not all VR-Media players do a great job at rendering 3D videos/movies even though they support them, but this app is OUT-STANDING in this regard and being a big fan of 3D movies and movies in general, this app blew me out of the water.\n\nI greatly commend them for maintaining the natural default color scheme/ambience/shade(not sure what to call it) that comes with the Quest 3 which helps to enusre that the movies maintain their natural color, look and feel--unlike the horrible path \"MoonVR\" took in this matter (I HATE IT).\n\nI also think it is the best Sounding Quest 3 Media player, and I love that it supports a wide range of audio codecs.\n\nIT IS SIMPLY THE BEST!, I LOVE IT❤️😁",
+      "date": 1765962830,
+      "review_helpful_count": 2,
+      "author_display_name": "hydecannon",
+      "author_alias": "hydecannon",
+      "developer_response": null
+    },
+    {
+      "id": "849744554881566",
+      "score": 4,
+      "review_title": "quest 3 8k and go back on image",
+      "review_description": "On quest 3, 8k vr hvc1 7680x3840 not playable (2 frame /sec) (and not it's not my wifi, other players can do it with 0 lag). When browsing images (from pc), i can only move forward, not backward. BUT image display size stay the same, wich is perfect! the folder navigation is also nice. I also hate that when laying down, the browsing windows cannot be visible at eye level.",
+      "date": 1758477446,
+      "review_helpful_count": 1,
+      "author_display_name": "Wildboy855",
+      "author_alias": "Wildboy855",
+      "developer_response": {
+        "body": "Hello, thank you for your feedback. \n\nWe tested videos with the same parameters, but didn't reproduce the unplayable issue. To further investigate, could you please share a sample video for testing? \n\nWhat's more, you can switch between images by holding the Grip button(not the Trigger button) and moving the thumbstick. \n\nIf you want to watch videos while lying down, please go to Quest \"Settings\" > \"Experimental\", and then enable \"Use Apps While Lying Down\". \n\nHope it helps. Reach out to contact@skybox.xyz if you have other concerns.",
+        "date": 1758599035
+      }
+    },
+    {
+      "id": "913050195216277",
+      "score": 5,
+      "review_title": "Day 1 - works well",
+      "review_description": "Used Network storage to view 3D movies and is working happy with the purchase.\n\nThanks app team for a good product.",
+      "date": 1761980643,
+      "review_helpful_count": 1,
+      "author_display_name": "sameer_chaukar",
+      "author_alias": "sameer_chaukar",
+      "developer_response": null
+    },
+    {
+      "id": "740367759168102",
+      "score": 4,
+      "review_title": "YouTube",
+      "review_description": "YouTube not working",
+      "date": 1758622756,
+      "review_helpful_count": 19,
+      "author_display_name": "NabilMJ",
+      "author_alias": "NabilMJ",
+      "developer_response": {
+        "body": "Hello,\n\nWe released a new beta version, which supported accessing YouTube via web browser. If you can’t play YouTube videos, please switch to beta channel and try it out.\n\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1758699115
+      }
+    },
+    {
+      "id": "878801111990582",
+      "score": 2,
+      "review_title": "Buffers like hell",
+      "review_description": "This isn't an internet issue cause I'm running it off local memory, however for some reason it buffers 0.3 MB/s. For some reason if you skip forward, the buffering becomes endless and happens every 1 second or so. Honestly quite embarrassing.",
+      "date": 1767693060,
+      "review_helpful_count": 0,
+      "author_display_name": "ccjx_123",
+      "author_alias": "ccjx_123",
+      "developer_response": {
+        "body": "Hello,\n \nSorry for the inconvenience caused. \n\nCould you please share with us the \"Info\" level logs? We'd like to check the logs to further investigate the issue. \n\n1. Click SKYBOX's \"Global Settings\", change the \"Logging Levels\" to \"Info\".\n2. Reproduce the issue you mentioned.\n3. Click the \"BUG\" icon in the upper-right corner of \"Global Settings\".\n4. Tick the \"upload logs\" box, and submit the in-app feedback. Thanks!",
+        "date": 1767761756
+      }
+    },
+    {
+      "id": "763728626175050",
+      "score": 3,
+      "review_title": "No SRT Subtitle / CC Support",
+      "review_description": "I like everything about this except for one major shortcoming. I am hard of hearing and all of my personal media collection have subtitles in SRT files, which it doesn't recognize. I use Emby on my real-world devices and it has no problem with them. And yes, the filenames are the same except for the extension. This app is therefore useless to me for my personal collection. I can still use it for other streaming sources, but this will likely cause me to ask for my money back.",
+      "date": 1754287241,
+      "review_helpful_count": 11,
+      "author_display_name": "magnus59",
+      "author_alias": "magnus59",
+      "developer_response": {
+        "body": "Hello, if you access your Emby server via DLNA protocol, you will not see the external subtitles because DLNA itself doesn't support external subtitles. \n\nYou can update to SKYBOX 2.0.0(beta),  go to the \"Network\" channel, click the \"Add Server\" icon in the top-right corner, select \"Add Emby\" to directly access your Emby media server. In this way, you should be able to see the srt subtitles. \n\nHere are the steps to update to beta 2.0.0:\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1754362891
+      }
+    },
+    {
+      "id": "899283873257834",
+      "score": 5,
+      "review_title": "Who needs a big screen tv",
+      "review_description": "Skybox is like having a portable big screen tv wherever you go. Indispensable app for the Meta Quest.",
+      "date": 1761071893,
+      "review_helpful_count": 0,
+      "author_display_name": "skeetzoid",
+      "author_alias": "skeetzoid",
+      "developer_response": null
+    },
+    {
+      "id": "24008060642138744",
+      "score": 4,
+      "review_title": "The best vr player ever!",
+      "review_description": "Absolutely I like this. But... just one thing I wanna tell dev team that make buttons for 10 sec or 15 sec rewind, forward video. Even 'Virtual desktop' is not a vr player, its player has these button and it's very useful for me. Please add buttons for rewinding, fowarding",
+      "date": 1750683244,
+      "review_helpful_count": 43,
+      "author_display_name": "adimasana6327",
+      "author_alias": "adimasana6327",
+      "developer_response": {
+        "body": "Hello, you can go to SKYBOX's \"Global Settings\" > select the \"Playback\" tab > adjust the \"Fast Forward/Backward\" time. Then when you move the thumbsitck left or right, the video progress will skip backward or forward by the number of seconds you set. Hope it helps! Reach out to contact@skybox.xyz if you have other problems.",
+        "date": 1750752179
+      }
+    },
+    {
+      "id": "848892001637969",
+      "score": 1,
+      "review_title": "youtube shows no files",
+      "review_description": "I'll fix the score",
+      "date": 1760711616,
+      "review_helpful_count": 2,
+      "author_display_name": "LittleFly.Vr",
+      "author_alias": "LittleFly.Vr",
+      "developer_response": {
+        "body": "Hello,\n\nWe released a new beta version, which supported accessing YouTube via web browser. If you can’t play YouTube videos, please switch to beta channel and try it out.\n\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1761014766
+      }
+    },
+    {
+      "id": "762131923657735",
+      "score": 2,
+      "review_title": "Poor gesture recognition",
+      "review_description": "It couldn't accurately recognize my gestures at all. Sometimes it didn't react when I pressed it, and sometimes it overreacted.",
+      "date": 1757999805,
+      "review_helpful_count": 2,
+      "author_display_name": "Kosmos_Licht",
+      "author_alias": "Kosmos_Licht",
+      "developer_response": {
+        "body": "Hello, are you referring to inaccuracies in hand tracking? If yes, we'd appreciate it if you could tell us which specific gestures are not being recognized correctly. We're here to help resolve the issue.",
+        "date": 1758525529
+      }
+    },
+    {
+      "id": "747107525160084",
+      "score": 1,
+      "review_title": "I wish it would work",
+      "review_description": "I have this product.  Whenever I try to lay any video it tells me “this video will not play”.  Far cry from its self proclaimed capabilities.",
+      "date": 1758503135,
+      "review_helpful_count": 3,
+      "author_display_name": "VegasMike5857",
+      "author_alias": "VegasMike5857",
+      "developer_response": {
+        "body": "Hello,\n\nWe released a new beta version, which supported accessing YouTube via web browser. If you can't play YouTube videos, please switch to beta channel and try it out.\n\nOn your Quest 2 or Quest 3, go to Quest Settings > Privacy & safety > Installed app > find SKYBOX VR Video Player > click Release Channels > select \"2.0.0 Preview\" and install the update.\n\nReach out to contact@skybox.xyz if you have any problems.",
+        "date": 1758698300
+      }
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-06-22T04:28:09Z"
+}
