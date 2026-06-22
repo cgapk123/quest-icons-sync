@@ -1,0 +1,42 @@
+{
+  "app_id": "1423116051095443",
+  "package_name": "nl.scopic.leaseweb.gearvrapp",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "LeaseWeb",
+  "rating_average": 2.4,
+  "rating_count": 5,
+  "review_count": 5,
+  "reviews": [
+    {
+      "id": "2140546492752952",
+      "score": 3,
+      "review_title": "Some ad for a hosting company...",
+      "review_description": "Contained within a video of an airplane cockpit. I'll take it.",
+      "date": 1632676333,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "1526262517438883",
+      "score": 3,
+      "review_title": "",
+      "review_description": "Its ok.",
+      "date": 1503003144,
+      "review_helpful_count": 3,
+      "author_display_name": "MrPopsi",
+      "author_alias": "MrPopsi",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T03:09:39Z"
+}

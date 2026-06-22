@@ -1,0 +1,137 @@
+{
+  "app_id": "5777931575594351",
+  "package_name": "net.ths.vr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "THS: Time Has Stopped",
+  "rating_average": 4.9090909090909,
+  "rating_count": 11,
+  "review_count": 9,
+  "reviews": [
+    {
+      "id": "390969380611508",
+      "score": 5,
+      "review_title": "Fun game!",
+      "review_description": "It is fun and there are no bugs that I could find. One thing that I think would make me more inclined to play is if you made a  way to manually control the tank. a steering wheel or levers would be nice. Instead off just using the controller joystick. The same with shooting. I am giving it five stars for Lots of content and no problems.",
+      "date": 1716773494,
+      "review_helpful_count": 2,
+      "author_display_name": "Legolas208",
+      "author_alias": "Legolas208",
+      "developer_response": null
+    },
+    {
+      "id": "8848978705176306",
+      "score": 5,
+      "review_title": "Superhot Tank Edition",
+      "review_description": "This game was a bit of a sleeper hit for me. It takes the core mechanic of \"Superhot\", where time only moves when you do and uses it in a interesting and new way. You have to navigate through the maps, while avoiding ambushes of enemy tanks... but thanks to the time being relative to your movement speed, it's as easy or difficult as you want it to be. If you go slow and take your time, it's a nice and pleasant experience... or you speed up and it's quite hectic.\n\nI think my only complaints about the game would be that the audio feels a little underutilized, with most enemies being simply silent with only a pretty weak bang from when they fire at you.\n\nOverall though, it's early access and I'm sure it'll only get better over time. What's here though is super fun and very well designed. Anyone who likes interesting game mechanics and shooters should give this one a shot.",
+      "date": 1677202085,
+      "review_helpful_count": 6,
+      "author_display_name": "Cim",
+      "author_alias": "Cim",
+      "developer_response": {
+        "body": "Thank you very much! You're correct about audio, it is underutilized. Right now we have in only sounds that indicate a fact that something happened with a couple of exceptions, like the ping from the shell that'll kill you. What you and us both want are the sounds that indicate a continuous process of something happening: moving, turning, environmental ambience. Continuous overlapping sounds are tricky to make non-annoying when the time speed is variable, so they are left in test builds. For now.",
+        "date": 1677223161
+      }
+    },
+    {
+      "id": "3368745590120084",
+      "score": 5,
+      "review_title": "Hey :)",
+      "review_description": "Cool gameplay and style, relaxing music!\nMaybe for platform movement (with orange arrow up) controlling more useful grip button from left controller move platform down, from right controller - up.\nIt would be great to add PvP, co-op :)",
+      "date": 1674505288,
+      "review_helpful_count": 5,
+      "author_display_name": "Andrew_Bindraw",
+      "author_alias": "Andrew_Bindraw",
+      "developer_response": {
+        "body": "Hi! Glad you liked it!\n\nElevator problem breaks down to two: controls and elevator types.\nGrip is usually non-discoverable for new VR users. Things are better now than with Vive wands, but not that much. New players tend to not find the grip at all or hold it engaged at all times. Assuming a right-handed setup, the left trigger can substitute one grip (it's in the settings), but you need the right one to shoot.\nElevator types are complicated because we have three types of them: the actual elevators, moving platforms like trains (sideways elevators) and plain falling (kinda an elevator) and would like to have the behavior universal.\nThat's why we put an elevator straight into the tutorial to get more feedback about it. We'll need it for when we'll add the forbidden weapon to the public build and you'll be able to actually go up and down if you'll want to.\nIt's an interesting problem and if you want to, join our discord at ths-vr.net/discord.html to discuss it in-depth.\n\nAny kind of multiplayer is currently not in the cards, sadly. We use global time dilation, so the mismatch of players intents will inevitably be frustrating with any kind of its resolution. Some kind of bubble-time design is needed for that and that isn't that compatible with the levels we built.",
+        "date": 1674561958
+      }
+    },
+    {
+      "id": "742193694157323",
+      "score": 5,
+      "review_title": "Bullet Time VR Tank Combat. Must Play.",
+      "review_description": "Time Has Stopped is what you get when you take a game like SuperHot VR and mix it together with a retro FPS tank combat game. The results are amazing and must be experienced.\nTHS is one of the best VR tank games I have played. It has smooth tank controls, amazing combat physics, time control like Superhot VR, and much more.\n\nThe game takes place in an amazing retro looking world. The art style of the game is simple yet breathtaking. Each level is unique looking and has secrets to be found. Lots of enemies to fight, coming at you from everywhere and very challenging boss fights. This is where the amazing combat and tank controls come into play, making you a strong force to deal with. With time control and a series of different weapons to use, you will feel powerful. The game is still puts of a great fight, and has three different levels of difficulty to play.\n\nIf you want to be even more unstoppable, the game also has cheat codes you can enter to make you as strong as a God. The game also offers a lot of comfort and control settings to make the game comfortable and immersive for everyone. I found the best way to play is sitting in a chair that can spin.\n\nIf you are a VR FPS fan, like tank combat and the time controls of SuperHot VR, you do not want to miss this title. It is a super hot VR experience.\n\nWatch my preview here,\nhttps://youtu.be/1p08bqF_Jks",
+      "date": 1678176043,
+      "review_helpful_count": 3,
+      "author_display_name": "IronbugVR",
+      "author_alias": "IronbugVR",
+      "developer_response": {
+        "body": "That's exactly how we designed the game, to not to limit the player in power. Thank you. We'll try to keep the mark with the remaining levels.",
+        "date": 1678262291
+      }
+    },
+    {
+      "id": "731858838545696",
+      "score": 5,
+      "review_title": "Unique Mechanics",
+      "review_description": "This game is very fun to play. The gameplay mechanics are very unique and well thought out. \n\nThere are 29 stages in different biomes at the time of writing this review, lots of content.\n\nThere are 3 levels of difficulty, multiple motion and comfort options and cheat codes available in game which is a great little addition. \n\nI did a live stream with the developers in the chat here: https://youtube.com/live/blmiJX3BZlM",
+      "date": 1676995371,
+      "review_helpful_count": 6,
+      "author_display_name": "Indie__VR",
+      "author_alias": "Indie__VR",
+      "developer_response": {
+        "body": "We're honored. Thank you very much for having us and for the feedback of your audience!",
+        "date": 1676995669
+      }
+    },
+    {
+      "id": "724289005918694",
+      "score": 4,
+      "review_title": "Honestly, pretty good!",
+      "review_description": "As far as I know, this is the first \"true\" single player shooter on quest, and is surprisingly calm for what it is. After you get used to the controls maneuvering the tank is fairly simple and honestly bring a nice breath of fresh air in terms of complexity. Only real \"issues\" I have is the lack of smooth turning and that the loading screen at the start cuts off very abruptly? But thats all thats keeping this from a solid  5 stars, and they're probably fairly easy issues to fix.   I'm waiting for new levels, the biomes look pretty sick!",
+      "date": 1674667584,
+      "review_helpful_count": 7,
+      "author_display_name": "Arkopath",
+      "author_alias": "Arkopath",
+      "developer_response": {
+        "body": "Smooth turning, I knew we missed something! About the loading screen, that's unexpected, but valid. Both of your issues will be gone with the new biome release in very early February, hope you'll be around! UPD: should be fixed with Desert biome update, version 0.9.3.76, live on 3rd of February.",
+        "date": 1675445963
+      }
+    },
+    {
+      "id": "272718275290141",
+      "score": 5,
+      "review_title": "an Applab gem",
+      "review_description": "I didn't have high expectations based on the screenshots and trailers, but I like games with time mechanics so I gave the game a chance. What can I say: The game is fantastic! The graphics really fit the game, I didn't expect it, but it looks really good in VR. The gameplay is excellent, the different and balanced levels and enemies are designed with variety (many good ideas), and there's a lot to discover. The bosses are challenging, the variations of ammunition are great and allow for tactical space, different approaches (slow and careful, fast and furious) make the game interesting. The developer is very active and has already released several updates. From me a full recommendation: 5/5 stars - an Applab gem!",
+      "date": 1686657901,
+      "review_helpful_count": 3,
+      "author_display_name": "Lord.Wyldbit",
+      "author_alias": "Lord.Wyldbit",
+      "developer_response": null
+    },
+    {
+      "id": "237422909009408",
+      "score": 5,
+      "review_title": "Game with a high potential",
+      "review_description": "The game really has a high potential and for this I will give full marks. But I've encountered performance problems in certain situations and above all...how can I remove the music which becomes rather boring after a while? Even if I turn the volume down completely in the options, it obsessively accompanies the entire gaming session.\n07/06/23- Update: thank you for listening to my requests: with the latest update I noticed that there are no more detected problems and the game is better than ever: keep it up because you have great ideas",
+      "date": 1686130975,
+      "review_helpful_count": 2,
+      "author_display_name": "Pindragon66",
+      "author_alias": "Pindragon66",
+      "developer_response": null
+    },
+    {
+      "id": "182120034772577",
+      "score": 5,
+      "review_title": "Drive a tank",
+      "review_description": "25% off: https://bio.link/lordvalfromhell\n\nThe best tank game for the quest! The optics look much better than on the pictures or in the videos and the game becomes more challenging from level to level. I found the mechanics (the environment only moves when you move yourself) to be pretty sluggish at first, but once you get attacked from all sides it becomes almost tactical and is a lot of fun. After a short time you always look around in panic because the opponents often hide well. Incredibly good title for the low price!",
+      "date": 1682870215,
+      "review_helpful_count": 4,
+      "author_display_name": "LordValFromHell",
+      "author_alias": "LordValFromHell",
+      "developer_response": {
+        "body": "We're glad you had a good time! Yup, the slower pace at the start is intentional. Also we have a secret almost instantly accessible biome with very hard levels that put the pressure on you from the get go.",
+        "date": 1683104371
+      }
+    }
+  ],
+  "total": 9,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T03:07:08Z"
+}

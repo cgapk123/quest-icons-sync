@@ -1,0 +1,31 @@
+{
+  "app_id": "4504066639607685",
+  "package_name": "nl.vrowl.eventapp.android",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Look & Play",
+  "rating_average": 3,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "4905479599491474",
+      "score": 3,
+      "review_title": "Could use improvement",
+      "review_description": "This app is a step in the right direction for a video-playing kiosk that makes it easy for creators to stage their VR narratives for folks unfamiliar with the technology. At the moment, though, it’s not fully baked. It plays all kinds of 360 video—monoscopic, the various kinds of stereoscopic—as well as standard 2D video and still images. That’s the solid part. It doesn’t, however, allow video in the “lobby” nor will it let you add music via an MP3 or WAV file. Apparently there is a way to create thumbnails for videos, but the documentation is quite thin and doesn’t make it clear how to achieve this bit of polish. Though it will display single images in many formats, there’s no way to order them into a continuous slideshow or to add sound. And the display of content in the lobby is messy and random, with no way to customize. \n\nOverall, it’s a good effort, and it handles an admirable range of VR and conventional media—but the end result looks unfortunately sloppy. Fun to demo to your family, but underwhelming for professional purposes.",
+      "date": 1639934349,
+      "review_helpful_count": 1,
+      "author_display_name": "pinckneyb",
+      "author_alias": "pinckneyb",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-22T03:10:03Z"
+}
