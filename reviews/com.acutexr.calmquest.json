@@ -1,0 +1,42 @@
+{
+  "app_id": "8497366207020643",
+  "package_name": "com.acutexr.calmquest",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Calm Quest Pro",
+  "rating_average": 2.4,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1225947947260775",
+      "score": 1,
+      "review_title": "No sound",
+      "review_description": "No sound",
+      "date": 1782021844,
+      "review_helpful_count": 0,
+      "author_display_name": "mylmeta2",
+      "author_alias": "mylmeta2",
+      "developer_response": null
+    },
+    {
+      "id": "984320784754038",
+      "score": 2,
+      "review_title": "Potential",
+      "review_description": "but no sound",
+      "date": 1767499696,
+      "review_helpful_count": 0,
+      "author_display_name": "Farmerama",
+      "author_alias": "Farmerama",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-06-28T07:54:06Z"
+}
