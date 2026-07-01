@@ -44,6 +44,24 @@ DEFAULT_CACHE = REPO_DIR / ".cache" / "vrsrc_api_cache.json"
 
 _RELEASE_NAME_TITLE = re.compile(r" v\d+\+")
 
+# 成人向内容检测（仅匹配标题/包名，避免 releasename 中 v18+ 版本号误伤）
+_ADULT_MARKER_PARENS = re.compile(r"\(\s*18\s*\+\s*\)|\[\s*18\s*\+\s*\]", re.IGNORECASE)
+_ADULT_KEYWORDS = re.compile(
+    r"(?i)\b(r18|nsfw|porn(?:ography)?|hentai|erotic|xxx)\b"
+)
+_ADULT_SEX_WORD = re.compile(r"(?i)(^|[^a-z])sex([^a-z]|$)")
+_ADULT_PHRASES = re.compile(
+    r"(?i)(visual novel.*\(18\+\)|\(18\+\).*visual novel|vr sex|adult only|adults only)"
+)
+# 已知成人向发行包名前缀（防御性过滤，防止 API 未标记 isblacklisted）
+_ADULT_PACKAGE_PREFIXES = (
+    "com.rrrjpn.",
+    "baddiesinc_",
+    "com.oldhiccup.",
+    "com.shattered.",
+    "com.orchestranw.",
+)
+
 
 def decode_api_key() -> str:
     raw = base64.b64decode(API_KEY_ENC.strip())
@@ -122,15 +140,69 @@ def display_name(item: dict) -> str:
     return _RELEASE_NAME_TITLE.split(release, maxsplit=1)[0].strip()
 
 
-def filter_releases(items: list[dict]) -> list[dict]:
+def release_title(releasename: str) -> str:
+    """Release Name 中版本号前的标题部分（不含 v123+version）。"""
+    return _RELEASE_NAME_TITLE.split(releasename, maxsplit=1)[0].strip()
+
+
+def adult_search_blob(item: dict) -> str:
+    """合并用于成人向关键字检测的文本（不含版本号段）。"""
+    parts = [
+        str(item.get("friendlyname") or ""),
+        str(item.get("gamename") or ""),
+        release_title(str(item.get("releasename") or "")),
+        str(item.get("packagename") or ""),
+    ]
+    return " ".join(p.strip() for p in parts if p.strip())
+
+
+def is_adult_content(item: dict) -> bool:
+    """
+    检测成人向 / R18 游戏。
+
+    规则：
+    - (18+) / [18+] 出现在游戏名或 Release 标题（非 v18+ 版本号）
+    - r18 / nsfw / sex / porn / hentai / erotic / xxx 等关键字
+    - 已知成人向包名前缀
+    """
+    blob = adult_search_blob(item)
+    if not blob:
+        return False
+
+    pkg = str(item.get("packagename") or "").lower()
+    for prefix in _ADULT_PACKAGE_PREFIXES:
+        if pkg.startswith(prefix):
+            return True
+
+    if _ADULT_MARKER_PARENS.search(blob):
+        return True
+    if _ADULT_KEYWORDS.search(blob):
+        return True
+    if _ADULT_SEX_WORD.search(blob):
+        return True
+    if _ADULT_PHRASES.search(blob):
+        return True
+
+    display = (item.get("friendlyname") or item.get("gamename") or "").strip()
+    if display and re.search(r"(?i)\bxxx\b", display):
+        return True
+
+    return False
+
+
+def filter_releases(items: list[dict]) -> tuple[list[dict], int]:
     out: list[dict] = []
+    adult_filtered = 0
     for item in items:
         if not item.get("releasename"):
             continue
         if item.get("isblacklisted"):
             continue
+        if is_adult_content(item):
+            adult_filtered += 1
+            continue
         out.append(item)
-    return out
+    return out, adult_filtered
 
 
 def to_csv_row(item: dict) -> str:
@@ -143,11 +215,11 @@ def to_csv_row(item: dict) -> str:
     return ";".join([name, release, package, version, updated, size, "0", "0", "0"])
 
 
-def build_gamelist(items: list[dict]) -> str:
-    releases = filter_releases(items)
+def build_gamelist(items: list[dict]) -> tuple[str, int]:
+    releases, adult_filtered = filter_releases(items)
     releases.sort(key=lambda x: display_name(x).casefold())
     lines = [HEADER, *(to_csv_row(x) for x in releases)]
-    return "\n".join(lines) + "\n"
+    return "\n".join(lines) + "\n", adult_filtered
 
 
 def file_bytes(content: str) -> bytes:
@@ -168,6 +240,7 @@ def build_manifest(
     *,
     game_count: int,
     api_total_count: int,
+    adult_filtered_count: int,
     content_sha256: str,
     file_size: int,
 ) -> dict:
@@ -178,11 +251,17 @@ def build_manifest(
         "output_file": DEFAULT_OUTPUT.name,
         "game_count": game_count,
         "api_total_count": api_total_count,
+        "adult_filtered_count": adult_filtered_count,
         "content_sha256": content_sha256,
         "file_size_bytes": file_size,
         "format": {
             "delimiter": ";",
             "columns": HEADER.split(";"),
+        },
+        "filters": {
+            "skip_isblacklisted": True,
+            "skip_adult_content": True,
+            "adult_markers": ["(18+)", "r18", "nsfw", "sex", "porn", "hentai", "erotic", "xxx"],
         },
     }
 
@@ -214,8 +293,8 @@ def main() -> int:
                     json.dump(items, f, ensure_ascii=False)
                 print(f"Saved API cache: {args.cache} ({len(items):,} items)")
 
-        content = build_gamelist(items)
-        releases = filter_releases(items)
+        content, adult_filtered = build_gamelist(items)
+        releases, _ = filter_releases(items)
         payload = file_bytes(content)
         new_sha = sha256_bytes(payload)
         old_sha = read_existing_sha256(args.output)
@@ -227,22 +306,33 @@ def main() -> int:
             manifest = build_manifest(
                 game_count=len(releases),
                 api_total_count=len(items),
+                adult_filtered_count=adult_filtered,
                 content_sha256=new_sha,
                 file_size=len(payload),
             )
             save_manifest(args.manifest, manifest)
-            print(f"Wrote {args.output} ({len(payload):,} bytes, {len(releases):,} games)")
+            print(
+                f"Wrote {args.output} ({len(payload):,} bytes, {len(releases):,} games, "
+                f"adult filtered: {adult_filtered})"
+            )
             print(f"Manifest: {args.manifest}")
         else:
-            print(f"No changes detected (sha256={new_sha[:12]}..., {len(releases):,} games)")
+            print(
+                f"No changes detected (sha256={new_sha[:12]}..., {len(releases):,} games, "
+                f"adult filtered: {adult_filtered})"
+            )
 
         emit_github_output(
             changed="1" if changed else "0",
             game_count=len(releases),
             api_total_count=len(items),
+            adult_filtered_count=adult_filtered,
             content_sha256=new_sha,
         )
-        print(f"API total: {len(items):,} | releases: {len(releases):,} | changed: {changed}")
+        print(
+            f"API total: {len(items):,} | releases: {len(releases):,} | "
+            f"adult filtered: {adult_filtered} | changed: {changed}"
+        )
         return 0
 
     except urllib.error.HTTPError as exc:
