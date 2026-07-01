@@ -1,12 +1,13 @@
 {
-  "updated_at_utc": "2026-07-01T09:57:50.117023+00:00",
+  "updated_at_utc": "2026-07-01T10:44:24.201289+00:00",
   "source": "vrsrc.fyi",
   "api_url": "https://vrsrc.fyi/api/games",
   "output_file": "VRP-GameList.txt",
-  "game_count": 2626,
+  "game_count": 2621,
   "api_total_count": 33685,
-  "content_sha256": "7d1cec2d95d90477f0e76d345695373d5dc67d4bfbbd7b845c5e7366965324a0",
-  "file_size_bytes": 305621,
+  "adult_filtered_count": 5,
+  "content_sha256": "df9408a0bf6ea9ff37bfa8554bae3467c477331746690729c3422bde758acef2",
+  "file_size_bytes": 304890,
   "format": {
     "delimiter": ";",
     "columns": [
@@ -19,6 +20,20 @@
       "Downloads",
       "Rating",
       "Rating Count"
+    ]
+  },
+  "filters": {
+    "skip_isblacklisted": true,
+    "skip_adult_content": true,
+    "adult_markers": [
+      "(18+)",
+      "r18",
+      "nsfw",
+      "sex",
+      "porn",
+      "hentai",
+      "erotic",
+      "xxx"
     ]
   }
 }
