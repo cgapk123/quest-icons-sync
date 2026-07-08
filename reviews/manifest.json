@@ -916,7 +916,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-07T07:41:54Z"
+    "updated_at": "2026-07-08T06:30:19Z"
   },
   ".com.WheyWorldStudios.ShootDash": {
     "app_id": "34246",
@@ -926,7 +926,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-07T07:41:58Z"
+    "updated_at": "2026-07-08T06:30:22Z"
   },
   ".com.biswagames.rf": {
     "app_id": "45592",
@@ -936,7 +936,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-07T07:42:01Z"
+    "updated_at": "2026-07-08T06:30:26Z"
   },
   ".comSkyDronesTeam.SkyDronesVR": {
     "app_id": "44734",
@@ -946,7 +946,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-07T07:42:05Z"
+    "updated_at": "2026-07-08T06:30:30Z"
   },
   "0.0.952": {
     "app_id": "14144",
@@ -202987,5 +202987,85 @@
     "sort": "helpful",
     "pages_fetched": 1,
     "updated_at": "2026-07-07T07:42:25Z"
+  },
+  "com.CarbonLabsXR.SpinClass": {
+    "app_id": "8750332651719601",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 1,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-07-08T06:30:38Z"
+  },
+  "com.INCISIV.CleanSheet2": {
+    "app_id": "61065",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-08T06:30:42Z"
+  },
+  "com.convai.AnimationRecorder": {
+    "app_id": "28320335120898955",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 2.8,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-07-08T06:30:50Z"
+  },
+  "com.cyberbitgenesis.holopets": {
+    "app_id": "61066",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-08T06:30:54Z"
+  },
+  "com.reulay.oasis": {
+    "app_id": "5512137348838757",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 4.1428571428571,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-07-08T06:31:01Z"
+  },
+  "com.thanford.glyphew": {
+    "app_id": "1223783534143972",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-07-08T06:31:10Z"
+  },
+  "com.zylostudio.deadrift.zombiesurvivalvr": {
+    "app_id": "61077",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-08T06:31:13Z"
+  },
+  "it.techstar.MetaPresence": {
+    "app_id": "6161884280527840",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-07-08T06:31:20Z"
   }
 }

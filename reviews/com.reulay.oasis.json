@@ -1,0 +1,53 @@
+{
+  "app_id": "5512137348838757",
+  "package_name": "com.reulay.oasis",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Reulay Inc",
+  "rating_average": 4.1428571428571,
+  "rating_count": 7,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1543555353947966",
+      "score": 5,
+      "review_title": "It actually works!",
+      "review_description": "Tried it 3X a week for 1 week and I actually felt less stressed. Antarctic sky and sunset pier are my favorite",
+      "date": 1780324473,
+      "review_helpful_count": 0,
+      "author_display_name": "sushichan",
+      "author_alias": "sushichan",
+      "developer_response": null
+    },
+    {
+      "id": "1155650034298650",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "Relaxing app",
+      "date": 1780287412,
+      "review_helpful_count": 0,
+      "author_display_name": "flyfishertodd",
+      "author_alias": "flyfishertodd",
+      "developer_response": null
+    },
+    {
+      "id": "7940865662665930",
+      "score": 5,
+      "review_title": "Super relaxing",
+      "review_description": "You can almost smell the nature. Feels very real and the narration is very soothing.",
+      "date": 1721395122,
+      "review_helpful_count": 3,
+      "author_display_name": "taxt",
+      "author_alias": "taxt",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-07-08T06:31:01Z"
+}
