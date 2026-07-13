@@ -1,0 +1,45 @@
+{
+  "app_id": "9927411653954578",
+  "package_name": "com.DonC.Origami",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Origami Paper Plane",
+  "rating_average": 3.4,
+  "rating_count": 5,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1134528672116902",
+      "score": 5,
+      "review_title": "I love origami",
+      "review_description": "When does this game going to have a update",
+      "date": 1759537054,
+      "review_helpful_count": 1,
+      "author_display_name": "Seeders117",
+      "author_alias": "Seeders117",
+      "developer_response": null
+    },
+    {
+      "id": "2996163277218609",
+      "score": 1,
+      "review_title": "Broken/unusable. Shouldn't be in store.",
+      "review_description": "When the app launches you're immediately presented with an (unskippable) 12-step tutorial on how to fold a paper airplane. Unfortunately, after viewing all 12 steps it just repeats. There's literally no game AT ALL. Upon reading the store description, the dev does (currently) state it only has instructions!?! I dislike leaving a 1-star review but this shouldn't be in the store as there is ZERO content of any kind, merely instructions.",
+      "date": 1745353498,
+      "review_helpful_count": 8,
+      "author_display_name": "TheForbinProject",
+      "author_alias": "TheForbinProject",
+      "developer_response": {
+        "body": "We are sorry the Origami Paper Plane app disappointed you.\nWe clearly stated that it's an instruction to fold a paper plane in AR using real paper. \nAlso, it is submitted in the App category, where there aren't any other games. Meta recommended using Hands-on training Genre to make it clean, which we did.\nTo avoid such confusion in the future, we are modifying the description to emphasise that it is not a VR game, but an MR instruction to fold origami.\nWe wish you good luck in finding VR games that suit your needs!",
+        "date": 1747823438
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-07-13T06:56:28Z"
+}
