@@ -916,7 +916,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-14T06:13:00Z"
+    "updated_at": "2026-07-15T06:17:19Z"
   },
   ".com.WheyWorldStudios.ShootDash": {
     "app_id": "34246",
@@ -926,7 +926,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-14T06:13:04Z"
+    "updated_at": "2026-07-15T06:17:23Z"
   },
   ".com.biswagames.rf": {
     "app_id": "45592",
@@ -936,7 +936,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-14T06:13:08Z"
+    "updated_at": "2026-07-15T06:17:26Z"
   },
   ".comSkyDronesTeam.SkyDronesVR": {
     "app_id": "44734",
@@ -946,7 +946,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-14T06:13:12Z"
+    "updated_at": "2026-07-15T06:17:30Z"
   },
   "0.0.952": {
     "app_id": "14144",
@@ -203427,5 +203427,55 @@
     "sort": "helpful",
     "pages_fetched": 0,
     "updated_at": "2026-07-14T06:13:28Z"
+  },
+  "com.XRArt.MetaBrush.apk": {
+    "app_id": "4343933222371313",
+    "status": "ok",
+    "review_count": 2,
+    "store_review_count": 2,
+    "rating_average": 3.6363636363636,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-07-15T06:17:38Z"
+  },
+  "com.mduse.mol": {
+    "app_id": "1148493691684820",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-15T06:17:42Z"
+  },
+  "com.noorcon.platformmultiplayer": {
+    "app_id": "7802732476500180",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-15T06:17:45Z"
+  },
+  "com.singularitylab.vrsim": {
+    "app_id": "27446905054940721",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-15T06:17:49Z"
+  },
+  "lunrrr.z4eu.MonkeySwinging": {
+    "app_id": "1255794414273589",
+    "status": "ok",
+    "review_count": 16,
+    "store_review_count": 12,
+    "rating_average": 4.3529411764706,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-07-15T06:17:57Z"
   }
 }
