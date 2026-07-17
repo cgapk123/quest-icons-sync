@@ -916,7 +916,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-16T06:21:23Z"
+    "updated_at": "2026-07-17T06:19:33Z"
   },
   ".com.WheyWorldStudios.ShootDash": {
     "app_id": "34246",
@@ -926,7 +926,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-16T06:21:27Z"
+    "updated_at": "2026-07-17T06:19:36Z"
   },
   ".com.biswagames.rf": {
     "app_id": "45592",
@@ -936,7 +936,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-16T06:21:31Z"
+    "updated_at": "2026-07-17T06:19:40Z"
   },
   ".comSkyDronesTeam.SkyDronesVR": {
     "app_id": "44734",
@@ -946,7 +946,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-16T06:21:35Z"
+    "updated_at": "2026-07-17T06:19:43Z"
   },
   "0.0.952": {
     "app_id": "14144",
@@ -203537,5 +203537,85 @@
     "sort": "helpful",
     "pages_fetched": 0,
     "updated_at": "2026-07-16T06:22:03Z"
+  },
+  "com.DefaultCompany.Mostsanegame": {
+    "app_id": "24799744783000294",
+    "status": "ok",
+    "review_count": 60,
+    "store_review_count": 63,
+    "rating_average": 4.6410256410256,
+    "sort": "helpful",
+    "pages_fetched": 4,
+    "updated_at": "2026-07-17T06:20:03Z"
+  },
+  "com.GoreCore.TargetGames": {
+    "app_id": "8404146226307537",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 4.0434782608696,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-07-17T06:20:10Z"
+  },
+  "com.GoreCore.TargetStudios": {
+    "app_id": "8451626101599335",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-17T06:20:15Z"
+  },
+  "com.HauntedPlanet.ScriabinMRScene": {
+    "app_id": "24957983970505174",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-17T06:20:19Z"
+  },
+  "com.RefreshGames.VECTOR": {
+    "app_id": "26854528424212877",
+    "status": "ok",
+    "review_count": 40,
+    "store_review_count": 41,
+    "rating_average": 4.1617647058824,
+    "sort": "helpful",
+    "pages_fetched": 3,
+    "updated_at": "2026-07-17T06:20:33Z"
+  },
+  "com.questfiles.app": {
+    "app_id": "1162974433570137",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-07-17T06:20:41Z"
+  },
+  "com.techsan.imcrc.ReaLive": {
+    "app_id": "1167010283167203",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-17T06:20:45Z"
+  },
+  "rest.nxs": {
+    "app_id": "1148546311680282",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-17T06:20:48Z"
   }
 }
