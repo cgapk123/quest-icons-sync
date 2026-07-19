@@ -916,7 +916,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-18T06:07:26Z"
+    "updated_at": "2026-07-19T06:32:15Z"
   },
   ".com.WheyWorldStudios.ShootDash": {
     "app_id": "34246",
@@ -926,7 +926,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-18T06:07:30Z"
+    "updated_at": "2026-07-19T06:32:19Z"
   },
   ".com.biswagames.rf": {
     "app_id": "45592",
@@ -936,7 +936,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-18T06:07:34Z"
+    "updated_at": "2026-07-19T06:32:22Z"
   },
   ".comSkyDronesTeam.SkyDronesVR": {
     "app_id": "44734",
@@ -946,7 +946,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-07-18T06:07:38Z"
+    "updated_at": "2026-07-19T06:32:26Z"
   },
   "0.0.952": {
     "app_id": "14144",
@@ -203707,5 +203707,75 @@
     "sort": "helpful",
     "pages_fetched": 0,
     "updated_at": "2026-07-18T06:08:32Z"
+  },
+  "com.DynoMonkey.SportingArmsVR": {
+    "app_id": "60435",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-19T06:32:30Z"
+  },
+  "com.TwoLifeStudios.BazFlyingSim": {
+    "app_id": "61374",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-19T06:32:34Z"
+  },
+  "com.coldbricks.finallyplayer.quest": {
+    "app_id": "1150511758154268",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-19T06:32:38Z"
+  },
+  "com.mintanables.omnipulse": {
+    "app_id": "1214607111727590",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-19T06:32:44Z"
+  },
+  "com.newstory.orbitroomxr": {
+    "app_id": "27860319083560048",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-19T06:32:47Z"
+  },
+  "com.phantom.ar.receiver": {
+    "app_id": "35127294756884872",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-19T06:32:50Z"
+  },
+  "watch.contraband.quest": {
+    "app_id": "2179512836225126",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-07-19T06:32:55Z"
   }
 }
