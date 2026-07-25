@@ -1,0 +1,957 @@
+{
+  "app_id": "9269393463181825",
+  "package_name": "com.Flat2VRStudios.RoboquestVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Roboquest VR",
+  "rating_average": 4.7378048780488,
+  "rating_count": 164,
+  "review_count": 116,
+  "reviews": [
+    {
+      "id": "1157993014073159",
+      "score": 5,
+      "review_title": "The Gold Standard of VR Ports!",
+      "review_description": "Roboquest was already proven to be a blast in its non-VR version, but experiencing it in VR takes intuition and immersion to a whole new level! What impresses me the most is how exceptionally well-optimized the standalone Quest version is—aside from the resolution difference, it feels almost identical to the PCVR version. The fact that it supports cross-platform multiplayer so you can jump into the action with players on other platforms makes it even better!",
+      "date": 1784829392,
+      "review_helpful_count": 40,
+      "author_display_name": "HaaN_Jabs",
+      "author_alias": "HaaN_Jabs",
+      "developer_response": null
+    },
+    {
+      "id": "1662374812560757",
+      "score": 5,
+      "review_title": "I love this game!!!",
+      "review_description": "I never played the flat version before playing in VR. I didn’t think I’d like this game since I’m not a fan of some roguelike VR games. Well, Roboquest VR thoroughly impressed me. It has been one of the most addicting games I’ve played.  \n\nOnce I start, it’s hard to put down. The more you play, the more you discover. Each unlocked door or new discovery brings joy and excitement to keep going. \n\nAfter many hours of playing on SteamVR and Meta, I decided to give the flat version a try on PS5. I just can’t do it. It’s not the same. Being IN the game is so much more fun and immersive. For someone who rarely plays roguelikes, this is a must-have. \n\nIf you experience any issues with the game, reach out to Flat2VR on their Discord server and they’ll fix it. Very responsive and reactive to provide a perfect gam",
+      "date": 1784828295,
+      "review_helpful_count": 17,
+      "author_display_name": "MissChiefVR",
+      "author_alias": "MissChiefVR",
+      "developer_response": null
+    },
+    {
+      "id": "994778166719441",
+      "score": 5,
+      "review_title": "One of the best VR shooters out there!",
+      "review_description": "If you've been thinking about getting this game, do it. It's great, it is just as good in standalone as it is on PCVR, this is a great version of the game that plays great. Plus, it has online co-op, which is so much fun with friends. There's is a lot to unlock and level up so always a reason to get back into it. Totally worth it! A must have for any Quest gamer out there.",
+      "date": 1784827268,
+      "review_helpful_count": 15,
+      "author_display_name": "RobbieArchitect",
+      "author_alias": "RobbieArchitect",
+      "developer_response": {
+        "body": "We appreciate the recommendation, RobbieArchitect!",
+        "date": 1784831268
+      }
+    },
+    {
+      "id": "1412567204110688",
+      "score": 5,
+      "review_title": "Believe the Hype!",
+      "review_description": "Anyone who's a fan of intense, action-packed games is in for a treat\n\n\nRobo Quest delivers this and does it with style.\nYou will die...and possibly a lot to begin with.\nBut there are multiple difficulties to help ease you in (and more difficult ones to unlock).\n\nBeing a rogue lite, with every success or failure you are getting stronger.\n\nWhether it's via unlocking meta upgrades, learning enemy behaviours or how to specialise your perk choices\n\nThe sheer number of guns, perks, gadgets, classes and secrets will keep the game fresh.\nYou will be discovering something new every run for some time.\n\nDespite spending 50+ hrs on PC, there are still many weapons/perks/builds that I'm still discovering.\n\n\nThe team has done a fantastic job at porting the game from flat and improved it, in so many ways (from being able to dual wield and fire at two separate enemies to adding in motion controls, e.g., for throwing weapons).\nTo something as simple as adding voice chat in co-op (which doesnt exist on the original flat version for some reason)\n\nThats right, there's Co-Op, and it's also cross-platform, so you can play with friends that have it on PC or PSVR2.\n\nWhile there are some minor performance hitches (at launch), it is completely playable, and you probably would only be bothered if you played the PC/PSVR2 ports (standalone convenience!).\n\nThere's honestly some black magic going on in the background for it to even be able to run om standalon.\nI'm sure the team will continue to polish it long after release if it follows the pattern to any of the other Flat2VR releases..\n\nIt was easily my VR GOTY when it came out on PC last year, and it's set to become Q3 VR GOTY.",
+      "date": 1784833985,
+      "review_helpful_count": 11,
+      "author_display_name": "Burntbreadman",
+      "author_alias": "Burntbreadman",
+      "developer_response": null
+    },
+    {
+      "id": "1049503187538823",
+      "score": 5,
+      "review_title": "Hours of fun!!",
+      "review_description": "What a great VR port!\nIt's a cel-shaded style robot shooter with roguelike elements, a rewarding progression, tons of missions, collectibles and secrets to find!\nYou like weapons variety? I think the arsenal is one of the biggest in VR games, with all kind of weapons... including weird ones: I laughed a lot seeing the reference to Trombone Champ!\nHow they could make it run so well on standalones is beyond me... visually is beautiful, all is polished and smooth (just the classic micro lag when loading), and it has a verticality I never expected: when you'll unlock the grappling hook or the jetpack, you'll discover the \"upper floors\" -which is mandatory if you want to find all collectibles-!\n...and there's multiplayer, too!\nAbsolutely recommended!",
+      "date": 1784831655,
+      "review_helpful_count": 7,
+      "author_display_name": "BENNiGaming",
+      "author_alias": "BENNiGaming",
+      "developer_response": null
+    },
+    {
+      "id": "1228289337033176",
+      "score": 4,
+      "review_title": "Great Game…but it’s ugly",
+      "review_description": "Let’s start with the positives.\n\nThe gameplay loop is addictive. The gun play is really solid. The speed is excellent. ￼Overall it’s a really fun game to play.\n\nThe only real negative I have is the graphics. It is a pretty ugly game as it stands. The environments, especially are very stale and raw looking, and often flicker. Everything just kind of lacks the extra polish you would expect from a Flat2VR game. \n\nI’ve heard the devs mention improving the cell shaded art, and if this happens, this will become a five star review. However as it stands, it’s an ugly fun game.",
+      "date": 1784875843,
+      "review_helpful_count": 6,
+      "author_display_name": "HipMoDee",
+      "author_alias": "HipMoDee",
+      "developer_response": null
+    },
+    {
+      "id": "1436225345008579",
+      "score": 5,
+      "review_title": "Harder, Faster, Stronger - RoboQuest VR",
+      "review_description": "Full disclosure: I received a copy of this game, but wanted to note that I would have easily paid $50 for this game. In fact, I gifted a copy to my nephew today so that I can enjoy playing it with him halfway across the U.S.. \n\nThis is a MUST OWN VR GAME. \n\nAs someone who has extensively played both the Meta Quest 3 and PCVR versions, I can emphatically state that it is remarkable what Flat2VR Studios managed to pull off in converting this fast-paced, roguelite, first-person shooter, and make it have the same fast action on standalone headsets with cross-play multiplayer support. I bow to their programming wizardry. \n\nRoboQuest VR is an instant classic, a fast and fun shooter that has so much to unlock & upgrade that I have easily sunk more than 60 hours into it and still enjoy going back for one more run. The runs themselves can be completed in under an hour (once you are good enough and know the various routes that will take you there in the shortest amount of time). Keep in mind that this game rewards exploration and is just as much fun to play as a solo game as it is a multiplayer experience.\n\nThe story is a human finds a half buried robot in the middle of a wasteland, fixes it up, and the robot springs to life, and leads the human towards the city, which has now been overtaken by hostile robots that wish to eliminate humanity. The games’ cartoonish art style and cut scenes make this a lighthearted and silly affair, but the action and coordination involved require skill at higher difficulties. In order to survive a full run (as the difficulty ramps up from location to location) players will need to learn about their enemies strengths and weaknesses, as well as each weapons strengths and weaknesses, and become proficient in using them (as well as their character classes abilities). Does this sound daunting and heavy? I assure you it is not, the controls are intuitive and there is an excellent tutorial that walks you through how to make the most of your abilities, but also encourages you to explore and figure some things out for yourself. \n\nAnd when I say weapons… I mean a “ratchet and clank-style”, massive armory; there are dual-wield weapons, melee weapons, manual reload weapons, energy weapons, larger, two-handed heavy weapons, deployment weapons which can summon support units (including bees!), and lots more to explore, including augmentations and alternate fire options. Customizing and upgrading weapons is a super simple process, players are also rewarded with the ability to practice with weapons back at base camp once they have reached enough proficiency out in the field with said weapon. \n\nNow to be clear, the graphics are excellent, and are about as good as you can get without sacrificing frame rate and speed, which is essential for making this game work. The cell shaded art style allows vast areas to be loaded onto a standalone headset, as somebody who has also played the PCVR version, I know that the detail is even better there, but that is the nature of standalone hardware and is not a fault of the game whatsoever. \n\nThe bottom line is this game is essential for anybody hoping to get the most out of their VR headset. Purchase this game, support this developer, gift copies of it to your friends and play it with them, you will not be disappointed. Hope to be gaming with you soon! \n\nNote: I have seen a few reviews that complain that this game cannot run on Quest 2 hardware, that system is too old and does not have the chipset necessary to maintain a steady frame rate. Disappointed gamers must start to set expectations that newer games will only run on current hardware. IMO, an indie company like this does not have the resources to dedicate making a Q2 version (if such as thing is even possible). The game should not be penalized for such things.",
+      "date": 1784843281,
+      "review_helpful_count": 5,
+      "author_display_name": "BoardGameNick",
+      "author_alias": "BoardGameNick",
+      "developer_response": null
+    },
+    {
+      "id": "1746472766445884",
+      "score": 5,
+      "review_title": "👾Roguelike Robot VR Heaven🤖",
+      "review_description": "If you like roguelikes and VR, this is an easy recommendation. Every run feels different thanks to the insane diversity of guns, which is also exactly what keeps me coming back for \"just one more run\" which somehow turns into five xD.\nThe controls and things to watch out for have just as much variety as the weapons so they can be a little overwhelming at first, but once everything clicks, it definitely won't disappoint.\nMy only complaint is that the game has somehow convinced me that getting destroyed by robots is a better way to spend the evening rather than with my family...",
+      "date": 1784842429,
+      "review_helpful_count": 4,
+      "author_display_name": "KindGentlemanThatisntKind",
+      "author_alias": "KindGentlemanThatisntKind",
+      "developer_response": null
+    },
+    {
+      "id": "4667826136877246",
+      "score": 5,
+      "review_title": "So much fun",
+      "review_description": "Roboquest is one of the most entertaining roguelites I have ever played on the Quest. The artstyle is colorful, and the different levels have a distinctive and unique look. It reminds me a bit of Borderlands. I love the story and the humor of the game 🙂 The difficulty level is adjustable for any Taste. for me it has a high replayability value - every run feels different and rewarding and I am sure that I will Continue to play Roboquest for quite a while.",
+      "date": 1784829319,
+      "review_helpful_count": 3,
+      "author_display_name": "racallan",
+      "author_alias": "racallan",
+      "developer_response": {
+        "body": "Hi racallan, thank you for taking the time to leave us a review. Have fun!",
+        "date": 1784831179
+      }
+    },
+    {
+      "id": "2469028283577473",
+      "score": 5,
+      "review_title": "A must buy blast!",
+      "review_description": "Great fun! A must have! And VR is the best way to play the game. Definitely one of those games where you say to yourself \"just one more round\" or \"just one more upgrade\" and next thing you know, it's been 4 hours.\n\nDo yourself a favor, get it, and thank me later!",
+      "date": 1784835517,
+      "review_helpful_count": 4,
+      "author_display_name": "Defrostmode",
+      "author_alias": "Defrostmode",
+      "developer_response": null
+    },
+    {
+      "id": "1045379007972651",
+      "score": 4,
+      "review_title": "It's a fun game but still needs updates",
+      "review_description": "Now don't get me wrong its a good game but the graphics aren't what I expected. Now I know its a \"quest\" game so I should expect lower graphics, but I thought they were going to go with a more comic style of game but instead the games graphics still look \"raw\" if you know what I mean. It isn't perfect but the gameplay is still a good, but there is still a bit of jank in the gameplay. I hope with upcoming updates it will become an amazing game.",
+      "date": 1784832036,
+      "review_helpful_count": 3,
+      "author_display_name": "Serg7382",
+      "author_alias": "Serg7382",
+      "developer_response": {
+        "body": "Hey Serg7382, thank you for playing the game. We appreciate you taking time to leave us a review and we just wanted to let you know that the comic style graphics is something we're going to be implementing with a future update!",
+        "date": 1784832776
+      }
+    },
+    {
+      "id": "27808141812138410",
+      "score": 5,
+      "review_title": "A certified banger",
+      "review_description": "This game is flat out fantastic.  The fast paced action on many levels, the combat and the weapons... oh my the weapons.  There are tons of them, and they all behave differently.  I've made it a point to always swap to a new weapon when I come across one even if I'm currently using a favorite.  I want to try them all.  The graphics and colors really pop.  I love having a home base, so I can have some down time and still use my shooting range to practice with my gear and check out the info on the enemies.  I love additions like this in games.  This is by far one of my favorite games on my headset.  I'm usually a solo loner but have played a few sessions of multiplayer and loved it.  I learned a lot from the people I played with, a friendly helpful bunch.  This is how VR ports are done right!",
+      "date": 1784911689,
+      "review_helpful_count": 2,
+      "author_display_name": "Potatochip007",
+      "author_alias": "Potatochip007",
+      "developer_response": null
+    },
+    {
+      "id": "1266229916570454",
+      "score": 5,
+      "review_title": "Peak Coop",
+      "review_description": "Roboquest brings the same frantic, roguelite action from the PCVR version to standalone. It’s an incredible feat that doesn’t seem possible on a Quest. You're jumping into fast-paced gameplay that is buttery smooth and is even more fun in co-op. You play as a variety of unlockable robots with different abilities and an absolute mountain of guns. Your only goal is to make it to the end and beat the boss. Just like the PC version, as you progress, you unlock more perks, weapons, and pathways and find more bosses to defeat. It’s one of the most addictive games I have ever played, and no two runs ever feel the same. It’s a blast every time.",
+      "date": 1784904436,
+      "review_helpful_count": 2,
+      "author_display_name": "FoamyMouthDog",
+      "author_alias": "FoamyMouthDog",
+      "developer_response": null
+    },
+    {
+      "id": "1383212630368889",
+      "score": 5,
+      "review_title": "Robo quest",
+      "review_description": "Is anyone having problems with playing robo quest vr and lagging problems I’m getting it alot  and the game seems to lagg alot when fighting the bots or enemies in the game I hope it gets fix I bury just got the game been waiting for months to play it ￼",
+      "date": 1784834153,
+      "review_helpful_count": 3,
+      "author_display_name": "maxchristian157",
+      "author_alias": "maxchristian157",
+      "developer_response": {
+        "body": "Hey maxchristian157, sorry to hear that you're experiencing issues! If you can hop into our Discord server and let us know what's going on in more detail, our devs would love to help you! Here is the link: https://discord.gg/bRbeKcXND9",
+        "date": 1784835585
+      }
+    },
+    {
+      "id": "1027660176714622",
+      "score": 5,
+      "review_title": "amazingly well polished game",
+      "review_description": "Iv never played the flat screen version but iv heard hype over it and let me say this game is very very very very well polished just as a vr game alone. Only played like 30 minutes of it before i made this review but iv been anticipating this game for a long time cause I kept hearing about it and it's exactly what I thought it would be like. The game focuses alot on mechanics and fun more than an Imersive experience( but it's still Imersive) it's has a very well balance of both. Barely any glitches iv came across besides the first time loading up took a minute and also failed the first time. Other than that it is a phenomenally well polished game. Can't wait for more vr games from these guys almost every game these guys make is just so good",
+      "date": 1784848514,
+      "review_helpful_count": 2,
+      "author_display_name": "saucypickle4u",
+      "author_alias": "saucypickle4u",
+      "developer_response": null
+    },
+    {
+      "id": "37744284458496047",
+      "score": 5,
+      "review_title": "An instant Classic! 10/10",
+      "review_description": "Roboquest VR on Quest is an incredible tour de force, but also simply one of the best games available on the platform.\nRoboquest VR is a roguelite shooter where you’re playing a robot going through levels partly randomly generated, smashing enemies robots in a cell-shaded environment.\nThe first time I played Roboquest, it was on a flat screen and I loved the incredibly fast pace; the variety of weapons, upgrades and Classes; the Rogue-lite mechanism; the basecamp as a haven between runs; the great cell-shaded graphics… and the music which supports incredibly well the fast pace of the game. But my first thought was how much better this game would be in VR. And this is where Flat2VR managed again something which I didn’t think would be possible: not only porting the game with full VR control, but also adapting the core game to VR: Roboquest VR totally feels like a game thought for VR from the grounds up. But maybe even more impressive is managing to port such an ambitious game on Quest. Yes, there are some concessions to the limited hardware, but it’s truly impressive how Roboquest VR feels and looks as an autonomous game. It’s the best of all worlds: everything which made Roboquest a fantastic game, but in full immersive VR; and squeezed into the Quest 3 platform!\nWhile the gameplay is very welcoming to new players, the speed and verticality of the game means you probably need some VR legs to really enjoy it fully. But don’t worry: even if the game is easy to get into, it does offer plenty of challenges as you progress through the levels and the incredible variety of weapons and upgrades, which makes every run seem fresh.\nAlso, Roboquest VR comes out on Quest with a 2-players coop mode, with crossplay and voice chat. This is what the game needed to make it a full 10/10: being able to share the fun and run around smashing robots with a friend!\nIn conclusion, I don’t understand why you’re still reading this: just buy and play the game!!",
+      "date": 1784885261,
+      "review_helpful_count": 1,
+      "author_display_name": "FixB",
+      "author_alias": "FixB",
+      "developer_response": null
+    },
+    {
+      "id": "28001034916250046",
+      "score": 5,
+      "review_title": "Guaranteed hours of fun!!",
+      "review_description": "This is one of the best VR games that I’ve ever played.  I've played over 200 hours on PSVR2, 125 hours in Steam PCVR, and after a few hours on the Quest, I'm pretty sure that this version is about to get even more play time than the other two combined.  At $29.99, this game is worth every penny!!  It’s an easy recommendation from me.",
+      "date": 1784864777,
+      "review_helpful_count": 1,
+      "author_display_name": "Mickyberr",
+      "author_alias": "Mickyberr",
+      "developer_response": null
+    },
+    {
+      "id": "27691449927150897",
+      "score": 5,
+      "review_title": "This is what VR is made for!",
+      "review_description": "This game feels like it was made for VR to start with. It is hard to believe it is just a Flat2VR remake because everything about it feels like it was meant to be. First person shooter, rougelike mechanics, tons of guns, upgrades, buffs with a comic book feel to it all. It is technically the same game, but now you are able to shoot in any direction you can get your hands and now you can do it with a friend or stranger.\n\nThe variety of guns and the simple shading does kind of give a bit of a Borderlands vibe to it. But, this is all robots with lots of bullets and mines and explosions everywhere. New weapons drop from time to time, but you are constantly picking up health orbs, wrenches, power cells and other collectibles. With upgrades at your base camp you can get characters in between levels to help you upgrade your current weapons, if you have a liking for them. Certainly helpful as you get deeper into the game.\n\nPlaying alone is pretty hectic at times, but with a friend, now you have twice the fire power and someone to come to your rescue, at a cost though. Robots survive with battery power and to charge one, you must take from the other.\n\nIf you like first person shooter games with roguelike mechanics, and want to play with a friend, this is certainly one to grab. \n\nThis is my same review on Steam, but there are some slight differences with the Quest version as they had to reduce some quality for performance. However, it does not take away from the game at all. It’s just with the PC performance you do get crisper quality. There is cross-play, but each version of the game has its own save. So, your progress is not going to carry between the different versions.",
+      "date": 1784933156,
+      "review_helpful_count": 1,
+      "author_display_name": "Satconcook",
+      "author_alias": "Satconcook",
+      "developer_response": null
+    },
+    {
+      "id": "2114734576142471",
+      "score": 5,
+      "review_title": "Best in VR",
+      "review_description": "Roboquest feels like it was meant to be played in Virtual Reality.  The movement, along with the variety of different weapons you get to use and foes that you go up against make combat great.  It includes the usual things desired in this sort of resetting, replayable, permadeath experience - new classes and items to unlock, new areas and enemies to reach, randomized weapons and upgrades. This game is just good plain fun.",
+      "date": 1784931430,
+      "review_helpful_count": 0,
+      "author_display_name": "DirkBuckler",
+      "author_alias": "DirkBuckler",
+      "developer_response": null
+    },
+    {
+      "id": "1537442194829859",
+      "score": 5,
+      "review_title": "The best fast-paced shooting game",
+      "review_description": "This is a fast-paced roguelites shooting game. You have to upgrade to your preference with a new weapons that comes out ceaselessly during battle. Starting from pistol, there are melee gloves, bombshells shooter or sniper rifles, anything you can get. If you don't know what's good for you, you can keep changing this and that. You can also upgrade from base camp with the items collected during the game. If you die during battle, you have to do it all over again from start, but there is also a difficulty setting, and you can save it after completing each level and continue it again later. However, be careful because if you come out to base camp for an upgrade, you will lose your save point.   \nI also beta tested it on PC, but it was so perfectly ported that I barely felt any difference in Quest alone. I feel the hard work of the developer team. Two-person cooperative play was also recently supported, and moreover, cross-play on PC and Quest is working well.\nSince there is a fast movement, users who have not yet solved motion sickness should refrain. If you have solved it, I recommend it as the best shooting game you can play with your friend or family.",
+      "date": 1784858374,
+      "review_helpful_count": 1,
+      "author_display_name": "Carpedian",
+      "author_alias": "Carpedian",
+      "developer_response": {
+        "body": "Thank you, Carpedian, for the detailed review! We appreciate you pointing out the minimal difference between the PCVR version and the Quest version. It was our top priority to create the best experience within the Quest 3 and 3S' limitations, so that is a major compliment to us!",
+        "date": 1784903065
+      }
+    },
+    {
+      "id": "1229895833539999",
+      "score": 5,
+      "review_title": "Amazingly fun",
+      "review_description": "I had a blast playing this game. The weapons are fun to experiment with and the controls are intuitive. Playing with others is a lot of fun. Depending on the weapons that you're using, it can also give you quite a workout. My arm was sore after finding out that I could throw a tomahawk.",
+      "date": 1784902698,
+      "review_helpful_count": 1,
+      "author_display_name": "rigamarolexq",
+      "author_alias": "rigamarolexq",
+      "developer_response": null
+    },
+    {
+      "id": "1626846325439264",
+      "score": 5,
+      "review_title": "Best Rougelike in VR?",
+      "review_description": "The best porting studio does it again. While the whole industry crumbles and quits, Flat2VR will be the one standing tall being the beacon that helps to rebuild it all. A phenomenal port for a phenomenal game. Slightly buggy, I’ve had a couple glitches here and there, a gun turning invisible, a rock glitching out. That’s it really, once those are ironed out this will be a flawless port and a must buy for anyone who loves VR gaming.",
+      "date": 1784917674,
+      "review_helpful_count": 1,
+      "author_display_name": "ExcapePortal",
+      "author_alias": "ExcapePortal",
+      "developer_response": null
+    },
+    {
+      "id": "1041670894887927",
+      "score": 5,
+      "review_title": "Better than Doom and in VR.",
+      "review_description": "The best movement shooter you can play in VR right now. Easily the best game I played on Quest 3 in 2026.",
+      "date": 1784840829,
+      "review_helpful_count": 3,
+      "author_display_name": "tkachewwwlad",
+      "author_alias": "tkachewwwlad",
+      "developer_response": null
+    },
+    {
+      "id": "1053464180544744",
+      "score": 1,
+      "review_title": "Game won't start!",
+      "review_description": "For some reason, this game won't start for me on my Meta quest 3. It just stays on the 'compiling shaders' title screen. I have restarted and everything.  Can one of the devs Please help me figure this out??",
+      "date": 1784959645,
+      "review_helpful_count": 0,
+      "author_display_name": "Cocopuff75",
+      "author_alias": "Cocopuff75",
+      "developer_response": null
+    },
+    {
+      "id": "1359545812945894",
+      "score": 5,
+      "review_title": "Really great action",
+      "review_description": "Loving enemies and enviroment too. Weapons is top notch in this game and you go through different stages and everytime it feels totally different. Music is awesome on this one and whole port is done properly!",
+      "date": 1784873021,
+      "review_helpful_count": 1,
+      "author_display_name": "GMsupr",
+      "author_alias": "GMsupr",
+      "developer_response": null
+    },
+    {
+      "id": "1731402891433575",
+      "score": 5,
+      "review_title": "best roguelike shooter.",
+      "review_description": "I bought this for psvr2, and it was so good I had to buy it again.",
+      "date": 1784952186,
+      "review_helpful_count": 0,
+      "author_display_name": "MediocrityFTW",
+      "author_alias": "MediocrityFTW",
+      "developer_response": null
+    },
+    {
+      "id": "1277024548818898",
+      "score": 5,
+      "review_title": "great game",
+      "review_description": "loved the console version now that its on vr I'm so happy its fun in vr",
+      "date": 1784954245,
+      "review_helpful_count": 0,
+      "author_display_name": "AgentArkham393",
+      "author_alias": "AgentArkham393",
+      "developer_response": null
+    },
+    {
+      "id": "1174634015740185",
+      "score": 5,
+      "review_title": "this game is really fun",
+      "review_description": "U will truly enjoy this game if Your immune to motion sickness",
+      "date": 1784954673,
+      "review_helpful_count": 0,
+      "author_display_name": "Fjking750",
+      "author_alias": "Fjking750",
+      "developer_response": null
+    },
+    {
+      "id": "1639262948204928",
+      "score": 5,
+      "review_title": "Masterpiece",
+      "review_description": "this is one of the BEST ports i have ever played!",
+      "date": 1784952145,
+      "review_helpful_count": 0,
+      "author_display_name": "JHZim",
+      "author_alias": "JHZim",
+      "developer_response": null
+    },
+    {
+      "id": "1300107253175223",
+      "score": 5,
+      "review_title": "the game is so fun",
+      "review_description": "So fun",
+      "date": 1784945703,
+      "review_helpful_count": 0,
+      "author_display_name": "tacticalbox",
+      "author_alias": "tacticalbox",
+      "developer_response": null
+    },
+    {
+      "id": "1551038009756193",
+      "score": 2,
+      "review_title": "Runs badly",
+      "review_description": "I've pre ordered this hoping this was going to good but so far its ran like crap. The frames drop is horrible to the point where my characters hands shake so badly that I can't aim my gun at all, I can't get past the first level cause of this please fix this.",
+      "date": 1784855254,
+      "review_helpful_count": 4,
+      "author_display_name": "Laxinmaxin",
+      "author_alias": "Laxinmaxin",
+      "developer_response": {
+        "body": "Hi, sorry to hear you're having this experience. Are you on the most up to date build? If you could join our discord, we'd love to help you troubleshoot. https://discord.gg/A6ebFaXmYN",
+        "date": 1784870416
+      }
+    },
+    {
+      "id": "1567446828373410",
+      "score": 5,
+      "review_title": "Excellent in 2D and in excellent in VR.",
+      "review_description": "I played the heck out of this game on steam. Movement is fast and fun like the good days of quake and Doom. \n\nWeapon variety keeps it interesting each run and the secrets and upgrades add tons of replayability. \n\nThe VR version has a couple quirks I'm trying to get used to after spending so much time with the steam version. Nothing I can't get used to. \n\nPerformance wise it's decent but I have had consistent frame drops and one crash in my hour or so play session. \n\nI'm still happy with it and am looking forward to playing this all the way through many times. I hope the devs add some more polish to improve performance on the Quest 3. Other than that this is an easy recommend. \n\nThanks to the devs for making this port. We all owe you one.",
+      "date": 1784931844,
+      "review_helpful_count": 2,
+      "author_display_name": "Keebler311",
+      "author_alias": "Keebler311",
+      "developer_response": null
+    },
+    {
+      "id": "1294974017023338",
+      "score": 4,
+      "review_title": "Legendary but",
+      "review_description": "I travel in the oil of my robotic enemies as I rip their opticals out of their face. I smile, murderous intent is what I would say if the knife worked. As a recon main not being able to use my knife kind of feels like trash. But I can definitely understand what you were doing with the knife. You didn’t want people to just wave our arms around and make all their problems disappear by making the knife hit box hit the enemy five times in one second. But however, I have no clue to when the knife is recharged and he can hit someone again so I’m kind of just standing there getting shot swinging my arm and wildly.. what I propose is that when the knife is out of slashes, it would break temporarily until it gets all of it slashes back or you could make it have a like battery percentage like any of the other guns but yeah, this is a really good game I’m really excited to keep playing it and if I have gotten the knife wrong figure out what to do right",
+      "date": 1784902461,
+      "review_helpful_count": 2,
+      "author_display_name": "DragonC611",
+      "author_alias": "DragonC611",
+      "developer_response": null
+    },
+    {
+      "id": "1087544933942650",
+      "score": 5,
+      "review_title": "A FLAT2VR MASTERCLASS.",
+      "review_description": "The team of FLAT2VR have done it again.\nHome run after home run, Touchdiwn after touchdown.\nFast and frenetic super first person shooter fun.\nThe biggest game of the summer has finally arrived on Meta Quest.\nIt looks and plays incredibly well, the array of guns are so good, it’s hard to pick one and stay with it, too many awesome choices.\nThe team have done a masterful job bringing this to VR.\nIt’s the game that Meta Quest desperately needed this summer, this has given my Quest a new lease of life.\nOnce you start it’s hard to put the game down.\nFabulous stuff, you must buy this now to add to your collection.",
+      "date": 1784922839,
+      "review_helpful_count": 2,
+      "author_display_name": "GizmoDemi",
+      "author_alias": "GizmoDemi",
+      "developer_response": null
+    },
+    {
+      "id": "1903702994349460",
+      "score": 5,
+      "review_title": "Immersive, impeccable",
+      "review_description": "One of my favorites from flatspace made immersive! It does lose a star due to some issues I have in the current build (melee feeling wonky being the primary gripe), but it gains said star back due to the extra perks that being in VR grants (more accurate aiming, being able to shoot at separate targets in duel wield, etc), and I'm sure the devs with touch up any problems later, I trust them",
+      "date": 1784952821,
+      "review_helpful_count": 0,
+      "author_display_name": "rylly4th",
+      "author_alias": "rylly4th",
+      "developer_response": null
+    },
+    {
+      "id": "1138274666046855",
+      "score": 5,
+      "review_title": "Made for VR",
+      "review_description": "I was one of few people who did not know this game was a flat game first. This does not feel like a cheap port that may as well just be played on your flat screen, this felt like a native VR experience. This was made top to bottom for VR, and if you never played the original, you would assume it was made for VR first",
+      "date": 1784908265,
+      "review_helpful_count": 1,
+      "author_display_name": "TheGoldenPepper",
+      "author_alias": "TheGoldenPepper",
+      "developer_response": null
+    },
+    {
+      "id": "1494073679183914",
+      "score": 5,
+      "review_title": "Best game on the quest store!!",
+      "review_description": "After messing around with QGO and playing for a good 2 hours I wholeheartedly absolutely undeniably recommend this game. \n\nI can’t belive they got this game running the way they did on standalone\n\nEven without qgo it’s great. With qgo it’s incredible. The whole game is so great. It’s automatically the best fps roguelike on the quest store and that’s saying something but it’s darn near one of the best games on Standalone VR. \n\nThe first area is a little visually drab. Everything afterwards is so sick\n\nAnd my jaw actually dropped when I saw the smoke fx in zone 3 and the way they handle the dark areas too where your eyeballs are flashlight is just so sick!!!\n\nIt’s obviously toned down from pc/ps5 but man is it cool I rlly think everyone who owns a quest 3 should buy this game",
+      "date": 1784855684,
+      "review_helpful_count": 0,
+      "author_display_name": "KentMansley",
+      "author_alias": "KentMansley",
+      "developer_response": {
+        "body": "Wow, thank you so much for recommending us! We appreciate it when someone notices the hard work that goes into the details. Thank you for taking the time to tell us your thoughts. Have fun!",
+        "date": 1784902536
+      }
+    },
+    {
+      "id": "1283269868192072",
+      "score": 5,
+      "review_title": "Very impressed! Amazing port..Must have!",
+      "review_description": "I have played this game on the Xbox standalone system before, not in VR, and this game is amazing!!! It did take me awhile to figure out how to switch weapons by only clicking the hold button once quickly over my shoulder Vs. holding it down, but that was only a small hiccup on learning their controls. It is such a different experience being in the game VS playing the game from a controller! \n\nAt first, I was hesitant from the positive reviews thinking they were from paid players to try to hype the game up, but it really is an amazing game done perfectly well onto the oculus. \n\nWell done developers!!! Quite an amazing feat you accomplished here. Anyone reading this like I read all the previous reviews trying to find a reason this games not amazing.... save your time... it is quite amazing and really is one of the best oculus games out there. \n\nBuy it, you won't be unhappy with your purchase",
+      "date": 1784864856,
+      "review_helpful_count": 0,
+      "author_display_name": "Killalot75",
+      "author_alias": "Killalot75",
+      "developer_response": null
+    },
+    {
+      "id": "1204975546037389",
+      "score": 5,
+      "review_title": "Good game by (youngfam09)",
+      "review_description": "The game was great. It was just like the original Robo quest. The guns were great and they felt really good shooting and also the perk system was really good. it’s funny because my first multiplayer match I got into a game with a dev and he taught me the ropes of the game and also what they might do in the future. so thanks to that Dev. I would recommend this game if you’re ever thinking about getting it ￼￼￼￼￼.",
+      "date": 1784834117,
+      "review_helpful_count": 1,
+      "author_display_name": "Youngfam09",
+      "author_alias": "Youngfam09",
+      "developer_response": null
+    },
+    {
+      "id": "1049902957559695",
+      "score": 1,
+      "review_title": "It made me buy the game twice",
+      "review_description": "I had bought the preorder of this game back in March and I had been patiently waiting for it to come out so\n I could play the game as soon as it did. But after it had been released I was disappointed to see that I still had to buy it again even though it already charged my account for the money the first time",
+      "date": 1784870724,
+      "review_helpful_count": 1,
+      "author_display_name": "mrrateater",
+      "author_alias": "mrrateater",
+      "developer_response": {
+        "body": "Hi mrrateater, sorry to hear that you've encountered an issue with payment! Please reach out to Meta support for help as soon as you can to secure your refund for the second payment because that should not happen. Here is the link: https://www.meta.com/help/support/",
+        "date": 1784904470
+      }
+    },
+    {
+      "id": "1213813395153307",
+      "score": 2,
+      "review_title": "So far it's...",
+      "review_description": "It's buggy for me on the Quest 3 and is a bit jittery. The first tutorial bugs out and I'm not able to move forward. I'll try again later on.",
+      "date": 1784839170,
+      "review_helpful_count": 4,
+      "author_display_name": "bnjmnbanks",
+      "author_alias": "bnjmnbanks",
+      "developer_response": {
+        "body": "Hey bnjmnbanks, that's odd! Could you please join our community Discord server so our devs can help troubleshoot it with you? Here is the link: https://discord.gg/bRbeKcXND9",
+        "date": 1784904567
+      }
+    },
+    {
+      "id": "1066669712496711",
+      "score": 5,
+      "review_title": "Flat2VR Does It Again!",
+      "review_description": "There is no more exciting time than when a new Flat2VR game releases, and they did not disappoint with Roboquest VR! With the inclusion of Quest Achievements, it really does check all the boxes for a high-quality VR game. I'll be hunting this daily for the foreseeable future. Fantastic work!",
+      "date": 1784830676,
+      "review_helpful_count": 1,
+      "author_display_name": "M4cheteColletti",
+      "author_alias": "M4cheteColletti",
+      "developer_response": null
+    },
+    {
+      "id": "1063404446246222",
+      "score": 5,
+      "review_title": "wow",
+      "review_description": "Love it! but its not on quest 2☹️ so i cant play with my brother which is why i got it  please add it to quest 2 soon love this game though keep up the the good work 😀",
+      "date": 1784838158,
+      "review_helpful_count": 3,
+      "author_display_name": "XxObiWan1xX",
+      "author_alias": "XxObiWan1xX",
+      "developer_response": null
+    },
+    {
+      "id": "1133771293163281",
+      "score": 5,
+      "review_title": "Couldn’t get any better",
+      "review_description": "I played RoboQuest on my Xbox for so long and when I saw the vr version coming, I immediately preordered it, and I couldn’t be happier. The music hits so much harder when your in the world, it’s an amazing rouge like and couldn’t ask for more in my VR library.",
+      "date": 1784833638,
+      "review_helpful_count": 1,
+      "author_display_name": "ElJello9007",
+      "author_alias": "ElJello9007",
+      "developer_response": {
+        "body": "That's exactly the experience we were hoping to deliver! Have fun, ElJello9007!",
+        "date": 1784835673
+      }
+    },
+    {
+      "id": "1252683877925160",
+      "score": 5,
+      "review_title": "YES. JUST YES.",
+      "review_description": "BRO ROBOQUEST WAS GREAT ON CONSOLE AND STUFF, BUT VR TAKES IT TO A WHOLE NOTHER LEVEL! IT'S A GOOD SHOOTING GAME, IT HAS 7 CLASSED INCLUDING SUPERBOT, AND IT'S ON STANDALONE! BEST GAME IN MY LIFE btw idk how to get tromboner-er but still great game",
+      "date": 1784851427,
+      "review_helpful_count": 1,
+      "author_display_name": "OozeCooze",
+      "author_alias": "OozeCooze",
+      "developer_response": null
+    },
+    {
+      "id": "1216545521539842",
+      "score": 5,
+      "review_title": "Top 10 2026",
+      "review_description": "Total insanity top ten vr games of 2026 year . Engaging combat fast pace action amazing for a quick play or a long session great visuals a killer sound track. Give the game a shot. If you love rouge lites shooter look no further",
+      "date": 1784864703,
+      "review_helpful_count": 0,
+      "author_display_name": "Paramourcross",
+      "author_alias": "Paramourcross",
+      "developer_response": null
+    },
+    {
+      "id": "1198515650016369",
+      "score": 5,
+      "review_title": "ITS OUT",
+      "review_description": "Finalyyy",
+      "date": 1784826142,
+      "review_helpful_count": 8,
+      "author_display_name": "Lilbubs8407",
+      "author_alias": "Lilbubs8407",
+      "developer_response": {
+        "body": "Have fun!",
+        "date": 1784826970
+      }
+    },
+    {
+      "id": "1241467115713449",
+      "score": 4,
+      "review_title": "Troubles with the game",
+      "review_description": "This game is amazing but theres a lot of lag glitches with loading the game and the game sometimes kicks you from the game randomly in game over all if this is fixed then 5/5 but for now 4/5.",
+      "date": 1784917003,
+      "review_helpful_count": 1,
+      "author_display_name": "PhantomKnight1000",
+      "author_alias": "PhantomKnight1000",
+      "developer_response": null
+    },
+    {
+      "id": "1130309023508539",
+      "score": 5,
+      "review_title": "Best game ever",
+      "review_description": "I completed the console game and now I'm going to start playing this new game thank you for making this 3D",
+      "date": 1784829435,
+      "review_helpful_count": 2,
+      "author_display_name": "Hexbugs2292",
+      "author_alias": "Hexbugs2292",
+      "developer_response": {
+        "body": "Hey Hexbugs2292, the console game was awesome! Cheers to round 2 of Roboquest, but in VR!",
+        "date": 1784831126
+      }
+    },
+    {
+      "id": "1729514621470305",
+      "score": 5,
+      "review_title": "Amazing, must play",
+      "review_description": "I've been waiting for this game to release on standalone for SO LONG. I was upset when it ways delayed back in May 2026, but I'm glad to have it now. 100% worth the wait.",
+      "date": 1784863863,
+      "review_helpful_count": 0,
+      "author_display_name": "TheeFunnyMan",
+      "author_alias": "TheeFunnyMan",
+      "developer_response": null
+    },
+    {
+      "id": "1081286024847617",
+      "score": 3,
+      "review_title": "Fix the controls",
+      "review_description": "there are two pause buttons one button that is not used and the hight is just wrong the jump and slide are on the look joystick but to be fair the gun play was good",
+      "date": 1784922151,
+      "review_helpful_count": 0,
+      "author_display_name": "Frodoggy99",
+      "author_alias": "Frodoggy99",
+      "developer_response": null
+    },
+    {
+      "id": "1283801208142448",
+      "score": 5,
+      "review_title": "just good",
+      "review_description": "this game is unimaginable. The enemys are hard but easy to kill and ether way the game is good on pc/consols and vr. one of the best roge games on earth",
+      "date": 1784953121,
+      "review_helpful_count": 0,
+      "author_display_name": "hi362",
+      "author_alias": "hi362",
+      "developer_response": null
+    },
+    {
+      "id": "1749546469624684",
+      "score": 5,
+      "review_title": "A thrill ride",
+      "review_description": "Without a doubt the most fluid and thrilling roguelike on Quest.   \nBut please clean up the graphics a bit. Quest 3 is capable of better.",
+      "date": 1784919583,
+      "review_helpful_count": 1,
+      "author_display_name": "Van_Uber_VR",
+      "author_alias": "Van_Uber_VR",
+      "developer_response": null
+    },
+    {
+      "id": "1788688995630720",
+      "score": 5,
+      "review_title": "It’s perfect!!!",
+      "review_description": "Waited so long for the quest port. Huge fan of the game on PC and they nailed this port. Can’t stop playing. Great job, team!",
+      "date": 1784841196,
+      "review_helpful_count": 1,
+      "author_display_name": "Will-84",
+      "author_alias": "Will-84",
+      "developer_response": null
+    },
+    {
+      "id": "1203866156149673",
+      "score": 4,
+      "review_title": "Good game",
+      "review_description": "it is a good game but it does have some issues. This is to be expected from a game that just launched but in general it is good",
+      "date": 1784843293,
+      "review_helpful_count": 1,
+      "author_display_name": "Rocket.boy.the.greatest",
+      "author_alias": "Rocket.boy.the.greatest",
+      "developer_response": null
+    },
+    {
+      "id": "1225546477311674",
+      "score": 5,
+      "review_title": "exactly how i remember it",
+      "review_description": "i have the console version of this but this is better because i get to be the character i used to control with a controller",
+      "date": 1784855516,
+      "review_helpful_count": 0,
+      "author_display_name": "GoofyBandicoot8753",
+      "author_alias": "GoofyBandicoot8753",
+      "developer_response": {
+        "body": "Hey GoofyBandicoot8753, glad that the VR version brought you more immersion. Have fun!",
+        "date": 1784902410
+      }
+    },
+    {
+      "id": "1279355935254487",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "It has been an awesome experience so far but I didn't get the trabone after I pre ordered please help 🙏.",
+      "date": 1784827855,
+      "review_helpful_count": 1,
+      "author_display_name": "VegasMichael",
+      "author_alias": "VegasMichael",
+      "developer_response": {
+        "body": "Hey VegasMichael, just so we cover all our bases here, the Tromboner appears while in-game during a run, it isn't given to you. If you really didn't get your pre-order bonus, please reach out to Meta support by following this link here: https://www.meta.com/help/support/",
+        "date": 1784831379
+      }
+    },
+    {
+      "id": "1247927361737286",
+      "score": 5,
+      "review_title": "Just perfect",
+      "review_description": "coming from completing everything on console and just being in the game is amazing great game thank you",
+      "date": 1784914486,
+      "review_helpful_count": 1,
+      "author_display_name": "Kuamka",
+      "author_alias": "Kuamka",
+      "developer_response": null
+    },
+    {
+      "id": "1157652850774916",
+      "score": 5,
+      "review_title": "Great game on vr and flatscreen",
+      "review_description": "They updated it and i think its way better now. Great game thank you so much for porting it onto vr.",
+      "date": 1784920516,
+      "review_helpful_count": 1,
+      "author_display_name": "sanmois.107152",
+      "author_alias": "sanmois.107152",
+      "developer_response": null
+    },
+    {
+      "id": "1240004625860619",
+      "score": 5,
+      "review_title": "Game is perfect",
+      "review_description": "it captures the feel of the normal game perfectly it does it all and the delay was worth the wait",
+      "date": 1784919266,
+      "review_helpful_count": 1,
+      "author_display_name": "axolotl.knight.2025",
+      "author_alias": "axolotl.knight.2025",
+      "developer_response": null
+    },
+    {
+      "id": "1406426744874119",
+      "score": 4,
+      "review_title": "High hopes",
+      "review_description": "Edit: I don't know what happened, but the game was not working properly. It seems ok now.",
+      "date": 1784936773,
+      "review_helpful_count": 0,
+      "author_display_name": "Barktooth",
+      "author_alias": "Barktooth",
+      "developer_response": null
+    },
+    {
+      "id": "1166571626550317",
+      "score": 5,
+      "review_title": "Pure peak",
+      "review_description": "It’s just like the flatscreen game I loved roboquest so this game is awesome 5 stars",
+      "date": 1784841185,
+      "review_helpful_count": 0,
+      "author_display_name": "Greviouskid",
+      "author_alias": "Greviouskid",
+      "developer_response": null
+    },
+    {
+      "id": "1326366990550980",
+      "score": 5,
+      "review_title": "Peak Vr Game",
+      "review_description": "I was waiting for this port for over a year, I’m so happy with the results.",
+      "date": 1784849761,
+      "review_helpful_count": 0,
+      "author_display_name": "Nickpentin",
+      "author_alias": "Nickpentin",
+      "developer_response": null
+    },
+    {
+      "id": "1297406270122428",
+      "score": 5,
+      "review_title": "LETS GOOO!",
+      "review_description": "Thanks Flat2VR for continuing to release bangers for VR. Appreciate the hard work.",
+      "date": 1784826815,
+      "review_helpful_count": 0,
+      "author_display_name": "TheWorldSpins",
+      "author_alias": "TheWorldSpins",
+      "developer_response": {
+        "body": "Hi TheWorldSpins, thank you for the kind review. Have fun!",
+        "date": 1784826855
+      }
+    },
+    {
+      "id": "1213768788488118",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "This is a very fun and enjoyable experience.I recommend purchasing Roboquest VR.",
+      "date": 1784858262,
+      "review_helpful_count": 0,
+      "author_display_name": "van.674224",
+      "author_alias": "van.674224",
+      "developer_response": {
+        "body": "Thanks for recommending our game, van.674224!",
+        "date": 1784902608
+      }
+    },
+    {
+      "id": "880744051773061",
+      "score": 5,
+      "review_title": "…..???",
+      "review_description": "WHAT ARE YOU READING THIS FOR!?…. It’s awesome!!! Go smegging buy it!!!",
+      "date": 1784908801,
+      "review_helpful_count": 1,
+      "author_display_name": "Poisedanubis85",
+      "author_alias": "Poisedanubis85",
+      "developer_response": null
+    },
+    {
+      "id": "1300090226517253",
+      "score": 4,
+      "review_title": "Rough Diamond",
+      "review_description": "Still a little rough around the edges, plays incredibly though.",
+      "date": 1784919680,
+      "review_helpful_count": 1,
+      "author_display_name": "LoskiToski",
+      "author_alias": "LoskiToski",
+      "developer_response": null
+    },
+    {
+      "id": "1214062008464192",
+      "score": 5,
+      "review_title": "great game",
+      "review_description": "If you like moving fast and rogulikes you will love this game",
+      "date": 1784922444,
+      "review_helpful_count": 0,
+      "author_display_name": "wewenus2",
+      "author_alias": "wewenus2",
+      "developer_response": null
+    },
+    {
+      "id": "3060363017488064",
+      "score": 5,
+      "review_title": "RoboQuest",
+      "review_description": "Fantastic Roguelike!  The guns feel amazing, let’s go!",
+      "date": 1784826744,
+      "review_helpful_count": 0,
+      "author_display_name": "solvangman805",
+      "author_alias": "solvangman805",
+      "developer_response": null
+    },
+    {
+      "id": "894158873770577",
+      "score": 3,
+      "review_title": "roboquest",
+      "review_description": "its fun but keeps freezing on me i love this game but plz fix it",
+      "date": 1784852931,
+      "review_helpful_count": 1,
+      "author_display_name": "Devin6255",
+      "author_alias": "Devin6255",
+      "developer_response": {
+        "body": "Hey Devin6255, glad to hear that you're having fun! Would love to know more about the freezes you are experiencing. Please join our community Discord! Our developers would love to help you out: https://discord.gg/bRbeKcXND9",
+        "date": 1784909453
+      }
+    },
+    {
+      "id": "2228799087914656",
+      "score": 5,
+      "review_title": "Love these robots",
+      "review_description": "Amazing game! Fast action you can’t get enough of.",
+      "date": 1784853739,
+      "review_helpful_count": 0,
+      "author_display_name": "ScottDracula",
+      "author_alias": "ScottDracula",
+      "developer_response": null
+    },
+    {
+      "id": "1598759168345276",
+      "score": 5,
+      "review_title": "Excellent job",
+      "review_description": "Incredible game by a incredible developer \n￼",
+      "date": 1784833549,
+      "review_helpful_count": 0,
+      "author_display_name": "3urn1",
+      "author_alias": "3urn1",
+      "developer_response": null
+    },
+    {
+      "id": "1282061288316725",
+      "score": 4,
+      "review_title": "Good game, but",
+      "review_description": "Bot The preorder For some reason, it didn't work",
+      "date": 1784922856,
+      "review_helpful_count": 0,
+      "author_display_name": "Klaus0117",
+      "author_alias": "Klaus0117",
+      "developer_response": null
+    },
+    {
+      "id": "1169814156221194",
+      "score": 5,
+      "review_title": "The preorder weapon is cool",
+      "review_description": "its from trombone champ and has seeking doots",
+      "date": 1784837346,
+      "review_helpful_count": 1,
+      "author_display_name": "Aiding_shadow",
+      "author_alias": "Aiding_shadow",
+      "developer_response": null
+    },
+    {
+      "id": "28417825004492358",
+      "score": 4,
+      "review_title": "Decent",
+      "review_description": "minimal crashes, overall very solid",
+      "date": 1784936081,
+      "review_helpful_count": 0,
+      "author_display_name": "tehdisco",
+      "author_alias": "tehdisco",
+      "developer_response": null
+    },
+    {
+      "id": "1264152843443730",
+      "score": 5,
+      "review_title": "peak",
+      "review_description": "Can keep you entertained for awhile",
+      "date": 1784896483,
+      "review_helpful_count": 0,
+      "author_display_name": "BNAYY.NAYY",
+      "author_alias": "BNAYY.NAYY",
+      "developer_response": null
+    },
+    {
+      "id": "1134558369750353",
+      "score": 5,
+      "review_title": "but i don't know how to install it",
+      "review_description": "Can i have some help installing it",
+      "date": 1784898671,
+      "review_helpful_count": 0,
+      "author_display_name": "Mr.Buzzins",
+      "author_alias": "Mr.Buzzins",
+      "developer_response": {
+        "body": "Hey Mr.Buzzins, you can try installing it via the game library in your headset, or open the Meta Horizon app on your phone, navigate to your game library on the app, and then install from there. If you have more than one headset, you might need to choose the headset you want it installed in. If you'd like dedicated assistance, please hop into our community Discord server and ask there. Someone will be happy to help you out step by step. Join here: https://discord.gg/bRbeKcXND9",
+        "date": 1784903256
+      }
+    },
+    {
+      "id": "1190610030808639",
+      "score": 5,
+      "review_title": "great game",
+      "review_description": "excellent vr shooter. Try it!",
+      "date": 1784921125,
+      "review_helpful_count": 0,
+      "author_display_name": "hopmartin",
+      "author_alias": "hopmartin",
+      "developer_response": null
+    },
+    {
+      "id": "1063712159508833",
+      "score": 5,
+      "review_title": "Good and fun",
+      "review_description": "Eeeeeeee rat said good game",
+      "date": 1784832408,
+      "review_helpful_count": 0,
+      "author_display_name": "nofaith31",
+      "author_alias": "nofaith31",
+      "developer_response": {
+        "body": "Thank you!",
+        "date": 1784832843
+      }
+    },
+    {
+      "id": "1061456273071846",
+      "score": 5,
+      "review_title": "good",
+      "review_description": "This game is very fun to play",
+      "date": 1784916038,
+      "review_helpful_count": 1,
+      "author_display_name": "Connordaboi28",
+      "author_alias": "Connordaboi28",
+      "developer_response": null
+    }
+  ],
+  "total": 80,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 4,
+  "fetched_at": "2026-07-25T06:20:40Z"
+}
