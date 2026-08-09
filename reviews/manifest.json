@@ -916,7 +916,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-08-08T04:59:06Z"
+    "updated_at": "2026-08-09T05:07:53Z"
   },
   ".com.WheyWorldStudios.ShootDash": {
     "app_id": "34246",
@@ -926,7 +926,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-08-08T04:59:10Z"
+    "updated_at": "2026-08-09T05:07:56Z"
   },
   ".com.biswagames.rf": {
     "app_id": "45592",
@@ -936,7 +936,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-08-08T04:59:14Z"
+    "updated_at": "2026-08-09T05:08:00Z"
   },
   ".comSkyDronesTeam.SkyDronesVR": {
     "app_id": "44734",
@@ -946,7 +946,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-08-08T04:59:18Z"
+    "updated_at": "2026-08-09T05:08:04Z"
   },
   "0.0.952": {
     "app_id": "14144",
@@ -204987,5 +204987,45 @@
     "sort": "helpful",
     "pages_fetched": 0,
     "updated_at": "2026-08-08T04:59:38Z"
+  },
+  "com.SeeThruTechnologies.SeeThruAR": {
+    "app_id": "26639135489035934",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-09T05:08:12Z"
+  },
+  "com.capturedeck.app": {
+    "app_id": "1192138420657969",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-09T05:08:16Z"
+  },
+  "com.grassepark.ChloroBeta": {
+    "app_id": "9009849592442450",
+    "status": "ok",
+    "review_count": 2,
+    "store_review_count": 2,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-09T05:08:24Z"
+  },
+  "com.nano.truck.simulator.truck.parking.game": {
+    "app_id": "1199323353263429",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 1,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-09T05:08:31Z"
   }
 }
