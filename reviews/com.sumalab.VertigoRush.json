@@ -1,0 +1,70 @@
+{
+  "app_id": "8731055120282939",
+  "package_name": "com.sumalab.VertigoRush",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Vertigo Rush",
+  "rating_average": 4.5,
+  "rating_count": 6,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1369717278642912",
+      "score": 5,
+      "review_title": "simple and straightforward games",
+      "review_description": "Sumalab's VR games are always a safe bet; I love the style of every single one. Vertigo Rush, in particular, is a fun game for me and my family and friends—easy to control and featuring an adorable riding robot. My personal favorite is the trash can.",
+      "date": 1785687874,
+      "review_helpful_count": 2,
+      "author_display_name": "HKRaymondNG",
+      "author_alias": "HKRaymondNG",
+      "developer_response": null
+    },
+    {
+      "id": "2083898579146237",
+      "score": 3,
+      "review_title": "It's rough but has potential",
+      "review_description": "Update:\n\nI took a look with OVR to see why it's running hot.  In time trials the GPU stays mostly in the yellow zone but it maintains a steady 90 fps.  In bot matches the GPU frequently ramps up past 80 then on into the red zone where it gets throttled and the frame rate drops begin.\n\nOn the bright side the more I play it the more I like the design. It's like Mario Kart in an obstacle course.\n\nOriginal Impressions:\n\nI like the concept and the art direction. (The design of the kids looks like it might be inspired by the game Psychonauts, an old favorite of mine.)\n\nThe gameplay is fun, but very challenging. It's difficult to build up speed. I only played Gorilla Tag once many years ago, so the locomotion is something I have to get used to.\n\nSome feedback:\n\nA big issue is the graphics on the Quest 3. The visuals look pretty dated. I'm always disappointed when I see a new game that still supports the Quest 2 because that usually means it doesn't take advantage of the Quest 3. Unfortunately this game isn't an exception to the rule. The rendering looks like a Quest 1 or 2 game. The environments are basic and most of the texture maps are low res. The dithered skybox looks like something from decades ago.\n\nDespite this the headset runs hot. The game seems unoptimized if the dated looking graphics are pushing the Quest 3 hard enough to heat it up.\n\nThe directional audio is glitchy. Voices come from the wrong direction if you look around. For example if I turn 90 degrees away from a speaking character instead of the voice coming from the side, it comes from behind me.\n\nWhen you slide down the rails there's a sound effect but no haptics in the controller which seems odd.\n\nI'd like to see an option added to disable the artificial turning so if you turn with your feet and accidentally move the stick you won't turn when you didn't intend to.\n\nI'm concerned that this game could end up a miserable experience because of the toxic Gorilla Tag crowd it'll likely attract due to its locomotion system. A way to mute all players in public games would be good.\n\nI probably won't play this much due to how warm the headset gets while running it but I'm not going to request a refund because I'm hoping the developers can sort the issues out.",
+      "date": 1785076932,
+      "review_helpful_count": 1,
+      "author_display_name": "Jioxx",
+      "author_alias": "Jioxx",
+      "developer_response": {
+        "body": "Thank you very much for the detailed feedback. As the game is still in Early Access, comments like yours are extremely useful and help us identify where we need to focus our efforts.\n\nWe are currently improving performance, especially in races with bots, to avoid GPU spikes and frame-rate drops. We are also working on improving texture resolution. The full release will fix these issues.\n\nWe will definitely test adding haptic feedback on rails.\n\nThanks again for supporting the game during Early Access and helping us improve it.",
+        "date": 1785312870
+      }
+    },
+    {
+      "id": "1592520065545901",
+      "score": 5,
+      "review_title": "FAST, PHYSICAL AND INCREDIBLY FUN",
+      "review_description": "Vertigo Rush delivers one of the most exciting locomotion systems I've experienced in VR. Running, climbing and jumping through the floating cities feels natural, rewarding and surprisingly immersive.\n\nThe races are intense, the movement mechanics are satisfying to master and the multiplayer adds plenty of replay value. If you enjoy speed, competition and physical VR gameplay, this is an easy recommendation.",
+      "date": 1783936056,
+      "review_helpful_count": 1,
+      "author_display_name": "Majerik",
+      "author_alias": "Majerik",
+      "developer_response": null
+    },
+    {
+      "id": "1528445725986669",
+      "score": 4,
+      "review_title": "Fun game",
+      "review_description": "Couldn't find anywhere to leave feedback so here I am. The game is fun, mechanics are cool, and the art style is well done. I just want to ask for the future to be able to turn off bots when racing with friends, and a possible toggle for the blue lines that follow your vision. Other then that lots of fun and i plan to show the game to a few more people.",
+      "date": 1783791154,
+      "review_helpful_count": 0,
+      "author_display_name": "cjayrod",
+      "author_alias": "cjayrod",
+      "developer_response": {
+        "body": "Thanks so much for the feedback! We’re really glad you’re enjoying the game.\n\nWe’ll definitely add an option to turn off bots when racing with friends, as well as a toggle for the blue lines that follow your vision.\n\nThanks again for taking the time to share this, and for showing the game to more people. We really appreciate it!",
+        "date": 1783845885
+      }
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-08-11T05:16:33Z"
+}
