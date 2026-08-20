@@ -916,7 +916,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-08-19T04:38:50Z"
+    "updated_at": "2026-08-20T04:38:46Z"
   },
   ".com.WheyWorldStudios.ShootDash": {
     "app_id": "34246",
@@ -926,7 +926,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-08-19T04:38:53Z"
+    "updated_at": "2026-08-20T04:38:50Z"
   },
   ".com.biswagames.rf": {
     "app_id": "45592",
@@ -936,7 +936,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-08-19T04:38:58Z"
+    "updated_at": "2026-08-20T04:38:54Z"
   },
   ".comSkyDronesTeam.SkyDronesVR": {
     "app_id": "44734",
@@ -946,7 +946,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-08-19T04:39:01Z"
+    "updated_at": "2026-08-20T04:38:58Z"
   },
   "0.0.952": {
     "app_id": "14144",
@@ -206297,5 +206297,75 @@
     "sort": "helpful",
     "pages_fetched": 0,
     "updated_at": "2026-08-19T04:39:46Z"
+  },
+  "com.bearingpoint.suvaxr.danger.tunnelconstruction": {
+    "app_id": "27213542314925662",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-20T04:39:02Z"
+  },
+  "com.cycle.x.vr": {
+    "app_id": "61956",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-20T04:39:05Z"
+  },
+  "com.etA.WindTurbine": {
+    "app_id": "809887965483516",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-20T04:39:10Z"
+  },
+  "com.jmarco.musicsandbox": {
+    "app_id": "1330970079238551",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-20T04:39:14Z"
+  },
+  "com.yordstudio.VirtualLab": {
+    "app_id": "1789721669069807",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-20T04:39:17Z"
+  },
+  "eu.iamhero.villain": {
+    "app_id": "9232991886796058",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-20T04:39:21Z"
+  },
+  "io.klebo.vrcast": {
+    "app_id": "1188113694393705",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-20T04:39:24Z"
   }
 }
