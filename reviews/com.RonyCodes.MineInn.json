@@ -1,0 +1,48 @@
+{
+  "app_id": "1129170403623519",
+  "package_name": "com.RonyCodes.MineInn",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "MineInn",
+  "rating_average": 4.5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1260978203763313",
+      "score": 4,
+      "review_title": "fire game",
+      "review_description": "in this game u mine stones while being chased by monsters the better sword better ore but the monster is a sphere",
+      "date": 1785806000,
+      "review_helpful_count": 1,
+      "author_display_name": "Cocothenut67",
+      "author_alias": "Cocothenut67",
+      "developer_response": {
+        "body": "yeah, no monster texture yet. sry",
+        "date": 1787296559
+      }
+    },
+    {
+      "id": "2123788795686021",
+      "score": 5,
+      "review_title": "good",
+      "review_description": "Good\ngame",
+      "date": 1786199075,
+      "review_helpful_count": 0,
+      "author_display_name": "Mlevitz76",
+      "author_alias": "Mlevitz76",
+      "developer_response": {
+        "body": "thx",
+        "date": 1787296574
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-08-22T05:20:23Z"
+}
