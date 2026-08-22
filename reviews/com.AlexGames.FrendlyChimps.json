@@ -1,0 +1,45 @@
+{
+  "app_id": "1061719640369333",
+  "package_name": "com.AlexGames.FrendlyChimps",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Friendly Chimps",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1255570534298294",
+      "score": 5,
+      "review_title": "Best game ever",
+      "review_description": "5 stars best game ever",
+      "date": 1783008297,
+      "review_helpful_count": 0,
+      "author_display_name": "TinoTony16",
+      "author_alias": "TinoTony16",
+      "developer_response": null
+    },
+    {
+      "id": "1189110427612980",
+      "score": 5,
+      "review_title": "Mil",
+      "review_description": "Best game ever",
+      "date": 1781890680,
+      "review_helpful_count": 1,
+      "author_display_name": "Miller71012",
+      "author_alias": "Miller71012",
+      "developer_response": {
+        "body": "Thanks, the game is really good",
+        "date": 1781947578
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-08-22T04:37:25Z"
+}

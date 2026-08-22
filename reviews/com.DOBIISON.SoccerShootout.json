@@ -1,0 +1,34 @@
+{
+  "app_id": "26658525943817143",
+  "package_name": "com.DOBIISON.SoccerShootout",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Soccer Shootout",
+  "rating_average": 1,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1254287707773895",
+      "score": 1,
+      "review_title": "This game is broken",
+      "review_description": "It says to click start but whenever I click start it doesn’t start so all I can do is sit around while doing nothing. I regret getting this game. No one get it",
+      "date": 1785548563,
+      "review_helpful_count": 4,
+      "author_display_name": "jesus.king2347",
+      "author_alias": "jesus.king2347",
+      "developer_response": {
+        "body": "Thanks for the feedback, and sorry for the frustration! The \"Start\" button bug has been fixed in the latest update, which is live now. Please update the app and it should work as expected. Let us know if you run into any other issues!",
+        "date": 1786379263
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-08-22T04:43:36Z"
+}
