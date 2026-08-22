@@ -916,7 +916,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-08-22T04:35:18Z"
+    "updated_at": "2026-08-22T04:47:13Z"
   },
   ".com.WheyWorldStudios.ShootDash": {
     "app_id": "34246",
@@ -926,7 +926,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-08-22T04:35:22Z"
+    "updated_at": "2026-08-22T04:47:17Z"
   },
   ".com.biswagames.rf": {
     "app_id": "45592",
@@ -936,7 +936,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-08-22T04:35:26Z"
+    "updated_at": "2026-08-22T04:47:20Z"
   },
   ".comSkyDronesTeam.SkyDronesVR": {
     "app_id": "44734",
@@ -946,7 +946,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-08-22T04:35:30Z"
+    "updated_at": "2026-08-22T04:47:24Z"
   },
   "0.0.952": {
     "app_id": "14144",
@@ -207197,5 +207197,765 @@
     "sort": "helpful",
     "pages_fetched": 1,
     "updated_at": "2026-08-22T04:43:51Z"
+  },
+  "com.Dani.OggaBogga": {
+    "app_id": "1236565536187309",
+    "status": "ok",
+    "review_count": 7,
+    "store_review_count": 7,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:47:33Z"
+  },
+  "com.Dave_MonkeProduction.OrangaFun": {
+    "app_id": "1169097029627690",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:47:37Z"
+  },
+  "com.DefaultCompany.ApeAbyss": {
+    "app_id": "1205465615977782",
+    "status": "ok",
+    "review_count": 2,
+    "store_review_count": 2,
+    "rating_average": 4.3333333333333,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:47:44Z"
+  },
+  "com.DefaultCompany.ChimpXMinigames": {
+    "app_id": "1374758868056699",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 4.2,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:47:52Z"
+  },
+  "com.DefaultCompany.GestureMancerKing": {
+    "app_id": "25526211433675953",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:47:56Z"
+  },
+  "com.DefaultCompany.GorillaSlop": {
+    "app_id": "4137635566527775",
+    "status": "ok",
+    "review_count": 2,
+    "store_review_count": 2,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:48:04Z"
+  },
+  "com.DefaultCompany.MonkeysNightmare": {
+    "app_id": "1245858808605129",
+    "status": "ok",
+    "review_count": 4,
+    "store_review_count": 4,
+    "rating_average": 4,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:48:12Z"
+  },
+  "com.DefaultCompany.ObscuredHorror": {
+    "app_id": "26549010294725171",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 4.75,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:48:19Z"
+  },
+  "com.DefaultCompany.ROACHRUNNERS": {
+    "app_id": "968627332624398",
+    "status": "ok",
+    "review_count": 5,
+    "store_review_count": 5,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:48:26Z"
+  },
+  "com.DefaultCompany.Smacho": {
+    "app_id": "1039017595361781",
+    "status": "ok",
+    "review_count": 2,
+    "store_review_count": 2,
+    "rating_average": 4.5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:48:34Z"
+  },
+  "com.DefaultCompany.SpookedOutChimps": {
+    "app_id": "1163152553545800",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:48:39Z"
+  },
+  "com.DefaultCompany.TamarinYay": {
+    "app_id": "26355686010791687",
+    "status": "ok",
+    "review_count": 4,
+    "store_review_count": 4,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:48:46Z"
+  },
+  "com.DefaultCompany.TheLastCallOfTheWild": {
+    "app_id": "27195816186721126",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:48:51Z"
+  },
+  "com.DefaultCompany.UnknownToGiveAway": {
+    "app_id": "1275830958943008",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:48:58Z"
+  },
+  "com.DefaultCompany.chimplab": {
+    "app_id": "1205510529308649",
+    "status": "ok",
+    "review_count": 4,
+    "store_review_count": 4,
+    "rating_average": 3.8571428571429,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:49:06Z"
+  },
+  "com.DefaultCompany.lethalfear": {
+    "app_id": "4415857728743385",
+    "status": "ok",
+    "review_count": 2,
+    "store_review_count": 2,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:49:13Z"
+  },
+  "com.DevnestStudioXR.SoccerRushXR": {
+    "app_id": "1251781081345839",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:49:21Z"
+  },
+  "com.DevsCGH.DevsCGH": {
+    "app_id": "1159814453881554",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 4,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:49:29Z"
+  },
+  "com.DevsTree.RuinsoftheCursed": {
+    "app_id": "1251256481397701",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:49:34Z"
+  },
+  "com.DevzVR.BlitzMonke": {
+    "app_id": "1243961485461293",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 1,
+    "rating_average": 4,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:49:40Z"
+  },
+  "com.DisDuck.onlymonk": {
+    "app_id": "1025973356463037",
+    "status": "ok",
+    "review_count": 8,
+    "store_review_count": 8,
+    "rating_average": 4.6666666666667,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:49:49Z"
+  },
+  "com.Distort": {
+    "app_id": "1180333758507285",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:49:53Z"
+  },
+  "com.DragonVyper.THISISFUNANDEVERYTHINGISFINE": {
+    "app_id": "1145628348634886",
+    "status": "ok",
+    "review_count": 4,
+    "store_review_count": 4,
+    "rating_average": 3.6666666666667,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:50:00Z"
+  },
+  "com.DreamPixelStudios.BloodStainsVR": {
+    "app_id": "1207327114793525",
+    "status": "ok",
+    "review_count": 10,
+    "store_review_count": 10,
+    "rating_average": 4.6923076923077,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:50:08Z"
+  },
+  "com.DreamyyStudios.CoreDream": {
+    "app_id": "1187071674483253",
+    "status": "ok",
+    "review_count": 19,
+    "store_review_count": 19,
+    "rating_average": 4.3809523809524,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:50:16Z"
+  },
+  "com.DumblicityGames.ProjectXander": {
+    "app_id": "28152134057737496",
+    "status": "ok",
+    "review_count": 5,
+    "store_review_count": 5,
+    "rating_average": 4.3333333333333,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:50:24Z"
+  },
+  "com.EHBGames.smallscary": {
+    "app_id": "1146602321875226",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:50:31Z"
+  },
+  "com.ESIEA.TheVRSeaChef": {
+    "app_id": "25686953387651270",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:50:36Z"
+  },
+  "com.EclipseStudios.Assassin": {
+    "app_id": "25336920705910344",
+    "status": "ok",
+    "review_count": 80,
+    "store_review_count": 85,
+    "rating_average": 4.9466666666667,
+    "sort": "helpful",
+    "pages_fetched": 4,
+    "updated_at": "2026-08-22T04:50:55Z"
+  },
+  "com.EggSandwichStudios.Monkro": {
+    "app_id": "1194451053757037",
+    "status": "ok",
+    "review_count": 7,
+    "store_review_count": 7,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:51:03Z"
+  },
+  "com.EmberStudios.ProjectEmber": {
+    "app_id": "1202271716308782",
+    "status": "ok",
+    "review_count": 7,
+    "store_review_count": 7,
+    "rating_average": 4,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:51:10Z"
+  },
+  "com.EnderXDStudios.RiftTag": {
+    "app_id": "1099485946592343",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 3.6666666666667,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:51:19Z"
+  },
+  "com.Eternal.Runners": {
+    "app_id": "1173447759196085",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:51:26Z"
+  },
+  "com.EvermorrowLabs.SnowCrash": {
+    "app_id": "24436578069378594",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:51:34Z"
+  },
+  "com.Exrsaizer.eTableTennisClub": {
+    "app_id": "1072251589315477",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:51:39Z"
+  },
+  "com.FACILITYGAMESfacilityzero67": {
+    "app_id": "1209080908953020",
+    "status": "ok",
+    "review_count": 10,
+    "store_review_count": 10,
+    "rating_average": 4.9166666666667,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:51:46Z"
+  },
+  "com.FakePbbvIg.OGMonkeMonke": {
+    "app_id": "1013579721582545",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:51:54Z"
+  },
+  "com.Fast.Games": {
+    "app_id": "1301827569674101",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:52:02Z"
+  },
+  "com.FatalLLC.WaterTagReborn": {
+    "app_id": "1178207725375986",
+    "status": "ok",
+    "review_count": 16,
+    "store_review_count": 16,
+    "rating_average": 3.1818181818182,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:52:10Z"
+  },
+  "com.FishyGames.CGR": {
+    "app_id": "1232368753292626",
+    "status": "ok",
+    "review_count": 4,
+    "store_review_count": 4,
+    "rating_average": 4,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:52:17Z"
+  },
+  "com.FiveStarStudios.FeralApe": {
+    "app_id": "1230811826772538",
+    "status": "ok",
+    "review_count": 80,
+    "store_review_count": 183,
+    "rating_average": 4.6006289308176,
+    "sort": "helpful",
+    "pages_fetched": 4,
+    "updated_at": "2026-08-22T04:52:37Z"
+  },
+  "com.FlamingSunday.FS3": {
+    "app_id": "1428719972547041",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:52:42Z"
+  },
+  "com.FlashbackStudios.FlashbackTag": {
+    "app_id": "1206139602584320",
+    "status": "ok",
+    "review_count": 2,
+    "store_review_count": 2,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:52:49Z"
+  },
+  "com.FlatStudios.FlatTagger": {
+    "app_id": "1189047767624964",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 1,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:52:57Z"
+  },
+  "com.FlipONER.ApesVR": {
+    "app_id": "26596899476596626",
+    "status": "ok",
+    "review_count": 5,
+    "store_review_count": 5,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:53:04Z"
+  },
+  "com.FloatDev.BIRD": {
+    "app_id": "1448730307080439",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:53:11Z"
+  },
+  "com.Forest.Taggerss": {
+    "app_id": "1232013343331596",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:53:20Z"
+  },
+  "com.ForgottenChimps.ForgottenChimps": {
+    "app_id": "1186248237907229",
+    "status": "ok",
+    "review_count": 15,
+    "store_review_count": 15,
+    "rating_average": 4.7333333333333,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:53:27Z"
+  },
+  "com.FoxyGames.Doggers": {
+    "app_id": "1043095074801118",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:53:32Z"
+  },
+  "com.FragmentTag": {
+    "app_id": "1249788851550973",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:53:39Z"
+  },
+  "com.FroggySquadStudios.LethalFrog": {
+    "app_id": "1199841356551865",
+    "status": "ok",
+    "review_count": 25,
+    "store_review_count": 25,
+    "rating_average": 4.3243243243243,
+    "sort": "helpful",
+    "pages_fetched": 2,
+    "updated_at": "2026-08-22T04:53:51Z"
+  },
+  "com.FrostBouncers": {
+    "app_id": "3202211446646225",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:53:55Z"
+  },
+  "com.FumbiProjects.Weeko": {
+    "app_id": "1220559954474346",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:54:02Z"
+  },
+  "com.GABI.PROJECTDREXY": {
+    "app_id": "1237489096108185",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:54:09Z"
+  },
+  "com.GALAXYGAMEZ.SUBJECT009": {
+    "app_id": "1155981130941346",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:54:16Z"
+  },
+  "com.GORILLAHORRORTEMPLATE.GORILLAHORRORTEMPLATE": {
+    "app_id": "969451689053367",
+    "status": "ok",
+    "review_count": 23,
+    "store_review_count": 23,
+    "rating_average": 4.4722222222222,
+    "sort": "helpful",
+    "pages_fetched": 2,
+    "updated_at": "2026-08-22T04:54:28Z"
+  },
+  "com.GalaxyStudios.LeathalApeRemastered": {
+    "app_id": "1145360435336846",
+    "status": "ok",
+    "review_count": 12,
+    "store_review_count": 12,
+    "rating_average": 3.1428571428571,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:54:36Z"
+  },
+  "com.GameLoom.AirplaneRacingVR": {
+    "app_id": "1250382778154657",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:54:39Z"
+  },
+  "com.Gamepro.MyDearPassengersVR": {
+    "app_id": "1287163737809953",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 2,
+    "rating_average": 1,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:54:47Z"
+  },
+  "com.GetaQuest.GetaWorld": {
+    "app_id": "1006341688642533",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 4.3333333333333,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:54:55Z"
+  },
+  "com.GoofyMonkeStudios.Munkin": {
+    "app_id": "1174132772448082",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 4.6666666666667,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:55:02Z"
+  },
+  "com.GorillaCompany.GorillaDevoltV1": {
+    "app_id": "1669860474284511",
+    "status": "ok",
+    "review_count": 17,
+    "store_review_count": 17,
+    "rating_average": 4.6666666666667,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:55:10Z"
+  },
+  "com.GorillaWonders.GorillaWondersRevamp": {
+    "app_id": "2054079062213001",
+    "status": "ok",
+    "review_count": 12,
+    "store_review_count": 12,
+    "rating_average": 4.8235294117647,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:55:18Z"
+  },
+  "com.GrahamDev.LethalApeReudx": {
+    "app_id": "1354929904366656",
+    "status": "ok",
+    "review_count": 80,
+    "store_review_count": 89,
+    "rating_average": 4.8872180451128,
+    "sort": "helpful",
+    "pages_fetched": 4,
+    "updated_at": "2026-08-22T04:55:37Z"
+  },
+  "com.Granny.Tag": {
+    "app_id": "26326978296919079",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:55:41Z"
+  },
+  "com.GrannyGames.monkogamefinal": {
+    "app_id": "1235755102951220",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:55:48Z"
+  },
+  "com.GumdropVR.RatPartyVR": {
+    "app_id": "1992259998099371",
+    "status": "ok",
+    "review_count": 21,
+    "store_review_count": 21,
+    "rating_average": 4.8076923076923,
+    "sort": "helpful",
+    "pages_fetched": 2,
+    "updated_at": "2026-08-22T04:56:00Z"
+  },
+  "com.HTAG.ProjectHerbert": {
+    "app_id": "1224118524108266",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:56:04Z"
+  },
+  "com.Harrysgames.Derealization": {
+    "app_id": "25888870947458937",
+    "status": "ok",
+    "review_count": 18,
+    "store_review_count": 18,
+    "rating_average": 4.8181818181818,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:56:12Z"
+  },
+  "com.HasteCreations.Apefall": {
+    "app_id": "1251492441387007",
+    "status": "ok",
+    "review_count": 2,
+    "store_review_count": 2,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:56:19Z"
+  },
+  "com.HejaksGamesTeam.HejaksNextbots": {
+    "app_id": "2127285784857515",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 4,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:56:26Z"
+  },
+  "com.HeriXD3.Bonkey": {
+    "app_id": "2843097476051873",
+    "status": "ok",
+    "review_count": 5,
+    "store_review_count": 5,
+    "rating_average": 3.6666666666667,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:56:34Z"
+  },
+  "com.Hikers.Templates": {
+    "app_id": "1173091062560733",
+    "status": "ok",
+    "review_count": 31,
+    "store_review_count": 31,
+    "rating_average": 3.5116279069767,
+    "sort": "helpful",
+    "pages_fetched": 2,
+    "updated_at": "2026-08-22T04:56:46Z"
+  },
+  "com.HorseUmaUmaRace.craftplayxr": {
+    "app_id": "1132344736631599",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-08-22T04:56:51Z"
+  },
+  "com.IcedArtisan.Paintball": {
+    "app_id": "975371255212887",
+    "status": "ok",
+    "review_count": 3,
+    "store_review_count": 3,
+    "rating_average": 3.4,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:56:57Z"
+  },
+  "com.IngeniousStudios.SKSpaceAdventures": {
+    "app_id": "10018357578271381",
+    "status": "ok",
+    "review_count": 1,
+    "store_review_count": 1,
+    "rating_average": 4.25,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-08-22T04:57:05Z"
   }
 }

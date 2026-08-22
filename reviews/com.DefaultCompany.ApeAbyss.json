@@ -1,0 +1,42 @@
+{
+  "app_id": "1205465615977782",
+  "package_name": "com.DefaultCompany.ApeAbyss",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Apes Abyss",
+  "rating_average": 4.3333333333333,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1174937209035846",
+      "score": 5,
+      "review_title": "Try the game",
+      "review_description": "Try ittt",
+      "date": 1781647007,
+      "review_helpful_count": 3,
+      "author_display_name": "lilkarrot",
+      "author_alias": "lilkarrot",
+      "developer_response": null
+    },
+    {
+      "id": "1100488359825815",
+      "score": 5,
+      "review_title": "W game",
+      "review_description": "This game is really fun for people who love fun horror, and to spend time with the community!",
+      "date": 1781721287,
+      "review_helpful_count": 0,
+      "author_display_name": "Stunt_Vr",
+      "author_alias": "Stunt_Vr",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-08-22T04:47:44Z"
+}

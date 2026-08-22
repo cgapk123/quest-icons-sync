@@ -1,0 +1,42 @@
+{
+  "app_id": "4415857728743385",
+  "package_name": "com.DefaultCompany.lethalfear",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "lethal Fear",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1460720392523084",
+      "score": 5,
+      "review_title": "tuffs",
+      "review_description": "Super tuff",
+      "date": 1785713126,
+      "review_helpful_count": 0,
+      "author_display_name": "S0lidifyy",
+      "author_alias": "S0lidifyy",
+      "developer_response": null
+    },
+    {
+      "id": "1274730465716808",
+      "score": 5,
+      "review_title": "Tuff",
+      "review_description": "tuff tuff tuff and tuff",
+      "date": 1786397678,
+      "review_helpful_count": 0,
+      "author_display_name": "iz4yah817",
+      "author_alias": "iz4yah817",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-08-22T04:49:13Z"
+}

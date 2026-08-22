@@ -1,0 +1,59 @@
+{
+  "app_id": "975371255212887",
+  "package_name": "com.IcedArtisan.Paintball",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Gorilla Paintball",
+  "rating_average": 3.4,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1064271113220271",
+      "score": 5,
+      "review_title": "Paint",
+      "review_description": "w game",
+      "date": 1784932427,
+      "review_helpful_count": 1,
+      "author_display_name": "tropixmopix",
+      "author_alias": "tropixmopix",
+      "developer_response": null
+    },
+    {
+      "id": "1362659023589595",
+      "score": 1,
+      "review_title": "cant play",
+      "review_description": "You have to pay or write a review to even play",
+      "date": 1786217050,
+      "review_helpful_count": 0,
+      "author_display_name": "yelq",
+      "author_alias": "yelq",
+      "developer_response": {
+        "body": "There is a free rifle at the weapons wall every player can use",
+        "date": 1786251237
+      }
+    },
+    {
+      "id": "1217301134804078",
+      "score": 1,
+      "review_title": "game is cheeks",
+      "review_description": "no people",
+      "date": 1786232777,
+      "review_helpful_count": 0,
+      "author_display_name": "Chilkvr",
+      "author_alias": "Chilkvr",
+      "developer_response": {
+        "body": "It's more fun to play with others for sure. I'm leaving servers up since some people like to run sessions with their friends. If you have any suggestions feel free to join the discord server - I am planning on doing a small update for the holidays.",
+        "date": 1786252041
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-08-22T04:56:57Z"
+}

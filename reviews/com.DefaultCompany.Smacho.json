@@ -1,0 +1,42 @@
+{
+  "app_id": "1039017595361781",
+  "package_name": "com.DefaultCompany.Smacho",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Smachos",
+  "rating_average": 4.5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1225201294017156",
+      "score": 4,
+      "review_title": "So far not bad",
+      "review_description": "Am pretty sure am OG but the game is not that bad i will definitely be a tester of the game but I like the game",
+      "date": 1787266948,
+      "review_helpful_count": 1,
+      "author_display_name": "birchks.2023",
+      "author_alias": "birchks.2023",
+      "developer_response": null
+    },
+    {
+      "id": "826793503854820",
+      "score": 5,
+      "review_title": "W game",
+      "review_description": "I love the idea and great execution",
+      "date": 1787274822,
+      "review_helpful_count": 1,
+      "author_display_name": "Dry_mattock",
+      "author_alias": "Dry_mattock",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-08-22T04:48:34Z"
+}
