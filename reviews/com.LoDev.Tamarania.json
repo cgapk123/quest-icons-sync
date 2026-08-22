@@ -1,0 +1,42 @@
+{
+  "app_id": "1244165362121295",
+  "package_name": "com.LoDev.Tamarania",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Tamarania!",
+  "rating_average": 4.5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1075423065006321",
+      "score": 5,
+      "review_title": "Very fun game",
+      "review_description": "Great player model, and some fun features, i would love to see this game progress more in the future!",
+      "date": 1787221160,
+      "review_helpful_count": 0,
+      "author_display_name": "ShareToast",
+      "author_alias": "ShareToast",
+      "developer_response": null
+    },
+    {
+      "id": "1268262216371476",
+      "score": 4,
+      "review_title": "Tamarania",
+      "review_description": "I LOVE the player model, though the movement is a little bit buggy and could use some work, amazing for a newly released game",
+      "date": 1787200626,
+      "review_helpful_count": 1,
+      "author_display_name": "ghoobix",
+      "author_alias": "ghoobix",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-08-22T05:04:32Z"
+}
