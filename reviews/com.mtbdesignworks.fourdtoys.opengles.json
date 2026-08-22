@@ -1,0 +1,64 @@
+{
+  "app_id": "29620813234233757",
+  "package_name": "com.mtbdesignworks.fourdtoys.opengles",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "4D Toys",
+  "rating_average": 5,
+  "rating_count": 8,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "833627343147768",
+      "score": 5,
+      "review_title": "",
+      "review_description": "A fundamental, basic necessity for dimensional claustrophobics.",
+      "date": 1758405081,
+      "review_helpful_count": 5,
+      "author_display_name": "YangMills_235",
+      "author_alias": "YangMills_235",
+      "developer_response": null
+    },
+    {
+      "id": "1344116233317429",
+      "score": 5,
+      "review_title": "A must have for math and science fans",
+      "review_description": "I bought 4D toys for PC and iPad, and now a third time for Quest. This is the definitive version.\n\nThis is a rare opportunity to get hands on with four dimensional space, and once it clicks you'll grok the concept of higher dimensional space. The objects you see on the main menu are often more interesting than they appear, and you can find out their secrets and hidden parts.\n\nIf you have kids who like VR, they might really get a lot out of this and it could very possibly blow their minds.\n\n4D toys is great and I recommend it without reservation to anyone interested in geometry, math and physics.\n\n\nThat said I will get into some nitpicking here:\n\n- The options menu scales with the scene, which means that if the scene is scaled all the way up the buttons get out of reach. Maybe it could be parented to the controller instead?\n- Some of the shaders don't work right in passthrough especially for the Klein Bottles\n- The scale and height settings might be better handled by pressing a button on one controller to drag the space, and pressing the button on another at the same time as to pinch to zoom / rotate, like in gravity sketch and other apps. This would make it easier to align the floor surface with a table. As it is the increments often don't allow you to be exact.",
+      "date": 1750443369,
+      "review_helpful_count": 6,
+      "author_display_name": "hargisss",
+      "author_alias": "hargisss",
+      "developer_response": null
+    },
+    {
+      "id": "691940004001165",
+      "score": 5,
+      "review_title": "Bought this game twice",
+      "review_description": "Bought on steam, loved it, bought on quest again, I know I’m going to love it. This has got to be one of my favorite math related games I’ve ever played. I’ve always wanted to learn more about and understand higher dimensions and this game has helped me achieve that in a really fun way",
+      "date": 1750469188,
+      "review_helpful_count": 2,
+      "author_display_name": "Laeden04",
+      "author_alias": "Laeden04",
+      "developer_response": null
+    },
+    {
+      "id": "665990719937217",
+      "score": 5,
+      "review_title": "Happy repeat customer.",
+      "review_description": "Been following the developer ever since the early Meigakure days, and I have 4D Toys on PC, which I loved, but it never filled the itch I had to have a hypercube on my desk.\n10/10",
+      "date": 1751007620,
+      "review_helpful_count": 2,
+      "author_display_name": "froidesprit",
+      "author_alias": "froidesprit",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-08-22T05:53:47Z"
+}
