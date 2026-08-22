@@ -1,0 +1,34 @@
+{
+  "app_id": "1089632290169540",
+  "package_name": "com.threedmundo.gta4t",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Vice Horizon VR",
+  "rating_average": 3,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1737628154050075",
+      "score": 3,
+      "review_title": "three for now",
+      "review_description": "Hard to play camera is inside avatar. Hard to see.",
+      "date": 1785700825,
+      "review_helpful_count": 1,
+      "author_display_name": "Stortz",
+      "author_alias": "Stortz",
+      "developer_response": {
+        "body": "Hi Stortz, thank you for the feedback — you were right, and it's fixed.\n\nThe avatar's head no longer blocks the view, and you can now adjust the\ncamera yourself in Settings: a \"camera distance\" slider that moves the\nview forward, plus an option to hide your body completely. Both settings\nare remembered between sessions.\n\nPlease update to the latest version and give it another try. If anything\nstill feels off, reply here and I'll take care of it. Thanks for taking\nthe time to report it!",
+        "date": 1786186979
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-08-22T06:06:28Z"
+}

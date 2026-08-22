@@ -1,0 +1,34 @@
+{
+  "app_id": "1152933931247609",
+  "package_name": "com.yellkell.down",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "DOWN",
+  "rating_average": 1,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "1057619130180259",
+      "score": 1,
+      "review_title": "Doesn't work",
+      "review_description": "Got this because I love fresh ideas. Unfortunately the app shuts down every time I open it. The first time I tried to open it, it closed while loading. The second two times it closed after I had cleared my 2mx2m space and clicked \"Let's Play\" or whatever.\n\nWill be happy to increase the rating if the force closes problems are fixed.",
+      "date": 1785453238,
+      "review_helpful_count": 0,
+      "author_display_name": "QUACKBIRTH",
+      "author_alias": "QUACKBIRTH",
+      "developer_response": {
+        "body": "Has indeed been fixed.",
+        "date": 1785712195
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-08-22T06:08:43Z"
+}
