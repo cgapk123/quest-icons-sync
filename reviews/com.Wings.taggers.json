@@ -1,0 +1,42 @@
+{
+  "app_id": "1194191720444731",
+  "package_name": "com.Wings.taggers",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Wings tag",
+  "rating_average": 4,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1297300590124921",
+      "score": 5,
+      "review_title": "hi",
+      "review_description": "Hi",
+      "date": 1784759354,
+      "review_helpful_count": 0,
+      "author_display_name": "speedwingss",
+      "author_alias": "speedwingss",
+      "developer_response": null
+    },
+    {
+      "id": "919865584481195",
+      "score": 5,
+      "review_title": "67",
+      "review_description": "Mnh",
+      "date": 1784653042,
+      "review_helpful_count": 0,
+      "author_display_name": "Kittyjrrr",
+      "author_alias": "Kittyjrrr",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-09-01T09:21:46Z"
+}
