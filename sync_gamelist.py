@@ -62,6 +62,13 @@ _ADULT_PACKAGE_PREFIXES = (
     "com.orchestranw.",
 )
 
+# 精确包名黑名单：每次生成 VRP-GameList.txt 都剔除（大小写不敏感）
+# 追加包名请改 skip_packages.txt，一行一个；也可 --skip-package 临时加。
+SKIP_PACKAGES = {
+    "cn.vr4p.oculus4xvrplayerov",
+}
+SKIP_PACKAGES_FILE = REPO_DIR / "skip_packages.txt"
+
 
 def decode_api_key() -> str:
     raw = base64.b64decode(API_KEY_ENC.strip())
@@ -156,6 +163,28 @@ def adult_search_blob(item: dict) -> str:
     return " ".join(p.strip() for p in parts if p.strip())
 
 
+def load_skip_packages(
+    path: Path | None = None,
+    extra: list[str] | None = None,
+) -> set[str]:
+    names: set[str] = {p.strip().lower() for p in SKIP_PACKAGES if str(p).strip()}
+    file_path = path or SKIP_PACKAGES_FILE
+    if file_path.is_file():
+        for line in file_path.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            names.add(line.lower())
+    if extra:
+        names.update(p.strip().lower() for p in extra if str(p).strip())
+    return names
+
+
+def is_skipped_package(item: dict, skip_packages: set[str]) -> bool:
+    pkg = str(item.get("packagename") or "").strip().lower()
+    return bool(pkg) and pkg in skip_packages
+
+
 def is_adult_content(item: dict) -> bool:
     """
     检测成人向 / R18 游戏。
@@ -190,19 +219,27 @@ def is_adult_content(item: dict) -> bool:
     return False
 
 
-def filter_releases(items: list[dict]) -> tuple[list[dict], int]:
+def filter_releases(
+    items: list[dict],
+    skip_packages: set[str] | None = None,
+) -> tuple[list[dict], int, int]:
+    skip = skip_packages if skip_packages is not None else load_skip_packages()
     out: list[dict] = []
     adult_filtered = 0
+    skipped_packages = 0
     for item in items:
         if not item.get("releasename"):
             continue
         if item.get("isblacklisted"):
             continue
+        if is_skipped_package(item, skip):
+            skipped_packages += 1
+            continue
         if is_adult_content(item):
             adult_filtered += 1
             continue
         out.append(item)
-    return out, adult_filtered
+    return out, adult_filtered, skipped_packages
 
 
 def to_csv_row(item: dict) -> str:
@@ -215,11 +252,14 @@ def to_csv_row(item: dict) -> str:
     return ";".join([name, release, package, version, updated, size, "0", "0", "0"])
 
 
-def build_gamelist(items: list[dict]) -> tuple[str, int]:
-    releases, adult_filtered = filter_releases(items)
+def build_gamelist(
+    items: list[dict],
+    skip_packages: set[str] | None = None,
+) -> tuple[str, int, int]:
+    releases, adult_filtered, skipped_packages = filter_releases(items, skip_packages)
     releases.sort(key=lambda x: display_name(x).casefold())
     lines = [HEADER, *(to_csv_row(x) for x in releases)]
-    return "\n".join(lines) + "\n", adult_filtered
+    return "\n".join(lines) + "\n", adult_filtered, skipped_packages
 
 
 def file_bytes(content: str) -> bytes:
@@ -241,6 +281,8 @@ def build_manifest(
     game_count: int,
     api_total_count: int,
     adult_filtered_count: int,
+    skipped_package_count: int,
+    skip_packages: set[str],
     content_sha256: str,
     file_size: int,
 ) -> dict:
@@ -252,6 +294,7 @@ def build_manifest(
         "game_count": game_count,
         "api_total_count": api_total_count,
         "adult_filtered_count": adult_filtered_count,
+        "skipped_package_count": skipped_package_count,
         "content_sha256": content_sha256,
         "file_size_bytes": file_size,
         "format": {
@@ -261,6 +304,7 @@ def build_manifest(
         "filters": {
             "skip_isblacklisted": True,
             "skip_adult_content": True,
+            "skip_packages": sorted(skip_packages),
             "adult_markers": ["(18+)", "r18", "nsfw", "sex", "porn", "hentai", "erotic", "xxx"],
         },
     }
@@ -279,9 +323,25 @@ def main() -> int:
     parser.add_argument("--save-cache", action="store_true")
     parser.add_argument("--force", action="store_true")
     parser.add_argument("--timeout", type=int, default=180)
+    parser.add_argument(
+        "--skip-package",
+        action="append",
+        default=[],
+        help="额外剔除的包名，可重复传入",
+    )
+    parser.add_argument(
+        "--skip-packages-file",
+        type=Path,
+        default=SKIP_PACKAGES_FILE,
+        help="包名黑名单文件，一行一个",
+    )
     args = parser.parse_args()
 
     try:
+        skip_packages = load_skip_packages(args.skip_packages_file, args.skip_package)
+        if skip_packages:
+            print(f"Skip packages ({len(skip_packages)}): {', '.join(sorted(skip_packages))}")
+
         if args.offline:
             print(f"Offline mode, reading {args.cache}")
             items = load_cache(args.cache)
@@ -293,8 +353,8 @@ def main() -> int:
                     json.dump(items, f, ensure_ascii=False)
                 print(f"Saved API cache: {args.cache} ({len(items):,} items)")
 
-        content, adult_filtered = build_gamelist(items)
-        releases, _ = filter_releases(items)
+        content, adult_filtered, skipped_packages = build_gamelist(items, skip_packages)
+        releases, _, _ = filter_releases(items, skip_packages)
         payload = file_bytes(content)
         new_sha = sha256_bytes(payload)
         old_sha = read_existing_sha256(args.output)
@@ -307,19 +367,21 @@ def main() -> int:
                 game_count=len(releases),
                 api_total_count=len(items),
                 adult_filtered_count=adult_filtered,
+                skipped_package_count=skipped_packages,
+                skip_packages=skip_packages,
                 content_sha256=new_sha,
                 file_size=len(payload),
             )
             save_manifest(args.manifest, manifest)
             print(
                 f"Wrote {args.output} ({len(payload):,} bytes, {len(releases):,} games, "
-                f"adult filtered: {adult_filtered})"
+                f"adult filtered: {adult_filtered}, skipped packages: {skipped_packages})"
             )
             print(f"Manifest: {args.manifest}")
         else:
             print(
                 f"No changes detected (sha256={new_sha[:12]}..., {len(releases):,} games, "
-                f"adult filtered: {adult_filtered})"
+                f"adult filtered: {adult_filtered}, skipped packages: {skipped_packages})"
             )
 
         emit_github_output(
@@ -327,11 +389,13 @@ def main() -> int:
             game_count=len(releases),
             api_total_count=len(items),
             adult_filtered_count=adult_filtered,
+            skipped_package_count=skipped_packages,
             content_sha256=new_sha,
         )
         print(
             f"API total: {len(items):,} | releases: {len(releases):,} | "
-            f"adult filtered: {adult_filtered} | changed: {changed}"
+            f"adult filtered: {adult_filtered} | skipped packages: {skipped_packages} | "
+            f"changed: {changed}"
         )
         return 0
 
