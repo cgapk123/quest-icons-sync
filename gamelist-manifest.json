@@ -1,13 +1,14 @@
 {
-  "updated_at_utc": "2026-09-03T10:56:19.448419+00:00",
+  "updated_at_utc": "2026-09-04T10:12:04.507824+00:00",
   "source": "vrsrc.fyi",
   "api_url": "https://vrsrc.fyi/api/games",
   "output_file": "VRP-GameList.txt",
-  "game_count": 2698,
-  "api_total_count": 34790,
+  "game_count": 2692,
+  "api_total_count": 34801,
   "adult_filtered_count": 6,
-  "content_sha256": "4f577f026b1320da1a7aa0d8a9befb360d2e4636bb1398d506df819a464becff",
-  "file_size_bytes": 313789,
+  "skipped_package_count": 16,
+  "content_sha256": "d008d1e8043efbfd6cffcbe6accfbbaa4dedae5526ae9034156b8691ee185319",
+  "file_size_bytes": 313236,
   "format": {
     "delimiter": ";",
     "columns": [
@@ -25,6 +26,27 @@
   "filters": {
     "skip_isblacklisted": true,
     "skip_adult_content": true,
+    "skip_packages": [
+      "cn.vr4p.oculus4xvrplayerov",
+      "cn.vr4p.oculus4xvrplayerov\"",
+      "com.avantaj.puzzlear",
+      "com.braindance.dogplan",
+      "com.dance.edend",
+      "com.doctorvr.eden1",
+      "com.feiyugame.catintown",
+      "com.feiyugame.letsplane",
+      "com.feiyugames.vrblockhunter",
+      "com.hxdf.drakheirea",
+      "com.moonvr.moonvrhome",
+      "com.mrf.rockvr.moonplayer",
+      "com.rockvr.moonplayer",
+      "com.samples.ethergems",
+      "com.siedan.tabletennistrainingsim",
+      "com.tangochen.spatialwebshooterquest",
+      "ws.wewe.brickout",
+      "xyz.skybox.player.ovr",
+      "xyz.skybox.player.ovr2"
+    ],
     "adult_markers": [
       "(18+)",
       "r18",
