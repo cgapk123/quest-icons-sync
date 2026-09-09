@@ -1,0 +1,103 @@
+{
+  "app_id": "6995275827220239",
+  "package_name": "com.DevTom.Luminar",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Luminar",
+  "rating_average": 4,
+  "rating_count": 12,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "1703717480240166",
+      "score": 4,
+      "review_title": "Good app.",
+      "review_description": "Great app overall, but I’ve noticed one issue (there are others aswell ) that could use improvement. Please consider updating the app to allow dynamic screen resizing based on distance from the user. Currently, the screen becomes too small when positioned further back, and enlarging it brings it uncomfortably close to the user’s face. An adaptive scaling feature would significantly enhance the experience.",
+      "date": 1737674888,
+      "review_helpful_count": 3,
+      "author_display_name": "iViR",
+      "author_alias": "iViR",
+      "developer_response": null
+    },
+    {
+      "id": "3163523597275752",
+      "score": 5,
+      "review_title": "Ambilight? Yes please!",
+      "review_description": "Here is how watching a video looks like: imgur dot com/a/nPhO36q#CYr95eI.\n\nAmazing isn’t it? What I hope for devs, is that you’ll be able to add the ability to watch netflix in your browser: so far it’s not possible.\n\nThanks anyway for being the first to leverage this impressive new feature on Quest!",
+      "date": 1705787480,
+      "review_helpful_count": 4,
+      "author_display_name": "odreamarc",
+      "author_alias": "odreamarc",
+      "developer_response": null
+    },
+    {
+      "id": "3275259816099689",
+      "score": 3,
+      "review_title": "Good idea but….",
+      "review_description": "I like the idea of this app, but it still lacks too much function as a browser.\n\nI need bookmark first!\nAnd non curved screen, tabs…\nI can’t watch Amazon Prime Video as well as Netflix.",
+      "date": 1706330863,
+      "review_helpful_count": 2,
+      "author_display_name": "Petoron",
+      "author_alias": "Petoron",
+      "developer_response": {
+        "body": "Hey there, I just pushed an update that implements bookmarks, tabs, and support for more streaming sites like Prime Video. Hope you check it out!",
+        "date": 1721516440
+      }
+    },
+    {
+      "id": "370373225715834",
+      "score": 5,
+      "review_title": "Amazing",
+      "review_description": "I would like if you could make the screen flat and if I wouldn’t see through my wall when it lights up.",
+      "date": 1706120509,
+      "review_helpful_count": 4,
+      "author_display_name": "Spiky.Vr",
+      "author_alias": "Spiky.Vr",
+      "developer_response": null
+    },
+    {
+      "id": "262506146882218",
+      "score": 5,
+      "review_title": "",
+      "review_description": "Hope to join the Chinese",
+      "date": 1707712607,
+      "review_helpful_count": 1,
+      "author_display_name": "zdy886",
+      "author_alias": "zdy886",
+      "developer_response": null
+    },
+    {
+      "id": "293076147213345",
+      "score": 3,
+      "review_title": "need more features",
+      "review_description": "this is just a browser but the interface is not good, there is no bookmark or favourite, need file access too",
+      "date": 1711858562,
+      "review_helpful_count": 0,
+      "author_display_name": "nitincs",
+      "author_alias": "nitincs",
+      "developer_response": null
+    },
+    {
+      "id": "374657309065941",
+      "score": 4,
+      "review_title": "So much potential",
+      "review_description": "I am giving 4 stars because this app has so much potential. But currently, I had really hard time adjusting things in the app. The first thing you should fix is the control system. It did not worl consistently for me.",
+      "date": 1721932219,
+      "review_helpful_count": 0,
+      "author_display_name": "argadini",
+      "author_alias": "argadini",
+      "developer_response": {
+        "body": "Hey there, thanks for the review! Feel free to reach out to me directly at synthlabsstudios@gmail.com. I'd love to hear more about the issue your experiencing in order to improve on it.",
+        "date": 1722006424
+      }
+    }
+  ],
+  "total": 7,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-09-09T08:48:00Z"
+}
