@@ -916,7 +916,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-09-24T09:06:14Z"
+    "updated_at": "2026-09-25T09:28:10Z"
   },
   ".com.WheyWorldStudios.ShootDash": {
     "app_id": "34246",
@@ -926,7 +926,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-09-24T09:06:18Z"
+    "updated_at": "2026-09-25T09:28:13Z"
   },
   ".com.biswagames.rf": {
     "app_id": "45592",
@@ -936,7 +936,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-09-24T09:06:21Z"
+    "updated_at": "2026-09-25T09:28:17Z"
   },
   ".comSkyDronesTeam.SkyDronesVR": {
     "app_id": "44734",
@@ -946,7 +946,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-09-24T09:06:26Z"
+    "updated_at": "2026-09-25T09:28:21Z"
   },
   "0.0.952": {
     "app_id": "14144",
@@ -215197,5 +215197,55 @@
     "sort": "helpful",
     "pages_fetched": 0,
     "updated_at": "2026-09-24T09:07:11Z"
+  },
+  "com.JerryMods2.GDIsGorillaHorror": {
+    "app_id": "24406135579068871",
+    "status": "ok",
+    "review_count": 70,
+    "store_review_count": 70,
+    "rating_average": 4.5566037735849,
+    "sort": "helpful",
+    "pages_fetched": 4,
+    "updated_at": "2026-09-25T09:28:41Z"
+  },
+  "com.SquidoStudio.Nomsters": {
+    "app_id": "1551144196662303",
+    "status": "ok",
+    "review_count": 60,
+    "store_review_count": 60,
+    "rating_average": 4.7263157894737,
+    "sort": "helpful",
+    "pages_fetched": 3,
+    "updated_at": "2026-09-25T09:28:56Z"
+  },
+  "com.gevr.port": {
+    "app_id": "62675",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-09-25T09:28:59Z"
+  },
+  "com.xrpanda.TheGameWithTheBees": {
+    "app_id": "62344",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-09-25T09:29:03Z"
+  },
+  "dev.pour.quest": {
+    "app_id": "1328406453687542",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-09-25T09:29:09Z"
   }
 }
