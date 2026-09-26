@@ -1,0 +1,53 @@
+{
+  "app_id": "5423326934356275",
+  "package_name": "com.ZOSUStudiosLLC.Gallery",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Pastel Gallery",
+  "rating_average": 4.5,
+  "rating_count": 8,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "2393390174135248",
+      "score": 4,
+      "review_title": "Pastels are a kind of crayon.",
+      "review_description": "nice art. Not totally scintillating, but still colorful and fun. I liked the structure of the gallery and use of geometry and stuff, blah blah.",
+      "date": 1660049307,
+      "review_helpful_count": 1,
+      "author_display_name": "byteframe",
+      "author_alias": "byteframe",
+      "developer_response": null
+    },
+    {
+      "id": "144438304950111",
+      "score": 5,
+      "review_title": "Awesome VR museum",
+      "review_description": "A must try if you like museums, has fun interaction, fitting relaxing music and just tons of good art!",
+      "date": 1663089157,
+      "review_helpful_count": 1,
+      "author_display_name": "mariusmopar",
+      "author_alias": "mariusmopar",
+      "developer_response": null
+    },
+    {
+      "id": "201327872326559",
+      "score": 5,
+      "review_title": "Great art museum",
+      "review_description": "First of all, I like it. It is really well done. So far, it is one of my top museum and the best art museum on Oculus.\n\nPossible improvements.\n- allow the user to show a map with the user location\n- add the name of the artist for each painting, a way to reach out to that artist, the price of the painting (if possible) and the size. Also add a description of the author and the painting too, and where and when was this painted. This would help with the artists exposure.\n- give a choice of chatter box (people talking in the background), music, or just listening to your steps, or just silence\n- add non moving \"cameras\" on the ceiling\n- add some windows and lights so we don't feel so claustrophobe. This requires a bit of work since the outside probably should match the current time... aka at night, it should be dark. During the day it should be brighter.",
+      "date": 1663959224,
+      "review_helpful_count": 2,
+      "author_display_name": "yes4me",
+      "author_alias": "yes4me",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-09-26T09:14:03Z"
+}
