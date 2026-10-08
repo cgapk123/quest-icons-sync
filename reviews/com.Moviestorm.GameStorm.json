@@ -1,0 +1,64 @@
+{
+  "app_id": "8446854885430163",
+  "package_name": "com.Moviestorm.GameStorm",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "GameStorm",
+  "rating_average": 3.4,
+  "rating_count": 5,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1323202880871773",
+      "score": 1,
+      "review_title": "Doesn't work at all",
+      "review_description": "Cant even get passed the start up screen",
+      "date": 1788675477,
+      "review_helpful_count": 0,
+      "author_display_name": "SoulessQDZ",
+      "author_alias": "SoulessQDZ",
+      "developer_response": null
+    },
+    {
+      "id": "1080252891197937",
+      "score": 5,
+      "review_title": "yes",
+      "review_description": "Yes",
+      "date": 1786339595,
+      "review_helpful_count": 0,
+      "author_display_name": "moneymanz14",
+      "author_alias": "moneymanz14",
+      "developer_response": null
+    },
+    {
+      "id": "930829246790603",
+      "score": 1,
+      "review_title": "Sucks",
+      "review_description": "Don't buy it doesn't even work horrible don't buy",
+      "date": 1772925775,
+      "review_helpful_count": 0,
+      "author_display_name": "tubz12",
+      "author_alias": "tubz12",
+      "developer_response": null
+    },
+    {
+      "id": "1027783637085831",
+      "score": 5,
+      "review_title": "Make anything 🥳",
+      "review_description": "Basically it's unity in vr but really easy with almost no coding as I know. (3 months of effort in 1 day)",
+      "date": 1772274637,
+      "review_helpful_count": 0,
+      "author_display_name": "Capybaaras123",
+      "author_alias": "Capybaaras123",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-10-08T11:14:26Z"
+}

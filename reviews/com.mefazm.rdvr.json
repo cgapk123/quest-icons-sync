@@ -1,0 +1,100 @@
+{
+  "app_id": "28973098608955930",
+  "package_name": "com.mefazm.rdvr",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "RDVR - Control your PC remotely",
+  "rating_average": 4.2,
+  "rating_count": 15,
+  "review_count": 7,
+  "reviews": [
+    {
+      "id": "949512977562565",
+      "score": 2,
+      "review_title": "Does not work with Gnome Remote Desktop",
+      "review_description": "Gnome Remote Desktop needs NLA security (RDP and TLS do not work) and this client does not really support it (Message Integrity Check (MIC) verification failed). Android aFreeRDP can connect to my G-R-D.",
+      "date": 1775339045,
+      "review_helpful_count": 2,
+      "author_display_name": "TonyMakkaroni",
+      "author_alias": "TonyMakkaroni",
+      "developer_response": null
+    },
+    {
+      "id": "941929032344699",
+      "score": 5,
+      "review_title": "fedora 43 + gnome",
+      "review_description": "I was looking for a solution to remotely display my gnome session running under fedora 43.\nWorks like a charm.\nMany thanks.",
+      "date": 1770415747,
+      "review_helpful_count": 1,
+      "author_display_name": "dcdh1983",
+      "author_alias": "dcdh1983",
+      "developer_response": null
+    },
+    {
+      "id": "985204241335574",
+      "score": 5,
+      "review_title": "Just what I needed",
+      "review_description": "This is just what I was looking for, was able to connect and no need for another app on the pc I was connecting to. After restarting the pc, I was able to add additional virtual screens.",
+      "date": 1768590773,
+      "review_helpful_count": 1,
+      "author_display_name": "CheerfulLlama8244",
+      "author_alias": "CheerfulLlama8244",
+      "developer_response": null
+    },
+    {
+      "id": "704006759472795",
+      "score": 5,
+      "review_title": "This is best PC connection app so far",
+      "review_description": "I've had a lot of trouble with keyboards in other apps, and also a laggy feel to the interaction (I want to use this for work, not gaming). This app is the best of them all.  My only wish is that it would support 4K resolutions and multiple displays from the same PC.  I would be happy to use the Metalink USB connection if that would be needed to allow this.",
+      "date": 1755958618,
+      "review_helpful_count": 9,
+      "author_display_name": "OmbroDraco",
+      "author_alias": "OmbroDraco",
+      "developer_response": null
+    },
+    {
+      "id": "1508118377275775",
+      "score": 3,
+      "review_title": "Can' connect to PC",
+      "review_description": "No matter what I tried I can not connect to Windows 11 PC. I opened firewall. Allowed remote desktop, tried internal ip and external.",
+      "date": 1758511010,
+      "review_helpful_count": 2,
+      "author_display_name": "BJ.keystone",
+      "author_alias": "BJ.keystone",
+      "developer_response": null
+    },
+    {
+      "id": "626337593894545",
+      "score": 5,
+      "review_title": "Extended monitor",
+      "review_description": "Great app, got Extended monitors to work and have different seasons open\n\nNow i have a problem with my Bluetooth mouse…\n\nIs there a place where one can see how these things work?",
+      "date": 1744657393,
+      "review_helpful_count": 4,
+      "author_display_name": "RuAvEtAn",
+      "author_alias": "RuAvEtAn",
+      "developer_response": {
+        "body": "You can see the information about the app on the app's website at https://rdvr.pp.ua/\nThere is a video of a Bluetooth mouse there https://www.youtube.com/watch?v=pfFDqx7hZwI\nYou can simply use the mouse connected to your headset. Just like the other apps. If you have any problems with the mouse in RDVR, please tell me more.\nRight now the app is in active development and its user interface changes frequently, so I don't have detailed instructions.",
+        "date": 1744718536
+      }
+    },
+    {
+      "id": "578551678677035",
+      "score": 5,
+      "review_title": "Thank you",
+      "review_description": "Thank you, this is exactly what I was looking for!",
+      "date": 1741858687,
+      "review_helpful_count": 2,
+      "author_display_name": "Necstasy",
+      "author_alias": "Necstasy",
+      "developer_response": null
+    }
+  ],
+  "total": 7,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-10-08T11:16:44Z"
+}

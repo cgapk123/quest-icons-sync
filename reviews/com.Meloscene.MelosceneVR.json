@@ -1,0 +1,56 @@
+{
+  "app_id": "6983185808414567",
+  "package_name": "com.Meloscene.MelosceneVR",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Meloscene Beta",
+  "rating_average": 4.3333333333333,
+  "rating_count": 6,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "865879762806263",
+      "score": 5,
+      "review_title": "Amazing powerfull colaboration tool",
+      "review_description": "This is a very well-designed app for musicians who work with a DAW in music production. It’s not meant to play instruments directly inside the app, but rather to collaborate with other music producers and mirror your computer and workspace efficiently.\n\nIt works exactly as intended and becomes a powerful extension of your studio workflow. Highly recommended for producers looking to improve collaboration and organization.",
+      "date": 1767563029,
+      "review_helpful_count": 1,
+      "author_display_name": "iAnubiz",
+      "author_alias": "iAnubiz",
+      "developer_response": null
+    },
+    {
+      "id": "857424157270328",
+      "score": 1,
+      "review_title": "Clickbait garbage",
+      "review_description": "Pick up an instrument to play a pre-made loop... Yawn.",
+      "date": 1767451673,
+      "review_helpful_count": 1,
+      "author_display_name": "BuKuBASED",
+      "author_alias": "BuKuBASED",
+      "developer_response": {
+        "body": "Thanks for checking it out. Meloscene isn’t a standalone loop or instrument app. It’s a collaborative virtual studio designed to connect real-world DAWs and studio tools into VR via our optional Portal software.\n\nThe in-app instruments simply trigger basic loops and are included as playful, interactive elements. They aren’t music creation tools and aren’t part of the production workflow. For actual studio use, the Portal setup described in the app listing is required.",
+        "date": 1767557927
+      }
+    },
+    {
+      "id": "1674588366518441",
+      "score": 5,
+      "review_title": "Cool app for collabs or just hanging out",
+      "review_description": "Impressed with the experience so far. \n\nThere's a \"portal app\" you install on your mac that makes it possible to cast your computer screen and audio in world and share files easily with others in the room. Make sure to install that.\n\nExcited to work on more projects in here with friends that are out of state.",
+      "date": 1746118212,
+      "review_helpful_count": 4,
+      "author_display_name": "chmpnz",
+      "author_alias": "chmpnz",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-10-08T11:14:18Z"
+}

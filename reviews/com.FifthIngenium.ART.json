@@ -1,0 +1,45 @@
+{
+  "app_id": "5923725361024743",
+  "package_name": "com.FifthIngenium.ART",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "ART",
+  "rating_average": 1.6666666666667,
+  "rating_count": 6,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "246689888196767",
+      "score": 1,
+      "review_title": "I didn’t want this",
+      "review_description": "Meta needs a confirm purchase on free things",
+      "date": 1691080301,
+      "review_helpful_count": 8,
+      "author_display_name": "Mcceefer777",
+      "author_alias": "Mcceefer777",
+      "developer_response": null
+    },
+    {
+      "id": "136973885937505",
+      "score": 1,
+      "review_title": "Help how do i play",
+      "review_description": "i can’t login",
+      "date": 1676149218,
+      "review_helpful_count": 6,
+      "author_display_name": "malnxxty",
+      "author_alias": "malnxxty",
+      "developer_response": {
+        "body": "Hello, we are sorry, but to use the app you need to first have an account.\nPlease contact us at info@outoftheframe.com.",
+        "date": 1679307618
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-10-08T11:13:27Z"
+}

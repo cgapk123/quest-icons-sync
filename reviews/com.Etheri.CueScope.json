@@ -1,0 +1,48 @@
+{
+  "app_id": "9579207835432638",
+  "package_name": "com.Etheri.CueScope",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "CueScope XR",
+  "rating_average": 4,
+  "rating_count": 4,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1059576160574611",
+      "score": 4,
+      "review_title": "Issue with snooker",
+      "review_description": "I have been trying to use it with a snooker table but I can't get  both lines ( cue ball to target ball and target ball to pocket ) , I am not too sure why . I hope this reach the developer and  they can  help me with the issue",
+      "date": 1775067583,
+      "review_helpful_count": 3,
+      "author_display_name": "billyjean.168121",
+      "author_alias": "billyjean.168121",
+      "developer_response": {
+        "body": "Hi, Billyjean. Thank you for your feedback, we really appreciate it!\n\nSorry you ran into issues with getting both lines to show on a snooker table. Could you share more details about what is happening? That will help us investigate.\n\nIf you are open to it, feel free to join our Discord as well so we can communicate easier: https://discord.gg/tfsJ4tENkA",
+        "date": 1775595802
+      }
+    },
+    {
+      "id": "1146531288543329",
+      "score": 2,
+      "review_title": "Its bad",
+      "review_description": "I don't know if the AI is broken or the game. Because when it AI balls spawns in it rolls. And I don't even see the lines. Also is the rating are likely bottled because there is no reviews there is only 2. But it's showing 4.0 and there is 50% 5 star rating even though the 1 person put 4",
+      "date": 1779622066,
+      "review_helpful_count": 0,
+      "author_display_name": "whatsgrass212",
+      "author_alias": "whatsgrass212",
+      "developer_response": {
+        "body": "Hi Whatsgrass212, thanks for the report! The self-rolling AI balls are a known bug and a fix is on the way. For the line issues, we would love to hear more, please share the details in our Discord (https://discord.gg/tfsJ4tENkA) whenever you get a chance. Updates coming soon, appreciate your patience! Updates: We believe we have addressed all the issues reported over the past several months. If you are still experiencing any problems, please let us know. Thanks again for your feedback and support!",
+        "date": 1788820331
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-10-08T11:13:20Z"
+}

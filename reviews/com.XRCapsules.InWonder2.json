@@ -1,0 +1,45 @@
+{
+  "app_id": "10044854808862332",
+  "package_name": "com.XRCapsules.InWonder2",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "In Wonder Demo",
+  "rating_average": 3,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1066637906525840",
+      "score": 5,
+      "review_title": "From my living to space",
+      "review_description": "In Wonder on my Quest is amazing, turns my living room into this chill interactive dreamworld with just hand tracking, no controllers. Love how it mixes virtual toys and scenes right into my actual furniture, super relaxing after work. My favorite is the space world, I can see the planets from my window and play with space rocks.  It’s still evolving but already my go-to for chill, creative vibes!",
+      "date": 1772021512,
+      "review_helpful_count": 1,
+      "author_display_name": "JuGee",
+      "author_alias": "JuGee",
+      "developer_response": null
+    },
+    {
+      "id": "965629353296508",
+      "score": 1,
+      "review_title": "Doesn't work",
+      "review_description": "Just a black screen and music plays, tried downloading again",
+      "date": 1766872666,
+      "review_helpful_count": 0,
+      "author_display_name": "LongJohnJelly",
+      "author_alias": "LongJohnJelly",
+      "developer_response": {
+        "body": "Thanks for the feedback!! We are sorry about your experience, and we will look into why that has been causing issues. Feel free to join the Discord and provide more updates and feedback!",
+        "date": 1767815751
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-10-08T11:15:47Z"
+}

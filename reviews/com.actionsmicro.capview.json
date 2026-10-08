@@ -1,0 +1,31 @@
+{
+  "app_id": "28769591512685759",
+  "package_name": "com.actionsmicro.capview",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "CapView",
+  "rating_average": 1,
+  "rating_count": 1,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "621431321061116",
+      "score": 1,
+      "review_title": "not able to connect UVC device",
+      "review_description": "When I connect a UVC device to Meta QUEST 3 through Capview, the Capview CANNOT detect my UVC device. AFter trying several times, the Capview was terminated automatically. Don't know how to contact programmer to raise this issue.\n\nWesley Chen",
+      "date": 1747288203,
+      "review_helpful_count": 3,
+      "author_display_name": "wesley1955",
+      "author_alias": "wesley1955",
+      "developer_response": null
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-10-08T11:15:55Z"
+}
