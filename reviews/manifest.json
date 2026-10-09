@@ -916,7 +916,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-10-08T11:12:10Z"
+    "updated_at": "2026-10-09T11:11:03Z"
   },
   ".com.WheyWorldStudios.ShootDash": {
     "app_id": "34246",
@@ -926,7 +926,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-10-08T11:12:14Z"
+    "updated_at": "2026-10-09T11:11:06Z"
   },
   ".com.biswagames.rf": {
     "app_id": "45592",
@@ -936,7 +936,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-10-08T11:12:18Z"
+    "updated_at": "2026-10-09T11:11:11Z"
   },
   ".comSkyDronesTeam.SkyDronesVR": {
     "app_id": "44734",
@@ -946,7 +946,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-10-08T11:12:22Z"
+    "updated_at": "2026-10-09T11:11:15Z"
   },
   "0.0.952": {
     "app_id": "14144",
@@ -217427,5 +217427,45 @@
     "sort": "helpful",
     "pages_fetched": 1,
     "updated_at": "2026-10-08T11:19:26Z"
+  },
+  "cloud.futurelens.quest": {
+    "app_id": "62696",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-09T11:11:19Z"
+  },
+  "com.CyhordreamStudios.ClickACubeVR": {
+    "app_id": "62537",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-09T11:11:23Z"
+  },
+  "com.OSMGames.ShilTest": {
+    "app_id": "8099575933454051",
+    "status": "ok",
+    "review_count": 2,
+    "store_review_count": 2,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-10-09T11:11:30Z"
+  },
+  "com.sharpies.classicpaintvr": {
+    "app_id": "2863217067383647",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-09T11:11:35Z"
   }
 }
