@@ -916,7 +916,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-10-09T11:11:03Z"
+    "updated_at": "2026-10-10T10:28:24Z"
   },
   ".com.WheyWorldStudios.ShootDash": {
     "app_id": "34246",
@@ -926,7 +926,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-10-09T11:11:06Z"
+    "updated_at": "2026-10-10T10:28:27Z"
   },
   ".com.biswagames.rf": {
     "app_id": "45592",
@@ -936,7 +936,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-10-09T11:11:11Z"
+    "updated_at": "2026-10-10T10:28:31Z"
   },
   ".comSkyDronesTeam.SkyDronesVR": {
     "app_id": "44734",
@@ -946,7 +946,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-10-09T11:11:15Z"
+    "updated_at": "2026-10-10T10:28:35Z"
   },
   "0.0.952": {
     "app_id": "14144",
@@ -217467,5 +217467,75 @@
     "sort": "helpful",
     "pages_fetched": 0,
     "updated_at": "2026-10-09T11:11:35Z"
+  },
+  "com.NorthstarXR.NazoReality": {
+    "app_id": "1171734109362824",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-10T10:28:39Z"
+  },
+  "com.halo.decomp.vr": {
+    "app_id": "63020",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-10T10:28:43Z"
+  },
+  "com.playsys.having_a_bad_day": {
+    "app_id": "32462766090035546",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-10T10:28:48Z"
+  },
+  "com.pvitale.muralview2": {
+    "app_id": "1310337855502055",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-10T10:28:51Z"
+  },
+  "com.totistudio.tracenest": {
+    "app_id": "1319753407889906",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-10T10:28:56Z"
+  },
+  "com.upestudio.kinemavr": {
+    "app_id": "1256341467571904",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-10T10:28:58Z"
+  },
+  "com.winlator.cmod": {
+    "app_id": "37320",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-10T10:29:02Z"
   }
 }
