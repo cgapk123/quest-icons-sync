@@ -916,7 +916,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-10-12T11:44:24Z"
+    "updated_at": "2026-10-13T11:30:39Z"
   },
   ".com.WheyWorldStudios.ShootDash": {
     "app_id": "34246",
@@ -926,7 +926,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-10-12T11:44:27Z"
+    "updated_at": "2026-10-13T11:30:42Z"
   },
   ".com.biswagames.rf": {
     "app_id": "45592",
@@ -936,7 +936,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-10-12T11:44:31Z"
+    "updated_at": "2026-10-13T11:30:46Z"
   },
   ".comSkyDronesTeam.SkyDronesVR": {
     "app_id": "44734",
@@ -946,7 +946,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-10-12T11:44:35Z"
+    "updated_at": "2026-10-13T11:30:50Z"
   },
   "0.0.952": {
     "app_id": "14144",
@@ -217637,5 +217637,115 @@
     "sort": "helpful",
     "pages_fetched": 0,
     "updated_at": "2026-10-12T11:45:28Z"
+  },
+  "com.DESpA.SafeHub": {
+    "app_id": "1640893390737676",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-13T11:30:54Z"
+  },
+  "com.LucidoInc.HammerCore": {
+    "app_id": "31235312969389135",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-13T11:30:58Z"
+  },
+  "com.SIMATS.LoadTestonDCShuntMotor": {
+    "app_id": "61993",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-13T11:31:02Z"
+  },
+  "com.SIMATS.SpotTheObjectVR": {
+    "app_id": "61995",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-13T11:31:06Z"
+  },
+  "com.SIMATS.VERIFICATIONOFTHEVENINSANDNORTONSTHEOREMVRLAB": {
+    "app_id": "61998",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-13T11:31:09Z"
+  },
+  "com.SIMATS.VRBlockArrangementGame": {
+    "app_id": "61994",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-13T11:31:13Z"
+  },
+  "com.VRWorld.Infinity": {
+    "app_id": "1907958520161675",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 1,
+    "rating_average": 5,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-10-13T11:31:20Z"
+  },
+  "com.ivision.launcher": {
+    "app_id": "1486063019999611",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-13T11:31:26Z"
+  },
+  "com.rafora.languageleap": {
+    "app_id": "1364546970067865",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-10-13T11:31:29Z"
+  },
+  "com.theiagames.badgripclub": {
+    "app_id": "26875593518796762",
+    "status": "ok",
+    "review_count": 11,
+    "store_review_count": 11,
+    "rating_average": 4.6428571428571,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-10-13T11:31:36Z"
+  },
+  "com.woodfordxr.depthray": {
+    "app_id": "1343679048826072",
+    "status": "ok",
+    "review_count": 12,
+    "store_review_count": 12,
+    "rating_average": 4.375,
+    "sort": "helpful",
+    "pages_fetched": 1,
+    "updated_at": "2026-10-13T11:31:44Z"
   }
 }

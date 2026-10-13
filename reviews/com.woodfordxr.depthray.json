@@ -1,0 +1,161 @@
+{
+  "app_id": "1343679048826072",
+  "package_name": "com.woodfordxr.depthray",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Depthray 3D Video Player",
+  "rating_average": 4.375,
+  "rating_count": 16,
+  "review_count": 12,
+  "reviews": [
+    {
+      "id": "1671937694270804",
+      "score": 2,
+      "review_title": "FREE… ONLY 5 MIN! NEED IMPROVEMENT",
+      "review_description": "Depthray has an interesting concept: real-time 2D-to-3D conversion directly on the Quest, without a PC. I appreciated the French interface and the ability to play local videos and access YouTube.\n\nUnfortunately, my experience was mixed. The 3D effect worked, but I noticed distracting image distortions. My USB drive wasn't recognized, and I couldn't access videos from my PC over Wi-Fi. I also found the virtual environments visually underwhelming.\n\nThe technology is promising, but compared with other VR video players I've tested, the overall experience didn't convince me yet. I hope future updates will improve image quality, connectivity and usability.",
+      "date": 1791861231,
+      "review_helpful_count": 2,
+      "author_display_name": "Majerik",
+      "author_alias": "Majerik",
+      "developer_response": null
+    },
+    {
+      "id": "1428502383670185",
+      "score": 5,
+      "review_title": "Really nice video player with added 3D",
+      "review_description": "This is such a great way to experience your own videos. Could easily hook up to my own Plex and YouTube and try out all kinds of videos with the 3d effect. Really impressive that this is all being done on the headset.",
+      "date": 1791653452,
+      "review_helpful_count": 4,
+      "author_display_name": "BrockBravo",
+      "author_alias": "BrockBravo",
+      "developer_response": null
+    },
+    {
+      "id": "1398792283310429",
+      "score": 4,
+      "review_title": "Good",
+      "review_description": "I found the YouTube 3d effect very good, I  purchased the full version, hoping an update could make it work with Stremio. Is there any plans to make it compatible?",
+      "date": 1791710423,
+      "review_helpful_count": 1,
+      "author_display_name": "mcahill.549144",
+      "author_alias": "mcahill.549144",
+      "developer_response": {
+        "body": "Thanks for the review and checking Depthray out! Stremio has been the most request feature so far so it's top of the list, I need to make sure it's possible but if it is then it will be in the next full update so should be in the next couple of weeks, assuming I can get it working. Thanks!",
+        "date": 1791703972
+      }
+    },
+    {
+      "id": "1046164658460073",
+      "score": 5,
+      "review_title": "Works very well",
+      "review_description": "Really impressed with how this works!!",
+      "date": 1791719116,
+      "review_helpful_count": 3,
+      "author_display_name": "schitywalk",
+      "author_alias": "schitywalk",
+      "developer_response": null
+    },
+    {
+      "id": "1387353404467536",
+      "score": 5,
+      "review_title": "Finally!",
+      "review_description": "Thank you!!!\nAs a filmmaker I've gone through absurd avenues to see my work like this.\nI've used the Quest Gallery live 3D conversion thing but it has that darn UI floating infront. NEX cuts the frames in half for live 3D conversion. \n\nMy best bet was throwing the film on an external drive - Ps5 - stream through Asobi - remote play - decent live 3D conversion with noticeable frame drops.\n\nThis is pretty much flawless & the parallax is top notch. 👌 11/5",
+      "date": 1791728004,
+      "review_helpful_count": 5,
+      "author_display_name": "Cirkit",
+      "author_alias": "Cirkit",
+      "developer_response": {
+        "body": "Thanks so much! My main focus with this app was the 3D effect first and foremost, so the majority of dev time went into make it as efficient as possible. So happy to hear you're enjoying it!",
+        "date": 1791735496
+      }
+    },
+    {
+      "id": "1283752594830627",
+      "score": 5,
+      "review_title": "It does 2D to 3D well!",
+      "review_description": "Great app, does what it says! All on headset. Tried on a few 4k videos and purchased the full version. A couple minor suggestions to the dev, the option to increase the depth contrast level even more. And also to allow the settings adjustment menu to move off the video area.",
+      "date": 1791801330,
+      "review_helpful_count": 2,
+      "author_display_name": "Bndrsnch",
+      "author_alias": "Bndrsnch",
+      "developer_response": null
+    },
+    {
+      "id": "30044256998508085",
+      "score": 5,
+      "review_title": "Works like magic",
+      "review_description": "It actually does what it says it does, makes 2D videos 3D. It's not perfect, and some videos just don't work well, but when it works well, it's very immersive.\n\nThere is some distortion and general weirdness sometimes. It's like 80% of what a manually 3D conversion would look like.",
+      "date": 1791747777,
+      "review_helpful_count": 2,
+      "author_display_name": "carbunkle0",
+      "author_alias": "carbunkle0",
+      "developer_response": null
+    },
+    {
+      "id": "1401482569714760",
+      "score": 5,
+      "review_title": "Good app for 3d effect.",
+      "review_description": "I instantly bought it, had an old tv that converts 2d to 3d, the app works better than it watching 4k movies. There are settings for 3d. Environments are also nice.",
+      "date": 1791717029,
+      "review_helpful_count": 2,
+      "author_display_name": "orpheuseuridike",
+      "author_alias": "orpheuseuridike",
+      "developer_response": null
+    },
+    {
+      "id": "2977685899239957",
+      "score": 1,
+      "review_title": "Extremely buggy.",
+      "review_description": "Could not even test on own media.   the keyboard input was unresponsive when inputting a network shared folder or a jellyfish server.  tried force shutdown and restart with no improvement.  i feel like a beta tester without any benefits.",
+      "date": 1791701084,
+      "review_helpful_count": 0,
+      "author_display_name": "discostu0",
+      "author_alias": "discostu0",
+      "developer_response": {
+        "body": "Thanks for the feedback and really sorry that you ran into that issue. I'll have a hotfix out for it soon. If you don't mind, could you please send a bug report from within Depthray's settings menu? Thanks again!\n\nEdit: I have added a hotfix for this today! If you can please try again I would really appreciate it. Being a solo dev it can be easy for edge cases like this to slip past but I was able to reproduce it and get it fixed. Thanks again for letting me know and if you'd reconsider the rating after the fix then I would massively appreciate it!",
+        "date": 1791712196
+      }
+    },
+    {
+      "id": "1390569084132831",
+      "score": 5,
+      "review_title": "Webdav",
+      "review_description": "It's brilliant but it would be great if you can add Webdav in future updates.",
+      "date": 1791665174,
+      "review_helpful_count": 1,
+      "author_display_name": "Gazbhoy79",
+      "author_alias": "Gazbhoy79",
+      "developer_response": null
+    },
+    {
+      "id": "1452559283439862",
+      "score": 5,
+      "review_title": "Works great",
+      "review_description": "Im enjoying using the app. 3d conversion works great",
+      "date": 1791719337,
+      "review_helpful_count": 2,
+      "author_display_name": "thomthom55",
+      "author_alias": "thomthom55",
+      "developer_response": null
+    },
+    {
+      "id": "3125147884341713",
+      "score": 5,
+      "review_title": "Love it",
+      "review_description": "Works well so far! thanks dev:)",
+      "date": 1791753277,
+      "review_helpful_count": 1,
+      "author_display_name": "Flowzen",
+      "author_alias": "Flowzen",
+      "developer_response": null
+    }
+  ],
+  "total": 12,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-10-13T11:31:44Z"
+}
