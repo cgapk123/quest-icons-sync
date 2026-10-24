@@ -1,0 +1,64 @@
+{
+  "app_id": "1089109000681094",
+  "package_name": "com.manerai.projectKiosk",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Scary Hot Dogs",
+  "rating_average": 5,
+  "rating_count": 5,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1135935905617925",
+      "score": 5,
+      "review_title": "amazing",
+      "review_description": "this game is better than all the other games that they made recommend playing",
+      "date": 1792787985,
+      "review_helpful_count": 3,
+      "author_display_name": "ckegnuggets",
+      "author_alias": "ckegnuggets",
+      "developer_response": null
+    },
+    {
+      "id": "1092001280490344",
+      "score": 5,
+      "review_title": "So scary, so hot",
+      "review_description": "The only thing I can’t understand is where the dogs?",
+      "date": 1792771916,
+      "review_helpful_count": 1,
+      "author_display_name": "ycatdev",
+      "author_alias": "ycatdev",
+      "developer_response": null
+    },
+    {
+      "id": "983137754850499",
+      "score": 5,
+      "review_title": "Five stars",
+      "review_description": "Love it its scary and fun",
+      "date": 1792788001,
+      "review_helpful_count": 1,
+      "author_display_name": "cat1247362",
+      "author_alias": "cat1247362",
+      "developer_response": null
+    },
+    {
+      "id": "1342045138996720",
+      "score": 5,
+      "review_title": "Wobbly Weiner",
+      "review_description": "Wobbly Weiner",
+      "date": 1792797192,
+      "review_helpful_count": 0,
+      "author_display_name": "nuke.em.putin",
+      "author_alias": "nuke.em.putin",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-10-24T08:53:42Z"
+}
