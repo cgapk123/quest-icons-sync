@@ -1,0 +1,56 @@
+{
+  "app_id": "1232173686640567",
+  "package_name": "com.daylightstudio.worldguessr.meta",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "WorldGuessr – Let’s discover the world!",
+  "rating_average": 3.75,
+  "rating_count": 4,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1355190231006707",
+      "score": 5,
+      "review_title": "good!",
+      "review_description": "My favorite part is not knowing which country I’ll end up in next. Looking around at the streets, buildings, and everyday life makes it feel a bit like traveling around the world.",
+      "date": 1789964252,
+      "review_helpful_count": 0,
+      "author_display_name": "PricklyKoala4104",
+      "author_alias": "PricklyKoala4104",
+      "developer_response": null
+    },
+    {
+      "id": "1102350209409837",
+      "score": 5,
+      "review_title": "Awesome!",
+      "review_description": "I love geoguessing apps and this is a bit more convenient to use than the guessing mode in Wooorld. Good job!",
+      "date": 1789296001,
+      "review_helpful_count": 1,
+      "author_display_name": "Krabman0",
+      "author_alias": "Krabman0",
+      "developer_response": null
+    },
+    {
+      "id": "1616802860243516",
+      "score": 1,
+      "review_title": "Not a fun game",
+      "review_description": "They keep putting you in the most remote areas and then ask you to guess where you are. Can’t easily move around. I want a refund.",
+      "date": 1789269454,
+      "review_helpful_count": 0,
+      "author_display_name": "Ecscellent",
+      "author_alias": "Ecscellent",
+      "developer_response": {
+        "body": "I'm sorry the experience didn't meet your expectations. We've been continuously updating WorldGuessr since launch, and it now offers more than 20 challenge maps with different themes. Each map features different locations and experiences, so you may find that trying another map gives you a different impression. We're also continuing to add more interesting and diverse maps.\n\nFor movement, you can currently move forward by clicking the arrows in Street View, similar to Google Street View. We'll also continue improving the controls to make movement and exploration more convenient and natural. Thank you again for your feedback!",
+        "date": 1789487392
+      }
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-10-30T10:46:39Z"
+}

@@ -1,0 +1,48 @@
+{
+  "app_id": "1306587209206412",
+  "package_name": "com.watchtower.warlordsatthegate",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Warlords at the Gate: Tower Defense",
+  "rating_average": 5,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1222355564304498",
+      "score": 5,
+      "review_title": "Unplayable( at the moment)",
+      "review_description": "I bought the game after playing the recent beta, the game was fun and very enjoyable again that's why I bought it, but now it doesn't work, hopefully developer sees this and can help rectify the situation if any other beta testers had the same issue. \n\nThank you Devs for your response on the matter , hopefully we can fix this , the game is really fun",
+      "date": 1789610989,
+      "review_helpful_count": 0,
+      "author_display_name": "GoblinKing37",
+      "author_alias": "GoblinKing37",
+      "developer_response": {
+        "body": "Thanks for reaching out! Please make sure you completely uninstall the previous beta/alpha version from your device before installing the full production version, as residual files can sometimes prevent the game from launching properly.\n\nTo help us resolve this for you as quickly as possible, could you share a bit more detail on what specifically happens when it fails (e.g., does it crash at launch, freeze on a black screen, or give a specific error)? None of our other beta testers have reported this issue yet, so any extra details would be super helpful in getting this fixed for you ASAP!\n\nTo verify the fix works, try launching the game after a clean install—it should load straight to the main menu without hanging.",
+        "date": 1789604630
+      }
+    },
+    {
+      "id": "1584367580137320",
+      "score": 5,
+      "review_title": "Simple but Engaging",
+      "review_description": "I've been playing this game since the alpha test.\nA tower defense game in the form of a table board in MR or VR mode. It features an intuitive interface that allows you to learn easily without detailed explanations. If you go through stage by stage, time just flies by.",
+      "date": 1789529692,
+      "review_helpful_count": 1,
+      "author_display_name": "Carpedian",
+      "author_alias": "Carpedian",
+      "developer_response": {
+        "body": "Thank you so much for the amazing support since alpha! It means the world to hear that the MR/VR tabletop layout and intuitive design kept you hooked stage after stage. Feedback like yours makes the whole build process worthwhile—stay tuned for more content coming down the line!",
+        "date": 1789604675
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-10-30T10:47:33Z"
+}
