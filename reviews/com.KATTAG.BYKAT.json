@@ -1,0 +1,42 @@
+{
+  "app_id": "1052426471297020",
+  "package_name": "com.KATTAG.BYKAT",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Kat Tag",
+  "rating_average": 5,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1100928443111865",
+      "score": 5,
+      "review_title": "Tuff game",
+      "review_description": "Yo gng get this game its tuff just trust",
+      "date": 1781491714,
+      "review_helpful_count": 5,
+      "author_display_name": "ChromeVr13",
+      "author_alias": "ChromeVr13",
+      "developer_response": null
+    },
+    {
+      "id": "1139755602558576",
+      "score": 5,
+      "review_title": "Game is broken",
+      "review_description": "It’s a fun game but I can’t join any lobby or buy any cosmetics I keep spawning at tutorial every time i join the game",
+      "date": 1781640153,
+      "review_helpful_count": 1,
+      "author_display_name": "FaZeELLIOTJR",
+      "author_alias": "FaZeELLIOTJR",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-10-31T10:15:46Z"
+}
