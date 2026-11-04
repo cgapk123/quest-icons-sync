@@ -1,0 +1,56 @@
+{
+  "app_id": "2604498203338165",
+  "package_name": "com.propandaplays.untamedhorizons",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Untamed Horizons: Where The Monsters Are",
+  "rating_average": 4.25,
+  "rating_count": 4,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1492081313979308",
+      "score": 5,
+      "review_title": "Gaining Ground",
+      "review_description": "I played in the alpha and at first was turned away by the graphics. But graphics for not make a game they sell it and this is free and fun worth the time you put in. I encourage anyone to Build thr strongest pvp team you can and topple me out of leaderboard. Make sure you understand fusion before doing so if not sure join discord and ask people are friendly and happy to help. Hope you have fun playing this game i am addicted to it now.",
+      "date": 1793258925,
+      "review_helpful_count": 1,
+      "author_display_name": "Spidergod076",
+      "author_alias": "Spidergod076",
+      "developer_response": null
+    },
+    {
+      "id": "1393301533863936",
+      "score": 2,
+      "review_title": "So much potential, too many bugs",
+      "review_description": "I would love to love this game, but in its current state, it shouldn't be out. Need to complete a dungeon to continue, but every time i try theres a game breaking bug that means i can no longer touch anything, trapping me in the dungeon unless i restart the game, and then you have to restart the dungeon, which is a pointless loop. Its when a bell monster spawns in a fight with another monster, that seems to break it. I'll check back again soon to see if it has been fixed so i can play.",
+      "date": 1792879289,
+      "review_helpful_count": 1,
+      "author_display_name": "Zeffieria",
+      "author_alias": "Zeffieria",
+      "developer_response": {
+        "body": "first of all thank you SO much for trying out my game, i really appreciate it! i will try to fix the bug of your game getting stuck, i apologize.\n\ni had a bug recently that i found that had the player stuck in the air after combat and they couldnt use their menu since they were not on the ground and were stuck in an endless loop, was that your bug? because it sounds like your bug was something else, having to do with the bell monster and another monster spawning together, ill definitely look into it and thank you so much for the feedback!! just trying to find the exact bug but your information is very useful already!\n\n*updated* i have since tried to squash those server related bugs and it SHOULD work now, if you want to, id very much appreciate it if you tried again, but i understand how frustrating game breaking bugs like this can be and understand if you do not want to try again. however, i hope the bug has since been fixed!! if not ill keep working hard on fixing them. thank you again!",
+        "date": 1792891485
+      }
+    },
+    {
+      "id": "1435408688468997",
+      "score": 5,
+      "review_title": "Awesome",
+      "review_description": "Looking to be its own version of Pokémon / monster hunters in a way. Cool potential.",
+      "date": 1789928461,
+      "review_helpful_count": 2,
+      "author_display_name": "NathanMDRN",
+      "author_alias": "NathanMDRN",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-11-04T12:13:12Z"
+}
