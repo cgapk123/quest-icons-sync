@@ -1,0 +1,42 @@
+{
+  "app_id": "1331042230095373",
+  "package_name": "com.Forest.TaggersV3",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Forest Taggers V3",
+  "rating_average": 5,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1293858137153111",
+      "score": 5,
+      "review_title": "Hey it’s faint",
+      "review_description": "Hello",
+      "date": 1791857207,
+      "review_helpful_count": 2,
+      "author_display_name": "unknown329",
+      "author_alias": "unknown329",
+      "developer_response": null
+    },
+    {
+      "id": "1425502516387107",
+      "score": 5,
+      "review_title": "Cool",
+      "review_description": "Nice",
+      "date": 1791516874,
+      "review_helpful_count": 2,
+      "author_display_name": "frinixxz",
+      "author_alias": "frinixxz",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-11-05T12:04:06Z"
+}
