@@ -1,0 +1,53 @@
+{
+  "app_id": "1301286683067668",
+  "package_name": "com.com.gubbatag",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Gubba Tag",
+  "rating_average": 4.2,
+  "rating_count": 5,
+  "review_count": 3,
+  "reviews": [
+    {
+      "id": "1066021343087182",
+      "score": 5,
+      "review_title": "yes",
+      "review_description": "tuff game",
+      "date": 1790428585,
+      "review_helpful_count": 4,
+      "author_display_name": "deadliest",
+      "author_alias": "deadliest",
+      "developer_response": null
+    },
+    {
+      "id": "1336371779560485",
+      "score": 5,
+      "review_title": "Yes",
+      "review_description": "No",
+      "date": 1790370427,
+      "review_helpful_count": 2,
+      "author_display_name": "1upkiwi",
+      "author_alias": "1upkiwi",
+      "developer_response": null
+    },
+    {
+      "id": "1382471131608566",
+      "score": 5,
+      "review_title": "chicken",
+      "review_description": "nugget",
+      "date": 1790455910,
+      "review_helpful_count": 1,
+      "author_display_name": "Braxtongtgt",
+      "author_alias": "Braxtongtgt",
+      "developer_response": null
+    }
+  ],
+  "total": 3,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-11-05T12:25:06Z"
+}
