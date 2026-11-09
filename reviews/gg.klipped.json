@@ -1,0 +1,64 @@
+{
+  "app_id": "1316693544859517",
+  "package_name": "gg.klipped",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Klipped",
+  "rating_average": 4.5,
+  "rating_count": 8,
+  "review_count": 4,
+  "reviews": [
+    {
+      "id": "1106203502191595",
+      "score": 5,
+      "review_title": "Awesome app",
+      "review_description": "Super helpful",
+      "date": 1793997416,
+      "review_helpful_count": 12,
+      "author_display_name": "itscntrl",
+      "author_alias": "itscntrl",
+      "developer_response": null
+    },
+    {
+      "id": "1115955061342557",
+      "score": 5,
+      "review_title": "хороший",
+      "review_description": "Очень хорошее и полезное приложение можно например сохранить ролик и показать его друзьям.",
+      "date": 1794000034,
+      "review_helpful_count": 2,
+      "author_display_name": "SNOK_VR",
+      "author_alias": "SNOK_VR",
+      "developer_response": null
+    },
+    {
+      "id": "1415503754985913",
+      "score": 5,
+      "review_title": "Klipped",
+      "review_description": "This is so usefull love this app",
+      "date": 1793995973,
+      "review_helpful_count": 4,
+      "author_display_name": "occr39",
+      "author_alias": "occr39",
+      "developer_response": null
+    },
+    {
+      "id": "1166105509695711",
+      "score": 1,
+      "review_title": "Terrible",
+      "review_description": "Hate cntrl",
+      "date": 1793996338,
+      "review_helpful_count": 2,
+      "author_display_name": "stg.slasher.oscar",
+      "author_alias": "stg.slasher.oscar",
+      "developer_response": null
+    }
+  ],
+  "total": 4,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-11-09T12:39:07Z"
+}
