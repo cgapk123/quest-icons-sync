@@ -1,0 +1,45 @@
+{
+  "app_id": "1756156152250183",
+  "package_name": "com.NeonGames.NormalTag",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Normal Tag",
+  "rating_average": 4.3333333333333,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1115451011435768",
+      "score": 5,
+      "review_title": "It’s pirate update and I I’m a developer",
+      "review_description": "This will be fixed",
+      "date": 1790218833,
+      "review_helpful_count": 6,
+      "author_display_name": "ItzEmpty",
+      "author_alias": "ItzEmpty",
+      "developer_response": null
+    },
+    {
+      "id": "1293014383903500",
+      "score": 3,
+      "review_title": "Wont let me in",
+      "review_description": "Prob has alot of potential",
+      "date": 1790179765,
+      "review_helpful_count": 2,
+      "author_display_name": "AlfredDeliaaVR",
+      "author_alias": "AlfredDeliaaVR",
+      "developer_response": {
+        "body": "Yes im sorry it has been crashing this will be fixed soon!",
+        "date": 1790218729
+      }
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-11-12T12:26:09Z"
+}

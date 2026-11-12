@@ -1,0 +1,42 @@
+{
+  "app_id": "1237394086132273",
+  "package_name": "com.QtuiLLC.shen",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Shenanigan's Horror",
+  "rating_average": 1,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1441813869009290",
+      "score": 1,
+      "review_title": "B",
+      "review_description": "H",
+      "date": 1793399924,
+      "review_helpful_count": 0,
+      "author_display_name": "BraeJr2",
+      "author_alias": "BraeJr2",
+      "developer_response": null
+    },
+    {
+      "id": "1427807117079528",
+      "score": 1,
+      "review_title": "Horrorfying",
+      "review_description": "So spooky",
+      "date": 1794016312,
+      "review_helpful_count": 0,
+      "author_display_name": "Monke9433",
+      "author_alias": "Monke9433",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-11-12T12:27:48Z"
+}
