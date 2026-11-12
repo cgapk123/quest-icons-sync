@@ -1,0 +1,42 @@
+{
+  "app_id": "2646830762095036",
+  "package_name": "com.oculus.explore",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Feed",
+  "rating_average": 3.518115942029,
+  "rating_count": 552,
+  "review_count": 552,
+  "reviews": [
+    {
+      "id": "201470945738831",
+      "score": 5,
+      "review_title": "10/10 very useful",
+      "review_description": "I replaced it with quest pi launcher because of how useless it is! Thanks Meta for making my modding experience better accidentally.",
+      "date": 1669781467,
+      "review_helpful_count": 5,
+      "author_display_name": "nullpro",
+      "author_alias": "nullpro",
+      "developer_response": null
+    },
+    {
+      "id": "825461058061835",
+      "score": 5,
+      "review_title": "Hmm, oculus explore",
+      "review_description": "Gotta love internal apps!",
+      "date": 1621116618,
+      "review_helpful_count": 277,
+      "author_display_name": "AnnoyingRainsGames",
+      "author_alias": "AnnoyingRainsGames",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-11-12T12:47:21Z"
+}

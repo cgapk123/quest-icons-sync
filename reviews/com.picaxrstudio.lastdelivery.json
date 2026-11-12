@@ -1,0 +1,34 @@
+{
+  "app_id": "1323307377535239",
+  "package_name": "com.picaxrstudio.lastdelivery",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Last Delivery",
+  "rating_average": 3,
+  "rating_count": 2,
+  "review_count": 1,
+  "reviews": [
+    {
+      "id": "3222817137908542",
+      "score": 1,
+      "review_title": "wow, this is bad",
+      "review_description": "10 min playthrough. For some reason, you can grab air in your cabin and climb up to the ceiling. For some reason, you die in a minute when you go outside (yeah, it's cold, but is the protagonist pre-frozen and naked?). For some reason, you don't suffer any damage when you fall from the 3rd-ish floor. For some reason, you're expected to read walls of weirdly positioned dialogue text. For some reason, your car is almost deadly silent when it moves, and feels like a paper tank (e.g., it rolls over very easily). For some reason, you steer with one hand and manipulate a humongous acceleration lever with the other, which is hilarious. For some reason, there is no sense of acceleration or deceleration whatsoever in this paper tank. For some reason, interaction with buttons consists of waving your hand wildly over them, you can't \"poke\" them, as your hand can't make that gesture. For some reason, you can't stop the annoying AI voice from reading a notification, even if you close the menu section. Omg, and pixelated text at a POI from a distance that is unreadable until you're very close! Why pixelate it? Why even bother to show it?! Overall, this game fails to implement basic interactions at the very starting location, yet for some reason bothers to present new locations. Also, it shoves Russia down your throat with its КОЛБАСА (sausages) and СОУС (sauce). It feels like a game made by someone who hasn't played a single VR game in the last 10 years. If opening a door, touching a button, or driving 10 meters feels bad, nobody is going to stick around to see what's next.",
+      "date": 1793690110,
+      "review_helpful_count": 1,
+      "author_display_name": "klyok",
+      "author_alias": "klyok",
+      "developer_response": {
+        "body": "Thank you for taking the time to write such a detailed review! I’m sorry that the game left you with such a negative impression. I’m developing Last Delivery on my own, and I understand that some parts of the game still need improvement.\n\nI’d like to address some of your points.\n\nBeing able to grab the air inside the cabin is indeed a bug, and I’ll definitely work on fixing it.\n\nAs for the cold, the game takes place in Siberia, where staying outside without warm clothing is dangerous. However, you can buy a warm jacket in the game, which allows you to stay outside much longer.\n\nThe lack of fall damage is an intentional design choice. I wanted to avoid unnecessary deaths and having players repeat the same actions.\n\nThe long dialogues are completely optional. They don’t affect your progress and are simply there for players who want to learn more about the characters and the world.\n\nThe car is electric, which is why it’s relatively quiet. The risk of rolling over on uneven roads was intended to encourage players to slow down and drive carefully. That said, I agree that the vehicle physics could be improved.\n\nUsing a lever to control the car’s speed was also a deliberate choice. I wanted players to physically interact with the vehicle instead of simply pressing a button on the controller. However, I understand that this approach may not appeal to everyone.\n\nI’d also like to better understand your point about acceleration and braking. Do you mean that the car doesn’t respond quickly enough, or that you don’t feel a sense of movement while driving?\n\nThe buttons are currently activated by touching them with your hand. I understand that this might not feel intuitive or comfortable, so I’ll think about ways to improve the interaction.\n\nVoice notifications can’t currently be interrupted because some of them contain important information needed to progress through the game. However, I understand that this can be frustrating, and I’ll consider improving this system.\n\nRegarding text readability, standalone VR headsets have certain performance limitations. Still, I’ll take another look at whether the text can be made easier to read from a distance.\n\nAnd finally, I’m not trying to push Russia on anyone. The game takes place in Siberia, so I included just a few Russian words to help create the atmosphere and make the setting feel more authentic. It’s purely an artistic choice.\n\nThank you again for your feedback! I understand that some of my design choices may feel unusual, and some mechanics genuinely need improvement. Detailed reviews like yours help me understand what I should focus on in future updates.\n\nI hope future updates will give you a better impression of the game!",
+        "date": 1793992220
+      }
+    }
+  ],
+  "total": 1,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-11-12T12:48:50Z"
+}
