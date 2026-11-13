@@ -1,0 +1,42 @@
+{
+  "app_id": "1296815280190119",
+  "package_name": "com.ProjectDreamV4",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Project Dream V4",
+  "rating_average": 3,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1353770197827386",
+      "score": 1,
+      "review_title": "I hate this",
+      "review_description": "Terrible",
+      "date": 1792242323,
+      "review_helpful_count": 1,
+      "author_display_name": "PhantomNomadXHERO",
+      "author_alias": "PhantomNomadXHERO",
+      "developer_response": null
+    },
+    {
+      "id": "1393723450490673",
+      "score": 5,
+      "review_title": "Cool",
+      "review_description": "R",
+      "date": 1792015899,
+      "review_helpful_count": 0,
+      "author_display_name": "Frosty.embed",
+      "author_alias": "Frosty.embed",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-11-13T12:01:19Z"
+}

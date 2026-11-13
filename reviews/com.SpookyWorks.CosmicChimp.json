@@ -1,0 +1,42 @@
+{
+  "app_id": "2156534191967487",
+  "package_name": "com.SpookyWorks.CosmicChimp",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Cosmic Chimp!",
+  "rating_average": 3,
+  "rating_count": 2,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1438889965971901",
+      "score": 1,
+      "review_title": "L",
+      "review_description": "Owner sucks",
+      "date": 1793205447,
+      "review_helpful_count": 0,
+      "author_display_name": "tryme412",
+      "author_alias": "tryme412",
+      "developer_response": null
+    },
+    {
+      "id": "1102540146031632",
+      "score": 5,
+      "review_title": "Fun",
+      "review_description": "It makes me feel og in this game.",
+      "date": 1792360313,
+      "review_helpful_count": 0,
+      "author_display_name": "loak.ebumz",
+      "author_alias": "loak.ebumz",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-11-13T12:02:50Z"
+}
