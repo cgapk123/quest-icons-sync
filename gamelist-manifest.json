@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-13T14:17:55.719332+00:00",
+  "updated_at_utc": "2026-11-14T13:14:36.942779+00:00",
   "source": "vrsrc.fyi",
   "api_url": "https://vrsrc.fyi/api/games",
   "output_file": "VRP-GameList.txt",
-  "game_count": 2774,
-  "api_total_count": 37045,
+  "game_count": 2773,
+  "api_total_count": 37069,
   "adult_filtered_count": 7,
   "skipped_package_count": 16,
-  "content_sha256": "741c1ed88481b951906ee69d2aa1b7bfe31736b9294698db3049de7986ad9599",
-  "file_size_bytes": 322754,
+  "content_sha256": "a6c47edfd42d909464e85ce4b2a061fa8b637d5bb9f457d860886ffbc5d4bedc",
+  "file_size_bytes": 322657,
   "format": {
     "delimiter": ";",
     "columns": [
