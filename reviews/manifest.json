@@ -916,7 +916,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-11-13T12:10:02Z"
+    "updated_at": "2026-11-14T11:16:11Z"
   },
   ".com.WheyWorldStudios.ShootDash": {
     "app_id": "34246",
@@ -926,7 +926,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-11-13T12:10:05Z"
+    "updated_at": "2026-11-14T11:16:14Z"
   },
   ".com.biswagames.rf": {
     "app_id": "45592",
@@ -936,7 +936,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-11-13T12:10:09Z"
+    "updated_at": "2026-11-14T11:16:18Z"
   },
   ".comSkyDronesTeam.SkyDronesVR": {
     "app_id": "44734",
@@ -946,7 +946,7 @@
     "rating_average": null,
     "sort": "helpful",
     "pages_fetched": 0,
-    "updated_at": "2026-11-13T12:10:13Z"
+    "updated_at": "2026-11-14T11:16:22Z"
   },
   "0.0.952": {
     "app_id": "14144",
@@ -231117,5 +231117,55 @@
     "sort": "helpful",
     "pages_fetched": 2,
     "updated_at": "2026-11-13T12:12:00Z"
+  },
+  "com.FlutterVRDesign.TheDreamLodge": {
+    "app_id": "63414",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-11-14T11:16:26Z"
+  },
+  "com.academusdigital.casadelarbol": {
+    "app_id": "1432166586656852",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-11-14T11:16:30Z"
+  },
+  "com.bonkogames.shallows": {
+    "app_id": "1343442268863054",
+    "status": "ok",
+    "review_count": 80,
+    "store_review_count": 673,
+    "rating_average": 4.7764606265876,
+    "sort": "helpful",
+    "pages_fetched": 4,
+    "updated_at": "2026-11-14T11:16:50Z"
+  },
+  "com.xrt.widgets": {
+    "app_id": "1465206356667748",
+    "status": "no_reviews",
+    "review_count": 0,
+    "store_review_count": 0,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-11-14T11:16:53Z"
+  },
+  "dev.arthursmith.cargovroom.prototype": {
+    "app_id": "64168",
+    "status": "unavailable",
+    "review_count": 0,
+    "store_review_count": null,
+    "rating_average": null,
+    "sort": "helpful",
+    "pages_fetched": 0,
+    "updated_at": "2026-11-14T11:16:57Z"
   }
 }
