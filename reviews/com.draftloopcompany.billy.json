@@ -1,0 +1,42 @@
+{
+  "app_id": "1763395604657940",
+  "package_name": "com.draftloopcompany.billy",
+  "id_source": "known",
+  "status": "ok",
+  "status_message": null,
+  "name": "Payback Billy",
+  "rating_average": 5,
+  "rating_count": 3,
+  "review_count": 2,
+  "reviews": [
+    {
+      "id": "1277794782085034",
+      "score": 5,
+      "review_title": "Love it!",
+      "review_description": "Simple, yet challenging and as others have said, a bit of a workout.  It’s a great game.",
+      "date": 1790698582,
+      "review_helpful_count": 0,
+      "author_display_name": "Lisafgee",
+      "author_alias": "Lisafgee",
+      "developer_response": null
+    },
+    {
+      "id": "1608241397319579",
+      "score": 5,
+      "review_title": "Solid game, easy to grasp",
+      "review_description": "Pretty easy to figure out point and shoot or point down to reload the crossbows has some retro graphics mixed with a 3-D visuals and ended up being more of a workout than I expected, dodging oncoming rocks, etc.",
+      "date": 1787946443,
+      "review_helpful_count": 0,
+      "author_display_name": "eagleloc",
+      "author_alias": "eagleloc",
+      "developer_response": null
+    }
+  ],
+  "total": 2,
+  "sort": "helpful",
+  "ordering": [
+    "TOP"
+  ],
+  "pages_fetched": 1,
+  "fetched_at": "2026-11-25T14:10:22Z"
+}
